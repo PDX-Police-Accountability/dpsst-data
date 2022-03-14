@@ -28,6 +28,13 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 2/25/2022
+  :certificate: Police Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 2/25/2022
+  :expiration_date: ''
+  :probation_date: ''
 - :status_date: 7/22/2020
   :certificate: Corrections Officer
   :level: Basic
@@ -35,13 +42,6 @@
   :certificate_date: 10/25/2019
   :expiration_date: 4/22/2025
   :probation_date: ''
-- :status_date: 4/23/2020
-  :certificate: Police Officer
-  :level: Basic
-  :status: Required
-  :certificate_date: ''
-  :expiration_date: ''
-  :probation_date: 10/23/2021
 :training_records:
 - :date: 1/15/2022
   :course: PDP14510
@@ -115,12 +115,6 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
-- :date: 10/23/2021
-  :course: M11-19A
-  :title: DPSST Police Officer Field Training Manual
-  :status: Required
-  :score: '0.0'
-  :hours: '50.00'
 - :date: 10/14/2021
   :course: PDP11856
   :title: 2021-3 Range Qualification Primary Firearm
@@ -187,6 +181,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.83'
+- :date: 9/2/2021
+  :course: E11PDP19
+  :title: FTM Equivalency Review (Portland Police Bureau)
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
 - :date: 8/4/2021
   :course: PDP22491
   :title: 2021-8 Tips  Tech Ballot Measure 110 - Update
