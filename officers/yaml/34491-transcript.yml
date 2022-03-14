@@ -4,11 +4,17 @@
   :dpsst_identifier: '34491'
   :agency: Portland Police Bureau
   :employment_status: Active
-  :rank: Sergeant
+  :rank: Lieutenant
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 2/3/2022
+  :agency: Portland Police Bureau
+  :action: Promotion
+  :rank: Lieutenant
+  :classification: ''
+  :assignment: ''
 - :date: 11/16/2005
   :agency: Portland Police Bureau
   :action: Promotion
@@ -63,6 +69,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/3/2023
+  :course: REQMGMT
+  :title: 'REQUIRED TRAINING:  Management'
+  :status: Required
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

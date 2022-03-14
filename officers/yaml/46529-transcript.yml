@@ -62,6 +62,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/24/2022
+  :course: PDP13603
+  :title: 2022 Advanced Shotgun Operator Course Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '18.00'
 - :date: 1/17/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

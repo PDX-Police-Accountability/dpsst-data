@@ -74,6 +74,48 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/4/2022
+  :course: PDS02729
+  :title: Patrol Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/3/2022
+  :course: PDS30634
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/2/2022
+  :course: PDS19789
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/1/2022
+  :course: PDS18947
+  :title: Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/1/2022
+  :course: PDS44212
+  :title: Ethics  IAU
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/1/2022
+  :course: PDS39509
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/1/2022
+  :course: PDS41036
+  :title: PREA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
@@ -164,6 +206,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/28/2021
+  :course: F6R30143
+  :title: WATAI 2021 Spring Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 10/4/2021
   :course: PDP04708
   :title: 2021 External Training ABLE Training Ethics

@@ -36,6 +36,12 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 2/10/2022
+  :course: PDP14970
+  :title: 2022 SERT Training - Classroom
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 2/3/2022
   :course: PDP20181
   :title: SERT Training - Scenario

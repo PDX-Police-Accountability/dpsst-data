@@ -4,11 +4,17 @@
   :dpsst_identifier: '41782'
   :agency: Portland Police Bureau
   :employment_status: Active
-  :rank: Sergeant
+  :rank: Lieutenant
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 2/3/2022
+  :agency: Portland Police Bureau
+  :action: Promotion
+  :rank: Lieutenant
+  :classification: ''
+  :assignment: ''
 - :date: 10/26/2020
   :agency: Portland Police Bureau
   :action: Retrn MLOA
@@ -75,6 +81,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/3/2023
+  :course: REQMGMT
+  :title: 'REQUIRED TRAINING:  Management'
+  :status: Required
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 1/10/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

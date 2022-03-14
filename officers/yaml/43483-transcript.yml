@@ -4,11 +4,17 @@
   :dpsst_identifier: '43483'
   :agency: Portland Police Bureau
   :employment_status: Active
-  :rank: Sergeant
+  :rank: Lieutenant
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 2/3/2022
+  :agency: Portland Police Bureau
+  :action: Promotion
+  :rank: Lieutenant
+  :classification: ''
+  :assignment: ''
 - :date: 5/4/2017
   :agency: Portland Police Bureau
   :action: Promotion
@@ -51,6 +57,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/3/2023
+  :course: REQMGMT
+  :title: 'REQUIRED TRAINING:  Management'
+  :status: Required
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 3/3/2022
   :course: MISCMAIN
   :title: 2022 LE Leadership 3 Year Maintenance
