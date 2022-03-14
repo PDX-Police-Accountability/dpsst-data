@@ -1310,6 +1310,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/22/2018
+  :course: BPT24499
+  :title: Basic Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
 - :date: 3/13/2018
   :course: PDP11353
   :title: 2017-3 Legal Updates for Q3

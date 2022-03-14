@@ -3,12 +3,18 @@
   :name: Dormady, Ross H.
   :dpsst_identifier: '45813'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Detective
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 1/28/2022
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Detective
+  :classification: ''
+  :assignment: ''
 - :date: 2/8/2018
   :agency: Portland Police Bureau
   :action: Promotion
@@ -27,21 +33,21 @@
   :level: Advanced
   :status: Granted
   :certificate_date: 10/2/2020
-  :expiration_date: ''
+  :expiration_date: 4/28/2022
   :probation_date: ''
 - :status_date: 10/18/2010
   :certificate: Police Officer
   :level: Intermediate
   :status: Granted
   :certificate_date: 10/18/2010
-  :expiration_date: ''
+  :expiration_date: 4/28/2022
   :probation_date: ''
 - :status_date: 9/12/2006
   :certificate: Police Officer
   :level: Basic
   :status: Granted
   :certificate_date: 9/12/2006
-  :expiration_date: ''
+  :expiration_date: 4/28/2022
   :probation_date: ''
 :training_records:
 - :date: 1/16/2022

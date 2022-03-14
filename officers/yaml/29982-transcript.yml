@@ -63,6 +63,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/23/2022
+  :course: SVP16496
+  :title: Ofc. Involved Shooting Protocols/MCDA Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/23/2022
+  :course: SVP09269
+  :title: Domestic Violence/Search  Seizure/Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
 - :date: 2/11/2022
   :course: 22-0029
   :title: DPSST Supervision
