@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 12/31/2021
+  :course: 21-CVDL1
+  :title: 2021 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 9/26/2021
   :course: PDP12662
   :title: 2021-9 Tips  Tech Dangers of High/Extreme Heat
@@ -715,6 +721,10 @@
   :score: '0.0'
   :hours: '6.00'
 :attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 5/26/2021
@@ -724,17 +734,9 @@
   :effective_date: 1/17/2021
   :expiration_date: ''
 - :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 12/31/2021
-- :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2021
   :expiration_date: 12/31/2023
-- :topic: Certification Cards
-  :value: First Aid and CPR
-  :effective_date: 2/27/2020
-  :expiration_date: 2/27/2022
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 10/7/2019

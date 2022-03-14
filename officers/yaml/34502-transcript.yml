@@ -4,7 +4,7 @@
   :dpsst_identifier: '34502'
   :agency: Portland Police Bureau
   :employment_status: Active
-  :rank: Police Officer
+  :rank: Detective
   :level: ''
   :classification: ''
   :assignment: ''
@@ -12,13 +12,13 @@
 - :date: 11/17/2020
   :agency: Portland Police Bureau
   :action: Return LOA
-  :rank: Police Off
+  :rank: Detective
   :classification: ''
   :assignment: ''
 - :date: 9/27/2019
   :agency: Portland Police Bureau
   :action: LOA
-  :rank: Police Off
+  :rank: Detective
   :classification: ''
   :assignment: ''
 - :date: 3/5/2009
@@ -68,6 +68,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/3/2022
+  :course: MISCMAIN
+  :title: 2022 LE Basic 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
@@ -2842,6 +2848,10 @@
   :hours: '2.00'
 :attribute_records:
 - :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2023
+  :expiration_date: 12/31/2025
+- :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
@@ -2849,10 +2859,6 @@
   :value: First Aid and CPR
   :effective_date: 6/1/2021
   :expiration_date: 6/1/2023
-- :topic: Maintenance Requirements
-  :value: LE Basic 3 Year
-  :effective_date: 1/1/2019
-  :expiration_date: 12/31/2022
 - :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2019

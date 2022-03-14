@@ -42,6 +42,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 12/31/2021
+  :course: 21-CVDL1
+  :title: 2021 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 12/26/2021
   :course: PDP10243
   :title: 2021 Online Crowd Control - CAO Part 2
@@ -1539,8 +1545,8 @@
 :attribute_records:
 - :topic: Maintenance Requirements
   :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 12/31/2021
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2020

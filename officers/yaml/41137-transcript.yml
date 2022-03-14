@@ -38,6 +38,30 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/25/2022
+  :course: SAG23741
+  :title: 2022 Protecting Lives Saving Futures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.25'
+- :date: 2/24/2022
+  :course: SAG23741
+  :title: 2022 Protecting Lives Saving Futures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.25'
+- :date: 2/23/2022
+  :course: SAG23741
+  :title: 2022 Protecting Lives Saving Futures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '7.25'
+- :date: 2/22/2022
+  :course: SAG23741
+  :title: 2022 Protecting Lives Saving Futures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.25'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

@@ -75,6 +75,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 12/31/2021
+  :course: 21-CVDLD
+  :title: 2021 LE Leadership 3 Year Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 12/20/2021
   :course: PDP44453
   :title: 2021-4 City Attorney's Legal Updates for 4/2021
@@ -3356,14 +3362,14 @@
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
+- :topic: Maintenance Requirements
+  :value: LE Leadership 3 Year
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2024
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 6/28/2021
   :expiration_date: 6/28/2023
-- :topic: Maintenance Requirements
-  :value: LE Leadership 3 Year
-  :effective_date: 1/1/2019
-  :expiration_date: 12/31/2021
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 8/3/2004

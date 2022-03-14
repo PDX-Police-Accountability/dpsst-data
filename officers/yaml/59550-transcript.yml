@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 12/31/2021
+  :course: 21-CVDL1
+  :title: 2021 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 11/5/2021
   :course: RMP01569
   :title: Use of Force - Firearms Low Light
@@ -1021,14 +1027,14 @@
   :score: '0.0'
   :hours: '2.00'
 :attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 6/5/2021
   :expiration_date: 6/5/2023
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 12/31/2021
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 1/27/2020

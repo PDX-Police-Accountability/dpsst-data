@@ -62,6 +62,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '6.00'
+- :date: 1/19/2022
+  :course: SDP09464
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 1/19/2022
+  :course: SDP40328
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 12/8/2021
   :course: SDP03367
   :title: Legal Updates- Domestic Violence Training

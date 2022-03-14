@@ -48,6 +48,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 12/31/2021
+  :course: 21-CVDL1
+  :title: 2021 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 5/26/2021
   :course: PDP17789
   :title: CPR/First Aid
@@ -2209,6 +2215,10 @@
   :score: '0.0'
   :hours: '0.00'
 :attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 5/26/2021
@@ -2217,10 +2227,6 @@
   :value: LE Basic 3 Year
   :effective_date: 1/1/2021
   :expiration_date: 12/31/2023
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 12/31/2021
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 5/3/2010

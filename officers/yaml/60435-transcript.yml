@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 12/31/2021
+  :course: 21-CVDL1
+  :title: 2021 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 9/7/2021
   :course: PDP01693
   :title: 2021 Training All Sworn Crowd Control Training CAO
@@ -823,6 +829,10 @@
   :score: '0.0'
   :hours: '3.00'
 :attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 5/28/2021
@@ -831,10 +841,6 @@
   :value: Law Enforcement Signed
   :effective_date: 1/25/2021
   :expiration_date: ''
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 12/31/2021
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2021

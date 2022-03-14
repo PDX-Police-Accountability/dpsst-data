@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/3/2022
+  :course: MISCMAIN
+  :title: 2022 LE Basic 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 2/17/2022
   :course: GSP31094
   :title: U.A.S. Ground School
@@ -2456,6 +2462,10 @@
   :hours: '3.00'
 :attribute_records:
 - :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2023
+  :expiration_date: 12/31/2025
+- :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
@@ -2463,10 +2473,6 @@
   :value: First Aid and CPR
   :effective_date: 6/24/2021
   :expiration_date: 6/24/2023
-- :topic: Maintenance Requirements
-  :value: LE Basic 3 Year
-  :effective_date: 1/1/2020
-  :expiration_date: 12/31/2022
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 7/16/2015

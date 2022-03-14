@@ -46,19 +46,19 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 3/2/2022
+  :certificate: Police Officer
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 10/22/1993
+  :expiration_date: 12/2/2026
+  :probation_date: ''
 - :status_date: 2/15/2020
   :certificate: Corrections Officer
   :level: Basic
   :status: Expired
   :certificate_date: 1/5/1993
   :expiration_date: ''
-  :probation_date: ''
-- :status_date: 10/22/1993
-  :certificate: Police Officer
-  :level: Basic
-  :status: Granted
-  :certificate_date: 10/22/1993
-  :expiration_date: 3/2/2022
   :probation_date: ''
 :training_records:
 - :date: 11/22/2021
@@ -2840,16 +2840,8 @@
   :score: '0.0'
   :hours: '1.00'
 :attribute_records:
-- :topic: Maintenance Requirements
-  :value: LE Basic 3 Year
-  :effective_date: 1/1/2022
-  :expiration_date: 12/31/2024
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 5/18/2021
   :expiration_date: 5/18/2023
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 12/31/2021
 :education_records: []

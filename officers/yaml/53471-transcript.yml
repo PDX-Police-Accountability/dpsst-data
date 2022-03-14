@@ -3,12 +3,18 @@
   :name: Paisley, Brianne N.
   :dpsst_identifier: '53471'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 1/27/2022
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 6/8/2021
   :agency: Portland Police Bureau
   :action: LOA
@@ -33,7 +39,7 @@
   :level: Basic
   :status: Granted
   :certificate_date: 9/29/2015
-  :expiration_date: ''
+  :expiration_date: 4/27/2022
   :probation_date: ''
 :training_records:
 - :date: 6/4/2021

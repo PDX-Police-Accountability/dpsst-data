@@ -74,6 +74,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 12/31/2021
+  :course: 21-CVDL1
+  :title: 2021 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 12/1/2021
   :course: F6F29910
   :title: COH Equity Training - Foundations
@@ -2607,8 +2613,8 @@
   :expiration_date: 12/31/2024
 - :topic: Maintenance Requirements
   :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 12/31/2021
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
 :education_records:
 - :date: 6/10/1994
   :degree: Bachelor Arts

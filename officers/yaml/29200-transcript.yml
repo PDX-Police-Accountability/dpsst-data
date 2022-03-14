@@ -3,12 +3,18 @@
   :name: Preston, Jason M.
   :dpsst_identifier: '29200'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Sergeant
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 2/23/2022
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
 - :date: 10/20/2005
   :agency: Portland Police Bureau
   :action: Promotion
@@ -27,28 +33,28 @@
   :level: Supervisory
   :status: Granted
   :certificate_date: 2/6/2008
-  :expiration_date: ''
+  :expiration_date: 5/23/2022
   :probation_date: ''
 - :status_date: 1/10/2008
   :certificate: Police Officer
   :level: Advanced
   :status: Granted
   :certificate_date: 1/10/2008
-  :expiration_date: ''
+  :expiration_date: 5/23/2022
   :probation_date: ''
 - :status_date: 1/10/2008
   :certificate: Police Officer
   :level: Intermediate
   :status: Granted
   :certificate_date: 1/10/2008
-  :expiration_date: ''
+  :expiration_date: 5/23/2022
   :probation_date: ''
 - :status_date: 12/28/1994
   :certificate: Police Officer
   :level: Basic
   :status: Granted
   :certificate_date: 12/28/1994
-  :expiration_date: ''
+  :expiration_date: 5/23/2022
   :probation_date: ''
 :training_records:
 - :date: 1/9/2022
