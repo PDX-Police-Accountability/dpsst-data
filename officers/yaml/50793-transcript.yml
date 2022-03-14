@@ -43,6 +43,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 1/26/2022
+  :course: BNS22949
+  :title: Police Canine Decoy Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

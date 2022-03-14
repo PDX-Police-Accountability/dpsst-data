@@ -56,6 +56,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/8/2022
+  :course: PPP38283
+  :title: Supervising Patrol Critical Incidents
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
 - :date: 1/12/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

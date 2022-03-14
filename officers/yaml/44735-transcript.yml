@@ -69,6 +69,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/8/2022
+  :course: BPT37211
+  :title: Understanding Addictions  Substance Use Disorders
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 1/13/2022
   :course: PDP33779
   :title: 2022-1 Field Training Officer (FTO) Certification

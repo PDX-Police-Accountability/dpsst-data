@@ -51,6 +51,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/9/2022
+  :course: BPT10897
+  :title: Intoxilyzer 8000 Certification Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
 - :date: 1/20/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

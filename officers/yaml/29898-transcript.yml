@@ -75,6 +75,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/9/2022
+  :course: BPT10897
+  :title: Intoxilyzer 8000 Certification Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
 - :date: 12/20/2021
   :course: PDS11207
   :title: Policy Access
