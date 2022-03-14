@@ -3,12 +3,18 @@
   :name: Dalberg, Jon W.
   :dpsst_identifier: '33528'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 1/27/2022
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 3/14/1997
   :agency: Portland Police Bureau
   :action: Hired
@@ -21,21 +27,21 @@
   :level: Advanced
   :status: Granted
   :certificate_date: 12/7/2011
-  :expiration_date: ''
+  :expiration_date: 4/27/2022
   :probation_date: ''
 - :status_date: 12/7/2011
   :certificate: Police Officer
   :level: Intermediate
   :status: Granted
   :certificate_date: 12/7/2011
-  :expiration_date: ''
+  :expiration_date: 4/27/2022
   :probation_date: ''
 - :status_date: 1/13/1998
   :certificate: Police Officer
   :level: Basic
   :status: Granted
   :certificate_date: 1/13/1998
-  :expiration_date: ''
+  :expiration_date: 4/27/2022
   :probation_date: ''
 :training_records:
 - :date: 9/16/2021

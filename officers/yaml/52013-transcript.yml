@@ -2701,6 +2701,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '384.00'
+- :date: 3/13/2008
+  :course: PDP02114
+  :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/22/2005
+  :course: PDP04581
+  :title: IS-700 National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 11/25/1998
   :course: 98U002
   :title: Approved Out-of-State Training

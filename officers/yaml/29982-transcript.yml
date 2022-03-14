@@ -63,18 +63,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
-- :date: 9/20/2022
-  :course: REQSUPV
-  :title: 'REQUIRED TRAINING:  Supervision'
-  :status: Required
-  :score: '0.0'
-  :hours: '0.00'
-- :date: 1/3/2022
+- :date: 2/11/2022
   :course: 22-0029
   :title: DPSST Supervision
-  :status: Registered
+  :status: Passed
   :score: '0.0'
   :hours: '80.00'
+- :date: 1/26/2022
+  :course: SVP34848
+  :title: Taser Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/25/2022
+  :course: SVP27689
+  :title: Interview and Interrogation Series
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
 - :date: 12/15/2021
   :course: SVP36728
   :title: Handcuffing  Hobble Restraint Trng

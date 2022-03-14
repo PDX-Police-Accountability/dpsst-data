@@ -128,6 +128,18 @@
   :status: Registered
   :score: '0.0'
   :hours: '80.00'
+- :date: 1/29/2022
+  :course: SVP34848
+  :title: Taser Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/25/2022
+  :course: SVP27689
+  :title: Interview and Interrogation Series
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
 - :date: 12/15/2021
   :course: SVP36728
   :title: Handcuffing  Hobble Restraint Trng
