@@ -48,6 +48,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '5.00'
+- :date: 1/26/2022
+  :course: OCS02052
+  :title: Interfering w Police Officer OSSA legal update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
+- :date: 1/20/2022
+  :course: OCS34045
+  :title: Use of Force Decision making/problem solving
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/14/2022
+  :course: OCS15896
+  :title: Taser
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/13/2022
+  :course: OCS29468
+  :title: 2021 OSSA Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 12/30/2021
   :course: XDELETE
   :title: Pending for Deletion Due to Duplicate or Other Rea
@@ -66,6 +90,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.00'
+- :date: 12/17/2021
+  :course: OCS32392
+  :title: Workplace violence prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 10/28/2021
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

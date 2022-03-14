@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/3/2022
+  :course: PDP20181
+  :title: SERT Training - Scenario
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 1/20/2022
   :course: PDP18876
   :title: 2022-2 Field Training Officer (FTO) Certification

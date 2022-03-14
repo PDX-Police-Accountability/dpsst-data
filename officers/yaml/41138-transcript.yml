@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/3/2022
+  :course: PDP20181
+  :title: SERT Training - Scenario
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 1/18/2022
   :course: PDP44224
   :title: 2022 SERT Training - Iteration

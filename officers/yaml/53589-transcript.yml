@@ -54,6 +54,24 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/26/2022
+  :course: OCS02052
+  :title: Interfering w Police Officer OSSA legal update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
+- :date: 1/20/2022
+  :course: OCS34045
+  :title: Use of Force Decision making/problem solving
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/13/2022
+  :course: OCS29468
+  :title: 2021 OSSA Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 12/30/2021
   :course: OCS33256
   :title: Taser 7
@@ -72,6 +90,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.00'
+- :date: 12/17/2021
+  :course: OCS32392
+  :title: Workplace violence prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 11/19/2021
   :course: F6E02641
   :title: New Hire Firearms-Marksmanship, Gun Handling
