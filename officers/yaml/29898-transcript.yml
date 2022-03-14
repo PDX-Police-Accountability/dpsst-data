@@ -159,6 +159,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.50'
+- :date: 12/10/2021
+  :course: PDS43408
+  :title: Uncontrolled Environments
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 12/9/2021
   :course: PDS36059
   :title: ADA Policy

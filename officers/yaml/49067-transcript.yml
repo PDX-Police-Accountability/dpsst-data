@@ -75,12 +75,6 @@
   :score: '0.0'
   :hours: '1.00'
 - :date: 12/30/2021
-  :course: XDELETE
-  :title: Pending for Deletion Due to Duplicate or Other Rea
-  :status: Passed
-  :score: '0.0'
-  :hours: '4.00'
-- :date: 12/30/2021
   :course: OCS20147
   :title: Shoot/No-Shoot scenarios/decision making
   :status: Passed
@@ -93,7 +87,7 @@
   :score: '0.0'
   :hours: '1.00'
 - :date: 12/17/2021
-  :course: OCS32392
+  :course: OCS41758
   :title: Workplace violence prevention
   :status: Passed
   :score: '0.0'
@@ -3267,10 +3261,6 @@
   :value: First Aid and CPR
   :effective_date: 6/2/2021
   :expiration_date: 6/2/2023
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 1/1/1950
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 3/6/2008

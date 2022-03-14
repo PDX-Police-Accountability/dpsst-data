@@ -93,12 +93,6 @@
   :score: '0.0'
   :hours: '1.00'
 - :date: 12/30/2021
-  :course: XDELETE
-  :title: Pending for Deletion Due to Duplicate or Other Rea
-  :status: Passed
-  :score: '0.0'
-  :hours: '4.00'
-- :date: 12/30/2021
   :course: OCS20147
   :title: Shoot/No-Shoot scenarios/decision making
   :status: Passed
@@ -111,7 +105,7 @@
   :score: '0.0'
   :hours: '1.00'
 - :date: 12/17/2021
-  :course: OCS32392
+  :course: OCS41758
   :title: Workplace violence prevention
   :status: Passed
   :score: '0.0'
@@ -2653,10 +2647,6 @@
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 1/1/1950
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2020

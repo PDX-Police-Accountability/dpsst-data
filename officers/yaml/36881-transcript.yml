@@ -69,12 +69,6 @@
   :score: '0.0'
   :hours: '3.00'
 - :date: 12/15/2021
-  :course: XDELETE3
-  :title: Pending for Deletion Due to Duplicate or Other Rea
-  :status: Passed
-  :score: '0.0'
-  :hours: '1.00'
-- :date: 12/15/2021
   :course: SAG39489
   :title: First Ammendment and Privacy
   :status: Passed
@@ -2801,10 +2795,6 @@
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2021
-  :expiration_date: 1/1/1950
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 9/6/2002
