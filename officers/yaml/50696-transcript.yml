@@ -1122,6 +1122,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.00'
+- :date: 4/22/2020
+  :course: PDP35290
+  :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/20/2020
+  :course: PDP42168
+  :title: ICS-100 Intro to the Incident Cmmnd System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 12/31/2019
   :course: MISCMAIN
   :title: 2019 LE Annual Maintenance Met

@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/3/2022
+  :course: OCS42893
+  :title: First Aid/CPR
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
 - :date: 1/29/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
@@ -3285,6 +3291,10 @@
   :score: '0.0'
   :hours: '0.00'
 :attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 2/3/2022
+  :expiration_date: 2/3/2024
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2022
