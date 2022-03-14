@@ -56,6 +56,12 @@
   :expiration_date: 1/21/2026
   :probation_date: ''
 :training_records:
+- :date: 12/22/2021
+  :course: PDS21233
+  :title: OSHA  Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 1/6/2021
   :course: PDP18297
   :title: 2020 City of Portland Bloodborne Pathogens

@@ -50,6 +50,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 1/31/2022
+  :course: OCP30741
+  :title: DUII refresher
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 1/31/2022
+  :course: OCP26831
+  :title: Life Saving Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
 - :date: 12/31/2021
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
@@ -2955,6 +2967,10 @@
   :score: '0.0'
   :hours: '21.00'
 :attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 1/31/2022
+  :expiration_date: 1/31/2024
 - :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022

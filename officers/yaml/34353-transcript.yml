@@ -3,12 +3,18 @@
   :name: Martin, Scott D.
   :dpsst_identifier: '34353'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Sergeant
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 1/28/2022
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
 - :date: 8/10/2006
   :agency: Portland Police Bureau
   :action: Promotion
@@ -27,14 +33,14 @@
   :level: Supervisory
   :status: Granted
   :certificate_date: 10/2/2020
-  :expiration_date: ''
+  :expiration_date: 4/28/2022
   :probation_date: ''
 - :status_date: 6/15/1998
   :certificate: Police Officer
   :level: Basic
   :status: Granted
   :certificate_date: 6/15/1998
-  :expiration_date: ''
+  :expiration_date: 4/28/2022
   :probation_date: ''
 :training_records:
 - :date: 9/6/2021
