@@ -15,7 +15,6 @@
 
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-
 | 3/3/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/28/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 6/8/2018 | Out of State Employment | Resigned | Police Off |  |  |
