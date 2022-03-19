@@ -46,7 +46,6 @@
 | 12/30/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 12/30/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/28/2021 | PDP36885 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
-| 11/15/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 45.00 |
 | 11/15/2021 | PDP39718 | 2021 Enhanced Crisis Intervention Training | Passed | 0.0 | 45.00 |
 | 9/6/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/6/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

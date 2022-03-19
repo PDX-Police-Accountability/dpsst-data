@@ -27,7 +27,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Signed | 9/6/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,7 +37,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | SAG07990 | Firearms Training | Passed | 0.0 | 3.00 |
-| 12/15/2021 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/15/2021 | SAG39489 | First Ammendment and Privacy | Passed | 0.0 | 1.00 |
 | 11/17/2021 | OSH00773 | Interviewing/Detecting Deception | Passed | 0.0 | 16.00 |
 | 10/11/2021 | SAG38166 | Firearms/Use of Force | Passed | 0.0 | 3.50 |

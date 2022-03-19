@@ -43,7 +43,6 @@
 | 11/22/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/22/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/22/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
-| 11/15/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 45.00 |
 | 11/15/2021 | PDP39718 | 2021 Enhanced Crisis Intervention Training | Passed | 0.0 | 45.00 |
 | 9/20/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/20/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |

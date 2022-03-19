@@ -45,7 +45,6 @@
 | 11/18/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/18/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/18/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
-| 11/15/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 45.00 |
 | 11/15/2021 | PDP39718 | 2021 Enhanced Crisis Intervention Training | Passed | 0.0 | 45.00 |
 | 10/18/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/18/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |

@@ -55,6 +55,7 @@
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2021 | PDS25956 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 12/15/2021 | PDS06627 | Fentanyl | Passed | 0.0 | 1.50 |
+| 12/10/2021 | PDS43408 | Uncontrolled Environments | Passed | 0.0 | 8.00 |
 | 12/9/2021 | PDS36059 | ADA Policy | Passed | 0.0 | 1.00 |
 | 12/9/2021 | PDS15207 | Less Lethal | Passed | 0.0 | 2.00 |
 | 12/9/2021 | PDS05689 | Patrol Tactics | Passed | 0.0 | 4.00 |

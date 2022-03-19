@@ -45,7 +45,6 @@
 | 11/28/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/28/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/28/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
-| 11/15/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 45.00 |
 | 11/15/2021 | PDP39718 | 2021 Enhanced Crisis Intervention Training | Passed | 0.0 | 45.00 |
 | 11/14/2021 | PDP27234 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 11/14/2021 | PDP43996 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |

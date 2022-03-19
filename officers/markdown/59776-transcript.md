@@ -42,7 +42,6 @@
 | 11/27/2021 | PDP38317 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 11/27/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
 | 11/21/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
-| 11/15/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 45.00 |
 | 11/15/2021 | PDP39718 | 2021 Enhanced Crisis Intervention Training | Passed | 0.0 | 45.00 |
 | 11/4/2021 | PDP27234 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 11/4/2021 | PDP43996 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |

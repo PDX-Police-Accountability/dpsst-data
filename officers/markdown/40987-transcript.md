@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/17/2022 | GSP31094 | U.A.S. Ground School | Passed | 0.0 | 10.00 |
+| 2/16/2022 | GSP31094 | U.A.S. Ground School | Passed | 0.0 | 10.00 |
+| 2/15/2022 | GSP31094 | U.A.S. Ground School | Passed | 0.0 | 10.00 |
+| 2/14/2022 | GSP31094 | U.A.S. Ground School | Passed | 0.0 | 10.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/5/2022 | PDP01732 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/22/2021 | PDP30215 | EDU Weekly Training | Passed | 0.0 | 10.00 |

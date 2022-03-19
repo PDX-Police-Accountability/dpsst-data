@@ -45,7 +45,6 @@
 | 11/30/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 11/21/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/21/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
-| 11/9/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 9.00 |
 | 11/9/2021 | PDP39718 | 2021 Enhanced Crisis Intervention Training | Passed | 0.0 | 9.00 |
 | 9/25/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 9/14/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |

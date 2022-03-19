@@ -46,7 +46,6 @@
 | 11/26/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/26/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/26/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
-| 11/11/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 9.00 |
 | 11/11/2021 | PDP39718 | 2021 Enhanced Crisis Intervention Training | Passed | 0.0 | 9.00 |
 | 11/2/2021 | PDP27234 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 11/2/2021 | PDP08265 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |

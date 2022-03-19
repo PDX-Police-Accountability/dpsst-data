@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Signed | 3/6/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,10 +39,9 @@
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
 | 12/30/2021 | OCS33256 | Taser 7 | Passed | 0.0 | 1.00 |
-| 12/30/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 12/30/2021 | OCS20147 | Shoot/No-Shoot scenarios/decision making | Passed | 0.0 | 1.00 |
 | 12/21/2021 | OCS25818 | Ethics Training | Passed | 0.0 | 1.00 |
-| 12/17/2021 | OCS32392 | Workplace violence prevention | Passed | 0.0 | 0.50 |
+| 12/17/2021 | OCS41758 | Workplace violence prevention | Passed | 0.0 | 0.50 |
 | 11/19/2021 | F6E02641 | New Hire Firearms-Marksmanship, Gun Handling | Passed | 0.0 | 40.00 |
 | 11/12/2021 | OCS28060 | Recruit Defensive Tactics Course | Passed | 0.0 | 40.00 |
 | 10/15/2021 | OCS36185 | OSHA Protection Wildfire Smoke Training | Passed | 0.0 | 0.15 |

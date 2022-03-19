@@ -85,6 +85,7 @@
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/28/2021 | PDP04602 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
 | 6/18/2021 | PDP11743 | Crisis Hostage Negotiation Level 1 | Passed | 0.0 | 40.00 |
+| 6/18/2021 | F6M28945 | Basic Crisis/Hostage Negotiation Course | Passed | 0.0 | 40.00 |
 | 5/18/2021 | PDP06816 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 5/18/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/18/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/17/2022 | OCP43120 | Leadership and Succession Planning | Passed | 0.0 | 4.50 |
 | 1/31/2022 | OCP30741 | DUII refresher | Instructed | 0.0 | 0.75 |
 | 1/31/2022 | OCP26831 | Life Saving Skills | Passed | 0.0 | 1.50 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
