@@ -38,6 +38,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/9/2022 | BPT10897 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
+| 1/19/2022 | SDP09464 | Firearms Training | Passed | 0.0 | 3.50 |
+| 1/19/2022 | SDP40328 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 12/8/2021 | SDP03367 | Legal Updates- Domestic Violence Training | Passed | 0.0 | 4.00 |
 | 12/8/2021 | F6E01956 | DUII Refresher | Passed | 0.0 | 4.00 |
 | 12/8/2021 | SDP16224 | PREA-Prison Rape Elimination Act Training | Passed | 0.0 | 1.00 |

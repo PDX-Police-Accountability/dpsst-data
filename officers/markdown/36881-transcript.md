@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/28/2022 | 1/1/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 9/6/2002 |  |
@@ -35,7 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2022 | SAG39812 | What Iconic TV Can Teach about Mandatory Reporting | Passed | 0.0 | 1.00 |
+| 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/28/2022 | SAG15853 | CPR, AED and Basic First Aid | Passed | 0.0 | 4.00 |
 | 12/16/2021 | SAG07990 | Firearms Training | Passed | 0.0 | 3.00 |
 | 12/15/2021 | SAG39489 | First Ammendment and Privacy | Passed | 0.0 | 1.00 |
 | 11/17/2021 | OSH00773 | Interviewing/Detecting Deception | Passed | 0.0 | 16.00 |

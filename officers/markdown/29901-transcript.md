@@ -23,8 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2019 | 12/31/2021 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -34,6 +34,7 @@
 | 1/11/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/11/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2021 | 21-CVDLD | 2021 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/8/2021 | PDP27581 | 2021 Sworn Supervisor In-Service Resonable Susp. | Passed | 0.0 | 1.00 |
 | 12/8/2021 | PDP43275 | 2021 Sworn Supervisor In-Service Proceed. Justice | Passed | 0.0 | 1.30 |

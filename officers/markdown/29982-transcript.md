@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/23/2022 | SVP16496 | Ofc. Involved Shooting Protocols/MCDA Updates | Passed | 0.0 | 1.50 |
 | 2/23/2022 | SVP09269 | Domestic Violence/Search  Seizure/Legal Updates | Passed | 0.0 | 2.50 |
+| 2/18/2022 | SVP24341 | Introduction to EVOC | Instructed | 0.0 | 2.00 |
 | 2/11/2022 | 22-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
 | 2/2/2022 | SVP14371 | Hobble Application Refresher | Instructed | 0.0 | 1.25 |
 | 1/26/2022 | SVP34848 | Taser Recertification | Passed | 0.0 | 1.00 |

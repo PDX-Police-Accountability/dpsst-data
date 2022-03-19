@@ -23,8 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 12/31/2021 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2021 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 4/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
+| 12/31/2021 | 21-CVDL3 | 2021 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/31/2019 | PDP08945 | 2019-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 12/31/2019 | PDP16502 | 2019-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

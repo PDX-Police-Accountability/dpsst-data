@@ -33,14 +33,15 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 12/31/2021 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/21/2021 | BPT31437 | Adult Learning Core (Virtual) | Passed | 0.0 | 2.00 |
 | 12/21/2021 | BPT08851 | Skills Coaching Workshop (Virtual) | Passed | 0.0 | 1.00 |
 | 8/11/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |

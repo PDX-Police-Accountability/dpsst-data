@@ -22,8 +22,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 12/31/2021 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 10/29/2017 |  |
 ## Education
@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/13/2022 | PDP33779 | 2022-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
+| 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/30/2021 | PDP44453 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
 | 12/30/2021 | PDP38035 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 12/30/2021 | PDP30674 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |

@@ -29,7 +29,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 12/31/2021 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/1/2021 | F6F29910 | COH Equity Training - Foundations | Passed | 0.0 | 1.00 |
 | 12/1/2021 | HBP44370 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 11/17/2021 | F6E28456 | Tactical De-Escalation | Passed | 0.0 | 3.00 |

@@ -22,8 +22,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 12/31/2021 |
 | Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 11/5/2021 | RMP01569 | Use of Force - Firearms Low Light | Passed | 0.0 | 4.00 |
 | 11/5/2021 | RMP28042 | Response to Resistance  Aggression Use of Force | Passed | 0.0 | 4.00 |
 | 9/28/2021 | E11RMP19 | FTM Equivalency (Redmond Police Department) | Completed | 0.0 | 50.00 |

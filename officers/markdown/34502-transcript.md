@@ -5,15 +5,15 @@
 | dpsst_identifier | 34502 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 11/17/2020 | Portland Police Bureau | Return LOA | Police Off |  |  |
-| 9/27/2019 | Portland Police Bureau | LOA | Police Off |  |  |
+| 11/17/2020 | Portland Police Bureau | Return LOA | Detective |  |  |
+| 9/27/2019 | Portland Police Bureau | LOA | Detective |  |  |
 | 3/5/2009 | Portland Police Bureau | Promotion | Detective |  |  |
 | 7/18/2002 | Portland Police Bureau | Hired | Police Off |  |  |
 | 6/30/2002 | Clackamas County Sheriff's Office | Resigned | Dpty Shrf |  |  |
@@ -27,9 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2019 | 12/31/2020 |
 | Code of Ethics | Signed | 1/13/2006 |  |
 ## Education
@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/16/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |

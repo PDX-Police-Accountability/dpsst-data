@@ -24,9 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/19/2021 | 2/1/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 2/8/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2021 | BVP17940 | Ethics BPD Policy Review | Passed | 0.0 | 0.50 |
 | 12/10/2021 | BVP12957 | Bloodborne Pathogens Exposure Control Plan  21-12 | Passed | 0.0 | 0.50 |
 | 12/3/2021 | BVP43680 | Criminal Code of Ethics | Passed | 0.0 | 0.50 |

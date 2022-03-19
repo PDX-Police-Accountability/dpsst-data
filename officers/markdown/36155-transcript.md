@@ -43,6 +43,7 @@
 | 1/9/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/4/2022 | PDP25828 | Legal Updates and OIS Training | Passed | 0.0 | 2.00 |
 | 1/4/2022 | PDP32654 | SFST Refresher Training | Passed | 0.0 | 2.00 |
+| 12/13/2021 | PDP42866 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/8/2021 | PDP27581 | 2021 Sworn Supervisor In-Service Resonable Susp. | Passed | 0.0 | 1.00 |
 | 12/8/2021 | PDP43275 | 2021 Sworn Supervisor In-Service Proceed. Justice | Passed | 0.0 | 1.30 |

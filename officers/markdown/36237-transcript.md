@@ -25,8 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2019 | 12/31/2021 |
 | Code of Ethics | Signed | 4/12/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2021 | 21-CVDLD | 2021 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/28/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/28/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 12/15/2021 | PDP22486 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |

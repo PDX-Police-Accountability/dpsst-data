@@ -26,9 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2021 | 12/31/2021 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2019 | 12/31/2021 |
 | Code of Ethics | Signed | 5/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
+| 12/31/2021 | 21-CVDLD | 2021 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/8/2021 | HBP13811 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 10/26/2021 | F6E22169 | Firearms Training | Passed | 0.0 | 7.00 |
 | 10/26/2021 | F6E18304 | Tactical De-Escalation | Passed | 0.0 | 3.00 |

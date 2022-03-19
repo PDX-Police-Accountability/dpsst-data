@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2021 | F1507780 | Missing  Exploited Children | Passed | 0.0 | 4.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |

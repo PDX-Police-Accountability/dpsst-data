@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2022 | SAG23741 | 2022 Protecting Lives Saving Futures | Instructed | 0.0 | 3.25 |
+| 2/24/2022 | SAG23741 | 2022 Protecting Lives Saving Futures | Instructed | 0.0 | 6.25 |
+| 2/23/2022 | SAG23741 | 2022 Protecting Lives Saving Futures | Instructed | 0.0 | 7.25 |
+| 2/22/2022 | SAG23741 | 2022 Protecting Lives Saving Futures | Instructed | 0.0 | 5.25 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/16/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
