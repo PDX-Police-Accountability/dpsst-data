@@ -27,7 +27,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2008 | No Degree | Pacific University |  | 52.0 |
+| 1/31/2009 | Bachelor Arts | Pacific University | Sociology | 52.0 |
 | 6/15/2007 | No Degree | All Other Education Institutes |  | 63.0 |
 | 12/15/2004 | No Degree | Oregon State University |  | 14.0 |
 ## Training
