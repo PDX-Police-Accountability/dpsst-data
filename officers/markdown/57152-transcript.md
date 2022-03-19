@@ -20,6 +20,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Code of Ethics | Law Enforcement Signed | 6/21/2018 |  |
 | Code of Ethics | Signed | 4/19/2017 |  |
 ## Education

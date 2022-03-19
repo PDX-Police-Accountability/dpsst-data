@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2022 | PDP40781 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/4/2022 | PDP25828 | Legal Updates and OIS Training | Passed | 0.0 | 2.00 |
 | 1/4/2022 | PDP32654 | SFST Refresher Training | Passed | 0.0 | 2.00 |

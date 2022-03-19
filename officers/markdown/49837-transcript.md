@@ -35,7 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2022 | PDP13103 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/3/2022 | PDP19566 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 3/2/2022 | PDP38827 | 2022 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 3/1/2022 | PDP14848 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 2/28/2022 | PDP20456 | 2022 SERT Training - Classroom | Passed | 0.0 | 9.00 |
 | 2/3/2022 | PDP20181 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 1/20/2022 | PDP33711 | 2022 SERT Training - Classroom | Passed | 0.0 | 9.00 |
 | 1/20/2022 | PDP18876 | 2022-2 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |

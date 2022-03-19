@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2022 | PDP07675 | 2022 FTEP Policy and Procedure | Instructed | 0.0 | 7.00 |
 | 1/20/2022 | PDP18876 | 2022-2 Field Training Officer (FTO) Certification | Instructed | 0.0 | 36.00 |
 | 1/17/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/13/2022 | PDP33779 | 2022-1 Field Training Officer (FTO) Certification | Instructed | 0.0 | 36.00 |
