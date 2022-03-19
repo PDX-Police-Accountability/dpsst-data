@@ -66,6 +66,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/11/2022
+  :course: VND24646
+  :title: Advanced Strangulation Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '30.25'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

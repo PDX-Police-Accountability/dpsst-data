@@ -9,6 +9,12 @@
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 3/15/2022
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 7/26/2018
   :agency: Portland Police Bureau
   :action: Hired
@@ -33,7 +39,7 @@
   :level: Basic
   :status: Granted
   :certificate_date: 1/20/2021
-  :expiration_date: ''
+  :expiration_date: 6/15/2022
   :probation_date: ''
 - :status_date: 10/24/2018
   :certificate: Corrections Officer

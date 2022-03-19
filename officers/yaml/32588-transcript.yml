@@ -63,6 +63,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/14/2022
+  :course: PDP34907
+  :title: IS-800 National Response Framework
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/4/2022
   :course: PDP13103
   :title: 2022 SERT Training - Scenario

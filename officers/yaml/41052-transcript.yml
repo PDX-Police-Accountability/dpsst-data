@@ -75,6 +75,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/4/2022
+  :course: PDP21752
+  :title: ICS-400 Adv ICS Cmd  General Staff-Complex Incdts
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
 - :date: 1/13/2022
   :course: PDP11483
   :title: Directive 630.15 Foot Pursuits Video Part 1

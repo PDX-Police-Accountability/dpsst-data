@@ -3472,4 +3472,9 @@
   :value: First Aid and CPR
   :effective_date: 5/26/2021
   :expiration_date: 5/26/2023
-:education_records: []
+:education_records:
+- :date: 8/12/1993
+  :degree: Bachelor Science
+  :school: Portland State University
+  :major: Criminal Justice Administration
+  :hours: '180.0'
