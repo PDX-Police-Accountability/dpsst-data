@@ -86,7 +86,6 @@
 | 7/14/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP10631 | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 7/14/2021 | PDP14248 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/23/2021 | F6E35610 | Online Investigations for Law Enforcement | Passed | 0.0 | 8.00 |
 | 6/23/2021 | PDP10098 | Online Investigations for LE | Passed | 0.0 | 7.00 |
 | 6/16/2021 | F6E34919 | Motivational Interviewing in Public Safety: Comm. | Passed | 0.0 | 6.50 |

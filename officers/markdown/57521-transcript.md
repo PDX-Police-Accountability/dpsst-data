@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Bryant, Adrian L. |
+| name | Ledford, Adrian B. |
 | dpsst_identifier | 57521 |
 | agency | Multnomah County Sheriff's Office |
 | employment_status | Inactive |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/9/2021 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/18/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/7/2019 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
@@ -19,7 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/1/2021 | Police Officer | Basic | Lapsed | 1/19/2021 | 7/1/2026 |  |
+| 12/9/2021 | Police Officer | Basic | Required |  |  | 6/9/2023 |
+| 10/1/2021 | Police Officer | Basic | Lapsed | 1/19/2021 |  |  |
 | 10/7/2019 | Corrections Officer | Basic | Lapsed | 4/23/2018 | 7/7/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

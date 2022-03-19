@@ -103,7 +103,6 @@
 | 3/3/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 2/17/2021 | PDP09393 | Wednesday Night K-9 Training | Passed | 0.0 | 4.00 |
 | 2/10/2021 | PDP36438 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 4.00 |
-| 2/10/2021 | PDP03618 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 4.00 |
 | 2/10/2021 | PDP05106 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 2/10/2021 | PDP17893 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 2/10/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
