@@ -23,8 +23,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/2/2022 | Police Officer | Advanced | App Incmpl |  | 4/2/2022 |  |
-| 2/2/2022 | Police Officer | Intermediate | App Incmpl |  | 4/2/2022 |  |
+| 2/8/2022 | Police Officer | Advanced | Granted | 2/8/2022 |  |  |
+| 2/8/2022 | Police Officer | Intermediate | Granted | 2/8/2022 |  |  |
 | 2/2/2022 | Police Officer | Supervisory | Granted | 2/2/2022 |  |  |
 | 10/17/1994 | Police Officer | Basic | Granted | 10/17/1994 |  |  |
 ## Attributes
@@ -37,6 +37,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/19/1999 | Bachelor Arts | All Other Education Institutes | Anthropology | 165.7 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

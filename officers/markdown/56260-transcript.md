@@ -44,6 +44,7 @@
 | 9/15/2021 | F6F33733 | Precision Patrol Rifle | Passed | 0.0 | 3.00 |
 | 7/21/2021 | CAP40368 | Strangulation Supplemental Training Clack. County | Passed | 0.0 | 0.50 |
 | 7/14/2021 | F6E43798 | Firearms | Passed | 0.0 | 3.00 |
+| 7/7/2021 | CAP30965 | Active Threat | Passed | 0.0 | 4.00 |
 | 6/4/2021 | CAP36138 | Firearms/VCQB | Passed | 0.0 | 4.00 |
 | 1/6/2021 | PDP29132 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 1/6/2021 | PDP11460 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |

@@ -43,6 +43,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/20/2021 | PDS11207 | Policy Access | Passed | 0.0 | 0.50 |
 | 12/20/2021 | PDS03770 | Homeless Outreach Team | Passed | 0.0 | 1.00 |
+| 12/20/2021 | PDS17921 | Computer Training | Passed | 0.0 | 1.50 |
+| 12/20/2021 | PDS32581 | NARCAN | Passed | 0.0 | 1.00 |
+| 12/20/2021 | PDS01278 | Report Writing | Passed | 0.0 | 8.00 |
 | 12/17/2021 | PDS12562 | ConSim | Passed | 0.0 | 8.00 |
 | 12/17/2021 | PDS24797 | Civil Process | Passed | 0.0 | 1.00 |
 | 12/16/2021 | PDS31802 | Firearms Training | Passed | 0.0 | 21.00 |
@@ -53,6 +56,7 @@
 | 12/15/2021 | PDS06627 | Fentanyl | Passed | 0.0 | 1.50 |
 | 12/9/2021 | PDS36059 | ADA Policy | Passed | 0.0 | 1.00 |
 | 12/9/2021 | PDS15207 | Less Lethal | Passed | 0.0 | 2.00 |
+| 12/9/2021 | PDS05689 | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 12/8/2021 | PDS24239 | TASER | Passed | 0.0 | 8.00 |
 | 12/7/2021 | PDS01079 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 12/6/2021 | PDS19625 | Crisis Communication | Passed | 0.0 | 8.00 |

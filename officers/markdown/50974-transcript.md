@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/31/2022 | 1/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 11/18/2009 |  |
@@ -35,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2022 | OCP30741 | DUII refresher | Instructed | 0.0 | 0.75 |
+| 1/31/2022 | OCP26831 | Life Saving Skills | Passed | 0.0 | 1.50 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2021 | OCP33319 | Ethics | Passed | 0.0 | 0.50 |
 | 11/30/2021 | OCP00645 | Daily Training Bulletins | Passed | 0.0 | 18.00 |
