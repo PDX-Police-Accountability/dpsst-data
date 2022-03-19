@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2022 | BNS22949 | Police Canine Decoy Training | Passed | 0.0 | 24.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2021 | PDP09317 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 4.50 |
 | 12/17/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

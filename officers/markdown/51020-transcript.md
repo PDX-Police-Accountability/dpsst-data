@@ -28,8 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/5/2008 | No Degree | All Other Education Institutes |  | 24.0 |
-| 6/15/2003 | No Degree | All Other Education Institutes |  | 51.0 |
+| 9/26/2008 | Masters Theology | All Other Education Institutes |  | 24.0 |
+| 5/23/2003 | Bachelor Arts | All Other Education Institutes |  | 51.0 |
 | 6/15/2000 | No Degree | University Of Oregon |  | 89.0 |
 ## Training
 | date | course | title | status | score | hours |

@@ -25,6 +25,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/10/2022 | Instructor |  | Granted | 2/10/2022 |  |  |
 | 4/11/2017 | Police Officer | Advanced | Granted | 4/11/2017 | 3/22/2022 |  |
 | 4/11/2017 | Police Officer | Intermediate | Granted | 4/11/2017 | 3/22/2022 |  |
 | 12/20/1993 | Police Officer | Basic | Granted | 12/20/1993 | 3/22/2022 |  |
