@@ -24,6 +24,36 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/4/2022
+  :course: PDP13103
+  :title: 2022 SERT Training - Scenario
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 3/3/2022
+  :course: PDP19566
+  :title: 2022 SERT Training - Scenario
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 3/2/2022
+  :course: PDP38827
+  :title: 2022 SERT Training - Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 3/1/2022
+  :course: PDP14848
+  :title: 2022 SERT Training - Scenario
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/28/2022
+  :course: PDP20456
+  :title: 2022 SERT Training - Classroom
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 1/24/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

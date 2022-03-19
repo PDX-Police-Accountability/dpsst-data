@@ -49,6 +49,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/2/2022
+  :course: PDP40781
+  :title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 2/9/2022
   :course: PDP11361
   :title: IS-800 National Response Framework

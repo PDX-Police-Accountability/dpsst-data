@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/28/2022
+  :course: OCS16578
+  :title: Striking and Weapon Retention
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 1/29/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
