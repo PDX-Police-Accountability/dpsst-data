@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/8/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/1/2016 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/27/2016 | Portland Police Bureau | Retired | Police Off |  |  |
 | 12/14/2015 | Portland Police Bureau | Return LOA | Police Off |  |  |
@@ -24,9 +25,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/13/1995 | Police Officer | Advanced | Granted | 3/13/1995 |  |  |
-| 3/13/1991 | Police Officer | Intermediate | Granted | 3/13/1991 |  |  |
-| 11/2/1989 | Police Officer | Basic | Granted | 11/2/1989 |  |  |
+| 3/13/1995 | Police Officer | Advanced | Granted | 3/13/1995 | 3/8/2022 |  |
+| 3/13/1991 | Police Officer | Intermediate | Granted | 3/13/1991 | 3/8/2022 |  |
+| 11/2/1989 | Police Officer | Basic | Granted | 11/2/1989 | 3/8/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

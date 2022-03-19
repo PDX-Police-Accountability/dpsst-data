@@ -310,6 +310,7 @@
 | 4/4/2018 | PDP42272 | IFAK Refresher Video | Passed | 0.0 | 0.25 |
 | 4/2/2018 | PDP28709 | CEW X2 Basic Operator Course | Instructed | 0.0 | 4.00 |
 | 3/28/2018 | PDP43111 | CEW X2 Basic Operator Course | Instructed | 0.0 | 13.00 |
+| 3/22/2018 | BPT24499 | Basic Instructor Development Course | Passed | 0.0 | 32.00 |
 | 3/13/2018 | PDP11353 | 2017-3 Legal Updates for Q3 | Passed | 0.0 | 0.50 |
 | 3/1/2018 | PDP28709 | CEW X2 Basic Operator Course | Instructed | 0.0 | 3.00 |
 | 2/26/2018 | PDP07748 | 2018-1 In-Service PVO High Speed Lapping | Passed | 0.0 | 2.00 |

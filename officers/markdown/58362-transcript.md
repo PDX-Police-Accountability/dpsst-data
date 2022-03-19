@@ -4,7 +4,7 @@
 | name | Banfi, Nathan C. |
 | dpsst_identifier | 58362 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 1/11/2022 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 1/7/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/1/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

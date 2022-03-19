@@ -50,6 +50,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 2/28/2022 | 22-0029 | DPSST Supervision | Registered | 0.0 | 80.00 |
+| 2/23/2022 | SVP16496 | Ofc. Involved Shooting Protocols/MCDA Updates | Passed | 0.0 | 1.50 |
+| 2/23/2022 | SVP09269 | Domestic Violence/Search  Seizure/Legal Updates | Passed | 0.0 | 2.50 |
 | 1/29/2022 | SVP34848 | Taser Recertification | Passed | 0.0 | 1.00 |
 | 1/25/2022 | SVP27689 | Interview and Interrogation Series | Passed | 0.0 | 12.00 |
 | 12/15/2021 | SVP36728 | Handcuffing  Hobble Restraint Trng | Passed | 0.0 | 2.00 |

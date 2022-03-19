@@ -232,6 +232,7 @@
 | 4/10/2018 | PDP42272 | IFAK Refresher Video | Passed | 0.0 | 0.25 |
 | 4/10/2018 | PDP39936 | Tips and Tech Hazard Tow vs. Private Request | Passed | 0.0 | 0.25 |
 | 4/10/2018 | PDP18845 | Disposition of Records Upon Retirement | Passed | 0.0 | 0.25 |
+| 3/22/2018 | BPT24499 | Basic Instructor Development Course | Passed | 0.0 | 32.00 |
 | 3/14/2018 | PDP11353 | 2017-3 Legal Updates for Q3 | Passed | 0.0 | 0.50 |
 | 2/23/2018 | PDP07748 | 2018-1 In-Service PVO High Speed Lapping | Passed | 0.0 | 2.00 |
 | 2/23/2018 | PDP04533 | 2018-1 In-Service  PVO Pursuit Intervention Tech | Passed | 0.0 | 2.00 |

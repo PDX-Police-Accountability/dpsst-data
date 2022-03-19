@@ -391,6 +391,7 @@
 | 4/15/2018 | PDP27576 | Reducing DA Case Rejects Part 2 of 2 | Passed | 0.0 | 0.50 |
 | 4/10/2018 | PDP11553 | 40mm Less Lethal New Operator Training 1 | Passed | 0.0 | 18.00 |
 | 3/27/2018 | PDP11353 | 2017-3 Legal Updates for Q3 | Passed | 0.0 | 0.50 |
+| 3/22/2018 | BPT24499 | Basic Instructor Development Course | Passed | 0.0 | 32.00 |
 | 2/23/2018 | PDP07748 | 2018-1 In-Service PVO High Speed Lapping | Passed | 0.0 | 2.00 |
 | 2/23/2018 | PDP04533 | 2018-1 In-Service  PVO Pursuit Intervention Tech | Passed | 0.0 | 2.00 |
 | 2/23/2018 | PDP32196 | 2018-1 In-Service PVO Precision Movement Course | Passed | 0.0 | 2.00 |

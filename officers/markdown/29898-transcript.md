@@ -63,6 +63,7 @@
 | 12/7/2021 | PDS01079 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 12/6/2021 | PDS19625 | Crisis Communication | Passed | 0.0 | 8.00 |
 | 12/3/2021 | PDS19040 | OC Training | Passed | 0.0 | 4.00 |
+| 12/3/2021 | PDS34415 | Patrol Procedures | Passed | 0.0 | 4.00 |
 | 12/2/2021 | PDS33914 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/1/2021 | PDS17828 | Use of Force | Passed | 0.0 | 4.00 |
 | 11/30/2021 | PDS40510 | PREA | Passed | 0.0 | 2.00 |
