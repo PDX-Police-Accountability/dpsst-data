@@ -71,6 +71,7 @@
 | 6/23/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/23/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/20/2021 | PDP07362 | The Evidence Hour: Teen Dating Violence | Passed | 0.0 | 1.00 |
+| 5/20/2021 | PDP30924 | Teen Dating Violence | Passed | 0.0 | 1.00 |
 | 5/18/2021 | PDP26155 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 4/7/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 4/7/2021 | PDP26080 | CPR/First Aid | Passed | 0.0 | 1.75 |

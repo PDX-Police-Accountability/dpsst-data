@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/3/2022 | 2/3/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 4/24/2014 |  |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2022 | OCS42893 | First Aid/CPR | Passed | 0.0 | 5.00 |
 | 12/30/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 12/30/2021 | OCS20147 | Shoot/No-Shoot scenarios/decision making | Passed | 0.0 | 1.00 |
 | 12/21/2021 | OCS25818 | Ethics Training | Passed | 0.0 | 1.00 |
