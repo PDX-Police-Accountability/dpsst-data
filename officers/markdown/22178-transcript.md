@@ -77,7 +77,6 @@
 | 7/23/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP26676 | Fire Inspector I | Passed | 0.0 | 2.00 |
 | 5/14/2021 | PDP24921 | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 5/14/2021 | PDP27168 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/3/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/3/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

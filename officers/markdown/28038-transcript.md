@@ -40,6 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2022 | PDS02729 | Patrol Procedures | Passed | 0.0 | 4.00 |
+| 2/3/2022 | PDS30634 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 2/2/2022 | PDS19789 | Use of Force | Passed | 0.0 | 4.00 |
+| 2/1/2022 | PDS18947 | Wellness | Passed | 0.0 | 2.00 |
+| 2/1/2022 | PDS44212 | Ethics  IAU | Passed | 0.0 | 2.00 |
+| 2/1/2022 | PDS39509 | OSHA | Passed | 0.0 | 2.00 |
+| 2/1/2022 | PDS41036 | PREA | Passed | 0.0 | 2.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/4/2022 | PDP25828 | Legal Updates and OIS Training | Passed | 0.0 | 2.00 |
 | 1/4/2022 | PDP32654 | SFST Refresher Training | Passed | 0.0 | 2.00 |
@@ -55,6 +62,7 @@
 | 11/17/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/11/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/11/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/28/2021 | F6R30143 | WATAI 2021 Spring Conference | Passed | 0.0 | 24.00 |
 | 10/4/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/4/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/7/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |

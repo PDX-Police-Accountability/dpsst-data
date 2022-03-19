@@ -30,7 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 3/15/2008 | No Degree | All Other Education Institutes |  | 91.0 |
+| 3/15/2010 | Associate Arts | All Other Education Institutes |  | 91.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

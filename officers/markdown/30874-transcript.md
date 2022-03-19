@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2022 | FGP01150 | High Throughput Property Crime DNA Analysis | Passed | 0.0 | 0.50 |
 | 12/29/2021 | F6F16400 | Critical Incident Response, Use of Force | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2021 | F6E11232 | ICS 200 | Passed | 0.0 | 3.00 |

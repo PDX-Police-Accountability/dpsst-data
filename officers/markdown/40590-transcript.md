@@ -57,6 +57,7 @@
 | 11/1/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/1/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP41114 | 2021 External Training WATAI Fall Conference | Passed | 0.0 | 24.00 |
+| 10/28/2021 | F6R30143 | WATAI 2021 Spring Conference | Passed | 0.0 | 24.00 |
 | 10/6/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/6/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/23/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

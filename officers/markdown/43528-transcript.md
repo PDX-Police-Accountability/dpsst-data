@@ -5,13 +5,14 @@
 | dpsst_identifier | 43528 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 2/5/2016 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 9/2/2015 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 1/10/2013 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/10/2021 | PDP27581 | 2021 Sworn Supervisor In-Service Resonable Susp. | Passed | 0.0 | 1.00 |

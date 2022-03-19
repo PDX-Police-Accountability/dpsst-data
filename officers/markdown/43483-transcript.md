@@ -5,13 +5,14 @@
 | dpsst_identifier | 43483 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/3/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 5/4/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/11/2003 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/6/2022 | PDP33314 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
