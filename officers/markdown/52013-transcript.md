@@ -478,4 +478,6 @@
 | 5/31/2011 | 11-0273 | Taser X26 Certification | Passed | 0.0 | 10.00 |
 | 5/15/2011 | 11-0715 | LEDS Inquiry Level | Passed | 0.0 | 4.00 |
 | 12/10/2010 | 10U002 | Approved Out-of-State Training | Passed | 0.0 | 384.00 |
+| 3/13/2008 | PDP02114 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
+| 11/22/2005 | PDP04581 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 11/25/1998 | 98U002 | Approved Out-of-State Training | Passed | 0.0 | 611.50 |

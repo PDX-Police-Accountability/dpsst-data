@@ -39,8 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/20/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
-| 1/3/2022 | 22-0029 | DPSST Supervision | Registered | 0.0 | 80.00 |
+| 2/11/2022 | 22-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
+| 1/26/2022 | SVP34848 | Taser Recertification | Passed | 0.0 | 1.00 |
+| 1/25/2022 | SVP27689 | Interview and Interrogation Series | Passed | 0.0 | 12.00 |
 | 12/15/2021 | SVP36728 | Handcuffing  Hobble Restraint Trng | Instructed | 0.0 | 2.00 |
 | 12/15/2021 | SVP43346 | Juvenile Peer Court Overview | Passed | 0.0 | 0.50 |
 | 12/15/2021 | SVP22316 | Domestic Violence/Human Sex Trafficking | Passed | 0.0 | 0.50 |

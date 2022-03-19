@@ -4,7 +4,7 @@
 | name | Johnson, Drew T. |
 | dpsst_identifier | 60908 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/7/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/23/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/19/2021 | Police Officer | Basic | Granted | 10/19/2021 |  |  |
+| 10/19/2021 | Police Officer | Basic | Granted | 10/19/2021 | 3/7/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
