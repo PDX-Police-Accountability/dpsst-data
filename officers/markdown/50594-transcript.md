@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2022 | PDP21752 | ICS-400 Adv ICS Cmd  General Staff-Complex Incdts | Passed | 0.0 | 18.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | PDP36885 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 12/16/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

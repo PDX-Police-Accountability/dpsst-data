@@ -28,8 +28,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
 | Code of Ethics | Signed | 12/21/2010 |  |
 ## Education
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/4/2022 | PDS02729 | Patrol Procedures | Passed | 0.0 | 4.00 |
 | 2/3/2022 | PDS30634 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 2/2/2022 | PDS19789 | Use of Force | Passed | 0.0 | 4.00 |

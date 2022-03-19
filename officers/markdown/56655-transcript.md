@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/15/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/26/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/24/2018 | DOC/Oregon State Penitentiary | Resigned | Corr Offcr |  |  |
 | 9/26/2016 | DOC/Oregon State Penitentiary | Hired | Corr Offcr |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/20/2021 | Police Officer | Basic | Granted | 1/20/2021 |  |  |
+| 1/20/2021 | Police Officer | Basic | Granted | 1/20/2021 | 6/15/2022 |  |
 | 10/24/2018 | Corrections Officer | Basic | Lapsed | 9/15/2017 | 7/24/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
