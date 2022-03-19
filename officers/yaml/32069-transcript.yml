@@ -56,6 +56,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/27/2022
+  :course: SDP44418
+  :title: Crisis Cops Documentry and Discusion
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/27/2022
+  :course: SDP09804
+  :title: Amber Alert Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/27/2022
+  :course: SDP37083
+  :title: Ethics-Video and Discussion
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 2/9/2022
   :course: BPT10897
   :title: Intoxilyzer 8000 Certification Course

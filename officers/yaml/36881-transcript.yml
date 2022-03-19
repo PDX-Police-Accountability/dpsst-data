@@ -56,6 +56,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/10/2022
+  :course: SAG06056
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
 - :date: 3/3/2022
   :course: SAG39812
   :title: What Iconic TV Can Teach about Mandatory Reporting

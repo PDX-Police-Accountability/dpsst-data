@@ -80,6 +80,30 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 3/11/2022
+  :course: HSU31937
+  :title: Pre Academy Firearms 6
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/4/2022
+  :course: HSU33010
+  :title: Pre Academy Firearms 5
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/25/2022
+  :course: HSU30898
+  :title: Pre Academy Firearms 4
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/18/2022
+  :course: HSU09339
+  :title: Pre Academy Firearms 3
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 10/23/2021
   :course: HSU06042
   :title: Firearms Skills/ Fall In-Service 2021
