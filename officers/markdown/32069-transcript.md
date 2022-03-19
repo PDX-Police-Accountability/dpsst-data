@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2022 | SDP44418 | Crisis Cops Documentry and Discusion | Passed | 0.0 | 2.00 |
+| 2/27/2022 | SDP09804 | Amber Alert Refresher | Passed | 0.0 | 0.50 |
+| 2/27/2022 | SDP37083 | Ethics-Video and Discussion | Passed | 0.0 | 2.00 |
 | 2/9/2022 | BPT10897 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 1/19/2022 | SDP09464 | Firearms Training | Passed | 0.0 | 3.50 |
 | 1/19/2022 | SDP40328 | Defensive Tactics | Passed | 0.0 | 2.00 |

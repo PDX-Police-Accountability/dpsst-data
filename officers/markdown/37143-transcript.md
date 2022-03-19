@@ -78,7 +78,6 @@
 | 6/23/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/23/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/19/2021 | PDP43638 | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 5/5/2021 | F6D27996 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |
 | 5/5/2021 | PDP11338 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |
 | 4/8/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 4/8/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |

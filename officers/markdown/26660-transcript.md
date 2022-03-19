@@ -40,6 +40,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/22/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 3/11/2022 | HSU31937 | Pre Academy Firearms 6 | Instructed | 0.0 | 4.00 |
+| 3/4/2022 | HSU33010 | Pre Academy Firearms 5 | Instructed | 0.0 | 4.00 |
+| 2/25/2022 | HSU30898 | Pre Academy Firearms 4 | Instructed | 0.0 | 4.00 |
+| 2/18/2022 | HSU09339 | Pre Academy Firearms 3 | Instructed | 0.0 | 4.00 |
 | 10/23/2021 | HSU06042 | Firearms Skills/ Fall In-Service 2021 | Instructed | 0.0 | 10.00 |
 | 10/22/2021 | HSU00642 | Report Writing Fall In-Service 2021 | Passed | 0.0 | 2.00 |
 | 10/22/2021 | HSU33709 | Chief's Message Fall In-Service 2021 | Passed | 0.0 | 4.00 |
