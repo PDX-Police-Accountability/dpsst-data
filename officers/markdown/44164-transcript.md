@@ -61,6 +61,7 @@
 | 11/9/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 10/18/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 10/18/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/1/2021 | F6R21352 | Advanced Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/9/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 9/9/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/2/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

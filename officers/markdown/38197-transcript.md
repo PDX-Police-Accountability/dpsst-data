@@ -62,6 +62,7 @@
 | 11/17/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 11/16/2021 | PDP34940 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/11/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/1/2021 | F6R21352 | Advanced Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/22/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/22/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/22/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |

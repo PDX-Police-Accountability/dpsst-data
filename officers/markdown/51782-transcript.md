@@ -58,6 +58,8 @@
 | 10/5/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP19148 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 10/1/2021 | F6R21352 | Advanced Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
+| 9/24/2021 | F6R11457 | Intermediate Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 8/31/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 8/17/2021 | PDP21561 | 2021 CNT Annual Training | Passed | 0.0 | 9.00 |
 | 8/13/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |

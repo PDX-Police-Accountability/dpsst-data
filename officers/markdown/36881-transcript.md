@@ -37,7 +37,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/10/2022 | SAG06056 | Firearms | Passed | 0.0 | 1.50 |
-| 3/10/2022 | SAG04709 | Firearms | Passed | 0.0 | 1.50 |
 | 3/3/2022 | SAG39812 | What Iconic TV Can Teach about Mandatory Reporting | Passed | 0.0 | 1.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

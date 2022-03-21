@@ -50,6 +50,8 @@
 | 11/29/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/16/2021 | PDP34940 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/5/2021 | PDP36899 | FBI Basic Crisis Negotiation | Passed | 0.0 | 40.00 |
+| 10/1/2021 | F6R21352 | Advanced Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
+| 9/24/2021 | F6R11457 | Intermediate Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/9/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 9/9/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/1/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |

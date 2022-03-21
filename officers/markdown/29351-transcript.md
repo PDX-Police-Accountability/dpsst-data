@@ -55,6 +55,7 @@
 | 11/2/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 11/2/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 11/1/2021 | PDP10801 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/1/2021 | F6R21352 | Advanced Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/24/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/24/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/24/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |

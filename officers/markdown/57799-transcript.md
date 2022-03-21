@@ -51,6 +51,7 @@
 | 11/14/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/24/2021 | PDP35246 | Crisis Hostage Negotiation Level II | Passed | 0.0 | 3.00 |
+| 9/24/2021 | F6R11457 | Intermediate Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/14/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 9/13/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/13/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |

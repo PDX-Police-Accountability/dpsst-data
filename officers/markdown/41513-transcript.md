@@ -51,6 +51,7 @@
 | 12/7/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 12/7/2021 | PDP37605 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/16/2021 | PDP34940 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 9/24/2021 | F6R11457 | Intermediate Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/9/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/9/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/9/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |

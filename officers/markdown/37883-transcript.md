@@ -64,6 +64,8 @@
 | 10/20/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 10/6/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/1/2021 | F6R21352 | Advanced Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
+| 9/24/2021 | F6R11457 | Intermediate Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/16/2021 | PDP34164 | 2021 AR-15 Operators In-Service Training | Passed | 0.0 | 9.00 |
 | 9/16/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 8/26/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |

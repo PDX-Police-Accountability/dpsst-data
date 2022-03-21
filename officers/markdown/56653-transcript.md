@@ -50,6 +50,7 @@
 | 11/2/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 10/8/2021 | PDP14944 | 2021 ICAC Conference | Passed | 0.0 | 21.00 |
 | 10/1/2021 | PDP32949 | Crisis Hostage Negotiation Level III | Passed | 0.0 | 40.00 |
+| 10/1/2021 | F6R21352 | Advanced Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/10/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/10/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 9/10/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
