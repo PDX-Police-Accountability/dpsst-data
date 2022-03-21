@@ -43,6 +43,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/16/2022
+  :course: F6R37504
+  :title: Patrol Rifle Fundamentals and Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 12/30/2021
   :course: CAP39861
   :title: Hazmat / Bloodborne Pathogens
