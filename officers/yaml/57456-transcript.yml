@@ -1,0 +1,902 @@
+---
+:header_record:
+  :name: Hughes, Paige J.
+  :dpsst_identifier: '57456'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/21/2020
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 5/16/2020
+  :agency: LaGrande Police Department
+  :action: Resigned
+  :rank: Dispatcher
+  :classification: ''
+  :assignment: ''
+- :date: 5/8/2017
+  :agency: LaGrande Police Department
+  :action: Hired
+  :rank: Dispatcher
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 12/2/2021
+  :certificate: Police Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 12/2/2021
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 5/16/2021
+  :certificate: Emergency Medical Dispatcher
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 4/17/2018
+  :expiration_date: 5/16/2025
+  :probation_date: ''
+- :status_date: 5/16/2021
+  :certificate: Telecommunicator
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 4/17/2018
+  :expiration_date: 5/16/2025
+  :probation_date: ''
+:training_records:
+- :date: 1/10/2022
+  :course: PDP11483
+  :title: Directive 630.15 Foot Pursuits Video Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/10/2022
+  :course: PDP14510
+  :title: Directive 630.15 Foot Pursuits Video Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/12/2021
+  :course: PDP19371
+  :title: 2021-3 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/1/2021
+  :course: PDP22486
+  :title: 2021-7 City Attorney's Legal Updates for 7/2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/30/2021
+  :course: PDP26000
+  :title: 2021-5 City Attorney's Legal Updates for 5/2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/30/2021
+  :course: PDP38317
+  :title: 2021-6 City Attorney's Legal Updates for 6/2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/26/2021
+  :course: PDP34501
+  :title: 2021-4 City Attorney's Legal Updates for 4/2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/21/2021
+  :course: E11PDP19
+  :title: FTM Equivalency Review (Portland Police Bureau)
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 11/19/2021
+  :course: PDP38207
+  :title: 2021-3 City Attorney's Legal Updates for 3/2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/11/2021
+  :course: PDP07854
+  :title: 2021 Language Access-Util Bilingual Bureau Members
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/9/2021
+  :course: PDP04708
+  :title: 2021 External Training ABLE Training Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/9/2021
+  :course: PDP02692
+  :title: 2021 External Training ABLE Training Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/3/2021
+  :course: PDP11991
+  :title: 2020-12 CAO Legal Updates for 12/2020-Updated
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/3/2021
+  :course: PDP38017
+  :title: 2021-12 TipsTech Request Emer Ping Cell Device
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/22/2021
+  :course: PDP01693
+  :title: 2021 Training All Sworn Crowd Control Training CAO
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/22/2021
+  :course: PDP22338
+  :title: 2021 Training All Sworn Crowd Control Training Chi
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.42'
+- :date: 9/22/2021
+  :course: PDP25601
+  :title: 2021 Training All Sworn Crowd Control Training Int
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.08'
+- :date: 9/22/2021
+  :course: PDP20476
+  :title: 2021 Training All Sworn Crowd Control Training Mob
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.42'
+- :date: 9/22/2021
+  :course: PDP21907
+  :title: 2021 Training All Sworn Crowd Control Training For
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.83'
+- :date: 9/2/2021
+  :course: PDP12662
+  :title: 2021-9 Tips  Tech Dangers of High/Extreme Heat
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/2/2021
+  :course: PDP04285
+  :title: 2021 OSHA Heat Illness Prevention Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 8/22/2021
+  :course: PDP23514
+  :title: 2021 Training Response to Calls Involving Youth
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 8/17/2021
+  :course: PDP22491
+  :title: 2021-8 Tips  Tech Ballot Measure 110 - Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 8/4/2021
+  :course: PDP11906
+  :title: 2021 Advanced Academy Bike Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '73.00'
+- :date: 8/4/2021
+  :course: PDP38340
+  :title: 2021 Advanced Academy ECW
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/4/2021
+  :course: PDP33289
+  :title: 2021 Advanced Academy Professionalism
+  :status: Passed
+  :score: '0.0'
+  :hours: '81.50'
+- :date: 8/4/2021
+  :course: PDP06999
+  :title: 2021 Advanced Academy Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '49.50'
+- :date: 8/4/2021
+  :course: PDP17809
+  :title: 2021 Advanced Academy Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/4/2021
+  :course: PDP16106
+  :title: 2021 Advanced Academy Control Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '51.00'
+- :date: 8/4/2021
+  :course: PDP39321
+  :title: 2021 Advanced Academy Crisis Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '17.00'
+- :date: 8/4/2021
+  :course: PDP21698
+  :title: 2021 Advanced Academy Patrol Procedures (Other)
+  :status: Passed
+  :score: '0.0'
+  :hours: '11.00'
+- :date: 8/4/2021
+  :course: PDP43069
+  :title: 2021 Advanced Academy Fitness
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 8/4/2021
+  :course: PDP18847
+  :title: 2021 Advanced Academy EAP
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/4/2021
+  :course: PDP27963
+  :title: 2021 Advanced Academy OPSRP Retirement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 8/4/2021
+  :course: PDP25245
+  :title: 2021 Advanced Academy Orientation and Expectations
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 8/4/2021
+  :course: PDP37744
+  :title: 2021 Advanced Academy Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '25.50'
+- :date: 8/4/2021
+  :course: PDP19036
+  :title: 2021 Advanced Academy Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.50'
+- :date: 8/4/2021
+  :course: PDP09996
+  :title: 2021 Advanced Academy Patrol Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '97.50'
+- :date: 8/4/2021
+  :course: PDP35163
+  :title: 2021 Advanced Academy Police Vehicle Operations
+  :status: Passed
+  :score: '0.0'
+  :hours: '61.00'
+- :date: 7/15/2021
+  :course: PDP16058
+  :title: 2021 Language Access - LanguageLine
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/15/2021
+  :course: PDP05749
+  :title: 2021 Language Access - LEP Testimonial
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/15/2021
+  :course: PDP19421
+  :title: Online In-Service Directive 870.25 Holding Rooms
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/14/2021
+  :course: PDP15108
+  :title: 2020 CAONewspapers/SimonTRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/14/2021
+  :course: PDP26499
+  :title: 2020 City Attorney's ACLU/Bushong TRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/14/2021
+  :course: PDP09789
+  :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/14/2021
+  :course: PDP31662
+  :title: 2020 CAO IPO/McNally Refresh Train (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/14/2021
+  :course: PDP09614
+  :title: 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/8/2021
+  :course: PDP02805
+  :title: 2020 CHO Stops App Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/8/2021
+  :course: PDP14459
+  :title: 2020-8 TipsTech Extreme Risk Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/8/2021
+  :course: PDP19871
+  :title: 2021 Legal Bulletin Effects Measure 110 on Invstgn
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/8/2021
+  :course: PDP06596
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/8/2021
+  :course: PDP39794
+  :title: 2021 Measure 110 Bullet Points
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/8/2021
+  :course: PDP04678
+  :title: 2021-7 Tips  Tech Bureau Issued Utility Knives
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2021
+  :course: PDP37985
+  :title: 2020 City Attorney's Off Don't Shoot PDX/Hernandez
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2021
+  :course: PDP30472
+  :title: 2020 Presumpt Declination DUIIs Invl Hosp BAC
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2021
+  :course: PDP37900
+  :title: 2020 City Attorney's Off Index Newspapers/SimonTRO
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2021
+  :course: PDP32503
+  :title: 2020 City Attorney's Off IPO/McNally Refresh Train
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/11/2021
+  :course: PDP16278
+  :title: 2020 City Attorney's Office ACLU/Bushong TRO Tng
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2021
+  :course: PDP29132
+  :title: 2020-10 City Attorney's Legal Updates 10/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2021
+  :course: PDP30989
+  :title: 2020-1 CHO Force Inspector Updates for Q1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2021
+  :course: PDP24692
+  :title: 2020-1 City Attorney's Office Legal Updates 1/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/11/2021
+  :course: PDP17955
+  :title: 2020-2 City Attorney's Office Legal Updates 2/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/11/2021
+  :course: PDP22040
+  :title: 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2021
+  :course: PDP32511
+  :title: 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2021
+  :course: PDP12980
+  :title: 2020-5 City Attorney's Office Legal Updates 5/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/10/2021
+  :course: PDP38408
+  :title: 2020-3 City Attorney's Office Legal Updates 3/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/10/2021
+  :course: PDP04726
+  :title: 2020-5 Tips  Tech Drug Packaging/Crime Lab Sub
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2021
+  :course: PDP05361
+  :title: 2020-6 City Attorney's Office Legal Updates 6/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2021
+  :course: PDP12899
+  :title: 2020-4 City Attorney's Office Legal Updates 4/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/10/2021
+  :course: PDP23880
+  :title: 2020-7 City Attorney's Office Legal Updates 7.2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 3/10/2021
+  :course: PDP34167
+  :title: 2020-8 City Attorney's Office Legal Updates 8/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/9/2021
+  :course: PDP08622
+  :title: 2020 City Attorney's Gathright Decision Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/9/2021
+  :course: PDP30451
+  :title: 2020 Roles/Resp PPB on Mental Health Related Calls
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/9/2021
+  :course: PDP14910
+  :title: 2020-8 TipsTech Extreme Risk Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/9/2021
+  :course: PDP30680
+  :title: 2020-9 City Attorney's Office Legal Updates 9/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/9/2021
+  :course: PDP18966
+  :title: 2021-1 Tips Techniques HB 4205
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/9/2021
+  :course: PDP10276
+  :title: 2021-2 Tips  Tech Domestic Violence Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/3/2021
+  :course: PDP25688
+  :title: 2021-3 Tips  Tech Ballot Measure 110 Summary
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/24/2021
+  :course: PDP30240
+  :title: FTEP Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 2/23/2021
+  :course: PDP25603
+  :title: Traffic Radar/LIDAR Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 2/23/2021
+  :course: BPT32199
+  :title: RADAR/LIDAR - Practical
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 2/23/2021
+  :course: PDP13754
+  :title: 2020-9 Tips  Techniques Car Voucher Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/18/2021
+  :course: PDP03271
+  :title: FTEP Post Basic Use of Force Class
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 2/15/2021
+  :course: PDP38825
+  :title: 2020 CIU NTR Alarm Response Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/15/2021
+  :course: PDP44062
+  :title: 2020 Training Segmenting Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/15/2021
+  :course: PDP06028
+  :title: 2020 SERT Patrol Armored Vehicle Use Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/15/2021
+  :course: PDP39610
+  :title: 2020 YSD School Critical Incident Plans Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/15/2021
+  :course: PDP42240
+  :title: 2020-3 TipsTech Using Online Report for Addl Prop
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/15/2021
+  :course: PDP23359
+  :title: 2020-7 TipsTech Phillips Laser Protective Eyewear
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2021
+  :course: PDP04802
+  :title: 2021 FTEP Post Basic Taser
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 2/10/2021
+  :course: PDP00435
+  :title: 2021-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/9/2021
+  :course: PDP10729
+  :title: 2020-6 Tips  Techniques Public Safety Statement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/5/2021
+  :course: M10-19A
+  :title: DPSST Basic Police Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
+- :date: 12/31/2020
+  :course: 20-CVDTE
+  :title: 2020 Telecom/EMD Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 9/24/2020
+  :course: PDP13015
+  :title: ICS-200 Bsc Incident Cmmnd Systm for Initial Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/23/2020
+  :course: PDP06277
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/23/2020
+  :course: PDP26865
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/22/2020
+  :course: PDP16273
+  :title: 2020 FTEP Pre-DPSST Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 9/17/2020
+  :course: PDP40181
+  :title: 2020 FTEP Policy and Procedure
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 9/15/2020
+  :course: PDP03136
+  :title: 2020 City of Portland FTEP Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/10/2020
+  :course: PDP03131
+  :title: DOJ Settlement Agreement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/12/2020
+  :course: F6D41600
+  :title: Handling Missing Children Calls for Dispatchers
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/11/2020
+  :course: F6D32124
+  :title: Domestic Violence Intervention for Dispatchers
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/8/2020
+  :course: F6D02406
+  :title: Dispatcher Specialized Call Types-Sovereign Cit.
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/4/2020
+  :course: F6D18168
+  :title: Dispatcher Specialized Call Types
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/20/2020
+  :course: F6D26618
+  :title: Dispatcher Specialized Call Types (Bomb Threat)
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/15/2020
+  :course: F6D18420
+  :title: Airborn and Bloodborne Pathogens-Police One
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/15/2020
+  :course: F6D15975
+  :title: 'Dispatcher: Legal and Liability Issues -Police One'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/14/2020
+  :course: F6D33303
+  :title: Infectious and Communicable Diseases -Police One
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/14/2020
+  :course: F6D11531
+  :title: 'Dispatcher: Ethics in Public Service - Police One'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/14/2020
+  :course: F6D35747
+  :title: 'Dispatcher: Stress Management - Police One'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/26/2020
+  :course: F6D29817
+  :title: Dispatcher Specialized Call Types - Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/17/2020
+  :course: F6D23949
+  :title: Basic First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/10/2020
+  :course: MISCMAIN
+  :title: 2019 Telecom/EMD Maintenance Met
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 10/16/2019
+  :course: F6D25362
+  :title: Zeurcher Software Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/1/2019
+  :course: F6D39850
+  :title: 2018 Sexual Harassment and Abusive Conduct Prev.
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: F6D00714
+  :title: FBI Crisis Negotiation Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+- :date: 4/1/2019
+  :course: F6D19245
+  :title: EMD
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/31/2018
+  :course: MISCMAIN
+  :title: 2018 Telcom/EMD Annual Required Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/28/2018
+  :course: F6D39976
+  :title: EMD Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/28/2018
+  :course: F6D30190
+  :title: EMD Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/28/2018
+  :course: F6D38119
+  :title: Computer, UCR, Call Taking Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 9/19/2018
+  :course: F6B07097
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/19/2018
+  :course: F6B38651
+  :title: Hazmat First Responder Awareness Level 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/7/2018
+  :course: F6B41052
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/31/2018
+  :course: F6B35705
+  :title: First Aid/CPR Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/20/2018
+  :course: F6B16414
+  :title: EMD Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/1/2018
+  :course: F6B31735
+  :title: Harassment  Equal Employment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/13/2018
+  :course: F6D28206
+  :title: Tactical Dispatch
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 2/1/2018
+  :course: F6W27806
+  :title: Emergency Action Plan Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/4/2017
+  :course: 17T005
+  :title: EMD Field Training Manual
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 11/30/2017
+  :course: 17T006
+  :title: Telecommunicator Field Training Manual
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 8/16/2017
+  :course: 17-0020
+  :title: DPSST Emergency Medical Dispatch
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 8/11/2017
+  :course: 17-0014
+  :title: DPSST Basic Telecommunications
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 8/2/2017
+  :course: F6A09227
+  :title: FEMA Weapons of Mass Destruction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 8/2/2017
+  :course: PDP43774
+  :title: CBRNE Standardized Awareness Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/9/2017
+  :course: PDP25287
+  :title: IS-700 National Incident Management System (NIMS)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/29/2017
+  :course: PDP16180
+  :title: ICS-100 Introduction to the Incident Command Sys
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2024
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 9/27/2020
+  :expiration_date: ''
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 9/23/2020
+  :expiration_date: 9/23/2022
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 8/4/2017
+  :expiration_date: ''
+:education_records: []

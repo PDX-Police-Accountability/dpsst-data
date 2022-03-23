@@ -1,0 +1,175 @@
+## Header
+| attribute | value |
+| --------- | ----- |
+| name | Hughes, Paige J. |
+| dpsst_identifier | 57456 |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
+| level |  |
+| classification |  |
+| assignment |  |
+## Employment
+| date | agency | action | rank | classification | assignment |
+| ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/21/2020 | Portland Police Bureau | Hired | Police Off |  |  |
+| 5/16/2020 | LaGrande Police Department | Resigned | Dispatcher |  |  |
+| 5/8/2017 | LaGrande Police Department | Hired | Dispatcher |  |  |
+## Certification
+| status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
+| ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 12/2/2021 | Police Officer | Basic | Granted | 12/2/2021 |  |  |
+| 5/16/2021 | Emergency Medical Dispatcher | Basic | Lapsed | 4/17/2018 | 5/16/2025 |  |
+| 5/16/2021 | Telecommunicator | Basic | Lapsed | 4/17/2018 | 5/16/2025 |  |
+## Attributes
+| topic | value | effective_date | expiration_date |
+| ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
+| Certification Cards | First Aid and CPR | 9/23/2020 | 9/23/2022 |
+| Code of Ethics | Signed | 8/4/2017 |  |
+## Education
+| date | degree | school | major | hours |
+| ---- | ------ | ------ | ----- | ----- |
+## Training
+| date | course | title | status | score | hours |
+| ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
+| 1/10/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
+| 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 12/1/2021 | PDP22486 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
+| 11/30/2021 | PDP26000 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |
+| 11/30/2021 | PDP38317 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
+| 11/26/2021 | PDP34501 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
+| 11/21/2021 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
+| 11/19/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
+| 11/11/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
+| 11/9/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
+| 11/9/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 11/3/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 11/3/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
+| 9/22/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
+| 9/22/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
+| 9/22/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
+| 9/22/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
+| 9/22/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/2/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
+| 9/2/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
+| 8/22/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 8/17/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
+| 8/4/2021 | PDP11906 | 2021 Advanced Academy Bike Training | Passed | 0.0 | 73.00 |
+| 8/4/2021 | PDP38340 | 2021 Advanced Academy ECW | Passed | 0.0 | 1.00 |
+| 8/4/2021 | PDP33289 | 2021 Advanced Academy Professionalism | Passed | 0.0 | 81.50 |
+| 8/4/2021 | PDP06999 | 2021 Advanced Academy Firearms | Passed | 0.0 | 49.50 |
+| 8/4/2021 | PDP17809 | 2021 Advanced Academy Leadership | Passed | 0.0 | 3.00 |
+| 8/4/2021 | PDP16106 | 2021 Advanced Academy Control Tactics | Passed | 0.0 | 51.00 |
+| 8/4/2021 | PDP39321 | 2021 Advanced Academy Crisis Intervention Training | Passed | 0.0 | 17.00 |
+| 8/4/2021 | PDP21698 | 2021 Advanced Academy Patrol Procedures (Other) | Passed | 0.0 | 11.00 |
+| 8/4/2021 | PDP43069 | 2021 Advanced Academy Fitness | Passed | 0.0 | 10.00 |
+| 8/4/2021 | PDP18847 | 2021 Advanced Academy EAP | Passed | 0.0 | 1.00 |
+| 8/4/2021 | PDP27963 | 2021 Advanced Academy OPSRP Retirement | Passed | 0.0 | 1.50 |
+| 8/4/2021 | PDP25245 | 2021 Advanced Academy Orientation and Expectations | Passed | 0.0 | 1.50 |
+| 8/4/2021 | PDP37744 | 2021 Advanced Academy Law | Passed | 0.0 | 25.50 |
+| 8/4/2021 | PDP19036 | 2021 Advanced Academy Wellness | Passed | 0.0 | 7.50 |
+| 8/4/2021 | PDP09996 | 2021 Advanced Academy Patrol Procedures | Passed | 0.0 | 97.50 |
+| 8/4/2021 | PDP35163 | 2021 Advanced Academy Police Vehicle Operations | Passed | 0.0 | 61.00 |
+| 7/15/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
+| 7/15/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
+| 7/15/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP15108 | 2020 CAONewspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP26499 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP09789 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP31662 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
+| 7/14/2021 | PDP09614 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP02805 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 7/8/2021 | PDP14459 | 2020-8 TipsTech Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP19871 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
+| 7/8/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 3/11/2021 | PDP37985 | 2020 City Attorney's Off Don't Shoot PDX/Hernandez | Passed | 0.0 | 0.25 |
+| 3/11/2021 | PDP30472 | 2020 Presumpt Declination DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
+| 3/11/2021 | PDP37900 | 2020 City Attorney's Off Index Newspapers/SimonTRO | Passed | 0.0 | 0.25 |
+| 3/11/2021 | PDP32503 | 2020 City Attorney's Off IPO/McNally Refresh Train | Passed | 0.0 | 0.50 |
+| 3/11/2021 | PDP16278 | 2020 City Attorney's Office ACLU/Bushong TRO Tng | Passed | 0.0 | 0.25 |
+| 3/11/2021 | PDP29132 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
+| 3/11/2021 | PDP30989 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
+| 3/11/2021 | PDP24692 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
+| 3/11/2021 | PDP17955 | 2020-2 City Attorney's Office Legal Updates 2/2020 | Passed | 0.0 | 0.50 |
+| 3/11/2021 | PDP22040 | 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines | Passed | 0.0 | 0.25 |
+| 3/10/2021 | PDP32511 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |
+| 3/10/2021 | PDP12980 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
+| 3/10/2021 | PDP38408 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
+| 3/10/2021 | PDP04726 | 2020-5 Tips  Tech Drug Packaging/Crime Lab Sub | Passed | 0.0 | 0.25 |
+| 3/10/2021 | PDP05361 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
+| 3/10/2021 | PDP12899 | 2020-4 City Attorney's Office Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
+| 3/10/2021 | PDP23880 | 2020-7 City Attorney's Office Legal Updates 7.2020 | Passed | 0.0 | 0.75 |
+| 3/10/2021 | PDP34167 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
+| 3/9/2021 | PDP08622 | 2020 City Attorney's Gathright Decision Refresher | Passed | 0.0 | 0.25 |
+| 3/9/2021 | PDP30451 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
+| 3/9/2021 | PDP14910 | 2020-8 TipsTech Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
+| 3/9/2021 | PDP30680 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
+| 3/9/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 3/9/2021 | PDP10276 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
+| 3/3/2021 | PDP25688 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
+| 2/24/2021 | PDP30240 | FTEP Orientation | Passed | 0.0 | 7.00 |
+| 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
+| 2/23/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
+| 2/23/2021 | PDP13754 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
+| 2/18/2021 | PDP03271 | FTEP Post Basic Use of Force Class | Passed | 0.0 | 5.00 |
+| 2/15/2021 | PDP38825 | 2020 CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 2/15/2021 | PDP44062 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
+| 2/15/2021 | PDP06028 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
+| 2/15/2021 | PDP39610 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
+| 2/15/2021 | PDP42240 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
+| 2/15/2021 | PDP23359 | 2020-7 TipsTech Phillips Laser Protective Eyewear | Passed | 0.0 | 0.25 |
+| 2/11/2021 | PDP04802 | 2021 FTEP Post Basic Taser | Passed | 0.0 | 5.00 |
+| 2/10/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/9/2021 | PDP10729 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |
+| 2/5/2021 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 12/31/2020 | 20-CVDTE | 2020 Telecom/EMD Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
+| 9/24/2020 | PDP13015 | ICS-200 Bsc Incident Cmmnd Systm for Initial Resp | Passed | 0.0 | 3.00 |
+| 9/23/2020 | PDP06277 | CPR/First Aid | Passed | 0.0 | 2.00 |
+| 9/23/2020 | PDP26865 | CPR/First Aid | Passed | 0.0 | 2.00 |
+| 9/22/2020 | PDP16273 | 2020 FTEP Pre-DPSST Firearms | Passed | 0.0 | 10.00 |
+| 9/17/2020 | PDP40181 | 2020 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
+| 9/15/2020 | PDP03136 | 2020 City of Portland FTEP Bloodborne Pathogens | Passed | 0.0 | 2.00 |
+| 6/10/2020 | PDP03131 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 5/12/2020 | F6D41600 | Handling Missing Children Calls for Dispatchers | Passed | 0.0 | 1.00 |
+| 5/11/2020 | F6D32124 | Domestic Violence Intervention for Dispatchers | Passed | 0.0 | 2.00 |
+| 5/8/2020 | F6D02406 | Dispatcher Specialized Call Types-Sovereign Cit. | Passed | 0.0 | 1.00 |
+| 5/4/2020 | F6D18168 | Dispatcher Specialized Call Types | Passed | 0.0 | 2.00 |
+| 4/20/2020 | F6D26618 | Dispatcher Specialized Call Types (Bomb Threat) | Passed | 0.0 | 1.00 |
+| 4/15/2020 | F6D18420 | Airborn and Bloodborne Pathogens-Police One | Passed | 0.0 | 1.00 |
+| 4/15/2020 | F6D15975 | Dispatcher: Legal and Liability Issues -Police One | Passed | 0.0 | 1.00 |
+| 4/14/2020 | F6D33303 | Infectious and Communicable Diseases -Police One | Passed | 0.0 | 1.00 |
+| 4/14/2020 | F6D11531 | Dispatcher: Ethics in Public Service - Police One | Passed | 0.0 | 1.00 |
+| 4/14/2020 | F6D35747 | Dispatcher: Stress Management - Police One | Passed | 0.0 | 1.00 |
+| 1/26/2020 | F6D29817 | Dispatcher Specialized Call Types - Active Shooter | Passed | 0.0 | 2.00 |
+| 1/17/2020 | F6D23949 | Basic First Aid | Passed | 0.0 | 2.00 |
+| 1/10/2020 | MISCMAIN | 2019 Telecom/EMD Maintenance Met | Completed | 0.0 | 0.00 |
+| 10/16/2019 | F6D25362 | Zeurcher Software Training | Passed | 0.0 | 8.00 |
+| 10/1/2019 | F6D39850 | 2018 Sexual Harassment and Abusive Conduct Prev. | Passed | 0.0 | 1.00 |
+| 5/3/2019 | F6D00714 | FBI Crisis Negotiation Course | Passed | 0.0 | 36.00 |
+| 4/1/2019 | F6D19245 | EMD | Passed | 0.0 | 4.00 |
+| 12/31/2018 | MISCMAIN | 2018 Telcom/EMD Annual Required Maintenance | Completed | 0.0 | 0.00 |
+| 12/28/2018 | F6D39976 | EMD Recertification | Passed | 0.0 | 3.00 |
+| 12/28/2018 | F6D30190 | EMD Recertification | Passed | 0.0 | 4.00 |
+| 12/28/2018 | F6D38119 | Computer, UCR, Call Taking Training | Passed | 0.0 | 7.00 |
+| 9/19/2018 | F6B07097 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/19/2018 | F6B38651 | Hazmat First Responder Awareness Level 1 | Passed | 0.0 | 1.00 |
+| 6/7/2018 | F6B41052 | Ethics | Passed | 0.0 | 1.00 |
+| 5/31/2018 | F6B35705 | First Aid/CPR Recertification | Passed | 0.0 | 3.00 |
+| 5/20/2018 | F6B16414 | EMD Recertification | Passed | 0.0 | 1.00 |
+| 5/1/2018 | F6B31735 | Harassment  Equal Employment | Passed | 0.0 | 1.50 |
+| 4/13/2018 | F6D28206 | Tactical Dispatch | Passed | 0.0 | 32.00 |
+| 2/1/2018 | F6W27806 | Emergency Action Plan Review | Passed | 0.0 | 1.00 |
+| 12/4/2017 | 17T005 | EMD Field Training Manual | Completed | 0.0 | 50.00 |
+| 11/30/2017 | 17T006 | Telecommunicator Field Training Manual | Completed | 0.0 | 50.00 |
+| 8/16/2017 | 17-0020 | DPSST Emergency Medical Dispatch | Passed | 0.0 | 24.00 |
+| 8/11/2017 | 17-0014 | DPSST Basic Telecommunications | Passed | 0.0 | 80.00 |
+| 8/2/2017 | F6A09227 | FEMA Weapons of Mass Destruction | Passed | 0.0 | 0.00 |
+| 8/2/2017 | PDP43774 | CBRNE Standardized Awareness Training | Passed | 0.0 | 8.00 |
+| 6/9/2017 | PDP25287 | IS-700 National Incident Management System (NIMS) | Passed | 0.0 | 3.00 |
+| 5/29/2017 | PDP16180 | ICS-100 Introduction to the Incident Command Sys | Passed | 0.0 | 3.00 |
