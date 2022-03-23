@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Felts, Kevin C. |
 | dpsst_identifier | 29650 |
-| agency | Troutdale Police Department |
-| employment_status | Inactive |
-| rank | Police Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

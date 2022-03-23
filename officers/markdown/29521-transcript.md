@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Posey, Darren L. |
 | dpsst_identifier | 29521 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

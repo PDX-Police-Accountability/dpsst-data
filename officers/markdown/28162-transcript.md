@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Snyder, Mark E. |
 | dpsst_identifier | 28162 |
-| agency | Multnomah County Sheriff's Office |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Civilian Employee |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

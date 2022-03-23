@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | McHugill, Steven N. |
 | dpsst_identifier | 24736 |
-| agency | Springfield Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

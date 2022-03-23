@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Alderman, Wayne D. |
 | dpsst_identifier | 23331 |
-| agency | University of Portland DPS |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Campus Public Safety Officer |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

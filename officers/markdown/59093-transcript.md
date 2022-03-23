@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Scannell, Colin C. |
 | dpsst_identifier | 59093 |
-| agency | Bureau of Emergency Communications |
-| employment_status | Inactive |
-| rank | Dispatcher |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

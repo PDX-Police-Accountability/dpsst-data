@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Chinn, Curtis A. |
 | dpsst_identifier | 27250 |
-| agency | Portland State University DPS |
-| employment_status | Active |
+| agency | Portland Police Bureau |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |

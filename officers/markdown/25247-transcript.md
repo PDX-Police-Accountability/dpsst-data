@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Mason, Ronald L. |
 | dpsst_identifier | 25247 |
-| agency | Phoenix Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |

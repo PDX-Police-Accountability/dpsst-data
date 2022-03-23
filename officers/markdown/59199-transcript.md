@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Surla, Harley L. |
 | dpsst_identifier | 59199 |
-| agency | DOC/Oregon State Penitentiary |
-| employment_status | Inactive |
-| rank | Corrections Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

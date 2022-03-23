@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Prosser, Todd A. |
 | dpsst_identifier | 30501 |
-| agency | University of Oregon Police Department |
-| employment_status | Inactive |
-| rank | Campus Public Safety Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Hertzler, Gabri B. |
 | dpsst_identifier | 39513 |
-| agency | Police Corps Academy-Participant |
-| employment_status | Inactive |
-| rank | Cadet |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

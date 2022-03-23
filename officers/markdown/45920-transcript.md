@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Nutting, Bradley J. |
 | dpsst_identifier | 45920 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Civilian Employee |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Middleton, Trevor M. |
 | dpsst_identifier | 56655 |
-| agency | DOC/Oregon State Penitentiary |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Corrections Officer |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

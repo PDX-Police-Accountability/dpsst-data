@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Cui, Vincent A. |
 | dpsst_identifier | 36881 |
-| agency | DOJ-Criminal Justice Division |
-| employment_status | Active |
-| rank | Special Agent |
+| agency | Portland Police Bureau |
+| employment_status | Inactive |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

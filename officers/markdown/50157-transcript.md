@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Green, Kyle L. |
 | dpsst_identifier | 50157 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Civilian Employee |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

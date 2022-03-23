@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Outhaythip, Navarath |
 | dpsst_identifier | 24990 |
-| agency | Portland Public Schools Police |
-| employment_status | Inactive |
-| rank | Police Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Criminalist |
 | level |  |
 | classification |  |
 | assignment |  |

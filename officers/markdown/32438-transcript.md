@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Boman, Alan M. |
 | dpsst_identifier | 32438 |
-| agency | West Linn Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

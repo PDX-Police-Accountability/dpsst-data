@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Steiner, Chad D. |
 | dpsst_identifier | 37932 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

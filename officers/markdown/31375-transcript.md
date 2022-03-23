@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Christopher, Andrew J. |
 | dpsst_identifier | 31375 |
-| agency | Sherwood Police Department |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

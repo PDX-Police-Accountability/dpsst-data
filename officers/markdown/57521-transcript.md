@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Ledford, Adrian B. |
 | dpsst_identifier | 57521 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

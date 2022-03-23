@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Francis, Michael R. |
 | dpsst_identifier | 28248 |
-| agency | West Linn Police Department |
-| employment_status | Inactive |
-| rank | Sergeant |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

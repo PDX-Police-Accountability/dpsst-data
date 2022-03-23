@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Waddell, Cheryl M. |
 | dpsst_identifier | 29997 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Civilian Employee |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

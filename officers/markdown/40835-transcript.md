@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Akom, Marshall K. |
 | dpsst_identifier | 40835 |
-| agency | Milwaukie Police Department |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

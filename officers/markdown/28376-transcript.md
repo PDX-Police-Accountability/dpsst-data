@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Hubert, Jason R. |
 | dpsst_identifier | 28376 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

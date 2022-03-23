@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Christensen, Jason S. |
 | dpsst_identifier | 32069 |
-| agency | Sherwood Police Department |
-| employment_status | Active |
-| rank | Police Officer |
+| agency | Portland Police Bureau |
+| employment_status | Inactive |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

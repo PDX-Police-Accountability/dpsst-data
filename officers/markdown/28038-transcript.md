@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Johnson, Christopher P. |
 | dpsst_identifier | 28038 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Active |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Inactive |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |
@@ -42,7 +42,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/18/2022 | PDS37588 | 0 | Passed | 0.0 | 8.00 |
+| 2/11/2022 | PDS05853 | Firearms Training | Passed | 0.0 | 21.00 |
+| 2/11/2022 | PDS15154 | Range Qualification | Passed | 0.0 | 2.00 |
+| 2/10/2022 | PDS16552 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 2/4/2022 | PDS02729 | Patrol Procedures | Passed | 0.0 | 4.00 |
+| 2/4/2022 | PDS05091 | OC Training | Passed | 0.0 | 4.00 |
 | 2/3/2022 | PDS30634 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 2/2/2022 | PDS19789 | Use of Force | Passed | 0.0 | 4.00 |
 | 2/1/2022 | PDS18947 | Wellness | Passed | 0.0 | 2.00 |

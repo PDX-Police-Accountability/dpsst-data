@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Wilson, Garret B. |
 | dpsst_identifier | 57489 |
-| agency | Tigard Police Department |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Engstrom, Todd R. |
 | dpsst_identifier | 29982 |
-| agency | Silverton Police Department |
-| employment_status | Active |
-| rank | Sergeant |
+| agency | Portland Police Bureau |
+| employment_status | Inactive |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

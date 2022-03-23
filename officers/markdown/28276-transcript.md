@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Gaither, Mark H. |
 | dpsst_identifier | 28276 |
-| agency | Sherwood Police Department |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Sergeant |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

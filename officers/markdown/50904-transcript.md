@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Bigoni, Matthew R. |
 | dpsst_identifier | 50904 |
-| agency | Multnomah County Sheriff's Office |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Reserve Officer |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

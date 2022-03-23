@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Brennan, Thomas J. |
 | dpsst_identifier | 33125 |
-| agency | Salem Police Department |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

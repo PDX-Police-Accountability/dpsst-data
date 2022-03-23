@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | McDaniel, Jeffrey J. |
 | dpsst_identifier | 35716 |
-| agency | Seaside Police Department |
-| employment_status | Inactive |
-| rank | Civilian Employee |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

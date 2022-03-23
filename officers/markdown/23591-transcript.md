@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Foster, William S. |
 | dpsst_identifier | 23591 |
-| agency | Multnomah County Sheriff's Office |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Civilian Employee |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

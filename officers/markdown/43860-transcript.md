@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Burton, Bret A. |
 | dpsst_identifier | 43860 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

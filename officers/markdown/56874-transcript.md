@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Masunari, Matthew K. |
 | dpsst_identifier | 56874 |
-| agency | Portland State University DPS |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

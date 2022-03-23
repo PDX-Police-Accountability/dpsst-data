@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Schell, Martin D. |
 | dpsst_identifier | 32700 |
-| agency | Philomath Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

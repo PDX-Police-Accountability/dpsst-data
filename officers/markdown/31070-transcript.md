@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Bates, Jay A., III |
 | dpsst_identifier | 31070 |
-| agency | Tualatin Police Department |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Police Officer |
+| rank | Commander |
 | level |  |
 | classification |  |
 | assignment |  |

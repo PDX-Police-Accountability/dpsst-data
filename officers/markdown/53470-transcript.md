@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Hristova, Heidi S. |
 | dpsst_identifier | 53470 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

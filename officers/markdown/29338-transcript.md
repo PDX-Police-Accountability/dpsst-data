@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Elias, Jeffrey E. |
 | dpsst_identifier | 29338 |
-| agency | Phoenix Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

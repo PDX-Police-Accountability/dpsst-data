@@ -3,15 +3,16 @@
 | --------- | ----- |
 | name | Robert, Onest |
 | dpsst_identifier | 52367 |
-| agency | DOC/Snake River Correctional Institution |
-| employment_status | Inactive |
-| rank | Corrections Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/17/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 7/9/2012 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/7/2012 | DOC/Snake River Correctional Institution | Resigned | Corr Offcr |  |  |
 | 11/28/2011 | DOC/Snake River Correctional Institution | Hired | Corr Offcr |  |  |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/4/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 12/19/2021 | PDP44453 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |

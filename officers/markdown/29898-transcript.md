@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Grundmeyer, Troy R. |
 | dpsst_identifier | 29898 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Active |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Inactive |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

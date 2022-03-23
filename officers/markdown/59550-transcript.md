@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Rutledge, Jeremy R. |
 | dpsst_identifier | 59550 |
-| agency | Redmond Police Department |
-| employment_status | Active |
+| agency | Portland Police Bureau |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |

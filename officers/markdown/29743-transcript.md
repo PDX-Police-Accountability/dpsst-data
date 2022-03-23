@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Glaske, Neal L. |
 | dpsst_identifier | 29743 |
-| agency | West Linn Police Department |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Sergeant |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Davidson, Benjamin J. |
 | dpsst_identifier | 38108 |
-| agency | West Linn Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Andrusko, Steven L. |
 | dpsst_identifier | 29502 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Pontius, Jeffery D. |
 | dpsst_identifier | 32530 |
-| agency | Marion County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

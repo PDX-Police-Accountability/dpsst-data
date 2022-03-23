@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Eide, Carolyn A. |
 | dpsst_identifier | 58740 |
-| agency | West Linn Police Department |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

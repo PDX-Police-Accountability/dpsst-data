@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Abrahamson, David A. |
 | dpsst_identifier | 39564 |
-| agency | Portland Public Schools Police |
-| employment_status | Inactive |
-| rank | Police Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Captain |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Broughton, Scott P. |
 | dpsst_identifier | 40218 |
-| agency | Philomath Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

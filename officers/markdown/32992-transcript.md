@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Harris, Sean W. |
 | dpsst_identifier | 32992 |
-| agency | DOC/Snake River Correctional Institution |
-| employment_status | Inactive |
-| rank | Corrections Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

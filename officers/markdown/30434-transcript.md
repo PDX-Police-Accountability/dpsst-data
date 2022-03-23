@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Lawrence, James E. |
 | dpsst_identifier | 30434 |
-| agency | Union Police Department |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Reserve Officer |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

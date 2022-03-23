@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Pelster, Brian S. |
 | dpsst_identifier | 42631 |
-| agency | Multnomah County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Letter, Joshua M. |
 | dpsst_identifier | 30867 |
-| agency | Portland Public Schools Police |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

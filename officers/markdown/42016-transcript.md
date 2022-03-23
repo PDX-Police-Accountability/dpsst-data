@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Snitily, Thomas A. |
 | dpsst_identifier | 42016 |
-| agency | Port of Portland Police Department |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

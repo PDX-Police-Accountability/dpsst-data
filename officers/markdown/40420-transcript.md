@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Johnson, Edward L. |
 | dpsst_identifier | 40420 |
-| agency | Western Oregon University DPS |
-| employment_status | Inactive |
-| rank | Campus Public Safety Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | McFarland, Sean M. |
 | dpsst_identifier | 48914 |
-| agency | Troutdale Police Department |
-| employment_status | Inactive |
-| rank | Reserve Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Jamison, Matthew F. |
 | dpsst_identifier | 31898 |
-| agency | Tigard Police Department |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

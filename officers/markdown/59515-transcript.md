@@ -3,8 +3,8 @@
 | --------- | ----- |
 | name | Bledsoe, Joshua M. |
 | dpsst_identifier | 59515 |
-| agency | Port of Portland Police Department |
-| employment_status | Inactive |
+| agency | Portland Police Bureau |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |

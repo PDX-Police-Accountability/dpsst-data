@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Harris, James A. |
 | dpsst_identifier | 27566 |
-| agency | Marion County Sheriff's Office |
-| employment_status | Inactive |
-| rank | Deputy Sheriff |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Pool, Michael E. |
 | dpsst_identifier | 29520 |
-| agency | Portland Public Schools Police |
-| employment_status | Inactive |
-| rank | Police Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |

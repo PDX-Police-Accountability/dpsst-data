@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Kays, Angela M. |
 | dpsst_identifier | 48472 |
-| agency | University of Portland DPS |
+| agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Campus Public Safety Officer |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Barker, Christian L. |
 | dpsst_identifier | 28069 |
-| agency | Multnomah County Sheriff's Office |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
-| rank | Deputy Sheriff |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |

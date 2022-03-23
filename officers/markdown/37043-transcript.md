@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Budry, Richard J. |
 | dpsst_identifier | 37043 |
-| agency | Silverton Police Department |
-| employment_status | Inactive |
-| rank | Sergeant |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Criminalist |
 | level |  |
 | classification |  |
 | assignment |  |

@@ -3,7 +3,7 @@
 | --------- | ----- |
 | name | Mitchell, Edgar O., Jr. |
 | dpsst_identifier | 22419 |
-| agency | Portland Public Schools Police |
+| agency | Portland Police Bureau |
 | employment_status | Inactive |
 | rank | Police Officer |
 | level |  |

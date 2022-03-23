@@ -3,9 +3,9 @@
 | --------- | ----- |
 | name | Winters, William H. |
 | dpsst_identifier | 34381 |
-| agency | Portland Public Schools Police |
-| employment_status | Inactive |
-| rank | Police Officer |
+| agency | Portland Police Bureau |
+| employment_status | Active |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
