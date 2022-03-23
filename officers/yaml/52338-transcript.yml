@@ -2,13 +2,19 @@
 :header_record:
   :name: Westerlund, London A.
   :dpsst_identifier: '52338'
-  :agency: Philomath Police Department
-  :employment_status: Inactive
-  :rank: Reserve Officer
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Sergeant
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 3/17/2022
+  :agency: Portland Police Bureau
+  :action: Promotion
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
 - :date: 6/26/2014
   :agency: Portland Police Bureau
   :action: Hired
@@ -36,6 +42,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/17/2023
+  :course: REQSUPV
+  :title: 'REQUIRED TRAINING:  Supervision'
+  :status: Required
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 1/11/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

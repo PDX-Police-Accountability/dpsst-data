@@ -106,6 +106,12 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 8/8/2022
+  :course: 22-0026
+  :title: DPSST Middle Management
+  :status: Registered
+  :score: '0.0'
+  :hours: '80.00'
 - :date: 1/17/2022
   :course: PDP11483
   :title: Directive 630.15 Foot Pursuits Video Part 1

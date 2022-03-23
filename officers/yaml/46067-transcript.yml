@@ -2,13 +2,19 @@
 :header_record:
   :name: Asheim, Charles B.
   :dpsst_identifier: '46067'
-  :agency: Tualatin Police Department
-  :employment_status: Inactive
-  :rank: Police Officer
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Detective
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 3/17/2022
+  :agency: Portland Police Bureau
+  :action: Promotion
+  :rank: Detective
+  :classification: ''
+  :assignment: ''
 - :date: 2/21/2020
   :agency: DPSST Use Only
   :action: InstrApp
