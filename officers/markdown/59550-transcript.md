@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2022 | RMP32193 | Strangulation / DV | Passed | 0.0 | 0.50 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 11/5/2021 | RMP01569 | Use of Force - Firearms Low Light | Passed | 0.0 | 4.00 |
 | 11/5/2021 | RMP28042 | Response to Resistance  Aggression Use of Force | Passed | 0.0 | 4.00 |

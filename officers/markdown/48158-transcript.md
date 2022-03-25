@@ -55,6 +55,7 @@
 | 11/6/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/1/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 11/1/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/28/2021 | PDP42265 | CRS's Police and Community Collaboration | Passed | 0.0 | 4.00 |
 | 9/28/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/24/2021 | PDP28819 | 2021 EAP Bldg  Restoring Resilience | Passed | 0.0 | 7.00 |
 | 9/22/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
