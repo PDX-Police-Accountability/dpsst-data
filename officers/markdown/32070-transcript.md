@@ -140,12 +140,10 @@
 | 5/14/2020 | PDP15453 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |
 | 4/20/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
 | 4/13/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
-| 3/12/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/12/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/12/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/12/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/5/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 2/25/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/25/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/28/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/8/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |
