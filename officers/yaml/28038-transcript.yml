@@ -104,26 +104,8 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
-- :date: 2/11/2022
-  :course: PDS35559
-  :title: Firearms Training
-  :status: Passed
-  :score: '0.0'
-  :hours: '21.00'
-- :date: 2/11/2022
-  :course: PDS13269
-  :title: Range Qualification
-  :status: Passed
-  :score: '0.0'
-  :hours: '2.00'
 - :date: 2/10/2022
   :course: PDS16552
-  :title: Mental Health First Aid
-  :status: Passed
-  :score: '0.0'
-  :hours: '8.00'
-- :date: 2/10/2022
-  :course: PDS24566
   :title: Mental Health First Aid
   :status: Passed
   :score: '0.0'
@@ -136,12 +118,6 @@
   :hours: '4.00'
 - :date: 2/4/2022
   :course: PDS05091
-  :title: OC Training
-  :status: Passed
-  :score: '0.0'
-  :hours: '4.00'
-- :date: 2/4/2022
-  :course: PDS40196
   :title: OC Training
   :status: Passed
   :score: '0.0'

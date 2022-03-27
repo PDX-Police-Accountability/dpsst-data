@@ -38,12 +38,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/9/2022 | PDP31587 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 3/9/2022 | PDP18363 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
-| 3/9/2022 | PDP19852 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
-| 3/9/2022 | PDP05964 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 3/8/2022 | PDP16866 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 3/8/2022 | PDP17921 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
-| 3/8/2022 | PDP00887 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
-| 3/8/2022 | PDP32299 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2021 | PDP09317 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 4.50 |
 | 12/20/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

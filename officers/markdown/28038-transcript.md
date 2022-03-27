@@ -46,13 +46,9 @@
 | 2/18/2022 | PDS26578 | 0 | Passed | 0.0 | 8.00 |
 | 2/11/2022 | PDS05853 | Firearms Training | Passed | 0.0 | 21.00 |
 | 2/11/2022 | PDS15154 | Range Qualification | Passed | 0.0 | 2.00 |
-| 2/11/2022 | PDS35559 | Firearms Training | Passed | 0.0 | 21.00 |
-| 2/11/2022 | PDS13269 | Range Qualification | Passed | 0.0 | 2.00 |
 | 2/10/2022 | PDS16552 | Mental Health First Aid | Passed | 0.0 | 8.00 |
-| 2/10/2022 | PDS24566 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 2/4/2022 | PDS02729 | Patrol Procedures | Passed | 0.0 | 4.00 |
 | 2/4/2022 | PDS05091 | OC Training | Passed | 0.0 | 4.00 |
-| 2/4/2022 | PDS40196 | OC Training | Passed | 0.0 | 4.00 |
 | 2/3/2022 | PDS30634 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 2/2/2022 | PDS19789 | Use of Force | Passed | 0.0 | 4.00 |
 | 2/1/2022 | PDS18947 | Wellness | Passed | 0.0 | 2.00 |
