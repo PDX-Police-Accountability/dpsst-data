@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/25/2022
+  :course: ALS34679
+  :title: Bloodstain Pattern Analysis I
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

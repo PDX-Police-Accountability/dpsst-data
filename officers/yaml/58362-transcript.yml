@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/25/2022
+  :course: OCS06695
+  :title: First Aid/CPR
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
 - :date: 2/28/2022
   :course: OCS37116
   :title: Balancing speed and marksmanship
@@ -1513,6 +1519,10 @@
   :score: '0.0'
   :hours: '6.50'
 :attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 3/25/2022
+  :expiration_date: 3/25/2024
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2022

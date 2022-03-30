@@ -16,11 +16,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/30/2020 | Police Officer | Basic | ReqCertExt |  |  | 7/30/2022 |
+| 3/28/2022 | Police Officer | Basic | App Recd |  |  | 7/30/2022 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/17/2021 | 5/17/2023 |
+| Code of Ethics | Law Enforcement Signed | 4/22/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 2/17/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -28,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/30/2022 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/28/2022 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 12/22/2021 | PDP36885 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 12/22/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/22/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |

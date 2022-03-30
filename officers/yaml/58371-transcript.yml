@@ -3,12 +3,18 @@
   :name: Kashuba, Dina A.
   :dpsst_identifier: '58371'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 3/15/2022
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 2/1/2018
   :agency: Portland Police Bureau
   :action: Hired
@@ -21,7 +27,7 @@
   :level: Basic
   :status: Granted
   :certificate_date: 2/4/2019
-  :expiration_date: ''
+  :expiration_date: 6/15/2022
   :probation_date: ''
 :training_records:
 - :date: 1/21/2022

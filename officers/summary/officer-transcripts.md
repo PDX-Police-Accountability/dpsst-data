@@ -722,7 +722,7 @@
 | Ortiz, Jose, Jr. | [58302](../markdown/58302-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Dale, Damien T. | [58314](../markdown/58314-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Banfi, Nathan C. | [58362](../markdown/58362-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
-| Kashuba, Dina A. | [58371](../markdown/58371-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Kashuba, Dina A. | [58371](../markdown/58371-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Hancock, Sierra N. | [58382](../markdown/58382-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Gericke, Cristina N. | [58464](../markdown/58464-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Dyk, Joshua A. | [58506](../markdown/58506-transcript.md) | Portland Police Bureau | Active | Police Officer |

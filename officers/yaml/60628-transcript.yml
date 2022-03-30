@@ -16,18 +16,18 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 1/30/2020
+- :status_date: 3/28/2022
   :certificate: Police Officer
   :level: Basic
-  :status: ReqCertExt
+  :status: App Recd
   :certificate_date: ''
   :expiration_date: ''
   :probation_date: 7/30/2022
 :training_records:
-- :date: 7/30/2022
+- :date: 3/28/2022
   :course: M11-19A
   :title: DPSST Police Officer Field Training Manual
-  :status: Required
+  :status: Completed
   :score: '0.0'
   :hours: '50.00'
 - :date: 12/22/2021
@@ -905,6 +905,10 @@
   :value: First Aid and CPR
   :effective_date: 5/17/2021
   :expiration_date: 5/17/2023
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 4/22/2021
+  :expiration_date: ''
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 2/17/2020
