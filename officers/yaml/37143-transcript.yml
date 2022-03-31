@@ -51,6 +51,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/2/2022
+  :course: PDP35881
+  :title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

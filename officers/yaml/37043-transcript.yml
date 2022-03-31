@@ -74,6 +74,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/23/2022
+  :course: PDP22283
+  :title: IS-700 National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/22/2022
+  :course: PDP02946
+  :title: ICS-100 Intro to the Incident Cmmnd System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

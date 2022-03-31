@@ -49,6 +49,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 3/29/2022 | SVP28511 | HB 4008 (Crowd Management) | Passed | 0.0 | 0.50 |
+| 3/2/2022 | SVP20681 | Airway, Circulatory Cirisis Training | Passed | 0.0 | 2.00 |
 | 2/28/2022 | 22-0029 | DPSST Supervision | Registered | 0.0 | 80.00 |
 | 2/23/2022 | SVP16496 | Ofc. Involved Shooting Protocols/MCDA Updates | Passed | 0.0 | 1.50 |
 | 2/23/2022 | SVP09269 | Domestic Violence/Search  Seizure/Legal Updates | Passed | 0.0 | 2.50 |

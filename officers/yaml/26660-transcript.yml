@@ -80,6 +80,24 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 3/26/2022
+  :course: HSU04230
+  :title: Instructor In-Service Firearms Spring 2022
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/26/2022
+  :course: HSU15820
+  :title: Instructor In-Service PVO Spring 2022
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/25/2022
+  :course: HSU13363
+  :title: Pre Academy Firearms 7
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/11/2022
   :course: HSU31937
   :title: Pre Academy Firearms 6

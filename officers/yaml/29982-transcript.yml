@@ -63,6 +63,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/29/2022
+  :course: SVP28511
+  :title: HB 4008 (Crowd Management)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/2/2022
+  :course: SVP20681
+  :title: Airway, Circulatory Cirisis Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 2/23/2022
   :course: SVP16496
   :title: Ofc. Involved Shooting Protocols/MCDA Updates

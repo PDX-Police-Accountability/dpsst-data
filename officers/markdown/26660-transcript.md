@@ -41,6 +41,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/22/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 3/26/2022 | HSU04230 | Instructor In-Service Firearms Spring 2022 | Instructed | 0.0 | 4.00 |
+| 3/26/2022 | HSU15820 | Instructor In-Service PVO Spring 2022 | Passed | 0.0 | 2.00 |
+| 3/25/2022 | HSU13363 | Pre Academy Firearms 7 | Passed | 0.0 | 4.00 |
 | 3/11/2022 | HSU31937 | Pre Academy Firearms 6 | Instructed | 0.0 | 4.00 |
 | 3/4/2022 | HSU33010 | Pre Academy Firearms 5 | Instructed | 0.0 | 4.00 |
 | 2/25/2022 | HSU30898 | Pre Academy Firearms 4 | Instructed | 0.0 | 4.00 |
