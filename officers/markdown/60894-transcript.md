@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/23/2020 | Police Officer | Basic | ReqCertExt |  |  | 10/23/2022 |
+| 3/31/2022 | Police Officer | Basic | App Recd |  |  | 10/23/2022 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 1/2/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -27,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/23/2022 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/12/2022 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 1/1/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/1/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 12/14/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |

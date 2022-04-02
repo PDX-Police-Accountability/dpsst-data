@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/28/2022 | Police Officer | Basic | App Recd |  |  | 7/30/2022 |
+| 3/31/2022 | Police Officer | Basic | Granted | 3/31/2022 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -29,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/28/2022 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 3/28/2022 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 12/22/2021 | PDP36885 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 12/22/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/22/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |

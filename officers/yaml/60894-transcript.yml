@@ -16,18 +16,18 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 4/23/2020
+- :status_date: 3/31/2022
   :certificate: Police Officer
   :level: Basic
-  :status: ReqCertExt
+  :status: App Recd
   :certificate_date: ''
   :expiration_date: ''
   :probation_date: 10/23/2022
 :training_records:
-- :date: 10/23/2022
+- :date: 1/12/2022
   :course: M11-19A
   :title: DPSST Police Officer Field Training Manual
-  :status: Required
+  :status: Completed
   :score: '0.0'
   :hours: '50.00'
 - :date: 1/1/2022
@@ -667,6 +667,10 @@
   :score: '0.0'
   :hours: '3.00'
 :attribute_records:
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 1/2/2022
+  :expiration_date: ''
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 8/31/2020
