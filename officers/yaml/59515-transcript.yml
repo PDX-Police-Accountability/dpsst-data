@@ -572,12 +572,36 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/15/2020
+  :course: PDP07522
+  :title: 2020 Gap Academy Crisis Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 10/15/2020
+  :course: PDP21600
+  :title: 2020 Gap Academy Fitness
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/15/2020
+  :course: PDP28721
+  :title: 2020 Gap Academy Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '41.00'
 - :date: 10/8/2020
   :course: PDP11258
   :title: 2020-5 City Attorney's Office Legal Updates 5/2020
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 10/8/2020
+  :course: PDP34682
+  :title: 2020 Gap Academy Bike Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
 - :date: 10/7/2020
   :course: PDP23847
   :title: 2020-2 Range Qualification Primary Firearm

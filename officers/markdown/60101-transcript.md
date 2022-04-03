@@ -142,6 +142,10 @@
 | 11/10/2020 | PDP04229 | 2020 Advanced Academy Police Vehicle Ops (Other) | Passed | 0.0 | 4.50 |
 | 11/9/2020 | PDP22811 | 2020 Advanced Academy Patrol Procedures (Other) | Passed | 0.0 | 2.00 |
 | 10/29/2020 | PDP13843 | 2020 Advanced Academy Orientation and Expectations | Passed | 0.0 | 1.00 |
+| 10/15/2020 | PDP07522 | 2020 Gap Academy Crisis Intervention Training | Passed | 0.0 | 14.00 |
+| 10/15/2020 | PDP21600 | 2020 Gap Academy Fitness | Passed | 0.0 | 2.00 |
+| 10/15/2020 | PDP28721 | 2020 Gap Academy Law | Passed | 0.0 | 41.00 |
+| 10/8/2020 | PDP34682 | 2020 Gap Academy Bike Training | Passed | 0.0 | 20.00 |
 | 9/28/2020 | PDP22310 | 2019-11 City Attorney's Office Legal Updates 11/19 | Passed | 0.0 | 0.25 |
 | 9/28/2020 | PDP17303 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
 | 9/28/2020 | PDP42651 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |

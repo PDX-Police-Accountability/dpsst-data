@@ -107,7 +107,11 @@
 | 10/25/2020 | PDP44040 | 2020 City Attorney's Office ACLU/Bushong TRO Tng | Passed | 0.0 | 0.25 |
 | 10/17/2020 | PDP11258 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
 | 10/17/2020 | PDP06968 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
+| 10/15/2020 | PDP07522 | 2020 Gap Academy Crisis Intervention Training | Passed | 0.0 | 14.00 |
+| 10/15/2020 | PDP21600 | 2020 Gap Academy Fitness | Passed | 0.0 | 2.00 |
+| 10/15/2020 | PDP28721 | 2020 Gap Academy Law | Passed | 0.0 | 41.00 |
 | 10/14/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/8/2020 | PDP34682 | 2020 Gap Academy Bike Training | Passed | 0.0 | 20.00 |
 | 10/7/2020 | PDP23847 | 2020-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/7/2020 | PDP03569 | 2020-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 10/7/2020 | PDP19472 | 2020-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

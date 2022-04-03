@@ -3,12 +3,18 @@
   :name: Hunzeker, Brian D.
   :dpsst_identifier: '39600'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 3/1/2022
+  :agency: Portland Police Bureau
+  :action: Discharged
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 5/26/2021
   :agency: Portland Police Bureau
   :action: LOA
@@ -27,21 +33,21 @@
   :level: Advanced
   :status: Granted
   :certificate_date: 2/13/2012
-  :expiration_date: ''
+  :expiration_date: 6/1/2022
   :probation_date: ''
 - :status_date: 2/13/2012
   :certificate: Police Officer
   :level: Intermediate
   :status: Granted
   :certificate_date: 2/13/2012
-  :expiration_date: ''
+  :expiration_date: 6/1/2022
   :probation_date: ''
 - :status_date: 10/11/2001
   :certificate: Police Officer
   :level: Basic
   :status: Granted
   :certificate_date: 10/11/2001
-  :expiration_date: ''
+  :expiration_date: 6/1/2022
   :probation_date: ''
 :training_records:
 - :date: 12/31/2021

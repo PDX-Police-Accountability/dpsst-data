@@ -258,7 +258,7 @@
 | Hertzler, Gabri B. | [39513](../markdown/39513-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Abrahamson, David A. | [39564](../markdown/39564-transcript.md) | Portland Police Bureau | Active | Captain |
 | Kemple, David F. | [39589](../markdown/39589-transcript.md) | Portland Police Bureau | Active | Police Officer |
-| Hunzeker, Brian D. | [39600](../markdown/39600-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Hunzeker, Brian D. | [39600](../markdown/39600-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Stroh, Delton K. | [39607](../markdown/39607-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Myers, Jeffrey R. | [39608](../markdown/39608-transcript.md) | Portland Police Bureau | Inactive | Detective |
 | Nagy, Patrick J. | [39612](../markdown/39612-transcript.md) | Portland Police Bureau | Active | Police Officer |
