@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/25/2022 | CAP37217 | HB 2513 Airway and Circulatory Crisis Legislation | Passed | 0.0 | 2.00 |
 | 3/16/2022 | F6R37504 | Patrol Rifle Fundamentals and Qualification | Passed | 0.0 | 3.00 |
 | 12/30/2021 | CAP39861 | Hazmat / Bloodborne Pathogens | Passed | 0.0 | 3.00 |
 | 12/30/2021 | CAP40262 | Prison Rape Elimination Act / PREA | Passed | 0.0 | 1.00 |

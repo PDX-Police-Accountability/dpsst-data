@@ -29,6 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2022 | F6R27961 | CPR and First Aid Refresher Training | Passed | 0.0 | 2.00 |
+| 3/15/2022 | F6R01453 | Use of Force Legislative and Policy Reviews | Instructed | 0.0 | 6.00 |
+| 3/3/2022 | F6R04359 | Firearms Transition and Reload Drills | Instructed | 0.0 | 1.00 |
+| 3/3/2022 | F6R14638 | Lateral Officer Firearms Training  Qualification | Passed | 0.0 | 1.00 |
 | 1/18/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/29/2020 | PDP04652 | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 12/27/2020 | PDP07824 | 2020-10 City Attorney's Office Legal Updates 10/20 | Passed | 0.0 | 0.25 |

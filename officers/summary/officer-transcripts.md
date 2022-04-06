@@ -110,6 +110,7 @@
 | Jamison, Matthew F. | [31898](../markdown/31898-transcript.md) | Portland Police Bureau | Inactive | Sergeant |
 | Abrahamson, Susan D. | [31943](../markdown/31943-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | McGuire, Brendan P. | [31951](../markdown/31951-transcript.md) | Portland Police Bureau | Active | Detective |
+| Hubbard, Brian D. | [32024](../markdown/32024-transcript.md) | Portland Police Bureau | Active | Detective |
 | Stewart, Gregory J. | [32025](../markdown/32025-transcript.md) | Portland Police Bureau | Inactive | Lieutenant |
 | Holbrook, Max J. | [32026](../markdown/32026-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Christensen, Jason S. | [32069](../markdown/32069-transcript.md) | Portland Police Bureau | Inactive | Detective |
@@ -119,6 +120,7 @@
 | Holthausen, Richard J. | [32146](../markdown/32146-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Tsukimura, Lance H. | [32308](../markdown/32308-transcript.md) | Portland Police Bureau | Active | Criminalist |
 | Hughes, Heather R. | [32358](../markdown/32358-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Derry, Ryan W. | [32366](../markdown/32366-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Darby, James P. | [32384](../markdown/32384-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Edwards, John M. | [32391](../markdown/32391-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Hern, Paul W. | [32396](../markdown/32396-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -131,6 +133,7 @@
 | Schell, Martin D. | [32700](../markdown/32700-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Weseman, George W. | [32718](../markdown/32718-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Phothivongsa, Ney | [32938](../markdown/32938-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Steinbronn, Richard E. | [32940](../markdown/32940-transcript.md) | Portland Police Bureau | Inactive | Sergeant |
 | Harris, Sean W. | [32992](../markdown/32992-transcript.md) | Portland Police Bureau | Active | Detective |
 | Powell, Heather C. | [33027](../markdown/33027-transcript.md) | Portland Police Bureau | Active | Criminalist |
 | Brennan, Thomas J. | [33125](../markdown/33125-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -195,6 +198,7 @@
 | Hughes, Michele M. | [36818](../markdown/36818-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Tobey, Nathan A. | [36819](../markdown/36819-transcript.md) | Portland Police Bureau | Active | Detective |
 | Nakamura, Arthur J. | [36820](../markdown/36820-transcript.md) | Portland Police Bureau | Active | Commander |
+| Kenagy, Christopher J. | [36821](../markdown/36821-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Hollan, Angela E. | [36825](../markdown/36825-transcript.md) | Portland Police Bureau | Active | Detective |
 | Quackenbush, James P. | [36875](../markdown/36875-transcript.md) | Portland Police Bureau | Inactive | Lieutenant |
 | Whitcanack, Ryan J. | [36879](../markdown/36879-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -212,6 +216,7 @@
 | Padilla, Martin A. | [37143](../markdown/37143-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Nebling, Vance A. | [37144](../markdown/37144-transcript.md) | Portland Police Bureau | Active | Criminalist |
 | Morinville, Steven M. | [37145](../markdown/37145-transcript.md) | Portland Police Bureau | Active | Detective |
+| Macomber, Sean P. | [37147](../markdown/37147-transcript.md) | Portland Police Bureau | Active | Detective |
 | Manus, Kathryne E. | [37151](../markdown/37151-transcript.md) | Portland Police Bureau | Active | Detective |
 | Clifton, Brad E. | [37152](../markdown/37152-transcript.md) | Portland Police Bureau | Active | Detective |
 | Jacquot, Steven R. | [37153](../markdown/37153-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -243,6 +248,7 @@
 | Davidson, Benjamin J. | [38108](../markdown/38108-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Carmon, Derek L. | [38197](../markdown/38197-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Miller, Robert D. | [38512](../markdown/38512-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Strohmeyer, Erik D. | [38637](../markdown/38637-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Graf, Jason A. | [38791](../markdown/38791-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Feist, Andrew D. | [38844](../markdown/38844-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Morgan, Craig S. | [38846](../markdown/38846-transcript.md) | Portland Police Bureau | Active | Lieutenant |
@@ -264,6 +270,7 @@
 | Nagy, Patrick J. | [39612](../markdown/39612-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Truong, Robby T. | [39642](../markdown/39642-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Christensen, Brent W. | [39643](../markdown/39643-transcript.md) | Portland Police Bureau | Active | Detective |
+| Devlin, Chris L. | [39644](../markdown/39644-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Hunt, Jonathan N. | [39646](../markdown/39646-transcript.md) | Portland Police Bureau | Active | Detective |
 | Wiley, Laura J. | [39651](../markdown/39651-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Cox, Michael B. | [39653](../markdown/39653-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -286,6 +293,7 @@
 | Kile, Davis W. | [40572](../markdown/40572-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Zanetti, Anthony R. | [40588](../markdown/40588-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Dow, Garrett E. | [40590](../markdown/40590-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Fields, Travis W. | [40613](../markdown/40613-transcript.md) | Portland Police Bureau | Inactive | Detective |
 | Cavalli, Anthony P. | [40614](../markdown/40614-transcript.md) | Portland Police Bureau | Active | Detective |
 | McCollister, Scott R. | [40709](../markdown/40709-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Musser, Jennifer M. | [40710](../markdown/40710-transcript.md) | Portland Police Bureau | Active | Detective |
@@ -293,6 +301,7 @@
 | Wolf, Kevin J. | [40799](../markdown/40799-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Akom, Marshall K. | [40835](../markdown/40835-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Clary, Justin L. | [40926](../markdown/40926-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Frashour, Ronald G., III | [40927](../markdown/40927-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Kofoed, Andrew R. | [40928](../markdown/40928-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Manus, Matthew Q. | [40929](../markdown/40929-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Maxey, Brent S. | [40930](../markdown/40930-transcript.md) | Portland Police Bureau | Active | Sergeant |
@@ -520,6 +529,7 @@
 | Bigoni, Matthew R. | [50904](../markdown/50904-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Jacobsen, Matthew B. | [50933](../markdown/50933-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Huspek, Matthew S. | [50974](../markdown/50974-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
+| Hearst, Andrew L. | [50996](../markdown/50996-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Stoffel, Thomas B., Jr. | [51020](../markdown/51020-transcript.md) | Portland Police Bureau | Active | Criminalist |
 | Ramic, Adi | [51049](../markdown/51049-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Flippo, Zachary R. | [51054](../markdown/51054-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -584,6 +594,7 @@
 | Raphael, Justin M. | [52780](../markdown/52780-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Hansen, Matthew J. | [52786](../markdown/52786-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Brooks, David M. | [52787](../markdown/52787-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Jimenez, Jose J. | [52792](../markdown/52792-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Lemke, Jena L. | [52801](../markdown/52801-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Hallington, Chase R. | [52803](../markdown/52803-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Marrs, Colby C. | [52826](../markdown/52826-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -637,6 +648,7 @@
 | Whitmore, Anthony J. | [56159](../markdown/56159-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Ivarsson, Emmy M. | [56217](../markdown/56217-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Trapp, Todd D. | [56260](../markdown/56260-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
+| Brostean, Lucas W. | [56548](../markdown/56548-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Moussallem, Robert T. | [56549](../markdown/56549-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Ross, Alexandra S. | [56566](../markdown/56566-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Costanzo, Mychal G. | [56593](../markdown/56593-transcript.md) | Portland Police Bureau | Active | Police Officer |

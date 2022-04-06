@@ -43,6 +43,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/25/2022
+  :course: CAP37217
+  :title: HB 2513 Airway and Circulatory Crisis Legislation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/16/2022
   :course: F6R37504
   :title: Patrol Rifle Fundamentals and Qualification

@@ -64,6 +64,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/18/2022
+  :course: VND29018
+  :title: Collective Bargaining for Public Safety Employees
+  :status: ''
+  :score: '0.0'
+  :hours: '15.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

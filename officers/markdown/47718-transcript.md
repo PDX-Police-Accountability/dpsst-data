@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/18/2022 | VND29018 | Collective Bargaining for Public Safety Employees |  | 0.0 | 15.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/11/2022 | VND14067 | Introduction to Police Union Representation | Passed | 0.0 | 8.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
