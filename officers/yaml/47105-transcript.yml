@@ -30,6 +30,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/2/2022
+  :course: PDP16040
+  :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

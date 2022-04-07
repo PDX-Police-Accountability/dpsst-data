@@ -87,6 +87,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/17/2022
+  :course: PDP35017
+  :title: 2022 Advanced Shotgun Operator Course Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '18.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

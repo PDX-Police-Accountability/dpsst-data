@@ -75,6 +75,12 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 11/7/2022
+  :course: 22-0026
+  :title: DPSST Middle Management
+  :status: Registered
+  :score: '0.0'
+  :hours: '80.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

@@ -1,0 +1,86 @@
+---
+:header_record:
+  :name: Pearce, Andrew B.
+  :dpsst_identifier: '61941'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/27/2021
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 5/27/2021
+  :certificate: Police Officer
+  :level: Basic
+  :status: Required
+  :certificate_date: ''
+  :expiration_date: ''
+  :probation_date: 11/27/2022
+:training_records:
+- :date: 11/27/2022
+  :course: M11-19A
+  :title: DPSST Police Officer Field Training Manual
+  :status: Required
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 12/27/2021
+  :course: PDP27111
+  :title: WMD/Terrorism Awareness for Emergency Responders
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/22/2021
+  :course: M10-21A
+  :title: DPSST Basic Police Course
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 7/29/2021
+  :course: PDP32847
+  :title: ICS-100 Intro to the Incident Cmmnd System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/29/2021
+  :course: PDP21108
+  :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/29/2021
+  :course: PDP40956
+  :title: IS-700 National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/26/2021
+  :course: PDP42411
+  :title: 2021 FTEP Pre-DPSST Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '19.00'
+- :date: 7/22/2021
+  :course: PDP35087
+  :title: 2021 FTEP Pre-DPSST Use of Force Class
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/20/2021
+  :course: PDP14760
+  :title: 2021 FTEP Policy and Procedure
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 8/2/2021
+  :expiration_date: ''
+:education_records: []

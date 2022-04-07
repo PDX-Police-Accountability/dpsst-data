@@ -1,0 +1,152 @@
+---
+:header_record:
+  :name: Mount, Rory J.
+  :dpsst_identifier: '62018'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/15/2021
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 7/15/2021
+  :certificate: Police Officer
+  :level: Basic
+  :status: Required
+  :certificate_date: ''
+  :expiration_date: ''
+  :probation_date: 1/15/2023
+:training_records:
+- :date: 1/15/2023
+  :course: M11-19A
+  :title: DPSST Police Officer Field Training Manual
+  :status: Required
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 1/18/2022
+  :course: PDP41911
+  :title: Radar/LIDAR Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 1/13/2022
+  :course: PDP35600
+  :title: WMD/Terrorism Awareness for Emergency Responders
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/12/2022
+  :course: PDP38692
+  :title: RegJIN RMS/MRE Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 1/10/2022
+  :course: PDP11483
+  :title: Directive 630.15 Foot Pursuits Video Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/10/2022
+  :course: PDP14510
+  :title: Directive 630.15 Foot Pursuits Video Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/6/2022
+  :course: PDP41418
+  :title: 2022 FTEP Post Basic Taser
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/5/2022
+  :course: PDP14317
+  :title: 2022 FTEP Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.50'
+- :date: 1/4/2022
+  :course: PDP28703
+  :title: 2022 FTEP Post-DPSST Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/22/2021
+  :course: M10-21A
+  :title: DPSST Basic Police Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
+- :date: 11/26/2021
+  :course: PDP14553
+  :title: WMD/Terrorism Awareness for Emergency Responders
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/17/2021
+  :course: BPT21848
+  :title: SFST/DID BP410
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 10/28/2021
+  :course: F6F38551
+  :title: Intox 8000 Bp 410
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 7/29/2021
+  :course: PDP40956
+  :title: IS-700 National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/26/2021
+  :course: PDP42411
+  :title: 2021 FTEP Pre-DPSST Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '19.00'
+- :date: 7/26/2021
+  :course: PDP41627
+  :title: DOJ Settlement Agreement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/22/2021
+  :course: PDP35087
+  :title: 2021 FTEP Pre-DPSST Use of Force Class
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/20/2021
+  :course: PDP14760
+  :title: 2021 FTEP Policy and Procedure
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 9/17/2019
+  :course: PDP32847
+  :title: ICS-100 Intro to the Incident Cmmnd System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/17/2019
+  :course: PDP21108
+  :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 8/2/2021
+  :expiration_date: ''
+:education_records: []

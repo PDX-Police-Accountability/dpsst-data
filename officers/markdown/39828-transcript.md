@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2022 | PDP35017 | 2022 Advanced Shotgun Operator Course Training | Passed | 0.0 | 18.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/4/2022 | PDP25828 | Legal Updates and OIS Training | Passed | 0.0 | 2.00 |
 | 1/4/2022 | PDP32654 | SFST Refresher Training | Passed | 0.0 | 2.00 |

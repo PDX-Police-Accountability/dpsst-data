@@ -3,12 +3,18 @@
   :name: Blair, John C.
   :dpsst_identifier: '32401'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 4/1/2022
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 3/14/1997
   :agency: Portland Police Bureau
   :action: Hired
@@ -33,21 +39,21 @@
   :level: Advanced
   :status: Granted
   :certificate_date: 11/23/2010
-  :expiration_date: ''
+  :expiration_date: 7/1/2022
   :probation_date: ''
 - :status_date: 11/23/2010
   :certificate: Police Officer
   :level: Intermediate
   :status: Granted
   :certificate_date: 11/23/2010
-  :expiration_date: ''
+  :expiration_date: 7/1/2022
   :probation_date: ''
 - :status_date: 1/13/1998
   :certificate: Police Officer
   :level: Basic
   :status: Granted
   :certificate_date: 1/13/1998
-  :expiration_date: ''
+  :expiration_date: 7/1/2022
   :probation_date: ''
 :training_records:
 - :date: 1/9/2022
