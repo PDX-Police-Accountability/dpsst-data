@@ -46,6 +46,8 @@
 | 11/20/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/20/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/20/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/22/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/22/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/10/2021 | PDP15334 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 10/10/2021 | PDP00308 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 10/10/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
@@ -60,6 +62,7 @@
 | 9/23/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/23/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/23/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/23/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/4/2021 | PDP44301 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 5/19/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/19/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

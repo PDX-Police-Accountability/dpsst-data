@@ -46,6 +46,9 @@
 | 11/17/2021 | PDP26000 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |
 | 11/17/2021 | PDP38317 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 11/17/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
+| 10/24/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/24/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/24/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 9/19/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/19/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 9/19/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
@@ -63,6 +66,7 @@
 | 7/19/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/19/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/19/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 5/24/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 3/22/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/22/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 2/22/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |

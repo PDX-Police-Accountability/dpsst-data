@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/26/2022
+  :course: MNS16260
+  :title: MILO, Senario Based Training
+  :status: ''
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 2/26/2022
   :course: F6R24260
   :title: Crisis Medicine

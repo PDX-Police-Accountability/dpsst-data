@@ -42,6 +42,8 @@
 | 11/14/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/14/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 10/28/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 10/27/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/23/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 9/28/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 9/20/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/20/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |

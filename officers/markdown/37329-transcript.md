@@ -58,6 +58,7 @@
 | 11/6/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/6/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/6/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/30/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/5/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/30/2021 | PDP27008 | ICS-300 Imd Incdt Cmmnd Systm for Expndng Incdts | Passed | 0.0 | 27.00 |
@@ -73,6 +74,7 @@
 | 9/7/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/7/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/7/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/7/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/4/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/9/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/31/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |

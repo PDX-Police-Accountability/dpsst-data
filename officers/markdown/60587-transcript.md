@@ -43,11 +43,15 @@
 | 11/27/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
 | 11/11/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/5/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
+| 10/23/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/23/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/13/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 9/14/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/14/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/14/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/14/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/14/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/14/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/11/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/11/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 9/11/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -146,6 +150,7 @@
 | 6/4/2020 | PDP44130 | 2020 Zoom Academy CIT | Passed | 0.0 | 14.50 |
 | 6/4/2020 | PDP23118 | 2020 Zoom Academy Wellness | Passed | 0.0 | 13.50 |
 | 6/4/2020 | PDP23494 | 2020 Zoom Academy Police Vehicle Operations | Passed | 0.0 | 4.50 |
+| 6/4/2020 | PDP18331 | 2020 Zoom Academy VanPort Equity | Passed | 0.0 | 2.00 |
 | 5/24/2020 | PDP42743 | 2018-5 TipsTech 100% Collect/Submn Model | Passed | 0.0 | 0.25 |
 | 5/24/2020 | PDP15894 | 2019-11 City Attorney's Legal Updates for 11/2019 | Passed | 0.0 | 0.25 |
 | 5/24/2020 | PDP26717 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |

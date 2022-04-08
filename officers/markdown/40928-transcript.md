@@ -62,6 +62,7 @@
 | 11/1/2021 | PDP43996 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 11/1/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/1/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/14/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 10/4/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/4/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/30/2021 | PDP34164 | 2021 AR-15 Operators In-Service Training | Passed | 0.0 | 9.00 |
@@ -71,6 +72,7 @@
 | 9/29/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/29/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/29/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/29/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/31/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/31/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/31/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |

@@ -31,6 +31,8 @@
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 11/14/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/25/2021 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 10/15/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/13/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/12/2021 | PDP36361 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 4.00 |
 | 10/8/2021 | PDP24268 | 2020-2 City Attorney's Legal Updates for 2/2020 | Passed | 0.0 | 0.50 |
 | 10/8/2021 | PDP07180 | 2017-4 CAO Legal Updates for Q4 - Supp Update | Passed | 0.0 | 0.25 |

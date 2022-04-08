@@ -29,7 +29,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/20/2021 | 5/20/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2019 | 12/31/2019 |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,6 +53,8 @@
 | 11/30/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/9/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/9/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/15/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/15/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/7/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/5/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/5/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
@@ -64,6 +65,7 @@
 | 9/7/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/7/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/7/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/7/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/27/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/27/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/27/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
@@ -167,6 +169,7 @@
 | 1/14/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 1/14/2020 | PDP14732 | 2020 Youth Educating Police Training | Passed | 0.0 | 0.75 |
 | 12/31/2019 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 3.25 |
+| 12/31/2019 | MISCMAIN | 2019 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/18/2019 | PDP21868 | 2019 Sworn In-Service-CIT/MH Crisis Response Upd | Passed | 0.0 | 1.00 |
 | 11/18/2019 | PDP23047 | 2019 Sworn In-Service-Functional Mvmt Stretch | Passed | 0.0 | 1.00 |
 | 11/18/2019 | PDP04820 | 2019 Training Sworn InService-Leadership:Org Excel | Passed | 0.0 | 1.00 |

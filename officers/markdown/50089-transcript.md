@@ -56,6 +56,8 @@
 | 11/9/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/20/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/13/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/13/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/7/2021 | PDP15334 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP00308 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP05712 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
@@ -74,6 +76,7 @@
 | 10/5/2021 | PDP01317 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 10/5/2021 | PDP40149 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP39837 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 3/27/2021 | PDP20959 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 3/25/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |

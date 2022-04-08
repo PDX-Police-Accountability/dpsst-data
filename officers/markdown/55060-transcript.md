@@ -70,6 +70,7 @@
 | 9/9/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/9/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/9/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/9/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/8/2021 | PDP00117 | EDU Weekly Training | Passed | 0.0 | 10.00 |
 | 9/2/2021 | PDP34164 | 2021 AR-15 Operators In-Service Training | Passed | 0.0 | 9.00 |
 | 9/2/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |

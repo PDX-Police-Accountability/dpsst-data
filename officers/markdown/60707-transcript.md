@@ -117,6 +117,7 @@
 | 6/4/2020 | PDP44130 | 2020 Zoom Academy CIT | Passed | 0.0 | 14.50 |
 | 6/4/2020 | PDP23118 | 2020 Zoom Academy Wellness | Passed | 0.0 | 13.50 |
 | 6/4/2020 | PDP23494 | 2020 Zoom Academy Police Vehicle Operations | Passed | 0.0 | 4.50 |
+| 6/4/2020 | PDP18331 | 2020 Zoom Academy VanPort Equity | Passed | 0.0 | 2.00 |
 | 6/2/2020 | PDP07089 | 2019-12 City Attorney's Legal Updates for 12/2019 | Passed | 0.0 | 0.50 |
 | 6/2/2020 | PDP35084 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 5/23/2020 | PDP15894 | 2019-11 City Attorney's Legal Updates for 11/2019 | Passed | 0.0 | 0.25 |

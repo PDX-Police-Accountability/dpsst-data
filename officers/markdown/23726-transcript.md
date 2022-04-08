@@ -59,8 +59,11 @@
 | 11/23/2021 | PDP34501 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
 | 11/23/2021 | PDP26000 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |
 | 11/23/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
+| 10/26/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/21/2021 | F6F33189 | ABC's of Online Child Exploitation - ICAC. | Passed | 0.0 | 8.00 |
 | 10/21/2021 | PDP33056 | ABCs of Online Child Exploitation Investigations | Passed | 0.0 | 8.00 |
+| 10/20/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/20/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/19/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/19/2021 | PDP40610 | 2021-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 9/20/2021 | PDP34164 | 2021 AR-15 Operators In-Service Training | Passed | 0.0 | 9.00 |
@@ -70,6 +73,7 @@
 | 9/16/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/16/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/16/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/16/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/9/2021 | PDP40070 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 9/2/2021 | PDP12539 | Child Sex Trafficking From Suspicion to Disclosure | Passed | 0.0 | 7.00 |
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |

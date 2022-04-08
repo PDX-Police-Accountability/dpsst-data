@@ -59,6 +59,7 @@
 | 9/1/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/1/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/1/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/1/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 3/31/2021 | PDP41447 | ICS-400 Adv ICS Cmmnd  General-Complex Incidents | Passed | 0.0 | 15.15 |
 | 3/30/2021 | PDP35764 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 3/19/2021 | PDP08608 | ICS-300 Intermediate Incident Command System (ICS) | Passed | 0.0 | 22.17 |

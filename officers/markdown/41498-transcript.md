@@ -58,6 +58,9 @@
 | 11/18/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/18/2021 | PDP04055 | 2021-3 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 10/29/2021 | PDP05739 | ICS Train-the-Trainer (L-449) | Passed | 0.0 | 30.50 |
+| 10/22/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/22/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/22/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/12/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/12/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/22/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -71,6 +74,7 @@
 | 9/1/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/1/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/1/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/1/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/18/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 7/27/2021 | PDP09395 | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 7/23/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |

@@ -47,6 +47,7 @@
 | 11/3/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 10/27/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/27/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/15/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 9/30/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
@@ -56,6 +57,7 @@
 | 9/2/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/2/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/2/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/2/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/27/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/27/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/27/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
@@ -159,6 +161,7 @@
 | 6/4/2020 | PDP44130 | 2020 Zoom Academy CIT | Passed | 0.0 | 14.50 |
 | 6/4/2020 | PDP39614 | 2020 Zoom Academy Patrol Procedures | Passed | 0.0 | 4.00 |
 | 6/4/2020 | PDP23494 | 2020 Zoom Academy Police Vehicle Operations | Passed | 0.0 | 4.50 |
+| 6/4/2020 | PDP18331 | 2020 Zoom Academy VanPort Equity | Passed | 0.0 | 2.00 |
 | 4/7/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |
 | 4/7/2020 | PDP36368 | 2020 Training Sworn InService Wellness Mindfulness | Passed | 0.0 | 1.00 |
 | 4/7/2020 | PDP09408 | 2020 Training Sworn In-Service Wellness Nutrition | Passed | 0.0 | 1.00 |

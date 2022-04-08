@@ -30,10 +30,13 @@
 | 1/15/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 10/25/2021 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 10/21/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP33880 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 10/13/2021 | PDP19909 | 2020-8 City Attorney's Legal Updates for 8/2020 | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP10436 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP22350 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
+| 10/13/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/13/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/12/2021 | PDP36361 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 4.00 |
 | 10/8/2021 | PDP03535 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 10/8/2021 | PDP00466 | 2020-10 City Attorney's Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

@@ -71,12 +71,15 @@
 | 11/8/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 10/29/2021 | PDP17532 | LAPD Academy Instructor Certification | Passed | 0.0 | 40.00 |
 | 10/18/2021 | PDP33775 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 1.25 |
+| 10/18/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/18/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 9/30/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 9/21/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/21/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/21/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/21/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/21/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/21/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/27/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/27/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/24/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |

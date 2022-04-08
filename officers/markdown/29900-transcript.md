@@ -66,6 +66,7 @@
 | 11/7/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP23257 | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP41617 | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
+| 10/28/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/26/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/8/2021 | PDP35804 | Enhanced All-Hazards Incident Mngmnt/Unified Cmmnd | Passed | 0.0 | 28.00 |
 | 10/1/2021 | PDP02402 | SWAT Commander Course | Passed | 0.0 | 40.00 |
@@ -74,6 +75,7 @@
 | 9/1/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/1/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/1/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/1/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/29/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/29/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/29/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |

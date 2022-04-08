@@ -67,6 +67,8 @@
 | 11/9/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 11/5/2021 | PDP36899 | FBI Basic Crisis Negotiation | Passed | 0.0 | 40.00 |
 | 10/21/2021 | PDP16920 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 10/19/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/19/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/18/2021 | PDP19407 | 2021-2 AR-15 Patrol Rifle Operators Training | Instructed | 0.0 | 9.00 |
 | 10/7/2021 | PDP09249 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 10/7/2021 | PDP36011 | 2021-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
@@ -83,6 +85,7 @@
 | 9/8/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/8/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/8/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/8/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/2/2021 | PDP31557 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 8/29/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/29/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

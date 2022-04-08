@@ -59,7 +59,9 @@
 | 11/2/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/2/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/2/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/14/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/12/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/12/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 9/30/2021 | F6F15045 | Credit Card Frauds and Other Side Hustles \ | Passed | 0.0 | 2.00 |
 | 9/30/2021 | F6F07026 | Informant Management - Sergeant Barry, Ragsdale | Passed | 0.0 | 2.00 |
 | 9/30/2021 | F6F15532 | HIDTA Information Collection | Passed | 0.0 | 2.00 |
@@ -76,6 +78,7 @@
 | 9/24/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/24/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/24/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/24/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/23/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/23/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 9/21/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

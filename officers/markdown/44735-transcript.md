@@ -55,6 +55,9 @@
 | 11/9/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/9/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/5/2021 | PDP10881 | PSPSA Wellness on the Front Line | Passed | 0.0 | 28.00 |
+| 10/28/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/12/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/12/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/8/2021 | PDP09494 | 2021 PPB Honor Guard In-Service Training | Passed | 0.0 | 18.00 |
 | 10/4/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/4/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
@@ -65,6 +68,7 @@
 | 9/15/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/15/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/15/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/15/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/4/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -80,6 +84,7 @@
 | 6/23/2021 | PDP34288 | 2021 EAP Program and Resources Updates | Instructed | 0.0 | 4.00 |
 | 6/18/2021 | PDP01463 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
 | 6/15/2021 | PDP34510 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/24/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 4/6/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 4/6/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 4/6/2021 | PDP19698 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |

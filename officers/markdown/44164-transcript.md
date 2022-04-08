@@ -75,6 +75,7 @@
 | 6/24/2021 | PDP06069 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/18/2021 | PDP01463 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 5/24/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/4/2021 | PDP19763 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/12/2021 | PDP02175 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 4/8/2021 | PDP16419 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |

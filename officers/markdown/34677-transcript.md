@@ -73,6 +73,8 @@
 | 10/19/2021 | PDP11442 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 10/19/2021 | PDP09332 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 10/19/2021 | PDP22350 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
+| 10/19/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/19/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/15/2021 | PDP33775 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 1.25 |
 | 10/14/2021 | PDP37099 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 10/14/2021 | PDP33463 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
@@ -111,6 +113,7 @@
 | 9/22/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/22/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/22/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/22/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/16/2021 | PDP24872 | Return to Work Firearms | Passed | 0.0 | 4.00 |
 | 8/13/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 8/13/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

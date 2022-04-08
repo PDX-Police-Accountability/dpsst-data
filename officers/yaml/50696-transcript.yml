@@ -336,6 +336,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.83'
+- :date: 9/8/2021
+  :course: PDP42579
+  :title: 2021 Crowd Control Training Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 9/6/2021
   :course: PDP12662
   :title: 2021-9 Tips  Tech Dangers of High/Extreme Heat
@@ -3099,10 +3105,6 @@
   :value: First Aid and CPR
   :effective_date: 6/17/2021
   :expiration_date: 6/17/2023
-- :topic: Certification Cards
-  :value: First Aid and CPR
-  :effective_date: 6/5/2021
-  :expiration_date: 6/5/2023
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2020

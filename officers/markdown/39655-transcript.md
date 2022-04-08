@@ -77,6 +77,7 @@
 | 9/27/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/27/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/27/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/27/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/23/2021 | PDP04767 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 9/22/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/22/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
@@ -106,6 +107,7 @@
 | 6/10/2021 | PDP40127 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/3/2021 | PDP42193 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/27/2021 | PDP17314 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 5/24/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/20/2021 | PDP31055 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/20/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/20/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

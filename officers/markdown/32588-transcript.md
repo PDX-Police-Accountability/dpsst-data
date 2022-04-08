@@ -60,6 +60,8 @@
 | 11/3/2021 | PDP43996 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 11/3/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/3/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/27/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/27/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 9/21/2021 | PDP30142 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 9/10/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/10/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

@@ -50,6 +50,7 @@
 | 11/7/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 11/2/2021 | PDP43996 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 11/2/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
+| 10/23/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 10/12/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/12/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 10/11/2021 | PDP36011 | 2021-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

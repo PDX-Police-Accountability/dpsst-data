@@ -63,6 +63,9 @@
 | 11/10/2021 | HBS01975 | Dignitary Protection | Instructed | 0.0 | 8.00 |
 | 11/2/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 11/2/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/25/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/25/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/25/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/21/2021 | PDP16920 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 10/14/2021 | PDP28723 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 10/7/2021 | PDP09249 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
@@ -85,6 +88,7 @@
 | 9/8/2021 | PDP17417 | Crowd Control Training Intro | Passed | 0.0 | 0.08 |
 | 9/8/2021 | PDP25625 | Crowd Control Training Mobile Field Force Process | Passed | 0.0 | 0.42 |
 | 9/8/2021 | PDP02126 | Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
+| 9/8/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/2/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/12/2021 | PDP02229 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 8/5/2021 | PDP19409 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |

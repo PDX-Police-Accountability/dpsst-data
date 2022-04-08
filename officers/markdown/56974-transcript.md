@@ -56,6 +56,7 @@
 | 9/20/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/20/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/20/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/20/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/11/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/11/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/11/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

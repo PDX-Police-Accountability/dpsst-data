@@ -52,6 +52,8 @@
 | 11/8/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/8/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/8/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/19/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/19/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/17/2021 | PDP33357 | 2021 K-9 Basic Obedience Training | Instructed | 0.0 | 8.00 |
 | 10/13/2021 | PDP34042 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 4.50 |
 | 10/5/2021 | PDP36011 | 2021-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
@@ -61,6 +63,7 @@
 | 9/28/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/28/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/28/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/28/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/16/2021 | PDP22578 | 2021 SERT Training - Classroom | Passed | 0.0 | 3.00 |
 | 9/16/2021 | PDP13847 | 2021 SERT Training - Iteration | Passed | 0.0 | 4.50 |
 | 9/15/2021 | PDP31443 | OPCA Fall Seminar | Passed | 0.0 | 24.00 |

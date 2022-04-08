@@ -55,7 +55,10 @@
 | 10/26/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 10/26/2021 | PDP19148 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 10/26/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/25/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/18/2021 | PDP34471 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
+| 10/18/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/18/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 5/13/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/13/2021 | PDP09667 | 2021-2 Range Qualification Secondary (25 Rd) | Passed | 0.0 | 0.50 |
 | 5/13/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

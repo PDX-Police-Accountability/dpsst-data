@@ -42,11 +42,15 @@
 | 12/4/2021 | PDP30674 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 12/1/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 12/1/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/30/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/23/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/23/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 9/27/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/27/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/27/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/27/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/27/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/27/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/20/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/4/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/4/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
@@ -155,6 +159,7 @@
 | 6/4/2020 | PDP44130 | 2020 Zoom Academy CIT | Passed | 0.0 | 14.50 |
 | 6/4/2020 | PDP23118 | 2020 Zoom Academy Wellness | Passed | 0.0 | 17.50 |
 | 6/4/2020 | PDP23494 | 2020 Zoom Academy Police Vehicle Operations | Passed | 0.0 | 4.50 |
+| 6/4/2020 | PDP18331 | 2020 Zoom Academy VanPort Equity | Passed | 0.0 | 2.00 |
 | 5/14/2020 | F6D26132 | SFST/DID BP397 (Hours included in basic) | Passed | 0.0 | 0.00 |
 | 4/7/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |
 | 4/7/2020 | PDP36368 | 2020 Training Sworn InService Wellness Mindfulness | Passed | 0.0 | 1.00 |

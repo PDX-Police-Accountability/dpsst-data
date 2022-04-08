@@ -120,6 +120,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 10/15/2021
+  :course: PDP24543
+  :title: 2020-11 City Attorney's Legal Updates for 11/2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/30/2021
   :course: PDP16333
   :title: 2021 Training Emergency Entry Recap Video
@@ -174,6 +180,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.83'
+- :date: 9/2/2021
+  :course: PDP42579
+  :title: 2021 Crowd Control Training Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 8/27/2021
   :course: PDP12662
   :title: 2021-9 Tips  Tech Dangers of High/Extreme Heat
@@ -792,6 +804,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.50'
+- :date: 6/4/2020
+  :course: PDP18331
+  :title: 2020 Zoom Academy VanPort Equity
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 4/7/2020
   :course: PDP16593
   :title: 2020 Training Sworn InService Wellness HeartHealth

@@ -198,6 +198,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.00'
+- :date: 9/29/2021
+  :course: PDP42579
+  :title: 2021 Crowd Control Training Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 9/20/2021
   :course: PDP04285
   :title: 2021 OSHA Heat Illness Prevention Video
@@ -2335,14 +2341,6 @@
   :value: First Aid and CPR
   :effective_date: 6/4/2021
   :expiration_date: 6/4/2023
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2020
-  :expiration_date: 12/31/2020
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2019
-  :expiration_date: 12/31/2019
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 9/2/2008

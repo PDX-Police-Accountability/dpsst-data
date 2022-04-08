@@ -58,6 +58,7 @@
 | 11/13/2021 | PDP27234 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 11/13/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/13/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 10/28/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 9/13/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/9/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/9/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

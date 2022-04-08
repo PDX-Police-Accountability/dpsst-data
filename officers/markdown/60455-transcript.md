@@ -56,6 +56,7 @@
 | 9/9/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/9/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/9/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/9/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/5/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/5/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 9/5/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
@@ -164,6 +165,7 @@
 | 6/4/2020 | PDP44130 | 2020 Zoom Academy CIT | Passed | 0.0 | 10.50 |
 | 6/4/2020 | PDP23118 | 2020 Zoom Academy Wellness | Passed | 0.0 | 13.50 |
 | 6/4/2020 | PDP23494 | 2020 Zoom Academy Police Vehicle Operations | Passed | 0.0 | 4.50 |
+| 6/4/2020 | PDP18331 | 2020 Zoom Academy VanPort Equity | Passed | 0.0 | 2.00 |
 | 5/14/2020 | F6D26132 | SFST/DID BP397 (Hours included in basic) | Passed | 0.0 | 0.00 |
 | 4/7/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |
 | 4/7/2020 | PDP36368 | 2020 Training Sworn InService Wellness Mindfulness | Passed | 0.0 | 1.00 |

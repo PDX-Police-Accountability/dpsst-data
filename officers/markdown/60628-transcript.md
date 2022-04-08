@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/17/2021 | 5/17/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/22/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 2/17/2020 |  |
@@ -40,6 +42,9 @@
 | 11/22/2021 | PDP38317 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 11/22/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
 | 11/4/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
+| 10/25/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/12/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/12/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/11/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/11/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/30/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -48,6 +53,7 @@
 | 9/13/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/13/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/13/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/13/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/11/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
@@ -158,6 +164,7 @@
 | 6/4/2020 | PDP05674 | 2020 Zoom Academy CEW | Passed | 0.0 | 1.50 |
 | 6/4/2020 | PDP44130 | 2020 Zoom Academy CIT | Passed | 0.0 | 14.50 |
 | 6/4/2020 | PDP23494 | 2020 Zoom Academy Police Vehicle Operations | Passed | 0.0 | 4.50 |
+| 6/4/2020 | PDP18331 | 2020 Zoom Academy VanPort Equity | Passed | 0.0 | 2.00 |
 | 5/20/2020 | PDP15894 | 2019-11 City Attorney's Legal Updates for 11/2019 | Passed | 0.0 | 0.25 |
 | 5/20/2020 | PDP02257 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
 | 4/7/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |

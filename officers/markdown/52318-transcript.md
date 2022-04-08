@@ -50,11 +50,15 @@
 | 11/23/2021 | PDP43275 | 2021 Sworn Supervisor In-Service Proceed. Justice | Passed | 0.0 | 1.30 |
 | 11/23/2021 | PDP42678 | 2021 Sworn Supervisor In-Service Crit. Incid. Mgmt | Passed | 0.0 | 3.50 |
 | 11/23/2021 | 17726 | 2021 Sworn Supervisor In-Service Lead  Wellness | Passed | 0.0 | 1.00 |
+| 10/22/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/21/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
+| 10/14/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 9/27/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/27/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/27/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |
 | 9/27/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/27/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
+| 9/27/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/24/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/10/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/10/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

@@ -58,6 +58,10 @@
 | 11/22/2021 | 17726 | 2021 Sworn Supervisor In-Service Lead  Wellness | Passed | 0.0 | 1.00 |
 | 11/15/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 10/29/2021 | F6F22412 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
+| 10/28/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/12/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/12/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
+| 10/5/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 10/4/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 10/4/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 10/4/2021 | PDP19148 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
