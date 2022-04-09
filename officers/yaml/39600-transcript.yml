@@ -31,21 +31,21 @@
 - :status_date: 2/13/2012
   :certificate: Police Officer
   :level: Advanced
-  :status: Granted
+  :status: Granted-UR
   :certificate_date: 2/13/2012
   :expiration_date: 6/1/2022
   :probation_date: ''
 - :status_date: 2/13/2012
   :certificate: Police Officer
   :level: Intermediate
-  :status: Granted
+  :status: Granted-UR
   :certificate_date: 2/13/2012
   :expiration_date: 6/1/2022
   :probation_date: ''
 - :status_date: 10/11/2001
   :certificate: Police Officer
   :level: Basic
-  :status: Granted
+  :status: Granted-UR
   :certificate_date: 10/11/2001
   :expiration_date: 6/1/2022
   :probation_date: ''

@@ -36,6 +36,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/9/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/4/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2
@@ -48,6 +54,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/4/2022
+  :course: PDP04025
+  :title: Foot Pursuits (effective 01/14/2022)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 12/17/2021
   :course: PDP34689
   :title: 2021-5 City Attorney's Legal Updates for 5/2021

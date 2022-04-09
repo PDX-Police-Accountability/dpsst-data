@@ -30,6 +30,60 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/11/2022
+  :course: PDP06390
+  :title: 2021-10 City Attorney's Legal Update for Oct. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2022
+  :course: PDP10575
+  :title: 2022 EAP-Crisis Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/11/2022
+  :course: PDP25308
+  :title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2022
+  :course: PDP17743
+  :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2022
+  :course: PDP23946
+  :title: 2021-9 City Attorney's Legal Update for Sept. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2022
+  :course: PDP04336
+  :title: CIU NTR Alarm Resp. Reed Research Nuclear Reactor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2022
+  :course: PDP34522
+  :title: Interacting with Member LGBTQIA2S+ Chief's Message
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/15/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/15/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

@@ -24,6 +24,54 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/19/2022
+  :course: PDP06390
+  :title: 2021-10 City Attorney's Legal Update for Oct. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/12/2022
+  :course: PDP34522
+  :title: Interacting with Member LGBTQIA2S+ Chief's Message
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/7/2022
+  :course: PDP17743
+  :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/7/2022
+  :course: PDP04336
+  :title: CIU NTR Alarm Resp. Reed Research Nuclear Reactor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/15/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/15/2022
+  :course: PDP23946
+  :title: 2021-9 City Attorney's Legal Update for Sept. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/6/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
+- :date: 1/30/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/16/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2
@@ -36,6 +84,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/16/2022
+  :course: PDP04025
+  :title: Foot Pursuits (effective 01/14/2022)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/5/2022
+  :course: PDP18543
+  :title: 2021-4 City Attorney's Legal Updates April 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/5/2022
+  :course: PDP32763
+  :title: 2021-3 City Attorney's Legal Updates March 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 12/27/2021
   :course: PDP22486
   :title: 2021-7 City Attorney's Legal Updates for 7/2021

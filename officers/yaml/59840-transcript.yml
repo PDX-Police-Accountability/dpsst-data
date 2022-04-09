@@ -9,6 +9,12 @@
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 4/19/2022
+  :agency: Oregon City Police Department
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 4/26/2021
   :agency: Portland Police Bureau
   :action: Return LOA
@@ -36,6 +42,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/28/2022
+  :course: PDP38815
+  :title: OSU Modified Duty Cold Call-Taking Training Report
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/14/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/11/2022
   :course: E11PDP19
   :title: FTM Equivalency Review (Portland Police Bureau)

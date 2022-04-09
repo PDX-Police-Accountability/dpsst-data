@@ -62,12 +62,114 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/24/2022
+  :course: PDP06390
+  :title: 2021-10 City Attorney's Legal Update for Oct. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/24/2022
+  :course: PDP10575
+  :title: 2022 EAP-Crisis Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/24/2022
+  :course: PDP25308
+  :title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP17743
+  :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP23946
+  :title: 2021-9 City Attorney's Legal Update for Sept. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP04336
+  :title: CIU NTR Alarm Resp. Reed Research Nuclear Reactor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP34522
+  :title: Interacting with Member LGBTQIA2S+ Chief's Message
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/21/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/21/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
+- :date: 1/21/2022
+  :course: PDP11657
+  :title: Acting Sergeant Orientation and Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/21/2022
+  :course: PDP08888
+  :title: After Action Reports PowerPoint
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/21/2022
+  :course: PDP37562
+  :title: HR Rule 2.02 Workplace Harassment and Retaliation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
+- :date: 1/21/2022
+  :course: PDP27650
+  :title: UDAR Guide - Approving (10/04/2018)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.08'
+- :date: 1/21/2022
+  :course: PDP23083
+  :title: UDAR Guide - Coaches Pay (10/04/2018)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.08'
+- :date: 1/21/2022
+  :course: PDP32655
+  :title: UDAR Guide - Requesting (10/04/2018)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.08'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/7/2022
+  :course: PDP03066
+  :title: '2020 Managing Critical Incidents Well: Sgts. Role'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 12/31/2021
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

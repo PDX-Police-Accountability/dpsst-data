@@ -24,6 +24,42 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/7/2022
+  :course: PDP25973
+  :title: 2021 Online Crowd Control - CAO Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/7/2022
+  :course: PDP33654
+  :title: 2021 Online Crowd Control - Force Reporting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.83'
+- :date: 2/7/2022
+  :course: PDP03989
+  :title: 2021 Online Crowd Control - CAO Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/7/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/6/2022
+  :course: PDP42279
+  :title: 2021 Online Crowd Control - Mobile Field Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.42'
+- :date: 2/6/2022
+  :course: PDP09877
+  :title: 2021 Online Crowd Control - Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 12/17/2021
   :course: PDP18034
   :title: 2021 Online Crowd Control - Chief's Message

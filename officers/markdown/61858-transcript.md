@@ -34,9 +34,19 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
+| 1/25/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
+| 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/12/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/12/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
+| 1/12/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 1/12/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
+| 1/5/2022 | PDP25973 | 2021 Online Crowd Control - CAO Part 1 | Passed | 0.0 | 1.00 |
+| 1/5/2022 | PDP03989 | 2021 Online Crowd Control - CAO Part 2 | Passed | 0.0 | 1.00 |
+| 1/4/2022 | PDP33654 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
+| 1/4/2022 | PDP42279 | 2021 Online Crowd Control - Mobile Field Force | Passed | 0.0 | 0.42 |
+| 1/4/2022 | PDP09877 | 2021 Online Crowd Control - Procedural Justice | Passed | 0.0 | 0.75 |
+| 1/4/2022 | PDP17171 | 2021 Online Crowd Control - Chief's Message | Passed | 0.0 | 0.25 |
 | 12/16/2021 | PDP38796 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 2.00 |
 | 12/14/2021 | PDP44453 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
 | 12/14/2021 | PDP34689 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |

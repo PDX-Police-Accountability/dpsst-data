@@ -24,12 +24,30 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 1/14/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
 - :date: 1/13/2022
   :course: PDP33779
   :title: 2022-1 Field Training Officer (FTO) Certification
   :status: Passed
   :score: '0.0'
   :hours: '36.00'
+- :date: 1/13/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/13/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

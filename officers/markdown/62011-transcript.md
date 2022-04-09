@@ -28,6 +28,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/21/2022 | PDP40158 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP23499 | 2021-2 City Attorney's Legal Updates for Feb 2021 | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP12295 | 2021-12 Tips and Tech. Req. Emerg. Ping of a Cell | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP32763 | 2021-3 City Attorney's Legal Updates March 2021 | Passed | 0.0 | 0.50 |
+| 3/21/2022 | PDP18543 | 2021-4 City Attorney's Legal Updates April 2021 | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP07177 | 2021-7 City Attorney's Legal Updates for July 2021 | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP33002 | 2021-6 City Attorney's Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 3/21/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 3/21/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
+| 3/21/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 11/14/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/25/2021 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |

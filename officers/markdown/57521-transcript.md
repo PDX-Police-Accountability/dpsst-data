@@ -38,8 +38,35 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
+| 3/22/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 3/22/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 2/18/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
+| 2/18/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
+| 2/18/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 2/18/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 1/15/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 1/15/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/9/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/9/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
+| 1/9/2022 | PDP41670 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/9/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 1/9/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
+| 1/7/2022 | PDP30287 | 2021 Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 1/7/2022 | PDP32661 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP40158 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP03989 | 2021 Online Crowd Control - CAO Part 2 | Passed | 0.0 | 1.00 |
+| 1/7/2022 | PDP39942 | 2021-10 Tips and Tech. Citation-in-Lieu-of-Cust. | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP23499 | 2021-2 City Attorney's Legal Updates for Feb 2021 | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP28218 | 2021-1 City Attorney's Legal Updates for Jan. 2021 | Passed | 0.0 | 0.50 |
+| 1/7/2022 | PDP12295 | 2021-12 Tips and Tech. Req. Emerg. Ping of a Cell | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP18543 | 2021-4 City Attorney's Legal Updates April 2021 | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP32763 | 2021-3 City Attorney's Legal Updates March 2021 | Passed | 0.0 | 0.50 |
+| 1/7/2022 | PDP33002 | 2021-6 City Attorney's Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP07177 | 2021-7 City Attorney's Legal Updates for July 2021 | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP04738 | 2021-7 Tips and Techniques Bureau Utility Knives | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP39825 | 2021-11 Tips and Tech. Unlawful Street Takeover | Passed | 0.0 | 0.25 |
+| 1/7/2022 | PDP07309 | 2021-9 Tips and Tech. Protect Workers Extreme Heat | Passed | 0.0 | 0.50 |
 | 12/27/2021 | PDP06976 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
 | 12/27/2021 | PDP13899 | 2021 Online Crowd Control - CAO Part 1 | Passed | 0.0 | 1.00 |
 | 12/26/2021 | PDP24608 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |

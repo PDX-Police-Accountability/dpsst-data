@@ -30,12 +30,150 @@
   :status: Required
   :score: '0.0'
   :hours: '50.00'
+- :date: 3/14/2022
+  :course: PDP06390
+  :title: 2021-10 City Attorney's Legal Update for Oct. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/14/2022
+  :course: PDP17743
+  :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/14/2022
+  :course: PDP10575
+  :title: 2022 EAP-Crisis Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/14/2022
+  :course: PDP25308
+  :title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/14/2022
+  :course: PDP04336
+  :title: CIU NTR Alarm Resp. Reed Research Nuclear Reactor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/14/2022
+  :course: PDP34522
+  :title: Interacting with Member LGBTQIA2S+ Chief's Message
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP23946
+  :title: 2021-9 City Attorney's Legal Update for Sept. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/31/2022
+  :course: PDP41670
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/31/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/31/2022
+  :course: PDP32661
+  :title: 2021 OSHA Heat Illness Prevention Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/31/2022
+  :course: PDP07309
+  :title: 2021-9 Tips and Tech. Protect Workers Extreme Heat
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/18/2022
   :course: PDP41911
   :title: Radar/LIDAR Training
   :status: Passed
   :score: '0.0'
   :hours: '18.00'
+- :date: 1/18/2022
+  :course: PDP39942
+  :title: 2021-10 Tips and Tech. Citation-in-Lieu-of-Cust.
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP23499
+  :title: 2021-2 City Attorney's Legal Updates for Feb 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP28218
+  :title: 2021-1 City Attorney's Legal Updates for Jan. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/18/2022
+  :course: PDP12295
+  :title: 2021-12 Tips and Tech. Req. Emerg. Ping of a Cell
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP18543
+  :title: 2021-4 City Attorney's Legal Updates April 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP32763
+  :title: 2021-3 City Attorney's Legal Updates March 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/18/2022
+  :course: PDP33002
+  :title: 2021-6 City Attorney's Legal Updates for June 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP39825
+  :title: 2021-11 Tips and Tech. Unlawful Street Takeover
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP07177
+  :title: 2021-7 City Attorney's Legal Updates for July 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP36236
+  :title: 2021-8 Tips and Techniques Ballot Measure 110
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/18/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
 - :date: 1/13/2022
   :course: PDP35600
   :title: WMD/Terrorism Awareness for Emergency Responders
@@ -57,6 +195,42 @@
 - :date: 1/10/2022
   :course: PDP11483
   :title: Directive 630.15 Foot Pursuits Video Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/10/2022
+  :course: PDP08855
+  :title: 2021 Training Emergency Entry Recap Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/10/2022
+  :course: PDP30287
+  :title: 2021 Response to Calls Involving Youth
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 1/10/2022
+  :course: PDP40158
+  :title: 2021 Language Access-Util Bilingual Bureau Members
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/10/2022
+  :course: PDP04025
+  :title: Foot Pursuits (effective 01/14/2022)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/9/2022
+  :course: PDP13897
+  :title: 2020-12 City Attorney's Legal Updates Dec. 2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/9/2022
+  :course: PDP26426
+  :title: 2020-11 City Attorney's Legal Update Nov. 2020
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

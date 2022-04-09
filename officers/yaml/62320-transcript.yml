@@ -60,6 +60,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '7.00'
+- :date: 2/7/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/26/2022
+  :course: PDP22752
+  :title: DOJ Settlement Agreement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 :attribute_records:
 - :topic: Code of Ethics
   :value: Law Enforcement Signed

@@ -35,8 +35,24 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 3/8/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 3/7/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 2/18/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
+| 2/18/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/17/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
+| 2/9/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 2/2/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 2/1/2022 | PDP11657 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.00 |
+| 2/1/2022 | PDP08888 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 2/1/2022 | PDP37562 | HR Rule 2.02 Workplace Harassment and Retaliation | Passed | 0.0 | 0.15 |
+| 2/1/2022 | PDP27650 | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
+| 2/1/2022 | PDP23083 | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
+| 2/1/2022 | PDP32655 | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
+| 1/26/2022 | PDP03066 | 2020 Managing Critical Incidents Well: Sgts. Role | Passed | 0.0 | 0.25 |
 | 1/12/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/12/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
+| 1/12/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2021 | PDP03342 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

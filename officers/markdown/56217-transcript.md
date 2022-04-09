@@ -33,6 +33,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2022 | PDP13897 | 2020-12 City Attorney's Legal Updates Dec. 2020 | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP08855 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP26426 | 2020-11 City Attorney's Legal Update Nov. 2020 | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP39942 | 2021-10 Tips and Tech. Citation-in-Lieu-of-Cust. | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP28218 | 2021-1 City Attorney's Legal Updates for Jan. 2021 | Passed | 0.0 | 0.50 |
+| 3/9/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 2/22/2022 | PDP41670 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
+| 2/10/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
+| 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 2/10/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/1/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 2/1/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/13/2022 | PDP33779 | 2022-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/30/2021 | PDP44453 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |

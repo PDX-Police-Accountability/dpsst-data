@@ -49,12 +49,36 @@
   :expiration_date: 7/24/2023
   :probation_date: ''
 :training_records:
+- :date: 2/12/2022
+  :course: PDP04336
+  :title: CIU NTR Alarm Resp. Reed Research Nuclear Reactor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/3/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/3/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/6/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/1/2022
   :course: PDP11483
   :title: Directive 630.15 Foot Pursuits Video Part 1
@@ -67,6 +91,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/1/2022
+  :course: PDP04025
+  :title: Foot Pursuits (effective 01/14/2022)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 12/24/2021
   :course: PDP25196
   :title: 2021 Online Crowd Control - Mobile Field Force

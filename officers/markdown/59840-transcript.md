@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/19/2022 | Oregon City Police Department | Hired | Police Off |  |  |
 | 4/26/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 9/10/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/27/2019 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -33,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2022 | PDP38815 | OSU Modified Duty Cold Call-Taking Training Report | Passed | 0.0 | 0.25 |
+| 2/14/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/11/2022 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 10/14/2021 | PDP12308 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 9/17/2021 | PDP08038 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |

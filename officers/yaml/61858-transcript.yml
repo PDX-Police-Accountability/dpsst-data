@@ -48,12 +48,24 @@
   :status: Registered
   :score: '0.0'
   :hours: '200.00'
+- :date: 1/25/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
 - :date: 1/18/2022
   :course: PDP41911
   :title: Radar/LIDAR Training
   :status: Passed
   :score: '0.0'
   :hours: '18.00'
+- :date: 1/13/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/12/2022
   :course: PDP11483
   :title: Directive 630.15 Foot Pursuits Video Part 1
@@ -63,6 +75,54 @@
 - :date: 1/12/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/12/2022
+  :course: PDP30218
+  :title: 2021 Training New Pistol Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/12/2022
+  :course: PDP04025
+  :title: Foot Pursuits (effective 01/14/2022)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/5/2022
+  :course: PDP25973
+  :title: 2021 Online Crowd Control - CAO Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/5/2022
+  :course: PDP03989
+  :title: 2021 Online Crowd Control - CAO Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/4/2022
+  :course: PDP33654
+  :title: 2021 Online Crowd Control - Force Reporting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.83'
+- :date: 1/4/2022
+  :course: PDP42279
+  :title: 2021 Online Crowd Control - Mobile Field Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.42'
+- :date: 1/4/2022
+  :course: PDP09877
+  :title: 2021 Online Crowd Control - Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 1/4/2022
+  :course: PDP17171
+  :title: 2021 Online Crowd Control - Chief's Message
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

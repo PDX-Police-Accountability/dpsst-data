@@ -38,6 +38,12 @@
 | 3/3/2022 | PDP19566 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 3/2/2022 | PDP38827 | 2022 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/1/2022 | PDP14848 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 2/13/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
+| 2/13/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
+| 2/13/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/12/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 2/12/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 2/12/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP14970 | 2022 SERT Training - Classroom | Passed | 0.0 | 9.00 |
 | 2/3/2022 | PDP20181 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 1/20/2022 | PDP18876 | 2022-2 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |

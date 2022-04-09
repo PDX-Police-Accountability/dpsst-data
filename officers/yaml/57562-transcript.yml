@@ -9,6 +9,12 @@
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 4/1/2022
+  :agency: Oregon City Police Department
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 5/21/2020
   :agency: Portland Police Bureau
   :action: Hired
@@ -43,6 +49,42 @@
   :expiration_date: 5/20/2025
   :probation_date: ''
 :training_records:
+- :date: 3/10/2022
+  :course: PDP17743
+  :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2022
+  :course: PDP23946
+  :title: 2021-9 City Attorney's Legal Update for Sept. 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2022
+  :course: PDP04336
+  :title: CIU NTR Alarm Resp. Reed Research Nuclear Reactor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2022
+  :course: PDP34522
+  :title: Interacting with Member LGBTQIA2S+ Chief's Message
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP02637
+  :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.15'
+- :date: 1/13/2022
+  :course: PDP34045
+  :title: 2022 Training 3M N Series Helmet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 12/16/2021
   :course: PDP34689
   :title: 2021-5 City Attorney's Legal Updates for 5/2021

@@ -29,6 +29,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2022 | PDP25973 | 2021 Online Crowd Control - CAO Part 1 | Passed | 0.0 | 1.00 |
+| 2/7/2022 | PDP33654 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
+| 2/7/2022 | PDP03989 | 2021 Online Crowd Control - CAO Part 2 | Passed | 0.0 | 1.00 |
+| 2/7/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 2/6/2022 | PDP42279 | 2021 Online Crowd Control - Mobile Field Force | Passed | 0.0 | 0.42 |
+| 2/6/2022 | PDP09877 | 2021 Online Crowd Control - Procedural Justice | Passed | 0.0 | 0.75 |
 | 12/17/2021 | PDP18034 | 2021 Online Crowd Control - Chief's Message | Passed | 0.0 | 0.25 |
 | 12/17/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 12/17/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

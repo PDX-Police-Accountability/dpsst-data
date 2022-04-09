@@ -34,7 +34,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
+| 3/11/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/9/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 2/24/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
+| 2/24/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
+| 2/24/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 2/24/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/3/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 1/29/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/6/2022 | PDP03066 | 2020 Managing Critical Incidents Well: Sgts. Role | Passed | 0.0 | 0.25 |
+| 1/6/2022 | PDP11657 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.00 |
+| 1/6/2022 | PDP08888 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 1/6/2022 | PDP37562 | HR Rule 2.02 Workplace Harassment and Retaliation | Passed | 0.0 | 0.15 |
+| 1/6/2022 | PDP27650 | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.08 |
+| 1/6/2022 | PDP23083 | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
+| 1/6/2022 | PDP32655 | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.08 |
 | 12/15/2021 | PDP36885 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 12/15/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 12/15/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
