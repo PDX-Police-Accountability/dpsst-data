@@ -1,5 +1,5 @@
 ## Transcripts
-| name | dpsst_identifier | agency | employment_status | rank |
+| [name](./officer-transcripts-by-name) | [dpsst_identifier](./officer-transcripts-by-dpsst-identifier) | [agency](./officer-transcripts-by-agency) | [employment_status](./officer-transcripts-by-employement-status) | [rank](./officer-transcripts-by-rank) |
 | ---- | ---------------- | ------ | ----------------- | ---- |
 | Smith, Michael R. | [17975](../markdown/17975-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Klinger, Scott R. | [21705](../markdown/21705-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
