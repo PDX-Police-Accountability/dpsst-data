@@ -49,6 +49,7 @@
 | 11/14/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/25/2021 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/15/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/15/2021 | PDP16282 | 2021-11 TipsTech Unlawful Street Takeovers.Events | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/12/2021 | PDP36361 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 4.00 |
 | 10/8/2021 | PDP24268 | 2020-2 City Attorney's Legal Updates for 2/2020 | Passed | 0.0 | 0.50 |
@@ -63,6 +64,8 @@
 | 10/8/2021 | PDP07437 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 10/8/2021 | PDP22350 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 10/8/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 10/8/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 10/8/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP00466 | 2020-10 City Attorney's Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP36270 | 2020-3 City Attorney's Legal Updates for 3/2020 | Passed | 0.0 | 0.50 |
 | 10/7/2021 | PDP40730 | 2020-7 City Attorney's Legal Updates for 7/2020 | Passed | 0.0 | 0.75 |
@@ -84,6 +87,7 @@
 | 10/6/2021 | PDP19148 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 10/6/2021 | PDP21900 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP39837 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 10/6/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/5/2021 | PDP37099 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP29245 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 10/5/2021 | PDP09533 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
@@ -106,6 +110,7 @@
 | 10/5/2021 | PDP36809 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP37420 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP21156 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP11513 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/26/2021 | PDP23242 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
 | 8/26/2021 | PDP30836 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

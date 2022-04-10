@@ -66,8 +66,12 @@
 | 11/23/2021 | PDP42678 | 2021 Sworn Supervisor In-Service Crit. Incid. Mgmt | Passed | 0.0 | 3.50 |
 | 11/23/2021 | 17726 | 2021 Sworn Supervisor In-Service Lead  Wellness | Passed | 0.0 | 1.00 |
 | 10/19/2021 | PDP23257 | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
+| 10/19/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/19/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 10/14/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 10/14/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
+| 10/14/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
+| 10/14/2021 | PDP16282 | 2021-11 TipsTech Unlawful Street Takeovers.Events | Passed | 0.0 | 0.25 |
 | 9/23/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/23/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/23/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |

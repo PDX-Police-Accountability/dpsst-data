@@ -84,6 +84,8 @@
 | 10/19/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/18/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 10/18/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/18/2021 | PDP16282 | 2021-11 TipsTech Unlawful Street Takeovers.Events | Passed | 0.0 | 0.25 |
+| 10/18/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 6/8/2021 | PDP29780 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/19/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/18/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

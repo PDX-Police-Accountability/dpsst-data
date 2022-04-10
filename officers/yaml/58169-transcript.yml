@@ -174,6 +174,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 10/24/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/24/2021
+  :course: PDP16282
+  :title: 2021-11 TipsTech Unlawful Street Takeovers.Events
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 10/18/2021
   :course: PDP04708
   :title: 2021 External Training ABLE Training Ethics
@@ -186,6 +198,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 10/10/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 9/25/2021
   :course: PDP16333
   :title: 2021 Training Emergency Entry Recap Video

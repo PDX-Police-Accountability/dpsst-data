@@ -348,6 +348,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/6/2021
+  :course: PDP17817
+  :title: 2021 Training Emergency Entry Recap Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/6/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/6/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 10/5/2021
   :course: PDP03535
   :title: '2021 Equity Training Series: Racism Part 2'
@@ -477,6 +495,12 @@
 - :date: 10/5/2021
   :course: PDP37420
   :title: 2021-3 Tips  Tech Ballot Measure 110 Summary
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/5/2021
+  :course: PDP21156
+  :title: 2021-7 Tips  Tech Bureau Issued Utility Knives
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

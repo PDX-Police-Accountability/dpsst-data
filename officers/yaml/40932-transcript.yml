@@ -261,6 +261,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '27.00'
+- :date: 10/18/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 10/15/2021
   :course: PDP22290
   :title: IS-800 National Response Framework
@@ -273,6 +279,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 10/6/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/28/2021
   :course: PDP16333
   :title: 2021 Training Emergency Entry Recap Video

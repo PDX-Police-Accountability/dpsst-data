@@ -296,6 +296,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/5/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/5/2021
+  :course: PDP17817
+  :title: 2021 Training Emergency Entry Recap Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/24/2021
   :course: PDP23280
   :title: Tech Installation in a High Voltage Environment

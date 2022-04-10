@@ -67,6 +67,7 @@
 | 11/9/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/20/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/15/2021 | PDP16282 | 2021-11 TipsTech Unlawful Street Takeovers.Events | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/7/2021 | PDP15334 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
@@ -76,11 +77,15 @@
 | 10/7/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP19148 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 10/7/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 10/7/2021 | PDP21156 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 10/7/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP03535 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP12630 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP34471 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP36011 | 2021-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 10/6/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/6/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/6/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP31326 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP36441 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP26391 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |

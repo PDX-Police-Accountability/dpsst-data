@@ -156,6 +156,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/26/2021
+  :course: PDP18114
+  :title: 2021-2 City Attorney's Legal Updates for 2/2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 10/21/2021
   :course: PDP04708
   :title: 2021 External Training ABLE Training Ethics
@@ -180,6 +186,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 10/6/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/6/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/5/2021
+  :course: PDP17817
+  :title: 2021 Training Emergency Entry Recap Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/19/2021
   :course: PDP12662
   :title: 2021-9 Tips  Tech Dangers of High/Extreme Heat

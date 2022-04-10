@@ -75,6 +75,7 @@
 | 10/29/2021 | PDP37040 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
 | 10/26/2021 | 21-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 10/21/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/21/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

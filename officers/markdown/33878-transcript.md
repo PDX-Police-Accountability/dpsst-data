@@ -73,6 +73,7 @@
 | 10/14/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/12/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/12/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 9/30/2021 | F6F15045 | Credit Card Frauds and Other Side Hustles \ | Passed | 0.0 | 2.00 |
 | 9/30/2021 | F6F07026 | Informant Management - Sergeant Barry, Ragsdale | Passed | 0.0 | 2.00 |
 | 9/30/2021 | F6F15532 | HIDTA Information Collection | Passed | 0.0 | 2.00 |

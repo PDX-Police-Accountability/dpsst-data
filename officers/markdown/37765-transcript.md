@@ -73,6 +73,9 @@
 | 10/11/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/11/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 10/5/2021 | PDP23257 | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/5/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 9/30/2021 | PDP27008 | ICS-300 Imd Incdt Cmmnd Systm for Expndng Incdts | Passed | 0.0 | 27.00 |
 | 9/21/2021 | PDP15081 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 9/21/2021 | PDP44242 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |

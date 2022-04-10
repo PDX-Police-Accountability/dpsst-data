@@ -168,6 +168,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 10/22/2021
+  :course: PDP17817
+  :title: 2021 Training Emergency Entry Recap Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/22/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/22/2021
+  :course: PDP16282
+  :title: 2021-11 TipsTech Unlawful Street Takeovers.Events
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 10/10/2021
   :course: PDP15334
   :title: 2021 Language Access - LanguageLine
@@ -207,6 +225,18 @@
 - :date: 10/10/2021
   :course: PDP19421
   :title: Online In-Service Directive 870.25 Holding Rooms
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/10/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/10/2021
+  :course: PDP21156
+  :title: 2021-7 Tips  Tech Bureau Issued Utility Knives
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

@@ -66,6 +66,7 @@
 | 11/3/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/3/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP34042 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 4.50 |
+| 10/13/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/8/2021 | PDP09494 | 2021 PPB Honor Guard In-Service Training | Passed | 0.0 | 18.00 |
 | 10/1/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/1/2021 | PDP40610 | 2021-3 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

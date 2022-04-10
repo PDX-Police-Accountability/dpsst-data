@@ -210,6 +210,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 10/18/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/18/2021
+  :course: PDP16282
+  :title: 2021-11 TipsTech Unlawful Street Takeovers.Events
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/4/2021
+  :course: PDP17817
+  :title: 2021 Training Emergency Entry Recap Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/29/2021
   :course: PDP01693
   :title: 2021 Training All Sworn Crowd Control Training CAO
@@ -1081,10 +1099,6 @@
   :value: First Aid and CPR
   :effective_date: 5/26/2021
   :expiration_date: 5/26/2023
-- :topic: Certification Cards
-  :value: First Aid and CPR
-  :effective_date: 7/7/2020
-  :expiration_date: 7/7/2022
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 6/10/2018

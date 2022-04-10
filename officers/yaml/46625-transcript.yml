@@ -217,12 +217,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/6/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 10/5/2021
   :course: PDP23257
   :title: 2021 PIO Twitter Basics
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/5/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 9/28/2021
   :course: PDP16333
   :title: 2021 Training Emergency Entry Recap Video

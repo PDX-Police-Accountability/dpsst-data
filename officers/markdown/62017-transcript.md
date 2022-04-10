@@ -81,6 +81,9 @@
 | 10/6/2021 | PDP00862 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP11442 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 10/6/2021 | PDP09332 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 10/6/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 10/6/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/6/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP03535 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP33880 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 10/5/2021 | PDP00466 | 2020-10 City Attorney's Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
@@ -103,6 +106,7 @@
 | 10/5/2021 | PDP34471 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP22350 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP37420 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP21156 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP11513 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/26/2021 | PDP23242 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
 | 8/26/2021 | PDP30836 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

@@ -78,6 +78,10 @@
 | 10/28/2021 | PDP23257 | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP41617 | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/28/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 10/28/2021 | PDP44558 | 2020-12 CAO Legal Updates for 12.2020-Updated | Passed | 0.0 | 0.25 |
+| 10/28/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/28/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/26/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/8/2021 | PDP35804 | Enhanced All-Hazards Incident Mngmnt/Unified Cmmnd | Passed | 0.0 | 28.00 |
 | 10/1/2021 | PDP02402 | SWAT Commander Course | Passed | 0.0 | 40.00 |

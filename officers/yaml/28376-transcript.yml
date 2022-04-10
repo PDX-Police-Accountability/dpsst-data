@@ -250,6 +250,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 10/14/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/13/2021
+  :course: PDP17817
+  :title: 2021 Training Emergency Entry Recap Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 10/4/2021
   :course: PDP04708
   :title: 2021 External Training ABLE Training Ethics
@@ -4409,14 +4421,6 @@
   :value: First Aid and CPR
   :effective_date: 6/17/2021
   :expiration_date: 6/17/2023
-- :topic: Certification Cards
-  :value: First Aid and CPR
-  :effective_date: 5/12/2021
-  :expiration_date: 5/12/2023
-- :topic: Certification Cards
-  :value: First Aid and CPR
-  :effective_date: 5/6/2020
-  :expiration_date: 5/6/2022
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 11/22/2010

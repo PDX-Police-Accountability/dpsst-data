@@ -86,6 +86,7 @@
 | 10/18/2021 | PDP39944 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 10/18/2021 | PDP28999 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 10/18/2021 | PDP19148 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 10/18/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 9/16/2021 | PDP22578 | 2021 SERT Training - Classroom | Passed | 0.0 | 3.00 |
 | 9/16/2021 | PDP13847 | 2021 SERT Training - Iteration | Passed | 0.0 | 4.50 |
 | 9/14/2021 | PDP17062 | 2021 SERT Training - Scenario | Passed | 0.0 | 8.50 |

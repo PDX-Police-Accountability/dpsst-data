@@ -24,6 +24,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/2/2022
+  :course: PDP40258
+  :title: IS-800 National Response Framework
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/1/2022
+  :course: PDP20628
+  :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/17/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -180,6 +192,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 10/25/2021
+  :course: PDP16282
+  :title: 2021-11 TipsTech Unlawful Street Takeovers.Events
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 10/21/2021
   :course: PDP04708
   :title: 2021 External Training ABLE Training Ethics
@@ -192,6 +210,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 10/19/2021
+  :course: PDP33847
+  :title: 2021 City of Portland Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/17/2021
+  :course: PDP15092
+  :title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/22/2021
   :course: PDP16333
   :title: 2021 Training Emergency Entry Recap Video

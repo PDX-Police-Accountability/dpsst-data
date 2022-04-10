@@ -86,6 +86,8 @@
 | 11/8/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
 | 11/5/2021 | PDP36899 | FBI Basic Crisis Negotiation | Passed | 0.0 | 40.00 |
 | 10/14/2021 | PDP28723 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 10/8/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/8/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP09249 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 10/7/2021 | PDP41288 | 2021-3 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 10/2/2021 | PDP36011 | 2021-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

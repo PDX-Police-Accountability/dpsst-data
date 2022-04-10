@@ -61,6 +61,8 @@
 | 10/29/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/29/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 10/20/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 10/14/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/8/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 9/29/2021 | F6F14611 | Undercover Techniques and Survival for Narcotics. | Passed | 0.0 | 2.00 |
 | 9/28/2021 | F6F02893 | Leadership During Adversity - Sergeant Barry Rag. | Passed | 0.0 | 4.00 |
 | 9/28/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |

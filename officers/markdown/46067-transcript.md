@@ -92,6 +92,7 @@
 | 10/21/2021 | PDP16920 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 10/18/2021 | PDP19407 | 2021-2 AR-15 Patrol Rifle Operators Training | Instructed | 0.0 | 18.00 |
 | 10/14/2021 | PDP28723 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 10/13/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP09249 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 10/4/2021 | PDP06807 | 2021 SERT Training - Classroom | Passed | 0.0 | 9.00 |
 | 9/28/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

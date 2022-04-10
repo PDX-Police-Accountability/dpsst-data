@@ -48,6 +48,7 @@
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 10/25/2021 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/21/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
+| 10/21/2021 | PDP44558 | 2020-12 CAO Legal Updates for 12.2020-Updated | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP33880 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 10/13/2021 | PDP19909 | 2020-8 City Attorney's Legal Updates for 8/2020 | Passed | 0.0 | 0.25 |
 | 10/13/2021 | PDP10436 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
@@ -65,6 +66,7 @@
 | 10/8/2021 | PDP26391 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 10/8/2021 | PDP11442 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 10/8/2021 | PDP09332 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 10/8/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP29033 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP31242 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP31326 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
@@ -89,6 +91,7 @@
 | 10/6/2021 | PDP39837 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP34471 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP07437 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 10/6/2021 | PDP33847 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/5/2021 | PDP07440 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 10/5/2021 | PDP29245 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 10/5/2021 | PDP31756 | 2020 Presumpt Declination of DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
@@ -103,6 +106,8 @@
 | 10/5/2021 | PDP12630 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP00052 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 10/5/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 10/5/2021 | PDP21156 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP11513 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/26/2021 | PDP23242 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
 | 8/26/2021 | PDP30836 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

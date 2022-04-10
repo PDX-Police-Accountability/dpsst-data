@@ -30,7 +30,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Code of Ethics | Signed | 5/4/2001 |  |
 ## Education
 | date | degree | school | major | hours |

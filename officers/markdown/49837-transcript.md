@@ -85,7 +85,10 @@
 | 10/29/2021 | PDP17532 | LAPD Academy Instructor Certification | Passed | 0.0 | 40.00 |
 | 10/21/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/21/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/20/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 10/20/2021 | PDP16282 | 2021-11 TipsTech Unlawful Street Takeovers.Events | Passed | 0.0 | 0.25 |
 | 10/7/2021 | PDP09249 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 10/6/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
 | 10/4/2021 | PDP06807 | 2021 SERT Training - Classroom | Passed | 0.0 | 9.00 |
 | 9/23/2021 | PDP04767 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 9/16/2021 | PDP22578 | 2021 SERT Training - Classroom | Passed | 0.0 | 3.00 |
