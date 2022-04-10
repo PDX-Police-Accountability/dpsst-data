@@ -2,9 +2,9 @@
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
 | * MISSING | 35319 |  |  |  | [md](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
+| * MISSING | 25247 |  |  |  | [md](../markdown/25247-transcript.md) - [yaml](../yaml/25247-transcript.yml) |
 | * MISSING | 29376 |  |  |  | [md](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
-| * MISSING | 40399 |  |  |  | [md](../markdown/40399-transcript.md) - [yaml](../yaml/40399-transcript.yml) |
-| * MISSING | 40400 |  |  |  | [md](../markdown/40400-transcript.md) - [yaml](../yaml/40400-transcript.yml) |
+| * MISSING | 32391 |  |  |  | [md](../markdown/32391-transcript.md) - [yaml](../yaml/32391-transcript.yml) |
 | Mitchell, Edgar O., Jr. | 22419 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/22419-transcript.md) - [yaml](../yaml/22419-transcript.yml) |
 | Frome, Michael A. | 22827 | Portland Police Bureau | Active | Deputy Chief | [md](../markdown/22827-transcript.md) - [yaml](../yaml/22827-transcript.yml) |
 | Michaelson, David K. | 23060 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/23060-transcript.md) - [yaml](../yaml/23060-transcript.yml) |
@@ -19,7 +19,6 @@
 | Outhaythip, Navarath | 24990 | Portland Police Bureau | Active | Criminalist | [md](../markdown/24990-transcript.md) - [yaml](../yaml/24990-transcript.yml) |
 | Daul, Chad R. | 25075 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/25075-transcript.md) - [yaml](../yaml/25075-transcript.yml) |
 | Turner, Daryl | 25221 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/25221-transcript.md) - [yaml](../yaml/25221-transcript.yml) |
-| Mason, Ronald L. | 25247 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/25247-transcript.md) - [yaml](../yaml/25247-transcript.yml) |
 | Lee, Kim E. | 25632 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/25632-transcript.md) - [yaml](../yaml/25632-transcript.yml) |
 | Schmitt, Tori L. | 25861 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/25861-transcript.md) - [yaml](../yaml/25861-transcript.yml) |
 | VanBlokland, Kelly C. | 26660 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/26660-transcript.md) - [yaml](../yaml/26660-transcript.yml) |
@@ -122,7 +121,6 @@
 | Hughes, Heather R. | 32358 | Portland Police Bureau | Active | Police Officer | [md](../markdown/32358-transcript.md) - [yaml](../yaml/32358-transcript.yml) |
 | Derry, Ryan W. | 32366 | Portland Police Bureau | Active | Police Officer | [md](../markdown/32366-transcript.md) - [yaml](../yaml/32366-transcript.yml) |
 | Darby, James P. | 32384 | Portland Police Bureau | Active | Sergeant | [md](../markdown/32384-transcript.md) - [yaml](../yaml/32384-transcript.yml) |
-| Edwards, John M. | 32391 | Portland Police Bureau | Active | Sergeant | [md](../markdown/32391-transcript.md) - [yaml](../yaml/32391-transcript.yml) |
 | Hern, Paul W. | 32396 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/32396-transcript.md) - [yaml](../yaml/32396-transcript.yml) |
 | Klundt, Karl J. | 32398 | Portland Police Bureau | Active | Police Officer | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
 | Blair, John C. | 32401 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/32401-transcript.md) - [yaml](../yaml/32401-transcript.yml) |
@@ -295,6 +293,8 @@
 | Broughton, Scott P. | 40218 | Portland Police Bureau | Active | Detective | [md](../markdown/40218-transcript.md) - [yaml](../yaml/40218-transcript.yml) |
 | Burkeen, Meghan H. | 40396 | Portland Police Bureau | Active | Detective | [md](../markdown/40396-transcript.md) - [yaml](../yaml/40396-transcript.yml) |
 | Gandy, Stephen W. | 40398 | Portland Police Bureau | Active | Detective | [md](../markdown/40398-transcript.md) - [yaml](../yaml/40398-transcript.yml) |
+| Mirau, Stephen L. | 40399 | Portland Police Bureau | Active | Sergeant | [md](../markdown/40399-transcript.md) - [yaml](../yaml/40399-transcript.yml) |
+| Michaels, Michele R. | 40400 | Portland Police Bureau | Active | Detective | [md](../markdown/40400-transcript.md) - [yaml](../yaml/40400-transcript.yml) |
 | Ring, Daniel L. | 40401 | Portland Police Bureau | Active | Police Officer | [md](../markdown/40401-transcript.md) - [yaml](../yaml/40401-transcript.yml) |
 | Johnson, Edward L. | 40420 | Portland Police Bureau | Active | Police Officer | [md](../markdown/40420-transcript.md) - [yaml](../yaml/40420-transcript.yml) |
 | Kile, Davis W. | 40572 | Portland Police Bureau | Active | Sergeant | [md](../markdown/40572-transcript.md) - [yaml](../yaml/40572-transcript.yml) |
