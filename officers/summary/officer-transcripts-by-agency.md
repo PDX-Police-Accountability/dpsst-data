@@ -1,14 +1,10 @@
 ## Transcripts (sorted by agency)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| * MISSING | 29376 |  |  |  | [md](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
 | * MISSING | 35319 |  |  |  | [md](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
+| * MISSING | 29376 |  |  |  | [md](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
 | * MISSING | 40399 |  |  |  | [md](../markdown/40399-transcript.md) - [yaml](../yaml/40399-transcript.yml) |
 | * MISSING | 40400 |  |  |  | [md](../markdown/40400-transcript.md) - [yaml](../yaml/40400-transcript.yml) |
-| Smith, Michael R. | 17975 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/17975-transcript.md) - [yaml](../yaml/17975-transcript.yml) |
-| Klinger, Scott R. | 21705 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/21705-transcript.md) - [yaml](../yaml/21705-transcript.yml) |
-| Sessions, Timothy E. | 21772 | Portland Police Bureau | Active | Sergeant | [md](../markdown/21772-transcript.md) - [yaml](../yaml/21772-transcript.yml) |
-| Anderson, Erin K. | 22178 | Portland Police Bureau | Active | Police Officer | [md](../markdown/22178-transcript.md) - [yaml](../yaml/22178-transcript.yml) |
 | Mitchell, Edgar O., Jr. | 22419 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/22419-transcript.md) - [yaml](../yaml/22419-transcript.yml) |
 | Frome, Michael A. | 22827 | Portland Police Bureau | Active | Deputy Chief | [md](../markdown/22827-transcript.md) - [yaml](../yaml/22827-transcript.yml) |
 | Michaelson, David K. | 23060 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/23060-transcript.md) - [yaml](../yaml/23060-transcript.yml) |
@@ -890,4 +886,8 @@
 | Salazar-Kachel, David A. | 62451 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62451-transcript.md) - [yaml](../yaml/62451-transcript.yml) |
 | Guevara, Rolando | 62452 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62452-transcript.md) - [yaml](../yaml/62452-transcript.yml) |
 | Hamilton, Madison S. | 62522 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62522-transcript.md) - [yaml](../yaml/62522-transcript.yml) |
+| Smith, Michael R. | 17975 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/17975-transcript.md) - [yaml](../yaml/17975-transcript.yml) |
 | Zook, Hunter W. | 62591 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62591-transcript.md) - [yaml](../yaml/62591-transcript.yml) |
+| Klinger, Scott R. | 21705 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/21705-transcript.md) - [yaml](../yaml/21705-transcript.yml) |
+| Sessions, Timothy E. | 21772 | Portland Police Bureau | Active | Sergeant | [md](../markdown/21772-transcript.md) - [yaml](../yaml/21772-transcript.yml) |
+| Anderson, Erin K. | 22178 | Portland Police Bureau | Active | Police Officer | [md](../markdown/22178-transcript.md) - [yaml](../yaml/22178-transcript.yml) |
