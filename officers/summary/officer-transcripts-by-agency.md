@@ -1,8 +1,8 @@
-## Transcripts (sorted by dpsst identifier)
+## Transcripts (sorted by agency)
 | [name](./officer-transcripts-by-name) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier) | [agency](./officer-transcripts-by-agency) | [employment status](./officer-transcripts-by-employment-status) | [rank](./officer-transcripts-by-rank) |
 | [----](./---------------------------) | [----- ----------](./---------------------------------------) | [------](./-----------------------------) | [---------- ------](./----------------------------------------) | [----](./---------------------------) |
-| Smith, Michael R. | [17975](../markdown/17975-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
-| Klinger, Scott R. | [21705](../markdown/21705-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
+| * MISSING TRANSCRIPT | [35319](../markdown/35319-transcript.md) |  |  |  |
+| * MISSING TRANSCRIPT | [29376](../markdown/29376-transcript.md) |  |  |  |
 | Sessions, Timothy E. | [21772](../markdown/21772-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Anderson, Erin K. | [22178](../markdown/22178-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Mitchell, Edgar O., Jr. | [22419](../markdown/22419-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
@@ -66,7 +66,6 @@
 | Elias, Jeffrey E. | [29338](../markdown/29338-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Birkinbine, John C. | [29351](../markdown/29351-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Francis, Jason K. | [29355](../markdown/29355-transcript.md) | Portland Police Bureau | Active | Police Officer |
-| * MISSING TRANSCRIPT | [29376](../markdown/29376-transcript.md) |  |  |  |
 | Pahlke, Timothy D. | [29378](../markdown/29378-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Andrusko, Steven L. | [29502](../markdown/29502-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Pool, Michael E. | [29520](../markdown/29520-transcript.md) | Portland Police Bureau | Active | Sergeant |
@@ -175,7 +174,6 @@
 | Fulitano, John A. | [35225](../markdown/35225-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Gradwahl, Chad E. | [35226](../markdown/35226-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Merrill, Anthony J. | [35227](../markdown/35227-transcript.md) | Portland Police Bureau | Active | Detective |
-| * MISSING TRANSCRIPT | [35319](../markdown/35319-transcript.md) |  |  |  |
 | Wolf, Jason M. | [35396](../markdown/35396-transcript.md) | Portland Police Bureau | Active | Sergeant |
 | Caspar, Andrew H. | [35444](../markdown/35444-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Macaulay, John A. | [35563](../markdown/35563-transcript.md) | Portland Police Bureau | Active | Police Officer |
@@ -890,4 +888,6 @@
 | Salazar-Kachel, David A. | [62451](../markdown/62451-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Guevara, Rolando | [62452](../markdown/62452-transcript.md) | Portland Police Bureau | Active | Police Officer |
 | Hamilton, Madison S. | [62522](../markdown/62522-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Smith, Michael R. | [17975](../markdown/17975-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Zook, Hunter W. | [62591](../markdown/62591-transcript.md) | Portland Police Bureau | Active | Police Officer |
+| Klinger, Scott R. | [21705](../markdown/21705-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
