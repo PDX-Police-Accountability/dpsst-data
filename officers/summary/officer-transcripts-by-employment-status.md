@@ -1,8 +1,8 @@
 ## Transcripts (sorted by employment status)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| * MISSING TRANSCRIPT | 35319 |  |  |  | [markdown](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
-| * MISSING TRANSCRIPT | 29376 |  |  |  | [markdown](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
+| * MISSING | 35319 |  |  |  | [markdown](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
+| * MISSING | 29376 |  |  |  | [markdown](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
 | Anderson, Erin K. | 22178 | Portland Police Bureau | Active | Police Officer | [markdown](../markdown/22178-transcript.md) - [yaml](../yaml/22178-transcript.yml) |
 | Frome, Michael A. | 22827 | Portland Police Bureau | Active | Deputy Chief | [markdown](../markdown/22827-transcript.md) - [yaml](../yaml/22827-transcript.yml) |
 | Michaelson, David K. | 23060 | Portland Police Bureau | Active | Lieutenant | [markdown](../markdown/23060-transcript.md) - [yaml](../yaml/23060-transcript.yml) |

@@ -1,8 +1,8 @@
 ## Transcripts (sorted by name)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| * MISSING TRANSCRIPT | 35319 |  |  |  | [markdown](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
-| * MISSING TRANSCRIPT | 29376 |  |  |  | [markdown](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
+| * MISSING | 35319 |  |  |  | [markdown](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
+| * MISSING | 29376 |  |  |  | [markdown](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | [markdown](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | [markdown](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | [markdown](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |

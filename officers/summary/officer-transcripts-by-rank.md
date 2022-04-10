@@ -1,8 +1,8 @@
 ## Transcripts (sorted by rank)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| * MISSING TRANSCRIPT | 29376 |  |  |  | [markdown](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
-| * MISSING TRANSCRIPT | 35319 |  |  |  | [markdown](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
+| * MISSING | 29376 |  |  |  | [markdown](../markdown/29376-transcript.md) - [yaml](../yaml/29376-transcript.yml) |
+| * MISSING | 35319 |  |  |  | [markdown](../markdown/35319-transcript.md) - [yaml](../yaml/35319-transcript.yml) |
 | Leasure, Michael C. | 38997 | Portland Police Bureau | Active | Assistant Chief | [markdown](../markdown/38997-transcript.md) - [yaml](../yaml/38997-transcript.yml) |
 | Resch, Jami L. | 37142 | Portland Police Bureau | Active | Assistant Chief | [markdown](../markdown/37142-transcript.md) - [yaml](../yaml/37142-transcript.yml) |
 | Ossenkop, Brian D. | 28330 | Portland Police Bureau | Active | Assistant Chief | [markdown](../markdown/28330-transcript.md) - [yaml](../yaml/28330-transcript.yml) |
