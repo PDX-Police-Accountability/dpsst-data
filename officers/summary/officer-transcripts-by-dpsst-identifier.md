@@ -1,6 +1,6 @@
 ## Transcripts (sorted by dpsst identifier)
-| [name](./officer-transcripts-by-name) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier) | [agency](./officer-transcripts-by-agency) | [employment status](./officer-transcripts-by-employment-status) | [rank](./officer-transcripts-by-rank) |
-| [----](./---------------------------) | [----- ----------](./---------------------------------------) | [------](./-----------------------------) | [---------- ------](./----------------------------------------) | [----](./---------------------------) |
+| [name](./officer-transcripts-by-name).md | [dpsst identifier](./officer-transcripts-by-dpsst-identifier).md | [agency](./officer-transcripts-by-agency).md | [employment status](./officer-transcripts-by-employment-status).md | [rank](./officer-transcripts-by-rank).md |
+| ---- | ---------------- | ------ | ----------------- | ---- |
 | Smith, Michael R. | [17975](../markdown/17975-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Klinger, Scott R. | [21705](../markdown/21705-transcript.md) | Portland Police Bureau | Inactive | Police Officer |
 | Sessions, Timothy E. | [21772](../markdown/21772-transcript.md) | Portland Police Bureau | Active | Sergeant |

@@ -1,6 +1,6 @@
 ## Transcripts (sorted by employment status)
-| [name](./officer-transcripts-by-name) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier) | [agency](./officer-transcripts-by-agency) | [employment status](./officer-transcripts-by-employment-status) | [rank](./officer-transcripts-by-rank) |
-| [----](./---------------------------) | [----- ----------](./---------------------------------------) | [------](./-----------------------------) | [---------- ------](./----------------------------------------) | [----](./---------------------------) |
+| [name](./officer-transcripts-by-name).md | [dpsst identifier](./officer-transcripts-by-dpsst-identifier).md | [agency](./officer-transcripts-by-agency).md | [employment status](./officer-transcripts-by-employment-status).md | [rank](./officer-transcripts-by-rank).md |
+| ---- | ---------------- | ------ | ----------------- | ---- |
 | * MISSING TRANSCRIPT | [35319](../markdown/35319-transcript.md) |  |  |  |
 | * MISSING TRANSCRIPT | [29376](../markdown/29376-transcript.md) |  |  |  |
 | Anderson, Erin K. | [22178](../markdown/22178-transcript.md) | Portland Police Bureau | Active | Police Officer |
