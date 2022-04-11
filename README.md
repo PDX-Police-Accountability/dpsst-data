@@ -4,6 +4,18 @@ This repository holds publicly accessible data pulled the from [Oregon Criminal 
 
 CJ IRIS is one of many systems maintained by Oregon's [Department of Public Safety Standards & Training (DPSST)](https://www.oregon.gov/dpsst/pages/default.aspx).
 
-Data is pulled from CJ IRIS daily and stored in two different formats in the officers directory: [markdown](./officers/markdown) and [yaml](./officers/yaml).
+Officer transcripts are pulled from CJ IRIS daily and stored in multiple formats in the [officers](./officers) directory:
 
-A [summary document](./officers/summary/officer-transcripts.md) is also created nightly with links to each officer's current transcript.
+* [markdown](./officers/markdown)
+* [yaml](./officers/yaml)
+
+Summary documents are created to help you find the transcripts you're looking for:
+
+* [Sorted by DPSST identifier](./officers/summary/officer-transcripts-by-dpsst-identifier.md)
+* [Sorted by name](./officers/summary/officer-transcripts-by-name.md)
+* etc...
+
+There are also downloadable tab-separated reports:
+
+* [Officer transcripts](./officers/summary/officer-transcripts.tsv)
+* [Officer training records](./officers/summary/officer-training-records.tsv) - NOTE this is a large file, likely over 25MB
