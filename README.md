@@ -18,4 +18,6 @@ Summary documents are created to help you find the transcripts you're looking fo
 There are also downloadable tab-separated reports:
 
 * [Officer transcripts](./officers/summary/officer-transcripts.tsv)
+  * [Active officers only](./officers/summary/officer-transcripts-active.tsv)
+  * [Inactive officers only](./officers/summary/officer-transcripts-inactive.tsv)
 * [Officer training records](./officers/summary/officer-training-records.tsv) - NOTE this is a large file, likely over 25MB
