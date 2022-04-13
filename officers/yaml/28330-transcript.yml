@@ -58,32 +58,32 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 3/22/2022
-  :certificate: Police Officer
-  :level: Executive
-  :status: App Recd
-  :certificate_date: ''
-  :expiration_date: ''
-  :probation_date: ''
-- :status_date: 3/22/2022
-  :certificate: Police Officer
-  :level: Management
-  :status: App Recd
-  :certificate_date: ''
-  :expiration_date: ''
-  :probation_date: ''
-- :status_date: 3/16/2022
+- :status_date: 4/11/2022
   :certificate: Police Officer
   :level: Advanced
-  :status: App Recd
-  :certificate_date: ''
+  :status: Granted
+  :certificate_date: 4/11/2022
   :expiration_date: ''
   :probation_date: ''
-- :status_date: 3/16/2022
+- :status_date: 4/11/2022
+  :certificate: Police Officer
+  :level: Executive
+  :status: Granted
+  :certificate_date: 4/11/2022
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 4/11/2022
   :certificate: Police Officer
   :level: Intermediate
-  :status: App Recd
-  :certificate_date: ''
+  :status: Granted
+  :certificate_date: 4/11/2022
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 4/11/2022
+  :certificate: Police Officer
+  :level: Management
+  :status: Granted
+  :certificate_date: 4/11/2022
   :expiration_date: ''
   :probation_date: ''
 - :status_date: 8/1/2019

@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/6/2022
+  :course: BPT29579
+  :title: Advanced De-Escalation and Escalation Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
 - :date: 3/31/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
