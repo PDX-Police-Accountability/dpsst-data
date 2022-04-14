@@ -114,7 +114,7 @@
 | Dormady, Ross H. | 45813 | Portland Police Bureau | Inactive | Detective | [md](../markdown/45813-transcript.md) - [yaml](../yaml/45813-transcript.yml) |
 | Pierce, Jennifer L. | 45896 | Portland Police Bureau | Active | Detective | [md](../markdown/45896-transcript.md) - [yaml](../yaml/45896-transcript.yml) |
 | Asheim, Charles B. | 46067 | Portland Police Bureau | Active | Detective | [md](../markdown/46067-transcript.md) - [yaml](../yaml/46067-transcript.yml) |
-| Cole, Aaron L. | 46360 | Portland Police Bureau | Active | Detective | [md](../markdown/46360-transcript.md) - [yaml](../yaml/46360-transcript.yml) |
+| Cole, Aaron L. | 46360 | Portland Police Bureau | Inactive | Detective | [md](../markdown/46360-transcript.md) - [yaml](../yaml/46360-transcript.yml) |
 | Goldring, Calvin L. | 47562 | Portland Police Bureau | Active | Detective | [md](../markdown/47562-transcript.md) - [yaml](../yaml/47562-transcript.yml) |
 | Cox, Joseph M. | 49395 | Portland Police Bureau | Active | Detective | [md](../markdown/49395-transcript.md) - [yaml](../yaml/49395-transcript.yml) |
 | Gryphon, Christopher L. | 50500 | Portland Police Bureau | Active | Detective | [md](../markdown/50500-transcript.md) - [yaml](../yaml/50500-transcript.yml) |
@@ -410,7 +410,7 @@
 | Lovato, Dominic | 49571 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49571-transcript.md) - [yaml](../yaml/49571-transcript.yml) |
 | Holsti, Israel E. | 49650 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49650-transcript.md) - [yaml](../yaml/49650-transcript.yml) |
 | Hansen, Michael J. | 49732 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49732-transcript.md) - [yaml](../yaml/49732-transcript.yml) |
-| Harris, Todd W. | 49823 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49823-transcript.md) - [yaml](../yaml/49823-transcript.yml) |
+| Harris, Todd W. | 49823 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/49823-transcript.md) - [yaml](../yaml/49823-transcript.yml) |
 | Parker, Neil A., II | 49837 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49837-transcript.md) - [yaml](../yaml/49837-transcript.yml) |
 | Brainard, Jessica K. | 49847 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49847-transcript.md) - [yaml](../yaml/49847-transcript.yml) |
 | Vergara, Michele R. | 49920 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49920-transcript.md) - [yaml](../yaml/49920-transcript.yml) |
@@ -586,7 +586,7 @@
 | Ledford, Adrian B. | 57521 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57521-transcript.md) - [yaml](../yaml/57521-transcript.yml) |
 | LeCarno, Thomas J. | 57549 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57549-transcript.md) - [yaml](../yaml/57549-transcript.yml) |
 | Bianca, Shanley M. | 57552 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57552-transcript.md) - [yaml](../yaml/57552-transcript.yml) |
-| Brosseau, Evan M. | 57562 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57562-transcript.md) - [yaml](../yaml/57562-transcript.yml) |
+| Brosseau, Evan M. | 57562 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/57562-transcript.md) - [yaml](../yaml/57562-transcript.yml) |
 | Brooks, Andrew S. | 57578 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57578-transcript.md) - [yaml](../yaml/57578-transcript.yml) |
 | Ensley, Katrina M. | 57579 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57579-transcript.md) - [yaml](../yaml/57579-transcript.yml) |
 | Ramos, David N. | 57587 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57587-transcript.md) - [yaml](../yaml/57587-transcript.yml) |

@@ -128,9 +128,33 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 3/9/2022
+  :course: SVP18092
+  :title: Firearms Night Range
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/9/2022
+  :course: SVP18092
+  :title: Firearms Night Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/2/2022
   :course: SVP20681
   :title: Airway, Circulatory Cirisis Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/2/2022
+  :course: SVP33104
+  :title: Firearms Night Range
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/2/2022
+  :course: SVP33104
+  :title: Firearms Night Range
   :status: Passed
   :score: '0.0'
   :hours: '2.00'

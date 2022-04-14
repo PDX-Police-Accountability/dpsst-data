@@ -4,7 +4,7 @@
 | name | Brosseau, Evan M. |
 | dpsst_identifier | 57562 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/1/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/1/2022 | Oregon City Police Department | Hired | Police Off |  |  |
 | 5/21/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/20/2020 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |

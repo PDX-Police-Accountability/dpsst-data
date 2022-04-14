@@ -97,7 +97,7 @@
 | Brittingham, Brandyn L. | 58168 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58168-transcript.md) - [yaml](../yaml/58168-transcript.yml) |
 | Brooks, Andrew S. | 57578 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57578-transcript.md) - [yaml](../yaml/57578-transcript.yml) |
 | Brooks, David M. | 52787 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52787-transcript.md) - [yaml](../yaml/52787-transcript.yml) |
-| Brosseau, Evan M. | 57562 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57562-transcript.md) - [yaml](../yaml/57562-transcript.yml) |
+| Brosseau, Evan M. | 57562 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/57562-transcript.md) - [yaml](../yaml/57562-transcript.yml) |
 | Brostean, Lucas W. | 56548 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56548-transcript.md) - [yaml](../yaml/56548-transcript.yml) |
 | Broughton, Scott P. | 40218 | Portland Police Bureau | Active | Detective | [md](../markdown/40218-transcript.md) - [yaml](../yaml/40218-transcript.yml) |
 | Brown, Curtis L. | 37135 | Portland Police Bureau | Active | Police Officer | [md](../markdown/37135-transcript.md) - [yaml](../yaml/37135-transcript.yml) |
@@ -167,7 +167,7 @@
 | Close, Michael A., Jr. | 38094 | Portland Police Bureau | Active | Police Officer | [md](../markdown/38094-transcript.md) - [yaml](../yaml/38094-transcript.yml) |
 | Coffey, Kristina M. | 34672 | Portland Police Bureau | Active | Detective | [md](../markdown/34672-transcript.md) - [yaml](../yaml/34672-transcript.yml) |
 | Coffey, Ryan S. | 35623 | Portland Police Bureau | Active | Sergeant | [md](../markdown/35623-transcript.md) - [yaml](../yaml/35623-transcript.yml) |
-| Cole, Aaron L. | 46360 | Portland Police Bureau | Active | Detective | [md](../markdown/46360-transcript.md) - [yaml](../yaml/46360-transcript.yml) |
+| Cole, Aaron L. | 46360 | Portland Police Bureau | Inactive | Detective | [md](../markdown/46360-transcript.md) - [yaml](../yaml/46360-transcript.yml) |
 | Congdon, William J. | 51967 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51967-transcript.md) - [yaml](../yaml/51967-transcript.yml) |
 | Corona, Joseph R. | 41783 | Portland Police Bureau | Active | Detective | [md](../markdown/41783-transcript.md) - [yaml](../yaml/41783-transcript.yml) |
 | Costanzo, Mychal G. | 56593 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56593-transcript.md) - [yaml](../yaml/56593-transcript.yml) |
@@ -339,7 +339,7 @@
 | Harris, Jason A. | 34584 | Portland Police Bureau | Active | Detective | [md](../markdown/34584-transcript.md) - [yaml](../yaml/34584-transcript.yml) |
 | Harris, Leo J. | 39655 | Portland Police Bureau | Active | Police Officer | [md](../markdown/39655-transcript.md) - [yaml](../yaml/39655-transcript.yml) |
 | Harris, Sean W. | 32992 | Portland Police Bureau | Active | Detective | [md](../markdown/32992-transcript.md) - [yaml](../yaml/32992-transcript.yml) |
-| Harris, Todd W. | 49823 | Portland Police Bureau | Active | Police Officer | [md](../markdown/49823-transcript.md) - [yaml](../yaml/49823-transcript.yml) |
+| Harris, Todd W. | 49823 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/49823-transcript.md) - [yaml](../yaml/49823-transcript.yml) |
 | Harrison, Jimmy L., Jr. | 51269 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51269-transcript.md) - [yaml](../yaml/51269-transcript.yml) |
 | Harvey, Richard | 27543 | Portland Police Bureau | Active | Police Officer | [md](../markdown/27543-transcript.md) - [yaml](../yaml/27543-transcript.yml) |
 | Hastings, Michael R. | 42381 | Portland Police Bureau | Active | Police Officer | [md](../markdown/42381-transcript.md) - [yaml](../yaml/42381-transcript.yml) |

@@ -37,6 +37,54 @@
   :expiration_date: 5/5/2026
   :probation_date: ''
 :training_records:
+- :date: 4/1/2022
+  :course: BNS06192
+  :title: Intro to K9
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/1/2022
+  :course: BNS42739
+  :title: Workplace relationships
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/31/2022
+  :course: BNS23200
+  :title: First Aid, CPR, AED, Narcan, TCCC
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/29/2022
+  :course: BNS40857
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/11/2022
+  :course: BNS39157
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '38.00'
+- :date: 3/11/2022
+  :course: BNS00475
+  :title: Expandable Baton
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/10/2022
+  :course: BNS31552
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/8/2022
+  :course: BNS16859
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 4/11/2021
   :course: PDP25589
   :title: 2021 External Training The Advanced SEND Protocol
@@ -1490,6 +1538,10 @@
   :score: '0.0'
   :hours: '1.00'
 :attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 3/31/2022
+  :expiration_date: 3/31/2024
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 8/22/2018

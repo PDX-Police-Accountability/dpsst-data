@@ -4,7 +4,7 @@
 | name | Harris, Todd W. |
 | dpsst_identifier | 49823 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/1/2022 | Portland Police Bureau | Layoff | Police Off |  |  |
 | 1/16/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 8/14/2008 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/6/2010 | Police Officer | Basic | Granted | 5/6/2010 |  |  |
+| 5/6/2010 | Police Officer | Basic | Granted | 5/6/2010 | 7/1/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

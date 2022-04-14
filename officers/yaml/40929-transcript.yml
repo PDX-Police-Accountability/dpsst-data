@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/3/2022
+  :course: HSU28325
+  :title: Firearms Spring In-Service 2022
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/31/2022
   :course: PDP10575
   :title: 2022 EAP-Crisis Planning

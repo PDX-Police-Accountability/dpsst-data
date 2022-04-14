@@ -3,12 +3,18 @@
   :name: Brosseau, Evan M.
   :dpsst_identifier: '57562'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 4/1/2022
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 4/1/2022
   :agency: Oregon City Police Department
   :action: Hired

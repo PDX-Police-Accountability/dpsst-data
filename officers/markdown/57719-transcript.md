@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/22/2018 |  |
 | Code of Ethics | Signed | 9/14/2017 |  |
 ## Education
@@ -33,6 +34,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2022 | BNS06192 | Intro to K9 | Passed | 0.0 | 2.00 |
+| 4/1/2022 | BNS42739 | Workplace relationships | Passed | 0.0 | 2.00 |
+| 3/31/2022 | BNS23200 | First Aid, CPR, AED, Narcan, TCCC | Passed | 0.0 | 8.00 |
+| 3/29/2022 | BNS40857 | Firearms | Passed | 0.0 | 8.00 |
+| 3/11/2022 | BNS39157 | Firearms | Passed | 0.0 | 38.00 |
+| 3/11/2022 | BNS00475 | Expandable Baton | Passed | 0.0 | 2.00 |
+| 3/10/2022 | BNS31552 | Use of Force | Passed | 0.0 | 4.00 |
+| 3/8/2022 | BNS16859 | EVOC | Passed | 0.0 | 8.00 |
 | 4/11/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/29/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |

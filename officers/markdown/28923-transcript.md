@@ -24,10 +24,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 8/3/2021 |  |
-| Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2022 | HSU26856 | Defensive Tactics Spring In-Service 2022 | Passed | 0.0 | 2.50 |
+| 4/9/2022 | HSU28325 | Firearms Spring In-Service 2022 | Passed | 0.0 | 4.00 |
+| 4/9/2022 | HSU32901 | PVO Spring In-Service 2022 | Passed | 0.0 | 2.50 |
+| 4/8/2022 | HSU11147 | CPR Spring In-Service 2022 | Passed | 0.0 | 4.00 |
+| 4/8/2022 | HSU11201 | Ethis/ Policy Spring In-Service 2022 | Passed | 0.0 | 3.00 |
+| 4/8/2022 | HSU15321 | Fire Response Training Spring In-Service 2022 | Passed | 0.0 | 1.50 |
 | 11/23/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/18/2021 | HSU39830 | NIBRS Fall In-Service 2021 | Passed | 0.0 | 2.00 |
 | 10/18/2021 | HSU24172 | Report Writing Fall In-Service 2021 | Passed | 0.0 | 2.00 |

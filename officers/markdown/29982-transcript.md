@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/29/2022 | SVP28511 | HB 4008 (Crowd Management) | Passed | 0.0 | 0.50 |
+| 3/16/2022 | SVP25007 | Firearms Night Range | Passed | 0.0 | 4.00 |
 | 3/2/2022 | SVP20681 | Airway, Circulatory Cirisis Training | Passed | 0.0 | 2.00 |
 | 2/23/2022 | SVP16496 | Ofc. Involved Shooting Protocols/MCDA Updates | Passed | 0.0 | 1.50 |
 | 2/23/2022 | SVP09269 | Domestic Violence/Search  Seizure/Legal Updates | Passed | 0.0 | 2.50 |

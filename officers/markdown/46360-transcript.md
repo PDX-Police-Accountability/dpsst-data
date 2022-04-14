@@ -4,7 +4,7 @@
 | name | Cole, Aaron L. |
 | dpsst_identifier | 46360 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/1/2022 | Portland Police Bureau | Resigned | Detective |  |  |
 | 2/8/2018 | Portland Police Bureau | Promotion | Detective |  |  |
 | 1/5/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/3/2017 | Police Officer | Advanced | Granted | 8/3/2017 |  |  |
-| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 |  |  |
-| 1/18/2007 | Police Officer | Basic | Granted | 1/18/2007 |  |  |
+| 8/3/2017 | Police Officer | Advanced | Granted | 8/3/2017 | 7/1/2022 |  |
+| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 | 7/1/2022 |  |
+| 1/18/2007 | Police Officer | Basic | Granted | 1/18/2007 | 7/1/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
