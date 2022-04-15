@@ -56,6 +56,30 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/21/2022
+  :course: REG34457
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/16/2022
+  :course: SDP37060
+  :title: Firearms Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/16/2022
+  :course: SDP31739
+  :title: Airway and Circulatory Crisis
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/16/2022
+  :course: SDP20152
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 2/27/2022
   :course: SDP44418
   :title: Crisis Cops Documentry and Discusion
@@ -74,6 +98,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
+- :date: 2/10/2022
+  :course: REG04498
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 2/9/2022
   :course: BPT10897
   :title: Intoxilyzer 8000 Certification Course

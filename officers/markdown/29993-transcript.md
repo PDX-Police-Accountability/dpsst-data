@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
+| 2/16/2022 | HBP24582 | Advanced Vehicle Stops | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/1/2021 | F6F29910 | COH Equity Training - Foundations | Passed | 0.0 | 1.00 |
 | 12/1/2021 | HBP44370 | SFST Refresher | Passed | 0.0 | 4.00 |
