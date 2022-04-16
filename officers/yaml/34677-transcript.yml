@@ -74,6 +74,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 8/13/2022
+  :course: PDP33559
+  :title: OSU SOP009 Modified Duty SOP
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -617,6 +623,12 @@
 - :date: 8/13/2021
   :course: F6F02557
   :title: Oregon IAAI 31 - Annual Training Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/13/2021
+  :course: PDP28925
+  :title: OSU SOP009 Appendix A. Modified Duty Guide
   :status: Passed
   :score: '0.0'
   :hours: '0.50'

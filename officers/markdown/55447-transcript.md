@@ -88,6 +88,7 @@
 | 7/3/2021 | PDP13707 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/2/2021 | PDP18776 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/2/2021 | PDP15440 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 7/1/2021 | PDP35511 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/30/2021 | PDP19590 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/28/2021 | PDP19846 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP32751 | CPR/First Aid | Instructed | 0.0 | 1.75 |

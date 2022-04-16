@@ -86,6 +86,7 @@
 | 8/6/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/6/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 8/6/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 8/6/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 8/5/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 8/5/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 4/8/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |

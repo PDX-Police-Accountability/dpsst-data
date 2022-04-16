@@ -83,6 +83,8 @@
 | 7/30/2021 | CVP30851 | PLS 2021 Lesson 21 Ethics | Passed | 0.0 | 0.08 |
 | 7/30/2021 | PDP13395 | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
 | 7/30/2021 | HBY37798 | Facility Tour, Evac drill, MHRT | Passed | 0.0 | 0.08 |
+| 7/30/2021 | PDP05757 | UDAR Guide - Approving (10.04.2018) | Passed | 0.0 | 0.08 |
+| 7/30/2021 | PDP10699 | UDAR Guide - Requesting (10.04.2018) | Passed | 0.0 | 0.08 |
 | 5/21/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/21/2021 | PDP09667 | 2021-2 Range Qualification Secondary (25 Rd) | Passed | 0.0 | 0.50 |
 | 5/21/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

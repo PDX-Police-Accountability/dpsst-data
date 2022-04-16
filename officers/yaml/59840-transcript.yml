@@ -156,6 +156,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 9/8/2021
+  :course: PDP11625
+  :title: 2021 Equity Training Series - Preparation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/8/2021
+  :course: PDP41084
+  :title: 2021 Interoception and Mindful Movement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 8/26/2021
   :course: PDP08485
   :title: 2021 Box-In Refresher
@@ -186,6 +198,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 8/26/2021
+  :course: PDP06247
+  :title: 2021 Mental Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
 - :date: 8/25/2021
   :course: PDP09789
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -228,6 +246,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 8/25/2021
+  :course: PDP23057
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 8/24/2021
   :course: PDP02805
   :title: 2020 CHO Stops App Update

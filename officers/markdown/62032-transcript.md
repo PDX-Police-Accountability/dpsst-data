@@ -73,6 +73,7 @@
 | 8/8/2021 | PDP05481 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 8/8/2021 | PDP42701 | 2020-4 City Attorney's Office Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 8/8/2021 | PDP06183 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
+| 8/8/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 8/5/2021 | PDP08038 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
 | 8/5/2021 | PDP00344 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 8/5/2021 | PDP16226 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.75 |

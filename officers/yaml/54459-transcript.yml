@@ -54,6 +54,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/31/2022
+  :course: HRS25974
+  :title: 2022 Airways Training Video - Patient Evaluation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 1/22/2022
   :course: HRS09475
   :title: Officer Safety Refresher

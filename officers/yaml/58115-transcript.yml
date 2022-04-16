@@ -216,6 +216,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 7/1/2021
+  :course: PDP35511
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 5/30/2021
   :course: PDP39968
   :title: 2021-2 Range Qualification Primary Firearm
@@ -1382,10 +1388,6 @@
   :hours: '1.00'
 :attribute_records:
 - :topic: Maintenance Requirements
-  :value: First Aid/CPR Required
-  :effective_date: 3/16/2022
-  :expiration_date: 3/16/2022
-- :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2024
@@ -1393,6 +1395,10 @@
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 7/1/2021
+  :expiration_date: 7/1/2022
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 1/2/2019

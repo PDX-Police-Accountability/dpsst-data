@@ -90,6 +90,7 @@
 | 8/2/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 8/2/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 8/2/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 8/2/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 2/15/2021 | PDP29132 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 2/15/2021 | PDP11460 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 2/15/2021 | PDP18136 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2022 | PDP33559 | OSU SOP009 Modified Duty SOP | Passed | 0.0 | 0.50 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 2/23/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
@@ -130,6 +131,7 @@
 | 8/13/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/13/2021 | F6D15073 | CISM  - Indiuduel  Group | Passed | 0.0 | 0.50 |
 | 8/13/2021 | F6F02557 | Oregon IAAI 31 - Annual Training Seminar | Passed | 0.0 | 0.50 |
+| 8/13/2021 | PDP28925 | OSU SOP009 Appendix A. Modified Duty Guide | Passed | 0.0 | 0.50 |
 | 3/17/2021 | PDP18297 | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 1/27/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2020 | PDP35448 | 2020-1 AR-15 New Operator Training | Passed | 0.0 | 54.00 |

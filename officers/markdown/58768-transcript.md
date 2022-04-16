@@ -44,7 +44,11 @@
 | 8/12/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 8/12/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 8/12/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 8/12/2021 | PDP11625 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 8/12/2021 | PDP41084 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 8/11/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 8/11/2021 | PDP06247 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 7/23/2021 | PDP16092 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 1.25 |
 | 7/22/2021 | PDP02805 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 7/22/2021 | PDP09789 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP26499 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
@@ -64,6 +68,7 @@
 | 7/22/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 7/22/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 7/22/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP05481 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP08038 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP00344 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |

@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |
 | 3/26/2022 | MNS16260 | MILO, Senario Based Training |  | 0.0 | 0.50 |
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

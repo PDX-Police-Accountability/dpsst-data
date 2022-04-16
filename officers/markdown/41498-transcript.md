@@ -106,6 +106,7 @@
 | 7/2/2021 | PDP18776 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/2/2021 | PDP15440 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/1/2021 | PDP27907 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 7/1/2021 | PDP35511 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/30/2021 | PDP19590 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/29/2021 | PDP37841 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/29/2021 | PDP02868 | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -203,6 +204,7 @@
 | 9/16/2020 | PDP27440 | 2020-4 City Attorney's Office Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 9/15/2020 | PDP04551 | City of Portland Cooperative and City Agreements | Passed | 0.0 | 2.00 |
 | 8/26/2020 | PDP25410 | 2020 CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 8/19/2020 | PDP09948 | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 7/23/2020 | PDP03954 | 2020 City of Portland Introduction to Procurement | Passed | 0.0 | 2.00 |
 | 7/14/2020 | PDP42651 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 7/14/2020 | PDP38171 | 2020-5 Tips  Tech Drug Packaging/Crime Lab Sub | Passed | 0.0 | 0.25 |

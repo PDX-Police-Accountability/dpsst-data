@@ -20,10 +20,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 10/7/2021 |  |
+| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2022 |
 | Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -94,6 +94,7 @@
 | 7/15/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 7/1/2021 | PDP35511 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 2/24/2021 | PDP30240 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/18/2021 | PDP03271 | FTEP Post Basic Use of Force Class | Passed | 0.0 | 5.00 |

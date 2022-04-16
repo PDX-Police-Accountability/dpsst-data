@@ -78,6 +78,7 @@
 | 9/2/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/19/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/18/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
+| 8/18/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 8/12/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/6/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 8/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |

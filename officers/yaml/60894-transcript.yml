@@ -756,6 +756,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '6.00'
+- :date: 8/19/2020
+  :course: PDP09948
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 7/17/2020
   :course: SMS42356
   :title: Taser policy review case law update
@@ -789,4 +795,8 @@
   :value: Law Enforcement Signed
   :effective_date: 8/31/2020
   :expiration_date: ''
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 8/19/2020
+  :expiration_date: 8/19/2022
 :education_records: []

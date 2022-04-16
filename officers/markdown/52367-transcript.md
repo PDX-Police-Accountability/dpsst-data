@@ -73,6 +73,8 @@
 | 9/29/2021 | CVP30851 | PLS 2021 Lesson 21 Ethics | Passed | 0.0 | 0.08 |
 | 9/29/2021 | PDP13395 | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.08 |
 | 9/29/2021 | HBY37798 | Facility Tour, Evac drill, MHRT | Passed | 0.0 | 0.08 |
+| 9/29/2021 | PDP05757 | UDAR Guide - Approving (10.04.2018) | Passed | 0.0 | 0.08 |
+| 9/29/2021 | PDP10699 | UDAR Guide - Requesting (10.04.2018) | Passed | 0.0 | 0.08 |
 | 9/27/2021 | PDP34164 | 2021 AR-15 Operators In-Service Training | Passed | 0.0 | 9.00 |
 | 9/27/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 9/19/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

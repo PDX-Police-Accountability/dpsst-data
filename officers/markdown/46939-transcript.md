@@ -22,8 +22,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2022 |
 | Code of Ethics | Signed | 8/15/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -83,6 +83,7 @@
 | 7/21/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
+| 7/1/2021 | PDP35511 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2021 | PDP26155 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 4/6/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 4/6/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

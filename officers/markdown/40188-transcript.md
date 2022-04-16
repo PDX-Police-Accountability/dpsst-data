@@ -29,8 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2022 |
 | Code of Ethics | Signed | 8/23/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -93,6 +93,7 @@
 | 7/15/2021 | PDP28516 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 7/5/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 7/3/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 7/1/2021 | PDP35511 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 6/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/3/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

@@ -53,11 +53,14 @@
 | 9/8/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
+| 9/8/2021 | PDP11625 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 9/8/2021 | PDP41084 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 8/26/2021 | PDP08485 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP39457 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/26/2021 | PDP12077 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 8/26/2021 | PDP06247 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 8/25/2021 | PDP09789 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP26499 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP23243 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
@@ -65,6 +68,7 @@
 | 8/25/2021 | PDP15108 | 2020 CAONewspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP09614 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 8/25/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 8/24/2021 | PDP02805 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 8/24/2021 | PDP06183 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
 | 8/24/2021 | PDP25620 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |

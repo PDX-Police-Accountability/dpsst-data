@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/6/2022
+  :course: PSU37477
+  :title: Calm Approach
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 3/26/2022
   :course: MNS16260
   :title: MILO, Senario Based Training

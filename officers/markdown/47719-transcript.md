@@ -41,7 +41,6 @@
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/17/2022 | BVP09666 | CPR/ First Aid Adult and Child Recertification | Passed | 0.0 | 2.00 |
 | 2/17/2022 | BVP07767 | Diversity, Equity and Inclusion | Passed | 0.0 | 3.00 |
-| 2/17/2022 | BVP27648 | Diversity, Equity and Inclusion | Passed | 0.0 | 3.00 |
 | 2/17/2022 | BVP08766 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/17/2021 | BVP17940 | Ethics BPD Policy Review | Passed | 0.0 | 0.50 |
 | 12/10/2021 | BVP12957 | Bloodborne Pathogens Exposure Control Plan  21-12 | Passed | 0.0 | 0.50 |

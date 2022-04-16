@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |
 | 1/22/2022 | HRS09475 | Officer Safety Refresher | Instructed | 0.0 | 1.00 |
 | 1/22/2022 | HRS34246 | Defensive Tactics refresher | Instructed | 0.0 | 1.00 |
 | 1/22/2022 | HRS07381 | Use of Force refresher | Instructed | 0.0 | 2.00 |

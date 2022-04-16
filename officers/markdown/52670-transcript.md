@@ -72,6 +72,7 @@
 | 9/29/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/26/2021 | PDP34409 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/26/2021 | PDP16333 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 9/26/2021 | PDP16092 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP42474 | 2021 FTEP Field Training Officer In-Service | Passed | 0.0 | 9.00 |

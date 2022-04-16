@@ -22,6 +22,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/2/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
+| Certification Cards | First Aid and CPR | 8/19/2020 | 8/19/2022 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -150,6 +151,7 @@
 | 8/25/2020 | PDP23778 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |
 | 8/25/2020 | PDP38171 | 2020-5 Tips  Tech Drug Packaging/Crime Lab Sub | Passed | 0.0 | 0.25 |
 | 8/24/2020 | PDP05490 | 2020 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
+| 8/19/2020 | PDP09948 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/17/2020 | SMS42356 | Taser policy review case law update | Passed | 0.0 | 1.00 |
 | 4/28/2020 | PDP03131 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 9/3/2018 | PDP07898 | IS-700 Ntnl Incident Mngmnt Systm, An Intro | Passed | 0.0 | 3.00 |
