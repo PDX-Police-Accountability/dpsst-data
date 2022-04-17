@@ -97,6 +97,7 @@
 | 7/28/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/28/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/28/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 7/28/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 7/26/2021 | PDP36106 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 7/26/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 7/26/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |

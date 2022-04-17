@@ -108,6 +108,7 @@
 | 6/26/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 5/26/2021 | PDP17789 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/6/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 5/4/2021 | PDP19763 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/8/2021 | PDP17591 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/2/2021 | PDP08245 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

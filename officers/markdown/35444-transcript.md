@@ -137,6 +137,7 @@
 | 7/12/2021 | PDP11625 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 7/12/2021 | PDP41084 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 7/12/2021 | PDP06247 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 7/12/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP15108 | 2020 CAONewspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP08038 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP25620 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |
@@ -159,6 +160,7 @@
 | 7/8/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/8/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP39808 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 7/7/2021 | PDP02805 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 7/7/2021 | PDP05481 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP42701 | 2020-4 City Attorney's Office Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
@@ -172,6 +174,11 @@
 | 7/7/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
 | 8/11/2019 | PDP15984 | 2019-2 Range Qualification Colt AR-15 Qual (20 Yd) | Passed | 0.0 | 0.50 |
 | 8/11/2019 | PDP12126 | 2019-2 Range Qualification Firearms Training | Passed | 0.0 | 0.75 |
 | 8/11/2019 | PDP09382 | 2019-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

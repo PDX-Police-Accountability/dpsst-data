@@ -95,6 +95,8 @@
 | 7/15/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP31460 | 2018 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP40835 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 2/26/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 2/24/2021 | PDP30240 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |

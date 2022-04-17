@@ -82,6 +82,7 @@
 | 8/26/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/26/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 8/26/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 8/20/2021 | PDP36106 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 8/20/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |

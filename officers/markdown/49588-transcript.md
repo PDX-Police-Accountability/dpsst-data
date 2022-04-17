@@ -102,6 +102,9 @@
 | 6/23/2021 | PDP34288 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
 | 6/15/2021 | PDP41158 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/3/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
+| 5/10/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 5/10/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 5/10/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 5/4/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/4/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/4/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

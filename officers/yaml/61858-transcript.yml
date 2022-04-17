@@ -48,6 +48,18 @@
   :status: Registered
   :score: '0.0'
   :hours: '200.00'
+- :date: 4/14/2022
+  :course: MFN18043
+  :title: Transgender 101
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/13/2022
+  :course: MFN22655
+  :title: Parole and PPS Morrissey Hearing's Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 1/25/2022
   :course: PDP02637
   :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'

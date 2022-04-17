@@ -71,10 +71,15 @@
 | 7/15/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 7/15/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/15/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 7/12/2021 | PDP16226 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.75 |
 | 7/12/2021 | PDP27562 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
 | 7/12/2021 | PDP07774 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 7/12/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 7/12/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
+| 7/12/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 7/12/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/23/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 2/10/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |

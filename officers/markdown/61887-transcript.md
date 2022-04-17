@@ -75,3 +75,5 @@
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |
 | 7/22/2021 | PDP35087 | 2021 FTEP Pre-DPSST Use of Force Class | Passed | 0.0 | 0.50 |
 | 7/20/2021 | PDP14760 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
+| 6/18/2021 | PDP31460 | 2018 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP40835 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |

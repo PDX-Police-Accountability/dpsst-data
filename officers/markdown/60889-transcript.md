@@ -102,8 +102,13 @@
 | 7/14/2021 | PDP09614 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 7/14/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 7/8/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
 | 5/6/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/5/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/28/2021 | F6D11710 | Legal Update | Passed | 0.0 | 0.50 |

@@ -99,6 +99,7 @@
 | 8/2/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 8/2/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 8/2/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 8/2/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 7/28/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/27/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/27/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

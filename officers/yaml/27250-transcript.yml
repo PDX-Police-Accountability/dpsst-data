@@ -3,12 +3,18 @@
   :name: Chinn, Curtis A.
   :dpsst_identifier: '27250'
   :agency: Portland Police Bureau
-  :employment_status: Inactive
+  :employment_status: Active
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 5/15/2022
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 8/10/2021
   :agency: Portland State University DPS
   :action: Hired

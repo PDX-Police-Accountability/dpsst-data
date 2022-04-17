@@ -101,6 +101,7 @@
 | 7/19/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/19/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP20827 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP20959 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |

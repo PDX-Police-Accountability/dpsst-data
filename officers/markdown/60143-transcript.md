@@ -83,7 +83,10 @@
 | 7/8/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 7/3/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/3/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/20/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 6/20/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 6/17/2021 | PDP25631 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/17/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 6/4/2021 | PDP44301 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 5/20/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/20/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

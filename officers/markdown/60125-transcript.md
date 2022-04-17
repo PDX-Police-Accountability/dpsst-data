@@ -80,6 +80,7 @@
 | 7/5/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/5/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 7/3/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
+| 7/3/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP29812 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/24/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/19/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

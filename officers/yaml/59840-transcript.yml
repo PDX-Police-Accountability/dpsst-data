@@ -102,6 +102,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 9/17/2021
+  :course: PDP29002
+  :title: 2021-5 TipsTech LMS KnowledgeBank.Document Search
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/16/2021
   :course: PDP05481
   :title: 2020-10 City Attorney's Legal Updates 10/2020
@@ -138,6 +144,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 9/16/2021
+  :course: PDP43215
+  :title: 2021-1 Tips  Techniques HB 4205
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/16/2021
+  :course: PDP05781
+  :title: 2021-2 Tips  Tech Domestic Violence Invest
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 9/8/2021
   :course: PDP43575
   :title: '2021 Equity Training Series: Racism Part 2'
@@ -168,6 +186,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 9/8/2021
+  :course: PDP30550
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 8/26/2021
   :course: PDP08485
   :title: 2021 Box-In Refresher
@@ -204,6 +228,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.25'
+- :date: 8/26/2021
+  :course: PDP39808
+  :title: 2021 TECC Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 8/25/2021
   :course: PDP09789
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -249,6 +279,18 @@
 - :date: 8/25/2021
   :course: PDP23057
   :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 8/25/2021
+  :course: PDP32173
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 8/25/2021
+  :course: PDP06265
+  :title: 2021 Training Crowd Control Vehicles
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

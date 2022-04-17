@@ -103,6 +103,9 @@
 | 6/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/3/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 4/22/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 4/22/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 4/22/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 2/15/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 2/10/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/10/2021 | PDP41314 | 2021-1 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

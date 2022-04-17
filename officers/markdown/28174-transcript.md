@@ -100,6 +100,7 @@
 | 7/11/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 7/10/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 7/10/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 7/10/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/3/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

@@ -90,6 +90,9 @@
 | 7/29/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/29/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/23/2021 | PDP34288 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
+| 4/27/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 4/27/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 4/27/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 4/15/2021 | PDP42094 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 4/14/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 4/14/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |

@@ -104,6 +104,9 @@
 | 8/10/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 8/10/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/19/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 6/9/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 5/27/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/24/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/24/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

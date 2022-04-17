@@ -30,8 +30,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 3/15/2007 | No Degree | Portland Community College |  | 100.1 |
-| 9/5/1989 | No Degree | Northwestern Christian College |  | 66.8 |
+| 3/24/2007 | Associate Science | Portland Community College | Criminal Justice | 100.1 |
+| 5/31/1990 | Associate Science | All Other Education Institutes |  | 66.8 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

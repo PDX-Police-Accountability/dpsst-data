@@ -13,6 +13,7 @@
 | Nichols, Michael J. | 26758 | Portland Police Bureau | Active | Police Officer | [md](../markdown/26758-transcript.md) - [yaml](../yaml/26758-transcript.yml) |
 | Wingfield, Larry L. | 26849 | Portland Police Bureau | Active | Police Officer | [md](../markdown/26849-transcript.md) - [yaml](../yaml/26849-transcript.yml) |
 | Frolov, Larry | 26855 | Portland Police Bureau | Active | Police Officer | [md](../markdown/26855-transcript.md) - [yaml](../yaml/26855-transcript.yml) |
+| Chinn, Curtis A. | 27250 | Portland Police Bureau | Active | Police Officer | [md](../markdown/27250-transcript.md) - [yaml](../yaml/27250-transcript.yml) |
 | Harvey, Richard | 27543 | Portland Police Bureau | Active | Police Officer | [md](../markdown/27543-transcript.md) - [yaml](../yaml/27543-transcript.yml) |
 | Harris, James A. | 27566 | Portland Police Bureau | Active | Detective | [md](../markdown/27566-transcript.md) - [yaml](../yaml/27566-transcript.yml) |
 | Stainbrook, Richard A. | 27833 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/27833-transcript.md) - [yaml](../yaml/27833-transcript.yml) |
@@ -782,7 +783,6 @@
 | Dunick, Scott C. | 26973 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/26973-transcript.md) - [yaml](../yaml/26973-transcript.yml) |
 | Chong, Tom T. | 27167 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27167-transcript.md) - [yaml](../yaml/27167-transcript.yml) |
 | Churella, Joseph J. | 27249 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27249-transcript.md) - [yaml](../yaml/27249-transcript.yml) |
-| Chinn, Curtis A. | 27250 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27250-transcript.md) - [yaml](../yaml/27250-transcript.yml) |
 | Bender, Robert A. | 27544 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27544-transcript.md) - [yaml](../yaml/27544-transcript.yml) |
 | Besner, Leo M. | 27981 | Portland Police Bureau | Inactive | Lieutenant | [md](../markdown/27981-transcript.md) - [yaml](../yaml/27981-transcript.yml) |
 | Yochim, Jonathan D. | 28036 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/28036-transcript.md) - [yaml](../yaml/28036-transcript.yml) |

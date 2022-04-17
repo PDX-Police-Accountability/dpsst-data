@@ -67,6 +67,7 @@
 | 7/7/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/22/2021 | PDP15375 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/19/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

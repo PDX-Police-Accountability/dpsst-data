@@ -96,6 +96,7 @@
 | 11/17/2021 | PDP37225 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 11/17/2021 | PDP13599 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 11/10/2021 | PDP02849 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 1.25 |
+| 5/11/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 12/1/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 12/1/2020 | PDP37866 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 11/24/2020 | PDP09077 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |

@@ -102,7 +102,10 @@
 | 7/13/2021 | PDP19871 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 7/13/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 7/13/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
+| 7/13/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/13/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 7/12/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 7/12/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP16226 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.75 |
 | 7/7/2021 | PDP07774 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |

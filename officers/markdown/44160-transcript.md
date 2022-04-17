@@ -90,6 +90,9 @@
 | 6/25/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/4/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/26/2021 | PDP17789 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/21/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 5/21/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 5/1/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 3/31/2021 | PDP41447 | ICS-400 Adv ICS Cmmnd  General-Complex Incidents | Passed | 0.0 | 15.15 |
 | 2/1/2021 | PDP32397 | 2021-1 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 2/1/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -104,6 +104,8 @@
 | 7/21/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 7/21/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/21/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/20/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 2/13/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |

@@ -435,6 +435,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 6/9/2021
+  :course: PDP38623
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/9/2021
+  :course: PDP03315
+  :title: 2021 Equity Training Series - Preparation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/9/2021
+  :course: PDP05160
+  :title: 2021 Mental Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
 - :date: 5/27/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training

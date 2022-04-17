@@ -39,6 +39,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 4/14/2022 | REG11755 | Control tactics- Structure control and recovery | Passed | 0.0 | 1.00 |
+| 4/11/2022 | REG30849 | Control tactics- Posture control and recovery | Passed | 0.0 | 1.00 |
+| 4/7/2022 | REG03632 | Grip fighting, 2 officer take down, wrestle up | Passed | 0.0 | 1.00 |
+| 4/4/2022 | REG13487 | Take down defense and strikes from the ground | Passed | 0.0 | 1.00 |
+| 3/24/2022 | REG06411 | Ground strike defense | Passed | 0.0 | 1.00 |
 | 3/21/2022 | REG34457 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/16/2022 | SDP37060 | Firearms Tactics | Passed | 0.0 | 1.50 |
 | 3/16/2022 | SDP31739 | Airway and Circulatory Crisis | Passed | 0.0 | 2.00 |

@@ -119,6 +119,9 @@
 | 9/23/2021 | PDP07774 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 9/23/2021 | PDP32864 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
 | 9/23/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 9/23/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 9/23/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 9/23/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 9/22/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/22/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/22/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |

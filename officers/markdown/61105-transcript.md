@@ -103,6 +103,8 @@
 | 7/15/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 7/15/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/15/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/24/2021 | PDP38908 | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 3/23/2021 | PDP15770 | 2021 Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 3/22/2021 | PDP16278 | 2020 City Attorney's Office ACLU/Bushong TRO Tng | Passed | 0.0 | 0.25 |

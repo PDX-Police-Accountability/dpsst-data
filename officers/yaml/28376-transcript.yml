@@ -454,6 +454,12 @@
   :status: Instructed
   :score: '0.0'
   :hours: '1.75'
+- :date: 7/15/2021
+  :course: PDP30550
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/24/2021
   :course: PDP23635
   :title: CPR/First Aid

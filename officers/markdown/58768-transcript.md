@@ -46,6 +46,7 @@
 | 8/12/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/12/2021 | PDP11625 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 8/12/2021 | PDP41084 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 8/12/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 8/11/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 8/11/2021 | PDP06247 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 7/23/2021 | PDP16092 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 1.25 |
@@ -69,6 +70,7 @@
 | 7/22/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/22/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 7/22/2021 | PDP39808 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 7/21/2021 | PDP05481 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP08038 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP00344 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
@@ -78,6 +80,11 @@
 | 7/21/2021 | PDP07774 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP32864 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 7/21/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 7/21/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/21/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/21/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 7/21/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
 | 3/5/2021 | PDP18297 | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 10/18/2020 | PDP11258 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |

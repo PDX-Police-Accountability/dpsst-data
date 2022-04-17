@@ -105,6 +105,8 @@
 | 7/7/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/7/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 4/19/2021 | BPT12720 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 3/24/2021 | PDP30451 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 3/24/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |

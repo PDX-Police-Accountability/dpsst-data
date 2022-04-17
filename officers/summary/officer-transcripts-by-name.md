@@ -146,7 +146,7 @@
 | Chapin, Travis M. | 37638 | Portland Police Bureau | Active | Police Officer | [md](../markdown/37638-transcript.md) - [yaml](../yaml/37638-transcript.yml) |
 | Chapman, Michael A. | 43481 | Portland Police Bureau | Active | Sergeant | [md](../markdown/43481-transcript.md) - [yaml](../yaml/43481-transcript.yml) |
 | Cherevan, Andriy | 58182 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58182-transcript.md) - [yaml](../yaml/58182-transcript.yml) |
-| Chinn, Curtis A. | 27250 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27250-transcript.md) - [yaml](../yaml/27250-transcript.yml) |
+| Chinn, Curtis A. | 27250 | Portland Police Bureau | Active | Police Officer | [md](../markdown/27250-transcript.md) - [yaml](../yaml/27250-transcript.yml) |
 | Chong, Tom T. | 27167 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27167-transcript.md) - [yaml](../yaml/27167-transcript.yml) |
 | Chow, Zachary K. | 56627 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56627-transcript.md) - [yaml](../yaml/56627-transcript.yml) |
 | Christensen, Brent W. | 39643 | Portland Police Bureau | Active | Detective | [md](../markdown/39643-transcript.md) - [yaml](../yaml/39643-transcript.yml) |

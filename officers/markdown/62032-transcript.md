@@ -70,6 +70,7 @@
 | 8/9/2021 | PDP36106 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 8/9/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 8/9/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 8/9/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 8/8/2021 | PDP05481 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 8/8/2021 | PDP42701 | 2020-4 City Attorney's Office Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 8/8/2021 | PDP06183 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
@@ -83,6 +84,9 @@
 | 8/5/2021 | PDP19871 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 8/5/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 8/5/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
+| 8/5/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 8/5/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 8/5/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
 | 8/4/2021 | PDP02805 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 8/4/2021 | PDP14788 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
 | 8/4/2021 | PDP32354 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
@@ -92,6 +96,8 @@
 | 8/4/2021 | PDP24453 | 2020-7 TipsTech Phillips Laser Protective Eyewear | Passed | 0.0 | 0.25 |
 | 8/4/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 8/4/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 8/4/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 8/4/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 8/3/2021 | PDP33348 | 2021 FTEP Post-DPSST | Passed | 0.0 | 6.00 |
 | 8/3/2021 | PDP41627 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/29/2021 | PDP32847 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

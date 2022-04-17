@@ -89,6 +89,7 @@
 | 7/19/2021 | PDP23665 | Firearm and Vehicle Tactics | Passed | 0.0 | 8.00 |
 | 7/15/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 6/17/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 6/14/2021 | PDP42968 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/1/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/27/2021 | PDP05978 | AR-15 Patrol Rifle Operators Course | Instructed | 0.0 | 9.00 |

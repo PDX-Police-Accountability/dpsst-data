@@ -80,6 +80,11 @@
 | 8/4/2021 | PDP25245 | 2021 Advanced Academy Orientation and Expectations | Passed | 0.0 | 1.50 |
 | 8/4/2021 | PDP09996 | 2021 Advanced Academy Patrol Procedures | Passed | 0.0 | 93.50 |
 | 8/4/2021 | PDP35163 | 2021 Advanced Academy Police Vehicle Operations | Passed | 0.0 | 59.00 |
+| 8/4/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
+| 8/4/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 8/4/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 8/4/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 8/4/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |

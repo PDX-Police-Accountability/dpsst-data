@@ -34,6 +34,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
+| 4/14/2022 | MFN18043 | Transgender 101 | Passed | 0.0 | 2.00 |
+| 4/13/2022 | MFN22655 | Parole and PPS Morrissey Hearing's Training | Passed | 0.0 | 2.00 |
 | 1/25/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

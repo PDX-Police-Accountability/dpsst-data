@@ -181,7 +181,7 @@
 | Dunick, Scott C. | 26973 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/26973-transcript.md) - [yaml](../yaml/26973-transcript.yml) |
 | Chong, Tom T. | 27167 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27167-transcript.md) - [yaml](../yaml/27167-transcript.yml) |
 | Churella, Joseph J. | 27249 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27249-transcript.md) - [yaml](../yaml/27249-transcript.yml) |
-| Chinn, Curtis A. | 27250 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27250-transcript.md) - [yaml](../yaml/27250-transcript.yml) |
+| Chinn, Curtis A. | 27250 | Portland Police Bureau | Active | Police Officer | [md](../markdown/27250-transcript.md) - [yaml](../yaml/27250-transcript.yml) |
 | Harvey, Richard | 27543 | Portland Police Bureau | Active | Police Officer | [md](../markdown/27543-transcript.md) - [yaml](../yaml/27543-transcript.yml) |
 | Bender, Robert A. | 27544 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/27544-transcript.md) - [yaml](../yaml/27544-transcript.yml) |
 | Yochim, Jonathan D. | 28036 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/28036-transcript.md) - [yaml](../yaml/28036-transcript.yml) |

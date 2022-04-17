@@ -44,23 +44,28 @@
 | 9/17/2021 | PDP00344 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 9/17/2021 | PDP14459 | 2020-8 TipsTech Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 9/17/2021 | PDP32864 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
+| 9/17/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
 | 9/16/2021 | PDP05481 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 9/16/2021 | PDP16226 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.75 |
 | 9/16/2021 | PDP27562 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
 | 9/16/2021 | PDP07774 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 9/16/2021 | PDP19871 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 9/16/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
+| 9/16/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 9/16/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 9/8/2021 | PDP11625 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 9/8/2021 | PDP41084 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 9/8/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP08485 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP39457 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/26/2021 | PDP12077 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP33010 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 8/26/2021 | PDP06247 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 8/26/2021 | PDP39808 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 8/25/2021 | PDP09789 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP26499 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP23243 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
@@ -69,6 +74,8 @@
 | 8/25/2021 | PDP09614 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 8/25/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/25/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 8/25/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 8/25/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 8/24/2021 | PDP02805 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 8/24/2021 | PDP06183 | 2020-5 City Attorney's Office Legal Updates 5/2020 | Passed | 0.0 | 0.50 |
 | 8/24/2021 | PDP25620 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |

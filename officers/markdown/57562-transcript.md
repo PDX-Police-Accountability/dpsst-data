@@ -109,6 +109,11 @@
 | 7/14/2021 | PDP19871 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 7/14/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP29002 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP32173 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP06265 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP43215 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 7/14/2021 | PDP05781 | 2021-2 Tips  Tech Domestic Violence Invest | Passed | 0.0 | 0.25 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/23/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 2/9/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

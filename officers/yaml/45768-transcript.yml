@@ -410,6 +410,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 4/16/2021
+  :course: PDP38623
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/16/2021
+  :course: PDP03315
+  :title: 2021 Equity Training Series - Preparation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 2/24/2021
   :course: PDP05106
   :title: 2021 Legal Bulletin Effects Measure 110 on Invstgn

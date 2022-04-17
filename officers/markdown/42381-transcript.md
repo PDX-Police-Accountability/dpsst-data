@@ -93,6 +93,7 @@
 | 7/7/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/30/2021 | PDP06621 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/23/2021 | PDP34288 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
+| 5/25/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 5/20/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/20/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/20/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
