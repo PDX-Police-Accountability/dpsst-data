@@ -1,0 +1,189 @@
+---
+:header_record:
+  :name: Whattam, Deanna L.
+  :dpsst_identifier: '34296'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/19/2019
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 4/15/1999
+  :agency: Portland Police Bureau
+  :action: Reclassed
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 11/5/1998
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 11/4/1998
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 7/24/1997
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 5/4/2018
+  :course: PDP05727
+  :title: International Association for Identification Conf
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 11/21/2016
+  :course: F6A03164
+  :title: Advanced Comparison of Fingerprints/Palms
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 9/21/2015
+  :course: 15-0779
+  :title: Fingerprinting
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/30/2014
+  :course: 14-0780
+  :title: Collecting Latent Prints
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/25/2011
+  :course: 11-1102
+  :title: Courtroom Testimony
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/5/2009
+  :course: '09-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/28/2008
+  :course: '08-0123'
+  :title: Visual Clues to Confrontation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/4/2008
+  :course: '08-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/24/2008
+  :course: '08-0790'
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/21/2008
+  :course: '08-0747'
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 11/15/2007
+  :course: 07-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/25/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/10/2007
+  :course: 07-0914
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 5/8/2007
+  :course: 07-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/15/2004
+  :course: 04-0921
+  :title: Fingerprinting - Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 11/7/2003
+  :course: 03-1289
+  :title: CISM Basic Group
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/6/2002
+  :course: 03-0184
+  :title: Employee Assistance Program - Fall Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 11/13/2001
+  :course: 02CP058
+  :title: Portland Police Bureau-Employee Assistance Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 5/17/2000
+  :course: 00P299
+  :title: BASIC FINGERPRINT CLASS
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,63 @@
+---
+:header_record:
+  :name: Ruby, Jason M.
+  :dpsst_identifier: '44279'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 1/30/2003
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 2/29/2016
+  :course: F6C04700
+  :title: Emergency Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/31/2014
+  :course: 14-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/20/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/31/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/15/2007
+  :course: 07-0747
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/26/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/19/2006
+  :course: 06-1498
+  :title: EBAY / PAYPAL Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+:attribute_records: []
+:education_records: []

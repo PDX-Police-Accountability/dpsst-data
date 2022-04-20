@@ -1,0 +1,565 @@
+---
+:header_record:
+  :name: Outlaw, Danielle M.
+  :dpsst_identifier: '58095'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Chief
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 12/31/2019
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Chief
+  :classification: ''
+  :assignment: ''
+- :date: 9/30/2017
+  :agency: Out of State Employment
+  :action: Resigned
+  :rank: Dpty Chief
+  :classification: ''
+  :assignment: ''
+- :date: 9/29/2017
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Chief
+  :classification: ''
+  :assignment: ''
+- :date: 6/8/2014
+  :agency: Out of State Employment
+  :action: Promotion
+  :rank: Dpty Chief
+  :classification: ''
+  :assignment: ''
+- :date: 12/7/2013
+  :agency: Out of State Employment
+  :action: Promotion
+  :rank: Captain
+  :classification: ''
+  :assignment: ''
+- :date: 5/17/2010
+  :agency: Out of State Employment
+  :action: Promotion
+  :rank: Lieutenant
+  :classification: ''
+  :assignment: ''
+- :date: 1/23/2006
+  :agency: Out of State Employment
+  :action: Promotion
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
+- :date: 12/21/1998
+  :agency: Out of State Employment
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 3/31/2020
+  :certificate: Police Officer
+  :level: Advanced
+  :status: Lapsed
+  :certificate_date: 10/3/2019
+  :expiration_date: 12/31/2024
+  :probation_date: ''
+- :status_date: 3/31/2020
+  :certificate: Police Officer
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 7/31/2019
+  :expiration_date: 12/31/2024
+  :probation_date: ''
+- :status_date: 3/31/2020
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Lapsed
+  :certificate_date: 10/3/2019
+  :expiration_date: 12/31/2024
+  :probation_date: ''
+- :status_date: 3/31/2020
+  :certificate: Police Officer
+  :level: Supervisory
+  :status: Lapsed
+  :certificate_date: 9/19/2019
+  :expiration_date: 12/31/2024
+  :probation_date: ''
+:training_records:
+- :date: 12/3/2019
+  :course: PDP27768
+  :title: 2019 Training Sworn In-Service - Control Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/3/2019
+  :course: PDP37462
+  :title: 2019 Sworn InService-Pro Justice:Diff Vet Driver
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/3/2019
+  :course: PDP17934
+  :title: 2019 Training Sworn In-Service-CEW/Taser:Practical
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/3/2019
+  :course: PDP15175
+  :title: 2019 Training Sworn InService-Firearm:Target Focus
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/3/2019
+  :course: PDP37902
+  :title: '2019 Training Sworn Member In-Service - PVO: HRVS'
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/2/2019
+  :course: PDP21868
+  :title: 2019 Sworn In-Service-CIT/MH Crisis Response Upd
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/2/2019
+  :course: PDP23047
+  :title: 2019 Sworn In-Service-Functional Mvmt Stretch
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/2/2019
+  :course: PDP04820
+  :title: 2019 Training Sworn InService-Leadership:Org Excel
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/14/2019
+  :course: F15OOS
+  :title: Out of State Training (F15 Report)
+  :status: Passed
+  :score: '0.0'
+  :hours: '469.00'
+- :date: 10/7/2019
+  :course: PDP03093
+  :title: 2019 Chief's Office SPLC Antigovernment Extremists
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP13654
+  :title: 2019 Chief's Office SPLC Hate Crimes
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP01389
+  :title: 2019 Chief's Office SPLC The Rise of the Lone Wolf
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP08055
+  :title: 2019 Chiefs Office SPLC Sovereign Citizen Movement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP28606
+  :title: 2019-2 CHO Force Inspector Updates for Q2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP25300
+  :title: 2019 Training Public Safety Support Specialist Vid
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP18437
+  :title: 2019-7 City Attorney's Legal Updates for July 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP07809
+  :title: 2019 Chief's Office SPLC Hate Crimes
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/7/2019
+  :course: PDP14274
+  :title: 2019 City of Portland PBEM NET Roll Call Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/26/2019
+  :course: PDP06634
+  :title: Leading with a Racial Equity Lens
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/12/2019
+  :course: 19-0028
+  :title: DPSST Middle Management F22 Equivalency
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 8/29/2019
+  :course: 19-0030
+  :title: DPSST Supervision F21 Equivalency
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 8/2/2019
+  :course: PDP09382
+  :title: 2019-2 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/26/2019
+  :course: M11-19A
+  :title: DPSST Police Officer Field Training Manual
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 7/26/2019
+  :course: PDP36418
+  :title: 2019-4 City Attorney's Office Legal Updates 4/2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/26/2019
+  :course: PDP27613
+  :title: 2019-5 City Attorney's Office Legal Updates 5/2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 7/26/2019
+  :course: PDP14360
+  :title: PSD Directive 630.61, Stolen Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/18/2019
+  :course: PDP02562
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/29/2019
+  :course: PDP40036
+  :title: 2019 Training Choke and Carotid Awareness Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/29/2019
+  :course: PDP02716
+  :title: 2019-1 PSD Force Inspector Updates Q1-SupsCommand
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/29/2019
+  :course: PDP22335
+  :title: 2019-1 PSD Force Inspector Updates for Q1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/29/2019
+  :course: PDP27572
+  :title: 2019-7 TipsTech CAD Study Codes to Track Pursuits
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/29/2019
+  :course: PDP23426
+  :title: City Attorney's Office Legal Updates February 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/29/2019
+  :course: PDP37791
+  :title: City Attorney's Office Legal Updates March 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/29/2019
+  :course: PDP40850
+  :title: SLPC Law Enforcement Response to Hate Events
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/25/2019
+  :course: PDP23225
+  :title: 2018 City Attorney's Office Legal Updates for Q12
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/25/2019
+  :course: PDP26370
+  :title: 2019 Annual Hearing Conservation Training for OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/25/2019
+  :course: PDP38075
+  :title: 2019 Sex Assault Kit Tracking System (SAKTS) Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/8/2019
+  :course: PDP18360
+  :title: 2019-1  Supervisor In-Service Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.83'
+- :date: 4/8/2019
+  :course: PDP07716
+  :title: Supervisor In-Service Armored Vehicle Capabilities
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.17'
+- :date: 4/8/2019
+  :course: PDP40916
+  :title: In-Service Legitimacy for Supervisor/Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/8/2019
+  :course: PDP37455
+  :title: In-Service Our Role in Crowd Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/3/2019
+  :course: PDP23421
+  :title: 2019-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/12/2019
+  :course: PDP11710
+  :title: 2018-4 City Attorney's Office Legal Updates for Q4
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/12/2019
+  :course: PDP15018
+  :title: 2018-5 Tips  Tech 100% Collection and Submission
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/26/2019
+  :course: PDP21611
+  :title: Leadership Training - Civil Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/21/2019
+  :course: PDP14745
+  :title: 2019 Training Seat Belt Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/21/2019
+  :course: PDP25362
+  :title: 2019-1 City Attorney's Legal Updates for Jan 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/20/2019
+  :course: PDP11033
+  :title: 2017-4 City Attorney's Legal Updates Q4 - Supp Upd
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/13/2018
+  :course: PDP25295
+  :title: 2018-3 In-Service Ambush Attacks/Post Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/13/2018
+  :course: PDP33128
+  :title: 2018-3 In-Service CEW
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/13/2018
+  :course: PDP05693
+  :title: 2018-3 In-Service Decision Making Exercise
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/13/2018
+  :course: PDP36060
+  :title: 2018-3 In-Service Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/10/2018
+  :course: PDP24157
+  :title: 2018-3 In-Service Control Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/10/2018
+  :course: PDP08972
+  :title: 2018-3 In-Service Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/7/2018
+  :course: PDP21493
+  :title: 2018-3 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/3/2018
+  :course: PDP15551
+  :title: 'Fentanyl: The Real Deal'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/3/2018
+  :course: PDP21257
+  :title: How to Spot a Skimmer
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/3/2018
+  :course: PDP12257
+  :title: Legal Updates for Quarter 4
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/3/2018
+  :course: PDP43180
+  :title: 2018 Stops Application
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/3/2018
+  :course: PDP26970
+  :title: Tips and Techniques Shooting though Barriers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/3/2018
+  :course: PDP27651
+  :title: 2018 ITD MDC Console Replacement Videos-GetacV110
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 8/3/2018
+  :course: PDP15633
+  :title: 2018-2 Primary Sidearm Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/24/2018
+  :course: PDP40516
+  :title: 2018-2 Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/24/2018
+  :course: PDP00683
+  :title: 2018-2 In-Service Decision Point Analysis
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 7/24/2018
+  :course: PDP07302
+  :title: 2018-2 In-Service Implicit Bias
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/24/2018
+  :course: PDP20126
+  :title: 2018-2 In-Service Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/23/2018
+  :course: PDP40857
+  :title: 'Leadership 2018: Law Enforcement Professionals'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/30/2018
+  :course: PDP42272
+  :title: IFAK Refresher Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/30/2018
+  :course: PDP11353
+  :title: 2017-3 Legal Updates for Q3
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/30/2018
+  :course: PDP39936
+  :title: Tips and Tech Hazard Tow vs. Private Request
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/30/2018
+  :course: PDP18845
+  :title: Disposition of Records Upon Retirement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2018
+  :course: PDP15101
+  :title: BHU Mental Health Audit Tool Video for Sergeants
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2018
+  :course: PDP12608
+  :title: BHU Mental Health Template Video ECIT Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/11/2018
+  :course: PDP01076
+  :title: BHU Mental Health Template Video Non-ECIT Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/17/2018
+  :course: F6W09615
+  :title: 'Oregon PSRB  Law Enforcement: Public Safety'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/10/2017
+  :course: 17-0009
+  :title: DPSST Basic Police COD
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 7/23/2019
+  :expiration_date: ''
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 10/30/2017
+  :expiration_date: ''
+:education_records:
+- :date: 12/8/2012
+  :degree: Master Business Administration
+  :school: All Other Education Institutes
+  :major: Business Administration
+  :hours: '50.0'
+- :date: 8/15/1998
+  :degree: Bachelor Arts
+  :school: All Other Education Institutes
+  :major: Sociology
+  :hours: '128.0'

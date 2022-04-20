@@ -44,7 +44,6 @@
 | 4/21/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
 | 4/2/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/13/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |

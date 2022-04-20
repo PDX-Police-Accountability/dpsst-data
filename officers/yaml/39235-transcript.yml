@@ -1,0 +1,441 @@
+---
+:header_record:
+  :name: Farrell, Bryan M.
+  :dpsst_identifier: '39235'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 12/10/2019
+  :agency: Multnomah County Sheriff's Office
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/24/2018
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 4/25/2000
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 1/14/2020
+  :course: F6D23063
+  :title: QuickReport Refresher - Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/17/2019
+  :course: F6D00782
+  :title: Oregon State Marine Board - Boater Safety Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/17/2019
+  :course: F6D33219
+  :title: Oregon State Marine Board
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/16/2019
+  :course: F6D41501
+  :title: Oregon State Marine Board Boater Safety Plan
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/4/2019
+  :course: F6D24291
+  :title: Firearms Training- Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 2/4/2019
+  :course: F6D01173
+  :title: Range Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/8/2018
+  :course: F6D42939
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/8/2018
+  :course: F6D11949
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/18/2018
+  :course: F6B11421
+  :title: Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/18/2018
+  :course: F6B23829
+  :title: Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/17/2018
+  :course: F6D09763
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 8/31/2018
+  :course: F6B16034
+  :title: 2018 MCSO Taser Re-certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 8/31/2018
+  :course: F6B23695
+  :title: PREA Staff Training - 2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 8/28/2018
+  :course: F6B27000
+  :title: 2018 OC recertification Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/26/2018
+  :course: F6B14188
+  :title: Taser X26P Transition Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/21/2018
+  :course: F6B05894
+  :title: e-citation Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/21/2018
+  :course: F6B27339
+  :title: Homeless Outreach and Programs Engagement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/20/2018
+  :course: F6B02695
+  :title: MCSO Less Lethal Refresher Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/18/2018
+  :course: F6B08573
+  :title: 2018 PREA Staff Training, Updates and Reminders
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/14/2018
+  :course: F6B27914
+  :title: Firearms Training - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 7/14/2018
+  :course: F6B03954
+  :title: Firearms Qualification - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/31/2015
+  :course: 15-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/31/2015
+  :course: 15-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/31/2015
+  :course: 15-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/31/2015
+  :course: 15-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2015
+  :course: 15-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2015
+  :course: 15-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/1/2015
+  :course: 15-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 3/6/2015
+  :course: 15-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 2/28/2015
+  :course: 15-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2015
+  :course: 15-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/3/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 11/30/2014
+  :course: 14-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/30/2014
+  :course: 14-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/5/2014
+  :course: 14-1072
+  :title: DUII Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/20/2014
+  :course: 14-1253
+  :title: Tactical Emergency Medical Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2014
+  :course: 14-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 9/3/2014
+  :course: 14-0684
+  :title: Effective Contacts with Mentally Ill Citizens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/3/2014
+  :course: 14-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2014
+  :course: 14-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2014
+  :course: 14-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/4/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/10/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/2/2014
+  :course: 14-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/5/2014
+  :course: 14-0952
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/28/2014
+  :course: 14-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2014
+  :course: 14-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2014
+  :course: 14-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/4/2013
+  :course: 13-1198
+  :title: Building Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/30/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/30/2013
+  :course: 13-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/31/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/31/2013
+  :course: 13-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2013
+  :course: 13-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/4/2012
+  :course: 12-0253
+  :title: Crowd / Riot Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 4/25/2011
+  :course: 11-0699
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/14/2010
+  :course: 10-1085
+  :title: Abused Substances
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/10/2009
+  :course: '09-0952'
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/26/2008
+  :course: '08-0709'
+  :title: Mobile Data Terminal (MDT)
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 11/3/2007
+  :course: 07-0157
+  :title: Glock Familiarization
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/31/2007
+  :course: 07-0133
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/31/2007
+  :course: 07-0133
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/8/2002
+  :course: 02U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
+- :date: 11/14/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/9/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/3/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,39 @@
+---
+:header_record:
+  :name: Povey, Nicholas B.
+  :dpsst_identifier: '51553'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 8/18/2010
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 3/31/2011
+  :course: 11-0715
+  :title: LEDS Inquiry Level
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/13/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/11/2011
+  :course: 11-0562
+  :title: Reserve Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '280.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,297 @@
+---
+:header_record:
+  :name: Mack, Jennifer D.
+  :dpsst_identifier: '37600'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/9/1998
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 1/19/2018
+  :course: F6B18850
+  :title: First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/12/2013
+  :course: 13-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/11/2013
+  :course: 13-1220
+  :title: Mounted Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 2/5/2013
+  :course: 13-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/17/2013
+  :course: 13-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/15/2013
+  :course: 13-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/29/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/28/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 11/7/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/6/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 10/30/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 10/23/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 10/14/2012
+  :course: 12-0593
+  :title: Conference - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '30.00'
+- :date: 1/27/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '14.50'
+- :date: 1/4/2012
+  :course: 12-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/16/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/9/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/5/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/24/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/18/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/3/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/19/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/12/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/5/2010
+  :course: 10-1220
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/15/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/10/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/4/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/14/2009
+  :course: '09-0253'
+  :title: Crowd / Riot Control
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/10/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 11/3/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/29/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/20/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/13/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/6/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/30/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/25/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 9/16/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/9/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/1/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 8/25/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 8/18/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/30/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 6/23/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/16/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/2/2009
+  :course: '09-1220'
+  :title: Mounted Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/19/2007
+  :course: 07-0915
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,1724 @@
+---
+:header_record:
+  :name: Nelson, Dustin A.
+  :dpsst_identifier: '26706'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 12/19/1994
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 12/18/1994
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 2/13/1992
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 8/19/2003
+  :certificate: Corrections Officer
+  :level: Advanced
+  :status: Granted
+  :certificate_date: 8/19/2003
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 12/20/1999
+  :certificate: Corrections Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 12/20/1999
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 1/22/1996
+  :certificate: Corrections Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 1/22/1996
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 12/7/2021
+  :course: PDS28945
+  :title: Combat Application Tourniquets
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/7/2021
+  :course: PDS32581
+  :title: NARCAN
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/7/2021
+  :course: PDS21233
+  :title: OSHA  Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/7/2021
+  :course: PDS10459
+  :title: PREA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/30/2021
+  :course: PDS13112
+  :title: CPR-First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/29/2021
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 11/22/2021
+  :course: PDS17643
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/22/2021
+  :course: PDS28464
+  :title: Restraint Chair
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/19/2021
+  :course: PDS27379
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/19/2021
+  :course: PDS16174
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/31/2021
+  :course: PDS24777
+  :title: Financial Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/30/2021
+  :course: PDS22843
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/28/2021
+  :course: PDS38203
+  :title: COVID Policy
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2021
+  :course: PDS14585
+  :title: Facility Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/21/2020
+  :course: F6D26520
+  :title: Off-Duty Encounters  Duty to Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/1/2020
+  :course: MISCMAIN
+  :title: 2020 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 4/21/2020
+  :course: F6D19532
+  :title: Ethics in Public Safety - 2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/29/2020
+  :course: F6D14622
+  :title: Taser Recert
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/29/2020
+  :course: F6D11257
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/29/2020
+  :course: F6D39384
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 1/3/2020
+  :course: F6D08071
+  :title: Facility Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/24/2019
+  :course: MISCMAIN
+  :title: 2019 LE Basic 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/17/2019
+  :course: F6D43217
+  :title: PREA Refresher 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/23/2019
+  :course: F6D09042
+  :title: CPR-First Aid-AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/23/2019
+  :course: F6D41743
+  :title: Bias Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/23/2019
+  :course: F6D34281
+  :title: Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/28/2019
+  :course: F6D09084
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/28/2019
+  :course: F6D17889
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/3/2019
+  :course: F6D30359
+  :title: Ethics in Public Safety 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/11/2019
+  :course: F6D19196
+  :title: Property
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/10/2019
+  :course: F6D27484
+  :title: Facility Emergency Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/9/2019
+  :course: F6D07647
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 3/9/2019
+  :course: F6D30375
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 11/4/2018
+  :course: F6D00669
+  :title: Bias  Diversity Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 10/30/2018
+  :course: F6D18063
+  :title: Radio Communications and BOEC Familiarization
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/24/2018
+  :course: F6D16807
+  :title: MCSO Policy Access and Acknowledgement Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/18/2018
+  :course: F6D29861
+  :title: Discrimination and Harassment-Free Workplace
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/10/2018
+  :course: F6B06725
+  :title: 2018 PREA Staff Training, Updates and Reminders
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/10/2018
+  :course: F6B11593
+  :title: Misconduct Report Writing Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/5/2018
+  :course: F6B30506
+  :title: 2018 MCSO Taser Re-certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/5/2018
+  :course: F6B10596
+  :title: Fentanyl
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/3/2018
+  :course: MISCMAIN
+  :title: 2018 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 6/10/2018
+  :course: F6B16394
+  :title: Distracted Driving
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/6/2018
+  :course: F6B40778
+  :title: Decision Making for Corrections
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/6/2018
+  :course: F6B13326
+  :title: OC Recertification Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/3/2018
+  :course: F6B42299
+  :title: Trauma Informed Care
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/3/2018
+  :course: F6B04604
+  :title: Use of Force Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 2/11/2018
+  :course: F6B06406
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/11/2018
+  :course: F6B30175
+  :title: Trauma Intervention Program - Self Care
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/11/2018
+  :course: F6B17902
+  :title: Suicide Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/11/2018
+  :course: F6B01625
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/31/2018
+  :course: F6B19312
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/7/2018
+  :course: F6B03840
+  :title: DPSST Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/16/2017
+  :course: '05845'
+  :title: CPR/First Aid/AED - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/16/2017
+  :course: '17057'
+  :title: Fall Defensive Tactics - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 12/16/2017
+  :course: '23516'
+  :title: Fall ConSim - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 8/29/2017
+  :course: F6C23768
+  :title: Mental Health First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/7/2017
+  :course: F6C13774
+  :title: OSHA  Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/27/2017
+  :course: F6C19667
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/27/2017
+  :course: F6C08249
+  :title: De-Escalation Techiniques
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 4/27/2017
+  :course: F6C29340
+  :title: Suicide Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/31/2017
+  :course: F6C36246
+  :title: ConSim - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 3/31/2017
+  :course: F6C16228
+  :title: Defensive Tactics - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/18/2017
+  :course: F6C41006
+  :title: PREA Staff Training-2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 7/11/2016
+  :course: F6C01500
+  :title: Transgender and Cross-Gender Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/6/2016
+  :course: F6A00660
+  :title: Distracted Driving
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/5/2016
+  :course: F6A00649
+  :title: OSHA  Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/5/2016
+  :course: F6A00665
+  :title: Transgender Booking Policy
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/26/2016
+  :course: F6Z00141
+  :title: Con Sim - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 4/26/2016
+  :course: F6Z00176
+  :title: Defensive Tactics - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 4/26/2016
+  :course: F6Z00190
+  :title: Prisoner Restraint
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/26/2016
+  :course: F6Z00286
+  :title: CPR/First Aid/AED - AIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/2/2016
+  :course: 16-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/2/2016
+  :course: 16-0727
+  :title: In-Custody Suicide Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/14/2015
+  :course: 15-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/31/2015
+  :course: 15-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/31/2015
+  :course: 15-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/25/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/25/2014
+  :course: 14-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/25/2014
+  :course: 14-0686
+  :title: Suicide Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/18/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/18/2014
+  :course: 14-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/18/2014
+  :course: 14-0738
+  :title: Prison Rape Elimination Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2013
+  :course: 13-0976
+  :title: HazMat - Industrial Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/15/2013
+  :course: 13-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/15/2013
+  :course: 13-0686
+  :title: Suicide Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/28/2013
+  :course: 13-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/28/2013
+  :course: 13-0983
+  :title: Crisis Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/3/2013
+  :course: 13-0950
+  :title: CPR
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/3/2013
+  :course: 13-0955
+  :title: First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/28/2013
+  :course: 13-0950
+  :title: CPR
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/28/2013
+  :course: 13-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/30/2012
+  :course: 12-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/30/2012
+  :course: 12-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/30/2012
+  :course: 12-0686
+  :title: Suicide Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/30/2012
+  :course: 12-0738
+  :title: Prison Rape Elimination Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/22/2012
+  :course: 12-0103
+  :title: ASP Baton
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/22/2012
+  :course: 12-0105
+  :title: OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/22/2012
+  :course: 12-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/22/2012
+  :course: 12-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/22/2012
+  :course: 12-0738
+  :title: Prison Rape Elimination Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/22/2012
+  :course: 12-0926
+  :title: Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/17/2011
+  :course: 11-0686
+  :title: Suicide Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.50'
+- :date: 11/17/2011
+  :course: 11-0972
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/17/2011
+  :course: 11-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/16/2011
+  :course: 11-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/16/2011
+  :course: 11-0634
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/16/2011
+  :course: 11-1136
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/12/2010
+  :course: 10-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/12/2010
+  :course: 10-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/12/2010
+  :course: 10-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/12/2010
+  :course: 10-1136
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/17/2010
+  :course: 10-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/17/2010
+  :course: 10-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/29/2009
+  :course: '09-0105'
+  :title: OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/29/2009
+  :course: '09-0272'
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/29/2009
+  :course: '09-0738'
+  :title: Prison Rape Elimination Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/29/2009
+  :course: '09-1136'
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/29/2009
+  :course: '09-0972'
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/29/2009
+  :course: '09-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/29/2009
+  :course: '09-0926'
+  :title: Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/22/2009
+  :course: '09-0245'
+  :title: Prisoner Restraint
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/22/2009
+  :course: '09-0969'
+  :title: Mental Health
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/24/2009
+  :course: '09-0774'
+  :title: Crime Scene Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/24/2009
+  :course: '09-0634'
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/24/2009
+  :course: '09-0972'
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/5/2008
+  :course: '08-0905'
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/3/2008
+  :course: '08-0114'
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/18/2008
+  :course: '08-0477'
+  :title: Personnel Topics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/18/2008
+  :course: '08-0953'
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/18/2008
+  :course: '08-0972'
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/18/2008
+  :course: '08-1136'
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 4/18/2008
+  :course: '08-0769'
+  :title: Corrections Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/4/2007
+  :course: 07-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/1/2007
+  :course: 07-0105
+  :title: OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/1/2007
+  :course: 07-0684
+  :title: Effective Contacts with Mentally Ill Citizens
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/1/2007
+  :course: 07-0625
+  :title: Interpersonal Communications
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/3/2007
+  :course: 07-0749
+  :title: Corrections Vehicle Operation
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/1/2007
+  :course: 07-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/22/2007
+  :course: 07-0870
+  :title: AWR-160 WMD Awareness Level Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/21/2007
+  :course: 07-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/21/2007
+  :course: 07-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/9/2007
+  :course: 07-0260
+  :title: Vehicle Assault / Hostage Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 2/8/2007
+  :course: 07-0246
+  :title: Prisoner / Inmate - Other Use of Force Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/8/2007
+  :course: 07-0267
+  :title: Tactical Movement
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/8/2007
+  :course: 07-1209
+  :title: Downed Officer Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/8/2007
+  :course: 07-0854
+  :title: Gas Mask Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/7/2007
+  :course: 07-0176
+  :title: Tactical Handgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 2/7/2007
+  :course: 07-0246
+  :title: Prisoner / Inmate - Other Use of Force Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/7/2007
+  :course: 07-0242
+  :title: CERT / Dynamic Entries
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/3/2007
+  :course: 07-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/3/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/3/2007
+  :course: 07-0738
+  :title: Prison Rape Elimination Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 2/3/2007
+  :course: 07-1136
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/30/2006
+  :course: 06-2384
+  :title: Firearms - UNET
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/22/2006
+  :course: 06-2384
+  :title: Firearms - UNET
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/22/2006
+  :course: 06-2384
+  :title: Firearms - UNET
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/20/2006
+  :course: 06-0047
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/9/2006
+  :course: 06-0360
+  :title: ConSim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 9/29/2006
+  :course: 06-2384
+  :title: Firearms - UNET
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/29/2006
+  :course: 06-2384
+  :title: Firearms - UNET
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/26/2006
+  :course: 06-1925
+  :title: ASP Baton
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/26/2006
+  :course: 06-2521
+  :title: Restraint Board
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/26/2006
+  :course: 06-0166
+  :title: Firearms - Patrol Rifle
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/17/2006
+  :course: 06-1625
+  :title: Command Address
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/17/2006
+  :course: 06-0370
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/17/2006
+  :course: 06-0138
+  :title: CPR/First Aid/AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/17/2006
+  :course: 06-0083
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/1/2006
+  :course: 06-0799
+  :title: Firearms - Instructor
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/1/2006
+  :course: 06-0799
+  :title: Firearms - Instructor
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 7/21/2006
+  :course: 06-2531
+  :title: Cell Extraction
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/21/2006
+  :course: 06-0047
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/21/2006
+  :course: 06-2521
+  :title: Restraint Board
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/21/2006
+  :course: 06-2520
+  :title: Weapon Manipulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/10/2006
+  :course: 06-0159
+  :title: Taser X26
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/14/2006
+  :course: 06-0360
+  :title: ConSim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/14/2006
+  :course: 06-0360
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/12/2006
+  :course: 06-0217
+  :title: Firearms
+  :status: Instructed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 4/12/2006
+  :course: 06-0217
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 12/2/2005
+  :course: 05-2195
+  :title: Taser X26
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/28/2005
+  :course: 05-0124
+  :title: ConSim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 11/28/2005
+  :course: 05-0124
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 10/25/2005
+  :course: 05-1927
+  :title: Less Lethal
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/21/2005
+  :course: 05-2505
+  :title: UNET Day 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/17/2005
+  :course: 05-2510
+  :title: Consim - IDC
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/22/2005
+  :course: 05-0736
+  :title: Less Lethal Familiarization
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/22/2005
+  :course: 05-2200
+  :title: Dynamic Entry
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/22/2005
+  :course: 05-0677
+  :title: Ground Fighting
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/22/2005
+  :course: 05-3013
+  :title: Team Movement
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/6/2005
+  :course: 05-1906
+  :title: NIMS ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 8/7/2005
+  :course: 05-0704
+  :title: Firearms - Basic
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/6/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/1/2005
+  :course: 05-0704
+  :title: Firearms - Basic
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/31/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/30/2005
+  :course: 05-0704
+  :title: Firearms - Basic
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/24/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/20/2005
+  :course: 05-3010
+  :title: Entry Team - Hostage Negotiation
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/16/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/11/2005
+  :course: 05-0704
+  :title: Firearms - Basic
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/11/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/10/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/9/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/8/2005
+  :course: 05-0704
+  :title: Firearms - Basic
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/5/2005
+  :course: 05-0704
+  :title: Firearms - Basic
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/5/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/5/2005
+  :course: 05-1231
+  :title: Firearms - Advanced
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/5/2005
+  :course: 05-0704
+  :title: Firearms - Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/24/2005
+  :course: 05-1242
+  :title: Use of Force Instructor Development
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/15/2005
+  :course: 05-0713
+  :title: Firearms - Tactical Pistol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/15/2005
+  :course: 05-0713
+  :title: Firearms - Tactical Pistol
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/12/2005
+  :course: 05-0703
+  :title: Firearms - Tactical Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/9/2005
+  :course: 05-0281
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/9/2005
+  :course: 05-0318
+  :title: Harassment/Discrimination
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/9/2005
+  :course: 05-0760
+  :title: OC Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/9/2005
+  :course: 05-0823
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/1/2005
+  :course: 05-1811
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/22/2005
+  :course: 05-1611
+  :title: Weapon Retention
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/22/2005
+  :course: 05-1645
+  :title: Entry Team
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/15/2004
+  :course: 04-0178
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/15/2004
+  :course: 04-4525
+  :title: Cell Extraction Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/15/2004
+  :course: 04-3452
+  :title: Communication Styles
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/15/2004
+  :course: 04-2115
+  :title: METT-T
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/28/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/22/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/17/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/10/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/27/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/25/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/20/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/18/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/17/2004
+  :course: 04-4355
+  :title: Firearms - Fall 2004 Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/12/2004
+  :course: 04-0178
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 5/12/2004
+  :course: 04-0373
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/11/2004
+  :course: 04-0393
+  :title: Hostage Crisis  Awareness
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/11/2004
+  :course: 04-0065
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/10/2004
+  :course: 04-0391
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 5/10/2004
+  :course: 04-0383
+  :title: Duty to Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 5/10/2004
+  :course: 04U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/6/2004
+  :course: 04-0584
+  :title: Expandable Baton Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/14/2003
+  :course: 03-0697
+  :title: Corrections Life Safety Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/14/2003
+  :course: 03-0700
+  :title: Team Building in Law Enforcement Units
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/28/2003
+  :course: 03-0680
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/27/2003
+  :course: 02U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/27/2003
+  :course: 03-0682
+  :title: Oleoresin Capsicum
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/27/2003
+  :course: 03-0679
+  :title: Corrections Off Duty Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/27/2003
+  :course: 03-0681
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/25/2002
+  :course: 02U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '25.00'
+- :date: 3/24/2002
+  :course: 02CP004
+  :title: Chemical Agents Refresher Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/23/2002
+  :course: 02CP318
+  :title: CPR / First-Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/23/2002
+  :course: 02CP317
+  :title: OSHA-Life Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/25/2001
+  :course: 01CP227
+  :title: Street Survival 2001 Winning
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/24/2001
+  :course: 01CP226
+  :title: Street Survival 2001 TAC Edge
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/13/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '17.50'
+- :date: 12/8/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 12/4/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/29/2000
+  :course: 00P475
+  :title: Basic Instructor Developement Part I
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 8/21/2000
+  :course: 00P260
+  :title: MASTER INSTRUCTOR COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 5/3/2000
+  :course: 00P342
+  :title: Defensive Handgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/31/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/6/2000
+  :course: 00P164
+  :title: JOHN FARNAMS ADV DEFENSIVE HANDGUN COURS
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 2/24/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '13.00'
+- :date: 2/23/2000
+  :course: 00P189
+  :title: ADVANCED COMMUNICATIONS TECHNIQUES
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/22/2000
+  :course: 00P190
+  :title: CPR RECERTIFICATION
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/20/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 1/19/1999
+  :course: 99P045
+  :title: MEDIC FIRST AID EMP
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/8/1998
+  :course: 98U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 4/29/1998
+  :course: 98P194
+  :title: CPR/FIRST AID
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/16/1997
+  :course: 97P318
+  :title: OHSA RECERTIFICATION
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/2/1997
+  :course: 97P268
+  :title: USE OF FORCE CONTINUUM/OC RE-CERT
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/12/1997
+  :course: 97P055
+  :title: C.P.R.
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/24/1995
+  :course: 95T002
+  :title: Corrections Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 3/24/1995
+  :course: 95A094
+  :title: BASIC CORRECTIONS CLASS NO. 94
+  :status: Passed
+  :score: '0.0'
+  :hours: '200.00'
+- :date: 11/10/1993
+  :course: 93U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/18/1992
+  :course: 91J079
+  :title: BASIC POLICE RESERVE ACADEMY
+  :status: Passed
+  :score: '0.0'
+  :hours: '282.00'
+:attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 11/30/2021
+  :expiration_date: 10/28/2023
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2020
+  :expiration_date: 12/31/2022
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 8/19/2003
+  :expiration_date: ''
+:education_records:
+- :date: 6/15/2003
+  :degree: No Degree
+  :school: Portland Community College
+  :major: Corrections  Police Studies
+  :hours: '91.0'
+- :date: 12/15/2002
+  :degree: No Degree
+  :school: All Other Education Institutes
+  :major: ''
+  :hours: '5.0'

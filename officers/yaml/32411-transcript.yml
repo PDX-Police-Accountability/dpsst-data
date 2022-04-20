@@ -1,0 +1,435 @@
+---
+:header_record:
+  :name: Ball, Robert D.
+  :dpsst_identifier: '32411'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/10/2018
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/4/2018
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 5/30/1996
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 8/28/2018
+  :course: F6B27000
+  :title: 2018 OC recertification Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/15/2018
+  :course: F6B35235
+  :title: e-citation Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/15/2018
+  :course: F6B36426
+  :title: Homeless Outreach and Programs Engagement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/15/2018
+  :course: F6B43366
+  :title: MCSO Less Lethal Refresher Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/14/2018
+  :course: F6B25442
+  :title: 2018 PREA Staff Training, Updates and Reminders
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/12/2018
+  :course: F6B40680
+  :title: 2018 MCSO Taser Re-certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/21/2018
+  :course: F6B09130
+  :title: Defensive Tactics - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/21/2018
+  :course: F6B42297
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/20/2018
+  :course: F6D37548
+  :title: Reserve Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2017
+  :course: PPB24454
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2017
+  :course: PPB24460
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/31/2017
+  :course: F6C31871
+  :title: Handgun Qualification-Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/31/2017
+  :course: F6C08975
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/27/2016
+  :course: PPB24090
+  :title: LEDS Recertification - Inquiry Level
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/2/2016
+  :course: F6C01637
+  :title: Taser X2 Transition in-serivce  2016
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 7/31/2016
+  :course: '41967'
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2016
+  :course: '04236'
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/3/2016
+  :course: F6C00023
+  :title: Major Crime Scene - Detective Notification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/31/2015
+  :course: 15-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2015
+  :course: 15-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/3/2015
+  :course: 15-1228
+  :title: Vehicle Stops
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/1/2015
+  :course: 15-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/28/2015
+  :course: 15-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2015
+  :course: 15-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/31/2014
+  :course: 14-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/31/2014
+  :course: 14-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/5/2014
+  :course: 14-1072
+  :title: DUII Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/20/2014
+  :course: 14-1253
+  :title: Tactical Emergency Medical Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2014
+  :course: 14-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 9/3/2014
+  :course: 14-0684
+  :title: Effective Contacts with Mentally Ill Citizens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/3/2014
+  :course: 14-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/31/2014
+  :course: 14-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/1/2014
+  :course: 14-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/2/2014
+  :course: 14-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/5/2014
+  :course: 14-0952
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/31/2014
+  :course: 14-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2014
+  :course: 14-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/31/2013
+  :course: 13-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/30/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/30/2013
+  :course: 13-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2013
+  :course: 13-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/30/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/30/2013
+  :course: 13-0169
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/4/2012
+  :course: 12-0253
+  :title: Crowd / Riot Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 4/25/2011
+  :course: 11-0699
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/10/2009
+  :course: '09-0952'
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/26/2008
+  :course: '08-0709'
+  :title: Mobile Data Terminal (MDT)
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/24/2008
+  :course: '08-0129'
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/28/2007
+  :course: 07-0133
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/31/2007
+  :course: 07-0133
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/1/2002
+  :course: 02CP287
+  :title: Emergency Vehicle Operations Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 11/14/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/21/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '25.50'
+- :date: 11/27/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 5/1/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/24/1999
+  :course: 98P119
+  :title: RADAR OPERATORS COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 3/24/1999
+  :course: 99P260
+  :title: RADAR OPERATORS COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/31/1997
+  :course: 97U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 5/16/1997
+  :course: 97U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 12/9/1996
+  :course: 96U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/18/1996
+  :course: 95K149
+  :title: LEDS TRAINING GUIDE-INQUIRY LEVEL
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 5/30/1996
+  :course: 96P163
+  :title: 1996 RESERVE OFFICERS ACADEMY
+  :status: Passed
+  :score: '0.0'
+  :hours: '345.00'
+:attribute_records: []
+:education_records: []

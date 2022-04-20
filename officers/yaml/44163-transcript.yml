@@ -1,0 +1,57 @@
+---
+:header_record:
+  :name: Rose, Stephen M.
+  :dpsst_identifier: '44163'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 6/30/2017
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 9/4/2003
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 8/31/2016
+  :course: F6C20300
+  :title: RAPID
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/31/2016
+  :course: F6C06689
+  :title: eCourts  DV Case Summary Roll Call Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/4/2013
+  :course: 13-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/17/2010
+  :course: 10-0894
+  :title: HazMat  Weapons of Mass Destruction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/17/2010
+  :course: 10-0894
+  :title: HazMat  Weapons of Mass Destruction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+:attribute_records: []
+:education_records: []

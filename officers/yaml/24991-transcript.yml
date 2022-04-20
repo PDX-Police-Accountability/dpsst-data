@@ -1,0 +1,111 @@
+---
+:header_record:
+  :name: Oleary, Chester J.
+  :dpsst_identifier: '24991'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 2/19/1991
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2007
+  :course: 07-0133
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/31/2007
+  :course: 07-0133
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/8/2004
+  :course: 04-0534
+  :title: Lidar - Practical
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/20/2004
+  :course: 04-0368
+  :title: Lidar Operators Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 9/29/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '60.50'
+- :date: 3/24/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 11/27/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 5/10/1996
+  :course: 96U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 1/26/1995
+  :course: 95U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/19/1994
+  :course: 94U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 11/10/1993
+  :course: 93U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/19/1991
+  :course: '909217'
+  :title: PORTLAND BASIC POLICE RESERVE ACADEMY
+  :status: Passed
+  :score: '0.0'
+  :hours: '281.00'
+:attribute_records: []
+:education_records: []

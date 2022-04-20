@@ -1,0 +1,141 @@
+---
+:header_record:
+  :name: Lehman, Susan L.
+  :dpsst_identifier: '29532'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/19/1994
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 2/15/2019
+  :course: PDP41398
+  :title: Innovative Leadership Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/5/2018
+  :course: PDP31529
+  :title: Narcotics, Vice, Street Crimes Supervisors Trng
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 4/14/2015
+  :course: 15-0600
+  :title: Versadex Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/21/2015
+  :course: 15-0797
+  :title: Sex Crimes Response  Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/29/2013
+  :course: 13-1033
+  :title: Sexual Assault Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '13.00'
+- :date: 9/8/2011
+  :course: 11-0680
+  :title: Autism
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/13/2011
+  :course: 11-1099
+  :title: Restraining Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/27/2010
+  :course: 10-0469
+  :title: Managing Employee Performance
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/20/2010
+  :course: 10-1171
+  :title: Labor Contract Evaluation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/13/2010
+  :course: 10-0464
+  :title: Employee Discipline
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/29/2007
+  :course: 07-0952
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 10/30/2007
+  :course: 07-0809
+  :title: Identity Theft Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/14/2007
+  :course: 07-1009
+  :title: A Clinical Response to Child Abuse
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/23/2007
+  :course: 07-1178
+  :title: Radar / Lidar Training - Home Agency Approved
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/4/1994
+  :course: 94K168
+  :title: LEDS GENERAL TRAINING GUIDE
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records: []
+:education_records: []

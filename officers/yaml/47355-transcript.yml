@@ -1,0 +1,441 @@
+---
+:header_record:
+  :name: Sorensen, Joella A.
+  :dpsst_identifier: '47355'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 9/11/2006
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 7/29/2021
+  :course: DOC29124
+  :title: DOC- Protection from Ambient Heat v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/25/2020
+  :course: DOC01105
+  :title: DOC - ODOC - COVID Training and Information v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/23/2020
+  :course: DOC36442
+  :title: DOC - ODOC - Compressions Only CPR v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/23/2020
+  :course: DOC22377
+  :title: DOC - AT - PREA - Maintaining Professional Boundar
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/3/2019
+  :course: DOC40817
+  :title: DOC - Acceptable Use of Electronic Systems v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: DOC37897
+  :title: DOC -Unclothed Searches-All and Transgender AIC's
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: DOC28736
+  :title: DOC  - Sustainability Programs v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: DOC21119
+  :title: DOC - ADA Inmates with Disabilities v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: DOC16143
+  :title: BBP - Do You Know the Risks? V2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: DOC30860
+  :title: 2019 Prev Harassment in the Workplace
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/3/2019
+  :course: DOC21072
+  :title: DOC - Fire Extinguisher Use v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/3/2019
+  :course: DOC31371
+  :title: '2019 Information Security Training: Foundations'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/3/2019
+  :course: DOC00422
+  :title: DOC - Inmate Access to Healthcare
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: DOC38656
+  :title: HIPAA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/3/2019
+  :course: DOC32476
+  :title: PREA Audit Preparation and Practice
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/3/2019
+  :course: DOC19205
+  :title: DOC -Workplace Productivity v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/3/2019
+  :course: DOC13511
+  :title: DOC - Suicide Detection and Prevention v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/2/2019
+  :course: DOC23255
+  :title: DOC - APQ1 - Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/2/2019
+  :course: DOC15924
+  :title: DOC - APQ2 - Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/1/2019
+  :course: DOC31412
+  :title: DOC - ATCOM - Use of Force 1 -v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/1/2019
+  :course: DOC40266
+  :title: DOC - ATCOM - Use of Force 2 -  v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/30/2019
+  :course: DOC37472
+  :title: DOC - ATCOM - Intermediate CIT v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/30/2019
+  :course: DOC16249
+  :title: DOC - ATCOM - (ICSC) Planning "P" v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/30/2019
+  :course: DOC36635
+  :title: DOC - FS - Krav Maga Defensive Tactics v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/30/2019
+  :course: DOC39129
+  :title: DOC - ATCOM - Personal Safety v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/29/2019
+  :course: DOC11382
+  :title: Ethics Roll Call v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/29/2019
+  :course: DOC16170
+  :title: DOC - ATCOM - DPSST Maintenance v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/29/2019
+  :course: DOC11254
+  :title: DOC Gender Responsivity v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/29/2019
+  :course: DOC06152
+  :title: DOC-ATCOM-The Multi-Disciplinary Team v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/29/2019
+  :course: DOC22159
+  :title: DOC ATCOM Records Management and Disclosure v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/29/2019
+  :course: DOC36177
+  :title: DOC - ATCOM - Introduction to Workday v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/22/2018
+  :course: TRN03178
+  :title: DOC - ATCOM - Understanding Mental Illness v2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/21/2018
+  :course: TRN08330
+  :title: DOC-ODOC-G2015 Medic First Aid, CPR, AED v2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 5/21/2018
+  :course: TRN23732
+  :title: DOC - ATCOM - Introduction to CIT v2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/5/2016
+  :course: 16-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/10/2015
+  :course: 15-0600
+  :title: Versadex Software Applications
+  :status: Instructed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 3/24/2015
+  :course: 15-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/19/2014
+  :course: 14-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 12/12/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/31/2014
+  :course: 14-0904
+  :title: DPSST Revocation / Ethics Bulletin Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/31/2014
+  :course: 14-0943
+  :title: Fire Safety / Suppression Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2014
+  :course: 14-0968
+  :title: Lead Exposure
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/12/2014
+  :course: 14-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/1/2013
+  :course: 13-0974
+  :title: Hazardous Materials
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2013
+  :course: 13-0943
+  :title: Fire Safety / Suppression Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/19/2013
+  :course: 13-0427
+  :title: Disaster Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/31/2013
+  :course: 13-0968
+  :title: Lead Exposure
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/8/2013
+  :course: 13-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/24/2012
+  :course: 12-0381
+  :title: Total Accreditation Management Evaluation (TAME)
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/22/2012
+  :course: 12-0620
+  :title: Public Records Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/21/2012
+  :course: 12-0928
+  :title: Workplace - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/9/2012
+  :course: 12-0905
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/31/2011
+  :course: 11-0954
+  :title: CPR / First Aid / AED / Bloodbourne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/30/2011
+  :course: 11-1134
+  :title: OSHA - Lead Awareness / Exposure
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/31/2011
+  :course: 11-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/11/2011
+  :course: 11-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/7/2010
+  :course: 10-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/19/2010
+  :course: 10-0927
+  :title: Workplace Security  Violence
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/18/2010
+  :course: 10-0936
+  :title: Fire Extinguisher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/18/2010
+  :course: 10-1134
+  :title: OSHA - Lead Awareness / Exposure
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/31/2010
+  :course: 10-0976
+  :title: HazMat - Industrial Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/24/2010
+  :course: 10-0905
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/28/2007
+  :course: 07-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/19/2007
+  :course: 07-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/18/2007
+  :course: 07-0699
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/31/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/24/2007
+  :course: 07-1178
+  :title: Radar / Lidar Training - Home Agency Approved
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/15/2007
+  :course: 07-0747
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records: []
+:education_records: []

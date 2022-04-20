@@ -1,0 +1,728 @@
+---
+:header_record:
+  :name: Phan, Huy Q.
+  :dpsst_identifier: '55562'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 2/3/2020
+  :agency: Multnomah County Sheriff's Office
+  :action: Reclassed
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 7/24/2018
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/4/2018
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 9/24/2015
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 3/11/2021
+  :certificate: Corrections Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 3/11/2021
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 12/15/2021
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/11/2021
+  :course: PDS32581
+  :title: NARCAN
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/9/2021
+  :course: PDS28945
+  :title: Combat Application Tourniquets
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/9/2021
+  :course: PDS21233
+  :title: OSHA  Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/9/2021
+  :course: PDS10459
+  :title: PREA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/28/2021
+  :course: PDS13112
+  :title: CPR-First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/12/2021
+  :course: PDS08343
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 10/12/2021
+  :course: PDS00751
+  :title: Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/30/2021
+  :course: PDS24575
+  :title: Financial Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/27/2021
+  :course: PDS16749
+  :title: Mental Health First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/31/2021
+  :course: PDS02599
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/28/2021
+  :course: PDS38203
+  :title: COVID Policy
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/10/2021
+  :course: 20T002
+  :title: Corrections Field Training Manual
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 1/31/2021
+  :course: PDS27521
+  :title: Facility Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2021
+  :course: PDS19477
+  :title: PREA
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/30/2020
+  :course: 20-0001
+  :title: DPSST Basic Corrections
+  :status: Passed
+  :score: '0.0'
+  :hours: '240.00'
+- :date: 9/17/2020
+  :course: F6D28129
+  :title: Off-Duty Encounters  Duty to Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/2/2020
+  :course: F6D39392
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 5/13/2020
+  :course: F6D29417
+  :title: Corrections Health Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/15/2020
+  :course: F6D37094
+  :title: 2019 MCSO Less Lethal Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/10/2020
+  :course: F6D07813
+  :title: Facility Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/7/2020
+  :course: F6D21291
+  :title: Ehtics in Public Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/23/2020
+  :course: F6D30135
+  :title: Distracted Driving
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/11/2020
+  :course: F6D34546
+  :title: Suicide Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/6/2020
+  :course: F6D20302
+  :title: Property
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/4/2020
+  :course: F6D36637
+  :title: Restraint Chair Application
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/4/2020
+  :course: F6D31547
+  :title: Transgender Booking Policy
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/4/2020
+  :course: F6D23405
+  :title: Radio Communications and BOEC Familiarization
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/4/2020
+  :course: F6D43697
+  :title: Transgender and Cross Gender Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/27/2020
+  :course: F6D13700
+  :title: Misconduct Report Writing Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/27/2020
+  :course: F6D20159
+  :title: Grievance Process
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/25/2020
+  :course: F6D21599
+  :title: Facility Emergency Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/24/2020
+  :course: F6D22120
+  :title: MCSO Policy Access and Ackowledgement Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/21/2020
+  :course: F6D12095
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/20/2020
+  :course: F6D03807
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/20/2020
+  :course: F6D31386
+  :title: ADA Compliance
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/19/2020
+  :course: F6D13921
+  :title: Ethics  IAU
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/18/2020
+  :course: F6D30655
+  :title: Uncontrolled Enviorment
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/17/2020
+  :course: F6D11975
+  :title: Suicide Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/14/2020
+  :course: F6D01443
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '21.00'
+- :date: 2/14/2020
+  :course: F6D17568
+  :title: Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/13/2020
+  :course: F6D00043
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/11/2020
+  :course: F6D31283
+  :title: Taser
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/11/2020
+  :course: F6D31045
+  :title: Decision Making for Corrections
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/7/2020
+  :course: F6D07921
+  :title: Restraints  Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/7/2020
+  :course: F6D14934
+  :title: OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/6/2020
+  :course: F6D09841
+  :title: Crisis Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/5/2020
+  :course: F6D16839
+  :title: CPR - First Aid - AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/5/2020
+  :course: F6D15330
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/5/2020
+  :course: F6D38709
+  :title: PREA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/3/2020
+  :course: F6D30975
+  :title: OSHA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/3/2020
+  :course: F6D23495
+  :title: Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/13/2020
+  :course: F6D42673
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/7/2019
+  :course: F6D28744
+  :title: Person Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/7/2019
+  :course: F6D25839
+  :title: Stop Stick Use
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/9/2019
+  :course: F6D02035
+  :title: CPR - First Aid - AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/17/2019
+  :course: F6D38893
+  :title: Oregon State Marine Board - Boater Safety Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/17/2019
+  :course: F6D00782
+  :title: Oregon State Marine Board - Boater Safety Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/17/2019
+  :course: F6D33219
+  :title: Oregon State Marine Board
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/4/2019
+  :course: F6D24291
+  :title: Firearms Training- Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 2/4/2019
+  :course: F6D01173
+  :title: Range Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/18/2018
+  :course: F6D35150
+  :title: Range Qualification-Reserve
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/8/2018
+  :course: F6D42939
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/8/2018
+  :course: F6D11949
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/31/2018
+  :course: F6D35831
+  :title: Fentanyl
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/31/2018
+  :course: F6D22054
+  :title: Oregon State Marine Board Boater Safety Plan
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/30/2018
+  :course: F6D03179
+  :title: RegJIN Query and Browse
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/29/2018
+  :course: F6D31234
+  :title: Transgender and Cross-Gender Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/19/2018
+  :course: F6D03531
+  :title: OSHA  Bloodborne Pathogens 2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/30/2018
+  :course: F6B39203
+  :title: Distracted Driving
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2018
+  :course: F6B34984
+  :title: House bill 2776
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2018
+  :course: F6B18703
+  :title: Narcan Adapt Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/30/2018
+  :course: F6B07691
+  :title: PREA Staff Training - 2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 9/30/2018
+  :course: F6B40968
+  :title: MCSO Policy Access and Acknowledgement Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/17/2018
+  :course: F6B09787
+  :title: Discrimination and Harassment Free Workplace
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/16/2018
+  :course: F6B29750
+  :title: Firearms Transfer Denial and Enforcement Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/10/2018
+  :course: F6D10417
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/28/2018
+  :course: F6B27000
+  :title: 2018 OC recertification Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/26/2018
+  :course: F6B14188
+  :title: Taser X26P Transition Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/23/2018
+  :course: F6B11559
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/20/2018
+  :course: F6B02695
+  :title: MCSO Less Lethal Refresher Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/17/2018
+  :course: F6B00886
+  :title: CPR-First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/12/2018
+  :course: F6B40680
+  :title: 2018 MCSO Taser Re-certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/24/2018
+  :course: F6D34632
+  :title: Reserve Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/3/2018
+  :course: PDP42272
+  :title: IFAK Refresher Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/3/2018
+  :course: PDP11353
+  :title: 2017-3 Legal Updates for Q3
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/22/2018
+  :course: PDP01076
+  :title: BHU Mental Health Template Video Non-ECIT Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/31/2017
+  :course: PPB24793
+  :title: Fentanyl Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 8/31/2017
+  :course: PPB24454
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/31/2017
+  :course: PPB24460
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/31/2017
+  :course: PPB24454
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/31/2017
+  :course: PPB24460
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/31/2017
+  :course: F6C31871
+  :title: Handgun Qualification-Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/31/2017
+  :course: F6C08975
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/1/2017
+  :course: F6C17533
+  :title: TECC for Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/1/2017
+  :course: PPB24578
+  :title: TECC for Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/31/2016
+  :course: F6C04096
+  :title: Handgun Qualification-Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/31/2016
+  :course: F6C08264
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/5/2016
+  :course: F6C10895
+  :title: Full Body Search-Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/7/2016
+  :course: F6C38736
+  :title: High Risk Vehicle Stops - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/31/2016
+  :course: '41967'
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2016
+  :course: '04236'
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/10/2016
+  :course: F6C10074
+  :title: Taser X2 Certification - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 4/2/2016
+  :course: F6C27081
+  :title: LEDS Inquiry Level
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/29/2016
+  :course: F6C23868
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/29/2016
+  :course: F6C35721
+  :title: Handgun Qualification Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/25/2016
+  :course: 16-0562
+  :title: Reserve Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '300.00'
+- :date: 2/3/2016
+  :course: F6C00023
+  :title: Major Crime Scene - Detective Notification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/12/2016
+  :course: 16-0388
+  :title: ICS 100 / IS 100 - Introduction to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/12/2016
+  :course: 16-0395
+  :title: IS 700  NIMS, An Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/11/2015
+  :course: 15-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 11/28/2021
+  :expiration_date: 10/28/2023
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2021
+  :expiration_date: 12/31/2023
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 9/20/2020
+  :expiration_date: ''
+:education_records: []

@@ -1,0 +1,105 @@
+---
+:header_record:
+  :name: Rae, Marilyn
+  :dpsst_identifier: '23777'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 4/17/1990
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/12/2008
+  :course: '08-0708'
+  :title: Internet Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/30/2008
+  :course: '08-0915'
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/9/2007
+  :course: 07-0388
+  :title: ICS 100 / IS 100 - Introduction to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/26/2007
+  :course: 07-0928
+  :title: Workplace - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/31/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/23/2007
+  :course: 07-1178
+  :title: Radar / Lidar Training - Home Agency Approved
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/15/2007
+  :course: 07-0747
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/22/2007
+  :course: 07-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/20/2007
+  :course: 07-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/13/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/9/2007
+  :course: 07-0699
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+:attribute_records: []
+:education_records: []

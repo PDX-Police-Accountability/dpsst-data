@@ -1,0 +1,788 @@
+---
+:header_record:
+  :name: Jorgensen, Michael K.
+  :dpsst_identifier: '50229'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 4/20/2014
+  :agency: DOC/Columbia River Correctional Institut
+  :action: Promotion
+  :rank: Corporal
+  :classification: ''
+  :assignment: ''
+- :date: 3/29/2011
+  :agency: DOC/Columbia River Correctional Institut
+  :action: Hired
+  :rank: Corr Offcr
+  :classification: ''
+  :assignment: ''
+- :date: 1/10/2010
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 1/22/2009
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 1/6/2015
+  :certificate: Corrections Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 1/6/2015
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 12/7/2012
+  :certificate: Corrections Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 12/7/2012
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 1/13/2022
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/16/2021
+  :course: TRN26257
+  :title: How Being Trauma-Informed Improves CJS Responses
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/12/2021
+  :course: TRN15184
+  :title: Use of Force Case Law Review v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/11/2021
+  :course: TRN24545
+  :title: Use of Force Rule Review v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/11/2021
+  :course: TRN34681
+  :title: Use of Force for DOC Security v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/28/2021
+  :course: DOC32106
+  :title: The Oregon Way v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/28/2021
+  :course: DOC35438
+  :title: PREA - Annual Requirement Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/28/2021
+  :course: DOC00875
+  :title: DPSST Maintenance Training v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/27/2021
+  :course: DOC21363
+  :title: Drug Recognition and Interdiction v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/26/2021
+  :course: DOC06037
+  :title: HIPAA for EVERYONE v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/18/2021
+  :course: DOC13922
+  :title: DOC - AT - History of Norway Corrections v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/18/2021
+  :course: DOC39004
+  :title: DOC - AT - Prison Tattoos And Their Meaning v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/18/2021
+  :course: DOC30205
+  :title: DOC - AT - Tech Tuesday v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/17/2021
+  :course: DOC08671
+  :title: Bloodborne Pathogens - Protect Yourself
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/17/2021
+  :course: DOC39637
+  :title: Accessibility for AIC's with Disabilities v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/17/2021
+  :course: DOC08685
+  :title: 2021 Preventing Discrimination and Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/17/2021
+  :course: DOC18884
+  :title: DOC - AT - Wellness-Mind and Inspiration v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/17/2021
+  :course: DOC23089
+  :title: DOC - AT - Wellness-Meals and Exercise v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/16/2021
+  :course: DOC12949
+  :title: Communication - Easy to Do Easy to Blunder v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/16/2021
+  :course: DOC39736
+  :title: DOC - AT - Earthquake Preparedness v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/16/2021
+  :course: DOC41201
+  :title: DOC - AT - Suicide Detection and Prevention v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/10/2021
+  :course: DOC35645
+  :title: DOC-Protection from Ambient Heat v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/10/2021
+  :course: DOC09454
+  :title: DOC-Protection from Wildfire Smoke v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/3/2021
+  :course: DOC06618
+  :title: DOC-G215 Medic First Aid, CPR, AED v2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/14/2021
+  :course: DOC16215
+  :title: DOC - ODOC - Fire Extinguisher Use v2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/14/2021
+  :course: DOC18780
+  :title: 'DAS - EIS - 2021 Information Security Training: Fo'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/22/2020
+  :course: DOC40422
+  :title: DOC - ODOC - COVID Training and Information v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/21/2020
+  :course: DOC23936
+  :title: DOC - ODOC - Compressions Only CPR v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/17/2020
+  :course: DOC14619
+  :title: DAS-EIS-2020 Information Security Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/17/2020
+  :course: DOC04384
+  :title: DAS - CHRO - 2020 Preventing Discrimination and Ha
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/16/2020
+  :course: MISCMAIN
+  :title: 2020 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 1/31/2020
+  :course: DOC38680
+  :title: Communication - Easy to Do Easy to Blunder v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2020
+  :course: DOC24105
+  :title: Earthquake Preparedness
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2020
+  :course: DOC29824
+  :title: DOC - ODOC - Wellness-Financial v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2020
+  :course: DOC34522
+  :title: HIPAA for EVERYONE
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 1/31/2020
+  :course: DOC34901
+  :title: ICSC for Non-Institution Staff
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2020
+  :course: DOC38628
+  :title: History of Norway Corrections
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/31/2020
+  :course: DOC20705
+  :title: Suicide Detection and Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/31/2020
+  :course: DOC22783
+  :title: DOC - AT - Tech Tuesday v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2020
+  :course: DOC36745
+  :title: DOC - ODOC  Wellness-Meals and Exercise v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2020
+  :course: DOC00052
+  :title: WELLNESS - Mind and Inspiration
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/30/2020
+  :course: DOC00663
+  :title: DOC - FS - Krav Maga Defensive Tactics Supplementa
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/30/2020
+  :course: DOC30076
+  :title: DOC - FS - Krav Maga Defensive Tactics v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/30/2020
+  :course: DOC42350
+  :title: Bloodborne Pathogens - Protect Yourself
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/30/2020
+  :course: DOC37768
+  :title: DOC - ODOC - Fire Extinguisher Use v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/30/2020
+  :course: DOC27540
+  :title: Public Records
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/29/2020
+  :course: DOC11895
+  :title: DOC - AT - Employee Wellness v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/29/2020
+  :course: DOC37183
+  :title: DOC - AT - Use of Force Applications v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/28/2020
+  :course: DOC29199
+  :title: DOC - AT - Drug Recognition and Interdiction v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/28/2020
+  :course: DOC40395
+  :title: DOC - AT - DPSST Maintenance Training Requirements
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/28/2020
+  :course: DOC22163
+  :title: DOC - AT - Humanizing Communication Through Crisis
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/28/2020
+  :course: DOC29417
+  :title: DOC - AT - PREA Maintaining Professional Boundarie
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/27/2020
+  :course: DOC10965
+  :title: DOC - ODOC - G2015 Medic First Aid, CPR, AED v2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 1/27/2020
+  :course: DOC25351
+  :title: DOC - AT - Welcome and the Oregon Way v2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/24/2019
+  :course: DOC39837
+  :title: PREA Audit Preparation and Practice
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/6/2019
+  :course: DOC31758
+  :title: Ethics Roll Call v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/6/2019
+  :course: DOC31831
+  :title: DOC - ATCOM - Intermediate CIT v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/6/2019
+  :course: DOC16249
+  :title: DOC - ATCOM - (ICSC) Planning "P" v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/6/2019
+  :course: DOC36177
+  :title: DOC - ATCOM - Introduction to Workday v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/5/2019
+  :course: DOC16170
+  :title: DOC - ATCOM - DPSST Maintenance v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/4/2019
+  :course: DOC11254
+  :title: DOC Gender Responsivity v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/4/2019
+  :course: DOC36635
+  :title: DOC - FS - Krav Maga Defensive Tactics v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/4/2019
+  :course: DOC39129
+  :title: DOC - ATCOM - Personal Safety v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/4/2019
+  :course: DOC22159
+  :title: DOC ATCOM Records Management and Disclosure v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/3/2019
+  :course: DOC06152
+  :title: DOC-ATCOM-The Multi-Disciplinary Team v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/5/2019
+  :course: DOC19038
+  :title: DOC - Acceptable Use of Electronic Systems v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/5/2019
+  :course: DOC26600
+  :title: DOC  - Sustainability Programs v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/5/2019
+  :course: DOC13608
+  :title: DOC - ADA Inmates with Disabilities v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/5/2019
+  :course: DOC37083
+  :title: BBP - Do You Know the Risks? V2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/5/2019
+  :course: DOC09823
+  :title: 2019 Prev Harassment in the Workplace
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/5/2019
+  :course: DOC21072
+  :title: DOC - Fire Extinguisher Use v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/5/2019
+  :course: DOC06335
+  :title: DOC - Inmate Access to Healthcare
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/5/2019
+  :course: DOC39837
+  :title: PREA Audit Preparation and Practice
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/4/2019
+  :course: DOC30882
+  :title: DOC -Unclothed Searches-All and Transgender AIC's
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/4/2019
+  :course: DOC31371
+  :title: '2019 Information Security Training: Foundations'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/4/2019
+  :course: DOC41384
+  :title: HIPAA
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/4/2019
+  :course: DOC11975
+  :title: DOC -Workplace Productivity v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/4/2019
+  :course: DOC06670
+  :title: DOC - Suicide Detection and Prevention v2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/8/2018
+  :course: TRN18568
+  :title: DOC - ATCOM - Understanding Mental Illness v2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/1/2018
+  :course: TRN22666
+  :title: DOC-ODOC-G2015 Medic First Aid, CPR, AED v2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 2/1/2018
+  :course: TRN04141
+  :title: DOC - ATCOM - Introduction to CIT v2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/14/2012
+  :course: 12T002
+  :title: Corrections Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 4/6/2012
+  :course: 11-0036
+  :title: DOC Basic Corrections
+  :status: Passed
+  :score: '0.0'
+  :hours: '227.00'
+- :date: 9/10/2009
+  :course: '09-1122'
+  :title: Law  Legal - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '66.00'
+- :date: 9/10/2009
+  :course: '09-0129'
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '71.25'
+- :date: 9/10/2009
+  :course: '09-0114'
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '89.50'
+- :date: 9/10/2009
+  :course: '09-0121'
+  :title: Patrol Tactics - DT Focus
+  :status: Passed
+  :score: '0.0'
+  :hours: '71.25'
+- :date: 9/7/2009
+  :course: '09-0683'
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
+- :date: 9/3/2009
+  :course: '09-0795'
+  :title: Domestic Violence Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '19.00'
+- :date: 9/1/2009
+  :course: '09-0273'
+  :title: Taser X26 Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 8/31/2009
+  :course: '09-0630'
+  :title: Verbal Communication - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 8/27/2009
+  :course: '09-0101'
+  :title: Active Shooter - Tactical Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 8/26/2009
+  :course: '09-0854'
+  :title: Gas Mask Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/26/2009
+  :course: '09-1252'
+  :title: Tactical Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 8/25/2009
+  :course: '09-0109'
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.50'
+- :date: 8/24/2009
+  :course: '09-0839'
+  :title: Radio Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 8/20/2009
+  :course: '09-1204'
+  :title: EVOC / PIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/31/2009
+  :course: '09-0135'
+  :title: Remedial Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/21/2009
+  :course: '09-0925'
+  :title: Use of Force Policy
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/7/2009
+  :course: '09-1122'
+  :title: Law  Legal - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '11.00'
+- :date: 6/25/2009
+  :course: '09-1122'
+  :title: Law  Legal - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 6/24/2009
+  :course: '09-0127'
+  :title: Firearms Basic Classroom
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/22/2009
+  :course: '09-1094'
+  :title: Civil Liability Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/18/2009
+  :course: '09-1175'
+  :title: Radar / Lidar - Practical
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/2/2009
+  :course: '09-0715'
+  :title: LEDS Inquiry Level
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/29/2009
+  :course: '09-0129'
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 5/28/2009
+  :course: '09-0245'
+  :title: Prisoner Restraint
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/22/2009
+  :course: '09-0008'
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
+- :date: 4/24/2009
+  :course: '09-0011'
+  :title: Intoxilyzer 8000-Training hours included in Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 4/21/2009
+  :course: '09-1173'
+  :title: Lidar Operators Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/9/2009
+  :course: '09-0010'
+  :title: SFST/DID- Training hours included in Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 3/17/2009
+  :course: '09-1178'
+  :title: Radar / Lidar Training - Home Agency Approved
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/26/2009
+  :course: '09-0952'
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/31/2009
+  :course: '09-0388'
+  :title: ICS 100 / IS 100 - Introduction to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/31/2009
+  :course: '09-0395'
+  :title: IS 700  NIMS, An Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/29/2009
+  :course: '09-0126'
+  :title: Firearms Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 1/26/2009
+  :course: '09-0924'
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/26/2009
+  :course: '09-0709'
+  :title: Mobile Data Terminal (MDT)
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/23/2009
+  :course: '09-0920'
+  :title: New Hire Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 5/3/2021
+  :expiration_date: 5/31/2023
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2020
+  :expiration_date: 12/31/2022
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 2/27/2009
+  :expiration_date: ''
+:education_records:
+- :date: 12/15/2008
+  :degree: Associate Arts
+  :school: All Other Education Institutes
+  :major: Criminal Justice
+  :hours: '54.0'

@@ -1,0 +1,111 @@
+---
+:header_record:
+  :name: Cuthbertson, Bruce E.
+  :dpsst_identifier: '17500'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 12/31/2016
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 3/22/1984
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2013
+  :course: 13-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/28/2011
+  :course: 11-0443
+  :title: Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/28/2011
+  :course: 11-0492
+  :title: Strategic Management / Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/28/2011
+  :course: 11-0492
+  :title: Strategic Management / Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/28/2008
+  :course: '08-0915'
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/11/2007
+  :course: 07-0949
+  :title: AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/2/2005
+  :course: 05-1991
+  :title: Police Civil Liability
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/24/1986
+  :course: '865063'
+  :title: FIRST LINE SUPERVISOR'S SHORT COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '21.00'
+- :date: 12/31/1985
+  :course: 85LM24
+  :title: LEDS TRAINING GUIDE
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 4/10/1985
+  :course: '859203'
+  :title: LEDS SYSTEM CHANGES
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,213 @@
+---
+:header_record:
+  :name: Winstanley, Mary E.
+  :dpsst_identifier: '30397'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 6/30/2021
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 1/12/1995
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 5/4/2018
+  :course: PDP05727
+  :title: International Association for Identification Conf
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 11/21/2016
+  :course: F6A03164
+  :title: Advanced Comparison of Fingerprints/Palms
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 8/31/2016
+  :course: F6C20300
+  :title: RAPID
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/29/2016
+  :course: F6C04700
+  :title: Emergency Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/31/2016
+  :course: F6C06689
+  :title: eCourts  DV Case Summary Roll Call Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2014
+  :course: 14-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/25/2011
+  :course: 11-1102
+  :title: Courtroom Testimony
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/4/2009
+  :course: '09-0834'
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/5/2009
+  :course: '09-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/22/2009
+  :course: '09-0123'
+  :title: Visual Clues to Confrontation
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/17/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/30/2009
+  :course: '09-0870'
+  :title: AWR-160 WMD Awareness Level Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/13/2008
+  :course: '08-0779'
+  :title: Fingerprinting
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.50'
+- :date: 7/28/2008
+  :course: '08-0123'
+  :title: Visual Clues to Confrontation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/20/2008
+  :course: '08-0983'
+  :title: Crisis Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 5/28/2008
+  :course: '08-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/24/2008
+  :course: '08-0790'
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/21/2008
+  :course: '08-0747'
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 2/7/2008
+  :course: '08-0699'
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/5/2007
+  :course: 07-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/2/2007
+  :course: 07-0971
+  :title: Stress Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/7/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/24/2007
+  :course: 07-1178
+  :title: Radar / Lidar Training - Home Agency Approved
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/8/2007
+  :course: 07-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/22/2007
+  :course: 07-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/17/2000
+  :course: 00P299
+  :title: BASIC FINGERPRINT CLASS
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 9/30/1995
+  :course: 95K149
+  :title: LEDS TRAINING GUIDE-INQUIRY LEVEL
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+:attribute_records: []
+:education_records: []

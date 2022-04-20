@@ -1,0 +1,123 @@
+---
+:header_record:
+  :name: Summerson, Michael G.
+  :dpsst_identifier: '47555'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 11/6/2006
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 7/14/2016
+  :course: '39724'
+  :title: ONEA Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '23.50'
+- :date: 7/9/2015
+  :course: 15-0583
+  :title: ONEA Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/6/2014
+  :course: 14-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/10/2013
+  :course: 13-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 8/16/2012
+  :course: 12-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/26/2009
+  :course: '09-0924'
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/29/2008
+  :course: '08-0914'
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/16/2008
+  :course: '08-0820'
+  :title: Criminal Intelligence Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/5/2008
+  :course: '08-0785'
+  :title: DNA
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 6/5/2008
+  :course: '08-0785'
+  :title: DNA
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 5/6/2008
+  :course: '08-0918'
+  :title: Employee Assistance Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 1/28/2008
+  :course: '08-0715'
+  :title: LEDS Inquiry Level
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/12/2007
+  :course: 07-0703
+  :title: Data System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 11/8/2007
+  :course: 07-0834
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/8/2007
+  :course: 07-0914
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+:attribute_records: []
+:education_records: []

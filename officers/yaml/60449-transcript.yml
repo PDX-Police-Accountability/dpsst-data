@@ -1,0 +1,45 @@
+---
+:header_record:
+  :name: Wolfe, Tyler J.
+  :dpsst_identifier: '60449'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 1/11/2020
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 11/19/2019
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 1/20/2020
+  :course: M10-19A
+  :title: DPSST Basic Police Course
+  :status: Cancelled
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 1/9/2020
+  :course: PDP09683
+  :title: 2020 City of Portland FTEP Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/8/2020
+  :course: PDP19126
+  :title: 2020 FTEP Policy and Procedure
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+:attribute_records: []
+:education_records: []

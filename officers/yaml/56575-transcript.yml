@@ -1,0 +1,177 @@
+---
+:header_record:
+  :name: Baydala, Oleksiy P.
+  :dpsst_identifier: '56575'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 3/4/2020
+  :agency: Multnomah County Sheriff's Office
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/24/2018
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/4/2018
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 9/15/2016
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 2/15/2022
+  :course: BNS33820
+  :title: Recognizing Medical Issues in Corrections
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/15/2022
+  :course: BNS26331
+  :title: Suicide Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/2/2020
+  :course: F6D10990
+  :title: Traffic Incident Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/13/2020
+  :course: F6D42673
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/19/2019
+  :course: F6D19571
+  :title: Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/9/2019
+  :course: F6D02035
+  :title: CPR - First Aid - AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/10/2019
+  :course: F6D35463
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/31/2019
+  :course: F6D07257
+  :title: LEDS Recertificaqtion
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/4/2019
+  :course: F6D24291
+  :title: Firearms Training- Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 12/18/2018
+  :course: F6D35150
+  :title: Range Qualification-Reserve
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/3/2018
+  :course: F6D26495
+  :title: e-Citation Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2018
+  :course: F6B18703
+  :title: Narcan Adapt Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/28/2018
+  :course: F6B28438
+  :title: Taser X26P Transition Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/26/2018
+  :course: F6B42492
+  :title: 2018 OC Recertification Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/26/2018
+  :course: F6B15109
+  :title: 2018 MCSO Taser Re-certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/10/2018
+  :course: F6D10417
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/29/2018
+  :course: F6B18255
+  :title: CPR-First Aid-AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/14/2018
+  :course: F6B27914
+  :title: Firearms Training - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 7/14/2018
+  :course: F6B03954
+  :title: Firearms Qualification - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/9/2017
+  :course: F6C08684
+  :title: Clackamas County Inter-Agency Reserve Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '300.00'
+- :date: 3/9/2017
+  :course: F6C35331
+  :title: ICS 100/IS 100-Introduction to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/9/2017
+  :course: F6C31690
+  :title: IS 700-NIMS An Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/4/2017
+  :course: F6A04045
+  :title: Tactical Emergency Medical Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records: []
+:education_records: []

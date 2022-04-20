@@ -1,0 +1,183 @@
+---
+:header_record:
+  :name: Clark, Deena J.
+  :dpsst_identifier: '17932'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/17/1993
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 5/16/1993
+  :agency: Multnomah County Sheriff's Office
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 7/27/1988
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 5/15/1987
+  :agency: Multnomah County Sheriff's Office
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 8/20/1984
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 5/27/2016
+  :course: F6A00845
+  :title: Suicide Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.50'
+- :date: 2/29/2016
+  :course: F6C04700
+  :title: Emergency Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/22/2015
+  :course: 15-0928
+  :title: Workplace - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2014
+  :course: 14-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/19/2012
+  :course: 12-0914
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/19/2010
+  :course: 10-0707
+  :title: Internet for Investigators
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/20/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/12/2008
+  :course: '08-0820'
+  :title: Criminal Intelligence Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 8/12/2008
+  :course: '08-0708'
+  :title: Internet Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/22/2008
+  :course: '08-0707'
+  :title: Internet for Investigators
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/27/2007
+  :course: 07-0699
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/5/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/15/2007
+  :course: 07-0747
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/22/2007
+  :course: 07-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/7/2007
+  :course: 07-0703
+  :title: Data System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 2/15/2007
+  :course: 07-1009
+  :title: A Clinical Response to Child Abuse
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/4/2004
+  :course: 04-4760
+  :title: Basic Intelligence Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 9/17/2004
+  :course: 04-0046
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/18/1994
+  :course: 04U003
+  :title: Prior Approved Purged Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '170.00'
+:attribute_records: []
+:education_records: []

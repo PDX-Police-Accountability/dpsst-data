@@ -1,0 +1,81 @@
+---
+:header_record:
+  :name: Hobson, Suzanne M.
+  :dpsst_identifier: '28650'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/10/2019
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 8/12/1993
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/29/2007
+  :course: 07-0952
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/6/2007
+  :course: 07-0747
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/23/1993
+  :course: 93X030
+  :title: LEGAL UPDATE FOR LAW ENFORCEMENT OFFICER
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/10/1993
+  :course: 93K048
+  :title: LEDS GENERAL LEVEL
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records: []
+:education_records: []

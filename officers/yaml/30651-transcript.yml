@@ -1,0 +1,570 @@
+---
+:header_record:
+  :name: Gravley, James N.
+  :dpsst_identifier: '30651'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/5/2016
+  :agency: DPSST Use Only
+  :action: Resigned
+  :rank: ''
+  :classification: ''
+  :assignment: AcadTrng
+- :date: 6/18/2014
+  :agency: Grant County Community Corrections
+  :action: Resigned
+  :rank: Par/prob O
+  :classification: ''
+  :assignment: ''
+- :date: 1/1/2014
+  :agency: DPSST Use Only
+  :action: InstrApp
+  :rank: ''
+  :classification: ''
+  :assignment: AcadTrng
+- :date: 10/22/2012
+  :agency: Grant County Community Corrections
+  :action: Hired
+  :rank: Par/prob O
+  :classification: ''
+  :assignment: ''
+- :date: 10/12/2012
+  :agency: Multnomah County Adult Community Justice
+  :action: Resigned
+  :rank: Par/prob O
+  :classification: ''
+  :assignment: ''
+- :date: 11/15/2005
+  :agency: North Plains Police Department
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 1/4/2005
+  :agency: North Plains Police Department
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 6/1/2004
+  :agency: Gaston Police Department
+  :action: Layoff
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 2/13/2002
+  :agency: Gaston Police Department
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 11/26/2001
+  :agency: Multnomah County Adult Community Justice
+  :action: Hired
+  :rank: Par/prob O
+  :classification: ''
+  :assignment: ''
+- :date: 11/25/2001
+  :agency: Washington County Sheriff's Office
+  :action: Resigned
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 5/18/1998
+  :agency: Washington County Sheriff's Office
+  :action: Hired
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 2/1/1997
+  :agency: Clackamas County Sheriff's Office
+  :action: Resigned
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 7/5/1995
+  :agency: Clackamas County Sheriff's Office
+  :action: Hired
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 7/4/1995
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 4/4/1995
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 2/15/2020
+  :certificate: Corrections Officer
+  :level: Basic
+  :status: Expired
+  :certificate_date: 3/18/1999
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 2/15/2020
+  :certificate: Corrections Officer
+  :level: Intermediate
+  :status: Expired
+  :certificate_date: 8/9/1999
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 2/15/2020
+  :certificate: Parole  Probation Officer
+  :level: Advanced
+  :status: Expired
+  :certificate_date: 5/17/2005
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 2/15/2020
+  :certificate: Parole  Probation Officer
+  :level: Basic
+  :status: Expired
+  :certificate_date: 2/6/2003
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 2/15/2020
+  :certificate: Parole  Probation Officer
+  :level: Intermediate
+  :status: Expired
+  :certificate_date: 2/6/2003
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 2/15/2020
+  :certificate: Police Officer
+  :level: Basic
+  :status: Expired
+  :certificate_date: 9/6/1996
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 8/1/2019
+  :certificate: Instructor
+  :level: ''
+  :status: Expired
+  :certificate_date: 1/1/2014
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 11/24/2015
+  :course: 15-0992
+  :title: Basic Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 1/30/2015
+  :course: 15-0183
+  :title: Firearms Instructor Developement Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 1/10/2014
+  :course: 14-0763
+  :title: Sex Offenders Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/1/2013
+  :course: 13-0760
+  :title: Sex Offenders Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+- :date: 10/14/2013
+  :course: 13-1021
+  :title: Child Abuse Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/15/2013
+  :course: 13-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/15/2013
+  :course: 13-0167
+  :title: Rifle Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/1/2013
+  :course: 13-3013
+  :title: Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 2/24/2013
+  :course: 13-0141
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/24/2013
+  :course: 13-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/4/2013
+  :course: 13-0242
+  :title: CERT / Dynamic Entries
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/14/2013
+  :course: 13-0101
+  :title: Active Shooter - Tactical Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/26/2012
+  :course: 12-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 6/21/2012
+  :course: 12-0180
+  :title: Defensive Tactics Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 3/21/2012
+  :course: 12-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/15/2012
+  :course: 12-3034
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/1/2012
+  :course: 12-1120
+  :title: Search  Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/26/2012
+  :course: 12-0156
+  :title: Glock Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 9/22/2011
+  :course: 11-1007
+  :title: Instructor Course - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
+- :date: 4/7/2010
+  :course: 10-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/26/2010
+  :course: 10-0804
+  :title: Narcotics Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/22/2009
+  :course: '09-0156'
+  :title: Glock Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/27/2007
+  :course: 07-1001
+  :title: Reality Based Instructor Class
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 9/27/2006
+  :course: 06-0863
+  :title: Glock Armorer
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/11/2006
+  :course: 06-0017
+  :title: ConSim - IDC
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/2/2005
+  :course: 05-0702
+  :title: IFAST Firearms Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/21/2005
+  :course: 05-0122
+  :title: Critical Incident Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/30/2004
+  :course: 04-0282
+  :title: Outlaw Motorcycle Gangs
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/30/2004
+  :course: 04-0282
+  :title: Outlaw Motorcycle Gangs
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/9/2004
+  :course: 04-0420
+  :title: Firearms Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 11/13/2003
+  :course: 03-0872
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/7/2003
+  :course: 03-0782
+  :title: SFST Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/9/2003
+  :course: 03-0830
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 3/4/2003
+  :course: 03-0350
+  :title: 'CISM: Suicide Prev. Interv.  Postvention'
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 2/6/2003
+  :course: 03T003
+  :title: Parole  Probation Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 7/23/2002
+  :course: 02CP840
+  :title: Effective Contacts with Mentally Ill Citizens
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/10/2002
+  :course: 02CP118
+  :title: DPSST Basic Parole and Probation
+  :status: Passed
+  :score: '0.0'
+  :hours: '160.00'
+- :date: 10/26/2001
+  :course: 02CP028
+  :title: Northwest Gang Investigators Association Conferenc
+  :status: Passed
+  :score: '0.0'
+  :hours: '28.00'
+- :date: 10/19/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.50'
+- :date: 6/14/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.20'
+- :date: 12/31/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '64.50'
+- :date: 8/4/2000
+  :course: 00P537
+  :title: 'Law Enforcement Ethics: Train the Trainer'
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+- :date: 5/31/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '28.50'
+- :date: 11/30/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.20'
+- :date: 6/17/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 3/18/1999
+  :course: 98T002
+  :title: Corrections Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 2/12/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '200.00'
+- :date: 12/11/1998
+  :course: 98B013
+  :title: DPSST Basic Corrections COD
+  :status: Passed
+  :score: '0.0'
+  :hours: '64.00'
+- :date: 9/16/1998
+  :course: 98U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
+- :date: 2/10/1997
+  :course: 97P113
+  :title: DEFENSIVE TACTICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/10/1997
+  :course: 97P111
+  :title: CPR
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/10/1997
+  :course: 97P114
+  :title: REPORT TROUBLE SHOOTING
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/9/1997
+  :course: 97P110
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/8/1997
+  :course: 97P108
+  :title: CITIZEN COMMUNICATIONS
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/8/1997
+  :course: 97P109
+  :title: HAZ-MAT REFRESHER COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/7/1997
+  :course: 97P112
+  :title: LEGAL UPDATES  CULTURAL ISSUES
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 12/16/1996
+  :course: 96X076
+  :title: TACTICAL REVOLVER COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/19/1996
+  :course: 96X076
+  :title: TACTICAL REVOLVER COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/22/1996
+  :course: 96T001
+  :title: Police Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 6/14/1996
+  :course: 96X076
+  :title: TACTICAL REVOLVER COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/15/1996
+  :course: 96X076
+  :title: TACTICAL REVOLVER COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/18/1995
+  :course: 95X128
+  :title: FIREARMS QUALIFICATION-TRC COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/3/1995
+  :course: 95J023
+  :title: BAS.DRUG IMPAIRMENT "DRUGS THAT IMP. DRI
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/20/1995
+  :course: 95X128
+  :title: FIREARMS QUALIFICATION-TRC COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/1/1995
+  :course: 95G194
+  :title: BASIC POLICE NO. 194
+  :status: Passed
+  :score: '0.0'
+  :hours: '320.00'
+- :date: 8/17/1995
+  :course: 95J024
+  :title: IMPLIED CONSENT LAWS/INTOXILYZER
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 4/17/2002
+  :expiration_date: ''
+:education_records:
+- :date: 6/11/2016
+  :degree: Masters Science
+  :school: Eastern Oregon University
+  :major: Education
+  :hours: '50.0'
+- :date: 12/20/1995
+  :degree: Bachelor Science
+  :school: Portland State University
+  :major: Corrections  Police Studies
+  :hours: '185.0'

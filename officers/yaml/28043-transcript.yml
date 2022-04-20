@@ -1,0 +1,2673 @@
+---
+:header_record:
+  :name: Cuevas, Cristian R.
+  :dpsst_identifier: '28043'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 11/30/2019
+  :agency: Oregon State Police
+  :action: Retired
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
+- :date: 10/1/2015
+  :agency: Oregon State Police
+  :action: Promotion
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
+- :date: 4/7/2005
+  :agency: Oregon State Police
+  :action: Demotn Vol
+  :rank: Sr Trooper
+  :classification: ''
+  :assignment: ''
+- :date: 2/1/2004
+  :agency: Oregon State Police
+  :action: Promotion
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
+- :date: 6/1/2001
+  :agency: Oregon State Police
+  :action: Promotion
+  :rank: Sr Trooper
+  :classification: ''
+  :assignment: ''
+- :date: 6/1/1994
+  :agency: Oregon State Police
+  :action: Promotion
+  :rank: Trooper
+  :classification: ''
+  :assignment: ''
+- :date: 11/4/1993
+  :agency: Oregon State Police
+  :action: Reclassed
+  :rank: Recruit
+  :classification: ''
+  :assignment: ''
+- :date: 6/1/1993
+  :agency: Oregon State Police
+  :action: Hired
+  :rank: Recruit
+  :classification: ''
+  :assignment: ''
+- :date: 5/31/1993
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 3/4/1993
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 3/1/2020
+  :certificate: Police Officer
+  :level: Advanced
+  :status: Lapsed
+  :certificate_date: 8/15/2003
+  :expiration_date: 11/30/2024
+  :probation_date: ''
+- :status_date: 3/1/2020
+  :certificate: Police Officer
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 7/30/1994
+  :expiration_date: 11/30/2024
+  :probation_date: ''
+- :status_date: 3/1/2020
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Lapsed
+  :certificate_date: 8/15/2003
+  :expiration_date: 11/30/2024
+  :probation_date: ''
+:training_records:
+- :date: 11/14/2019
+  :course: F6D27803
+  :title: Oregon Peace Officers Association Annual Conf.
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/10/2019
+  :course: F6D28509
+  :title: Emergency Vehicle Operation In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/7/2019
+  :course: F6D13446
+  :title: 2nd Trimester Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 4/26/2019
+  :course: F6D36078
+  :title: 2019 DUII Mult-Disciplinary Training Confrence
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/19/2019
+  :course: F6D43006
+  :title: Trunarc (Thermofisher) User Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/26/2019
+  :course: F6D35173
+  :title: 1st Trimester Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/15/2019
+  :course: F6D34413
+  :title: Procedural Justice / Implicit Bias
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/31/2018
+  :course: MISCMAIN
+  :title: 2018 LE AnnualRequired Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/5/2018
+  :course: F6D31034
+  :title: FTEP Supervisor Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 11/30/2018
+  :course: F6D11329
+  :title: Supv Intro to COBAN
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/23/2018
+  :course: F6D08261
+  :title: Introduction to COBAN Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/17/2018
+  :course: CAP31418
+  :title: Standardized Field Sobriety Testing Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/24/2018
+  :course: F6B36195
+  :title: Vehicle Based Problem Solving
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/6/2018
+  :course: F6B08534
+  :title: Defensive Tactics/Taser 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/9/2018
+  :course: F6B29821
+  :title: Breach Point for Police Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/26/2018
+  :course: F6W35324
+  :title: Developing Metrics for Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/18/2018
+  :course: F6B37625
+  :title: First Aid DPSST Re-certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/5/2018
+  :course: F6B32671
+  :title: '"Get Real" Patrol Tactics'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/1/2018
+  :course: F6B40460
+  :title: '"Get Real" Patrol Tactics'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/19/2018
+  :course: F6B32213
+  :title: '"Get Real" NBPS'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/21/2018
+  :course: F6B06522
+  :title: AHA BLS CPR with AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/13/2018
+  :course: F6B09630
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/12/2018
+  :course: 18-0030
+  :title: DPSST Supervision F21 Equivalency
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 1/17/2018
+  :course: F6B02710
+  :title: 2018 U.O.F/Personnel Inv. For Supervisors
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/15/2017
+  :course: F6C28794
+  :title: Naloxone Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/13/2017
+  :course: F6C21633
+  :title: Firearms In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/12/2017
+  :course: F6C41060
+  :title: Firearms In-service
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 12/11/2017
+  :course: F6C08880
+  :title: Firearms In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/30/2017
+  :course: F6C13523
+  :title: 3rd Trimester Firearms - Low Light
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/28/2017
+  :course: F6C27829
+  :title: 3rd Trimester Firearms - Low Light
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/27/2017
+  :course: F6C30135
+  :title: 3rd Trimester Firearms - Low Light
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/17/2017
+  :course: F6C11001
+  :title: 3rd Trimester Firearms-Low Light
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/13/2017
+  :course: F6C37906
+  :title: 3rd Trimester Firearms - Low Light
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/2/2017
+  :course: F6W10235
+  :title: Stress First Aid and Emotional Survival
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/2/2017
+  :course: F6W37490
+  :title: Supervisor Responsibilities-Line of Duty Death
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/1/2017
+  :course: F6A09843
+  :title: 'Officer Survival: Mindset 360'
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/30/2017
+  :course: F6C20855
+  :title: Survival Skills/Taser Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/13/2017
+  :course: F6A09197
+  :title: Lethal Weapon Crash Investigation Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 8/5/2017
+  :course: F6C16874
+  :title: Patrol Tactics - "Get Real" Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/10/2017
+  :course: F6C41430
+  :title: Background Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 6/30/2017
+  :course: F6C11530
+  :title: Patrol Tactics - "Get Real" Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/27/2017
+  :course: F6M39161
+  :title: Marijuana Law Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/14/2017
+  :course: F6C14152
+  :title: Bloodborne Pathogens 2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/30/2017
+  :course: F6M37297
+  :title: Patrol Tactics "Get Real" Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/13/2017
+  :course: F6C27650
+  :title: First Responder - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/24/2017
+  :course: F6M18608
+  :title: Patrol Tactics-"Get Real" Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/13/2017
+  :course: F6C40100
+  :title: Firearms 1st Tri-Mester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/13/2017
+  :course: F6C19670
+  :title: Firearms 1st Tri-Mester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/2/2017
+  :course: F6C32038
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/28/2017
+  :course: F6C34064
+  :title: Haz Mat 2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/23/2017
+  :course: F6C14035
+  :title: MP Pistol Armorer Class
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/25/2017
+  :course: F6C24785
+  :title: Annual Taser Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/21/2016
+  :course: F6C33004
+  :title: Patrol Tactics - New Violator Pursuit Policy 502.9
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/17/2016
+  :course: F6C38379
+  :title: Patrol Tactics-"Get Real" Sovereign Citizens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/15/2016
+  :course: F6C30010
+  :title: Patrol Tactics-"Get Real" 12-24 Custodies
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2016
+  :course: F6C37341
+  :title: PolicyTech "People In Crisis" on-line training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/10/2016
+  :course: F6C17970
+  :title: Patrol Tactics-"Get Real" Stop Stick Deployment
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/25/2016
+  :course: F6A00539
+  :title: Rangemaster In Service
+  :status: Instructed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 5/14/2016
+  :course: F6C35248
+  :title: Patrol Tactics-"Get Real" High Risk Traffic Stops
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/3/2016
+  :course: F6A01624
+  :title: CPR with AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/19/2016
+  :course: F6Z00173
+  :title: Defensive Tactics - 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/15/2016
+  :course: F6C12761
+  :title: Patrol Tactics - "Get Real" The Pullover
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/4/2016
+  :course: F6C21285
+  :title: Get Real Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/15/2016
+  :course: F6C41010
+  :title: Patrol Tactics - "Get Real" I'm Watching You
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/8/2016
+  :course: 16-1084
+  :title: ARIDE (Adv. Roadside Impaired Driving Enforcement)
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 2/23/2016
+  :course: 16-1075
+  :title: Intoxilyzer 8000
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 2/18/2016
+  :course: 16-1113
+  :title: Case Law / Court Decisions
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/18/2016
+  :course: 16-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/18/2016
+  :course: 16-0578
+  :title: Firearms Instant Check Disqualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/18/2016
+  :course: 16-1170
+  :title: OSP CAPE/K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/18/2016
+  :course: 16-0839
+  :title: Radio Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/17/2016
+  :course: 16-0971
+  :title: Stress Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/17/2016
+  :course: 16-1209
+  :title: Downed Officer Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/16/2016
+  :course: 16-0983
+  :title: Crisis Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/16/2016
+  :course: 16-0629
+  :title: Verbal Judo
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/16/2016
+  :course: 16-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/15/2016
+  :course: 16-0777
+  :title: Property Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/15/2016
+  :course: 16-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/15/2016
+  :course: 16-0700
+  :title: CAD End User Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/3/2016
+  :course: 16-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 1/29/2016
+  :course: 16-0593
+  :title: Conference - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.00'
+- :date: 12/31/2015
+  :course: MISCMAIN
+  :title: 2015 Police Maintenance Basic
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 11/30/2015
+  :course: F6C10712
+  :title: 2015 Blood Borne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/16/2015
+  :course: 15-0578
+  :title: Firearms Instant Check Disqualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/16/2015
+  :course: 15-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/13/2015
+  :course: 15-0955
+  :title: First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/13/2015
+  :course: F6C09025
+  :title: 'Haz Mat WMD: recognition, medical treatment'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/7/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/6/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/25/2015
+  :course: 15-1204
+  :title: EVOC / PIT
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/18/2015
+  :course: 15-1204
+  :title: EVOC / PIT
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/11/2015
+  :course: 15-1204
+  :title: EVOC / PIT
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/10/2015
+  :course: 15-0995
+  :title: EVOC Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/3/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/1/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/31/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/24/2015
+  :course: 15-0276
+  :title: Use of Force - Other
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/13/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 8/11/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/25/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/24/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/23/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/22/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/26/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/25/2015
+  :course: 15-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/21/2015
+  :course: 15-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 4/24/2015
+  :course: 15-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/15/2015
+  :course: 15-0184
+  :title: Firearms Instructor Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '21.00'
+- :date: 3/20/2015
+  :course: 15-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/2/2015
+  :course: 15-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/19/2015
+  :course: 15-0184
+  :title: Firearms Instructor Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '21.00'
+- :date: 1/14/2015
+  :course: 15-1150
+  :title: Emergency Medical Responder
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/14/2015
+  :course: 15-0974
+  :title: Hazardous Materials
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/5/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/18/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/13/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/7/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/6/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/16/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/10/2014
+  :course: 14-1203
+  :title: EVOC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/9/2014
+  :course: 14-0129
+  :title: Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/24/2014
+  :course: 14-1150
+  :title: Emergency Medical Responder
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/11/2014
+  :course: 14-1204
+  :title: EVOC / PIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/2/2014
+  :course: 14-0578
+  :title: Firearms Instant Check Disqualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/25/2014
+  :course: 14-0276
+  :title: Use of Force - Other
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/16/2014
+  :course: 14-0593
+  :title: Conference - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 5/15/2014
+  :course: 14-0906
+  :title: Ethics  Bias Based Profiling
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/14/2014
+  :course: 14-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/14/2014
+  :course: 14-0552
+  :title: Traffic Incident Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/13/2014
+  :course: 14-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/28/2014
+  :course: 14-0951
+  :title: CPR / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/17/2014
+  :course: 14-0158
+  :title: Smith and Wesson Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/15/2014
+  :course: 14-0158
+  :title: Smith and Wesson Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/7/2014
+  :course: 14-1204
+  :title: EVOC / PIT
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/16/2014
+  :course: 14-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 1/9/2014
+  :course: 14-0981
+  :title: Crisis Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 12/20/2013
+  :course: 13-0182
+  :title: AR 15 Instructor Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 12/19/2013
+  :course: 13-1150
+  :title: OSP Emergency Medical Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/14/2013
+  :course: 13-1153
+  :title: OSP HazMat Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/14/2013
+  :course: 13-1150
+  :title: OSP Emergency Medical Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/8/2013
+  :course: 13-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/18/2013
+  :course: 13-0100
+  :title: Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/13/2013
+  :course: 13-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/12/2013
+  :course: 13-0257
+  :title: SWAT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/9/2013
+  :course: 13-1204
+  :title: EVOC / PIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 7/1/2013
+  :course: 13-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 5/22/2013
+  :course: 13-0592
+  :title: Western States Hostage Negotiators Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 3/28/2013
+  :course: 13-0217
+  :title: OSP Defensive Tactics 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 3/28/2013
+  :course: 13-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/21/2013
+  :course: 13-1150
+  :title: OSP Emergency Medical Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/14/2013
+  :course: 13-0232
+  :title: OSP Range Master In-Service
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/13/2013
+  :course: 13-0232
+  :title: OSP Range Master In-Service
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/12/2013
+  :course: 13-0232
+  :title: OSP Range Master In-Service
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/21/2013
+  :course: 13-0232
+  :title: OSP Range Master In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/20/2013
+  :course: 13-0232
+  :title: OSP Range Master In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/19/2013
+  :course: 13-0232
+  :title: OSP Range Master In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/15/2013
+  :course: 13-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 12/31/2012
+  :course: MISCMAIN
+  :title: 2012 Police Maintenance Basic
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/12/2012
+  :course: 12-0229
+  :title: OSP Firearms 3rd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/7/2012
+  :course: 12-0174
+  :title: SWAT / Sniper Firearms
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/20/2012
+  :course: 12-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/15/2012
+  :course: 12-0224
+  :title: OSP Firearms 1st Tri Make-up
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/27/2012
+  :course: 12-0277
+  :title: Taser X2
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/17/2012
+  :course: 12-0176
+  :title: Tactical Handgun
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/20/2012
+  :course: 12-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/14/2012
+  :course: 12-1253
+  :title: Tactical Emergency Medical Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/14/2012
+  :course: 12-1255
+  :title: Tactical Response Team (TRT) Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/11/2012
+  :course: 12-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/29/2012
+  :course: 12-1262
+  :title: Video Training Courses
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/24/2012
+  :course: 12-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/16/2012
+  :course: 12-1204
+  :title: EVOC / PIT
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/15/2012
+  :course: 12-1204
+  :title: EVOC / PIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/30/2012
+  :course: 12-0217
+  :title: OSP Defensive Tactics 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/15/2012
+  :course: 12-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/13/2012
+  :course: 12-0198
+  :title: Range 3000/MILO Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/12/2012
+  :course: 12-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/9/2012
+  :course: 12-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/8/2012
+  :course: 12-0257
+  :title: SWAT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 3/6/2012
+  :course: 12-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/28/2012
+  :course: 12-1150
+  :title: OSP Emergency Medical Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 2/28/2012
+  :course: 12-1153
+  :title: OSP HazMat Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/20/2011
+  :course: 11-1160
+  :title: OSP Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/16/2011
+  :course: 11-0817
+  :title: PIT / Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/11/2011
+  :course: 11-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '26.00'
+- :date: 11/10/2011
+  :course: 11-0174
+  :title: SWAT / Sniper Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/10/2011
+  :course: 11-0226
+  :title: OSP Firearms 2nd Tri Make-up
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/21/2011
+  :course: 11-3027
+  :title: Firearms Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 9/9/2011
+  :course: 11-0229
+  :title: OSP Firearms 3rd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/5/2011
+  :course: 11-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/15/2011
+  :course: 11-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/15/2011
+  :course: 11-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '13.00'
+- :date: 8/3/2011
+  :course: 11-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/22/2011
+  :course: 11-0273
+  :title: Taser X26 Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/22/2011
+  :course: 11-0274
+  :title: Taser - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/19/2011
+  :course: 11-0174
+  :title: SWAT / Sniper Firearms
+  :status: Instructed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 7/11/2011
+  :course: 11-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/23/2011
+  :course: 11-0152
+  :title: AR-15 / M-16 Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/22/2011
+  :course: 11-0257
+  :title: SWAT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/9/2011
+  :course: 11-0136
+  :title: Remington Armorer's School
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/6/2011
+  :course: 11-1150
+  :title: OSP First Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 6/6/2011
+  :course: 11-1153
+  :title: OSP HazMat Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/25/2011
+  :course: 11-0232
+  :title: OSP Range Master In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/10/2011
+  :course: 11-0174
+  :title: SWAT / Sniper Firearms
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/28/2011
+  :course: 11-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/21/2011
+  :course: 11-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/17/2011
+  :course: 11-0149
+  :title: Low Light / Night Shooting / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/10/2011
+  :course: 11-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 3/7/2011
+  :course: 11-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/25/2011
+  :course: 11-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/21/2011
+  :course: 11-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/9/2011
+  :course: 11-0174
+  :title: SWAT / Sniper Firearms
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/26/2011
+  :course: 11-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/9/2011
+  :course: 11-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/31/2010
+  :course: 10-0412
+  :title: IS 704.a NIMS Communication  Information Mgmt
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/31/2010
+  :course: 10-0409
+  :title: IS 701.a NIMS Multiagency System Coordination
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 12/1/2010
+  :course: 10-0193
+  :title: ConSim Instructor Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 11/29/2010
+  :course: 10-0229
+  :title: OSP Firearms 3rd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/13/2010
+  :course: 10-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 11/3/2010
+  :course: 10-0229
+  :title: OSP Firearms 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/29/2010
+  :course: 10-0143
+  :title: Handgun Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 10/12/2010
+  :course: 10-0158
+  :title: Smith and Wesson Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/1/2010
+  :course: 10-0143
+  :title: Handgun Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/30/2010
+  :course: 10-0176
+  :title: Tactical Handgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/10/2010
+  :course: 10-0995
+  :title: EVOC Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '120.00'
+- :date: 8/11/2010
+  :course: 10-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/7/2010
+  :course: 10-1163
+  :title: OSP Patrol Tactics - Fish  Wildlife
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/18/2010
+  :course: 10-0257
+  :title: SWAT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 6/17/2010
+  :course: 10-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 6/14/2010
+  :course: 10-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/11/2010
+  :course: 10-0883
+  :title: Critical Incident Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/11/2010
+  :course: 10-1170
+  :title: OSP CAPE/K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/7/2010
+  :course: 10-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/4/2010
+  :course: 10-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/4/2010
+  :course: 10-0884
+  :title: Anti-Terrorism Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/3/2010
+  :course: 10-1094
+  :title: Civil Liability Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/1/2010
+  :course: 10-1121
+  :title: Traffic Law Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/5/2010
+  :course: 10-0131
+  :title: LEO Flying Armed
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/1/2010
+  :course: 10-0791
+  :title: Recovery of Human Remains
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/11/2010
+  :course: 10-0232
+  :title: OSP Range Master In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 3/5/2010
+  :course: 10-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '31.50'
+- :date: 3/3/2010
+  :course: 10-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/3/2010
+  :course: 10-1150
+  :title: OSP First Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 2/23/2010
+  :course: 10-0217
+  :title: OSP Defensive Tactics 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/7/2010
+  :course: 10-1164
+  :title: OSP Patrol Tactics Instructor Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 1/26/2010
+  :course: 10-1116
+  :title: Legal/Legislative Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/17/2009
+  :course: '09-0923'
+  :title: Safety Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/19/2009
+  :course: '09-0229'
+  :title: OSP Firearms 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/18/2009
+  :course: '09-1160'
+  :title: OSP Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/10/2009
+  :course: '09-0819'
+  :title: Background Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/18/2009
+  :course: '09-0982'
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/8/2009
+  :course: '09-0221'
+  :title: OSP Defensive Tactics 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/13/2009
+  :course: '09-0801'
+  :title: Homicide Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/3/2009
+  :course: '09-0225'
+  :title: OSP Firearms 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/6/2009
+  :course: '09-1150'
+  :title: OSP First Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/6/2009
+  :course: '09-1153'
+  :title: OSP HazMat Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/11/2009
+  :course: '09-0794'
+  :title: Child Abuse Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/10/2009
+  :course: '09-0794'
+  :title: Child Abuse Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/7/2008
+  :course: '08-0229'
+  :title: OSP Firearms 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/10/2008
+  :course: '08-0121'
+  :title: Patrol Tactics - DT Focus
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/9/2008
+  :course: '08-1102'
+  :title: Courtroom Testimony
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/9/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/8/2008
+  :course: '08-0221'
+  :title: OSP Defensive Tactics 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/8/2008
+  :course: '08-0971'
+  :title: Stress Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/8/2008
+  :course: '08-0618'
+  :title: Media Relations
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/8/2008
+  :course: '08-0491'
+  :title: Risk Management  Mitigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/27/2008
+  :course: '08-0227'
+  :title: OSP Firearms 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/27/2008
+  :course: '08-0214'
+  :title: OSP AR-15 Rifle
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/20/2008
+  :course: '08-0219'
+  :title: OSP Defensive Tactics 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/10/2008
+  :course: '08-0738'
+  :title: Prison Rape Elimination Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/19/2008
+  :course: '08-0834'
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/17/2008
+  :course: '08-0790'
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/2/2008
+  :course: '08-0225'
+  :title: OSP Firearms 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/2/2008
+  :course: '08-0214'
+  :title: OSP AR-15 Rifle
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/5/2008
+  :course: '08-0217'
+  :title: OSP Defensive Tactics 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/30/2007
+  :course: 07-0229
+  :title: OSP Firearms 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/29/2007
+  :course: 07-0829
+  :title: Investigating Officer Involved Shootings
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/19/2007
+  :course: 07-0834
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/16/2007
+  :course: 07-0235
+  :title: OSP Semi Automatic Rifle Requal Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 8/24/2007
+  :course: 07-1160
+  :title: OSP Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/21/2007
+  :course: 07-1203
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/28/2007
+  :course: 07-0654
+  :title: Arab Muslim Sikh Protocols
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/6/2007
+  :course: 07-0592
+  :title: Western States Hostage Negotiators Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 6/5/2007
+  :course: 07-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 5/30/2007
+  :course: 07-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 5/30/2007
+  :course: 07-0227
+  :title: OSP Firearms 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/8/2007
+  :course: 07-0219
+  :title: OSP Defensive Tactics 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/22/2007
+  :course: 07-0791
+  :title: Recovery of Human Remains
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 3/19/2007
+  :course: 07-0225
+  :title: OSP Firearms 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/15/2007
+  :course: 07-0131
+  :title: LEO Flying Armed
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/21/2007
+  :course: 07-0217
+  :title: OSP Defensive Tactics 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/9/2007
+  :course: 07-1013
+  :title: Child Abuse Protocols
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 1/25/2007
+  :course: 07-0032
+  :title: DPSST Child Abuse Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/12/2006
+  :course: 06-0039
+  :title: Oregon Regional Forensic Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 11/14/2006
+  :course: 06-2746
+  :title: OSP '06 3rd Trimester Range
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/14/2006
+  :course: 06-2746
+  :title: OSP '06 3rd Trimester Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/10/2006
+  :course: 06-1785
+  :title: OSP '06 DT 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/27/2006
+  :course: 06-0032
+  :title: Intoxilyzer 8000
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/21/2006
+  :course: 06-0676
+  :title: IS 200 Single Resources  Initial Action Incidents
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/14/2006
+  :course: 06-0675
+  :title: IS 100 Introduction to Incident Command System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/24/2006
+  :course: 06-1936
+  :title: Three Flags Safety Belt Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/22/2006
+  :course: 06-1263
+  :title: OSP '06 Firearms 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/3/2006
+  :course: 06-0095
+  :title: OSP '06 First Responder
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 7/21/2006
+  :course: 06-2181
+  :title: OSP '06 AR15 Requalification
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 7/10/2006
+  :course: 06-0908
+  :title: Motorcycle Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/10/2006
+  :course: 06-1544
+  :title: OSP '06 Patrol Div Inservice
+  :status: Passed
+  :score: '0.0'
+  :hours: '11.00'
+- :date: 5/9/2006
+  :course: 06-1545
+  :title: OSP '06 DUII  SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/9/2006
+  :course: 06-1542
+  :title: OSP '06 Traffic LE for the 21st Century
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/8/2006
+  :course: 06-0041
+  :title: OSP '06 HazMat Awareness
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/8/2006
+  :course: 06-0040
+  :title: OSP '06 Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/13/2006
+  :course: 06-0091
+  :title: OSP '06 DT 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/3/2006
+  :course: 06-0199
+  :title: OSP '06 Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/2/2006
+  :course: 06-0199
+  :title: OSP '06 Firearms 1st Trimester
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/2/2006
+  :course: 06-0199
+  :title: OSP '06 Firearms 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/16/2006
+  :course: 06-0433
+  :title: OSP '06 Range Master Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 1/31/2006
+  :course: 06-0434
+  :title: OSP '06 Glock Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/23/2006
+  :course: 06-0119
+  :title: Truck Inspection
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 1/12/2006
+  :course: 06-0024
+  :title: Three Flags Workshop
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/10/2005
+  :course: 05-1438
+  :title: OSP '05 Firearms 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/6/2005
+  :course: 05-2697
+  :title: OSP '05 Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/6/2005
+  :course: 05-1435
+  :title: OSP '05 DT 3nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/4/2005
+  :course: 05-1627
+  :title: OSP '05 AR15 Requalification
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 8/24/2005
+  :course: 05-0152
+  :title: Three Flags Safety Belt Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/14/2005
+  :course: 05-0946
+  :title: N. America Motor Officers Assoc (NAMOA) Symposium
+  :status: Instructed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/14/2005
+  :course: 05-0946
+  :title: N. America Motor Officers Assoc (NAMOA) Symposium
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 4/25/2005
+  :course: 05-0424
+  :title: OSP '05 First Responder
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/9/2005
+  :course: 05-1556
+  :title: NIMS IS-700
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/10/2005
+  :course: 05-0879
+  :title: OSP '05 WMD LEPM
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 12/13/2004
+  :course: 04-0907
+  :title: OSP '04 HazMat Awareness
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/9/2004
+  :course: 04-4376
+  :title: OSP '04 Firearms 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/23/2004
+  :course: 04-0550
+  :title: OSP '04 Semi Automatic Rifle Requal Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/18/2004
+  :course: 04-4731
+  :title: OSP '04 DT 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/8/2004
+  :course: 04-4376
+  :title: OSP '04 Firearms 3rd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/1/2004
+  :course: 04-0968
+  :title: OSP '04 Intro to Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '76.00'
+- :date: 7/28/2004
+  :course: 04-3004
+  :title: High Speed Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/13/2004
+  :course: 04-1070
+  :title: OSP '04 Firearms 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/30/2004
+  :course: 04-0396
+  :title: OSP '04 First Responder
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 6/28/2004
+  :course: 04-0980
+  :title: OSP '04 DT 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/24/2004
+  :course: 04-3003
+  :title: Advanced Rider Training (ART)
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/20/2004
+  :course: 04-1094
+  :title: OSP '04 Patrol Inservice
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
+- :date: 5/19/2004
+  :course: 04-0238
+  :title: Consular Notification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/19/2004
+  :course: 04-2071
+  :title: OSP '04 Patrol Tactics - Patrol Division
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 5/18/2004
+  :course: 04-3259
+  :title: OSP '04 WMD Pers. Protective Equipment
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/14/2004
+  :course: 04-0560
+  :title: National Nuclear Security Briefing
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/20/2004
+  :course: 04-0206
+  :title: OSP '04 Firearms 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/23/2004
+  :course: 04-0063
+  :title: OSP '04 DT 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/20/2003
+  :course: 03-1107
+  :title: 2003 Legislative Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/5/2003
+  :course: 03-1137
+  :title: OSP 2003 SFST Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 10/21/2003
+  :course: 03-0720
+  :title: OSP Semi Automatic Rifle Requalification
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/13/2003
+  :course: 03-0300
+  :title: OSP Trimester Firearms 3
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/12/2003
+  :course: 03-0872
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/2/2003
+  :course: 03-0299
+  :title: OSP Trimester Firearms 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/21/2003
+  :course: 03-0174
+  :title: OSP Patrol Tactics 2003
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/21/2003
+  :course: 03-0258
+  :title: Oregon State Police Defensive Tactics 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/6/2003
+  :course: 03-0257
+  :title: Oregon State Police Defensive Tactics 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/6/2003
+  :course: 03-0387
+  :title: OSP 2003 First Responder In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 2/24/2003
+  :course: 03-0298
+  :title: OSP 2003 Trimester Firearms 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/30/2002
+  :course: 02CP507
+  :title: Police Motorcycle Advanced Rider Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 9/30/2002
+  :course: 02CP508
+  :title: High Speed Training - Motor Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/16/2002
+  :course: 02CP872
+  :title: OSP Hazardous Materials In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/12/2002
+  :course: 02CP604
+  :title: Oregon State Police Glock Armorer's Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/11/2002
+  :course: 02CP888
+  :title: Oregon State Police 2002 Rangemaster In-Service
+  :status: Failed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/25/2002
+  :course: 02CP469
+  :title: OSP Defensive Tactics 2nd Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 7/24/2002
+  :course: 02CP375
+  :title: OSP 2002 Trimester Firearms Training 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/18/2002
+  :course: 02CP693
+  :title: Oregon State Police Patrol In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/1/2002
+  :course: 02CP375
+  :title: OSP 2002 Trimester Firearms Training 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/23/2002
+  :course: 02CP538
+  :title: Instructor Prep - Motorcycle Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '60.00'
+- :date: 5/20/2002
+  :course: 02CP507
+  :title: Police Motorcycle Advanced Rider Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/19/2001
+  :course: 02CP061
+  :title: OSP-Online Radar Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/19/2001
+  :course: 02CP060
+  :title: OSP-Online Vascar/Pacing
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/19/2001
+  :course: 02CP062
+  :title: OSP-Online Lidar
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/13/2001
+  :course: 01CP650
+  :title: 2001 Range Master In-Service Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 12/13/2001
+  :course: 01CP763
+  :title: Oregon 2001 Legislative News Laws Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/13/2001
+  :course: 01CP369
+  :title: Deploying Bean Bag Rounds
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/19/2001
+  :course: 02CP045
+  :title: Law Enforcement Officers Flying Armed
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/16/2001
+  :course: 01CP194
+  :title: OSP Patrol Tactics 2001
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/10/2001
+  :course: 01CP116
+  :title: Basic Rifle Marksmanship
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 6/25/2001
+  :course: 01CP112
+  :title: 2001 Trimester Firearms Training II
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/7/2001
+  :course: 01CP228
+  :title: DUII Training Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 4/6/2001
+  :course: 01CP229
+  :title: DUII Pre-Conference Workshop
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 1/23/2001
+  :course: 01CP113
+  :title: 2001 Trimester Firearms Training I
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/19/2000
+  :course: 02CP063
+  :title: OSP-Online Speed Chronometers
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/9/2000
+  :course: 00P517
+  :title: 2000 Rangemaster In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 10/1/2000
+  :course: 00P498
+  :title: Legal Update House Bill 2433
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/28/2000
+  :course: 00P134
+  :title: OSP Defensive Tactics In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/21/2000
+  :course: 00P123
+  :title: 2000 TRIMESTER FIREARMS TRAINING III
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/17/2000
+  :course: 00P373
+  :title: 2000 Hazardous Material Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/16/2000
+  :course: 00P244
+  :title: FIRST RESPONDER IN-SERVICE
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/16/2000
+  :course: 00P134
+  :title: OSP Defensive Tactics In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/8/2000
+  :course: 00P320
+  :title: CRISIS NEGOTIATIONS-ACTIVE LISTENING SKI
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 2/25/2000
+  :course: 00P134
+  :title: OSP Defensive Tactics In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 12/10/1999
+  :course: 99P661
+  :title: COMMUNITY RELATIONS/NARCOTICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/29/1999
+  :course: 99P409
+  :title: HANDCUFFING SEARCHING
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/30/1999
+  :course: 99P558
+  :title: 1999 LEGISLATURE-NEW LAWS TRAINING
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/22/1999
+  :course: 99P414
+  :title: CUSTODY  COME-ALONG TECHNIQUES
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 7/9/1999
+  :course: 99P475
+  :title: DRUG RAID PLANNING
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/10/1999
+  :course: 99P116
+  :title: RAID OPERATIONS
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/5/1998
+  :course: 98P516
+  :title: 1998 FIREARMS INSTRUCTOR IN-SERVICE
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/8/1998
+  :course: 98P200
+  :title: OREGON STATE POLICE FTO (COACH) SCHOOL
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 9/18/1997
+  :course: 97P465
+  :title: FIELD GUIDE TO 1997 NEW LAWS
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/8/1997
+  :course: 97P464
+  :title: PATROL IN-SERVICE
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 7/14/1997
+  :course: 97P490
+  :title: MOTORCYCLE UNIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/30/1997
+  :course: 97P294
+  :title: HOSTAGE NEGOTIATION ADVANCED SEMINAR
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 4/19/1997
+  :course: 97P203
+  :title: FIRST RESPONDER-97 UPDATE
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/7/1996
+  :course: 96P044
+  :title: MOTORCYCLE UNIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/18/1996
+  :course: 96X099
+  :title: BASIC POLICE MOTORCYCLE OPERATION
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 5/11/1996
+  :course: 96X003
+  :title: 1996 FIRST RESPONDER INSERVICE
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/23/1996
+  :course: 96X053
+  :title: GLOCK ARMOURS/PREVENTIUE MAINT SCHL
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/14/1996
+  :course: 96P152
+  :title: HOSTAGE NEGOTIATION -ADVANCED
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 2/9/1996
+  :course: 96M003
+  :title: INSTRUCTOR DEVELOPMENT MANAGEMENT
+  :status: Passed
+  :score: '0.0'
+  :hours: '48.00'
+- :date: 11/17/1995
+  :course: 95X123
+  :title: HOSTAGE NEGOTIATIONS
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 9/7/1995
+  :course: 95X086
+  :title: ELDER ABUSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/6/1995
+  :course: 95J023
+  :title: BAS.DRUG IMPAIRMENT "DRUGS THAT IMP. DRI
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/14/1995
+  :course: 95M003
+  :title: INSTRUCTOR DEVELOPMENT (IDC)
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 5/3/1995
+  :course: 95J017
+  :title: FIREARMS TRAINING SYSTEM (F.A.T.S.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/15/1995
+  :course: 95P015
+  :title: MULTI-DISCIPLINARY DUII TRAINING CONF
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/21/1995
+  :course: 95J011
+  :title: DRUG RECOGNITION EXPERT (DRE)
+  :status: Passed
+  :score: '0.0'
+  :hours: '72.00'
+- :date: 2/21/1995
+  :course: 95J007
+  :title: INTRO TO DRUGGED DRIVER DETECTION
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/25/1994
+  :course: 94J133
+  :title: CIVIL PROCESS FOR THE STREET OFFICER
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
+- :date: 8/3/1994
+  :course: 94J118
+  :title: DUII VIDEO CAMERA TRAINING
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/29/1994
+  :course: 94M019
+  :title: FIREARMS INSTRUCTOR  COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 6/14/1994
+  :course: 94K081
+  :title: CRIME SCENE EVIDENCE COLLECTION TECHNIQU
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/6/1994
+  :course: 94K166
+  :title: LEDS INTRODUCTORY TRAINING GUIDE
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 6/2/1994
+  :course: 94U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '661.00'
+- :date: 4/21/1994
+  :course: 94J102
+  :title: KINESIC INTERVIEW TECHNIQUE
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/7/1993
+  :course: 93J041
+  :title: RADAR SPEED MEASUREMENT
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/29/1993
+  :course: 93J011
+  :title: IMPLIED CONSENT/INTOXILYZER 5000
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/24/1993
+  :course: 93J030
+  :title: GLOCK FIREARMS SEMI-AUTO TRANSITION
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 2/28/1993
+  :course: 92J071
+  :title: BASIC POLICE RESERVE ACADEMY
+  :status: Passed
+  :score: '0.0'
+  :hours: '280.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 8/15/2003
+  :expiration_date: ''
+:education_records:
+- :date: 12/31/2003
+  :degree: No Degree
+  :school: Chemeketa Community College
+  :major: ''
+  :hours: '41.0'

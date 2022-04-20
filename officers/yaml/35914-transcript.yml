@@ -1,0 +1,213 @@
+---
+:header_record:
+  :name: Ell, Kristine L.
+  :dpsst_identifier: '35914'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/29/2021
+  :agency: U.S. Forest Service
+  :action: Active
+  :rank: FedOfficer
+  :classification: ''
+  :assignment: ''
+- :date: 3/4/2009
+  :agency: Oregon Liquor and Cannabis Commission
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 6/24/2008
+  :agency: Oregon Liquor and Cannabis Commission
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 1/15/2008
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 1/7/1999
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 1/6/1999
+  :agency: Oregon City Police Department
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 5/20/1998
+  :agency: Oregon City Police Department
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 4/15/2008
+  :certificate: Police Officer
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 6/23/2000
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 7/29/2021
+  :course: M-FED17A
+  :title: Oregon Arrest Authority for Federal Officers
+  :status: Completed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/27/2009
+  :course: '09-1046'
+  :title: 'True Lies: Detecting Deception'
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/23/2008
+  :course: '08-0663'
+  :title: Gang Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/23/2008
+  :course: '08-0662'
+  :title: Outlaw Motorcycle Gang Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/8/2008
+  :course: '08-1012'
+  :title: Child Abuse Interviews
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/31/2006
+  :course: 06-1348
+  :title: PPB - Firearms/Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 12/31/2006
+  :course: 06-1347
+  :title: PPB - Other LE Classes
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/31/2005
+  :course: 05-2977
+  :title: PPB - Other LE Classes
+  :status: Passed
+  :score: '0.0'
+  :hours: '13.50'
+- :date: 12/31/2005
+  :course: 05-2978
+  :title: PPB - Firearms/Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '19.00'
+- :date: 12/31/2004
+  :course: 04-3581
+  :title: PPB - Firearms/Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/31/2004
+  :course: 04-3579
+  :title: PPB - Other LE Classes
+  :status: Passed
+  :score: '0.0'
+  :hours: '59.00'
+- :date: 12/25/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/17/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '30.00'
+- :date: 2/5/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/31/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 6/22/2000
+  :course: 00T001
+  :title: Police Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 12/6/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/11/1999
+  :course: 99P277
+  :title: DEVELOPING COMMUNITY POLICE TEAMS
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/14/1999
+  :course: 99B015
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '400.00'
+- :date: 7/14/1999
+  :course: 99P162
+  :title: ADVANCED POLICE CURRICULUM
+  :status: Passed
+  :score: '0.0'
+  :hours: '360.00'
+- :date: 6/27/1999
+  :course: 99B010
+  :title: BP/SFST  DRUGS THAT IMPAIR DRIVING
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 4/23/1999
+  :course: 99P115
+  :title: INTOXYLIZER 5000 CERTIFICATION
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/1/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/4/1998
+  :course: 97P210
+  :title: LEDS INQUIRY LEVEL TRAINING GUIDE
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+:attribute_records: []
+:education_records:
+- :date: 6/20/1997
+  :degree: Bachelor Arts
+  :school: Willamette University
+  :major: Sociology
+  :hours: '48.0'

@@ -1,0 +1,459 @@
+---
+:header_record:
+  :name: Wormdahl, Christopher D.
+  :dpsst_identifier: '22864'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 8/20/1992
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 9/29/1989
+  :agency: Josephine County Sheriff's Office
+  :action: Discharged
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/1/1989
+  :agency: Josephine County Sheriff's Office
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 3/11/2020
+  :course: PDP40604
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/9/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/6/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/5/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/2/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/27/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/26/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/14/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/13/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/12/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/10/2020
+  :course: PDP41104
+  :title: Mobile Identification Device (MIDD) Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/9/2017
+  :course: F6A08337
+  :title: NW Division of the Intl. Assoc. for Identification
+  :status: Passed
+  :score: '0.0'
+  :hours: '28.00'
+- :date: 1/24/2017
+  :course: F6C41640
+  :title: IBIS Windows 7 Pairing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/27/2016
+  :course: F6C21708
+  :title: IBIS Windows 7 Pairing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/29/2016
+  :course: F6C04700
+  :title: Emergency Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/12/2015
+  :course: 15-0711
+  :title: Computer Training - Other
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/8/2015
+  :course: 15-0711
+  :title: Computer Training - Other
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/20/2015
+  :course: 15-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/11/2015
+  :course: 15-0711
+  :title: Computer Training - Other
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/12/2014
+  :course: 14-0711
+  :title: Computer Training - Other
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/31/2014
+  :course: 14-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/3/2014
+  :course: 14-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/25/2014
+  :course: 14-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/21/2014
+  :course: 14-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/20/2014
+  :course: 14-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/18/2014
+  :course: 14-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/6/2013
+  :course: 13-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 5/17/2013
+  :course: 13-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/18/2013
+  :course: 13-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/10/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/2/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/30/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/26/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/17/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/12/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/29/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/8/2010
+  :course: 10-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/4/2009
+  :course: '09-0834'
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/16/2009
+  :course: '09-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/24/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/20/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/29/2009
+  :course: '09-0779'
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/5/2008
+  :course: '08-0779'
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 10/3/2008
+  :course: '08-0779'
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/29/2008
+  :course: '08-0779'
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/4/2008
+  :course: '08-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/20/2008
+  :course: '08-0633'
+  :title: Proposal Writing  Grantsmanship
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/30/2008
+  :course: '08-0915'
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/28/2008
+  :course: '08-0779'
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/21/2008
+  :course: '08-0779'
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/10/2008
+  :course: '08-1205'
+  :title: Non Sworn Drivers Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/20/2007
+  :course: 07-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/6/2007
+  :course: 07-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/29/2007
+  :course: 07-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/1/2007
+  :course: 07-0487
+  :title: Project Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 10/24/2007
+  :course: 07-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/21/2007
+  :course: 07-0779
+  :title: Fingerprinting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/21/2007
+  :course: 07-0779
+  :title: Fingerprinting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 8/29/2007
+  :course: 07-0593
+  :title: Conference - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/8/2007
+  :course: 07-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/14/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/21/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/20/2001
+  :course: 01CP310
+  :title: Winning Courtroom Confrontations
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/31/1997
+  :course: 97P208
+  :title: LEDS 1997 RECERTIFICATION TEST
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/16/1995
+  :course: 95K115
+  :title: BASIC FINGERPRINT CLASS
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 1/4/1993
+  :course: 93K048
+  :title: LEDS GENERAL LEVEL
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+- :date: 7/7/1989
+  :course: '899203'
+  :title: HELICOPTER SAFETY COURSE
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+:attribute_records: []
+:education_records: []

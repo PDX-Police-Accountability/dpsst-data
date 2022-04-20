@@ -1,0 +1,135 @@
+---
+:header_record:
+  :name: Balcomb, Gene L.
+  :dpsst_identifier: '36042'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 12/2/2019
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 4/20/1998
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/7/2017
+  :course: PDP18885
+  :title: DVR Examiner User Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 8/31/2016
+  :course: F6C20300
+  :title: RAPID
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/6/2015
+  :course: 15-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2013
+  :course: 13-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/30/2011
+  :course: 11-0789
+  :title: Forensic Video Analysis
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/22/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/30/2010
+  :course: 10-0822
+  :title: Digital Evidence
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/16/2010
+  :course: 10-0789
+  :title: Forensic Video Analysis
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 3/4/2010
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/26/2010
+  :course: 10-0474
+  :title: Performance Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.75'
+- :date: 11/4/2009
+  :course: '09-0834'
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/16/2009
+  :course: '09-0964'
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/14/2008
+  :course: '08-0914'
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/30/2007
+  :course: 07-0809
+  :title: Identity Theft Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/31/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/2/2007
+  :course: 07-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/18/2003
+  :course: 03-0358
+  :title: PPB Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '30.00'
+:attribute_records: []
+:education_records: []

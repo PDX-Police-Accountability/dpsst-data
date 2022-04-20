@@ -1,0 +1,267 @@
+---
+:header_record:
+  :name: Haman, Diane R.
+  :dpsst_identifier: '39117'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 3/27/2000
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 6/27/2018
+  :course: PDP07294
+  :title: 2018-2 Supv. In-Service Directive 330
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/27/2018
+  :course: PDP27673
+  :title: 2018-2 Supv. In-Service EIS
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/23/2018
+  :course: PDP40857
+  :title: 'Leadership 2018: Law Enforcement Professionals'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/15/2015
+  :course: 15-0434
+  :title: Executive Leadership Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 6/17/2014
+  :course: 14-0721
+  :title: Electronics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/31/2013
+  :course: 13-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/12/2013
+  :course: 13-0985
+  :title: Hostage / Tactical Negotiation Team (HNT/TNT) Trng
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/2/2013
+  :course: 13-0882
+  :title: Tactical Rappelling
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/28/2012
+  :course: 12-0431
+  :title: Incident Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/8/2011
+  :course: 11-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/28/2011
+  :course: 11-0443
+  :title: Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/28/2011
+  :course: 11-0492
+  :title: Strategic Management / Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/28/2011
+  :course: 11-0492
+  :title: Strategic Management / Planning
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/11/2011
+  :course: 11-0494
+  :title: Tactical Leadership for Supervisors
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/7/2011
+  :course: 11-0490
+  :title: Report Writing for Supervisors
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/7/2011
+  :course: 11-0497
+  :title: Supervision / Management Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/22/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/9/2011
+  :course: 11-0254
+  :title: Explosive Breaching Techniques
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/2/2010
+  :course: 10-0431
+  :title: Incident Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/21/2010
+  :course: 10-0438
+  :title: Effective Mentoring
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/11/2010
+  :course: 10-1052
+  :title: Alcohol Abuse - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/6/2009
+  :course: '09-0426'
+  :title: Critical Incident Stress Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 9/3/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/17/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/14/2008
+  :course: '08-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/30/2008
+  :course: '08-0915'
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/30/2008
+  :course: '08-0293'
+  :title: Other Use of Force Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/15/2008
+  :course: '08-0390'
+  :title: ICS 300 - Intermediate ICS (Expding Incd  Supvrs)
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 8/29/2007
+  :course: 07-0397
+  :title: NIMS / ICS course- other leadership topic
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/19/2007
+  :course: 07-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/23/2007
+  :course: 07-1178
+  :title: Radar / Lidar Training - Home Agency Approved
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/21/2007
+  :course: 07-0705
+  :title: File Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/9/2007
+  :course: 07-0699
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/6/2007
+  :course: 07-0928
+  :title: Workplace - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/21/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/13/2007
+  :course: 07-0915
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/7/2002
+  :course: 02J40
+  :title: 'ICS: Planning- OSP'
+  :status: Passed
+  :score: '0.0'
+  :hours: '13.00'
+- :date: 10/17/2001
+  :course: 01P050
+  :title: 'ICS: Introduction'
+  :status: Passed
+  :score: '0.0'
+  :hours: '13.00'
+:attribute_records: []
+:education_records: []

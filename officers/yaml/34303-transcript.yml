@@ -1,0 +1,2492 @@
+---
+:header_record:
+  :name: Lemen-Sipp, Denise C.
+  :dpsst_identifier: '34303'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 3/1/2002
+  :agency: Hillsboro Police Department
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 2/28/2002
+  :agency: Multnomah County Sheriff's Office
+  :action: Resigned
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 2/23/1998
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Dpty Shrf
+  :classification: ''
+  :assignment: ''
+- :date: 2/22/1998
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 3/3/1997
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 3/25/2010
+  :certificate: Police Officer
+  :level: Advanced
+  :status: Granted
+  :certificate_date: 3/25/2010
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 7/23/2004
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 7/23/2004
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 1/22/2003
+  :certificate: Police Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 1/22/2003
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 5/28/2002
+  :certificate: Corrections Officer
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 2/8/1999
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 3/30/2022
+  :course: HBP15013
+  :title: ARREST AND CONTROL
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/16/2022
+  :course: HBP41457
+  :title: CPR, First Aid, AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/2/2022
+  :course: HBP22801
+  :title: K9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/16/2022
+  :course: HBP10741
+  :title: K9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/9/2022
+  :course: HBP27278
+  :title: Advanced Vehicle Stops
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/2/2022
+  :course: HBP33967
+  :title: K9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 1/19/2022
+  :course: HBP33555
+  :title: K9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 12/15/2021
+  :course: MISCMAIN
+  :title: 2021 LE Basic 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/8/2021
+  :course: HBP13811
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/10/2021
+  :course: F6E03989
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 11/10/2021
+  :course: F6E35293
+  :title: Tactical De-Escalation
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/29/2021
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 9/15/2021
+  :course: SPP22811
+  :title: OPCA Fall Training Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/1/2021
+  :course: F6F17837
+  :title: CIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/1/2021
+  :course: F6F40548
+  :title: EVOC - PIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 9/1/2021
+  :course: F6F24608
+  :title: WIN Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/30/2021
+  :course: F6E41157
+  :title: Wellness and Resilience Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/24/2021
+  :course: F6D15614
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 2/24/2021
+  :course: F6D43948
+  :title: Legal Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 2/3/2021
+  :course: F6D38756
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/14/2021
+  :course: F6D31694
+  :title: Ethics Training and Discussion
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2020
+  :course: 20-CVDL1
+  :title: 2020 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 11/20/2020
+  :course: F6D04109
+  :title: Respectful Workplace _ Employee Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 11/10/2020
+  :course: F6D04206
+  :title: Bias Crime Video from Washington Cnty DA
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 11/1/2020
+  :course: F6D13197
+  :title: Officer Rescue / Crisis Entry
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 9/27/2020
+  :course: F6D05927
+  :title: EVOC - Pursuits and High Risk Stops
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 9/27/2020
+  :course: F6D36234
+  :title: Crisis Intervention - Critical Traffic Stop De.
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/2/2020
+  :course: F6D20684
+  :title: K-9 Maintenance Training-Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/15/2020
+  :course: F6D36796
+  :title: K-9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/1/2020
+  :course: F6D13359
+  :title: K-9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 6/17/2020
+  :course: F6D27455
+  :title: K-9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 6/3/2020
+  :course: F6D09946
+  :title: K-9  Maintenance Training-Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/20/2020
+  :course: F6D34832
+  :title: K-9  Maintenance Training-Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/6/2020
+  :course: F6D28788
+  :title: K-9 Maintence Training-Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 4/1/2020
+  :course: F6D03758
+  :title: MRT Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 3/4/2020
+  :course: F6D24272
+  :title: K-9 Maintence Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/4/2020
+  :course: F6D06450
+  :title: Officer Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 2/26/2020
+  :course: F6D01490
+  :title: Officer Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 2/26/2020
+  :course: F6D11555
+  :title: K-9 Maintence Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 2/19/2020
+  :course: F6D03742
+  :title: K-9 Maintence Training Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 2/5/2020
+  :course: F6D16544
+  :title: K-9 Maintenance Training-Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/2/2020
+  :course: F6D19975
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/2/2020
+  :course: F6D13150
+  :title: Search and Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/18/2019
+  :course: F6D17032
+  :title: K-9 Maintenance Training Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 12/13/2019
+  :course: F6D22018
+  :title: Interfering, Passive Resistance  Identify
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/12/2019
+  :course: MISCMAIN
+  :title: 2019 LE Annual Required Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/4/2019
+  :course: F6D11126
+  :title: K-9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 11/20/2019
+  :course: F6D08160
+  :title: K-9 Maintenance Training - Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/16/2019
+  :course: F6D28046
+  :title: K-9 Maintence Training-Patrol
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 9/25/2019
+  :course: BVP35024
+  :title: OPCA Working Dog Scenarios Detection
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/23/2019
+  :course: F6D28234
+  :title: Briefing Training - Use and Handling of Cavicide
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/8/2019
+  :course: F6D38933
+  :title: Radio Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/8/2019
+  :course: F6D00362
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 9/8/2019
+  :course: F6D26477
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/15/2019
+  :course: F6D25412
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/3/2019
+  :course: F6D17353
+  :title: 'Policy Review: Bias-Based Policing'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/9/2019
+  :course: F6D29726
+  :title: Decisional Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/9/2019
+  :course: F6D38512
+  :title: Crisis Entry/LSDD/Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/16/2019
+  :course: PDP17883
+  :title: OPCA Spring Conference 2019 Patrol K9 Working Day
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/20/2019
+  :course: F6D18292
+  :title: Basic Background Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/18/2019
+  :course: F6D37085
+  :title: Weapons Retention
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/20/2019
+  :course: F6D04317
+  :title: Child Abuse Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/20/2019
+  :course: F6D42966
+  :title: Officer rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/20/2019
+  :course: F6D05677
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 1/13/2019
+  :course: F6D14347
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/1/2019
+  :course: F6D17358
+  :title: K-9 Maintenance Training-Patrol
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 12/12/2018
+  :course: F6D35800
+  :title: Body Worn Cameras
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/11/2018
+  :course: F6D16516
+  :title: Body Worn Cameras
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/4/2018
+  :course: F6D37376
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/28/2018
+  :course: F6D00096
+  :title: Critical Incident-Lessons Learned
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/28/2018
+  :course: F6D24113
+  :title: Body Worn Cameras
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/10/2018
+  :course: F6B01013
+  :title: Body Worn Cameras
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/1/2018
+  :course: F6B29095
+  :title: Body Worn Cameras
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/27/2018
+  :course: MISCMAIN
+  :title: 2018 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 9/26/2018
+  :course: PDP17944
+  :title: OPCA Fall Conference 2018 Patrol Field Days
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 8/23/2018
+  :course: F6B25836
+  :title: K9 Patrol Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/1/2018
+  :course: F6B03780
+  :title: K9 Patrol Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/21/2018
+  :course: F6B42109
+  :title: Officer Involved Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/20/2018
+  :course: F6B40406
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/20/2018
+  :course: F6B42855
+  :title: Force on Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/16/2018
+  :course: F6B28053
+  :title: PTOP Leadership Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/25/2018
+  :course: PDP04573
+  :title: Oregon Police Canine Assoc. Spring Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/23/2018
+  :course: MISCMAIN
+  :title: 2018 LE Basic 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 4/13/2018
+  :course: SMS27707
+  :title: Crisis Intervention Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 4/4/2018
+  :course: F6B22555
+  :title: Crisis Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/4/2018
+  :course: F6B32895
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 3/13/2018
+  :course: HBS01905
+  :title: Tactical Emergency Medical Care Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/28/2018
+  :course: F6B41705
+  :title: CPR/First Aid/AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/28/2018
+  :course: F6B09291
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/28/2018
+  :course: F6B22001
+  :title: Weapons Retention
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/24/2018
+  :course: F6B34788
+  :title: Health/Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/6/2017
+  :course: F6C25696
+  :title: Agency Policies/Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/6/2017
+  :course: F6C34643
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/6/2017
+  :course: PDP43228
+  :title: 2017 Basic Police Canine School
+  :status: Passed
+  :score: '0.0'
+  :hours: '280.00'
+- :date: 10/18/2017
+  :course: F6C40052
+  :title: Agency Policies/Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/18/2017
+  :course: F6C40002
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 10/18/2017
+  :course: F6C08053
+  :title: Legal/Legislative Update- Human Trafficking
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/10/2017
+  :course: F6C38076
+  :title: K-9 Patrol Dog Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/16/2017
+  :course: F6C18917
+  :title: Qualification  Rifle Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/28/2017
+  :course: F6C24140
+  :title: Agency Policies and Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/24/2017
+  :course: F6C36179
+  :title: Portland Police Basic K9 Course 01-17
+  :status: Instructed
+  :score: '0.0'
+  :hours: '360.00'
+- :date: 3/8/2017
+  :course: F6C10016
+  :title: Domestic Violence Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/8/2017
+  :course: F6C08603
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/3/2017
+  :course: F6C30870
+  :title: Investigating Officer Involved Shootings
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/23/2017
+  :course: F6C15206
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/16/2016
+  :course: F6A02340
+  :title: Law  Legal-Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.50'
+- :date: 9/7/2016
+  :course: F6C39163
+  :title: Verbal Communication-Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/24/2016
+  :course: F6C14018
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/24/2016
+  :course: F6C17658
+  :title: Tactical Survival
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/16/2016
+  :course: F6C09082
+  :title: Communicating with Hearing Impaired People
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/13/2016
+  :course: F6A01521
+  :title: Prison Rape Elimination Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/22/2016
+  :course: HBS34136
+  :title: OfferUp Law Enforcement Cyber Crime Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/10/2016
+  :course: F6A00756
+  :title: Sexual Assult
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/8/2016
+  :course: F6A00759
+  :title: Gas Mask Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/8/2016
+  :course: F6A00760
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/8/2016
+  :course: F6C32732
+  :title: OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/18/2016
+  :course: HBS34088
+  :title: Issues in Domestic Violence
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 4/20/2016
+  :course: F6B00007
+  :title: Force Liability Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/20/2016
+  :course: F6C00101
+  :title: Force Liability Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/19/2016
+  :course: F6C00400
+  :title: 2016 OPCA Spring Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/19/2016
+  :course: F6A00006
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/19/2016
+  :course: F6A08907
+  :title: 2016 OPCA Spring Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/19/2016
+  :course: F6A08908
+  :title: 2016 OPCA Spring Seminar
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/17/2016
+  :course: 16-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/6/2016
+  :course: 16-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 12/31/2015
+  :course: MISCMAIN
+  :title: 2015 Police Maintenance Basic
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/1/2015
+  :course: 15-0802
+  :title: Strangulation Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.50'
+- :date: 12/1/2015
+  :course: 15-0802
+  :title: Strangulation Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.50'
+- :date: 11/19/2015
+  :course: 15-0168
+  :title: Rifle Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/6/2015
+  :course: 15-1273
+  :title: Police Training Officer
+  :status: Passed
+  :score: '0.0'
+  :hours: '44.00'
+- :date: 4/28/2015
+  :course: 15-1088
+  :title: K-9 Detection Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/27/2015
+  :course: 15-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/26/2015
+  :course: 15-0600
+  :title: Versadex Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.50'
+- :date: 1/28/2015
+  :course: 15-1209
+  :title: Downed Officer Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/4/2014
+  :course: 14-1122
+  :title: Law  Legal - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/19/2014
+  :course: 14-0703
+  :title: Data System
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/29/2014
+  :course: 14-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/22/2014
+  :course: 14-0133
+  :title: Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 9/24/2014
+  :course: 14-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/23/2014
+  :course: 14-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/12/2014
+  :course: 14-0915
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/17/2014
+  :course: 14-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/28/2014
+  :course: 14-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/14/2014
+  :course: 14-0972
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/29/2014
+  :course: 14-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/28/2014
+  :course: 14-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/5/2014
+  :course: 14-0916
+  :title: Domestic Violence
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/19/2014
+  :course: 14-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/21/2014
+  :course: 14-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/1/2014
+  :course: 14-1021
+  :title: Child Abuse Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/5/2013
+  :course: 13-1283
+  :title: K-9 Basic Academy - Patrol Dog
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/4/2013
+  :course: 13-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 12/2/2013
+  :course: 13-0209
+  :title: K-9 Use of Force Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 11/1/2013
+  :course: 13-0443
+  :title: Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/1/2013
+  :course: 13-1271
+  :title: FTEP Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/25/2013
+  :course: 13-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/23/2013
+  :course: 13-1226
+  :title: Vehicle / Foot Pursuits
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/13/2013
+  :course: 13-1029
+  :title: Workplace Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/1/2013
+  :course: 13-1203
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/30/2013
+  :course: 13-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/3/2013
+  :course: 13-1216
+  :title: Survival Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/27/2013
+  :course: 13-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/27/2013
+  :course: 13-0253
+  :title: Crowd / Riot Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/8/2013
+  :course: 13-0371
+  :title: NW Leadership Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 1/23/2013
+  :course: 13-0100
+  :title: Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 12/31/2012
+  :course: MISCMAIN
+  :title: 2012 Police Maintenance Basic
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 11/7/2012
+  :course: 12-0100
+  :title: Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/23/2012
+  :course: 12-0443
+  :title: Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/19/2012
+  :course: 12-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/19/2012
+  :course: 12-0792
+  :title: Amber Alert
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/19/2012
+  :course: 12-0859
+  :title: Emergency Preparedness and Response - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 8/29/2012
+  :course: 12-0660
+  :title: Culture / Diversity - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 8/29/2012
+  :course: 12-0634
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/29/2012
+  :course: 12-0905
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/17/2012
+  :course: 12-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/30/2012
+  :course: 12-0961
+  :title: Trauma Care
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/30/2012
+  :course: 12-1132
+  :title: OSHA - Gas Mask
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/30/2012
+  :course: 12-1222
+  :title: Patrol Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/16/2012
+  :course: 12-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 5/12/2012
+  :course: 12-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/8/2012
+  :course: 12-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/25/2012
+  :course: 12-0653
+  :title: Community - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 3/21/2012
+  :course: 12-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 3/1/2012
+  :course: 12-1203
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/1/2012
+  :course: 12-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/1/2012
+  :course: 12-0167
+  :title: Rifle Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/1/2012
+  :course: 12-0905
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/7/2011
+  :course: 11-0100
+  :title: Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/7/2011
+  :course: 11-0834
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/14/2011
+  :course: 11-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 8/26/2011
+  :course: 11-0805
+  :title: Rural Patrol Drug Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 7/21/2011
+  :course: 11-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/20/2011
+  :course: 11-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 6/1/2011
+  :course: 11-0657
+  :title: Cultural Diversity
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/20/2011
+  :course: 11-0795
+  :title: Domestic Violence Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/6/2011
+  :course: 11-0274
+  :title: Taser - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/6/2011
+  :course: 11-0797
+  :title: Sex Crimes Response  Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 3/16/2011
+  :course: 11-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/16/2011
+  :course: 11-1013
+  :title: Child Abuse Protocols
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/28/2011
+  :course: 11-0915
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/2/2011
+  :course: 11-1203
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/15/2010
+  :course: 10-0952
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/8/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 11/24/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 10/27/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 10/6/2010
+  :course: 10-1211
+  :title: Officer Involved Shootings
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/1/2010
+  :course: 10-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/1/2010
+  :course: 10-0693
+  :title: Juvenile Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/25/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 8/25/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 7/28/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/21/2010
+  :course: 10-0653
+  :title: Community - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/23/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 6/3/2010
+  :course: 10-1272
+  :title: FTO School
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/2/2010
+  :course: 10-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 5/26/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 5/19/2010
+  :course: 10-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/19/2010
+  :course: 10-1068
+  :title: Drugs - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/19/2010
+  :course: 10-0663
+  :title: Gang Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/5/2010
+  :course: 10-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/28/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 3/31/2010
+  :course: 10-1097
+  :title: Consular Notification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/24/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 3/5/2010
+  :course: 10-0371
+  :title: NW Leadership Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 2/28/2010
+  :course: 10-0926
+  :title: Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/24/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/10/2010
+  :course: 10-0209
+  :title: K-9 Use of Force Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/3/2010
+  :course: 10-0139
+  :title: Simunititions
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/3/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 1/27/2010
+  :course: 10-1284
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 1/20/2010
+  :course: 10-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/30/2009
+  :course: '09-0101'
+  :title: Active Shooter - Tactical Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 12/23/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 12/2/2009
+  :course: '09-0101'
+  :title: Active Shooter - Tactical Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 11/30/2009
+  :course: '09-0667'
+  :title: Missing  Exploited Children
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/25/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 10/28/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 9/30/2009
+  :course: '09-0577'
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 9/28/2009
+  :course: '09-1210'
+  :title: Emotional Survival
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/28/2009
+  :course: '09-0443'
+  :title: Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 9/23/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 9/22/2009
+  :course: '09-0829'
+  :title: Investigating Officer Involved Shootings
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/9/2009
+  :course: '09-0153'
+  :title: AR-15 Basic Operator / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 8/26/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 8/12/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/22/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 6/27/2009
+  :course: '09-0558'
+  :title: K-9 Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '400.00'
+- :date: 6/10/2009
+  :course: '09-0114'
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/22/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/25/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/11/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/20/2009
+  :course: '09-1284'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/11/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/2/2009
+  :course: '09-0211'
+  :title: The Bullet Proof Mind
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/14/2009
+  :course: '09-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 1/7/2009
+  :course: '09-0685'
+  :title: Special Needs Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/7/2009
+  :course: '09-0898'
+  :title: WMD Personal Protection Program Equip
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/7/2009
+  :course: '09-0906'
+  :title: Ethics  Bias Based Profiling
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 12/17/2008
+  :course: '08-0129'
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/10/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 12/5/2008
+  :course: '08-1272'
+  :title: FTO School
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 11/19/2008
+  :course: '08-1120'
+  :title: Search  Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/12/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 11/5/2008
+  :course: '08-0952'
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/5/2008
+  :course: '08-0926'
+  :title: Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/30/2008
+  :course: '08-1203'
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 9/29/2008
+  :course: '08-1270'
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/24/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 9/10/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/23/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/16/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/2/2008
+  :course: '08-0159'
+  :title: M-4 Maintenance
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 6/25/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 6/24/2008
+  :course: '08-0208'
+  :title: K-9 Tactical
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 6/22/2008
+  :course: '08-0208'
+  :title: K-9 Tactical
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/18/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 6/11/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/28/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/8/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 4/30/2008
+  :course: '08-1209'
+  :title: Downed Officer Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 4/30/2008
+  :course: '08-0794'
+  :title: Child Abuse Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/23/2008
+  :course: '08-0132'
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/23/2008
+  :course: '08-0129'
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/17/2008
+  :course: '08-0293'
+  :title: Other Use of Force Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/16/2008
+  :course: '08-0207'
+  :title: K-9 Patrol Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 4/8/2008
+  :course: '08-0577'
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/2/2008
+  :course: '08-1216'
+  :title: Survival Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/26/2008
+  :course: '08-1088'
+  :title: K-9 Detection Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/19/2008
+  :course: '08-0114'
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/19/2008
+  :course: '08-0661'
+  :title: Gang Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/15/2008
+  :course: '08-0558'
+  :title: K-9 Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 3/12/2008
+  :course: '08-1088'
+  :title: K-9 Detection Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/27/2008
+  :course: '08-1088'
+  :title: K-9 Detection Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/13/2008
+  :course: '08-1088'
+  :title: K-9 Detection Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 1/30/2008
+  :course: '08-0276'
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/30/2008
+  :course: '08-1223'
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 1/17/2008
+  :course: '08-1088'
+  :title: K-9 Detection Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 1/16/2008
+  :course: '08-1088'
+  :title: K-9 Detection Dog Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 1/2/2008
+  :course: '08-1267'
+  :title: Tri-Met Process  Exclusions
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/31/2007
+  :course: 07-0388
+  :title: ICS 100 / IS 100 - Introduction to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/5/2007
+  :course: 07-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 11/14/2007
+  :course: 07-1090
+  :title: K-9 Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 11/9/2007
+  :course: 07-0395
+  :title: IS 700  NIMS, An Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/31/2007
+  :course: 07-1090
+  :title: K-9 Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 10/24/2007
+  :course: 07-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 10/17/2007
+  :course: 07-1090
+  :title: K-9 Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 10/10/2007
+  :course: 07-1116
+  :title: Legal/Legislative Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/10/2007
+  :course: 07-1090
+  :title: K-9 Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 10/3/2007
+  :course: 07-1203
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 9/21/2007
+  :course: 07-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 9/5/2007
+  :course: 07-0808
+  :title: Fraud Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/5/2007
+  :course: 07-0972
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/5/2007
+  :course: 07-0768
+  :title: Parole  Probation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/5/2007
+  :course: 07-0804
+  :title: Narcotics Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 8/21/2007
+  :course: 07-0925
+  :title: Use of Force Policy
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/12/2007
+  :course: 07-0160
+  :title: M-4 School
+  :status: Passed
+  :score: '0.0'
+  :hours: '45.00'
+- :date: 5/1/2007
+  :course: 07-0577
+  :title: K-9 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/18/2007
+  :course: 07-0143
+  :title: Handgun Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/18/2007
+  :course: 07-1211
+  :title: Officer Involved Shootings
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 3/21/2007
+  :course: 07-0630
+  :title: Verbal Communication - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/15/2007
+  :course: 07-0558
+  :title: K-9 Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '400.00'
+- :date: 11/22/2006
+  :course: 06-2263
+  :title: Code Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 10/18/2006
+  :course: 06-0327
+  :title: K-9 OPCA Seminar (Oregon Police Canine)
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 10/17/2006
+  :course: 06-2530
+  :title: Officer Involved Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 9/21/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 9/13/2006
+  :course: 06-0032
+  :title: Intoxilyzer 8000
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/23/2006
+  :course: 06-0021
+  :title: Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 8/2/2006
+  :course: 06-2210
+  :title: Use of Force - Lecture
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 7/18/2006
+  :course: 06-0049
+  :title: K-9 Handler Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 7/5/2006
+  :course: 06-0324
+  :title: K-9 Regional
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/1/2006
+  :course: 05-1811
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/28/2006
+  :course: 06-0047
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/28/2006
+  :course: 06-0038
+  :title: SFST
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/21/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 6/7/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/30/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/24/2006
+  :course: 06-0217
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/17/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/3/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 4/12/2006
+  :course: 06-0047
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/11/2006
+  :course: 06-0327
+  :title: K-9 OPCA Seminar (Oregon Police Canine)
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/22/2006
+  :course: 06-1250
+  :title: Firearms - In Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/22/2006
+  :course: 06-0045
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/15/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/1/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/15/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/2/2006
+  :course: 06-0549
+  :title: Stolen Vehicle Identification
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 10/12/2005
+  :course: 05-1811
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/10/2005
+  :course: 05-0822
+  :title: Taser X26/M26
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 7/27/2005
+  :course: 05-0241
+  :title: Hazardous Materials
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/17/2005
+  :course: 05-0544
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/15/2005
+  :course: 05-0280
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/25/2005
+  :course: 05-0383
+  :title: SFST
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 4/21/2005
+  :course: 05-0152
+  :title: Three Flags Safety Belt Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/13/2005
+  :course: 05-0060
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/18/2005
+  :course: 05-0545
+  :title: LE  Intelligence Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/2/2005
+  :course: 05-0109
+  :title: Street Survival - Calibre Press
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 2/23/2005
+  :course: 05-0032
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 2/23/2005
+  :course: 05-0784
+  :title: Tactical Considerations
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 2/9/2005
+  :course: 05-0784
+  :title: Tactical Considerations
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 1/12/2005
+  :course: 05-0383
+  :title: SFST
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 1/12/2005
+  :course: 05-0642
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 1/5/2005
+  :course: 05-0036
+  :title: Flying Armed
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/22/2004
+  :course: 04-0273
+  :title: Firearms - Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 10/8/2004
+  :course: 04-4478
+  :title: Basic Mediation Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 9/15/2004
+  :course: 04-1013
+  :title: K-9 Maintenance Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 9/8/2004
+  :course: 04-0586
+  :title: ASP Baton Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 8/11/2004
+  :course: 04-4410
+  :title: Taser/Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/14/2004
+  :course: 04-0273
+  :title: Firearms - Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/30/2004
+  :course: 04U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '49.50'
+- :date: 5/21/2004
+  :course: 04-0877
+  :title: Bicycle - Basic Police Mtn Bike
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 2/4/2004
+  :course: 04-0139
+  :title: 'CISM: Basic Group Crisis Intervention'
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 12/17/2003
+  :course: 03U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '44.00'
+- :date: 11/5/2003
+  :course: 03-1418
+  :title: OSPTrident Interview  Interrogation
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 6/30/2003
+  :course: 04U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+- :date: 1/22/2003
+  :course: 03T001
+  :title: Police Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 11/20/2002
+  :course: 04U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '34.00'
+- :date: 7/31/2002
+  :course: 02CP258
+  :title: Traffic Occupant Protection Strategies (TOPS)
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/19/2002
+  :course: 02U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 6/14/2002
+  :course: 02CP113
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '376.00'
+- :date: 6/6/2002
+  :course: 02CP616
+  :title: Mock Trial
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/21/2002
+  :course: 02CP259
+  :title: SFST Wet Lab
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/9/2002
+  :course: 02CP255
+  :title: SFST/Drugs that Impair Driving
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/8/2002
+  :course: 02CP070
+  :title: Tactical Ground Fighting
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/29/2002
+  :course: 02CP447
+  :title: Intoxilyzer 5000
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/2/2001
+  :course: 01CP748
+  :title: Defensive Tactics 2001
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/27/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '23.00'
+- :date: 12/5/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 3/28/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '13.00'
+- :date: 3/27/2000
+  :course: 00P189
+  :title: ADVANCED COMMUNICATIONS TECHNIQUES
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/25/2000
+  :course: 00P190
+  :title: CPR RECERTIFICATION
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/8/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 3/8/1999
+  :course: 99P045
+  :title: MEDIC FIRST AID EMP
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/8/1999
+  :course: 98T002
+  :title: Corrections Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 6/9/1998
+  :course: 98U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 5/1/1998
+  :course: 98B003
+  :title: DPSST Basic Corrections
+  :status: Passed
+  :score: '0.0'
+  :hours: '200.00'
+- :date: 2/26/1998
+  :course: 98U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '34.00'
+- :date: 11/6/1997
+  :course: 96X073
+  :title: RADAR OPERATOR TRNG
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+:attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 3/16/2022
+  :expiration_date: 3/16/2024
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2024
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 4/15/2002
+  :expiration_date: ''
+:education_records:
+- :date: 12/15/1996
+  :degree: No Degree
+  :school: Portland State University
+  :major: ''
+  :hours: '16.0'
+- :date: 3/15/1996
+  :degree: No Degree
+  :school: Portland Community College
+  :major: ''
+  :hours: '49.0'
+- :date: 6/15/1994
+  :degree: No Degree
+  :school: Western Oregon University
+  :major: ''
+  :hours: '38.0'

@@ -1,0 +1,2827 @@
+---
+:header_record:
+  :name: Sery, Jason H.
+  :dpsst_identifier: '36878'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/1/2017
+  :agency: Beaverton Police Department
+  :action: Promotion
+  :rank: Sergeant
+  :classification: ''
+  :assignment: ''
+- :date: 1/14/2008
+  :agency: Beaverton Police Department
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 8/23/2004
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 1/21/1999
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 5/2/2018
+  :certificate: Police Officer
+  :level: Supervisory
+  :status: Granted
+  :certificate_date: 5/2/2018
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 11/25/2008
+  :certificate: Police Officer
+  :level: Advanced
+  :status: Granted
+  :certificate_date: 11/25/2008
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 11/25/2008
+  :certificate: Police Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 11/25/2008
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 11/25/2008
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 11/25/2008
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 11/23/2004
+  :certificate: Police Officer
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 1/27/2000
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 2/25/2022
+  :course: BVP18356
+  :title: CPR/First Aid Adult and Child Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/25/2022
+  :course: BVP38644
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/25/2022
+  :course: BVP07767
+  :title: Diversity, Equity and Inclusion
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/31/2021
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/17/2021
+  :course: BVP17940
+  :title: Ethics BPD Policy Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/10/2021
+  :course: BVP12957
+  :title: Bloodborne Pathogens Exposure Control Plan  21-12
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/3/2021
+  :course: BVP43680
+  :title: Criminal Code of Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/23/2021
+  :course: BVP12034
+  :title: PREA Training Bulletin 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/15/2021
+  :course: BVP31181
+  :title: Policy Review
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 9/20/2021
+  :course: BVP38113
+  :title: ORS 164.354 Criminal Mischief in 2nd Degree
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/30/2021
+  :course: BVP34648
+  :title: Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/30/2021
+  :course: BVP21376
+  :title: Firearms Qualifcation
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/30/2021
+  :course: BVP08584
+  :title: Use of Force Scenarios and Drills
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/21/2021
+  :course: BVP14984
+  :title: House Bill 3164 TB 21-05
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/21/2021
+  :course: BVP26756
+  :title: Unlawful Entry Motor Vehicle TB 21-06
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/25/2021
+  :course: BVP07070
+  :title: Leadership-Sgt. Mentoring Class
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/17/2021
+  :course: BVP00494
+  :title: Update Moratorium Certain Traffic Offenses  21-04
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/11/2021
+  :course: BVP29994
+  :title: DUII Investigations Legal Update TB 21-03
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/29/2021
+  :course: BVP16140
+  :title: Field Training Evaluation Program Refresher Course
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/15/2021
+  :course: BVP17789
+  :title: Field Training Evaluation Program
+  :status: Instructed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 4/6/2021
+  :course: BVP26712
+  :title: Bias Crimes and Incident Reporting
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/19/2021
+  :course: BVP07535
+  :title: Fundamentals  Qualification Pistol and Rifle
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 3/19/2021
+  :course: BVP23195
+  :title: OC Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/19/2021
+  :course: BVP04648
+  :title: Taser ReCertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/19/2021
+  :course: BVP24932
+  :title: Recruit Control Tactics Program
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/19/2021
+  :course: BVP07284
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/19/2021
+  :course: BVP40438
+  :title: Procedural Law / Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/26/2021
+  :course: BVP01451
+  :title: Measure 110  Officer Investigative Authority
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/12/2021
+  :course: BVP23816
+  :title: OSHA COVID-19 Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/15/2020
+  :course: BVP32367
+  :title: Temp Hold Facility, Fire Safety  Evacuation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/9/2020
+  :course: MISCMAIN
+  :title: 2020 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 11/10/2020
+  :course: BVP42623
+  :title: Vulnerable Adult Abuse  Missing Persons
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/7/2020
+  :course: BVP26601
+  :title: PREA Training Bulletin 2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/29/2020
+  :course: BVP36266
+  :title: Bias-Based Policing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/29/2020
+  :course: BVP23820
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/27/2020
+  :course: BVP16025
+  :title: De-escalation Scenario Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/27/2020
+  :course: BVP25241
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/22/2020
+  :course: BVP32932
+  :title: De-escalation Scenario Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/22/2020
+  :course: BVP35089
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/21/2020
+  :course: BVP34309
+  :title: Bias-Based Policing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/21/2020
+  :course: BVP22805
+  :title: Ethics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/20/2020
+  :course: BVP19873
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/15/2020
+  :course: BVP37022
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/13/2020
+  :course: BVP35994
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/8/2020
+  :course: BVP09770
+  :title: De-escalation Scenario Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 10/7/2020
+  :course: BVP25436
+  :title: Bias-Based Policing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/7/2020
+  :course: BVP17475
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/7/2020
+  :course: BVP10733
+  :title: Use of Force Case Law and Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/7/2020
+  :course: BVP16834
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/6/2020
+  :course: BVP09534
+  :title: Bias-Based Policing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/6/2020
+  :course: BVP30106
+  :title: Firearms - Handgun and Rifle
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 10/6/2020
+  :course: BVP20162
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/21/2020
+  :course: BVP33256
+  :title: Bias-Based Policing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/21/2020
+  :course: BVP33144
+  :title: Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/21/2020
+  :course: BVP35298
+  :title: Basic TECC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 8/21/2020
+  :course: BVP29204
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/20/2020
+  :course: BPT32650
+  :title: FTEP Instructor Development Course
+  :status: Instructed
+  :score: '0.0'
+  :hours: '22.00'
+- :date: 7/17/2020
+  :course: BVP30761
+  :title: Recruit Control Tactics Program
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/17/2020
+  :course: BVP44011
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 7/17/2020
+  :course: BVP30895
+  :title: Procedural Law / Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/22/2020
+  :course: BVP33208
+  :title: Maintaining a Drug-Free Workplace
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 6/22/2020
+  :course: BVP10487
+  :title: Unconscious Bias
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/22/2020
+  :course: BVP15225
+  :title: Preventing Descrimination  Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/19/2020
+  :course: BVP42305
+  :title: Valuing Diversity
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/26/2020
+  :course: BVP05009
+  :title: Firearms Basic Instructor Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 3/16/2020
+  :course: MISCMAIN
+  :title: 2020 LE Leadership 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 3/12/2020
+  :course: BVP01216
+  :title: CPR Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/12/2020
+  :course: BVP40156
+  :title: Control Tactics - Baton/Ground Control
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/12/2020
+  :course: BVP40542
+  :title: First Aid/ AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/11/2020
+  :course: BVP26623
+  :title: Taser Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/11/2020
+  :course: BVP00266
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/9/2020
+  :course: BVP30838
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/4/2020
+  :course: BVP29058
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/2/2020
+  :course: BVP32321
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/28/2020
+  :course: BVP25725
+  :title: CIT/Mental Health Scenario Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/28/2020
+  :course: BVP24218
+  :title: ConSim - De-escalation Scenarios
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/28/2020
+  :course: BVP21218
+  :title: De-escalation Techniques
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/28/2020
+  :course: BVP00138
+  :title: ConSim - De-escalation Scenarios
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/26/2020
+  :course: BVP34274
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/25/2020
+  :course: BVP40603
+  :title: CIT/Mental Health Scenario Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/25/2020
+  :course: BVP20074
+  :title: ConSim - De-escalation Scenarios
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/24/2020
+  :course: BVP23981
+  :title: Biased Based Policing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/24/2020
+  :course: BVP35411
+  :title: Oregon Senate Bill 998
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/24/2020
+  :course: BVP28814
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/20/2020
+  :course: BVP20498
+  :title: CIT/Mental Health Scenario Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/20/2020
+  :course: BVP13696
+  :title: ConSim - De-escalation Scenarios
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/19/2020
+  :course: BVP23554
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/17/2020
+  :course: BVP14014
+  :title: Search and Seizure Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/11/2020
+  :course: BVP12893
+  :title: Procedural Law Part 4
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/4/2020
+  :course: BVP24402
+  :title: Procedural Law Part 3
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/17/2020
+  :course: BVP28692
+  :title: Patrol Tactics 1 - Traffic Stops
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/16/2020
+  :course: M00-19A
+  :title: DPSST Adult Learning Core
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/16/2020
+  :course: F6D19163
+  :title: Field Training  Evaluation Program Instructor
+  :status: Instructed
+  :score: '0.0'
+  :hours: '22.00'
+- :date: 1/13/2020
+  :course: BVP19257
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/10/2020
+  :course: BVP03471
+  :title: Procedural Law Part 2
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/7/2020
+  :course: BVP42904
+  :title: Procedural Law Part 1
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/12/2019
+  :course: MISCMAIN
+  :title: 2019 LE Annual Required Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/10/2019
+  :course: BVP02016
+  :title: Reading Behavior and Body Language
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/9/2019
+  :course: BVP36849
+  :title: Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/5/2019
+  :course: BVP20872
+  :title: PREA Training Bulletin 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/18/2019
+  :course: BVP16161
+  :title: Less Lethal 40 MM
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/18/2019
+  :course: BVP04155
+  :title: Low Light Hangun Qualification Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/2/2019
+  :course: BVP20100
+  :title: Ground Control, Baton, Striking Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/13/2019
+  :course: F6D16130
+  :title: FBI LEEDA - Supervisory Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '28.00'
+- :date: 6/28/2019
+  :course: BVP20676
+  :title: Recruit Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '13.00'
+- :date: 6/28/2019
+  :course: BVP32306
+  :title: Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/25/2019
+  :course: BVP31130
+  :title: Combat Mindset
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/24/2019
+  :course: BVP13132
+  :title: June Range Qualification Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/18/2019
+  :course: BVP22855
+  :title: Criminal Law
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/12/2019
+  :course: BVP20928
+  :title: High Risk Traffic Stops
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/11/2019
+  :course: BVP36196
+  :title: Peer Support
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/31/2019
+  :course: BVP31754
+  :title: Traffic Stops
+  :status: Instructed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/30/2019
+  :course: BPT05082
+  :title: Field Training and Evaluation Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/29/2019
+  :course: BVP27570
+  :title: Calls for Service
+  :status: Instructed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/22/2019
+  :course: BVP08528
+  :title: Peer Support Overview
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 5/17/2019
+  :course: OCS19770
+  :title: Metro sgts. academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '60.00'
+- :date: 4/25/2019
+  :course: BVP07517
+  :title: High Risk Traffic Stops
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/19/2019
+  :course: BVP00159
+  :title: Complete Tactical Emergency Casualty Care
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 4/15/2019
+  :course: BVP00036
+  :title: March Qualification Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/11/2019
+  :course: BVP13464
+  :title: ConSim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/9/2019
+  :course: BVP30250
+  :title: ConSim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/9/2019
+  :course: F6D15231
+  :title: Code 4 Combatives
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/23/2019
+  :course: BVP18187
+  :title: ILEETA
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 3/12/2019
+  :course: F6D15231
+  :title: Code 4 Combatives
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/5/2019
+  :course: BVP33717
+  :title: Control Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/5/2019
+  :course: BVP09243
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/5/2019
+  :course: BVP24753
+  :title: Officer Rescue Drills
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/5/2019
+  :course: BVP17373
+  :title: Low Light Shooting Drills
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/5/2019
+  :course: BVP09243
+  :title: ConSim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 3/5/2019
+  :course: BVP17373
+  :title: Low Light Shooting Drills
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/5/2019
+  :course: BVP24753
+  :title: Officer Rescue Drills
+  :status: Instructed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/5/2019
+  :course: BVP19360
+  :title: Officer Rescue/ TCCC Review
+  :status: Instructed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/5/2019
+  :course: BVP19360
+  :title: Officer Rescue/ TCCC Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/4/2019
+  :course: BVP18423
+  :title: CIT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/4/2019
+  :course: BVP32808
+  :title: Crowd Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/4/2019
+  :course: BVP24376
+  :title: OC Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/4/2019
+  :course: BVP08671
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/19/2019
+  :course: BVP18558
+  :title: Striking/Covers
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/14/2019
+  :course: BVP15795
+  :title: Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/7/2019
+  :course: BVP18042
+  :title: Stance/Searching/Handcuffing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/29/2019
+  :course: BVP16874
+  :title: Beaverton Police Department Culture
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/18/2019
+  :course: BVP07890
+  :title: Recruit In-House Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '30.50'
+- :date: 1/16/2019
+  :course: BVP05534
+  :title: ConSim Drills
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 1/9/2019
+  :course: F6D05715
+  :title: In-Service Scenario Run Through for Instructors
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 1/3/2019
+  :course: BVP21261
+  :title: Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/31/2018
+  :course: MISCMAIN
+  :title: 2018 LE AnnualRequired Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/27/2018
+  :course: BVP01361
+  :title: Traffic Stops and Ped Checks
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/14/2018
+  :course: BVP15348
+  :title: PREA Refresher Training 2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/11/2018
+  :course: BVP18199
+  :title: BPD Culture
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2018
+  :course: BVP19805
+  :title: Police Procedures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/4/2018
+  :course: BVP37938
+  :title: December Handgun Qualification Range 2018
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/14/2018
+  :course: BVP21051
+  :title: Peer Support/ Mental Health Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/1/2018
+  :course: BVP21412
+  :title: Incident Response to Terrorist Bombings
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 10/31/2018
+  :course: BVP17517
+  :title: Tactical Scenarios with EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/31/2018
+  :course: BVP17517
+  :title: Tactical Scenarios with EVOC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/9/2018
+  :course: BVP41804
+  :title: Tactical Casualty Combat Care Officer Rescue
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/28/2018
+  :course: BVP20537
+  :title: In House Orientation Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 9/18/2018
+  :course: BVP36858
+  :title: ConSim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/29/2018
+  :course: BVP17068
+  :title: Constitutional Law
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/29/2018
+  :course: BVP25067
+  :title: Search and Seizure Overview
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/19/2018
+  :course: F6B16647
+  :title: Leading with Equity
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/20/2018
+  :course: BVP34246
+  :title: Prevention and Response to Suicide Bombing
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 3/2/2018
+  :course: BVP14447
+  :title: Conflict Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 3/2/2018
+  :course: BVP19982
+  :title: Control Tactics and take downs
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 3/2/2018
+  :course: BVP27310
+  :title: Low Light Shooting Drills
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 3/2/2018
+  :course: BVP02061
+  :title: Americans with Disablity Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/2/2018
+  :course: BVP35083
+  :title: Handcuffing Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/2/2018
+  :course: BVP32143
+  :title: CPR First Aid and AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/2/2018
+  :course: BVP26861
+  :title: Taser Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/2/2018
+  :course: F6B15012
+  :title: CAD Software Update and Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/8/2018
+  :course: BVP06140
+  :title: Biased Based Policing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/31/2017
+  :course: MISCMAIN
+  :title: 2017 Police Maintenance Basic
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/18/2017
+  :course: BVP37332
+  :title: Biased Based Policing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/7/2017
+  :course: BVP05814
+  :title: Advanced Group Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 10/25/2017
+  :course: F6A09541
+  :title: First Line Supervision
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/18/2017
+  :course: BVP18054
+  :title: Search and Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/26/2017
+  :course: BVP41620
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/20/2017
+  :course: F6A09902
+  :title: Search  Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/1/2017
+  :course: BVP31954
+  :title: FMLA and ADA Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/17/2017
+  :course: F6A05047
+  :title: Supervisor Harassment/Equal Employment Opportunity
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/2/2017
+  :course: F6A04985
+  :title: Marijuana Legislative Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/28/2017
+  :course: BVP19084
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/28/2017
+  :course: BVP07484
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 2/28/2017
+  :course: BVP10204
+  :title: Low Light Night Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/27/2017
+  :course: BVP17823
+  :title: Ambush Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/27/2017
+  :course: BVP10787
+  :title: Baton and OC Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/27/2017
+  :course: BVP14720
+  :title: Communicating with the public
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/27/2017
+  :course: BVP24244
+  :title: Control Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/27/2017
+  :course: BVP31910
+  :title: Force Response Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/27/2017
+  :course: BVP37275
+  :title: Naloxone
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/27/2017
+  :course: BVP11732
+  :title: Search and Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/15/2016
+  :course: BVP34898
+  :title: Bias Based Profiling
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/13/2016
+  :course: BVP22834
+  :title: September Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/6/2016
+  :course: F6A05222
+  :title: Peer Mentoring
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/16/2016
+  :course: BVP36519
+  :title: Ground Fighting
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/3/2016
+  :course: BVP11524
+  :title: Pedestrian Checks
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/14/2016
+  :course: BVP19746
+  :title: Emergency Vehicle Operations Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/11/2016
+  :course: BVP37676
+  :title: Legacy of Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 9/27/2016
+  :course: BVP38990
+  :title: September Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/27/2016
+  :course: 16-0030
+  :title: DPSST Supervision F21 Equivalency
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 5/20/2016
+  :course: F6C38117
+  :title: Sergeant's Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 4/26/2016
+  :course: BVP04650
+  :title: April Range Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/22/2016
+  :course: F6A00153
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
+- :date: 3/5/2016
+  :course: 16-0151
+  :title: Tactical Night Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/5/2016
+  :course: 16-0600
+  :title: Versadex Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/5/2016
+  :course: 16-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/5/2016
+  :course: 16-1198
+  :title: Building Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 3/5/2016
+  :course: 16-1198
+  :title: Building Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/5/2016
+  :course: 16-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/18/2015
+  :course: F6A00608
+  :title: Firearms - Less Lethal
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/15/2015
+  :course: 15-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/19/2015
+  :course: 15-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 6/19/2015
+  :course: 15-0151
+  :title: Tactical Night Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/19/2015
+  :course: 15-0684
+  :title: Effective Contacts with Mentally Ill Citizens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/19/2015
+  :course: 15-0802
+  :title: Strangulation Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/19/2015
+  :course: 15-0829
+  :title: Investigating Officer Involved Shootings
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/19/2015
+  :course: 15-0104
+  :title: ASP / OC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/6/2015
+  :course: 15-0823
+  :title: Eye Witness Evidence
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/21/2015
+  :course: 15-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/22/2015
+  :course: 15-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/31/2014
+  :course: MISCMAIN
+  :title: 2014 Police Maintenance Basic
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/16/2014
+  :course: 14-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/9/2014
+  :course: 14-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/8/2014
+  :course: 14-1120
+  :title: Search  Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 11/12/2014
+  :course: 14-1108
+  :title: Criminal Laws
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/30/2014
+  :course: 14-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/30/2014
+  :course: 14-0147
+  :title: Firearms - Less Lethal
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/17/2014
+  :course: 14-0911
+  :title: Customer Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/29/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 8/1/2014
+  :course: 14-0100
+  :title: Active Shooter
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 7/25/2014
+  :course: 14-0859
+  :title: Emergency Preparedness and Response - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 6/6/2014
+  :course: 14-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 6/5/2014
+  :course: 14-0153
+  :title: AR-15 Basic Operator / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 5/15/2014
+  :course: 14-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 5/14/2014
+  :course: 14-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 5/13/2014
+  :course: 14-1270
+  :title: Field Training Officer Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 3/18/2014
+  :course: 14-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/14/2014
+  :course: 14-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/14/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/14/2014
+  :course: 14-0124
+  :title: Weapons Retention
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/14/2014
+  :course: 14-0149
+  :title: Low Light / Night Shooting / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/13/2014
+  :course: 14-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/13/2014
+  :course: 14-0961
+  :title: Trauma Care
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/13/2014
+  :course: 14-1223
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/4/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/4/2014
+  :course: 14-0124
+  :title: Weapons Retention
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/4/2014
+  :course: 14-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/28/2014
+  :course: 14-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/28/2014
+  :course: 14-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/19/2013
+  :course: 13-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/7/2013
+  :course: 13-1223
+  :title: Patrol Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 11/6/2013
+  :course: 13-1228
+  :title: Vehicle Stops
+  :status: Instructed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 11/1/2013
+  :course: 13-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/27/2013
+  :course: 13-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/17/2013
+  :course: 13-0113
+  :title: Counter Assaults
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/16/2013
+  :course: 13-1120
+  :title: Search  Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/1/2013
+  :course: 13-0147
+  :title: Firearms - Less Lethal
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/1/2013
+  :course: 13-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/24/2013
+  :course: 13-1120
+  :title: Search  Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/20/2013
+  :course: 13-1120
+  :title: Search  Seizure
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/16/2013
+  :course: 13-1211
+  :title: Officer Involved Shootings
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/11/2013
+  :course: 13-1112
+  :title: Officer Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/21/2013
+  :course: 13-1203
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/21/2013
+  :course: 13-1223
+  :title: Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/16/2013
+  :course: 13-1112
+  :title: Officer Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/19/2013
+  :course: 13-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/1/2013
+  :course: 13-0104
+  :title: ASP / OC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/1/2013
+  :course: 13-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 3/1/2013
+  :course: 13-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/28/2013
+  :course: 13-0112
+  :title: Control Holds  Handcuffing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/21/2013
+  :course: 13-0883
+  :title: Critical Incident Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/21/2013
+  :course: 13-0964
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/21/2013
+  :course: 13-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/15/2013
+  :course: 13-0150
+  :title: Strategies of Low Light Engagements
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/15/2013
+  :course: 13-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/15/2013
+  :course: 13-0104
+  :title: ASP / OC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/15/2013
+  :course: 13-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/14/2013
+  :course: 13-1025
+  :title: Domestic Abuse
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/14/2013
+  :course: 13-0112
+  :title: Control Holds  Handcuffing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/12/2013
+  :course: 13-0104
+  :title: ASP / OC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/12/2013
+  :course: 13-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 2/12/2013
+  :course: 13-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/29/2013
+  :course: 13-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 1/29/2013
+  :course: 13-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 12/17/2012
+  :course: 12-0149
+  :title: Low Light / Night Shooting / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/26/2012
+  :course: 12-0147
+  :title: Firearms - Less Lethal
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/2/2012
+  :course: 12-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/11/2012
+  :course: 12-0103
+  :title: ASP Baton
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/11/2012
+  :course: 12-0105
+  :title: OC
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/11/2012
+  :course: 12-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/11/2012
+  :course: 12-0116
+  :title: Handcuffing
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/27/2012
+  :course: 12-1216
+  :title: Survival Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/19/2012
+  :course: 12-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/13/2012
+  :course: 12-3094
+  :title: Field Training  Evaluation Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 4/6/2012
+  :course: 12-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 4/6/2012
+  :course: 12-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/6/2012
+  :course: 12-0961
+  :title: Trauma Care
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/6/2012
+  :course: 12-1078
+  :title: Narcotics Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/5/2012
+  :course: 12-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/5/2012
+  :course: 12-0272
+  :title: Taser Refresher Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/5/2012
+  :course: 12-0744
+  :title: Excited Delirium
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/5/2012
+  :course: 12-1203
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/5/2012
+  :course: 12-1224
+  :title: Spike Strip / Stop Stick Use
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/4/2012
+  :course: 12-0443
+  :title: Leadership
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/4/2012
+  :course: 12-0792
+  :title: Amber Alert
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/4/2012
+  :course: 12-0710
+  :title: Pro-Net Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/4/2012
+  :course: 12-0834
+  :title: Investigation Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/4/2012
+  :course: 12-0969
+  :title: Mental Health
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/4/2012
+  :course: 12-1119
+  :title: Rights / Legal Updates - Victims Assistance
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/21/2012
+  :course: 12-0793
+  :title: Animal Abuse Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/20/2012
+  :course: 12-0162
+  :title: MP5 Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/13/2012
+  :course: 12-0551
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/9/2012
+  :course: 12-0777
+  :title: Property Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2011
+  :course: MISCMAIN
+  :title: 2011 Police Maintenance Basic
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/19/2011
+  :course: 11-0149
+  :title: Low Light / Night Shooting / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/17/2011
+  :course: 11-0904
+  :title: DPSST Revocation / Ethics Bulletin Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/16/2011
+  :course: 11-1122
+  :title: Law  Legal - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/11/2011
+  :course: 11-0904
+  :title: DPSST Revocation / Ethics Bulletin Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/6/2011
+  :course: 11-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/4/2011
+  :course: 11-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/8/2011
+  :course: 11-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/8/2011
+  :course: 11-0795
+  :title: Domestic Violence Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2011
+  :course: 11-0904
+  :title: DPSST Revocation / Ethics Bulletin Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/29/2011
+  :course: 11-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 6/16/2011
+  :course: 11-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/3/2011
+  :course: 11-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/3/2011
+  :course: 11-1204
+  :title: EVOC / PIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/2/2011
+  :course: 11-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/2/2011
+  :course: 11-0795
+  :title: Domestic Violence Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/2/2011
+  :course: 11-1068
+  :title: Drugs - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/2/2011
+  :course: 11-1099
+  :title: Restraining Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/1/2011
+  :course: 11-0797
+  :title: Sex Crimes Response  Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/1/2011
+  :course: 11-0661
+  :title: Gang Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/1/2011
+  :course: 11-0887
+  :title: Homeland Security
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/1/2011
+  :course: 11-0914
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/1/2011
+  :course: 11-0972
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/19/2011
+  :course: 11-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/21/2011
+  :course: 11-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/8/2011
+  :course: 11-0109
+  :title: Confrontational Simulation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '12.00'
+- :date: 3/22/2011
+  :course: 11-0162
+  :title: MP5 Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/17/2010
+  :course: 10-0149
+  :title: Low Light / Night Shooting / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/5/2010
+  :course: 10-0952
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/5/2010
+  :course: 10-1050
+  :title: Alcohol Workshop / Wet Lab
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/5/2010
+  :course: 10-1083
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/5/2010
+  :course: 10-1091
+  :title: K-9 Narcotics Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/4/2010
+  :course: 10-0276
+  :title: Use of Force - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/4/2010
+  :course: 10-0494
+  :title: Tactical Leadership for Supervisors
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/3/2010
+  :course: 10-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 11/3/2010
+  :course: 10-0655
+  :title: Spanish for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/3/2010
+  :course: 10-0972
+  :title: Health / Wellness - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/29/2010
+  :course: 10-0114
+  :title: Defensive Tactics
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/29/2010
+  :course: 10-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/11/2010
+  :course: 10-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/11/2010
+  :course: 10-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/10/2010
+  :course: 10-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/4/2010
+  :course: 10-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/25/2010
+  :course: 10-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/25/2010
+  :course: 10-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/25/2010
+  :course: 10-0293
+  :title: Other Use of Force Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/11/2010
+  :course: 10-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/31/2010
+  :course: 10-0870
+  :title: AWR-160 WMD Awareness Level Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/19/2010
+  :course: 10-0114
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/19/2010
+  :course: 10-0132
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/19/2010
+  :course: 10-0684
+  :title: Effective Contacts with Mentally Ill Citizens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/10/2010
+  :course: 10-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/29/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/18/2009
+  :course: '09-0149'
+  :title: Low Light / Night Shooting / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 12/11/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/30/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/21/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/16/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/8/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/2/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/1/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/17/2009
+  :course: '09-0141'
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/28/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/8/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/20/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/17/2009
+  :course: '09-0141'
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/13/2009
+  :course: '09-1203'
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 6/13/2009
+  :course: '09-1229'
+  :title: Mental Preparation / Mindset
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/12/2009
+  :course: '09-0952'
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/12/2009
+  :course: '09-0109'
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/12/2009
+  :course: '09-0827'
+  :title: Informants
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/12/2009
+  :course: '09-1120'
+  :title: Search  Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/12/2009
+  :course: '09-1198'
+  :title: Building Searches
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/11/2009
+  :course: '09-0114'
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/11/2009
+  :course: '09-0808'
+  :title: Fraud Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/11/2009
+  :course: '09-0905'
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/11/2009
+  :course: '09-1065'
+  :title: Medical Marijuana Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/9/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/26/2009
+  :course: '09-0662'
+  :title: Outlaw Motorcycle Gang Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/21/2009
+  :course: '09-0141'
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/15/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/29/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/16/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/16/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/10/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/4/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/31/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/25/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/24/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 1/16/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/18/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/17/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/10/2008
+  :course: '08-0149'
+  :title: Low Light / Night Shooting / Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/22/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/21/2008
+  :course: '08T001'
+  :title: Police Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 11/18/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 11/9/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/22/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/14/2008
+  :course: '08-1269'
+  :title: Field Training  Evaluation Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 10/10/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/3/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.80'
+- :date: 10/2/2008
+  :course: '08-0293'
+  :title: Other Use of Force Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/25/2008
+  :course: '08-0274'
+  :title: Taser - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/25/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/24/2008
+  :course: '08-0141'
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/23/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.30'
+- :date: 8/20/2008
+  :course: '08-0114'
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/7/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/7/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/5/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/27/2008
+  :course: '08-0009'
+  :title: DPSST Basic Police COD
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 6/18/2008
+  :course: '08-1083'
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/18/2008
+  :course: '08-1075'
+  :title: Intoxilyzer 8000
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/10/2008
+  :course: '08-0141'
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/3/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/23/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/12/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/3/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/29/2008
+  :course: '08-0551'
+  :title: Agency Pre-Basic Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '178.00'
+- :date: 2/23/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/21/2008
+  :course: '08-0132'
+  :title: Firearms Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '48.00'
+- :date: 2/8/2008
+  :course: '08-0114'
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 1/22/2008
+  :course: '08-0953'
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 12/5/2003
+  :course: 03-0246
+  :title: ONEA Winter Training Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/3/2003
+  :course: 03-0872
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/31/2002
+  :course: 02CP416
+  :title: Clandestine Laboratory II
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 10/29/2002
+  :course: 02CP416
+  :title: Clandestine Laboratory II
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 8/12/2002
+  :course: 02U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 12/13/2001
+  :course: 02CP097
+  :title: Patrol Officer Drug Interdiction
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 9/7/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 6/26/2001
+  :course: 01CP079
+  :title: Police Bike Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 3/14/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 5/1/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/27/2000
+  :course: 99T001
+  :title: Police Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 12/8/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 8/23/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
+- :date: 7/14/1999
+  :course: 99B015
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '400.00'
+- :date: 7/14/1999
+  :course: 99P162
+  :title: ADVANCED POLICE CURRICULUM
+  :status: Passed
+  :score: '0.0'
+  :hours: '360.00'
+- :date: 6/27/1999
+  :course: 99B010
+  :title: BP/SFST  DRUGS THAT IMPAIR DRIVING
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 4/24/1999
+  :course: 99P115
+  :title: INTOXYLIZER 5000 CERTIFICATION
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 2/25/2022
+  :expiration_date: 2/14/2024
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Maintenance Requirements
+  :value: LE Leadership 3 Year
+  :effective_date: 1/1/2021
+  :expiration_date: 12/31/2023
+- :topic: Certification Cards
+  :value: CPR
+  :effective_date: 3/12/2020
+  :expiration_date: 3/12/2022
+- :topic: Certification Cards
+  :value: First Aid
+  :effective_date: 3/12/2020
+  :expiration_date: 3/12/2022
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 6/16/2008
+  :expiration_date: ''
+:education_records:
+- :date: 12/20/1996
+  :degree: Bachelor Science
+  :school: All Other Education Institutes
+  :major: Sociology
+  :hours: '196.5'

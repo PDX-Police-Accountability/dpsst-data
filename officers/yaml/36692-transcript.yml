@@ -1,0 +1,147 @@
+---
+:header_record:
+  :name: Nelson, Andrea F.
+  :dpsst_identifier: '36692'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 11/19/1998
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 11/20/2019
+  :course: F6D18205
+  :title: Highway Drug Investigations for Patrol Day 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/20/2019
+  :course: F6D38958
+  :title: Highway Drug Investigations for Patrol Day 3
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/4/2019
+  :course: F6D08246
+  :title: Advanced Search and Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/19/2019
+  :course: OCS34084
+  :title: Child Abuse and Family Violence Summit
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/18/2019
+  :course: OCS18734
+  :title: Child Abuse and Family Violence Summit
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/17/2019
+  :course: OCS36329
+  :title: Child Abuse and Family Violence Summit
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 11/28/2018
+  :course: F6D26425
+  :title: Tragedy and it's aftermath
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/28/2018
+  :course: F6D34255
+  :title: Tragedy and It's Aftermath
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/28/2018
+  :course: F6D13481
+  :title: Tragedy and it's aftermath
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/17/2018
+  :course: F6B01030
+  :title: 'Search Warrants: Not as Painful as You Think'
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/23/2018
+  :course: PDP40857
+  :title: 'Leadership 2018: Law Enforcement Professionals'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/6/2017
+  :course: ALS00514
+  :title: Firearms In-Service Night Fire
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/31/2013
+  :course: 13-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/19/2012
+  :course: 12-0914
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/9/2011
+  :course: 11-1276
+  :title: Evidence / Property Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/14/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/30/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/9/2003
+  :course: 03-0872
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,338 @@
+---
+:header_record:
+  :name: Lesh, Hiedi L.
+  :dpsst_identifier: '33731'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 1/22/2001
+  :agency: Multnomah County Adult Community Justice
+  :action: Hired
+  :rank: Par/prob O
+  :classification: ''
+  :assignment: ''
+- :date: 9/24/1999
+  :agency: Multnomah County Sheriff's Office
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 7/26/1997
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 7/23/1997
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 3/24/1997
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 11/18/2004
+  :certificate: Parole  Probation Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 11/18/2004
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 8/7/2002
+  :certificate: Parole  Probation Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 8/7/2002
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 3/30/2022
+  :course: PDN12472
+  :title: Self Care for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/23/2022
+  :course: PDN15385
+  :title: Crisis Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/14/2022
+  :course: PDN21940
+  :title: Ethics for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/15/2021
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/7/2021
+  :course: PDN38424
+  :title: Use of Force-Caselaw Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 11/16/2021
+  :course: PDN35253
+  :title: Use of Force Situational Awareness
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 11/2/2021
+  :course: PDN01589
+  :title: Use of Force Incident Reporting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/19/2021
+  :course: PDN07787
+  :title: Radio Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/5/2021
+  :course: PDN17560
+  :title: Strategies for Using Force on the Mentally Ill
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/24/2021
+  :course: PDN39391
+  :title: Wildfire Smoke Exposure
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/21/2021
+  :course: PDN10333
+  :title: Crisis Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 9/20/2021
+  :course: PDN09705
+  :title: Weapons Familiarization for Sworn Staff
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 9/7/2021
+  :course: PDN41551
+  :title: Technology for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 8/17/2021
+  :course: PDN34067
+  :title: Search and Seizure for Parole and Probation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/20/2021
+  :course: PDN10118
+  :title: Self Care for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/6/2021
+  :course: PDN10515
+  :title: Field Procedures-Drug Identification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.25'
+- :date: 5/20/2021
+  :course: PDN35533
+  :title: Field Practices for Parole and Probation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/20/2021
+  :course: PDN32460
+  :title: Handcuffing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/20/2021
+  :course: PDN39577
+  :title: Culture and Policing
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/20/2021
+  :course: PDN13511
+  :title: High Risk Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/20/2021
+  :course: PDN40900
+  :title: Mental Health Interactions
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 2/1/2021
+  :course: PDN31781
+  :title: Optional Case Management Training March 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/31/2021
+  :course: PDN10349
+  :title: County and DCJ Policy, PII/PHI Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/27/2021
+  :course: PDN35016
+  :title: OC/ASP Baton Online
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/25/2021
+  :course: PDN10695
+  :title: COVID-19 Employee Information and Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/20/2021
+  :course: PDN10945
+  :title: Ethics in Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 12/31/2020
+  :course: 20-CVDL1
+  :title: 2020 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 10/8/2020
+  :course: PDN03283
+  :title: Tactical Medicine Basics Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/5/2020
+  :course: PDN40199
+  :title: Tactical Medicine Basics Online
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/1/2020
+  :course: PDN40489
+  :title: Cyber Security Awareness
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/23/2020
+  :course: PDN09359
+  :title: Notice of Rights Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/18/2020
+  :course: F6D24572
+  :title: CPR/ AED/ First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/4/2020
+  :course: PDN25877
+  :title: Use of Force Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/10/2020
+  :course: PDN37678
+  :title: Policy Review for County Employees/PII2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/9/2020
+  :course: F6D07424
+  :title: OMS Case Plan Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/24/2019
+  :course: F6D24576
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 6/5/2019
+  :course: F6D33712
+  :title: CPR/ First Aid Basic Plus
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 5/7/2019
+  :course: PDN34429
+  :title: Confrontation Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 6/25/2018
+  :course: PDN11033
+  :title: Confrontation Simulation Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 6/27/2017
+  :course: F6A08429
+  :title: Parole Board Regional Training F/POS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/7/2002
+  :course: 02T003
+  :title: Parole  Probation Field Training Manual
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 11/9/2001
+  :course: 01CP203
+  :title: DPSST Basic Parole  Probation
+  :status: Passed
+  :score: '0.0'
+  :hours: '160.00'
+- :date: 8/5/1997
+  :course: 97P318
+  :title: OHSA RECERTIFICATION
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 8/18/2020
+  :expiration_date: 8/18/2022
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2020
+  :expiration_date: 12/31/2022
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 10/23/2001
+  :expiration_date: ''
+:education_records:
+- :date: 6/15/1996
+  :degree: Bachelor Arts
+  :school: Portland State University
+  :major: ''
+  :hours: '206.0'

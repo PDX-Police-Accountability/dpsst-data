@@ -1,0 +1,201 @@
+---
+:header_record:
+  :name: Sheridan, Timothy M.
+  :dpsst_identifier: '36713'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 11/1/2004
+  :agency: Albany Police Department
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 1/9/2003
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 7/22/2002
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 4/1/2002
+  :agency: Portland Police Bureau
+  :action: Layoff
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 12/24/1998
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 3/14/2017
+  :course: ALP35647
+  :title: CAD Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 3/14/2017
+  :course: ALP01260
+  :title: Flakka- abused substance
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/2/2017
+  :course: ALP01772
+  :title: Fleet Maintenance
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/6/2017
+  :course: ALP42864
+  :title: CPR/First Aid (AED included)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/2/2017
+  :course: ALP01973
+  :title: RMS TTT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '46.00'
+- :date: 1/12/2017
+  :course: ALP00954
+  :title: Bloodborne Pathogen
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2016
+  :course: ALP10054
+  :title: Training Bulletins - 2016
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.25'
+- :date: 9/20/2016
+  :course: ALP28605
+  :title: Safety Hazard Reporting
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/28/2013
+  :course: 13-0954
+  :title: CPR / First Aid / AED / Bloodbourne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/11/2011
+  :course: 11-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/15/2009
+  :course: '09-0983'
+  :title: Crisis Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/24/2008
+  :course: '08-0911'
+  :title: Customer Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 12/31/2007
+  :course: 07-0915
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/1/2007
+  :course: 07-1098
+  :title: Records Law Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/1/2007
+  :course: 07-0620
+  :title: Public Records Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/31/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2006
+  :course: 06-2310
+  :title: Agency Policy/Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 11/30/2006
+  :course: 06-1232
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/30/2006
+  :course: 06-1532
+  :title: CPR/AED/BBP
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/11/2006
+  :course: 06-1135
+  :title: How to Give Exceptional Customer Service - Phone
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/11/2006
+  :course: 06-0934
+  :title: Exceptional Service over the Phone
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/31/2005
+  :course: 05U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.50'
+- :date: 12/16/2005
+  :course: 05-2366
+  :title: Emotional Survival for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/30/2005
+  :course: 05-0126
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/4/2005
+  :course: 05-1751
+  :title: Essentials of Managing the Front Desk
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 4/14/2005
+  :course: 05-0356
+  :title: CPR/First Aid/AED/BBP
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+:attribute_records: []
+:education_records: []

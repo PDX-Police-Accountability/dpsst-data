@@ -1,0 +1,147 @@
+---
+:header_record:
+  :name: Karter, Lucy P.
+  :dpsst_identifier: '48506'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/16/2007
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 3/20/2019
+  :course: PDP43537
+  :title: What Law Enforcement Professionals Need to Know
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/31/2016
+  :course: F6C06689
+  :title: eCourts  DV Case Summary Roll Call Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/10/2012
+  :course: 12-0982
+  :title: Crisis Negotiations Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.50'
+- :date: 11/1/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/27/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/18/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/19/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/14/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/22/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/16/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/12/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/4/2011
+  :course: 11-0953
+  :title: CPR / First Aid / AED
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/15/2010
+  :course: 10-0994
+  :title: CPR / First Aid Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/7/2010
+  :course: 10-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/6/2010
+  :course: 10-0953
+  :title: CPR / First Aid / AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/20/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/12/2008
+  :course: '08-0708'
+  :title: Internet Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/14/2008
+  :course: '08-0699'
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,63 @@
+---
+:header_record:
+  :name: Young, Anne R.
+  :dpsst_identifier: '29330'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 4/22/2019
+  :agency: Oregon State Police
+  :action: Inactive
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 2/1/2004
+  :agency: Oregon State Police
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 1/31/2004
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 1/4/1994
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 4/24/2004
+  :course: 04-0470
+  :title: DUII Multi-disciplinary Impared Driving
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/24/2003
+  :course: 03-0872
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/4/2002
+  :course: 02CP580
+  :title: Basic Fingerprint Class
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 6/16/1995
+  :course: 95K115
+  :title: BASIC FINGERPRINT CLASS
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+:attribute_records: []
+:education_records: []

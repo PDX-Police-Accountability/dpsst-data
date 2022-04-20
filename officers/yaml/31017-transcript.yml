@@ -1,0 +1,183 @@
+---
+:header_record:
+  :name: Brattin, Kathleen P.
+  :dpsst_identifier: '31017'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 1/29/2016
+  :agency: Portland Police Bureau
+  :action: Retired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 8/14/1997
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 8/13/1997
+  :agency: Bureau of Emergency Communications
+  :action: Resigned
+  :rank: Dispatcher
+  :classification: ''
+  :assignment: ''
+- :date: 6/1/1995
+  :agency: Bureau of Emergency Communications
+  :action: Hired
+  :rank: Dispatcher
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/28/2021
+  :course: PDS21233
+  :title: OSHA  Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/31/2021
+  :course: PDS02599
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/1/2020
+  :course: F6D22097
+  :title: Ethics in Public Safety - 2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/6/2019
+  :course: F6D30359
+  :title: Ethics in Public Safety 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/4/2018
+  :course: F6D31849
+  :title: Workday Basics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/10/2018
+  :course: F6B37614
+  :title: Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/10/2018
+  :course: F6B28399
+  :title: Internal Affairs
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/10/2018
+  :course: F6B09648
+  :title: OSHA - NH
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/30/2012
+  :course: 12-0715
+  :title: LEDS Inquiry Level
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/17/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/14/2008
+  :course: '08-0914'
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/30/2008
+  :course: '08-0915'
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/13/2007
+  :course: 07-0705
+  :title: File Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/7/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/6/2007
+  :course: 07-0747
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/24/2007
+  :course: 07-1178
+  :title: Radar / Lidar Training - Home Agency Approved
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/21/2007
+  :course: 07-0705
+  :title: File Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/20/2007
+  :course: 07-0711
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/7/2007
+  :course: 07-0705
+  :title: File Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/3/1995
+  :course: 95V047
+  :title: BASIC TELECOMMUNICATOR CLASS NO. 11
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+:attribute_records: []
+:education_records: []

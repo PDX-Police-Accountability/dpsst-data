@@ -1,0 +1,33 @@
+---
+:header_record:
+  :name: Patan, Ioan A.
+  :dpsst_identifier: '58019'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 8/23/2017
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 9/27/2017
+  :course: CQS39133
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/27/2017
+  :course: CQS05369
+  :title: Basic Handgun Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records: []
+:education_records: []

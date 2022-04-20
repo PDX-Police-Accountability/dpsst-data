@@ -1,0 +1,818 @@
+---
+:header_record:
+  :name: Adamski, Brett D.
+  :dpsst_identifier: '28070'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 11/8/2016
+  :agency: Tigard Police Department
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 7/6/1994
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 3/4/1993
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 4/3/1992
+  :agency: Military Service
+  :action: Resigned
+  :rank: Miltry Pol
+  :classification: ''
+  :assignment: ''
+- :date: 10/4/1988
+  :agency: Military Service
+  :action: Hired
+  :rank: Miltry Pol
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 11/9/2020
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 11/9/2020
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 1/4/2018
+  :certificate: Police Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 1/4/2018
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 2/21/2022
+  :course: TGP38122
+  :title: First Aid/CPR/AED/TCCC/Naloxone
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/21/2021
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/14/2021
+  :course: TGP42034
+  :title: Understanding and Combating Hate Crimes
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/11/2021
+  :course: TGP28075
+  :title: 2021 Force on Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/29/2021
+  :course: TGP42230
+  :title: 2021 Oregon STOP Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/29/2021
+  :course: TGP24194
+  :title: 2021 Half-Day Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 9/12/2021
+  :course: TGP41185
+  :title: Measure 110 and Its Impact on Drug Prosecution
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/25/2021
+  :course: TGP18046
+  :title: Wildfire Smoke Safety Requirements
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/25/2021
+  :course: TGP23140
+  :title: OSHA Wildfire Smoke Training 2021
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/10/2021
+  :course: TGP06205
+  :title: Dealing With The Heat
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/28/2021
+  :course: F6E33421
+  :title: Certified Crisis Intervention Specialist II.
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.00'
+- :date: 7/8/2021
+  :course: TGP39542
+  :title: DNA High Throughput Property Crime Agency Tng
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/1/2021
+  :course: TGP02279
+  :title: Axon Body 3 BWC Initial Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/1/2021
+  :course: TGP22804
+  :title: In-Car Video and View XL Initial Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/28/2021
+  :course: F6E01685
+  :title: Certified Crisis Intervention Specialist II Train.
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.00'
+- :date: 6/17/2021
+  :course: TGP43267
+  :title: Taser 7 User Transition Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/11/2021
+  :course: F6E18528
+  :title: Increasing Resilience in First Responders
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 5/27/2021
+  :course: TGP25237
+  :title: Rifle Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/8/2021
+  :course: TGP33653
+  :title: UUMV and Identity Theft Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/7/2021
+  :course: F6D15073
+  :title: CISM  - Indiuduel  Group
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
+- :date: 4/16/2021
+  :course: TGP21515
+  :title: Handgun Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/18/2021
+  :course: TGP27110
+  :title: COVID-19 Training, City of Tigard
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/3/2021
+  :course: TGP31245
+  :title: Word is Bond
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 2/4/2021
+  :course: TGP30164
+  :title: Measure 110 and Case Law Updates Webinar
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.25'
+- :date: 2/1/2021
+  :course: TGP34149
+  :title: Statistical Transparency of Policing (STOP)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/31/2020
+  :course: 20-CVDL1
+  :title: 2020 LE Annual Maint-Not Met COVID19
+  :status: Incomplete
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/17/2020
+  :course: TGP33260
+  :title: COVID-19 Training Requirements Parts 1-4
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/8/2020
+  :course: TGP27680
+  :title: Use of Force Ethical Consideraton
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/2/2020
+  :course: TGP10873
+  :title: Stress Management for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 11/19/2020
+  :course: TGP32973
+  :title: 'Below 100 Tenants: Wear Your Belt'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/19/2020
+  :course: TGP13606
+  :title: 'Below 100 Tenants: Watch Your Speed'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/20/2020
+  :course: TGP08966
+  :title: Police Accountability Bills
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 9/9/2020
+  :course: TGP26967
+  :title: Surveillance Techniques
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/9/2020
+  :course: TGP15823
+  :title: De-Escalation, Intervention, and Force Mitigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.25'
+- :date: 8/19/2020
+  :course: TGP31661
+  :title: Handgun Qualification/Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/12/2020
+  :course: TGP29511
+  :title: Tactical Casualty Care 1-Day Class
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/7/2020
+  :course: TGP05380
+  :title: DUII and Implied Consent Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/20/2020
+  :course: TGP28651
+  :title: COVID-19 Protocols - Phase I Policy Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/30/2020
+  :course: TGP01691
+  :title: Fair and Impartial Policing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/16/2020
+  :course: TGP25103
+  :title: Respirator Mask Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/16/2020
+  :course: TGP02859
+  :title: 2020 Blood Borne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/6/2020
+  :course: MISCMAIN
+  :title: 2020 LE Basic 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 3/11/2020
+  :course: TGP43661
+  :title: Firearms Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/26/2020
+  :course: TGP12465
+  :title: DV Response and Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/7/2020
+  :course: F6D13671
+  :title: First Aid / CPR / AED/ TCCC/ Naloxone
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/6/2020
+  :course: TGP01010
+  :title: Domestic Violence Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/15/2020
+  :course: F6D37960
+  :title: Conduent Approver Training - System Interface
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 12/20/2019
+  :course: F6D38256
+  :title: Force on Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/19/2019
+  :course: TGP02427
+  :title: Lawsuits on Demand - Webinar
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/12/2019
+  :course: MISCMAIN
+  :title: 2019 LE Annual Required Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 10/17/2019
+  :course: TGP02922
+  :title: All Day Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/11/2019
+  :course: TGP22341
+  :title: First Aid/CPR/AED/TCCC/Naloxone
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 10/2/2019
+  :course: F6D18116
+  :title: Crisis Intervention Team (CIT) Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 9/12/2019
+  :course: TGP37991
+  :title: Harassment, Equal Employment  Other Laws
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2019
+  :course: TGP14773
+  :title: Active Threat for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 5/28/2019
+  :course: F6D08318
+  :title: Child Abuse Investigations / Spring
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.50'
+- :date: 5/17/2019
+  :course: TGP22852
+  :title: Patrol Rifle Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/30/2019
+  :course: F6D40287
+  :title: Dare to be Great
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 4/17/2019
+  :course: F6D37851
+  :title: Karly's Law/ Child Abuse Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/13/2019
+  :course: F6D19688
+  :title: AR-15 Basic Operator Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 4/4/2019
+  :course: F6D00519
+  :title: S.T.O.P Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/26/2019
+  :course: F6D19087
+  :title: Handgun Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/16/2019
+  :course: TGP32589
+  :title: IS 200.b ICS for Single Resources
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/16/2019
+  :course: TGP26826
+  :title: IS 700 NIMS Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/15/2019
+  :course: TGP37409
+  :title: IS 100 Intro to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/6/2019
+  :course: TGP16907
+  :title: Vulnerable Adult/Brain Injury/Cognative Impairment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/31/2019
+  :course: F6D28326
+  :title: Holding Facility Emergency Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/24/2019
+  :course: TGP06143
+  :title: Defensive Tactics Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/28/2018
+  :course: MISCMAIN
+  :title: 2018 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/17/2018
+  :course: TGP09184
+  :title: 3SI Tracker Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/29/2018
+  :course: F6D28580
+  :title: 2018 Force on Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 11/16/2018
+  :course: F6D05074
+  :title: Ethics and Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/29/2018
+  :course: TGP07532
+  :title: 2018 Range (All Day)
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/15/2018
+  :course: F6W36042
+  :title: Domestic Violence-Mandatory Arrest, Menacing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/3/2018
+  :course: TGP01878
+  :title: Fentanyl Testing Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/30/2018
+  :course: F6D37267
+  :title: Communicable Diseases and Blood Borne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/30/2018
+  :course: TGP05297
+  :title: Response to Robbery Calls
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2018
+  :course: F6B21235
+  :title: Property  Evidence - Moving Forward
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/21/2018
+  :course: F6B00818
+  :title: Police Vehicle Operations In-Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/30/2018
+  :course: F6B02621
+  :title: TruNarc Familiarize Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/27/2018
+  :course: F6D04583
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/23/2018
+  :course: F6B42623
+  :title: RADAR/LIDAR - ractical
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/21/2018
+  :course: F6B03067
+  :title: Global Harmonization System
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 3/12/2018
+  :course: TGP15848
+  :title: Abandoned Vehicles / Parking Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/8/2018
+  :course: F6B29625
+  :title: 'Defensive Tactics: Outer Vest Training'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/21/2018
+  :course: F6W01983
+  :title: Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/13/2018
+  :course: F6B13456
+  :title: Low Light/Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/22/2018
+  :course: F6B38490
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/31/2017
+  :course: F6B08238
+  :title: Naloxone Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/18/2017
+  :course: F6B34200
+  :title: Force on Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 11/27/2017
+  :course: 17T001
+  :title: Police Field Training Manual
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 9/21/2017
+  :course: F6W28692
+  :title: Firearms Training/Handgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/12/2017
+  :course: F6A09215
+  :title: Autism Training For LE
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/14/2017
+  :course: F6A08887
+  :title: HB 2355  HB 839 Briefing  Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/1/2017
+  :course: F6A08798
+  :title: Tactical Combat Casualty Care
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/1/2017
+  :course: F6A08799
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 6/2/2017
+  :course: F6A08312
+  :title: Active Threat Drill
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/26/2017
+  :course: F6C26249
+  :title: Data System
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 5/21/2017
+  :course: TGP16992
+  :title: Police Vehicle Operations
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/16/2017
+  :course: F6A05013
+  :title: Minor In Posession Video Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/15/2017
+  :course: F6C27538
+  :title: Range Impact Munitions/Less Lethal Shotgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/14/2017
+  :course: 16-0008
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
+- :date: 3/21/2017
+  :course: 16-0016
+  :title: Weapons of Mass Destruction-Hours incl. in Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 3/10/2017
+  :course: F6A04606
+  :title: Intoxilyzer 8000 Cert
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 2/22/2017
+  :course: F6A04376
+  :title: LIDAR Operator Course (Home Agency Approved)
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/15/2017
+  :course: F6A04349
+  :title: 'Tactical Ethics 1: Perspectives on Profiling'
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/9/2017
+  :course: 16-0010
+  :title: SFST/DID- Training hours included in Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 2/7/2017
+  :course: F6A04176
+  :title: RADAR Operator Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 11/28/2016
+  :course: F6C20877
+  :title: Control Holds and Handcuffing
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/28/2016
+  :course: F6C37872
+  :title: Counter Assault
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/28/2016
+  :course: F6C07316
+  :title: Use of Force-Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/28/2016
+  :course: F6C33886
+  :title: ASP/OC Including Practical Application
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/28/2016
+  :course: F6C17087
+  :title: GroundFighting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/28/2016
+  :course: F6C41403
+  :title: Undefined
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/21/2016
+  :course: F6A03120
+  :title: Commercial Crimes Briefing Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/18/2016
+  :course: F6A03178
+  :title: Firearms Training - Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/16/2016
+  :course: F6C36888
+  :title: Taser User Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 8/31/2016
+  :course: TGP38435
+  :title: Tourniquet Familiarity
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/26/1997
+  :course: 97P243
+  :title: FIELD TRAINING OFFICER-NEW CHALLENGES/NE
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 10/4/1994
+  :course: 94U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/10/1993
+  :course: 93U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/28/1993
+  :course: 92J071
+  :title: BASIC POLICE RESERVE ACADEMY
+  :status: Passed
+  :score: '0.0'
+  :hours: '280.00'
+- :date: 1/26/1993
+  :course: 93U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 2/21/2022
+  :expiration_date: 2/29/2024
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2021
+  :expiration_date: 12/31/2023
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 12/16/2016
+  :expiration_date: ''
+:education_records:
+- :date: 3/23/2019
+  :degree: Associate Science
+  :school: Chemeketa Community College
+  :major: Criminal Justice
+  :hours: '116.0'

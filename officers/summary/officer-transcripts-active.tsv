@@ -1,17 +1,31 @@
 name	dpsst_identifier	agency	employment_status	rank
+Azorr, Robert M.	17432	Portland Police Bureau	Active	Civilian Employee
+Clark, Deena J.	17932	Portland Police Bureau	Active	Civilian Employee
+Coleman, Barbara A.	20108	Portland Police Bureau	Active	Civilian Employee
+Mason, Christine S.	20384	Portland Police Bureau	Active	Civilian Employee
+Geiger, Bert L.	21285	Portland Police Bureau	Active	Civilian Employee
 Sessions, Timothy E.	21772	Portland Police Bureau	Active	Sergeant
+Veldink, Ralph D.	22058	Portland Police Bureau	Active	Civilian Employee
 Anderson, Erin K.	22178	Portland Police Bureau	Active	Police Officer
+Wong, Johnny F.	22235	Portland Police Bureau	Active	Civilian Employee
 Frome, Michael A.	22827	Portland Police Bureau	Active	Deputy Chief
+Wormdahl, Christopher D.	22864	Portland Police Bureau	Active	Civilian Employee
 Michaelson, David K.	23060	Portland Police Bureau	Active	Lieutenant
+Hanna, Patricia M.	23565	Portland Police Bureau	Active	Civilian Employee
 Thorsen, Erick M.	23581	Portland Police Bureau	Active	Police Officer
 Dale, Brian J.	23726	Portland Police Bureau	Active	Detective
+Rae, Marilyn	23777	Portland Police Bureau	Active	Civilian Employee
 McHugill, Steven N.	24736	Portland Police Bureau	Active	Police Officer
 Outhaythip, Navarath	24990	Portland Police Bureau	Active	Criminalist
+Oleary, Chester J.	24991	Portland Police Bureau	Active	Reserve Officer
 Mason, Ronald L.	25247	Portland Police Bureau	Active	Lieutenant
 Nichols, Michael J.	26758	Portland Police Bureau	Active	Police Officer
 Wingfield, Larry L.	26849	Portland Police Bureau	Active	Police Officer
 Frolov, Larry	26855	Portland Police Bureau	Active	Police Officer
+Rohrbach, Tori L.	27189	Portland Police Bureau	Active	Civilian Employee
 Chinn, Curtis A.	27250	Portland Police Bureau	Active	Police Officer
+Weiss, Tammi D.	27370	Portland Police Bureau	Active	Civilian Employee
+Prouse, Lisa M.	27450	Portland Police Bureau	Active	Civilian Employee
 Harvey, Richard	27543	Portland Police Bureau	Active	Police Officer
 Harris, James A.	27566	Portland Police Bureau	Active	Detective
 Stainbrook, Richard A.	27833	Portland Police Bureau	Active	Lieutenant
@@ -20,6 +34,7 @@ Nilsen, Matthew J.	28174	Portland Police Bureau	Active	Sergeant
 Francis, Michael R.	28248	Portland Police Bureau	Active	Police Officer
 Ossenkop, Brian D.	28330	Portland Police Bureau	Active	Assistant Chief
 Hubert, Jason R.	28376	Portland Police Bureau	Active	Police Officer
+Pekson, Maria P.	28505	Portland Police Bureau	Active	Civilian Employee
 Marley, Thomas A.	28508	Portland Police Bureau	Active	Police Officer
 Simpson, Peter B.	28653	Portland Police Bureau	Active	Sergeant
 McCormick, David P.	28717	Portland Police Bureau	Active	Detective
@@ -29,7 +44,10 @@ Dorn, Jeffrey P.	29094	Portland Police Bureau	Active	Sergeant
 Habkirk, James B.	29192	Portland Police Bureau	Active	Police Officer
 Andrew, Rachel K.	29193	Portland Police Bureau	Active	Lieutenant
 Ottoman, Kerri L.	29213	Portland Police Bureau	Active	Police Officer
+Desanno, Dennis L.	29227	Portland Police Bureau	Active	Reserve Officer
 Morris, James J.	29314	Portland Police Bureau	Active	Sergeant
+Nakanishi, Jae Y.	29331	Portland Police Bureau	Active	Civilian Employee
+Ridenour, Michael T.	29332	Portland Police Bureau	Active	Civilian Employee
 Elias, Jeffrey E.	29338	Portland Police Bureau	Active	Police Officer
 Birkinbine, John C.	29351	Portland Police Bureau	Active	Sergeant
 Francis, Jason K.	29355	Portland Police Bureau	Active	Police Officer
@@ -37,10 +55,13 @@ Pahlke, Timothy D.	29378	Portland Police Bureau	Active	Police Officer
 Andrusko, Steven L.	29502	Portland Police Bureau	Active	Sergeant
 Pool, Michael E.	29520	Portland Police Bureau	Active	Sergeant
 Posey, Darren L.	29521	Portland Police Bureau	Active	Detective
+Lehman, Susan L.	29532	Portland Police Bureau	Active	Civilian Employee
+Esche, John H.	29535	Portland Police Bureau	Active	Civilian Employee
 Santos, Joseph P.	29573	Portland Police Bureau	Active	Sergeant
 Teats, Todd M.	29579	Portland Police Bureau	Active	Police Officer
 Felts, Kevin C.	29650	Portland Police Bureau	Active	Sergeant
 Albert, Steven G.	29707	Portland Police Bureau	Active	Police Officer
+Johnson, Joanne M.	29799	Portland Police Bureau	Active	Civilian Employee
 Robinson, Timothy K.	29814	Portland Police Bureau	Active	Commander
 Hurley, Erica L.	29900	Portland Police Bureau	Active	Commander
 Roberts, Cory R.	29901	Portland Police Bureau	Active	Sergeant
@@ -50,20 +71,28 @@ Engen, Matthew P.	29983	Portland Police Bureau	Active	Lieutenant
 Kammerer, Erik W.	29988	Portland Police Bureau	Active	Detective
 Shearer, Jeffrey G.	29992	Portland Police Bureau	Active	Criminalist
 Waddell, Cheryl M.	29997	Portland Police Bureau	Active	Detective
+Marks, Kandi L.	30396	Portland Police Bureau	Active	Civilian Employee
 Wiechmann, Frederick J.	30431	Portland Police Bureau	Active	Police Officer
 Prosser, Todd A.	30501	Portland Police Bureau	Active	Detective
 Martinez, Kathleen L.	30535	Portland Police Bureau	Active	Police Officer
+Garner, David W.	30600	Portland Police Bureau	Active	Civilian Employee
 Quick, Robert R.	30665	Portland Police Bureau	Active	Lieutenant
 Letter, Joshua M.	30867	Portland Police Bureau	Active	Police Officer
 Dauchy, Aaron M.	30873	Portland Police Bureau	Active	Police Officer
+Brant, Kristi R.	31135	Portland Police Bureau	Active	Civilian Employee
 Robertson, Scott T.	31290	Portland Police Bureau	Active	Police Officer
 Christopher, Andrew J.	31375	Portland Police Bureau	Active	Police Officer
 Maul, John J.	31386	Portland Police Bureau	Active	Police Officer
 Hansen, Robb C.	31459	Portland Police Bureau	Active	Lieutenant
 Singh, Parik G.	31724	Portland Police Bureau	Active	Police Officer
+Tuquero, Teresita S.	31787	Portland Police Bureau	Active	Civilian Employee
 Ladd, Joshua D.	31811	Portland Police Bureau	Active	Police Officer
+Miller, Matthew C.	31884	Portland Police Bureau	Active	Police Officer
+Gates, Kimberly J.	31892	Portland Police Bureau	Active	Civilian Employee
+Raabe, Anthony J.	31942	Portland Police Bureau	Active	Civilian Employee
 Abrahamson, Susan D.	31943	Portland Police Bureau	Active	Police Officer
 McGuire, Brendan P.	31951	Portland Police Bureau	Active	Detective
+Taylor, Deanna L.	31960	Portland Police Bureau	Active	Civilian Employee
 Hubbard, Brian D.	32024	Portland Police Bureau	Active	Detective
 Holbrook, Max J.	32026	Portland Police Bureau	Active	Sergeant
 Weber, Eric S.	32070	Portland Police Bureau	Active	Police Officer
@@ -77,9 +106,11 @@ Edwards, John M.	32391	Portland Police Bureau	Active	Sergeant
 Klundt, Karl J.	32398	Portland Police Bureau	Active	Police Officer
 Weldon, Carl T.	32413	Portland Police Bureau	Active	Sergeant
 Boman, Alan M.	32438	Portland Police Bureau	Active	Police Officer
+Routley, Robert T.	32448	Portland Police Bureau	Active	Civilian Employee
 Pontius, Jeffery D.	32530	Portland Police Bureau	Active	Detective
 Livingston, Don K., III	32588	Portland Police Bureau	Active	Sergeant
 Schell, Martin D.	32700	Portland Police Bureau	Active	Sergeant
+Wallostrauss, Terri J.	32706	Portland Police Bureau	Active	Civilian Employee
 Phothivongsa, Ney	32938	Portland Police Bureau	Active	Police Officer
 Harris, Sean W.	32992	Portland Police Bureau	Active	Detective
 Powell, Heather C.	33027	Portland Police Bureau	Active	Criminalist
@@ -90,11 +121,19 @@ Honl, Michael G.	33525	Portland Police Bureau	Active	Police Officer
 Gauger, Troy M.	33527	Portland Police Bureau	Active	Police Officer
 Carroll, Julian L.	33550	Portland Police Bureau	Active	Sergeant
 Schmerber, Michael A.	33711	Portland Police Bureau	Active	Detective
+Bloomster, Rebecca A.	33722	Portland Police Bureau	Active	Civilian Employee
+Hoodenpyl, Aymie E.	33727	Portland Police Bureau	Active	Civilian Employee
+Winslow, Sherry L.	33733	Portland Police Bureau	Active	Civilian Employee
 Enz, David H.	33849	Portland Police Bureau	Active	Police Officer
 Hogan, Kevin T.	33878	Portland Police Bureau	Active	Sergeant
 Cioeta, Jerry E.	33930	Portland Police Bureau	Active	Sergeant
 Gilbert, Christopher J.	34017	Portland Police Bureau	Active	Police Officer
+Alexander, Sharon K.	34292	Portland Police Bureau	Active	Civilian Employee
+Blanchard, Dawn R.	34300	Portland Police Bureau	Active	Civilian Employee
 Becker, Jeffrey S.	34352	Portland Police Bureau	Active	Detective
+Taylor, Peter Z.	34354	Portland Police Bureau	Active	Police Officer
+Nevala, Kathleen M.	34376	Portland Police Bureau	Active	Civilian Employee
+Rennebohm, Gary J.	34378	Portland Police Bureau	Active	Civilian Employee
 Winters, William H.	34381	Portland Police Bureau	Active	Detective
 Pahlke, Troy T.	34490	Portland Police Bureau	Active	Sergeant
 Duilio, Kenneth	34491	Portland Police Bureau	Active	Lieutenant
@@ -113,15 +152,19 @@ Maynard, Phillip J.	34675	Portland Police Bureau	Active	Police Officer
 Pryce, Jimmy L.	34677	Portland Police Bureau	Active	Police Officer
 Toops, Mary A.	34882	Portland Police Bureau	Active	Police Officer
 Porath, Ryan D.	34916	Portland Police Bureau	Active	Police Officer
+Wrigley, Nicole R.	35113	Portland Police Bureau	Active	Civilian Employee
 McIntyre, Bradley E.	35126	Portland Police Bureau	Active	Criminalist
 Gradwahl, Chad E.	35226	Portland Police Bureau	Active	Police Officer
 Merrill, Anthony J.	35227	Portland Police Bureau	Active	Detective
 Wolf, Jason M.	35396	Portland Police Bureau	Active	Sergeant
+Diaz, Belarmino C.	35403	Portland Police Bureau	Active	Civilian Employee
 Caspar, Andrew H.	35444	Portland Police Bureau	Active	Police Officer
 Macaulay, John A.	35563	Portland Police Bureau	Active	Police Officer
 Dobson, Craig N.	35609	Portland Police Bureau	Active	Commander
 Coffey, Ryan S.	35623	Portland Police Bureau	Active	Sergeant
 McDaniel, Jeffrey J.	35716	Portland Police Bureau	Active	Sergeant
+Rossetto, Catherine M.	35807	Portland Police Bureau	Active	Civilian Employee
+Quist, Amy S.	35808	Portland Police Bureau	Active	Civilian Employee
 Stoner, Chad M.	35816	Portland Police Bureau	Active	Criminalist
 Storm, Richard L.	35818	Portland Police Bureau	Active	Police Officer
 Miller, Herbert P.	35819	Portland Police Bureau	Active	Police Officer
@@ -133,6 +176,7 @@ Hill, Anthony R.	36236	Portland Police Bureau	Active	Police Officer
 Friedman, Mark D.	36237	Portland Police Bureau	Active	Sergeant
 Hopper, Meredith L.	36239	Portland Police Bureau	Active	Detective
 Jones, Michael K.	36240	Portland Police Bureau	Active	Detective
+Mathews, Stephanie D.	36263	Portland Police Bureau	Active	Civilian Employee
 Bolles, Cristin P.	36265	Portland Police Bureau	Active	Police Officer
 Traynor, Christopher M.	36266	Portland Police Bureau	Active	Detective
 Goss, Ryan W.	36267	Portland Police Bureau	Active	Detective
@@ -140,8 +184,14 @@ Olmos, Miguel J.	36271	Portland Police Bureau	Active	Police Officer
 Barber, Kristopher P.	36272	Portland Police Bureau	Active	Police Officer
 Ables, Jerry D.	36303	Portland Police Bureau	Active	Police Officer
 Brown, Robert E.	36496	Portland Police Bureau	Active	Sergeant
+Penner, Robert	36533	Portland Police Bureau	Active	Civilian Employee
+Amend, Michelle R.	36546	Portland Police Bureau	Active	Civilian Employee
+Eisner, Melody R.	36591	Portland Police Bureau	Active	Civilian Employee
 Fox, Sara M.	36612	Portland Police Bureau	Active	Police Officer
 Reagan, Ryan D.	36623	Portland Police Bureau	Active	Police Officer
+Wong, Richard K.	36683	Portland Police Bureau	Active	Civilian Employee
+Nelson, Andrea F.	36692	Portland Police Bureau	Active	Civilian Employee
+Chinn, Maki M.	36716	Portland Police Bureau	Active	Civilian Employee
 Schleich, Alison L.	36817	Portland Police Bureau	Active	Criminalist
 Hughes, Michele M.	36818	Portland Police Bureau	Active	Sergeant
 Tobey, Nathan A.	36819	Portland Police Bureau	Active	Detective
@@ -166,12 +216,18 @@ Macomber, Sean P.	37147	Portland Police Bureau	Active	Detective
 Manus, Kathryne E.	37151	Portland Police Bureau	Active	Detective
 Clifton, Brad E.	37152	Portland Police Bureau	Active	Detective
 Jacquot, Steven R.	37153	Portland Police Bureau	Active	Police Officer
+Brisky, Luther D.	37192	Portland Police Bureau	Active	Civilian Employee
+Barber, Alan L.	37193	Portland Police Bureau	Active	Civilian Employee
+Newberg, Robert F., Jr.	37194	Portland Police Bureau	Active	Civilian Employee
 Goodrich, Joseph R.	37240	Portland Police Bureau	Active	Police Officer
 Manzella, Timothy J.	37242	Portland Police Bureau	Active	Police Officer
 Alexander, Gail D.	37248	Portland Police Bureau	Active	Police Officer
 Reynolds, Kenneth J., III	37287	Portland Police Bureau	Active	Detective
+Nancarrow, Thomas L.	37308	Portland Police Bureau	Active	Civilian Employee
 Scott, Ross C.	37329	Portland Police Bureau	Active	Sergeant
+Buntrock, Marcelina M.	37333	Portland Police Bureau	Active	Civilian Employee
 Voeller, Nathan A.	37566	Portland Police Bureau	Active	Lieutenant
+Mack, Jennifer D.	37600	Portland Police Bureau	Active	Civilian Employee
 Taylor, Sarah L.	37607	Portland Police Bureau	Active	Sergeant
 Ho, Quency G.	37608	Portland Police Bureau	Active	Police Officer
 Dobbs, Sabrina R.	37618	Portland Police Bureau	Active	Police Officer
@@ -193,19 +249,31 @@ Bourasa, Stephan J.	38032	Portland Police Bureau	Active	Police Officer
 Pagan, Carlos E., Jr.	38061	Portland Police Bureau	Active	Police Officer
 Close, Michael A., Jr.	38094	Portland Police Bureau	Active	Police Officer
 Davidson, Benjamin J.	38108	Portland Police Bureau	Active	Police Officer
+Baggs, Julie M.	38178	Portland Police Bureau	Active	Civilian Employee
+Nordeen, Veronica L.	38179	Portland Police Bureau	Active	Civilian Employee
 Carmon, Derek L.	38197	Portland Police Bureau	Active	Police Officer
+Crampton, Christy L.	38263	Portland Police Bureau	Active	Civilian Employee
+Newton, Derek A.	38400	Portland Police Bureau	Active	Civilian Employee
 Miller, Robert D.	38512	Portland Police Bureau	Active	Police Officer
+Cammack, Jeffrey E.	38549	Portland Police Bureau	Active	Civilian Employee
 Strohmeyer, Erik D.	38637	Portland Police Bureau	Active	Sergeant
 Graf, Jason A.	38791	Portland Police Bureau	Active	Police Officer
+Paille, Christopher T.	38838	Portland Police Bureau	Active	Civilian Employee
 Feist, Andrew D.	38844	Portland Police Bureau	Active	Police Officer
 Morgan, Craig S.	38846	Portland Police Bureau	Active	Lieutenant
+Rees, Ryan C.	38874	Portland Police Bureau	Active	Civilian Employee
+Sage, Jamie L.	38875	Portland Police Bureau	Active	Civilian Employee
 Gjovik, Christopher N.	38946	Portland Police Bureau	Active	Captain
 McGuire, Jeffrey D.	38994	Portland Police Bureau	Active	Police Officer
 Pak, Curtis C.	38995	Portland Police Bureau	Active	Sergeant
 Bell, Jeffrey M.	38996	Portland Police Bureau	Active	Commander
 Leasure, Michael C.	38997	Portland Police Bureau	Active	Assistant Chief
 Wollstein, Harold N.	39011	Portland Police Bureau	Active	Detective
+Haman, Diane R.	39117	Portland Police Bureau	Active	Civilian Employee
+Farrell, Bryan M.	39235	Portland Police Bureau	Active	Reserve Officer
+Harding, Cheryl A.	39268	Portland Police Bureau	Active	Civilian Employee
 Rasmussen, David S.	39279	Portland Police Bureau	Active	Police Officer
+Schackart, Rebecca L.	39333	Portland Police Bureau	Active	Civilian Employee
 Hertzler, Gabri B.	39513	Portland Police Bureau	Active	Police Officer
 Abrahamson, David A.	39564	Portland Police Bureau	Active	Captain
 Kemple, David F.	39589	Portland Police Bureau	Active	Police Officer
@@ -220,6 +288,7 @@ Cox, Michael B.	39653	Portland Police Bureau	Active	Police Officer
 Harris, Leo J.	39655	Portland Police Bureau	Active	Police Officer
 Hawkinson, Brett S.	39657	Portland Police Bureau	Active	Detective
 Hilsenteger, Ryan A.	39660	Portland Police Bureau	Active	Police Officer
+Pleune, Patricia L.	39707	Portland Police Bureau	Active	Civilian Employee
 Labasan, Benjamin A.	39828	Portland Police Bureau	Active	Police Officer
 Gervais, Craig P.	39875	Portland Police Bureau	Active	Police Officer
 Sweeney, Brian	39876	Portland Police Bureau	Active	Sergeant
@@ -241,8 +310,11 @@ Cavalli, Anthony P.	40614	Portland Police Bureau	Active	Detective
 McCollister, Scott R.	40709	Portland Police Bureau	Active	Police Officer
 Musser, Jennifer M.	40710	Portland Police Bureau	Active	Detective
 Kulp, Christopher B.	40730	Portland Police Bureau	Active	Police Officer
+Fleury, Philip A.	40786	Portland Police Bureau	Active	Reserve Officer
+Duddington, Walter L.	40787	Portland Police Bureau	Active	Reserve Officer
 Wolf, Kevin J.	40799	Portland Police Bureau	Active	Sergeant
 Akom, Marshall K.	40835	Portland Police Bureau	Active	Police Officer
+Castaneda, Randy	40925	Portland Police Bureau	Active	Police Officer
 Clary, Justin L.	40926	Portland Police Bureau	Active	Police Officer
 Frashour, Ronald G., III	40927	Portland Police Bureau	Active	Police Officer
 Kofoed, Andrew R.	40928	Portland Police Bureau	Active	Sergeant
@@ -276,6 +348,7 @@ Jones, Kristina M.	41759	Portland Police Bureau	Active	Commander
 Forland, Steven J.	41761	Portland Police Bureau	Active	Detective
 Helzer, Peter D.	41782	Portland Police Bureau	Active	Lieutenant
 Corona, Joseph R.	41783	Portland Police Bureau	Active	Detective
+Shaw, Lisa E.	41798	Portland Police Bureau	Active	Civilian Employee
 Dickinson, Douglas J.	41829	Portland Police Bureau	Active	Detective
 Schoening, Franz J.	41832	Portland Police Bureau	Active	Lieutenant
 Snitily, Thomas A.	42016	Portland Police Bureau	Active	Police Officer
@@ -309,10 +382,12 @@ Kraner, Joshua M.	43496	Portland Police Bureau	Active	Sergeant
 Berg, Walker R.	43499	Portland Police Bureau	Active	Criminalist
 Clark, Jacob R.	43501	Portland Police Bureau	Active	Lieutenant
 Engstrom, Ty D.	43502	Portland Police Bureau	Active	Sergeant
+Combs, Branden L.	43503	Portland Police Bureau	Active	Police Officer
 Sharpe, Joseph H.	43527	Portland Police Bureau	Active	Police Officer
 Staples, Norman A.	43528	Portland Police Bureau	Active	Lieutenant
 Greulich, Caroline E.	43618	Portland Police Bureau	Active	Detective
 Oliphant, John W.	43732	Portland Police Bureau	Active	Sergeant
+Marshall, Tracie M.	43778	Portland Police Bureau	Active	Civilian Employee
 Burton, Bret A.	43860	Portland Police Bureau	Active	Sergeant
 Butcher, Kristine M.	43866	Portland Police Bureau	Active	Sergeant
 Nguyen, Cuong D.	43867	Portland Police Bureau	Active	Police Officer
@@ -325,11 +400,16 @@ Richardson, Jonathan E.	44124	Portland Police Bureau	Active	Detective
 Billard, John P.	44160	Portland Police Bureau	Active	Sergeant
 Murphy, Patrick M.	44162	Portland Police Bureau	Active	Police Officer
 Tackett, Todd A.	44164	Portland Police Bureau	Active	Sergeant
+Marti, Christopher M.	44195	Portland Police Bureau	Active	Civilian Employee
 Young, John S.	44217	Portland Police Bureau	Active	Police Officer
+Ruby, Jason M.	44279	Portland Police Bureau	Active	Civilian Employee
 DeFrain, James P.	44436	Portland Police Bureau	Active	Sergeant
 Fleming, James D.	44437	Portland Police Bureau	Active	Police Officer
 Kenney, Zachary J.	44439	Portland Police Bureau	Active	Police Officer
 Orellana, Mitchell J.	44440	Portland Police Bureau	Active	Detective
+Verbout, Christopher L.	44441	Portland Police Bureau	Active	Police Officer
+DelGizzi, Robert M.	44567	Portland Police Bureau	Active	Civilian Employee
+Simmons, April F.	44568	Portland Police Bureau	Active	Civilian Employee
 Schmautz, Aaron M.	44627	Portland Police Bureau	Active	Sergeant
 Webber, Joseph F.	44629	Portland Police Bureau	Active	Police Officer
 Worthington, Jason A.	44630	Portland Police Bureau	Active	Police Officer
@@ -337,10 +417,15 @@ Bruner-Dehnert, Amy L.	44735	Portland Police Bureau	Active	Police Officer
 Stowe, Randy D.	44844	Portland Police Bureau	Active	Police Officer
 Allen, Kevin W.	45001	Portland Police Bureau	Active	Sergeant
 Ciri, Jeffrey T.	45002	Portland Police Bureau	Active	Police Officer
+Gittlen, Jacob M.	45022	Portland Police Bureau	Active	Civilian Employee
+Romine, Stephanie L.	45023	Portland Police Bureau	Active	Civilian Employee
+Santos, Justin M.	45024	Portland Police Bureau	Active	Civilian Employee
 Hughes, John K.	45063	Portland Police Bureau	Active	Police Officer
+Kephart, Stephen M.	45102	Portland Police Bureau	Active	Reserve Officer
 Bren, Ryan J.	45124	Portland Police Bureau	Active	Sergeant
 Hubbard, Kimberly M.	45126	Portland Police Bureau	Active	Sergeant
 Sorenson, Monica D.	45180	Portland Police Bureau	Active	Police Officer
+Lackey, Emma M.	45385	Portland Police Bureau	Active	Civilian Employee
 McAllister, Matthew A.	45405	Portland Police Bureau	Active	Police Officer
 Sparling, Aaron A.	45515	Portland Police Bureau	Active	Police Officer
 Stenzel, Cory W.	45663	Portland Police Bureau	Active	Detective
@@ -349,12 +434,18 @@ Hamm, Wendi L.	45681	Portland Police Bureau	Active	Detective
 Watts, Nola	45768	Portland Police Bureau	Active	Police Officer
 Dunbar, William M.	45769	Portland Police Bureau	Active	Police Officer
 Edner, Zachary L.	45770	Portland Police Bureau	Active	Police Officer
+Linebarger, Debbi J.	45791	Portland Police Bureau	Active	Civilian Employee
+Roehrig, Lee M.	45792	Portland Police Bureau	Active	Civilian Employee
+Erspamer, Barbara J.	45864	Portland Police Bureau	Active	Civilian Employee
 Farrar, Sterling R.	45895	Portland Police Bureau	Active	Police Officer
 Pierce, Jennifer L.	45896	Portland Police Bureau	Active	Detective
 Nutting, Bradley J.	45920	Portland Police Bureau	Active	Sergeant
+Scott, Constance M.	45922	Portland Police Bureau	Active	Civilian Employee
 Ellis, Mark R.	45974	Portland Police Bureau	Active	Police Officer
 Burley, Christopher H.	45975	Portland Police Bureau	Active	Lieutenant
 Tully, Kevin F.	45976	Portland Police Bureau	Active	Police Officer
+Fitch, Catharine L.	45985	Portland Police Bureau	Active	Civilian Employee
+Galbreath, Andrew C.	46048	Portland Police Bureau	Active	Civilian Employee
 Andersen, Craig L.	46055	Portland Police Bureau	Active	Sergeant
 Jakubauskas, Gedemynas J.	46056	Portland Police Bureau	Active	Criminalist
 Asheim, Charles B.	46067	Portland Police Bureau	Active	Detective
@@ -362,27 +453,35 @@ Jett, Bradley J.	46121	Portland Police Bureau	Active	Police Officer
 Snodgrass, Clinton D.	46160	Portland Police Bureau	Active	Police Officer
 Addicks, Christoph	46310	Portland Police Bureau	Active	Police Officer
 Garrison, Ty K.	46311	Portland Police Bureau	Active	Police Officer
+Leeper, Teresa L.	46361	Portland Police Bureau	Active	Civilian Employee
 Curtiss, Royce G.	46427	Portland Police Bureau	Active	Police Officer
 Mawdsley, Patrick S.	46428	Portland Police Bureau	Active	Sergeant
 Clark, Bradley N.	46430	Portland Police Bureau	Active	Police Officer
 Mendoza, Jorge R.	46431	Portland Police Bureau	Active	Police Officer
 Walsh, Roger M.	46434	Portland Police Bureau	Active	Police Officer
+Knodel, Jimmie	46506	Portland Police Bureau	Active	Civilian Employee
+Lewis, Clyde	46507	Portland Police Bureau	Active	Civilian Employee
 Piombo, Mark M.	46529	Portland Police Bureau	Active	Police Officer
 Sheppard, Nathan A.	46619	Portland Police Bureau	Active	Lieutenant
 Williams, DeShawn D.	46620	Portland Police Bureau	Active	Police Officer
 Kizzar, Jonathan D.	46622	Portland Police Bureau	Active	Police Officer
 Romero, John M.	46623	Portland Police Bureau	Active	Sergeant
 Miller, Randi K.	46625	Portland Police Bureau	Active	Police Officer
+Barnett, Leann L.	46727	Portland Police Bureau	Active	Civilian Employee
 Kennedy, Nicole K.	46938	Portland Police Bureau	Active	Police Officer
 Haunsperger, Natasha B.	46939	Portland Police Bureau	Active	Police Officer
 Wilbon, Steven D.	46941	Portland Police Bureau	Active	Sergeant
+Bradshaw, Tessra L.	47028	Portland Police Bureau	Active	Civilian Employee
+Estes, Tyson M.	47060	Portland Police Bureau	Active	Civilian Employee
 Burns, Justin L.	47103	Portland Police Bureau	Active	Police Officer
 McDonald, Christopher M.	47104	Portland Police Bureau	Active	Police Officer
 Willard, Tyrone D.	47105	Portland Police Bureau	Active	Sergeant
 Tobey, Matthew A.	47109	Portland Police Bureau	Active	Police Officer
 Bryant, David J.	47224	Portland Police Bureau	Active	Police Officer
 Wells, Cassandra M.	47315	Portland Police Bureau	Active	Police Officer
+Sorensen, Joella A.	47355	Portland Police Bureau	Active	Civilian Employee
 Schull, Wayne D.	47433	Portland Police Bureau	Active	Police Officer
+Summerson, Michael G.	47555	Portland Police Bureau	Active	Civilian Employee
 Goldring, Calvin L.	47562	Portland Police Bureau	Active	Detective
 Tuma, Christina J.	47651	Portland Police Bureau	Active	Sergeant
 Harris, Derek A.	47653	Portland Police Bureau	Active	Police Officer
@@ -393,25 +492,35 @@ Hettman, Casey A.	47718	Portland Police Bureau	Active	Lieutenant
 Mills, Jason E.	47777	Portland Police Bureau	Active	Police Officer
 Anderson, Jeremy W.	47781	Portland Police Bureau	Active	Police Officer
 Jackson, David	47782	Portland Police Bureau	Active	Sergeant
+Akre, Michelle D.	47820	Portland Police Bureau	Active	Civilian Employee
 Buller, Joshua E.	47824	Portland Police Bureau	Active	Police Officer
 Schroeder, Matthew J.	47848	Portland Police Bureau	Active	Police Officer
 Fox, Kenneth S.	47852	Portland Police Bureau	Active	Police Officer
 Roberts, Michael D.	47891	Portland Police Bureau	Active	Sergeant
 Dunbar, Robin L.	47968	Portland Police Bureau	Active	Sergeant
+Vanblokland, Elaine O.	48006	Portland Police Bureau	Active	Civilian Employee
+Ungard, Maria	48012	Portland Police Bureau	Active	Civilian Employee
+Morales, Evalyn D.	48015	Portland Police Bureau	Active	Civilian Employee
 Sparks, Joshua L.	48052	Portland Police Bureau	Active	Police Officer
+Wilson, Michael W.	48103	Portland Police Bureau	Active	Civilian Employee
 Yakots, Stephen B.	48158	Portland Police Bureau	Active	Sergeant
 Kerwin, Sarah A.	48163	Portland Police Bureau	Active	Sergeant
 Engstrom, Timothy G.	48254	Portland Police Bureau	Active	Police Officer
 Thurman, Justin A.	48255	Portland Police Bureau	Active	Police Officer
 Thurman, Tequila C.	48256	Portland Police Bureau	Active	Police Officer
+Murray, Sean L.	48311	Portland Police Bureau	Active	Civilian Employee
 Byrd, McCageor A.	48348	Portland Police Bureau	Active	Police Officer
+Gerritsen, Elizabeth J.	48390	Portland Police Bureau	Active	Civilian Employee
 Jackson, Freddie J.	48392	Portland Police Bureau	Active	Sergeant
 Straub, Jason	48469	Portland Police Bureau	Active	Police Officer
 Kays, Angela M.	48472	Portland Police Bureau	Active	Police Officer
+Karter, Lucy P.	48506	Portland Police Bureau	Active	Civilian Employee
 Browning, David S.	48554	Portland Police Bureau	Active	Police Officer
+McCall, Angela Y.	48662	Portland Police Bureau	Active	Civilian Employee
 Espana, Ryan L.	48728	Portland Police Bureau	Active	Police Officer
 Greulich, Charles F.	48742	Portland Police Bureau	Active	Sergeant
 Carlson, Allison J.	48743	Portland Police Bureau	Active	Police Officer
+Kotsovos, Nicole G.	48823	Portland Police Bureau	Active	Civilian Employee
 McFarland, Sean M.	48914	Portland Police Bureau	Active	Police Officer
 Johnson, Patrick R.	49069	Portland Police Bureau	Active	Police Officer
 Barnard, Daniel F.	49119	Portland Police Bureau	Active	Sergeant
@@ -461,6 +570,7 @@ Silverman, Joshua E.	50814	Portland Police Bureau	Active	Sergeant
 Quinsland, Alexander P.	50817	Portland Police Bureau	Active	Police Officer
 Kamphuis, Kendall D.	50822	Portland Police Bureau	Active	Police Officer
 Hefley, Kyle C.	50837	Portland Police Bureau	Active	Sergeant
+Kirby, John J.	50870	Portland Police Bureau	Active	Reserve Officer
 Jacobsen, Matthew B.	50933	Portland Police Bureau	Active	Sergeant
 Hearst, Andrew L.	50996	Portland Police Bureau	Active	Police Officer
 Stoffel, Thomas B., Jr.	51020	Portland Police Bureau	Active	Criminalist
@@ -468,6 +578,7 @@ Ramic, Adi	51049	Portland Police Bureau	Active	Police Officer
 Flippo, Zachary R.	51054	Portland Police Bureau	Active	Police Officer
 Lehman, Craig F.	51073	Portland Police Bureau	Active	Police Officer
 Shelton, Hayley A.	51155	Portland Police Bureau	Active	Police Officer
+Spangler, Brooks A.	51194	Portland Police Bureau	Active	Reserve Officer
 Barth, Dustin L.	51204	Portland Police Bureau	Active	Police Officer
 Bryson, Chase N.	51225	Portland Police Bureau	Active	Police Officer
 Winter, Justin M.	51228	Portland Police Bureau	Active	Police Officer
@@ -475,6 +586,7 @@ Hoerauf, Timothy N.	51230	Portland Police Bureau	Active	Police Officer
 Budey, Grigoriy I.	51248	Portland Police Bureau	Active	Police Officer
 Taylor, Brent M.	51250	Portland Police Bureau	Active	Police Officer
 Harrison, Jimmy L., Jr.	51269	Portland Police Bureau	Active	Police Officer
+Povey, Nicholas B.	51553	Portland Police Bureau	Active	Reserve Officer
 Samora, Shaye L.	51733	Portland Police Bureau	Active	Detective
 Perry, Spencer K.	51736	Portland Police Bureau	Active	Police Officer
 Hornstein, Betsy L.	51737	Portland Police Bureau	Active	Police Officer
@@ -495,6 +607,7 @@ Hall, Michael R.	52025	Portland Police Bureau	Active	Police Officer
 Sherwood, Michael B.	52117	Portland Police Bureau	Active	Police Officer
 Ortiz, Joana	52120	Portland Police Bureau	Active	Sergeant
 Honl, Caleb M.	52153	Portland Police Bureau	Active	Police Officer
+Harris, Benjamin D.	52171	Portland Police Bureau	Active	Detective
 Green, William D.	52227	Portland Police Bureau	Active	Police Officer
 Harding, David N.	52228	Portland Police Bureau	Active	Police Officer
 Larsen, Timothy B.	52250	Portland Police Bureau	Active	Police Officer
@@ -529,6 +642,8 @@ Brooks, David M.	52787	Portland Police Bureau	Active	Police Officer
 Jimenez, Jose J.	52792	Portland Police Bureau	Active	Police Officer
 Lemke, Jena L.	52801	Portland Police Bureau	Active	Police Officer
 Hallington, Chase R.	52803	Portland Police Bureau	Active	Police Officer
+Schmidt, Eric J.	52804	Portland Police Bureau	Active	Reserve Officer
+Hughes, David E.	52811	Portland Police Bureau	Active	Reserve Officer
 Marrs, Colby C.	52826	Portland Police Bureau	Active	Police Officer
 Brown, Matthew W.	52831	Portland Police Bureau	Active	Detective
 Paolini, Timothy L.	52833	Portland Police Bureau	Active	Police Officer
@@ -540,6 +655,7 @@ Amos, DeAndre D.	52982	Portland Police Bureau	Active	Sergeant
 Warren, Lia S.	53098	Portland Police Bureau	Active	Police Officer
 Bernard, Joseph M.	53468	Portland Police Bureau	Active	Police Officer
 Hristova, Heidi S.	53470	Portland Police Bureau	Active	Police Officer
+Shoen, Paul W.	53473	Portland Police Bureau	Active	Reserve Officer
 Dery, Joshua O.	53614	Portland Police Bureau	Active	Police Officer
 Robinson, Grover, Jr.	53905	Portland Police Bureau	Active	Sergeant
 Hill, Israel Q.	53907	Portland Police Bureau	Active	Sergeant
@@ -548,6 +664,8 @@ Streed, Torrey R.	54282	Portland Police Bureau	Active	Detective
 Gilbertson, David A., Jr.	54334	Portland Police Bureau	Active	Police Officer
 Flores-Chambers, Seth E.	54378	Portland Police Bureau	Active	Sergeant
 Walz, Allison C.	54454	Portland Police Bureau	Active	Police Officer
+Ruiz, Michael A.	54568	Portland Police Bureau	Active	Reserve Officer
+Wolz, Deborah I.	54680	Portland Police Bureau	Active	Reserve Officer
 Morgan, Kristin M.	54711	Portland Police Bureau	Active	Police Officer
 Lauritzon, Dustin J.	54740	Portland Police Bureau	Active	Police Officer
 Ianos, Jonathan V.	54874	Portland Police Bureau	Active	Police Officer
@@ -581,6 +699,7 @@ Yoo, Joey G.	56628	Portland Police Bureau	Active	Police Officer
 Kirby-Glatkowski, Nathan L.	56629	Portland Police Bureau	Active	Police Officer
 Rizzo, Aaron T.	56653	Portland Police Bureau	Active	Police Officer
 Holmgren, Michael K.	56694	Portland Police Bureau	Active	Police Officer
+Spencer, Lucas S.	56710	Portland Police Bureau	Active	Police Officer
 Bartlett, John H.	56711	Portland Police Bureau	Active	Police Officer
 Giles, Timothy R.	56758	Portland Police Bureau	Active	Police Officer
 Ramsey, Jake M.	56803	Portland Police Bureau	Active	Police Officer
@@ -633,6 +752,7 @@ Wheeler, Brian H.	57813	Portland Police Bureau	Active	Police Officer
 Lyons, Clifton B.	57831	Portland Police Bureau	Active	Police Officer
 Petty, Michelle E.	58008	Portland Police Bureau	Active	Police Officer
 Shelton, William C.	58009	Portland Police Bureau	Active	Police Officer
+Patan, Ioan A.	58019	Portland Police Bureau	Active	Reserve Officer
 Kuntz, Cody J.	58045	Portland Police Bureau	Active	Police Officer
 Burns, Sarah C.	58108	Portland Police Bureau	Active	Police Officer
 Iverson, Veronica K.	58109	Portland Police Bureau	Active	Police Officer
@@ -765,3 +885,7 @@ Salazar-Kachel, David A.	62451	Portland Police Bureau	Active	Police Officer
 Guevara, Rolando	62452	Portland Police Bureau	Active	Police Officer
 Hamilton, Madison S.	62522	Portland Police Bureau	Active	Police Officer
 Zook, Hunter W.	62591	Portland Police Bureau	Active	Police Officer
+Ezell, Christopher D.	62597	Portland Police Bureau	Active	Police Officer
+Nguyen, Vu D.	62665	Portland Police Bureau	Active	Police Officer
+LeSollen, Wendy A.	62762	Portland Police Bureau	Active	Police Officer
+Gullberg, Landen T.	62779	Portland Police Bureau	Active	Police Officer

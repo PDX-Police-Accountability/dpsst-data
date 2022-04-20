@@ -1,0 +1,57 @@
+---
+:header_record:
+  :name: Santos, Justin M.
+  :dpsst_identifier: '45024'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 11/4/2004
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 11/6/2019
+  :course: PDP31306
+  :title: Adobe MAX 2019 Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '19.50'
+- :date: 5/3/2018
+  :course: PDP12642
+  :title: PERF and ICAT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.50'
+- :date: 4/21/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/28/2008
+  :course: '08-0711'
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/31/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/13/2007
+  :course: 07-0952
+  :title: CPR / First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records: []
+:education_records: []

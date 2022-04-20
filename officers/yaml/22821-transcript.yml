@@ -1,0 +1,1287 @@
+---
+:header_record:
+  :name: Rendsland, Kimberly A.
+  :dpsst_identifier: '22821'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 10/7/2020
+  :agency: Beaverton Police Department
+  :action: Inactive
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 3/20/1990
+  :agency: Beaverton Police Department
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 9/24/1989
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 6/10/1989
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 2/2/2021
+  :course: BVP23816
+  :title: OSHA COVID-19 Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/23/2020
+  :course: BVP42305
+  :title: Valuing Diversity
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/6/2020
+  :course: BVP33208
+  :title: Maintaining a Drug-Free Workplace
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/6/2020
+  :course: BVP10487
+  :title: Unconscious Bias
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/6/2020
+  :course: BVP15225
+  :title: Preventing Descrimination  Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/14/2018
+  :course: BVP21051
+  :title: Peer Support/ Mental Health Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 6/19/2018
+  :course: F6B16647
+  :title: Leading with Equity
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/18/2018
+  :course: F6B19246
+  :title: Project Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 1/18/2018
+  :course: F6D26813
+  :title: Line of Duty Death Response Team Command
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/7/2017
+  :course: BVP05814
+  :title: Advanced Group Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 10/25/2017
+  :course: F6A09541
+  :title: First Line Supervision
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/3/2017
+  :course: BVP19101
+  :title: Property Procedures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/17/2017
+  :course: F6A05047
+  :title: Supervisor Harassment/Equal Employment Opportunity
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/2/2017
+  :course: BVP05355
+  :title: Property Procedures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/11/2016
+  :course: BVP05923
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/5/2015
+  :course: 15-0600
+  :title: Versadex Software Applications
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/5/2014
+  :course: 14-0777
+  :title: Property Procedures
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/17/2014
+  :course: 14-0911
+  :title: Customer Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/20/2013
+  :course: 13-0436
+  :title: Communication for Leaders
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/17/2013
+  :course: 13-1276
+  :title: Evidence / Property Management
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/21/2013
+  :course: 13-0983
+  :title: Crisis Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/2/2011
+  :course: 11-0934
+  :title: FBI Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 9/13/2011
+  :course: 11-0129
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/21/2011
+  :course: 11-0808
+  :title: Fraud Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/10/2010
+  :course: 10-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/29/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/11/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/21/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/16/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/28/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/4/2009
+  :course: '09-0388'
+  :title: ICS 100 / IS 100 - Introduction to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/20/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/9/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/15/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/16/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/9/2009
+  :course: '09-0551'
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/10/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/4/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/16/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/2/2009
+  :course: '09-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/22/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/12/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/10/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/23/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/14/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/19/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/8/2008
+  :course: '08-0551'
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/7/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/6/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/16/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/20/2008
+  :course: '08-0551'
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/30/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/29/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/13/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/6/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/29/2008
+  :course: '08-0551'
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/29/2008
+  :course: '08-0551'
+  :title: Agency Pre-Basic Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/21/2008
+  :course: '08-1274'
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/12/2008
+  :course: '08-0711'
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/8/2008
+  :course: '08-0711'
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/6/2008
+  :course: '08-0711'
+  :title: Computer Training - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/13/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/7/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/23/2007
+  :course: 07-0551
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/29/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/26/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/26/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/5/2007
+  :course: 07-0551
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/28/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/30/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/16/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/10/2007
+  :course: 07-0904
+  :title: DPSST Revocation / Ethics Bulletin Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/17/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/27/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/21/2007
+  :course: 07-0551
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/21/2007
+  :course: 07-0551
+  :title: Agency Pre-Basic Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/31/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/22/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/10/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/19/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/22/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/14/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/5/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/15/2007
+  :course: 07-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/29/2006
+  :course: 06-2726
+  :title: Agency Pre-Basic Academy
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/29/2006
+  :course: 06-2726
+  :title: Agency Pre-Basic Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/22/2006
+  :course: 06-2643
+  :title: Canvassing Form
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/13/2006
+  :course: 06-1110
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/4/2006
+  :course: 06-1420
+  :title: Vehicle Theft Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 11/29/2006
+  :course: 06-2616
+  :title: Clone Vehicles Smuggling
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 11/27/2006
+  :course: 06-2612
+  :title: Vehicle Cover Ballistics Test
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 11/14/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/8/2006
+  :course: 06-1112
+  :title: Ethics Bulletin
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 11/7/2006
+  :course: 06-1439
+  :title: Jail Procedure
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 10/10/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/9/2006
+  :course: 06-0322
+  :title: K-9
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 9/14/2006
+  :course: 06-1688
+  :title: Juggalos Bulletin
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 9/13/2006
+  :course: 06-1690
+  :title: Insane Clown Posse
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 9/12/2006
+  :course: 06-0337
+  :title: Property  Evidence Management
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/1/2006
+  :course: 06-1649
+  :title: Crystal Meth Look Alike
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 9/1/2006
+  :course: 06-1696
+  :title: Social Security Analysis
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 8/24/2006
+  :course: 06-1110
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 8/9/2006
+  :course: 06-1112
+  :title: Ethics Bulletin
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 7/31/2006
+  :course: 06-1110
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 7/20/2006
+  :course: 06-0544
+  :title: Community Policing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 7/14/2006
+  :course: 06-0170
+  :title: Recruit Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/14/2006
+  :course: 06-1492
+  :title: Officer Responsibilities at Hospital
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 6/29/2006
+  :course: 06-1454
+  :title: Victim Support Person
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 6/20/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/6/2006
+  :course: 06-0753
+  :title: Prisoner Property Inventory
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 5/19/2006
+  :course: 06-1110
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 5/18/2006
+  :course: 06-1110
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 5/9/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/26/2006
+  :course: 06-1112
+  :title: Ethics Bulletin
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 4/13/2006
+  :course: 06-0762
+  :title: Police Officer Holds
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 4/11/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/10/2006
+  :course: 06-0308
+  :title: Impeach of a Witness in Muni
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 4/7/2006
+  :course: 06-0455
+  :title: Search  Seizure
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 4/7/2006
+  :course: 06-0170
+  :title: Recruit Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/28/2006
+  :course: 06-0554
+  :title: Hybrid Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 3/17/2006
+  :course: 06-1113
+  :title: DPSST Ethics Bulletin vol 29
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 3/16/2006
+  :course: 06-0499
+  :title: Mobile Crisis Team
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 3/14/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/22/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/22/2006
+  :course: 06-0334
+  :title: Property and Evidence Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/10/2006
+  :course: 06-0170
+  :title: Recruit Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/10/2006
+  :course: 06-0170
+  :title: Recruit Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/9/2006
+  :course: 06-0242
+  :title: Giving Briefings and Presentation
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/30/2005
+  :course: 05-2114
+  :title: Handling Evidence  Property
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/29/2005
+  :course: 05-2071
+  :title: Arrest  Apprehension
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/29/2005
+  :course: 05-2072
+  :title: Arrest  Apprehension Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/29/2005
+  :course: 05-2073
+  :title: Arrest  Apprehension Part 3
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/29/2005
+  :course: 05-2074
+  :title: Arrest  Apprehension Part 4
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/22/2005
+  :course: 05-1967
+  :title: Traffic Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/21/2005
+  :course: 05-2203
+  :title: Missing Persons
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/21/2005
+  :course: 05-2439
+  :title: Reports  Records
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/16/2005
+  :course: 05-0506
+  :title: Forensic Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 12/13/2005
+  :course: 05-1640
+  :title: Officer Survival
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/13/2005
+  :course: 05-0814
+  :title: Taser Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/8/2005
+  :course: 05-2017
+  :title: Traffic Control  Crash Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 12/8/2005
+  :course: 05-2532
+  :title: Handgun Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 11/21/2005
+  :course: 05-1904
+  :title: LEDS
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 11/21/2005
+  :course: 05-2518
+  :title: Metro Explosive Disposal Unit
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 9/20/2005
+  :course: 05-2080
+  :title: Contact w/People who are Deaf
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 9/13/2005
+  :course: 05-0789
+  :title: Firearms - Shotgun Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 9/8/2005
+  :course: 05-1450
+  :title: ICE In Case of Emergency
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 8/16/2005
+  :course: 05-0478
+  :title: Recruit Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/28/2005
+  :course: 05-1855
+  :title: Juvenile Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.30'
+- :date: 6/3/2005
+  :course: 05-0642
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/24/2005
+  :course: 05-0993
+  :title: After Hours Drop off Stray Animal
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/20/2005
+  :course: 05-1140
+  :title: Probation Violation Arrests
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/9/2005
+  :course: 05-1002
+  :title: Traffic Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/15/2005
+  :course: 05-0478
+  :title: Recruit Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/15/2005
+  :course: 05-0478
+  :title: Recruit Orientation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/4/2005
+  :course: 05-0073
+  :title: Identity Theft
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/15/2005
+  :course: 05-0255
+  :title: Use of Private Vehicle On Duty
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/10/2005
+  :course: 05-0454
+  :title: Property Room Management Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/10/2004
+  :course: 04-4920
+  :title: 'Cultural Awareness #2 Sikhism/Sikhs'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/10/2004
+  :course: 04-4919
+  :title: 'Cultural Awareness #1 Arabs/Muslims'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/6/2004
+  :course: 04-4898
+  :title: DMV Traffic Newsletter - October 2004
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/6/2004
+  :course: 04-4949
+  :title: 'DPSST Ethics Bulletin #17'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/6/2004
+  :course: 04-3106
+  :title: Guidance-Initial Resp.To Suspicious Ltr/Containers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/27/2004
+  :course: 04-4484
+  :title: 'DPSST Ethics Bulletin #18'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/21/2004
+  :course: 04-4554
+  :title: 'INS Warrants: Admin.Warrant vs Criminal Warrant'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/20/2004
+  :course: 04-4562
+  :title: Changes in Fed. Law Relating to Weapons - 9/2004
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/9/2004
+  :course: 04-4561
+  :title: Laws Re:Electric Bikes,Mopeds  Motorized Scooters
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/4/2004
+  :course: 04-4399
+  :title: 'DPSST Ethics Bulletin #15'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/3/2004
+  :course: 04-4247
+  :title: International Driving Permits
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/11/2004
+  :course: 04-4180
+  :title: DMV Traffic Newsletter - July 2004
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/9/2004
+  :course: 04-4303
+  :title: Sex Offender Compliance
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/7/2004
+  :course: 04-4398
+  :title: 'DPSST Ethics Bulletin #14'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/14/2004
+  :course: 04-4115
+  :title: Suicide Bereavement Support
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/13/2004
+  :course: 04-4213
+  :title: 'School Zone Update: New Rules Effect. July1, ''04'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/6/2004
+  :course: 04-4159
+  :title: Gang Member Assaults on Law Enforcement Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/30/2004
+  :course: 04-4081
+  :title: Tri-Met New Codes  Enforcement Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/30/2004
+  :course: 04-4397
+  :title: 'DPSST Ethics Bulletin #13'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/20/2004
+  :course: 04-0762
+  :title: Leadership, Admin. Planning  Budgeting
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/18/2004
+  :course: 04-3052
+  :title: Theft of Profiles During a Burglary:Growing Trend
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/29/2004
+  :course: 04-3022
+  :title: Traffic Law Updates 2004
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/20/2004
+  :course: 04-1089
+  :title: HIPPA Privacy Rule Fact Sheet
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/7/2004
+  :course: 04-0353
+  :title: DPSST Certification Workshop
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/5/2004
+  :course: 04-2083
+  :title: DMV Traffic Newsletter - April 2004
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/2/2004
+  :course: 04-3096
+  :title: Terrorism - 7 Signs  Signals
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/3/2004
+  :course: 04-0802
+  :title: Beaverton Dispute Resolution Center
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/20/2004
+  :course: 04-0136
+  :title: First Aid/Adult CPR
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 2/2/2004
+  :course: 04-0659
+  :title: 'DPSST Ethics Bulletin #10'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/23/2004
+  :course: 04-0235
+  :title: Police Response - Fire/AED Calls
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/15/2004
+  :course: 04-0066
+  :title: Trespass Agreeement Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/12/2004
+  :course: 04-0267
+  :title: DMV Traffic Newsletter - Jan. 2004
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/8/2004
+  :course: 04-0288
+  :title: Robbery I vs Robbery II At Trial
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 12/17/2003
+  :course: 03U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '35.50'
+- :date: 12/23/2002
+  :course: 02U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 7/26/2002
+  :course: 02CP882
+  :title: DPSST Certification and Records Workshop
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 3/6/2002
+  :course: 02J11
+  :title: Tactical Communications
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/31/2001
+  :course: 01U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.70'
+- :date: 12/20/2000
+  :course: 00U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '23.50'
+- :date: 7/25/2000
+  :course: 00P501
+  :title: DPSST Training Manager Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/29/1999
+  :course: 99U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '43.00'
+- :date: 12/18/1998
+  :course: 98U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '25.00'
+- :date: 11/6/1997
+  :course: 97U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.00'
+- :date: 4/23/1997
+  :course: 97P253
+  :title: BPSST STANDARDS  CERTIFICATION PROCEDUR
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/16/1996
+  :course: 96U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.00'
+- :date: 12/28/1995
+  :course: 95U001
+  :title: Approved In-State Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '56.00'
+- :date: 9/14/1995
+  :course: 95P051
+  :title: 10TH ANNUAL COMPUTER TECH  CRIME ANALYS
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 1/30/1992
+  :course: 92J042
+  :title: ZEBRA STICKER LAWS/IMPLIED CONSENT LAWS
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 1/15/1992
+  :course: 92K022
+  :title: FIRST AID/CPR
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/14/1990
+  :course: '909038'
+  :title: OUCR TRAINING EXERCISE
+  :status: Passed
+  :score: '0.0'
+  :hours: '12.00'
+- :date: 5/1/1990
+  :course: '909040'
+  :title: LEDS MANUAL GENERAL LEVEL
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,279 @@
+---
+:header_record:
+  :name: Kingen, Avalon M.
+  :dpsst_identifier: '55512'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Reserve Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 8/26/2019
+  :agency: Multnomah County Sheriff's Office
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/24/2018
+  :agency: Multnomah County Sheriff's Office
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 7/4/2018
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+- :date: 9/1/2015
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Reserve
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 9/9/2019
+  :course: F6D02035
+  :title: CPR - First Aid - AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/31/2019
+  :course: F6D40715
+  :title: LEDS Inquiry Certififcation
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 2/14/2019
+  :course: F6D10154
+  :title: Remedial Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/14/2019
+  :course: F6D34135
+  :title: Remedial Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/14/2019
+  :course: F6D02906
+  :title: Remedial Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/4/2019
+  :course: F6D24291
+  :title: Firearms Training- Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 1/10/2019
+  :course: CVS07627
+  :title: CISM  ASSISTING INDIVIDUALS  - GROUP INTERVENTION
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
+- :date: 9/10/2018
+  :course: F6D10417
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 8/31/2018
+  :course: F6B30545
+  :title: Narcan Adapt Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/29/2018
+  :course: F6B18255
+  :title: CPR-First Aid-AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/26/2018
+  :course: F6B14188
+  :title: Taser X26P Transition Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/23/2018
+  :course: F6B11559
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/12/2018
+  :course: F6B40680
+  :title: 2018 MCSO Taser Re-certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/21/2018
+  :course: F6B09130
+  :title: Defensive Tactics - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/21/2018
+  :course: F6B42297
+  :title: Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/18/2018
+  :course: F6B08857
+  :title: OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 7/14/2018
+  :course: F6B27914
+  :title: Firearms Training - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 7/14/2018
+  :course: F6B03954
+  :title: Firearms Qualification - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/31/2017
+  :course: PPB24454
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/31/2017
+  :course: PPB24460
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/8/2017
+  :course: BVP34064
+  :title: Basic Police Mountain Bike
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 3/31/2017
+  :course: F6C31871
+  :title: Handgun Qualification-Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/31/2017
+  :course: F6C08975
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/1/2017
+  :course: F6C17533
+  :title: TECC for Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/1/2017
+  :course: PPB24578
+  :title: TECC for Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/31/2016
+  :course: F6C04096
+  :title: Handgun Qualification-Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/31/2016
+  :course: F6C08264
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 10/5/2016
+  :course: F6C10895
+  :title: Full Body Search-Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/7/2016
+  :course: F6C38736
+  :title: High Risk Vehicle Stops - Reserves
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/31/2016
+  :course: '41967'
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/31/2016
+  :course: '04236'
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/10/2016
+  :course: F6C10074
+  :title: Taser X2 Certification - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 4/2/2016
+  :course: F6C27081
+  :title: LEDS Inquiry Level
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/29/2016
+  :course: F6C23868
+  :title: Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/29/2016
+  :course: F6C35721
+  :title: Handgun Qualification Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/25/2016
+  :course: 16-0562
+  :title: Reserve Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '300.00'
+- :date: 2/3/2016
+  :course: F6C00023
+  :title: Major Crime Scene - Detective Notification
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/12/2016
+  :course: 16-0388
+  :title: ICS 100 / IS 100 - Introduction to ICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/12/2016
+  :course: 16-0395
+  :title: IS 700  NIMS, An Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/11/2015
+  :course: 15-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records: []
+:education_records: []

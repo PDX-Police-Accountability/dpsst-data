@@ -1,0 +1,409 @@
+---
+:header_record:
+  :name: Enez, Joseph E.
+  :dpsst_identifier: '57475'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/30/2018
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 6/22/2017
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 4/29/2017
+  :agency: Out of State Employment
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 5/30/2014
+  :agency: Out of State Employment
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 1/3/2014
+  :agency: Out of State Employment
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 4/17/2008
+  :agency: Out of State Employment
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 10/30/2018
+  :certificate: Police Officer
+  :level: Basic
+  :status: Lapsed
+  :certificate_date: 3/15/2018
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 7/18/2018
+  :course: PDP33173
+  :title: SSD Stops Application
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/30/2018
+  :course: PDP22051
+  :title: Detectives How to Spot a Skimmer
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/30/2018
+  :course: PDP27736
+  :title: City Attorneys Office Legal Updates for Q4
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/24/2018
+  :course: PDP40516
+  :title: 2018-2 Bloodborne Pathogens
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/24/2018
+  :course: PDP00683
+  :title: 2018-2 In-Service Decision Point Analysis
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 5/24/2018
+  :course: PDP07302
+  :title: 2018-2 In-Service Implicit Bias
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/24/2018
+  :course: PDP20126
+  :title: 2018-2 In-Service Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/23/2018
+  :course: PDP15633
+  :title: 2018-2 Primary Sidearm Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/23/2018
+  :course: PDP41145
+  :title: 2018-2 Shotgun Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/29/2018
+  :course: PDP39936
+  :title: Tips and Tech Hazard Tow vs. Private Request
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/29/2018
+  :course: PDP18845
+  :title: Disposition of Records Upon Retirement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/4/2018
+  :course: PDP42272
+  :title: IFAK Refresher Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/4/2018
+  :course: PDP11353
+  :title: 2017-3 Legal Updates for Q3
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/3/2018
+  :course: 18-0004
+  :title: DPSST Basic Police COD Self-Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
+- :date: 2/26/2018
+  :course: 18T001
+  :title: Police Field Training Manual
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 2/14/2018
+  :course: PDP04204
+  :title: Reducing DA Case Rejects 1 of 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 2/8/2018
+  :course: PDP01076
+  :title: BHU Mental Health Template Video Non-ECIT Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/30/2018
+  :course: PDP07748
+  :title: 2018-1 In-Service PVO High Speed Lapping
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/30/2018
+  :course: PDP04533
+  :title: 2018-1 In-Service  PVO Pursuit Intervention Tech
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/30/2018
+  :course: PDP32196
+  :title: 2018-1 In-Service PVO Precision Movement Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 1/30/2018
+  :course: PDP22757
+  :title: 2018-1 In-Service Police Vehicle Operation Lecture
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/30/2018
+  :course: PDP34636
+  :title: 2018-1 In-Service PVO Skid Car Operations
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/6/2017
+  :course: PPB24618
+  :title: SIRN Juvenile Justice Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 12/3/2017
+  :course: PPB24751
+  :title: Advanced Academy 2017-3 PVO - Shelton
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 11/29/2017
+  :course: PPB24744
+  :title: Advanced Academy 2017-3 Patrol Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '103.00'
+- :date: 11/29/2017
+  :course: PPB24750
+  :title: Advanced Academy 2017-3 PVO
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
+- :date: 11/22/2017
+  :course: PPB24758
+  :title: Advanced Academy 2017-3 Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '61.00'
+- :date: 11/16/2017
+  :course: PPB24767
+  :title: Advanced Academy 2017-3 Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '63.50'
+- :date: 11/13/2017
+  :course: PPB24753
+  :title: Advanced Academy 2017-3 CIT
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 11/7/2017
+  :course: PPB24714
+  :title: Advanced Academy 2017-3 Personal Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/7/2017
+  :course: PPB24715
+  :title: Advanced Academy 2017-2 Use of Force Report Writin
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/2/2017
+  :course: PPB24713
+  :title: Advanced Academy 2017-3 Mock Trials
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/1/2017
+  :course: PPB24635
+  :title: 2017-2 In-Service Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/6/2017
+  :course: PPB24537
+  :title: RegJIN - New Hire Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 9/30/2017
+  :course: PPB24454
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 9/23/2017
+  :course: PPB24755
+  :title: Advanced Academy 2017-3 Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 9/20/2017
+  :course: PPB24718
+  :title: Adv Acad 2017-3 ECW Review and Qualification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/18/2017
+  :course: PPB24720
+  :title: Advanced Academy 2017-3 Crowd Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.50'
+- :date: 9/11/2017
+  :course: PPB24717
+  :title: Advanced Academy 2017-3 UofForce Decision Making
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 9/6/2017
+  :course: PPB24749
+  :title: Advanced Academy 2017-3 Crisis Communication
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/31/2017
+  :course: PPB24454
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/24/2017
+  :course: PPB24730
+  :title: Advanced Academy 2017-3 Orientation  Expectations
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/24/2017
+  :course: PPB24731
+  :title: Advanced Academy 2017-3 Introduction to PLPJ
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/23/2017
+  :course: PPB24513
+  :title: Taser X2 Certification - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 8/17/2017
+  :course: PPB24583
+  :title: Basic Police Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/17/2017
+  :course: PPB24662
+  :title: Property and Evidence - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/16/2017
+  :course: PPB24579
+  :title: Geography
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 8/16/2017
+  :course: PPB24625
+  :title: CPR/First Aid/ AED - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/15/2017
+  :course: PPB24454
+  :title: Handgun Qualification - Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/9/2017
+  :course: PPB24512
+  :title: Firearms - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 8/2/2017
+  :course: PPB24486
+  :title: 2.2 - Workplace Harrassment - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/2/2017
+  :course: PPB24574
+  :title: Bloodborne Pathogens - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/2/2017
+  :course: PPB24663
+  :title: DOJ/VOYA - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 7/31/2017
+  :course: 17-0004
+  :title: DPSST Basic Police COD Self-Study
+  :status: Cancelled
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 7/31/2017
+  :course: PPB24789
+  :title: Legal Holds 2017
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/26/2014
+  :course: PPB23396
+  :title: IS-00100 Intro to the Incident Command System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/29/2009
+  :course: PPB20510
+  :title: IS-00700 NIMS-National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 2/14/2018
+  :expiration_date: ''
+:education_records:
+- :date: 3/19/2005
+  :degree: Associate Arts
+  :school: Portland Community College
+  :major: ''
+  :hours: '101.0'

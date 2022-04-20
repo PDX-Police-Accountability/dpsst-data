@@ -1,0 +1,111 @@
+---
+:header_record:
+  :name: Rohrbach, Tori L.
+  :dpsst_identifier: '27189'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/26/1992
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 2/29/2016
+  :course: F6C04700
+  :title: Emergency Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2014
+  :course: 14-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/26/2007
+  :course: 07-0928
+  :title: Workplace - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 3/22/2007
+  :course: 07-0683
+  :title: Crisis Intervention
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/23/2007
+  :course: 07-0699
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/15/2007
+  :course: 07-1009
+  :title: A Clinical Response to Child Abuse
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/13/2007
+  :course: 07-0915
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/22/2005
+  :course: 05-0544
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/15/1995
+  :course: 95X088
+  :title: LEDS 1995 RECERTIFICATION TEST
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/3/1992
+  :course: 92K142
+  :title: LEDS MANUAL-GENERAL LEVEL
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records: []
+:education_records: []

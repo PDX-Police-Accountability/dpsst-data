@@ -1,0 +1,160 @@
+---
+:header_record:
+  :name: Stover, Chad E.
+  :dpsst_identifier: '56693'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 8/23/2017
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 2/2/2017
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 3/31/2017
+  :course: F6C31871
+  :title: Handgun Qualification-Primary Sidearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/30/2017
+  :course: F6C21683
+  :title: Basic Police Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/29/2017
+  :course: F6C10158
+  :title: Defensive Tactics-Post DPSST
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/28/2017
+  :course: F6C26459
+  :title: RegJIN-New Hire Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/22/2017
+  :course: F6C09240
+  :title: FTEP Orientation-Post Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/20/2017
+  :course: F6C26360
+  :title: Firearms-Post Academy
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 3/17/2017
+  :course: 16-0008
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
+- :date: 2/14/2017
+  :course: F6C15234
+  :title: PVO Simulator Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/14/2017
+  :course: F6C13217
+  :title: PVO Simulator Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/10/2017
+  :course: F6A04304
+  :title: Intoxilyzer 8000 Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 2/2/2017
+  :course: F6A05207
+  :title: SFST/DID
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 11/3/2016
+  :course: F6C14590
+  :title: Firearms - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 11/1/2016
+  :course: F6C26824
+  :title: IS-00100 Introduction to Incident Command
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 11/1/2016
+  :course: F6C14463
+  :title: IS-00700 National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/27/2016
+  :course: F6C10627
+  :title: Gas Mask Fit  Training (APR)
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/26/2016
+  :course: F6C08218
+  :title: Bloodborne Pathogens-New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/26/2016
+  :course: F6C06474
+  :title: FTEP Policy  Procedure-New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/25/2016
+  :course: F6C13461
+  :title: CPR/First Aid/AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/25/2016
+  :course: F6C02639
+  :title: 2.2 Workplace Harrassment-New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 11/6/2016
+  :expiration_date: ''
+:education_records:
+- :date: 8/14/2010
+  :degree: Masters Arts
+  :school: Portland State University
+  :major: Liberal Arts/distributed Study
+  :hours: '70.0'
+- :date: 9/6/2003
+  :degree: Bachelor Arts
+  :school: University Of Oregon
+  :major: ''
+  :hours: '63.0'
+- :date: 6/15/2002
+  :degree: No Degree
+  :school: Oregon State University
+  :major: Economics
+  :hours: '149.0'

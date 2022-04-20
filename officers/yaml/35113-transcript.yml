@@ -1,0 +1,99 @@
+---
+:header_record:
+  :name: Wrigley, Nicole R.
+  :dpsst_identifier: '35113'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 10/23/2003
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 4/1/2002
+  :agency: Portland Police Bureau
+  :action: Layoff
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 2/18/1998
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 5/23/2018
+  :course: PDP40857
+  :title: 'Leadership 2018: Law Enforcement Professionals'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/17/2012
+  :course: 12-0994
+  :title: CPR / First Aid Instructor Development Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 9/29/2011
+  :course: 11-0629
+  :title: Verbal Judo
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/15/2008
+  :course: '08-0747'
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.50'
+- :date: 4/28/2008
+  :course: '08-0915'
+  :title: Agency Policies / Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/25/2008
+  :course: '08-0610'
+  :title: Child Abuse Summit
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.50'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/11/2003
+  :course: 03-0872
+  :title: OSIN Basic Criminal Intelligence Concepts Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records: []
+:education_records: []

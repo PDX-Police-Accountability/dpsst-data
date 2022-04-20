@@ -1,0 +1,69 @@
+---
+:header_record:
+  :name: Cammack, Jeffrey E.
+  :dpsst_identifier: '38549'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 12/9/1999
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/5/2016
+  :course: F6C17279
+  :title: LEDS Inquiry Level
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/11/2015
+  :course: 15-0715
+  :title: LEDS Inquiry Level
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/20/2010
+  :course: 10-1171
+  :title: Labor Contract Evaluation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/13/2010
+  :course: 10-0464
+  :title: Employee Discipline
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+:attribute_records: []
+:education_records: []

@@ -1,0 +1,99 @@
+---
+:header_record:
+  :name: Morales, Evalyn D.
+  :dpsst_identifier: '48015'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 2/22/2007
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/24/2012
+  :course: 12-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 8/20/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/20/2009
+  :course: '09-0807'
+  :title: Financial Crimes
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+- :date: 3/10/2009
+  :course: '09-0808'
+  :title: Fraud Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.50'
+- :date: 5/22/2008
+  :course: '08-0928'
+  :title: Workplace - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/6/2008
+  :course: '08-0639'
+  :title: Written Communication - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/15/2008
+  :course: '08-0911'
+  :title: Customer Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/26/2008
+  :course: '08-0703'
+  :title: Data System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/21/2007
+  :course: 07-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 7/25/2007
+  :course: 07-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+:attribute_records: []
+:education_records: []

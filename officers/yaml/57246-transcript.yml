@@ -1,0 +1,710 @@
+---
+:header_record:
+  :name: Arneson, Alexandra M.
+  :dpsst_identifier: '57246'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 1/18/2019
+  :agency: Washington County Community Corrections
+  :action: Hired
+  :rank: Par/prob O
+  :classification: ''
+  :assignment: ''
+- :date: 7/5/2018
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 3/30/2017
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 2/11/2022
+  :certificate: Parole  Probation Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 2/11/2022
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 12/20/2019
+  :certificate: Parole  Probation Officer
+  :level: Basic
+  :status: Granted
+  :certificate_date: 12/20/2019
+  :expiration_date: ''
+  :probation_date: ''
+:training_records:
+- :date: 4/5/2022
+  :course: HBN16106
+  :title: Women's Risk Need Assessment (WRNA)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 12/31/2021
+  :course: MISCMAIN
+  :title: 2021 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 12/14/2021
+  :course: HBN27172
+  :title: Use of Force, Survival Skills and Scenarios
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 8/31/2021
+  :course: HBN02071
+  :title: Field Officer Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 8/18/2021
+  :course: HBN39418
+  :title: Women's Risk and Needs Assessment (WRNA)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 7/23/2021
+  :course: HBN28690
+  :title: Fentanyl and First Responder Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/15/2021
+  :course: HBN21448
+  :title: Field Officer Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/13/2021
+  :course: HBN42394
+  :title: Field Officer Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 7/13/2021
+  :course: HBN07208
+  :title: OC Spray/Use of Force/Handcuffing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/1/2021
+  :course: HBN44234
+  :title: Field Officer Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/29/2021
+  :course: HBN26349
+  :title: CPR/First Aid/AED
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/11/2021
+  :course: HBN37815
+  :title: WRNA Train the Trainer
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.50'
+- :date: 5/25/2021
+  :course: HBN40846
+  :title: Meth 2.0 and Opioid Use Disorder
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/18/2021
+  :course: HBN27473
+  :title: Actions Speak Louder-What Your Boss Wish You Knew
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 4/29/2021
+  :course: HBN04453
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/6/2021
+  :course: HBN17478
+  :title: Compassion Fatigue for First Responders  CJ Profs
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 2/18/2021
+  :course: HBN32787
+  :title: LEDS 20/20 Login  Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/2/2021
+  :course: HBN02564
+  :title: Understanding Unethical Behavior
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 12/15/2020
+  :course: HBN16702
+  :title: 'Exceptional Risk: COVID-19 OSHA Training'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 11/10/2020
+  :course: MISCMAIN
+  :title: 2020 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 10/29/2020
+  :course: HBN00976
+  :title: Implicit Bias and Diversity
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/6/2020
+  :course: HBN41326
+  :title: ICOTS / ICAOS Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/22/2020
+  :course: HBN20460
+  :title: 'Purchasing Pieces: County Code of Conduct and.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/8/2020
+  :course: HBN21220
+  :title: Officer Safety / Field Work
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 1/28/2020
+  :course: HBN07691
+  :title: Carey Guide - My Life Until Now
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.45'
+- :date: 1/16/2020
+  :course: HBN09241
+  :title: OMS (a.m. class)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 12/17/2019
+  :course: 19T003
+  :title: Parole  Probation Field Training Manual
+  :status: Completed
+  :score: '0.0'
+  :hours: '50.00'
+- :date: 12/13/2019
+  :course: HBN01780
+  :title: Search and Seizure Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 12/3/2019
+  :course: HBN07872
+  :title: ETHICS
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 11/13/2019
+  :course: HBN07324
+  :title: Carey Group Four Core Competencies
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 11/7/2019
+  :course: HBN08168
+  :title: Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.25'
+- :date: 11/7/2019
+  :course: HBN30758
+  :title: Emotional Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/7/2019
+  :course: HBN34321
+  :title: Transition/Re-entry Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/30/2019
+  :course: HBN09430
+  :title: Mental Health- CIT Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/22/2019
+  :course: HBN34675
+  :title: Diversity, Equity and Inclusion
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/16/2019
+  :course: HBN03687
+  :title: Officer Safety/Home Visits
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/16/2019
+  :course: HBN34308
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/3/2019
+  :course: HBN24692
+  :title: Community Service PO Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 10/3/2019
+  :course: HBN35117
+  :title: Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 9/27/2019
+  :course: 19-0005
+  :title: DPSST Basic Parole and Probation
+  :status: Passed
+  :score: '0.0'
+  :hours: '200.00'
+- :date: 8/13/2019
+  :course: HBN07049
+  :title: Restitution Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/1/2019
+  :course: HBN03853
+  :title: Officer Safety  Field Tactics/ Handcuffing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/25/2019
+  :course: HBN38671
+  :title: Behavior Change Forum
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/11/2019
+  :course: HBN36722
+  :title: Building Effective Behavior Change Plans
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/11/2019
+  :course: HBN43660
+  :title: Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/11/2019
+  :course: HBN40894
+  :title: Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/12/2019
+  :course: HBN16018
+  :title: CPR/First Aid/AED - Adult/Infant
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 6/6/2019
+  :course: HBN16466
+  :title: Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/6/2019
+  :course: HBN17096
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/30/2019
+  :course: HBN08615
+  :title: Behavior Change Forum- Skill Defecit ID
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/23/2019
+  :course: HBN42182
+  :title: HHS Washington Co Public Health- STI Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/23/2019
+  :course: HBN28104
+  :title: Department Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/23/2019
+  :course: HBN13050
+  :title: Sustainability- Going Paperless
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/22/2019
+  :course: F6D06193
+  :title: Parole Board Regional Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 5/9/2019
+  :course: HBN26236
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/2/2019
+  :course: HBN39493
+  :title: Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 5/2/2019
+  :course: HBN06522
+  :title: Use of Force Update/ OC Certification
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/19/2019
+  :course: HBN33116
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/4/2019
+  :course: HBN40705
+  :title: P.O. School- Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/4/2019
+  :course: HBN24713
+  :title: P.O. School- Case Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/3/2019
+  :course: F6D12628
+  :title: WRNA Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/14/2019
+  :course: HBN26475
+  :title: P.O. Roles and Responsibilities
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/14/2019
+  :course: HBN11245
+  :title: General P.O. Expectations
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 3/12/2019
+  :course: HBN27200
+  :title: Naloxone
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 3/12/2019
+  :course: HBN04583
+  :title: Behavior Change Plan (BCP)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 2/28/2019
+  :course: HBN09115
+  :title: Behavior Change Forum (Relating Crisis to Behav)
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/15/2019
+  :course: HBN38449
+  :title: Justice Reinvestment Summit 2019
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 1/31/2019
+  :course: HBN02098
+  :title: Officer Safety and Field Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/24/2019
+  :course: HBN03182
+  :title: LS/CMI Risk Assessment Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 6/28/2018
+  :course: PDP33173
+  :title: SSD Stops Application
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/22/2018
+  :course: PDP27736
+  :title: City Attorneys Office Legal Updates for Q4
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/19/2018
+  :course: PDP22051
+  :title: Detectives How to Spot a Skimmer
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/16/2018
+  :course: PDP41013
+  :title: 2018-1 Advanced Academy Orientation and Expectatio
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
+- :date: 5/16/2018
+  :course: PDP39615
+  :title: 2018-1 Advanced Academy Patrol Procedures - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 5/16/2018
+  :course: PDP17344
+  :title: 2018-1 Advanced Academy Control Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '50.75'
+- :date: 5/16/2018
+  :course: PDP39199
+  :title: 2018-1 Advanced Academy Crisis Intervention Traini
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 5/16/2018
+  :course: PDP07263
+  :title: 2018-1 Advanced Academy Customer Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.50'
+- :date: 5/16/2018
+  :course: PDP05488
+  :title: 2018-1 Advanced Academy Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '53.50'
+- :date: 5/16/2018
+  :course: PDP34455
+  :title: 2018-1 Advanced Academy Patrol Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '138.50'
+- :date: 5/16/2018
+  :course: PDP03774
+  :title: 2018-1 Advanced Academy Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '29.00'
+- :date: 5/16/2018
+  :course: PDP08028
+  :title: '2018-1 Advanced Academy Professionalism: Ethics'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/16/2018
+  :course: PDP02130
+  :title: 2018-1 Advanced Academy PVO - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.50'
+- :date: 5/16/2018
+  :course: PDP06758
+  :title: 2018-1 Advanced Academy Police Vehicle Operations
+  :status: Passed
+  :score: '0.0'
+  :hours: '22.50'
+- :date: 4/19/2018
+  :course: PDP39936
+  :title: Tips and Tech Hazard Tow vs. Private Request
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/19/2018
+  :course: PDP18845
+  :title: Disposition of Records Upon Retirement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/11/2018
+  :course: PDP27461
+  :title: Active Shooter Phase 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/7/2018
+  :course: PDP11353
+  :title: 2017-3 Legal Updates for Q3
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/20/2018
+  :course: PDP42272
+  :title: IFAK Refresher Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/29/2018
+  :course: PDP01076
+  :title: BHU Mental Health Template Video Non-ECIT Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/23/2017
+  :course: PPB24583
+  :title: Basic Police Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/19/2017
+  :course: PPB24537
+  :title: RegJIN - New Hire Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+- :date: 10/16/2017
+  :course: PPB24513
+  :title: Taser X2 Certification - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 10/12/2017
+  :course: PPB24579
+  :title: Geography
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 10/12/2017
+  :course: PPB24625
+  :title: CPR/First Aid/ AED - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/6/2017
+  :course: 17-0008
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
+- :date: 9/1/2017
+  :course: F6A09089
+  :title: Intoxilyzer 8000
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 8/31/2017
+  :course: 17-0010
+  :title: SFST/DID- Training hours included in Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 6/8/2017
+  :course: PPB24562
+  :title: IS-00700 National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/7/2017
+  :course: PPB24512
+  :title: Firearms - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 5/31/2017
+  :course: PPB24486
+  :title: 2.2 - Workplace Harrassment - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/31/2017
+  :course: PPB24573
+  :title: Gas Mask Fit  Training (APR)
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/31/2017
+  :course: PPB24574
+  :title: Bloodborne Pathogens - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/30/2017
+  :course: PPB24487
+  :title: FTEP Policy  Procedure - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 4/30/2017
+  :course: PPB24670
+  :title: 'Mental Health Template: Non-ECIT Trained Officers'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+:attribute_records:
+- :topic: Maintenance Requirements
+  :value: LE Annual
+  :effective_date: 1/1/2022
+  :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 6/29/2021
+  :expiration_date: 6/29/2023
+- :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2020
+  :expiration_date: 12/31/2022
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 8/25/2019
+  :expiration_date: ''
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 1/28/2019
+  :expiration_date: ''
+- :topic: Code of Ethics
+  :value: Signed
+  :effective_date: 6/14/2017
+  :expiration_date: ''
+:education_records:
+- :date: 6/12/2016
+  :degree: Masters Science
+  :school: Portland State University
+  :major: Criminal Justice
+  :hours: '58.0'
+- :date: 5/25/2014
+  :degree: Bachelor Arts
+  :school: All Other Education Institutes
+  :major: Psychology
+  :hours: '124.0'
+- :date: 6/12/2011
+  :degree: Associate Arts
+  :school: Portland Community College
+  :major: ''
+  :hours: '54.0'

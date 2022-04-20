@@ -1,0 +1,144 @@
+---
+:header_record:
+  :name: Hartle, Joshua S.
+  :dpsst_identifier: '57834'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 3/23/2018
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 10/19/2017
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 3/22/2018
+  :course: F6B39125
+  :title: New Hire RMS/MRE Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 3/22/2018
+  :course: PDP11353
+  :title: 2017-3 Legal Updates for Q3
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/21/2018
+  :course: PDP01076
+  :title: BHU Mental Health Template Video Non-ECIT Officers
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/21/2018
+  :course: PDP42272
+  :title: IFAK Refresher Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/16/2018
+  :course: 17-0008
+  :title: DPSST Basic Police
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
+- :date: 3/2/2018
+  :course: BVP20238
+  :title: Americans with Disablity Act
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 2/9/2018
+  :course: 18-0011
+  :title: Intoxilyzer 8000-Training hours included in Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 2/8/2018
+  :course: 18-0010
+  :title: SFST/DID- Training hours included in Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 1/24/2018
+  :course: F6B28716
+  :title: LIDAR Operator Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/21/2017
+  :course: PPB24739
+  :title: Lidar Operator Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 11/21/2017
+  :course: PPB24740
+  :title: Radar / Lidar Practical
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 11/20/2017
+  :course: PPB24741
+  :title: Radar Operator Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 11/2/2017
+  :course: PPB24562
+  :title: IS-00700 National Incident Management System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 10/31/2017
+  :course: PPB24486
+  :title: 2.2 - Workplace Harrassment - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/31/2017
+  :course: PPB24573
+  :title: Gas Mask Fit  Training (APR)
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 10/31/2017
+  :course: PPB24574
+  :title: Bloodborne Pathogens - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/31/2017
+  :course: PPB24791
+  :title: Intersection Clearing Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 10/24/2017
+  :course: PPB24487
+  :title: FTEP Policy  Procedure - New Hires
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+:attribute_records:
+- :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 11/8/2017
+  :expiration_date: ''
+:education_records:
+- :date: 7/14/2017
+  :degree: Bachelor Science
+  :school: All Other Education Institutes
+  :major: ''
+  :hours: '129.0'

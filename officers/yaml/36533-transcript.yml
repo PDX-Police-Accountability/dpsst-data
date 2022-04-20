@@ -1,0 +1,39 @@
+---
+:header_record:
+  :name: Penner, Robert
+  :dpsst_identifier: '36533'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 10/1/1991
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 9/26/2007
+  :course: 07-0839
+  :title: Radio Procedures
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/7/2003
+  :course: 03-1289
+  :title: CISM Basic Group
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/30/2003
+  :course: 03-0818
+  :title: Critical Incidents Stress Management EAP Protocol
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
+:attribute_records: []
+:education_records: []

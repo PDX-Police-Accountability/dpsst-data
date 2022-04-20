@@ -1,0 +1,93 @@
+---
+:header_record:
+  :name: Nancarrow, Thomas L.
+  :dpsst_identifier: '37308'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 3/11/1999
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 11/4/2021
+  :course: PDP27577
+  :title: ICS-400 Adv ICS Cmd  Gen Staff-Complex Incdnts
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
+- :date: 10/21/2021
+  :course: PDP27008
+  :title: ICS-300 Imd Incdt Cmmnd Systm for Expndng Incdts
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/27/2009
+  :course: '09-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/10/2008
+  :course: '08-0702'
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.50'
+- :date: 5/15/2008
+  :course: '08-0657'
+  :title: Cultural Diversity
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/15/2008
+  :course: '08-0911'
+  :title: Customer Service
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/25/2007
+  :course: 07-0790
+  :title: Forensics - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+:attribute_records: []
+:education_records: []

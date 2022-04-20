@@ -1,0 +1,87 @@
+---
+:header_record:
+  :name: Ungard, Maria
+  :dpsst_identifier: '48012'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 2/20/2007
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 8/7/2017
+  :course: SMS34815
+  :title: Advanced Application of Impact Weapons
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/31/2014
+  :course: 14-1274
+  :title: Briefing Trg - Multiple Topics,Consolidated Roster
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/28/2008
+  :course: '08-0914'
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/28/2008
+  :course: '08-0914'
+  :title: Personal / Professional Development - Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 8/12/2008
+  :course: '08-0708'
+  :title: Internet Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/5/2007
+  :course: 07-0109
+  :title: Confrontational Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 10/30/2007
+  :course: 07-0809
+  :title: Identity Theft Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/26/2007
+  :course: 07-0628
+  :title: Telephone Communication Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.30'
+- :date: 6/11/2007
+  :course: 07-0700
+  :title: CAD End User Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+:attribute_records: []
+:education_records: []

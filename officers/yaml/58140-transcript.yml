@@ -1,0 +1,33 @@
+---
+:header_record:
+  :name: Fineberg, Connor E.
+  :dpsst_identifier: '58140'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 12/21/2017
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/26/2018
+  :course: F6D28031
+  :title: A Critical Incident Can Happen Anywhere
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 1/22/2018
+  :course: 18-0008
+  :title: DPSST Basic Police
+  :status: Cancelled
+  :score: '0.0'
+  :hours: '0.00'
+:attribute_records: []
+:education_records: []

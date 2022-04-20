@@ -1,0 +1,111 @@
+---
+:header_record:
+  :name: Weiss, Tammi D.
+  :dpsst_identifier: '27370'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 7/30/1992
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 5/19/2017
+  :course: F6A09236
+  :title: 2017 Law Enforcement Records Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/20/2017
+  :course: F6A08041
+  :title: Intro to Public Records
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 12/31/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 10/3/2013
+  :course: 13-0620
+  :title: Public Records Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 5/24/2012
+  :course: 12-0702
+  :title: Computer Software Applications
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/14/2007
+  :course: 07-1009
+  :title: A Clinical Response to Child Abuse
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/6/2007
+  :course: 07-0747
+  :title: Corrections Overview
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 9/26/2006
+  :course: 06-2300
+  :title: Oregon Open Records Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 11/18/1999
+  :course: 99P043
+  :title: DETECT DECEPTION
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
+- :date: 4/3/1996
+  :course: 96X003
+  :title: 1996 FIRST RESPONDER INSERVICE
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 10/15/1995
+  :course: 95X088
+  :title: LEDS 1995 RECERTIFICATION TEST
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 1/10/1993
+  :course: 93K048
+  :title: LEDS GENERAL LEVEL
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records: []
+:education_records: []

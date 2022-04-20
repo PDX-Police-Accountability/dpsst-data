@@ -1,0 +1,57 @@
+---
+:header_record:
+  :name: Aegerter, Anna E.
+  :dpsst_identifier: '45790'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 3/17/2016
+  :agency: Immigration and Customs Enforcement
+  :action: Active
+  :rank: FedOfficer
+  :classification: ''
+  :assignment: ''
+- :date: 6/27/2006
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+- :date: 11/22/2004
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 5/14/2018
+  :course: F6B11695
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/17/2016
+  :course: M-FED000
+  :title: Oregon Arrest Training for Federal Officers
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 3/14/2008
+  :course: '08-0699'
+  :title: CAD / MDS / MDT System
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+:attribute_records: []
+:education_records: []

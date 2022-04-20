@@ -1,0 +1,27 @@
+---
+:header_record:
+  :name: Jones, Mary L.
+  :dpsst_identifier: '60924'
+  :agency: Portland Police Bureau
+  :employment_status: Inactive
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/5/2020
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/31/1901
+  :course: M10-19A
+  :title: DPSST Basic Police Course
+  :status: Cancelled
+  :score: '0.0'
+  :hours: '0.00'
+:attribute_records: []
+:education_records: []
