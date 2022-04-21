@@ -48,6 +48,12 @@
   :status: Registered
   :score: '0.0'
   :hours: '200.00'
+- :date: 4/15/2022
+  :course: MFN17640
+  :title: ConSims Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/14/2022
   :course: MFN18043
   :title: Transgender 101
@@ -57,6 +63,18 @@
 - :date: 4/13/2022
   :course: MFN22655
   :title: Parole and PPS Morrissey Hearing's Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/7/2022
+  :course: MFN28377
+  :title: Airway Circulation Anatmoy and Physiology
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/6/2022
+  :course: MFN28377
+  :title: Airway Circulation Anatmoy and Physiology
   :status: Passed
   :score: '0.0'
   :hours: '2.00'

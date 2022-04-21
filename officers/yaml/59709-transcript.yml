@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/15/2022
+  :course: BNP25122
+  :title: Airway and Circulatory Anatomy Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/8/2022
   :course: BNP09673
   :title: UAS Monthly Training - MARCH 2022

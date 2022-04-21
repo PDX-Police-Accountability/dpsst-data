@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 2/10/2022 | BNP15313 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
 | 2/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/10/2022 | BNP38713 | Mindfulness | Passed | 0.0 | 0.50 |

@@ -49,6 +49,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/28/2022 | LGP31066 | Team Movement/Firearms | Passed | 0.0 | 4.00 |
 | 3/14/2022 | LGS41702 | Taser X26 User Course | Instructed | 0.0 | 1.50 |
+| 3/1/2022 | LGS11682 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 2/17/2022 | LGS26251 | Working w/partnering agencies for best outcome | Passed | 0.0 | 1.50 |
 | 2/2/2022 | LGS30549 | Rifle Instructor Development | Passed | 0.0 | 4.00 |
 | 1/13/2022 | LGS41746 | Instructor Training Development | Instructed | 0.0 | 2.00 |

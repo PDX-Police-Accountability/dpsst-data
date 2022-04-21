@@ -119,6 +119,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/12/2022
+  :course: HUP39428
+  :title: OACP Annual Conference General Board Meeting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/9/2022
   :course: HUP14053
   :title: Marion County Leadership Monthly Meeting

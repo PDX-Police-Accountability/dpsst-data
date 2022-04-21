@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2022 | REG05790 | DT controlling base and recovering base | Passed | 0.0 | 1.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/14/2022 | REG11755 | Control tactics- Structure control and recovery | Passed | 0.0 | 1.00 |
 | 4/11/2022 | REG30849 | Control tactics- Posture control and recovery | Passed | 0.0 | 1.00 |

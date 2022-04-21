@@ -116,6 +116,7 @@
 | 2/19/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/19/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/19/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 2/18/2021 | PDP03420 | Upset prevention and recovery | Passed | 0.0 | 27.00 |
 | 2/12/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 1/30/2021 | PDP11460 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 1/30/2021 | PDP18136 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |

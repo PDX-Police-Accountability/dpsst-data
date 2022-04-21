@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2022 | SAG18400 | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 3/10/2022 | SAG06056 | Firearms | Passed | 0.0 | 1.50 |
 | 3/10/2022 | SAG28621 | TASER X26P Annual Recertification | Instructed | 0.0 | 1.50 |
 | 3/10/2022 | 35888 | TASER X26P Annual Recertification | Instructed | 0.0 | 1.50 |

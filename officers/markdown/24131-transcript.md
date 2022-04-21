@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/11/2022 | VND24646 | Advanced Strangulation Training | Passed | 0.0 | 30.25 |
 | 3/11/2022 | VND25222 | Expert Witnesses Training | Passed | 0.0 | 3.50 |
+| 2/28/2022 | 07737 | EVOC (Pursuit driving, use of force) | Passed | 0.0 | 10.00 |
 | 1/26/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/26/2022 | VND44564 | 28CFR-Part23; RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |
 | 1/26/2022 | WLP15833 | WSIN/RISS Deconfliction Training | Passed | 0.0 | 1.50 |

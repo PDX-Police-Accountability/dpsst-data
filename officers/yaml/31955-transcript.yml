@@ -108,6 +108,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/12/2022
+  :course: HUP39428
+  :title: OACP Annual Conference General Board Meeting
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/25/2022
   :course: CAP37217
   :title: HB 2513 Airway and Circulatory Crisis Legislation

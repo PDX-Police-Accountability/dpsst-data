@@ -113,6 +113,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/15/2022
+  :course: BNP25122
+  :title: Airway and Circulatory Anatomy Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 2/9/2022
   :course: BNP40597
   :title: Taser Policy and Transition

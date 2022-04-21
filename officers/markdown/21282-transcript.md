@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2022 | LOP33646 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/28/2022 | WLP15833 | WSIN/RISS Deconfliction Training | Passed | 0.0 | 1.50 |
 | 12/31/2021 | WLP02302 | Self Care and Wellness |  | 0.0 | 3.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

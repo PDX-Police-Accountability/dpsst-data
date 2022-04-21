@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 3/25/2022 | CAP37217 | HB 2513 Airway and Circulatory Crisis Legislation | Passed | 0.0 | 2.00 |
 | 3/16/2022 | F6R37504 | Patrol Rifle Fundamentals and Qualification | Passed | 0.0 | 3.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
