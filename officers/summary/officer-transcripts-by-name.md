@@ -150,7 +150,7 @@
 | Brattin, Kathleen P. | 31017 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/31017-transcript.md) - [yaml](../yaml/31017-transcript.yml) |
 | Braun, Andrew F. | 56961 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56961-transcript.md) - [yaml](../yaml/56961-transcript.yml) |
 | Braun, Peter O. | 55152 | Portland Police Bureau | Active | Police Officer | [md](../markdown/55152-transcript.md) - [yaml](../yaml/55152-transcript.yml) |
-| Bredahl, Julianna R. | 59840 | Portland Police Bureau | Active | Police Officer | [md](../markdown/59840-transcript.md) - [yaml](../yaml/59840-transcript.yml) |
+| Bredahl, Julianna R. | 59840 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/59840-transcript.md) - [yaml](../yaml/59840-transcript.yml) |
 | Bren, Ryan J. | 45124 | Portland Police Bureau | Active | Sergeant | [md](../markdown/45124-transcript.md) - [yaml](../yaml/45124-transcript.yml) |
 | Brennan, Thomas J. | 33125 | Portland Police Bureau | Active | Police Officer | [md](../markdown/33125-transcript.md) - [yaml](../yaml/33125-transcript.yml) |
 | Brewer, James M. | 60616 | Portland Police Bureau | Active | Police Officer | [md](../markdown/60616-transcript.md) - [yaml](../yaml/60616-transcript.yml) |
@@ -179,6 +179,7 @@
 | Bryant, David J. | 47224 | Portland Police Bureau | Active | Police Officer | [md](../markdown/47224-transcript.md) - [yaml](../yaml/47224-transcript.yml) |
 | Bryson, Chase N. | 51225 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51225-transcript.md) - [yaml](../yaml/51225-transcript.yml) |
 | Buchanan, Kelsey M. | 62014 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62014-transcript.md) - [yaml](../yaml/62014-transcript.yml) |
+| Buck, Joana O. | 52120 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52120-transcript.md) - [yaml](../yaml/52120-transcript.yml) |
 | Budey, Grigoriy I. | 51248 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51248-transcript.md) - [yaml](../yaml/51248-transcript.yml) |
 | Budke, John G. | 32403 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/32403-transcript.md) - [yaml](../yaml/32403-transcript.yml) |
 | Budry, Richard J. | 37043 | Portland Police Bureau | Active | Criminalist | [md](../markdown/37043-transcript.md) - [yaml](../yaml/37043-transcript.yml) |
@@ -1037,7 +1038,6 @@
 | Olmos, Miguel J. | 36271 | Portland Police Bureau | Active | Police Officer | [md](../markdown/36271-transcript.md) - [yaml](../yaml/36271-transcript.yml) |
 | Orellana, Mitchell J. | 44440 | Portland Police Bureau | Active | Detective | [md](../markdown/44440-transcript.md) - [yaml](../yaml/44440-transcript.yml) |
 | Ortez, Armond A. | 18966 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/18966-transcript.md) - [yaml](../yaml/18966-transcript.yml) |
-| Ortiz, Joana | 52120 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52120-transcript.md) - [yaml](../yaml/52120-transcript.yml) |
 | Ortiz, Jose, Jr. | 58302 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58302-transcript.md) - [yaml](../yaml/58302-transcript.yml) |
 | Ortiz, Myrna A. | 59613 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/59613-transcript.md) - [yaml](../yaml/59613-transcript.yml) |
 | Ossenkop, Brian D. | 28330 | Portland Police Bureau | Active | Assistant Chief | [md](../markdown/28330-transcript.md) - [yaml](../yaml/28330-transcript.yml) |

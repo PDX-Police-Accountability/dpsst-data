@@ -100,6 +100,7 @@
 | 6/21/2021 | PDP17126 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 5/5/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 5/5/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 5/4/2021 | PDP19763 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/17/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 4/8/2021 | PDP17591 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
@@ -115,6 +116,7 @@
 | 2/27/2021 | PDP17893 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 2/27/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 2/27/2021 | PDP10276 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
+| 2/20/2021 | PDP22069 | EMT Recertification | Passed | 0.0 | 24.00 |
 | 2/10/2021 | PDP01183 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 1/29/2021 | PDP11460 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 1/29/2021 | PDP18136 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |

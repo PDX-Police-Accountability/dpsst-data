@@ -9,6 +9,12 @@
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 1/31/2022
+  :agency: DOC/South Fork Forest Camp
+  :action: Retired
+  :rank: Corr Offcr
+  :classification: ''
+  :assignment: ''
 - :date: 10/12/1997
   :agency: DOC/South Fork Forest Camp
   :action: Transfered
@@ -52,33 +58,33 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 2/15/2020
+  :certificate: Police Officer
+  :level: Basic
+  :status: Expired
+  :certificate_date: 11/10/1993
+  :expiration_date: ''
+  :probation_date: ''
 - :status_date: 4/8/2002
   :certificate: Corrections Officer
   :level: Advanced
   :status: Granted
   :certificate_date: 4/8/2002
-  :expiration_date: ''
+  :expiration_date: 5/1/2022
   :probation_date: ''
 - :status_date: 7/17/1998
   :certificate: Corrections Officer
   :level: Intermediate
   :status: Granted
   :certificate_date: 7/17/1998
-  :expiration_date: ''
+  :expiration_date: 5/1/2022
   :probation_date: ''
 - :status_date: 11/19/1997
   :certificate: Corrections Officer
   :level: Basic
   :status: Granted
   :certificate_date: 11/19/1997
-  :expiration_date: ''
-  :probation_date: ''
-- :status_date: 7/15/1994
-  :certificate: Police Officer
-  :level: Basic
-  :status: Lapsed
-  :certificate_date: 11/10/1993
-  :expiration_date: ''
+  :expiration_date: 5/1/2022
   :probation_date: ''
 :training_records:
 - :date: 8/20/2021

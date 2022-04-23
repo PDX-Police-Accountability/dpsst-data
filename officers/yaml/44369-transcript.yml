@@ -105,6 +105,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: STP39126
+  :title: Patient Evaluation for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 2/27/2022
   :course: STP35179
   :title: Defensive Tactics

@@ -35,6 +35,7 @@
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP11227 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.15 |
+| 3/30/2022 | PDP39847 | FTEP Orientation Roster | Instructed | 0.0 | 7.00 |
 | 3/22/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/2/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/2/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

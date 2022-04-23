@@ -46,6 +46,7 @@
 | 3/30/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/28/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/28/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Instructed | 0.0 | 4.50 |
 | 3/1/2022 | LOP11723 | EVOC (Pursuit driving, use of force) | Instructed | 0.0 | 4.50 |
 | 2/15/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

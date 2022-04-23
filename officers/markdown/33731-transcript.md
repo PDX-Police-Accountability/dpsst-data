@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2022 | PDN33408 | Drug Identification | Passed | 0.0 | 1.50 |
 | 3/30/2022 | PDN12472 | Self Care for Law Enforcement | Passed | 0.0 | 1.50 |
 | 2/23/2022 | PDN15385 | Crisis Communication | Passed | 0.0 | 1.50 |
 | 2/14/2022 | PDN21940 | Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

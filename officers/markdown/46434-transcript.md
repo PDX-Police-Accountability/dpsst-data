@@ -26,7 +26,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 6/27/2021 | 6/27/2023 |
 | Code of Ethics | Signed | 1/31/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2022 | HSU32901 | PVO Spring In-Service 2022 | Instructed | 0.0 | 2.50 |
+| 4/1/2022 | HSU17509 | Pre Academy PVO 3 | Instructed | 0.0 | 2.00 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

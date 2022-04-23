@@ -49,6 +49,7 @@
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 3/25/2022 | CAP37217 | HB 2513 Airway and Circulatory Crisis Legislation | Passed | 0.0 | 2.00 |
 | 3/16/2022 | F6R37504 | Patrol Rifle Fundamentals and Qualification | Passed | 0.0 | 3.00 |
+| 3/7/2022 | LOP39576 | EVOC (Pursuit Driver, Use of Force) | Passed | 0.0 | 10.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6M27047 | Finding the Leader in You | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6R03814 | Advanced Leadership for a Police Reform Era | Passed | 0.0 | 4.00 |

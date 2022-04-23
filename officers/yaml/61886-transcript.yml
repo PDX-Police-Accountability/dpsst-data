@@ -336,6 +336,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '7.00'
+- :date: 6/2/2021
+  :course: PDP27845
+  :title: 2019-5 Tips  Tech Enforce of Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/27/2021
+  :course: PDP01862
+  :title: 2019-4 Tips  Techniques Emailing Security Reports
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 :attribute_records:
 - :topic: Code of Ethics
   :value: Law Enforcement Signed

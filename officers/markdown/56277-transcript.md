@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 9/9/2021 | F6E31333 | Taser Annual Recertification | Passed | 0.0 | 3.00 |
 | 9/6/2021 | F6F20454 | Less Lethal Impact Munitions | Passed | 0.0 | 4.00 |

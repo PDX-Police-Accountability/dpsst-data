@@ -44,6 +44,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/13/2022
+  :course: PDP11495
+  :title: EDU weekly training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/27/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

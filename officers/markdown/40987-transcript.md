@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2022 | PDP11495 | EDU weekly training | Passed | 0.0 | 9.00 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2022 | PDP24491 | Advanced Shotgun Operator Course | Passed | 0.0 | 18.00 |
 | 2/7/2022 | PDP25973 | 2021 Online Crowd Control - CAO Part 1 | Passed | 0.0 | 1.00 |
 | 2/7/2022 | PDP33654 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
 | 2/7/2022 | PDP03989 | 2021 Online Crowd Control - CAO Part 2 | Passed | 0.0 | 1.00 |

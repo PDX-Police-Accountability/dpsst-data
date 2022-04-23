@@ -77,5 +77,14 @@
 | 7/20/2021 | PDP14760 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 6/18/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 6/18/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 6/18/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 6/18/2021 | PDP27318 | 2020 Presumpt Declination of DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP34631 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP30005 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
+| 6/18/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP27845 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP22301 | 2020-4 CAO Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
+| 6/18/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 6/2/2021 | PDP31460 | 2018 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP40835 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP01862 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |

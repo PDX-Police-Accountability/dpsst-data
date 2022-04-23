@@ -106,6 +106,8 @@
 | 4/22/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/22/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 4/22/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 4/22/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 4/22/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 2/15/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 2/10/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/10/2021 | PDP41314 | 2021-1 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

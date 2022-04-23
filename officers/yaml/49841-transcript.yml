@@ -36,6 +36,12 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 4/8/2022
+  :course: BNS36224
+  :title: Vehicle Assaults/Night Vision/SWAT
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 3/7/2022
   :course: PDP17743
   :title: 2021-8 City Attorney's Legal Updates - Aug. 2021

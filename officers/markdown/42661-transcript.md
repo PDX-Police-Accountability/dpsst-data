@@ -100,6 +100,7 @@
 | 4/20/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/19/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/19/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 4/19/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/16/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 3/16/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 1/27/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

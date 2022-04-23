@@ -29,6 +29,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/18/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Passed | 0.0 | 5.00 |
+| 4/8/2022 | PDP23369 | FTEP Pre-DPSST Firearms training | Passed | 0.0 | 7.00 |
+| 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
+| 4/5/2022 | PDP28507 | FTEP pre-DPSST firearms | Passed | 0.0 | 7.00 |
 | 3/8/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

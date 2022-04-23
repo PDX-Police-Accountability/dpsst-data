@@ -96,6 +96,8 @@
 | 7/14/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/14/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/16/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 6/14/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 3/24/2021 | PDP38908 | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 3/23/2021 | PDP15770 | 2021 Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 3/18/2021 | PDP14301 | 2021 FTEP Orientation | Passed | 0.0 | 6.00 |

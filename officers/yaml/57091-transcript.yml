@@ -36,6 +36,30 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/14/2022
+  :course: PDP00502
+  :title: FTEP Pre-DPSST firearms
+  :status: Instructed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/11/2022
+  :course: PDP08605
+  :title: 2022 Return to Work
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 4/8/2022
+  :course: PDP23369
+  :title: FTEP Pre-DPSST Firearms training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 4/5/2022
+  :course: PDP28507
+  :title: FTEP pre-DPSST firearms
+  :status: Instructed
+  :score: '0.0'
+  :hours: '7.00'
 - :date: 3/31/2022
   :course: PDP38269
   :title: 2021-12 City Attorney's Legal Update for Dec. 2021

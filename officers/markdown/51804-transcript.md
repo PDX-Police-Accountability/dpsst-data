@@ -77,6 +77,7 @@
 | 10/1/2021 | PDP17817 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 9/30/2021 | PDP34164 | 2021 AR-15 Operators In-Service Training | Passed | 0.0 | 9.00 |
 | 9/30/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
+| 9/6/2021 | PDP41262 | UPSET Recovery  Prevention | Passed | 0.0 | 24.00 |
 | 9/1/2021 | PDP01693 | 2021 Training All Sworn Crowd Control Training CAO | Passed | 0.0 | 2.00 |
 | 9/1/2021 | PDP22338 | 2021 Training All Sworn Crowd Control Training Chi | Passed | 0.0 | 0.42 |
 | 9/1/2021 | PDP25601 | 2021 Training All Sworn Crowd Control Training Int | Passed | 0.0 | 0.08 |

@@ -98,6 +98,7 @@
 | 7/21/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/21/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/12/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/28/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/12/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/21/2021 | PDP37735 | 2021 FTEP Post Basic Use of Force Class | Passed | 0.0 | 7.00 |

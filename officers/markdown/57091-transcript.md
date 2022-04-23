@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Instructed | 0.0 | 5.00 |
+| 4/11/2022 | PDP08605 | 2022 Return to Work | Instructed | 0.0 | 3.50 |
+| 4/8/2022 | PDP23369 | FTEP Pre-DPSST Firearms training | Instructed | 0.0 | 7.00 |
+| 4/5/2022 | PDP28507 | FTEP pre-DPSST firearms | Instructed | 0.0 | 7.00 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP11227 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.15 |

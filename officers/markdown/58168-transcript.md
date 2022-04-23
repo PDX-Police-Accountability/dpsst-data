@@ -101,6 +101,12 @@
 | 6/19/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 6/19/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 6/19/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 6/19/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 6/19/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 6/7/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 6/7/2021 | PDP34631 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
+| 5/30/2021 | PDP27318 | 2020 Presumpt Declination of DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
+| 5/30/2021 | PDP22301 | 2020-4 CAO Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 8/9/2020 | PDP42651 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 7/10/2020 | PDP26027 | 2020-2 City Attorney's Office Legal Updates 2/2020 | Passed | 0.0 | 0.50 |

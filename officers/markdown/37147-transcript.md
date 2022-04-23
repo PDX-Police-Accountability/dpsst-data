@@ -51,6 +51,7 @@
 | 1/5/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/5/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
 | 12/16/2021 | PDP08883 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 12/15/2021 | PDP31957 | Intro to Child Sex Trafficking | Passed | 0.0 | 1.25 |
 | 12/13/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 12/13/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 12/8/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

@@ -9,6 +9,12 @@
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 2/22/2022
+  :agency: Forest Grove Police Department
+  :action: Hired
+  :rank: Captain
+  :classification: ''
+  :assignment: ''
 - :date: 1/19/2021
   :agency: Portland Police Bureau
   :action: Retired
@@ -81,12 +87,48 @@
   :expiration_date: 1/19/2026
   :probation_date: ''
 :training_records:
+- :date: 2/22/2023
+  :course: REQMGMT
+  :title: 'REQUIRED TRAINING:  Management'
+  :status: Required
+  :score: '0.0'
+  :hours: '0.00'
+- :date: 4/19/2022
+  :course: FGP17600
+  :title: Patrol Tactics/Building Search Con Sim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/8/2022
+  :course: FGP37598
+  :title: ACAP Carotid Restraint Policy Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/8/2022
+  :course: FGP05906
+  :title: Patrol Tactics/Building Search Con Sim
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/31/2022
   :course: F6R27961
   :title: CPR and First Aid Refresher Training
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
+- :date: 3/16/2022
+  :course: FGP28057
+  :title: 2022 Airways Training Video Pat. Eval for LE ACAP
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 3/16/2022
+  :course: FGP19256
+  :title: 2022 Airways Training Video Pat. Eval for LE ACAP
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 3/15/2022
   :course: F6R01453
   :title: Use of Force Legislative and Policy Reviews

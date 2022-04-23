@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/11/2022
+  :course: PDP08605
+  :title: 2022 Return to Work
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
 - :date: 1/1/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification

@@ -77,3 +77,4 @@
 | 7/20/2021 | PDP14760 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 6/18/2021 | PDP31460 | 2018 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 6/18/2021 | PDP40835 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
+| 6/2/2021 | PDP30005 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |

@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/24/2022 | VND30146 | CMV Inspection Law Enforcement Refresher Class | Passed | 0.0 | 4.00 |
 | 2/17/2022 | OCP43120 | Leadership and Succession Planning | Passed | 0.0 | 4.50 |
 | 1/31/2022 | OCP30741 | DUII refresher | Instructed | 0.0 | 0.75 |

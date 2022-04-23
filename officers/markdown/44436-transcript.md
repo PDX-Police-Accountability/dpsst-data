@@ -126,6 +126,7 @@
 | 5/27/2021 | PDP17314 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/20/2021 | PDP31055 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 4/23/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
+| 4/16/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 4/1/2021 | PDP08245 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/1/2021 | PDP09037 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 4/1/2021 | PDP05480 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |

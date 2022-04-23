@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/31/2022 | DOC/South Fork Forest Camp | Retired | Corr Offcr |  |  |
 | 10/12/1997 | DOC/South Fork Forest Camp | Transfered | Corr Offcr |  |  |
 | 10/11/1997 | DOC/Columbia River Correctional Institut | DOC-Transf | Corr Offcr |  |  |
 | 11/19/1996 | DOC/Columbia River Correctional Institut | Hired | Corr Offcr |  |  |
@@ -22,10 +23,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/8/2002 | Corrections Officer | Advanced | Granted | 4/8/2002 |  |  |
-| 7/17/1998 | Corrections Officer | Intermediate | Granted | 7/17/1998 |  |  |
-| 11/19/1997 | Corrections Officer | Basic | Granted | 11/19/1997 |  |  |
-| 7/15/1994 | Police Officer | Basic | Lapsed | 11/10/1993 |  |  |
+| 2/15/2020 | Police Officer | Basic | Expired | 11/10/1993 |  |  |
+| 4/8/2002 | Corrections Officer | Advanced | Granted | 4/8/2002 | 5/1/2022 |  |
+| 7/17/1998 | Corrections Officer | Intermediate | Granted | 7/17/1998 | 5/1/2022 |  |
+| 11/19/1997 | Corrections Officer | Basic | Granted | 11/19/1997 | 5/1/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

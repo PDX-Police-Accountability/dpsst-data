@@ -24,8 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
 | Code of Ethics | Signed | 7/25/2002 |  |
 ## Education
@@ -36,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 4/21/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/1/2022 | MFP27055 | Diversity 101 | Passed | 0.0 | 1.00 |
 | 4/1/2022 | MFP42698 | EVOC March/April 2022 | Passed | 0.0 | 4.00 |
 | 4/1/2022 | MFP22865 | Mobile Use of Force Concepts | Passed | 0.0 | 3.00 |

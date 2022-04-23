@@ -44,6 +44,7 @@
 | 4/8/2022 | LOP20667 | Red Door Project Evolve Experience - Ethics | Passed | 0.0 | 1.00 |
 | 4/8/2022 | LOP19148 | Red Door Project Evolve Experience | Passed | 0.0 | 2.00 |
 | 3/17/2022 | LOP15638 | Defensive Tactics High Risk Handcuffing | Passed | 0.0 | 2.00 |
+| 3/11/2022 | LOP01108 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/2/2022 | LOP33179 | Police Officer Hold, Designee Holds  More | Passed | 0.0 | 0.50 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2021 | LOP25237 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |

@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/14/2022
+  :course: PDP24491
+  :title: Advanced Shotgun Operator Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
 - :date: 2/7/2022
   :course: PDP25973
   :title: 2021 Online Crowd Control - CAO Part 1

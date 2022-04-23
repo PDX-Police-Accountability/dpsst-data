@@ -60,6 +60,7 @@
 | 12/15/2021 | PDP03342 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 12/15/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 12/10/2021 | PDP28358 | NTOA Swat Command I course | Passed | 0.0 | 40.00 |
 | 11/23/2021 | PDP27581 | 2021 Sworn Supervisor In-Service Resonable Susp. | Passed | 0.0 | 1.00 |
 | 11/23/2021 | PDP43275 | 2021 Sworn Supervisor In-Service Proceed. Justice | Passed | 0.0 | 1.30 |
 | 11/23/2021 | PDP05202 | 2021 Sworn Supervisor In-Service UDAR | Passed | 0.0 | 1.00 |

@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2022 | ADP30708 | Crime Scene Investigation | Passed | 0.0 | 1.00 |
+| 4/12/2022 | ADP39215 | Cops/Firefighters-How to Help Each Other | Passed | 0.0 | 1.00 |
 | 4/8/2022 | ADP37728 | Less Lethal Shotgun and Ballistic Shield Refresher | Passed | 0.0 | 3.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/11/2022 | ADP31469 | Firearms Training-Pistol | Passed | 0.0 | 4.00 |

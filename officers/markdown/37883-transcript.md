@@ -96,6 +96,7 @@
 | 6/24/2021 | PDP06069 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 5/26/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 5/26/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 5/20/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/20/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/20/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

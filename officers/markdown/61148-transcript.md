@@ -97,6 +97,10 @@
 | 7/14/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP31460 | 2018 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP40835 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 6/7/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP01862 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP27845 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
 | 2/26/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 2/24/2021 | PDP30240 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |

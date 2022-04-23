@@ -56,6 +56,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/12/2022
+  :course: ADP30708
+  :title: Crime Scene Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/12/2022
+  :course: ADP39215
+  :title: Cops/Firefighters-How to Help Each Other
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 4/8/2022
   :course: ADP37728
   :title: Less Lethal Shotgun and Ballistic Shield Refresher

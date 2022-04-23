@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/22/2022 | Forest Grove Police Department | Hired | Captain |  |  |
 | 1/19/2021 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 11/15/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/9/1993 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -39,7 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/19/2022 | FGP17600 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 1.00 |
+| 4/8/2022 | FGP37598 | ACAP Carotid Restraint Policy Review | Passed | 0.0 | 0.25 |
+| 4/8/2022 | FGP05906 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 2.00 |
 | 3/31/2022 | F6R27961 | CPR and First Aid Refresher Training | Passed | 0.0 | 2.00 |
+| 3/16/2022 | FGP28057 | 2022 Airways Training Video Pat. Eval for LE ACAP | Passed | 0.0 | 1.75 |
+| 3/16/2022 | FGP19256 | 2022 Airways Training Video Pat. Eval for LE ACAP | Passed | 0.0 | 1.75 |
 | 3/15/2022 | F6R01453 | Use of Force Legislative and Policy Reviews | Instructed | 0.0 | 6.00 |
 | 3/3/2022 | F6R04359 | Firearms Transition and Reload Drills | Instructed | 0.0 | 1.00 |
 | 3/3/2022 | F6R14638 | Lateral Officer Firearms Training  Qualification | Passed | 0.0 | 1.00 |

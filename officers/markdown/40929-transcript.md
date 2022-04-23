@@ -36,7 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2022 | HSU13774 | Pre Academy Firearms 9 | Instructed | 0.0 | 4.00 |
 | 4/3/2022 | HSU28325 | Firearms Spring In-Service 2022 | Instructed | 0.0 | 4.00 |
+| 4/1/2022 | HSU22593 | Pre Academy Firearms 8 | Instructed | 0.0 | 4.00 |
 | 3/31/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/26/2022 | HSU04230 | Instructor In-Service Firearms Spring 2022 | Instructed | 0.0 | 4.00 |
 | 3/25/2022 | HSU13363 | Pre Academy Firearms 7 | Instructed | 0.0 | 4.00 |

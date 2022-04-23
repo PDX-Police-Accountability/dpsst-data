@@ -3,7 +3,7 @@
   :name: Bredahl, Julianna R.
   :dpsst_identifier: '59840'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
@@ -12,6 +12,12 @@
 - :date: 4/19/2022
   :agency: Oregon City Police Department
   :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+- :date: 4/6/2022
+  :agency: Portland Police Bureau
+  :action: Resigned
   :rank: Police Off
   :classification: ''
   :assignment: ''

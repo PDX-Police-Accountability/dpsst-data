@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2022 | PDP08605 | 2022 Return to Work | Passed | 0.0 | 3.50 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 9/6/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 9/6/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

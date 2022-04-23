@@ -83,6 +83,7 @@
 | 6/4/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/22/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/22/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 4/22/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 4/16/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/16/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 2/15/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |

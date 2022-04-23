@@ -62,6 +62,30 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/19/2022
+  :course: FGP17600
+  :title: Patrol Tactics/Building Search Con Sim
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/8/2022
+  :course: FGP37598
+  :title: ACAP Carotid Restraint Policy Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/16/2022
+  :course: FGP28057
+  :title: 2022 Airways Training Video Pat. Eval for LE ACAP
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 3/16/2022
+  :course: FGP19256
+  :title: 2022 Airways Training Video Pat. Eval for LE ACAP
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 1/26/2022
   :course: FGP01150
   :title: High Throughput Property Crime DNA Analysis

@@ -87,6 +87,7 @@
 | 6/21/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/21/2021 | PDP17126 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/7/2021 | F6E00725 | The Evolve Experienve | Passed | 0.0 | 3.00 |
+| 6/7/2021 | PDP06792 | The evolve experience-Red Door Project | Passed | 0.0 | 3.00 |
 | 6/1/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/1/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

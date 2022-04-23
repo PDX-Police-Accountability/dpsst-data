@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/28/2022 | 07737 | EVOC (Pursuit driving, use of force) | Passed | 0.0 | 10.00 |
+| 2/28/2022 | LOP21003 | EVOC (Pursuit driving, use of force) | Passed | 0.0 | 10.00 |
 | 1/12/2022 | GSP01410 | SWAT Firearms | Passed | 0.0 | 10.00 |
 | 12/16/2021 | PDS22460 | SWAT Training | Passed | 0.0 | 20.00 |
 | 12/8/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

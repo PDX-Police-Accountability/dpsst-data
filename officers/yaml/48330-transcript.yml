@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/19/2022
+  :course: GSP19422
+  :title: Incident Response Vehicle Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
 - :date: 1/5/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

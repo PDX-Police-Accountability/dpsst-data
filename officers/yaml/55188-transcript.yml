@@ -438,6 +438,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.25'
+- :date: 5/5/2021
+  :course: PDP37264
+  :title: Annual CIU NTR Alarm Response Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/4/2021
   :course: PDP19763
   :title: 2021 CNT Crisis Negotiation Team Annual Training
@@ -528,6 +534,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/20/2021
+  :course: PDP22069
+  :title: EMT Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 2/10/2021
   :course: PDP01183
   :title: 2021 CNT Crisis Negotiation Team Annual Training

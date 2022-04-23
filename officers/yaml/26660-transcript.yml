@@ -80,6 +80,18 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 4/15/2022
+  :course: HSU13774
+  :title: Pre Academy Firearms 9
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/1/2022
+  :course: HSU22593
+  :title: Pre Academy Firearms 8
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/26/2022
   :course: HSU04230
   :title: Instructor In-Service Firearms Spring 2022

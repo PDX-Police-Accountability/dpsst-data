@@ -67,8 +67,13 @@
 | 8/3/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/8/2021 | PDP29780 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/31/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 5/31/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 5/25/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 5/25/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
+| 5/25/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 5/11/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 5/10/2021 | PDP34631 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
+| 5/10/2021 | PDP22301 | 2020-4 CAO Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 9/30/2020 | PDP23847 | 2020-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/30/2020 | PDP07624 | 2020-2 Range Qualification CEW | Passed | 0.0 | 0.25 |

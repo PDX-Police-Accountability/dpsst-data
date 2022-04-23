@@ -79,3 +79,5 @@
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |
 | 7/22/2021 | PDP35087 | 2021 FTEP Pre-DPSST Use of Force Class | Passed | 0.0 | 0.50 |
 | 7/20/2021 | PDP14760 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
+| 6/2/2021 | PDP27845 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
+| 5/27/2021 | PDP01862 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |

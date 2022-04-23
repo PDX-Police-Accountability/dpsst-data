@@ -62,6 +62,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/9/2022
+  :course: LOP18296
+  :title: EVOC (Pursuit Driving, Use of Force)
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
 - :date: 2/23/2022
   :course: PDS43691
   :title: Firearms Training

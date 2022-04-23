@@ -105,10 +105,17 @@
 | 5/10/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 5/10/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 5/10/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
+| 5/10/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 5/10/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 5/4/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/4/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/4/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/4/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 5/3/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 5/3/2021 | PDP27318 | 2020 Presumpt Declination of DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
+| 5/3/2021 | PDP34631 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
+| 5/3/2021 | PDP30005 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
+| 5/3/2021 | PDP22301 | 2020-4 CAO Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 1/27/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/22/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |

@@ -80,6 +80,7 @@
 | 7/17/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/17/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/15/2021 | PDP34510 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/13/2021 | PDP09786 | 2018-3 Tips  Techniques Shooting Through Barriers | Passed | 0.0 | 0.25 |
 | 5/16/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/16/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/16/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

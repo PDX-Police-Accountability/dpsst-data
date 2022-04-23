@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/15/2022
+  :course: HSU24966
+  :title: Pre Academy Defensive Tactics 4
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/3/2022
   :course: HSU26856
   :title: Defensive Tactics Spring In-Service 2022

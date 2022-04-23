@@ -62,6 +62,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/14/2022
+  :course: TGP08898
+  :title: LEDA Training Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
 - :date: 4/5/2022
   :course: SMS10019
   :title: Glock Armorer Course

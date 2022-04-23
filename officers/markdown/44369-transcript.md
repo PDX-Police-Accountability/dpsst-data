@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2022 | STP39126 | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |
 | 2/27/2022 | STP35179 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 2/26/2022 | STP39198 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 2/7/2022 | STP34604 | Night Range and Night Qaulification 02/7-8/2022 | Passed | 0.0 | 4.00 |

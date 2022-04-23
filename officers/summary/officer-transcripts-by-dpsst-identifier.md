@@ -1120,7 +1120,7 @@
 | Temple, Elise K. | 52043 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/52043-transcript.md) - [yaml](../yaml/52043-transcript.yml) |
 | Klauzer, Leland T. | 52113 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/52113-transcript.md) - [yaml](../yaml/52113-transcript.yml) |
 | Sherwood, Michael B. | 52117 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52117-transcript.md) - [yaml](../yaml/52117-transcript.yml) |
-| Ortiz, Joana | 52120 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52120-transcript.md) - [yaml](../yaml/52120-transcript.yml) |
+| Buck, Joana O. | 52120 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52120-transcript.md) - [yaml](../yaml/52120-transcript.yml) |
 | Honl, Caleb M. | 52153 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52153-transcript.md) - [yaml](../yaml/52153-transcript.yml) |
 | Harris, Benjamin D. | 52171 | Portland Police Bureau | Active | Detective | [md](../markdown/52171-transcript.md) - [yaml](../yaml/52171-transcript.yml) |
 | Green, William D. | 52227 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52227-transcript.md) - [yaml](../yaml/52227-transcript.yml) |
@@ -1411,7 +1411,7 @@
 | Fenske, McKay H. | 59776 | Portland Police Bureau | Active | Police Officer | [md](../markdown/59776-transcript.md) - [yaml](../yaml/59776-transcript.yml) |
 | Morales, Nicholas D. | 59830 | Portland Police Bureau | Active | Police Officer | [md](../markdown/59830-transcript.md) - [yaml](../yaml/59830-transcript.yml) |
 | Voltolini, Samantha L. | 59839 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/59839-transcript.md) - [yaml](../yaml/59839-transcript.yml) |
-| Bredahl, Julianna R. | 59840 | Portland Police Bureau | Active | Police Officer | [md](../markdown/59840-transcript.md) - [yaml](../yaml/59840-transcript.yml) |
+| Bredahl, Julianna R. | 59840 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/59840-transcript.md) - [yaml](../yaml/59840-transcript.yml) |
 | Ramirez, Dean B. | 59856 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/59856-transcript.md) - [yaml](../yaml/59856-transcript.yml) |
 | Matlock, Dustyn K. | 59904 | Portland Police Bureau | Active | Police Officer | [md](../markdown/59904-transcript.md) - [yaml](../yaml/59904-transcript.yml) |
 | Wambold, Nicholas A. | 59907 | Portland Police Bureau | Active | Police Officer | [md](../markdown/59907-transcript.md) - [yaml](../yaml/59907-transcript.yml) |

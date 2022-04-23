@@ -95,6 +95,8 @@
 | 7/15/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/1/2021 | PDP35511 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/14/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 6/14/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 2/24/2021 | PDP30240 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/18/2021 | PDP03271 | FTEP Post Basic Use of Force Class | Passed | 0.0 | 5.00 |

@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
+| 4/14/2022 | BNP05084 | UAS Search  Rescue | Passed | 0.0 | 3.00 |
 | 3/8/2022 | BNP09673 | UAS Monthly Training - MARCH 2022 | Passed | 0.0 | 4.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/11/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
