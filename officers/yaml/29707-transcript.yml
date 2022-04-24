@@ -107,12 +107,24 @@
   :status: Instructed
   :score: '0.0'
   :hours: '4.50'
+- :date: 3/9/2022
+  :course: LOP19092
+  :title: EVOC (Driving, Use of Force)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/1/2022
   :course: LOP11723
   :title: EVOC (Pursuit driving, use of force)
   :status: Instructed
   :score: '0.0'
   :hours: '4.50'
+- :date: 3/1/2022
+  :course: LOP36286
+  :title: EVOC (Driving, Use of Force)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 2/15/2022
   :course: PDP34522
   :title: Interacting with Member LGBTQIA2S+ Chief's Message

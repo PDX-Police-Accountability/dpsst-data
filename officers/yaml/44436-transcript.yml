@@ -51,6 +51,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/6/2022
+  :course: PDP24684
+  :title: EDU Disposal Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 3/30/2022
+  :course: PDP37993
+  :title: EDU-Robert/UAV Integration Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/28/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

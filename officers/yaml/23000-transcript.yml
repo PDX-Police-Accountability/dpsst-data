@@ -161,6 +161,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/9/2022
+  :course: LOP19092
+  :title: EVOC (Driving, Use of Force)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 12/30/2021
   :course: PDS21233
   :title: OSHA  Bloodborne Pathogens

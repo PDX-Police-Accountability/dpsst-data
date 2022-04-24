@@ -31,6 +31,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/28/2022
+  :course: PDP03333
+  :title: EAP Peer Support role in critical incidents
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 2/23/2022
   :course: PDP17743
   :title: 2021-8 City Attorney's Legal Updates - Aug. 2021

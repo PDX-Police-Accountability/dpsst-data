@@ -49,6 +49,7 @@
 | 12/18/2021 | F6M17138 | Firearms Night Shoot | Passed | 0.0 | 2.00 |
 | 11/8/2021 | F6K13823 | EVOC - PIT Training | Passed | 0.0 | 1.00 |
 | 11/3/2021 | F6F23678 | EVOC | Passed | 0.0 | 2.00 |
+| 10/21/2021 | ICE22235 | De-Escalation and Reasonable Use of Force | Passed | 0.0 | 2.00 |
 | 10/1/2021 | F6K15665 | Firearms | Passed | 0.0 | 4.00 |
 | 9/30/2021 | F6F05358 | Current Hiring Strategies for Law Enforcement Pro. | Passed | 0.0 | 1.00 |
 | 9/30/2021 | F6F11529 | Arbitration Reform (HB 2930) - Implications  Imp. | Passed | 0.0 | 2.00 |

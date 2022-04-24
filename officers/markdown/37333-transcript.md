@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2022 | PDP03333 | EAP Peer Support role in critical incidents | Passed | 0.0 | 8.00 |
 | 9/24/2021 | PDP28819 | 2021 EAP Bldg  Restoring Resilience | Passed | 0.0 | 7.00 |
 | 9/5/2018 | F6D15451 | ICISF Suicide Prevention, Intervention,  Postven | Passed | 0.0 | 14.00 |
 | 5/4/2018 | PDP05409 | 2018 EAP Training Individuals in Crisis CISM | Passed | 0.0 | 16.00 |

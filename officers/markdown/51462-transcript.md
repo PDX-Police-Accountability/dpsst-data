@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2022 | LOP19092 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/10/2022 | PDS05076 | Firearms Training | Passed | 0.0 | 8.00 |
 | 12/16/2021 | PDS08708 | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/13/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

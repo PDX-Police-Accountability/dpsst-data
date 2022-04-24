@@ -29,6 +29,12 @@
   :assignment: ''
 :certification_records: []
 :training_records:
+- :date: 3/8/2022
+  :course: LOP23447
+  :title: EVOC (Driving, Use of Force)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 1/10/2022
   :course: PDS05076
   :title: Firearms Training

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/7/2022 | PPP34624 | Body Worn Camera Operation and Policy | Passed | 0.0 | 2.00 |
+| 3/1/2022 | LOP36286 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2021 | PPP22451 | Anti-Bias Training For LE | Passed | 0.0 | 1.00 |
 | 10/23/2021 | PPP40636 | Firearms Training | Passed | 0.0 | 4.00 |

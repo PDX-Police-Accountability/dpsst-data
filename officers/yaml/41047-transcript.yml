@@ -50,12 +50,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 4/6/2022
+  :course: PDP24684
+  :title: EDU Disposal Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 3/30/2022
+  :course: PDP37993
+  :title: EDU-Robert/UAV Integration Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/27/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/16/2022
+  :course: PDP39778
+  :title: EDU weekly Robot Breaching Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 3/3/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification

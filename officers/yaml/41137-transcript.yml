@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: OSH35174
+  :title: DRE Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 3/14/2022
   :course: PDP10575
   :title: 2022 EAP-Crisis Planning

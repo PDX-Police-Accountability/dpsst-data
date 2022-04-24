@@ -26,6 +26,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2022 | CVP04595 | Mass Casualty: Rapid Response to School Shooters | Passed | 0.0 | 8.00 |
+| 3/28/2022 | PDP03333 | EAP Peer Support role in critical incidents | Passed | 0.0 | 8.00 |
 | 6/15/2021 | PDP41158 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/11/2021 | PDP10015 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/5/2021 | F6D27996 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |

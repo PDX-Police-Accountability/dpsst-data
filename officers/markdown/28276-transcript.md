@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 3/31/2022 | SVP43019 | How Physical  Mental Wellbeing Affects Perforance | Passed | 0.0 | 1.00 |
 | 3/29/2022 | SVP28511 | HB 4008 (Crowd Management) | Passed | 0.0 | 0.50 |
 | 3/9/2022 | SVP18092 | Firearms Night Range | Instructed | 0.0 | 2.00 |
 | 3/9/2022 | SVP18092 | Firearms Night Range | Passed | 0.0 | 2.00 |

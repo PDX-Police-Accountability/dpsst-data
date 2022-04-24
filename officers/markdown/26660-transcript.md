@@ -144,7 +144,6 @@
 | 3/12/2020 | PDP18917 | 2020 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/11/2020 | PDP00271 | 2020 SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 3/10/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/5/2020 | PDP32313 | 2020 InService Patrol Proc-EmergencyEntry Scenario | Passed | 0.0 | 1.50 |

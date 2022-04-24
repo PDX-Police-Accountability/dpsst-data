@@ -68,6 +68,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/9/2022
+  :course: LOP19092
+  :title: EVOC (Driving, Use of Force)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 2/24/2022
   :course: GSP27988
   :title: Video Evidence Collection

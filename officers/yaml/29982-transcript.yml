@@ -63,6 +63,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: SVP36695
+  :title: Building Clearing Simunitions Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/13/2022
+  :course: SVP25245
+  :title: Developing  Implementing Outward Mindset
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 3/31/2022
+  :course: SVP43019
+  :title: How Physical  Mental Wellbeing Affects Perforance
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/29/2022
   :course: SVP28511
   :title: HB 4008 (Crowd Management)

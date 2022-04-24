@@ -30,12 +30,30 @@
   :status: Required
   :score: '0.0'
   :hours: '50.00'
+- :date: 3/31/2022
+  :course: PDP19016
+  :title: FTEP Geography Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/30/2022
   :course: PDP39847
   :title: FTEP Orientation Roster
   :status: Passed
   :score: '0.0'
   :hours: '7.00'
+- :date: 3/25/2022
+  :course: PDP33047
+  :title: FTEP Post DPSST Basic Taser Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 3/24/2022
+  :course: PDP40833
+  :title: MRE/RMS RegJIN Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
 - :date: 3/22/2022
   :course: PDP30287
   :title: 2021 Response to Calls Involving Youth
@@ -60,6 +78,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/22/2022
+  :course: PDP26641
+  :title: FTEP Post DPSST Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
 - :date: 3/21/2022
   :course: PDP13897
   :title: 2020-12 City Attorney's Legal Updates Dec. 2020

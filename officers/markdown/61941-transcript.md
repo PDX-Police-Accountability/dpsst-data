@@ -28,11 +28,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/27/2022 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/31/2022 | PDP19016 | FTEP Geography Training | Passed | 0.0 | 3.00 |
 | 3/30/2022 | PDP39847 | FTEP Orientation Roster | Passed | 0.0 | 7.00 |
+| 3/25/2022 | PDP33047 | FTEP Post DPSST Basic Taser Training | Passed | 0.0 | 6.00 |
+| 3/24/2022 | PDP40833 | MRE/RMS RegJIN Training | Passed | 0.0 | 16.00 |
 | 3/22/2022 | PDP30287 | 2021 Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 3/22/2022 | PDP03389 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 3/22/2022 | PDP40339 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/22/2022 | PDP31907 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 3/22/2022 | PDP26641 | FTEP Post DPSST Firearms Training | Passed | 0.0 | 2.50 |
 | 3/21/2022 | PDP13897 | 2020-12 City Attorney's Legal Updates Dec. 2020 | Passed | 0.0 | 0.25 |
 | 3/21/2022 | PDP08855 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 3/21/2022 | PDP40158 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |

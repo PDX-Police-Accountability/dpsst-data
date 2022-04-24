@@ -354,6 +354,7 @@
 | 7/19/2017 | PPB24697 | Leading Through the Racial Equity Lens | Passed | 0.0 | 4.00 |
 | 5/31/2017 | PPB24454 | Handgun Qualification - Primary Sidearm | Passed | 0.0 | 0.50 |
 | 5/31/2017 | PPB24460 | Shotgun Qualification | Passed | 0.0 | 0.50 |
+| 5/18/2017 | PDP09231 | I-300 Intermediate ICS for Expanding Incidents | Passed | 0.0 | 16.00 |
 | 4/30/2017 | PPB24668 | Mental Health Template: Audit Tool for Sgts | Passed | 0.0 | 0.25 |
 | 4/30/2017 | PPB24788 | Window of Opportunity | Passed | 0.0 | 0.25 |
 | 4/12/2017 | PPB24518 | Crowd Control Incident Command and Planning | Passed | 0.0 | 14.00 |

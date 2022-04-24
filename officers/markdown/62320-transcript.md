@@ -33,5 +33,8 @@
 | 3/17/2022 | PDP27509 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 3/17/2022 | PDP17881 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
 | 3/14/2022 | PDP07675 | 2022 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
+| 3/10/2022 | PDP04379 | FTEP Post DPSST Firearms training | Passed | 0.0 | 6.00 |
+| 3/9/2022 | PDP21595 | FTEP Post DPSST Firearms Training | Passed | 0.0 | 6.00 |
+| 3/8/2022 | PDP09207 | FTEP Post DPSST Firearms Training | Passed | 0.0 | 4.50 |
 | 2/7/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/26/2022 | PDP22752 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
