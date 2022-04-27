@@ -43,6 +43,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/5/2022
+  :course: BVP35408
+  :title: Blood Draw  Vehicle Extractions HB 4301
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/5/2022
+  :course: BVP27801
+  :title: Taser Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/5/2022
+  :course: BVP21253
+  :title: Blood Draw  Vehicle Extractions Control Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 2/22/2022
   :course: BVP18356
   :title: CPR/First Aid Adult and Child Recertification

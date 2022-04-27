@@ -38,6 +38,7 @@
 | 3/22/2022 | PPP14364 | Street Survival Seminar | Passed | 0.0 | 16.00 |
 | 3/3/2022 | LOP22709 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 2/9/2022 | PPP10488 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |
+| 1/29/2022 | PPP25776 | Range | Passed | 0.0 | 4.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2021 | PPP13354 | De-escalation and Reasonable Use of Force | Passed | 0.0 | 2.00 |
 | 11/30/2021 | PPP22451 | Anti-Bias Training For LE | Passed | 0.0 | 1.00 |

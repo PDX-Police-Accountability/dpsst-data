@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2022 | BVP35408 | Blood Draw  Vehicle Extractions HB 4301 | Passed | 0.0 | 0.50 |
+| 4/1/2022 | BVP21253 | Blood Draw  Vehicle Extractions Control Tactics | Passed | 0.0 | 2.00 |
+| 4/1/2022 | BVP27801 | Taser Recertification | Passed | 0.0 | 2.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/25/2022 | BVP18356 | CPR/First Aid Adult and Child Recertification | Passed | 0.0 | 2.00 |
 | 2/25/2022 | BVP38644 | SFST Refresher | Passed | 0.0 | 4.00 |

@@ -101,6 +101,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/21/2022
+  :course: WLP09760
+  :title: 2022 Airways Training Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/2/2022
   :course: LOP18982
   :title: EVOC (Driving, Use of Force)

@@ -93,6 +93,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/21/2022
+  :course: WLP09760
+  :title: 2022 Airways Training Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/11/2022
   :course: VND24646
   :title: Advanced Strangulation Training
