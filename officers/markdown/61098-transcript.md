@@ -97,6 +97,11 @@
 | 7/1/2021 | PDP35511 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/14/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 6/14/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 6/14/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP26095 | 2021 Legal Bulletin Efx Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
+| 6/14/2021 | PDP15598 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 2/24/2021 | PDP30240 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/18/2021 | PDP03271 | FTEP Post Basic Use of Force Class | Passed | 0.0 | 5.00 |

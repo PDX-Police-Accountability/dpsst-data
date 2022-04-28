@@ -94,6 +94,10 @@
 | 7/2/2021 | PDP18776 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/2/2021 | PDP15440 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/1/2021 | PDP27907 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/30/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/11/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 5/27/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/27/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/25/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 4/8/2021 | PDP43005 | SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 3/30/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |

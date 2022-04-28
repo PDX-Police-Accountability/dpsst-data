@@ -446,6 +446,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 6/12/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 6/11/2021
   :course: F6E18528
   :title: Increasing Resilience in First Responders
@@ -464,6 +470,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '6.00'
+- :date: 6/5/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/28/2021
   :course: PDP42139
   :title: CPR/First Aid
@@ -491,6 +503,18 @@
 - :date: 5/26/2021
   :course: PDP30376
   :title: 2021-2 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/25/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/25/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

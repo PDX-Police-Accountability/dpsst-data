@@ -95,6 +95,8 @@
 | 8/4/2021 | PDP35163 | 2021 Advanced Academy Police Vehicle Operations | Passed | 0.0 | 64.00 |
 | 7/5/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/5/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/28/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/28/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/4/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/12/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 4/12/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |

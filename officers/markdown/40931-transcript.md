@@ -103,8 +103,12 @@
 | 7/1/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 7/1/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/23/2021 | PDP34288 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
+| 6/22/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/22/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/27/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/21/2021 | PDP00697 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/20/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 5/19/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 4/7/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 4/2/2021 | PDP02175 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 4/2/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |

@@ -82,6 +82,8 @@
 | 7/17/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 7/17/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/28/2021 | PDP42139 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/22/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/22/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/3/2021 | PDP09037 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 4/3/2021 | PDP24095 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/25/2021 | PDP29132 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |

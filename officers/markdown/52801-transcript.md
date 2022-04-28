@@ -85,6 +85,10 @@
 | 7/30/2021 | HBY37798 | Facility Tour, Evac drill, MHRT | Passed | 0.0 | 0.08 |
 | 7/30/2021 | PDP05757 | UDAR Guide - Approving (10.04.2018) | Passed | 0.0 | 0.08 |
 | 7/30/2021 | PDP10699 | UDAR Guide - Requesting (10.04.2018) | Passed | 0.0 | 0.08 |
+| 6/13/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/13/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/13/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 6/12/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/21/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/21/2021 | PDP09667 | 2021-2 Range Qualification Secondary (25 Rd) | Passed | 0.0 | 0.50 |
 | 5/21/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

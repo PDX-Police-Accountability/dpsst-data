@@ -51,7 +51,11 @@
 | 7/26/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/26/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/30/2021 | PDP19590 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/22/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/22/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/3/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
+| 5/25/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/25/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/5/2021 | PDP24095 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 4/2/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 4/2/2021 | PDP41314 | 2021-1 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

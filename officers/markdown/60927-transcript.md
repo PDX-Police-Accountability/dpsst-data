@@ -99,6 +99,12 @@
 | 7/12/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 7/12/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/14/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 6/14/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP22170 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP33103 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/23/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 2/23/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |

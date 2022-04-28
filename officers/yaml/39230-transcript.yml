@@ -87,6 +87,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: EGP18592
+  :title: Rifle  Pistol Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/23/2022
   :course: EGP10114
   :title: Mobile Response Team - Bicycle Training

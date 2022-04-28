@@ -392,6 +392,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 6/14/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 6/7/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/25/2021
   :course: PDP05160
   :title: 2021 Mental Wellness
@@ -431,6 +443,18 @@
 - :date: 5/20/2021
   :course: PDP30376
   :title: 2021-2 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/17/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/17/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

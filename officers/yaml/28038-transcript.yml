@@ -80,6 +80,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 3/16/2022
+  :course: PDS30023
+  :title: Fentanyl
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
 - :date: 3/8/2022
   :course: LOP18015
   :title: EVOC (Pursuit Driving, use of force)
@@ -95,6 +101,42 @@
 - :date: 2/18/2022
   :course: PDS26578
   :title: '0'
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/18/2022
+  :course: PDS09969
+  :title: Report Writing
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/17/2022
+  :course: PDS33651
+  :title: ConSim
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 2/16/2022
+  :course: PDS37632
+  :title: Range 3000
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/16/2022
+  :course: PDS08135
+  :title: CPR-First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/14/2022
+  :course: PDS21269
+  :title: TASER
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 2/14/2022
+  :course: PDS10880
+  :title: Uncontrolled Environments
   :status: Passed
   :score: '0.0'
   :hours: '8.00'
@@ -410,12 +452,36 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 6/29/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 6/28/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/2/2021
   :course: PDP20104
   :title: CPR/First Aid
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/25/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/24/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/30/2021
   :course: PDP36177
   :title: 2020 CAO IPO/McNally Refresh Train (resend)
@@ -3355,6 +3421,10 @@
   :value: LE Annual
   :effective_date: 1/1/2023
   :expiration_date: 12/31/2023
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 2/16/2022
+  :expiration_date: 2/16/2024
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2022

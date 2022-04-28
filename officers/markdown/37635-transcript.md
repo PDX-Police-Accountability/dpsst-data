@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2022 | EGP12030 | Crisis Entry Skills/Explosive Breaches/HR Scenario | Passed | 0.0 | 10.00 |
 | 3/16/2022 | EGP14272 | Emergency Vehicle Operations Course "EVOC" | Passed | 0.0 | 3.00 |
 | 2/24/2022 | EGP38695 | Briefing:  Measure 110 Update | Passed | 0.0 | 0.50 |
 | 2/9/2022 | EGP25257 | Ethos "Ethics" | Passed | 0.0 | 3.00 |

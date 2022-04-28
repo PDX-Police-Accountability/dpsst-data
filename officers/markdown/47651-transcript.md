@@ -98,7 +98,10 @@
 | 6/4/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/4/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
+| 5/29/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/29/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/27/2021 | PDP41508 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/14/2021 | PDP37001 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 5/5/2021 | F6D27996 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |
 | 5/5/2021 | PDP08291 | NW Leadership Seminar: Adapting to Change | Passed | 0.0 | 4.00 |
 | 4/10/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |

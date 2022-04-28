@@ -44,6 +44,11 @@
 | 8/9/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/19/2021 | PDP24840 | 2021 Control Tactics Ground Tactics | Passed | 0.0 | 1.50 |
 | 7/8/2021 | PDP11660 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/29/2021 | PDP01129 | 2020 Managing Critical Incidents Well Sergeants | Passed | 0.0 | 0.25 |
+| 6/29/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/6/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/6/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/2/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/24/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 4/7/2021 | PDP44090 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 4/7/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |

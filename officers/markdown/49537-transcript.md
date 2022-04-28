@@ -94,10 +94,13 @@
 | 7/22/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/23/2021 | PDP34288 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
+| 6/21/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/16/2021 | F6E34919 | Motivational Interviewing in Public Safety: Comm. | Passed | 0.0 | 6.50 |
 | 6/16/2021 | PDP12457 | Motivational Interviewing in Public Safety | Passed | 0.0 | 6.50 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 6/1/2021 | PDP29812 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/19/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/19/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/8/2021 | PDP17591 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/1/2021 | PDP08245 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/1/2021 | PDP09037 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |

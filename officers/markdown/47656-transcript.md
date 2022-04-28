@@ -97,7 +97,11 @@
 | 7/15/2021 | PDP28516 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 7/13/2021 | F6E21367 | FBI Threat Assessment and Management Training | Passed | 0.0 | 16.00 |
 | 7/8/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/22/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/16/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/26/2021 | PDP17789 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/12/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/12/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/12/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 4/12/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 4/12/2021 | PDP19698 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |

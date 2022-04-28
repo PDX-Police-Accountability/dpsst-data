@@ -324,6 +324,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 6/25/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 6/23/2021
   :course: F6E15961
   :title: Certified Crisis Intervention Specialist 2 Trng
@@ -336,6 +342,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '22.50'
+- :date: 6/16/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/3/2021
   :course: PDP15662
   :title: 2021-2 40mm Less Lethal Qualification
@@ -366,6 +378,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/20/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/20/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/17/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training

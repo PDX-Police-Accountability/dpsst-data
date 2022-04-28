@@ -99,6 +99,14 @@
 | 7/21/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/12/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/28/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
+| 6/28/2021 | PDP26095 | 2021 Legal Bulletin Efx Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
+| 6/28/2021 | PDP15598 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
+| 6/24/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 6/24/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 6/24/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/24/2021 | PDP22170 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 6/24/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
+| 6/24/2021 | PDP33103 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 2/12/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/21/2021 | PDP37735 | 2021 FTEP Post Basic Use of Force Class | Passed | 0.0 | 7.00 |

@@ -87,6 +87,10 @@
 | 7/23/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/21/2021 | PDP07771 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/9/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 5/18/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/18/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/15/2021 | PDP12012 | 2021 WSNIA Training Summit | Passed | 0.0 | 25.00 |
 | 3/31/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |

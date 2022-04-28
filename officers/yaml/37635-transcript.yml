@@ -63,6 +63,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/31/2022
+  :course: EGP12030
+  :title: Crisis Entry Skills/Explosive Breaches/HR Scenario
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
 - :date: 3/16/2022
   :course: EGP14272
   :title: Emergency Vehicle Operations Course "EVOC"

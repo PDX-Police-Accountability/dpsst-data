@@ -110,13 +110,18 @@
 | 6/30/2021 | PDP19590 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/29/2021 | PDP37841 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/29/2021 | PDP02868 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/22/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/15/2021 | PDP41158 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/15/2021 | PDP34510 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/11/2021 | PDP25884 | L-0962 NIMS ICS All-Hazards Planning Section Chief | Passed | 0.0 | 36.00 |
+| 6/11/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP31892 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/2/2021 | PDP20104 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/1/2021 | PDP29812 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/1/2021 | PDP01129 | 2020 Managing Critical Incidents Well Sergeants | Passed | 0.0 | 0.25 |
 | 5/28/2021 | PDP42139 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/28/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/27/2021 | PDP41508 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/26/2021 | PDP12101 | CPR/First Aid | Instructed | 0.0 | 3.00 |
 | 5/26/2021 | PDP07044 | CPR/First Aid | Instructed | 0.0 | 3.00 |

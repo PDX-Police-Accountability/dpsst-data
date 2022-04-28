@@ -2,6 +2,7 @@
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
 | * MISSING | 16779 |  |  |  | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
+| * MISSING | 29908 |  |  |  | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Azorr, Robert M. | 17432 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/17432-transcript.md) - [yaml](../yaml/17432-transcript.yml) |
 | Clark, Deena J. | 17932 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/17932-transcript.md) - [yaml](../yaml/17932-transcript.yml) |
 | Coleman, Barbara A. | 20108 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/20108-transcript.md) - [yaml](../yaml/20108-transcript.yml) |
@@ -1179,7 +1180,6 @@
 | Grundmeyer, Troy R. | 29898 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/29898-transcript.md) - [yaml](../yaml/29898-transcript.yml) |
 | Pippen, Robert H. | 29903 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29903-transcript.md) - [yaml](../yaml/29903-transcript.yml) |
 | Barnard, Karna M. | 29905 | Portland Police Bureau | Inactive | Detective | [md](../markdown/29905-transcript.md) - [yaml](../yaml/29905-transcript.yml) |
-| Yee, Leo K. | 29908 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Gradwahl, Todd A. | 29981 | Portland Police Bureau | Inactive | Detective | [md](../markdown/29981-transcript.md) - [yaml](../yaml/29981-transcript.yml) |
 | Engstrom, Todd R. | 29982 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29982-transcript.md) - [yaml](../yaml/29982-transcript.yml) |
 | Dolbey, Paul G. | 29984 | Portland Police Bureau | Inactive | Detective | [md](../markdown/29984-transcript.md) - [yaml](../yaml/29984-transcript.yml) |

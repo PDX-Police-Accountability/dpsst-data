@@ -83,6 +83,9 @@
 | 10/18/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/18/2021 | PDP16282 | 2021-11 TipsTech Unlawful Street Takeovers.Events | Passed | 0.0 | 0.25 |
 | 10/6/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |
+| 6/1/2021 | PDP07711 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.00 |
+| 5/17/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/17/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/13/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/13/2021 | PDP09667 | 2021-2 Range Qualification Secondary (25 Rd) | Passed | 0.0 | 0.50 |
 | 5/13/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

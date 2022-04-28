@@ -17,8 +17,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/21/2022 | Police Officer | Advanced | App Recd |  |  |  |
-| 4/21/2022 | Police Officer | Intermediate | App Recd |  |  |  |
+| 4/26/2022 | Police Officer | Advanced | Granted | 4/26/2022 |  |  |
+| 4/26/2022 | Police Officer | Intermediate | Granted | 4/26/2022 |  |  |
 | 6/16/2011 | Police Officer | Basic | Granted | 6/16/2011 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -91,7 +91,10 @@
 | 6/28/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/28/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/28/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 6/8/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 5/31/2021 | PDP09825 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/25/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/25/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 3/3/2021 | PDP41314 | 2021-1 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/3/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/3/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

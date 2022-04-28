@@ -29,6 +29,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
 | Code of Ethics | Signed | 12/21/2010 |  |
@@ -41,9 +42,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 3/16/2022 | PDS30023 | Fentanyl | Passed | 0.0 | 1.50 |
 | 3/8/2022 | LOP18015 | EVOC (Pursuit Driving, use of force) | Passed | 0.0 | 10.00 |
 | 2/18/2022 | PDS37588 | 0 | Passed | 0.0 | 8.00 |
 | 2/18/2022 | PDS26578 | 0 | Passed | 0.0 | 8.00 |
+| 2/18/2022 | PDS09969 | Report Writing | Passed | 0.0 | 8.00 |
+| 2/17/2022 | PDS33651 | ConSim | Passed | 0.0 | 8.00 |
+| 2/16/2022 | PDS37632 | Range 3000 | Passed | 0.0 | 4.00 |
+| 2/16/2022 | PDS08135 | CPR-First Aid | Passed | 0.0 | 2.00 |
+| 2/14/2022 | PDS21269 | TASER | Passed | 0.0 | 2.00 |
+| 2/14/2022 | PDS10880 | Uncontrolled Environments | Passed | 0.0 | 8.00 |
 | 2/11/2022 | PDS05853 | Firearms Training | Passed | 0.0 | 21.00 |
 | 2/11/2022 | PDS15154 | Range Qualification | Passed | 0.0 | 2.00 |
 | 2/10/2022 | PDS16552 | Mental Health First Aid | Passed | 0.0 | 8.00 |
@@ -96,7 +104,11 @@
 | 6/29/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/29/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/29/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 6/29/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/28/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP20104 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/25/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 5/24/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/30/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |

@@ -96,6 +96,8 @@
 | 8/4/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 8/3/2021 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 7/19/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/12/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/6/2021 | PDP09037 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 4/2/2021 | PDP08245 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/2/2021 | PDP24095 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |

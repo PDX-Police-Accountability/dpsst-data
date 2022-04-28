@@ -80,6 +80,10 @@
 | 8/7/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 8/7/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/10/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/10/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/10/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 6/4/2021 | PDP21163 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/10/2021 | PDP09667 | 2021-2 Range Qualification Secondary (25 Rd) | Passed | 0.0 | 0.50 |
 | 5/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

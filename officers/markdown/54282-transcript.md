@@ -87,7 +87,11 @@
 | 6/23/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/23/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/23/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 6/10/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/9/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 5/27/2021 | PDP41508 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/27/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/27/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/20/2021 | PDP07362 | The Evidence Hour: Teen Dating Violence | Passed | 0.0 | 1.00 |
 | 5/20/2021 | PDP30924 | Teen Dating Violence | Passed | 0.0 | 1.00 |
 | 5/18/2021 | PDP26155 | Wellness Restoration Project | Passed | 0.0 | 9.00 |

@@ -65,7 +65,11 @@
 | 1/6/2022 | PDP07177 | 2021-7 City Attorney's Legal Updates for July 2021 | Passed | 0.0 | 0.25 |
 | 1/6/2022 | PDP36236 | 2021-8 Tips and Techniques Ballot Measure 110 | Passed | 0.0 | 0.25 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
+| 6/8/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/8/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 5/26/2021 | PDP17789 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/18/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/18/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/6/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 4/6/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 4/6/2021 | PDP19698 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |

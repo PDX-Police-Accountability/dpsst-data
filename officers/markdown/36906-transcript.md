@@ -87,6 +87,10 @@
 | 7/2/2021 | PDP18776 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/2/2021 | PDP15440 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/1/2021 | PDP27907 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/30/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/30/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/15/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 4/12/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 4/12/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |

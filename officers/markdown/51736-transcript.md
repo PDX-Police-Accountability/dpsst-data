@@ -92,8 +92,12 @@
 | 6/17/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 6/14/2021 | PDP42968 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/14/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/1/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/27/2021 | PDP05978 | AR-15 Patrol Rifle Operators Course | Instructed | 0.0 | 9.00 |
+| 5/26/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/26/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/6/2021 | PDP42620 | 2021 SERT Training - Firearms | Passed | 0.0 | 18.00 |
 | 4/1/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 3/26/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |

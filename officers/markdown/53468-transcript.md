@@ -93,11 +93,21 @@
 | 7/1/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/4/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 6/4/2021 | PDP21163 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/26/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 5/26/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 5/26/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 5/26/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/26/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 5/12/2021 | PDP09813 | 2020-10 City Attorney's Legal Updates 10.2020 | Passed | 0.0 | 0.25 |
 | 4/29/2021 | PDP38623 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/29/2021 | PDP03315 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 4/27/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 4/27/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 4/27/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 4/22/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
+| 4/21/2021 | PDP34996 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
+| 4/21/2021 | PDP00688 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
+| 4/21/2021 | PDP44399 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 4/9/2021 | PDP37507 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 4/7/2021 | PDP42215 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 4/5/2021 | PDP20208 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |

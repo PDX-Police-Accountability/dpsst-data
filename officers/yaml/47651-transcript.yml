@@ -421,12 +421,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 5/29/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/29/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/27/2021
   :course: PDP41508
   :title: CPR/First Aid
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/14/2021
+  :course: PDP37001
+  :title: After Action Reports PowerPoint
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 5/5/2021
   :course: F6D27996
   :title: Northwest Leadership Seminar

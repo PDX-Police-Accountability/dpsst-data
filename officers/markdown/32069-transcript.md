@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2022 | SDP10712 | Bloodborne Pathogens and Hazardous Materials | Passed | 0.0 | 2.00 |
 | 4/18/2022 | REG05790 | DT controlling base and recovering base | Passed | 0.0 | 1.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/14/2022 | REG11755 | Control tactics- Structure control and recovery | Passed | 0.0 | 1.00 |
@@ -70,6 +71,10 @@
 | 7/29/2021 | SDP07625 | Heat Stress Prevention Training | Passed | 0.0 | 0.50 |
 | 7/28/2021 | SDP27667 | Defensive Tactics, ground fighting | Passed | 0.0 | 3.50 |
 | 7/28/2021 | F6E09385 | High Risk Encounters  Traffic Stops | Passed | 0.0 | 3.50 |
+| 6/21/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/21/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 5/31/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/18/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/6/2021 | PDP00285 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/7/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |

@@ -98,6 +98,10 @@
 | 6/16/2021 | F6E34919 | Motivational Interviewing in Public Safety: Comm. | Passed | 0.0 | 6.50 |
 | 6/16/2021 | PDP31319 | Motivational Interviewing in Public Safety | Passed | 0.0 | 6.50 |
 | 6/10/2021 | PDP16122 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/9/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 5/27/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/27/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/14/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 4/14/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 4/14/2021 | PDP19698 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |

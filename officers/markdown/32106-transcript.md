@@ -35,7 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/5/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/27/2021 | PDP41508 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/23/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/23/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/13/2021 | PDP37507 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 3/29/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/29/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

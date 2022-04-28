@@ -101,6 +101,10 @@
 | 7/14/2021 | PDP14734 | NATIA Annual Training  Technology Exhibition | Passed | 0.0 | 30.50 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/30/2021 | PDP06621 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/30/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/10/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/31/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |

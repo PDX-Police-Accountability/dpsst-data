@@ -77,4 +77,16 @@
 | 7/20/2021 | PDP14760 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 6/18/2021 | PDP31460 | 2018 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 6/18/2021 | PDP40835 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP09813 | 2020-10 City Attorney's Legal Updates 10.2020 | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 6/18/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP26095 | 2021 Legal Bulletin Efx Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
+| 6/18/2021 | PDP15598 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/18/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP33103 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP30005 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
+| 6/2/2021 | PDP22176 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 5/28/2021 | PDP22170 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |

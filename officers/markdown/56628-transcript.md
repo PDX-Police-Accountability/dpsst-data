@@ -66,7 +66,11 @@
 | 7/24/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/24/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/9/2021 | PDP13351 | TEEX - Wide Search Area Training | Passed | 0.0 | 27.00 |
+| 6/23/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/17/2021 | PDP19695 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/17/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/1/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/1/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/31/2021 | PDP05978 | AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 54.00 |
 | 5/31/2021 | PDP32332 | 2021-1 AR-15 Patrol Rifle Operators Training | Passed | 0.0 | 54.00 |
 | 5/28/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

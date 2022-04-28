@@ -103,10 +103,30 @@
 | 6/19/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 6/19/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 6/19/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 6/14/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
+| 6/14/2021 | PDP34996 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP00688 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP44399 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
+| 6/12/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/12/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/12/2021 | PDP26095 | 2021 Legal Bulletin Efx Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
+| 6/12/2021 | PDP15598 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 6/7/2021 | PDP34631 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/4/2021 | PDP09813 | 2020-10 City Attorney's Legal Updates 10.2020 | Passed | 0.0 | 0.25 |
+| 6/4/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 6/4/2021 | PDP22170 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 6/4/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
+| 6/4/2021 | PDP33103 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 5/30/2021 | PDP27318 | 2020 Presumpt Declination of DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
 | 5/30/2021 | PDP22301 | 2020-4 CAO Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
+| 5/30/2021 | PDP08287 | 2020-7 TipsTech Phillips Laser Protective Eyewear | Passed | 0.0 | 0.25 |
+| 5/30/2021 | PDP27109 | 2020-5 City Attorney's Office Legal Updates 5.2020 | Passed | 0.0 | 0.50 |
+| 5/30/2021 | PDP38554 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 8/9/2020 | PDP42651 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 7/10/2020 | PDP26027 | 2020-2 City Attorney's Office Legal Updates 2/2020 | Passed | 0.0 | 0.50 |

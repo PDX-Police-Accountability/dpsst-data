@@ -85,6 +85,21 @@
 | 6/18/2021 | PDP27845 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
 | 6/18/2021 | PDP22301 | 2020-4 CAO Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 6/18/2021 | PDP35460 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 6/18/2021 | PDP08287 | 2020-7 TipsTech Phillips Laser Protective Eyewear | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP27109 | 2020-5 City Attorney's Office Legal Updates 5.2020 | Passed | 0.0 | 0.50 |
+| 6/18/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
+| 6/18/2021 | PDP34996 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP11754 | 2020-5 Tips  Tech Drug Packaging.Crime Lab Sub | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP00688 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/17/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP31460 | 2018 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP40835 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 5/28/2021 | PDP01862 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP38554 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP26095 | 2021 Legal Bulletin Efx Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
+| 5/28/2021 | PDP15598 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP22176 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 5/28/2021 | PDP33103 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |

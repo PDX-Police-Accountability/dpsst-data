@@ -87,6 +87,10 @@
 | 6/18/2021 | PDP07391 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/17/2021 | PDP25631 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/16/2021 | PDP38178 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/11/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/4/2021 | PDP21163 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/28/2021 | PDP42139 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/19/2021 | PDP43638 | CPR/First Aid | Instructed | 0.0 | 1.75 |

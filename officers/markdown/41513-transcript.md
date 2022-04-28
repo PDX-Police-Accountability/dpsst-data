@@ -95,6 +95,10 @@
 | 6/22/2021 | PDP15375 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 6/11/2021 | F6E18528 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
+| 6/9/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/4/2021 | PDP44301 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 5/4/2021 | PDP19763 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/8/2021 | PDP17591 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

@@ -98,6 +98,7 @@
 | 7/15/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/4/2021 | PDP22176 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 5/27/2021 | PDP20683 | FTEP Post-DPSST Firearms | Passed | 0.0 | 13.50 |
 | 5/27/2021 | PDP00615 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 5/24/2021 | PDP39598 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |

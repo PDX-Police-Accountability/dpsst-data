@@ -90,6 +90,8 @@
 | 7/2/2021 | PDP18776 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/2/2021 | PDP15440 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/1/2021 | PDP27907 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/17/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/17/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 5/4/2021 | PDP19763 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/13/2021 | PDP08245 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

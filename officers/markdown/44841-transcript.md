@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2022 | LOP01809 | Legislative Update HB4008 Crowd Management | Passed | 0.0 | 0.50 |
+| 3/22/2022 | LOP31533 | OACP/OSSA Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 3/17/2022 | LOP15638 | Defensive Tactics High Risk Handcuffing | Passed | 0.0 | 2.00 |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/2/2022 | LOP33179 | Police Officer Hold, Designee Holds  More | Passed | 0.0 | 0.50 |

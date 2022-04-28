@@ -518,6 +518,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 6/8/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/3/2021
   :course: PDP42193
   :title: SERT Training - Firearms
@@ -566,6 +572,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/26/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/20/2021
   :course: PDP31055
   :title: 2021 SERT Training - Firearms

@@ -390,6 +390,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 6/15/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/15/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/11/2021
   :course: PDP27318
   :title: 2020 Presumpt Declination of DUIIs Invl Hosp BAC
@@ -432,6 +444,66 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 6/11/2021
+  :course: PDP08287
+  :title: 2020-7 TipsTech Phillips Laser Protective Eyewear
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/11/2021
+  :course: PDP27109
+  :title: 2020-5 City Attorney's Office Legal Updates 5.2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/11/2021
+  :course: PDP34996
+  :title: 2021 Equity Training Series Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/11/2021
+  :course: PDP11754
+  :title: 2020-5 Tips  Tech Drug Packaging.Crime Lab Sub
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/11/2021
+  :course: PDP38554
+  :title: 2020-6 Tips  Techniques Public Safety Statement
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/11/2021
+  :course: PDP00688
+  :title: 2021 Box-In Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/11/2021
+  :course: PDP25430
+  :title: 2021 CEW Annual Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/11/2021
+  :course: PDP44399
+  :title: 2021 TECC Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 6/11/2021
+  :course: PDP22176
+  :title: DOJ Settlement Agreement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/2/2021
+  :course: PDP14050
+  :title: Bloodborne Pathogen Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 :attribute_records:
 - :topic: Code of Ethics
   :value: Law Enforcement Signed

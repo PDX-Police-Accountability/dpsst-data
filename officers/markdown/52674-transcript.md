@@ -116,12 +116,16 @@
 | 7/23/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP13587 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 7/8/2021 | PDP01309 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 6/29/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/16/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 6/16/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/16/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/16/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP29812 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/31/2021 | PDP05978 | AR-15 Patrol Rifle Operators Course | Instructed | 0.0 | 9.00 |
+| 5/12/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/12/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/6/2021 | PDP42620 | 2021 SERT Training - Firearms | Passed | 0.0 | 18.00 |
 | 4/29/2021 | PDP38295 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 4/17/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |

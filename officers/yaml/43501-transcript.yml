@@ -430,12 +430,36 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 6/30/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 6/30/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/23/2021
   :course: PDP34288
   :title: 2021 EAP Program and Resources Updates
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 6/3/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/3/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/20/2021
   :course: PDP22463
   :title: L-0950 NIMS ICS All-Hazards Incident Commander

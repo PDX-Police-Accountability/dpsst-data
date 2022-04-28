@@ -34,6 +34,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/25/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/5/2021 | PDP31594 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/5/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/5/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/1/2021 | PDP05732 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP16646 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP04677 | 2021 Online In-Service Legal Updates | Passed | 0.0 | 0.75 |

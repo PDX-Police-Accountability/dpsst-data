@@ -88,6 +88,10 @@
 | 8/17/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/17/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/17/2021 | PDP25631 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/12/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/12/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 6/12/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/12/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/6/2021 | PDP42620 | 2021 SERT Training - Firearms | Passed | 0.0 | 18.00 |
 | 4/29/2021 | PDP38295 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 3/20/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

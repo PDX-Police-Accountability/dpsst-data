@@ -102,6 +102,8 @@
 | 7/7/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/14/2021 | PDP42968 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/27/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
+| 5/14/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/14/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/13/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP41447 | ICS-400 Adv ICS Cmmnd  General-Complex Incidents | Passed | 0.0 | 15.15 |
 | 3/19/2021 | PDP08608 | ICS-300 Intermediate Incident Command System (ICS) | Passed | 0.0 | 22.17 |

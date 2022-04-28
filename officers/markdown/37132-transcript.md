@@ -104,7 +104,11 @@
 | 7/27/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/19/2021 | 21-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
 | 6/30/2021 | PDP06621 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/7/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/7/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 5/27/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
+| 5/10/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/10/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/8/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 4/8/2021 | PDP16419 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 4/8/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |

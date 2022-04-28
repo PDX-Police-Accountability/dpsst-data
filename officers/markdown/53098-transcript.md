@@ -95,6 +95,8 @@
 | 6/18/2021 | F6E18518 | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 56.00 |
 | 6/18/2021 | PDP21937 | Oregon Drug Evaluation  Classification Program | Passed | 0.0 | 72.00 |
 | 6/9/2021 | F6E42572 | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 16.00 |
+| 5/16/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/16/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP13891 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |

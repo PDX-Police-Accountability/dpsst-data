@@ -115,6 +115,8 @@
 | 7/8/2021 | PDP01309 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 6/17/2021 | PDP23019 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/10/2021 | PDP40127 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 6/7/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/3/2021 | PDP42193 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/3/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 6/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -126,6 +128,8 @@
 | 5/26/2021 | PDP17789 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/20/2021 | PDP31055 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/20/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
+| 5/19/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/19/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/13/2021 | PDP06996 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/6/2021 | PDP42620 | 2021 SERT Training - Firearms | Passed | 0.0 | 18.00 |
 | 4/29/2021 | PDP38295 | SERT Training - Scenario | Passed | 0.0 | 9.00 |

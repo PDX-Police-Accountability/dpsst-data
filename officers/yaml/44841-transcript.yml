@@ -50,6 +50,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/30/2022
+  :course: LOP01809
+  :title: Legislative Update HB4008 Crowd Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/22/2022
+  :course: LOP31533
+  :title: OACP/OSSA Airway  Circulatory Crisis
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/17/2022
   :course: LOP15638
   :title: Defensive Tactics High Risk Handcuffing

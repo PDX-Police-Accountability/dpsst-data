@@ -118,6 +118,8 @@
 | 6/27/2021 | PDP12828 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/26/2021 | PDP31603 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/26/2021 | PDP04625 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/25/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/25/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/21/2021 | PDP17126 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/21/2021 | PDP07771 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/18/2021 | PDP29858 | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -131,6 +133,8 @@
 | 5/30/2021 | PDP27221 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/25/2021 | PDP30375 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/24/2021 | PDP32170 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/22/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/22/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/5/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/5/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/5/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

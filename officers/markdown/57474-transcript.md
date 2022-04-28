@@ -89,7 +89,16 @@
 | 7/10/2021 | PDP08038 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
 | 7/10/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/30/2021 | PDP19590 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/30/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/21/2021 | PDP35487 | 2021 Training Open Mat CTs | Passed | 0.0 | 1.00 |
+| 6/11/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/3/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/3/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 5/13/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 5/13/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 5/13/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 5/13/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
+| 4/28/2021 | PDP09813 | 2020-10 City Attorney's Legal Updates 10.2020 | Passed | 0.0 | 0.25 |
 | 4/10/2021 | PDP02115 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 4/9/2021 | PDP37507 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 4/9/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |

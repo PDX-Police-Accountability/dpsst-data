@@ -358,7 +358,7 @@
 | Pearce, Jason B. | 29904 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/29904-transcript.md) - [yaml](../yaml/29904-transcript.yml) |
 | Barnard, Karna M. | 29905 | Portland Police Bureau | Inactive | Detective | [md](../markdown/29905-transcript.md) - [yaml](../yaml/29905-transcript.yml) |
 | Russell, John M. | 29907 | Portland Police Bureau | Active | Detective | [md](../markdown/29907-transcript.md) - [yaml](../yaml/29907-transcript.yml) |
-| Yee, Leo K. | 29908 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
+| * MISSING | 29908 |  |  |  | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Gradwahl, Todd A. | 29981 | Portland Police Bureau | Inactive | Detective | [md](../markdown/29981-transcript.md) - [yaml](../yaml/29981-transcript.yml) |
 | Engstrom, Todd R. | 29982 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29982-transcript.md) - [yaml](../yaml/29982-transcript.yml) |
 | Engen, Matthew P. | 29983 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/29983-transcript.md) - [yaml](../yaml/29983-transcript.yml) |

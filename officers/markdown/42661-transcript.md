@@ -94,6 +94,8 @@
 | 7/22/2021 | PDP42519 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/22/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/24/2021 | REG01423 | IPSLEI Leadership Development Program | Passed | 0.0 | 160.00 |
+| 6/14/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/28/2021 | HBS32051 | SWAT Command Decision-Making and Leadership | Passed | 0.0 | 40.00 |
 | 4/20/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/20/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

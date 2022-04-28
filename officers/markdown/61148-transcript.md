@@ -101,6 +101,16 @@
 | 6/7/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP01862 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP27845 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
+| 6/7/2021 | PDP34996 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
+| 6/7/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP00688 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP26095 | 2021 Legal Bulletin Efx Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
+| 6/7/2021 | PDP15598 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP44399 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 2/26/2021 | BPT32199 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 2/24/2021 | PDP30240 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 2/23/2021 | PDP25603 | Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |

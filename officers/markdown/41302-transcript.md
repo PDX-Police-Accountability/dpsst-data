@@ -98,13 +98,17 @@
 | 7/22/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 6/29/2021 | PDP37841 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/28/2021 | PDP19846 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/28/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/27/2021 | PDP17071 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP12828 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/6/2021 | PDP30857 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/6/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/1/2021 | PDP29812 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/30/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/30/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/30/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 5/23/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/23/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/10/2021 | PDP05635 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/11/2021 | PDP37507 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 4/7/2021 | PDP02175 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |

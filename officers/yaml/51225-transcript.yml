@@ -564,6 +564,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 6/23/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 6/18/2021
   :course: PDP01463
   :title: 2021 EAP Program and Resources Updates
@@ -576,6 +582,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 6/16/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/11/2021
   :course: PDP42065
   :title: CMC Rope Rescue Technician I/II
@@ -618,6 +630,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/18/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/18/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/13/2021
   :course: PDP06996
   :title: 2021 SERT Training - Scenario

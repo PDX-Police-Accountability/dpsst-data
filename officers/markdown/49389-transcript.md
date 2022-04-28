@@ -90,6 +90,10 @@
 | 7/7/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/29/2021 | PDP02868 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/28/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/28/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 5/24/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/24/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/18/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/15/2021 | PDP44090 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 4/15/2021 | PDP16419 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |

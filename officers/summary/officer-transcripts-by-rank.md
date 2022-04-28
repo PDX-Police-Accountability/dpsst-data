@@ -2,6 +2,7 @@
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
 | * MISSING | 16779 |  |  |  | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
+| * MISSING | 29908 |  |  |  | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Leloff, Michael W. | 17573 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/17573-transcript.md) - [yaml](../yaml/17573-transcript.yml) |
 | Henderson, Donna M. | 20228 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/20228-transcript.md) - [yaml](../yaml/20228-transcript.yml) |
 | Wagenknecht, Mathew A. | 24983 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/24983-transcript.md) - [yaml](../yaml/24983-transcript.yml) |
@@ -538,7 +539,6 @@
 | Albert, Steven G. | 29707 | Portland Police Bureau | Active | Police Officer | [md](../markdown/29707-transcript.md) - [yaml](../yaml/29707-transcript.yml) |
 | Glaske, Neal L. | 29743 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29743-transcript.md) - [yaml](../yaml/29743-transcript.yml) |
 | Pippen, Robert H. | 29903 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29903-transcript.md) - [yaml](../yaml/29903-transcript.yml) |
-| Yee, Leo K. | 29908 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Engstrom, Todd R. | 29982 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29982-transcript.md) - [yaml](../yaml/29982-transcript.yml) |
 | Hudson, Stephanie D. | 29993 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29993-transcript.md) - [yaml](../yaml/29993-transcript.yml) |
 | Christian, Sean L. | 30281 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/30281-transcript.md) - [yaml](../yaml/30281-transcript.yml) |

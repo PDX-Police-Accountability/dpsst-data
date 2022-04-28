@@ -62,12 +62,36 @@
   :expiration_date: 8/9/2026
   :probation_date: ''
 :training_records:
+- :date: 6/5/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/5/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/27/2021
   :course: PDP41508
   :title: CPR/First Aid
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/23/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/23/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/13/2021
   :course: PDP37507
   :title: Wellness Restoration Project

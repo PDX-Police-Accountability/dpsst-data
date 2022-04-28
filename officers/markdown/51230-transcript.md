@@ -122,7 +122,11 @@
 | 6/17/2021 | PDP26194 | OSP SWAT Sniper Week | Passed | 0.0 | 27.75 |
 | 6/17/2021 | PDP23019 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/10/2021 | PDP40127 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 6/9/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/4/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP42193 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 6/1/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/27/2021 | PDP17314 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/20/2021 | PDP31055 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/20/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

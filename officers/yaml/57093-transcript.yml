@@ -420,6 +420,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/11/2021
+  :course: PDP34996
+  :title: 2021 Equity Training Series Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/11/2021
+  :course: PDP00688
+  :title: 2021 Box-In Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/11/2021
+  :course: PDP25430
+  :title: 2021 CEW Annual Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/11/2021
+  :course: PDP44399
+  :title: 2021 TECC Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 12/1/2020
   :course: PDP12780
   :title: 2020 CHO Stops App Update

@@ -99,6 +99,10 @@
 | 7/17/2021 | EGP18437 | Tactical Explosive Breacher  -Basic/Intermediate | Passed | 0.0 | 48.00 |
 | 7/17/2021 | PDP36330 | Tactical Explosive Breacher Cert Basic/Inter | Passed | 0.0 | 54.00 |
 | 6/24/2021 | PDP23635 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/20/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/19/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 5/23/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 5/20/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 4/17/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 4/11/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 4/11/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |

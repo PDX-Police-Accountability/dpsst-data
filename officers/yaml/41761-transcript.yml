@@ -338,12 +338,36 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 6/7/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 6/7/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/25/2021
   :course: PDP30375
   :title: CPR/First Aid
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/18/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/18/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/6/2021
   :course: PDP01018
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)

@@ -104,8 +104,12 @@
 | 6/16/2021 | F6E34919 | Motivational Interviewing in Public Safety: Comm. | Passed | 0.0 | 6.50 |
 | 6/16/2021 | PDP37382 | Motivational Interviewing in Public Safety | Passed | 0.0 | 6.00 |
 | 6/15/2021 | PDP06460 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 6/9/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/2/2021 | PDP20104 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2021 | PDP26155 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
+| 5/13/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/13/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/4/2021 | PDP19763 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 4/8/2021 | PDP17591 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 3/16/2021 | PDP14107 | CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

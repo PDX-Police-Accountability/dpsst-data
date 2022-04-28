@@ -495,6 +495,12 @@
   :status: Instructed
   :score: '0.0'
   :hours: '1.75'
+- :date: 6/22/2021
+  :course: PDP13788
+  :title: 2021 Procedural Justice
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 6/15/2021
   :course: PDP41158
   :title: CPR/First Aid
@@ -513,6 +519,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '36.00'
+- :date: 6/11/2021
+  :course: PDP02154
+  :title: 2021 Language Access-Translation  Interpretation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 6/3/2021
   :course: PDP31892
   :title: CPR/First Aid
@@ -531,12 +543,30 @@
   :status: Instructed
   :score: '0.0'
   :hours: '1.75'
+- :date: 6/1/2021
+  :course: PDP01129
+  :title: 2020 Managing Critical Incidents Well Sergeants
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/28/2021
   :course: PDP42139
   :title: CPR/First Aid
   :status: Instructed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/28/2021
+  :course: PDP13551
+  :title: 2021 Equity Training Series Racism Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/28/2021
+  :course: PDP22460
+  :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/27/2021
   :course: PDP41508
   :title: CPR/First Aid

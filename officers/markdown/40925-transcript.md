@@ -89,6 +89,8 @@
 | 7/6/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/22/2021 | PDP15375 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/4/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/19/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/15/2021 | PDP12012 | 2021 WSNIA Training Summit | Passed | 0.0 | 25.00 |
 | 3/30/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |

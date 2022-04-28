@@ -39,6 +39,7 @@
 | 2/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/22/2022 | VND28317 | 28CFR-Part23; RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |
 | 2/22/2022 | VND28531 | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 2/16/2022 | PDS09811 | Inattentional Blindness  Major Crimes | Passed | 0.0 | 2.00 |
 | 2/14/2022 | GSP02913 | Analytical Tradecraft for Law Enforcement Agents | Passed | 0.0 | 1.00 |
 | 1/21/2022 | GSP42759 | Forensic DNA Evidence Recovery From Firearms | Passed | 0.0 | 1.00 |
 | 1/14/2022 | GSP42216 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |

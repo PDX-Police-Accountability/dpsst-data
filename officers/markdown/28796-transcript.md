@@ -109,6 +109,8 @@
 | 6/11/2021 | F6E18528 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
 | 6/11/2021 | PDP36325 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
 | 6/11/2021 | PDP21739 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/11/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
+| 6/11/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/10/2021 | PDP16122 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/5/2021 | PDP37746 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/5/2021 | PDP22011 | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -123,6 +125,8 @@
 | 5/14/2021 | PDP24921 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/14/2021 | PDP27168 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/12/2021 | PDP38612 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/12/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/12/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 4/17/2021 | PDP20610 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 3/30/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/30/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |

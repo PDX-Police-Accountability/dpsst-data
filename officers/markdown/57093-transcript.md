@@ -98,6 +98,10 @@
 | 11/10/2021 | PDP02849 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 1.25 |
 | 5/11/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 5/11/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 5/11/2021 | PDP34996 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
+| 5/11/2021 | PDP00688 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
+| 5/11/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
+| 5/11/2021 | PDP44399 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 12/1/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 12/1/2020 | PDP37866 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 11/24/2020 | PDP09077 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |

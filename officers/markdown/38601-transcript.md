@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/24/2022 | GSP27988 | Video Evidence Collection | Passed | 0.0 | 8.00 |
 | 2/16/2022 | GSP21809 | Nighthawk Digital Investigation Training | Passed | 0.0 | 4.00 |
+| 2/16/2022 | PDS09811 | Inattentional Blindness  Major Crimes | Passed | 0.0 | 2.00 |
 | 2/10/2022 | F6R38186 | Officer Involved Shotting Investigations | Passed | 0.0 | 2.00 |
 | 1/18/2022 | GSP02867 | Defensive Tactics In Service | Passed | 0.0 | 10.00 |
 | 1/13/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -62,6 +63,7 @@
 | 6/4/2020 | F6D15303 | Advocacy  DHS in HT Cases | Passed | 0.0 | 1.50 |
 | 5/28/2020 | F6D23610 | Things to Know About the Prosecution of Human | Passed | 0.0 | 1.50 |
 | 5/21/2020 | F6D21638 | Human Trafficking 101 Law Enforcement Response | Passed | 0.0 | 1.50 |
+| 4/27/2020 | GSP04933 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |
 | 4/6/2020 | MISCMAIN | 2020 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2019 | MISCMAIN | 2019 LE Annual Required Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2019 | GSP33123 | Active Shooter Inservice | Passed | 0.0 | 10.00 |

@@ -110,8 +110,12 @@
 | 7/23/2021 | PDP22919 | MMBTH Breacher Certification | Passed | 0.0 | 45.00 |
 | 7/1/2021 | PDP25928 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/17/2021 | PDP23019 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 6/15/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/10/2021 | PDP40127 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 6/4/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/3/2021 | PDP42193 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 5/28/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/27/2021 | PDP17314 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/20/2021 | PDP31055 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/13/2021 | PDP06996 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |

@@ -94,5 +94,6 @@
 | 5/27/2021 | PDP12431 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 5/26/2021 | PDP07044 | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 5/24/2021 | PDP39598 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
+| 5/24/2021 | PDP22176 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 5/20/2021 | PDP29973 | FTEP Pre-DPSST Firearms | Passed | 0.0 | 17.00 |
 | 8/17/2019 | PDP26461 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
