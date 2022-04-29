@@ -21,8 +21,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 5/15/2021 | 5/15/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 8/15/2006 |  |
 ## Education
@@ -90,6 +90,7 @@
 | 6/12/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/1/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/15/2021 | PDP37105 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/15/2021 | PDP36027 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/12/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/12/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/12/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

@@ -22,7 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
+| Certification Cards | First Aid and CPR | 3/29/2022 | 3/29/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 2/10/2010 |  |
@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/29/2022 | PDP13698 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2022 | PDP03333 | EAP Peer Support role in critical incidents | Passed | 0.0 | 8.00 |
 | 3/27/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/27/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

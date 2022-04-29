@@ -57,6 +57,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/1/2022
+  :course: PDP12987
+  :title: Basic Homicide Investigation (WHIA)
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

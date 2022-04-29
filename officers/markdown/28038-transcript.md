@@ -44,8 +44,6 @@
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/16/2022 | PDS30023 | Fentanyl | Passed | 0.0 | 1.50 |
 | 3/8/2022 | LOP18015 | EVOC (Pursuit Driving, use of force) | Passed | 0.0 | 10.00 |
-| 2/18/2022 | PDS37588 | 0 | Passed | 0.0 | 8.00 |
-| 2/18/2022 | PDS26578 | 0 | Passed | 0.0 | 8.00 |
 | 2/18/2022 | PDS09969 | Report Writing | Passed | 0.0 | 8.00 |
 | 2/17/2022 | PDS33651 | ConSim | Passed | 0.0 | 8.00 |
 | 2/16/2022 | PDS37632 | Range 3000 | Passed | 0.0 | 4.00 |

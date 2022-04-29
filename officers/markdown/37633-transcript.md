@@ -36,17 +36,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2022 | REG09704 | Edge Weapon Defense | Passed | 0.0 | 2.00 |
+| 3/9/2022 | PDP31744 | K-9 weekly training | Passed | 0.0 | 4.00 |
 | 3/7/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/2/2022 | PDP40693 | K-9 weekly training | Passed | 0.0 | 3.00 |
 | 2/9/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/9/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/9/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/9/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/9/2022 | PDP15622 | K-9 Training (searches, de-escalation, etc.) | Instructed | 0.0 | 4.00 |
+| 2/2/2022 | PDP38338 | K-9 training (control, searches, equiptment, etc.) | Instructed | 0.0 | 3.50 |
+| 1/26/2022 | PDP18492 | K-9 training: searches, equiptment, control, etc. | Passed | 0.0 | 3.50 |
 | 1/25/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/16/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/5/2022 | PDP33306 | K-9 weekly (scenarios-off lead, searches, etc.) | Passed | 0.0 | 4.00 |
 | 1/3/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/3/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/3/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
@@ -56,6 +62,8 @@
 | 12/10/2021 | PDP03342 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 12/10/2021 | PDP34689 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |
 | 12/10/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
+| 12/8/2021 | PDP34001 | K-9 weekly: decoy exercise, obedience, etc. | Instructed | 0.0 | 4.50 |
+| 12/8/2021 | PDP33113 | K-9 weekly: decoy exercise, obedience, etc. | Instructed | 0.0 | 4.50 |
 | 11/24/2021 | PDP10199 | 2021 K-9 Wednesday Night K-9 Training | Instructed | 0.0 | 4.50 |
 | 11/23/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/17/2021 | PDP25039 | 2021 K-9 Wednesday Night K-9 Training | Instructed | 0.0 | 5.00 |

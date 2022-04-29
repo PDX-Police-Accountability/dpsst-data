@@ -23,8 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 6/27/2021 | 6/27/2023 |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -97,6 +97,7 @@
 | 7/8/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/27/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/27/2021 | PDP25296 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/23/2021 | PDP34288 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |
 | 6/8/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/5/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |

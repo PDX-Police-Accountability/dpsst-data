@@ -29,9 +29,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 7/28/2021 | 7/28/2023 |
 | Code of Ethics | Signed | 10/31/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -99,6 +99,7 @@
 | 7/28/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/28/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/28/2021 | PDP30550 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 7/28/2021 | PDP43083 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/26/2021 | PDP36106 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 7/26/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 7/26/2021 | PDP23057 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |

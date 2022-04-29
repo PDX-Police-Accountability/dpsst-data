@@ -30,7 +30,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
+| Certification Cards | First Aid and CPR | 3/29/2022 | 3/29/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 6/16/2008 |  |
@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/29/2022 | PDP13698 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/15/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 3/15/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 3/15/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |

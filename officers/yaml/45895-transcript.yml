@@ -50,6 +50,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/29/2022
+  :course: PDP13698
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -176,6 +182,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 11/4/2021
+  :course: PDP03890
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 10/27/2021
   :course: PDP18806
   :title: 2020-12 CAO Legal Updates for 12/2020-Updated
@@ -308,6 +320,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 8/10/2021
+  :course: PDP32098
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 8/4/2021
+  :course: PDP22056
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 7/23/2021
   :course: PDP22491
   :title: 2021-8 Tips  Tech Ballot Measure 110 - Update
@@ -484,6 +508,12 @@
   :hours: '1.75'
 - :date: 5/6/2021
   :course: PDP00285
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 5/6/2021
+  :course: PDP28498
   :title: CPR/First Aid
   :status: Instructed
   :score: '0.0'

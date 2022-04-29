@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
+| 3/29/2022 | PDP13698 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
@@ -56,6 +57,7 @@
 | 11/17/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
 | 11/9/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/4/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
+| 11/4/2021 | PDP03890 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 10/27/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/27/2021 | PDP44558 | 2020-12 CAO Legal Updates for 12.2020-Updated | Passed | 0.0 | 0.25 |
 | 10/22/2021 | PDP36011 | 2021-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
@@ -78,6 +80,8 @@
 | 8/27/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/27/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/12/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 8/10/2021 | PDP32098 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 8/4/2021 | PDP22056 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/23/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/16/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 7/16/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
@@ -108,6 +112,7 @@
 | 5/11/2021 | PDP10015 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/7/2021 | PDP19784 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/6/2021 | PDP00285 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/6/2021 | PDP28498 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/5/2021 | PDP43402 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/4/2021 | PDP38661 | CPr/First Aid | Instructed | 0.0 | 1.75 |
 | 4/28/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |

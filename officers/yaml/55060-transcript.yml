@@ -84,6 +84,18 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 3/2/2022
+  :course: PDP07114
+  :title: EDU weekly electronics training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 2/23/2022
+  :course: PDP33869
+  :title: EDU WMD Response  Electronics Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 2/21/2022
   :course: PDP34522
   :title: Interacting with Member LGBTQIA2S+ Chief's Message
@@ -102,6 +114,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '10.00'
+- :date: 2/16/2022
+  :course: PDP25355
+  :title: EDU Weekly Robot Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 2/15/2022
   :course: GSP31094
   :title: U.A.S. Ground School
@@ -114,6 +132,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '10.00'
+- :date: 2/2/2022
+  :course: PDP13182
+  :title: EDU switch diagnostics  remote rigging
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 1/22/2022
   :course: PDP02637
   :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
@@ -132,6 +156,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/19/2022
+  :course: PDP32772
+  :title: 'EDU weekly: robot operations, disrupter, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
+- :date: 1/12/2022
+  :course: PDP29782
+  :title: 'EDU training: robot PAN shooting, operations, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

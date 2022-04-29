@@ -61,6 +61,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/9/2022
+  :course: PDP31744
+  :title: K-9 weekly training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/2/2022
+  :course: PDP40693
+  :title: K-9 weekly training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 2/27/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
@@ -85,12 +97,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP19006
+  :title: K-9 Training (control, searches, debriefs, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 2/9/2022
   :course: PDP34522
   :title: Interacting with Member LGBTQIA2S+ Chief's Message
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP15622
+  :title: K-9 Training (searches, de-escalation, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 2/3/2022
   :course: PDP34045
   :title: 2022 Training 3M N Series Helmet
@@ -103,6 +127,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.15'
+- :date: 2/2/2022
+  :course: PDP38338
+  :title: K-9 training (control, searches, equiptment, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
 - :date: 1/26/2022
   :course: BNS22949
   :title: Police Canine Decoy Training
@@ -115,6 +145,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/5/2022
+  :course: PDP33306
+  :title: K-9 weekly (scenarios-off lead, searches, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 12/29/2021
   :course: PDP09317
   :title: 2021 K-9 Wednesday Night K-9 Training
@@ -181,6 +217,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 12/8/2021
+  :course: PDP34001
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 12/8/2021
+  :course: PDP33113
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
 - :date: 11/17/2021
   :course: PDP25039
   :title: 2021 K-9 Wednesday Night K-9 Training

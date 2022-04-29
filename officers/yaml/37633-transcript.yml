@@ -56,6 +56,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
+- :date: 3/9/2022
+  :course: PDP31744
+  :title: K-9 weekly training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/7/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
@@ -80,6 +86,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/2/2022
+  :course: PDP40693
+  :title: K-9 weekly training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 2/9/2022
   :course: PDP17743
   :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
@@ -104,6 +116,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP15622
+  :title: K-9 Training (searches, de-escalation, etc.)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/2/2022
+  :course: PDP38338
+  :title: K-9 training (control, searches, equiptment, etc.)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 1/26/2022
+  :course: PDP18492
+  :title: 'K-9 training: searches, equiptment, control, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
 - :date: 1/25/2022
   :course: PDP02637
   :title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
@@ -122,6 +152,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/5/2022
+  :course: PDP33306
+  :title: K-9 weekly (scenarios-off lead, searches, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 1/3/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2
@@ -176,6 +212,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 12/8/2021
+  :course: PDP34001
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 12/8/2021
+  :course: PDP33113
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.50'
 - :date: 11/24/2021
   :course: PDP10199
   :title: 2021 K-9 Wednesday Night K-9 Training

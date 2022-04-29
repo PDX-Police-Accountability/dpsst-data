@@ -101,6 +101,7 @@
 | 6/28/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/27/2021 | PDP17071 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP12828 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/27/2021 | PDP25296 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/6/2021 | PDP30857 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/6/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/1/2021 | PDP29812 | CPR/First Aid | Passed | 0.0 | 1.75 |

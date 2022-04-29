@@ -9,6 +9,12 @@
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 3/19/2022
+  :agency: Washington County Community Corrections
+  :action: Hired
+  :rank: Par/prob O
+  :classification: ''
+  :assignment: ''
 - :date: 3/18/2022
   :agency: Washington County Sheriff's Office
   :action: Resigned
@@ -28,6 +34,13 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 3/19/2022
+  :certificate: Parole  Probation Officer
+  :level: Basic
+  :status: Required
+  :certificate_date: ''
+  :expiration_date: ''
+  :probation_date: 9/19/2023
 - :status_date: 6/7/2019
   :certificate: Corrections Officer
   :level: Basic
@@ -36,6 +49,12 @@
   :expiration_date: 6/18/2022
   :probation_date: ''
 :training_records:
+- :date: 9/26/2022
+  :course: 22-0005
+  :title: DPSST Basic Parole and Probation
+  :status: Pending
+  :score: '0.0'
+  :hours: '200.00'
 - :date: 1/29/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

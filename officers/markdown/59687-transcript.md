@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2022 | WLP36820 | Domestic Violence Training | Passed | 0.0 | 4.00 |
 | 4/21/2022 | WLP09760 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/28/2022 | WLP15833 | WSIN/RISS Deconfliction Training | Passed | 0.0 | 1.50 |

@@ -124,6 +124,7 @@
 | 5/14/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/14/2021 | PDP24921 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/14/2021 | PDP27168 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/13/2021 | PDP12344 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/12/2021 | PDP38612 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/12/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 5/12/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |

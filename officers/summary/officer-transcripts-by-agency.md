@@ -2,7 +2,6 @@
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
 | * MISSING | 16779 |  |  |  | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
-| * MISSING | 29908 |  |  |  | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Sponhauer, Mark C. | 16089 | Portland Police Bureau | Inactive | Detective | [md](../markdown/16089-transcript.md) - [yaml](../yaml/16089-transcript.yml) |
 | Stradley, James M. | 16129 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16129-transcript.md) - [yaml](../yaml/16129-transcript.yml) |
 | DeLong, Mark S. | 16480 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16480-transcript.md) - [yaml](../yaml/16480-transcript.yml) |
@@ -359,6 +358,7 @@
 | Pearce, Jason B. | 29904 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/29904-transcript.md) - [yaml](../yaml/29904-transcript.yml) |
 | Barnard, Karna M. | 29905 | Portland Police Bureau | Inactive | Detective | [md](../markdown/29905-transcript.md) - [yaml](../yaml/29905-transcript.yml) |
 | Russell, John M. | 29907 | Portland Police Bureau | Active | Detective | [md](../markdown/29907-transcript.md) - [yaml](../yaml/29907-transcript.yml) |
+| Yee, Leo K. | 29908 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Gradwahl, Todd A. | 29981 | Portland Police Bureau | Inactive | Detective | [md](../markdown/29981-transcript.md) - [yaml](../yaml/29981-transcript.yml) |
 | Engstrom, Todd R. | 29982 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29982-transcript.md) - [yaml](../yaml/29982-transcript.yml) |
 | Engen, Matthew P. | 29983 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/29983-transcript.md) - [yaml](../yaml/29983-transcript.yml) |

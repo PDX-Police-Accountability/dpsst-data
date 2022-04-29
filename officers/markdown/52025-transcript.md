@@ -39,13 +39,19 @@
 | 3/7/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 3/2/2022 | PDP07114 | EDU weekly electronics training | Passed | 0.0 | 9.00 |
+| 2/23/2022 | PDP33869 | EDU WMD Response  Electronics Training | Passed | 0.0 | 8.00 |
+| 2/16/2022 | PDP25355 | EDU Weekly Robot Training | Passed | 0.0 | 9.00 |
 | 2/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/2/2022 | PDP13182 | EDU switch diagnostics  remote rigging | Passed | 0.0 | 9.00 |
 | 1/23/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/23/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 1/19/2022 | PDP32772 | EDU weekly: robot operations, disrupter, etc. | Instructed | 0.0 | 9.00 |
 | 1/18/2022 | PDP44224 | 2022 SERT Training - Iteration | Passed | 0.0 | 9.00 |
+| 1/12/2022 | PDP29782 | EDU training: robot PAN shooting, operations, etc. | Passed | 0.0 | 9.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/5/2022 | PDP01732 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/29/2021 | PDP24245 | EDU Weekly Training | Passed | 0.0 | 10.00 |

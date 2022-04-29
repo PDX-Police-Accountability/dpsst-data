@@ -49,7 +49,7 @@
 | 12/21/2021 | PDP03342 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 12/21/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 12/21/2021 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
-| 12/17/2021 | PDP37923 | Scenarios  Tactics for FTO | Passed | 0.0 | 18.00 |
+| 12/17/2021 | PDP37923 | Scenarios  Tactics for FTO | Passed | 0.0 | 16.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 11/18/2021 | PDP38317 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 11/18/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |

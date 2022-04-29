@@ -87,6 +87,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/29/2022
+  :course: PDP13698
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 3/15/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
@@ -3184,10 +3190,10 @@
   :score: '0.0'
   :hours: '767.00'
 :attribute_records:
-- :topic: Maintenance Requirements
-  :value: First Aid/CPR Required
-  :effective_date: 3/16/2022
-  :expiration_date: 3/16/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 3/29/2022
+  :expiration_date: 3/29/2024
 - :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022

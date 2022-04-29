@@ -62,6 +62,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/9/2022
+  :course: PDP31744
+  :title: K-9 weekly training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 3/2/2022
+  :course: PDP40693
+  :title: K-9 weekly training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/16/2022
+  :course: PDP19006
+  :title: K-9 Training (control, searches, debriefs, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 2/15/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
@@ -92,12 +110,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP15622
+  :title: K-9 Training (searches, de-escalation, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 2/2/2022
+  :course: PDP38338
+  :title: K-9 training (control, searches, equiptment, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
 - :date: 1/31/2022
   :course: PDP41369
   :title: 2022 Advanced Shotgun Operator Pre-Test Guide
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/26/2022
+  :course: PDP18492
+  :title: 'K-9 training: searches, equiptment, control, etc.'
+  :status: Instructed
+  :score: '0.0'
+  :hours: '3.50'
 - :date: 1/17/2022
   :course: PDP34045
   :title: 2022 Training 3M N Series Helmet
@@ -116,6 +152,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/5/2022
+  :course: PDP33306
+  :title: K-9 weekly (scenarios-off lead, searches, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 12/16/2021
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

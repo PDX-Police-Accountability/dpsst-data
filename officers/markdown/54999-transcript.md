@@ -27,7 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
+| Certification Cards | First Aid and CPR | 4/26/2022 | 4/26/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2022 | HRS04075 | Basic First Aid/CPR  AED for Adult/Child/Infant | Passed | 0.0 | 4.00 |
 | 4/14/2022 | REG43884 | Field Training and Evluation Program | Passed | 0.0 | 24.00 |
 | 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |
 | 11/23/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

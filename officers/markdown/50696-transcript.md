@@ -116,6 +116,7 @@
 | 6/27/2021 | PDP32751 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP17071 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP12828 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/27/2021 | PDP25296 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/26/2021 | PDP31603 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/26/2021 | PDP04625 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/25/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |

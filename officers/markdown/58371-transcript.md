@@ -17,7 +17,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/4/2019 | Police Officer | Basic | Granted | 2/4/2019 | 6/15/2022 |  |
+| 2/4/2019 | Police Officer | Basic | Granted-UR | 2/4/2019 | 6/15/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

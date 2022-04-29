@@ -75,6 +75,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '27.00'
+- :date: 3/2/2022
+  :course: PDP40693
+  :title: K-9 weekly training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/16/2022
+  :course: PDP19006
+  :title: K-9 Training (control, searches, debriefs, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 2/9/2022
   :course: PDP17743
   :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
@@ -105,6 +117,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP15622
+  :title: K-9 Training (searches, de-escalation, etc.)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 1/26/2022
+  :course: PDP18492
+  :title: 'K-9 training: searches, equiptment, control, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
 - :date: 1/17/2022
   :course: PDP34045
   :title: 2022 Training 3M N Series Helmet
@@ -117,6 +141,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 1/5/2022
+  :course: PDP33306
+  :title: K-9 weekly (scenarios-off lead, searches, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 12/29/2021
   :course: PDP09317
   :title: 2021 K-9 Wednesday Night K-9 Training
@@ -207,6 +237,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 12/8/2021
+  :course: PDP34001
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 12/8/2021
+  :course: PDP33113
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
 - :date: 11/24/2021
   :course: PDP10199
   :title: 2021 K-9 Wednesday Night K-9 Training

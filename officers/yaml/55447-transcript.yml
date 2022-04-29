@@ -336,6 +336,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 7/30/2021
+  :course: PDP10563
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 7/12/2021
   :course: PDP04678
   :title: 2021-7 Tips  Tech Bureau Issued Utility Knives
@@ -398,6 +404,12 @@
   :hours: '1.75'
 - :date: 6/27/2021
   :course: PDP12828
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 6/27/2021
+  :course: PDP25296
   :title: CPR/First Aid
   :status: Instructed
   :score: '0.0'
@@ -540,6 +552,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/15/2021
+  :course: PDP36027
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 5/15/2021
+  :course: PDP40063
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 5/11/2021
   :course: PDP10015
   :title: CPR/First Aid

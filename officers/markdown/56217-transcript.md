@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2022 | PDP12987 | Basic Homicide Investigation (WHIA) | Passed | 0.0 | 40.00 |
 | 3/9/2022 | PDP13897 | 2020-12 City Attorney's Legal Updates Dec. 2020 | Passed | 0.0 | 0.25 |
 | 3/9/2022 | PDP08855 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 3/9/2022 | PDP26426 | 2020-11 City Attorney's Legal Update Nov. 2020 | Passed | 0.0 | 0.25 |

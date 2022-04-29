@@ -50,6 +50,8 @@
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2021 | PDP37605 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 12/8/2021 | PDP34001 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
+| 12/8/2021 | PDP33113 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
 | 12/6/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 12/6/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 11/18/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |

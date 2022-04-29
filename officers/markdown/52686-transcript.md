@@ -61,6 +61,7 @@
 | 12/1/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 11/30/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/30/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
+| 11/10/2021 | PDP18478 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 11/9/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/9/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/9/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |

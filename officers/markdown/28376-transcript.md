@@ -58,6 +58,7 @@
 | 12/15/2021 | PDP03342 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 12/15/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 11/30/2021 | PDP05621 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 11/24/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 11/24/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 11/3/2021 | PDP10801 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -84,7 +85,10 @@
 | 8/30/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 8/20/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/17/2021 | PDP10854 | Individual Critical Incident Management Trng | Passed | 0.0 | 18.00 |
+| 8/10/2021 | PDP32098 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 8/3/2021 | PDP07825 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/29/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
+| 7/28/2021 | PDP43083 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/23/2021 | PDP03647 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/23/2021 | PDP23782 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/20/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |

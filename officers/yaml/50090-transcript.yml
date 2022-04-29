@@ -74,12 +74,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/2/2022
+  :course: PDP40693
+  :title: K-9 weekly training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 2/17/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP19006
+  :title: K-9 Training (control, searches, debriefs, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 2/10/2022
   :course: PDP17743
   :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
@@ -104,6 +116,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP15622
+  :title: K-9 Training (searches, de-escalation, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 1/24/2022
   :course: PDP11483
   :title: Directive 630.15 Foot Pursuits Video Part 1
@@ -146,6 +164,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 12/8/2021
+  :course: PDP34001
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.50'
+- :date: 12/8/2021
+  :course: PDP33113
+  :title: 'K-9 weekly: decoy exercise, obedience, etc.'
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.50'
 - :date: 11/24/2021
   :course: PDP10199
   :title: 2021 K-9 Wednesday Night K-9 Training

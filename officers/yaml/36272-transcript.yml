@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/29/2022
+  :course: PDP13698
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 3/28/2022
   :course: PDP03333
   :title: EAP Peer Support role in critical incidents
@@ -3183,10 +3189,10 @@
   :score: '0.0'
   :hours: '24.00'
 :attribute_records:
-- :topic: Maintenance Requirements
-  :value: First Aid/CPR Required
-  :effective_date: 3/16/2022
-  :expiration_date: 3/16/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 3/29/2022
+  :expiration_date: 3/29/2024
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2022

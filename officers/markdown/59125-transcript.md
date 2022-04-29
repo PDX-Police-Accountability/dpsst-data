@@ -21,8 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 8/23/2021 | 8/23/2023 |
 | Code of Ethics | Law Enforcement Signed | 11/4/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -80,6 +80,7 @@
 | 8/31/2021 | PDP11784 | 2021 In-Service - Taser | Passed | 0.0 | 2.25 |
 | 8/31/2021 | PDP37157 | 2021 In-Service PP - Emergency Entry Skills Day | Passed | 0.0 | 2.25 |
 | 8/31/2021 | PDP12418 | 2021 In-Service Firearms - Day 1 | Passed | 0.0 | 2.25 |
+| 8/23/2021 | PDP02192 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 8/13/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 8/13/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 8/13/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |

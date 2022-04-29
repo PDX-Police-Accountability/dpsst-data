@@ -27,8 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
@@ -96,6 +96,7 @@
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/11/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 8/4/2021 | PDP22056 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 8/2/2021 | PDP43575 | 2021 Equity Training Series: Racism Part 2 | Passed | 0.0 | 0.25 |
 | 8/2/2021 | PDP07715 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 8/2/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |

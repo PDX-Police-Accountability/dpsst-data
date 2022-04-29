@@ -20,9 +20,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 5/15/2021 | 5/15/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/14/2018 |  |
 | Code of Ethics | Signed | 8/17/2017 |  |
 ## Education
@@ -81,6 +81,7 @@
 | 5/22/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/15/2021 | PDP37105 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/15/2021 | PDP30016 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/15/2021 | PDP36027 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/3/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/3/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

@@ -26,9 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 11/10/2021 | 11/10/2023 |
 | Code of Ethics | Signed | 10/3/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -66,6 +66,7 @@
 | 11/23/2021 | PDP26000 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |
 | 11/23/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
 | 11/15/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
+| 11/10/2021 | PDP18478 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 10/27/2021 | PDP15334 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 10/27/2021 | PDP00308 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 10/27/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |

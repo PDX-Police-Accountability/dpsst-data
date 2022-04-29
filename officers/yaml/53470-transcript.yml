@@ -414,6 +414,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 8/4/2021
+  :course: PDP22056
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 8/2/2021
   :course: PDP43575
   :title: '2021 Equity Training Series: Racism Part 2'
@@ -2798,13 +2804,13 @@
   :hours: '0.00'
 :attribute_records:
 - :topic: Maintenance Requirements
-  :value: First Aid/CPR Required
-  :effective_date: 3/16/2022
-  :expiration_date: 3/16/2022
-- :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 8/4/2021
+  :expiration_date: 8/4/2023
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2021

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2022 | WLP36820 | Domestic Violence Training | Passed | 0.0 | 4.00 |
 | 4/21/2022 | WLP09760 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |
 | 3/11/2022 | VND24646 | Advanced Strangulation Training | Passed | 0.0 | 30.25 |
 | 3/11/2022 | VND25222 | Expert Witnesses Training | Passed | 0.0 | 3.50 |

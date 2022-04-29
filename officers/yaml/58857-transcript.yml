@@ -72,6 +72,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/16/2022
+  :course: PDP19006
+  :title: K-9 Training (control, searches, debriefs, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 2/9/2022
+  :course: PDP15622
+  :title: K-9 Training (searches, de-escalation, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 1/14/2022
   :course: PDP34045
   :title: 2022 Training 3M N Series Helmet

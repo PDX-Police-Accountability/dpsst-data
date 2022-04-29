@@ -83,6 +83,7 @@
 | 8/7/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 8/7/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 8/7/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 7/30/2021 | PDP10563 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/12/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/9/2021 | PDP13351 | TEEX - Wide Search Area Training | Passed | 0.0 | 27.00 |
 | 7/3/2021 | PDP13707 | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -94,6 +95,7 @@
 | 6/27/2021 | PDP32751 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP17071 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP12828 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/27/2021 | PDP25296 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/19/2021 | PDP09267 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/14/2021 | PDP21776 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/14/2021 | PDP42968 | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -117,6 +119,8 @@
 | 5/15/2021 | PDP30016 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/15/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 5/15/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 5/15/2021 | PDP36027 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/15/2021 | PDP40063 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/11/2021 | PDP10015 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/9/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/9/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

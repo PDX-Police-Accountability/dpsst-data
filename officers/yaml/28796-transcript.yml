@@ -591,6 +591,12 @@
   :status: Instructed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/13/2021
+  :course: PDP12344
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 5/12/2021
   :course: PDP38612
   :title: CPR/First Aid

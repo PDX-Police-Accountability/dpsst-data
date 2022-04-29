@@ -12,12 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/19/2022 | Washington County Community Corrections | Hired | Par/prob O |  |  |
 | 3/18/2022 | Washington County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/8/2018 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/2/2017 | Portland Police Bureau | Resigned | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/19/2022 | Parole  Probation Officer | Basic | Required |  |  | 9/19/2023 |
 | 6/7/2019 | Corrections Officer | Basic | Granted | 6/7/2019 | 6/18/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -37,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Pending | 0.0 | 200.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/27/2022 | HBS13011 | First Aid | Passed | 0.0 | 2.50 |
 | 1/26/2022 | HBS14727 | Use of Force Updates | Passed | 0.0 | 1.50 |

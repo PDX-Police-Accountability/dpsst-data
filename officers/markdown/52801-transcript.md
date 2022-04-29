@@ -20,8 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 8/3/2021 | 8/3/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
@@ -77,6 +77,7 @@
 | 8/13/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 8/13/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 8/13/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 8/3/2021 | PDP07825 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/31/2021 | PDP14580 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 7/30/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/30/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |

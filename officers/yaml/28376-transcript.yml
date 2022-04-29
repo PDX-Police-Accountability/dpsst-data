@@ -190,6 +190,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 11/30/2021
+  :course: PDP05621
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 11/24/2021
   :course: PDP07854
   :title: 2021 Language Access-Util Bilingual Bureau Members
@@ -346,12 +352,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '18.00'
+- :date: 8/10/2021
+  :course: PDP32098
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 8/3/2021
+  :course: PDP07825
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 7/29/2021
   :course: PDP22491
   :title: 2021-8 Tips  Tech Ballot Measure 110 - Update
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 7/28/2021
+  :course: PDP43083
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 7/23/2021
   :course: PDP03647
   :title: CPR/First Aid

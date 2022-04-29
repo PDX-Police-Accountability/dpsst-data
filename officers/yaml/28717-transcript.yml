@@ -406,6 +406,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/6/2021
+  :course: PDP28498
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
 - :date: 4/2/2021
   :course: PDP08245
   :title: 2021 Chicago Case Study
@@ -2946,13 +2952,13 @@
   :hours: '4.00'
 :attribute_records:
 - :topic: Maintenance Requirements
-  :value: First Aid/CPR Required
-  :effective_date: 3/16/2022
-  :expiration_date: 3/16/2022
-- :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 5/6/2021
+  :expiration_date: 5/6/2023
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2021

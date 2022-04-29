@@ -42,13 +42,19 @@
 | 3/31/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP37993 | EDU-Robert/UAV Integration Training | Passed | 0.0 | 9.00 |
+| 3/2/2022 | PDP07114 | EDU weekly electronics training | Passed | 0.0 | 9.00 |
+| 2/23/2022 | PDP33869 | EDU WMD Response  Electronics Training | Passed | 0.0 | 8.00 |
+| 2/16/2022 | PDP25355 | EDU Weekly Robot Training | Instructed | 0.0 | 9.00 |
 | 2/14/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 2/14/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/2/2022 | PDP13182 | EDU switch diagnostics  remote rigging | Passed | 0.0 | 9.00 |
+| 1/19/2022 | PDP32772 | EDU weekly: robot operations, disrupter, etc. | Passed | 0.0 | 9.00 |
 | 1/18/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 1/12/2022 | PDP29782 | EDU training: robot PAN shooting, operations, etc. | Instructed | 0.0 | 9.00 |
 | 1/10/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/10/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/10/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |

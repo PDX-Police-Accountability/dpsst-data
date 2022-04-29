@@ -20,9 +20,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 8/3/2021 | 8/3/2023 |
 | Code of Ethics | Signed | 10/8/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -101,6 +101,7 @@
 | 8/19/2021 | PDP20373 | SERT Training - Scenarios | Passed | 0.0 | 9.00 |
 | 8/12/2021 | PDP02229 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 8/10/2021 | PDP38500 | 2021-1 AR-15 Instructor In-Service Training | Passed | 0.0 | 9.00 |
+| 8/3/2021 | PDP07825 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/30/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 7/30/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/30/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |

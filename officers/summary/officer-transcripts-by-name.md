@@ -2,7 +2,6 @@
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
 | * MISSING | 16779 |  |  |  | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
-| * MISSING | 29908 |  |  |  | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
@@ -1520,6 +1519,7 @@
 | Wyatt, Tyler A. | 58115 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58115-transcript.md) - [yaml](../yaml/58115-transcript.yml) |
 | Yakots, Stephen B. | 48158 | Portland Police Bureau | Active | Sergeant | [md](../markdown/48158-transcript.md) - [yaml](../yaml/48158-transcript.yml) |
 | Yamanoi, Richard T. | 60892 | Portland Police Bureau | Active | Police Officer | [md](../markdown/60892-transcript.md) - [yaml](../yaml/60892-transcript.yml) |
+| Yee, Leo K. | 29908 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29908-transcript.md) - [yaml](../yaml/29908-transcript.yml) |
 | Yochim, Jonathan D. | 28036 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/28036-transcript.md) - [yaml](../yaml/28036-transcript.yml) |
 | Yoo, Joey G. | 56628 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56628-transcript.md) - [yaml](../yaml/56628-transcript.yml) |
 | Yoshimura, Randal S. | 24583 | Portland Police Bureau | Inactive | Criminalist | [md](../markdown/24583-transcript.md) - [yaml](../yaml/24583-transcript.yml) |

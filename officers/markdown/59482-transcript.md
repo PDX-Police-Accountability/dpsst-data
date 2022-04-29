@@ -21,8 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 6/27/2021 | 6/27/2023 |
 | Code of Ethics | Law Enforcement Signed | 2/11/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 ## Education
@@ -78,6 +78,7 @@
 | 7/16/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/16/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 7/9/2021 | PDP13351 | TEEX - Wide Search Area Training | Passed | 0.0 | 27.00 |
+| 6/27/2021 | PDP25296 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/4/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/4/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/4/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

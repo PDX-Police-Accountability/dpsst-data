@@ -38,6 +38,8 @@
 | 3/5/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/2/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/16/2022 | PDP19006 | K-9 Training (control, searches, debriefs, etc.) | Passed | 0.0 | 3.00 |
+| 2/9/2022 | PDP15622 | K-9 Training (searches, de-escalation, etc.) | Passed | 0.0 | 4.00 |
 | 1/14/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/14/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/13/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

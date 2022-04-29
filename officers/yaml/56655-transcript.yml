@@ -37,14 +37,14 @@
 - :status_date: 1/20/2021
   :certificate: Police Officer
   :level: Basic
-  :status: Granted
+  :status: Granted-UR
   :certificate_date: 1/20/2021
   :expiration_date: 6/15/2022
   :probation_date: ''
 - :status_date: 10/24/2018
   :certificate: Corrections Officer
   :level: Basic
-  :status: Lapsed
+  :status: Lapsed-UR
   :certificate_date: 9/15/2017
   :expiration_date: 7/24/2023
   :probation_date: ''

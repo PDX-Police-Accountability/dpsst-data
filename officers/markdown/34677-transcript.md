@@ -28,9 +28,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 11/30/2021 | 11/30/2023 |
 | Code of Ethics | Signed | 8/24/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -60,6 +60,7 @@
 | 12/11/2021 | PDP11947 | 2020-8 TipsTech Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
 | 12/11/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 12/11/2021 | PDP37605 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
+| 11/30/2021 | PDP05621 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 11/18/2021 | PDP10801 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/18/2021 | PDP16654 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
 | 11/12/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
