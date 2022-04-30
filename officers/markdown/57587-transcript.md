@@ -79,8 +79,6 @@
 | 6/1/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/22/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 5/22/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
-| 5/15/2021 | PDP37105 | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 5/15/2021 | PDP30016 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/15/2021 | PDP36027 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/3/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 5/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

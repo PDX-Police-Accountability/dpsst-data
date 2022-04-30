@@ -4,7 +4,7 @@
 | name | Bent, Kenneth D. |
 | dpsst_identifier | 58768 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,18 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/29/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/5/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 9/17/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/28/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/27/2019 | Police Officer | Basic | Granted | 9/27/2019 |  |  |
+| 3/1/2022 | Police Officer | Basic | Lapsed | 9/27/2019 | 11/29/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 9/7/2021 | 9/7/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/28/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2018 |  |

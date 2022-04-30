@@ -49,7 +49,6 @@
 | 12/15/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/8/2021 | PDP34001 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
-| 12/8/2021 | PDP33113 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
 | 12/6/2021 | PDP44453 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
 | 12/6/2021 | PDP03342 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 11/22/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |

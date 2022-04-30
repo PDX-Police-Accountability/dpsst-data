@@ -65,7 +65,6 @@
 | 12/9/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 12/9/2021 | PDP37605 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 12/8/2021 | PDP34001 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
-| 12/8/2021 | PDP33113 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
 | 11/17/2021 | PDP25039 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 5.00 |
 | 11/12/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 11/12/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |

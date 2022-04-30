@@ -1,7 +1,6 @@
 ## Transcripts (sorted by rank)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| * MISSING | 16779 |  |  |  | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
 | Leloff, Michael W. | 17573 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/17573-transcript.md) - [yaml](../yaml/17573-transcript.yml) |
 | Henderson, Donna M. | 20228 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/20228-transcript.md) - [yaml](../yaml/20228-transcript.yml) |
 | Wagenknecht, Mathew A. | 24983 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/24983-transcript.md) - [yaml](../yaml/24983-transcript.yml) |
@@ -36,6 +35,7 @@
 | Marshman, Michael W. | 25056 | Portland Police Bureau | Inactive | Chief | [md](../markdown/25056-transcript.md) - [yaml](../yaml/25056-transcript.yml) |
 | Lovell, Charles, III | 41706 | Portland Police Bureau | Active | Chief | [md](../markdown/41706-transcript.md) - [yaml](../yaml/41706-transcript.yml) |
 | Outlaw, Danielle M. | 58095 | Portland Police Bureau | Inactive | Chief | [md](../markdown/58095-transcript.md) - [yaml](../yaml/58095-transcript.yml) |
+| Bedell, Linda D. | 16779 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
 | Mathis, Angela M. | 17080 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/17080-transcript.md) - [yaml](../yaml/17080-transcript.yml) |
 | Azorr, Robert M. | 17432 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/17432-transcript.md) - [yaml](../yaml/17432-transcript.yml) |
 | Cuthbertson, Bruce E. | 17500 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/17500-transcript.md) - [yaml](../yaml/17500-transcript.yml) |
@@ -1100,7 +1100,7 @@
 | Dyk, Joshua A. | 58506 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58506-transcript.md) - [yaml](../yaml/58506-transcript.yml) |
 | Eide, Carolyn A. | 58740 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58740-transcript.md) - [yaml](../yaml/58740-transcript.yml) |
 | Quinlivan, Sarah P. | 58767 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58767-transcript.md) - [yaml](../yaml/58767-transcript.yml) |
-| Bent, Kenneth D. | 58768 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58768-transcript.md) - [yaml](../yaml/58768-transcript.yml) |
+| Bent, Kenneth D. | 58768 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58768-transcript.md) - [yaml](../yaml/58768-transcript.yml) |
 | Axelrod, Austin J. | 58774 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58774-transcript.md) - [yaml](../yaml/58774-transcript.yml) |
 | Pettey, Stephen B. | 58781 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58781-transcript.md) - [yaml](../yaml/58781-transcript.yml) |
 | Sathoff, Christopher J. | 58857 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58857-transcript.md) - [yaml](../yaml/58857-transcript.yml) |

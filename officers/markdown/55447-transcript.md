@@ -39,6 +39,7 @@
 | 2/19/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/19/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/19/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 1/26/2022 | PDP20639 | NFPA Hazmat operations mission specific course | Passed | 0.0 | 27.00 |
 | 1/18/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -88,14 +89,10 @@
 | 7/9/2021 | PDP13351 | TEEX - Wide Search Area Training | Passed | 0.0 | 27.00 |
 | 7/3/2021 | PDP13707 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/2/2021 | PDP18776 | CPR/First Aid | Instructed | 0.0 | 1.75 |
-| 7/2/2021 | PDP15440 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/1/2021 | PDP35511 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/30/2021 | PDP19590 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/28/2021 | PDP19846 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/27/2021 | PDP32751 | CPR/First Aid | Instructed | 0.0 | 1.75 |
-| 6/27/2021 | PDP17071 | CPR/First Aid | Instructed | 0.0 | 1.75 |
-| 6/27/2021 | PDP12828 | CPR/First Aid | Instructed | 0.0 | 1.75 |
-| 6/27/2021 | PDP25296 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/19/2021 | PDP09267 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/14/2021 | PDP21776 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/14/2021 | PDP42968 | CPR/First Aid | Instructed | 0.0 | 1.75 |

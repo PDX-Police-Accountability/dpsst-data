@@ -28,8 +28,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
 | Certification Cards | First Aid | 11/5/2020 | 11/30/2022 |
 | Code of Ethics | Signed | 12/20/2002 |  |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/8/2022 | LOP20667 | Red Door Project Evolve Experience - Ethics | Passed | 0.0 | 1.00 |
 | 4/8/2022 | LOP19148 | Red Door Project Evolve Experience | Passed | 0.0 | 2.00 |
 | 3/29/2022 | LOP01809 | Legislative Update HB4008 Crowd Management | Passed | 0.0 | 0.50 |

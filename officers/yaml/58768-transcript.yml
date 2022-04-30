@@ -3,12 +3,18 @@
   :name: Bent, Kenneth D.
   :dpsst_identifier: '58768'
   :agency: Portland Police Bureau
-  :employment_status: Active
+  :employment_status: Inactive
   :rank: Police Officer
   :level: ''
   :classification: ''
   :assignment: ''
 :employment_records:
+- :date: 11/29/2021
+  :agency: Portland Police Bureau
+  :action: Resigned
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
 - :date: 3/5/2021
   :agency: Portland Police Bureau
   :action: Return LOA
@@ -28,12 +34,12 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 9/27/2019
+- :status_date: 3/1/2022
   :certificate: Police Officer
   :level: Basic
-  :status: Granted
+  :status: Lapsed
   :certificate_date: 9/27/2019
-  :expiration_date: ''
+  :expiration_date: 11/29/2026
   :probation_date: ''
 :training_records:
 - :date: 3/3/2022
@@ -1177,14 +1183,6 @@
   :score: '0.0'
   :hours: '7.25'
 :attribute_records:
-- :topic: Maintenance Requirements
-  :value: LE Basic 3 Year
-  :effective_date: 1/1/2023
-  :expiration_date: 12/31/2025
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2022
-  :expiration_date: 12/31/2022
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 9/7/2021

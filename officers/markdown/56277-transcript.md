@@ -25,7 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
+| Certification Cards | First Aid and CPR | 4/12/2022 | 4/12/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/5/2018 |  |
@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2022 | GLP21351 | Adult/Child CPR/First Aid | Passed | 0.0 | 2.00 |
 | 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 9/9/2021 | F6E31333 | Taser Annual Recertification | Passed | 0.0 | 3.00 |

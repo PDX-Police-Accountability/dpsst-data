@@ -37,21 +37,21 @@
 - :status_date: 10/21/2021
   :certificate: Police Officer
   :level: Advanced
-  :status: Lapsed-UR
+  :status: Lapsed
   :certificate_date: 8/14/2015
   :expiration_date: 7/21/2026
   :probation_date: ''
 - :status_date: 10/21/2021
   :certificate: Police Officer
   :level: Basic
-  :status: Lapsed-UR
+  :status: Lapsed
   :certificate_date: 7/22/2010
   :expiration_date: 7/21/2026
   :probation_date: ''
 - :status_date: 10/21/2021
   :certificate: Police Officer
   :level: Intermediate
-  :status: Lapsed-UR
+  :status: Lapsed
   :certificate_date: 11/7/2014
   :expiration_date: 7/21/2026
   :probation_date: ''

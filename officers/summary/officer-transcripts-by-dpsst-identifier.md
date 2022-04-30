@@ -5,7 +5,7 @@
 | Stradley, James M. | 16129 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16129-transcript.md) - [yaml](../yaml/16129-transcript.yml) |
 | DeLong, Mark S. | 16480 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16480-transcript.md) - [yaml](../yaml/16480-transcript.yml) |
 | Keller, Lawrence E. | 16483 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16483-transcript.md) - [yaml](../yaml/16483-transcript.yml) |
-| * MISSING | 16779 |  |  |  | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
+| Bedell, Linda D. | 16779 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
 | Erickson, Douglas F. | 16909 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16909-transcript.md) - [yaml](../yaml/16909-transcript.yml) |
 | Mathis, Angela M. | 17080 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/17080-transcript.md) - [yaml](../yaml/17080-transcript.yml) |
 | Estes, Matthew J. | 17106 | Portland Police Bureau | Inactive | Detective | [md](../markdown/17106-transcript.md) - [yaml](../yaml/17106-transcript.yml) |
@@ -1371,7 +1371,7 @@
 | Dyk, Joshua A. | 58506 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58506-transcript.md) - [yaml](../yaml/58506-transcript.yml) |
 | Eide, Carolyn A. | 58740 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58740-transcript.md) - [yaml](../yaml/58740-transcript.yml) |
 | Quinlivan, Sarah P. | 58767 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58767-transcript.md) - [yaml](../yaml/58767-transcript.yml) |
-| Bent, Kenneth D. | 58768 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58768-transcript.md) - [yaml](../yaml/58768-transcript.yml) |
+| Bent, Kenneth D. | 58768 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58768-transcript.md) - [yaml](../yaml/58768-transcript.yml) |
 | Axelrod, Austin J. | 58774 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58774-transcript.md) - [yaml](../yaml/58774-transcript.yml) |
 | Pettey, Stephen B. | 58781 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58781-transcript.md) - [yaml](../yaml/58781-transcript.yml) |
 | Sathoff, Christopher J. | 58857 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58857-transcript.md) - [yaml](../yaml/58857-transcript.yml) |

@@ -72,6 +72,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/26/2022
+  :course: PDP20639
+  :title: NFPA Hazmat operations mission specific course
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 1/18/2022
   :course: PDP34045
   :title: 2022 Training 3M N Series Helmet
@@ -366,12 +372,6 @@
   :status: Instructed
   :score: '0.0'
   :hours: '1.75'
-- :date: 7/2/2021
-  :course: PDP15440
-  :title: CPR/First Aid
-  :status: Instructed
-  :score: '0.0'
-  :hours: '1.75'
 - :date: 7/1/2021
   :course: PDP35511
   :title: CPR/First Aid
@@ -392,24 +392,6 @@
   :hours: '1.75'
 - :date: 6/27/2021
   :course: PDP32751
-  :title: CPR/First Aid
-  :status: Instructed
-  :score: '0.0'
-  :hours: '1.75'
-- :date: 6/27/2021
-  :course: PDP17071
-  :title: CPR/First Aid
-  :status: Instructed
-  :score: '0.0'
-  :hours: '1.75'
-- :date: 6/27/2021
-  :course: PDP12828
-  :title: CPR/First Aid
-  :status: Instructed
-  :score: '0.0'
-  :hours: '1.75'
-- :date: 6/27/2021
-  :course: PDP25296
   :title: CPR/First Aid
   :status: Instructed
   :score: '0.0'

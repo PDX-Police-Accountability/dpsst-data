@@ -1,7 +1,6 @@
 ## Transcripts (sorted by name)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| * MISSING | 16779 |  |  |  | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
@@ -99,6 +98,7 @@
 | Bechtel, Lindsey A. | 57093 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57093-transcript.md) - [yaml](../yaml/57093-transcript.yml) |
 | Becker, Jamin A. | 49504 | Portland Police Bureau | Active | Criminalist | [md](../markdown/49504-transcript.md) - [yaml](../yaml/49504-transcript.yml) |
 | Becker, Jeffrey S. | 34352 | Portland Police Bureau | Active | Detective | [md](../markdown/34352-transcript.md) - [yaml](../yaml/34352-transcript.yml) |
+| Bedell, Linda D. | 16779 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/16779-transcript.md) - [yaml](../yaml/16779-transcript.yml) |
 | Beedle, Dustin D. | 59709 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/59709-transcript.md) - [yaml](../yaml/59709-transcript.yml) |
 | Bell, Jeffrey M. | 38996 | Portland Police Bureau | Active | Commander | [md](../markdown/38996-transcript.md) - [yaml](../yaml/38996-transcript.yml) |
 | Bender, Jeffrey J. | 28091 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/28091-transcript.md) - [yaml](../yaml/28091-transcript.yml) |
@@ -106,7 +106,7 @@
 | Bender, Robert M. | 51462 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/51462-transcript.md) - [yaml](../yaml/51462-transcript.yml) |
 | Beniga, Rico T. | 36906 | Portland Police Bureau | Active | Detective | [md](../markdown/36906-transcript.md) - [yaml](../yaml/36906-transcript.yml) |
 | Bennett, John D. | 38950 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/38950-transcript.md) - [yaml](../yaml/38950-transcript.yml) |
-| Bent, Kenneth D. | 58768 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58768-transcript.md) - [yaml](../yaml/58768-transcript.yml) |
+| Bent, Kenneth D. | 58768 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58768-transcript.md) - [yaml](../yaml/58768-transcript.yml) |
 | Berg, Walker R. | 43499 | Portland Police Bureau | Active | Criminalist | [md](../markdown/43499-transcript.md) - [yaml](../yaml/43499-transcript.yml) |
 | Berge, Christian R. | 49083 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/49083-transcript.md) - [yaml](../yaml/49083-transcript.yml) |
 | Bergstrom, David A. | 26713 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/26713-transcript.md) - [yaml](../yaml/26713-transcript.yml) |

@@ -55,6 +55,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/12/2022
+  :course: GLP21351
+  :title: Adult/Child CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/9/2022
   :course: LOP18296
   :title: EVOC (Pursuit Driving, Use of Force)
@@ -980,10 +986,10 @@
   :score: '0.0'
   :hours: '24.00'
 :attribute_records:
-- :topic: Maintenance Requirements
-  :value: First Aid/CPR Required
-  :effective_date: 3/16/2022
-  :expiration_date: 3/16/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 4/12/2022
+  :expiration_date: 4/12/2024
 - :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022

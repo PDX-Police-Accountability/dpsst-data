@@ -60,7 +60,6 @@
 | 12/20/2021 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/8/2021 | PDP34001 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
-| 12/8/2021 | PDP33113 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
 | 11/24/2021 | PDP10199 | 2021 K-9 Wednesday Night K-9 Training | Instructed | 0.0 | 4.50 |
 | 11/18/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 11/18/2021 | PDP34501 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |

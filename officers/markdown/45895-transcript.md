@@ -112,7 +112,6 @@
 | 5/11/2021 | PDP10015 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/7/2021 | PDP19784 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/6/2021 | PDP00285 | CPR/First Aid | Instructed | 0.0 | 1.75 |
-| 5/6/2021 | PDP28498 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/5/2021 | PDP43402 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/4/2021 | PDP38661 | CPr/First Aid | Instructed | 0.0 | 1.75 |
 | 4/28/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |

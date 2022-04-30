@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/31/2022 | EGP12030 | Crisis Entry Skills/Explosive Breaches/HR Scenario | Passed | 0.0 | 10.00 |
 | 3/16/2022 | EGP14272 | Emergency Vehicle Operations Course "EVOC" | Passed | 0.0 | 3.00 |
 | 2/24/2022 | EGP38695 | Briefing:  Measure 110 Update | Passed | 0.0 | 0.50 |
