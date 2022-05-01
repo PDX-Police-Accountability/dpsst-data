@@ -26,7 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
+| Certification Cards | First Aid and CPR | 4/27/2022 | 4/27/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 7/27/2001 |  |
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2022 | HBP24552 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 4/5/2022 | HBP11048 | MHRT Investigations and Update | Passed | 0.0 | 3.00 |
 | 3/30/2022 | HBP15077 | Patrol Tactics for Code Compliance | Passed | 0.0 | 4.00 |
 | 12/14/2021 | F6E27445 | Detective Tactical Training | Passed | 0.0 | 4.00 |

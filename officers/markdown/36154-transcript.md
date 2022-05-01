@@ -26,7 +26,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
 | Code of Ethics | Signed | 7/25/2002 |  |
 ## Education
@@ -44,6 +43,7 @@
 | 3/31/2022 | MFP40833 | Briefing Training March 2022 | Passed | 0.0 | 4.25 |
 | 3/10/2022 | MFP17234 | Crisis Negotiation Team Scenario March 2022 | Passed | 0.0 | 4.00 |
 | 2/28/2022 | MFP10990 | Briefing Training February 2022 | Passed | 0.0 | 2.00 |
+| 2/28/2022 | MFP04525 | Lexipol Daily Training Bulletins, February 2022 | Passed | 0.0 | 2.00 |
 | 2/1/2022 | MFP02405 | Karly's Law 02012022 | Passed | 0.0 | 2.00 |
 | 2/1/2022 | MFP21654 | Use of Force to Include K9 Updates Classroom | Passed | 0.0 | 2.00 |
 | 2/1/2022 | MFP31197 | CIT Refresher February 2022 | Passed | 0.0 | 4.00 |

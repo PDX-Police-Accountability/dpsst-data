@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: PDP03403
+  :title: EDU weekly training (robot operations)
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 4/6/2022
   :course: PDP24684
   :title: EDU Disposal Training

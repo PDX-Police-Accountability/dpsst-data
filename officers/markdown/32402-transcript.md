@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2022 | HBS08292 | CI240 Intermediate Cyber: Virtual Currency | Passed | 0.0 | 24.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2022 | HBS22020 | First Aid | Passed | 0.0 | 2.50 |
 | 1/26/2022 | HBS04916 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

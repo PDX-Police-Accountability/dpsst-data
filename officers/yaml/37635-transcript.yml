@@ -69,6 +69,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 4/28/2022
+  :course: EGP26329
+  :title: Ladder Tactics/Firearms Skills/Linear Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/31/2022
   :course: EGP12030
   :title: Crisis Entry Skills/Explosive Breaches/HR Scenario
@@ -4536,10 +4542,6 @@
   :value: First Aid and CPR
   :effective_date: 1/19/2022
   :expiration_date: 1/19/2024
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2022
-  :expiration_date: 1/1/1950
 - :topic: Maintenance Requirements
   :value: LE Leadership 3 Year
   :effective_date: 1/1/2022

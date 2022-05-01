@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: PDP03403
+  :title: EDU weekly training (robot operations)
+  :status: Instructed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 4/13/2022
   :course: PDP11495
   :title: EDU weekly training

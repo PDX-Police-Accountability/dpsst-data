@@ -46,6 +46,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/10/2022 | CIF41966 | Firearms Qualify | Passed | 0.0 | 0.50 |
 | 3/10/2022 | CIF13240 | 2022 Airways: Patient Evaluation for Law Enf. | Passed | 0.0 | 2.00 |
+| 3/8/2022 | F6R37670 | Mindfulness Based Resilence Training | Passed | 0.0 | 14.00 |
 | 11/30/2021 | PPP22451 | Anti-Bias Training For LE | Passed | 0.0 | 1.00 |
 | 11/9/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/28/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

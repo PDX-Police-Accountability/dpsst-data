@@ -53,7 +53,6 @@
 | 1/11/2022 | HBS35774 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 1/10/2022 | REG43898 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/23/2021 | REG21880 | Defensive Tactics | Passed | 0.0 | 1.00 |
-| 12/22/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
 | 12/22/2021 | HBS20005 | Active Threat | Passed | 0.0 | 9.50 |
 | 12/21/2021 | HBS18101 | Child Sex Trafficking: Suspicion to Disclosure | Passed | 0.0 | 6.00 |
 | 12/9/2021 | REG38520 | Defensive Tactics | Passed | 0.0 | 1.00 |
