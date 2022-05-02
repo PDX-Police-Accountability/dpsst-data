@@ -1,2 +1,105 @@
 ---
-:missing_transcript: true
+:header_record:
+  :name: Paille, Christopher T.
+  :dpsst_identifier: '38838'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Civilian Employee
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 9/2/1999
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Civln Emp
+  :classification: ''
+  :assignment: ''
+:certification_records: []
+:training_records:
+- :date: 12/25/2014
+  :course: 14-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/11/2014
+  :course: 14-0924
+  :title: Sexual Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/31/2013
+  :course: 13-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 9/27/2010
+  :course: 10-0469
+  :title: Managing Employee Performance
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/20/2010
+  :course: 10-1171
+  :title: Labor Contract Evaluation
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 9/13/2010
+  :course: 10-0464
+  :title: Employee Discipline
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 1/26/2010
+  :course: 10-0474
+  :title: Performance Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.75'
+- :date: 7/1/2009
+  :course: '09-0716'
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 12/13/2007
+  :course: 07-0703
+  :title: Data System
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.50'
+- :date: 7/1/2007
+  :course: 07-0716
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 9/26/2006
+  :course: 06-2300
+  :title: Oregon Open Records Law
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 7/1/2005
+  :course: 05-0590
+  :title: LEDS Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 7/15/2004
+  :course: 04-0921
+  :title: Fingerprinting - Basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
+- :date: 1/25/2002
+  :course: 02CP147
+  :title: Crime Analysis Applications Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '36.00'
+:attribute_records: []
+:education_records: []
