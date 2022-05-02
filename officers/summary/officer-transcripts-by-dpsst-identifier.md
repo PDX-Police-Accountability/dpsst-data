@@ -659,16 +659,16 @@
 | Nordeen, Veronica L. | 38179 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38179-transcript.md) - [yaml](../yaml/38179-transcript.yml) |
 | Carmon, Derek L. | 38197 | Portland Police Bureau | Active | Police Officer | [md](../markdown/38197-transcript.md) - [yaml](../yaml/38197-transcript.yml) |
 | Phifer, Chad R. | 38202 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/38202-transcript.md) - [yaml](../yaml/38202-transcript.yml) |
-| Crampton, Christy L. | 38263 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38263-transcript.md) - [yaml](../yaml/38263-transcript.yml) |
+| * MISSING | 38263 |  |  |  | [md](../markdown/38263-transcript.md) - [yaml](../yaml/38263-transcript.yml) |
 | Newton, Derek A. | 38400 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38400-transcript.md) - [yaml](../yaml/38400-transcript.yml) |
 | Miller, Robert D. | 38512 | Portland Police Bureau | Active | Police Officer | [md](../markdown/38512-transcript.md) - [yaml](../yaml/38512-transcript.yml) |
-| Cammack, Jeffrey E. | 38549 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38549-transcript.md) - [yaml](../yaml/38549-transcript.yml) |
+| * MISSING | 38549 |  |  |  | [md](../markdown/38549-transcript.md) - [yaml](../yaml/38549-transcript.yml) |
 | Friderich, Lindsay | 38601 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/38601-transcript.md) - [yaml](../yaml/38601-transcript.yml) |
 | Strohmeyer, Erik D. | 38637 | Portland Police Bureau | Active | Sergeant | [md](../markdown/38637-transcript.md) - [yaml](../yaml/38637-transcript.yml) |
-| Hasslacher, Wendy I. | 38709 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/38709-transcript.md) - [yaml](../yaml/38709-transcript.yml) |
+| * MISSING | 38709 |  |  |  | [md](../markdown/38709-transcript.md) - [yaml](../yaml/38709-transcript.yml) |
 | Graf, Jason A. | 38791 | Portland Police Bureau | Active | Police Officer | [md](../markdown/38791-transcript.md) - [yaml](../yaml/38791-transcript.yml) |
-| Paille, Christopher T. | 38838 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38838-transcript.md) - [yaml](../yaml/38838-transcript.yml) |
-| Feist, Andrew D. | 38844 | Portland Police Bureau | Active | Police Officer | [md](../markdown/38844-transcript.md) - [yaml](../yaml/38844-transcript.yml) |
+| * MISSING | 38838 |  |  |  | [md](../markdown/38838-transcript.md) - [yaml](../yaml/38838-transcript.yml) |
+| * MISSING | 38844 |  |  |  | [md](../markdown/38844-transcript.md) - [yaml](../yaml/38844-transcript.yml) |
 | Morgan, Craig S. | 38846 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/38846-transcript.md) - [yaml](../yaml/38846-transcript.yml) |
 | Rees, Ryan C. | 38874 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38874-transcript.md) - [yaml](../yaml/38874-transcript.yml) |
 | Sage, Jamie L. | 38875 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38875-transcript.md) - [yaml](../yaml/38875-transcript.yml) |
@@ -758,13 +758,13 @@
 | Shirahama, Grant T. | 41300 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/41300-transcript.md) - [yaml](../yaml/41300-transcript.yml) |
 | Koenig, Jason M. | 41301 | Portland Police Bureau | Active | Detective | [md](../markdown/41301-transcript.md) - [yaml](../yaml/41301-transcript.yml) |
 | Ismail, Hythum A. | 41302 | Portland Police Bureau | Active | Sergeant | [md](../markdown/41302-transcript.md) - [yaml](../yaml/41302-transcript.yml) |
-| McDaniel, Eric B. | 41372 | Portland Police Bureau | Active | Detective | [md](../markdown/41372-transcript.md) - [yaml](../yaml/41372-transcript.yml) |
-| Zentner, Davonne R. | 41483 | Portland Police Bureau | Active | Police Officer | [md](../markdown/41483-transcript.md) - [yaml](../yaml/41483-transcript.yml) |
-| Sickon, Bridget M. | 41497 | Portland Police Bureau | Active | Police Officer | [md](../markdown/41497-transcript.md) - [yaml](../yaml/41497-transcript.yml) |
-| Hays, Harold F., Jr. | 41498 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/41498-transcript.md) - [yaml](../yaml/41498-transcript.yml) |
+| * MISSING | 41372 |  |  |  | [md](../markdown/41372-transcript.md) - [yaml](../yaml/41372-transcript.yml) |
+| * MISSING | 41483 |  |  |  | [md](../markdown/41483-transcript.md) - [yaml](../yaml/41483-transcript.yml) |
+| * MISSING | 41497 |  |  |  | [md](../markdown/41497-transcript.md) - [yaml](../yaml/41497-transcript.yml) |
+| * MISSING | 41498 |  |  |  | [md](../markdown/41498-transcript.md) - [yaml](../yaml/41498-transcript.yml) |
 | Helwig, Heidi J. | 41499 | Portland Police Bureau | Active | Detective | [md](../markdown/41499-transcript.md) - [yaml](../yaml/41499-transcript.yml) |
-| Scott, Hilary J. | 41513 | Portland Police Bureau | Active | Detective | [md](../markdown/41513-transcript.md) - [yaml](../yaml/41513-transcript.yml) |
-| Zoeller, Anthony J. | 41636 | Portland Police Bureau | Active | Detective | [md](../markdown/41636-transcript.md) - [yaml](../yaml/41636-transcript.yml) |
+| * MISSING | 41513 |  |  |  | [md](../markdown/41513-transcript.md) - [yaml](../yaml/41513-transcript.yml) |
+| * MISSING | 41636 |  |  |  | [md](../markdown/41636-transcript.md) - [yaml](../yaml/41636-transcript.yml) |
 | Bledsoe, Michael T., Jr. | 41701 | Portland Police Bureau | Active | Detective | [md](../markdown/41701-transcript.md) - [yaml](../yaml/41701-transcript.yml) |
 | Lovell, Charles, III | 41706 | Portland Police Bureau | Active | Chief | [md](../markdown/41706-transcript.md) - [yaml](../yaml/41706-transcript.yml) |
 | Anuschat, Max O. | 41752 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/41752-transcript.md) - [yaml](../yaml/41752-transcript.yml) |
