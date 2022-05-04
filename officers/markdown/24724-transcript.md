@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/22/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/27/2022 | FGP20858 | Distraction Device Training | Passed | 0.0 | 2.50 |
 | 4/19/2022 | FGP17600 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 1.00 |
 | 4/8/2022 | FGP37598 | ACAP Carotid Restraint Policy Review | Passed | 0.0 | 0.25 |
 | 4/8/2022 | FGP05906 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 2.00 |

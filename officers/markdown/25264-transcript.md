@@ -54,7 +54,6 @@
 | 3/27/2020 | PDP07089 | 2019-12 City Attorney's Legal Updates for 12/2019 | Passed | 0.0 | 0.50 |
 | 3/27/2020 | PDP09330 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/19/2020 | PDP17847 | 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines | Passed | 0.0 | 0.25 |
-| 2/3/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/3/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/3/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/7/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |

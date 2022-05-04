@@ -34,6 +34,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
+| 4/28/2022 | MFN03564 | Sexual Assualt Awareness: Victims  Rape Cult | Passed | 0.0 | 1.00 |
+| 4/27/2022 | MFN28710 | Women's Risk Needs Assessment | Passed | 0.0 | 16.00 |
 | 4/15/2022 | MFN17640 | ConSims Training | Passed | 0.0 | 4.00 |
 | 4/14/2022 | MFN18043 | Transgender 101 | Passed | 0.0 | 2.00 |
 | 4/13/2022 | MFN22655 | Parole and PPS Morrissey Hearing's Training | Passed | 0.0 | 2.00 |

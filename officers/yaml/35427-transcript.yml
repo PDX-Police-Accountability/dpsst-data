@@ -71,6 +71,12 @@
   :assignment: ''
 :certification_records: []
 :training_records:
+- :date: 4/27/2022
+  :course: SMP39708
+  :title: Property  Evidence Management
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
 - :date: 12/29/2021
   :course: PDS21233
   :title: OSHA  Bloodborne Pathogens

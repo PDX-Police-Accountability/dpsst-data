@@ -34,12 +34,12 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 8/1/2017
+- :status_date: 5/1/2022
   :certificate: Police Officer
   :level: Basic
-  :status: Lapsed
+  :status: Expired
   :certificate_date: 5/10/2005
-  :expiration_date: 5/1/2022
+  :expiration_date: ''
   :probation_date: ''
 :training_records:
 - :date: 10/1/2021

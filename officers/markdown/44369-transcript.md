@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2022 | SMP39708 | Property  Evidence Management | Passed | 0.0 | 16.00 |
 | 4/20/2022 | STP39126 | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |
 | 2/27/2022 | STP35179 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 2/26/2022 | STP39198 | Defensive Tactics | Instructed | 0.0 | 3.00 |

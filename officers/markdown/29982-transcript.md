@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2022 | REG28741 | Tactical Medicine / Firearms Range Drills | Instructed | 0.0 | 14.00 |
 | 4/20/2022 | SVP36695 | Building Clearing Simunitions Training | Instructed | 0.0 | 4.00 |
 | 4/13/2022 | SVP25245 | Developing  Implementing Outward Mindset | Passed | 0.0 | 16.00 |
 | 3/31/2022 | SVP43019 | How Physical  Mental Wellbeing Affects Perforance | Passed | 0.0 | 1.00 |

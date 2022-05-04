@@ -93,6 +93,12 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 4/27/2022
+  :course: FGP20858
+  :title: Distraction Device Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
 - :date: 4/19/2022
   :course: FGP17600
   :title: Patrol Tactics/Building Search Con Sim
