@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/6/2022
+  :course: PDP32165
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/8/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification

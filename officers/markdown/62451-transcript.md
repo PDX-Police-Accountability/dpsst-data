@@ -31,6 +31,7 @@
 | 4/18/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Passed | 0.0 | 5.00 |
 | 4/13/2022 | PDP03211 | LEDS certfication class | Passed | 0.0 | 5.00 |
+| 4/12/2022 | PDP07499 | ICS 100 | Passed | 0.0 | 3.00 |
 | 4/8/2022 | PDP23369 | FTEP Pre-DPSST Firearms training | Passed | 0.0 | 7.00 |
 | 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 4/5/2022 | PDP28507 | FTEP pre-DPSST firearms | Passed | 0.0 | 7.00 |

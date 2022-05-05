@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2022 | PDP40995 | K-9 weekly (searches,OPCA standards, etc.) | Passed | 0.0 | 4.50 |
 | 4/16/2022 | REG09704 | Edge Weapon Defense | Passed | 0.0 | 2.00 |
 | 3/9/2022 | PDP31744 | K-9 weekly training | Passed | 0.0 | 4.00 |
 | 3/7/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

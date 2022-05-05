@@ -31,6 +31,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/19/2022
+  :course: PDP23266
+  :title: SERT breaching iteration training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/31/2022
   :course: PDP25308
   :title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community

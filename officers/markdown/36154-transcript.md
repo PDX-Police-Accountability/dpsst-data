@@ -36,11 +36,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 4/30/2022 | MFP17324 | April 2022 Briefing Training | Passed | 0.0 | 2.00 |
 | 4/21/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/1/2022 | MFP27055 | Diversity 101 | Passed | 0.0 | 1.00 |
 | 4/1/2022 | MFP42698 | EVOC March/April 2022 | Passed | 0.0 | 4.00 |
 | 4/1/2022 | MFP22865 | Mobile Use of Force Concepts | Passed | 0.0 | 3.00 |
 | 3/31/2022 | MFP40833 | Briefing Training March 2022 | Passed | 0.0 | 4.25 |
+| 3/31/2022 | MFP19242 | March 2022 Daily Training Bulletins | Passed | 0.0 | 2.00 |
 | 3/10/2022 | MFP17234 | Crisis Negotiation Team Scenario March 2022 | Passed | 0.0 | 4.00 |
 | 2/28/2022 | MFP10990 | Briefing Training February 2022 | Passed | 0.0 | 2.00 |
 | 2/28/2022 | MFP04525 | Lexipol Daily Training Bulletins, February 2022 | Passed | 0.0 | 2.00 |

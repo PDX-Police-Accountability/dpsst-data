@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: PDP40995
+  :title: K-9 weekly (searches,OPCA standards, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.50'
 - :date: 3/31/2022
   :course: PDP30923
   :title: 2021-11 City Attorney's Legal Update for Nov. 2021

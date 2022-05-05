@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/14/2022
+  :course: PDP44374
+  :title: SERT Weekly Inner Perimeter
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

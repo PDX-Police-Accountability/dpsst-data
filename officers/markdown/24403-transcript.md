@@ -23,15 +23,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/1/2022 | Corrections Officer | Advanced | Lapsed | 4/8/2002 | 1/31/2027 |  |
+| 5/1/2022 | Corrections Officer | Basic | Lapsed | 11/19/1997 | 1/31/2027 |  |
+| 5/1/2022 | Corrections Officer | Intermediate | Lapsed | 7/17/1998 | 1/31/2027 |  |
 | 2/15/2020 | Police Officer | Basic | Expired | 11/10/1993 |  |  |
-| 4/8/2002 | Corrections Officer | Advanced | Granted | 4/8/2002 | 5/1/2022 |  |
-| 7/17/1998 | Corrections Officer | Intermediate | Granted | 7/17/1998 | 5/1/2022 |  |
-| 11/19/1997 | Corrections Officer | Basic | Granted | 11/19/1997 | 5/1/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 4/8/2002 |  |
 ## Education
 | date | degree | school | major | hours |
