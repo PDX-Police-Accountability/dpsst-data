@@ -92,6 +92,12 @@
   :status: Instructed
   :score: '0.0'
   :hours: '7.00'
+- :date: 3/9/2022
+  :course: PDP01777
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -122,6 +128,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/24/2022
+  :course: PDP24753
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 2/10/2022
   :course: PDP23946
   :title: 2021-9 City Attorney's Legal Update for Sept. 2021

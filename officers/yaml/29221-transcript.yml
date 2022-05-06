@@ -119,6 +119,138 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/29/2022
+  :course: VND34312
+  :title: Officer Involved Shooting
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/29/2022
+  :course: VND03762
+  :title: Scenario Based Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/28/2022
+  :course: VND34930
+  :title: Clinical States
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 4/28/2022
+  :course: VND20822
+  :title: Excited Delirium
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/28/2022
+  :course: VND11237
+  :title: Sad Mad Bad
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/28/2022
+  :course: VND14723
+  :title: Scenario Based Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/27/2022
+  :course: VND28124
+  :title: Child and Adolescent Crisis
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.75'
+- :date: 4/27/2022
+  :course: VND28517
+  :title: De-Escalation
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/27/2022
+  :course: VND08612
+  :title: IDD
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/27/2022
+  :course: VND41522
+  :title: Psychosis Simulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/27/2022
+  :course: VND44283
+  :title: Wellness Perspectives
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/26/2022
+  :course: VND30375
+  :title: Crisis Resources
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/26/2022
+  :course: VND32479
+  :title: Critical Incident Stress Management / CISM
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/26/2022
+  :course: VND38259
+  :title: Veterans Battlemind, PTSD, Military Culture
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/26/2022
+  :course: VND17518
+  :title: Legal Panel
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/26/2022
+  :course: VND04163
+  :title: NAMI In Our Own Voices
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/25/2022
+  :course: VND02152
+  :title: Drug  Alcohol Addictions
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/25/2022
+  :course: VND07911
+  :title: Crisis Cycle
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/25/2022
+  :course: VND02383
+  :title: Suicide
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/25/2022
+  :course: VND04560
+  :title: Liability and Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 4/25/2022
+  :course: VND10227
+  :title: Intro to Scenarios
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/25/2022
+  :course: VND29358
+  :title: Medications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
 - :date: 2/10/2022
   :course: XDELETE
   :title: Pending for Deletion Due to Duplicate or Other Rea

@@ -42,11 +42,13 @@
 | 3/31/2022 | PDP19016 | FTEP Geography Training | Instructed | 0.0 | 3.00 |
 | 3/30/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 3/14/2022 | PDP07675 | 2022 FTEP Policy and Procedure | Instructed | 0.0 | 7.00 |
+| 3/9/2022 | PDP01777 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP10556 | Legal Updates Training Example | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP11100 | Shots Fired Incident Reporting Online Training | Passed | 0.0 | 0.25 |
 | 3/2/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/1/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 2/24/2022 | PDP24753 | Crisis Negotiation Team Training | Passed | 0.0 | 27.00 |
 | 2/10/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/9/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

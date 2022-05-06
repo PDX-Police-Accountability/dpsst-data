@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2022 | PDP03288 | Advanced Shotgun Operator Training | Instructed | 0.0 | 18.00 |
 | 4/14/2022 | PDP24491 | Advanced Shotgun Operator Course | Instructed | 0.0 | 18.00 |
 | 3/17/2022 | PDP35017 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |
 | 3/10/2022 | PDP27897 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |

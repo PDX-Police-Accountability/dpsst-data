@@ -47,6 +47,28 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2022 | VND34312 | Officer Involved Shooting | Passed | 0.0 | 2.00 |
+| 4/29/2022 | VND03762 | Scenario Based Training | Passed | 0.0 | 6.00 |
+| 4/28/2022 | VND34930 | Clinical States | Passed | 0.0 | 1.25 |
+| 4/28/2022 | VND20822 | Excited Delirium | Passed | 0.0 | 1.00 |
+| 4/28/2022 | VND11237 | Sad Mad Bad | Passed | 0.0 | 1.50 |
+| 4/28/2022 | VND14723 | Scenario Based Training | Passed | 0.0 | 4.00 |
+| 4/27/2022 | VND28124 | Child and Adolescent Crisis | Passed | 0.0 | 1.75 |
+| 4/27/2022 | VND28517 | De-Escalation | Passed | 0.0 | 4.00 |
+| 4/27/2022 | VND08612 | IDD | Passed | 0.0 | 0.75 |
+| 4/27/2022 | VND41522 | Psychosis Simulation | Passed | 0.0 | 0.75 |
+| 4/27/2022 | VND44283 | Wellness Perspectives | Passed | 0.0 | 0.75 |
+| 4/26/2022 | VND30375 | Crisis Resources | Passed | 0.0 | 2.00 |
+| 4/26/2022 | VND32479 | Critical Incident Stress Management / CISM | Passed | 0.0 | 0.75 |
+| 4/26/2022 | VND38259 | Veterans Battlemind, PTSD, Military Culture | Passed | 0.0 | 0.75 |
+| 4/26/2022 | VND17518 | Legal Panel | Passed | 0.0 | 1.50 |
+| 4/26/2022 | VND04163 | NAMI In Our Own Voices | Passed | 0.0 | 2.00 |
+| 4/25/2022 | VND02152 | Drug  Alcohol Addictions | Passed | 0.0 | 1.00 |
+| 4/25/2022 | VND07911 | Crisis Cycle | Passed | 0.0 | 1.50 |
+| 4/25/2022 | VND02383 | Suicide | Passed | 0.0 | 1.50 |
+| 4/25/2022 | VND04560 | Liability and Use of Force | Passed | 0.0 | 1.50 |
+| 4/25/2022 | VND10227 | Intro to Scenarios | Passed | 0.0 | 1.00 |
+| 4/25/2022 | VND29358 | Medications | Passed | 0.0 | 1.50 |
 | 2/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/10/2022 | BNP38713 | Mindfulness | Passed | 0.0 | 0.50 |
 | 2/9/2022 | BNP40597 | Taser Policy and Transition | Passed | 0.0 | 1.50 |

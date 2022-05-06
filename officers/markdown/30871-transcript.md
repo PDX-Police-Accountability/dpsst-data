@@ -43,7 +43,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2022 | F6R21774 | OSP Swat Scenario Training | Passed | 0.0 | 3.00 |
+| 4/20/2022 | F6R13854 | OSP SWAT Perimeter Training IP | Passed | 0.0 | 9.00 |
+| 4/18/2022 | F6R27418 | Vehicle Assault/Hostage Rescue | Passed | 0.0 | 6.00 |
 | 4/7/2022 | F6R00089 | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
+| 3/30/2022 | F6R28016 | OSP SWAT Perimeter Training IP | Passed | 0.0 | 8.00 |
+| 3/29/2022 | F6R06220 | OSP SWAT Entry/IP Firearms | Passed | 0.0 | 8.75 |
 | 2/28/2022 | F6R07269 | Defensive Tactics/Taser 2nd Trimester | Instructed | 0.0 | 4.00 |
 | 2/25/2022 | F6R29845 | Tactical Movement | Passed | 0.0 | 4.00 |
 | 2/24/2022 | F6R04842 | Tactical Movement | Passed | 0.0 | 3.00 |

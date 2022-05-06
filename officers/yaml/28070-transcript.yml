@@ -55,6 +55,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/4/2022
+  :course: TGP38071
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 2/21/2022
   :course: TGP38122
   :title: First Aid/CPR/AED/TCCC/Naloxone
