@@ -366,6 +366,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/11/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/5/2021
   :course: PDP39968
   :title: 2021-2 Range Qualification Primary Firearm
@@ -381,6 +387,18 @@
 - :date: 5/5/2021
   :course: PDP30376
   :title: 2021-2 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/28/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/28/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
@@ -404,6 +422,12 @@
   :hours: '0.25'
 - :date: 3/29/2021
   :course: PDP13849
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
   :title: 2021-6 Tips  Techniques Crowd Control Vehicles
   :status: Passed
   :score: '0.0'
@@ -456,6 +480,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/16/2021
   :course: PDP32331
   :title: 2021 Mental Wellness
@@ -2792,6 +2822,10 @@
   :hours: '3.00'
 :attribute_records:
 - :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2023
+  :expiration_date: 12/31/2025
+- :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
@@ -2802,7 +2836,7 @@
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2020
-  :expiration_date: 12/31/2022
+  :expiration_date: 1/1/1950
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 10/21/2009

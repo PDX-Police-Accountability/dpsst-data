@@ -69,6 +69,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/9/2022
+  :course: PDP01777
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/1/2022
   :course: PDP10575
   :title: 2022 EAP-Crisis Planning
@@ -93,6 +99,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/24/2022
+  :course: PDP24753
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 2/3/2022
   :course: PDP34522
   :title: Interacting with Member LGBTQIA2S+ Chief's Message
@@ -405,6 +417,36 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 4/19/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/17/2021
+  :course: PDP04969
+  :title: 2020 CAO Don't Shoot PDX.Hernandez (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/17/2021
+  :course: PDP44416
+  :title: 2020 CAO IPO.McNally Refresh Train (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/17/2021
+  :course: PDP02504
+  :title: 2020 CAO Newspapers.SimonTRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/17/2021
+  :course: PDP40889
+  :title: 2020 City Attorney's ACLU.Bushong TRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/12/2021
   :course: PDP02175
   :title: 2020 Hernandez TRO Don't Shoot Portland v Portland
@@ -491,6 +533,12 @@
   :hours: '9.00'
 - :date: 3/9/2021
   :course: PDP18027
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/9/2021
+  :course: PDP22216
   :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'

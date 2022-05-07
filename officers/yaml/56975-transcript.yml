@@ -390,6 +390,42 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/15/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/10/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/2/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/30/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/16/2021
+  :course: PDP04445
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/16/2021
+  :course: PDP12061
+  :title: 2021 Training Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/9/2021
   :course: PDP01018
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -441,6 +477,12 @@
 - :date: 3/15/2021
   :course: PDP41550
   :title: 2021-5 TipsTech LMS KnowledgeBank/Document Search
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/15/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

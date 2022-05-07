@@ -97,6 +97,18 @@
 | 7/7/2021 | PDP26636 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/13/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 5/13/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 5/13/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 5/13/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 5/13/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 5/8/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 4/20/2021 | PDP04969 | 2020 CAO Don't Shoot PDX.Hernandez (resend) | Passed | 0.0 | 0.25 |
+| 4/20/2021 | PDP15470 | 2020 Hernandez TRO Don't Shoot PDX v Portland | Passed | 0.0 | 0.50 |
+| 4/20/2021 | PDP44416 | 2020 CAO IPO.McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
+| 4/20/2021 | PDP02504 | 2020 CAO Newspapers.SimonTRO (resend) | Passed | 0.0 | 0.25 |
+| 4/20/2021 | PDP40889 | 2020 City Attorney's ACLU.Bushong TRO (resend) | Passed | 0.0 | 0.25 |
+| 4/20/2021 | PDP01753 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
+| 4/20/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 4/20/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 4/17/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 3/18/2021 | PDP32397 | 2021-1 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/18/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -108,6 +120,7 @@
 | 3/12/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 3/12/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 3/12/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 3/12/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 1/22/2021 | PDP29132 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 1/22/2021 | PDP23880 | 2020-7 City Attorney's Office Legal Updates 7.2020 | Passed | 0.0 | 0.75 |
 | 1/22/2021 | PDP34167 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |

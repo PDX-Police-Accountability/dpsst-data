@@ -143,8 +143,11 @@
 | 5/20/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/20/2021 | PDP01790 | 2021 Range Qualification AR-15 Qual (100 Yard) | Passed | 0.0 | 0.50 |
 | 5/17/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/17/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 5/17/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 5/13/2021 | PDP06996 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/6/2021 | PDP42620 | 2021 SERT Training - Firearms | Passed | 0.0 | 18.00 |
+| 5/1/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
 | 4/29/2021 | PDP38295 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 4/17/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 4/15/2021 | PDP24656 | SERT Training - Firearms | Passed | 0.0 | 9.00 |

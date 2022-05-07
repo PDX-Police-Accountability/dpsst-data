@@ -108,6 +108,9 @@
 | 6/28/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
 | 6/28/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
 | 6/28/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/28/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 4/9/2021 | PDP42215 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 3/24/2021 | PDP38908 | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 3/23/2021 | PDP15770 | 2021 Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |

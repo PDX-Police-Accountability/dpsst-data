@@ -36,6 +36,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/22/2022
+  :course: F6R43255
+  :title: Defensive Tactics 2022 1st Trimester
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/21/2022
+  :course: F6R21774
+  :title: OSP Swat Scenario Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/22/2022
   :course: F6R12121
   :title: Adult/Child CPR

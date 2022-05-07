@@ -240,6 +240,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 6/8/2021
+  :course: PDP10225
+  :title: OSU Modified DutyCold Call-Taking TrngOnline Rpt
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
 - :date: 5/26/2021
   :course: PDP17789
   :title: CPR/First Aid
@@ -255,6 +261,36 @@
 - :date: 5/18/2021
   :course: PDP22460
   :title: 2021 Language Access Introduction
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/8/2021
+  :course: PDP10225
+  :title: OSU Modified DutyCold Call-Taking TrngOnline Rpt
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.25'
+- :date: 5/4/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/1/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/27/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/18/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
@@ -306,6 +342,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/13/2021
   :course: PDP02745
   :title: 2021 Interoception and Mindful Movement
@@ -324,6 +366,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/7/2021
   :course: PDP41550
   :title: 2021-5 TipsTech LMS KnowledgeBank/Document Search

@@ -50,6 +50,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/8/2022
+  :course: GSP16273
+  :title: SWAT Sniper Firearms Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '10.00'
+- :date: 3/10/2022
+  :course: GSP44332
+  :title: Bank Robbery (Tracker) Tracker
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/4/2022
   :course: F6R40127
   :title: SWAT Sniper Firearms Training

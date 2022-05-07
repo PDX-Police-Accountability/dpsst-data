@@ -588,6 +588,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/29/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/27/2021
   :course: PDP17314
   :title: 2021 SERT Training - Scenario
@@ -648,24 +654,54 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 5/14/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/13/2021
   :course: PDP06996
   :title: 2021 SERT Training - Scenario
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/7/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/6/2021
   :course: PDP42620
   :title: 2021 SERT Training - Firearms
   :status: Passed
   :score: '0.0'
   :hours: '18.00'
+- :date: 5/1/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/29/2021
   :course: PDP38295
   :title: SERT Training - Scenario
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 4/21/2021
+  :course: PDP04445
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/21/2021
+  :course: PDP12061
+  :title: 2021 Training Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/17/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training
@@ -771,6 +807,12 @@
 - :date: 3/12/2021
   :course: PDP03228
   :title: Annual CIU NTR Alarm Response Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/12/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

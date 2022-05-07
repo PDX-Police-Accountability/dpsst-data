@@ -68,6 +68,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/10/2022
+  :course: GSP44332
+  :title: Bank Robbery (Tracker) Tracker
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/9/2022
   :course: LOP19092
   :title: EVOC (Driving, Use of Force)

@@ -765,6 +765,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/25/2021
   :course: PDP24789
   :title: 2021 SERT Training - Classroom
@@ -785,6 +791,12 @@
   :hours: '0.75'
 - :date: 3/9/2021
   :course: PDP18027
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/9/2021
+  :course: PDP22216
   :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'

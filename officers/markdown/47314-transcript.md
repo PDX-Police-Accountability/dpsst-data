@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 1/4/2022 | PDS42907 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 12/31/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/31/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |

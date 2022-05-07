@@ -372,6 +372,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/20/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/20/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/3/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/15/2021
   :course: PDP01018
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -426,6 +444,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/22/2021
   :course: PDP24601
   :title: 2021 Equity Training Series - Preparation
@@ -459,6 +483,12 @@
 - :date: 3/10/2021
   :course: PDP13400
   :title: 2021-1 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/10/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

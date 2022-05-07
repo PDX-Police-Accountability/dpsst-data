@@ -90,6 +90,7 @@
 | 6/8/2021 | PDP15064 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/7/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/7/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP42193 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 6/3/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 6/3/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -98,7 +99,9 @@
 | 6/3/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
+| 6/2/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 5/27/2021 | PDP17314 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
+| 5/27/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 5/20/2021 | PDP31055 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 5/13/2021 | PDP06996 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 5/8/2021 | PDP17828 | Adv Incident Resp, Threat Hunting,  Digital For | Passed | 0.0 | 40.00 |
@@ -120,6 +123,8 @@
 | 3/29/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 3/29/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/29/2021 | PDP27594 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/18/2021 | PDP10545 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 3/11/2021 | PDP37811 | 2021 SERT Breacher Cadre Training | Passed | 0.0 | 18.00 |
 | 3/11/2021 | PDP06724 | 2021 SERT Training - Firearms | Passed | 0.0 | 18.00 |

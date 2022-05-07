@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS28945 | Combat Application Tourniquets | Passed | 0.0 | 0.50 |
 | 12/7/2021 | PDS32581 | NARCAN | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

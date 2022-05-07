@@ -26,6 +26,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 3/9/2022 | PDP01777 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 2/24/2022 | PDP24753 | Crisis Negotiation Team Training | Passed | 0.0 | 27.00 |
 | 11/16/2021 | PDP34940 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 8/17/2021 | PDP21561 | 2021 CNT Annual Training | Passed | 0.0 | 9.00 |
 | 7/15/2021 | PDP28516 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

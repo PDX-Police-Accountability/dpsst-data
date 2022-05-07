@@ -48,12 +48,30 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/3/2022
+  :course: OCS03360
+  :title: HB 2513 Airway and Circulation
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/17/2022
+  :course: SMS32031
+  :title: Basic Tactical Operations School
+  :status: Passed
+  :score: '0.0'
+  :hours: '55.50'
 - :date: 4/1/2022
   :course: OCS33915
   :title: Firearms/Ladder/Breaching
   :status: ''
   :score: '0.0'
   :hours: '10.00'
+- :date: 3/30/2022
+  :course: OCS17075
+  :title: Marksmanship, one hand shooting, movement
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/25/2022
   :course: OCS06695
   :title: First Aid/CPR

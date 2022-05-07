@@ -32,6 +32,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
+| 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 2/1/2022 | BPT37233 | In Our Own Voice | Passed | 0.0 | 2.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
@@ -45,6 +47,7 @@
 | 8/20/2021 | OCS16631 | DA training: Eyewitness ID | Passed | 0.0 | 1.00 |
 | 8/20/2021 | OCS14467 | Keeping Superheroes super | Passed | 0.0 | 1.00 |
 | 8/20/2021 | OCS30507 | Keeping Superheroes super | Passed | 0.0 | 1.00 |
+| 8/18/2021 | OCS42535 | New Hire Patrol Tactics/Active Shooter Response | Passed | 0.0 | 24.00 |
 | 8/16/2021 | F6F28099 | New Hire Firearms - Maksmanship, Handling. | Passed | 0.0 | 40.00 |
 | 8/13/2021 | F6E08305 | New Hire Firearms-Decision Making (MILO) | Passed | 0.0 | 40.00 |
 | 8/12/2021 | OCS32734 | Social Media Awareness Training | Passed | 0.0 | 0.50 |

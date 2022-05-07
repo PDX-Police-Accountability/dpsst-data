@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2022 | F6R43255 | Defensive Tactics 2022 1st Trimester | Passed | 0.0 | 4.00 |
+| 4/21/2022 | F6R21774 | OSP Swat Scenario Training | Passed | 0.0 | 3.00 |
 | 3/22/2022 | F6R12121 | Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 3/22/2022 | F6R13558 | First Aid | Passed | 0.0 | 3.50 |
 | 3/22/2022 | F6R35448 | Naloxone | Passed | 0.0 | 0.50 |

@@ -500,6 +500,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/26/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/12/2021
   :course: PDP01018
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -578,6 +602,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/11/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/9/2021
   :course: PDP24601
   :title: 2021 Equity Training Series - Preparation

@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/4/2022 | MAP31626 | HB 2513 AIRWAY  CIRCULATORY CRISIS | Passed | 0.0 | 2.00 |
+| 4/27/2022 | MAP43730 | LE Prevention and Deterrence of Terrorist Acts | Passed | 0.0 | 14.00 |
 | 3/16/2022 | BPT34763 | Advanced De-Escalation and Escalation Prevention | Passed | 0.0 | 20.00 |
 | 2/23/2022 | SVP09269 | Domestic Violence/Search  Seizure/Legal Updates | Passed | 0.0 | 2.50 |
 | 2/23/2022 | SVP16496 | Ofc. Involved Shooting Protocols/MCDA Updates | Passed | 0.0 | 1.50 |

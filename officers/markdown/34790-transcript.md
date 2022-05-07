@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2022 | LOP22709 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
+| 1/10/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |

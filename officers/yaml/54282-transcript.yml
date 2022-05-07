@@ -408,6 +408,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 4/30/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/30/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/30/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 4/28/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training
@@ -480,6 +498,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/5/2021
   :course: PDP32397
   :title: 2021-1 40mm Less Lethal Qualification
@@ -912,9 +936,21 @@
   :status: Passed
   :score: '0.0'
   :hours: '24.00'
+- :date: 2/28/2020
+  :course: PDP12045
+  :title: Pratical App of Forensic Experiential Trauma Inter
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 2/25/2020
   :course: PDP15152
   :title: Intro to the Forensic Experiential Trauma
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 2/25/2020
+  :course: PDP25797
+  :title: Intro to the Forensic Experiential Trauma Inter
   :status: Passed
   :score: '0.0'
   :hours: '14.00'

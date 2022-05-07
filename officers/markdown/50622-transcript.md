@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2022 | OCP28607 | Firearms/Use of Force | Instructed | 0.0 | 24.00 |
 | 2/17/2022 | OCP43120 | Leadership and Succession Planning | Passed | 0.0 | 4.50 |
 | 2/8/2022 | PPP38283 | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 1/31/2022 | OCP30741 | DUII refresher | Passed | 0.0 | 0.75 |

@@ -107,9 +107,13 @@
 | 7/8/2021 | PDP06596 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP39794 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 7/8/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
+| 6/28/2021 | PDP15470 | 2020 Hernandez TRO Don't Shoot PDX v Portland | Passed | 0.0 | 0.50 |
+| 6/23/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 6/23/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 6/14/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
 | 6/14/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
 | 6/14/2021 | PDP28092 | 2020-9 CAO Legal Updates 9.2020 | Passed | 0.0 | 0.25 |
+| 6/14/2021 | PDP03102 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
 | 3/11/2021 | PDP37985 | 2020 City Attorney's Off Don't Shoot PDX/Hernandez | Passed | 0.0 | 0.25 |
 | 3/11/2021 | PDP30472 | 2020 Presumpt Declination DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
 | 3/11/2021 | PDP37900 | 2020 City Attorney's Off Index Newspapers/SimonTRO | Passed | 0.0 | 0.25 |

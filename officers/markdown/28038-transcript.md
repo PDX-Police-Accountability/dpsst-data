@@ -43,6 +43,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/16/2022 | PDS30023 | Fentanyl | Passed | 0.0 | 1.50 |
+| 3/16/2022 | PDS19448 | Homeless Outreach Team | Passed | 0.0 | 1.00 |
+| 3/16/2022 | PDS41616 | ADA Policy | Passed | 0.0 | 1.00 |
 | 3/8/2022 | LOP18015 | EVOC (Pursuit Driving, use of force) | Passed | 0.0 | 10.00 |
 | 2/18/2022 | PDS09969 | Report Writing | Passed | 0.0 | 8.00 |
 | 2/17/2022 | PDS33651 | ConSim | Passed | 0.0 | 8.00 |
@@ -107,6 +109,12 @@
 | 6/2/2021 | PDP20104 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/25/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/24/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
+| 5/24/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 5/24/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 5/24/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 4/21/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 4/21/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 4/21/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/30/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
@@ -116,6 +124,7 @@
 | 3/17/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/17/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/17/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 3/17/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/10/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/10/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/10/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

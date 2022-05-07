@@ -31,6 +31,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/2/2022
+  :course: PDP17244
+  :title: 2021 Training Wellness Restoration Project
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/31/2022
   :course: PDP10575
   :title: 2022 EAP-Crisis Planning
@@ -373,6 +379,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/4/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/3/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/29/2021
   :course: PDP41428
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -421,6 +451,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/23/2021
   :course: PDP00435
   :title: 2021-1 Range Qualification Primary Firearm
@@ -451,6 +487,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/8/2021
   :course: PDP02745
   :title: 2021 Interoception and Mindful Movement

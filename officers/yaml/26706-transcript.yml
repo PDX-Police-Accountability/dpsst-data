@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 1/10/2022
+  :course: PDS35905
+  :title: Legal Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 12/7/2021
   :course: PDS28945
   :title: Combat Application Tourniquets

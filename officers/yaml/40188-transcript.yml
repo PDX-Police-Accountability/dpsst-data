@@ -110,6 +110,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/9/2022
+  :course: PDP01777
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/4/2022
   :course: PDP34522
   :title: Interacting with Member LGBTQIA2S+ Chief's Message
@@ -122,6 +128,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 2/24/2022
+  :course: PDP24753
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 2/3/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
@@ -446,12 +458,60 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/26/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/19/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/5/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/5/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/4/2021
   :course: PDP19763
   :title: 2021 CNT Crisis Negotiation Team Annual Training
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 4/27/2021
+  :course: PDP04445
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP12061
+  :title: 2021 Training Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/24/2021
+  :course: PDP44416
+  :title: 2020 CAO IPO.McNally Refresh Train (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/24/2021
+  :course: PDP01753
+  :title: 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/13/2021
   :course: PDP01018
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)

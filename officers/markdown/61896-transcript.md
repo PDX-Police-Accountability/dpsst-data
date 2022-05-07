@@ -106,4 +106,16 @@
 | 6/11/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
 | 6/11/2021 | PDP44399 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
 | 6/11/2021 | PDP22176 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 6/11/2021 | PDP44416 | 2020 CAO IPO.McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
+| 6/11/2021 | PDP04969 | 2020 CAO Don't Shoot PDX.Hernandez (resend) | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP02504 | 2020 CAO Newspapers.SimonTRO (resend) | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP40889 | 2020 City Attorney's ACLU.Bushong TRO (resend) | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP15470 | 2020 Hernandez TRO Don't Shoot PDX v Portland | Passed | 0.0 | 0.50 |
+| 6/11/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP01753 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 6/11/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 6/11/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP14050 | Bloodborne Pathogen Training | Passed | 0.0 | 0.75 |

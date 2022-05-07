@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/4/2022 | MKL39734 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 12/17/2021 | MKL28110 | DOJ - Understanding and Addressing Sex Trafficking | Passed | 0.0 | 1.50 |
 | 12/17/2021 | MKL22033 | Processing Mandatory Sex Trafficking Reports | Passed | 0.0 | 1.50 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

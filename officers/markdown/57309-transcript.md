@@ -35,7 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
+| 4/17/2022 | SMS32031 | Basic Tactical Operations School | Passed | 0.0 | 55.50 |
 | 4/1/2022 | OCS33915 | Firearms/Ladder/Breaching |  | 0.0 | 10.00 |
+| 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/3/2022 | OCS00532 | CPR FA instructor course | Passed | 0.0 | 2.00 |
 | 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |

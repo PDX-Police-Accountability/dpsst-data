@@ -482,6 +482,42 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 5/11/2021
+  :course: PDP19580
+  :title: 2020 Supervisor In-Service Crime Scene Mgmt Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/11/2021
+  :course: PDP00137
+  :title: 2020 Supervisor In-Service Labor/Employment Laws
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/11/2021
+  :course: PDP41180
+  :title: 2020 Supervisor IS Decision Making Model Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/11/2021
+  :course: PDP18367
+  :title: 2020 Supervisor IS Decision Making Model Part 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/11/2021
+  :course: PDP25736
+  :title: 2020 Sup IS Motivating.Empowering Your Team
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/11/2021
+  :course: PDP18241
+  :title: 2020 Supervisor IS Performance Mgmt.Tableau Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/10/2021
   :course: PDP38623
   :title: 2021 Chicago Case Study
@@ -536,6 +572,72 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 5/10/2021
+  :course: PDP04969
+  :title: 2020 CAO Don't Shoot PDX.Hernandez (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/10/2021
+  :course: PDP40889
+  :title: 2020 City Attorney's ACLU.Bushong TRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/10/2021
+  :course: PDP44416
+  :title: 2020 CAO IPO.McNally Refresh Train (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/10/2021
+  :course: PDP02504
+  :title: 2020 CAO Newspapers.SimonTRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/10/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/10/2021
+  :course: PDP15470
+  :title: 2020 Hernandez TRO Don't Shoot PDX v Portland
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/10/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/10/2021
+  :course: PDP01753
+  :title: 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/10/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/10/2021
+  :course: PDP12061
+  :title: 2021 Training Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/10/2021
+  :course: PDP04445
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/4/2021
   :course: PDP15662
   :title: 2021-2 40mm Less Lethal Qualification
@@ -569,6 +671,36 @@
 - :date: 5/4/2021
   :course: PDP15598
   :title: 2021 Measure 110 Bullet Points
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP17137
+  :title: 2020 Roles.Resp PPB on Mental Health Rel Calls
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/4/2021
+  :course: PDP04863
+  :title: 2020 BHU ECIT Update Section 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP37175
+  :title: 2020 BHU ECIT Update Section 2
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP03352
+  :title: 2020 BHU ECIT Update Section 3
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP19253
+  :title: 2020 BHU ECIT Update Section 4
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
@@ -665,6 +797,60 @@
 - :date: 5/3/2021
   :course: PDP33103
   :title: 2021-3 Tips  Tech Ballot Measure 110 Summary
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP28085
+  :title: 2020 City Attorney's Gathright Decision Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP16262
+  :title: 2020-8 TipsTech Extreme Risk Protection Orders
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP43891
+  :title: 2020-9 Tips  Techniques Car Voucher Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP27825
+  :title: 2020-10 City Attorney's Legal Updates 10.2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP10862
+  :title: 2020-2 City Attorney's Legal Updates for 2.2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/3/2021
+  :course: PDP07032
+  :title: 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP43929
+  :title: 2020-6 City Attorney's Office Legal Updates 6.2020
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP03102
+  :title: 2021-5 TipsTech LMS KnowledgeBank.Document Search
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/10/2022 | GSP44332 | Bank Robbery (Tracker) Tracker | Passed | 0.0 | 1.00 |
 | 3/9/2022 | LOP19092 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 2/24/2022 | GSP27988 | Video Evidence Collection | Passed | 0.0 | 8.00 |
 | 1/29/2022 | PPP25776 | Range | Passed | 0.0 | 4.00 |

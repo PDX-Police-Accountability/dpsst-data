@@ -439,6 +439,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 4/28/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/22/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 4/15/2021
   :course: PDP16419
   :title: '2021 Equity Training Series: Racism Part 1'
@@ -499,6 +511,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/30/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/25/2021
   :course: PDP15120
   :title: 2021-1 Range Qualification Shotgun
@@ -519,6 +537,12 @@
   :hours: '0.25'
 - :date: 3/16/2021
   :course: PDP18027
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/16/2021
+  :course: PDP22216
   :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'

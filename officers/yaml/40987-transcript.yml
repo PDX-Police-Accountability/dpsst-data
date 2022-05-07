@@ -548,6 +548,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 4/20/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training
@@ -574,6 +592,12 @@
   :hours: '0.25'
 - :date: 3/29/2021
   :course: PDP13849
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
   :title: 2021-6 Tips  Techniques Crowd Control Vehicles
   :status: Passed
   :score: '0.0'
@@ -632,6 +656,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/11/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/4/2021
   :course: PDP32397
   :title: 2021-1 40mm Less Lethal Qualification
@@ -986,6 +1016,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '36.00'
+- :date: 7/16/2020
+  :course: PDP06970
+  :title: Hazardous Material Technician (HMT PER-272)
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 7/13/2020
   :course: PDP42651
   :title: 2020-3 City Attorney's Office Legal Updates 3/2020

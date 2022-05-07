@@ -1106,7 +1106,7 @@
 | Moore, Gregory M. | 51791 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51791-transcript.md) - [yaml](../yaml/51791-transcript.yml) |
 | Pavon, Lino | 51792 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51792-transcript.md) - [yaml](../yaml/51792-transcript.yml) |
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |
-| Haase, Brandon D. | 51795 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
+| Haase, Brandon D. | 51795 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
 | Valadez, Alfonso, Jr. | 51796 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51796-transcript.md) - [yaml](../yaml/51796-transcript.yml) |
 | Damerville, Justin D. | 51797 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
 | Jenson, Andrew S. | 51804 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51804-transcript.md) - [yaml](../yaml/51804-transcript.yml) |
@@ -1537,3 +1537,4 @@
 | Nguyen, Vu D. | 62665 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62665-transcript.md) - [yaml](../yaml/62665-transcript.yml) |
 | LeSollen, Wendy A. | 62762 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62762-transcript.md) - [yaml](../yaml/62762-transcript.yml) |
 | Gullberg, Landen T. | 62779 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62779-transcript.md) - [yaml](../yaml/62779-transcript.yml) |
+| Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |

@@ -95,6 +95,9 @@
 | 5/20/2021 | PDP07362 | The Evidence Hour: Teen Dating Violence | Passed | 0.0 | 1.00 |
 | 5/20/2021 | PDP30924 | Teen Dating Violence | Passed | 0.0 | 1.00 |
 | 5/18/2021 | PDP26155 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
+| 4/30/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 4/30/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 4/30/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 4/28/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 4/9/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 4/1/2021 | PDP01018 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
@@ -107,6 +110,7 @@
 | 3/9/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/9/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 3/9/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/5/2021 | PDP32397 | 2021-1 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/5/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/5/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
@@ -179,7 +183,9 @@
 | 3/19/2020 | PDP00208 | 2020 BHR 2.02 | Passed | 0.0 | 1.00 |
 | 3/19/2020 | PDP00504 | 2020 InService EAP Dead Frce Incdnt:What Hapns Nxt | Passed | 0.0 | 1.50 |
 | 2/28/2020 | PDP05042 | Pratical App of Forensic Experiential Trauma | Passed | 0.0 | 24.00 |
+| 2/28/2020 | PDP12045 | Pratical App of Forensic Experiential Trauma Inter | Passed | 0.0 | 24.00 |
 | 2/25/2020 | PDP15152 | Intro to the Forensic Experiential Trauma | Passed | 0.0 | 14.00 |
+| 2/25/2020 | PDP25797 | Intro to the Forensic Experiential Trauma Inter | Passed | 0.0 | 14.00 |
 | 2/7/2020 | PDP20275 | 2020-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 2/7/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/7/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

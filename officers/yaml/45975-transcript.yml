@@ -80,6 +80,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/24/2022
+  :course: PDP24753
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 2/14/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
@@ -482,6 +488,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 4/30/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/30/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/30/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 4/9/2021
   :course: PDP25589
   :title: 2021 External Training The Advanced SEND Protocol
@@ -502,6 +526,12 @@
   :hours: '0.25'
 - :date: 3/30/2021
   :course: PDP13849
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/30/2021
+  :course: PDP27594
   :title: 2021-6 Tips  Techniques Crowd Control Vehicles
   :status: Passed
   :score: '0.0'
@@ -590,6 +620,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/26/2021
   :course: PDP32331
   :title: 2021 Mental Wellness

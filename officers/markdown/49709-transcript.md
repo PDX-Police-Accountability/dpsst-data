@@ -114,24 +114,50 @@
 | 6/9/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 6/9/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 6/9/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP44416 | 2020 CAO IPO.McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
+| 6/9/2021 | PDP40889 | 2020 City Attorney's ACLU.Bushong TRO (resend) | Passed | 0.0 | 0.25 |
+| 6/9/2021 | PDP02504 | 2020 CAO Newspapers.SimonTRO (resend) | Passed | 0.0 | 0.25 |
+| 6/8/2021 | PDP04969 | 2020 CAO Don't Shoot PDX.Hernandez (resend) | Passed | 0.0 | 0.25 |
+| 6/8/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 6/8/2021 | PDP15470 | 2020 Hernandez TRO Don't Shoot PDX v Portland | Passed | 0.0 | 0.50 |
+| 6/8/2021 | PDP01753 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP16071 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 6/7/2021 | PDP27318 | 2020 Presumpt Declination of DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP22170 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 6/7/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP43929 | 2020-6 City Attorney's Office Legal Updates 6.2020 | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP16262 | 2020-8 TipsTech Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 6/7/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 6/7/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP34631 | 2020 Training Segmenting Video | Passed | 0.0 | 0.25 |
 | 6/3/2021 | PDP27109 | 2020-5 City Attorney's Office Legal Updates 5.2020 | Passed | 0.0 | 0.50 |
 | 6/3/2021 | PDP11754 | 2020-5 Tips  Tech Drug Packaging.Crime Lab Sub | Passed | 0.0 | 0.25 |
+| 6/3/2021 | PDP28085 | 2020 City Attorney's Gathright Decision Refresher | Passed | 0.0 | 0.25 |
+| 6/3/2021 | PDP43891 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
+| 6/3/2021 | PDP07032 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP22301 | 2020-4 CAO Legal Updates 4/2020 | Passed | 0.0 | 0.50 |
 | 6/2/2021 | PDP00322 | 2020 Supervisor IS Performance Mgmt.Tableau Part 2 | Passed | 0.0 | 0.50 |
+| 6/2/2021 | PDP25736 | 2020 Sup IS Motivating.Empowering Your Team | Passed | 0.0 | 1.00 |
+| 6/2/2021 | PDP18241 | 2020 Supervisor IS Performance Mgmt.Tableau Part 1 | Passed | 0.0 | 0.75 |
 | 6/1/2021 | PDP30005 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 6/1/2021 | PDP09813 | 2020-10 City Attorney's Legal Updates 10.2020 | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
 | 6/1/2021 | PDP34996 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP00688 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP44399 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
+| 6/1/2021 | PDP00137 | 2020 Supervisor In-Service Labor/Employment Laws | Passed | 0.0 | 1.00 |
+| 6/1/2021 | PDP41180 | 2020 Supervisor IS Decision Making Model Part 1 | Passed | 0.0 | 0.50 |
+| 6/1/2021 | PDP27825 | 2020-10 City Attorney's Legal Updates 10.2020 | Passed | 0.0 | 0.25 |
+| 6/1/2021 | PDP10862 | 2020-2 City Attorney's Legal Updates for 2.2020 | Passed | 0.0 | 0.50 |
+| 6/1/2021 | PDP03102 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |
 | 5/31/2021 | PDP08287 | 2020-7 TipsTech Phillips Laser Protective Eyewear | Passed | 0.0 | 0.25 |
 | 5/31/2021 | PDP28892 | 2020 Supervisor In-Service Crime Scene Mgmt Part 1 | Passed | 0.0 | 0.50 |
 | 5/31/2021 | PDP38554 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |
+| 5/31/2021 | PDP19580 | 2020 Supervisor In-Service Crime Scene Mgmt Part 2 | Passed | 0.0 | 1.00 |
+| 5/31/2021 | PDP18367 | 2020 Supervisor IS Decision Making Model Part 2 | Passed | 0.0 | 1.00 |
+| 5/31/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 5/31/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 5/27/2021 | PDP04395 | 2021 CAO 40mm Crowd Control Training | Passed | 0.0 | 3.00 |
 | 5/26/2021 | PDP27428 | 2020-8 City Attorney's Legal Updates for 8.2020 | Passed | 0.0 | 0.25 |
 | 5/26/2021 | PDP29994 | 2020-7 City Attorney's Legal Updates for 7.2020 | Passed | 0.0 | 0.75 |
@@ -139,6 +165,11 @@
 | 5/26/2021 | PDP26095 | 2021 Legal Bulletin Efx Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 5/26/2021 | PDP15598 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 5/26/2021 | PDP33103 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
+| 5/25/2021 | PDP17137 | 2020 Roles.Resp PPB on Mental Health Rel Calls | Passed | 0.0 | 1.00 |
+| 5/25/2021 | PDP04863 | 2020 BHU ECIT Update Section 1 | Passed | 0.0 | 0.25 |
+| 5/25/2021 | PDP37175 | 2020 BHU ECIT Update Section 2 | Passed | 0.0 | 0.25 |
+| 5/25/2021 | PDP03352 | 2020 BHU ECIT Update Section 3 | Passed | 0.0 | 0.25 |
+| 5/25/2021 | PDP19253 | 2020 BHU ECIT Update Section 4 | Passed | 0.0 | 0.25 |
 | 5/24/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/24/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 5/24/2021 | PDP30376 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

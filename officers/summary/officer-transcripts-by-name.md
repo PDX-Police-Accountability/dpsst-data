@@ -542,7 +542,7 @@
 | Gunderson, Douglas A. | 22519 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/22519-transcript.md) - [yaml](../yaml/22519-transcript.yml) |
 | Gustafson, Rodney D. | 23996 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/23996-transcript.md) - [yaml](../yaml/23996-transcript.yml) |
 | Haagenson, Jeffrey M. | 52779 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52779-transcript.md) - [yaml](../yaml/52779-transcript.yml) |
-| Haase, Brandon D. | 51795 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
+| Haase, Brandon D. | 51795 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
 | Habkirk, James B. | 29192 | Portland Police Bureau | Active | Police Officer | [md](../markdown/29192-transcript.md) - [yaml](../yaml/29192-transcript.yml) |
 | Hager, Tashia A. | 22213 | Portland Police Bureau | Inactive | Commander | [md](../markdown/22213-transcript.md) - [yaml](../yaml/22213-transcript.yml) |
 | Hall, Daniel E. | 59367 | Portland Police Bureau | Active | Police Officer | [md](../markdown/59367-transcript.md) - [yaml](../yaml/59367-transcript.yml) |
@@ -1210,6 +1210,7 @@
 | Sage, Jamie L. | 38875 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38875-transcript.md) - [yaml](../yaml/38875-transcript.yml) |
 | Sahli, Shaun M. | 41051 | Portland Police Bureau | Active | Detective | [md](../markdown/41051-transcript.md) - [yaml](../yaml/41051-transcript.yml) |
 | Salazar-Kachel, David A. | 62451 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62451-transcript.md) - [yaml](../yaml/62451-transcript.yml) |
+| Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | Salmestrelli, Eric O. | 57743 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/57743-transcript.md) - [yaml](../yaml/57743-transcript.yml) |
 | Samora, Shaye L. | 51733 | Portland Police Bureau | Active | Detective | [md](../markdown/51733-transcript.md) - [yaml](../yaml/51733-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |

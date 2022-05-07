@@ -68,6 +68,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 1/29/2022
+  :course: PDS35905
+  :title: Legal Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 1/4/2022
   :course: PDS42907
   :title: CPR-First Aid

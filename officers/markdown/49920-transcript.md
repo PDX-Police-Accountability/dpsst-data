@@ -85,6 +85,9 @@
 | 5/12/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 5/12/2021 | PDP22460 | 2021 Language Access Introduction | Passed | 0.0 | 0.25 |
 | 5/4/2021 | MISCMAIN | 2018 LE Basic 3-year Maintenance Met | Completed | 0.0 | 0.00 |
+| 4/27/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 4/27/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 4/27/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 4/13/2021 | MISCMAIN | 2019 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |
 | 4/7/2021 | PDP42215 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 4/7/2021 | PDP21524 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |
@@ -132,6 +135,7 @@
 | 3/31/2021 | PDP25688 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.00 |
+| 3/31/2021 | PDP27594 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 12/31/2020 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 8.00 |
 | 3/8/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
 | 2/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |

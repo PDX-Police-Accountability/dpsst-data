@@ -39,6 +39,9 @@
 | 6/1/2021 | PDP05732 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP16646 | 2021 Equity Training Series: Racism Part 1 | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP04677 | 2021 Online In-Service Legal Updates | Passed | 0.0 | 0.75 |
+| 6/1/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 6/1/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 6/1/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 5/4/2021 | PDP02295 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 5/4/2021 | PDP10135 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
 | 5/4/2021 | PDP40234 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
@@ -46,6 +49,14 @@
 | 5/4/2021 | PDP10559 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 5/4/2021 | PDP31104 | 2021 Temporary Restraining Order (TRO) Documents | Passed | 0.0 | 2.00 |
 | 5/4/2021 | PDP40356 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
+| 5/4/2021 | PDP04969 | 2020 CAO Don't Shoot PDX.Hernandez (resend) | Passed | 0.0 | 0.25 |
+| 5/4/2021 | PDP15470 | 2020 Hernandez TRO Don't Shoot PDX v Portland | Passed | 0.0 | 0.50 |
+| 5/4/2021 | PDP44416 | 2020 CAO IPO.McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
+| 5/4/2021 | PDP02504 | 2020 CAO Newspapers.SimonTRO (resend) | Passed | 0.0 | 0.25 |
+| 5/4/2021 | PDP40889 | 2020 City Attorney's ACLU.Bushong TRO (resend) | Passed | 0.0 | 0.25 |
+| 5/4/2021 | PDP01753 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
+| 5/4/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 5/4/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 5/3/2021 | PDF01981 | Portland Fire Investigations - Mental Resiliency | Passed | 0.0 | 2.00 |
 | 4/7/2021 | PDP08245 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 4/7/2021 | PDP09037 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |

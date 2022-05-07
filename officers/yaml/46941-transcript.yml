@@ -561,6 +561,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/19/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/9/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/9/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/6/2021
   :course: PDP05499
   :title: Canine Program Management
@@ -573,6 +591,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 4/22/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/1/2021
   :course: PDP01018
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -627,6 +651,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 3/30/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/26/2021
   :course: PDP02745
   :title: 2021 Interoception and Mindful Movement

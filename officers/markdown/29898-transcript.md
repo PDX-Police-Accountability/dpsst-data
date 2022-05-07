@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/9/2022 | BPT10897 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
+| 1/21/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/20/2021 | PDS11207 | Policy Access | Passed | 0.0 | 0.50 |
 | 12/20/2021 | PDS03770 | Homeless Outreach Team | Passed | 0.0 | 1.00 |
 | 12/20/2021 | PDS17921 | Computer Training | Passed | 0.0 | 1.50 |

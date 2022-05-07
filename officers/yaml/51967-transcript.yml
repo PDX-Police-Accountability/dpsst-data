@@ -378,6 +378,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 4/9/2021
   :course: PDP25589
   :title: 2021 External Training The Advanced SEND Protocol
@@ -392,6 +410,12 @@
   :hours: '0.25'
 - :date: 3/29/2021
   :course: PDP13849
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
   :title: 2021-6 Tips  Techniques Crowd Control Vehicles
   :status: Passed
   :score: '0.0'
@@ -450,6 +474,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/15/2021
   :course: PDP32331
   :title: 2021 Mental Wellness

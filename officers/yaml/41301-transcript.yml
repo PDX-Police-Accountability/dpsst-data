@@ -344,12 +344,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/11/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/6/2021
   :course: PDP00285
   :title: CPR/First Aid
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/6/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/8/2021
   :course: MISCMAIN
   :title: 2021 LE Basic 3 Year Maintenance
@@ -410,6 +428,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/30/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/15/2021
   :course: PDP18027
   :title: 2021 Chicago Case Study
@@ -428,6 +452,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/15/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/24/2021
   :course: PDP00435
   :title: 2021-1 Range Qualification Primary Firearm

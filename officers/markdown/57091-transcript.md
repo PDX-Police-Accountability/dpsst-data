@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Instructed | 0.0 | 5.00 |
 | 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Instructed | 0.0 | 5.00 |
 | 4/11/2022 | PDP08605 | 2022 Return to Work | Instructed | 0.0 | 3.50 |
 | 4/8/2022 | PDP23369 | FTEP Pre-DPSST Firearms training | Instructed | 0.0 | 7.00 |
@@ -120,6 +121,7 @@
 | 4/14/2021 | PDP29954 | 2021 Online In-Service Legal Updates | Passed | 0.0 | 0.75 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 3/29/2021 | PDP27594 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/25/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
@@ -132,6 +134,7 @@
 | 3/18/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/17/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/17/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
+| 3/17/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/10/2021 | PDP18042 | FTEP Post-DPSST Firearms | Instructed | 0.0 | 1.00 |
 | 3/9/2021 | PDP18042 | FTEP Post-DPSST Firearms | Instructed | 0.0 | 6.00 |
 | 2/22/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |

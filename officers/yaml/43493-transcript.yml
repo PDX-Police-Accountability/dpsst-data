@@ -80,6 +80,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 2/24/2022
+  :course: PDP24753
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 2/10/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification
@@ -404,18 +410,48 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/20/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/20/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/6/2021
   :course: PDP00285
   :title: CPR/First Aid
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/6/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/4/2021
   :course: PDP19763
   :title: 2021 CNT Crisis Negotiation Team Annual Training
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 4/24/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/24/2021
+  :course: PDP04445
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/8/2021
   :course: PDP17591
   :title: 2021 CNT Crisis Negotiation Team Annual Training
@@ -479,6 +515,12 @@
 - :date: 3/18/2021
   :course: PDP41550
   :title: 2021-5 TipsTech LMS KnowledgeBank/Document Search
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/18/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

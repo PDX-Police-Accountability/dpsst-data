@@ -366,6 +366,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/31/2021
+  :course: PDP18241
+  :title: 2020 Supervisor IS Performance Mgmt.Tableau Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/27/2021
   :course: PDP22460
   :title: 2021 Language Access Introduction
@@ -378,6 +384,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/17/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/13/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/13/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/12/2021
   :course: PDP04991
   :title: ASIM Intermediate
@@ -405,6 +429,12 @@
 - :date: 5/10/2021
   :course: PDP30376
   :title: 2021-2 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/28/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

@@ -390,6 +390,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 5/21/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/15/2021
   :course: PDP13551
   :title: 2021 Equity Training Series Racism Part 2
@@ -408,12 +414,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.75'
+- :date: 5/15/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/28/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 4/26/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/13/2021
   :course: PDP25589
   :title: 2021 External Training The Advanced SEND Protocol
@@ -480,6 +498,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/22/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/7/2021
   :course: PDP32397
   :title: 2021-1 40mm Less Lethal Qualification

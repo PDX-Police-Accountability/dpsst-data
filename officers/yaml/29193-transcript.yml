@@ -52,18 +52,18 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 5/4/2022
+- :status_date: 5/5/2022
   :certificate: Police Officer
   :level: Management
-  :status: App Recd
-  :certificate_date: ''
+  :status: Granted
+  :certificate_date: 5/5/2022
   :expiration_date: ''
   :probation_date: ''
-- :status_date: 5/4/2022
+- :status_date: 5/5/2022
   :certificate: Police Officer
   :level: Supervisory
-  :status: App Recd
-  :certificate_date: ''
+  :status: Granted
+  :certificate_date: 5/5/2022
   :expiration_date: ''
   :probation_date: ''
 - :status_date: 3/17/2011
@@ -466,6 +466,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 5/4/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/3/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/3/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/15/2021
   :course: PDP25589
   :title: 2021 External Training The Advanced SEND Protocol
@@ -556,6 +574,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/1/2021
   :course: PDP32331
   :title: 2021 Mental Wellness

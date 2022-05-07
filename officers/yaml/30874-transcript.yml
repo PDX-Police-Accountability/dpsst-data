@@ -62,6 +62,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/2/2022
+  :course: PDP17244
+  :title: 2021 Training Wellness Restoration Project
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 4/19/2022
   :course: FGP17600
   :title: Patrol Tactics/Building Search Con Sim
@@ -206,6 +212,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/17/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/17/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/17/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/4/2021
   :course: PDP39968
   :title: 2021-2 Range Qualification Primary Firearm
@@ -290,6 +314,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/29/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/22/2021
   :course: SMP23275
   :title: ConSim for Motor Officers
@@ -314,6 +344,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/18/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/9/2021
   :course: PDP00435
   :title: 2021-1 Range Qualification Primary Firearm

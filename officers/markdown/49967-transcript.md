@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2022 | MNP24260 | S.T.O.P. data refresher training | Passed | 0.0 | 0.50 |
 | 11/30/2021 | MNP31303 | Taser Annual Recertification | Passed | 0.0 | 1.50 |
 | 11/30/2021 | MNP37239 | Firearms Night Shoot Handgun / long gun | Passed | 0.0 | 4.00 |
 | 11/30/2021 | MNP41945 | Defensive Tactics WRAP / Cutting Edge | Passed | 0.0 | 3.00 |

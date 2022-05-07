@@ -87,6 +87,19 @@
 | 6/18/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/18/2021 | PDP35829 | 2021-2 Tips  Tech Domestic Violence Inves | Passed | 0.0 | 0.25 |
 | 6/18/2021 | PDP33103 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
+| 6/18/2021 | PDP27825 | 2020-10 City Attorney's Legal Updates 10.2020 | Passed | 0.0 | 0.25 |
 | 6/2/2021 | PDP30005 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 6/2/2021 | PDP22176 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 6/2/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 6/2/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 6/2/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 5/28/2021 | PDP22170 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP17137 | 2020 Roles.Resp PPB on Mental Health Rel Calls | Passed | 0.0 | 1.00 |
+| 5/28/2021 | PDP04863 | 2020 BHU ECIT Update Section 1 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP37175 | 2020 BHU ECIT Update Section 2 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP03352 | 2020 BHU ECIT Update Section 3 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP19253 | 2020 BHU ECIT Update Section 4 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP43929 | 2020-6 City Attorney's Office Legal Updates 6.2020 | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP16262 | 2020-8 TipsTech Extreme Risk Protection Orders | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP43891 | 2020-9 Tips  Techniques Car Voucher Program | Passed | 0.0 | 0.25 |
+| 5/28/2021 | PDP03102 | 2021-5 TipsTech LMS KnowledgeBank.Document Search | Passed | 0.0 | 0.25 |

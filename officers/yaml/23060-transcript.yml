@@ -453,6 +453,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 5/11/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/27/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/23/2021
   :course: PDP43405
   :title: IS-800 National Response Framework
@@ -531,6 +549,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/17/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/24/2021
   :course: PDP00435
   :title: 2021-1 Range Qualification Primary Firearm

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/27/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

@@ -96,12 +96,19 @@
 | 11/17/2021 | PDP37225 | 2021-1 Tips  Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 11/17/2021 | PDP13599 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 11/10/2021 | PDP02849 | OSU Modified DutyCold Call-Taking TrngOnline Rpt | Passed | 0.0 | 1.25 |
+| 5/12/2021 | PDP15470 | 2020 Hernandez TRO Don't Shoot PDX v Portland | Passed | 0.0 | 0.50 |
+| 5/12/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 5/12/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
+| 5/12/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 5/12/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 5/11/2021 | PDP05160 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 5/11/2021 | PDP37264 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 5/11/2021 | PDP34996 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
 | 5/11/2021 | PDP00688 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 5/11/2021 | PDP25430 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
 | 5/11/2021 | PDP44399 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
+| 5/11/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 5/11/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 12/1/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 12/1/2020 | PDP37866 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |
 | 11/24/2020 | PDP09077 | 2020-6 City Attorney's Office Legal Updates 6/2020 | Passed | 0.0 | 0.25 |

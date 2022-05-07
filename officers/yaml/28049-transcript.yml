@@ -87,6 +87,12 @@
   :expiration_date: 5/28/2022
   :probation_date: ''
 :training_records:
+- :date: 1/25/2022
+  :course: PDS35905
+  :title: Legal Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 12/27/2021
   :course: PDS10459
   :title: PREA

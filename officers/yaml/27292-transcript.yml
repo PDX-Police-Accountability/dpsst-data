@@ -106,6 +106,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 1/17/2022
+  :course: PDS35905
+  :title: Legal Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 12/31/2021
   :course: 21-CVDL1
   :title: 2021 LE Annual Maint-Not Met COVID19

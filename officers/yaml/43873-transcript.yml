@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/2/2022
+  :course: PDP17244
+  :title: 2021 Training Wellness Restoration Project
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -404,6 +410,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 4/13/2021
   :course: PDP19698
   :title: 2020 CAO Newspapers/SimonTRO (resend)
@@ -470,6 +494,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/10/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/16/2021
   :course: PDP41550
   :title: 2021-5 TipsTech LMS KnowledgeBank/Document Search

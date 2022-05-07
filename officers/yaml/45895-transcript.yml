@@ -530,6 +530,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 4/27/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/27/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 4/16/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/30/2021
   :course: PDP41428
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -578,6 +602,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/30/2021
+  :course: PDP27594
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/24/2021
   :course: F6D05097
   :title: Online Investigations for Law Enforcement
@@ -602,6 +632,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/9/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/5/2021
   :course: PDP32397
   :title: 2021-1 40mm Less Lethal Qualification
@@ -1007,6 +1043,12 @@
 - :date: 2/25/2020
   :course: PDP29727
   :title: Intro to the Forensic Exprntl Trauma Interview
+  :status: Passed
+  :score: '0.0'
+  :hours: '14.00'
+- :date: 2/25/2020
+  :course: PDP25797
+  :title: Intro to the Forensic Experiential Trauma Inter
   :status: Passed
   :score: '0.0'
   :hours: '14.00'

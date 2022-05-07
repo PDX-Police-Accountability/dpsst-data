@@ -42,6 +42,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 2/2/2022
+  :course: PDS35905
+  :title: Legal Update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 12/15/2021
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

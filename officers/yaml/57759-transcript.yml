@@ -30,6 +30,54 @@
   :expiration_date: 5/15/2026
   :probation_date: ''
 :training_records:
+- :date: 4/24/2021
+  :course: PDP04969
+  :title: 2020 CAO Don't Shoot PDX.Hernandez (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/24/2021
+  :course: PDP15470
+  :title: 2020 Hernandez TRO Don't Shoot PDX v Portland
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/24/2021
+  :course: PDP44416
+  :title: 2020 CAO IPO.McNally Refresh Train (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/24/2021
+  :course: PDP02504
+  :title: 2020 CAO Newspapers.SimonTRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/24/2021
+  :course: PDP40889
+  :title: 2020 City Attorney's ACLU.Bushong TRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/24/2021
+  :course: PDP01753
+  :title: 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/24/2021
+  :course: PDP04445
+  :title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/24/2021
+  :course: PDP12061
+  :title: 2021 Training Crowd Control Vehicles
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/3/2021
   :course: PDP08245
   :title: 2021 Chicago Case Study

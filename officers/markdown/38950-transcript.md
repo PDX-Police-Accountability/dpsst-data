@@ -45,7 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/22/2022 | HBS33797 | EVOC Policy Update | Passed | 0.0 | 1.50 |
+| 11/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 11/22/2022 | HBS41262 | Harassment/Civility | Passed | 0.0 | 1.50 |
 | 2/4/2022 | HBS06256 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/4/2022 | HBS10118 | Use of Force Updates | Passed | 0.0 | 1.50 |

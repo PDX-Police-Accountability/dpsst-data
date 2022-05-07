@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
+| 3/30/2022 | OCS18089 | Marksmanship, One hand shooting, Movement | Instructed | 0.0 | 43.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/21/2022 | F6R37267 | VCQB/Injured Shooter Handgun and Rifle | Passed | 0.0 | 6.00 |
 | 3/17/2022 | OCS05907 | Marksmanship, Target ID, Using Cover | Instructed | 0.0 | 2.00 |

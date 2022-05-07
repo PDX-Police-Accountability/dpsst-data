@@ -348,6 +348,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/5/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/4/2021
   :course: PDP15662
   :title: 2021-2 40mm Less Lethal Qualification
@@ -372,12 +378,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/4/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/28/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 4/28/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/5/2021
   :course: PDP01018
   :title: 2020 CAO Don't Shoot PDX/Hernandez (resend)
@@ -438,6 +462,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
+- :date: 3/23/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/24/2021
   :course: PDP41550
   :title: 2021-5 TipsTech LMS KnowledgeBank/Document Search
@@ -2528,6 +2558,10 @@
   :hours: '2.00'
 :attribute_records:
 - :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2023
+  :expiration_date: 12/31/2025
+- :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
@@ -2538,7 +2572,7 @@
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2020
-  :expiration_date: 12/31/2022
+  :expiration_date: 1/1/1950
 - :topic: Code of Ethics
   :value: Signed
   :effective_date: 2/26/2013

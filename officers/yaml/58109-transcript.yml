@@ -366,6 +366,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/16/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/16/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 5/9/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/6/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/4/2021
   :course: PDP39968
   :title: 2021-2 Range Qualification Primary Firearm
@@ -381,6 +405,42 @@
 - :date: 5/4/2021
   :course: PDP30376
   :title: 2021-2 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/18/2021
+  :course: PDP04969
+  :title: 2020 CAO Don't Shoot PDX.Hernandez (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/18/2021
+  :course: PDP15470
+  :title: 2020 Hernandez TRO Don't Shoot PDX v Portland
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/18/2021
+  :course: PDP44416
+  :title: 2020 CAO IPO.McNally Refresh Train (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 4/18/2021
+  :course: PDP02504
+  :title: 2020 CAO Newspapers.SimonTRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/18/2021
+  :course: PDP40889
+  :title: 2020 City Attorney's ACLU.Bushong TRO (resend)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/18/2021
+  :course: PDP01753
+  :title: 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
@@ -404,6 +464,12 @@
   :hours: '0.75'
 - :date: 3/22/2021
   :course: PDP18027
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/22/2021
+  :course: PDP22216
   :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'

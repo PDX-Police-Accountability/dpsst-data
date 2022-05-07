@@ -54,6 +54,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/9/2022
+  :course: PDP01777
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '9.00'
 - :date: 3/7/2022
   :course: PDP34522
   :title: Interacting with Member LGBTQIA2S+ Chief's Message
@@ -72,6 +78,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/24/2022
+  :course: PDP24753
+  :title: Crisis Negotiation Team Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 2/21/2022
   :course: PDP17743
   :title: 2021-8 City Attorney's Legal Updates - Aug. 2021
@@ -486,18 +498,42 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 5/22/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/22/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/19/2021
   :course: F6D29265
   :title: Certified Crisis Intervention Specialist II Trng.
   :status: Passed
   :score: '0.0'
   :hours: '22.50'
+- :date: 5/17/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/4/2021
   :course: PDP19763
   :title: 2021 CNT Crisis Negotiation Team Annual Training
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/3/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/28/2021
   :course: PDP04395
   :title: 2021 CAO 40mm Crowd Control Training
@@ -576,6 +612,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 3/15/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/5/2021
   :course: PDP32331
   :title: 2021 Mental Wellness

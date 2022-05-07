@@ -572,6 +572,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/28/2021
+  :course: PDP17522
+  :title: 2021 Crime Victims' Rights
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 5/27/2021
   :course: PDP17314
   :title: 2021 SERT Training - Scenario
@@ -584,12 +590,30 @@
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/14/2021
+  :course: PDP21086
+  :title: 2021 Equity Training Series Racism Part 1
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/14/2021
+  :course: PDP15799
+  :title: 2021 Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
 - :date: 5/13/2021
   :course: PDP06996
   :title: 2021 SERT Training - Scenario
   :status: Passed
   :score: '0.0'
   :hours: '9.00'
+- :date: 5/11/2021
+  :course: PDP12819
+  :title: 2021 The Advanced SEND Protocol Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/29/2021
   :course: PDP38295
   :title: SERT Training - Scenario
@@ -683,6 +707,12 @@
 - :date: 3/31/2021
   :course: PDP41550
   :title: 2021-5 TipsTech LMS KnowledgeBank/Document Search
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 3/31/2021
+  :course: PDP22216
+  :title: 2021 Chicago Case Study
   :status: Passed
   :score: '0.0'
   :hours: '0.25'

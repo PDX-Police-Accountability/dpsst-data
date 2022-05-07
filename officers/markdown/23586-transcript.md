@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/8/2021 | PDS32581 | NARCAN | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS28945 | Combat Application Tourniquets | Passed | 0.0 | 0.50 |

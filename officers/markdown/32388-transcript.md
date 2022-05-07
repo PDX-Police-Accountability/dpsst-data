@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2022 | GSP16273 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |
+| 3/10/2022 | GSP44332 | Bank Robbery (Tracker) Tracker | Passed | 0.0 | 1.00 |
 | 3/4/2022 | F6R40127 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |
 | 2/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/22/2022 | VND28317 | 28CFR-Part23; RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |

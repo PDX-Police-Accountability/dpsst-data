@@ -875,7 +875,7 @@
 | Marshall, Thomas A. | 51787 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51787-transcript.md) - [yaml](../yaml/51787-transcript.yml) |
 | Pavon, Lino | 51792 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51792-transcript.md) - [yaml](../yaml/51792-transcript.yml) |
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |
-| Haase, Brandon D. | 51795 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
+| Haase, Brandon D. | 51795 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
 | Valadez, Alfonso, Jr. | 51796 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51796-transcript.md) - [yaml](../yaml/51796-transcript.yml) |
 | Martley, Heather L. | 51830 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51830-transcript.md) - [yaml](../yaml/51830-transcript.yml) |
 | Winkel, Jordan B. | 51850 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51850-transcript.md) - [yaml](../yaml/51850-transcript.yml) |
@@ -1265,6 +1265,7 @@
 | Nguyen, Vu D. | 62665 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62665-transcript.md) - [yaml](../yaml/62665-transcript.yml) |
 | LeSollen, Wendy A. | 62762 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62762-transcript.md) - [yaml](../yaml/62762-transcript.yml) |
 | Gullberg, Landen T. | 62779 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62779-transcript.md) - [yaml](../yaml/62779-transcript.yml) |
+| Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | Staples, Jeffrey W. | 17133 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17133-transcript.md) - [yaml](../yaml/17133-transcript.yml) |
 | Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Ortez, Armond A. | 18966 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/18966-transcript.md) - [yaml](../yaml/18966-transcript.yml) |
