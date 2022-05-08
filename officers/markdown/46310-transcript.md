@@ -4,7 +4,7 @@
 | name | Addicks, Christoph |
 | dpsst_identifier | 46310 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/14/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/16/2005 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/29/2017 | Police Officer | Advanced | Granted | 6/29/2017 |  |  |
-| 1/11/2011 | Police Officer | Intermediate | Granted | 1/11/2011 |  |  |
-| 1/17/2007 | Police Officer | Basic | Granted | 1/17/2007 |  |  |
+| 6/29/2017 | Police Officer | Advanced | Granted | 6/29/2017 | 7/14/2022 |  |
+| 1/11/2011 | Police Officer | Intermediate | Granted | 1/11/2011 | 7/14/2022 |  |
+| 1/17/2007 | Police Officer | Basic | Granted | 1/17/2007 | 7/14/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -108,10 +109,10 @@
 | 3/29/2021 | PDP21968 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/9/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
-| 3/8/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/8/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/8/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/2/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/2/2021 | PDP41314 | 2021-1 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

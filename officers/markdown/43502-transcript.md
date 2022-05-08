@@ -131,7 +131,7 @@
 | 3/24/2021 | PDP32397 | 2021-1 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/24/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/24/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 3/23/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/23/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/23/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/23/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/22/2021 | SMP23275 | ConSim for Motor Officers | Passed | 0.0 | 7.00 |

@@ -104,7 +104,7 @@
 | 4/16/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/12/2021 | PDP02175 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 4/11/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
-| 3/21/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/21/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/21/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/21/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/21/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

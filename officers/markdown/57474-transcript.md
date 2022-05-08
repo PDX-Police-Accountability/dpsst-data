@@ -117,7 +117,7 @@
 | 3/31/2021 | PDP21968 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/31/2021 | PDP27594 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 3/31/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/27/2021 | PDP11460 | 2021 Box-In Refresher | Passed | 0.0 | 0.25 |
 | 3/27/2021 | PDP18136 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
 | 3/27/2021 | PDP05057 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |

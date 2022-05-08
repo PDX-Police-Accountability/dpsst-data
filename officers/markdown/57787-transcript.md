@@ -102,7 +102,7 @@
 | 3/25/2021 | PDP23880 | 2020-7 City Attorney's Office Legal Updates 7.2020 | Passed | 0.0 | 0.75 |
 | 3/25/2021 | PDP34167 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP30680 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
-| 3/25/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/25/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP10276 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |

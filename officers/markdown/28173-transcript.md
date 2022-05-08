@@ -34,12 +34,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2022 | MKL28111 | Communication/Customer Service Skills | Passed | 0.0 | 0.50 |
+| 5/4/2022 | MKL12863 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 5/4/2022 | MKL36309 | Information Security Training:  Foundations | Passed | 0.0 | 0.50 |
+| 5/4/2022 | MKL19703 | Overview of Oregon Ethics Laws | Passed | 0.0 | 0.50 |
+| 5/4/2022 | MKL01290 | Vehicle Use and Access | Passed | 0.0 | 0.50 |
+| 5/4/2022 | MKL00773 | Ergonomically Adjusting Your Workspace | Passed | 0.0 | 0.25 |
 | 12/17/2021 | MKL22033 | Processing Mandatory Sex Trafficking Reports | Passed | 0.0 | 1.50 |
 | 12/17/2021 | MKL28110 | DOJ - Understanding and Addressing Sex Trafficking | Passed | 0.0 | 1.50 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/10/2021 | MKL18323 | DT - Virtual Scenarios/Physical Fit/Wellness 2021 | Passed | 0.0 | 4.00 |
 | 10/20/2021 | MKL40409 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
 | 8/25/2021 | MKL44372 | DAS-DCBS-OSHAWildfire Smoke Training Requirements | Passed | 0.0 | 1.00 |
+| 8/5/2021 | MKL43438 | Heat Illness and Prevention | Passed | 0.0 | 1.00 |
+| 7/20/2021 | MKL12863 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 7/20/2021 | MKL36309 | Information Security Training:  Foundations | Passed | 0.0 | 0.50 |
 | 6/16/2021 | MKL14639 | Mobile Radio Training | Passed | 0.0 | 1.50 |
 | 6/9/2021 | MKL32906 | OLCC Updates | Passed | 0.0 | 1.50 |
 | 4/8/2021 | MKL29621 | DT - "What did you say?" De-escalation | Passed | 0.0 | 1.50 |

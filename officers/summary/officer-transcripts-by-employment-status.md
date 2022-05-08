@@ -453,7 +453,6 @@
 | Asheim, Charles B. | 46067 | Portland Police Bureau | Active | Detective | [md](../markdown/46067-transcript.md) - [yaml](../yaml/46067-transcript.yml) |
 | Jett, Bradley J. | 46121 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46121-transcript.md) - [yaml](../yaml/46121-transcript.yml) |
 | Snodgrass, Clinton D. | 46160 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46160-transcript.md) - [yaml](../yaml/46160-transcript.yml) |
-| Addicks, Christoph | 46310 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46310-transcript.md) - [yaml](../yaml/46310-transcript.yml) |
 | Garrison, Ty K. | 46311 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46311-transcript.md) - [yaml](../yaml/46311-transcript.yml) |
 | Leeper, Teresa L. | 46361 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/46361-transcript.md) - [yaml](../yaml/46361-transcript.yml) |
 | Curtiss, Royce G. | 46427 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46427-transcript.md) - [yaml](../yaml/46427-transcript.yml) |
@@ -1340,6 +1339,7 @@
 | Adams, Trina M. | 46083 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46083-transcript.md) - [yaml](../yaml/46083-transcript.yml) |
 | Hauskins, Randy A. | 46183 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46183-transcript.md) - [yaml](../yaml/46183-transcript.yml) |
 | Thoman, Matthew D. | 46276 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46276-transcript.md) - [yaml](../yaml/46276-transcript.yml) |
+| Addicks, Christoph | 46310 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46310-transcript.md) - [yaml](../yaml/46310-transcript.yml) |
 | Morales, Dionisio, III | 46313 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46313-transcript.md) - [yaml](../yaml/46313-transcript.yml) |
 | Routley, Tina M. | 46337 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/46337-transcript.md) - [yaml](../yaml/46337-transcript.yml) |
 | Cole, Aaron L. | 46360 | Portland Police Bureau | Inactive | Detective | [md](../markdown/46360-transcript.md) - [yaml](../yaml/46360-transcript.yml) |

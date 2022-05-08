@@ -109,7 +109,7 @@
 | 3/25/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/24/2021 | F6D31177 | Online Investigations for Law Enforcement | Passed | 0.0 | 6.00 |
 | 3/16/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
-| 3/12/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/12/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/12/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/10/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 3/5/2021 | F6D23869 | Mobile Vehicle  Foot Surveillance Training | Passed | 0.0 | 40.00 |

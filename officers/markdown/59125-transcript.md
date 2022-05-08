@@ -101,7 +101,7 @@
 | 5/15/2021 | PDP40889 | 2020 City Attorney's ACLU.Bushong TRO (resend) | Passed | 0.0 | 0.25 |
 | 5/15/2021 | PDP02504 | 2020 CAO Newspapers.SimonTRO (resend) | Passed | 0.0 | 0.25 |
 | 5/15/2021 | PDP01753 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
-| 3/20/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/20/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/20/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/20/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/20/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

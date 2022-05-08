@@ -753,7 +753,7 @@
 | Snodgrass, Clinton D. | 46160 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46160-transcript.md) - [yaml](../yaml/46160-transcript.yml) |
 | Hauskins, Randy A. | 46183 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46183-transcript.md) - [yaml](../yaml/46183-transcript.yml) |
 | Thoman, Matthew D. | 46276 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46276-transcript.md) - [yaml](../yaml/46276-transcript.yml) |
-| Addicks, Christoph | 46310 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46310-transcript.md) - [yaml](../yaml/46310-transcript.yml) |
+| Addicks, Christoph | 46310 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46310-transcript.md) - [yaml](../yaml/46310-transcript.yml) |
 | Garrison, Ty K. | 46311 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46311-transcript.md) - [yaml](../yaml/46311-transcript.yml) |
 | Morales, Dionisio, III | 46313 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46313-transcript.md) - [yaml](../yaml/46313-transcript.yml) |
 | Curtiss, Royce G. | 46427 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46427-transcript.md) - [yaml](../yaml/46427-transcript.yml) |

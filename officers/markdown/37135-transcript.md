@@ -116,7 +116,7 @@
 | 3/14/2021 | PDP30680 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 3/14/2021 | PDP18136 | 2021 CEW Annual Update | Passed | 0.0 | 1.00 |
 | 3/14/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
-| 3/14/2021 | PDP18027 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/14/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/14/2021 | PDP05057 | 2021 Equity Training Series Introduction | Passed | 0.0 | 0.25 |
 | 3/14/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/14/2021 | PDP05106 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |

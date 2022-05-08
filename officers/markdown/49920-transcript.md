@@ -135,7 +135,7 @@
 | 3/31/2021 | PDP25688 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.00 |
-| 3/31/2021 | PDP27594 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 3/31/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 12/31/2020 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 8.00 |
 | 3/8/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
 | 2/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |

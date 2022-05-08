@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2022 | BVP43326 | Bicycle Re-Certification | Instructed | 0.0 | 30.00 |
 | 3/31/2022 | BVP35408 | Blood Draw  Vehicle Extractions HB 4301 | Passed | 0.0 | 0.50 |
 | 3/31/2022 | BVP21253 | Blood Draw  Vehicle Extractions Control Tactics | Passed | 0.0 | 2.00 |
 | 3/31/2022 | BVP27801 | Taser Recertification | Passed | 0.0 | 2.00 |

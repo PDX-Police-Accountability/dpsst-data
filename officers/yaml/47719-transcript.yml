@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/25/2022
+  :course: BVP43326
+  :title: Bicycle Re-Certification
+  :status: Instructed
+  :score: '0.0'
+  :hours: '30.00'
 - :date: 3/31/2022
   :course: BVP35408
   :title: Blood Draw  Vehicle Extractions HB 4301

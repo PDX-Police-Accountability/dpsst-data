@@ -43,6 +43,42 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/5/2022
+  :course: MKL28111
+  :title: Communication/Customer Service Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/4/2022
+  :course: MKL12863
+  :title: Preventing Discrimination and Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/4/2022
+  :course: MKL36309
+  :title: 'Information Security Training:  Foundations'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/4/2022
+  :course: MKL19703
+  :title: Overview of Oregon Ethics Laws
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/4/2022
+  :course: MKL01290
+  :title: Vehicle Use and Access
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 5/4/2022
+  :course: MKL00773
+  :title: Ergonomically Adjusting Your Workspace
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 12/17/2021
   :course: MKL22033
   :title: Processing Mandatory Sex Trafficking Reports
@@ -79,6 +115,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.00'
+- :date: 8/5/2021
+  :course: MKL43438
+  :title: Heat Illness and Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/20/2021
+  :course: MKL12863
+  :title: Preventing Discrimination and Harassment
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 7/20/2021
+  :course: MKL36309
+  :title: 'Information Security Training:  Foundations'
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 6/16/2021
   :course: MKL14639
   :title: Mobile Radio Training

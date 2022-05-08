@@ -10,7 +10,7 @@
 | Adams, Kimberly S. | 25636 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/25636-transcript.md) - [yaml](../yaml/25636-transcript.yml) |
 | Adams, Trina M. | 46083 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46083-transcript.md) - [yaml](../yaml/46083-transcript.yml) |
 | Adamski, Brett D. | 28070 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/28070-transcript.md) - [yaml](../yaml/28070-transcript.yml) |
-| Addicks, Christoph | 46310 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46310-transcript.md) - [yaml](../yaml/46310-transcript.yml) |
+| Addicks, Christoph | 46310 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/46310-transcript.md) - [yaml](../yaml/46310-transcript.yml) |
 | Adrian, Gregory J. | 28173 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/28173-transcript.md) - [yaml](../yaml/28173-transcript.yml) |
 | Aegerter, Anna E. | 45790 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/45790-transcript.md) - [yaml](../yaml/45790-transcript.yml) |
 | Afdup, Mohamed A. | 60188 | Portland Police Bureau | Active | Police Officer | [md](../markdown/60188-transcript.md) - [yaml](../yaml/60188-transcript.yml) |
