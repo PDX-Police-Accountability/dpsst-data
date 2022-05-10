@@ -9,8 +9,6 @@ custom-css-list:
   - "https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css"
 column-filtering-table: "#roster"
 ---
-<h4>hello there.</h4>
-
 <table id="roster" class="display">
   <thead>
     <tr>
@@ -64,12 +62,17 @@ $(document).ready(function () {
               var regexr = '({search})'; //$(this).parents('th').find('select').val();
  
               var cursorPosition = this.selectionStart;
+
+              // Add beginning string anchor to the regex for employment_status column
+              // to be able to match Active and Inactive separately.
+              var matchStart = colIdx == 3 ? '^' : '';
+
               // Search the column for that value
               api
                 .column(colIdx)
                 .search(
                   this.value != ''
-                    ? regexr.replace('{search}', '(((' + this.value + ')))')
+                    ? regexr.replace('{search}', '(((' + matchStart + this.value + ')))')
                     : '',
                   this.value != '',
                   this.value == ''
