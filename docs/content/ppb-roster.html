@@ -1,0 +1,173 @@
+---
+layout: page
+title:  PPB Roster
+categories: dpsst ppb
+custom-javascript-list:
+  - "http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+  - "https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"
+custom-css-list:
+  - "https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css"
+column-filtering-table: "#roster"
+---
+<h4>hello there.</h4>
+
+<table id="roster" class="display">
+  <thead>
+    <tr>
+      <th>dpsst_id</th>
+      <th>name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>row 1 data 1</td>
+      <td>row 1 data 2</td>
+    </tr>
+    <tr>
+      <td>row 2 data 1</td>
+      <td>row 2 data 2</td>
+    </tr>
+    <tr>
+      <td>row 3 data 1</td>
+      <td>row 3 data 2</td>
+    </tr>
+    <tr>
+      <td>row 4 data 1</td>
+      <td>row 4 data 2</td>
+    </tr>
+    <tr>
+      <td>row 5 data 1</td>
+      <td>row 5 data 2</td>
+    </tr>
+    <tr>
+      <td>row 6 data 1</td>
+      <td>row 6 data 2</td>
+    </tr>
+    <tr>
+      <td>row 7 data 1</td>
+      <td>row 7 data 2</td>
+    </tr>
+    <tr>
+      <td>row 8 data 1</td>
+      <td>row 8 data 2</td>
+    </tr>
+    <tr>
+      <td>row 9 data 1</td>
+      <td>row 9 data 2</td>
+    </tr>
+    <tr>
+      <td>row 10 data 1</td>
+      <td>row 10 data 2</td>
+    </tr>
+    <tr>
+      <td>row 11 dinger 1</td>
+      <td>row 11 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 12 dinger 1</td>
+      <td>row 12 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 13 dinger 1</td>
+      <td>row 13 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 14 dinger 1</td>
+      <td>row 14 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 15 dinger 1</td>
+      <td>row 15 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 16 dinger 1</td>
+      <td>row 16 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 17 dinger 1</td>
+      <td>row 17 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 18 dinger 1</td>
+      <td>row 18 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 19 dinger 1</td>
+      <td>row 19 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 20 dinger 1</td>
+      <td>row 20 dinger 2</td>
+    </tr>
+    <tr>
+      <td>row 21 data 1</td>
+      <td>row 21 data 2</td>
+    </tr>
+    <tr>
+      <td>row 22 data 1</td>
+      <td>row 22 data 2</td>
+    </tr>
+  </tbody>
+</table>
+
+<script>
+$(document).ready(function () {
+  // Setup - add a text input to each footer cell
+  $('{{ page.column-filtering-table }} thead tr')
+    .clone(true)
+    .addClass('filters')
+    .appendTo('{{ page.column-filtering-table }} thead');
+ 
+  var table = $('{{ page.column-filtering-table }}').DataTable({
+    orderCellsTop: true,
+    fixedHeader: true,
+    initComplete: function () {
+      var api = this.api();
+ 
+      // For each column
+      api
+        .columns()
+        .eq(0)
+        .each(function (colIdx) {
+          // Set the header cell to contain the input element
+          var cell = $('.filters th').eq(
+            $(api.column(colIdx).header()).index()
+          );
+          var title = $(cell).text();
+          $(cell).html('<input type="text" placeholder="' + title + '" />');
+ 
+          // On every keypress in this input
+          $(
+            'input',
+            $('.filters th').eq($(api.column(colIdx).header()).index())
+          )
+            .off('keyup change')
+            .on('keyup change', function (e) {
+              e.stopPropagation();
+ 
+              // Get the search value
+              $(this).attr('title', $(this).val());
+              var regexr = '({search})'; //$(this).parents('th').find('select').val();
+ 
+              var cursorPosition = this.selectionStart;
+              // Search the column for that value
+              api
+                .column(colIdx)
+                .search(
+                  this.value != ''
+                    ? regexr.replace('{search}', '(((' + this.value + ')))')
+                    : '',
+                  this.value != '',
+                  this.value == ''
+                )
+                .draw();
+ 
+              $(this)
+                .focus()[0]
+                .setSelectionRange(cursorPosition, cursorPosition);
+            });
+        });
+    },
+  });
+});
+</script>
