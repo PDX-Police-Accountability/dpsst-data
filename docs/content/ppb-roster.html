@@ -32,7 +32,7 @@ $(document).ready(function () {
     .appendTo('{{ page.column-filtering-table }} thead');
  
   var table = $('{{ page.column-filtering-table }}').DataTable({
-    ajax: '{{ site.baseurl }}/data/ppb-roster.json',
+    ajax: '{{ site.baseurl }}/data/officer-transcripts.json',
     orderCellsTop: true,
     fixedHeader: true,
     initComplete: function () {
