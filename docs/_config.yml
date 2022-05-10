@@ -22,9 +22,9 @@ title: DPSST Data
 email: dpsst-info@pdxcops.com
 description: >- # this means to ignore newlines until "baseurl:"
   
-  Data from the State of Oregon's CJ-IRIS system that pertains
-  to people working for the Portland Police Bureau. All data
-  available here is also available on other public sites.
+  Data on Portland Police Bureau workers from Oregon's CJ-IRIS system.
+
+  Data on this site is also available on other public sites.
 baseurl: "/dpsst-data" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
