@@ -28,6 +28,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/dpsst-data" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+header_pages:
+  - about.md
+
 # Build settings
 theme: minima
 plugins:
