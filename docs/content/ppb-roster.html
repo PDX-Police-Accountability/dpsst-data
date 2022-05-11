@@ -30,9 +30,10 @@ $(document).ready(function () {
     .appendTo('{{ page.column-filtering-table }} thead');
  
   var table = $('{{ page.column-filtering-table }}').DataTable({
-    ajax: '{{ site.baseurl }}/data/officer-transcripts.json',
+    ajax: '{{ site.baseurl }}/api-data/officer-transcripts.json',
     orderCellsTop: true,
     fixedHeader: true,
+    pagingType: "full_numbers",
     initComplete: function () {
       var api = this.api();
  

@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+author: PDX Police Accountability
 title: DPSST Data
 email: dpsst-info@pdxcops.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,9 +28,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data on this site is also available on other public sites.
 baseurl: "/dpsst-data" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+show_excerpts: true
+show_read_more_link: true
 
 header_pages:
   - about.md
+  - blog.md
+  - content/ppb-roster.html
 
 # Build settings
 theme: minima
