@@ -1,7 +1,7 @@
 ## Transcripts (sorted by agency)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
+| Sponhauer, Mark C. | 16089 | Portland Police Bureau | Inactive | Detective | [md](../markdown/16089-transcript.md) - [yaml](../yaml/16089-transcript.yml) |
 | Stradley, James M. | 16129 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16129-transcript.md) - [yaml](../yaml/16129-transcript.yml) |
 | DeLong, Mark S. | 16480 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16480-transcript.md) - [yaml](../yaml/16480-transcript.yml) |
 | Keller, Lawrence E. | 16483 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/16483-transcript.md) - [yaml](../yaml/16483-transcript.yml) |
@@ -1537,4 +1537,4 @@
 | Nguyen, Vu D. | 62665 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62665-transcript.md) - [yaml](../yaml/62665-transcript.yml) |
 | LeSollen, Wendy A. | 62762 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62762-transcript.md) - [yaml](../yaml/62762-transcript.yml) |
 | Gullberg, Landen T. | 62779 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62779-transcript.md) - [yaml](../yaml/62779-transcript.yml) |
-| Sponhauer, Mark C. | 16089 | Portland Police Bureau | Inactive | Detective | [md](../markdown/16089-transcript.md) - [yaml](../yaml/16089-transcript.yml) |
+| Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
