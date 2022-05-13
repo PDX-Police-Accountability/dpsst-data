@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/2/2022 | PDP17244 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
+| 5/5/2022 | PDP13510 | Advanced Shotgun Operator | Instructed | 0.0 | 18.00 |
 | 4/21/2022 | PDP03288 | Advanced Shotgun Operator Training | Instructed | 0.0 | 18.00 |
 | 4/14/2022 | PDP24491 | Advanced Shotgun Operator Course | Instructed | 0.0 | 18.00 |
 | 3/17/2022 | PDP35017 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |

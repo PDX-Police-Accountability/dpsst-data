@@ -479,6 +479,7 @@
 | 7/31/2015 | 15-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2015 | 15-0147 | Firearms - Less Lethal | Passed | 0.0 | 0.50 |
 | 6/25/2015 | 15-0593 | Conference - Other | Passed | 0.0 | 29.00 |
+| 6/17/2015 | PDP37835 | ICS-400 Adv ICS Cmd  General Staff-Complex Incdts | Passed | 0.0 | 16.00 |
 | 5/31/2015 | 15-0167 | Rifle Qualification | Passed | 0.0 | 0.50 |
 | 5/20/2015 | 15-0711 | Computer Training - Other | Passed | 0.0 | 1.00 |
 | 5/8/2015 | 15-0433 | Unified Command | Passed | 0.0 | 28.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2022 | HBS00683 | LEDS Recert | Passed | 0.0 | 1.00 |
 | 1/9/2022 | HBS23959 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 1/9/2022 | HBS04063 | First Aid | Passed | 0.0 | 2.50 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

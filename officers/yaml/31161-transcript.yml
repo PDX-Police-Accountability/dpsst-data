@@ -87,6 +87,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/4/2022
+  :course: TGP10528
+  :title: Redefining Adversity
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/16/2022
   :course: TGP20313
   :title: Domestic Violence Training

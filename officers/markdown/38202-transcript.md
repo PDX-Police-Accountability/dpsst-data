@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2022 | PDS12331 | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/23/2022 | PDS43691 | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

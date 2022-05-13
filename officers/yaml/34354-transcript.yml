@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/5/2022
+  :course: PDP13510
+  :title: Advanced Shotgun Operator
+  :status: Instructed
+  :score: '0.0'
+  :hours: '18.00'
 - :date: 4/21/2022
   :course: PDP03288
   :title: Advanced Shotgun Operator Training

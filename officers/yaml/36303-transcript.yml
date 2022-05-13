@@ -105,12 +105,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/4/2022
+  :course: PDP02885
+  :title: K-9 Weekly (de-escelation, obidence, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/20/2022
   :course: PDP40995
   :title: K-9 weekly (searches,OPCA standards, etc.)
   :status: Passed
   :score: '0.0'
   :hours: '4.50'
+- :date: 4/6/2022
+  :course: PDP43299
+  :title: OR Police K9 Assoc.- Spring Seminar
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 3/22/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

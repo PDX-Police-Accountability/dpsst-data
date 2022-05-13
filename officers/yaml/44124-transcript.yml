@@ -34,6 +34,20 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 5/9/2022
+  :certificate: Police Officer
+  :level: Advanced
+  :status: App Recd
+  :certificate_date: 5/9/2022
+  :expiration_date: ''
+  :probation_date: ''
+- :status_date: 5/9/2022
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: App Recd
+  :certificate_date: ''
+  :expiration_date: ''
+  :probation_date: ''
 - :status_date: 3/16/2012
   :certificate: Police Officer
   :level: Basic

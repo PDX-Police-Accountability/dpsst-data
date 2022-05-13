@@ -58,33 +58,40 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 2/22/2022
+  :certificate: Police Officer
+  :level: Basic
+  :status: Required
+  :certificate_date: ''
+  :expiration_date: ''
+  :probation_date: 8/22/2023
 - :status_date: 4/19/2021
   :certificate: Police Officer
   :level: Advanced
   :status: Lapsed
   :certificate_date: 9/23/2008
-  :expiration_date: 1/19/2026
+  :expiration_date: ''
   :probation_date: ''
 - :status_date: 4/19/2021
   :certificate: Police Officer
   :level: Basic
   :status: Lapsed
   :certificate_date: 2/5/1993
-  :expiration_date: 1/19/2026
+  :expiration_date: ''
   :probation_date: ''
 - :status_date: 4/19/2021
   :certificate: Police Officer
   :level: Intermediate
   :status: Lapsed
   :certificate_date: 9/23/2008
-  :expiration_date: 1/19/2026
+  :expiration_date: ''
   :probation_date: ''
 - :status_date: 4/19/2021
   :certificate: Police Officer
   :level: Supervisory
   :status: Lapsed
   :certificate_date: 12/17/2008
-  :expiration_date: 1/19/2026
+  :expiration_date: ''
   :probation_date: ''
 :training_records:
 - :date: 2/22/2023

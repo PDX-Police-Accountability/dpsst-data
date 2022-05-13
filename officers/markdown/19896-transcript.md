@@ -55,6 +55,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2022 | CYS38197 | Lost Person Behavior - Search  Rescue | Passed | 0.0 | 16.00 |
 | 3/31/2022 | CYS34963 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 3/14/2022 | CYS23650 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 3/2/2022 | REG04546 | Evidence Collection/Investigation | Passed | 0.0 | 4.00 |

@@ -74,6 +74,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/5/2022
+  :course: HBS00683
+  :title: LEDS Recert
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 1/9/2022
   :course: HBS23959
   :title: Bloodborne Pathogens

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/4/2022 | TGP10528 | Redefining Adversity | Passed | 0.0 | 1.00 |
 | 3/16/2022 | TGP20313 | Domestic Violence Training | Passed | 0.0 | 1.00 |
 | 2/10/2022 | TGP38122 | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.50 |
 | 12/31/2021 | TGP21373 | Use of Force:  Community Perceptions | Passed | 0.0 | 1.00 |

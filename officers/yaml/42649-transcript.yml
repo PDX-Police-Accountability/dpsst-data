@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/4/2022
+  :course: PDP02885
+  :title: K-9 Weekly (de-escelation, obidence, etc.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/20/2022
   :course: PDP40995
   :title: K-9 weekly (searches,OPCA standards, etc.)
