@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/5/2022
+  :course: PDP13510
+  :title: Advanced Shotgun Operator
+  :status: Passed
+  :score: '0.0'
+  :hours: '18.00'
 - :date: 3/8/2022
   :course: PDP17743
   :title: 2021-8 City Attorney's Legal Updates - Aug. 2021

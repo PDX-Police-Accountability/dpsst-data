@@ -69,6 +69,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/26/2022
+  :course: BPT03227
+  :title: RADAR/LIDAR Operator Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 3/30/2022
   :course: HBP15013
   :title: ARREST AND CONTROL

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2022 | BPT03227 | RADAR/LIDAR Operator Course | Passed | 0.0 | 8.00 |
 | 3/30/2022 | HBP15013 | ARREST AND CONTROL | Passed | 0.0 | 1.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 3/2/2022 | HBP22801 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |

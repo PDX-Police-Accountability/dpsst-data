@@ -44,6 +44,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/20/2022
+  :course: PDP19345
+  :title: Interview  Interrogation Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 3/29/2022
   :course: VND39935
   :title: 28 CFR Part 23 and Rissafe/Rissintel Deconfliction

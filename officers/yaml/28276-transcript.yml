@@ -122,6 +122,12 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 4/8/2022
+  :course: 22-0029
+  :title: DPSST Supervision
+  :status: Passed
+  :score: '0.0'
+  :hours: '80.00'
 - :date: 3/31/2022
   :course: SVP43019
   :title: How Physical  Mental Wellbeing Affects Perforance
@@ -164,12 +170,6 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
-- :date: 2/28/2022
-  :course: 22-0029
-  :title: DPSST Supervision
-  :status: Registered
-  :score: '0.0'
-  :hours: '80.00'
 - :date: 2/23/2022
   :course: SVP16496
   :title: Ofc. Involved Shooting Protocols/MCDA Updates

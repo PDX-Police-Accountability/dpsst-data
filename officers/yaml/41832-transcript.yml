@@ -57,6 +57,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/27/2022
+  :course: PDP23768
+  :title: Emerg. Ops Center-ICS Interface G-0191
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.66'
 - :date: 3/23/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

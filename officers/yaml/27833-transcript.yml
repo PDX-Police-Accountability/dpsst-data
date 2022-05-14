@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/27/2022
+  :course: PDP23768
+  :title: Emerg. Ops Center-ICS Interface G-0191
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.66'
 - :date: 3/15/2022
   :course: PDP10575
   :title: 2022 EAP-Crisis Planning

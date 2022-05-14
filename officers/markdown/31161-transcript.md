@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/4/2022 | TGP10528 | Redefining Adversity | Passed | 0.0 | 1.00 |
 | 3/16/2022 | TGP20313 | Domestic Violence Training | Passed | 0.0 | 1.00 |
+| 3/3/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |
 | 2/10/2022 | TGP38122 | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.50 |
 | 12/31/2021 | TGP21373 | Use of Force:  Community Perceptions | Passed | 0.0 | 1.00 |
 | 12/21/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

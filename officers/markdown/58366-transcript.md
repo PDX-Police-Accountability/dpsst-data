@@ -33,8 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/4/2022 | OSH17559 | Western States Hostage Negotiators' Assosciation | Passed | 0.0 | 20.00 |
 | 4/22/2022 | F6R43255 | Defensive Tactics 2022 1st Trimester | Passed | 0.0 | 4.00 |
 | 4/21/2022 | F6R21774 | OSP Swat Scenario Training | Passed | 0.0 | 3.00 |
+| 3/25/2022 | OSH11875 | Courtroom Testimony | Instructed | 0.0 | 4.00 |
 | 3/22/2022 | F6R12121 | Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 3/22/2022 | F6R13558 | First Aid | Passed | 0.0 | 3.50 |
 | 3/22/2022 | F6R35448 | Naloxone | Passed | 0.0 | 0.50 |
@@ -52,7 +54,9 @@
 | 11/15/2021 | F6E09522 | Ethics Training 2021 | Passed | 0.0 | 1.00 |
 | 10/22/2021 | F6F19791 | Global Positioning/GPS | Passed | 0.0 | 4.00 |
 | 10/21/2021 | F6F29673 | Vehicle Assault / Hostage Rescue | Passed | 0.0 | 5.00 |
+| 10/19/2021 | OSH11875 | Courtroom Testimony | Instructed | 0.0 | 8.00 |
 | 10/15/2021 | F6K26286 | Defensive Tactics 1st Trimester | Passed | 0.0 | 4.00 |
+| 9/24/2021 | OSH11875 | Courtroom Testimony | Instructed | 0.0 | 6.50 |
 | 9/1/2021 | F6E34627 | Verbal Judo Refresher | Passed | 0.0 | 1.00 |
 | 8/25/2021 | F6E00299 | 2021 CID Inservice | Passed | 0.0 | 4.00 |
 | 8/19/2021 | F6E38962 | Internet Crimes Against Children and Cybertip Inv. | Passed | 0.0 | 8.00 |

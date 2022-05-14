@@ -54,6 +54,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '6.00'
+- :date: 3/17/2022
+  :course: M10-21A
+  :title: DPSST Basic Police Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '640.00'
 - :date: 2/1/2022
   :course: BPT37233
   :title: In Our Own Voice
@@ -84,12 +90,6 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
-- :date: 10/25/2021
-  :course: M10-21A
-  :title: DPSST Basic Police Course
-  :status: Registered
-  :score: '0.0'
-  :hours: '640.00'
 - :date: 10/15/2021
   :course: OCS36185
   :title: OSHA Protection Wildfire Smoke Training

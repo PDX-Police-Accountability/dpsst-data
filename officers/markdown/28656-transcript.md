@@ -38,7 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2022 | TGP32402 | Barricaded Suspects in Vehicles | Passed | 0.0 | 1.25 |
 | 4/4/2022 | TGP38071 | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 3/17/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |
 | 2/23/2022 | TGP38122 | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.50 |
 | 12/31/2021 | TGP21373 | Use of Force:  Community Perceptions | Passed | 0.0 | 1.00 |
 | 12/21/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

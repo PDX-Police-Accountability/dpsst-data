@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/29/2022
+  :course: PDP44308
+  :title: Child Exploitation Investigation
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

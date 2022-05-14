@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/14/2022 | TGP08898 | LEDA Training Conference | Passed | 0.0 | 32.00 |
 | 4/5/2022 | SMS10019 | Glock Armorer Course | Passed | 0.0 | 8.00 |
+| 3/22/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |
 | 3/1/2022 | TGP06412 | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.50 |
 | 2/16/2022 | HBP08720 | Police Tactical Motors | Instructed | 0.0 | 6.00 |
 | 12/31/2021 | TGP21373 | Use of Force:  Community Perceptions | Passed | 0.0 | 1.00 |

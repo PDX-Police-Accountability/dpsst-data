@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 4/21/2022 | WLP37153 | New Hire Firearms Training | Passed | 0.0 | 16.00 |
 | 3/28/2022 | PDP38815 | OSU Modified Duty Cold Call-Taking Training Report | Passed | 0.0 | 0.25 |
 | 2/14/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/11/2022 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |

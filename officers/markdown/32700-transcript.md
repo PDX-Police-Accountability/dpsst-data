@@ -108,6 +108,7 @@
 | 5/20/2021 | PDP22463 | L-0950 NIMS ICS All-Hazards Incident Commander | Passed | 0.0 | 23.00 |
 | 5/13/2021 | PDP17522 | 2021 Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 5/13/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
+| 4/30/2021 | PDP36043 | FEMA Adv. Acad II Assessment in EM | Passed | 0.0 | 24.50 |
 | 4/23/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 4/23/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/23/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
@@ -133,6 +134,7 @@
 | 2/24/2021 | PDP25688 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 2/19/2021 | PDP09995 | G0191 Emergency Operations Center/Incident Command | Passed | 0.0 | 9.00 |
 | 2/18/2021 | PDP28399 | ICS-400 Advanced ICS Command and General Staff-Com | Instructed | 0.0 | 16.83 |
+| 2/11/2021 | PDP37855 | FEMA K451 Advan Academy I | Passed | 0.0 | 24.00 |
 | 1/22/2021 | PDP29132 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
 | 1/22/2021 | PDP23880 | 2020-7 City Attorney's Office Legal Updates 7.2020 | Passed | 0.0 | 0.75 |
 | 1/22/2021 | PDP34167 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |

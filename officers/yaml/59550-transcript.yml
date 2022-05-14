@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/12/2022
+  :course: MISCMAIN
+  :title: 2022 LE Basic 3 Year Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 3/6/2022
   :course: RMP32193
   :title: Strangulation / DV
@@ -1094,6 +1100,10 @@
   :hours: '2.00'
 :attribute_records:
 - :topic: Maintenance Requirements
+  :value: LE Basic 3 Year
+  :effective_date: 1/1/2023
+  :expiration_date: 12/31/2025
+- :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022
   :expiration_date: 12/31/2022
@@ -1108,7 +1118,7 @@
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2020
-  :expiration_date: 12/31/2022
+  :expiration_date: 1/1/1950
 - :topic: Code of Ethics
   :value: Law Enforcement Signed
   :effective_date: 2/18/2019

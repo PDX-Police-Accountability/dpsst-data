@@ -27,9 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/9/2022 | 5/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/11/2020 | 5/11/2022 |
 | Code of Ethics | Signed | 7/3/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2022 | PPP15105 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 4/7/2022 | PPP34624 | Body Worn Camera Operation and Policy | Passed | 0.0 | 2.00 |
 | 3/1/2022 | LOP36286 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/29/2022 | PPP25776 | Range | Passed | 0.0 | 4.00 |

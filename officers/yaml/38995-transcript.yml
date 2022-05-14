@@ -56,6 +56,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/30/2022
+  :course: PDP30982
+  :title: ICS-400 Adv ICS Cmd  General Staff-Complex Incdts
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.91'
 - :date: 3/21/2022
   :course: ALP30823
   :title: Critical Incident Response, U of F, De-esclation

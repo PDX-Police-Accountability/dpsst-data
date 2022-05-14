@@ -62,6 +62,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/28/2022
+  :course: OCP09933
+  :title: Firearms/Use of Force
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/28/2022
+  :course: OCP09933
+  :title: Firearms/Use of Force
+  :status: Instructed
+  :score: '0.0'
+  :hours: '20.00'
 - :date: 2/24/2022
   :course: OCP28607
   :title: Firearms/Use of Force
