@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2022 | CIF43585 | Tactical First Aid | Instructed | 0.0 | 1.00 |
 | 3/10/2022 | CIF41966 | Firearms Qualify | Passed | 0.0 | 0.50 |
 | 3/10/2022 | CIF13240 | 2022 Airways: Patient Evaluation for Law Enf. | Passed | 0.0 | 2.00 |
 | 3/8/2022 | F6R37670 | Mindfulness Based Resilence Training | Passed | 0.0 | 14.00 |

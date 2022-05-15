@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2022 | PDS06415 | Patrol Unit Supervisor's Meeting | Passed | 0.0 | 2.00 |
 | 2/28/2022 | LOP21003 | EVOC (Pursuit driving, use of force) | Passed | 0.0 | 10.00 |
 | 2/28/2022 | PDS04918 | EVOC | Passed | 0.0 | 10.00 |
 | 2/22/2022 | PDS12450 | Use of Force | Passed | 0.0 | 4.00 |

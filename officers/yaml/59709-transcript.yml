@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/6/2022
+  :course: OSH27028
+  :title: ARIDE
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
 - :date: 4/15/2022
   :course: BNP25122
   :title: Airway and Circulatory Anatomy Training

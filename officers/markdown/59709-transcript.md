@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2022 | OSH27028 | ARIDE | Passed | 0.0 | 16.00 |
 | 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 4/14/2022 | BNP05084 | UAS Search  Rescue | Passed | 0.0 | 3.00 |
 | 3/8/2022 | BNP09673 | UAS Monthly Training - MARCH 2022 | Passed | 0.0 | 4.00 |

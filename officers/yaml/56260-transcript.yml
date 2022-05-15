@@ -43,6 +43,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/11/2022
+  :course: CAP33862
+  :title: SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/25/2022
   :course: CAP37217
   :title: HB 2513 Airway and Circulatory Crisis Legislation
