@@ -86,6 +86,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/11/2022
+  :course: CIF27670
+  :title: Handgun and Rifle Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/30/2022
   :course: CIF43585
   :title: Tactical First Aid
