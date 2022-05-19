@@ -67,6 +67,7 @@
 | 6/4/2021 | F6E00397 | Defense Tactics 1st Trimester | Instructed | 0.0 | 4.00 |
 | 5/21/2021 | F6D13244 | OSP ATV Operations | Passed | 0.0 | 4.00 |
 | 5/13/2021 | F6D13776 | Firearms In Service | Passed | 0.0 | 24.00 |
+| 5/7/2021 | F6R28606 | 2021 Oregon State Marine Board LE Academy | Passed | 0.0 | 72.00 |
 | 4/2/2021 | F6D37229 | 1st Trimester Firerms | Instructed | 0.0 | 4.00 |
 | 3/5/2021 | F6D13172 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/5/2021 | F6D06067 | 1st Trimester Firearms | Passed | 0.0 | 4.00 |

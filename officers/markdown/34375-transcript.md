@@ -68,6 +68,7 @@
 | 6/24/2021 | F6E31083 | Infant Death Investigations | Passed | 0.0 | 1.50 |
 | 6/15/2021 | F6E33768 | Budget Software Training | Passed | 0.0 | 0.75 |
 | 5/11/2021 | F6D29742 | Getac Body Camera Training-Command Staff | Passed | 0.0 | 1.00 |
+| 5/7/2021 | F6R28606 | 2021 Oregon State Marine Board LE Academy | Passed | 0.0 | 72.00 |
 | 4/16/2021 | F6D41764 | OSSA Spring Civil Conference | Passed | 0.0 | 4.00 |
 | 4/15/2021 | F6D08679 | OSSA Spring Civil Conference | Passed | 0.0 | 8.00 |
 | 4/14/2021 | F6D05785 | OSSA Spring Civil Conference | Passed | 0.0 | 8.00 |

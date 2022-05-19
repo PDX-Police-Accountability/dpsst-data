@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Instructed | 0.0 | 4.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Instructed | 0.0 | 5.00 |
 | 4/15/2022 | HSU13774 | Pre Academy Firearms 9 | Instructed | 0.0 | 4.00 |
 | 4/3/2022 | HSU28325 | Firearms Spring In-Service 2022 | Instructed | 0.0 | 4.00 |

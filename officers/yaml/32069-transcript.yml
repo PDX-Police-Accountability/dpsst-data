@@ -56,6 +56,30 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/16/2022
+  :course: REG07375
+  :title: DT Arm drag, Weapon Defense
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/12/2022
+  :course: REG27497
+  :title: DT Lead arm control
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/9/2022
+  :course: REG33384
+  :title: Take down 1  2 officers, ground mobility
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 5/5/2022
+  :course: REG24707
+  :title: Ground Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 4/20/2022
   :course: SDP10712
   :title: Bloodborne Pathogens and Hazardous Materials

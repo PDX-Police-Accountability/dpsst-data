@@ -59,6 +59,7 @@
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 2/2/2022 | PDP13182 | EDU switch diagnostics  remote rigging | Passed | 0.0 | 9.00 |
+| 1/26/2022 | PDP29456 | Metro Exp. Disp. Unit Procedure/SOP review | Passed | 0.0 | 9.00 |
 | 1/19/2022 | PDP32772 | EDU weekly: robot operations, disrupter, etc. | Passed | 0.0 | 9.00 |
 | 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/13/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |

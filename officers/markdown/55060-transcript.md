@@ -51,6 +51,7 @@
 | 2/15/2022 | GSP31094 | U.A.S. Ground School | Passed | 0.0 | 10.00 |
 | 2/14/2022 | GSP31094 | U.A.S. Ground School | Passed | 0.0 | 10.00 |
 | 2/2/2022 | PDP13182 | EDU switch diagnostics  remote rigging | Passed | 0.0 | 9.00 |
+| 1/26/2022 | PDP29456 | Metro Exp. Disp. Unit Procedure/SOP review | Passed | 0.0 | 9.00 |
 | 1/22/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/21/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/21/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

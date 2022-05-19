@@ -101,6 +101,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/11/2022
+  :course: ICE15251
+  :title: Tactical Combat Casualty Care (TCCC)
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 1/14/2022
   :course: F6M11688
   :title: Escalation/De-escalation Trng Policy, Research

@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
+| 5/9/2022 | REG33384 | Take down 1  2 officers, ground mobility | Passed | 0.0 | 1.00 |
 | 3/18/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 3/18/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/18/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

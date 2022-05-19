@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/17/2021 | F6E37680 | Pistol Training / Handgun Qual. | Passed | 0.0 | 2.00 |
+| 5/7/2021 | F6R28606 | 2021 Oregon State Marine Board LE Academy | Passed | 0.0 | 72.00 |
 | 3/10/2021 | BNS27477 | Fire Evacuation / Behavior | Passed | 0.0 | 1.00 |
 | 3/10/2021 | BNS23034 | UOF | Passed | 0.0 | 4.00 |
 | 3/10/2021 | BNS16260 | Firearms | Passed | 0.0 | 3.00 |

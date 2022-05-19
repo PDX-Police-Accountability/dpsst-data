@@ -44,6 +44,7 @@
 | 3/22/2022 | GSP17501 | TikTok for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/10/2022 | NPN37325 | Criminal Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 3/10/2022 | GSP09814 | Interview  Interrogation | Passed | 0.0 | 24.00 |
+| 3/10/2022 | GSP26863 | Interview  Interrogation | Passed | 0.0 | 24.00 |
 | 2/22/2022 | CVP25074 | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 2/21/2022 | GSP27019 | Child Abuse Recognition, Invst  Protection | Passed | 0.0 | 12.00 |
 | 1/28/2022 | GSP32795 | San Diego Conf on Child and Fmaily Maltreatment | Passed | 0.0 | 16.25 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Instructed | 0.0 | 4.00 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

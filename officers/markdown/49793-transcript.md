@@ -61,6 +61,7 @@
 | 8/4/2021 | CIF10620 | Ethics and Professionalism | Passed | 0.0 | 1.50 |
 | 6/24/2021 | CIF12746 | Telecommunicator Training and Review | Passed | 0.0 | 1.50 |
 | 6/10/2021 | CIF14743 | Patrol - Mentally Ill Crisis Intervention | Passed | 0.0 | 1.00 |
+| 5/7/2021 | F6R28606 | 2021 Oregon State Marine Board LE Academy | Instructed | 0.0 | 72.00 |
 | 3/30/2021 | CIF07398 | Response to People in Crisis | Passed | 0.0 | 1.50 |
 | 3/8/2021 | CIF24882 | Avoid Pitfalls to Maximize Your Ability to Lead | Passed | 0.0 | 4.00 |
 | 3/1/2021 | CIF41646 | Protecting Your Agency  Avoiding the Landmines | Passed | 0.0 | 2.00 |

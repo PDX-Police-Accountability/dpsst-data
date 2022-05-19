@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/30/2022 | MFP17324 | April 2022 Briefing Training | Passed | 0.0 | 2.00 |
+| 4/29/2022 | MFP07335 | Defensive Tactics/Striking  Ground Work | Passed | 0.0 | 3.00 |
 | 4/27/2022 | MFP19688 | ETHOS Self-Study Program | Passed | 0.0 | 3.00 |
 | 4/21/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/1/2022 | MFP27055 | Diversity 101 | Passed | 0.0 | 1.00 |

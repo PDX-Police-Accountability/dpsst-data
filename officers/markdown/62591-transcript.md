@@ -28,6 +28,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/16/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 5/10/2022 | PDP20915 | Policy and Procedure Training | Passed | 0.0 | 7.00 |
+| 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Passed | 0.0 | 5.00 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |

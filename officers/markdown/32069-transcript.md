@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
+| 5/12/2022 | REG27497 | DT Lead arm control | Passed | 0.0 | 1.00 |
+| 5/9/2022 | REG33384 | Take down 1  2 officers, ground mobility | Passed | 0.0 | 1.00 |
+| 5/5/2022 | REG24707 | Ground Control | Passed | 0.0 | 1.00 |
 | 4/20/2022 | SDP10712 | Bloodborne Pathogens and Hazardous Materials | Passed | 0.0 | 2.00 |
 | 4/18/2022 | REG05790 | DT controlling base and recovering base | Passed | 0.0 | 1.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
