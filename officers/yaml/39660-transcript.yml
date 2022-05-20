@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/11/2022
+  :course: PDP42861
+  :title: 'K-9 Training: Debriefs, De-escelation, etc.'
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 5/4/2022
   :course: PDP02885
   :title: K-9 Weekly (de-escelation, obidence, etc.)

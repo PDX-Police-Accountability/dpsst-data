@@ -37,8 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2022 | F1523729 | Patrol Tactics | Passed | 0.0 | 8.00 |
+| 4/23/2022 | F1527235 | Active Shooter | Passed | 0.0 | 8.00 |
+| 4/10/2022 | F1527235 | Active Shooter | Passed | 0.0 | 8.00 |
+| 4/9/2022 | F1527235 | Active Shooter | Passed | 0.0 | 8.00 |
 | 3/14/2022 | F6R15622 | Defensive Tactics 2022 1st Trimester | Passed | 0.0 | 4.00 |
 | 3/4/2022 | F6R37650 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 2/20/2022 | F1527166 | Patrol Tactics (Contact/Cover) | Passed | 0.0 | 8.00 |
+| 2/19/2022 | F1527166 | Patrol Tactics (Contact/Cover) | Passed | 0.0 | 8.00 |
 | 2/18/2022 | F6R35748 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 2/11/2022 | F6R18399 | Ist Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

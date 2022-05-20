@@ -86,6 +86,36 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/27/2022
+  :course: OCS14157
+  :title: 2022 New Rifle Carrier
+  :status: Instructed
+  :score: '0.0'
+  :hours: '16.00'
+- :date: 4/25/2022
+  :course: OCS11374
+  :title: K9 Firearms - Marksmanship
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/22/2022
+  :course: OCS42495
+  :title: 2nd Qtr Patrol Shotgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/22/2022
+  :course: OCS10401
+  :title: Annual Qualifications
+  :status: Instructed
+  :score: '0.0'
+  :hours: '113.00'
+- :date: 4/20/2022
+  :course: OCS02325
+  :title: Annual Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/30/2022
   :course: OCS17075
   :title: Marksmanship, one hand shooting, movement

@@ -55,6 +55,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.00'
+- :date: 4/30/2022
+  :course: OCS21592
+  :title: Weapons Disarm
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/20/2022
+  :course: OCS02325
+  :title: Annual Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/30/2022
   :course: OCS17075
   :title: Marksmanship, one hand shooting, movement
@@ -67,6 +79,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '6.00'
+- :date: 3/20/2022
+  :course: OCS05711
+  :title: Arrest and Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 2/28/2022
   :course: OCS37116
   :title: Balancing speed and marksmanship

@@ -54,6 +54,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
+- :date: 4/27/2022
+  :course: OCS14157
+  :title: 2022 New Rifle Carrier
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
+- :date: 4/20/2022
+  :course: OCS02325
+  :title: Annual Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 4/17/2022
   :course: SMS32031
   :title: Basic Tactical Operations School
@@ -78,6 +90,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '6.00'
+- :date: 3/20/2022
+  :course: OCS05711
+  :title: Arrest and Control
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/3/2022
   :course: OCS00532
   :title: CPR FA instructor course

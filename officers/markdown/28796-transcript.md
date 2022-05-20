@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/5/2022 | PDP13510 | Advanced Shotgun Operator | Instructed | 0.0 | 18.00 |
+| 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Instructed | 0.0 | 18.00 |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 3/30/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP35017 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |

@@ -37,9 +37,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
+| 4/30/2022 | OCS21592 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |
+| 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
 | 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
+| 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS16578 | Striking and Weapon Retention | Passed | 0.0 | 1.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

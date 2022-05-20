@@ -36,10 +36,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
+| 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Passed | 0.0 | 32.00 |
+| 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
 | 4/17/2022 | SMS32031 | Basic Tactical Operations School | Passed | 0.0 | 55.50 |
 | 4/1/2022 | OCS33915 | Firearms/Ladder/Breaching |  | 0.0 | 10.00 |
 | 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
+| 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 3/3/2022 | OCS00532 | CPR FA instructor course | Passed | 0.0 | 2.00 |
 | 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

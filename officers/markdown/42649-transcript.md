@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2022 | PDP42861 | K-9 Training: Debriefs, De-escelation, etc. | Passed | 0.0 | 1.00 |
 | 5/4/2022 | PDP02885 | K-9 Weekly (de-escelation, obidence, etc.) | Passed | 0.0 | 4.00 |
 | 4/20/2022 | PDP40995 | K-9 weekly (searches,OPCA standards, etc.) | Passed | 0.0 | 4.50 |
 | 3/14/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

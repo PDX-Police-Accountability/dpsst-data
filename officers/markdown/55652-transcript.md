@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/5/2022 | PDP13510 | Advanced Shotgun Operator | Passed | 0.0 | 18.00 |
+| 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Passed | 0.0 | 18.00 |
 | 3/30/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 3/28/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

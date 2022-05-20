@@ -23,6 +23,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/18/2022 | Police Officer | Management | App Recd |  |  | 8/22/2023 |
 | 2/22/2022 | Police Officer | Basic | Required |  |  | 8/22/2023 |
 | 4/19/2021 | Police Officer | Advanced | Lapsed | 9/23/2008 |  |  |
 | 4/19/2021 | Police Officer | Basic | Lapsed | 2/5/1993 |  |  |

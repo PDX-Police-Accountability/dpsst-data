@@ -41,6 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Instructed | 0.0 | 16.00 |
+| 4/25/2022 | OCS11374 | K9 Firearms - Marksmanship | Instructed | 0.0 | 2.00 |
+| 4/22/2022 | OCS42495 | 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
+| 4/22/2022 | OCS10401 | Annual Qualifications | Instructed | 0.0 | 113.00 |
+| 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
 | 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
 | 3/30/2022 | OCS18089 | Marksmanship, One hand shooting, Movement | Instructed | 0.0 | 43.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
