@@ -55,6 +55,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/26/2022
+  :course: TUP09824
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '7.00'
+- :date: 4/26/2022
+  :course: TUP10384
+  :title: High Risk Traffic Stops
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 4/6/2022
   :course: TGP32402
   :title: Barricaded Suspects in Vehicles

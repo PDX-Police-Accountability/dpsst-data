@@ -74,6 +74,7 @@
 | 8/4/2021 | TAP23423 | ETHOS Adaptive Ethics Program | Passed | 0.0 | 6.00 |
 | 7/28/2021 | MFS24800 | SFST DUII Refresher | Passed | 0.0 | 4.00 |
 | 7/22/2021 | ADP12587 | Firearm Quals-Rifle, Shotgun, Duty/Off Duty | Passed | 0.0 | 1.00 |
+| 7/22/2021 | ADP36624 | Firearm Qualifications-Duty, Shotgun, and Off Duty | Passed | 0.0 | 1.00 |
 | 7/16/2021 | TAP18220 | Community Policing Training Online | Passed | 0.0 | 8.00 |
 | 7/16/2021 | TAP14609 | Excited Delirium Signs and Preparation | Passed | 0.0 | 0.50 |
 | 7/7/2021 | TAP32510 | Verbal and Non Verbal Communication | Passed | 0.0 | 1.50 |

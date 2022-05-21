@@ -164,6 +164,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/18/2022
+  :course: BPT09610
+  :title: Defensive Tactics 2 hour review
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/18/2022
+  :course: BPT30332
+  :title: Mental Health Question, Pursuade, Refer (Q.P.R.)
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/18/2022
+  :course: BPT25056
+  :title: Firearms Low Light Pistol and Rifle Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 5/8/2022
   :course: CYS38197
   :title: Lost Person Behavior - Search  Rescue

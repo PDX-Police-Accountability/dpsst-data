@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2022 | TUP34147 | EVOC | Passed | 0.0 | 7.00 |
+| 4/28/2022 | TUP16481 | High Risk Traffic Stops | Passed | 0.0 | 1.00 |
 | 4/6/2022 | TGP32402 | Barricaded Suspects in Vehicles | Passed | 0.0 | 1.25 |
 | 4/4/2022 | TGP38071 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/17/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |

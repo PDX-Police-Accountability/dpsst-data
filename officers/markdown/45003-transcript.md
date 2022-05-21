@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/9/2022 | Hillsboro Police Department | Promotion | Sergeant |  |  |
 | 11/30/2020 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 11/27/2020 | Portland Police Bureau | Resigned | Detective |  |  |
 | 5/28/2015 | Portland Police Bureau | Promotion | Detective |  |  |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 3/30/2022 | HBP27525 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 2/2/2022 | HBP13260 | Advanced Vehicle Stops | Passed | 0.0 | 2.00 |
 | 12/8/2021 | HBP13811 | SFST Refresher | Passed | 0.0 | 4.00 |

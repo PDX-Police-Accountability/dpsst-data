@@ -72,6 +72,7 @@
 | 11/4/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 10/27/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/27/2021 | PDP44558 | 2020-12 CAO Legal Updates for 12.2020-Updated | Passed | 0.0 | 0.25 |
+| 10/26/2021 | 22-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 10/21/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 10/21/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 10/20/2021 | PDP18114 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
@@ -555,7 +556,6 @@
 | 2/20/2008 | 08-0925 | Use of Force Policy | Passed | 0.0 | 1.00 |
 | 2/20/2008 | 08-1204 | EVOC / PIT | Passed | 0.0 | 5.50 |
 | 12/31/2007 | 07-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 5.80 |
-| 8/10/2007 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 7/31/2007 | 07-0133 | Range | Passed | 0.0 | 1.00 |
 | 7/1/2007 | 07-0716 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 4/20/2007 | 07-0133 | Range | Passed | 0.0 | 1.00 |

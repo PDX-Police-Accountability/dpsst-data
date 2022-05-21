@@ -55,6 +55,12 @@
   :expiration_date: 12/16/2022
   :probation_date: ''
 :training_records:
+- :date: 4/22/2022
+  :course: PDP24445
+  :title: DUII  DRE/DECP Training Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 4/20/2022
   :course: OSH35174
   :title: DRE Conference

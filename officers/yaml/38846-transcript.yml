@@ -264,6 +264,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 10/26/2021
+  :course: 22-0030
+  :title: DPSST Supervision F21 Equivalency
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 10/21/2021
   :course: PDP04708
   :title: 2021 External Training ABLE Training Ethics
@@ -3162,12 +3168,6 @@
   :status: Passed
   :score: '0.0'
   :hours: '5.80'
-- :date: 8/10/2007
-  :course: REQSUPV
-  :title: 'REQUIRED TRAINING:  Supervision'
-  :status: Required
-  :score: '0.0'
-  :hours: '0.00'
 - :date: 7/31/2007
   :course: 07-0133
   :title: Range
