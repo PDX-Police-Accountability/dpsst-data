@@ -37,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/4/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 5/4/2022 | HBS40279 | CART Medical Conditions at Crashes | Passed | 0.0 | 1.00 |
+| 5/4/2022 | HBS44050 | CART Photography | Passed | 0.0 | 3.50 |
 | 4/14/2022 | TGP08898 | LEDA Training Conference | Passed | 0.0 | 32.00 |
 | 4/5/2022 | SMS10019 | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 3/22/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |

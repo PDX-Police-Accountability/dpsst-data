@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/12/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
 | 3/10/2022 | GSP44332 | Bank Robbery (Tracker) Tracker | Passed | 0.0 | 1.00 |
 | 3/9/2022 | LOP19092 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 2/24/2022 | GSP27988 | Video Evidence Collection | Passed | 0.0 | 8.00 |

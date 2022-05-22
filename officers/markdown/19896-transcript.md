@@ -55,6 +55,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2022 | BPT34076 | Ethics | Passed | 0.0 | 2.00 |
+| 5/19/2022 | BPT09879 | Patrol Tactics (4 hour class) | Passed | 0.0 | 4.00 |
 | 5/18/2022 | BPT09610 | Defensive Tactics 2 hour review | Passed | 0.0 | 2.00 |
 | 5/18/2022 | BPT30332 | Mental Health Question, Pursuade, Refer (Q.P.R.) | Passed | 0.0 | 2.00 |
 | 5/18/2022 | BPT25056 | Firearms Low Light Pistol and Rifle Refresher | Passed | 0.0 | 4.00 |

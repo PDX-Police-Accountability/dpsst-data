@@ -164,6 +164,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/19/2022
+  :course: BPT34076
+  :title: Ethics
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 5/19/2022
+  :course: BPT09879
+  :title: Patrol Tactics (4 hour class)
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 5/18/2022
   :course: BPT09610
   :title: Defensive Tactics 2 hour review
