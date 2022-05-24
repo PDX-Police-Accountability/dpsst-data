@@ -174,6 +174,7 @@
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |
 | Browning, David S. | 48554 | Portland Police Bureau | Active | Police Officer | [md](../markdown/48554-transcript.md) - [yaml](../yaml/48554-transcript.yml) |
 | Bruders, Robert K. | 45977 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/45977-transcript.md) - [yaml](../yaml/45977-transcript.yml) |
+| Brunelle, Brandon J. | 62874 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62874-transcript.md) - [yaml](../yaml/62874-transcript.yml) |
 | Brunelle, Tyler S. | 57447 | Portland Police Bureau | Active | Police Officer | [md](../markdown/57447-transcript.md) - [yaml](../yaml/57447-transcript.yml) |
 | Bruner-Dehnert, Amy L. | 44735 | Portland Police Bureau | Active | Police Officer | [md](../markdown/44735-transcript.md) - [yaml](../yaml/44735-transcript.yml) |
 | Bryant, David J. | 47224 | Portland Police Bureau | Active | Police Officer | [md](../markdown/47224-transcript.md) - [yaml](../yaml/47224-transcript.yml) |
@@ -373,6 +374,7 @@
 | Ehrich, Douglas K. | 26711 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/26711-transcript.md) - [yaml](../yaml/26711-transcript.yml) |
 | Eide, Carolyn A. | 58740 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58740-transcript.md) - [yaml](../yaml/58740-transcript.yml) |
 | Eisner, Melody R. | 36591 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/36591-transcript.md) - [yaml](../yaml/36591-transcript.yml) |
+| El Mohamed, Mohamed F. | 62958 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62958-transcript.md) - [yaml](../yaml/62958-transcript.yml) |
 | Elam, Charles C. | 50594 | Portland Police Bureau | Active | Sergeant | [md](../markdown/50594-transcript.md) - [yaml](../yaml/50594-transcript.yml) |
 | Elias, Jeffrey E. | 29338 | Portland Police Bureau | Active | Police Officer | [md](../markdown/29338-transcript.md) - [yaml](../yaml/29338-transcript.yml) |
 | Ell, Kristine L. | 35914 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/35914-transcript.md) - [yaml](../yaml/35914-transcript.yml) |
@@ -1013,6 +1015,7 @@
 | Nguepdjo, Thierry R. | 55237 | Portland Police Bureau | Active | Police Officer | [md](../markdown/55237-transcript.md) - [yaml](../yaml/55237-transcript.yml) |
 | Nguyen, Cuong D. | 43867 | Portland Police Bureau | Active | Police Officer | [md](../markdown/43867-transcript.md) - [yaml](../yaml/43867-transcript.yml) |
 | Nguyen, Thanh T. | 28979 | Portland Police Bureau | Inactive | Detective | [md](../markdown/28979-transcript.md) - [yaml](../yaml/28979-transcript.yml) |
+| Nguyen, Timmy T. | 62875 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62875-transcript.md) - [yaml](../yaml/62875-transcript.yml) |
 | Nguyen, Vu D. | 62665 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62665-transcript.md) - [yaml](../yaml/62665-transcript.yml) |
 | Nice, Kyle S. | 26853 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/26853-transcript.md) - [yaml](../yaml/26853-transcript.yml) |
 | Nichols, Michael J. | 26758 | Portland Police Bureau | Active | Police Officer | [md](../markdown/26758-transcript.md) - [yaml](../yaml/26758-transcript.yml) |
@@ -1104,6 +1107,7 @@
 | Piombo, Mark M. | 46529 | Portland Police Bureau | Active | Police Officer | [md](../markdown/46529-transcript.md) - [yaml](../yaml/46529-transcript.yml) |
 | Pippen, Robert H. | 29903 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29903-transcript.md) - [yaml](../yaml/29903-transcript.yml) |
 | Pirv, Florin B. | 43838 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/43838-transcript.md) - [yaml](../yaml/43838-transcript.yml) |
+| Plantillas, Jairo D. | 62959 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62959-transcript.md) - [yaml](../yaml/62959-transcript.yml) |
 | Pleune, Patricia L. | 39707 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/39707-transcript.md) - [yaml](../yaml/39707-transcript.yml) |
 | Polas, Andy G. | 43489 | Portland Police Bureau | Active | Police Officer | [md](../markdown/43489-transcript.md) - [yaml](../yaml/43489-transcript.yml) |
 | Polete, Henry W., II | 49885 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/49885-transcript.md) - [yaml](../yaml/49885-transcript.yml) |

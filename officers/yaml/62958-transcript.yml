@@ -1,0 +1,34 @@
+---
+:header_record:
+  :name: El Mohamed, Mohamed F.
+  :dpsst_identifier: '62958'
+  :agency: Portland Police Bureau
+  :employment_status: Active
+  :rank: Police Officer
+  :level: ''
+  :classification: ''
+  :assignment: ''
+:employment_records:
+- :date: 5/17/2022
+  :agency: Portland Police Bureau
+  :action: Hired
+  :rank: Police Off
+  :classification: ''
+  :assignment: ''
+:certification_records:
+- :status_date: 5/17/2022
+  :certificate: Police Officer
+  :level: Basic
+  :status: Required
+  :certificate_date: ''
+  :expiration_date: ''
+  :probation_date: 11/17/2023
+:training_records:
+- :date: 9/12/2022
+  :course: M10-21A
+  :title: DPSST Basic Police Course
+  :status: Pending
+  :score: '0.0'
+  :hours: '640.00'
+:attribute_records: []
+:education_records: []

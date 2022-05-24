@@ -1266,6 +1266,10 @@
 | LeSollen, Wendy A. | 62762 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62762-transcript.md) - [yaml](../yaml/62762-transcript.yml) |
 | Gullberg, Landen T. | 62779 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62779-transcript.md) - [yaml](../yaml/62779-transcript.yml) |
 | Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
+| Brunelle, Brandon J. | 62874 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62874-transcript.md) - [yaml](../yaml/62874-transcript.yml) |
+| Nguyen, Timmy T. | 62875 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62875-transcript.md) - [yaml](../yaml/62875-transcript.yml) |
+| El Mohamed, Mohamed F. | 62958 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62958-transcript.md) - [yaml](../yaml/62958-transcript.yml) |
+| Plantillas, Jairo D. | 62959 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62959-transcript.md) - [yaml](../yaml/62959-transcript.yml) |
 | Staples, Jeffrey W. | 17133 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17133-transcript.md) - [yaml](../yaml/17133-transcript.yml) |
 | Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Ortez, Armond A. | 18966 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/18966-transcript.md) - [yaml](../yaml/18966-transcript.yml) |
