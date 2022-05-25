@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/22/2022
+  :course: TDP40775
+  :title: Implicit Bias 2022
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 1/14/2022
   :course: F6M11688
   :title: Escalation/De-escalation Trng Policy, Research

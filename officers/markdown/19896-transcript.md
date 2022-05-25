@@ -43,7 +43,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/3/2020 | 12/3/2022 |
 | Code of Ethics | Law Enforcement Signed | 10/30/2017 |  |
@@ -55,6 +56,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/19/2022 | BPT34076 | Ethics | Passed | 0.0 | 2.00 |
 | 5/19/2022 | BPT09879 | Patrol Tactics (4 hour class) | Passed | 0.0 | 4.00 |
 | 5/18/2022 | BPT09610 | Defensive Tactics 2 hour review | Passed | 0.0 | 2.00 |

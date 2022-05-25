@@ -31,7 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/5/2022 | PDP13510 | Advanced Shotgun Operator | Passed | 0.0 | 18.00 |
+| 5/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 18.00 |
 | 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Passed | 0.0 | 18.00 |
 | 4/11/2022 | PDP08605 | 2022 Return to Work | Passed | 0.0 | 3.50 |
 | 1/1/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

@@ -164,6 +164,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/23/2022
+  :course: MISCMAIN
+  :title: 2022 LE Annual Maintenance
+  :status: Completed
+  :score: '0.0'
+  :hours: '0.00'
 - :date: 5/19/2022
   :course: BPT34076
   :title: Ethics
@@ -1643,8 +1649,12 @@
 :attribute_records:
 - :topic: Maintenance Requirements
   :value: LE Annual
+  :effective_date: 1/1/2023
+  :expiration_date: 12/31/2023
+- :topic: Maintenance Requirements
+  :value: LE Annual
   :effective_date: 1/1/2022
-  :expiration_date: 12/31/2022
+  :expiration_date: 1/1/1950
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2021

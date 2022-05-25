@@ -33,7 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/5/2022 | PDP13510 | Advanced Shotgun Operator | Instructed | 0.0 | 18.00 |
+| 5/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 18.00 |
 | 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Instructed | 0.0 | 18.00 |
 | 4/21/2022 | PDP03288 | Advanced Shotgun Operator Training | Passed | 0.0 | 18.00 |
 | 4/14/2022 | PDP24491 | Advanced Shotgun Operator Course | Instructed | 0.0 | 18.00 |

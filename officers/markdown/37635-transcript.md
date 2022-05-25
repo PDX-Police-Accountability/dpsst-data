@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/18/2022 | EGP12087 | Autism Spectrum Disorder/CIT | Passed | 0.0 | 1.00 |
+| 5/18/2022 | EGP12087 | Autism Spectrum Disorder/CIT | Passed | 0.0 | 0.75 |
 | 5/18/2022 | EGP26553 | Chief Briefing - Leadership | Passed | 0.0 | 0.75 |
 | 4/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/28/2022 | EGP26329 | Ladder Tactics/Firearms Skills/Linear Tactics | Passed | 0.0 | 9.00 |
@@ -51,6 +51,7 @@
 | 1/19/2022 | EGP12383 | Chief Briefing - Leadership - January 2022 | Passed | 0.0 | 0.75 |
 | 1/19/2022 | EGP36629 | DUII Refresher Course - SFST | Passed | 0.0 | 4.00 |
 | 12/31/2021 | 21-CVDLD | 2021 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
+| 12/31/2021 | MAINTMUC | Maintenance Makeup CIT/MH | Passed | 0.0 | 0.25 |
 | 11/17/2021 | EGP20939 | 40mm Less Lethal recertification | Passed | 0.0 | 1.00 |
 | 11/17/2021 | EGP35574 | Defensive Tactics Skills Training | Passed | 0.0 | 3.50 |
 | 11/17/2021 | EGP16999 | Behavioral Threat Assessment | Passed | 0.0 | 0.75 |
