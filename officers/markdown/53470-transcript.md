@@ -41,6 +41,7 @@
 | 3/29/2022 | VND39935 | 28 CFR Part 23 and Rissafe/Rissintel Deconfliction | Passed | 0.0 | 2.00 |
 | 3/15/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/11/2022 | VND24646 | Advanced Strangulation Training | Passed | 0.0 | 30.25 |
+| 3/11/2022 | PDP29489 | Adv Strangulation Prevention Training | Passed | 0.0 | 28.50 |
 | 3/7/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

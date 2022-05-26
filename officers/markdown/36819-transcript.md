@@ -512,6 +512,14 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 80.00 |
 | 2/29/2004 | 04-0236 | Radar/Lidar Operator Course | Passed | 0.0 | 16.00 |
 | 1/18/2004 | 04-0236 | Radar/Lidar Operator Course | Passed | 0.0 | 14.00 |
+| 11/17/2003 | PDP30606 | CPR Refresher.Patrol Tactics | Passed | 0.0 | 6.00 |
+| 11/17/2003 | PDP29872 | Bloodborne Pathogens/BHR 2.2 Training | Passed | 0.0 | 3.00 |
+| 11/1/2003 | PDP31312 | Qtrly Trng - DT Low Profile Full Body Search | Passed | 0.0 | 1.00 |
+| 7/23/2003 | PDP28084 | DT 2 on 1 Handcuffing/Uncuffing | Passed | 0.0 | 1.00 |
+| 4/18/2003 | PDP43762 | M26 Taser Operator | Passed | 0.0 | 10.00 |
+| 3/24/2003 | PDP36420 | Radar Operator's Course | Passed | 0.0 | 8.00 |
+| 2/7/2003 | PDP15005 | Quarterly Hobble Leg Restraint | Passed | 0.0 | 1.00 |
+| 2/3/2003 | PDP42397 | In-Service 2003 | Passed | 0.0 | 10.00 |
 | 7/8/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 20.00 |
 | 10/25/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 1.00 |
 | 3/12/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 32.00 |

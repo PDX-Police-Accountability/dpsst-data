@@ -23,12 +23,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/18/2022 | Police Officer | Management | App Recd |  |  | 8/22/2023 |
-| 2/22/2022 | Police Officer | Basic | Required |  |  | 8/22/2023 |
-| 4/19/2021 | Police Officer | Advanced | Lapsed | 9/23/2008 |  |  |
-| 4/19/2021 | Police Officer | Basic | Lapsed | 2/5/1993 |  |  |
-| 4/19/2021 | Police Officer | Intermediate | Lapsed | 9/23/2008 |  |  |
-| 4/19/2021 | Police Officer | Supervisory | Lapsed | 12/17/2008 |  |  |
+| 5/24/2022 | Police Officer | Advanced | Reactivate | 9/23/2008 |  |  |
+| 5/24/2022 | Police Officer | Basic | Reactivate | 2/5/1993 |  |  |
+| 5/24/2022 | Police Officer | Intermediate | Reactivate | 9/23/2008 |  |  |
+| 5/24/2022 | Police Officer | Management | App Incmpl |  | 7/24/2022 |  |
+| 5/24/2022 | Police Officer | Supervisory | Reactivate | 12/17/2008 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -42,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/22/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 5/17/2022 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 4/27/2022 | FGP20858 | Distraction Device Training | Passed | 0.0 | 2.50 |
 | 4/19/2022 | FGP17600 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 1.00 |
 | 4/8/2022 | FGP37598 | ACAP Carotid Restraint Policy Review | Passed | 0.0 | 0.25 |

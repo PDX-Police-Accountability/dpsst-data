@@ -58,53 +58,46 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 5/18/2022
-  :certificate: Police Officer
-  :level: Management
-  :status: App Recd
-  :certificate_date: ''
-  :expiration_date: ''
-  :probation_date: 8/22/2023
-- :status_date: 2/22/2022
-  :certificate: Police Officer
-  :level: Basic
-  :status: Required
-  :certificate_date: ''
-  :expiration_date: ''
-  :probation_date: 8/22/2023
-- :status_date: 4/19/2021
+- :status_date: 5/24/2022
   :certificate: Police Officer
   :level: Advanced
-  :status: Lapsed
+  :status: Reactivate
   :certificate_date: 9/23/2008
   :expiration_date: ''
   :probation_date: ''
-- :status_date: 4/19/2021
+- :status_date: 5/24/2022
   :certificate: Police Officer
   :level: Basic
-  :status: Lapsed
+  :status: Reactivate
   :certificate_date: 2/5/1993
   :expiration_date: ''
   :probation_date: ''
-- :status_date: 4/19/2021
+- :status_date: 5/24/2022
   :certificate: Police Officer
   :level: Intermediate
-  :status: Lapsed
+  :status: Reactivate
   :certificate_date: 9/23/2008
   :expiration_date: ''
   :probation_date: ''
-- :status_date: 4/19/2021
+- :status_date: 5/24/2022
+  :certificate: Police Officer
+  :level: Management
+  :status: App Incmpl
+  :certificate_date: ''
+  :expiration_date: 7/24/2022
+  :probation_date: ''
+- :status_date: 5/24/2022
   :certificate: Police Officer
   :level: Supervisory
-  :status: Lapsed
+  :status: Reactivate
   :certificate_date: 12/17/2008
   :expiration_date: ''
   :probation_date: ''
 :training_records:
-- :date: 2/22/2023
-  :course: REQMGMT
-  :title: 'REQUIRED TRAINING:  Management'
-  :status: Required
+- :date: 5/17/2022
+  :course: 22-0028
+  :title: DPSST Middle Management F22 Equivalency
+  :status: Completed
   :score: '0.0'
   :hours: '0.00'
 - :date: 4/27/2022

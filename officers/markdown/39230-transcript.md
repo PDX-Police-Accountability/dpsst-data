@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/18/2022 | EGP12087 | Autism Spectrum Disorder/CIT | Passed | 0.0 | 1.00 |
 | 5/18/2022 | EGP26553 | Chief Briefing - Leadership | Passed | 0.0 | 0.75 |
+| 5/18/2022 | EGP01708 | Domestic Violence Update | Passed | 0.0 | 2.00 |
 | 4/20/2022 | EGP18592 | Rifle  Pistol Qualifications | Passed | 0.0 | 4.00 |
 | 3/23/2022 | EGP10114 | Mobile Response Team - Bicycle Training | Instructed | 0.0 | 8.00 |
 | 2/9/2022 | EGP20089 | Wildlife Training  Community Court Expansion | Passed | 0.0 | 1.00 |

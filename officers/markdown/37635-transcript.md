@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/18/2022 | EGP12087 | Autism Spectrum Disorder/CIT | Passed | 0.0 | 0.75 |
 | 5/18/2022 | EGP26553 | Chief Briefing - Leadership | Passed | 0.0 | 0.75 |
+| 5/18/2022 | EGP01708 | Domestic Violence Update | Passed | 0.0 | 2.00 |
 | 4/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/28/2022 | EGP26329 | Ladder Tactics/Firearms Skills/Linear Tactics | Passed | 0.0 | 9.00 |
 | 3/31/2022 | EGP12030 | Crisis Entry Skills/Explosive Breaches/HR Scenario | Passed | 0.0 | 10.00 |
