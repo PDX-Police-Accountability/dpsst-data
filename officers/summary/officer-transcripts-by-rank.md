@@ -354,7 +354,7 @@
 | Greenlee, Michael J. | 50623 | Portland Police Bureau | Active | Detective | [md](../markdown/50623-transcript.md) - [yaml](../yaml/50623-transcript.yml) |
 | Samora, Shaye L. | 51733 | Portland Police Bureau | Active | Detective | [md](../markdown/51733-transcript.md) - [yaml](../yaml/51733-transcript.yml) |
 | Harris, Benjamin D. | 52171 | Portland Police Bureau | Active | Detective | [md](../markdown/52171-transcript.md) - [yaml](../yaml/52171-transcript.yml) |
-| Sandler, Rachel V. | 52342 | Portland Police Bureau | Active | Detective | [md](../markdown/52342-transcript.md) - [yaml](../yaml/52342-transcript.yml) |
+| Baer, Rachel V. | 52342 | Portland Police Bureau | Active | Detective | [md](../markdown/52342-transcript.md) - [yaml](../yaml/52342-transcript.yml) |
 | McKay, RaeLynn D. | 52686 | Portland Police Bureau | Active | Detective | [md](../markdown/52686-transcript.md) - [yaml](../yaml/52686-transcript.yml) |
 | Bonczijk, Laurent L. | 52761 | Portland Police Bureau | Active | Detective | [md](../markdown/52761-transcript.md) - [yaml](../yaml/52761-transcript.yml) |
 | Marcum, Kyffin M. | 52778 | Portland Police Bureau | Active | Detective | [md](../markdown/52778-transcript.md) - [yaml](../yaml/52778-transcript.yml) |

@@ -614,7 +614,7 @@
 | Burns, Derald S. | 52316 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52316-transcript.md) - [yaml](../yaml/52316-transcript.yml) |
 | Duong, Quyen L. | 52318 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52318-transcript.md) - [yaml](../yaml/52318-transcript.yml) |
 | Westerlund, London A. | 52338 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52338-transcript.md) - [yaml](../yaml/52338-transcript.yml) |
-| Sandler, Rachel V. | 52342 | Portland Police Bureau | Active | Detective | [md](../markdown/52342-transcript.md) - [yaml](../yaml/52342-transcript.yml) |
+| Baer, Rachel V. | 52342 | Portland Police Bureau | Active | Detective | [md](../markdown/52342-transcript.md) - [yaml](../yaml/52342-transcript.yml) |
 | Youngberg, Amy M. | 52345 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52345-transcript.md) - [yaml](../yaml/52345-transcript.yml) |
 | Robert, Onest | 52367 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52367-transcript.md) - [yaml](../yaml/52367-transcript.yml) |
 | Baer, David M. | 52378 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52378-transcript.md) - [yaml](../yaml/52378-transcript.yml) |

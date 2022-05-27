@@ -68,6 +68,7 @@
 | Bacon, Timothy L. | 29352 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/29352-transcript.md) - [yaml](../yaml/29352-transcript.yml) |
 | Badri, Saud A. | 61896 | Portland Police Bureau | Active | Police Officer | [md](../markdown/61896-transcript.md) - [yaml](../yaml/61896-transcript.yml) |
 | Baer, David M. | 52378 | Portland Police Bureau | Active | Police Officer | [md](../markdown/52378-transcript.md) - [yaml](../yaml/52378-transcript.yml) |
+| Baer, Rachel V. | 52342 | Portland Police Bureau | Active | Detective | [md](../markdown/52342-transcript.md) - [yaml](../yaml/52342-transcript.yml) |
 | Baggs, Julie M. | 38178 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/38178-transcript.md) - [yaml](../yaml/38178-transcript.yml) |
 | Bailey, Richard D. | 55393 | Portland Police Bureau | Active | Police Officer | [md](../markdown/55393-transcript.md) - [yaml](../yaml/55393-transcript.yml) |
 | Bailey, Timothy R. | 42553 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/42553-transcript.md) - [yaml](../yaml/42553-transcript.yml) |
@@ -1218,7 +1219,6 @@
 | Salmestrelli, Eric O. | 57743 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/57743-transcript.md) - [yaml](../yaml/57743-transcript.yml) |
 | Samora, Shaye L. | 51733 | Portland Police Bureau | Active | Detective | [md](../markdown/51733-transcript.md) - [yaml](../yaml/51733-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |
-| Sandler, Rachel V. | 52342 | Portland Police Bureau | Active | Detective | [md](../markdown/52342-transcript.md) - [yaml](../yaml/52342-transcript.yml) |
 | Sandvik, James E. | 36242 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/36242-transcript.md) - [yaml](../yaml/36242-transcript.yml) |
 | Santos, Christian G. | 58262 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58262-transcript.md) - [yaml](../yaml/58262-transcript.yml) |
 | Santos, Joseph P. | 29573 | Portland Police Bureau | Active | Sergeant | [md](../markdown/29573-transcript.md) - [yaml](../yaml/29573-transcript.yml) |
