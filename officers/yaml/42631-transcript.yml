@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/20/2022
+  :course: MFS30888
+  :title: EVOC / PIT, Spikes, Blocking, Stops, Radio, Cones
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/24/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

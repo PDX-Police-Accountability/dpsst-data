@@ -1526,7 +1526,7 @@
 | Hefley, Kyle C. | 50837 | Portland Police Bureau | Active | Sergeant | [md](../markdown/50837-transcript.md) - [yaml](../yaml/50837-transcript.yml) |
 | Jacobsen, Matthew B. | 50933 | Portland Police Bureau | Active | Sergeant | [md](../markdown/50933-transcript.md) - [yaml](../yaml/50933-transcript.yml) |
 | Moore, Gregory M. | 51791 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51791-transcript.md) - [yaml](../yaml/51791-transcript.yml) |
-| Damerville, Justin D. | 51797 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
+| Damerville, Justin D. | 51797 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
 | Jenson, Andrew S. | 51804 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51804-transcript.md) - [yaml](../yaml/51804-transcript.yml) |
 | Speer, Adam M. | 51964 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51964-transcript.md) - [yaml](../yaml/51964-transcript.yml) |
 | Konczal, Scott W. | 52013 | Portland Police Bureau | Active | Sergeant | [md](../markdown/52013-transcript.md) - [yaml](../yaml/52013-transcript.yml) |

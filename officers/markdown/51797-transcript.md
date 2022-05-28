@@ -4,7 +4,7 @@
 | name | Damerville, Justin D. |
 | dpsst_identifier | 51797 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/18/2022 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 4/11/2019 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 3/24/2011 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/14/2012 | Police Officer | Basic | Granted | 8/14/2012 |  |  |
+| 8/14/2012 | Police Officer | Basic | Granted | 8/14/2012 | 8/18/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

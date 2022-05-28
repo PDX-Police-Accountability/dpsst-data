@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Passed | 0.0 | 40.00 |
 | 4/28/2022 | TUP34147 | EVOC | Passed | 0.0 | 7.00 |
 | 4/28/2022 | TUP16481 | High Risk Traffic Stops | Passed | 0.0 | 1.00 |
 | 4/6/2022 | TGP32402 | Barricaded Suspects in Vehicles | Passed | 0.0 | 1.25 |

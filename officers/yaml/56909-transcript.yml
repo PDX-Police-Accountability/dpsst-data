@@ -28,6 +28,13 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 5/26/2022
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 5/26/2022
+  :expiration_date: ''
+  :probation_date: ''
 - :status_date: 10/23/2017
   :certificate: Police Officer
   :level: Basic
@@ -1866,8 +1873,8 @@
   :effective_date: 10/12/2017
   :expiration_date: ''
 :education_records:
-- :date: 12/15/2015
+- :date: 3/15/2016
   :degree: No Degree
   :school: All Other Education Institutes
   :major: ''
-  :hours: '43.0'
+  :hours: '47.0'

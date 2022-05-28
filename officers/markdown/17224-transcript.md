@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Passed | 0.0 | 3.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/9/2022 | HSU28325 | Firearms Spring In-Service 2022 | Instructed | 0.0 | 4.00 |
 | 4/8/2022 | HSU11147 | CPR Spring In-Service 2022 | Passed | 0.0 | 4.00 |

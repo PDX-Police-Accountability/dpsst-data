@@ -1108,7 +1108,7 @@
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |
 | Haase, Brandon D. | 51795 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
 | Valadez, Alfonso, Jr. | 51796 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51796-transcript.md) - [yaml](../yaml/51796-transcript.yml) |
-| Damerville, Justin D. | 51797 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
+| Damerville, Justin D. | 51797 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
 | Jenson, Andrew S. | 51804 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51804-transcript.md) - [yaml](../yaml/51804-transcript.yml) |
 | Martley, Heather L. | 51830 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51830-transcript.md) - [yaml](../yaml/51830-transcript.yml) |
 | Winkel, Jordan B. | 51850 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51850-transcript.md) - [yaml](../yaml/51850-transcript.yml) |

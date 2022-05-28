@@ -68,6 +68,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/13/2022
+  :course: TGP29734
+  :title: Patrol Rifle Operator Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 4/28/2022
   :course: TUP34147
   :title: EVOC

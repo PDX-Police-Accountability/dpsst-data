@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/11/2022 | ICE15251 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 3.00 |
+| 3/28/2022 | ICE18493 | Annual Taser Certification | Passed | 0.0 | 1.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6R03814 | Advanced Leadership for a Police Reform Era | Passed | 0.0 | 4.00 |
 | 1/12/2022 | F6R31183 | Crowd Violence/Preventing Targeted Violence | Passed | 0.0 | 4.00 |

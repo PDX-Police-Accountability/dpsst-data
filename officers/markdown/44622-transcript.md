@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2022 | OSH16383 | De-Escalation/Verbal Judo | Passed | 0.0 | 1.50 |
+| 5/12/2022 | OSH21012 | De-Escalation of People in Crisis | Passed | 0.0 | 1.50 |
+| 5/12/2022 | OSH27382 | PL 280 | Passed | 0.0 | 4.00 |
+| 5/11/2022 | OSH06575 | Resilience Training | Passed | 0.0 | 8.00 |
+| 5/10/2022 | OSH14882 | Police Accountability  Legal Updates | Passed | 0.0 | 8.00 |
 | 5/1/2022 | F1523729 | Patrol Tactics | Passed | 0.0 | 8.00 |
 | 4/23/2022 | F1527235 | Active Shooter | Passed | 0.0 | 8.00 |
 | 4/10/2022 | F1527235 | Active Shooter | Passed | 0.0 | 8.00 |

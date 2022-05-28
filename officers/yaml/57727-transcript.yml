@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/8/2022
+  :course: PDP44401
+  :title: Advanced De-Escalation/Prevention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
 - :date: 4/6/2022
   :course: BPT29579
   :title: Advanced De-Escalation and Escalation Prevention

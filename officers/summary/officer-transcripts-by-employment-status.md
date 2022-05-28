@@ -596,7 +596,6 @@
 | Moore, Gregory M. | 51791 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51791-transcript.md) - [yaml](../yaml/51791-transcript.yml) |
 | Pavon, Lino | 51792 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51792-transcript.md) - [yaml](../yaml/51792-transcript.yml) |
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |
-| Damerville, Justin D. | 51797 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
 | Jenson, Andrew S. | 51804 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51804-transcript.md) - [yaml](../yaml/51804-transcript.yml) |
 | Martley, Heather L. | 51830 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51830-transcript.md) - [yaml](../yaml/51830-transcript.yml) |
 | Winkel, Jordan B. | 51850 | Portland Police Bureau | Active | Police Officer | [md](../markdown/51850-transcript.md) - [yaml](../yaml/51850-transcript.yml) |
@@ -1404,6 +1403,7 @@
 | Jackson, Jakhary J. | 51727 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51727-transcript.md) - [yaml](../yaml/51727-transcript.yml) |
 | Haase, Brandon D. | 51795 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51795-transcript.md) - [yaml](../yaml/51795-transcript.yml) |
 | Valadez, Alfonso, Jr. | 51796 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51796-transcript.md) - [yaml](../yaml/51796-transcript.yml) |
+| Damerville, Justin D. | 51797 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
 | Simmons, Nathan C. | 51897 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/51897-transcript.md) - [yaml](../yaml/51897-transcript.yml) |
 | Temple, Elise K. | 52043 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/52043-transcript.md) - [yaml](../yaml/52043-transcript.yml) |
 | Klauzer, Leland T. | 52113 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/52113-transcript.md) - [yaml](../yaml/52113-transcript.yml) |

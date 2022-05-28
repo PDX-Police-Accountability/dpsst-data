@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: 3/13/2023
 :training_records:
+- :date: 5/22/2022
+  :course: HSU03285
+  :title: May 2022 Supplemental Range
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 4/4/2022
   :course: HSU11147
   :title: CPR Spring In-Service 2022

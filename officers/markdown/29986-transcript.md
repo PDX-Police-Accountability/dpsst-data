@@ -33,7 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2021 | BNS13970 | Legal Update, section number 001 | Passed | 0.0 | 0.50 |
 | 7/17/2021 | F6E37680 | Pistol Training / Handgun Qual. | Passed | 0.0 | 2.00 |
+| 6/28/2021 | BNS10133 | Keeping the Super Heroes Super Webinar | Passed | 0.0 | 1.50 |
+| 6/28/2021 | BNS13290 | COVID, Crisis and Consequences | Passed | 0.0 | 1.50 |
 | 5/7/2021 | F6R28606 | 2021 Oregon State Marine Board LE Academy | Passed | 0.0 | 72.00 |
 | 3/10/2021 | BNS27477 | Fire Evacuation / Behavior | Passed | 0.0 | 1.00 |
 | 3/10/2021 | BNS23034 | UOF | Passed | 0.0 | 4.00 |

@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Instructed | 0.0 | 3.00 |
+| 5/6/2022 | PDP07172 | New Hire (pre DPSST) Firearms Training | Instructed | 0.0 | 7.00 |
 | 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Instructed | 0.0 | 4.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Instructed | 0.0 | 5.00 |
 | 4/15/2022 | HSU13774 | Pre Academy Firearms 9 | Instructed | 0.0 | 4.00 |

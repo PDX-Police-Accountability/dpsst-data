@@ -45,6 +45,7 @@
 | 2/13/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 2/13/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/13/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/7/2022 | PDP01628 | 2022 Return to Work Firearms Training | Passed | 0.0 | 1.50 |
 | 1/11/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/26/2021 | PDP10243 | 2021 Online Crowd Control - CAO Part 2 | Passed | 0.0 | 1.00 |

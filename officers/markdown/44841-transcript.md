@@ -42,6 +42,7 @@
 | 3/17/2022 | LOP15638 | Defensive Tactics High Risk Handcuffing | Passed | 0.0 | 2.00 |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/2/2022 | LOP33179 | Police Officer Hold, Designee Holds  More | Passed | 0.0 | 0.50 |
+| 1/18/2022 | LOP42618 | Firearms Training | Passed | 0.0 | 4.00 |
 | 1/15/2022 | LOP21345 | I Love U Guys Standard Response Protocol | Passed | 0.0 | 1.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2021 | LOP18537 | DTs Handcuffing Review | Passed | 0.0 | 0.75 |
@@ -56,6 +57,7 @@
 | 10/8/2021 | LOP01894 | Firearms Training | Passed | 0.0 | 4.00 |
 | 9/7/2021 | LOP08366 | Custodial Searches | Passed | 0.0 | 0.50 |
 | 8/18/2021 | LOP19381 | House Bills 3115  3124 | Passed | 0.0 | 0.50 |
+| 8/17/2021 | LOP09025 | Blood Borne Pathogens | Passed | 0.0 | 0.50 |
 | 8/3/2021 | LOP33899 | OSHA Temporary Rule - Heat Exposure | Passed | 0.0 | 1.50 |
 | 8/2/2021 | LOP36419 | Springtime SQLite Survival Series Part III | Passed | 0.0 | 1.00 |
 | 6/21/2021 | LOP40818 | Vehicle Stops Training | Passed | 0.0 | 4.00 |

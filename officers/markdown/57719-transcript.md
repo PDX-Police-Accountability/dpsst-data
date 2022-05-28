@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2022 | VND02238 | Oregon State Marine Board PWC Operations Course | Passed | 0.0 | 72.00 |
 | 4/14/2022 | VND17038 | ATV Laws  Rules Classroom  Field Excercises | Passed | 0.0 | 20.00 |
 | 4/1/2022 | BNS06192 | Intro to K9 | Passed | 0.0 | 2.00 |
 | 4/1/2022 | BNS42739 | Workplace relationships | Passed | 0.0 | 2.00 |

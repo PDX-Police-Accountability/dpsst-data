@@ -54,6 +54,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/17/2022
+  :course: HRS22037
+  :title: Defensive Tactics
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/31/2022
   :course: HRS25974
   :title: 2022 Airways Training Video - Patient Evaluation

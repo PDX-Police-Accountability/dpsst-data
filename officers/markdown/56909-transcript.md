@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/26/2022 | Police Officer | Intermediate | Granted | 5/26/2022 |  |  |
 | 10/23/2017 | Police Officer | Basic | Granted | 10/23/2017 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -29,7 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2015 | No Degree | All Other Education Institutes |  | 43.0 |
+| 3/15/2016 | No Degree | All Other Education Institutes |  | 47.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

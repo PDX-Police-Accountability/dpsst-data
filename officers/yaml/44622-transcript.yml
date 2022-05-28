@@ -62,6 +62,36 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/12/2022
+  :course: OSH16383
+  :title: De-Escalation/Verbal Judo
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/12/2022
+  :course: OSH21012
+  :title: De-Escalation of People in Crisis
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 5/12/2022
+  :course: OSH27382
+  :title: PL 280
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/11/2022
+  :course: OSH06575
+  :title: Resilience Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/10/2022
+  :course: OSH14882
+  :title: Police Accountability  Legal Updates
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 5/1/2022
   :course: F1523729
   :title: Patrol Tactics

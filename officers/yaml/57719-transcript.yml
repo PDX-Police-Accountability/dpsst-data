@@ -37,6 +37,12 @@
   :expiration_date: 5/5/2026
   :probation_date: ''
 :training_records:
+- :date: 5/7/2022
+  :course: VND02238
+  :title: Oregon State Marine Board PWC Operations Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '72.00'
 - :date: 4/14/2022
   :course: VND17038
   :title: ATV Laws  Rules Classroom  Field Excercises

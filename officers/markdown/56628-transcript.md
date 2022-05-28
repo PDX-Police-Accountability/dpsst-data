@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/26/2022 | Police Officer | Intermediate | Granted | 5/26/2022 |  |  |
 | 11/3/2017 | Police Officer | Basic | Granted | 11/3/2017 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,7 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2012 | No Degree | Portland State University | Social Work | 28.0 |
+| 6/16/2013 | Masters in Social Work | Portland State University | Social Work | 60.0 |
 | 12/15/2010 | No Degree | All Other Education Institutes |  | 12.0 |
 | 6/13/2008 | Bachelor Arts | All Other Education Institutes | Sociology | 180.0 |
 ## Training

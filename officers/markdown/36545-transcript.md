@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2022 | 19562 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
+| 5/19/2022 | VND37030 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 4/27/2022 | HBP24552 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 4/5/2022 | HBP11048 | MHRT Investigations and Update | Passed | 0.0 | 3.00 |
 | 3/30/2022 | HBP15077 | Patrol Tactics for Code Compliance | Passed | 0.0 | 4.00 |

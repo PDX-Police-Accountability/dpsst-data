@@ -58,6 +58,7 @@
 | 10/12/2021 | LOP31272 | Karly's Law, Age Appropriate Interviewing | Passed | 0.0 | 1.00 |
 | 10/8/2021 | LOP01894 | Firearms Training | Passed | 0.0 | 4.00 |
 | 8/24/2021 | F6E12830 | Domestic Terrorism and Hate Groups | Passed | 0.0 | 8.00 |
+| 8/24/2021 | LOP09025 | Blood Borne Pathogens | Passed | 0.0 | 0.50 |
 | 8/19/2021 | LOP08366 | Custodial Searches | Passed | 0.0 | 0.50 |
 | 7/28/2021 | LOP33899 | OSHA Temporary Rule - Heat Exposure | Passed | 0.0 | 1.50 |
 | 7/28/2021 | LOP19381 | House Bills 3115  3124 | Passed | 0.0 | 0.50 |

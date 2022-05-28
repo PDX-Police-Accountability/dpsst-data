@@ -74,6 +74,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/6/2022
+  :course: PDP10996
+  :title: Idaho Police Canine Assn Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 4/20/2022
   :course: PDP40995
   :title: K-9 weekly (searches,OPCA standards, etc.)

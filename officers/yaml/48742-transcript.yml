@@ -57,6 +57,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/19/2022
+  :course: '19562'
+  :title: 1st Annual OR Cold Case Inv Assn Conf
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
+- :date: 5/19/2022
+  :course: VND37030
+  :title: 1st Annual OR Cold Case Inv Assn Conf
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 4/1/2022
   :course: PDP12987
   :title: Basic Homicide Investigation (WHIA)

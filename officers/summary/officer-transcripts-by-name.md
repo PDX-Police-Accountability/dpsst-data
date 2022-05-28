@@ -303,7 +303,7 @@
 | Dale, Brian J. | 23726 | Portland Police Bureau | Active | Detective | [md](../markdown/23726-transcript.md) - [yaml](../yaml/23726-transcript.yml) |
 | Dale, Damien T. | 58314 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58314-transcript.md) - [yaml](../yaml/58314-transcript.yml) |
 | Daley, Derrick D. | 60450 | Portland Police Bureau | Active | Police Officer | [md](../markdown/60450-transcript.md) - [yaml](../yaml/60450-transcript.yml) |
-| Damerville, Justin D. | 51797 | Portland Police Bureau | Active | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
+| Damerville, Justin D. | 51797 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/51797-transcript.md) - [yaml](../yaml/51797-transcript.yml) |
 | Daniels, Erik D. | 37138 | Portland Police Bureau | Active | Police Officer | [md](../markdown/37138-transcript.md) - [yaml](../yaml/37138-transcript.yml) |
 | Danielson, Nichol M. | 60894 | Portland Police Bureau | Active | Police Officer | [md](../markdown/60894-transcript.md) - [yaml](../yaml/60894-transcript.yml) |
 | Darby, James P. | 32384 | Portland Police Bureau | Active | Sergeant | [md](../markdown/32384-transcript.md) - [yaml](../yaml/32384-transcript.yml) |

@@ -88,6 +88,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/13/2022
+  :course: MKL42754
+  :title: NEO - Interagency Relationships
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.50'
 - :date: 3/11/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification

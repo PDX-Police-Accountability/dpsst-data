@@ -80,6 +80,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 1/18/2022
+  :course: LOP42618
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 1/15/2022
   :course: LOP21345
   :title: I Love U Guys Standard Response Protocol
@@ -161,6 +167,12 @@
 - :date: 8/18/2021
   :course: LOP19381
   :title: House Bills 3115  3124
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 8/17/2021
+  :course: LOP09025
+  :title: Blood Borne Pathogens
   :status: Passed
   :score: '0.0'
   :hours: '0.50'

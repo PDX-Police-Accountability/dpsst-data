@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2022 | HRS18467 | Defensive Tactics | Instructed | 0.0 | 3.00 |
+| 5/17/2022 | HRS22037 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 4/26/2022 | HRS04075 | Basic First Aid/CPR  AED for Adult/Child/Infant | Passed | 0.0 | 4.00 |
 | 4/14/2022 | REG43884 | Field Training and Evluation Program | Passed | 0.0 | 24.00 |
 | 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |

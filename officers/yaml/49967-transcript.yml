@@ -35,6 +35,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 4/22/2022
+  :course: MNP32496
+  :title: Trauma First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 4/15/2022
+  :course: MNP18880
+  :title: Airway and Circulatory Crisis Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 4/15/2022
+  :course: MNP18911
+  :title: First Aid / CPR Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 11/30/2021
   :course: MNP31303
   :title: Taser Annual Recertification

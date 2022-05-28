@@ -43,6 +43,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/24/2022
+  :course: PDP08940
+  :title: K9 Bite Development Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 3/20/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

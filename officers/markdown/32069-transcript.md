@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2022 | REG11074 | Limb control and weapon retention standing, ground | Passed | 0.0 | 1.00 |
 | 5/19/2022 | REG33517 | DT Strike defense, 2 officer ground contol | Passed | 0.0 | 1.00 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
 | 5/12/2022 | REG27497 | DT Lead arm control | Passed | 0.0 | 1.00 |

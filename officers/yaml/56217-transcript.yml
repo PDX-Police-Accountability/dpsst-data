@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/21/2022
+  :course: PDP18311
+  :title: Emotional Survival for Female Enforcers
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 4/1/2022
   :course: PDP12987
   :title: Basic Homicide Investigation (WHIA)

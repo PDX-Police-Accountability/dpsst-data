@@ -32,6 +32,7 @@
 | 5/12/2022 | PDP07838 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/12/2022 | PDP02880 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 5/10/2022 | PDP20915 | Policy and Procedure Training | Passed | 0.0 | 7.00 |
+| 5/6/2022 | PDP07172 | New Hire (pre DPSST) Firearms Training | Passed | 0.0 | 7.00 |
 | 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Passed | 0.0 | 5.00 |
 | 3/28/2022 | PDP08855 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |

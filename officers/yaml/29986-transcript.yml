@@ -57,12 +57,30 @@
   :expiration_date: 8/13/2025
   :probation_date: ''
 :training_records:
+- :date: 10/27/2021
+  :course: BNS13970
+  :title: Legal Update, section number 001
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 7/17/2021
   :course: F6E37680
   :title: Pistol Training / Handgun Qual.
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
+- :date: 6/28/2021
+  :course: BNS10133
+  :title: Keeping the Super Heroes Super Webinar
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
+- :date: 6/28/2021
+  :course: BNS13290
+  :title: COVID, Crisis and Consequences
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
 - :date: 5/7/2021
   :course: F6R28606
   :title: 2021 Oregon State Marine Board LE Academy

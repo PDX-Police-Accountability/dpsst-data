@@ -16,6 +16,13 @@
   :classification: ''
   :assignment: ''
 :certification_records:
+- :status_date: 5/26/2022
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Granted
+  :certificate_date: 5/26/2022
+  :expiration_date: ''
+  :probation_date: ''
 - :status_date: 11/3/2017
   :certificate: Police Officer
   :level: Basic
@@ -1882,11 +1889,11 @@
   :effective_date: 11/6/2016
   :expiration_date: ''
 :education_records:
-- :date: 12/15/2012
-  :degree: No Degree
+- :date: 6/16/2013
+  :degree: Masters in Social Work
   :school: Portland State University
   :major: Social Work
-  :hours: '28.0'
+  :hours: '60.0'
 - :date: 12/15/2010
   :degree: No Degree
   :school: All Other Education Institutes

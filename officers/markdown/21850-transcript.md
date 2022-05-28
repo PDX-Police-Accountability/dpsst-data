@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/11/2022 | HUP33125 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
+| 4/30/2022 | SMP00099 | Interacting with Mentally Ill as 1st Responder | Passed | 0.0 | 1.00 |
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 1.00 |
 | 3/9/2022 | HUP14053 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |

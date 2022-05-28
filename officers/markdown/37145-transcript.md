@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2022 | PDP07172 | New Hire (pre DPSST) Firearms Training | Instructed | 0.0 | 7.00 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/10/2022 | PDP27897 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |
 | 3/8/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

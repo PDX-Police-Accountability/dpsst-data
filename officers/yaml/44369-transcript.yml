@@ -105,6 +105,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/23/2022
+  :course: STP40793
+  :title: Firearms Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/27/2022
   :course: SMP39708
   :title: Property  Evidence Management
