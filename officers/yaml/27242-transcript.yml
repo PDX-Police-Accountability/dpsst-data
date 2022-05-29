@@ -101,12 +101,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/18/2022
+  :course: F1519773
+  :title: One Chiefs Experience Leading NYPD
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 5/11/2022
   :course: ICE15251
   :title: Tactical Combat Casualty Care (TCCC)
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 3/29/2022
+  :course: ICE11766
+  :title: Firearms
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/28/2022
   :course: ICE18493
   :title: Annual Taser Certification

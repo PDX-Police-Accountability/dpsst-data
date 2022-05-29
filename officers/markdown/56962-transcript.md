@@ -41,6 +41,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Pending | 0.0 | 200.00 |
 | 5/13/2022 | VND12621 | Crisis Intervention Team Training |  | 0.0 | 40.00 |
+| 5/5/2022 | HBN17781 | Motivational Interviewing | Passed | 0.0 | 4.00 |
+| 5/5/2022 | HBN10969 | Building Effective Behavior Change Plans | Passed | 0.0 | 4.00 |
+| 4/26/2022 | HBN36648 | Officer Safety / Field Work Training and Scenarios | Passed | 0.0 | 6.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/27/2022 | HBS13011 | First Aid | Passed | 0.0 | 2.50 |
 | 1/26/2022 | HBS14727 | Use of Force Updates | Passed | 0.0 | 1.50 |

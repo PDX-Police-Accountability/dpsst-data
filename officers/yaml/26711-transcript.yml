@@ -106,6 +106,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/6/2022
+  :course: HBP32929
+  :title: Officer Rescue
+  :status: Passed
+  :score: '0.0'
+  :hours: '5.00'
+- :date: 4/6/2022
+  :course: HBP01727
+  :title: OIS Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/30/2022
   :course: HBP15013
   :title: ARREST AND CONTROL

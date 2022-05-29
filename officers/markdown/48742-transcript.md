@@ -42,7 +42,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/19/2022 | 19562 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 5/19/2022 | VND37030 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 4/1/2022 | PDP12987 | Basic Homicide Investigation (WHIA) | Passed | 0.0 | 40.00 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

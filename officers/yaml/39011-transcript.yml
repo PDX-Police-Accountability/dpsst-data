@@ -44,6 +44,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/12/2022
+  :course: PDP28562
+  :title: OR Child Forensic Interview Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '32.00'
 - :date: 3/7/2022
   :course: PDP25308
   :title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community

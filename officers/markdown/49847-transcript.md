@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/2/2022 | PDP17244 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
+| 5/20/2022 | PDP42697 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
+| 5/6/2022 | PDP06954 | Comprehensive Latent Print Comparison | Passed | 0.0 | 40.00 |
 | 3/25/2022 | ALS34679 | Bloodstain Pattern Analysis I | Passed | 0.0 | 40.00 |
 | 3/17/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

@@ -74,6 +74,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/25/2022
+  :course: MMP29448
+  :title: Firearms Qualifications
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 4/27/2022
   :course: MMP27925
   :title: Inservice Officer Wellness / Legal Updates

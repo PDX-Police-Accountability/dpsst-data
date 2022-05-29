@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2022 | HBP32929 | Officer Rescue | Passed | 0.0 | 5.00 |
+| 4/6/2022 | HBP01727 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/30/2022 | HBP15013 | ARREST AND CONTROL | Passed | 0.0 | 1.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 2/2/2022 | HBP13260 | Advanced Vehicle Stops | Passed | 0.0 | 2.00 |

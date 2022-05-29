@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 4/27/2022 | HBP35895 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/30/2022 | HBP27525 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 2/2/2022 | HBP13260 | Advanced Vehicle Stops | Passed | 0.0 | 2.00 |
 | 12/8/2021 | HBP13811 | SFST Refresher | Passed | 0.0 | 4.00 |

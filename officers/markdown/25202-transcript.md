@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/11/2022 | PDS05111 | Civil Process | Passed | 0.0 | 1.00 |
 | 3/1/2022 | LOP36286 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/10/2022 | PDS05076 | Firearms Training | Passed | 0.0 | 8.00 |
 | 1/10/2022 | PDS29388 | Range Qualification | Passed | 0.0 | 2.00 |

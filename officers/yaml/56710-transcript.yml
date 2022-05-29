@@ -151,6 +151,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 1/11/2022
+  :course: HBS35498
+  :title: First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.50'
 - :date: 1/10/2022
   :course: REG43898
   :title: Defensive Tactics
@@ -998,6 +1004,10 @@
   :score: '0.0'
   :hours: '0.50'
 :attribute_records:
+- :topic: Certification Cards
+  :value: First Aid
+  :effective_date: 1/11/2022
+  :expiration_date: 1/11/2024
 - :topic: Maintenance Requirements
   :value: LE Annual
   :effective_date: 1/1/2022

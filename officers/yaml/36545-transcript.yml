@@ -63,12 +63,6 @@
   :probation_date: ''
 :training_records:
 - :date: 5/19/2022
-  :course: '19562'
-  :title: 1st Annual OR Cold Case Inv Assn Conf
-  :status: Passed
-  :score: '0.0'
-  :hours: '8.00'
-- :date: 5/19/2022
   :course: VND37030
   :title: 1st Annual OR Cold Case Inv Assn Conf
   :status: Passed
@@ -80,6 +74,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
+- :date: 4/26/2022
+  :course: HBP39625
+  :title: Cellebrite 101
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
+- :date: 4/6/2022
+  :course: HBP01727
+  :title: OIS Investigations
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/5/2022
   :course: HBP11048
   :title: MHRT Investigations and Update

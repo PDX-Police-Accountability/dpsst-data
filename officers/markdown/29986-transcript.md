@@ -34,6 +34,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2021 | BNS13970 | Legal Update, section number 001 | Passed | 0.0 | 0.50 |
+| 10/20/2021 | BNS23655 | 2021 Bloodborne Pathogens | Passed | 0.0 | 0.50 |
+| 8/16/2021 | BNS28780 | 2021 OSHA Wildfire Smoke Safety | Passed | 0.0 | 0.50 |
 | 7/17/2021 | F6E37680 | Pistol Training / Handgun Qual. | Passed | 0.0 | 2.00 |
 | 6/28/2021 | BNS10133 | Keeping the Super Heroes Super Webinar | Passed | 0.0 | 1.50 |
 | 6/28/2021 | BNS13290 | COVID, Crisis and Consequences | Passed | 0.0 | 1.50 |

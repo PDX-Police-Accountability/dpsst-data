@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
@@ -52,6 +53,7 @@
 | 1/31/2022 | REG10075 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/11/2022 | HBS35774 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
+| 1/11/2022 | HBS35498 | First Aid | Passed | 0.0 | 2.50 |
 | 1/10/2022 | REG43898 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/23/2021 | REG21880 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/22/2021 | HBS20005 | Active Threat | Passed | 0.0 | 9.50 |

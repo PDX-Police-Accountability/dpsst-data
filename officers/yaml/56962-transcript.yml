@@ -61,6 +61,24 @@
   :status: ''
   :score: '0.0'
   :hours: '40.00'
+- :date: 5/5/2022
+  :course: HBN17781
+  :title: Motivational Interviewing
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/5/2022
+  :course: HBN10969
+  :title: Building Effective Behavior Change Plans
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 4/26/2022
+  :course: HBN36648
+  :title: Officer Safety / Field Work Training and Scenarios
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
 - :date: 1/29/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

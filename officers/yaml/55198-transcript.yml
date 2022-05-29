@@ -31,6 +31,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/22/2022
+  :course: PDP41122
+  :title: DUII  DRE/DECP Training Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
 - :date: 3/17/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

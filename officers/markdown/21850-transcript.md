@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/11/2022 | HUP33125 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
+| 5/10/2022 | SMP29046 | Quarterly Firearms Qualification | Passed | 0.0 | 2.00 |
 | 4/30/2022 | SMP00099 | Interacting with Mentally Ill as 1st Responder | Passed | 0.0 | 1.00 |
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 1.00 |
 | 3/9/2022 | HUP14053 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
@@ -61,6 +62,7 @@
 | 9/24/2021 | SMP35807 | Quarterly Defensive Tactics | Passed | 0.0 | 1.00 |
 | 9/8/2021 | HUP32931 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 8/11/2021 | HUP40627 | Marion County MDT/SRO Updates | Passed | 0.0 | 0.50 |
+| 7/29/2021 | SMP32686 | Procedural Justice Training | Passed | 0.0 | 4.00 |
 | 7/23/2021 | SMP17913 | SMIP: Diversity in Contemporary Law Enforcement | Passed | 0.0 | 8.00 |
 | 7/23/2021 | SMP14180 | SMIP: Ethics in Law Enforcement Leadership | Passed | 0.0 | 8.00 |
 | 7/23/2021 | SMP00854 | SMIP: Exposure to ICAT | Passed | 0.0 | 4.00 |

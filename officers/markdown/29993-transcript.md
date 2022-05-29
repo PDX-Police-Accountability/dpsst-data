@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2022 | HBP33308 | Officer Rescue | Passed | 0.0 | 5.00 |
+| 4/20/2022 | HBP34473 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 2/16/2022 | HBP24582 | Advanced Vehicle Stops | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

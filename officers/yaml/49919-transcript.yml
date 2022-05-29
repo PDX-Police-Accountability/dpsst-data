@@ -55,6 +55,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/27/2022
+  :course: HBP35895
+  :title: OIS Investigations
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 3/30/2022
   :course: HBP15013
   :title: ARREST AND CONTROL

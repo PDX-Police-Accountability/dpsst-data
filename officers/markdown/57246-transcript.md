@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2022 | HBN32368 | Officer Safety / Field Work Training and Scenarios | Passed | 0.0 | 6.00 |
 | 4/5/2022 | HBN16106 | Women's Risk Need Assessment (WRNA) | Instructed | 0.0 | 16.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2021 | HBN27172 | Use of Force, Survival Skills and Scenarios | Passed | 0.0 | 4.00 |

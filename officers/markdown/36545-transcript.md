@@ -37,9 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/19/2022 | 19562 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 5/19/2022 | VND37030 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 4/27/2022 | HBP24552 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
+| 4/26/2022 | HBP39625 | Cellebrite 101 | Passed | 0.0 | 6.00 |
+| 4/6/2022 | HBP01727 | OIS Investigations | Instructed | 0.0 | 4.00 |
 | 4/5/2022 | HBP11048 | MHRT Investigations and Update | Passed | 0.0 | 3.00 |
 | 3/30/2022 | HBP15077 | Patrol Tactics for Code Compliance | Passed | 0.0 | 4.00 |
 | 12/14/2021 | F6E27445 | Detective Tactical Training | Passed | 0.0 | 4.00 |

@@ -321,6 +321,7 @@
 | 10/6/2018 | PDP21953 | City Attorney's Legal Updates | Passed | 0.0 | 0.25 |
 | 9/25/2018 | PDP39263 | 2018-1 Operator In-Service Training | Passed | 0.0 | 9.00 |
 | 9/25/2018 | PDP23173 | 2018-3 Range Qualification Colt AR-15 Rifle(100yd) | Passed | 0.0 | 0.50 |
+| 9/14/2018 | PDP35222 | FBI National Academy Class 273 | Passed | 0.0 | 425.00 |
 | 9/9/2018 | PDP26970 | Tips and Techniques Shooting though Barriers | Passed | 0.0 | 0.25 |
 | 9/9/2018 | PDP27651 | 2018 ITD MDC Console Replacement Videos-GetacV110 | Passed | 0.0 | 0.75 |
 | 7/30/2018 | PDP33173 | SSD Stops Application | Passed | 0.0 | 0.50 |

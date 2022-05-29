@@ -42,6 +42,12 @@
   :expiration_date: 7/8/2022
   :probation_date: ''
 :training_records:
+- :date: 4/27/2022
+  :course: HBN34087
+  :title: Officer Safety / Field Work Training and Scenarios
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
 - :date: 11/30/2021
   :course: F6K04474
   :title: Third Trimester Firearms

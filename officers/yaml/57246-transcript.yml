@@ -43,6 +43,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/29/2022
+  :course: HBN32368
+  :title: Officer Safety / Field Work Training and Scenarios
+  :status: Passed
+  :score: '0.0'
+  :hours: '6.00'
 - :date: 4/5/2022
   :course: HBN16106
   :title: Women's Risk Need Assessment (WRNA)

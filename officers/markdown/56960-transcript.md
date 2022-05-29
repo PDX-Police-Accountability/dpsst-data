@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2022 | HBN34087 | Officer Safety / Field Work Training and Scenarios | Passed | 0.0 | 6.00 |
 | 11/30/2021 | F6K04474 | Third Trimester Firearms | Passed | 0.0 | 4.00 |
 | 11/12/2021 | F6K09687 | The Reid Tchnq of Invstgtv Intrvwng Advcd Intrgtn | Passed | 0.0 | 30.00 |
 | 9/23/2021 | F6F39676 | Taser Annual Recertifications | Instructed | 0.0 | 4.00 |

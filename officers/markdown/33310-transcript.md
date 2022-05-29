@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2022 | MMP29448 | Firearms Qualifications | Passed | 0.0 | 3.00 |
 | 4/27/2022 | MMP27925 | Inservice Officer Wellness / Legal Updates | Passed | 0.0 | 1.00 |
 | 3/14/2022 | MMP08858 | Fair and Impartial Policing | Passed | 0.0 | 6.00 |
 | 3/14/2022 | MMP05429 | Blood Bourne Pathogens | Passed | 0.0 | 1.00 |
