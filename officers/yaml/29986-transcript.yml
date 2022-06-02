@@ -93,12 +93,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.50'
+- :date: 6/9/2021
+  :course: BNS24623
+  :title: Heat Related Injury Prevention
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 5/7/2021
   :course: F6R28606
   :title: 2021 Oregon State Marine Board LE Academy
   :status: Passed
   :score: '0.0'
   :hours: '72.00'
+- :date: 4/5/2021
+  :course: BNS04756
+  :title: Recognizing and Managing Abnormal Breathing
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/10/2021
   :course: BNS27477
   :title: Fire Evacuation / Behavior

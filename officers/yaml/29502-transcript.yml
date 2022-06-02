@@ -63,6 +63,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/13/2022
+  :course: FGP20462
+  :title: NAMOA Motorcycle Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 3/9/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -555,12 +561,6 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.75'
-- :date: 3/23/2021
-  :course: XDELETE
-  :title: Pending for Deletion Due to Duplicate or Other Rea
-  :status: Passed
-  :score: '0.0'
-  :hours: '0.25'
 - :date: 3/23/2021
   :course: PDP24601
   :title: 2021 Equity Training Series - Preparation

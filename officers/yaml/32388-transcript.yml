@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/26/2022
+  :course: HBS04306
+  :title: Tactical Casualty Care for Law Enforcement
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 4/8/2022
   :course: GSP16273
   :title: SWAT Sniper Firearms Training

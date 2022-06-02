@@ -43,7 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2022 | FGP22428 | Emotional Intelligence in Public Safety | Passed | 0.0 | 1.00 |
 | 5/17/2022 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
+| 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Instructed | 0.0 | 27.00 |
 | 4/27/2022 | FGP20858 | Distraction Device Training | Passed | 0.0 | 2.50 |
 | 4/19/2022 | FGP17600 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 1.00 |
 | 4/8/2022 | FGP37598 | ACAP Carotid Restraint Policy Review | Passed | 0.0 | 0.25 |

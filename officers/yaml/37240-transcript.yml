@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/13/2022
+  :course: FGP20462
+  :title: NAMOA Motorcycle Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 3/13/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

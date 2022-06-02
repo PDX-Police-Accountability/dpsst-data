@@ -56,6 +56,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/18/2022
+  :course: PSU25775
+  :title: CPR/AED  First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
 - :date: 4/5/2022
   :course: PSU37477
   :title: Calm Approach
@@ -1485,10 +1491,10 @@
   :score: '0.0'
   :hours: '4.00'
 :attribute_records:
-- :topic: Maintenance Requirements
-  :value: First Aid/CPR Required
-  :effective_date: 3/16/2022
-  :expiration_date: 3/16/2022
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 5/19/2022
+  :expiration_date: 5/19/2024
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2022

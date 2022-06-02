@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Passed | 0.0 | 27.00 |
 | 5/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 9.00 |
 | 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Instructed | 0.0 | 9.00 |
 | 4/21/2022 | PDP03288 | Advanced Shotgun Operator Training | Instructed | 0.0 | 9.00 |

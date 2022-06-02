@@ -94,12 +94,24 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/18/2022
+  :course: FGP22428
+  :title: Emotional Intelligence in Public Safety
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 5/17/2022
   :course: 22-0028
   :title: DPSST Middle Management F22 Equivalency
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 5/13/2022
+  :course: FGP20462
+  :title: NAMOA Motorcycle Training
+  :status: Instructed
+  :score: '0.0'
+  :hours: '27.00'
 - :date: 4/27/2022
   :course: FGP20858
   :title: Distraction Device Training

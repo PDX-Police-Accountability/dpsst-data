@@ -70,6 +70,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/31/2022
+  :course: BVP23617
+  :title: Officer Wellness
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 3/26/2022
   :course: BVP35408
   :title: Blood Draw  Vehicle Extractions HB 4301
