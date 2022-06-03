@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/25/2022
+  :course: LOP35972
+  :title: Defensive Tactics OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/30/2022
   :course: LOP01809
   :title: Legislative Update HB4008 Crowd Management
@@ -98,6 +104,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 12/31/2021
+  :course: LOP33173
+  :title: Prison Rape Elimination Act (PREA)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 12/22/2021
   :course: LOP18537
   :title: DTs Handcuffing Review

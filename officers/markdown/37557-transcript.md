@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 4/25/2022 | LOP35972 | Defensive Tactics OC | Passed | 0.0 | 3.00 |
 | 4/8/2022 | LOP20667 | Red Door Project Evolve Experience - Ethics | Passed | 0.0 | 1.00 |
 | 4/8/2022 | LOP19148 | Red Door Project Evolve Experience | Passed | 0.0 | 2.00 |
 | 3/29/2022 | LOP01809 | Legislative Update HB4008 Crowd Management | Passed | 0.0 | 0.50 |
@@ -50,6 +51,7 @@
 | 3/9/2022 | LOP31533 | OACP/OSSA Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 2/2/2022 | LOP33179 | Police Officer Hold, Designee Holds  More | Passed | 0.0 | 0.50 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2021 | LOP33173 | Prison Rape Elimination Act (PREA) | Passed | 0.0 | 0.50 |
 | 12/18/2021 | LOP25237 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
 | 12/17/2021 | LOP18537 | DTs Handcuffing Review | Passed | 0.0 | 0.75 |
 | 12/16/2021 | LOP08051 | 40mm Less Lethal | Passed | 0.0 | 3.50 |

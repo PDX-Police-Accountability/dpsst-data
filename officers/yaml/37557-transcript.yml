@@ -81,6 +81,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 4/25/2022
+  :course: LOP35972
+  :title: Defensive Tactics OC
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 4/8/2022
   :course: LOP20667
   :title: Red Door Project Evolve Experience - Ethics
@@ -129,6 +135,12 @@
   :status: Completed
   :score: '0.0'
   :hours: '0.00'
+- :date: 12/31/2021
+  :course: LOP33173
+  :title: Prison Rape Elimination Act (PREA)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 12/18/2021
   :course: LOP25237
   :title: 'Ethics: Insights to Principled Policing'

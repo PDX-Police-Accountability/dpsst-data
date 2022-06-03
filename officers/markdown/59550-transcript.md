@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2022 | RMP02002 | Patrol Scenario Day / Critical Incident Management | Passed | 0.0 | 7.00 |
 | 5/12/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/6/2022 | RMP32193 | Strangulation / DV | Passed | 0.0 | 0.50 |
 | 2/2/2022 | RMP05599 | Qualifications | Passed | 0.0 | 1.00 |

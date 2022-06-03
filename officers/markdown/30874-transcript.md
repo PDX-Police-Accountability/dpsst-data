@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/2/2022 | PDP17244 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
+| 5/2/2022 | FGP41559 | Semi-Annual Firearms Training | Passed | 0.0 | 4.00 |
 | 4/19/2022 | FGP17600 | Patrol Tactics/Building Search Con Sim | Passed | 0.0 | 1.00 |
 | 4/8/2022 | FGP37598 | ACAP Carotid Restraint Policy Review | Passed | 0.0 | 0.25 |
 | 3/16/2022 | FGP28057 | 2022 Airways Training Video Pat. Eval for LE ACAP | Passed | 0.0 | 1.75 |
