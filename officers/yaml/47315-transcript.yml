@@ -43,6 +43,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/26/2022
+  :course: PDP30549
+  :title: IS-800 National Response Framework
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 4/1/2022
   :course: PDP43751
   :title: ICS-100 Intro to the Incident Cmmnd System

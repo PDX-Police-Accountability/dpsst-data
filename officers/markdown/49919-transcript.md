@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/27/2022 | HBP35895 | OIS Investigations | Passed | 0.0 | 4.00 |
+| 4/27/2022 | HBP18799 | Officer Rescue | Passed | 0.0 | 5.00 |
 | 3/30/2022 | HBP15013 | ARREST AND CONTROL | Passed | 0.0 | 1.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/8/2021 | HBP13811 | SFST Refresher | Passed | 0.0 | 4.00 |

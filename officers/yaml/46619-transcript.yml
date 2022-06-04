@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/7/2022
+  :course: PDP03369
+  :title: OR Law Enforcement PIO Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
 - :date: 4/6/2022
   :course: SMS42779
   :title: Oregon Police  Fire PIO Conference - Spring 2022

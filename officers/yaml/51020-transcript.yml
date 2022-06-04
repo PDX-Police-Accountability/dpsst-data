@@ -44,6 +44,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/20/2022
+  :course: PDP35595
+  :title: Shooting Incident Reconstruction
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 3/25/2022
   :course: PDP34674
   :title: Fundamentals of crime scene and evidence

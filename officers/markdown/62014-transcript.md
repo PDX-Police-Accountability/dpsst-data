@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
+| Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -73,6 +74,7 @@
 | 7/29/2021 | PDP32847 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 7/29/2021 | PDP21108 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
 | 7/29/2021 | PDP40956 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
+| 7/27/2021 | PDP21030 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |
 | 7/22/2021 | PDP35087 | 2021 FTEP Pre-DPSST Use of Force Class | Passed | 0.0 | 0.50 |
 | 7/20/2021 | PDP14760 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |

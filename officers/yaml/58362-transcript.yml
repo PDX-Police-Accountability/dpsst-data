@@ -36,6 +36,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/27/2022
+  :course: OCS39091
+  :title: Ground Fighting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 5/3/2022
   :course: OCS03360
   :title: HB 2513 Airway and Circulation
@@ -60,6 +66,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '1.00'
+- :date: 4/12/2022
+  :course: OCS22537
+  :title: Crisis Intervention Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 3/30/2022
   :course: OCS17075
   :title: Marksmanship, one hand shooting, movement

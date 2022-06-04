@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/27/2022
+  :course: OCS39091
+  :title: Ground Fighting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 5/3/2022
   :course: OCS03360
   :title: HB 2513 Airway and Circulation
@@ -152,6 +158,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 12/16/2021
+  :course: OCS23717
+  :title: Mark 43- Use of Force Reporting
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 11/19/2021
   :course: F6E02641
   :title: New Hire Firearms-Marksmanship, Gun Handling

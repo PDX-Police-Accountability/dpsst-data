@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/2/2022 |  |
+| Certification Cards | First Aid and CPR | 7/15/2021 | 7/15/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 | Certification Cards | First Aid and CPR | 8/19/2020 | 8/19/2022 |
 ## Education
@@ -92,6 +93,7 @@
 | 8/4/2021 | PDP19036 | 2021 Advanced Academy Wellness | Passed | 0.0 | 7.50 |
 | 8/4/2021 | PDP09996 | 2021 Advanced Academy Patrol Procedures | Passed | 0.0 | 79.50 |
 | 8/4/2021 | PDP35163 | 2021 Advanced Academy Police Vehicle Operations | Passed | 0.0 | 64.00 |
+| 7/15/2021 | PDP02856 | CPr/First Aid | Passed | 0.0 | 2.00 |
 | 7/8/2021 | PDP02805 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 7/8/2021 | PDP16226 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.75 |
 | 7/8/2021 | PDP27562 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |

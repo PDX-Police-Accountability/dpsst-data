@@ -43,6 +43,7 @@
 | 5/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 9.00 |
 | 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Instructed | 0.0 | 9.00 |
 | 4/21/2022 | PDP03288 | Advanced Shotgun Operator Training | Instructed | 0.0 | 9.00 |
+| 4/20/2022 | PDP23626 | LE Prevention  Deterrence Terrorist Acts | Passed | 0.0 | 16.00 |
 | 4/14/2022 | PDP24491 | Advanced Shotgun Operator Course | Instructed | 0.0 | 9.00 |
 | 3/15/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/15/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

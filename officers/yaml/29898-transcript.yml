@@ -75,6 +75,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/26/2022
+  :course: PDS00250
+  :title: Field Training and Evaluation Program, 24 hr basic
+  :status: Passed
+  :score: '0.0'
+  :hours: '24.00'
 - :date: 3/3/2022
   :course: LOP21522
   :title: EVOC (Pursuit driving, Use of Force)

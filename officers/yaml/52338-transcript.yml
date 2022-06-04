@@ -48,6 +48,18 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 5/31/2022
+  :course: PDP41337
+  :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
+- :date: 5/31/2022
+  :course: PDP30549
+  :title: IS-800 National Response Framework
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 3/10/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

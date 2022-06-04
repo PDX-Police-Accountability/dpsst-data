@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2022 | PDS00250 | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
 | 5/5/2022 | PDS12331 | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/23/2022 | PDS43691 | Firearms Training | Passed | 0.0 | 4.00 |

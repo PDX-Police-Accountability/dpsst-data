@@ -135,6 +135,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.50'
+- :date: 1/13/2022
+  :course: PDP35519
+  :title: FEMA Homeland Sec. Exercise  Eval Program
+  :status: Passed
+  :score: '0.0'
+  :hours: '16.00'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance
@@ -381,6 +387,12 @@
   :status: Instructed
   :score: '0.0'
   :hours: '2.00'
+- :date: 7/27/2021
+  :course: PDP21030
+  :title: CPR/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 7/23/2021
   :course: PDP22491
   :title: 2021-8 Tips  Tech Ballot Measure 110 - Update
@@ -423,6 +435,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 7/15/2021
+  :course: PDP02856
+  :title: CPr/First Aid
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 7/8/2021
   :course: PDP10775
   :title: CPR/First Aid

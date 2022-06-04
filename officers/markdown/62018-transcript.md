@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
+| Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -71,6 +72,7 @@
 | 11/17/2021 | BPT21848 | SFST/DID BP410 | Passed | 0.0 | 20.00 |
 | 10/28/2021 | F6F38551 | Intox 8000 Bp 410 | Passed | 0.0 | 0.00 |
 | 7/29/2021 | PDP40956 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
+| 7/27/2021 | PDP21030 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |
 | 7/26/2021 | PDP41627 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/22/2021 | PDP35087 | 2021 FTEP Pre-DPSST Use of Force Class | Passed | 0.0 | 0.50 |

@@ -50,6 +50,7 @@
 | 1/14/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/14/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/14/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
+| 1/13/2022 | PDP35519 | FEMA Homeland Sec. Exercise  Eval Program | Passed | 0.0 | 16.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | PDP44453 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
 | 12/16/2021 | PDP22486 | 2021-7 City Attorney's Legal Updates for 7/2021 | Passed | 0.0 | 0.25 |
@@ -91,6 +92,7 @@
 | 9/1/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/18/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 7/27/2021 | PDP09395 | CPR/First Aid | Instructed | 0.0 | 2.00 |
+| 7/27/2021 | PDP21030 | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 7/23/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP42519 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/21/2021 | PDP07900 | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -98,6 +100,7 @@
 | 7/15/2021 | PDP05749 | 2021 Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/15/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 7/15/2021 | PDP02856 | CPr/First Aid | Instructed | 0.0 | 2.00 |
 | 7/8/2021 | PDP10775 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/7/2021 | PDP32097 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/7/2021 | PDP26636 | CPR/First Aid | Instructed | 0.0 | 1.75 |

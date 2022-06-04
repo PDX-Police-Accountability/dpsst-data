@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2022 | PDP35595 | Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 3/25/2022 | PDP34674 | Fundamentals of crime scene and evidence | Passed | 0.0 | 40.00 |
 | 3/7/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

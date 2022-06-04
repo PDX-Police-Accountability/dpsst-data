@@ -300,6 +300,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '3.00'
+- :date: 7/27/2021
+  :course: PDP21030
+  :title: CPR/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 7/26/2021
   :course: PDP42411
   :title: 2021 FTEP Pre-DPSST Firearms
@@ -323,4 +329,8 @@
   :value: Law Enforcement Signed
   :effective_date: 8/2/2021
   :expiration_date: ''
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 7/27/2021
+  :expiration_date: 7/27/2023
 :education_records: []
