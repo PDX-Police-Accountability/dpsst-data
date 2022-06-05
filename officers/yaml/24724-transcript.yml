@@ -94,6 +94,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/1/2022
+  :course: FGP33110
+  :title: Command Staff Prioritze Officer Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 5/18/2022
   :course: FGP22428
   :title: Emotional Intelligence in Public Safety

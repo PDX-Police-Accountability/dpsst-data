@@ -51,6 +51,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/29/2022
+  :course: PDP36197
+  :title: Intl. Anti-Counterfeiting Coalition Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '21.75'
 - :date: 3/31/2022
   :course: PDP38269
   :title: 2021-12 City Attorney's Legal Update for Dec. 2021

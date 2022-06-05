@@ -86,6 +86,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/1/2022
+  :course: OCS16410
+  :title: New Hire Shotgun Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 5/13/2022
   :course: OCS34450
   :title: May 2022 New Hire Firearms

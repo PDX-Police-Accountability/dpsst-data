@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2022 | ALP42345 | The C.A.L.M. Approach | Passed | 0.0 | 8.00 |
 | 4/6/2022 | HBS03046 | 28CFR-PART 23: RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

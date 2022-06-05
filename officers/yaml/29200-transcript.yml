@@ -28,33 +28,33 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 2/6/2008
-  :certificate: Police Officer
-  :level: Supervisory
-  :status: Granted
-  :certificate_date: 2/6/2008
-  :expiration_date: 5/23/2022
-  :probation_date: ''
-- :status_date: 1/10/2008
+- :status_date: 5/23/2022
   :certificate: Police Officer
   :level: Advanced
-  :status: Granted
+  :status: Lapsed
   :certificate_date: 1/10/2008
-  :expiration_date: 5/23/2022
+  :expiration_date: 2/23/2027
   :probation_date: ''
-- :status_date: 1/10/2008
-  :certificate: Police Officer
-  :level: Intermediate
-  :status: Granted
-  :certificate_date: 1/10/2008
-  :expiration_date: 5/23/2022
-  :probation_date: ''
-- :status_date: 12/28/1994
+- :status_date: 5/23/2022
   :certificate: Police Officer
   :level: Basic
-  :status: Granted
+  :status: Lapsed
   :certificate_date: 12/28/1994
-  :expiration_date: 5/23/2022
+  :expiration_date: 2/23/2027
+  :probation_date: ''
+- :status_date: 5/23/2022
+  :certificate: Police Officer
+  :level: Intermediate
+  :status: Lapsed
+  :certificate_date: 1/10/2008
+  :expiration_date: 2/23/2027
+  :probation_date: ''
+- :status_date: 5/23/2022
+  :certificate: Police Officer
+  :level: Supervisory
+  :status: Lapsed
+  :certificate_date: 2/6/2008
+  :expiration_date: 2/23/2027
   :probation_date: ''
 :training_records:
 - :date: 2/10/2022
@@ -4066,14 +4066,6 @@
   :score: '0.0'
   :hours: '2.00'
 :attribute_records:
-- :topic: Maintenance Requirements
-  :value: LE Leadership 3 Year
-  :effective_date: 1/1/2022
-  :expiration_date: 12/31/2024
-- :topic: Maintenance Requirements
-  :value: LE Annual
-  :effective_date: 1/1/2022
-  :expiration_date: 12/31/2022
 - :topic: Certification Cards
   :value: First Aid and CPR
   :effective_date: 5/10/2021

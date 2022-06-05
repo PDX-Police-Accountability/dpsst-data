@@ -1,7 +1,6 @@
 ## Transcripts (sorted by rank)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
-| * MISSING | 26711 |  |  |  | [md](../markdown/26711-transcript.md) - [yaml](../yaml/26711-transcript.yml) |
 | Leloff, Michael W. | 17573 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/17573-transcript.md) - [yaml](../yaml/17573-transcript.yml) |
 | Henderson, Donna M. | 20228 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/20228-transcript.md) - [yaml](../yaml/20228-transcript.yml) |
 | Wagenknecht, Mathew A. | 24983 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/24983-transcript.md) - [yaml](../yaml/24983-transcript.yml) |
@@ -1292,6 +1291,7 @@
 | Thompson, Michael D. | 26702 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/26702-transcript.md) - [yaml](../yaml/26702-transcript.yml) |
 | Nelson, Dustin A. | 26706 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/26706-transcript.md) - [yaml](../yaml/26706-transcript.yml) |
 | Hyson, Daniel A. | 26709 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/26709-transcript.md) - [yaml](../yaml/26709-transcript.yml) |
+| Ehrich, Douglas K. | 26711 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/26711-transcript.md) - [yaml](../yaml/26711-transcript.yml) |
 | Bergstrom, David A. | 26713 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/26713-transcript.md) - [yaml](../yaml/26713-transcript.yml) |
 | Maxwell, William M. | 27292 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/27292-transcript.md) - [yaml](../yaml/27292-transcript.yml) |
 | Kamkar, Sam S. | 28017 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/28017-transcript.md) - [yaml](../yaml/28017-transcript.yml) |

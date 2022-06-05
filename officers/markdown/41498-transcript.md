@@ -92,7 +92,6 @@
 | 9/1/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/18/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 7/27/2021 | PDP09395 | CPR/First Aid | Instructed | 0.0 | 2.00 |
-| 7/27/2021 | PDP21030 | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 7/23/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP42519 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/21/2021 | PDP07900 | CPR/First Aid | Instructed | 0.0 | 1.75 |

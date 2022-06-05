@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2022 | FGP33110 | Command Staff Prioritze Officer Wellness | Passed | 0.0 | 2.00 |
 | 5/18/2022 | FGP22428 | Emotional Intelligence in Public Safety | Passed | 0.0 | 1.00 |
 | 5/17/2022 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Instructed | 0.0 | 27.00 |
