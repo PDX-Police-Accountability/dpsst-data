@@ -956,7 +956,7 @@
 | Weinberger, Benson W. | 47656 | Portland Police Bureau | Active | Sergeant | [md](../markdown/47656-transcript.md) - [yaml](../yaml/47656-transcript.yml) |
 | Sutton, Jasmine M. | 47682 | Portland Police Bureau | Active | Sergeant | [md](../markdown/47682-transcript.md) - [yaml](../yaml/47682-transcript.yml) |
 | Boak, Ramsey M. | 47684 | Portland Police Bureau | Active | Police Officer | [md](../markdown/47684-transcript.md) - [yaml](../yaml/47684-transcript.yml) |
-| Hettman, Casey A. | 47718 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/47718-transcript.md) - [yaml](../yaml/47718-transcript.yml) |
+| * MISSING | 47718 |  |  |  | [md](../markdown/47718-transcript.md) - [yaml](../yaml/47718-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |
 | Mills, Jason E. | 47777 | Portland Police Bureau | Active | Police Officer | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Anderson, Jeremy W. | 47781 | Portland Police Bureau | Active | Police Officer | [md](../markdown/47781-transcript.md) - [yaml](../yaml/47781-transcript.yml) |

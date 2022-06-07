@@ -1,6 +1,7 @@
 ## Transcripts (sorted by name)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
+| * MISSING | 47718 |  |  |  | [md](../markdown/47718-transcript.md) - [yaml](../yaml/47718-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
@@ -608,7 +609,6 @@
 | Herrall, Michael J. | 56976 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/56976-transcript.md) - [yaml](../yaml/56976-transcript.yml) |
 | Hertzler, Gabri B. | 39513 | Portland Police Bureau | Active | Police Officer | [md](../markdown/39513-transcript.md) - [yaml](../yaml/39513-transcript.yml) |
 | Hertzler, Jennifer L. | 43872 | Portland Police Bureau | Active | Detective | [md](../markdown/43872-transcript.md) - [yaml](../yaml/43872-transcript.yml) |
-| Hettman, Casey A. | 47718 | Portland Police Bureau | Active | Lieutenant | [md](../markdown/47718-transcript.md) - [yaml](../yaml/47718-transcript.yml) |
 | Higginbotham, Jerrold D. | 28713 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/28713-transcript.md) - [yaml](../yaml/28713-transcript.yml) |
 | Hill, Anthony R. | 36236 | Portland Police Bureau | Active | Police Officer | [md](../markdown/36236-transcript.md) - [yaml](../yaml/36236-transcript.yml) |
 | Hill, Israel Q. | 53907 | Portland Police Bureau | Active | Sergeant | [md](../markdown/53907-transcript.md) - [yaml](../yaml/53907-transcript.yml) |
