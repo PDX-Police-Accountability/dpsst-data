@@ -48,6 +48,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/11/2022 | 22-0022 | Police to Corrections Certification Program | Registered | 0.0 | 80.00 |
+| 5/2/2022 | STS17907 | Firearms training | Passed | 0.0 | 3.25 |
+| 5/2/2022 | STS39216 | Use of Force Policy Review | Passed | 0.0 | 0.25 |
+| 5/2/2022 | STS38324 | Firearms Policy Review | Passed | 0.0 | 0.25 |
+| 5/2/2022 | STS03731 | Officer Involved Shooting Policy Review | Passed | 0.0 | 0.25 |
 | 4/20/2022 | CVP04595 | Mass Casualty: Rapid Response to School Shooters | Passed | 0.0 | 8.00 |
 | 3/10/2022 | REG01795 | Critical Incident Management-First Line Supervisor | Passed | 0.0 | 32.00 |
 | 3/9/2022 | STS22301 | Taser X26P Re-Cert | Passed | 0.0 | 1.50 |

@@ -54,6 +54,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/13/2022 | ETS08201 | CPR, AED,  Basic First Aid | Passed | 0.0 | 6.00 |
+| 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |
 | 3/21/2022 | OSH17072 | ARIDE | Instructed | 0.0 | 16.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

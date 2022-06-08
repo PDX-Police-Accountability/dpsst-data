@@ -54,6 +54,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/22/2022
+  :course: F6R36750
+  :title: 2022 DUII Multi-Disciplinary Conference
+  :status: Passed
+  :score: '0.0'
+  :hours: '15.00'
 - :date: 3/29/2022
   :course: MLP44580
   :title: Axon Body Camera Instruction

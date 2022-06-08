@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 3/29/2022 | MLP44580 | Axon Body Camera Instruction | Passed | 0.0 | 2.00 |
 | 3/16/2022 | BPT34763 | Advanced De-Escalation and Escalation Prevention | Passed | 0.0 | 20.00 |
 | 3/11/2022 | LOP01108 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |

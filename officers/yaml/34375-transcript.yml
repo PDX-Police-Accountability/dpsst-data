@@ -132,6 +132,30 @@
   :status: Registered
   :score: '0.0'
   :hours: '80.00'
+- :date: 5/2/2022
+  :course: STS17907
+  :title: Firearms training
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.25'
+- :date: 5/2/2022
+  :course: STS39216
+  :title: Use of Force Policy Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/2/2022
+  :course: STS38324
+  :title: Firearms Policy Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 5/2/2022
+  :course: STS03731
+  :title: Officer Involved Shooting Policy Review
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 4/20/2022
   :course: CVP04595
   :title: 'Mass Casualty: Rapid Response to School Shooters'
