@@ -86,8 +86,20 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/5/2022
+  :course: OCS43988
+  :title: Functional Pistol Skills
+  :status: Passed
+  :score: '0.0'
+  :hours: '20.00'
 - :date: 6/1/2022
   :course: OCS16410
+  :title: New Hire Shotgun Orientation
+  :status: Instructed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 6/1/2022
+  :course: OCS01367
   :title: New Hire Shotgun Orientation
   :status: Instructed
   :score: '0.0'

@@ -36,6 +36,36 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/2/2022
+  :course: BNP44068
+  :title: Active Threat Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 6/2/2022
+  :course: BNP34117
+  :title: OC Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/2/2022
+  :course: BNP19784
+  :title: 40MM Recertification
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 6/2/2022
+  :course: BNP28580
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 6/2/2022
+  :course: BNP18112
+  :title: Sleep Wellness
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 5/6/2022
   :course: OSH27028
   :title: ARIDE

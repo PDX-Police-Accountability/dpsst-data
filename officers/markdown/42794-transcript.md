@@ -41,7 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2022 | OCS43988 | Functional Pistol Skills | Passed | 0.0 | 20.00 |
 | 6/1/2022 | OCS16410 | New Hire Shotgun Orientation | Instructed | 0.0 | 2.00 |
+| 6/1/2022 | OCS01367 | New Hire Shotgun Orientation | Instructed | 0.0 | 2.00 |
 | 5/13/2022 | OCS34450 | May 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/25/2022 | OCS11374 | K9 Firearms - Marksmanship | Instructed | 0.0 | 2.00 |

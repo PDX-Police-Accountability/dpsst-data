@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/25/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 5/2/2022 | 22-0029 | DPSST Supervision | Registered | 0.0 | 80.00 |
 | 3/16/2022 | MKL41467 | Metrc Training | Passed | 0.0 | 3.00 |
 | 12/17/2021 | MKL22033 | Processing Mandatory Sex Trafficking Reports | Passed | 0.0 | 1.50 |

@@ -45,6 +45,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2022 | BNP28580 | EVOC | Passed | 0.0 | 1.00 |
+| 6/2/2022 | BNP34117 | OC Recertification | Passed | 0.0 | 0.50 |
+| 6/2/2022 | BNP44068 | Active Threat Response | Passed | 0.0 | 3.00 |
+| 6/2/2022 | BNP18112 | Sleep Wellness | Passed | 0.0 | 0.50 |
+| 6/2/2022 | BNP19784 | 40MM Recertification | Passed | 0.0 | 0.50 |
 | 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 2/9/2022 | BNP40597 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
 | 2/9/2022 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |

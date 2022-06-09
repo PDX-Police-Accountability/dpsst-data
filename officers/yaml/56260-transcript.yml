@@ -43,6 +43,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/27/2022
+  :course: VND26069
+  :title: NAS Part B Level I Truck Inspection Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
+- :date: 5/20/2022
+  :course: VND25690
+  :title: NAS Part A Level III Truck Inspection Course
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 5/11/2022
   :course: CAP33862
   :title: SFST Refresher

@@ -57,6 +57,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/31/2022
+  :course: MKL34858
+  :title: ACAP Training Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 5/4/2022
   :course: MKL39734
   :title: Preventing Discrimination and Harassment

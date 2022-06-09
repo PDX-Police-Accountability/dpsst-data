@@ -28,11 +28,11 @@
   :classification: ''
   :assignment: ''
 :certification_records:
-- :status_date: 6/2/2022
+- :status_date: 6/7/2022
   :certificate: Police Officer
   :level: Intermediate
-  :status: App Recd
-  :certificate_date: ''
+  :status: Granted
+  :certificate_date: 6/7/2022
   :expiration_date: ''
   :probation_date: ''
 - :status_date: 11/17/2017
@@ -2023,6 +2023,11 @@
   :effective_date: 10/29/2017
   :expiration_date: ''
 :education_records:
+- :date: 8/11/2009
+  :degree: Masters of Law
+  :school: All Other Education Institutes
+  :major: ''
+  :hours: '180.0'
 - :date: 6/15/2008
   :degree: No Degree
   :school: University Of Oregon

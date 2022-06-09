@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 5/5/2022 | MKL28111 | Communication/Customer Service Skills | Passed | 0.0 | 0.50 |
 | 5/4/2022 | MKL12863 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 5/4/2022 | MKL36309 | Information Security Training:  Foundations | Passed | 0.0 | 0.50 |

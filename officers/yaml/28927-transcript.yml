@@ -55,6 +55,12 @@
   :status: Required
   :score: '0.0'
   :hours: '0.00'
+- :date: 5/31/2022
+  :course: MKL34858
+  :title: ACAP Training Video
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 5/2/2022
   :course: 22-0029
   :title: DPSST Supervision

@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2022 | BNP44068 | Active Threat Response | Passed | 0.0 | 3.00 |
+| 6/2/2022 | BNP34117 | OC Recertification | Passed | 0.0 | 0.50 |
+| 6/2/2022 | BNP19784 | 40MM Recertification | Passed | 0.0 | 0.50 |
+| 6/2/2022 | BNP28580 | EVOC | Passed | 0.0 | 1.00 |
+| 6/2/2022 | BNP18112 | Sleep Wellness | Passed | 0.0 | 0.50 |
 | 5/6/2022 | OSH27028 | ARIDE | Passed | 0.0 | 16.00 |
 | 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 4/14/2022 | BNP05084 | UAS Search  Rescue | Passed | 0.0 | 3.00 |

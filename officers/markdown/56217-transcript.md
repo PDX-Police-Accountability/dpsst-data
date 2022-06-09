@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/2/2022 | Police Officer | Intermediate | App Recd |  |  |  |
+| 6/7/2022 | Police Officer | Intermediate | Granted | 6/7/2022 |  |  |
 | 11/17/2017 | Police Officer | Basic | Granted | 11/17/2017 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -30,6 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/11/2009 | Masters of Law | All Other Education Institutes |  | 180.0 |
 | 6/15/2008 | No Degree | University Of Oregon |  | 19.0 |
 ## Training
 | date | course | title | status | score | hours |

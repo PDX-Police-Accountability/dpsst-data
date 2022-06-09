@@ -35,6 +35,7 @@
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
 | 5/25/2022 | MFN27240 | Jack Co Mental Health Resources | Passed | 0.0 | 1.50 |
+| 5/24/2022 | MFN17983 | Firearms: Low Light Shooting | Passed | 0.0 | 6.00 |
 | 4/28/2022 | MFN03564 | Sexual Assualt Awareness: Victims  Rape Cult | Passed | 0.0 | 1.00 |
 | 4/27/2022 | MFN28710 | Women's Risk Needs Assessment | Passed | 0.0 | 16.00 |
 | 4/15/2022 | MFN17640 | ConSims Training | Passed | 0.0 | 4.00 |
