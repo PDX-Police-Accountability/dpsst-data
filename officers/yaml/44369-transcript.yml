@@ -105,6 +105,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/7/2022
+  :course: STP25178
+  :title: Legal update
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.50'
 - :date: 5/23/2022
   :course: STP40793
   :title: Firearms Training

@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/23/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
+| 3/23/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |
 | 1/10/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS28945 | Combat Application Tourniquets | Passed | 0.0 | 0.50 |
 | 12/7/2021 | PDS32581 | NARCAN | Passed | 0.0 | 1.00 |

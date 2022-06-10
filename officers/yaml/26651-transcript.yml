@@ -81,6 +81,12 @@
   :expiration_date: 8/29/2025
   :probation_date: ''
 :training_records:
+- :date: 5/16/2022
+  :course: PDS02141
+  :title: Use of Force for Supervisors
+  :status: Instructed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 12/9/2021
   :course: PDS21233
   :title: OSHA  Bloodborne Pathogens

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2022 | BNS29465 | DUII / SFST Refresher | Passed | 0.0 | 4.00 |
 | 4/7/2022 | BBP12726 | Adult/Infant CPR/AED/First Aid | Passed | 0.0 | 2.00 |
 | 3/10/2022 | BBP25126 | Airway and Circulatory Training Video | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

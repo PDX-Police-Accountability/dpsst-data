@@ -68,6 +68,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/11/2022
+  :course: PDS05042
+  :title: EVOC
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
 - :date: 1/29/2022
   :course: PDS35905
   :title: Legal Update

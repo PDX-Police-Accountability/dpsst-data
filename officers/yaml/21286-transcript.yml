@@ -87,6 +87,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/7/2022
+  :course: BNS29465
+  :title: DUII / SFST Refresher
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/7/2022
   :course: BBP12726
   :title: Adult/Infant CPR/AED/First Aid

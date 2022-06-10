@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
+| 3/30/2022 | PDS25612 | Narcan Training | Passed | 0.0 | 1.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/16/2022 | PDS30023 | Fentanyl | Passed | 0.0 | 1.50 |
 | 3/16/2022 | PDS19448 | Homeless Outreach Team | Passed | 0.0 | 1.00 |

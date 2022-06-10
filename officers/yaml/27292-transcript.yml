@@ -106,6 +106,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/22/2022
+  :course: PDS00390
+  :title: Medication Supported Recovery
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
+- :date: 3/22/2022
+  :course: PDS19200
+  :title: Airway  Circulatory Crisis Training  Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 1/17/2022
   :course: PDS35905
   :title: Legal Update

@@ -50,6 +50,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/13/2022
+  :course: PDS28073
+  :title: Civil Disturbance Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '10.00'
 - :date: 4/7/2022
   :course: PPP34624
   :title: Body Worn Camera Operation and Policy

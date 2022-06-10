@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2022 | PDS28073 | Civil Disturbance Training | Passed | 0.0 | 10.00 |
 | 4/7/2022 | PPP34624 | Body Worn Camera Operation and Policy | Passed | 0.0 | 2.00 |
 | 3/22/2022 | PPP14364 | Street Survival Seminar | Passed | 0.0 | 16.00 |
 | 3/3/2022 | LOP22709 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |

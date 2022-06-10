@@ -74,6 +74,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/30/2022
+  :course: PDS19200
+  :title: Airway  Circulatory Crisis Training  Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/30/2022
+  :course: PDS25612
+  :title: Narcan Training
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 3/17/2022
   :course: MISCMAIN
   :title: 2022 LE Annual Maintenance

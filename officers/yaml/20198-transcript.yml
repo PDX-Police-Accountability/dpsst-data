@@ -86,6 +86,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/4/2022
+  :course: HSU23021
+  :title: CPR Spring In-Service 2022_2
+  :status: Passed
+  :score: '0.0'
+  :hours: '4.00'
 - :date: 4/3/2022
   :course: HSU32901
   :title: PVO Spring In-Service 2022
@@ -3123,6 +3129,10 @@
   :score: '0.0'
   :hours: '304.00'
 :attribute_records:
+- :topic: Certification Cards
+  :value: First Aid and CPR
+  :effective_date: 4/4/2022
+  :expiration_date: 4/8/2024
 - :topic: Maintenance Requirements
   :value: LE Basic 3 Year
   :effective_date: 1/1/2022

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2022 | PDS02141 | Use of Force for Supervisors | Instructed | 0.0 | 4.00 |
 | 12/9/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/17/2021 | PDS22673 | Report Writing | Instructed | 0.0 | 8.00 |
 | 8/25/2021 | REG40766 | Use of Force Refresher | Passed | 0.0 | 5.00 |

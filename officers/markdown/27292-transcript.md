@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/22/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |
+| 3/22/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 1/17/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/18/2021 | PDS28945 | Combat Application Tourniquets | Passed | 0.0 | 0.50 |

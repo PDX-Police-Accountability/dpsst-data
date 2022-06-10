@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/26/2022 | PDS00250 | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
+| 3/19/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/9/2022 | BPT10897 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 1/21/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |

@@ -30,6 +30,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 8/17/2020 | 8/31/2022 |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2022 | HSU23021 | CPR Spring In-Service 2022_2 | Passed | 0.0 | 4.00 |
 | 4/3/2022 | HSU32901 | PVO Spring In-Service 2022 | Instructed | 0.0 | 2.50 |
 | 3/26/2022 | HSU04230 | Instructor In-Service Firearms Spring 2022 | Passed | 0.0 | 4.00 |
 | 3/26/2022 | HSU15820 | Instructor In-Service PVO Spring 2022 | Passed | 0.0 | 2.00 |

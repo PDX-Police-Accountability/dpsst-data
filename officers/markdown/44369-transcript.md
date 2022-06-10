@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2022 | STP25178 | Legal update | Passed | 0.0 | 1.50 |
 | 5/23/2022 | STP40793 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/27/2022 | SMP39708 | Property  Evidence Management | Passed | 0.0 | 16.00 |
 | 4/20/2022 | STP39126 | Patient Evaluation for Law Enforcement | Passed | 0.0 | 2.00 |
