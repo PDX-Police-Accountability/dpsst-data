@@ -142,6 +142,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/16/2022
+  :course: VND14835
+  :title: 40 Hour CIT 5/16/2022 - 5/20/2022
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 5/13/2022
   :course: ETS08201
   :title: CPR, AED,  Basic First Aid

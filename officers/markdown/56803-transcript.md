@@ -46,6 +46,10 @@
 | 3/2/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 3/1/2022 | PDP14848 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/28/2022 | PDP20456 | 2022 SERT Training - Classroom | Passed | 0.0 | 9.00 |
+| 2/25/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 2/25/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/25/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 2/25/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/1/2022 | PDP41670 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/26/2022 | PDP13897 | 2020-12 City Attorney's Legal Updates Dec. 2020 | Passed | 0.0 | 0.25 |
 | 1/26/2022 | PDP25973 | 2021 Online Crowd Control - CAO Part 1 | Passed | 0.0 | 1.00 |

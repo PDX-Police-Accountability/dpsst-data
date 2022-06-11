@@ -44,6 +44,7 @@
 | 4/3/2022 | HSU28325 | Firearms Spring In-Service 2022 | Instructed | 0.0 | 4.00 |
 | 4/1/2022 | HSU22593 | Pre Academy Firearms 8 | Instructed | 0.0 | 4.00 |
 | 3/31/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 3/31/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/26/2022 | HSU04230 | Instructor In-Service Firearms Spring 2022 | Instructed | 0.0 | 4.00 |
 | 3/25/2022 | HSU13363 | Pre Academy Firearms 7 | Instructed | 0.0 | 4.00 |
 | 3/22/2022 | PDP26641 | FTEP Post DPSST Firearms Training | Instructed | 0.0 | 2.50 |

@@ -49,6 +49,9 @@
 | 2/3/2022 | PDP20181 | SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/2/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/20/2022 | PDP32758 | 2022 SERT Training - Firearms | Passed | 0.0 | 9.00 |
+| 1/20/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 1/20/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 1/20/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 1/14/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/6/2022 | PDP33314 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |

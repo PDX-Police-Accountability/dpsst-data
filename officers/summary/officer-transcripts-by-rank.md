@@ -1091,7 +1091,7 @@
 | McWhorter, Chelsie C. | 58332 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58332-transcript.md) - [yaml](../yaml/58332-transcript.yml) |
 | Collins, John M. | 58359 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58359-transcript.md) - [yaml](../yaml/58359-transcript.yml) |
 | Banfi, Nathan C. | 58362 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58362-transcript.md) - [yaml](../yaml/58362-transcript.yml) |
-| Bury, Haley A. | 58366 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58366-transcript.md) - [yaml](../yaml/58366-transcript.yml) |
+| McQuillan, Haley A. | 58366 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58366-transcript.md) - [yaml](../yaml/58366-transcript.yml) |
 | Kashuba, Dina A. | 58371 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58371-transcript.md) - [yaml](../yaml/58371-transcript.yml) |
 | Hancock, Sierra N. | 58382 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58382-transcript.md) - [yaml](../yaml/58382-transcript.yml) |
 | DeGrave, Joshua M. | 58410 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58410-transcript.md) - [yaml](../yaml/58410-transcript.yml) |

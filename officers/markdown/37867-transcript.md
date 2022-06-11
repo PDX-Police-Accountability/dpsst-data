@@ -49,6 +49,10 @@
 | 3/2/2022 | PDP38827 | 2022 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/1/2022 | PDP14848 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/28/2022 | PDP20456 | 2022 SERT Training - Classroom | Passed | 0.0 | 9.00 |
+| 2/25/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 2/25/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/25/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 2/25/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/22/2022 | PDP25973 | 2021 Online Crowd Control - CAO Part 1 | Passed | 0.0 | 1.00 |
 | 2/22/2022 | PDP03989 | 2021 Online Crowd Control - CAO Part 2 | Passed | 0.0 | 1.00 |
 | 2/21/2022 | PDP42279 | 2021 Online Crowd Control - Mobile Field Force | Passed | 0.0 | 0.42 |

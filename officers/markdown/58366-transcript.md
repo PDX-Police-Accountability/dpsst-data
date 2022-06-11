@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Bury, Haley A. |
+| name | McQuillan, Haley A. |
 | dpsst_identifier | 58366 |
 | agency | Portland Police Bureau |
 | employment_status | Inactive |

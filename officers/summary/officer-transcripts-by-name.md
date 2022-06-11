@@ -200,7 +200,6 @@
 | Burns, Justin L. | 47103 | Portland Police Bureau | Active | Police Officer | [md](../markdown/47103-transcript.md) - [yaml](../yaml/47103-transcript.yml) |
 | Burns, Sarah C. | 58108 | Portland Police Bureau | Active | Police Officer | [md](../markdown/58108-transcript.md) - [yaml](../yaml/58108-transcript.yml) |
 | Burton, Bret A. | 43860 | Portland Police Bureau | Active | Sergeant | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
-| Bury, Haley A. | 58366 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58366-transcript.md) - [yaml](../yaml/58366-transcript.yml) |
 | Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Sergeant | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Butcher, Jennifer L. | 43484 | Portland Police Bureau | Active | Sergeant | [md](../markdown/43484-transcript.md) - [yaml](../yaml/43484-transcript.yml) |
 | Butcher, Kristine M. | 43866 | Portland Police Bureau | Active | Sergeant | [md](../markdown/43866-transcript.md) - [yaml](../yaml/43866-transcript.yml) |
@@ -937,6 +936,7 @@
 | McMurray, D. James | 32106 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/32106-transcript.md) - [yaml](../yaml/32106-transcript.yml) |
 | McMurray, Shawnda L. | 24747 | Portland Police Bureau | Inactive | Criminalist | [md](../markdown/24747-transcript.md) - [yaml](../yaml/24747-transcript.yml) |
 | McNown, Keaton M. | 60564 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
+| McQuillan, Haley A. | 58366 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58366-transcript.md) - [yaml](../yaml/58366-transcript.yml) |
 | McWhorter, Chelsie C. | 58332 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/58332-transcript.md) - [yaml](../yaml/58332-transcript.yml) |
 | Medina, Gabriel F. | 61098 | Portland Police Bureau | Active | Police Officer | [md](../markdown/61098-transcript.md) - [yaml](../yaml/61098-transcript.yml) |
 | Mele, Ryan M. | 50232 | Portland Police Bureau | Active | Police Officer | [md](../markdown/50232-transcript.md) - [yaml](../yaml/50232-transcript.yml) |

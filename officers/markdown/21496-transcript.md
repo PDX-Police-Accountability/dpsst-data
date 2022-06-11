@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2022 | VND14835 | 40 Hour CIT 5/16/2022 - 5/20/2022 | Passed | 0.0 | 40.00 |
 | 5/13/2022 | ETS08201 | CPR, AED,  Basic First Aid | Passed | 0.0 | 6.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |

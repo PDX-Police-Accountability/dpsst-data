@@ -56,6 +56,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/1/2022
+  :course: PDP31806
+  :title: 2022-1 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/31/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021

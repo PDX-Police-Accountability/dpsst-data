@@ -50,6 +50,8 @@
 | 2/11/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/11/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP27667 | Advanced Shotgun Operator Course Training | Passed | 0.0 | 18.00 |
+| 2/10/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 2/10/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/2/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 2/2/2022 | PDP41369 | 2022 Advanced Shotgun Operator Pre-Test Guide | Passed | 0.0 | 0.25 |
 | 1/14/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

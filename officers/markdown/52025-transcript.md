@@ -51,6 +51,7 @@
 | 1/26/2022 | PDP29456 | Metro Exp. Disp. Unit Procedure/SOP review | Passed | 0.0 | 9.00 |
 | 1/23/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/23/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 1/23/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 1/19/2022 | PDP32772 | EDU weekly: robot operations, disrupter, etc. | Instructed | 0.0 | 9.00 |
 | 1/18/2022 | PDP44224 | 2022 SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 1/12/2022 | PDP29782 | EDU training: robot PAN shooting, operations, etc. | Passed | 0.0 | 9.00 |

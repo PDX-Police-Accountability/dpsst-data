@@ -119,6 +119,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/18/2022
+  :course: BNP39812
+  :title: Airway and Circulatory Anatomy training
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 4/29/2022
   :course: VND34312
   :title: Officer Involved Shooting

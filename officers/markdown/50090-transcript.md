@@ -41,6 +41,9 @@
 | 5/11/2022 | PDP42861 | K-9 Training: Debriefs, De-escelation, etc. | Instructed | 0.0 | 2.00 |
 | 5/6/2022 | PDP05688 | Idaho Police Canine Assn Conference | Passed | 0.0 | 40.00 |
 | 4/20/2022 | PDP40995 | K-9 weekly (searches,OPCA standards, etc.) | Passed | 0.0 | 4.50 |
+| 3/16/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/16/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 3/16/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

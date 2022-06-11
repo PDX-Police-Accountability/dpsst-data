@@ -41,6 +41,8 @@
 | 2/10/2022 | PDP41369 | 2022 Advanced Shotgun Operator Pre-Test Guide | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 1/23/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 1/23/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 1/20/2022 | PDP18876 | 2022-2 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 1/20/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/20/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

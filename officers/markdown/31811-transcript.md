@@ -48,6 +48,9 @@
 | 3/4/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 3/4/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 2/24/2022 | PDP13603 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |
+| 2/19/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/19/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 2/19/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/14/2022 | PDP13603 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |
 | 2/10/2022 | PDP27667 | Advanced Shotgun Operator Course Training | Instructed | 0.0 | 9.00 |
 | 2/8/2022 | PDP27667 | Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |

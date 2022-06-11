@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2022 | HUP11912 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 5/11/2022 | HUP33125 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 5/10/2022 | SMP29046 | Quarterly Firearms Qualification | Passed | 0.0 | 2.00 |
 | 4/30/2022 | SMP00099 | Interacting with Mentally Ill as 1st Responder | Passed | 0.0 | 1.00 |

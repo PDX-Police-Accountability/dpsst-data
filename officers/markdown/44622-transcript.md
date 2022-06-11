@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2022 | F6R01153 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/12/2022 | OSH16383 | De-Escalation/Verbal Judo | Passed | 0.0 | 1.50 |
 | 5/12/2022 | OSH21012 | De-Escalation of People in Crisis | Passed | 0.0 | 1.50 |
 | 5/12/2022 | OSH27382 | PL 280 | Passed | 0.0 | 4.00 |

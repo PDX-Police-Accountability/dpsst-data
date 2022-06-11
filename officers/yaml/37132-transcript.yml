@@ -64,6 +64,18 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/7/2022
+  :course: PDP31806
+  :title: 2022-1 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 4/7/2022
+  :course: PDP05402
+  :title: 2022-1 Range Qualification 40mm Less Lethal
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 3/28/2022
   :course: PDP03333
   :title: EAP Peer Support role in critical incidents

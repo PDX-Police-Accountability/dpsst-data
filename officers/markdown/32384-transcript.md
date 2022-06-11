@@ -47,6 +47,9 @@
 | 3/2/2022 | PDP38827 | 2022 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/1/2022 | PDP14848 | 2022 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/28/2022 | PDP20456 | 2022 SERT Training - Classroom | Passed | 0.0 | 9.00 |
+| 2/17/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/17/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 2/17/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/15/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 2/15/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/15/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |

@@ -42,6 +42,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '15.91'
+- :date: 3/22/2022
+  :course: PDP04245
+  :title: 2022-1 Range Qual Secondary Firearm (50 Round)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 3/8/2022
   :course: PDP06390
   :title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -102,6 +108,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '18.00'
+- :date: 2/10/2022
+  :course: PDP15880
+  :title: 2022-1 Range Qualification Shotgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 2/10/2022
+  :course: PDP31806
+  :title: 2022-1 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 2/7/2022
   :course: PDP41369
   :title: 2022 Advanced Shotgun Operator Pre-Test Guide

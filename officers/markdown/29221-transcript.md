@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2022 | BNP39812 | Airway and Circulatory Anatomy training | Passed | 0.0 | 2.00 |
 | 4/29/2022 | VND34312 | Officer Involved Shooting | Passed | 0.0 | 2.00 |
 | 4/29/2022 | VND03762 | Scenario Based Training | Passed | 0.0 | 6.00 |
 | 4/28/2022 | VND34930 | Clinical States | Passed | 0.0 | 1.25 |

@@ -51,6 +51,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 4/12/2022
+  :course: PDP31806
+  :title: 2022-1 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 3/22/2022
   :course: PDP25308
   :title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community

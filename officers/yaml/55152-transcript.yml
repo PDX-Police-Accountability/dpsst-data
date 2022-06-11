@@ -120,6 +120,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.15'
+- :date: 1/10/2022
+  :course: PDP31806
+  :title: 2022-1 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/10/2022
+  :course: PDP15880
+  :title: 2022-1 Range Qualification Shotgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/3/2022
   :course: PDP14510
   :title: Directive 630.15 Foot Pursuits Video Part 2

@@ -67,6 +67,24 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.15'
+- :date: 1/13/2022
+  :course: PDP09335
+  :title: 2022-1 Range Qual AR-15 Qualification (20 Yard)
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.75'
+- :date: 1/13/2022
+  :course: PDP15880
+  :title: 2022-1 Range Qualification Shotgun
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
+- :date: 1/13/2022
+  :course: PDP31806
+  :title: 2022-1 Range Qualification Shotgun Function Check
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.25'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

@@ -60,6 +60,7 @@
 | 1/12/2022 | PDP39825 | 2021-11 Tips and Tech. Unlawful Street Takeover | Passed | 0.0 | 0.25 |
 | 1/12/2022 | PDP39942 | 2021-10 Tips and Tech. Citation-in-Lieu-of-Cust. | Passed | 0.0 | 0.25 |
 | 1/12/2022 | PDP07309 | 2021-9 Tips and Tech. Protect Workers Extreme Heat | Passed | 0.0 | 0.50 |
+| 1/12/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 1/11/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/11/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/11/2022 | PDP26426 | 2020-11 City Attorney's Legal Update Nov. 2020 | Passed | 0.0 | 0.25 |
@@ -70,6 +71,7 @@
 | 1/11/2022 | PDP07177 | 2021-7 City Attorney's Legal Updates for July 2021 | Passed | 0.0 | 0.25 |
 | 1/11/2022 | PDP33002 | 2021-6 City Attorney's Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
 | 1/11/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
+| 1/11/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 1/6/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 8/26/2021 | PDP42474 | 2021 FTEP Field Training Officer In-Service | Passed | 0.0 | 9.00 |
