@@ -42,6 +42,7 @@
 | 3/31/2022 | PDP11227 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.15 |
 | 3/31/2022 | PDP19016 | FTEP Geography Training | Instructed | 0.0 | 3.00 |
 | 3/30/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 3/22/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/21/2022 | PDP04245 | 2022-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 3/21/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/14/2022 | PDP07675 | 2022 FTEP Policy and Procedure | Instructed | 0.0 | 7.00 |

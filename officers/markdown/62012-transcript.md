@@ -61,6 +61,7 @@
 | 1/10/2022 | PDP39825 | 2021-11 Tips and Tech. Unlawful Street Takeover | Passed | 0.0 | 0.25 |
 | 1/10/2022 | PDP07309 | 2021-9 Tips and Tech. Protect Workers Extreme Heat | Passed | 0.0 | 0.50 |
 | 1/10/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
+| 1/10/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/8/2022 | PDP37440 | 2022 FTEP Post-DPSST Firearms Cold Qualification | Passed | 0.0 | 1.00 |
 | 1/8/2022 | PDP05619 | 2022 FTEP Post-DPSST Firearms | Passed | 0.0 | 5.00 |
 | 1/6/2022 | PDP41418 | 2022 FTEP Post Basic Taser | Passed | 0.0 | 8.00 |

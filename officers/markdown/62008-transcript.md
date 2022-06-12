@@ -61,6 +61,7 @@
 | 1/10/2022 | PDP30287 | 2021 Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 1/10/2022 | PDP40158 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 1/10/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
+| 1/10/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/9/2022 | PDP13897 | 2020-12 City Attorney's Legal Updates Dec. 2020 | Passed | 0.0 | 0.25 |
 | 1/9/2022 | PDP26426 | 2020-11 City Attorney's Legal Update Nov. 2020 | Passed | 0.0 | 0.25 |
 | 1/8/2022 | PDP37440 | 2022 FTEP Post-DPSST Firearms Cold Qualification | Passed | 0.0 | 1.00 |

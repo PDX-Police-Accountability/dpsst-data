@@ -51,6 +51,7 @@
 | 2/19/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/19/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/19/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 2/19/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/14/2022 | PDP13603 | 2022 Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |
 | 2/10/2022 | PDP27667 | Advanced Shotgun Operator Course Training | Instructed | 0.0 | 9.00 |
 | 2/8/2022 | PDP27667 | Advanced Shotgun Operator Course Training | Instructed | 0.0 | 18.00 |

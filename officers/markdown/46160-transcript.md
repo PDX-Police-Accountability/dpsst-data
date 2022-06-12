@@ -61,6 +61,7 @@
 | 1/12/2022 | PDP39942 | 2021-10 Tips and Tech. Citation-in-Lieu-of-Cust. | Passed | 0.0 | 0.25 |
 | 1/12/2022 | PDP07309 | 2021-9 Tips and Tech. Protect Workers Extreme Heat | Passed | 0.0 | 0.50 |
 | 1/12/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 1/12/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/11/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/11/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/11/2022 | PDP26426 | 2020-11 City Attorney's Legal Update Nov. 2020 | Passed | 0.0 | 0.25 |

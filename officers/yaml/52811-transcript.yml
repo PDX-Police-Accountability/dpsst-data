@@ -57,6 +57,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 5/20/2022
+  :course: PDS37106
+  :title: 2022 Basic Sniper School
+  :status: Passed
+  :score: '0.0'
+  :hours: '40.00'
 - :date: 3/30/2022
   :course: PDS06415
   :title: Patrol Unit Supervisor's Meeting

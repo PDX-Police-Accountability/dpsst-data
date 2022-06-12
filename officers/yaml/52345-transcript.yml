@@ -51,6 +51,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/8/2022
+  :course: PDP21753
+  :title: Peer Support Role in Member Serious Injury/LODD
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 5/24/2022
   :course: VND24030
   :title: 28 CFR Part 23 and Rissafe/Rissintel Deconfliction
@@ -69,6 +75,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 3/31/2022
+  :course: PDP12489
+  :title: 2022-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 3/28/2022
   :course: PDP03333
   :title: EAP Peer Support role in critical incidents

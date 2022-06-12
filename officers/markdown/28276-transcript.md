@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 6/7/2022 | SVP06310 | Cmd Staff-Need to Prioitize Ofc Health  Wellness | Passed | 0.0 | 1.75 |
 | 4/8/2022 | 22-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
 | 3/31/2022 | SVP43019 | How Physical  Mental Wellbeing Affects Perforance | Passed | 0.0 | 1.00 |
 | 3/29/2022 | SVP28511 | HB 4008 (Crowd Management) | Passed | 0.0 | 0.50 |

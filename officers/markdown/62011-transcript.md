@@ -32,6 +32,7 @@
 | 3/30/2022 | PDP39847 | FTEP Orientation Roster | Passed | 0.0 | 7.00 |
 | 3/25/2022 | PDP33047 | FTEP Post DPSST Basic Taser Training | Passed | 0.0 | 6.00 |
 | 3/24/2022 | PDP40833 | MRE/RMS RegJIN Training | Passed | 0.0 | 16.00 |
+| 3/23/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/22/2022 | PDP26641 | FTEP Post DPSST Firearms Training | Passed | 0.0 | 2.50 |
 | 3/21/2022 | PDP40158 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |
 | 3/21/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

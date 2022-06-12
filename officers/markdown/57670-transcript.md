@@ -47,6 +47,7 @@
 | 1/19/2022 | BPT36752 | Access for Public Safety | Passed | 0.0 | 16.00 |
 | 1/19/2022 | PDP17370 | HIDTA Access for Public Safety | Passed | 0.0 | 16.00 |
 | 1/13/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 1/13/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/6/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/6/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

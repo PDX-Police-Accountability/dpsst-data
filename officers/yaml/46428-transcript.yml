@@ -51,6 +51,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/8/2022
+  :course: PDP21753
+  :title: Peer Support Role in Member Serious Injury/LODD
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 4/21/2022
   :course: PDP36968
   :title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
@@ -117,6 +123,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/29/2022
+  :course: PDP12489
+  :title: 2022-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 1/15/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification

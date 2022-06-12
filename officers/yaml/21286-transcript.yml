@@ -93,9 +93,33 @@
   :status: Passed
   :score: '0.0'
   :hours: '4.00'
+- :date: 5/31/2022
+  :course: BBP06033
+  :title: Emergency Vehicle Operations
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 4/30/2022
+  :course: BBP44102
+  :title: Narcan and Opioid Exposure
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
 - :date: 4/7/2022
   :course: BBP12726
   :title: Adult/Infant CPR/AED/First Aid
+  :status: Passed
+  :score: '0.0'
+  :hours: '2.00'
+- :date: 3/31/2022
+  :course: BBP29132
+  :title: Dealing with Alzheimers
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
+- :date: 3/31/2022
+  :course: BBP24182
+  :title: Descalation and Minimizing Force
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
@@ -105,6 +129,18 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
+- :date: 2/28/2022
+  :course: BBP28125
+  :title: Suicide by Cop/Excited Delirium
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
+- :date: 1/31/2022
+  :course: BBP34036
+  :title: Active Shooter Response
+  :status: Passed
+  :score: '0.0'
+  :hours: '3.00'
 - :date: 12/31/2021
   :course: 21-CVDL1
   :title: 2021 LE Annual Maint-Not Met COVID19

@@ -43,8 +43,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/7/2022 | BNS29465 | DUII / SFST Refresher | Passed | 0.0 | 4.00 |
+| 5/31/2022 | BBP06033 | Emergency Vehicle Operations | Passed | 0.0 | 3.00 |
+| 4/30/2022 | BBP44102 | Narcan and Opioid Exposure | Passed | 0.0 | 2.00 |
 | 4/7/2022 | BBP12726 | Adult/Infant CPR/AED/First Aid | Passed | 0.0 | 2.00 |
+| 3/31/2022 | BBP29132 | Dealing with Alzheimers | Passed | 0.0 | 1.00 |
+| 3/31/2022 | BBP24182 | Descalation and Minimizing Force | Passed | 0.0 | 2.00 |
 | 3/10/2022 | BBP25126 | Airway and Circulatory Training Video | Passed | 0.0 | 2.00 |
+| 2/28/2022 | BBP28125 | Suicide by Cop/Excited Delirium | Passed | 0.0 | 3.00 |
+| 1/31/2022 | BBP34036 | Active Shooter Response | Passed | 0.0 | 3.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/9/2021 | BBP23402 | PREA Training | Passed | 0.0 | 1.00 |
 | 12/9/2021 | BBP00087 | Daily Training Bulletins | Passed | 0.0 | 24.00 |

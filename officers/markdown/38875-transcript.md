@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2021 | OSH02881 | Fingerprint Rejections | Passed | 0.0 | 1.50 |
 | 8/16/2019 | PDP11415 | IAI Forensic Education Conference | Passed | 0.0 | 38.50 |
 | 4/12/2019 | PDP30266 | Self Defense Workshop | Passed | 0.0 | 4.00 |
 | 5/4/2018 | PDP05727 | International Association for Identification Conf | Passed | 0.0 | 40.00 |

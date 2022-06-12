@@ -25,6 +25,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2022 | ENT06379 | LE Interviewing Juveniles | Passed | 0.0 | 0.50 |
+| 6/7/2022 | ENT29467 | Legislative Updates 2021-2022 | Passed | 0.0 | 1.50 |
 | 5/5/2021 | F6D27996 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |
 | 4/19/2019 | PDP15568 | May Day 2019 City Attorney Training | Passed | 0.0 | 1.50 |
 | 6/6/2018 | PDP07294 | 2018-2 Supv. In-Service Directive 330 | Passed | 0.0 | 2.00 |

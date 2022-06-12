@@ -37,6 +37,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 3/15/2022
+  :course: PDP12489
+  :title: 2022-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 2/21/2022
   :course: PDP30218
   :title: 2021 Training New Pistol Qualification

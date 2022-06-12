@@ -51,6 +51,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/8/2022
+  :course: PDP21753
+  :title: Peer Support Role in Member Serious Injury/LODD
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 3/8/2022
   :course: PDP10575
   :title: 2022 EAP-Crisis Planning
@@ -99,6 +105,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 2/9/2022
+  :course: PDP12489
+  :title: 2022-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 1/15/2022
   :course: PDP34045
   :title: 2022 Training 3M N Series Helmet

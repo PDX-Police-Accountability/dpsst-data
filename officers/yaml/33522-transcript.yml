@@ -38,6 +38,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/8/2022
+  :course: PDP21753
+  :title: Peer Support Role in Member Serious Injury/LODD
+  :status: Passed
+  :score: '0.0'
+  :hours: '8.00'
 - :date: 3/28/2022
   :course: PDP03333
   :title: EAP Peer Support role in critical incidents
@@ -110,6 +116,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/11/2022
+  :course: PDP12489
+  :title: 2022-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

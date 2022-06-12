@@ -39,6 +39,7 @@
 | 2/12/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 2/12/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/12/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
+| 2/8/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 1/13/2022 | PDP35600 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 4.00 |
 | 1/12/2022 | PDP38692 | RegJIN RMS/MRE Training | Passed | 0.0 | 18.00 |

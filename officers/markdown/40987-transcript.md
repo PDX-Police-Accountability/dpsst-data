@@ -61,6 +61,7 @@
 | 2/2/2022 | PDP13182 | EDU switch diagnostics  remote rigging | Passed | 0.0 | 9.00 |
 | 1/27/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 1/27/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 1/27/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/26/2022 | PDP29456 | Metro Exp. Disp. Unit Procedure/SOP review | Passed | 0.0 | 9.00 |
 | 1/19/2022 | PDP32772 | EDU weekly: robot operations, disrupter, etc. | Passed | 0.0 | 9.00 |
 | 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

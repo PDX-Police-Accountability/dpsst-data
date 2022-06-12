@@ -24,6 +24,12 @@
   :expiration_date: ''
   :probation_date: ''
 :training_records:
+- :date: 6/1/2022
+  :course: TOP03296
+  :title: May 2022 DTBs
+  :status: Passed
+  :score: '0.0'
+  :hours: '1.00'
 - :date: 5/1/2022
   :course: TOP34861
   :title: April 2022 DTBs
@@ -114,6 +120,12 @@
   :status: Passed
   :score: '0.0'
   :hours: '0.25'
+- :date: 1/12/2022
+  :course: PDP12489
+  :title: 2022-1 Range Qualification Primary Firearm
+  :status: Passed
+  :score: '0.0'
+  :hours: '0.50'
 - :date: 1/9/2022
   :course: MISCMAIN
   :title: 2021 LE Annual Maintenance

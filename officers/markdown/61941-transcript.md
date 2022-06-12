@@ -32,6 +32,7 @@
 | 3/30/2022 | PDP39847 | FTEP Orientation Roster | Passed | 0.0 | 7.00 |
 | 3/25/2022 | PDP33047 | FTEP Post DPSST Basic Taser Training | Passed | 0.0 | 6.00 |
 | 3/24/2022 | PDP40833 | MRE/RMS RegJIN Training | Passed | 0.0 | 16.00 |
+| 3/23/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/22/2022 | PDP30287 | 2021 Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 3/22/2022 | PDP03389 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 3/22/2022 | PDP40339 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
