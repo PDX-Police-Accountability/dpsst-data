@@ -1,6 +1,7 @@
 ## Transcripts (sorted by rank)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
+| * MISSING | 17691 |  |  |  | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Leloff, Michael W. | 17573 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/17573-transcript.md) - [yaml](../yaml/17573-transcript.yml) |
 | Henderson, Donna M. | 20228 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/20228-transcript.md) - [yaml](../yaml/20228-transcript.yml) |
 | Wagenknecht, Mathew A. | 24983 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/24983-transcript.md) - [yaml](../yaml/24983-transcript.yml) |
@@ -1271,7 +1272,6 @@
 | El Mohamed, Mohamed F. | 62958 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62958-transcript.md) - [yaml](../yaml/62958-transcript.yml) |
 | Plantillas, Jairo D. | 62959 | Portland Police Bureau | Active | Police Officer | [md](../markdown/62959-transcript.md) - [yaml](../yaml/62959-transcript.yml) |
 | Staples, Jeffrey W. | 17133 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17133-transcript.md) - [yaml](../yaml/17133-transcript.yml) |
-| Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Ortez, Armond A. | 18966 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/18966-transcript.md) - [yaml](../yaml/18966-transcript.yml) |
 | Stout, Diane | 18970 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/18970-transcript.md) - [yaml](../yaml/18970-transcript.yml) |
 | Cunningham, Craig A. | 21286 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/21286-transcript.md) - [yaml](../yaml/21286-transcript.yml) |

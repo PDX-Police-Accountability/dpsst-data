@@ -936,11 +936,7 @@
   :status: Passed
   :score: '0.0'
   :hours: '2.00'
-:attribute_records:
-- :topic: Code of Ethics
-  :value: Signed
-  :effective_date: 5/28/2009
-  :expiration_date: ''
+:attribute_records: []
 :education_records:
 - :date: 3/15/2002
   :degree: No Degree

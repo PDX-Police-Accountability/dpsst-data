@@ -1,6 +1,7 @@
 ## Transcripts (sorted by employment status)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
+| * MISSING | 17691 |  |  |  | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Azorr, Robert M. | 17432 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/17432-transcript.md) - [yaml](../yaml/17432-transcript.yml) |
 | Clark, Deena J. | 17932 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/17932-transcript.md) - [yaml](../yaml/17932-transcript.yml) |
 | Coleman, Barbara A. | 20108 | Portland Police Bureau | Active | Civilian Employee | [md](../markdown/20108-transcript.md) - [yaml](../yaml/20108-transcript.yml) |
@@ -905,7 +906,6 @@
 | Cuthbertson, Bruce E. | 17500 | Portland Police Bureau | Inactive | Civilian Employee | [md](../markdown/17500-transcript.md) - [yaml](../yaml/17500-transcript.yml) |
 | Sprague, Karl R. | 17544 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/17544-transcript.md) - [yaml](../yaml/17544-transcript.yml) |
 | Leloff, Michael W. | 17573 | Portland Police Bureau | Inactive | Assistant Chief | [md](../markdown/17573-transcript.md) - [yaml](../yaml/17573-transcript.yml) |
-| Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Potter, Donna K. | 17696 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/17696-transcript.md) - [yaml](../yaml/17696-transcript.yml) |
 | Slauson, Daniel J. | 17699 | Portland Police Bureau | Inactive | Sergeant | [md](../markdown/17699-transcript.md) - [yaml](../yaml/17699-transcript.yml) |
 | Kuemper, Denise L. | 17724 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/17724-transcript.md) - [yaml](../yaml/17724-transcript.yml) |

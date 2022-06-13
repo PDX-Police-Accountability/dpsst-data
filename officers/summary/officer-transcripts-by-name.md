@@ -1,6 +1,7 @@
 ## Transcripts (sorted by name)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----- |
+| * MISSING | 17691 |  |  |  | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
@@ -1481,7 +1482,6 @@
 | Wilcox, Dennis N. | 24189 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/24189-transcript.md) - [yaml](../yaml/24189-transcript.yml) |
 | Wiley, Laura J. | 39651 | Portland Police Bureau | Active | Sergeant | [md](../markdown/39651-transcript.md) - [yaml](../yaml/39651-transcript.yml) |
 | Wilgus, Garrett F. | 60603 | Portland Police Bureau | Inactive | Police Officer | [md](../markdown/60603-transcript.md) - [yaml](../yaml/60603-transcript.yml) |
-| Wilkinson, Steven P. | 17691 | Portland Police Bureau | Inactive | Reserve Officer | [md](../markdown/17691-transcript.md) - [yaml](../yaml/17691-transcript.yml) |
 | Willard, Elizabeth A. | 28929 | Portland Police Bureau | Active | Police Officer | [md](../markdown/28929-transcript.md) - [yaml](../yaml/28929-transcript.yml) |
 | Willard, Tina M. | 22518 | Portland Police Bureau | Inactive | Criminalist | [md](../markdown/22518-transcript.md) - [yaml](../yaml/22518-transcript.yml) |
 | Willard, Tyrone D. | 47105 | Portland Police Bureau | Active | Sergeant | [md](../markdown/47105-transcript.md) - [yaml](../yaml/47105-transcript.yml) |
