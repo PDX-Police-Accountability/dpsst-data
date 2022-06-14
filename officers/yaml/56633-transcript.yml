@@ -470,6 +470,10 @@
   :hours: '0.25'
 :attribute_records:
 - :topic: Code of Ethics
+  :value: Law Enforcement Signed
+  :effective_date: 12/11/2017
+  :expiration_date: ''
+- :topic: Code of Ethics
   :value: Signed
   :effective_date: 11/6/2016
   :expiration_date: ''
