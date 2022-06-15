@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2022 | TDP22694 | Advanced Defensive Driving Techniques | Passed | 0.0 | 1.00 |
 | 3/22/2022 | TDP40775 | Implicit Bias 2022 | Passed | 0.0 | 1.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6R03814 | Advanced Leadership for a Police Reform Era | Passed | 0.0 | 4.00 |

@@ -40,6 +40,7 @@
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 3/17/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 3/1/2022 | F6R31745 | DID/SFST Hours Included in Basic | Passed | 0.0 | 24.00 |
 | 2/1/2022 | BPT37233 | In Our Own Voice | Passed | 0.0 | 2.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2022 | 15029 | CONSENT TO SEARCH/ EQUIPMENT VEHICLE STOPS | Passed | 0.0 | 0.50 |
 | 5/4/2022 | MAP31626 | HB 2513 AIRWAY  CIRCULATORY CRISIS | Passed | 0.0 | 2.00 |
 | 4/27/2022 | MAP43730 | LE Prevention and Deterrence of Terrorist Acts | Passed | 0.0 | 14.00 |
 | 4/20/2022 | MAP04225 | Handgun Shooting While Moving | Passed | 0.0 | 4.00 |
