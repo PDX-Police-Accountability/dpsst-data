@@ -4,4 +4,14 @@
 
 $content-width: 90%;
 
+table#roster tr td:first-child {
+  color: blue;
+  text-decoration: underline blue;
+
+  &:hover {
+    font-weight: bold;
+    cursor: pointer;
+  }
+}
+
 @import "minima";

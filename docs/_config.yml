@@ -36,6 +36,10 @@ header_pages:
   - blog.md
   - content/ppb-roster.html
 
+collections:
+  officers:
+    output: true
+
 # Build settings
 theme: minima
 plugins:

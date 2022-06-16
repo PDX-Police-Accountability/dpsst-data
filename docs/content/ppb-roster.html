@@ -88,6 +88,13 @@ $(document).ready(function () {
                 .setSelectionRange(cursorPosition, cursorPosition);
             });
         });
+
+        $(this).on('click', 'tbody td:first-child', function() {
+          // Get the dpsst identifier from the 2nd column in this row
+          var dpsst_identifier = table.row(this).data()[1];
+
+          window.open("{{ site.baseurl }}" + '/officers/' + dpsst_identifier, '_blank');
+        });
     },
   });
 });
