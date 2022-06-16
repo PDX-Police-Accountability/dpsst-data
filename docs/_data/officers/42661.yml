@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2022
+  course: BPT07056
+  title: Adult Leaning Core
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/7/2022
+  course: BPT27926
+  title: Basic Facilitator Development Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/22/2022
   course: PDP12489
   title: 2022-1 Range Qualification Primary Firearm

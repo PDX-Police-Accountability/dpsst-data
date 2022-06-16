@@ -132,6 +132,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 5/19/2022
+  course: STS27683
+  title: HB 2513 - Airway and Circulation Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/2/2022
   course: STS17907
   title: Firearms training

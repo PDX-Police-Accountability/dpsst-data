@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/7/2022
+  course: F6R20897
+  title: 2nd Trimester Firearms - Rifle
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/4/2022
   course: OSH17559
   title: Western States Hostage Negotiators' Assosciation

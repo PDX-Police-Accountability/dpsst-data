@@ -174,6 +174,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 3/1/2022
+  course: F6R31745
+  title: DID/SFST Hours Included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 11/26/2021
   course: PDP14553
   title: WMD/Terrorism Awareness for Emergency Responders

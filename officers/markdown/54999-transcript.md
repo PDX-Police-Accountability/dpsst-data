@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2022 | TDP39282 | Tactical Training: Cautious  Controlled Clearing | Passed | 0.0 | 4.50 |
 | 5/18/2022 | HRS18467 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 5/17/2022 | HRS22037 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 4/26/2022 | HRS04075 | Basic First Aid/CPR  AED for Adult/Child/Infant | Passed | 0.0 | 4.00 |

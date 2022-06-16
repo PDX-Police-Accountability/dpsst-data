@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 6/13/2022
+  course: TDP39282
+  title: 'Tactical Training: Cautious  Controlled Clearing'
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 5/18/2022
   course: HRS18467
   title: Defensive Tactics
