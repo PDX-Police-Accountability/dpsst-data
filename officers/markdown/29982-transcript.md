@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2022 | SVP29859 | Firearms Training and Qualification | Passed | 0.0 | 3.00 |
 | 6/7/2022 | SVP06310 | Cmd Staff-Need to Prioitize Ofc Health  Wellness | Passed | 0.0 | 1.75 |
 | 4/27/2022 | REG28741 | Tactical Medicine / Firearms Range Drills | Instructed | 0.0 | 14.00 |
 | 4/20/2022 | SVP36695 | Building Clearing Simunitions Training | Instructed | 0.0 | 4.00 |
