@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2022
+  course: OCS37670
+  title: FBI LEEDA- Executive Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/31/2022
   course: PDP38269
   title: 2021-12 City Attorney's Legal Update for Dec. 2021

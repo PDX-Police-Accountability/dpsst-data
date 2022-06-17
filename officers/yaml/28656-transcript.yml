@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2022
+  course: TGP35064
+  title: Lock Picking, Bypassing  Subtle Mech Breaching
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/13/2022
   course: TGP29734
   title: Patrol Rifle Operator Course

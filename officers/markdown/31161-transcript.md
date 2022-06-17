@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 4.00 |
 | 5/4/2022 | TGP10528 | Redefining Adversity | Passed | 0.0 | 1.00 |
 | 3/16/2022 | TGP20313 | Domestic Violence Training | Passed | 0.0 | 1.00 |
 | 3/3/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2022 | PDS41667 | CIT | Passed | 0.0 | 4.00 |
 | 3/11/2022 | PDS05042 | EVOC | Passed | 0.0 | 10.00 |
 | 1/29/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 1/4/2022 | PDS42907 | CPR-First Aid | Passed | 0.0 | 2.00 |

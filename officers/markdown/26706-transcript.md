@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2022 | PDS18438 | CIT | Passed | 0.0 | 4.00 |
 | 3/23/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/23/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |
 | 1/10/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |

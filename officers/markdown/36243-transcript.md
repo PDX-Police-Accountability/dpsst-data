@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2022 | HBS39068 | Peer Support | Passed | 0.0 | 7.50 |
 | 5/11/2022 | HBS18378 | Hostage Rescue Scenario Training | Passed | 0.0 | 10.00 |
 | 3/24/2022 | HBS13958 | MFF Scenarios and scenario building | Passed | 0.0 | 8.00 |
 | 3/23/2022 | OCS37415 | CPR First Aid | Passed | 0.0 | 6.00 |

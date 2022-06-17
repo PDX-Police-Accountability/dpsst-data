@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2022 | PDS24117 | CIT | Passed | 0.0 | 4.00 |
 | 3/9/2022 | LOP19092 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/13/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 1/12/2022 | PDS27476 | CPR-First Aid | Passed | 0.0 | 2.00 |

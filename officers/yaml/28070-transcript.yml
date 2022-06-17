@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2022
+  course: TGP10075
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/26/2022
   course: TUP09824
   title: EVOC

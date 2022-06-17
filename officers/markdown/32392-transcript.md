@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
 | 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Instructed | 0.0 | 40.00 |
 | 5/4/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/4/2022 | HBS40279 | CART Medical Conditions at Crashes | Passed | 0.0 | 1.00 |

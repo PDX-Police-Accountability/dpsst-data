@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2022
+  course: OCS31761
+  title: SWAT - Marksmanship Keyhole Shooting
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/5/2022
   course: OCS43988
   title: Functional Pistol Skills

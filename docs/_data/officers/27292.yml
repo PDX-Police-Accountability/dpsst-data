@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/26/2022
+  course: PDS35475
+  title: CIT
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/22/2022
   course: PDS00390
   title: Medication Supported Recovery

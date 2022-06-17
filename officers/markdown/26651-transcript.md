@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2022 | PDS19905 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 5/17/2022 | PDS05408 | Use of Force for Supervisors | Instructed | 0.0 | 4.00 |
 | 5/17/2022 | PDS42263 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 5/16/2022 | PDS02141 | Use of Force for Supervisors | Instructed | 0.0 | 4.00 |

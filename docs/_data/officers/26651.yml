@@ -81,6 +81,12 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 5/26/2022
+  course: PDS19905
+  title: Use of Force Reports
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/17/2022
   course: PDS05408
   title: Use of Force for Supervisors

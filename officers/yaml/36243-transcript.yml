@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/9/2022
+  course: HBS39068
+  title: Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 5/11/2022
   course: HBS18378
   title: Hostage Rescue Scenario Training

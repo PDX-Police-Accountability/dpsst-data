@@ -55,6 +55,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/2/2022
+  course: MKL41204
+  title: Use of Force / Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/31/2022
   course: MKL34858
   title: ACAP Training Video

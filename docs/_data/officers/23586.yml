@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/7/2022
+  course: PDS04015
+  title: CIT
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/20/2022
   course: PDS19200
   title: Airway  Circulatory Crisis Training  Response

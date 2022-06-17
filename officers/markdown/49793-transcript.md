@@ -44,7 +44,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/1/2022 | MKL09400 | Defensive Tactics/Use of Force | Passed | 0.0 | 8.00 |
 | 5/11/2022 | CIF27670 | Handgun and Rifle Range | Passed | 0.0 | 2.00 |
 | 3/30/2022 | CIF43585 | Tactical First Aid | Instructed | 0.0 | 1.00 |
 | 3/10/2022 | CIF41966 | Firearms Qualify | Passed | 0.0 | 0.50 |

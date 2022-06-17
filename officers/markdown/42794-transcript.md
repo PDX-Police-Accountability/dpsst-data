@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2022 | OCS31761 | SWAT - Marksmanship Keyhole Shooting | Instructed | 0.0 | 3.00 |
 | 6/5/2022 | OCS43988 | Functional Pistol Skills | Passed | 0.0 | 20.00 |
 | 6/1/2022 | OCS16410 | New Hire Shotgun Orientation | Instructed | 0.0 | 2.00 |
 | 5/13/2022 | OCS34450 | May 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
