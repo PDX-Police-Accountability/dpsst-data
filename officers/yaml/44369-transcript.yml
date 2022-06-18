@@ -105,6 +105,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2022
+  course: BPT31793
+  title: Adult Learning Core
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/15/2022
+  course: BPT10339
+  title: Coaching and Feedback
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/7/2022
   course: STP25178
   title: Legal update

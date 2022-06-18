@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2022
+  course: F6R18276
+  title: Use of Force/Taser/40mm
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/12/2022
   course: HUP39428
   title: OACP Annual Conference General Board Meeting

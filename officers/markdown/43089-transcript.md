@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/30/2022 | LGS18982 | Defensive Tactics, Con-Sims | Instructed | 0.0 | 4.00 |
 | 3/28/2022 | LGP31066 | Team Movement/Firearms | Passed | 0.0 | 4.00 |
 | 3/14/2022 | LGS41702 | Taser X26 User Course | Instructed | 0.0 | 1.50 |
 | 3/1/2022 | LGS11682 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |

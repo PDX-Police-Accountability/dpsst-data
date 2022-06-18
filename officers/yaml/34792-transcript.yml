@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/7/2022
+  course: TAP04560
+  title: Life's Advice - Joe Rogan podcast-youtube video
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/21/2022
+  course: TAP32552
+  title: Developing a Culture of Accountability
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/17/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -110,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/15/2022
+  course: TAP00456
+  title: Impriving Police Decision Making Under Stress
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 1/13/2022
   course: REG21173
   title: Pursuit Management for Supervisors

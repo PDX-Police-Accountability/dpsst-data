@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
+| 5/13/2022 | HDA18610 | Criminal Gang Investigations | Passed | 0.0 | 24.00 |
 | 4/18/2022 | REG05790 | DT controlling base and recovering base | Passed | 0.0 | 1.00 |
 | 4/14/2022 | REG11755 | Control tactics- Structure control and recovery | Passed | 0.0 | 1.00 |
 | 4/7/2022 | REG03632 | Grip fighting, 2 officer take down, wrestle up | Passed | 0.0 | 1.00 |

@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/27/2022
+  course: F6R18276
+  title: Use of Force/Taser/40mm
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/25/2022
   course: CAP37217
   title: HB 2513 Airway and Circulatory Crisis Legislation

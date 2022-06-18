@@ -41,12 +41,15 @@
 | 4/12/2022 | ADP30708 | Crime Scene Investigation | Passed | 0.0 | 1.00 |
 | 4/12/2022 | ADP39215 | Cops/Firefighters-How to Help Each Other | Passed | 0.0 | 1.00 |
 | 4/8/2022 | ADP37728 | Less Lethal Shotgun and Ballistic Shield Refresher | Passed | 0.0 | 3.00 |
+| 4/7/2022 | TAP04560 | Life's Advice - Joe Rogan podcast-youtube video | Passed | 0.0 | 1.50 |
+| 3/21/2022 | TAP32552 | Developing a Culture of Accountability | Passed | 0.0 | 1.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/17/2022 | TAP42193 | AED Refresher | Passed | 0.0 | 0.50 |
 | 3/11/2022 | ADP31469 | Firearms Training-Pistol | Passed | 0.0 | 4.00 |
 | 3/11/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 3/11/2022 | ADP41485 | 2022 ETHOS Program-Ethics | Passed | 0.0 | 3.00 |
 | 2/25/2022 | ADP34231 | Defensive Tactics-PunchDefense/BodyLocks/Takedowns | Passed | 0.0 | 4.00 |
+| 2/15/2022 | TAP00456 | Impriving Police Decision Making Under Stress | Passed | 0.0 | 1.25 |
 | 1/13/2022 | REG21173 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |
 | 12/22/2021 | TAP36680 | Leading in Times of Chaos and Adversity | Passed | 0.0 | 3.00 |
 | 12/20/2021 | TAP37246 | Tctical Medical Care Evolution Officer Down Trng | Passed | 0.0 | 1.00 |

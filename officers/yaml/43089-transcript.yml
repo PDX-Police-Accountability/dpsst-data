@@ -124,6 +124,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/30/2022
+  course: LGS18982
+  title: Defensive Tactics, Con-Sims
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/28/2022
   course: LGP31066
   title: Team Movement/Firearms

@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2022
+  course: OCS28839
+  title: New Hire Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/28/2022
   course: OCP09933
   title: Firearms/Use of Force

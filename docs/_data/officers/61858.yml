@@ -48,6 +48,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '200.00'
+- date: 6/15/2022
+  course: MFN33368
+  title: 'CR2: Creating Regulation and Resilience'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/25/2022
   course: MFN27240
   title: Jack Co Mental Health Resources

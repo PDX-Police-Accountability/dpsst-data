@@ -82,6 +82,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/19/2022
+  course: MKL29255
+  title: Metrc RFID Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/18/2022
+  course: MKL44019
+  title: Advanced Metrc Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/16/2022
   course: MKL41467
   title: Metrc Training

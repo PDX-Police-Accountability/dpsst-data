@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/1/2022 | MKL12465 | Defensive Tactics/Use of Force | Passed | 0.0 | 8.00 |
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
+| 4/19/2022 | MKL29255 | Metrc RFID Training | Passed | 0.0 | 8.00 |
+| 4/18/2022 | MKL44019 | Advanced Metrc Training | Passed | 0.0 | 8.00 |
 | 3/16/2022 | MKL41467 | Metrc Training | Passed | 0.0 | 3.00 |
 | 12/21/2021 | MKL28189 | DOJ- Understanding and Addressing Sex Trafficking | Passed | 0.0 | 1.50 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
