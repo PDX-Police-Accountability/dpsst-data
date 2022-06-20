@@ -27,8 +27,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
+| Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2022 | HBS40790 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 3/24/2022 | HBS13958 | MFF Scenarios and scenario building | Passed | 0.0 | 8.00 |
 | 3/23/2022 | HBS23896 | MFF Skill Building (formations/breakouts) | Passed | 0.0 | 8.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

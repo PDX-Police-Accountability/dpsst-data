@@ -32,8 +32,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
+| Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Code of Ethics | Signed | 5/11/2001 |  |
 | Code of Ethics | Signed | 5/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2022 | HBS39068 | Peer Support | Passed | 0.0 | 7.50 |
+| 5/23/2022 | HBS13449 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 5/11/2022 | HBS18378 | Hostage Rescue Scenario Training | Passed | 0.0 | 10.00 |
 | 3/24/2022 | HBS13958 | MFF Scenarios and scenario building | Passed | 0.0 | 8.00 |
 | 3/23/2022 | OCS37415 | CPR First Aid | Passed | 0.0 | 6.00 |

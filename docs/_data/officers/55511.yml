@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2022
+  course: HBS02817
+  title: IFAST In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/29/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

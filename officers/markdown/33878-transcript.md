@@ -28,7 +28,11 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
+| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
+| Code of Ethics | Signed | 2/13/2007 |  |
 | Code of Ethics | Signed | 2/13/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/6/2022 | PDP16998 | OPCA Spring Seminar | Passed | 0.0 | 16.00 |
+| 4/6/2022 | BVP17368 | OPCA Spring Conference | Passed | 0.0 | 24.00 |
 | 3/10/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/10/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/10/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
