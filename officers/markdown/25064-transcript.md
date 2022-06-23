@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2022 | BPT31793 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/15/2022 | BPT10339 | Coaching and Feedback | Passed | 0.0 | 4.00 |
+| 6/15/2022 | MKL24792 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 5/26/2022 | MKL36110 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 5/4/2022 | MKL39734 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |

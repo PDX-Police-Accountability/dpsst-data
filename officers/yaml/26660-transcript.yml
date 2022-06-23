@@ -86,6 +86,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/13/2022
+  course: LOP30073
+  title: Metro Area Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 4/15/2022
   course: HSU13774
   title: Pre Academy Firearms 9

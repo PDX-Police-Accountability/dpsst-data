@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/6/2022
+  course: LOP18786
+  title: Metro Area Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/4/2022
   course: PDP02885
   title: K-9 Weekly (de-escelation, obidence, etc.)

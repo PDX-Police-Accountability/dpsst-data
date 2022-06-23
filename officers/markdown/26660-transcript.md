@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Passed | 0.0 | 3.00 |
 | 5/18/2022 | 22-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 5/13/2022 | LOP30073 | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/15/2022 | HSU13774 | Pre Academy Firearms 9 | Passed | 0.0 | 4.00 |
 | 4/1/2022 | HSU22593 | Pre Academy Firearms 8 | Passed | 0.0 | 4.00 |
 | 3/26/2022 | HSU04230 | Instructor In-Service Firearms Spring 2022 | Instructed | 0.0 | 4.00 |

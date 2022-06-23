@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/6/2022 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 10/6/2021 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 8/20/2020 | Portland Police Bureau | Retired | Police Off |  |  |
 | 4/21/1994 | Portland Police Bureau | Hired | Police Off |  |  |

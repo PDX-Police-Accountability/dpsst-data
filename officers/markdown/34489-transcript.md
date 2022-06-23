@@ -87,6 +87,7 @@
 | 4/30/2021 | OCS01197 | June Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS36696 | EVOC classroom | Passed | 0.0 | 1.00 |
 | 4/21/2021 | F6D26945 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
+| 4/21/2021 | OCS01274 | EVOC track session | Passed | 0.0 | 5.00 |
 | 3/31/2021 | OCS02227 | March Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/1/2021 | OCS43999 | Stop Data Training | Passed | 0.0 | 0.50 |
 | 2/28/2021 | OCS18919 | Defensive Tactics- Striking | Passed | 0.0 | 1.00 |

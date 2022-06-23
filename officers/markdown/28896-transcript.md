@@ -82,6 +82,7 @@
 | 5/3/2021 | F6D39028 | SFST Refresher with Wet Lab | Passed | 0.0 | 9.00 |
 | 4/30/2021 | OCS01197 | June Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS36696 | EVOC classroom | Passed | 0.0 | 1.00 |
+| 4/21/2021 | OCS01274 | EVOC track session | Passed | 0.0 | 5.00 |
 | 2/28/2021 | OCS18919 | Defensive Tactics- Striking | Passed | 0.0 | 1.00 |
 | 2/28/2021 | OCS05265 | February monthly firearms | Passed | 0.0 | 1.00 |
 | 2/1/2021 | OCS31237 | Harassment training | Passed | 0.0 | 0.50 |

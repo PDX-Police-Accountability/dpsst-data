@@ -164,6 +164,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2022
+  course: CYS36340
+  title: Trauma Bag Training
+  status: ''
+  score: '0.0'
+  hours: '1.00'
 - date: 5/23/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/26/2022 | PDP30549 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
+| 5/6/2022 | LOP18786 | Metro Area Sergeants Academy | Passed | 0.0 | 16.00 |
 | 4/1/2022 | PDP43751 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 4/1/2022 | PDP16040 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |

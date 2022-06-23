@@ -90,6 +90,7 @@
 | 4/30/2021 | OCS12772 | May Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS01197 | June Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS36696 | EVOC classroom | Passed | 0.0 | 1.00 |
+| 4/21/2021 | OCS01274 | EVOC track session | Passed | 0.0 | 5.00 |
 | 4/8/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/2/2021 | OCS23601 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/9/2021 | F6D42236 | Firearms - Marksmanship, Multiple Targets, Veh. | Passed | 0.0 | 4.00 |

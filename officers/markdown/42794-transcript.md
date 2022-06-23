@@ -114,6 +114,7 @@
 | 4/30/2021 | OCS01197 | June Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS25472 | April Firearms instructor hours | Instructed | 0.0 | 94.00 |
 | 4/30/2021 | OCS36696 | EVOC classroom | Passed | 0.0 | 1.00 |
+| 4/21/2021 | OCS01274 | EVOC track session | Passed | 0.0 | 5.00 |
 | 4/20/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/7/2021 | F6D07289 | Pistol Red Dot Instructor Course | Passed | 0.0 | 24.00 |
 | 3/30/2021 | OCS10678 | March Firearms instructor hours | Instructed | 0.0 | 59.00 |

@@ -26,11 +26,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/3/2022 | Corrections Officer | Basic | Lapsed-UR | 10/2/2018 | 11/3/2026 |  |
-| 2/3/2022 | Police Officer | Advanced | Lapsed-UR | 11/7/2008 | 11/3/2026 |  |
-| 2/3/2022 | Police Officer | Basic | Lapsed-UR | 12/16/1999 | 11/3/2026 |  |
-| 2/3/2022 | Police Officer | Intermediate | Lapsed-UR | 11/10/2003 | 11/3/2026 |  |
-| 2/3/2022 | Police Officer | Supervisory | Lapsed-UR | 9/12/2016 | 11/3/2026 |  |
+| 6/17/2022 | Corrections Officer | Basic | REVOKED | 10/2/2018 | 11/3/2026 |  |
+| 6/17/2022 | Police Officer | Advanced | REVOKED | 11/7/2008 | 11/3/2026 |  |
+| 6/17/2022 | Police Officer | Basic | REVOKED | 12/16/1999 | 11/3/2026 |  |
+| 6/17/2022 | Police Officer | Intermediate | REVOKED | 11/10/2003 | 11/3/2026 |  |
+| 6/17/2022 | Police Officer | Supervisory | REVOKED | 9/12/2016 | 11/3/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

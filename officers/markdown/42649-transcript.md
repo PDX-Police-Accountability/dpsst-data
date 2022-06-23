@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/19/2022 | PDP03853 | K-9 Training: Build. Searches, Equipment, etc. | Passed | 0.0 | 1.00 |
 | 5/11/2022 | PDP42861 | K-9 Training: Debriefs, De-escelation, etc. | Passed | 0.0 | 1.00 |
+| 5/6/2022 | LOP18786 | Metro Area Sergeants Academy | Passed | 0.0 | 16.00 |
 | 5/4/2022 | PDP02885 | K-9 Weekly (de-escelation, obidence, etc.) | Passed | 0.0 | 4.00 |
 | 4/20/2022 | PDP40995 | K-9 weekly (searches,OPCA standards, etc.) | Passed | 0.0 | 4.50 |
 | 3/16/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

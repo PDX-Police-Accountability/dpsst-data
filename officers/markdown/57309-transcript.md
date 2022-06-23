@@ -80,6 +80,7 @@
 | 4/30/2021 | OCS12772 | May Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS36696 | EVOC classroom | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS35810 | 2nd Quarter Shotgun | Passed | 0.0 | 1.00 |
+| 4/21/2021 | OCS01274 | EVOC track session | Passed | 0.0 | 5.00 |
 | 3/31/2021 | OCS02227 | March Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/3/2021 | F6D31314 | Patrol Tactics - Team Movement, Building Searches. | Passed | 0.0 | 24.00 |
 | 3/1/2021 | OCS43999 | Stop Data Training | Passed | 0.0 | 0.50 |
