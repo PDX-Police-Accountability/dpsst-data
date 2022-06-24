@@ -49,6 +49,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2022
+  course: TRN01391
+  title: 2022 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2022
+  course: TRN18068
+  title: 2022 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2022
+  course: TRN21270
+  title: PREA Training Requirement v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/13/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

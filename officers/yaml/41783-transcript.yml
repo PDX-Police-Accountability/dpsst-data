@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2022
+  course: PDS24124
+  title: Officer Involved Shootings Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/30/2022
   course: PDP31806
   title: 2022-1 Range Qualification Shotgun Function Check

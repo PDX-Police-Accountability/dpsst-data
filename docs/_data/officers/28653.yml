@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2022
+  course: PDS24124
+  title: Officer Involved Shootings Investigations
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/19/2022
   course: VND37030
   title: 1st Annual OR Cold Case Inv Assn Conf

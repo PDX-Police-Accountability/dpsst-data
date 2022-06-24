@@ -122,6 +122,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/16/2022
+  course: REG00066
+  title: Handgun IDC
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/8/2022
   course: SVP29859
   title: Firearms Training and Qualification

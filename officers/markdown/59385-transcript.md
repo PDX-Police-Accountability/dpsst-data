@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/22/2022 | Police Officer | Intermediate | App Recd |  |  |  |
 | 11/30/2021 | Police Officer | Basic | Granted | 11/30/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -32,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2022 | PSU23792 | Speed/Multiple Targets/Marksmanship/Qualification | Passed | 0.0 | 1.50 |
 | 3/31/2022 | ATP37011 | TASER INSTRUCTOR TRAINING | Passed | 0.0 | 16.00 |
 | 2/24/2022 | F1502818 | Conducted Electrical Weapon | Passed | 0.0 | 1.00 |
 | 2/24/2022 | F1503144 | Addressing Homeless Population | Passed | 0.0 | 1.00 |

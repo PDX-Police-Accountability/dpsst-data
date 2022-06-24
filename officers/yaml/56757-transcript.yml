@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/21/2022
+  course: PSU23792
+  title: Speed/Multiple Targets/Marksmanship/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/5/2022
   course: PSU37477
   title: Calm Approach

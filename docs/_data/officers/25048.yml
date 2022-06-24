@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2022
+  course: PDS24124
+  title: Officer Involved Shootings Investigations
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/28/2022
   course: SAG38963
   title: Crisis Cops - Law Enforcement Campaign

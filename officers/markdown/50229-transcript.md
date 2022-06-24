@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2022 | TRN01391 | 2022 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 5/31/2022 | TRN18068 | 2022 Information Security Training Foundations | Passed | 0.0 | 0.50 |
+| 5/31/2022 | TRN21270 | PREA Training Requirement v2022 | Passed | 0.0 | 1.00 |
 | 1/13/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | TRN26257 | How Being Trauma-Informed Improves CJS Responses | Passed | 0.0 | 4.00 |
 | 12/12/2021 | TRN15184 | Use of Force Case Law Review v2021 | Passed | 0.0 | 2.00 |

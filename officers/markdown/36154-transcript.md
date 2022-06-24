@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 6/17/2022 | MFP07975 | Assisting Individuals in Crisis/Group Crisis Int | Passed | 0.0 | 32.00 |
 | 4/30/2022 | MFP17324 | April 2022 Briefing Training | Passed | 0.0 | 2.00 |
 | 4/29/2022 | MFP07335 | Defensive Tactics/Striking  Ground Work | Passed | 0.0 | 3.00 |
 | 4/27/2022 | MFP19688 | ETHOS Self-Study Program | Passed | 0.0 | 3.00 |

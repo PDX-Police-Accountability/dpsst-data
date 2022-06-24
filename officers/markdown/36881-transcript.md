@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Passed | 0.0 | 16.00 |
 | 5/19/2022 | VND37030 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 4/14/2022 | SAG18400 | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 3/10/2022 | SAG06056 | Firearms | Passed | 0.0 | 1.50 |

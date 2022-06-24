@@ -170,6 +170,12 @@ training_records:
   status: ''
   score: '0.0'
   hours: '1.00'
+- date: 6/20/2022
+  course: CYS29816
+  title: Night Vision Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/23/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

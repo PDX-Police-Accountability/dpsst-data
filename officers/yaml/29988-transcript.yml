@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2022
+  course: PDS24124
+  title: Officer Involved Shootings Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/8/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021

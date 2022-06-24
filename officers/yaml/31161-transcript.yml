@@ -87,6 +87,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2022
+  course: TGP20718
+  title: OHIA OIS Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/16/2022
+  course: PDS24124
+  title: Officer Involved Shootings Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/3/2022
   course: TGP10075
   title: Firearms

@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/22/2022
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 11/30/2021
   certificate: Police Officer
   level: Basic
@@ -36,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/21/2022
+  course: PSU23792
+  title: Speed/Multiple Targets/Marksmanship/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/31/2022
   course: ATP37011
   title: TASER INSTRUCTOR TRAINING

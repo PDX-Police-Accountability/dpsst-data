@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/1/2022
+  course: VND40358
+  title: The Rights of Police Officers
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/28/2022
   course: PDP03333
   title: EAP Peer Support role in critical incidents
