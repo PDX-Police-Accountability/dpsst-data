@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2022 | HRS39309 | Firearms Qualification | Passed | 0.0 | 4.00 |
 | 5/17/2022 | HRS22037 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |
 | 1/22/2022 | HRS09475 | Officer Safety Refresher | Instructed | 0.0 | 1.00 |

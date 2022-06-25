@@ -1,0 +1,400 @@
+---
+header_record:
+  name: Renna, Barry W.
+  dpsst_identifier: '15038'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/9/2007
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/29/2007
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 8/11/1994
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 12/29/1981
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 12/26/1981
+  agency: Out of State Employment
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 1/29/1977
+  agency: Out of State Employment
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 9/29/2007
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 12/6/1982
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/12/2008
+  course: '08-0830'
+  title: Investigative Interviews
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2008
+  course: '08-0908'
+  title: Internal Affairs
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/20/2008
+  course: '08-0925'
+  title: Use of Force Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/30/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2006
+  course: 06-1348
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '19.00'
+- date: 12/31/2006
+  course: 06-1347
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '22.30'
+- date: 12/31/2005
+  course: 05-2977
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '17.80'
+- date: 12/31/2005
+  course: 05-2978
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2004
+  course: 04-3581
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2004
+  course: 04-3579
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '17.30'
+- date: 4/30/2003
+  course: 03-0818
+  title: Critical Incidents Stress Management EAP Protocol
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 9/21/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '67.00'
+- date: 11/13/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/27/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 3/20/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 7/17/1999
+  course: 99U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/26/1999
+  course: 99P046
+  title: ADVANCED INVESTIGATORS SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/30/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 11/30/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/25/1997
+  course: 97P352
+  title: SERGEANTS COMMAND SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '104.00'
+- date: 5/29/1997
+  course: 97P371
+  title: SURVIVAL AWARENESS
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/21/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/12/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/4/1994
+  course: 94J165
+  title: Basic Detective Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 10/21/1994
+  course: 94X046
+  title: REID TECHNIQUE OF INTERVIEW  INTERROGAT
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/18/1994
+  course: 94J019
+  title: CRIMINAL INTELLIGENCE OFFICER COURSE
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/26/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 9/15/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '105.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/9/1991
+  course: '919010'
+  title: STREET SURVIVAL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/18/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 5/31/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 3/1/1987
+  course: '879058'
+  title: LEDS MANUAL INTRODUCTORY LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/25/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/20/1986
+  course: '859297'
+  title: IN-SERVICE TRAINING (PHASE II)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/15/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/25/1983
+  course: 83P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/25/1983
+  course: '839128'
+  title: CPR* EMERGENCY CARDIAC CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/7/1982
+  course: '829077'
+  title: ADVANCED ACADEMY 82-1
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+- date: 2/19/1982
+  course: '821104'
+  title: 'BASIC POLICE CLASS #104'
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 1/19/1982
+  course: 82F001
+  title: FIRST AID/CPR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/1/1982
+  course: 82M050
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 1/1/1982
+  course: '825047'
+  title: RADAR TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/1/1982
+  course: '829099'
+  title: INTOXILYZER MODEL 4O11-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records: []
+education_records: []

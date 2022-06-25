@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2022
+  course: PDN15763
+  title: Field Applications-Technology and Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/25/2022
   course: PDN14673
   title: Search and Seizure Review

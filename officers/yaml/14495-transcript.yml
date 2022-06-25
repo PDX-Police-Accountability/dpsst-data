@@ -1,0 +1,1050 @@
+---
+header_record:
+  name: Eckhart, John C.
+  dpsst_identifier: '14495'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Assistant Chief
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/1/2021
+  agency: Clatsop County Sheriff's Office
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 5/6/2016
+  agency: Clatsop County Sheriff's Office
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 8/31/2015
+  agency: Oregon Liquor and Cannabis Commission
+  action: Retired
+  rank: Director
+  classification: ''
+  assignment: ''
+- date: 4/2/2014
+  agency: Oregon Liquor and Cannabis Commission
+  action: Reclassed
+  rank: Director
+  classification: ''
+  assignment: ''
+- date: 5/28/2013
+  agency: Oregon Liquor and Cannabis Commission
+  action: Hired
+  rank: Director
+  classification: ''
+  assignment: ''
+- date: 7/29/2010
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Asst Chief
+  classification: ''
+  assignment: ''
+- date: 12/10/2009
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Asst Chief
+  classification: ''
+  assignment: ''
+- date: 8/9/2007
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Commander
+  classification: ''
+  assignment: ''
+- date: 7/6/2006
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Captain
+  classification: ''
+  assignment: ''
+- date: 9/25/2003
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
+- date: 5/5/1994
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 7/29/1981
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 8/31/2020
+  certificate: Police Officer
+  level: Advanced
+  status: Expired
+  certificate_date: 12/21/2007
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/31/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 5/13/1982
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/31/2020
+  certificate: Police Officer
+  level: Executive
+  status: Expired
+  certificate_date: 2/12/2008
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/31/2020
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 12/21/2007
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/31/2020
+  certificate: Police Officer
+  level: Management
+  status: Expired
+  certificate_date: 2/12/2008
+  expiration_date: ''
+  probation_date: ''
+- status_date: 8/31/2020
+  certificate: Police Officer
+  level: Supervisory
+  status: Expired
+  certificate_date: 1/3/2008
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 7/1/2015
+  course: 15-0663
+  title: Gang Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/6/2015
+  course: 15-0371
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/12/2015
+  course: 15-0464
+  title: Employee Discipline
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/21/2014
+  course: 14-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 10/1/2014
+  course: 14-3034
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/16/2014
+  course: 14-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/15/2012
+  course: 12-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/7/2012
+  course: 12-0276
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2011
+  course: 11-0577
+  title: K-9 Conference
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/13/2011
+  course: 11-1007
+  title: Instructor Course - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/10/2010
+  course: 10-0152
+  title: AR-15 / M-16 Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/10/2010
+  course: 10-0276
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2009
+  course: '09-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/30/2009
+  course: '09-0272'
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/2009
+  course: '09-0854'
+  title: Gas Mask Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/2009
+  course: '09-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2009
+  course: '09-0854'
+  title: Gas Mask Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/14/2009
+  course: '09-0952'
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2009
+  course: '09-1091'
+  title: K-9 Narcotics Training
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/11/2009
+  course: '09-0983'
+  title: Crisis Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 9/11/2009
+  course: '09-0431'
+  title: Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/21/2009
+  course: '09-0577'
+  title: K-9 Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/18/2009
+  course: '09-0152'
+  title: AR-15 / M-16 Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/4/2009
+  course: '09-0369'
+  title: Executive Leadership Training Seminar (ELTS)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/3/2009
+  course: '09-0369'
+  title: Executive Leadership Training Seminar (ELTS)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/2/2009
+  course: '09-0362'
+  title: Oregon Executive Development Institute
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2008
+  course: '08-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '3.25'
+- date: 12/3/2008
+  course: '08-0035'
+  title: DPSST Standards  Certification Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/3/2008
+  course: '08-0034'
+  title: DPSST Standards  Certification Trng - Leadership
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/20/2008
+  course: '08-0443'
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/13/2008
+  course: '08-0268'
+  title: Tactical Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/8/2008
+  course: '08-1091'
+  title: K-9 Narcotics Training
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/8/2008
+  course: '08-1091'
+  title: K-9 Narcotics Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/27/2008
+  course: '08-0129'
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/13/2008
+  course: '08-0587'
+  title: Oregon Anti-Terrorism Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/26/2008
+  course: '08-0391'
+  title: ICS 400 - Advanced ICS (Cmplx Incd, Cmd  Gen Stf)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/15/2008
+  course: '08-0390'
+  title: ICS 300 - Intermediate ICS (Expding Incd  Supvrs)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/31/2007
+  course: 07-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '2.80'
+- date: 12/11/2007
+  course: 07-0156
+  title: Glock Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/16/2007
+  course: 07-0100
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/16/2007
+  course: 07-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2007
+  course: 07-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/29/2007
+  course: 07-0829
+  title: Investigating Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/24/2007
+  course: 07-0577
+  title: K-9 Conference
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/19/2007
+  course: 07-0361
+  title: Oregon Association Chief's of Police Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 8/29/2007
+  course: 07-0397
+  title: NIMS / ICS course- other leadership topic
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/31/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2007
+  course: 07-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/27/2007
+  course: 07-0397
+  title: NIMS / ICS course- other leadership topic
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/3/2007
+  course: 07-0792
+  title: Amber Alert
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/1/2007
+  course: 07-0577
+  title: K-9 Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/24/2007
+  course: 07-0355
+  title: Leadership Academy - Other
+  status: Passed
+  score: '0.0'
+  hours: '88.00'
+- date: 4/20/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/9/2007
+  course: 07-0371
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/28/2007
+  course: 07-0822
+  title: Digital Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2006
+  course: 06-1348
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 12/31/2006
+  course: 06-1349
+  title: PPB - Leadership
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 12/31/2006
+  course: 06-1347
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '67.90'
+- date: 10/18/2006
+  course: 06-0327
+  title: K-9 OPCA Seminar (Oregon Police Canine)
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/18/2006
+  course: 06-0327
+  title: K-9 OPCA Seminar (Oregon Police Canine)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 3/23/2006
+  course: 06-1332
+  title: Hostage Negotiations
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/31/2005
+  course: 05-2977
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '75.00'
+- date: 12/31/2005
+  course: 05-2978
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 11/17/2005
+  course: 05-1993
+  title: Terrorism Historical Arab
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/2/2005
+  course: 05-1991
+  title: Police Civil Liability
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/12/2005
+  course: 05-2686
+  title: K-9 OPCA Conference
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/12/2005
+  course: 05-2686
+  title: K-9 OPCA Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/12/2005
+  course: 05-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 4/12/2005
+  course: 05-1962
+  title: Leadership Mid Mngmt
+  status: Passed
+  score: '0.0'
+  hours: '84.00'
+- date: 3/16/2005
+  course: 05-1084
+  title: Hostage Negotiations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2004
+  course: 04-3581
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2004
+  course: 04-3580
+  title: PPB - Leadership
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 12/31/2004
+  course: 04-3579
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 10/6/2004
+  course: 04-3149
+  title: OPCA Fall Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/27/2004
+  course: 04-0964
+  title: Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 9/10/2003
+  course: 03-1065
+  title: OPCA Working Dog Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/8/2003
+  course: 03-0698
+  title: Keys to Success
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/7/2003
+  course: 03-0757
+  title: Oregon Police Canine Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/2/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
+- date: 4/9/2002
+  course: 02CP641
+  title: OPCA Spring Seminar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/26/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/8/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/18/2001
+  course: 01CP724
+  title: OPCA Fall Working Dog Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 3/12/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '52.00'
+- date: 12/31/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/6/2000
+  course: 01P061
+  title: Advanced Canine Narcotic Seminar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/27/2000
+  course: 00P602
+  title: 2000 OPCA Working Dog Seminar
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/30/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '51.00'
+- date: 9/15/1999
+  course: 99P546
+  title: OR POL CANINE ASSO WORKING DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/29/1999
+  course: 99U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 4/13/1999
+  course: 99P298
+  title: 1999 OPCA SPRING SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/31/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
+- date: 9/10/1998
+  course: 98P443
+  title: O.P.C.A. 1998 WORKING DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/7/1998
+  course: 98P224
+  title: 1998 OREGON POLICE CANINE ASSOC SPRING S
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/31/1997
+  course: 97P208
+  title: LEDS 1997 RECERTIFICATION TEST
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 9/17/1997
+  course: 97P489
+  title: OPCA 1997 WORKING DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/25/1996
+  course: 96P311
+  title: 1996 FALL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/30/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 4/2/1996
+  course: 96P112
+  title: 1996 SPRING CONFERENCE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/15/1996
+  course: 96P031
+  title: INTERNAL INVESTIGATIONS
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/29/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/1/1995
+  course: 95P061
+  title: ORGANIZATIONAL EFFECTIVENESS  LEADERSHI
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/30/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/12/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '48.00'
+- date: 2/17/1995
+  course: 95Q001
+  title: DPSST Supervision 95-1
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 8/12/1994
+  course: 94Q004
+  title: DPSST Supervision 94-3
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 4/19/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '41.00'
+- date: 3/30/1994
+  course: 94W007
+  title: INCIDENT COMMAND SYSTEM
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/10/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '98.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/26/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 3/24/1993
+  course: 93J024
+  title: POLICE BICYCLE OPERATIONS
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/15/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '442.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/1991
+  course: 91J021
+  title: POLICE SERVICE DOG AND HANDLER
+  status: Passed
+  score: '0.0'
+  hours: '360.00'
+- date: 5/2/1991
+  course: 91P003
+  title: OREGON PEACE OFFICER ASSN. ANNUAL CONFER
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/30/1991
+  course: 91U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/9/1991
+  course: '919010'
+  title: STREET SURVIVAL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/19/1990
+  course: '905030'
+  title: O.P.C.A. FALL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/12/1990
+  course: '909101'
+  title: O.P.C.A. DETECTION DOG SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/13/1989
+  course: '899236'
+  title: OREGON POLICE CANINE ASSOC. FALL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/3/1989
+  course: '899186'
+  title: INTRO. TO NARCOTIC DETECTION DOG TRAIN.
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/18/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '249.00'
+- date: 5/30/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '184.00'
+- date: 3/25/1988
+  course: '885021'
+  title: HEALTH  FITNESS LEADERSHIP FOR LAW ENF
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/1/1987
+  course: '879058'
+  title: LEDS MANUAL INTRODUCTORY LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/4/1987
+  course: '879050'
+  title: INTOXILYZER MODEL 4011-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '90.00'
+- date: 6/10/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/6/1986
+  course: '869199'
+  title: PORTLAND POLICE CANINE TRAINING CLASS I
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
+- date: 5/20/1986
+  course: '859297'
+  title: IN-SERVICE TRAINING (PHASE II)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/24/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/1/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 4/1/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 9/30/1983
+  course: '839139'
+  title: CAROTID CONTROL
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/22/1983
+  course: '839128'
+  title: CPR* EMERGENCY CARDIAC CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/7/1982
+  course: '829077'
+  title: ADVANCED ACADEMY 82-1
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+- date: 1/1/1982
+  course: 82M050
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 1/1/1982
+  course: '829099'
+  title: INTOXILYZER MODEL 4O11-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/18/1981
+  course: '819160'
+  title: FALL RANGE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/15/1981
+  course: 81P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/18/1981
+  course: '811101'
+  title: 'BASIC POLICE CLASS #1O1'
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 8/25/1981
+  course: 81F001
+  title: FIRST AID/CPR COURSE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 12/21/2007
+  expiration_date: ''
+education_records:
+- date: 6/15/2007
+  degree: No Degree
+  school: Portland State University
+  major: ''
+  hours: '197.0'

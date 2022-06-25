@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/30/2022
+  course: MFP04601
+  title: April 2022 Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/29/2022
   course: MFP07335
   title: Defensive Tactics/Striking  Ground Work

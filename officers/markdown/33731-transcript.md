@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2022 | PDN15763 | Field Applications-Technology and Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/25/2022 | PDN14673 | Search and Seizure Review | Passed | 0.0 | 1.50 |
 | 4/20/2022 | PDN33408 | Drug Identification | Passed | 0.0 | 1.50 |
 | 3/30/2022 | PDN12472 | Self Care for Law Enforcement | Passed | 0.0 | 1.50 |

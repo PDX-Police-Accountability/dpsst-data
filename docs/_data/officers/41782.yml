@@ -87,6 +87,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 8/8/2022
+  course: 22-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '80.00'
 - date: 3/30/2022
   course: PDP30982
   title: ICS-400 Adv ICS Cmd  General Staff-Complex Incdts
