@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -20,9 +20,9 @@
 
 author: PDX Police Accountability
 title: DPSST Data
-email: dpsst_info@pdxcops.com
+email: pdx.police.transparency@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  
+
   Data on Portland Police Bureau workers from Oregon's CJ-IRIS system.
 
   Data on this site is also available on other public sites.
