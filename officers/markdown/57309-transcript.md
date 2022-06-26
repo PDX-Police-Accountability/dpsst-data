@@ -20,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/22/2022 | Police Officer | Intermediate | App Recd |  |  |  |
+| 6/24/2022 | Police Officer | Intermediate | App InProc |  |  |  |
 | 2/14/2019 | Police Officer | Basic | Granted | 2/14/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -32,6 +32,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/7/2022 | Bachelor Science | All Other Education Institutes |  | 66.0 |
 | 3/20/2016 | Associates of General Studies | Portland Community College |  | 120.0 |
 ## Training
 | date | course | title | status | score | hours |

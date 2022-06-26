@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |
 | 5/27/2022 | VND26069 | NAS Part B Level I Truck Inspection Course | Passed | 0.0 | 40.00 |
 | 5/20/2022 | VND25690 | NAS Part A Level III Truck Inspection Course | Passed | 0.0 | 40.00 |
 | 5/11/2022 | CAP33862 | SFST Refresher | Passed | 0.0 | 4.00 |

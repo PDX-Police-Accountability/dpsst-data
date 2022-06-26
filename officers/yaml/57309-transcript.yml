@@ -40,10 +40,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/22/2022
+- status_date: 6/24/2022
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: ''
@@ -919,6 +919,11 @@ attribute_records:
   effective_date: 6/14/2017
   expiration_date: ''
 education_records:
+- date: 5/7/2022
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '66.0'
 - date: 3/20/2016
   degree: Associates of General Studies
   school: Portland Community College

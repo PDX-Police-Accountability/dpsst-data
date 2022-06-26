@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/11/2022 | 22-0022 | Police to Corrections Certification Program | Registered | 0.0 | 80.00 |
+| 6/23/2022 | OSH24041 | Medicolegal Death Investigator In-Service | Passed | 0.0 | 1.50 |
 | 5/19/2022 | STS27683 | HB 2513 - Airway and Circulation Training | Passed | 0.0 | 2.00 |
 | 5/2/2022 | STS17907 | Firearms training | Passed | 0.0 | 3.25 |
 | 5/2/2022 | STS39216 | Use of Force Policy Review | Passed | 0.0 | 0.25 |

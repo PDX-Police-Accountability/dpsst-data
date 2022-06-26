@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/11/2022 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/22/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/19/1998 | Phoenix Police Department | Resigned | Reserve |  |  |
 | 7/1/1997 | Phoenix Police Department | Reclassed | Reserve |  |  |

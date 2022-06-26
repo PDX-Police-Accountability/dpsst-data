@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2022
+  course: MNS32249
+  title: FIREARMS SKILL BUILDER
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/26/2022
   course: MNS16260
   title: MILO, Senario Based Training
