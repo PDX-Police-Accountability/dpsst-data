@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/24/2022 | 6/24/2022 |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -31,6 +32,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/10/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/24/2022 | PSU17815 | First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PSU23792 | Speed/Multiple Targets/Marksmanship/Qualification | Passed | 0.0 | 1.50 |
 | 4/5/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |

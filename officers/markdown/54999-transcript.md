@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | MOS08571 | Stop the Bleed Course | Passed | 0.0 | 1.00 |
+| 6/23/2022 | MOS27060 | NORTAC AR15/Handgun Range | Passed | 0.0 | 4.00 |
 | 6/13/2022 | TDP39282 | Tactical Training: Cautious  Controlled Clearing | Passed | 0.0 | 4.50 |
 | 5/18/2022 | HRS18467 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 5/17/2022 | HRS22037 | Defensive Tactics | Instructed | 0.0 | 3.00 |

@@ -122,6 +122,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/22/2022
+  course: SVP19591
+  title: Firearms Training  Qualification (pistol/rifile)
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/16/2022
   course: REG00066
   title: Handgun IDC

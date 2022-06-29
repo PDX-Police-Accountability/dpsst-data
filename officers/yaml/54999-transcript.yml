@@ -67,6 +67,18 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 6/23/2022
+  course: MOS08571
+  title: Stop the Bleed Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/23/2022
+  course: MOS27060
+  title: NORTAC AR15/Handgun Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/13/2022
   course: TDP39282
   title: 'Tactical Training: Cautious  Controlled Clearing'

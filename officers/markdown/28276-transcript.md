@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 6/22/2022 | SVP19591 | Firearms Training  Qualification (pistol/rifile) | Instructed | 0.0 | 3.00 |
 | 6/16/2022 | REG00066 | Handgun IDC | Passed | 0.0 | 40.00 |
 | 6/8/2022 | SVP29859 | Firearms Training and Qualification | Passed | 0.0 | 3.00 |
 | 6/7/2022 | SVP06310 | Cmd Staff-Need to Prioitize Ofc Health  Wellness | Passed | 0.0 | 1.75 |

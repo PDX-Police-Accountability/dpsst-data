@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/24/2022 | 6/24/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/22/2020 | 9/22/2022 |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2022 | PSU17815 | First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PSU23792 | Speed/Multiple Targets/Marksmanship/Qualification | Passed | 0.0 | 1.50 |
 | 3/31/2022 | ATP37011 | TASER INSTRUCTOR TRAINING | Passed | 0.0 | 16.00 |
 | 2/24/2022 | F1502818 | Conducted Electrical Weapon | Passed | 0.0 | 1.00 |

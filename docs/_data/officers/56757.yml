@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/24/2022
+  course: PSU17815
+  title: First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/21/2022
   course: PSU23792
   title: Speed/Multiple Targets/Marksmanship/Qualification
@@ -541,6 +547,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/24/2022
+  expiration_date: 6/24/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/16/2016
