@@ -19,3 +19,4 @@ TODO:
 2. Build rosters for the other agencies in Oregon
 3. Output a daily change document created from the git diffs
 4. Add created/modified timestamps to all the visible pages (relevant info is all in git)
+5. Scrape the [DPSST Professional Standards/Economic Sanctions Database](https://www.oregon.gov/dpsst/cj/pages/cases.aspx) and link officers by DPPST number
