@@ -4,7 +4,7 @@
 | name | Shouman, Austin L. |
 | dpsst_identifier | 60434 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/15/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/19/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/12/2021 | Police Officer | Basic | Granted | 5/12/2021 |  |  |
+| 5/12/2021 | Police Officer | Basic | Granted | 5/12/2021 | 9/15/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

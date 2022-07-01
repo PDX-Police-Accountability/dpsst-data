@@ -786,7 +786,6 @@
 | Bianca, Shanley M. | 57552 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-27 | [md](../markdown/57552-transcript.md) - [yaml](../yaml/57552-transcript.yml) |
 | Brooks, Andrew S. | 57578 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-27 | [md](../markdown/57578-transcript.md) - [yaml](../yaml/57578-transcript.yml) |
 | Ensley, Katrina M. | 57579 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-27 | [md](../markdown/57579-transcript.md) - [yaml](../yaml/57579-transcript.yml) |
-| Ramos, David N. | 57587 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-27 | [md](../markdown/57587-transcript.md) - [yaml](../yaml/57587-transcript.yml) |
 | Ragona, Nicholas A. | 21430 | Portland Police Bureau | Inactive | Police Officer | Retired | 2017-08-01 | [md](../markdown/21430-transcript.md) - [yaml](../yaml/21430-transcript.yml) |
 | Chastain, Daniel C. | 36610 | Portland Police Bureau | Inactive | Police Officer | Discharged | 2017-08-01 | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | Weatherwax, Diane M. | 47557 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2017-08-01 | [md](../markdown/47557-transcript.md) - [yaml](../yaml/47557-transcript.yml) |
@@ -1121,7 +1120,6 @@
 | DiCarlo, Brian C. | 60422 | Portland Police Bureau | Active | Police Officer | Hired | 2019-11-19 | [md](../markdown/60422-transcript.md) - [yaml](../yaml/60422-transcript.yml) |
 | Lukic, Davor | 60431 | Portland Police Bureau | Active | Police Officer | Hired | 2019-11-19 | [md](../markdown/60431-transcript.md) - [yaml](../yaml/60431-transcript.yml) |
 | Abramson, JuliAnna | 60432 | Portland Police Bureau | Active | Police Officer | Hired | 2019-11-19 | [md](../markdown/60432-transcript.md) - [yaml](../yaml/60432-transcript.yml) |
-| Shouman, Austin L. | 60434 | Portland Police Bureau | Active | Police Officer | Hired | 2019-11-19 | [md](../markdown/60434-transcript.md) - [yaml](../yaml/60434-transcript.yml) |
 | Alvarez, Ivan A. | 60436 | Portland Police Bureau | Active | Police Officer | Hired | 2019-11-19 | [md](../markdown/60436-transcript.md) - [yaml](../yaml/60436-transcript.yml) |
 | Daley, Derrick D. | 60450 | Portland Police Bureau | Active | Police Officer | Hired | 2019-11-19 | [md](../markdown/60450-transcript.md) - [yaml](../yaml/60450-transcript.yml) |
 | Alioth, Tracy L. | 60455 | Portland Police Bureau | Active | Police Officer | Hired | 2019-11-19 | [md](../markdown/60455-transcript.md) - [yaml](../yaml/60455-transcript.yml) |
@@ -1577,6 +1575,8 @@
 | Nguyen, Timmy T. | 62875 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62875-transcript.md) - [yaml](../yaml/62875-transcript.yml) |
 | Plantillas, Jairo D. | 62959 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62959-transcript.md) - [yaml](../yaml/62959-transcript.yml) |
 | Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-01 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
+| Shouman, Austin L. | 60434 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-06-15 | [md](../markdown/60434-transcript.md) - [yaml](../yaml/60434-transcript.yml) |
+| Ramos, David N. | 57587 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-06-21 | [md](../markdown/57587-transcript.md) - [yaml](../yaml/57587-transcript.yml) |
 | Zajac, Scott J. | 62995 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-23 | [md](../markdown/62995-transcript.md) - [yaml](../yaml/62995-transcript.yml) |
 | Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-15 | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | Brunelle, Brandon J. | 62874 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-15 | [md](../markdown/62874-transcript.md) - [yaml](../yaml/62874-transcript.yml) |

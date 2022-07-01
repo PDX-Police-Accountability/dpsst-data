@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/1/2022
+  agency: Molalla Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/14/2019
   agency: Mt. Angel Police Department
   action: Hired
