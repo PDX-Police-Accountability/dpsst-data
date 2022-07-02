@@ -161,7 +161,6 @@
 | 3/25/2021 | PDP24789 | 2021 SERT Training - Classroom | Passed | 0.0 | 9.00 |
 | 3/18/2021 | PDP10545 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 3/16/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
-| 3/9/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/5/2021 | PDP18222 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 3/4/2021 | PDP05171 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |

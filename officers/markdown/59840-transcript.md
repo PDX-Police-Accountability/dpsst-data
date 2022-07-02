@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/20/2022 | OCS28839 | New Hire Patrol Tactics | Passed | 0.0 | 40.00 |
+| 5/20/2022 | OCS09939 | May 2022 New Hire Patrol Tactics | Passed | 0.0 | 40.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/21/2022 | WLP37153 | New Hire Firearms Training | Passed | 0.0 | 16.00 |
 | 3/28/2022 | PDP38815 | OSU Modified Duty Cold Call-Taking Training Report | Passed | 0.0 | 0.25 |

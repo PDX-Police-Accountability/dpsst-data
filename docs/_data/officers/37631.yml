@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2022
+  course: LOP39914
+  title: First Responder Families Resiliency Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/8/2022
   course: PDP21753
   title: Peer Support Role in Member Serious Injury/LODD
@@ -579,12 +585,6 @@ training_records:
   status: Cancelled
   score: '0.0'
   hours: '0.00'
-- date: 3/10/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/10/2021
   course: PDP24601
   title: 2021 Equity Training Series - Preparation

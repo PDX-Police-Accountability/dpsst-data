@@ -93,6 +93,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2022
+  course: WLP26008
+  title: 40mm Less Lethal - Classroom and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/30/2022
+  course: WLP14592
+  title: Hate Crimes Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/26/2022
   course: WLP36820
   title: Domestic Violence Training

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2022
+  course: CQS04567
+  title: Call-Out Forms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/20/2022
   course: MFS30888
   title: EVOC / PIT, Spikes, Blocking, Stops, Radio, Cones

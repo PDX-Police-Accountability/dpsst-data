@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2022
+  course: LOP16376
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/25/2022
   course: LOP35972
   title: Defensive Tactics OC

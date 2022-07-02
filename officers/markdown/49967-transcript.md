@@ -32,6 +32,7 @@
 | 4/22/2022 | MNP32496 | Trauma First Aid | Passed | 0.0 | 1.00 |
 | 4/15/2022 | MNP18880 | Airway and Circulatory Crisis Training | Passed | 0.0 | 2.00 |
 | 4/15/2022 | MNP18911 | First Aid / CPR Refresher | Passed | 0.0 | 1.00 |
+| 4/15/2022 | MNP01732 | Firearms training and qual handgun and long gun | Passed | 0.0 | 4.00 |
 | 11/30/2021 | MNP31303 | Taser Annual Recertification | Passed | 0.0 | 1.50 |
 | 11/30/2021 | MNP37239 | Firearms Night Shoot Handgun / long gun | Passed | 0.0 | 4.00 |
 | 11/30/2021 | MNP41945 | Defensive Tactics WRAP / Cutting Edge | Passed | 0.0 | 3.00 |

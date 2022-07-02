@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
 | 4/26/2022 | TUP09824 | EVOC | Passed | 0.0 | 7.00 |
 | 4/26/2022 | TUP10384 | High Risk Traffic Stops | Passed | 0.0 | 1.00 |

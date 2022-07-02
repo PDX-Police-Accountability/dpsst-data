@@ -477,12 +477,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 3/26/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/26/2021
   course: PDP21968
   title: 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX
   status: Passed

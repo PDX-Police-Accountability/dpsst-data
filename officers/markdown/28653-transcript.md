@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/12/2022 | Multnomah County District Attorney | Hired | Chief Inv |  |  |
 | 12/11/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/31/2002 | Portland Police Bureau | Promotion | Detective |  |  |
 | 9/9/1993 | Portland Police Bureau | Hired | Police Off |  |  |

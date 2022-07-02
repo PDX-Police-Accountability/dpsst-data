@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 12/16/2022
   probation_date: ''
 training_records:
+- date: 6/27/2022
+  course: BPT28561
+  title: Intoxilyzer 8000 Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/22/2022
   course: PDP24445
   title: DUII  DRE/DECP Training Conference

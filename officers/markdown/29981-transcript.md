@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2022 | WLP14592 | Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 4/26/2022 | WLP36820 | Domestic Violence Training | Passed | 0.0 | 4.00 |
 | 4/21/2022 | WLP09760 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/18/2022 | WLP32038 | Defensive Tactics | Passed | 0.0 | 3.00 |

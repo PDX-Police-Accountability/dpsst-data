@@ -37,7 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/31/2022 | MNS32249 | FIREARMS SKILL BUILDER | Passed | 0.0 | 2.00 |
-| 3/26/2022 | MNS16260 | MILO, Senario Based Training |  | 0.0 | 0.50 |
+| 3/26/2022 | MNS16260 | MILO, Senario Based Training | Passed | 0.0 | 0.50 |
 | 3/23/2022 | MNS22423 | FIREARMS SKILL BUILDER | Passed | 0.0 | 2.00 |
 | 2/2/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2021 | MNS39589 | Cardlock Fueling | Passed | 0.0 | 0.50 |

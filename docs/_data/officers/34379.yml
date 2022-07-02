@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2022
+  course: '42687'
+  title: Washington Homicide Investigators Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 5/12/2022
   course: MISCMAIN
   title: 2022 LE Basic 3 Year Maintenance

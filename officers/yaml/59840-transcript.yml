@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/20/2022
+  course: OCS09939
+  title: May 2022 New Hire Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/28/2022
   course: OCP09933
   title: Firearms/Use of Force

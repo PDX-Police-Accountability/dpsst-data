@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/19/2022
+  course: F6R15275
+  title: Active Threat Response/Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/27/2022
   course: VND26069
   title: NAS Part B Level I Truck Inspection Course

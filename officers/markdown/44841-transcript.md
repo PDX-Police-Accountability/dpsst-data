@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2022 | LOP16376 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/25/2022 | LOP35972 | Defensive Tactics OC | Passed | 0.0 | 3.00 |
 | 3/30/2022 | LOP01809 | Legislative Update HB4008 Crowd Management | Passed | 0.0 | 0.50 |
 | 3/22/2022 | LOP31533 | OACP/OSSA Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |

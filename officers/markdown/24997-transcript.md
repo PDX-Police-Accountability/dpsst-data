@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2022 | PPP15504 | Legal Update from MCDA Office | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDS28073 | Civil Disturbance Training | Passed | 0.0 | 10.00 |
 | 4/7/2022 | PPP34624 | Body Worn Camera Operation and Policy | Passed | 0.0 | 2.00 |
 | 3/22/2022 | PPP14364 | Street Survival Seminar | Passed | 0.0 | 16.00 |

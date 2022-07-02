@@ -53,6 +53,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/15/2022
+  course: MNP01732
+  title: Firearms training and qual handgun and long gun
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/30/2021
   course: MNP31303
   title: Taser Annual Recertification

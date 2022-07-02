@@ -57,6 +57,7 @@
 | 3/3/2021 | F6D06709 | Legal Update | Passed | 0.0 | 5.00 |
 | 3/3/2021 | F6D10227 | Patrol Tactics | Passed | 0.0 | 5.00 |
 | 1/27/2021 | F6D31952 | Patrol Tactics | Passed | 0.0 | 1.00 |
+| 1/6/2021 | F6D37911 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/31/2020 | F6D12068 | CPR/ First Aid/ AED | Passed | 0.0 | 3.00 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/31/2020 | 20-CVDL3 | 2020 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2022
+  course: '32327'
+  title: Firearm and Vehicle Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/22/2022
   course: WBP11349
   title: Winter-Spring Firearms Training

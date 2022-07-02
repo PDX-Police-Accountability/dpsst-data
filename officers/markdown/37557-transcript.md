@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2022 | LOP16376 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/25/2022 | LOP35972 | Defensive Tactics OC | Passed | 0.0 | 3.00 |
 | 4/8/2022 | LOP20667 | Red Door Project Evolve Experience - Ethics | Passed | 0.0 | 1.00 |

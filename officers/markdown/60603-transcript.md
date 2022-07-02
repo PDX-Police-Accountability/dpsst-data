@@ -25,5 +25,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2022 | CTP17524 | Firearms Training - Range | Passed | 0.0 | 8.00 |
 | 1/28/2022 | CTP00494 | Firearms Training - Range | Passed | 0.0 | 10.00 |
 | 12/31/1901 | M10-19A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |

@@ -543,12 +543,6 @@ training_records:
   score: '0.0'
   hours: '0.75'
 - date: 3/8/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/8/2021
   course: PDP22216
   title: 2021 Chicago Case Study
   status: Passed

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2022
+  course: PPP15504
+  title: Legal Update from MCDA Office
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/13/2022
   course: PDS28073
   title: Civil Disturbance Training

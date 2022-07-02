@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/12/2022
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Chief Inv
+  classification: ''
+  assignment: ''
 - date: 12/11/2008
   agency: Portland Police Bureau
   action: Promotion

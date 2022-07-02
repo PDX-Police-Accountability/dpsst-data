@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2022
+  course: OCS41952
+  title: K9 Firearms - MILO and live fire
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/10/2022
   course: OCS31761
   title: SWAT - Marksmanship Keyhole Shooting
@@ -104,6 +110,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 5/20/2022
+  course: OCS36514
+  title: Annual Qualification / Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/20/2022
+  course: OCS31461
+  title: June 2022 FTU Inservice Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 5/13/2022
   course: OCS34450
   title: May 2022 New Hire Firearms
