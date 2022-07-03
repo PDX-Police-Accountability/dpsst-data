@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2022
+  course: MKL06324
+  title: Use of Force / Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/2/2022
   course: MKL24792
   title: Use of Force / Defensive Tactics

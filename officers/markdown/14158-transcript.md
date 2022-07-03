@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | MKL06324 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 6/2/2022 | MKL24792 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 6/1/2022 | MKL09400 | Defensive Tactics/Use of Force | Instructed | 0.0 | 8.00 |
 | 6/1/2022 | MKL12465 | Defensive Tactics/Use of Force | Instructed | 0.0 | 8.00 |

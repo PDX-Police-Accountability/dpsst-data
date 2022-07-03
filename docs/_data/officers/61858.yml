@@ -48,6 +48,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '200.00'
+- date: 6/29/2022
+  course: MFN07118
+  title: LS/CMI
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/28/2022
+  course: MFN25822
+  title: LS/CMI
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/15/2022
   course: MFN33368
   title: 'CR2: Creating Regulation and Resilience'

@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2022 | LGS30098 | Extreme Ownership | Passed | 0.0 | 4.00 |
 | 3/30/2022 | LGS18982 | Defensive Tactics, Con-Sims | Instructed | 0.0 | 4.00 |
 | 3/28/2022 | LGP31066 | Team Movement/Firearms | Passed | 0.0 | 4.00 |
 | 3/14/2022 | LGS41702 | Taser X26 User Course | Instructed | 0.0 | 1.50 |
