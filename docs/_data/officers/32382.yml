@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2022
+  course: BNS39659
+  title: Combined Tactical Systems Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/3/2022
   course: HBS40790
   title: IFAST In-Service

@@ -68,6 +68,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 6/23/2022
+  course: MKL27046
+  title: Use of Force / Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/2/2022
   course: MKL24792
   title: Use of Force / Defensive Tactics

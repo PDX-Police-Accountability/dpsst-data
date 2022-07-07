@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2022 | WLP26008 | 40mm Less Lethal - Classroom and Qualification | Passed | 0.0 | 1.50 |
+| 6/15/2022 | WLP20564 | Firearms Training | Passed | 0.0 | 2.50 |
 | 4/30/2022 | WLP14592 | Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 4/26/2022 | WLP36820 | Domestic Violence Training | Passed | 0.0 | 4.00 |
 | 4/21/2022 | WLP09760 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |

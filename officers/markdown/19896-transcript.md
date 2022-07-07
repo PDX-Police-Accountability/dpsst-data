@@ -63,6 +63,7 @@
 | 5/18/2022 | BPT09610 | Defensive Tactics 2 hour review | Passed | 0.0 | 2.00 |
 | 5/18/2022 | BPT30332 | Mental Health Question, Pursuade, Refer (Q.P.R.) | Passed | 0.0 | 2.00 |
 | 5/18/2022 | BPT25056 | Firearms Low Light Pistol and Rifle Refresher | Passed | 0.0 | 4.00 |
+| 5/11/2022 | REG19788 | Use of Force Refresher Update | Passed | 0.0 | 6.00 |
 | 5/8/2022 | CYS38197 | Lost Person Behavior - Search  Rescue | Passed | 0.0 | 16.00 |
 | 3/31/2022 | CYS34963 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 3/14/2022 | CYS23650 | Defensive Tactics | Passed | 0.0 | 2.00 |

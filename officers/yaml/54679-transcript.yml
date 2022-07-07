@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2022
+  course: MAP35999
+  title: BUILDING SEARCH TACTICS I
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/15/2022
   course: MAP34059
   title: CONSENT TO SEARCH/ EQUIPMENT VEHICLE STOPS
@@ -649,6 +655,10 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/1/2022
+  expiration_date: ''
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/16/2022

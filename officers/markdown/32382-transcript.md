@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2022 | BNS39659 | Combined Tactical Systems Instructor Course | Passed | 0.0 | 24.00 |
 | 5/3/2022 | HBS40790 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 3/24/2022 | HBS13958 | MFF Scenarios and scenario building | Passed | 0.0 | 8.00 |
 | 3/23/2022 | HBS23896 | MFF Skill Building (formations/breakouts) | Passed | 0.0 | 8.00 |

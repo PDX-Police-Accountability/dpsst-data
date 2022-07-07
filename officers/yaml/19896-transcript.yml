@@ -212,6 +212,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/11/2022
+  course: REG19788
+  title: Use of Force Refresher Update
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/8/2022
   course: CYS38197
   title: Lost Person Behavior - Search  Rescue
