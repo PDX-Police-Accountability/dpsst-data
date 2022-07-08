@@ -46,6 +46,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/26/2022 | STP00044 | Shooting In And Around Vehicles | Passed | 0.0 | 4.00 |
+| 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/15/2022 | BPT31793 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/15/2022 | BPT10339 | Coaching and Feedback | Passed | 0.0 | 4.00 |
 | 6/7/2022 | STP25178 | Legal update | Passed | 0.0 | 1.50 |

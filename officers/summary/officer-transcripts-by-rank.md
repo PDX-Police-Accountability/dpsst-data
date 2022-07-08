@@ -1298,7 +1298,7 @@
 | Nguyen, Timmy T. | 62875 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62875-transcript.md) - [yaml](../yaml/62875-transcript.yml) |
 | El Mohamed, Mohamed F. | 62958 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-17 | [md](../markdown/62958-transcript.md) - [yaml](../yaml/62958-transcript.yml) |
 | Plantillas, Jairo D. | 62959 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62959-transcript.md) - [yaml](../yaml/62959-transcript.yml) |
-| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-01 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
+| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
 | Zajac, Scott J. | 62995 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-23 | [md](../markdown/62995-transcript.md) - [yaml](../yaml/62995-transcript.yml) |
 | Brown, Charles M. | 11925 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/11925-transcript.md) - [yaml](../yaml/11925-transcript.yml) |
 | Butler, John R. | 12828 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/12828-transcript.md) - [yaml](../yaml/12828-transcript.yml) |

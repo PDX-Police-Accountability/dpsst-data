@@ -697,6 +697,7 @@
 | 12/5/2003 | 03-0021 | DPSST Basic Police | Passed | 0.0 | 400.00 |
 | 10/22/2003 | 03-1087 | LIDAR Operators Course | Passed | 0.0 | 6.00 |
 | 10/13/2003 | 03-0254 | Oregon State Police Intoxilizer 5000 | Passed | 0.0 | 6.00 |
+| 6/29/2002 | EGP42531 | The Pain Behind the Badge-Winning the Battle | Passed | 0.0 | 6.50 |
 | 3/28/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 11.00 |
 | 11/14/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 4.00 |
 | 9/29/2001 | 01U001 | Approved In-State Training | Passed | 0.0 | 4.50 |

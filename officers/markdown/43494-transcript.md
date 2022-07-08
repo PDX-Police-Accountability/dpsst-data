@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 5/10/2022 | PDP04687 | Sport Event Risk Management Training | Passed | 0.0 | 16.00 |
 | 3/28/2022 | PDP23834 | OEM Public Information Basics Course | Passed | 0.0 | 24.00 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

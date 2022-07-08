@@ -62,6 +62,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 5/20/2022
+  course: MFP09166
+  title: 2022 Annual Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 5/20/2022
+  course: MFP42897
+  title: 2022 Annual Qualification/Handgun
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/20/2022
+  course: MFP04241
+  title: 2022 Annual Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/30/2022
   course: MFP17324
   title: April 2022 Briefing Training

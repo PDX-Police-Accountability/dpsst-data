@@ -4017,6 +4017,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 6/29/2002
+  course: EGP42531
+  title: The Pain Behind the Badge-Winning the Battle
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 3/28/2002
   course: 02U001
   title: Approved In-State Training

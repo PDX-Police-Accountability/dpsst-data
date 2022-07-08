@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2022 | F6R32295 | PREA Online Training | Passed | 0.0 | 4.00 |
 | 6/7/2022 | F6R20897 | 2nd Trimester Firearms - Rifle | Passed | 0.0 | 8.00 |
 | 5/4/2022 | OSH17559 | Western States Hostage Negotiators' Assosciation | Passed | 0.0 | 20.00 |
 | 4/22/2022 | F6R43255 | Defensive Tactics 2022 1st Trimester | Passed | 0.0 | 4.00 |

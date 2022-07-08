@@ -42,6 +42,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2022
+  course: F6R13584
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/31/2022
+  course: F6R02316
+  title: Jail Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2022
+  course: F6R14512
+  title: Policy 600 Review Security and Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2022
+  course: F6R11431
+  title: Policy 200 Review Operational Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2022
+  course: F6R44603
+  title: Pre-Trial No Contact Order
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/1/2021
   course: F6K40813
   title: Sheriff's Office Policy 300 Review - Use of Force

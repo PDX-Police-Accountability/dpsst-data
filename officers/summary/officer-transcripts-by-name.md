@@ -584,7 +584,7 @@
 | Harding, Cheryl A. | 39268 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-05-01 | [md](../markdown/39268-transcript.md) - [yaml](../yaml/39268-transcript.yml) |
 | Harding, David N. | 52228 | Portland Police Bureau | Active | Police Officer | Hired | 2018-03-29 | [md](../markdown/52228-transcript.md) - [yaml](../yaml/52228-transcript.yml) |
 | Hardy, Javelin L. | 34055 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1998-09-03 | [md](../markdown/34055-transcript.md) - [yaml](../yaml/34055-transcript.yml) |
-| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-01 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
+| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
 | Harper, Ross C. | 55511 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-14 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Harris, Benjamin D. | 52171 | Portland Police Bureau | Active | Detective | Promotion | 2022-03-17 | [md](../markdown/52171-transcript.md) - [yaml](../yaml/52171-transcript.yml) |
 | Harris, Charles R. | 44438 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2019-09-03 | [md](../markdown/44438-transcript.md) - [yaml](../yaml/44438-transcript.yml) |

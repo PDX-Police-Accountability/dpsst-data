@@ -30,7 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/10/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/3/2022 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 6/24/2022 | PSU17815 | First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PSU23792 | Speed/Multiple Targets/Marksmanship/Qualification | Passed | 0.0 | 1.50 |
 | 4/5/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |

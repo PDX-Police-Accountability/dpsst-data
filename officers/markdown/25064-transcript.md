@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | BPT09123 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 6/15/2022 | BPT31793 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/15/2022 | BPT10339 | Coaching and Feedback | Passed | 0.0 | 4.00 |
 | 6/15/2022 | MKL24792 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |

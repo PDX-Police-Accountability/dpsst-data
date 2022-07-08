@@ -575,7 +575,7 @@
 | Nguyen, Timmy T. | 62875 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62875-transcript.md) - [yaml](../yaml/62875-transcript.yml) |
 | El Mohamed, Mohamed F. | 62958 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-17 | [md](../markdown/62958-transcript.md) - [yaml](../yaml/62958-transcript.yml) |
 | Plantillas, Jairo D. | 62959 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62959-transcript.md) - [yaml](../yaml/62959-transcript.yml) |
-| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-01 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
+| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
 | Zajac, Scott J. | 62995 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-23 | [md](../markdown/62995-transcript.md) - [yaml](../yaml/62995-transcript.yml) |
 | McIntyre, Bradley E. | 35126 | Portland Police Bureau | Active | Criminalist | LOA | 2021-02-26 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
 | Kenagy, Christopher J. | 36821 | Portland Police Bureau | Active | Sergeant | LOA | 2020-06-26 | [md](../markdown/36821-transcript.md) - [yaml](../yaml/36821-transcript.yml) |

@@ -895,7 +895,7 @@
 | Nguyen, Timmy T. | 62875 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62875-transcript.md) - [yaml](../yaml/62875-transcript.yml) |
 | El Mohamed, Mohamed F. | 62958 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-17 | [md](../markdown/62958-transcript.md) - [yaml](../yaml/62958-transcript.yml) |
 | Plantillas, Jairo D. | 62959 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-26 | [md](../markdown/62959-transcript.md) - [yaml](../yaml/62959-transcript.yml) |
-| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-01 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
+| Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
 | Zajac, Scott J. | 62995 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-23 | [md](../markdown/62995-transcript.md) - [yaml](../yaml/62995-transcript.yml) |
 | Smith, Stephen J. | 10762 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2007-01-05 | [md](../markdown/10762-transcript.md) - [yaml](../yaml/10762-transcript.yml) |
 | McGranahan, Thomas T., Jr. | 10949 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2012-06-06 | [md](../markdown/10949-transcript.md) - [yaml](../yaml/10949-transcript.yml) |

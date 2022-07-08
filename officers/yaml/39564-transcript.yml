@@ -52,19 +52,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/22/2022
+- status_date: 7/6/2022
   certificate: Police Officer
   level: Executive
-  status: App Incmpl
+  status: App InProc
   certificate_date: ''
-  expiration_date: 8/22/2022
+  expiration_date: ''
   probation_date: ''
-- status_date: 6/22/2022
+- status_date: 7/6/2022
   certificate: Police Officer
   level: Management
-  status: App Incmpl
-  certificate_date: ''
-  expiration_date: 8/22/2022
+  status: Granted
+  certificate_date: 7/6/2022
+  expiration_date: ''
   probation_date: ''
 - status_date: 2/20/2014
   certificate: Police Officer
@@ -4205,6 +4205,11 @@ attribute_records:
   effective_date: 10/11/2000
   expiration_date: ''
 education_records:
+- date: 12/15/2020
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '60.0'
 - date: 9/15/2000
   degree: No Degree
   school: Portland Community College

@@ -31,6 +31,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2022 | F6R13584 | Duty to Intercede | Passed | 0.0 | 1.50 |
+| 3/31/2022 | F6R02316 | Jail Policy Review | Passed | 0.0 | 1.00 |
+| 3/31/2022 | F6R14512 | Policy 600 Review Security and Control | Passed | 0.0 | 1.00 |
+| 3/31/2022 | F6R11431 | Policy 200 Review Operational Procedures | Passed | 0.0 | 1.00 |
+| 3/31/2022 | F6R44603 | Pre-Trial No Contact Order | Passed | 0.0 | 1.00 |
 | 10/1/2021 | F6K40813 | Sheriff's Office Policy 300 Review - Use of Force | Passed | 0.0 | 1.00 |
 | 10/1/2021 | F6K02110 | Preventing In Custody Deaths - Video Part 2 | Passed | 0.0 | 2.50 |
 | 10/1/2021 | F6K32195 | Ethical Decision Making for Today's CO | Passed | 0.0 | 1.00 |

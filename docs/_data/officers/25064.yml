@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2022
+  course: BPT09123
+  title: Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/15/2022
   course: BPT31793
   title: Adult Learning Core

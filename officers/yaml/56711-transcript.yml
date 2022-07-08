@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/28/2022
-  course: '32327'
-  title: Firearm and Vehicle Tactics
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 3/26/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Instructed | 0.0 | 16.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 2/17/2022 | SAG18841 | Firearms | Passed | 0.0 | 1.50 |

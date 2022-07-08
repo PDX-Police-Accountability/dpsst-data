@@ -26,6 +26,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | BPT09123 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 4/20/2022 | CVP04595 | Mass Casualty: Rapid Response to School Shooters | Passed | 0.0 | 8.00 |
 | 3/28/2022 | PDP03333 | EAP Peer Support role in critical incidents | Passed | 0.0 | 8.00 |

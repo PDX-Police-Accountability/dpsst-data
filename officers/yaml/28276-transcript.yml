@@ -122,6 +122,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 7/5/2022
+  course: SVP38290
+  title: Annual Narcan Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/5/2022
+  course: SVP08072
+  title: Anti-Bias Training for LEO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/22/2022
   course: SVP19591
   title: Firearms Training  Qualification (pistol/rifile)

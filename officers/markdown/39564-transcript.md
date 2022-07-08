@@ -22,8 +22,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/22/2022 | Police Officer | Executive | App Incmpl |  | 8/22/2022 |  |
-| 6/22/2022 | Police Officer | Management | App Incmpl |  | 8/22/2022 |  |
+| 7/6/2022 | Police Officer | Executive | App InProc |  |  |  |
+| 7/6/2022 | Police Officer | Management | Granted | 7/6/2022 |  |  |
 | 2/20/2014 | Police Officer | Advanced | Granted | 2/20/2014 |  |  |
 | 2/20/2014 | Police Officer | Intermediate | Granted | 2/20/2014 |  |  |
 | 2/20/2014 | Police Officer | Supervisory | Granted | 2/20/2014 |  |  |
@@ -38,6 +38,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/15/2020 | No Degree | All Other Education Institutes |  | 60.0 |
 | 9/15/2000 | No Degree | Portland Community College |  | 6.0 |
 | 9/15/2000 | No Degree | Mt Hood Community College |  | 21.0 |
 | 6/15/1996 | No Degree | All Other Education Institutes |  | 10.0 |

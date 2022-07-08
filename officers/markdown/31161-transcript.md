@@ -46,6 +46,7 @@
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Passed | 0.0 | 16.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 4.00 |
 | 5/4/2022 | TGP10528 | Redefining Adversity | Passed | 0.0 | 1.00 |
+| 4/6/2022 | TGP11367 | 22-0585 |  | 0.0 | 12.00 |
 | 3/16/2022 | TGP20313 | Domestic Violence Training | Passed | 0.0 | 1.00 |
 | 3/3/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |
 | 2/10/2022 | TGP38122 | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.50 |
