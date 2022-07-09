@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2022
+  course: VND33109
+  title: Firearm and Vehicle Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/23/2022
   course: PDP09335
   title: 2022-1 Range Qual AR-15 Qualification (20 Yard)

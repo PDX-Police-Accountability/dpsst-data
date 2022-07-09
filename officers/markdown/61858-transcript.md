@@ -46,6 +46,7 @@
 | 4/13/2022 | MFN22655 | Parole and PPS Morrissey Hearing's Training | Passed | 0.0 | 2.00 |
 | 4/7/2022 | MFN28377 | Airway Circulation Anatmoy and Physiology | Passed | 0.0 | 2.00 |
 | 4/6/2022 | MFN28377 | Airway Circulation Anatmoy and Physiology | Passed | 0.0 | 2.00 |
+| 3/2/2022 | PDP00898 | 2022-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 3.00 |
 | 1/25/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

@@ -20,7 +20,7 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 3/19/2022 | Parole  Probation Officer | Basic | Required |  |  | 9/19/2023 |
-| 6/7/2019 | Corrections Officer | Basic | Granted | 6/7/2019 | 6/18/2022 |  |
+| 6/7/2019 | Corrections Officer | Basic | Granted | 6/7/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

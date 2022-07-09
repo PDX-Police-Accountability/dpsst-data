@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/9/2022
+  course: PDP39345
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/13/2022
   course: FGP20462
   title: NAMOA Motorcycle Training

@@ -29,6 +29,22 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/27/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/12/2022 | PDP00898 | 2022-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 21.50 |
+| 5/12/2022 | PDP06934 | 2022-1 Advanced Academy Crowd Control | Passed | 0.0 | 9.50 |
+| 5/12/2022 | PDP39022 | 2022-1 Advanced Academy EAP | Passed | 0.0 | 1.00 |
+| 5/12/2022 | PDP30720 | 2022-1 Advanced Academy Bike Training | Passed | 0.0 | 34.00 |
+| 5/12/2022 | PDP39188 | 2022-1 Advanced Academy Community Engagement | Passed | 0.0 | 45.50 |
+| 5/12/2022 | PDP30041 | 2022-1 Advanced Academy Control Tactics | Passed | 0.0 | 62.50 |
+| 5/12/2022 | PDP27374 | 2022-1 Advanced Academy Police Vehicle Operations | Passed | 0.0 | 42.00 |
+| 5/12/2022 | PDP39291 | 2022-1 Advanced Academy Professionalism | Passed | 0.0 | 5.00 |
+| 5/12/2022 | PDP34934 | 2022-1 Advanced Academy Wellness | Passed | 0.0 | 9.00 |
+| 5/12/2022 | PDP02424 | 2022-1 Advanced Academy Law | Passed | 0.0 | 28.00 |
+| 5/12/2022 | PDP17118 | 2022-1 Advanced Academy Patrol Procedures (FA/UoF) | Passed | 0.0 | 123.50 |
+| 5/12/2022 | PDP41028 | 2022-1 Advanced Academy Patrol Procedures (Other) | Passed | 0.0 | 5.50 |
+| 5/12/2022 | PDP24698 | 2022-1 Advanced Academy ECW | Passed | 0.0 | 2.00 |
+| 5/12/2022 | PDP38478 | 2022-1 Advanced Academy Firearms | Passed | 0.0 | 51.50 |
+| 5/12/2022 | PDP08215 | 2022-1 Advanced Academy Fitness | Passed | 0.0 | 5.00 |
+| 3/17/2022 | PDP17341 | 2022-1 Adv Academy Active Bystandership for LE | Passed | 0.0 | 9.00 |
 | 3/14/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/14/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/14/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

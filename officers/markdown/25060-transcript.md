@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2022 | VND33109 | Firearm and Vehicle Tactics | Passed | 0.0 | 8.00 |
 | 3/22/2022 | WBP11349 | Winter-Spring Firearms Training | Passed | 0.0 | 3.00 |
 | 3/22/2022 | WBP11349 | Winter-Spring Firearms Training | Instructed | 0.0 | 3.00 |
 | 3/22/2022 | WBP04100 | Firearms Quarterly Qualifications - Q1 2022 | Passed | 0.0 | 0.50 |

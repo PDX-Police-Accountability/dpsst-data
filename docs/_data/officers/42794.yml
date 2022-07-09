@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 6/22/2022
+  course: OCS20615
+  title: Target ID Marksmanship and Annual Qualifications
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/10/2022
   course: OCS31761
   title: SWAT - Marksmanship Keyhole Shooting
@@ -118,6 +124,18 @@ training_records:
   hours: '2.00'
 - date: 5/20/2022
   course: OCS31461
+  title: June 2022 FTU Inservice Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/20/2022
+  course: OCS38314
+  title: Annual Qualification / Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/20/2022
+  course: OCS19690
   title: June 2022 FTU Inservice Training
   status: Passed
   score: '0.0'

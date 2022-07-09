@@ -31,7 +31,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 8/11/2020 | 8/11/2022 |
 ## Education
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/13/2022 | WLP26008 | 40mm Less Lethal - Classroom and Qualification | Passed | 0.0 | 1.50 |
 | 6/13/2022 | WLP20564 | Firearms Training | Passed | 0.0 | 2.50 |
 | 4/30/2022 | WLP14592 | Hate Crimes Training for LE | Passed | 0.0 | 1.00 |

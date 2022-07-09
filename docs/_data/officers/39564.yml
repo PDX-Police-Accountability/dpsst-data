@@ -4210,6 +4210,11 @@ education_records:
   school: All Other Education Institutes
   major: ''
   hours: '60.0'
+- date: 9/15/2018
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '17.0'
 - date: 9/15/2000
   degree: No Degree
   school: Portland Community College

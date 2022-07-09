@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2022
+  course: PDP39345
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/19/2022
   course: PDP17743
   title: 2021-8 City Attorney's Legal Updates - Aug. 2021

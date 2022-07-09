@@ -46,7 +46,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 6/7/2019
-  expiration_date: 6/18/2022
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 9/26/2022

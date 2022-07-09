@@ -34,12 +34,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/20/2021
+- status_date: 6/15/2022
   certificate: Police Officer
   level: Basic
-  status: Granted-UR
+  status: Lapsed-UR
   certificate_date: 1/20/2021
-  expiration_date: 6/15/2022
+  expiration_date: 3/15/2027
   probation_date: ''
 - status_date: 10/24/2018
   certificate: Corrections Officer
@@ -1604,18 +1604,10 @@ training_records:
   score: '0.0'
   hours: '249.50'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/12/2021
   expiration_date: 6/12/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/19/2018

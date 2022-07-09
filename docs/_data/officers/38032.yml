@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2022
+  course: REG08524
+  title: Home Made Explosive ID
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/31/2021
   course: 21-CVDL1
   title: 2021 LE Annual Maint-Not Met COVID19

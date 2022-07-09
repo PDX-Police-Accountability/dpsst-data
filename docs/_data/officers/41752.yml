@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/19/2022
+  course: GPP38935
+  title: Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/14/2022
   course: GPP44217
   title: Bias-Based Policing

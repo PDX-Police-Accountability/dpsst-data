@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 6/23/2022 | OCP33494 | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
 | 2/24/2022 | OCP28607 | Firearms/Use of Force | Instructed | 0.0 | 24.00 |

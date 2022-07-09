@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2022
+  course: PDP39345
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/22/2022
   course: PDP12489
   title: 2022-1 Range Qualification Primary Firearm

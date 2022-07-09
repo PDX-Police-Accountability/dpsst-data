@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/2/2022
+  course: PDP00898
+  title: 2022-1 Advanced Academy Crisis Intervention Trng
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/25/2022
   course: PDP02637
   title: '2022-1 Chief''s Office Bill 2928: Crowd Control'

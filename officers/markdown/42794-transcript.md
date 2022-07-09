@@ -42,11 +42,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2022 | OCS41952 | K9 Firearms - MILO and live fire | Instructed | 0.0 | 2.00 |
+| 6/22/2022 | OCS20615 | Target ID Marksmanship and Annual Qualifications | Instructed | 0.0 | 2.00 |
 | 6/10/2022 | OCS31761 | SWAT - Marksmanship Keyhole Shooting | Instructed | 0.0 | 3.00 |
 | 6/5/2022 | OCS43988 | Functional Pistol Skills | Passed | 0.0 | 20.00 |
 | 6/1/2022 | OCS16410 | New Hire Shotgun Orientation | Instructed | 0.0 | 2.00 |
 | 5/20/2022 | OCS36514 | Annual Qualification / Marksmanship | Instructed | 0.0 | 2.00 |
 | 5/20/2022 | OCS31461 | June 2022 FTU Inservice Training | Passed | 0.0 | 5.00 |
+| 5/20/2022 | OCS38314 | Annual Qualification / Marksmanship | Instructed | 0.0 | 2.00 |
+| 5/20/2022 | OCS19690 | June 2022 FTU Inservice Training | Passed | 0.0 | 5.00 |
 | 5/13/2022 | OCS34450 | May 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/25/2022 | OCS11374 | K9 Firearms - Marksmanship | Instructed | 0.0 | 2.00 |

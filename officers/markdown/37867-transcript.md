@@ -38,6 +38,7 @@
 | 4/15/2022 | HSU24966 | Pre Academy Defensive Tactics 4 | Instructed | 0.0 | 4.00 |
 | 4/14/2022 | PDP44374 | SERT Weekly Inner Perimeter | Passed | 0.0 | 0.00 |
 | 4/3/2022 | HSU26856 | Defensive Tactics Spring In-Service 2022 | Instructed | 0.0 | 2.50 |
+| 3/17/2022 | PDP17341 | 2022-1 Adv Academy Active Bystandership for LE | Passed | 0.0 | 9.00 |
 | 3/16/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/16/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/15/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

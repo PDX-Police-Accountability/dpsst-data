@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Passed | 0.0 | 27.00 |
 | 5/13/2022 | PDP19711 | North Aerican Motor Ofc. Assoc. Training Conf. | Passed | 0.0 | 24.00 |
 | 5/6/2022 | LOP18786 | Metro Area Sergeants Academy | Passed | 0.0 | 16.00 |

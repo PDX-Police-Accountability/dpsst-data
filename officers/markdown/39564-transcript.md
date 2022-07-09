@@ -39,6 +39,7 @@
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 | 12/15/2020 | No Degree | All Other Education Institutes |  | 60.0 |
+| 9/15/2018 | No Degree | All Other Education Institutes |  | 17.0 |
 | 9/15/2000 | No Degree | Portland Community College |  | 6.0 |
 | 9/15/2000 | No Degree | Mt Hood Community College |  | 21.0 |
 | 6/15/1996 | No Degree | All Other Education Institutes |  | 10.0 |
