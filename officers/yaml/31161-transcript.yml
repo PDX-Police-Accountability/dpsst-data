@@ -117,6 +117,12 @@ training_records:
   status: ''
   score: '0.0'
   hours: '12.00'
+- date: 4/6/2022
+  course: TGP14188
+  title: OWLA Spring Conference
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 3/16/2022
   course: TGP20313
   title: Domestic Violence Training
