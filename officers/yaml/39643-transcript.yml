@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2022
+  course: REG16331
+  title: Collar tie, single leg, knee on hip
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: REG30867
+  title: Grip fighting, posture control, getting up
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/16/2022
   course: REG07375
   title: DT Arm drag, Weapon Defense

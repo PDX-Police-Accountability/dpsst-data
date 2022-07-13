@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2022 | BPT27684 | SFST Instructor Development Course | Passed | 0.0 | 50.00 |
 | 4/8/2022 | PDP44401 | Advanced De-Escalation/Prevention Training | Passed | 0.0 | 20.00 |
 | 4/6/2022 | BPT29579 | Advanced De-Escalation and Escalation Prevention | Passed | 0.0 | 20.00 |
 | 3/31/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

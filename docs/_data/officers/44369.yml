@@ -105,6 +105,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2022
+  course: STP14142
+  title: Ethics in Public Service
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/26/2022
   course: STP00044
   title: Shooting In And Around Vehicles

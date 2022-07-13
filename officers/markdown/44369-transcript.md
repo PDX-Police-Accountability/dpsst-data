@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/9/2022 | STP14142 | Ethics in Public Service | Passed | 0.0 | 1.00 |
 | 6/26/2022 | STP00044 | Shooting In And Around Vehicles | Passed | 0.0 | 4.00 |
 | 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/15/2022 | BPT31793 | Adult Learning Core | Passed | 0.0 | 2.00 |

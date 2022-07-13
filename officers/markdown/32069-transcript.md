@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2022 | REG16331 | Collar tie, single leg, knee on hip | Passed | 0.0 | 1.00 |
 | 5/26/2022 | REG28407 | Striking and weapon retention | Passed | 0.0 | 1.00 |
 | 5/23/2022 | REG11074 | Limb control and weapon retention standing, ground | Passed | 0.0 | 1.00 |
 | 5/19/2022 | REG33517 | DT Strike defense, 2 officer ground contol | Passed | 0.0 | 1.00 |

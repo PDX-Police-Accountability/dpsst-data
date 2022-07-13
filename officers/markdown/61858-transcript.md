@@ -34,6 +34,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
+| 6/30/2022 | MFN42864 | Firearms Qualifications | Passed | 0.0 | 0.50 |
+| 6/30/2022 | MFN40399 | Firearms Training | Passed | 0.0 | 1.50 |
 | 6/29/2022 | MFN07118 | LS/CMI | Passed | 0.0 | 8.00 |
 | 6/28/2022 | MFN25822 | LS/CMI | Passed | 0.0 | 8.00 |
 | 6/15/2022 | MFN33368 | CR2: Creating Regulation and Resilience | Passed | 0.0 | 24.00 |
@@ -47,6 +49,7 @@
 | 4/7/2022 | MFN28377 | Airway Circulation Anatmoy and Physiology | Passed | 0.0 | 2.00 |
 | 4/6/2022 | MFN28377 | Airway Circulation Anatmoy and Physiology | Passed | 0.0 | 2.00 |
 | 3/2/2022 | PDP00898 | 2022-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 3.00 |
+| 2/17/2022 | MFN27226 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/25/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

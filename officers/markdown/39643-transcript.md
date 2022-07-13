@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/7/2022 | REG16331 | Collar tie, single leg, knee on hip | Passed | 0.0 | 1.00 |
+| 6/30/2022 | REG30867 | Grip fighting, posture control, getting up | Passed | 0.0 | 1.00 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
 | 5/9/2022 | REG33384 | Take down 1  2 officers, ground mobility | Passed | 0.0 | 1.00 |
 | 3/18/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

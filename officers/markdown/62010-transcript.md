@@ -4,7 +4,7 @@
 | name | Williams, Kyle A. |
 | dpsst_identifier | 62010 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/23/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/26/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/15/2021 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/23/2022 | Police Officer | Basic | Required |  |  | 12/23/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -26,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2022 | M10-21A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
 | 8/2/2021 | M10-21A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |
 | 7/22/2021 | PDP35087 | 2021 FTEP Pre-DPSST Use of Force Class | Passed | 0.0 | 0.50 |

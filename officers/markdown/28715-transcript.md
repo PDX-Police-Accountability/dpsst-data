@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2022 | BPT28832 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 4/13/2022 | HBP36178 | Officer Rescue | Passed | 0.0 | 5.00 |
 | 4/13/2022 | HBP03908 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |

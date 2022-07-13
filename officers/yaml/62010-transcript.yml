@@ -3,12 +3,18 @@ header_record:
   name: Williams, Kyle A.
   dpsst_identifier: '62010'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/23/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/26/2021
   agency: Portland Police Bureau
   action: Resigned
@@ -21,8 +27,21 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 6/23/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 12/23/2023
 training_records:
+- date: 11/7/2022
+  course: M10-21A
+  title: DPSST Basic Police Course
+  status: Pending
+  score: '0.0'
+  hours: '640.00'
 - date: 8/2/2021
   course: M10-21A
   title: DPSST Basic Police Course

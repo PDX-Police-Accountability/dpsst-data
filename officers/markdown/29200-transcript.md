@@ -12,16 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/11/2022 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 2/23/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 10/20/2005 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 2/24/1994 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/23/2022 | Police Officer | Advanced | Lapsed | 1/10/2008 | 2/23/2027 |  |
-| 5/23/2022 | Police Officer | Basic | Lapsed | 12/28/1994 | 2/23/2027 |  |
-| 5/23/2022 | Police Officer | Intermediate | Lapsed | 1/10/2008 | 2/23/2027 |  |
-| 5/23/2022 | Police Officer | Supervisory | Lapsed | 2/6/2008 | 2/23/2027 |  |
+| 7/11/2022 | Police Officer | Basic | Required |  |  | 1/11/2024 |
+| 5/23/2022 | Police Officer | Advanced | Lapsed | 1/10/2008 |  |  |
+| 5/23/2022 | Police Officer | Basic | Lapsed | 12/28/1994 |  |  |
+| 5/23/2022 | Police Officer | Intermediate | Lapsed | 1/10/2008 |  |  |
+| 5/23/2022 | Police Officer | Supervisory | Lapsed | 2/6/2008 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

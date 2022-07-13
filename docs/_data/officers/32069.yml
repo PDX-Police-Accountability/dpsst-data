@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2022
+  course: REG16331
+  title: Collar tie, single leg, knee on hip
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/26/2022
   course: REG28407
   title: Striking and weapon retention

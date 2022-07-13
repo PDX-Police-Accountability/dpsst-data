@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2022
+  course: WBP17534
+  title: Second Quarter Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/28/2022
   course: VND33109
   title: Firearm and Vehicle Tactics

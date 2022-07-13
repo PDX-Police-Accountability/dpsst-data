@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2022
+  course: BPT28832
+  title: Intoxilyzer 8000 Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/13/2022
   course: HBP36178
   title: Officer Rescue
