@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/29/2022 | 6/30/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 8/26/2020 | 8/26/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2022 | MKL26688 | First Aid and CPR | Passed | 0.0 | 5.50 |
 | 6/15/2022 | MKL24792 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 5/5/2022 | MKL28111 | Communication/Customer Service Skills | Passed | 0.0 | 0.50 |

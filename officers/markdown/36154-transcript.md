@@ -40,6 +40,7 @@
 | 5/20/2022 | MFP09166 | 2022 Annual Rifle Qualification | Passed | 0.0 | 0.75 |
 | 5/20/2022 | MFP42897 | 2022 Annual Qualification/Handgun | Passed | 0.0 | 1.50 |
 | 5/20/2022 | MFP04241 | 2022 Annual Shotgun Qualification | Passed | 0.0 | 0.75 |
+| 5/20/2022 | MFP42951 | Less Lethal Quals-ASP, OC, Taser, 40mm, pepperball | Passed | 0.0 | 0.75 |
 | 4/30/2022 | MFP17324 | April 2022 Briefing Training | Passed | 0.0 | 2.00 |
 | 4/30/2022 | MFP04601 | April 2022 Daily Training Bulletins | Passed | 0.0 | 2.00 |
 | 4/29/2022 | MFP07335 | Defensive Tactics/Striking  Ground Work | Passed | 0.0 | 3.00 |

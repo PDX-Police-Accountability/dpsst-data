@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 5/20/2022
+  course: MFP42951
+  title: Less Lethal Quals-ASP, OC, Taser, 40mm, pepperball
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/30/2022
   course: MFP17324
   title: April 2022 Briefing Training

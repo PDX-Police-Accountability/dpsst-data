@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 7/1/2022 | Molalla Police Department | Hired | Police Off |  |  |
+| 6/30/2022 | Mt. Angel Police Department | Resigned | Police Off |  |  |
 | 10/14/2019 | Mt. Angel Police Department | Hired | Police Off |  |  |
 | 11/17/2016 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/17/2016 | Portland Police Bureau | Reclassed | Police Off |  |  |

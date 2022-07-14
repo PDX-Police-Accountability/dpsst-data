@@ -54,6 +54,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/8/2022 | PLS29699 | ARIDE / Wet Lab | Instructed | 0.0 | 16.00 |
+| 6/8/2022 | F6R17453 | ARIDE/Wet Lab | Instructed | 0.0 | 16.00 |
 | 5/16/2022 | VND14835 | 40 Hour CIT 5/16/2022 - 5/20/2022 | Passed | 0.0 | 40.00 |
 | 5/13/2022 | ETS08201 | CPR, AED,  Basic First Aid | Passed | 0.0 | 6.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |

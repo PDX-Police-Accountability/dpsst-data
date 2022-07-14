@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2022
+  course: MKL26688
+  title: First Aid and CPR
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 6/15/2022
   course: MKL24792
   title: Use of Force / Defensive Tactics
@@ -2456,6 +2462,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/29/2022
+  expiration_date: 6/30/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022

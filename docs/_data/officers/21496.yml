@@ -148,6 +148,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '16.00'
+- date: 6/8/2022
+  course: F6R17453
+  title: ARIDE/Wet Lab
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/16/2022
   course: VND14835
   title: 40 Hour CIT 5/16/2022 - 5/20/2022
