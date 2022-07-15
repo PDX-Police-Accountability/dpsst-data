@@ -9,15 +9,21 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/25/2022
+  agency: Multnomah County Sheriff's Office
+  action: Deceased
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 9/30/2002
   agency: Multnomah County Sheriff's Office
-  action: Demotion
+  action: Reclassed
   rank: Dpty Shrf
   classification: ''
   assignment: ''
 - date: 1/7/2002
   agency: Multnomah County Sheriff's Office
-  action: Promotion
+  action: Reclassed
   rank: Dpty Shrf
   classification: ''
   assignment: ''
@@ -45,21 +51,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/26/2002
-  expiration_date: ''
+  expiration_date: 9/25/2022
   probation_date: ''
 - status_date: 3/15/2000
   certificate: Corrections Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/15/2000
-  expiration_date: ''
+  expiration_date: 9/25/2022
   probation_date: ''
 - status_date: 4/2/1997
   certificate: Corrections Officer
   level: Basic
   status: Granted
   certificate_date: 4/2/1997
-  expiration_date: ''
+  expiration_date: 9/25/2022
   probation_date: ''
 training_records:
 - date: 3/29/2022

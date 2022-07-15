@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/9/2022
+  course: PDP05146
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/13/2022
   course: FGP20462
   title: NAMOA Motorcycle Training

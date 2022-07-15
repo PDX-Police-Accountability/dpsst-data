@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/10/2022
+  course: PDP05146
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/19/2022
   course: PDP17743
   title: 2021-8 City Attorney's Legal Updates - Aug. 2021

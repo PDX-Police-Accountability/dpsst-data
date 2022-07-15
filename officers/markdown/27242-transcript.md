@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2022 | ICE20832 | Firearms-Handgun and Rifle | Passed | 0.0 | 4.00 |
 | 5/18/2022 | F1519773 | One Chiefs Experience Leading NYPD | Passed | 0.0 | 2.00 |
 | 5/11/2022 | ICE15251 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 3.00 |
 | 3/29/2022 | ICE11766 | Firearms | Passed | 0.0 | 4.00 |

@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2022
+  course: HBS08417
+  title: Basic Patrol Rifle Operator School
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/14/2022
+  course: HBS06173
+  title: Basic Patrol Rifle Operator School
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/13/2022
+  course: HBS33402
+  title: Basic Patrol Rifle Operator School
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/31/2022
   course: PDP30923
   title: 2021-11 City Attorney's Legal Update for Nov. 2021

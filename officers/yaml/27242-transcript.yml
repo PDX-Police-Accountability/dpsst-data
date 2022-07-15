@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2022
+  course: ICE20832
+  title: Firearms-Handgun and Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/18/2022
   course: F1519773
   title: One Chiefs Experience Leading NYPD

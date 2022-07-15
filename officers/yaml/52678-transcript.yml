@@ -43,6 +43,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/29/2022
+  course: PDP05146
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/9/2022
   course: PDP39345
   title: IS-800 National Response Framework

@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2022 | HBS08417 | Basic Patrol Rifle Operator School | Instructed | 0.0 | 8.00 |
+| 6/14/2022 | HBS06173 | Basic Patrol Rifle Operator School | Instructed | 0.0 | 8.00 |
+| 6/13/2022 | HBS33402 | Basic Patrol Rifle Operator School | Instructed | 0.0 | 8.00 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/19/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

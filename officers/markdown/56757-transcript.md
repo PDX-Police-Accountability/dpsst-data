@@ -47,6 +47,7 @@
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 8/27/2021 | F6E42643 | Taser 7 Certification | Passed | 0.0 | 5.00 |
 | 8/24/2021 | F6E32625 | Ethics: Insights to Principled Polcing | Passed | 0.0 | 2.00 |
+| 8/24/2021 | PSU24176 | LEDS Initial Inquiry | Passed | 0.0 | 8.00 |
 | 8/13/2021 | F6F44250 | Firearms Training / Qualification | Passed | 0.0 | 4.50 |
 | 8/11/2021 | F6F02582 | De-Escalation Training | Passed | 0.0 | 6.00 |
 | 9/6/2020 | MISCETH2 | Racial Microaggressions | Passed | 0.0 | 15.00 |

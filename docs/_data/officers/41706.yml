@@ -52,6 +52,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 7/13/2022
+  certificate: Police Officer
+  level: Executive
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 4/2/2020
   certificate: Police Officer
   level: Management
@@ -166,6 +173,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.15'
+- date: 2/11/2022
+  course: PDP43010
+  title: FBI National Executive Institute
+  status: Passed
+  score: '0.0'
+  hours: '94.50'
 - date: 1/9/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

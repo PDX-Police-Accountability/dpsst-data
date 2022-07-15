@@ -12,17 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 9/30/2002 | Multnomah County Sheriff's Office | Demotion | Dpty Shrf |  |  |
-| 1/7/2002 | Multnomah County Sheriff's Office | Promotion | Dpty Shrf |  |  |
+| 6/25/2022 | Multnomah County Sheriff's Office | Deceased | Dpty Shrf |  |  |
+| 9/30/2002 | Multnomah County Sheriff's Office | Reclassed | Dpty Shrf |  |  |
+| 1/7/2002 | Multnomah County Sheriff's Office | Reclassed | Dpty Shrf |  |  |
 | 1/29/1996 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/28/1996 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 4/4/1995 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/26/2002 | Corrections Officer | Advanced | Granted | 12/26/2002 |  |  |
-| 3/15/2000 | Corrections Officer | Intermediate | Granted | 3/15/2000 |  |  |
-| 4/2/1997 | Corrections Officer | Basic | Granted | 4/2/1997 |  |  |
+| 12/26/2002 | Corrections Officer | Advanced | Granted | 12/26/2002 | 9/25/2022 |  |
+| 3/15/2000 | Corrections Officer | Intermediate | Granted | 3/15/2000 | 9/25/2022 |  |
+| 4/2/1997 | Corrections Officer | Basic | Granted | 4/2/1997 | 9/25/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

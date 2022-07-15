@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/15/2022
+  course: PDP05146
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/3/2022
   course: MISCMAIN
   title: 2022 LE Basic 3 Year Maintenance
