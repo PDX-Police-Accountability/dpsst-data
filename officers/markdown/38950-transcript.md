@@ -47,7 +47,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |
-| 6/15/2022 | HBS39527 | Corporal Leadership Training | Instructed | 0.0 | 0.75 |
+| 6/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 0.75 |
 | 5/24/2022 | HBS23273 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 2/4/2022 | HBS06256 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/4/2022 | HBS10118 | Use of Force Updates | Passed | 0.0 | 1.50 |
