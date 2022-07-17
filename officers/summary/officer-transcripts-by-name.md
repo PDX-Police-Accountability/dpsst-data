@@ -1,7 +1,6 @@
 ## Transcripts (sorted by name)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
-| * MISSING | 59046 |  |  |  |  |  | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2020-09-28 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | Promotion | 2020-08-27 | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
@@ -637,6 +636,7 @@
 | Hobson, Suzanne M. | 28650 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2019-05-10 | [md](../markdown/28650-transcript.md) - [yaml](../yaml/28650-transcript.yml) |
 | Hoerauf, Timothy N. | 51230 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51230-transcript.md) - [yaml](../yaml/51230-transcript.yml) |
 | Hoesly, Ronald J. | 21282 | Portland Police Bureau | Inactive | Police Officer | Retired | 2015-11-20 | [md](../markdown/21282-transcript.md) - [yaml](../yaml/21282-transcript.yml) |
+| Hoffman, Michael T. | 59046 | Portland Police Bureau | Active | Police Officer | Hired | 2018-08-22 | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Hogan, Kevin T. | 33878 | Portland Police Bureau | Active | Sergeant | Promotion | 2008-01-24 | [md](../markdown/33878-transcript.md) - [yaml](../yaml/33878-transcript.yml) |
 | Holbrook, Max J. | 32026 | Portland Police Bureau | Active | Sergeant | Promotion | 2007-01-25 | [md](../markdown/32026-transcript.md) - [yaml](../yaml/32026-transcript.yml) |
 | Hollan, Angela E. | 36825 | Portland Police Bureau | Active | Detective | Promotion | 2013-01-10 | [md](../markdown/36825-transcript.md) - [yaml](../yaml/36825-transcript.yml) |

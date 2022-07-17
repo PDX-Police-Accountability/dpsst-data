@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | F6R17303 | Firearms: Vehicle Close Quarters Battle/40mm | Passed | 0.0 | 4.00 |
 | 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/16/2022 | F6R32992 | Active Threat Response/Tactical Medicine | Passed | 0.0 | 2.00 |
 | 4/27/2022 | F6R18276 | Use of Force/Taser/40mm | Passed | 0.0 | 3.00 |

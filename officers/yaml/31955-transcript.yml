@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2022
+  course: F6R17303
+  title: 'Firearms: Vehicle Close Quarters Battle/40mm'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/23/2022
   course: F6R34771
   title: Active Threat Response

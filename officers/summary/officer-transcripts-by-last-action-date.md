@@ -1,7 +1,6 @@
 ## Transcripts (sorted by last action date)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
-| * MISSING | 59046 |  |  |  |  |  | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Downey, Raymond W. | 15316 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1983-09-30 | [md](../markdown/15316-transcript.md) - [yaml](../yaml/15316-transcript.yml) |
@@ -946,6 +945,7 @@
 | Schroeder, Shawn R. | 58932 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58932-transcript.md) - [yaml](../yaml/58932-transcript.yml) |
 | Enez, Joseph E. | 57475 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-30 | [md](../markdown/57475-transcript.md) - [yaml](../yaml/57475-transcript.yml) |
 | Raphael, Justin M. | 52780 | Portland Police Bureau | Active | Police Officer | Return LOA | 2018-08-08 | [md](../markdown/52780-transcript.md) - [yaml](../yaml/52780-transcript.yml) |
+| Hoffman, Michael T. | 59046 | Portland Police Bureau | Active | Police Officer | Hired | 2018-08-22 | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Shirahama, Grant T. | 41300 | Portland Police Bureau | Inactive | Police Officer | Deceased | 2018-08-23 | [md](../markdown/41300-transcript.md) - [yaml](../yaml/41300-transcript.yml) |
 | Ginnow, Matthew C. | 50847 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-08-24 | [md](../markdown/50847-transcript.md) - [yaml](../yaml/50847-transcript.yml) |
 | Mayer, Mathew M. | 57276 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2018-08-29 | [md](../markdown/57276-transcript.md) - [yaml](../yaml/57276-transcript.yml) |

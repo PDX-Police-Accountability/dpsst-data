@@ -1,7 +1,6 @@
 ## Transcripts (sorted by rank)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
-| * MISSING | 59046 |  |  |  |  |  | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Smith, Bret J. | 14157 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-01-16 | [md](../markdown/14157-transcript.md) - [yaml](../yaml/14157-transcript.yml) |
 | Eckhart, John C. | 14495 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-07-29 | [md](../markdown/14495-transcript.md) - [yaml](../yaml/14495-transcript.yml) |
 | Modica, Kevin L. | 15909 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2017-06-30 | [md](../markdown/15909-transcript.md) - [yaml](../yaml/15909-transcript.yml) |
@@ -1139,6 +1138,7 @@
 | Ollenbrook, Alexis S. | 58940 | Portland Police Bureau | Active | Police Officer | LOA | 2022-03-10 | [md](../markdown/58940-transcript.md) - [yaml](../yaml/58940-transcript.yml) |
 | Babusis, Vytas P. | 58979 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-17 | [md](../markdown/58979-transcript.md) - [yaml](../yaml/58979-transcript.yml) |
 | Miron, Elena R. | 59009 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-19 | [md](../markdown/59009-transcript.md) - [yaml](../yaml/59009-transcript.yml) |
+| Hoffman, Michael T. | 59046 | Portland Police Bureau | Active | Police Officer | Hired | 2018-08-22 | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Araujo-Garivo, Noe J. | 59065 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2019-12-04 | [md](../markdown/59065-transcript.md) - [yaml](../yaml/59065-transcript.yml) |
 | Scannell, Colin C. | 59093 | Portland Police Bureau | Active | Police Officer | Hired | 2019-10-17 | [md](../markdown/59093-transcript.md) - [yaml](../yaml/59093-transcript.yml) |
 | Cavalli-Singer, Gelsomina M. | 59104 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-12 | [md](../markdown/59104-transcript.md) - [yaml](../yaml/59104-transcript.yml) |

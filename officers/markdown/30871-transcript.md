@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | OSH07547 | De-Escalation/Verbal Judo | Instructed | 0.0 | 1.50 |
 | 5/5/2022 | OSH39199 | De-Escalation/Verbal Judo | Instructed | 0.0 | 1.50 |
 | 4/21/2022 | F6R21774 | OSP Swat Scenario Training | Passed | 0.0 | 3.00 |
 | 4/20/2022 | F6R13854 | OSP SWAT Perimeter Training IP | Passed | 0.0 | 9.00 |

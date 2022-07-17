@@ -119,6 +119,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '0.75'
+- date: 6/15/2022
+  course: HBS41265
+  title: Corporal Leadership Training
+  status: Instructed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/24/2022
   course: HBS23273
   title: IFAST In-Service

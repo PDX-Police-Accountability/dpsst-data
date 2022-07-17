@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2022 | HBP34760 | Range / Force and Tactics | Passed | 0.0 | 7.00 |
 | 4/6/2022 | HBP32929 | Officer Rescue | Passed | 0.0 | 5.00 |
 | 4/6/2022 | HBP01727 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/30/2022 | HBP15013 | ARREST AND CONTROL | Passed | 0.0 | 1.00 |

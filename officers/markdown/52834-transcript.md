@@ -20,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/12/2022 | Police Officer | Basic | App Recd |  |  | 5/14/2022 |
+| 7/15/2022 | Police Officer | Basic | App InProc |  |  | 5/14/2022 |
 | 11/11/2021 | Emergency Medical Dispatcher | Basic | Lapsed | 1/3/2020 | 11/11/2025 |  |
 | 11/11/2021 | Telecommunicator | Basic | Lapsed | 1/3/2020 | 11/11/2025 |  |
 | 2/15/2020 | Police Officer | Basic | Expired | 2/19/2014 |  |  |

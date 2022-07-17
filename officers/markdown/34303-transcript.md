@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2022 | HBP34760 | Range / Force and Tactics | Passed | 0.0 | 7.00 |
 | 4/26/2022 | BPT03227 | RADAR/LIDAR Operator Course | Passed | 0.0 | 8.00 |
 | 4/20/2022 | HBP11624 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |
 | 4/13/2022 | HBP36178 | Officer Rescue | Passed | 0.0 | 5.00 |

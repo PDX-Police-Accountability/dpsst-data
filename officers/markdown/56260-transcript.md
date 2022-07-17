@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | F6R17303 | Firearms: Vehicle Close Quarters Battle/40mm | Passed | 0.0 | 3.00 |
 | 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/19/2022 | F6R15275 | Active Threat Response/Tactical Medicine | Passed | 0.0 | 2.00 |
 | 5/27/2022 | VND26069 | NAS Part B Level I Truck Inspection Course | Passed | 0.0 | 40.00 |

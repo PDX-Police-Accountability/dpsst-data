@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2022 | HBP40106 | Range/Force and Tactics | Passed | 0.0 | 7.00 |
 | 4/20/2022 | HBP33308 | Officer Rescue | Passed | 0.0 | 5.00 |
 | 4/20/2022 | HBP34473 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |

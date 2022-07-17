@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2022
+  course: HBP40106
+  title: Range/Force and Tactics
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/20/2022
   course: HBP33308
   title: Officer Rescue

@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 6/8/2022 | HBP34760 | Range / Force and Tactics | Passed | 0.0 | 7.00 |
 | 5/26/2022 | HBP18130 | Big Picture: LE and HR Performance | Passed | 0.0 | 2.00 |
 | 4/27/2022 | HBP35895 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 4/27/2022 | HBP18799 | Officer Rescue | Passed | 0.0 | 5.00 |

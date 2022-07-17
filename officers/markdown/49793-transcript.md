@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2022 | CIF15333 | Vehicle Pursuit Training | Passed | 0.0 | 1.00 |
 | 7/6/2022 | CIF04510 | Patrol Rifle Training | Passed | 0.0 | 4.00 |
 | 7/2/2022 | CIF20008 | Use of Force: Policy or Tactics? | Passed | 0.0 | 1.50 |
 | 5/11/2022 | CIF27670 | Handgun and Rifle Range | Passed | 0.0 | 2.00 |

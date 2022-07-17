@@ -1,7 +1,6 @@
 ## Transcripts (sorted by last action)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
-| * MISSING | 59046 |  |  |  |  |  | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Brant, Linda E. | 13490 | Portland Police Bureau | Inactive | Civilian Employee | Deceased | 2016-11-04 | [md](../markdown/13490-transcript.md) - [yaml](../yaml/13490-transcript.yml) |
 | Dick, Devonna C. | 28646 | Portland Police Bureau | Inactive | Police Officer | Deceased | 2017-04-15 | [md](../markdown/28646-transcript.md) - [yaml](../yaml/28646-transcript.yml) |
 | Brockmann, Heidi M. | 35449 | Portland Police Bureau | Inactive | Sergeant | Deceased | 2019-09-24 | [md](../markdown/35449-transcript.md) - [yaml](../yaml/35449-transcript.yml) |
@@ -462,6 +461,7 @@
 | Barron, Francisco J. | 58873 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58873-transcript.md) - [yaml](../yaml/58873-transcript.yml) |
 | Schaaf, Spencer D. | 58874 | Portland Police Bureau | Active | Police Officer | Hired | 2018-06-28 | [md](../markdown/58874-transcript.md) - [yaml](../yaml/58874-transcript.yml) |
 | Schroeder, Shawn R. | 58932 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58932-transcript.md) - [yaml](../yaml/58932-transcript.yml) |
+| Hoffman, Michael T. | 59046 | Portland Police Bureau | Active | Police Officer | Hired | 2018-08-22 | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Scannell, Colin C. | 59093 | Portland Police Bureau | Active | Police Officer | Hired | 2019-10-17 | [md](../markdown/59093-transcript.md) - [yaml](../yaml/59093-transcript.yml) |
 | Cavalli-Singer, Gelsomina M. | 59104 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-12 | [md](../markdown/59104-transcript.md) - [yaml](../yaml/59104-transcript.yml) |
 | Fultz, Troyler D. | 59125 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-22 | [md](../markdown/59125-transcript.md) - [yaml](../yaml/59125-transcript.yml) |
