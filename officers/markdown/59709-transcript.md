@@ -47,10 +47,12 @@
 | 4/14/2022 | BNP05084 | UAS Search  Rescue | Passed | 0.0 | 3.00 |
 | 3/8/2022 | BNP09673 | UAS Monthly Training - MARCH 2022 | Passed | 0.0 | 4.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 2/28/2022 | BNP13024 | Wellness / Yoga / February | Passed | 0.0 | 3.00 |
 | 2/11/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/11/2022 | BNP10798 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
 | 2/11/2022 | BNP11745 | Mindfulness | Passed | 0.0 | 0.50 |
 | 2/11/2022 | BNP24877 | DUII/SFST Refresher | Passed | 0.0 | 4.00 |
+| 1/30/2022 | BNP19372 | Wellness / Yoga / January | Passed | 0.0 | 3.00 |
 | 1/24/2022 | BNP00027 | DUII Case Law | Passed | 0.0 | 1.00 |
 | 11/17/2021 | F6E39788 | Adaptive Leadership | Passed | 0.0 | 3.00 |
 | 11/17/2021 | F6E43038 | Handgun Low Light | Passed | 0.0 | 1.00 |

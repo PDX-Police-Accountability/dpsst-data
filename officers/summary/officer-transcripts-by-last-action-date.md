@@ -220,7 +220,6 @@
 | Lewton, Ryan S. | 34674 | Portland Police Bureau | Active | Police Officer | Reclassed | 2001-08-16 | [md](../markdown/34674-transcript.md) - [yaml](../yaml/34674-transcript.yml) |
 | Scott, Nathan G. | 41137 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41137-transcript.md) - [yaml](../yaml/41137-transcript.yml) |
 | Faris, Joshua J. | 41138 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41138-transcript.md) - [yaml](../yaml/41138-transcript.yml) |
-| Lowry, Timothy J. | 41142 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41142-transcript.md) - [yaml](../yaml/41142-transcript.yml) |
 | Shearer, Jeffrey G. | 29992 | Portland Police Bureau | Active | Criminalist | Promotion | 2001-08-30 | [md](../markdown/29992-transcript.md) - [yaml](../yaml/29992-transcript.yml) |
 | Letter, Joshua M. | 30867 | Portland Police Bureau | Active | Police Officer | Transfered | 2001-11-01 | [md](../markdown/30867-transcript.md) - [yaml](../yaml/30867-transcript.yml) |
 | Dobbs, Sabrina R. | 37618 | Portland Police Bureau | Active | Police Officer | Hired | 2001-11-15 | [md](../markdown/37618-transcript.md) - [yaml](../yaml/37618-transcript.yml) |
@@ -1581,4 +1580,5 @@
 | Zajac, Scott J. | 62995 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-23 | [md](../markdown/62995-transcript.md) - [yaml](../yaml/62995-transcript.yml) |
 | Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-15 | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | Brunelle, Brandon J. | 62874 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-15 | [md](../markdown/62874-transcript.md) - [yaml](../yaml/62874-transcript.yml) |
+| Lowry, Timothy J. | 41142 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-07-16 | [md](../markdown/41142-transcript.md) - [yaml](../yaml/41142-transcript.yml) |
 | Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |

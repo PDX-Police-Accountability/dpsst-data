@@ -870,7 +870,7 @@
 | Lovato, Dominic | 49571 | Portland Police Bureau | Active | Police Officer | Hired | 2008-06-12 | [md](../markdown/49571-transcript.md) - [yaml](../yaml/49571-transcript.yml) |
 | Lovell, Charles, III | 41706 | Portland Police Bureau | Active | Chief | Promotion | 2020-06-11 | [md](../markdown/41706-transcript.md) - [yaml](../yaml/41706-transcript.yml) |
 | Lowery, Charlie J. | 59482 | Portland Police Bureau | Active | Police Officer | Hired | 2019-01-31 | [md](../markdown/59482-transcript.md) - [yaml](../yaml/59482-transcript.yml) |
-| Lowry, Timothy J. | 41142 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41142-transcript.md) - [yaml](../yaml/41142-transcript.yml) |
+| Lowry, Timothy J. | 41142 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-07-16 | [md](../markdown/41142-transcript.md) - [yaml](../yaml/41142-transcript.yml) |
 | Lucero, Bryan C. | 60236 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-10-19 | [md](../markdown/60236-transcript.md) - [yaml](../yaml/60236-transcript.yml) |
 | Lucich, Rod H. | 12241 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2008-06-30 | [md](../markdown/12241-transcript.md) - [yaml](../yaml/12241-transcript.yml) |
 | Luiz, Joseph A. | 23994 | Portland Police Bureau | Inactive | Detective | Retired | 2019-02-19 | [md](../markdown/23994-transcript.md) - [yaml](../yaml/23994-transcript.yml) |

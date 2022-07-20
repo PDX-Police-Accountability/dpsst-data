@@ -96,6 +96,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/28/2022
+  course: BNP13024
+  title: Wellness / Yoga / February
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/11/2022
   course: XDELETE2
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -120,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/30/2022
+  course: BNP19372
+  title: Wellness / Yoga / January
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/24/2022
   course: BNP00027
   title: DUII Case Law

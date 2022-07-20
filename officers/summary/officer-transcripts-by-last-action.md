@@ -185,7 +185,6 @@
 | Bocchino, Joshua J. | 41047 | Portland Police Bureau | Active | Police Officer | Hired | 2001-07-19 | [md](../markdown/41047-transcript.md) - [yaml](../yaml/41047-transcript.yml) |
 | Scott, Nathan G. | 41137 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41137-transcript.md) - [yaml](../yaml/41137-transcript.yml) |
 | Faris, Joshua J. | 41138 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41138-transcript.md) - [yaml](../yaml/41138-transcript.yml) |
-| Lowry, Timothy J. | 41142 | Portland Police Bureau | Active | Police Officer | Hired | 2001-08-16 | [md](../markdown/41142-transcript.md) - [yaml](../yaml/41142-transcript.yml) |
 | Zentner, Davonne R. | 41483 | Portland Police Bureau | Active | Police Officer | Hired | 2006-03-17 | [md](../markdown/41483-transcript.md) - [yaml](../yaml/41483-transcript.yml) |
 | Wiest, Trent D. | 41757 | Portland Police Bureau | Active | Police Officer | Hired | 2001-12-27 | [md](../markdown/41757-transcript.md) - [yaml](../yaml/41757-transcript.yml) |
 | Shaw, Lisa E. | 41798 | Portland Police Bureau | Active | Civilian Employee | Hired | 2002-01-09 | [md](../markdown/41798-transcript.md) - [yaml](../yaml/41798-transcript.yml) |
@@ -1044,6 +1043,7 @@
 | Lee, Ryan P. | 39878 | Portland Police Bureau | Inactive | Assistant Chief | Resigned | 2020-07-02 | [md](../markdown/39878-transcript.md) - [yaml](../yaml/39878-transcript.yml) |
 | Fields, Travis W. | 40613 | Portland Police Bureau | Inactive | Detective | Resigned | 2021-01-28 | [md](../markdown/40613-transcript.md) - [yaml](../yaml/40613-transcript.yml) |
 | Price, Jeremy D. | 41048 | Portland Police Bureau | Inactive | Lieutenant | Resigned | 2021-01-21 | [md](../markdown/41048-transcript.md) - [yaml](../yaml/41048-transcript.yml) |
+| Lowry, Timothy J. | 41142 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-07-16 | [md](../markdown/41142-transcript.md) - [yaml](../yaml/41142-transcript.yml) |
 | Anuschat, Max O. | 41752 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2011-01-01 | [md](../markdown/41752-transcript.md) - [yaml](../yaml/41752-transcript.yml) |
 | Bailey, Timothy R. | 42553 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/42553-transcript.md) - [yaml](../yaml/42553-transcript.yml) |
 | Cunningham, Matthew R. | 42712 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2003-08-06 | [md](../markdown/42712-transcript.md) - [yaml](../yaml/42712-transcript.yml) |

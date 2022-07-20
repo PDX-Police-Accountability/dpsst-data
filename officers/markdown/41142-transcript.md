@@ -4,7 +4,7 @@
 | name | Lowry, Timothy J. |
 | dpsst_identifier | 41142 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/16/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/16/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 |  |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 |  |  |
-| 9/13/2002 | Police Officer | Basic | Granted | 9/13/2002 |  |  |
+| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 | 10/16/2022 |  |
+| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 10/16/2022 |  |
+| 9/13/2002 | Police Officer | Basic | Granted | 9/13/2002 | 10/16/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
