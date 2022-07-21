@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Passed | 0.0 | 6.00 |
 | 3/21/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 3/17/2022 | PDP25043 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 3/17/2022 | PDP27509 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

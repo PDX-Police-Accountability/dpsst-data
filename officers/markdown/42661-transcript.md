@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | HDA16104 | 2022 ONEA Training Institute | Passed | 0.0 | 20.00 |
+| 7/14/2022 | HDA29098 | Ethos Leadership | Passed | 0.0 | 4.00 |
 | 4/7/2022 | BPT07056 | Adult Leaning Core | Passed | 0.0 | 2.00 |
 | 4/7/2022 | BPT27926 | Basic Facilitator Development Course | Passed | 0.0 | 18.00 |
 | 3/22/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

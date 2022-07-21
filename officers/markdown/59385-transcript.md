@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2022 | VND13388 | FTEP | Passed | 0.0 | 24.00 |
 | 6/24/2022 | PSU17815 | First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PSU23792 | Speed/Multiple Targets/Marksmanship/Qualification | Passed | 0.0 | 1.50 |
 | 3/31/2022 | ATP37011 | TASER INSTRUCTOR TRAINING | Passed | 0.0 | 16.00 |

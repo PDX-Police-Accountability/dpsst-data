@@ -29,6 +29,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 7/19/2022 | Police Officer | Supervisory | App Recd |  |  |  |
 | 6/3/2021 | Police Officer | Advanced | Granted | 6/3/2021 |  |  |
 | 4/12/2006 | Police Officer | Intermediate | Granted | 4/12/2006 |  |  |
 | 7/21/1997 | Police Officer | Basic | Granted | 7/21/1997 |  |  |
@@ -48,7 +49,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/20/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/5/2022 | SVP38290 | Annual Narcan Training | Passed | 0.0 | 0.50 |
 | 7/5/2022 | SVP08072 | Anti-Bias Training for LEO | Passed | 0.0 | 2.00 |

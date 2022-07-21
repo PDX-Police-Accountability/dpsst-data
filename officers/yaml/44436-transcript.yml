@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2022
+  course: PDP03292
+  title: EDU weekly pipe bombs, RSP, ICOR Breaching, etc.
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/20/2022
   course: PDP03403
   title: EDU weekly training (robot operations)

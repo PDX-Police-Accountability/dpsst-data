@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | HDA16104 | 2022 ONEA Training Institute | Passed | 0.0 | 24.00 |
 | 7/11/2019 | F6D26814 | 2019 ONEA Training Summit | Passed | 0.0 | 24.00 |
 | 7/11/2019 | PDP32116 | 2019 ONEA Conference | Passed | 0.0 | 24.00 |
 | 4/30/2019 | PDP28977 | Federal State Drug Legal Update Training | Passed | 0.0 | 3.00 |

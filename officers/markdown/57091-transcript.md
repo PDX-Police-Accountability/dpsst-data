@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/18/2022 | Police Officer | Advanced | App InProc |  |  |  |
+| 7/19/2022 | Police Officer | Advanced | Granted | 7/19/2022 |  |  |
 | 5/27/2022 | Police Officer | Intermediate | Granted | 5/27/2022 |  |  |
 | 1/31/2018 | Police Officer | Basic | Granted | 1/31/2018 |  |  |
 ## Attributes
@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Instructed | 0.0 | 6.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Instructed | 0.0 | 5.00 |
 | 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Instructed | 0.0 | 5.00 |
 | 4/11/2022 | PDP08605 | 2022 Return to Work | Instructed | 0.0 | 3.50 |

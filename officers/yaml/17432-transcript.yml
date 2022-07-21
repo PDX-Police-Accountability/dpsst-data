@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 7/14/2022
+  course: HDA16104
+  title: 2022 ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/11/2019
   course: F6D26814
   title: 2019 ONEA Training Summit

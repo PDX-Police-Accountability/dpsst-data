@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2022
+  course: PDN04047
+  title: Defensive Tactics-Basic Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/22/2022
   course: PDN15763
   title: Field Applications-Technology and Law Enforcement
@@ -79,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/3/2022
+  course: PDN43285
+  title: Working With Crime Victims and Survivors
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/23/2022
   course: PDN15385
   title: Crisis Communication
@@ -91,6 +103,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/31/2022
+  course: PDN40611
+  title: Human Trafficking Awareness for DCJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/15/2021
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

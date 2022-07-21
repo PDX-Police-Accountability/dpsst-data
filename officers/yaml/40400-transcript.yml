@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2022
+  course: PDP27816
+  title: Intl. Anticounterfeiting Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.75'
 - date: 3/23/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021

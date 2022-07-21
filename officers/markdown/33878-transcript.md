@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | HDA16104 | 2022 ONEA Training Institute | Passed | 0.0 | 20.00 |
+| 7/13/2022 | HDA29098 | Ethos Leadership | Passed | 0.0 | 4.00 |
 | 4/6/2022 | PDP16998 | OPCA Spring Seminar | Passed | 0.0 | 16.00 |
 | 4/6/2022 | BVP17368 | OPCA Spring Conference | Passed | 0.0 | 24.00 |
 | 3/10/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

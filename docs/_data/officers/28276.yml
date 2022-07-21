@@ -94,6 +94,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 7/19/2022
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 6/3/2021
   certificate: Police Officer
   level: Advanced
@@ -116,12 +123,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 9/20/2022
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 7/7/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

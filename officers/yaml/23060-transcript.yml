@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2022
+  course: PDP39295
+  title: ICS-400 Adv ICS Cmd  General Staff-Complex Incdts
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 4/27/2022
   course: PDP23768
   title: Emerg. Ops Center-ICS Interface G-0191

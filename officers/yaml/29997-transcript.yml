@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/29/2022
+  course: PDP27816
+  title: Intl. Anticounterfeiting Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.75'
 - date: 3/31/2022
   course: PDP10575
   title: 2022 EAP-Crisis Planning

@@ -40,13 +40,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 7/15/2022
+- status_date: 7/19/2022
   certificate: Police Officer
   level: Basic
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 7/19/2022
   expiration_date: ''
-  probation_date: 5/14/2022
+  probation_date: ''
 - status_date: 11/11/2021
   certificate: Emergency Medical Dispatcher
   level: Basic

@@ -36,12 +36,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2022 | PDN04047 | Defensive Tactics-Basic Handcuffing | Passed | 0.0 | 1.50 |
 | 6/22/2022 | PDN15763 | Field Applications-Technology and Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/25/2022 | PDN14673 | Search and Seizure Review | Passed | 0.0 | 1.50 |
 | 4/20/2022 | PDN33408 | Drug Identification | Passed | 0.0 | 1.50 |
 | 3/30/2022 | PDN12472 | Self Care for Law Enforcement | Passed | 0.0 | 1.50 |
+| 3/3/2022 | PDN43285 | Working With Crime Victims and Survivors | Passed | 0.0 | 1.50 |
 | 2/23/2022 | PDN15385 | Crisis Communication | Passed | 0.0 | 1.50 |
 | 2/14/2022 | PDN21940 | Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
+| 1/31/2022 | PDN40611 | Human Trafficking Awareness for DCJ | Passed | 0.0 | 0.50 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2021 | PDN38424 | Use of Force-Caselaw Review | Passed | 0.0 | 1.50 |
 | 11/16/2021 | PDN35253 | Use of Force Situational Awareness | Passed | 0.0 | 1.50 |

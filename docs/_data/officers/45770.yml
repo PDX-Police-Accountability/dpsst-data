@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2022
+  course: BNS07903
+  title: 2022 Criminal Inderdiction Conference (INIA)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/13/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021

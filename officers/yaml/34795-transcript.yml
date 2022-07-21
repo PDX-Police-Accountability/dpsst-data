@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2022
+  course: HDA16104
+  title: 2022 ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/3/2022
   course: OCS03360
   title: HB 2513 Airway and Circulation
