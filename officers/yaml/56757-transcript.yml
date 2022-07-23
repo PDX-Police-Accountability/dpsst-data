@@ -557,10 +557,6 @@ attribute_records:
   value: Signed
   effective_date: 12/16/2016
   expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/16/2016
-  expiration_date: ''
 education_records:
 - date: 6/15/2011
   degree: No Degree

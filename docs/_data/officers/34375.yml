@@ -2269,6 +2269,14 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/18/2022
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/18/2022
+  expiration_date: ''
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
