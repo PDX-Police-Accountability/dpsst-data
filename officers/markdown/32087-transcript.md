@@ -4,7 +4,7 @@
 | name | Chamberlin, Tracy R. |
 | dpsst_identifier | 32087 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/5/2022 | Portland Police Bureau | Retired | Detective |  |  |
 | 8/25/2021 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 7/5/2012 | Portland Police Bureau | Promotion | Detective |  |  |
 | 7/2/1997 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -21,19 +22,15 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 2/8/2022 | Instructor |  | Granted | 2/8/2022 |  |  |
-| 1/17/2003 | Police Officer | Advanced | Granted | 1/17/2003 |  |  |
-| 2/22/2000 | Police Officer | Intermediate | Granted | 2/22/2000 |  |  |
-| 5/6/1998 | Police Officer | Basic | Granted | 5/6/1998 |  |  |
+| 1/17/2003 | Police Officer | Advanced | Granted | 1/17/2003 | 10/5/2022 |  |
+| 2/22/2000 | Police Officer | Intermediate | Granted | 2/22/2000 | 10/5/2022 |  |
+| 5/6/1998 | Police Officer | Basic | Granted | 5/6/1998 | 10/5/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Code of Ethics | Signed | 1/17/2003 |  |
 | Code of Ethics | Signed | 1/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |

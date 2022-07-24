@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/22/2022
+  course: PDP09613
+  title: OR DUII Multi-Disciplinary Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/20/2022
   course: OSH35174
   title: DRE Conference
@@ -4625,26 +4631,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/20/2021
   expiration_date: 5/20/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/20/2021
-  expiration_date: 5/20/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/12/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/12/2002

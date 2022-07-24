@@ -4,7 +4,7 @@
 | name | Simpson, Peter B. |
 | dpsst_identifier | 28653 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 7/12/2022 | Multnomah County District Attorney | Hired | Chief Inv |  |  |
+| 7/11/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 12/11/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/31/2002 | Portland Police Bureau | Promotion | Detective |  |  |
 | 9/9/1993 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -28,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
-| Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
-| Code of Ethics | Signed | 8/3/2004 |  |
 | Code of Ethics | Signed | 8/3/2004 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -105,6 +105,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/27/2022
+  course: PDS04562
+  title: Command Use of Force Reviews
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/9/2021
   course: PDS21233
   title: OSHA  Bloodborne Pathogens

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2022
+  course: PDP43746
+  title: Geography Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/10/2022
   course: PDP20915
   title: Policy and Procedure Training
@@ -4847,26 +4853,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
   expiration_date: 5/26/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/27/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/27/2005

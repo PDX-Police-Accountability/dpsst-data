@@ -4,7 +4,7 @@
 | name | Holbrook, Max J. |
 | dpsst_identifier | 32026 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/6/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/25/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 2/1/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/15/2012 | Police Officer | Advanced | Granted | 5/15/2012 |  |  |
-| 5/15/2012 | Police Officer | Intermediate | Granted | 5/15/2012 |  |  |
-| 5/15/2012 | Police Officer | Supervisory | Granted | 5/15/2012 |  |  |
-| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 |  |  |
+| 5/15/2012 | Police Officer | Advanced | Granted | 5/15/2012 | 10/6/2022 |  |
+| 5/15/2012 | Police Officer | Intermediate | Granted | 5/15/2012 | 10/6/2022 |  |
+| 5/15/2012 | Police Officer | Supervisory | Granted | 5/15/2012 | 10/6/2022 |  |
+| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 | 10/6/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

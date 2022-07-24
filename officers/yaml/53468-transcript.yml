@@ -3,12 +3,18 @@ header_record:
   name: Bernard, Joseph M.
   dpsst_identifier: '53468'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/6/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/29/2021
   agency: Portland Police Bureau
   action: Return LOA
@@ -39,7 +45,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 12/3/2015
-  expiration_date: ''
+  expiration_date: 10/6/2022
   probation_date: ''
 training_records:
 - date: 3/31/2022

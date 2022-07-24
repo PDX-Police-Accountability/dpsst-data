@@ -3,7 +3,7 @@ header_record:
   name: Elias, Jeffrey E.
   dpsst_identifier: '29338'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
@@ -13,6 +13,12 @@ employment_records:
   agency: Multnomah County Sheriff's Office
   action: Hired
   rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 7/5/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
   classification: ''
   assignment: ''
 - date: 1/22/1998
@@ -3605,26 +3611,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/2/2021
   expiration_date: 6/2/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/2/2021
-  expiration_date: 6/2/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/7/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/7/2011

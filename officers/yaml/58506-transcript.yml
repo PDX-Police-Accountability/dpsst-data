@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/3/2022
+  course: PDP24833
+  title: Southern California Gang Conference
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 3/23/2022
   course: PDP09335
   title: 2022-1 Range Qual AR-15 Qualification (20 Yard)

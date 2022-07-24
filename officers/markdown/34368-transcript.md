@@ -33,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Code of Ethics | Signed | 5/28/2003 |  |
 | Code of Ethics | Signed | 5/28/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2022 | BNP07745 | Evidence Handling | Passed | 0.0 | 0.50 |
 | 6/2/2022 | BNP44068 | Active Threat Response | Passed | 0.0 | 3.00 |
 | 6/2/2022 | BNP18112 | Sleep Wellness | Passed | 0.0 | 0.50 |
 | 6/2/2022 | BNP19784 | 40MM Recertification | Passed | 0.0 | 0.50 |

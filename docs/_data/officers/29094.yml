@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2022
+  course: PDP08936
+  title: 'K-9 Weekly Training: control, de-escalation, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/19/2022
   course: PDP03853
   title: 'K-9 Training: Build. Searches, Equipment, etc.'
@@ -3774,26 +3780,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/21/2021
   expiration_date: 6/21/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/21/2021
-  expiration_date: 6/21/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/22/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/22/2010

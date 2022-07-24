@@ -4,7 +4,7 @@
 | name | Elias, Jeffrey E. |
 | dpsst_identifier | 29338 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 7/11/2022 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 7/5/2022 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/22/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/19/1998 | Phoenix Police Department | Resigned | Reserve |  |  |
 | 7/1/1997 | Phoenix Police Department | Reclassed | Reserve |  |  |
@@ -30,11 +31,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/7/2011 |  |
 | Code of Ethics | Signed | 12/7/2011 |  |
 ## Education
 | date | degree | school | major | hours |

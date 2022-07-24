@@ -29,6 +29,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/30/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/29/2022 | PDP43538 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
+| 6/14/2022 | PDP43746 | Geography Training | Passed | 0.0 | 2.00 |
+| 6/14/2022 | PDP38663 | Property  Evidence Handling | Passed | 0.0 | 2.00 |
 | 5/16/2022 | BPT41049 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.50 |
 | 2/21/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 2/3/2022 | PDP44055 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |

@@ -4,7 +4,7 @@
 | name | Bernard, Joseph M. |
 | dpsst_identifier | 53468 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/6/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/29/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 11/13/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 4/3/2014 | Portland Police Bureau | Reclassed | Police Off |  |  |
@@ -19,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/3/2015 | Police Officer | Basic | Granted | 12/3/2015 |  |  |
+| 12/3/2015 | Police Officer | Basic | Granted | 12/3/2015 | 10/6/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

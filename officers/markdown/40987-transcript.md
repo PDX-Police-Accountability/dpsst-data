@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Code of Ethics | Signed | 12/11/2001 |  |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Passed | 0.0 | 9.00 |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Passed | 0.0 | 9.00 |
+| 6/22/2022 | PDP17414 | EDU Weekly Training ATF E3/ Maintenance | Passed | 0.0 | 9.00 |
+| 6/15/2022 | PDP00617 | EDU Weekly- Maritime Operations for Bomb Techs | Passed | 0.0 | 9.00 |
+| 6/8/2022 | PDP40534 | Weekly EDU Training-JCEM Course | Passed | 0.0 | 9.00 |
+| 5/27/2022 | PDP37938 | Basic SWAT School | Passed | 0.0 | 40.00 |
 | 4/20/2022 | PDP03403 | EDU weekly training (robot operations) | Passed | 0.0 | 8.00 |
 | 4/13/2022 | PDP11495 | EDU weekly training | Passed | 0.0 | 9.00 |
 | 4/6/2022 | PDP24684 | EDU Disposal Training | Passed | 0.0 | 9.00 |

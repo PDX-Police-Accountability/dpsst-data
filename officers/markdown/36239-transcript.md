@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/13/2011 |  |
 | Code of Ethics | Signed | 12/13/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Passed | 0.0 | 9.00 |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Passed | 0.0 | 9.00 |
+| 6/15/2022 | PDP00617 | EDU Weekly- Maritime Operations for Bomb Techs | Passed | 0.0 | 9.00 |
+| 6/8/2022 | PDP40534 | Weekly EDU Training-JCEM Course | Passed | 0.0 | 9.00 |
 | 4/20/2022 | PDP03403 | EDU weekly training (robot operations) | Passed | 0.0 | 8.00 |
 | 3/17/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

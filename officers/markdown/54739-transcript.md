@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2022 | PDS23113 | Use of Force | Passed | 0.0 | 4.00 |
 | 3/8/2022 | LOP23447 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/10/2022 | PDS05076 | Firearms Training | Passed | 0.0 | 8.00 |
 | 1/10/2022 | PDS29388 | Range Qualification | Passed | 0.0 | 2.00 |

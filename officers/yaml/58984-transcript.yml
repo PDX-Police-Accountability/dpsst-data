@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 5/26/2022
+  course: PDP17225
+  title: First Line Leadership  Supervision Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 5/6/2022
   course: LOP18786
   title: Metro Area Sergeants Academy

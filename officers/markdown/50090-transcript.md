@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/16/2021 | 7/16/2023 |
-| Certification Cards | First Aid and CPR | 7/16/2021 | 7/16/2023 |
-| Code of Ethics | Signed | 11/20/2008 |  |
 | Code of Ethics | Signed | 11/20/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2025 | PDP03489 | Extreme Ownership: Leadership | Passed | 0.0 | 4.00 |
+| 6/29/2022 | PDP08936 | K-9 Weekly Training: control, de-escalation, etc. | Passed | 0.0 | 4.00 |
+| 5/27/2022 | PDP37938 | Basic SWAT School | Passed | 0.0 | 40.00 |
 | 5/19/2022 | PDP03853 | K-9 Training: Build. Searches, Equipment, etc. | Passed | 0.0 | 3.00 |
 | 5/11/2022 | PDP42861 | K-9 Training: Debriefs, De-escelation, etc. | Instructed | 0.0 | 2.00 |
 | 5/6/2022 | PDP05688 | Idaho Police Canine Assn Conference | Passed | 0.0 | 40.00 |

@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2022
+  course: PDP16368
+  title: Adv De-escalation  Escalation Prevention Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 6/13/2022
   course: BPT29523
   title: ADEPT
@@ -4195,14 +4201,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -4210,14 +4208,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/27/2021
   expiration_date: 5/27/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/27/2021
-  expiration_date: 5/27/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/8/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/8/2007

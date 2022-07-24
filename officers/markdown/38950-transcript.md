@@ -34,11 +34,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,6 +47,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |
+| 7/15/2022 | HBS12741 | Genentech scenario | Passed | 0.0 | 8.00 |
 | 6/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 0.75 |
 | 6/15/2022 | HBS41265 | Corporal Leadership Training | Instructed | 0.0 | 0.75 |
 | 5/24/2022 | HBS23273 | IFAST In-Service | Passed | 0.0 | 4.50 |

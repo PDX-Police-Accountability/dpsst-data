@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2022
+  course: PDP29350
+  title: Project Safe Neighborhood-Violence Reduction
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 3/30/2022
   course: PDP30982
   title: ICS-400 Adv ICS Cmd  General Staff-Complex Incdts
@@ -3404,14 +3410,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/29/2022
   expiration_date: 3/29/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/29/2022
-  expiration_date: 3/29/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -3420,14 +3418,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/16/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/16/2008

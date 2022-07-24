@@ -22,7 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/13/2022 | Police Officer | Executive | App Recd |  |  |  |
+| 7/21/2022 | Police Officer | Executive | Granted | 7/21/2022 |  |  |
 | 4/2/2020 | Police Officer | Management | Granted | 4/2/2020 |  |  |
 | 8/9/2016 | Police Officer | Supervisory | Granted | 8/9/2016 |  |  |
 | 10/29/2010 | Police Officer | Advanced | Granted | 10/29/2010 |  |  |
@@ -33,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
-| Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
-| Code of Ethics | Signed | 4/19/2002 |  |
 | Code of Ethics | Signed | 4/19/2002 |  |
 ## Education
 | date | degree | school | major | hours |

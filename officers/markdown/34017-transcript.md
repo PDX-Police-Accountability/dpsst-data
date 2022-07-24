@@ -4,7 +4,7 @@
 | name | Gilbert, Christopher J. |
 | dpsst_identifier | 34017 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/6/2022 | Portland Police Bureau | Retired | Police Off |  |  |
 | 7/2/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/1/2012 | Police Officer | Advanced | Granted | 2/1/2012 |  |  |
-| 2/1/2012 | Police Officer | Intermediate | Granted | 2/1/2012 |  |  |
-| 5/6/1998 | Police Officer | Basic | Granted | 5/6/1998 |  |  |
+| 2/1/2012 | Police Officer | Advanced | Granted | 2/1/2012 | 10/6/2022 |  |
+| 2/1/2012 | Police Officer | Intermediate | Granted | 2/1/2012 | 10/6/2022 |  |
+| 5/6/1998 | Police Officer | Basic | Granted | 5/6/1998 | 10/6/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

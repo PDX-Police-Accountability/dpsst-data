@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/29/2022 | 3/29/2024 |
-| Certification Cards | First Aid and CPR | 3/29/2022 | 3/29/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 6/16/2008 |  |
 | Code of Ethics | Signed | 6/16/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2022 | PDP29350 | Project Safe Neighborhood-Violence Reduction | Passed | 0.0 | 12.00 |
 | 3/30/2022 | PDP30982 | ICS-400 Adv ICS Cmd  General Staff-Complex Incdts | Passed | 0.0 | 15.91 |
 | 3/29/2022 | PDP13698 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

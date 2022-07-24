@@ -4,7 +4,7 @@
 | name | Phothivongsa, Ney |
 | dpsst_identifier | 32938 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/6/2022 | Portland Police Bureau | Retired | Police Off |  |  |
 | 10/3/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/20/2010 | Police Officer | Advanced | Granted | 12/20/2010 |  |  |
-| 12/20/2010 | Police Officer | Intermediate | Granted | 12/20/2010 |  |  |
-| 7/28/1997 | Police Officer | Basic | Granted | 7/28/1997 |  |  |
+| 12/20/2010 | Police Officer | Advanced | Granted | 12/20/2010 | 10/6/2022 |  |
+| 12/20/2010 | Police Officer | Intermediate | Granted | 12/20/2010 | 10/6/2022 |  |
+| 7/28/1997 | Police Officer | Basic | Granted | 7/28/1997 | 10/6/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

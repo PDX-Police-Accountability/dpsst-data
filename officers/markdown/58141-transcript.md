@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2022 | PDP24329 | Digital Video Evidence Recovery | Passed | 0.0 | 21.00 |
 | 5/24/2021 | PDP32170 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 1/22/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/22/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |

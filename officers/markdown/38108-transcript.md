@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/21/2021 | 6/21/2023 |
-| Certification Cards | First Aid and CPR | 6/21/2021 | 6/21/2023 |
-| Code of Ethics | Signed | 7/10/2003 |  |
 | Code of Ethics | Signed | 7/10/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2022 | PDP08936 | K-9 Weekly Training: control, de-escalation, etc. | Passed | 0.0 | 4.00 |
 | 5/6/2022 | PDP10996 | Idaho Police Canine Assn Conference | Passed | 0.0 | 40.00 |
 | 4/20/2022 | PDP40995 | K-9 weekly (searches,OPCA standards, etc.) | Instructed | 0.0 | 4.50 |
 | 4/6/2022 | PDP43299 | OR Police K9 Assoc.- Spring Seminar | Passed | 0.0 | 24.00 |

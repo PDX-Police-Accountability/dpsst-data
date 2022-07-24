@@ -27,15 +27,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Signed | 11/21/2013 |  |
 | Code of Ethics | Signed | 11/21/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2022 | BPT28561 | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |
 | 6/10/2022 | BPT27684 | SFST Instructor Development Course | Passed | 0.0 | 50.00 |
+| 6/10/2022 | PDP27222 | SFST Instructor Development Course | Passed | 0.0 | 40.00 |
 | 4/22/2022 | PDP24445 | DUII  DRE/DECP Training Conference | Passed | 0.0 | 24.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |

@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | 5/20/2022 | PDS37106 | 2022 Basic Sniper School | Passed | 0.0 | 40.00 |
 | 3/30/2022 | PDS06415 | Patrol Unit Supervisor's Meeting | Passed | 0.0 | 2.00 |
 | 3/30/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
+| 3/30/2022 | PDS11872 | Patrol Supervsion | Passed | 0.0 | 2.00 |
 | 2/28/2022 | LOP21003 | EVOC (Pursuit driving, use of force) | Passed | 0.0 | 10.00 |
 | 2/28/2022 | PDS04918 | EVOC | Passed | 0.0 | 10.00 |
 | 2/22/2022 | PDS12450 | Use of Force | Passed | 0.0 | 4.00 |

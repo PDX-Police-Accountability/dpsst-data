@@ -3,12 +3,18 @@ header_record:
   name: Holbrook, Max J.
   dpsst_identifier: '32026'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/6/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/25/2007
   agency: Portland Police Bureau
   action: Promotion
@@ -27,28 +33,28 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 5/15/2012
-  expiration_date: ''
+  expiration_date: 10/6/2022
   probation_date: ''
 - status_date: 5/15/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 5/15/2012
-  expiration_date: ''
+  expiration_date: 10/6/2022
   probation_date: ''
 - status_date: 5/15/2012
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 5/15/2012
-  expiration_date: ''
+  expiration_date: 10/6/2022
   probation_date: ''
 - status_date: 1/22/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/22/1997
-  expiration_date: ''
+  expiration_date: 10/6/2022
   probation_date: ''
 training_records:
 - date: 4/12/2022

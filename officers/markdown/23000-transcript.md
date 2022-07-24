@@ -42,12 +42,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 12/20/2021 | 12/14/2023 |
 | Certification Cards | First Aid and CPR | 12/20/2021 | 12/14/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 11/22/2010 |  |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -56,6 +52,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2022 | PDS22506 | CIT | Passed | 0.0 | 4.00 |
+| 4/27/2022 | PDS20012 | Evidence Collection | Passed | 0.0 | 2.00 |
+| 4/27/2022 | PDS04562 | Command Use of Force Reviews | Passed | 0.0 | 3.00 |
 | 3/9/2022 | LOP19092 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/24/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/30/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

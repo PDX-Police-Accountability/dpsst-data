@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 10/29/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 10/29/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/27/2022 | PDP25485 | Crisis/Hostage Negotiation Basic Level I | Passed | 0.0 | 40.00 |
 | 4/21/2022 | PDP18311 | Emotional Survival for Female Enforcers | Passed | 0.0 | 8.00 |
 | 4/1/2022 | PDP12987 | Basic Homicide Investigation (WHIA) | Passed | 0.0 | 40.00 |
 | 3/17/2022 | PDP17341 | 2022-1 Adv Academy Active Bystandership for LE | Passed | 0.0 | 9.00 |

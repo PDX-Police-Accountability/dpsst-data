@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/20/2022
+  course: MMP25703
+  title: SART training / Evidence Collection
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/3/2022
+  course: MMP08519
+  title: Police One Academy - Ethics in LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/25/2022
   course: MMP29448
   title: Firearms Qualifications
@@ -2005,10 +2017,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/14/2022
   expiration_date: 3/10/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/14/2022
-  expiration_date: 3/10/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -2017,18 +2025,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/11/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/11/2000

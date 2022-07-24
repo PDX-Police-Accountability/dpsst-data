@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 7/11/2022
+  course: REG10830
+  title: Ballistic Shield
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 6/23/2022
   course: MOS08571
   title: Stop the Bleed Course
@@ -1020,14 +1026,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/26/2022
   expiration_date: 4/26/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/26/2022
-  expiration_date: 4/26/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -1036,21 +1034,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/9/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/9/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/11/2016
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

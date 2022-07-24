@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
-| Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 10/17/2002 |  |
 | Code of Ethics | Signed | 10/17/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/19/2022 | HBS26558 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
+| 7/12/2022 | HBS42391 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
 | 3/17/2022 | HBS08292 | CI240 Intermediate Cyber: Virtual Currency | Passed | 0.0 | 24.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2022 | HBS22020 | First Aid | Passed | 0.0 | 2.50 |

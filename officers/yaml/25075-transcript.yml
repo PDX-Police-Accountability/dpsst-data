@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/20/2022
+  course: BPT27663
+  title: Single Hand Pistol Manipulations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/15/2021
   course: PDP19172
   title: 2021 SERT Training - Iteration
@@ -6728,14 +6734,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/19/2021
   expiration_date: 6/19/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/19/2021
-  expiration_date: 6/19/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/22/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/22/2010
