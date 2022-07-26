@@ -1577,8 +1577,20 @@
 | Phothivongsa, Ney | 32938 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-06 | [md](../markdown/32938-transcript.md) - [yaml](../yaml/32938-transcript.yml) |
 | Gilbert, Christopher J. | 34017 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-06 | [md](../markdown/34017-transcript.md) - [yaml](../yaml/34017-transcript.yml) |
 | Bernard, Joseph M. | 53468 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-07-06 | [md](../markdown/53468-transcript.md) - [yaml](../yaml/53468-transcript.yml) |
+| Leppert, Ryan J. | 63018 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-07 | [md](../markdown/63018-transcript.md) - [yaml](../yaml/63018-transcript.yml) |
+| Stewart, Maxwell J. | 63034 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-07 | [md](../markdown/63034-transcript.md) - [yaml](../yaml/63034-transcript.yml) |
+| Marquez, Christopher A. | 63066 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-07 | [md](../markdown/63066-transcript.md) - [yaml](../yaml/63066-transcript.yml) |
 | Simpson, Peter B. | 28653 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-07-11 | [md](../markdown/28653-transcript.md) - [yaml](../yaml/28653-transcript.yml) |
 | Salem, Salem A. | 62818 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-15 | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | Brunelle, Brandon J. | 62874 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-15 | [md](../markdown/62874-transcript.md) - [yaml](../yaml/62874-transcript.yml) |
 | Lowry, Timothy J. | 41142 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-07-16 | [md](../markdown/41142-transcript.md) - [yaml](../yaml/41142-transcript.yml) |
 | Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
+| Anderson, George C. | 63033 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63033-transcript.md) - [yaml](../yaml/63033-transcript.yml) |
+| Schull, Broden R. | 63052 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63052-transcript.md) - [yaml](../yaml/63052-transcript.yml) |
+| Miller, Cory G. | 63080 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63080-transcript.md) - [yaml](../yaml/63080-transcript.yml) |
+| Martinez, Brett L. | 63081 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63081-transcript.md) - [yaml](../yaml/63081-transcript.yml) |
+| Jackson, Trey S. | 63083 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63083-transcript.md) - [yaml](../yaml/63083-transcript.yml) |
+| Huq, Amadeo M. | 63084 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63084-transcript.md) - [yaml](../yaml/63084-transcript.yml) |
+| Duque-Valencia, Juan P. | 63086 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63086-transcript.md) - [yaml](../yaml/63086-transcript.yml) |
+| Jaime, Zachary H. | 63087 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63087-transcript.md) - [yaml](../yaml/63087-transcript.yml) |
+| Johnson, Jeremiah J. | 63120 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-15 | [md](../markdown/63120-transcript.md) - [yaml](../yaml/63120-transcript.yml) |
