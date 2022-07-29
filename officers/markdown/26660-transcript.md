@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/13/2022 | 4/13/2024 |
-| Certification Cards | First Aid and CPR | 4/13/2022 | 4/13/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
-| Code of Ethics | Signed | 4/10/2001 |  |
 | Code of Ethics | Signed | 4/10/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | WBP20400 | Pistol Mounted Optics Instructor course | Passed | 0.0 | 24.00 |
 | 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Passed | 0.0 | 3.00 |
 | 5/18/2022 | 22-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 5/13/2022 | LOP30073 | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |

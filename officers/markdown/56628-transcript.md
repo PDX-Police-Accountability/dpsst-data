@@ -22,14 +22,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 10/24/2017 |  |
-| Code of Ethics | Signed | 10/24/2017 |  |
-| Code of Ethics | Signed | 11/6/2016 |  |
 | Code of Ethics | Signed | 11/6/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
+| 5/11/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
+| 5/11/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 5/11/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 5/11/2022 | PDP17115 | 2021-4 CAO Legal Updates for April 2021 | Passed | 0.0 | 0.25 |
+| 5/11/2022 | PDP03653 | 2021-5 CAO Legal Updates for May 2021 | Passed | 0.0 | 0.25 |
+| 5/11/2022 | PDP01280 | 2021-6 CAO Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/3/2021 | PDP38017 | 2021-12 TipsTech Request Emer Ping Cell Device | Passed | 0.0 | 0.25 |
 | 10/27/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |

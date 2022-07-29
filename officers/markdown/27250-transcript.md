@@ -25,9 +25,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 | Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +32,27 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
+| 6/7/2022 | PDP10330 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 6/7/2022 | PDP41272 | 2021 Online In-Service Dir 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 6/7/2022 | PDP05377 | 2021 Online In-Service Language Access - LEP | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP36611 | 2020-11 CAO Legal Updates for November 2020 | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP01050 | 2020-12 CAO Legal Updates for Dec 2020 - Updated | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP17970 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP18510 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP34896 | 2021-1 CAO Legal Updates for January 2021 | Passed | 0.0 | 0.50 |
+| 6/6/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP15251 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP42181 | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP32899 | 2021-11 TT Unlawful Street Takeovers | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP17904 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP31111 | 2021-2 CAO Legal Updates for Feb 2021 | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP26726 | 2021-3 CAO Legal Updates for March 2021 | Passed | 0.0 | 0.50 |
+| 6/6/2022 | PDP17115 | 2021-4 CAO Legal Updates for April 2021 | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP03653 | 2021-5 CAO Legal Updates for May 2021 | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP01280 | 2021-6 CAO Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
+| 6/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |
 | 3/26/2022 | MNS16260 | MILO, Senario Based Training |  | 0.0 | 0.50 |
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |

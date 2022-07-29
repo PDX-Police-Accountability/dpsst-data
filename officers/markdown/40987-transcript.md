@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Code of Ethics | Signed | 12/11/2001 |  |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,6 +47,7 @@
 | 4/20/2022 | PDP03403 | EDU weekly training (robot operations) | Passed | 0.0 | 8.00 |
 | 4/13/2022 | PDP11495 | EDU weekly training | Passed | 0.0 | 9.00 |
 | 4/6/2022 | PDP24684 | EDU Disposal Training | Passed | 0.0 | 9.00 |
+| 4/5/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP37993 | EDU-Robert/UAV Integration Training | Passed | 0.0 | 9.00 |
 | 3/16/2022 | PDP39778 | EDU weekly Robot Breaching Training | Passed | 0.0 | 8.00 |

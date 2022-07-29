@@ -28,7 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 12/4/2007 |  |
-| Code of Ethics | Signed | 12/4/2007 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -38,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | WBP20400 | Pistol Mounted Optics Instructor course | Passed | 0.0 | 24.00 |
 | 6/30/2022 | WBP17534 | Second Quarter Firearms Qualification | Passed | 0.0 | 0.50 |
 | 6/28/2022 | VND33109 | Firearm and Vehicle Tactics | Passed | 0.0 | 8.00 |
 | 3/22/2022 | WBP11349 | Winter-Spring Firearms Training | Passed | 0.0 | 3.00 |

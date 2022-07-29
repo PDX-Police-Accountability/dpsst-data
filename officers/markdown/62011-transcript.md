@@ -28,6 +28,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/27/2022 | PDP18510 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 4/13/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 4/13/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP19016 | FTEP Geography Training | Passed | 0.0 | 3.00 |
 | 3/30/2022 | PDP39847 | FTEP Orientation Roster | Passed | 0.0 | 7.00 |
 | 3/25/2022 | PDP33047 | FTEP Post DPSST Basic Taser Training | Passed | 0.0 | 6.00 |

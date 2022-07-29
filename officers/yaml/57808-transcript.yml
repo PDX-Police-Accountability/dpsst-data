@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2022
+  course: PDP42276
+  title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/31/2022
   course: PDP30923
   title: 2021-11 City Attorney's Legal Update for Nov. 2021

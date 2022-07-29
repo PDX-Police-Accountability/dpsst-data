@@ -35,6 +35,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/1/2022 | TOP03296 | May 2022 DTBs | Passed | 0.0 | 1.00 |
 | 5/1/2022 | TOP34861 | April 2022 DTBs | Passed | 0.0 | 0.50 |
+| 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/1/2022 | TOP29318 | March 2022 DTBs | Passed | 0.0 | 0.50 |
 | 3/24/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/24/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

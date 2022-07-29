@@ -87,6 +87,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/5/2022
+  course: PDP42276
+  title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2022
+  course: PDP38945
+  title: 2021-11 CAO Legal Updates for November 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/22/2022
   course: PDP10575
   title: 2022 EAP-Crisis Planning
@@ -4443,14 +4455,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -4458,14 +4462,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 7/7/2021
   expiration_date: 7/7/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/7/2021
-  expiration_date: 7/7/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/7/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/7/2009

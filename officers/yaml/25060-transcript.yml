@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2022
+  course: WBP20400
+  title: Pistol Mounted Optics Instructor course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 6/30/2022
   course: WBP17534
   title: Second Quarter Firearms Qualification
@@ -2939,10 +2945,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/4/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/4/2007

@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 8/26/2021 | 8/26/2023 |
-| Certification Cards | First Aid and CPR | 8/26/2021 | 8/26/2023 |
-| Code of Ethics | Signed | 9/25/2014 |  |
 | Code of Ethics | Signed | 9/25/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,7 +37,11 @@
 | 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 5/31/2022 | PDP41337 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/31/2022 | PDP30549 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
+| 5/22/2022 | PDP41956 | 2020 Sup IS Performance Management/Tableau Part I | Passed | 0.0 | 0.75 |
+| 5/22/2022 | PDP10226 | 2020 Sup IS Performance Management/Tableau Pt II | Passed | 0.0 | 0.50 |
 | 5/6/2022 | LOP18786 | Metro Area Sergeants Academy | Passed | 0.0 | 16.00 |
+| 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 3/10/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/10/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/10/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

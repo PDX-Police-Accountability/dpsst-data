@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/21/2022
+  course: GPP28391
+  title: De-escalation
+  status: ''
+  score: '0.0'
+  hours: '4.00'
 - date: 6/3/2022
   course: GPP24553
   title: Adaptive Ethics Training
@@ -108,6 +114,12 @@ training_records:
 - date: 3/28/2022
   course: GPP39725
   title: First Aid-CPR-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/28/2022
+  course: GPP29836
+  title: Airway Circulatory Anatomy and Physiology
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -2594,14 +2606,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/28/2022
   expiration_date: 3/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/28/2022
-  expiration_date: 3/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -2610,14 +2614,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/13/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/13/2004

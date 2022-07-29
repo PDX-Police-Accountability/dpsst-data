@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2022 | HSU03125 | July 2022 Supplemental Range | Passed | 0.0 | 2.00 |
 | 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Passed | 0.0 | 3.00 |
 | 4/4/2022 | HSU11147 | CPR Spring In-Service 2022 | Passed | 0.0 | 4.00 |
 | 4/4/2022 | HSU11201 | Ethis/ Policy Spring In-Service 2022 | Passed | 0.0 | 3.00 |

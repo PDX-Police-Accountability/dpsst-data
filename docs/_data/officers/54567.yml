@@ -54,6 +54,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2022
+  course: MLP40570
+  title: SB 1510 Stops  Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2022
+  course: MLP35269
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2022
+  course: MLP17838
+  title: Anti-Bias Training For Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2022
+  course: MLP38411
+  title: Bloodborne Pathogens for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2022
+  course: MLP16226
+  title: Hazardous Material Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/31/2022
+  course: MLP34903
+  title: Sexual Harassment in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2022
   course: F6R36750
   title: 2022 DUII Multi-Disciplinary Conference
@@ -899,10 +935,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/15/2022
   expiration_date: 2/15/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/15/2022
-  expiration_date: 2/15/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -911,18 +943,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/18/2018
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/18/2018

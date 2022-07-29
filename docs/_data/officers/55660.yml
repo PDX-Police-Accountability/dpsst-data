@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/4/2022
+  course: PDP38945
+  title: 2021-11 CAO Legal Updates for November 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2022
+  course: PDP42276
+  title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/23/2022
   course: PDP25308
   title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
@@ -2052,14 +2064,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -2067,21 +2071,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/24/2021
   expiration_date: 5/24/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/24/2021
-  expiration_date: 5/24/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/17/2017
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/17/2017
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/7/2016
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

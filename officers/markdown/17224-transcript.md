@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 8/3/2004 |  |
 | Code of Ethics | Signed | 8/3/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2022 | HSU03125 | July 2022 Supplemental Range | Instructed | 0.0 | 2.00 |
+| 7/14/2022 | WBP20400 | Pistol Mounted Optics Instructor course | Passed | 0.0 | 24.00 |
 | 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Passed | 0.0 | 3.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/9/2022 | HSU28325 | Firearms Spring In-Service 2022 | Instructed | 0.0 | 4.00 |

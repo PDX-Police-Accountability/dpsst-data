@@ -55,6 +55,36 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '200.00'
+- date: 7/7/2022
+  course: HBN39082
+  title: Motivational Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/7/2022
+  course: HBN23451
+  title: Gender Responsive
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/7/2022
+  course: HBN24565
+  title: Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/2/2022
+  course: HBN36715
+  title: Report Writing 101
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/2/2022
+  course: HBN34185
+  title: Motivational Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/13/2022
   course: VND12621
   title: Crisis Intervention Team Training

@@ -82,6 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/7/2022
+  course: 22-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '80.00'
 - date: 5/18/2022
   course: PSU25775
   title: CPR/AED  First Aid
@@ -1887,18 +1893,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/18/2022
   expiration_date: 5/18/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/18/2022
-  expiration_date: 5/18/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

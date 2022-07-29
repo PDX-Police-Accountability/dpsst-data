@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/16/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP00898 | 2022-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 21.50 |
 | 5/12/2022 | PDP06934 | 2022-1 Advanced Academy Crowd Control | Passed | 0.0 | 9.50 |
 | 5/12/2022 | PDP30720 | 2022-1 Advanced Academy Bike Training | Passed | 0.0 | 34.00 |
@@ -44,6 +45,7 @@
 | 5/12/2022 | PDP24698 | 2022-1 Advanced Academy ECW | Passed | 0.0 | 2.00 |
 | 5/12/2022 | PDP38478 | 2022-1 Advanced Academy Firearms | Passed | 0.0 | 51.50 |
 | 5/12/2022 | PDP08215 | 2022-1 Advanced Academy Fitness | Passed | 0.0 | 5.00 |
+| 4/7/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP17341 | 2022-1 Adv Academy Active Bystandership for LE | Passed | 0.0 | 9.00 |
 | 3/14/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/14/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

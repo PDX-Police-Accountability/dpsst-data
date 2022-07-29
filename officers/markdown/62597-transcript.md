@@ -35,6 +35,17 @@
 | 5/6/2022 | PDP07172 | New Hire (pre DPSST) Firearms Training | Passed | 0.0 | 7.00 |
 | 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Passed | 0.0 | 5.00 |
+| 4/19/2022 | PDP10330 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 4/19/2022 | PDP01050 | 2020-12 CAO Legal Updates for Dec 2020 - Updated | Passed | 0.0 | 0.25 |
+| 4/19/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
+| 4/19/2022 | PDP15251 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
+| 4/19/2022 | PDP32899 | 2021-11 TT Unlawful Street Takeovers | Passed | 0.0 | 0.25 |
+| 4/12/2022 | PDP36611 | 2020-11 CAO Legal Updates for November 2020 | Passed | 0.0 | 0.25 |
+| 4/12/2022 | PDP35284 | 2019-5 TT Enforcement of Protection Orders FFC | Passed | 0.0 | 0.25 |
+| 4/12/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 4/6/2022 | PDP12159 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 4/6/2022 | PDP34896 | 2021-1 CAO Legal Updates for January 2021 | Passed | 0.0 | 0.50 |
+| 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 3/28/2022 | PDP08855 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 3/28/2022 | PDP11125 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/28/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

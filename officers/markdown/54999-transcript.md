@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/26/2022 | 4/26/2024 |
-| Certification Cards | First Aid and CPR | 4/26/2022 | 4/26/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
-| Code of Ethics | Signed | 1/11/2016 |  |
 | Code of Ethics | Signed | 1/11/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,6 +46,7 @@
 | 6/13/2022 | TDP39282 | Tactical Training: Cautious  Controlled Clearing | Passed | 0.0 | 4.50 |
 | 5/18/2022 | HRS18467 | Defensive Tactics | Instructed | 0.0 | 3.00 |
 | 5/17/2022 | HRS22037 | Defensive Tactics | Instructed | 0.0 | 3.00 |
+| 5/1/2022 | HRS28518 | Firearms Qualification | Passed | 0.0 | 4.00 |
 | 4/26/2022 | HRS04075 | Basic First Aid/CPR  AED for Adult/Child/Infant | Passed | 0.0 | 4.00 |
 | 4/14/2022 | REG43884 | Field Training and Evluation Program | Passed | 0.0 | 24.00 |
 | 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |

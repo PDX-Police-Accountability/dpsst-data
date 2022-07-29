@@ -44,6 +44,9 @@
 | 5/12/2022 | PDP39022 | 2022-1 Advanced Academy EAP | Passed | 0.0 | 1.00 |
 | 5/12/2022 | PDP24698 | 2022-1 Advanced Academy ECW | Passed | 0.0 | 2.00 |
 | 5/12/2022 | PDP38478 | 2022-1 Advanced Academy Firearms | Passed | 0.0 | 51.50 |
+| 4/12/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 4/12/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 4/7/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP17341 | 2022-1 Adv Academy Active Bystandership for LE | Passed | 0.0 | 9.00 |
 | 3/14/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 3/14/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |

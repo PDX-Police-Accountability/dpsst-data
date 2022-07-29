@@ -69,6 +69,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.66'
+- date: 4/21/2022
+  course: PDP38945
+  title: 2021-11 CAO Legal Updates for November 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/21/2022
+  course: PDP42276
+  title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/30/2022
   course: PDP30982
   title: ICS-400 Adv ICS Cmd  General Staff-Complex Incdts
@@ -3810,26 +3822,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/15/2021
   expiration_date: 6/15/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/15/2021
-  expiration_date: 6/15/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/14/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/14/2005

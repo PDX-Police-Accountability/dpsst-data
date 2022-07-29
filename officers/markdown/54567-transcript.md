@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
-| Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2022 | MLP40570 | SB 1510 Stops  Searches | Passed | 0.0 | 0.50 |
+| 5/31/2022 | MLP35269 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
+| 5/31/2022 | MLP17838 | Anti-Bias Training For Law Enforcement | Passed | 0.0 | 1.00 |
+| 5/31/2022 | MLP38411 | Bloodborne Pathogens for First Responders | Passed | 0.0 | 1.00 |
+| 5/31/2022 | MLP16226 | Hazardous Material Response | Passed | 0.0 | 2.00 |
+| 5/31/2022 | MLP34903 | Sexual Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 3/29/2022 | MLP44580 | Axon Body Camera Instruction | Passed | 0.0 | 2.00 |
 | 3/16/2022 | BPT34763 | Advanced De-Escalation and Escalation Prevention | Passed | 0.0 | 20.00 |

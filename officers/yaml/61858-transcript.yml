@@ -48,6 +48,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '200.00'
+- date: 7/20/2022
+  course: MFN05513
+  title: Teaching CBT'S/Setting Goals, Risks/Strengths
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/30/2022
   course: MFN42864
   title: Firearms Qualifications

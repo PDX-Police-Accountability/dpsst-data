@@ -34,6 +34,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
+| 7/20/2022 | MFN05513 | Teaching CBT'S/Setting Goals, Risks/Strengths | Passed | 0.0 | 2.00 |
 | 6/30/2022 | MFN42864 | Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 6/30/2022 | MFN40399 | Firearms Training | Passed | 0.0 | 1.50 |
 | 6/29/2022 | MFN07118 | LS/CMI | Passed | 0.0 | 8.00 |

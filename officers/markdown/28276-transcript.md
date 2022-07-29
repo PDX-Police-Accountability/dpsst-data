@@ -29,7 +29,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/19/2022 | Police Officer | Supervisory | App Recd |  |  |  |
+| 7/26/2022 | Police Officer | Supervisory | Granted | 7/26/2022 |  |  |
 | 6/3/2021 | Police Officer | Advanced | Granted | 6/3/2021 |  |  |
 | 4/12/2006 | Police Officer | Intermediate | Granted | 4/12/2006 |  |  |
 | 7/21/1997 | Police Officer | Basic | Granted | 7/21/1997 |  |  |
@@ -37,16 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Signed | 4/12/2006 |  |
 | Code of Ethics | Signed | 4/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -55,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | WBP20400 | Pistol Mounted Optics Instructor course | Passed | 0.0 | 24.00 |
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/5/2022 | SVP38290 | Annual Narcan Training | Passed | 0.0 | 0.50 |
 | 7/5/2022 | SVP08072 | Anti-Bias Training for LEO | Passed | 0.0 | 2.00 |

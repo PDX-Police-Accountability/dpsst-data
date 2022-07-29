@@ -31,8 +31,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 5/20/2022 | PDP32899 | 2021-11 TT Unlawful Street Takeovers | Passed | 0.0 | 0.25 |
+| 5/20/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 5/20/2022 | PDP17904 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
+| 5/2/2022 | PDP01280 | 2021-6 CAO Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
+| 5/1/2022 | PDP03653 | 2021-5 CAO Legal Updates for May 2021 | Passed | 0.0 | 0.25 |
+| 4/30/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/25/2022 | PDP37364 | Advanced Operator Training | Passed | 0.0 | 9.00 |
+| 4/22/2022 | PDP17115 | 2021-4 CAO Legal Updates for April 2021 | Passed | 0.0 | 0.25 |
+| 4/18/2022 | PDP26726 | 2021-3 CAO Legal Updates for March 2021 | Passed | 0.0 | 0.50 |
 | 4/14/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/14/2022 | PDP18510 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP34896 | 2021-1 CAO Legal Updates for January 2021 | Passed | 0.0 | 0.50 |
+| 4/14/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP31111 | 2021-2 CAO Legal Updates for Feb 2021 | Passed | 0.0 | 0.25 |
+| 4/13/2022 | PDP36611 | 2020-11 CAO Legal Updates for November 2020 | Passed | 0.0 | 0.25 |
+| 4/13/2022 | PDP01050 | 2020-12 CAO Legal Updates for Dec 2020 - Updated | Passed | 0.0 | 0.25 |
 | 4/11/2022 | PDP08605 | 2022 Return to Work | Passed | 0.0 | 3.50 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 9/6/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

@@ -40,6 +40,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Pending | 0.0 | 200.00 |
+| 7/7/2022 | HBN39082 | Motivational Interviewing | Passed | 0.0 | 4.00 |
+| 7/7/2022 | HBN23451 | Gender Responsive | Passed | 0.0 | 2.00 |
+| 7/7/2022 | HBN24565 | Trauma Informed Care | Passed | 0.0 | 2.00 |
+| 6/2/2022 | HBN36715 | Report Writing 101 | Passed | 0.0 | 4.00 |
+| 6/2/2022 | HBN34185 | Motivational Interviewing | Passed | 0.0 | 3.00 |
 | 5/13/2022 | VND12621 | Crisis Intervention Team Training | Passed | 0.0 | 40.00 |
 | 5/5/2022 | HBN17781 | Motivational Interviewing | Passed | 0.0 | 4.00 |
 | 5/5/2022 | HBN10969 | Building Effective Behavior Change Plans | Passed | 0.0 | 4.00 |
