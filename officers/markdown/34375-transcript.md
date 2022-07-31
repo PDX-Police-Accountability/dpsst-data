@@ -37,9 +37,14 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
+| Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
+| Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
+| Code of Ethics | Signed | 4/24/2002 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
 ## Education
 | date | degree | school | major | hours |
