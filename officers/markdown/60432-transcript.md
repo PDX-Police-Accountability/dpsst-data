@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
 | Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
 | Code of Ethics | Law Enforcement Signed | 2/10/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 2/10/2021 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,8 +32,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
+| 6/25/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 5/19/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 5/19/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/5/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 4/7/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 4/7/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 4/1/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 3/24/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/24/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/12/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
@@ -114,7 +116,6 @@
 | 3/14/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/14/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/14/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 3/11/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/11/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 2/24/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 2/24/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |

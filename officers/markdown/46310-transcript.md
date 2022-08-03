@@ -17,14 +17,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/29/2017 | Police Officer | Advanced | Granted | 6/29/2017 | 7/14/2022 |  |
-| 1/11/2011 | Police Officer | Intermediate | Granted | 1/11/2011 | 7/14/2022 |  |
-| 1/17/2007 | Police Officer | Basic | Granted | 1/17/2007 | 7/14/2022 |  |
+| 7/14/2022 | Police Officer | Advanced | Lapsed | 6/29/2017 | 4/14/2027 |  |
+| 7/14/2022 | Police Officer | Basic | Lapsed | 1/17/2007 | 4/14/2027 |  |
+| 7/14/2022 | Police Officer | Intermediate | Lapsed | 1/11/2011 | 4/14/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 4/8/2021 | 4/8/2023 |
 | Code of Ethics | Signed | 1/12/2006 |  |
 ## Education
@@ -115,7 +113,6 @@
 | 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/9/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
-| 3/8/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/8/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/2/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/2/2021 | PDP41314 | 2021-1 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

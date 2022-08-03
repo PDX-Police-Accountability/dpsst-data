@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2022 | PDP13942 | Palm Prints Searching Smart | Passed | 0.0 | 40.00 |
 | 5/6/2021 | NBP33691 | The River Delta: Risk Management, Problem-solv. | Passed | 0.0 | 0.50 |
 | 10/11/2017 | F6A10139 | Courtroom Testimony Techniques - Success | Passed | 0.0 | 8.00 |
 | 2/29/2016 | F6C04700 | Emergency Protection Orders | Passed | 0.0 | 0.25 |

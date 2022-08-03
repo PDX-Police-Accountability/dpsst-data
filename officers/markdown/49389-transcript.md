@@ -22,11 +22,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 5/29/2008 |  |
 | Code of Ethics | Signed | 5/29/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +31,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | PDP42888 | FTEP Orientation | Instructed | 0.0 | 6.00 |
+| 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 5/3/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 5/3/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 4/19/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
@@ -115,7 +116,6 @@
 | 3/23/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/23/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/23/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 3/22/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/22/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/22/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 3/22/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

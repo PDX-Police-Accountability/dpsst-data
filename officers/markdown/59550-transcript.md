@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
-| Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -67,7 +62,6 @@
 | 4/2/2021 | PDP09037 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 4/2/2021 | PDP24095 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 4/2/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
-| 3/11/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/11/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/6/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |
 | 2/26/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |

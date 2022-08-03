@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/20/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/19/2022
   course: PDP10330
   title: 2021 Training Response to Calls Involving Youth
@@ -102,6 +108,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/19/2022
+  course: PDP37844
+  title: 2021-9 TT Protecting Workers from the Dangers of
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/19/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2022
+  course: PDP14424
+  title: Directive 640.30, Child Abuse Investigations
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/12/2022
   course: PDP36611
   title: 2020-11 CAO Legal Updates for November 2020
@@ -117,6 +147,12 @@ training_records:
 - date: 4/12/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/12/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -307,10 +343,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 5/16/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/16/2022

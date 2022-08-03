@@ -23,11 +23,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/4/2021 | 5/4/2023 |
-| Certification Cards | First Aid and CPR | 5/4/2021 | 5/4/2023 |
-| Code of Ethics | Signed | 11/20/2008 |  |
 | Code of Ethics | Signed | 11/20/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 4/5/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 4/1/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
@@ -108,7 +107,6 @@
 | 3/24/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
 | 3/24/2021 | PDP20827 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
 | 3/24/2021 | PDP21968 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
-| 3/16/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/16/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/16/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/16/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

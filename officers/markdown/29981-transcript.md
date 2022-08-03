@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/12/2021 | 4/5/2023 |
-| Certification Cards | First Aid and CPR | 6/12/2021 | 4/5/2023 |
-| Code of Ethics | Signed | 10/29/2010 |  |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2022 | WLP10437 | Active Threat (Shooter) Response | Passed | 0.0 | 8.00 |
+| 7/15/2022 | WLP36075 | Firt Aid/CPR/AED | Passed | 0.0 | 4.00 |
+| 7/13/2022 | WLP32007 | Quarterly Firearms Training (Pistol/Carbine) | Passed | 0.0 | 4.00 |
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/30/2022 | WLP14592 | Hate Crimes Training for LE | Passed | 0.0 | 1.00 |
 | 4/26/2022 | WLP36820 | Domestic Violence Training | Passed | 0.0 | 4.00 |

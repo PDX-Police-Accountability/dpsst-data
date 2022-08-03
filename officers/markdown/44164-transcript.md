@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/24/2021 | 6/24/2023 |
 | Certification Cards | First Aid and CPR | 6/24/2021 | 6/24/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 5/7/2004 |  |
 | Code of Ethics | Signed | 5/7/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,9 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 6/2/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/24/2022 | SMP18373 | Group Crisis Intervention | Passed | 0.0 | 16.00 |
+| 5/3/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 4/25/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/25/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 4/25/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 4/25/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 4/13/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/31/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
@@ -122,7 +124,6 @@
 | 3/23/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/23/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/16/2021 | PDP14107 | CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
-| 3/9/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/1/2021 | PDP05106 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 3/1/2021 | PDP17893 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |

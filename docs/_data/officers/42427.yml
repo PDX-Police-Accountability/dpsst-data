@@ -62,9 +62,81 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2022
   course: PDP00820
   title: 2020 Trnng Mgmt Crit Incidents Well The Sgts Role
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/31/2022
+  course: PDP25704
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 5/31/2022
+  course: PDP13398
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2022
+  course: PDP43874
+  title: Dir 1010.10, Deadly Force and In-Custody Death
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/31/2022
+  course: PDP04749
+  title: Directive 640.10, Crime Scene Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/31/2022
+  course: PDP05898
+  title: HR Rule 2.02, Prohibition Against Wrkplc Hrssmnt
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/31/2022
+  course: PDP42225
+  title: UDAR Guide - Approving
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 5/31/2022
+  course: PDP21195
+  title: UDAR Guide - Coaches Pay
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 5/31/2022
+  course: PDP41995
+  title: UDAR Guide - Requesting
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 5/12/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -80,9 +152,45 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/3/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/3/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/3/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/5/2022
   course: PDP42419
   title: 2021-10 CAO Legal Updates for October 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/5/2022
+  course: PDP26350
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/5/2022
+  course: PDP07364
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -3145,14 +3253,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/12/2021
-  expiration_date: 7/12/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/12/2021
@@ -3161,14 +3261,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/29/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/29/2003

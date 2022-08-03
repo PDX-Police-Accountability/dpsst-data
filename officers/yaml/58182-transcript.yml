@@ -30,9 +30,39 @@ certification_records:
   expiration_date: 2/8/2027
   probation_date: ''
 training_records:
+- date: 5/30/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/30/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/2/2022
   course: PDP42276
   title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -51,6 +81,30 @@ training_records:
 - date: 4/26/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/26/2022
+  course: PDP26350
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/26/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/26/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/26/2022
+  course: PDP07364
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'

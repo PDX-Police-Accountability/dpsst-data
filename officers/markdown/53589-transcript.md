@@ -25,16 +25,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
-| Code of Ethics | Signed | 3/10/2014 |  |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -101,7 +95,6 @@
 | 4/24/2021 | PDP04445 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 4/24/2021 | PDP12061 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/13/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
-| 3/11/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/11/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/11/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 2/27/2021 | PDP41550 | 2021-5 TipsTech LMS KnowledgeBank/Document Search | Passed | 0.0 | 0.25 |

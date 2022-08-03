@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/29/2022 | 3/29/2024 |
-| Certification Cards | First Aid and CPR | 3/29/2022 | 3/29/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 6/16/2008 |  |
 | Code of Ethics | Signed | 6/16/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,10 +46,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 6/8/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 6/8/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/10/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 5/10/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 5/10/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 5/10/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 5/10/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 5/10/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/26/2022 | PDP29350 | Project Safe Neighborhood-Violence Reduction | Passed | 0.0 | 12.00 |
 | 4/5/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
+| 4/5/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 4/5/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP30982 | ICS-400 Adv ICS Cmd  General Staff-Complex Incdts | Passed | 0.0 | 15.91 |
 | 3/29/2022 | PDP13698 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

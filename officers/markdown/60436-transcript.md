@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
 | Code of Ethics | Law Enforcement Signed | 2/16/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 2/16/2021 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,23 +31,45 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 5/21/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/21/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/20/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 5/20/2022 | PDP32899 | 2021-11 TT Unlawful Street Takeovers | Passed | 0.0 | 0.25 |
 | 5/20/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 5/20/2022 | PDP17904 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
+| 5/20/2022 | PDP23227 | 2021-8 CAO Legal Updates for - August 2021 | Passed | 0.0 | 0.25 |
+| 5/20/2022 | PDP04786 | 2021-9 CAO Legal Updates for September 2021 | Passed | 0.0 | 0.25 |
+| 5/20/2022 | PDP21199 | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |
+| 5/20/2022 | PDP09538 | 2022-1 Chief's Office House Bill 2928 (2021) | Passed | 0.0 | 0.25 |
 | 5/2/2022 | PDP01280 | 2021-6 CAO Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
+| 5/2/2022 | PDP32959 | 2021-7 CAO Legal Updates for July 2021 | Passed | 0.0 | 0.25 |
 | 5/1/2022 | PDP03653 | 2021-5 CAO Legal Updates for May 2021 | Passed | 0.0 | 0.25 |
+| 5/1/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 4/30/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/25/2022 | PDP37364 | Advanced Operator Training | Passed | 0.0 | 9.00 |
 | 4/22/2022 | PDP17115 | 2021-4 CAO Legal Updates for April 2021 | Passed | 0.0 | 0.25 |
+| 4/19/2022 | PDP19930 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 4/18/2022 | PDP26726 | 2021-3 CAO Legal Updates for March 2021 | Passed | 0.0 | 0.50 |
 | 4/14/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/14/2022 | PDP18510 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP34896 | 2021-1 CAO Legal Updates for January 2021 | Passed | 0.0 | 0.50 |
 | 4/14/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP31111 | 2021-2 CAO Legal Updates for Feb 2021 | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP04117 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP02335 | DIR 640.38, Interact w Members of the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP06607 | Directive 316.00, Drug, Alcohol, and Tobacco Free | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP08575 | Dir 640.38, Intrctng with Members CHO Letter | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP38509 | Directive 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
+| 4/14/2022 | PDP00300 | Dir 640.38, Intrctng w Members of the Queer Comm | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP36611 | 2020-11 CAO Legal Updates for November 2020 | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP01050 | 2020-12 CAO Legal Updates for Dec 2020 - Updated | Passed | 0.0 | 0.25 |
+| 4/13/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 4/13/2022 | PDP43947 | Directive 0500.00, Wellness Program | Passed | 0.0 | 0.25 |
 | 4/11/2022 | PDP08605 | 2022 Return to Work | Passed | 0.0 | 3.50 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 9/6/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
@@ -79,7 +96,6 @@
 | 4/6/2021 | PDP18257 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 4/6/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 3/30/2021 | PDP20959 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
-| 3/30/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/30/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/30/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

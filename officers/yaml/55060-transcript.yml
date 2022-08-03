@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/24/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/22/2022
   course: PDP17414
   title: EDU Weekly Training ATF E3/ Maintenance
@@ -68,12 +74,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/30/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/30/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/30/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/27/2022
   course: PDP37938
   title: Basic SWAT School
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 4/30/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/30/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/20/2022
   course: PDP03403
   title: EDU weekly training (robot operations)
@@ -95,6 +131,18 @@ training_records:
 - date: 4/1/2022
   course: PDP42276
   title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/1/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -680,12 +728,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 3/11/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/11/2021
   course: PDP22216
   title: 2021 Chicago Case Study
@@ -2750,14 +2792,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -2765,14 +2799,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/24/2021
   expiration_date: 6/24/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/24/2021
-  expiration_date: 6/24/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/16/2015
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/16/2015

@@ -31,10 +31,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/15/2008 |  |
 | Code of Ethics | Signed | 7/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/27/2022 | CIF11318 | Use of Force | Passed | 0.0 | 1.00 |
 | 7/22/2022 | CIF19753 | Professional Standards: Roles  Responsibilities | Passed | 0.0 | 1.00 |
 | 7/13/2022 | CIF15333 | Vehicle Pursuit Training | Passed | 0.0 | 1.00 |
 | 7/6/2022 | CIF04510 | Patrol Rifle Training | Passed | 0.0 | 4.00 |

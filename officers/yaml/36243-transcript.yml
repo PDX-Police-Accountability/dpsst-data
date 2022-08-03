@@ -95,6 +95,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2022
+  course: HBS27141
+  title: MFF Scenario Day
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/15/2022
+  course: HBS34046
+  title: MFF Basic Drills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/9/2022
   course: HBS39068
   title: Peer Support
@@ -2338,14 +2350,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/23/2022
   expiration_date: 3/23/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/23/2022
-  expiration_date: 3/23/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -2354,14 +2358,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/11/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/11/2001

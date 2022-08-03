@@ -23,7 +23,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 12/16/2016 |  |
-| Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -34,6 +33,7 @@
 | 7/3/2022 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 6/24/2022 | PSU17815 | First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PSU23792 | Speed/Multiple Targets/Marksmanship/Qualification | Passed | 0.0 | 1.50 |
+| 5/17/2022 | F6R36474 | Suicide Intervention Training (ASIST) | Passed | 0.0 | 12.00 |
 | 4/5/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |
 | 12/30/2021 | F1537460 | Active Shooter 4 | Passed | 0.0 | 1.00 |

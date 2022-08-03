@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Code of Ethics | Signed | 9/22/2011 |  |
 | Code of Ethics | Signed | 9/22/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,9 +40,16 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 11/7/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 5/17/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 5/17/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/17/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/26/2022 | PDP29350 | Project Safe Neighborhood-Violence Reduction | Passed | 0.0 | 12.00 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 4/6/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 4/6/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 4/4/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/22/2022 | PDP04245 | 2022-1 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
 | 3/22/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/21/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

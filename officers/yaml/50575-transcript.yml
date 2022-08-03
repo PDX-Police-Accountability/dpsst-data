@@ -38,6 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/8/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/16/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/16/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/9/2022
   course: PDP31578
   title: 2022 City of Portland Bloodborne Pathogens
@@ -50,6 +68,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/8/2022
+  course: PDP25704
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 5/8/2022
+  course: PDP13398
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/8/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/8/2022
+  course: PDP43874
+  title: Dir 1010.10, Deadly Force and In-Custody Death
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/8/2022
+  course: PDP04749
+  title: Directive 640.10, Crime Scene Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/8/2022
+  course: PDP05898
+  title: HR Rule 2.02, Prohibition Against Wrkplc Hrssmnt
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/8/2022
+  course: PDP42225
+  title: UDAR Guide - Approving
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 5/8/2022
+  course: PDP21195
+  title: UDAR Guide - Coaches Pay
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
+- date: 5/8/2022
+  course: PDP41995
+  title: UDAR Guide - Requesting
+  status: Passed
+  score: '0.0'
+  hours: '0.08'
 - date: 4/6/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021
@@ -59,6 +131,24 @@ training_records:
 - date: 4/6/2022
   course: PDP42276
   title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -536,12 +626,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 3/23/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/23/2021
   course: PDP24601
   title: 2021 Equity Training Series - Preparation
@@ -3392,14 +3476,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -3407,14 +3483,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/20/2021
   expiration_date: 5/20/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/20/2021
-  expiration_date: 5/20/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/25/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/25/2009

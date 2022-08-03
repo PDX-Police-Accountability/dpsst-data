@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
-| Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
-| Code of Ethics | Signed | 12/21/2010 |  |
 | Code of Ethics | Signed | 12/21/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,14 +37,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/9/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/9/2022 | PDP05146 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 5/24/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 5/24/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/24/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Passed | 0.0 | 27.00 |
 | 5/13/2022 | PDP19711 | North Aerican Motor Ofc. Assoc. Training Conf. | Passed | 0.0 | 24.00 |
 | 5/6/2022 | LOP18786 | Metro Area Sergeants Academy | Passed | 0.0 | 16.00 |
 | 4/10/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/10/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 4/10/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 4/10/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 4/10/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/8/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
+| 4/8/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/18/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/18/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
@@ -130,7 +134,6 @@
 | 4/25/2021 | PDP40889 | 2020 City Attorney's ACLU.Bushong TRO (resend) | Passed | 0.0 | 0.25 |
 | 4/25/2021 | PDP01753 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 4/25/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
-| 3/31/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/31/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/31/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/31/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |

@@ -74,6 +74,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/7/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/11/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/3/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/5/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/5/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/31/2022
   course: PDP38269
   title: 2021-12 City Attorney's Legal Update for Dec. 2021
@@ -3389,26 +3425,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/21/2021
   expiration_date: 6/21/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/21/2021
-  expiration_date: 6/21/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/7/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/7/2000

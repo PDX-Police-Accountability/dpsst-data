@@ -48,6 +48,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/18/2022
+  course: PDP01652
+  title: AAR SharePoint Transition
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/18/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/26/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/26/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/21/2022
   course: PDP10226
   title: 2020 Sup IS Performance Management/Tableau Pt II
@@ -60,15 +84,39 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 5/13/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/6/2022
   course: LOP18786
   title: Metro Area Sergeants Academy
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 4/29/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/28/2022
   course: PDP42276
   title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/28/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/28/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -615,12 +663,6 @@ training_records:
 - date: 4/21/2021
   course: PDP12819
   title: 2021 The Advanced SEND Protocol Video
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/24/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -3023,14 +3065,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/27/2021
-  expiration_date: 5/27/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/27/2021
@@ -3039,21 +3073,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/23/2012
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

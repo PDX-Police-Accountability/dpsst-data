@@ -24,6 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/23/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/23/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/23/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/20/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021
@@ -36,9 +60,111 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/20/2022
+  course: PDP23227
+  title: 2021-8 CAO Legal Updates for - August 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/1/2022
+  course: PDP09538
+  title: 2022-1 Chief's Office House Bill 2928 (2021)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2022
+  course: PDP02335
+  title: DIR 640.38, Interact w Members of the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2022
+  course: PDP08575
+  title: Dir 640.38, Intrctng with Members CHO Letter
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2022
+  course: PDP00300
+  title: Dir 640.38, Intrctng w Members of the Queer Comm
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/27/2022
   course: PDP42419
   title: 2021-10 CAO Legal Updates for October 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2022
+  course: PDP04786
+  title: 2021-9 CAO Legal Updates for September 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2022
+  course: PDP26350
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2022
+  course: PDP07364
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2022
+  course: PDP19930
+  title: Annual CIU NTR Alarm Response Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2022
+  course: PDP04117
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/23/2022
+  course: PDP43947
+  title: Directive 0500.00, Wellness Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2022
+  course: PDP00396
+  title: 2022 Advanced Shotgun Operator PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/19/2022
+  course: PDP21199
+  title: 2022 Adv Shotgun Operator Pre-Test Study Guide
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -402,12 +528,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/27/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/27/2021
   course: PDP21968
   title: 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX
@@ -1655,21 +1775,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/8/2022
   expiration_date: 4/8/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/8/2022
-  expiration_date: 4/8/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 6/21/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 6/21/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/19/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

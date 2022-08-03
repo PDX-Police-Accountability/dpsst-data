@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Code of Ethics | Signed | 2/26/2013 |  |
 | Code of Ethics | Signed | 2/26/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -97,7 +93,6 @@
 | 3/25/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP20827 | 2020 City Attorney's ACLU/Bushong TRO (resend) | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP21968 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
-| 3/17/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/17/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/17/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/17/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

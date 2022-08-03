@@ -60,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 6/13/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2022
+  course: PDP43947
+  title: Directive 0500.00, Wellness Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/23/2022
   course: PDP18510
   title: 2021 Training New Pistol Qualification
@@ -81,6 +93,108 @@ training_records:
 - date: 5/23/2022
   course: PDP42276
   title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/23/2022
+  course: PDP23227
+  title: 2021-8 CAO Legal Updates for - August 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/23/2022
+  course: PDP26350
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/23/2022
+  course: PDP04786
+  title: 2021-9 CAO Legal Updates for September 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/19/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP07364
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP09538
+  title: 2022-1 Chief's Office House Bill 2928 (2021)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP19930
+  title: Annual CIU NTR Alarm Response Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP04117
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/19/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/16/2022
+  course: PDP02335
+  title: DIR 640.38, Interact w Members of the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/16/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/16/2022
+  course: PDP08575
+  title: Dir 640.38, Intrctng with Members CHO Letter
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/16/2022
+  course: PDP00300
+  title: Dir 640.38, Intrctng w Members of the Queer Comm
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -2165,14 +2279,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/16/2021
-  expiration_date: 8/16/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/16/2021
@@ -2181,14 +2287,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/10/2014
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/10/2014

@@ -100,6 +100,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/27/2022
+  course: WLP10437
+  title: Active Threat (Shooter) Response
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/15/2022
+  course: WLP36075
+  title: Firt Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/13/2022
+  course: WLP32007
+  title: Quarterly Firearms Training (Pistol/Carbine)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/7/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -2607,14 +2625,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/15/2022
-  expiration_date: 7/15/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022
@@ -2623,14 +2633,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/11/2020
-  expiration_date: 8/11/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/11/2020

@@ -34,12 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
 | Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 7/7/2003 |  |
 | Code of Ethics | Signed | 7/7/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2022 | BNS25042 | Objective Jail Classification | Passed | 0.0 | 24.00 |
 | 5/26/2022 | PDS35475 | CIT | Instructed | 0.0 | 4.00 |
 | 4/28/2022 | PDS15258 | CIT IDC | Passed | 0.0 | 4.00 |
 | 3/22/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |

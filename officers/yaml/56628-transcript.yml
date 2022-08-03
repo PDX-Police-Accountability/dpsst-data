@@ -31,6 +31,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2022
+  course: PDP26350
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP09538
+  title: 2022-1 Chief's Office House Bill 2928 (2021)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP19930
+  title: Annual CIU NTR Alarm Response Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP02335
+  title: DIR 640.38, Interact w Members of the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP00300
+  title: Dir 640.38, Intrctng w Members of the Queer Comm
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP08575
+  title: Dir 640.38, Intrctng with Members CHO Letter
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP06607
+  title: Directive 316.00, Drug, Alcohol, and Tobacco Free
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/12/2022
+  course: PDP38509
+  title: Directive 630.15, Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/11/2022
   course: PDP25991
   title: 2021 Language Access - Utilizing Bilingual Members
@@ -70,6 +130,72 @@ training_records:
 - date: 5/11/2022
   course: PDP01280
   title: 2021-6 CAO Legal Updates for June 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP32959
+  title: 2021-7 CAO Legal Updates for July 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP23227
+  title: 2021-8 CAO Legal Updates for - August 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP04786
+  title: 2021-9 CAO Legal Updates for September 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP07364
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/11/2022
+  course: PDP04117
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2022
+  course: PDP43947
+  title: Directive 0500.00, Wellness Program
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -415,12 +541,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 3/17/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/17/2021
   course: PDP24601
   title: 2021 Equity Training Series - Preparation
@@ -1914,14 +2034,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/17/2021
-  expiration_date: 6/17/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/17/2021
@@ -1930,21 +2042,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/24/2017
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/24/2017
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/6/2016
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

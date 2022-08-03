@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2022 | SDP28878 | DUII Warrant Writing | Passed | 0.0 | 1.00 |
+| 7/13/2022 | SDP26239 | Tactical knife Defensive- Weapon Retention | Passed | 0.0 | 2.00 |
+| 7/13/2022 | SDP09898 | Oregon Humane Society- Animal Welfare Laws | Passed | 0.0 | 2.00 |
+| 7/13/2022 | SDP04921 | MHRT training - behvioral  cognitive disabilities | Passed | 0.0 | 1.00 |
+| 7/13/2022 | SDP26655 | PREA Training | Passed | 0.0 | 1.00 |
 | 7/7/2022 | REG16331 | Collar tie, single leg, knee on hip | Passed | 0.0 | 1.00 |
 | 5/26/2022 | REG28407 | Striking and weapon retention | Passed | 0.0 | 1.00 |
 | 5/23/2022 | REG11074 | Limb control and weapon retention standing, ground | Passed | 0.0 | 1.00 |

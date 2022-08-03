@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 8/11/2020 | 8/11/2022 |
 | Certification Cards | First Aid and CPR | 8/11/2020 | 8/11/2022 |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2022 | WLP10437 | Active Threat (Shooter) Response | Passed | 0.0 | 8.00 |
+| 7/15/2022 | WLP36075 | Firt Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/13/2022 | WLP26008 | 40mm Less Lethal - Classroom and Qualification | Passed | 0.0 | 1.50 |
 | 6/13/2022 | WLP20564 | Firearms Training | Passed | 0.0 | 2.50 |

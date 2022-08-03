@@ -100,6 +100,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/15/2022
+  course: OSH35997
+  title: Critical Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/15/2022
+  course: OSH31263
+  title: Tactical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/14/2022
+  course: OSH26172
+  title: De-Escalation/Verbal Judo
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/14/2022
+  course: OSH10578
+  title: De-Escalation of People in Crisis
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/14/2022
+  course: OSH10100
+  title: PL 280
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/13/2022
+  course: OSH21782
+  title: Resilience Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/12/2022
+  course: OSH43270
+  title: Police Accountability  Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/23/2022
   course: OSH07547
   title: De-Escalation/Verbal Judo
@@ -3855,10 +3897,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/17/2022
   expiration_date: 2/28/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/17/2022
-  expiration_date: 2/28/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -3867,18 +3905,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/10/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/10/2002

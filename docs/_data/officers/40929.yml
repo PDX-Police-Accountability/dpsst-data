@@ -56,6 +56,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 6/4/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/4/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/4/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/22/2022
   course: HSU03285
   title: May 2022 Supplemental Range
@@ -80,6 +98,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.00'
+- date: 4/20/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/20/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/19/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021
@@ -92,6 +122,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/19/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/15/2022
   course: HSU13774
   title: Pre Academy Firearms 9
@@ -3839,26 +3881,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/21/2021
   expiration_date: 7/21/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/21/2021
-  expiration_date: 7/21/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/17/2003

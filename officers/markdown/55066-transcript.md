@@ -21,12 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/12/2021 | 5/12/2023 |
-| Certification Cards | First Aid and CPR | 5/12/2021 | 5/12/2023 |
-| Code of Ethics | Signed | 7/16/2015 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,12 +32,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/3/2022 | PDP41956 | 2020 Sup IS Performance Management/Tableau Part I | Passed | 0.0 | 0.75 |
 | 6/3/2022 | PDP10226 | 2020 Sup IS Performance Management/Tableau Pt II | Passed | 0.0 | 0.50 |
+| 4/15/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 4/10/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/9/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 4/9/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/3/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/2/2022 | PDP40258 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 4/1/2022 | PDP20628 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
+| 4/1/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/17/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
@@ -115,7 +116,6 @@
 | 4/16/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 4/12/2021 | PDP02175 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 4/11/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
-| 3/21/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/21/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/21/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/21/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |

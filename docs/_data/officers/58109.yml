@@ -24,6 +24,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/3/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/8/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/18/2022
+  course: PDP00396
+  title: 2022 Advanced Shotgun Operator PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/13/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/3/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021
@@ -36,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/3/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/8/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -492,12 +546,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 3/22/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/22/2021
   course: PDP22216
   title: 2021 Chicago Case Study
@@ -1686,14 +1734,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -1701,21 +1741,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/27/2021
   expiration_date: 6/27/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/27/2021
-  expiration_date: 6/27/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/23/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/23/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/10/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

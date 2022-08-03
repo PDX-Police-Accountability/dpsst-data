@@ -42,5 +42,11 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/8/2022
+  course: PDP41684
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records: []
 education_records: []

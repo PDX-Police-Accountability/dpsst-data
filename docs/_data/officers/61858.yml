@@ -48,12 +48,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '200.00'
+- date: 7/26/2022
+  course: MFN22444
+  title: Leading at Any Level
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/20/2022
   course: MFN05513
   title: Teaching CBT'S/Setting Goals, Risks/Strengths
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/15/2022
+  course: MFN20468
+  title: 'Firearms Training: RDS Transition'
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/30/2022
   course: MFN42864
   title: Firearms Qualifications
@@ -505,20 +517,8 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 3/28/2022
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 5/30/2021
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 5/30/2021
-  expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021

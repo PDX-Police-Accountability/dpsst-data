@@ -21,12 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -34,9 +30,27 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2022 | PDP43947 | Directive 0500.00, Wellness Program | Passed | 0.0 | 0.25 |
+| 5/14/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 5/14/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/14/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/1/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 5/1/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 5/1/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 5/1/2022 | PDP23227 | 2021-8 CAO Legal Updates for - August 2021 | Passed | 0.0 | 0.25 |
+| 5/1/2022 | PDP04786 | 2021-9 CAO Legal Updates for September 2021 | Passed | 0.0 | 0.25 |
+| 4/24/2022 | PDP09538 | 2022-1 Chief's Office House Bill 2928 (2021) | Passed | 0.0 | 0.25 |
+| 4/24/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 4/23/2022 | PDP02335 | DIR 640.38, Interact w Members of the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
+| 4/23/2022 | PDP08575 | Dir 640.38, Intrctng with Members CHO Letter | Passed | 0.0 | 0.25 |
+| 4/23/2022 | PDP00300 | Dir 640.38, Intrctng w Members of the Queer Comm | Passed | 0.0 | 0.25 |
+| 4/22/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 4/18/2022 | PDP04117 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 4/16/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 4/15/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 4/15/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 4/15/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 4/15/2022 | PDP19930 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
@@ -103,7 +117,6 @@
 | 3/28/2021 | PDP20959 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 3/28/2021 | PDP21968 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 3/16/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
-| 3/15/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/15/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/15/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 2/16/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |

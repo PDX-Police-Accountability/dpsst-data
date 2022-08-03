@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Code of Ethics | Signed | 9/27/2005 |  |
 | Code of Ethics | Signed | 9/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,8 +34,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 6/30/2022 | PDP10222 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 6/30/2022 | PDP27416 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 6/30/2022 | PDP10136 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 6/30/2022 | PDP25519 | Dir 0835.20, Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 6/30/2022 | PDP27155 | Dir 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 6/14/2022 | PDP43746 | Geography Training | Instructed | 0.0 | 2.00 |
+| 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 5/17/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/12/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 5/12/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/10/2022 | PDP20915 | Policy and Procedure Training | Instructed | 0.0 | 7.00 |
+| 4/11/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Instructed | 0.0 | 7.00 |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |

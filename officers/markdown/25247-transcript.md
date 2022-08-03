@@ -33,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Code of Ethics | Signed | 2/15/2012 |  |
 | Code of Ethics | Signed | 2/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/8/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 6/16/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 4/27/2022 | PDP23768 | Emerg. Ops Center-ICS Interface G-0191 | Passed | 0.0 | 8.66 |
 | 2/14/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/14/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |

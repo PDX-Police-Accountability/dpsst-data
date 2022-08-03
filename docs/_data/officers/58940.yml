@@ -30,9 +30,51 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/12/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/12/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/11/2022
   course: PDP42276
   title: 2021-12 CAO Legal Updates for December 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/11/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -42,9 +84,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/5/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/4/2022
   course: PDP42419
   title: 2021-10 CAO Legal Updates for October 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/4/2022
+  course: PDP26350
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/4/2022
+  course: PDP07364
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -1446,14 +1506,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 7/6/2022
-  expiration_date: 7/6/2022
-- topic: Maintenance Requirements
   value: First Aid/CPR Required
   effective_date: 7/6/2022
   expiration_date: 7/6/2022
@@ -1463,20 +1515,8 @@ attribute_records:
   expiration_date: 6/3/2022
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
-  effective_date: 6/3/2022
-  expiration_date: 6/3/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
   effective_date: 3/16/2022
   expiration_date: 3/16/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 3/16/2022
-  expiration_date: 3/16/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -1484,14 +1524,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/30/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/30/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/19/2018
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

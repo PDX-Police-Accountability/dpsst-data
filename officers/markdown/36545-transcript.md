@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/27/2022 | 4/27/2024 |
-| Certification Cards | First Aid and CPR | 4/27/2022 | 4/27/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 7/27/2001 |  |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/19/2022 | HBP00479 | Range / Force and Tactics | Passed | 0.0 | 10.00 |
 | 5/19/2022 | VND37030 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 4/27/2022 | HBP24552 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 4/26/2022 | HBP39625 | Cellebrite 101 | Passed | 0.0 | 6.00 |

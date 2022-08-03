@@ -29,3 +29,4 @@
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/12/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 6/22/2022 | PDP18510 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 6/8/2022 | PDP41684 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/4/2004 |  |
 | Code of Ethics | Signed | 8/4/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,13 +36,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Instructed | 0.0 | 9.00 |
+| 6/25/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 6/25/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 6/25/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/22/2022 | PDP17414 | EDU Weekly Training ATF E3/ Maintenance | Passed | 0.0 | 9.00 |
 | 6/15/2022 | PDP00617 | EDU Weekly- Maritime Operations for Bomb Techs | Passed | 0.0 | 9.00 |
 | 6/8/2022 | PDP40534 | Weekly EDU Training-JCEM Course | Instructed | 0.0 | 9.00 |
+| 5/20/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/1/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 5/1/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 5/1/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 5/1/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 5/1/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/20/2022 | PDP03403 | EDU weekly training (robot operations) | Passed | 0.0 | 8.00 |
 | 4/6/2022 | PDP24684 | EDU Disposal Training | Passed | 0.0 | 9.00 |
 | 4/2/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
+| 4/2/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 4/2/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP37993 | EDU-Robert/UAV Integration Training | Passed | 0.0 | 9.00 |
 | 3/28/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

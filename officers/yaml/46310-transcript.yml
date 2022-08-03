@@ -22,26 +22,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/29/2017
+- status_date: 7/14/2022
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 6/29/2017
-  expiration_date: 7/14/2022
+  expiration_date: 4/14/2027
   probation_date: ''
-- status_date: 1/11/2011
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 1/11/2011
-  expiration_date: 7/14/2022
-  probation_date: ''
-- status_date: 1/17/2007
+- status_date: 7/14/2022
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 1/17/2007
-  expiration_date: 7/14/2022
+  expiration_date: 4/14/2027
+  probation_date: ''
+- status_date: 7/14/2022
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 1/11/2011
+  expiration_date: 4/14/2027
   probation_date: ''
 training_records:
 - date: 3/31/2022
@@ -530,12 +530,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 3/8/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/8/2021
   course: PDP22216
   title: 2021 Chicago Case Study
@@ -3435,14 +3429,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/8/2021

@@ -66,9 +66,87 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 6/29/2022
+  course: PDP41767
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/29/2022
+  course: PDP00588
+  title: Dir 660.10, Property and Evidence Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/28/2022
   course: PDP15251
   title: 2021 OSHA Heat Illness Prevention Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP37844
+  title: 2021-9 TT Protecting Workers from the Dangers of
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/28/2022
+  course: PDP02335
+  title: DIR 640.38, Interact w Members of the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP18820
+  title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP03030
+  title: Dir 0630.60, Vehicle Disposition and Impoundment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP14412
+  title: Dir 0640.80, Bias Crime Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP06567
+  title: Dir 730.00, Response to Active Violence Incidents
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP08575
+  title: Dir 640.38, Intrctng with Members CHO Letter
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP22714
+  title: Directive 870.80, Eyewitness Identification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP38509
+  title: Directive 630.15, Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/28/2022
+  course: PDP14424
+  title: Directive 640.30, Child Abuse Investigations
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/28/2022
+  course: PDP00300
+  title: Dir 640.38, Intrctng w Members of the Queer Comm
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -192,9 +270,153 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/27/2022
+  course: PDP00587
+  title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP32959
+  title: 2021-7 CAO Legal Updates for July 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP23763
+  title: 2021-7 TT Bureau Issued Utility Knives
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP23227
+  title: 2021-8 CAO Legal Updates for - August 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP13853
+  title: 2021-8 TT Ballot Measure 110 - Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP21588
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP09538
+  title: 2022-1 Chief's Office House Bill 2928 (2021)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP18749
+  title: Directive 0305.00, Active Bystandership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2022
+  course: PDP08041
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/27/2022
+  course: PDP34894
+  title: Dir 0750.00, Bureau Cooperation with FBI JTTF
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2022
+  course: PDP42888
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/21/2022
   course: PDP36611
   title: 2020-11 CAO Legal Updates for November 2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP04786
+  title: 2021-9 CAO Legal Updates for September 2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP26350
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP05147
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP03522
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP23522
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP07364
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP19930
+  title: Annual CIU NTR Alarm Response Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP04117
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP23796
+  title: Dir 0414.00, Pregnancy  Lactation Accommodations
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP27306
+  title: Dir 0660.10, Property and Evidence Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP12874
+  title: Use of Force Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/21/2022
+  course: PDP04223
+  title: Directive 1500.00, Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/21/2022
+  course: PDP06607
+  title: Directive 316.00, Drug, Alcohol, and Tobacco Free
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -216,6 +438,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/22/2022
+  course: PDP43947
+  title: Directive 0500.00, Wellness Program
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/21/2022
   course: M10-21A
   title: DPSST Basic Police Course
@@ -259,10 +487,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/21/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/21/2022

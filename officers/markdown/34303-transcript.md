@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/6/2022 | HBP35698 | K9 Maintenance Training - Patrol | Passed | 0.0 | 5.00 |
 | 6/8/2022 | HBP34760 | Range / Force and Tactics | Passed | 0.0 | 7.00 |
 | 4/26/2022 | BPT03227 | RADAR/LIDAR Operator Course | Passed | 0.0 | 8.00 |
 | 4/20/2022 | HBP11624 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |

@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/20/2021 | 5/20/2023 |
 | Certification Cards | First Aid and CPR | 5/20/2021 | 5/20/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 11/6/2016 |  |
 | Code of Ethics | Signed | 11/6/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -105,7 +101,6 @@
 | 4/7/2021 | PDP00192 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 3/11/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/11/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
-| 3/10/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.25 |
 | 3/10/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 3/10/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
