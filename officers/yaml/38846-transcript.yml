@@ -54,6 +54,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/11/2022
+  course: PDP40334
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/11/2022
+  course: PDP11316
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/17/2022
   course: PDP01652
   title: AAR SharePoint Transition

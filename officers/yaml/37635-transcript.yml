@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/31/2022
+  course: EGP27956
+  title: 'Briefing:  Oregon OHSA - Heat Prevention Training'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2022
+  course: EGP00110
+  title: 'Briefing:  OSHA Wildlife Smoke Exposure'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/18/2022
   course: EGP12087
   title: Autism Spectrum Disorder/CIT

@@ -52,6 +52,7 @@
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/5/2022 | SVP38290 | Annual Narcan Training | Passed | 0.0 | 0.50 |
 | 7/5/2022 | SVP08072 | Anti-Bias Training for LEO | Passed | 0.0 | 2.00 |
+| 7/5/2022 | SVP35110 | Heat Stress Awareness | Passed | 0.0 | 0.25 |
 | 6/22/2022 | SVP19591 | Firearms Training  Qualification (pistol/rifile) | Instructed | 0.0 | 3.00 |
 | 6/16/2022 | REG00066 | Handgun IDC | Passed | 0.0 | 40.00 |
 | 6/8/2022 | SVP29859 | Firearms Training and Qualification | Passed | 0.0 | 3.00 |

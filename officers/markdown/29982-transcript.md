@@ -38,9 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/20/2022 | SVP04681 | PIT Training | Instructed | 0.0 | 8.00 |
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/5/2022 | SVP38290 | Annual Narcan Training | Passed | 0.0 | 0.50 |
 | 7/5/2022 | SVP08072 | Anti-Bias Training for LEO | Passed | 0.0 | 2.00 |
+| 7/5/2022 | SVP35110 | Heat Stress Awareness | Passed | 0.0 | 0.25 |
 | 6/8/2022 | SVP29859 | Firearms Training and Qualification | Passed | 0.0 | 3.00 |
 | 6/7/2022 | SVP06310 | Cmd Staff-Need to Prioitize Ofc Health  Wellness | Passed | 0.0 | 1.75 |
 | 4/27/2022 | REG28741 | Tactical Medicine / Firearms Range Drills | Instructed | 0.0 | 14.00 |

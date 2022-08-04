@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2022 | EGP00110 | Briefing:  OSHA Wildlife Smoke Exposure | Passed | 0.0 | 0.50 |
 | 6/7/2022 | EGP19480 | Being Resilent in First Responder Work | Passed | 0.0 | 6.00 |
 | 5/18/2022 | EGP12087 | Autism Spectrum Disorder/CIT | Passed | 0.0 | 1.00 |
 | 5/18/2022 | EGP26553 | Chief Briefing - Leadership | Passed | 0.0 | 0.75 |

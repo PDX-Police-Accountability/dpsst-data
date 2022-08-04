@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2022
+  course: EGP00110
+  title: 'Briefing:  OSHA Wildlife Smoke Exposure'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/7/2022
   course: EGP19480
   title: Being Resilent in First Responder Work

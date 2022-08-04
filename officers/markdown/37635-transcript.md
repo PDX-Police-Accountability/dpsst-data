@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2022 | EGP27956 | Briefing:  Oregon OHSA - Heat Prevention Training | Passed | 0.0 | 0.50 |
+| 6/30/2022 | EGP00110 | Briefing:  OSHA Wildlife Smoke Exposure | Passed | 0.0 | 0.50 |
 | 5/18/2022 | EGP12087 | Autism Spectrum Disorder/CIT | Passed | 0.0 | 0.75 |
 | 5/18/2022 | EGP26553 | Chief Briefing - Leadership | Passed | 0.0 | 0.75 |
 | 5/18/2022 | EGP01708 | Domestic Violence Update | Passed | 0.0 | 2.00 |

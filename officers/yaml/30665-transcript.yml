@@ -615,12 +615,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/18/2021
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 3/10/2021
   course: PDP24601
   title: 2021 Equity Training Series - Preparation

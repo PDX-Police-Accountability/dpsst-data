@@ -147,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/5/2022
+  course: SVP35110
+  title: Heat Stress Awareness
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/22/2022
   course: SVP19591
   title: Firearms Training  Qualification (pistol/rifile)
