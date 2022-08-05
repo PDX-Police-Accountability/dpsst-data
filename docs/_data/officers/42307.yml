@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/13/2022
+  course: OSH16712
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/7/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

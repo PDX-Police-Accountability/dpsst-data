@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/20/2022
+  course: SVP04681
+  title: PIT Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/15/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

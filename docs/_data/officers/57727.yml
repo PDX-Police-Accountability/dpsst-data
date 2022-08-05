@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/10/2022
+  course: PDP22234
+  title: DPSST SFST Instructors Course
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
 - date: 5/31/2022
   course: PDP18820
   title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info

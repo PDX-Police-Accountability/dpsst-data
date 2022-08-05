@@ -63,6 +63,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/28/2022
+  course: SMS22986
+  title: IALEFI- Master Instructor Development Program
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/20/2022
   course: PDS37106
   title: 2022 Basic Sniper School

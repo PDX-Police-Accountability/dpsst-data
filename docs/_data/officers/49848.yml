@@ -3882,6 +3882,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 8/1/2014
+  course: PDP24361
+  title: 'IS-907 Active Shooter: What you can do'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/31/2014
   course: 14-0169
   title: Shotgun Qualification

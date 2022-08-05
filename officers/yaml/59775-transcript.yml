@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/13/2022
+  course: OSH16712
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/16/2022
   course: PDP43947
   title: Directive 0500.00, Wellness Program

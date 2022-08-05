@@ -36,7 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/6/2022 | HBS02817 | IFAST In-Service | Passed | 0.0 | 4.00 |
+| 5/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 5/6/2022 | HBS21853 | IFAST In-Service | Passed | 0.0 | 4.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/28/2022 | HBS40639 | First Aid | Passed | 0.0 | 2.50 |
 | 1/28/2022 | HBS37678 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

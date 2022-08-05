@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | OSH16712 | ARIDE | Instructed | 0.0 | 8.00 |
 | 6/27/2022 | BPT28561 | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 7.00 |
 | 6/10/2022 | BPT27684 | SFST Instructor Development Course | Passed | 0.0 | 50.00 |
 | 6/10/2022 | PDP27222 | SFST Instructor Development Course | Passed | 0.0 | 40.00 |

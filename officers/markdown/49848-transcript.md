@@ -675,6 +675,7 @@
 | 9/10/2014 | 14-0138 | SERT Firearms Training | Passed | 0.0 | 10.00 |
 | 8/14/2014 | 14-0138 | SERT Firearms Training | Passed | 0.0 | 10.00 |
 | 8/13/2014 | 14-0255 | SERT Training | Passed | 0.0 | 10.00 |
+| 8/1/2014 | PDP24361 | IS-907 Active Shooter: What you can do | Passed | 0.0 | 1.00 |
 | 7/31/2014 | 14-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2014 | 14-0255 | SERT Training | Passed | 0.0 | 10.00 |

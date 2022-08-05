@@ -30,12 +30,6 @@ certification_records:
   expiration_date: ''
   probation_date: 1/26/2023
 training_records:
-- date: 1/26/2023
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 5/27/2022
   course: OCS39091
   title: Ground Fighting

@@ -26,8 +26,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/3/2022 | Corrections Officer | Basic | App Recd |  |  | 1/29/2022 |
 | 6/22/2021 | Police Officer | Executive | Granted | 6/22/2021 |  |  |
-| 1/29/2021 | Corrections Officer | Basic | Required |  |  | 1/29/2022 |
 | 12/13/2019 | Police Officer | Management | Granted | 12/13/2019 |  |  |
 | 1/28/2013 | Police Officer | Supervisory | Granted | 1/28/2013 |  |  |
 | 3/4/2010 | Police Officer | Advanced | Reinstated | 4/7/2008 |  |  |
