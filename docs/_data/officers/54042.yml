@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/19/2022
+  course: OCS00466
+  title: AR15 Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/3/2022
   course: OCS03360
   title: HB 2513 Airway and Circulation
@@ -2183,10 +2189,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/25/2022
   expiration_date: 3/25/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -2195,18 +2197,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/24/2014
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/24/2014

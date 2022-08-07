@@ -336,6 +336,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 6/23/2022
+  course: PDP02604
+  title: HAZMAT/ WMD Response Awareness Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/21/2022
   course: PDP36611
   title: 2020-11 CAO Legal Updates for November 2020
@@ -444,6 +450,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/21/2022
+  course: REG08525
+  title: INTOX 8000 - Hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/21/2022
   course: M10-21A
   title: DPSST Basic Police Course
@@ -487,10 +499,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/21/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/21/2022

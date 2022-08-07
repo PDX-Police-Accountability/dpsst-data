@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
-| Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
-| Code of Ethics | Signed | 2/12/2004 |  |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,12 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2022 | PPP30349 | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |
 | 5/13/2022 | 42687 | Washington Homicide Investigators Conference | Passed | 0.0 | 20.00 |
 | 5/12/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
+| 3/31/2022 | POP39338 | Defensive Driving Principles | Passed | 0.0 | 1.00 |
 | 3/10/2022 | GSP44332 | Bank Robbery (Tracker) Tracker | Passed | 0.0 | 1.00 |
 | 3/9/2022 | LOP19092 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
+| 2/28/2022 | PPP19043 | Emotional  Psychological Disorders 2 | Passed | 0.0 | 1.00 |
 | 2/24/2022 | GSP27988 | Video Evidence Collection | Passed | 0.0 | 8.00 |
+| 1/31/2022 | PPP44448 | Emotional  Psychological Disorders 1 | Passed | 0.0 | 1.00 |
 | 1/29/2022 | PPP25776 | Range | Passed | 0.0 | 4.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2021 | PPP22451 | Anti-Bias Training For LE | Passed | 0.0 | 1.00 |

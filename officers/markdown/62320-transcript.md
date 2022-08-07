@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 3/22/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 3/22/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -29,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/1/2022 | PDP29324 | FTEP Orientation | Passed | 0.0 | 7.00 |
+| 7/19/2022 | PDP30803 | General Firearms Training | Passed | 0.0 | 3.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Passed | 0.0 | 6.00 |
 | 7/14/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/17/2022 | PDP25043 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

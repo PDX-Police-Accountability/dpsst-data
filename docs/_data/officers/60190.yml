@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/13/2022
+  course: REG06674
+  title: INTOX 8000 (hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/21/2021
   course: OCS25818
   title: Ethics Training
@@ -203,14 +209,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/25/2022
   expiration_date: 3/25/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 10/25/2021
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/25/2021

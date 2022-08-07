@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
 | Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 1/12/2006 |  |
 | Code of Ethics | Signed | 1/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,8 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2022 | PPP30349 | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |
 | 4/7/2022 | PPP34624 | Body Worn Camera Operation and Policy | Passed | 0.0 | 2.00 |
+| 3/31/2022 | POP39338 | Defensive Driving Principles | Passed | 0.0 | 1.00 |
 | 3/1/2022 | LOP36286 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
+| 2/28/2022 | PPP19043 | Emotional  Psychological Disorders 2 | Passed | 0.0 | 1.00 |
+| 1/31/2022 | PPP44448 | Emotional  Psychological Disorders 1 | Passed | 0.0 | 1.00 |
 | 1/29/2022 | PPP25776 | Range | Passed | 0.0 | 4.00 |
 | 1/25/2022 | PPP28136 | Axon Body Worn Cameras TTT | Passed | 0.0 | 3.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

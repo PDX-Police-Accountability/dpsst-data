@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -72,6 +71,7 @@
 | 6/23/2022 | PDP34894 | Dir 0750.00, Bureau Cooperation with FBI JTTF | Passed | 0.0 | 0.25 |
 | 6/23/2022 | PDP42888 | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/23/2022 | PDP04223 | Directive 1500.00, Training | Passed | 0.0 | 0.25 |
+| 6/23/2022 | PDP02604 | HAZMAT/ WMD Response Awareness Training | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PDP15251 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 6/21/2022 | PDP01280 | 2021-6 CAO Legal Updates for June 2021 | Passed | 0.0 | 0.25 |
 | 6/21/2022 | PDP32959 | 2021-7 CAO Legal Updates for July 2021 | Passed | 0.0 | 0.25 |

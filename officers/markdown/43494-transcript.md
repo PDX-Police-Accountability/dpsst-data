@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/13/2021 | 5/13/2023 |
-| Certification Cards | First Aid and CPR | 5/13/2021 | 5/13/2023 |
-| Code of Ethics | Signed | 2/4/2005 |  |
 | Code of Ethics | Signed | 2/4/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,6 +46,7 @@
 | 5/15/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/15/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/15/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/12/2022 | PDP33508 | Special Event Enhanced Risk Management/Assessment | Passed | 0.0 | 15.00 |
 | 5/10/2022 | PDP04687 | Sport Event Risk Management Training | Passed | 0.0 | 16.00 |
 | 4/18/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/18/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

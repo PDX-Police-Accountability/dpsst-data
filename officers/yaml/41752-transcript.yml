@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/3/2022
+  agency: Grants Pass Police Department
+  action: Resigned
+  rank: Corporal
+  classification: ''
+  assignment: ''
 - date: 10/18/2016
   agency: Grants Pass Police Department
   action: Promotion
@@ -57,28 +63,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 1/31/2018
-  expiration_date: ''
+  expiration_date: 11/3/2022
   probation_date: ''
 - status_date: 4/2/2012
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 4/2/2012
-  expiration_date: ''
+  expiration_date: 11/3/2022
   probation_date: ''
 - status_date: 11/23/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 11/3/2022
   probation_date: ''
 - status_date: 2/27/2007
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/27/2007
-  expiration_date: ''
+  expiration_date: 11/3/2022
   probation_date: ''
 training_records:
 - date: 6/21/2022

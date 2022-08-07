@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -80,6 +79,7 @@
 | 6/27/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/27/2022 | PDP34894 | Dir 0750.00, Bureau Cooperation with FBI JTTF | Passed | 0.0 | 0.25 |
 | 6/23/2022 | PDP42888 | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 6/23/2022 | PDP02604 | HAZMAT/ WMD Response Awareness Training | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PDP36611 | 2020-11 CAO Legal Updates for November 2020 | Passed | 0.0 | 0.25 |
 | 6/21/2022 | PDP04786 | 2021-9 CAO Legal Updates for September 2021 | Passed | 0.0 | 0.25 |
 | 6/21/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
@@ -98,6 +98,7 @@
 | 6/14/2022 | PDP38663 | Property  Evidence Handling | Passed | 0.0 | 2.00 |
 | 5/16/2022 | BPT41049 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.50 |
 | 4/22/2022 | PDP43947 | Directive 0500.00, Wellness Program | Passed | 0.0 | 0.25 |
+| 4/21/2022 | REG08525 | INTOX 8000 - Hours included in Basic | Passed | 0.0 | 6.00 |
 | 2/21/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 2/3/2022 | PDP44055 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 2/3/2022 | PDP33896 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

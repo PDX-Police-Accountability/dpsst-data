@@ -22,8 +22,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Code of Ethics | Law Enforcement Signed | 10/25/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2021 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +43,7 @@
 | 2/1/2022 | BPT37233 | In Our Own Voice | Passed | 0.0 | 2.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
+| 1/13/2022 | REG06674 | INTOX 8000 (hours included in Basic) | Passed | 0.0 | 8.00 |
 | 12/21/2021 | OCS25818 | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/17/2021 | OCS41758 | Workplace violence prevention | Passed | 0.0 | 0.50 |
 | 10/15/2021 | OCS36185 | OSHA Protection Wildfire Smoke Training | Passed | 0.0 | 0.15 |

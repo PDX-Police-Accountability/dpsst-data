@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Code of Ethics | Signed | 2/27/2009 |  |
 | Code of Ethics | Signed | 2/27/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | 5/10/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Instructed | 0.0 | 4.00 |
 | 4/27/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 4/21/2022 | PDP26141 | Extreme Close Quarters Concepts | Passed | 0.0 | 30.00 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

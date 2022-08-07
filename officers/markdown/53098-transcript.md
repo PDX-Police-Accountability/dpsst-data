@@ -27,15 +27,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Signed | 11/21/2013 |  |
 | Code of Ethics | Signed | 11/21/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -105,6 +99,7 @@
 | 9/20/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
 | 9/20/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/17/2021 | F6F01953 | 2021 Prosecuting the Drugged Driver | Passed | 0.0 | 26.00 |
+| 9/17/2021 | PDP09602 | Prosecuting the Drugged Driver | Passed | 0.0 | 32.00 |
 | 8/15/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/8/2021 | PDP21903 | Oregon Drug Evaluation  Classification Cert | Passed | 0.0 | 40.00 |
 | 8/7/2021 | F6E09733 | DRE Certification Training | Passed | 0.0 | 40.00 |

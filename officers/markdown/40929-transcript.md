@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Code of Ethics | Signed | 1/17/2003 |  |
 | Code of Ethics | Signed | 1/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2022 | PDP27302 | Firearms Training | Instructed | 0.0 | 3.50 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Instructed | 0.0 | 6.00 |
 | 6/4/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/4/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

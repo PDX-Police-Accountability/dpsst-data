@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/10/2022
+  course: PDP26141
+  title: Extreme Close Quarters Concepts
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 3/11/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -1707,18 +1713,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/1/2021
@@ -1726,14 +1720,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/16/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/16/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/22/2018
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

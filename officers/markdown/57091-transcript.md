@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,11 +36,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2022 | PDP39626 | Firearms Training | Instructed | 0.0 | 4.00 |
+| 7/19/2022 | PDP30803 | General Firearms Training | Instructed | 0.0 | 3.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Instructed | 0.0 | 6.00 |
 | 6/15/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/21/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/21/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/21/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/9/2022 | PDP26141 | Extreme Close Quarters Concepts | Passed | 0.0 | 25.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Instructed | 0.0 | 5.00 |
 | 4/28/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Instructed | 0.0 | 5.00 |

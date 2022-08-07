@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/22/2014 |  |
 | Code of Ethics | Signed | 10/22/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
+| 6/23/2022 | OCS14400 | Hate and Bias Crimes Training | Passed | 0.0 | 4.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
@@ -67,6 +63,7 @@
 | 10/15/2021 | OCS36185 | OSHA Protection Wildfire Smoke Training | Passed | 0.0 | 0.15 |
 | 10/12/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2021 | OCS19433 | September Monthly Firearms | Passed | 0.0 | 1.00 |
+| 9/22/2021 | OCS23059 | Critical Incident Stress Managament | Passed | 0.0 | 24.00 |
 | 8/31/2021 | OCS02026 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 8/30/2021 | OCS36108 | August monthly firearms | Passed | 0.0 | 1.00 |
 | 8/30/2021 | OCS29671 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |

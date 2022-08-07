@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/30/2022
+  course: PPP30349
+  title: Airway  Circulatory Crisis Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/13/2022
   course: PDS28073
   title: Civil Disturbance Training
@@ -68,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/31/2022
+  course: POP39338
+  title: Defensive Driving Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/22/2022
   course: PPP14364
   title: Street Survival Seminar
@@ -80,12 +92,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/28/2022
+  course: PPP19043
+  title: Emotional  Psychological Disorders 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/9/2022
   course: PPP10488
   title: First Aid/CPR/AED
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/31/2022
+  course: PPP44448
+  title: Emotional  Psychological Disorders 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/29/2022
   course: PPP25776
   title: Range
@@ -2227,10 +2251,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/9/2022
   expiration_date: 2/9/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/9/2022
-  expiration_date: 2/9/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -2239,18 +2259,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/20/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2002

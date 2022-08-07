@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 10/25/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 10/25/2021 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -64,6 +63,7 @@
 | 3/19/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
 | 3/17/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/1/2022 | F6R31745 | DID/SFST Hours Included in Basic | Passed | 0.0 | 24.00 |
+| 1/13/2022 | REG06674 | INTOX 8000 (hours included in Basic) | Passed | 0.0 | 8.00 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 10/21/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/21/2021 | PDP44558 | 2020-12 CAO Legal Updates for 12.2020-Updated | Passed | 0.0 | 0.25 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/3/2022 | Grants Pass Police Department | Resigned | Corporal |  |  |
 | 10/18/2016 | Grants Pass Police Department | Promotion | Corporal |  |  |
 | 1/10/2011 | Grants Pass Police Department | Hired | Police Off |  |  |
 | 1/1/2011 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -22,10 +23,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/31/2018 | Police Officer | Supervisory | Granted | 1/31/2018 |  |  |
-| 4/2/2012 | Police Officer | Advanced | Granted | 4/2/2012 |  |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 |  |  |
-| 2/27/2007 | Police Officer | Basic | Granted | 2/27/2007 |  |  |
+| 1/31/2018 | Police Officer | Supervisory | Granted | 1/31/2018 | 11/3/2022 |  |
+| 4/2/2012 | Police Officer | Advanced | Granted | 4/2/2012 | 11/3/2022 |  |
+| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 11/3/2022 |  |
+| 2/27/2007 | Police Officer | Basic | Granted | 2/27/2007 | 11/3/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

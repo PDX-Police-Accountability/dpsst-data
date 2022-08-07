@@ -378,6 +378,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 1/13/2022
+  course: REG06674
+  title: INTOX 8000 (hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/27/2021
   course: PDP27111
   title: WMD/Terrorism Awareness for Emergency Responders
@@ -433,10 +439,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/2/2021
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/2/2021

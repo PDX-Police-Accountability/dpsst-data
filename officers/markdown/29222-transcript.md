@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/19/2023 | GSP19639 | CPR and First Aid | Passed | 0.0 | 8.00 |
+| 7/20/2022 | OCS31790 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
+| 7/19/2022 | OCS00466 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
 | 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
 | 3/22/2022 | GSP17501 | TikTok for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/10/2022 | GSP09814 | Interview  Interrogation | Passed | 0.0 | 24.00 |

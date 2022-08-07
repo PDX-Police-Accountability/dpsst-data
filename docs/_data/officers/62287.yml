@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/1/2022
+  course: PDP29324
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/19/2022
+  course: PDP30803
+  title: General Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/18/2022
   course: PDP25507
   title: Post DPSST Firearms Training
@@ -97,10 +109,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/22/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/22/2022
