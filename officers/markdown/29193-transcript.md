@@ -4,7 +4,7 @@
 | name | Andrew, Rachel K. |
 | dpsst_identifier | 29193 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/21/2022 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 6/26/2008 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 11/1/2006 | Portland Police Bureau | Return LOA | Detective |  |  |
 | 10/11/2005 | Portland Police Bureau | LOA | Detective |  |  |
@@ -22,11 +23,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/5/2022 | Police Officer | Management | Granted | 5/5/2022 |  |  |
-| 5/5/2022 | Police Officer | Supervisory | Granted | 5/5/2022 |  |  |
-| 3/17/2011 | Police Officer | Advanced | Granted | 3/17/2011 |  |  |
-| 3/17/2011 | Police Officer | Intermediate | Granted | 3/17/2011 |  |  |
-| 12/28/1994 | Police Officer | Basic | Granted | 12/28/1994 |  |  |
+| 5/5/2022 | Police Officer | Management | Granted | 5/5/2022 | 10/21/2022 |  |
+| 5/5/2022 | Police Officer | Supervisory | Granted | 5/5/2022 | 10/21/2022 |  |
+| 3/17/2011 | Police Officer | Advanced | Granted | 3/17/2011 | 10/21/2022 |  |
+| 3/17/2011 | Police Officer | Intermediate | Granted | 3/17/2011 | 10/21/2022 |  |
+| 12/28/1994 | Police Officer | Basic | Granted | 12/28/1994 | 10/21/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -3,12 +3,18 @@ header_record:
   name: Moore, Nathan A.
   dpsst_identifier: '42576'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/14/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 11/21/2019
   agency: Portland Police Bureau
   action: Promotion
@@ -51,21 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 9/25/2020
-  expiration_date: ''
+  expiration_date: 10/14/2022
   probation_date: ''
 - status_date: 6/29/2017
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/29/2017
-  expiration_date: ''
+  expiration_date: 10/14/2022
   probation_date: ''
 - status_date: 10/27/2008
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/27/2008
-  expiration_date: ''
+  expiration_date: 10/14/2022
   probation_date: ''
 training_records:
 - date: 6/8/2022

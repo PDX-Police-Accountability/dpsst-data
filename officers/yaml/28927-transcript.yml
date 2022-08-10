@@ -49,18 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/25/2022
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 7/29/2022
   course: MKL03056
   title: Wildfire Smoke Training
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/10/2022
+  course: 22-0029
+  title: DPSST Supervision
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 6/2/2022
   course: MKL41204
   title: Use of Force / Defensive Tactics
@@ -73,12 +73,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 5/2/2022
-  course: 22-0029
-  title: DPSST Supervision
-  status: Registered
-  score: '0.0'
-  hours: '80.00'
 - date: 4/19/2022
   course: MKL29255
   title: Metrc RFID Training

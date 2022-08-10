@@ -3,12 +3,18 @@ header_record:
   name: Gradwahl, Chad E.
   dpsst_identifier: '35226'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/18/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/19/1998
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/4/2012
-  expiration_date: ''
+  expiration_date: 10/18/2022
   probation_date: ''
 - status_date: 10/4/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/4/2012
-  expiration_date: ''
+  expiration_date: 10/18/2022
   probation_date: ''
 - status_date: 12/29/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 12/29/1998
-  expiration_date: ''
+  expiration_date: 10/18/2022
   probation_date: ''
 training_records:
 - date: 5/9/2022

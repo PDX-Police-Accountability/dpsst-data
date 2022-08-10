@@ -35,6 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 6/8/2022
+  course: BVP25965
+  title: Assisting Individual  Group Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 2/2/2021
   course: BVP23816
   title: OSHA COVID-19 Training

@@ -4,7 +4,7 @@
 | name | Maul, John J. |
 | dpsst_identifier | 31386 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/25/2022 | Portland Police Bureau | Retired | Police Off |  |  |
 | 6/1/2017 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 2/23/2016 | Portland Police Bureau | LOA | Police Off |  |  |
 | 9/7/1995 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/23/2011 | Police Officer | Advanced | Granted | 2/23/2011 |  |  |
-| 10/9/2001 | Police Officer | Intermediate | Granted | 10/9/2001 |  |  |
-| 8/13/1996 | Police Officer | Basic | Granted | 8/13/1996 |  |  |
+| 2/23/2011 | Police Officer | Advanced | Granted | 2/23/2011 | 10/25/2022 |  |
+| 10/9/2001 | Police Officer | Intermediate | Granted | 10/9/2001 | 10/25/2022 |  |
+| 8/13/1996 | Police Officer | Basic | Granted | 8/13/1996 | 10/25/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

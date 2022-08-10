@@ -12,12 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/1/2022 | Clackamas County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 7/26/2021 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 2/5/2020 | Portland Police Bureau | Resigned | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/26/2021 | Police Officer | Basic | Required |  |  | 1/26/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

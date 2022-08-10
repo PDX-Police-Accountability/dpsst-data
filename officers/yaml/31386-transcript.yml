@@ -3,12 +3,18 @@ header_record:
   name: Maul, John J.
   dpsst_identifier: '31386'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/25/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/1/2017
   agency: Portland Police Bureau
   action: Return LOA
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/23/2011
-  expiration_date: ''
+  expiration_date: 10/25/2022
   probation_date: ''
 - status_date: 10/9/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/9/2001
-  expiration_date: ''
+  expiration_date: 10/25/2022
   probation_date: ''
 - status_date: 8/13/1996
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 8/13/1996
-  expiration_date: ''
+  expiration_date: 10/25/2022
   probation_date: ''
 training_records:
 - date: 6/12/2022

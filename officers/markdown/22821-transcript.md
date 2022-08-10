@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2022 | BVP25965 | Assisting Individual  Group Crisis Intervention | Passed | 0.0 | 27.00 |
 | 2/2/2021 | BVP23816 | OSHA COVID-19 Training | Passed | 0.0 | 0.50 |
 | 6/23/2020 | BVP42305 | Valuing Diversity | Passed | 0.0 | 0.75 |
 | 4/6/2020 | BVP33208 | Maintaining a Drug-Free Workplace | Passed | 0.0 | 0.75 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2022 | SVP36319 | Hazmat First Responder Awareness | Passed | 0.0 | 2.00 |
 | 7/20/2022 | SVP04681 | PIT Training | Instructed | 0.0 | 8.00 |
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/5/2022 | SVP38290 | Annual Narcan Training | Passed | 0.0 | 0.50 |

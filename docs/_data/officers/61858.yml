@@ -48,6 +48,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '200.00'
+- date: 7/27/2022
+  course: MFN17897
+  title: 'ACJI: 5 Dynamics of Effective Leadership'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/26/2022
   course: MFN22444
   title: Leading at Any Level

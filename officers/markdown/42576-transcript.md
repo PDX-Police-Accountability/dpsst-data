@@ -4,7 +4,7 @@
 | name | Moore, Nathan A. |
 | dpsst_identifier | 42576 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/14/2022 | Portland Police Bureau | Resigned | Detective |  |  |
 | 11/21/2019 | Portland Police Bureau | Promotion | Detective |  |  |
 | 5/17/2010 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
 | 4/5/2009 | Portland Police Bureau | Mil-LOA | Police Off |  |  |
@@ -21,9 +22,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2020 | Police Officer | Advanced | Granted | 9/25/2020 |  |  |
-| 6/29/2017 | Police Officer | Intermediate | Granted | 6/29/2017 |  |  |
-| 10/27/2008 | Police Officer | Basic | Granted | 10/27/2008 |  |  |
+| 9/25/2020 | Police Officer | Advanced | Granted | 9/25/2020 | 10/14/2022 |  |
+| 6/29/2017 | Police Officer | Intermediate | Granted | 6/29/2017 | 10/14/2022 |  |
+| 10/27/2008 | Police Officer | Basic | Granted | 10/27/2008 | 10/14/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

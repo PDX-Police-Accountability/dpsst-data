@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2022 | CIF07921 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/27/2022 | CIF11318 | Use of Force | Passed | 0.0 | 1.00 |
 | 7/22/2022 | CIF19753 | Professional Standards: Roles  Responsibilities | Passed | 0.0 | 1.00 |
 | 7/13/2022 | CIF15333 | Vehicle Pursuit Training | Passed | 0.0 | 1.00 |

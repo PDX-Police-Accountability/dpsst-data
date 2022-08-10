@@ -34,6 +34,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
+| 7/27/2022 | MFN17897 | ACJI: 5 Dynamics of Effective Leadership | Passed | 0.0 | 1.00 |
 | 7/26/2022 | MFN22444 | Leading at Any Level | Passed | 0.0 | 1.00 |
 | 7/20/2022 | MFN05513 | Teaching CBT'S/Setting Goals, Risks/Strengths | Passed | 0.0 | 2.00 |
 | 7/15/2022 | MFN20468 | Firearms Training: RDS Transition | Passed | 0.0 | 10.00 |

@@ -3,12 +3,18 @@ header_record:
   name: Christopher, Andrew J.
   dpsst_identifier: '31375'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/14/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/15/2001
   agency: Portland Police Bureau
   action: Hired
@@ -45,21 +51,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/3/2005
-  expiration_date: ''
+  expiration_date: 10/14/2022
   probation_date: ''
 - status_date: 10/26/1999
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/26/1999
-  expiration_date: ''
+  expiration_date: 10/14/2022
   probation_date: ''
 - status_date: 5/20/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/20/1998
-  expiration_date: ''
+  expiration_date: 10/14/2022
   probation_date: ''
 training_records:
 - date: 4/11/2022

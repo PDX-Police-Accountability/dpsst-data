@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2022
+  course: SVP36319
+  title: Hazmat First Responder Awareness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/20/2022
   course: SVP04681
   title: PIT Training

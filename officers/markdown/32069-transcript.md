@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2022 | BPT43449 | Weapon Retention, Weapon Control | Passed | 0.0 | 1.00 |
+| 7/25/2022 | BPT13873 | Ground Positional Control | Passed | 0.0 | 1.00 |
 | 7/13/2022 | SDP28878 | DUII Warrant Writing | Passed | 0.0 | 1.00 |
 | 7/13/2022 | SDP26239 | Tactical knife Defensive- Weapon Retention | Passed | 0.0 | 2.00 |
 | 7/13/2022 | SDP09898 | Oregon Humane Society- Animal Welfare Laws | Passed | 0.0 | 2.00 |

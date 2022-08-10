@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/28/2022
+  course: BPT43449
+  title: Weapon Retention, Weapon Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2022
+  course: BPT13873
+  title: Ground Positional Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/13/2022
   course: SDP28878
   title: DUII Warrant Writing

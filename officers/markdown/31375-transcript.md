@@ -4,7 +4,7 @@
 | name | Christopher, Andrew J. |
 | dpsst_identifier | 31375 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/14/2022 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/15/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/8/2001 | Sherwood Police Department | Resigned | Police Off |  |  |
 | 7/1/1997 | Sherwood Police Department | Hired | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/3/2005 | Police Officer | Advanced | Granted | 10/3/2005 |  |  |
-| 10/26/1999 | Police Officer | Intermediate | Granted | 10/26/1999 |  |  |
-| 5/20/1998 | Police Officer | Basic | Granted | 5/20/1998 |  |  |
+| 10/3/2005 | Police Officer | Advanced | Granted | 10/3/2005 | 10/14/2022 |  |
+| 10/26/1999 | Police Officer | Intermediate | Granted | 10/26/1999 | 10/14/2022 |  |
+| 5/20/1998 | Police Officer | Basic | Granted | 5/20/1998 | 10/14/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

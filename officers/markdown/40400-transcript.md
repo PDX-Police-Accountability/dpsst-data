@@ -4,7 +4,7 @@
 | name | Michaels, Michele R. |
 | dpsst_identifier | 40400 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/18/2022 | Portland Police Bureau | Retired | Detective |  |  |
 | 1/25/2007 | Portland Police Bureau | Promotion | Detective |  |  |
 | 1/18/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/5/2010 | Police Officer | Advanced | Granted | 1/5/2010 |  |  |
-| 12/22/2009 | Police Officer | Intermediate | Granted | 12/22/2009 |  |  |
-| 7/11/2002 | Police Officer | Basic | Granted | 7/11/2002 |  |  |
+| 1/5/2010 | Police Officer | Advanced | Granted | 1/5/2010 | 10/18/2022 |  |
+| 12/22/2009 | Police Officer | Intermediate | Granted | 12/22/2009 | 10/18/2022 |  |
+| 7/11/2002 | Police Officer | Basic | Granted | 7/11/2002 | 10/18/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
