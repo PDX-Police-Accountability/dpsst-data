@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/27/2022
+  course: PDP24393
+  title: CSM - Crisis/Hostage Negotiation Level 1
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/25/2022
   course: PDP03030
   title: Dir 0630.60, Vehicle Disposition and Impoundment

@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/2/2022
+  course: PDP30380
+  title: Control Tactics Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 5/16/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -4973,26 +4979,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
   expiration_date: 5/26/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/28/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/28/2009

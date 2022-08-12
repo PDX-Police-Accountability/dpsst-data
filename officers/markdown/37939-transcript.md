@@ -4,7 +4,7 @@
 | name | DeClercque, Bryan J. |
 | dpsst_identifier | 37939 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/29/2022 | Portland Police Bureau | Resigned | Detective |  |  |
 | 3/17/2014 | Portland Police Bureau | Promotion | Detective |  |  |
 | 11/30/2000 | Portland Police Bureau | Hired | Police Off |  |  |
 | 11/17/2000 | Police Corps Academy-Participant | Resigned | Cadet |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
-| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 |  |  |
-| 8/30/2001 | Police Officer | Basic | Granted | 8/30/2001 |  |  |
+| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 | 10/29/2022 |  |
+| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 | 10/29/2022 |  |
+| 8/30/2001 | Police Officer | Basic | Granted | 8/30/2001 | 10/29/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

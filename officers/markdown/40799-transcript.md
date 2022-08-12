@@ -4,7 +4,7 @@
 | name | Wolf, Kevin J. |
 | dpsst_identifier | 40799 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/25/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 5/24/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 |  |  |
-| 1/13/2011 | Police Officer | Advanced | Granted | 1/13/2011 |  |  |
-| 1/13/2011 | Police Officer | Intermediate | Granted | 1/13/2011 |  |  |
-| 12/18/2002 | Police Officer | Basic | Granted | 12/18/2002 |  |  |
+| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 | 10/25/2022 |  |
+| 1/13/2011 | Police Officer | Advanced | Granted | 1/13/2011 | 10/25/2022 |  |
+| 1/13/2011 | Police Officer | Intermediate | Granted | 1/13/2011 | 10/25/2022 |  |
+| 12/18/2002 | Police Officer | Basic | Granted | 12/18/2002 | 10/25/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

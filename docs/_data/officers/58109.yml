@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/27/2022
+  course: PDP24393
+  title: CSM - Crisis/Hostage Negotiation Level 1
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/8/2022
   course: PDP03522
   title: 2022 Queer Policy Pronouns

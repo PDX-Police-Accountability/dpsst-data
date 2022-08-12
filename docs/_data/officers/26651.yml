@@ -105,6 +105,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 5/5/2022
+  course: PDS03966
+  title: Use of Force for Supervisors
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/27/2022
   course: PDS04562
   title: Command Use of Force Reviews

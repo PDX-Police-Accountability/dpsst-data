@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/5/2022
+  course: PDP39781
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/13/2022
   course: PDP31347
   title: Crisis Negotiation Team Training

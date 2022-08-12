@@ -4,7 +4,7 @@
 | name | Sparling, Aaron A. |
 | dpsst_identifier | 45515 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/29/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/31/2005 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/12/2006 | Police Officer | Basic | Granted | 9/12/2006 |  |  |
+| 9/12/2006 | Police Officer | Basic | Granted | 9/12/2006 | 10/29/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

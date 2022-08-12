@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | 7/28/2022 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/28/2022 | SMS22986 | IALEFI- Master Instructor Development Program | Passed | 0.0 | 24.00 |
 | 5/20/2022 | PDS37106 | 2022 Basic Sniper School | Passed | 0.0 | 40.00 |
+| 5/5/2022 | PDS03966 | Use of Force for Supervisors | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDS17154 | CIT | Passed | 0.0 | 4.00 |
 | 5/2/2022 | PDS04018 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 3/30/2022 | PDS06415 | Patrol Unit Supervisor's Meeting | Passed | 0.0 | 2.00 |

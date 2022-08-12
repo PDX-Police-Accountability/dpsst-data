@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/2/2022
+  course: PDP30380
+  title: Control Tactics Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 5/25/2022
   course: ALP42345
   title: The C.A.L.M. Approach

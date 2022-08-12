@@ -180,6 +180,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/6/2022
+  course: PDP39616
+  title: Focused Intervention Team Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 1/2/2022
   course: PDP14510
   title: Directive 630.15 Foot Pursuits Video Part 2

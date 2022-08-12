@@ -4,7 +4,7 @@
 | name | Santos, Joseph P. |
 | dpsst_identifier | 29573 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/29/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 3/20/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/26/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/25/1996 | Clackamas County Sheriff's Office | Resigned | Dpty Shrf |  |  |
@@ -21,10 +22,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 |  |  |
-| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 |  |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 |  |  |
-| 7/28/1997 | Police Officer | Basic | Granted | 7/28/1997 |  |  |
+| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 | 10/29/2022 |  |
+| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 | 10/29/2022 |  |
+| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 10/29/2022 |  |
+| 7/28/1997 | Police Officer | Basic | Granted | 7/28/1997 | 10/29/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

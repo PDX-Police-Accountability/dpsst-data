@@ -33,7 +33,7 @@ training_records:
 - date: 12/12/2022
   course: M10-21A
   title: DPSST Basic Police Course
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '640.00'
 attribute_records: []

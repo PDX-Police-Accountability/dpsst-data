@@ -3,12 +3,18 @@ header_record:
   name: Santos, Joseph P.
   dpsst_identifier: '29573'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/29/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 3/20/2008
   agency: Portland Police Bureau
   action: Promotion
@@ -51,28 +57,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 10/29/2022
   probation_date: ''
 - status_date: 11/23/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 10/29/2022
   probation_date: ''
 - status_date: 11/23/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 10/29/2022
   probation_date: ''
 - status_date: 7/28/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 7/28/1997
-  expiration_date: ''
+  expiration_date: 10/29/2022
   probation_date: ''
 training_records:
 - date: 6/16/2022

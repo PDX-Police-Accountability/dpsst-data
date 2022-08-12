@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 10/27/2005 |  |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2022 | LOP16376 | Firearms Training | Passed | 0.0 | 4.00 |
+| 4/28/2022 | LOP33164 | LEP Policy 368  CPD Policy 370 Annual Review | Passed | 0.0 | 0.50 |
+| 4/28/2022 | LOP24922 | Body Camera Policy Briefing Training | Passed | 0.0 | 0.50 |
 | 4/25/2022 | LOP35972 | Defensive Tactics OC | Passed | 0.0 | 3.00 |
 | 3/30/2022 | LOP01809 | Legislative Update HB4008 Crowd Management | Passed | 0.0 | 0.50 |
 | 3/22/2022 | LOP31533 | OACP/OSSA Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |

@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/5/2021 | 5/5/2023 |
-| Certification Cards | First Aid and CPR | 5/5/2021 | 5/5/2023 |
-| Code of Ethics | Signed | 10/12/2000 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/26/2022 | PDS00250 | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
 | 5/5/2022 | PDS12331 | Traffic Incident Management | Passed | 0.0 | 2.00 |
+| 5/5/2022 | PDS38545 | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/23/2022 | PDS43691 | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
