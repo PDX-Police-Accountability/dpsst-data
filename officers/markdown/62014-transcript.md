@@ -65,6 +65,7 @@
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
+| 1/18/2022 | BPT29927 | RADAR-LIDAR Practical | Passed | 0.0 | 16.00 |
 | 1/13/2022 | PDP35600 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 4.00 |
 | 1/12/2022 | PDP38692 | RegJIN RMS/MRE Training | Passed | 0.0 | 18.00 |
 | 1/10/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

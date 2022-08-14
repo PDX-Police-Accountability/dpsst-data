@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/16/2020 | 9/16/2022 |
-| Certification Cards | First Aid and CPR | 9/16/2020 | 9/16/2022 |
-| Code of Ethics | Signed | 10/29/2010 |  |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2022 | HUP31112 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 8/9/2022 | SAG44131 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
 | 7/13/2022 | HUP26869 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |

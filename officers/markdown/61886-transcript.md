@@ -80,6 +80,7 @@
 | 1/23/2022 | PDP32763 | 2021-3 City Attorney's Legal Updates March 2021 | Passed | 0.0 | 0.50 |
 | 1/23/2022 | PDP39825 | 2021-11 Tips and Tech. Unlawful Street Takeover | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
+| 1/18/2022 | BPT29927 | RADAR-LIDAR Practical | Passed | 0.0 | 16.00 |
 | 1/13/2022 | PDP35600 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 4.00 |
 | 1/12/2022 | PDP38692 | RegJIN RMS/MRE Training | Passed | 0.0 | 18.00 |
 | 1/10/2022 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |

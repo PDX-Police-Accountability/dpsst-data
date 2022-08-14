@@ -324,6 +324,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.15'
+- date: 1/18/2022
+  course: BPT29927
+  title: RADAR-LIDAR Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/13/2022
   course: PDP35600
   title: WMD/Terrorism Awareness for Emergency Responders

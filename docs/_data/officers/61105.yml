@@ -78,6 +78,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/27/2022
+  course: CVS44559
+  title: WRAP - RESTRAINT CHAIR
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/27/2022
+  course: CVS02628
+  title: BATON
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/27/2022
+  course: CVS28901
+  title: KNIFE DEPLOYMENT AND DEFENSE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2022
   course: PDP41122
   title: DUII  DRE/DECP Training Conference

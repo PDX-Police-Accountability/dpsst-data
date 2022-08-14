@@ -5,13 +5,14 @@
 | dpsst_identifier | 54454 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/21/2022 | Portland Police Bureau | Promotion | Detective |  |  |
 | 5/28/2015 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/23/2015 | Benton County Sheriff's Office | Resigned | Reserve |  |  |
 | 7/7/2014 | Benton County Sheriff's Office | Hired | Reserve |  |  |
@@ -25,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 4/7/2021 | 4/7/2023 |
 | Certification Cards | First Aid and CPR | 4/7/2021 | 4/7/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 7/16/2015 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
 | date | degree | school | major | hours |

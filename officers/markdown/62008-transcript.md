@@ -78,6 +78,7 @@
 | 1/18/2022 | PDP07177 | 2021-7 City Attorney's Legal Updates for July 2021 | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP36236 | 2021-8 Tips and Techniques Ballot Measure 110 | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
+| 1/18/2022 | BPT29927 | RADAR-LIDAR Practical | Passed | 0.0 | 16.00 |
 | 1/13/2022 | PDP35600 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 4.00 |
 | 1/12/2022 | PDP38692 | RegJIN RMS/MRE Training | Passed | 0.0 | 18.00 |
 | 1/10/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |

@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/28/2022
+  course: PDP38616
+  title: SERT Firearms Training - Weapon Drills
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/21/2022
+  course: PDP37678
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/14/2022
+  course: PDP04644
+  title: Pedestrian/Vehicle Custody Missions etc.
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/4/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

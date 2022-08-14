@@ -44,6 +44,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.00'
+- date: 7/21/2022
+  course: PDP37678
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/14/2022
+  course: PDP04644
+  title: Pedestrian/Vehicle Custody Missions etc.
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/1/2022
   course: PDP18820
   title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
@@ -7121,26 +7133,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/30/2021
   expiration_date: 6/30/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/30/2021
-  expiration_date: 6/30/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/15/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2002
