@@ -48,6 +48,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '200.00'
+- date: 8/12/2022
+  course: MFN38311
+  title: CPR, AED and First Aid for Adults and Children
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/11/2022
+  course: MFN14301
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/11/2022
+  course: MFN00258
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/27/2022
   course: MFN17897
   title: 'ACJI: 5 Dynamics of Effective Leadership'
@@ -523,6 +541,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/12/2022
+  expiration_date: 8/12/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/28/2022

@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/12/2022
+  course: OCS22537
+  title: Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/9/2022
   course: LOP18296
   title: EVOC (Pursuit Driving, Use of Force)

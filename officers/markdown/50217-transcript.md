@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 9/1/2021 | Portland State University DPS | Retired | Police Off |  |  |
+| 10/1/2021 | Portland State University DPS | Retired | Police Off |  |  |
 | 1/1/2015 | Portland State University DPS | Hired | Police Off |  |  |
 | 2/25/2011 | Tigard Police Department | Discharged | Police Off |  |  |
 | 8/31/2010 | Tigard Police Department | Hired | Police Off |  |  |
@@ -21,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/1/2021 | Police Officer | Basic | Lapsed | 5/28/2015 | 9/1/2026 |  |
+| 1/1/2022 | Police Officer | Basic | Lapsed | 5/28/2015 | 10/1/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

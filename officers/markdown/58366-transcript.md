@@ -33,6 +33,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2022 | OSH35861 | Tactical Decision Making | Passed | 0.0 | 2.00 |
+| 8/5/2022 | OSH12992 | Critical Incident Response | Passed | 0.0 | 2.00 |
+| 8/4/2022 | OSH22121 | PL 280 | Passed | 0.0 | 4.00 |
+| 8/4/2022 | OSH08337 | De-Escalation/Verbal Judo | Passed | 0.0 | 1.50 |
+| 8/4/2022 | OSH10549 | De-Escalation of People in Crisis | Passed | 0.0 | 1.50 |
+| 8/3/2022 | OSH33705 | Resilience Training | Passed | 0.0 | 8.00 |
+| 8/2/2022 | OSH29508 | Police Accountability  Legal Updates | Passed | 0.0 | 8.00 |
 | 6/30/2022 | F6R32295 | PREA Online Training | Passed | 0.0 | 4.00 |
 | 6/7/2022 | F6R20897 | 2nd Trimester Firearms - Rifle | Passed | 0.0 | 8.00 |
 | 5/4/2022 | OSH17559 | Western States Hostage Negotiators' Assosciation | Passed | 0.0 | 20.00 |

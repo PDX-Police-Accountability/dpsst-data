@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/4/2022 | GLP08698 | Qual/Movement/Target Focus Shooting | Passed | 0.0 | 3.00 |
 | 4/12/2022 | GLP21351 | Adult/Child CPR/First Aid | Passed | 0.0 | 2.00 |
+| 4/12/2022 | OCS22537 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 9/9/2021 | F6E31333 | Taser Annual Recertification | Passed | 0.0 | 3.00 |

@@ -9,7 +9,7 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 9/1/2021
+- date: 10/1/2021
   agency: Portland State University DPS
   action: Retired
   rank: Police Off
@@ -46,12 +46,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/1/2021
+- status_date: 1/1/2022
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 5/28/2015
-  expiration_date: 9/1/2026
+  expiration_date: 10/1/2026
   probation_date: ''
 training_records:
 - date: 9/18/2021

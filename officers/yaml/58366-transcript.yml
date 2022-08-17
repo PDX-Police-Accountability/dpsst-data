@@ -36,6 +36,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/5/2022
+  course: OSH35861
+  title: Tactical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/5/2022
+  course: OSH12992
+  title: Critical Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/4/2022
+  course: OSH22121
+  title: PL 280
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/4/2022
+  course: OSH08337
+  title: De-Escalation/Verbal Judo
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/4/2022
+  course: OSH10549
+  title: De-Escalation of People in Crisis
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/3/2022
+  course: OSH33705
+  title: Resilience Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/2/2022
+  course: OSH29508
+  title: Police Accountability  Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/30/2022
   course: F6R32295
   title: PREA Online Training

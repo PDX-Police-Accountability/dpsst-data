@@ -12,7 +12,6 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 5/11/2022 | Clackamas County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 3/29/2021 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 3/28/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/10/2009 | Portland Police Bureau | Hired | Police Off |  |  |
