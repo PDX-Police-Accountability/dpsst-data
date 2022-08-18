@@ -42,12 +42,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/7/2022
+  course: PDP08674
+  title: Weapons Drills Handgun and AR 3-50 Yards
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/30/2022
+  course: PDP07658
+  title: Hostage Rescue  Breaching
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/27/2022
   course: ICE20832
   title: Firearms-Handgun and Rifle
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/23/2022
+  course: PDP32071
+  title: SERT/CNT/CIC Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/6/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -60,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/2/2022
+  course: PDP18361
+  title: Slow Clears  Search Warrant Entry Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/6/2022
   course: PDP18820
   title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info

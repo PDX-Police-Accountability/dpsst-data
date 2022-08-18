@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2022 | 21T002 | Corrections Field Training Manual | Completed | 0.0 | 50.00 |
 | 7/22/2022 | 22-0022 | Police to Corrections Certification Program | Passed | 0.0 | 80.00 |
 | 6/23/2022 | OSH24041 | Medicolegal Death Investigator In-Service | Passed | 0.0 | 1.50 |
 | 5/19/2022 | STS27683 | HB 2513 - Airway and Circulation Training | Passed | 0.0 | 2.00 |
@@ -58,7 +59,6 @@
 | 4/20/2022 | CVP04595 | Mass Casualty: Rapid Response to School Shooters | Passed | 0.0 | 8.00 |
 | 3/10/2022 | REG01795 | Critical Incident Management-First Line Supervisor | Passed | 0.0 | 32.00 |
 | 3/9/2022 | STS22301 | Taser X26P Re-Cert | Passed | 0.0 | 1.50 |
-| 1/29/2022 | 21T002 | Corrections Field Training Manual | Required | 0.0 | 50.00 |
 | 12/31/2021 | STS02380 | Lexipol Daily Training Bulletins | Passed | 0.0 | 12.00 |
 | 12/8/2021 | OSA14504 | Assessing Future Leaders | Passed | 0.0 | 4.00 |
 | 12/8/2021 | OSA07778 | Everything  Comes Down to Culture | Passed | 0.0 | 4.00 |

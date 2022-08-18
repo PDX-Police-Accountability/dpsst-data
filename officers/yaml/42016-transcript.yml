@@ -56,12 +56,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/7/2022
+  course: PDP08674
+  title: Weapons Drills Handgun and AR 3-50 Yards
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/30/2022
+  course: PDP07658
+  title: Hostage Rescue  Breaching
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/28/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/23/2022
+  course: PDP32071
+  title: SERT/CNT/CIC Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/6/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -74,6 +92,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/2/2022
+  course: PDP18361
+  title: Slow Clears  Search Warrant Entry Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/26/2022
+  course: PDP07292
+  title: Range Drills Handgun  Rifle
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/23/2022
   course: PDP18820
   title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info

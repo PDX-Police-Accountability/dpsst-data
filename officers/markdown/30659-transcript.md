@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2022 | PDS12287 | Use of Force Reports | Passed | 0.0 | 3.00 |
+| 5/12/2022 | PDS16493 | CIT | Passed | 0.0 | 4.00 |
 | 3/22/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/22/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |
 | 1/13/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |

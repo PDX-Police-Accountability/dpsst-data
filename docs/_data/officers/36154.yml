@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/5/2022
+  course: MFP38130
+  title: CNT and SWAT Hostage Scenario
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/17/2022
   course: MFP07975
   title: Assisting Individuals in Crisis/Group Crisis Int

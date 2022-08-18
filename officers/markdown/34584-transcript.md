@@ -35,9 +35,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Instructed | 0.0 | 9.00 |
+| 7/7/2022 | PDP08674 | Weapons Drills Handgun and AR 3-50 Yards | Passed | 0.0 | 9.00 |
+| 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Instructed | 0.0 | 9.00 |
+| 6/23/2022 | PDP32071 | SERT/CNT/CIC Scenario Training | Instructed | 0.0 | 0.00 |
 | 6/10/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/7/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/3/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Instructed | 0.0 | 9.00 |
 | 5/5/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/29/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/29/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |

@@ -42,6 +42,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2022
+  course: PDS12287
+  title: Use of Force Reports
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/12/2022
+  course: PDS16493
+  title: CIT
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/19/2022
   course: PDS19200
   title: Airway  Circulatory Crisis Training  Response

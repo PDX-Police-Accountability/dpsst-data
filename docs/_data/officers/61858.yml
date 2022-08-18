@@ -60,12 +60,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 8/11/2022
-  course: MFN00258
-  title: Firearms
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 7/27/2022
   course: MFN17897
   title: 'ACJI: 5 Dynamics of Effective Leadership'

@@ -39,8 +39,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/28/2022 | PDP38616 | SERT Firearms Training - Weapon Drills | Instructed | 0.0 | 9.00 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |
+| 7/7/2022 | PDP08674 | Weapons Drills Handgun and AR 3-50 Yards | Passed | 0.0 | 9.00 |
+| 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Passed | 0.0 | 9.00 |
+| 6/23/2022 | PDP32071 | SERT/CNT/CIC Scenario Training | Instructed | 0.0 | 0.00 |
 | 6/22/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/22/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Instructed | 0.0 | 9.00 |
+| 5/26/2022 | PDP07292 | Range Drills Handgun  Rifle | Instructed | 0.0 | 9.00 |
 | 5/20/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/20/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/9/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

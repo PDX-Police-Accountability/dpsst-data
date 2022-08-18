@@ -36,7 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/22/2022 | HBS02936 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
+| 7/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 7/6/2022 | HBS07135 | Crash Investigation Scenarios | Passed | 0.0 | 4.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
 | 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Instructed | 0.0 | 40.00 |

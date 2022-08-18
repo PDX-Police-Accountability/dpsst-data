@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 8/5/2022 | MFP38130 | CNT and SWAT Hostage Scenario | Passed | 0.0 | 7.00 |
 | 6/17/2022 | MFP07975 | Assisting Individuals in Crisis/Group Crisis Int | Passed | 0.0 | 32.00 |
 | 5/20/2022 | MFP09166 | 2022 Annual Rifle Qualification | Passed | 0.0 | 0.75 |
 | 5/20/2022 | MFP42897 | 2022 Annual Qualification/Handgun | Passed | 0.0 | 1.50 |

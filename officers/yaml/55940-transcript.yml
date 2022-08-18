@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/2/2022
+  course: PDP18361
+  title: Slow Clears  Search Warrant Entry Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/13/2022
   course: PDP23522
   title: 2022 Queer Policy - Policy Scenarios
