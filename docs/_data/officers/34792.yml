@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/1/2022
+  course: TAP27190
+  title: '3 Ways to Fight the #1 Killer of First Responders'
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 4/12/2022
   course: ADP30708
   title: Crime Scene Investigation

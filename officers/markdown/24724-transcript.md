@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2022 | FGP44281 | Assisting Individuals and Groups in Crisis | Passed | 0.0 | 27.00 |
 | 6/1/2022 | FGP33110 | Command Staff Prioritze Officer Wellness | Passed | 0.0 | 2.00 |
 | 5/26/2022 | HBP18130 | Big Picture: LE and HR Performance | Passed | 0.0 | 2.00 |
 | 5/18/2022 | FGP22428 | Emotional Intelligence in Public Safety | Passed | 0.0 | 1.00 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/6/2022 | Lake Oswego Police Department | Hired | Chief |  |  |
 | 1/3/2017 | Salem Police Department | Hired | Dpty Chief |  |  |
 | 12/27/2016 | Portland Police Bureau | Resigned | Commander |  |  |
 | 2/21/2013 | Portland Police Bureau | Promotion | Commander |  |  |

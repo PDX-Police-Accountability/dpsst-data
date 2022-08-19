@@ -38,8 +38,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
 | 6/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 6/15/2022 | HBS41983 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |
 | 6/14/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 6/14/2022 | HBS31785 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |
 | 6/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 6/13/2022 | HBS39267 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |
 | 6/12/2022 | HBS14886 | Basic Patrol Rifle Operator School | Passed | 0.0 | 9.00 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
 | 5/13/2022 | HDA18610 | Criminal Gang Investigations | Passed | 0.0 | 24.00 |

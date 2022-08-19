@@ -177,6 +177,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/8/2022
+  course: PDP32624
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/7/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021

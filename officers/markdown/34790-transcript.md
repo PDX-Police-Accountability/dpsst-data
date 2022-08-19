@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2022 | PDS26338 | Use of Force Reports | Passed | 0.0 | 3.00 |
+| 5/19/2022 | PDS42378 | CIT | Passed | 0.0 | 4.00 |
+| 5/19/2022 | PDS27258 | Evidence Collection | Passed | 0.0 | 2.00 |
 | 3/21/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/3/2022 | LOP22709 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/10/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |

@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 7/22/2022
+  course: HBS27202
+  title: Practical Shooting Incident Reconstruction
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/29/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

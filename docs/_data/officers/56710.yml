@@ -61,15 +61,33 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/15/2022
+  course: HBS41983
+  title: Basic Patrol Rifle Operator School
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/14/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/14/2022
+  course: HBS31785
+  title: Basic Patrol Rifle Operator School
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/13/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/13/2022
+  course: HBS39267
+  title: Basic Patrol Rifle Operator School
   status: Passed
   score: '0.0'
   hours: '8.00'

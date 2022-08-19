@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2022 | PDS27258 | Evidence Collection | Passed | 0.0 | 2.00 |
+| 5/19/2022 | PDS26338 | Use of Force Reports | Passed | 0.0 | 3.00 |
+| 5/19/2022 | PDS42378 | CIT | Passed | 0.0 | 4.00 |
+| 5/16/2022 | PDS28975 | Drug Investigations | Passed | 0.0 | 2.00 |
 | 3/30/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/30/2022 | PDS25612 | Narcan Training | Passed | 0.0 | 1.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

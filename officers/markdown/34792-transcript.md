@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2022 | TAP27190 | 3 Ways to Fight the #1 Killer of First Responders | Passed | 0.0 | 1.25 |
 | 4/12/2022 | ADP30708 | Crime Scene Investigation | Passed | 0.0 | 1.00 |
 | 4/12/2022 | ADP39215 | Cops/Firefighters-How to Help Each Other | Passed | 0.0 | 1.00 |
 | 4/8/2022 | ADP37728 | Less Lethal Shotgun and Ballistic Shield Refresher | Passed | 0.0 | 3.00 |

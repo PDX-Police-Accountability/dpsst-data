@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/10/2022
+  course: FGP44281
+  title: Assisting Individuals and Groups in Crisis
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 6/1/2022
   course: FGP33110
   title: Command Staff Prioritze Officer Wellness

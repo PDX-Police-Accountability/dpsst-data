@@ -87,6 +87,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/17/2022
+  course: PDS39883
+  title: CIT
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/17/2022
+  course: PDS19960
+  title: Use of Force Reports
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/19/2022
   course: PDS19200
   title: Airway  Circulatory Crisis Training  Response

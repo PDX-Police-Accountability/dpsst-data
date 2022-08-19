@@ -118,6 +118,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 5/24/2022
+  course: PDS42809
+  title: Civil Disturbance Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/18/2022
+  course: PDS13529
+  title: CIT
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/28/2022
   course: PDS15258
   title: CIT IDC
