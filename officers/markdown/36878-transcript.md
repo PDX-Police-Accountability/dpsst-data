@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/25/2022 | 2/14/2024 |
-| Certification Cards | First Aid and CPR | 2/25/2022 | 2/14/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 6/16/2008 |  |
 | Code of Ethics | Signed | 6/16/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2022 | BVP16514 | ACAP and Duty to Intervene CT Scenarios | Passed | 0.0 | 1.00 |
+| 6/21/2022 | BVP15467 | Handgun and Rifle Qual June IST 2022 | Passed | 0.0 | 4.00 |
+| 6/21/2022 | BVP28630 | Control Tactics June IST | Passed | 0.0 | 2.00 |
+| 6/21/2022 | BVP28765 | Blood Draw Warrant   Search Warrant Review | Passed | 0.0 | 2.00 |
 | 3/31/2022 | BVP23617 | Officer Wellness | Instructed | 0.0 | 2.00 |
 | 3/26/2022 | BVP35408 | Blood Draw  Vehicle Extractions HB 4301 | Passed | 0.0 | 0.50 |
 | 3/26/2022 | BVP21253 | Blood Draw  Vehicle Extractions Control Tactics | Passed | 0.0 | 2.00 |

@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,8 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/19/2023 | GSP19639 | CPR and First Aid | Passed | 0.0 | 8.00 |
-| 7/20/2022 | OCS31790 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
-| 7/19/2022 | OCS00466 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
+| 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
+| 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
 | 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
 | 3/22/2022 | GSP17501 | TikTok for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/10/2022 | GSP09814 | Interview  Interrogation | Passed | 0.0 | 24.00 |
@@ -56,7 +52,6 @@
 | 1/13/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2021 | 21-CVDL3 | 2021 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/16/2021 | GSP12908 | 2021 Mental Health In Service | Passed | 0.0 | 1.00 |
-| 12/16/2021 | GSP14150 | Analystical Tradecraft for Law Enforcement Agents | Passed | 0.0 | 1.00 |
 | 12/16/2021 | GSP43246 | Analystical Tradecraft for Law Enforcement Agents | Passed | 0.0 | 1.00 |
 | 12/15/2021 | GSP40825 | 2021 Ethics In Service | Passed | 0.0 | 1.00 |
 | 12/6/2021 | GSP23680 | 2021 Fall Rifle In Service | Passed | 0.0 | 10.00 |

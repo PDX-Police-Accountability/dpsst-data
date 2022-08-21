@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/22/2008 |  |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/10/2022 | FGP44281 | Assisting Individuals and Groups in Crisis | Passed | 0.0 | 27.00 |
+| 7/28/2022 | FGP16614 | Bloodborne | Passed | 0.0 | 1.00 |
+| 7/28/2022 | FGP07221 | HazMat | Passed | 0.0 | 1.00 |
 | 6/1/2022 | FGP33110 | Command Staff Prioritze Officer Wellness | Passed | 0.0 | 2.00 |
 | 5/26/2022 | HBP18130 | Big Picture: LE and HR Performance | Passed | 0.0 | 2.00 |
 | 5/18/2022 | FGP22428 | Emotional Intelligence in Public Safety | Passed | 0.0 | 1.00 |

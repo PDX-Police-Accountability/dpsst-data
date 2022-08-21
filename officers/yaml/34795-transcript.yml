@@ -69,6 +69,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/30/2022
+  course: OCS08007
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2022
+  course: OCS17591
+  title: Spring Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/3/2022
   course: OCS03360
   title: HB 2513 Airway and Circulation
@@ -4916,10 +4928,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/25/2022
   expiration_date: 3/25/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -4928,18 +4936,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/10/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/10/2004

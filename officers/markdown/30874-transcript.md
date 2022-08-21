@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 9/17/2021 | 9/17/2023 |
-| Certification Cards | First Aid and CPR | 9/17/2021 | 9/17/2023 |
-| Code of Ethics | Signed | 11/29/2010 |  |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2022 | FGP16614 | Bloodborne | Passed | 0.0 | 1.00 |
+| 7/28/2022 | FGP07221 | HazMat | Passed | 0.0 | 1.00 |
 | 6/2/2022 | PDP17244 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 5/2/2022 | FGP41559 | Semi-Annual Firearms Training | Passed | 0.0 | 4.00 |
 | 4/19/2022 | FGP17600 | Patrol Tactics/Building Search Con Sim | Passed | 0.0 | 1.00 |

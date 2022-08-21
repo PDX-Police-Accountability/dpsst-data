@@ -88,6 +88,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 7/27/2022
+  course: PSU33623
+  title: NOBLE Training Confrence 2022
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 6/30/2022
+  course: PSU27944
+  title: IACLEA 2022 Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/18/2022
   course: PSU25775
   title: CPR/AED  First Aid
@@ -1893,18 +1905,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/18/2022
   expiration_date: 5/18/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/18/2022
-  expiration_date: 5/18/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
