@@ -31,6 +31,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2022 | DAS29574 | Drug and Alcohol Abuse | Passed | 0.0 | 1.00 |
+| 6/30/2022 | DAS30445 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
+| 6/30/2022 | DAS41449 | ADA Training | Passed | 0.0 | 1.00 |
+| 6/30/2022 | DAS23024 | Preventing Sexual Harassment | Passed | 0.0 | 1.00 |
+| 6/30/2022 | DAS04901 | PREA Brochure Training | Passed | 0.0 | 1.00 |
+| 6/30/2022 | DAS07173 | Fire Extinguisher Training | Passed | 0.0 | 1.00 |
 | 3/31/2022 | F6R13584 | Duty to Intercede | Passed | 0.0 | 1.50 |
 | 3/31/2022 | F6R02316 | Jail Policy Review | Passed | 0.0 | 1.00 |
 | 3/31/2022 | F6R14512 | Policy 600 Review Security and Control | Passed | 0.0 | 1.00 |

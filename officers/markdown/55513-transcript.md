@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2022 | BVP16514 | ACAP and Duty to Intervene CT Scenarios | Passed | 0.0 | 1.00 |
+| 6/17/2022 | BVP15467 | Handgun and Rifle Qual June IST 2022 | Passed | 0.0 | 4.00 |
+| 6/17/2022 | BVP28630 | Control Tactics June IST | Passed | 0.0 | 2.00 |
+| 6/17/2022 | BVP28765 | Blood Draw Warrant   Search Warrant Review | Passed | 0.0 | 2.00 |
 | 4/1/2022 | BVP35408 | Blood Draw  Vehicle Extractions HB 4301 | Passed | 0.0 | 0.50 |
 | 4/1/2022 | BVP21253 | Blood Draw  Vehicle Extractions Control Tactics | Passed | 0.0 | 2.00 |
 | 4/1/2022 | BVP27801 | Taser Recertification | Passed | 0.0 | 2.00 |

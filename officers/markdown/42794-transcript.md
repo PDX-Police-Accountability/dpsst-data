@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,10 +41,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2022 | OCS07092 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
+| 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 7/25/2022 | OCS30020 | Shotgun Orientation Training | Instructed | 0.0 | 2.00 |
-| 7/22/2022 | OCS18139 | Balance speed/marksmanship, one hand shooting | Instructed | 0.0 | 2.00 |
-| 7/20/2022 | OCS31790 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
-| 7/19/2022 | OCS00466 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
+| 7/22/2022 | OCS12091 | Balance speed/marksmanship, one hand shooting | Instructed | 0.0 | 2.00 |
+| 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
+| 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
+| 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/27/2022 | OCS41952 | K9 Firearms - MILO and live fire | Instructed | 0.0 | 2.00 |
 | 6/22/2022 | OCS20615 | Target ID Marksmanship and Annual Qualifications | Instructed | 0.0 | 2.00 |
 | 6/10/2022 | OCS31761 | SWAT - Marksmanship Keyhole Shooting | Instructed | 0.0 | 3.00 |

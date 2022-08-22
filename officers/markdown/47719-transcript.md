@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 2/17/2022 | 2/17/2024 |
 | Certification Cards | First Aid and CPR | 2/17/2022 | 2/17/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 2/8/2007 |  |
 | Code of Ethics | Signed | 2/8/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2022 | BVP16514 | ACAP and Duty to Intervene CT Scenarios | Passed | 0.0 | 1.00 |
+| 6/16/2022 | BVP15467 | Handgun and Rifle Qual June IST 2022 | Passed | 0.0 | 4.00 |
+| 6/16/2022 | BVP28630 | Control Tactics June IST | Passed | 0.0 | 2.00 |
+| 6/16/2022 | BVP28765 | Blood Draw Warrant   Search Warrant Review | Passed | 0.0 | 2.00 |
 | 5/13/2022 | VND12621 | Crisis Intervention Team Training | Passed | 0.0 | 40.00 |
 | 4/25/2022 | BVP43326 | Bicycle Re-Certification | Instructed | 0.0 | 30.00 |
 | 3/31/2022 | BVP35408 | Blood Draw  Vehicle Extractions HB 4301 | Passed | 0.0 | 0.50 |

@@ -48,6 +48,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2022
+  course: BVP16514
+  title: ACAP and Duty to Intervene CT Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/17/2022
+  course: BVP15467
+  title: Handgun and Rifle Qual June IST 2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/17/2022
+  course: BVP28630
+  title: Control Tactics June IST
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/17/2022
+  course: BVP28765
+  title: Blood Draw Warrant   Search Warrant Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2022
   course: BVP35408
   title: Blood Draw  Vehicle Extractions HB 4301

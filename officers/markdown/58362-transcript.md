@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
+| 6/30/2022 | OCS21814 | Ground Fightint | Passed | 0.0 | 1.00 |
+| 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 5/27/2022 | OCS39091 | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/4/2022 | F6R00500 | EVOC and PIT | Passed | 0.0 | 0.50 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |

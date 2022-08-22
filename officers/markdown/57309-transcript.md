@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
+| 6/30/2022 | OCS21814 | Ground Fightint | Passed | 0.0 | 1.00 |
+| 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/3/2022 | OCS10265 | SWAT firearms | Passed | 0.0 | 10.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Passed | 0.0 | 32.00 |

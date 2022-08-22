@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/30/2022
+  course: OCS12963
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: OCS21814
+  title: Ground Fightint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: OCS08007
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/27/2022
   course: OCS28257
   title: SFST Refresher
@@ -888,18 +906,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/30/2022
-  expiration_date: 3/30/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/30/2022
@@ -909,20 +915,8 @@ attribute_records:
   effective_date: 1/11/2021
   expiration_date: ''
 - topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/11/2021
-  expiration_date: ''
-- topic: Code of Ethics
   value: Telecommunication Signed
   effective_date: 7/28/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Telecommunication Signed
-  effective_date: 7/28/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/15/2012
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed
