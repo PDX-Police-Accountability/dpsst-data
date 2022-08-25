@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2022 | PSU10134 | HB 2513 Airway, Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 7/15/2022 | VND13388 | FTEP | Passed | 0.0 | 24.00 |
 | 6/24/2022 | PSU17815 | First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 6/21/2022 | PSU23792 | Speed/Multiple Targets/Marksmanship/Qualification | Passed | 0.0 | 1.50 |

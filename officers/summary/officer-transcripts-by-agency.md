@@ -1,6 +1,9 @@
 ## Transcripts (sorted by agency)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
+| * MISSING | 27189 |  |  |  |  |  | [md](../markdown/27189-transcript.md) - [yaml](../yaml/27189-transcript.yml) |
+| * MISSING | 44735 |  |  |  |  |  | [md](../markdown/44735-transcript.md) - [yaml](../yaml/44735-transcript.yml) |
+| * MISSING | 44841 |  |  |  |  |  | [md](../markdown/44841-transcript.md) - [yaml](../yaml/44841-transcript.yml) |
 | Smith, Stephen J. | 10762 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2007-01-05 | [md](../markdown/10762-transcript.md) - [yaml](../yaml/10762-transcript.yml) |
 | McGranahan, Thomas T., Jr. | 10949 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2012-06-06 | [md](../markdown/10949-transcript.md) - [yaml](../yaml/10949-transcript.yml) |
 | Bottcher, Steven L. | 11274 | Portland Police Bureau | Inactive | Sergeant | Retired | 2007-08-22 | [md](../markdown/11274-transcript.md) - [yaml](../yaml/11274-transcript.yml) |
@@ -260,7 +263,6 @@
 | Winter, Mace R. | 26981 | Portland Police Bureau | Inactive | Detective | Retired | 2018-09-20 | [md](../markdown/26981-transcript.md) - [yaml](../yaml/26981-transcript.yml) |
 | Duckworth, Connie F. | 27087 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2016-01-29 | [md](../markdown/27087-transcript.md) - [yaml](../yaml/27087-transcript.yml) |
 | Chong, Tom T. | 27167 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-14 | [md](../markdown/27167-transcript.md) - [yaml](../yaml/27167-transcript.yml) |
-| Rohrbach, Tori L. | 27189 | Portland Police Bureau | Active | Civilian Employee | Hired | 1992-05-26 | [md](../markdown/27189-transcript.md) - [yaml](../yaml/27189-transcript.yml) |
 | Slater, Mark E. | 27192 | Portland Police Bureau | Inactive | Detective | Retired | 2020-09-01 | [md](../markdown/27192-transcript.md) - [yaml](../yaml/27192-transcript.yml) |
 | Sitton, Brian A. | 27241 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-07 | [md](../markdown/27241-transcript.md) - [yaml](../yaml/27241-transcript.yml) |
 | Shearer, Andrew T. | 27242 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2020-08-03 | [md](../markdown/27242-transcript.md) - [yaml](../yaml/27242-transcript.yml) |
@@ -893,9 +895,7 @@
 | Schmautz, Aaron M. | 44627 | Portland Police Bureau | Active | Sergeant | Promotion | 2015-05-28 | [md](../markdown/44627-transcript.md) - [yaml](../yaml/44627-transcript.yml) |
 | Webber, Joseph F. | 44629 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-10 | [md](../markdown/44629-transcript.md) - [yaml](../yaml/44629-transcript.yml) |
 | Worthington, Jason A. | 44630 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-10 | [md](../markdown/44630-transcript.md) - [yaml](../yaml/44630-transcript.yml) |
-| Bruner-Dehnert, Amy L. | 44735 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2010-03-01 | [md](../markdown/44735-transcript.md) - [yaml](../yaml/44735-transcript.yml) |
 | Laws, Jared K. | 44738 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2010-03-31 | [md](../markdown/44738-transcript.md) - [yaml](../yaml/44738-transcript.yml) |
-| Funkhouser, Jonithan L., Jr. | 44841 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2005-10-17 | [md](../markdown/44841-transcript.md) - [yaml](../yaml/44841-transcript.yml) |
 | Stowe, Randy D. | 44844 | Portland Police Bureau | Active | Police Officer | Hired | 2008-05-15 | [md](../markdown/44844-transcript.md) - [yaml](../yaml/44844-transcript.yml) |
 | Allen, Kevin W. | 45001 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-05-04 | [md](../markdown/45001-transcript.md) - [yaml](../yaml/45001-transcript.yml) |
 | Ciri, Jeffrey T. | 45002 | Portland Police Bureau | Active | Police Officer | Reclassed | 2009-10-29 | [md](../markdown/45002-transcript.md) - [yaml](../yaml/45002-transcript.yml) |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/11/2022
+  course: VND40322
+  title: Open Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/20/2022
   course: PDP15790
   title: Focused Intervention Team Firearms Training

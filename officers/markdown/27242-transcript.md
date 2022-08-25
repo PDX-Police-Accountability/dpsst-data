@@ -44,9 +44,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2022 | ICE16086 | Patient Evaluation for Law Enforcement-HB 2513 | Passed | 0.0 | 1.75 |
 | 6/27/2022 | ICE20832 | Firearms-Handgun and Rifle | Passed | 0.0 | 4.00 |
+| 5/31/2022 | ICE24801 | Less Lethal-PepperBall | Passed | 0.0 | 1.00 |
+| 5/19/2022 | ICE01150 | Senate Bill 1510 Update | Passed | 0.0 | 0.50 |
 | 5/18/2022 | F1519773 | One Chiefs Experience Leading NYPD | Passed | 0.0 | 2.00 |
 | 5/11/2022 | ICE15251 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 3.00 |
+| 4/16/2022 | ICE32474 | Ethics-Duty to Intercede | Passed | 0.0 | 1.00 |
 | 3/29/2022 | ICE11766 | Firearms | Passed | 0.0 | 4.00 |
 | 3/28/2022 | ICE18493 | Annual Taser Certification | Passed | 0.0 | 1.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |

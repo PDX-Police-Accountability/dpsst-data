@@ -107,12 +107,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2022
+  course: ICE16086
+  title: Patient Evaluation for Law Enforcement-HB 2513
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 6/27/2022
   course: ICE20832
   title: Firearms-Handgun and Rifle
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/31/2022
+  course: ICE24801
+  title: Less Lethal-PepperBall
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2022
+  course: ICE01150
+  title: Senate Bill 1510 Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/18/2022
   course: F1519773
   title: One Chiefs Experience Leading NYPD
@@ -125,6 +143,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/16/2022
+  course: ICE32474
+  title: Ethics-Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/29/2022
   course: ICE11766
   title: Firearms

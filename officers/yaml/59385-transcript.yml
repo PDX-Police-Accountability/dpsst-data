@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2022
+  course: PSU10134
+  title: HB 2513 Airway, Circulatory Anatomy Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/15/2022
   course: VND13388
   title: FTEP

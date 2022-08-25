@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: 2/10/2023
 training_records:
+- date: 8/19/2022
+  course: PSU10134
+  title: HB 2513 Airway, Circulatory Anatomy Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/27/2022
   course: PSU33623
   title: NOBLE Training Confrence 2022

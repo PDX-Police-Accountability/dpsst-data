@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
 | 7/24/2022 | PDP15790 | Focused Intervention Team Firearms Training | Passed | 0.0 | 5.00 |
 | 6/30/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |

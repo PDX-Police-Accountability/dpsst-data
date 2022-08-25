@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
 | 2/22/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/21/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/1/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |

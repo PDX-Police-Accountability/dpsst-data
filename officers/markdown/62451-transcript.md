@@ -28,8 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/12/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 6/16/2022 | F6R07258 | INTOX 8000 - Hours included in Basic | Passed | 0.0 | 6.00 |
-| 4/18/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Passed | 0.0 | 5.00 |
 | 4/13/2022 | PDP03211 | LEDS certfication class | Passed | 0.0 | 5.00 |
 | 4/12/2022 | PDP07499 | ICS 100 | Passed | 0.0 | 3.00 |

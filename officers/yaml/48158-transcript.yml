@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/12/2022
+  course: PDP14737
+  title: Sport  Special Event Risk Management  Assessment
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 5/11/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -81,12 +87,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/10/2022
+  course: PDP01658
+  title: Sport and Special Event Risk Management
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/4/2022
   course: PDP18820
   title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/25/2022
+  course: PDP42595
+  title: Redefine Police to Affirm and Instill Human Rights
+  status: Passed
+  score: '0.0'
+  hours: '34.00'
 - date: 4/5/2022
   course: PDP21588
   title: 2022 PIT and Ramming
@@ -117,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/18/2022
+  course: PDP03998
+  title: NIMS ICS All-Hazards Planning Section Chief
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 3/8/2022
   course: PDP10575
   title: 2022 EAP-Crisis Planning
