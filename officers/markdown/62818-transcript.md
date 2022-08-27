@@ -29,3 +29,4 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/15/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 8/8/2022 | PDP15565 | Policy and Procedure Training | Passed | 0.0 | 7.00 |

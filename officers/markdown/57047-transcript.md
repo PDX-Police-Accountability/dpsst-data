@@ -34,8 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
-| 7/22/2022 | HBS27202 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
+| 8/12/2022 | PDP05040 | Scientific Basics of Fingerprints | Passed | 0.0 | 22.50 |
 | 7/22/2022 | PDP30357 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 6/29/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/21/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

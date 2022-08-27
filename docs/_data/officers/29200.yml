@@ -70,6 +70,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/27/2022
+  course: PDS06193
+  title: Civil Process
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/27/2022
+  course: PDS34931
+  title: ICS-800
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/26/2022
+  course: PDS13285
+  title: Homeless Outreach Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/10/2022
   course: PDP17743
   title: 2021-8 City Attorney's Legal Updates - Aug. 2021
@@ -4083,14 +4101,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/10/2021
   expiration_date: 5/10/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/10/2021
-  expiration_date: 5/10/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/10/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/10/2008

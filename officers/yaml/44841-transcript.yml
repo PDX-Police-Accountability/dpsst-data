@@ -68,12 +68,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/27/2022
+  course: LOP23182
+  title: Device  Conquer
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/25/2022
   course: LOP35972
   title: Defensive Tactics OC
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/21/2022
+  course: LOP07568
+  title: Creating Cellular Analysis Report
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/30/2022
   course: LOP01809
   title: Legislative Update HB4008 Crowd Management
@@ -176,6 +188,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/21/2021
+  course: LOP03426
+  title: Revival Series-ATT Carrier Breakdown
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2021
+  course: LOP02540
+  title: Cat/Mouse Game w/Mobile Forensics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/12/2021
   course: LOP31272
   title: Karly's Law, Age Appropriate Interviewing
@@ -230,18 +254,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/27/2021
+  course: LOP17805
+  title: Snapchat - A False Sense of Security
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2021
+  course: LOP21495
+  title: SQLite Survival Series Part II
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/25/2021
   course: LOP29932
   title: Firearms
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/13/2021
+  course: LOP06236
+  title: Integration/Validation of Third Party Tool AXIOM
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2021
+  course: LOP39176
+  title: Protobuf Expert
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/7/2021
   course: LOP20948
   title: Mental Health/Crisis Intervention
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/6/2021
+  course: LOP40096
+  title: Introducing Magnet AXIOM 5.0
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/29/2021
+  course: LOP01596
+  title: SQLite Survival Series Part I
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/13/2021
   course: LOP40066
   title: Tactical Medical Refresher
@@ -2489,26 +2549,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/23/2021
   expiration_date: 11/30/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/23/2021
-  expiration_date: 11/30/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/27/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/27/2005

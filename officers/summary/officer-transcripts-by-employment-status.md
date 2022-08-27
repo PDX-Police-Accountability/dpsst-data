@@ -1,6 +1,7 @@
 ## Transcripts (sorted by employment status)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
+| * MISSING | 12418 |  |  |  |  |  | [md](../markdown/12418-transcript.md) - [yaml](../yaml/12418-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Courtney, Lynn R. | 13609 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-09 | [md](../markdown/13609-transcript.md) - [yaml](../yaml/13609-transcript.yml) |
 | Towle, Cordes K. | 13923 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-23 | [md](../markdown/13923-transcript.md) - [yaml](../yaml/13923-transcript.yml) |
@@ -900,7 +901,6 @@
 | Larson, Thomas L. | 11913 | Portland Police Bureau | Inactive | Police Officer | Retired | 2016-10-27 | [md](../markdown/11913-transcript.md) - [yaml](../yaml/11913-transcript.yml) |
 | Brown, Charles M. | 11925 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/11925-transcript.md) - [yaml](../yaml/11925-transcript.yml) |
 | Lucich, Rod H. | 12241 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2008-06-30 | [md](../markdown/12241-transcript.md) - [yaml](../yaml/12241-transcript.yml) |
-| Kelley, Denney C. | 12418 | Portland Police Bureau | Inactive | Sergeant | Retired | 2009-07-12 | [md](../markdown/12418-transcript.md) - [yaml](../yaml/12418-transcript.yml) |
 | Butler, John R. | 12828 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/12828-transcript.md) - [yaml](../yaml/12828-transcript.yml) |
 | Brant, Linda E. | 13490 | Portland Police Bureau | Inactive | Civilian Employee | Deceased | 2016-11-04 | [md](../markdown/13490-transcript.md) - [yaml](../yaml/13490-transcript.yml) |
 | Trimpler, Harry J. | 13622 | Portland Police Bureau | Inactive | Detective | Retired | 2012-10-24 | [md](../markdown/13622-transcript.md) - [yaml](../yaml/13622-transcript.yml) |

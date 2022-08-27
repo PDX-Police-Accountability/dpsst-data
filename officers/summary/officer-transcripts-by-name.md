@@ -1,6 +1,7 @@
 ## Transcripts (sorted by name)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
+| * MISSING | 12418 |  |  |  |  |  | [md](../markdown/12418-transcript.md) - [yaml](../yaml/12418-transcript.yml) |
 | Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2020-09-28 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | Promotion | 2020-08-27 | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
@@ -761,7 +762,6 @@
 | Kays, Angela M. | 48472 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/48472-transcript.md) - [yaml](../yaml/48472-transcript.yml) |
 | Keller, Lawrence E. | 16483 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-25 | [md](../markdown/16483-transcript.md) - [yaml](../yaml/16483-transcript.yml) |
 | Keller, Mary K. | 40532 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2018-04-04 | [md](../markdown/40532-transcript.md) - [yaml](../yaml/40532-transcript.yml) |
-| Kelley, Denney C. | 12418 | Portland Police Bureau | Inactive | Sergeant | Retired | 2009-07-12 | [md](../markdown/12418-transcript.md) - [yaml](../yaml/12418-transcript.yml) |
 | Kelly, Brian P. | 29353 | Portland Police Bureau | Inactive | Sergeant | Retired | 2016-04-21 | [md](../markdown/29353-transcript.md) - [yaml](../yaml/29353-transcript.yml) |
 | Kelly, James P. | 20672 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2018-11-26 | [md](../markdown/20672-transcript.md) - [yaml](../yaml/20672-transcript.yml) |
 | Kelly, Mark B. | 57474 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-03-04 | [md](../markdown/57474-transcript.md) - [yaml](../yaml/57474-transcript.yml) |

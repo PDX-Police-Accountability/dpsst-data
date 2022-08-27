@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/24/2022
+  course: CIF01799
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/5/2022
   course: CIF07921
   title: LEDS Recertification
@@ -1766,21 +1772,9 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/15/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/15/2008

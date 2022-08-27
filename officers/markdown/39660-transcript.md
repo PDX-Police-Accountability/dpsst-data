@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/18/2021 | 5/18/2023 |
-| Certification Cards | First Aid and CPR | 5/18/2021 | 5/18/2023 |
-| Code of Ethics | Signed | 10/29/2002 |  |
 | Code of Ethics | Signed | 10/29/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
 | 6/29/2022 | PDP08936 | K-9 Weekly Training: control, de-escalation, etc. | Passed | 0.0 | 4.00 |
 | 6/13/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/19/2022 | PDP03853 | K-9 Training: Build. Searches, Equipment, etc. | Passed | 0.0 | 3.00 |

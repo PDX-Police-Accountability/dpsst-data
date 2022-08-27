@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 8/18/2020 | 8/18/2022 |
 | Certification Cards | First Aid and CPR | 8/18/2020 | 8/18/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/23/2001 |  |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/24/2022 | PDN02361 | Working with the Mentally Ill | Passed | 0.0 | 1.50 |
 | 7/28/2022 | PDN27787 | Confrontational Simulation Search and Seizure | Passed | 0.0 | 1.50 |
 | 7/27/2022 | PDN09685 | Report Writing | Passed | 0.0 | 1.50 |
 | 7/21/2022 | PDN33394 | Defensive Tactics OC and Baton | Passed | 0.0 | 1.50 |

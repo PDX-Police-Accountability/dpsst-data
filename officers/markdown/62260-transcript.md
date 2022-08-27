@@ -96,10 +96,10 @@
 | 6/21/2022 | PDP06607 | Directive 316.00, Drug, Alcohol, and Tobacco Free | Passed | 0.0 | 0.25 |
 | 6/14/2022 | PDP43746 | Geography Training | Passed | 0.0 | 2.00 |
 | 6/14/2022 | PDP38663 | Property  Evidence Handling | Passed | 0.0 | 2.00 |
+| 6/10/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/16/2022 | BPT41049 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.50 |
 | 4/22/2022 | PDP43947 | Directive 0500.00, Wellness Program | Passed | 0.0 | 0.25 |
 | 4/21/2022 | REG08525 | INTOX 8000 - Hours included in Basic | Passed | 0.0 | 6.00 |
-| 2/21/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 2/3/2022 | PDP44055 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 2/3/2022 | PDP33896 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 1/27/2022 | PDP13641 | 2022 FTEP Pre-DPSST Firearms | Passed | 0.0 | 21.00 |

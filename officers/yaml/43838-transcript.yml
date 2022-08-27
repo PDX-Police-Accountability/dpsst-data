@@ -30,6 +30,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2022
+  course: WBP30624
+  title: New Recruit Rifle Training
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
+- date: 6/29/2022
+  course: WBP17395
+  title: New Recruit Pistol Training
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/4/2018
   course: PDP42272
   title: IFAK Refresher Video

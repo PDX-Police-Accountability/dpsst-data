@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/18/2021 | 5/18/2023 |
 | Certification Cards | First Aid and CPR | 5/18/2021 | 5/18/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 11/7/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 6/23/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 5/31/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/31/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

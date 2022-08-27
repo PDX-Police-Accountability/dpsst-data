@@ -56,6 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/22/2022
+  course: REG27088
+  title: Strike defense, Body lock takedown
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/15/2022
+  course: REG34517
+  title: Body lock take down, Cross side top control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/8/2022
+  course: REG35338
+  title: 1/2 guard bottom positional control, grip fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/28/2022
   course: BPT43449
   title: Weapon Retention, Weapon Control
@@ -65,6 +83,12 @@ training_records:
 - date: 7/25/2022
   course: BPT13873
   title: Ground Positional Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2022
+  course: REG00839
+  title: weapon retention
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -3650,21 +3674,9 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/2/2021
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/2/2021
@@ -3673,14 +3685,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/6/2021
   expiration_date: 5/6/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/6/2021
-  expiration_date: 5/6/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/15/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/15/2008

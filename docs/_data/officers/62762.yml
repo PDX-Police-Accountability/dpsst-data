@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 8/8/2022
+  course: PDP15565
+  title: Policy and Procedure Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

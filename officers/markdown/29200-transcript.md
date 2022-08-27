@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/27/2022 | PDS06193 | Civil Process | Passed | 0.0 | 1.00 |
+| 7/27/2022 | PDS34931 | ICS-800 | Passed | 0.0 | 3.00 |
+| 7/26/2022 | PDS13285 | Homeless Outreach Program | Passed | 0.0 | 1.00 |
 | 2/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |

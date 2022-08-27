@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,8 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2022 | REG27088 | Strike defense, Body lock takedown | Passed | 0.0 | 1.00 |
+| 8/15/2022 | REG34517 | Body lock take down, Cross side top control | Passed | 0.0 | 1.00 |
+| 8/8/2022 | REG35338 | 1/2 guard bottom positional control, grip fighting | Passed | 0.0 | 1.00 |
 | 7/28/2022 | BPT43449 | Weapon Retention, Weapon Control | Passed | 0.0 | 1.00 |
 | 7/25/2022 | BPT13873 | Ground Positional Control | Passed | 0.0 | 1.00 |
+| 7/14/2022 | REG00839 | weapon retention | Passed | 0.0 | 1.00 |
 | 7/13/2022 | SDP28878 | DUII Warrant Writing | Passed | 0.0 | 1.00 |
 | 7/13/2022 | SDP26239 | Tactical knife Defensive- Weapon Retention | Passed | 0.0 | 2.00 |
 | 7/13/2022 | SDP09898 | Oregon Humane Society- Animal Welfare Laws | Passed | 0.0 | 2.00 |

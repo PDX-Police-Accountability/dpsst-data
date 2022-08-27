@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
-| Code of Ethics | Signed | 6/22/2010 |  |
 | Code of Ethics | Signed | 6/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
 | 7/27/2022 | PDP35512 | K9 Weekly Training: Searches, obedience, OPCA | Passed | 0.0 | 1.00 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |
 | 6/8/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

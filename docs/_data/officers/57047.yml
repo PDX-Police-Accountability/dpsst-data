@@ -43,18 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/22/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
+- date: 8/12/2022
+  course: PDP05040
+  title: Scientific Basics of Fingerprints
   status: Passed
   score: '0.0'
-  hours: '40.00'
-- date: 7/22/2022
-  course: HBS27202
-  title: Practical Shooting Incident Reconstruction
-  status: Passed
-  score: '0.0'
-  hours: '40.00'
+  hours: '22.50'
 - date: 7/22/2022
   course: PDP30357
   title: Practical Shooting Incident Reconstruction

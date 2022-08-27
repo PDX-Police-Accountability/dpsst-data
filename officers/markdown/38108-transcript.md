@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/21/2021 | 6/21/2023 |
-| Certification Cards | First Aid and CPR | 6/21/2021 | 6/21/2023 |
-| Code of Ethics | Signed | 7/10/2003 |  |
 | Code of Ethics | Signed | 7/10/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
 | 7/27/2022 | PDP35512 | K9 Weekly Training: Searches, obedience, OPCA | Passed | 0.0 | 1.00 |
 | 6/29/2022 | PDP08936 | K-9 Weekly Training: control, de-escalation, etc. | Passed | 0.0 | 4.00 |
 | 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Passed | 0.0 | 9.00 |

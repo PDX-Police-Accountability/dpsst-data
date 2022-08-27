@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/7/2022
+  course: 22-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '80.00'
 - date: 6/23/2022
   course: PDP01652
   title: AAR SharePoint Transition
@@ -3794,14 +3800,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/18/2021
-  expiration_date: 5/18/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/18/2021
@@ -3810,14 +3808,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2003

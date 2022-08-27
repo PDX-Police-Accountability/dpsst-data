@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2022 | HBS27163 | PREA (Prison Rape Elimination Act) | Passed | 0.0 | 1.00 |
 | 12/10/2020 | HBS13155 | PowerDMS Ethics Training | Passed | 0.0 | 1.00 |
 | 5/24/2018 | HBS13900 | Domestic Violence Briefing Video Training | Passed | 0.0 | 0.50 |
 | 4/3/2018 | HBS14646 | Understanding Obligations of Brady | Passed | 0.0 | 0.50 |

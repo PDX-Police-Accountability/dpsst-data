@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 1/31/2001 |  |
 | Code of Ethics | Signed | 1/31/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2022 | REG27088 | Strike defense, Body lock takedown | Passed | 0.0 | 1.00 |
+| 8/15/2022 | REG34517 | Body lock take down, Cross side top control | Passed | 0.0 | 1.00 |
+| 8/11/2022 | REG21262 | 1/2 guard bottom getting up off the ground | Passed | 0.0 | 1.00 |
+| 8/8/2022 | REG35338 | 1/2 guard bottom positional control, grip fighting | Passed | 0.0 | 1.00 |
+| 7/14/2022 | REG00839 | weapon retention | Passed | 0.0 | 1.00 |
 | 7/7/2022 | REG16331 | Collar tie, single leg, knee on hip | Passed | 0.0 | 1.00 |
 | 6/30/2022 | REG30867 | Grip fighting, posture control, getting up | Passed | 0.0 | 1.00 |
 | 6/3/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

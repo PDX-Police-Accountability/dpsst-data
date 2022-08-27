@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 10/27/2005 |  |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,7 +40,9 @@
 | 6/15/2022 | LOP16376 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/28/2022 | LOP33164 | LEP Policy 368  CPD Policy 370 Annual Review | Passed | 0.0 | 0.50 |
 | 4/28/2022 | LOP24922 | Body Camera Policy Briefing Training | Passed | 0.0 | 0.50 |
+| 4/27/2022 | LOP23182 | Device  Conquer | Passed | 0.0 | 1.00 |
 | 4/25/2022 | LOP35972 | Defensive Tactics OC | Passed | 0.0 | 3.00 |
+| 4/21/2022 | LOP07568 | Creating Cellular Analysis Report | Passed | 0.0 | 1.00 |
 | 3/30/2022 | LOP01809 | Legislative Update HB4008 Crowd Management | Passed | 0.0 | 0.50 |
 | 3/22/2022 | LOP31533 | OACP/OSSA Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 3/17/2022 | LOP15638 | Defensive Tactics High Risk Handcuffing | Passed | 0.0 | 2.00 |
@@ -62,6 +60,8 @@
 | 11/23/2021 | LOP12641 | BLS CPR | Passed | 0.0 | 2.50 |
 | 11/15/2021 | LOP35946 | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 10/27/2021 | LOP26042 | Taser X26P Re-Certification | Passed | 0.0 | 4.00 |
+| 10/21/2021 | LOP03426 | Revival Series-ATT Carrier Breakdown | Passed | 0.0 | 1.00 |
+| 10/14/2021 | LOP02540 | Cat/Mouse Game w/Mobile Forensics | Passed | 0.0 | 1.50 |
 | 10/12/2021 | LOP31272 | Karly's Law, Age Appropriate Interviewing | Passed | 0.0 | 1.00 |
 | 10/8/2021 | LOP01894 | Firearms Training | Passed | 0.0 | 4.00 |
 | 9/7/2021 | LOP08366 | Custodial Searches | Passed | 0.0 | 0.50 |
@@ -71,8 +71,14 @@
 | 8/2/2021 | LOP36419 | Springtime SQLite Survival Series Part III | Passed | 0.0 | 1.00 |
 | 6/21/2021 | LOP40818 | Vehicle Stops Training | Passed | 0.0 | 4.00 |
 | 6/9/2021 | LOP37458 | Acting Sergeant Training | Passed | 0.0 | 40.00 |
+| 5/27/2021 | LOP17805 | Snapchat - A False Sense of Security | Passed | 0.0 | 1.00 |
+| 5/27/2021 | LOP21495 | SQLite Survival Series Part II | Passed | 0.0 | 1.00 |
 | 5/25/2021 | LOP29932 | Firearms | Passed | 0.0 | 4.00 |
+| 5/13/2021 | LOP06236 | Integration/Validation of Third Party Tool AXIOM | Passed | 0.0 | 1.00 |
+| 5/13/2021 | LOP39176 | Protobuf Expert | Passed | 0.0 | 1.00 |
 | 5/7/2021 | LOP20948 | Mental Health/Crisis Intervention | Passed | 0.0 | 3.00 |
+| 5/6/2021 | LOP40096 | Introducing Magnet AXIOM 5.0 | Passed | 0.0 | 0.50 |
+| 4/29/2021 | LOP01596 | SQLite Survival Series Part I | Passed | 0.0 | 1.00 |
 | 4/13/2021 | LOP40066 | Tactical Medical Refresher | Passed | 0.0 | 1.00 |
 | 4/6/2021 | LOP39278 | Mobile Device Vulnerability Discovery  Exploit | Passed | 0.0 | 1.50 |
 | 4/1/2021 | LOP14567 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |

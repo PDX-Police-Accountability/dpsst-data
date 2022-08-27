@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/28/2022
+  course: HBS27163
+  title: PREA (Prison Rape Elimination Act)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/10/2020
   course: HBS13155
   title: PowerDMS Ethics Training

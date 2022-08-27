@@ -1,6 +1,7 @@
 ## Transcripts (sorted by last action date)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
+| * MISSING | 12418 |  |  |  |  |  | [md](../markdown/12418-transcript.md) - [yaml](../yaml/12418-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Downey, Raymond W. | 15316 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1983-09-30 | [md](../markdown/15316-transcript.md) - [yaml](../yaml/15316-transcript.yml) |
@@ -435,7 +436,6 @@
 | Kays, Angela M. | 48472 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/48472-transcript.md) - [yaml](../yaml/48472-transcript.yml) |
 | Powell, Brian W. | 50651 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/50651-transcript.md) - [yaml](../yaml/50651-transcript.yml) |
 | Fender, Kameron J. | 50793 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/50793-transcript.md) - [yaml](../yaml/50793-transcript.yml) |
-| Kelley, Denney C. | 12418 | Portland Police Bureau | Inactive | Sergeant | Retired | 2009-07-12 | [md](../markdown/12418-transcript.md) - [yaml](../yaml/12418-transcript.yml) |
 | Kirby, John J. | 50870 | Portland Police Bureau | Active | Reserve Officer | Hired | 2009-07-21 | [md](../markdown/50870-transcript.md) - [yaml](../yaml/50870-transcript.yml) |
 | Arnold, David R. | 50652 | Portland Police Bureau | Active | Police Officer | Hired | 2009-10-01 | [md](../markdown/50652-transcript.md) - [yaml](../yaml/50652-transcript.yml) |
 | Boyd, Matthew A. | 50812 | Portland Police Bureau | Active | Police Officer | Hired | 2009-10-01 | [md](../markdown/50812-transcript.md) - [yaml](../yaml/50812-transcript.yml) |

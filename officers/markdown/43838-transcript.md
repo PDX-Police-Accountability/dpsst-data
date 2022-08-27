@@ -30,6 +30,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2022 | WBP30624 | New Recruit Rifle Training | Instructed | 0.0 | 12.00 |
+| 6/29/2022 | WBP17395 | New Recruit Pistol Training | Instructed | 0.0 | 16.00 |
 | 4/4/2018 | PDP42272 | IFAK Refresher Video | Passed | 0.0 | 0.25 |
 | 4/4/2018 | PDP11353 | 2017-3 Legal Updates for Q3 | Passed | 0.0 | 0.50 |
 | 3/5/2018 | PDP01076 | BHU Mental Health Template Video Non-ECIT Officers | Passed | 0.0 | 0.25 |
