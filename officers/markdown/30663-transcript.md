@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2022 | PDS00380 | CIT | Passed | 0.0 | 4.00 |
 | 5/21/2022 | PDS02476 | Use of Force Reports | Passed | 0.0 | 3.00 |
+| 4/5/2022 | PDS11149 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/29/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |
 | 1/14/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

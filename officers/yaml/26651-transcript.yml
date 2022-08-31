@@ -81,6 +81,48 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 6/9/2022
+  course: PDS43165
+  title: Use of Force Reports
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/8/2022
+  course: PDS28698
+  title: Use of Force Reports
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/7/2022
+  course: PDS28342
+  title: Use of Force Reports
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/5/2022
+  course: PDS43674
+  title: Use of Force Reports
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/3/2022
+  course: PDS32890
+  title: Use of Force reports
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/1/2022
+  course: PDS08777
+  title: Use of Force Reports
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/31/2022
+  course: PDS19632
+  title: Use of Force Reports
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/27/2022
   course: PDS21129
   title: Use of Force Reports

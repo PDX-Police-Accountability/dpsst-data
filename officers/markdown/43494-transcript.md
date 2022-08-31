@@ -29,16 +29,13 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/13/2021 | 5/13/2023 |
-| Certification Cards | First Aid and CPR | 5/13/2021 | 5/13/2023 |
-| Code of Ethics | Signed | 2/4/2005 |  |
 | Code of Ethics | Signed | 2/4/2005 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/21/2022 | Masters Science | All Other Education Institutes |  | 31.0 |
 | 5/25/2003 | Bachelor Arts | All Other Education Institutes |  | 213.0 |
 | 12/15/1999 | No Degree | Reed College |  | 3.0 |
 ## Training

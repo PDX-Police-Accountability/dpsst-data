@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2022
+  course: PDP31730
+  title: Critical Incident Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/18/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -3200,14 +3206,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -3215,14 +3213,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/7/2021
   expiration_date: 4/7/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/7/2021
-  expiration_date: 4/7/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/26/2013
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/26/2013

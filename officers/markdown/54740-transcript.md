@@ -4,7 +4,7 @@
 | name | Lauritzon, Dustin J. |
 | dpsst_identifier | 54740 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,25 +12,21 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/15/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/25/2016 | Portland Police Bureau | Reclassed | Police Off |  |  |
 | 11/6/2014 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/19/2022 | Police Officer | Intermediate | Granted | 7/19/2022 |  |  |
-| 4/25/2018 | Police Officer | Basic | Granted | 4/25/2018 |  |  |
+| 7/19/2022 | Police Officer | Intermediate | Granted | 7/19/2022 | 11/15/2022 |  |
+| 4/25/2018 | Police Officer | Basic | Granted | 4/25/2018 | 11/15/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/13/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 4/13/2018 |  |
-| Code of Ethics | Signed | 11/6/2016 |  |
 | Code of Ethics | Signed | 11/6/2016 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
-| Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 5/11/2001 |  |
 | Code of Ethics | Signed | 5/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -62,6 +58,8 @@
 | 1/18/2022 | HBS13447 | Use of Force Updates | Passed | 0.0 | 1.50 |
 | 1/17/2022 | HBS34626 | First Aid | Passed | 0.0 | 2.50 |
 | 1/17/2022 | HBS34210 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/17/2022 | HBS33522 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
+| 1/17/2022 | HBS27596 | Employee Wellness | Passed | 0.0 | 2.00 |
 | 12/7/2021 | HBS44088 | EVO PIT Refresher Training | Passed | 0.0 | 0.50 |
 | 11/4/2021 | HBS25412 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/4/2021 | HBS09105 | EVOC Policy Update | Passed | 0.0 | 1.50 |

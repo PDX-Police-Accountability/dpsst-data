@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/24/2022 | SDP14360 | 40MM Re-Certification | Passed | 0.0 | 2.00 |
+| 8/24/2022 | SDP37199 | Stop Stick Training | Passed | 0.0 | 1.00 |
+| 8/24/2022 | SDP29859 | MHRT CIT Clinician and Officer Review | Passed | 0.0 | 2.00 |
 | 8/22/2022 | REG27088 | Strike defense, Body lock takedown | Passed | 0.0 | 1.00 |
 | 8/15/2022 | REG34517 | Body lock take down, Cross side top control | Passed | 0.0 | 1.00 |
 | 8/8/2022 | REG35338 | 1/2 guard bottom positional control, grip fighting | Passed | 0.0 | 1.00 |

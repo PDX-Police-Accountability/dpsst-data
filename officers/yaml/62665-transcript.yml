@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/18/2022
+  course: REG06862
+  title: INTOX 8000 (Hours included with Basic)
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/13/2022
   course: M10-21A
   title: DPSST Basic Police Course
@@ -85,10 +91,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 6/13/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 6/13/2022

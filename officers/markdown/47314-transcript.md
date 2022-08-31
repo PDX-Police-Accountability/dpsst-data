@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
-| Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Code of Ethics | Signed | 10/24/2008 |  |
 | Code of Ethics | Signed | 10/24/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/8/2022 | PDS41667 | CIT | Passed | 0.0 | 4.00 |
+| 6/8/2022 | PDS08484 | Evidence Collection | Passed | 0.0 | 2.00 |
+| 6/8/2022 | PDS28698 | Use of Force Reports | Passed | 0.0 | 3.00 |
+| 4/14/2022 | PDS11149 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/11/2022 | PDS05042 | EVOC | Passed | 0.0 | 10.00 |
 | 1/29/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 1/4/2022 | PDS42907 | CPR-First Aid | Passed | 0.0 | 2.00 |

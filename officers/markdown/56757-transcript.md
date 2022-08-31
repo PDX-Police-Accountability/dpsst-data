@@ -23,8 +23,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and Adult/Child CPR | 6/24/2022 | 6/24/2024 |
-| Certification Cards | First Aid and Adult/Child CPR | 6/24/2022 | 6/24/2024 |
-| Code of Ethics | Signed | 12/16/2016 |  |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -33,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2022 | PSU24314 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/19/2022 | PSU10134 | HB 2513 Airway, Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 7/27/2022 | PSU33623 | NOBLE Training Confrence 2022 | Passed | 0.0 | 32.00 |
 | 7/3/2022 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |

@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/3/2022
+  course: PDS13914
+  title: Range Qualfiication
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/3/2022
+  course: PDS30938
+  title: Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 5/26/2022
   course: PDS00250
   title: Field Training and Evaluation Program, 24 hr basic
@@ -3804,18 +3816,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/15/2021
-  expiration_date: 12/14/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/15/2021
@@ -3823,14 +3823,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/25/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/25/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/21/2001
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

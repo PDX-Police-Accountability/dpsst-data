@@ -3,12 +3,18 @@ header_record:
   name: Jackson, Jakhary J.
   dpsst_identifier: '51727'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/8/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/1/2021
   agency: Portland Police Bureau
   action: Resigned
@@ -34,26 +40,33 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 9/8/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 3/8/2024
 - status_date: 4/1/2021
   certificate: Police Officer
   level: Advanced
   status: Lapsed
   certificate_date: 11/19/2020
-  expiration_date: 1/1/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 4/1/2021
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 4/5/2012
-  expiration_date: 1/1/2026
+  expiration_date: ''
   probation_date: ''
 - status_date: 4/1/2021
   certificate: Police Officer
   level: Intermediate
   status: Lapsed
   certificate_date: 11/19/2020
-  expiration_date: 1/1/2026
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/3/2020

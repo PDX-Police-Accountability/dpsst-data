@@ -22,13 +22,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
 | Code of Ethics | Law Enforcement Signed | 10/30/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 10/30/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2022 | PDP34106 | NW Gang Investigators Assoc Training Symposium | Passed | 0.0 | 36.00 |
 | 7/26/2022 | PDP15790 | Focused Intervention Team Firearms Training | Passed | 0.0 | 5.00 |
 | 5/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

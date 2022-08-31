@@ -4,7 +4,7 @@
 | name | Jackson, Jakhary J. |
 | dpsst_identifier | 51727 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/8/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/14/2014 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/5/2013 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -19,9 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/1/2021 | Police Officer | Advanced | Lapsed | 11/19/2020 | 1/1/2026 |  |
-| 4/1/2021 | Police Officer | Basic | Lapsed | 4/5/2012 | 1/1/2026 |  |
-| 4/1/2021 | Police Officer | Intermediate | Lapsed | 11/19/2020 | 1/1/2026 |  |
+| 9/8/2022 | Police Officer | Basic | Required |  |  | 3/8/2024 |
+| 4/1/2021 | Police Officer | Advanced | Lapsed | 11/19/2020 |  |  |
+| 4/1/2021 | Police Officer | Basic | Lapsed | 4/5/2012 |  |  |
+| 4/1/2021 | Police Officer | Intermediate | Lapsed | 11/19/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

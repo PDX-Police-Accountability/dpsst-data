@@ -47,6 +47,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/21/2022
+  course: PDS11149
+  title: Airway  Circulatory Crisis Training  Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/11/2022
   course: PDS05111
   title: Civil Process

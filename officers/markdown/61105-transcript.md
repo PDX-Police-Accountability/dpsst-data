@@ -4,7 +4,7 @@
 | name | Carlson, Jeremy A. |
 | dpsst_identifier | 61105 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,23 +12,19 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/22/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/11/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/12/2022 | Police Officer | Basic | Granted | 1/12/2022 |  |  |
+| 1/12/2022 | Police Officer | Basic | Granted | 1/12/2022 | 11/22/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 3/24/2021 | 3/24/2023 |
-| Certification Cards | First Aid and CPR | 3/24/2021 | 3/24/2023 |
-| Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2022 | NGP44362 | Taser 7 user transition course | Passed | 0.0 | 4.00 |
 | 7/13/2022 | OSH16712 | ARIDE | Passed | 0.0 | 16.00 |
 | 6/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

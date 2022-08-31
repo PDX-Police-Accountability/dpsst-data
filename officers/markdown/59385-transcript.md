@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and Adult/Child CPR | 6/24/2022 | 6/24/2024 |
-| Certification Cards | First Aid and Adult/Child CPR | 6/24/2022 | 6/24/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 1/21/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/21/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2022 | PSU24314 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/19/2022 | PSU10134 | HB 2513 Airway, Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 7/15/2022 | VND13388 | FTEP | Passed | 0.0 | 24.00 |
 | 6/24/2022 | PSU17815 | First Aid/CPR/AED | Passed | 0.0 | 3.00 |

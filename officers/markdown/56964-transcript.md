@@ -23,16 +23,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
 | Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2019 | 12/31/2019 |
 | Maintenance Requirements | LE Annual | 1/1/2019 | 12/31/2019 |
 | Code of Ethics | Law Enforcement Signed | 2/1/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 2/1/2018 |  |
-| Code of Ethics | Signed | 2/21/2017 |  |
 | Code of Ethics | Signed | 2/21/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -81,6 +75,7 @@
 | 11/16/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 11/16/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 11/3/2021 | PDP20077 | 2021-11 TipsTech Unlawful Street Takeovers/Events | Passed | 0.0 | 0.25 |
+| 10/28/2021 | PDP07438 | Building Relations w/ Transgender Communities | Passed | 0.0 | 4.00 |
 | 10/26/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 10/26/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/26/2021 | PDP15092 | 2021-10 TipsTech CiteInLieuWarrants Notifications | Passed | 0.0 | 0.25 |

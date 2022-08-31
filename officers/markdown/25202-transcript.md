@@ -30,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/23/2022 | PDS23113 | Use of Force | Passed | 0.0 | 4.00 |
+| 4/21/2022 | PDS11149 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/11/2022 | PDS05111 | Civil Process | Passed | 0.0 | 1.00 |
 | 3/1/2022 | LOP36286 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/10/2022 | PDS05076 | Firearms Training | Passed | 0.0 | 8.00 |

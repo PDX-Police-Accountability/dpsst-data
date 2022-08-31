@@ -3,12 +3,18 @@ header_record:
   name: Carlson, Jeremy A.
   dpsst_identifier: '61105'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/22/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/11/2020
   agency: Portland Police Bureau
   action: Hired
@@ -21,9 +27,15 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 1/12/2022
-  expiration_date: ''
+  expiration_date: 11/22/2022
   probation_date: ''
 training_records:
+- date: 8/25/2022
+  course: NGP44362
+  title: Taser 7 user transition course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/13/2022
   course: OSH16712
   title: ARIDE
@@ -893,18 +905,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/5/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/5/2022
-  expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -917,14 +917,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/24/2021
   expiration_date: 3/24/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/24/2021
-  expiration_date: 3/24/2023
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 10/25/2020
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/25/2020

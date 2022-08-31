@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2022 | PDS43165 | Use of Force Reports | Instructed | 0.0 | 3.00 |
+| 6/8/2022 | PDS28698 | Use of Force Reports | Instructed | 0.0 | 3.00 |
+| 6/7/2022 | PDS28342 | Use of Force Reports | Instructed | 0.0 | 3.00 |
+| 6/5/2022 | PDS43674 | Use of Force Reports | Instructed | 0.0 | 3.00 |
+| 6/3/2022 | PDS32890 | Use of Force reports | Instructed | 0.0 | 3.00 |
+| 6/1/2022 | PDS08777 | Use of Force Reports | Instructed | 0.0 | 3.00 |
+| 5/31/2022 | PDS19632 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 5/27/2022 | PDS21129 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 5/26/2022 | PDS19905 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 5/24/2022 | PDS42809 | Civil Disturbance Training | Passed | 0.0 | 4.00 |

@@ -25,6 +25,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2022 | TOP16506 | Cardiac Disease | Passed | 0.0 | 1.00 |
+| 8/26/2022 | TOP39983 | Policy Update: Use of Force 300 | Passed | 0.0 | 0.50 |
+| 8/26/2022 | TOP11701 | Use of Force Training | Passed | 0.0 | 1.00 |
+| 8/26/2022 | TOP11659 | Policy Update: 100, 319, 417, 428, 429 | Passed | 0.0 | 2.50 |
+| 8/26/2022 | TOP25793 | Policy Update: Wellness Program 1135 | Passed | 0.0 | 0.50 |
+| 8/26/2022 | TOP24864 | Policy Update: 504, 903,1000, 1100 | Passed | 0.0 | 2.00 |
+| 8/18/2022 | TOP44798 | Uvalde School Shooting ALERRT Report Assessment | Passed | 0.0 | 1.00 |
+| 8/14/2022 | TOP24722 | Uvalde School Shooting Video | Passed | 0.0 | 1.50 |
+| 8/7/2022 | TOP40046 | Protecting PII and Smart Home Devices | Passed | 0.0 | 0.50 |
+| 8/5/2022 | TOP11211 | 2023 OR ID HIDTA Drug Threat Assessment | Passed | 0.0 | 1.00 |
+| 6/10/2022 | TOP04282 | Constitutional Law Issues in Impaird Driving Cases | Passed | 0.0 | 1.50 |
+| 6/10/2022 | TOP32122 | How Medical Conditions Relate to Driving | Passed | 0.0 | 2.50 |
 | 6/7/2022 | ENT06379 | LE Interviewing Juveniles | Passed | 0.0 | 0.50 |
 | 6/7/2022 | ENT29467 | Legislative Updates 2021-2022 | Passed | 0.0 | 1.50 |
 | 6/7/2022 | ENT30106 | Legal Update- Search and Seizure | Passed | 0.0 | 1.00 |

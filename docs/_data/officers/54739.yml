@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/28/2022
+  course: PDS11149
+  title: Airway  Circulatory Crisis Training  Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/23/2022
   course: PDS23113
   title: Use of Force
