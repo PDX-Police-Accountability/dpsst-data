@@ -1,11 +1,6 @@
 ## Transcripts (sorted by rank)
 | [name](./officer-transcripts-by-name.md) | [dpsst identifier](./officer-transcripts-by-dpsst-identifier.md) | [agency](./officer-transcripts-by-agency.md) | [employment status](./officer-transcripts-by-employment-status.md) | [rank](./officer-transcripts-by-rank.md) | [last action](./officer-transcripts-by-last-action.md) | [last action date](./officer-transcripts-by-last-action-date.md) | links |
 | ---- | ---------------- | ------ | ----------------- | ---- | ----------- | ---------------- | ----- |
-| * MISSING | 39117 |  |  |  |  |  | [md](../markdown/39117-transcript.md) - [yaml](../yaml/39117-transcript.yml) |
-| * MISSING | 39269 |  |  |  |  |  | [md](../markdown/39269-transcript.md) - [yaml](../yaml/39269-transcript.yml) |
-| * MISSING | 39513 |  |  |  |  |  | [md](../markdown/39513-transcript.md) - [yaml](../yaml/39513-transcript.yml) |
-| * MISSING | 39599 |  |  |  |  |  | [md](../markdown/39599-transcript.md) - [yaml](../yaml/39599-transcript.yml) |
-| * MISSING | 39643 |  |  |  |  |  | [md](../markdown/39643-transcript.md) - [yaml](../yaml/39643-transcript.yml) |
 | Smith, Bret J. | 14157 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-01-16 | [md](../markdown/14157-transcript.md) - [yaml](../yaml/14157-transcript.yml) |
 | Eckhart, John C. | 14495 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-07-29 | [md](../markdown/14495-transcript.md) - [yaml](../yaml/14495-transcript.yml) |
 | Modica, Kevin L. | 15909 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2017-06-30 | [md](../markdown/15909-transcript.md) - [yaml](../yaml/15909-transcript.yml) |
@@ -159,7 +154,9 @@
 | Rees, Ryan C. | 38874 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-01-20 | [md](../markdown/38874-transcript.md) - [yaml](../yaml/38874-transcript.yml) |
 | Sage, Jamie L. | 38875 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-02-03 | [md](../markdown/38875-transcript.md) - [yaml](../yaml/38875-transcript.yml) |
 | Rue, Steven T. | 39064 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2002-02-27 | [md](../markdown/39064-transcript.md) - [yaml](../yaml/39064-transcript.yml) |
+| Haman, Diane R. | 39117 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-03-27 | [md](../markdown/39117-transcript.md) - [yaml](../yaml/39117-transcript.yml) |
 | Harding, Cheryl A. | 39268 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-05-01 | [md](../markdown/39268-transcript.md) - [yaml](../yaml/39268-transcript.yml) |
+| LaFong, Mary H. | 39269 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2017-06-08 | [md](../markdown/39269-transcript.md) - [yaml](../yaml/39269-transcript.yml) |
 | Schackart, Rebecca L. | 39333 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-05-25 | [md](../markdown/39333-transcript.md) - [yaml](../yaml/39333-transcript.yml) |
 | Pleune, Patricia L. | 39707 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-07-31 | [md](../markdown/39707-transcript.md) - [yaml](../yaml/39707-transcript.yml) |
 | Keller, Mary K. | 40532 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2018-04-04 | [md](../markdown/40532-transcript.md) - [yaml](../yaml/40532-transcript.yml) |
@@ -332,6 +329,7 @@
 | DeClercque, Bryan J. | 37939 | Portland Police Bureau | Inactive | Detective | Resigned | 2022-07-29 | [md](../markdown/37939-transcript.md) - [yaml](../yaml/37939-transcript.yml) |
 | Wollstein, Harold N. | 39011 | Portland Police Bureau | Active | Detective | Promotion | 2013-01-10 | [md](../markdown/39011-transcript.md) - [yaml](../yaml/39011-transcript.yml) |
 | Myers, Jeffrey R. | 39608 | Portland Police Bureau | Inactive | Detective | Retired | 2021-01-31 | [md](../markdown/39608-transcript.md) - [yaml](../yaml/39608-transcript.yml) |
+| Christensen, Brent W. | 39643 | Portland Police Bureau | Active | Detective | Promotion | 2006-09-21 | [md](../markdown/39643-transcript.md) - [yaml](../yaml/39643-transcript.yml) |
 | Hunt, Jonathan N. | 39646 | Portland Police Bureau | Active | Detective | Promotion | 2012-09-27 | [md](../markdown/39646-transcript.md) - [yaml](../yaml/39646-transcript.yml) |
 | Hawkinson, Brett S. | 39657 | Portland Police Bureau | Active | Detective | Promotion | 2007-08-09 | [md](../markdown/39657-transcript.md) - [yaml](../yaml/39657-transcript.yml) |
 | Broughton, Scott P. | 40218 | Portland Police Bureau | Active | Detective | Promotion | 2016-11-03 | [md](../markdown/40218-transcript.md) - [yaml](../yaml/40218-transcript.yml) |
@@ -691,7 +689,9 @@
 | Hall, Thomas K. | 39009 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-04-16 | [md](../markdown/39009-transcript.md) - [yaml](../yaml/39009-transcript.yml) |
 | Mako, Dennis J. | 39010 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-10-29 | [md](../markdown/39010-transcript.md) - [yaml](../yaml/39010-transcript.yml) |
 | Rasmussen, David S. | 39279 | Portland Police Bureau | Active | Police Officer | Hired | 2002-06-27 | [md](../markdown/39279-transcript.md) - [yaml](../yaml/39279-transcript.yml) |
+| Hertzler, Gabri B. | 39513 | Portland Police Bureau | Active | Police Officer | Hired | 2004-03-11 | [md](../markdown/39513-transcript.md) - [yaml](../yaml/39513-transcript.yml) |
 | Kemple, David F. | 39589 | Portland Police Bureau | Active | Police Officer | Hired | 2001-11-29 | [md](../markdown/39589-transcript.md) - [yaml](../yaml/39589-transcript.yml) |
+| McGarry, David J. | 39599 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2017-01-19 | [md](../markdown/39599-transcript.md) - [yaml](../yaml/39599-transcript.yml) |
 | Hunzeker, Brian D. | 39600 | Portland Police Bureau | Inactive | Police Officer | Discharged | 2022-03-01 | [md](../markdown/39600-transcript.md) - [yaml](../yaml/39600-transcript.yml) |
 | Stroh, Delton K. | 39607 | Portland Police Bureau | Active | Police Officer | Hired | 2000-07-27 | [md](../markdown/39607-transcript.md) - [yaml](../yaml/39607-transcript.yml) |
 | Nagy, Patrick J. | 39612 | Portland Police Bureau | Active | Police Officer | Hired | 2000-07-20 | [md](../markdown/39612-transcript.md) - [yaml](../yaml/39612-transcript.yml) |

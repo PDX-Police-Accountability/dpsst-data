@@ -3153,14 +3153,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/17/2020
-  expiration_date: 8/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/17/2020
-  expiration_date: 8/31/2022
 education_records:
 - date: 12/20/1989
   degree: Bachelor Science

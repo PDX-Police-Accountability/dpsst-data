@@ -29,7 +29,6 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 8/19/2020 | 8/19/2022 |
 | Code of Ethics | Signed | 11/28/2008 |  |
 ## Education
 | date | degree | school | major | hours |
