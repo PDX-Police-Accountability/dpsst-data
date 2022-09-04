@@ -32,21 +32,18 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/22/2008 |  |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 9/15/1991 | No Degree | Oregon State University |  | 180.0 |
+| 9/15/1991 | Bachelor Science | Oregon State University | Sociology | 180.0 |
 | 6/15/1991 | No Degree | Linn-Benton Community College |  | 22.1 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 8/10/2022 | FGP44281 | Assisting Individuals and Groups in Crisis | Passed | 0.0 | 27.00 |
 | 7/28/2022 | FGP16614 | Bloodborne | Passed | 0.0 | 1.00 |
 | 7/28/2022 | FGP07221 | HazMat | Passed | 0.0 | 1.00 |

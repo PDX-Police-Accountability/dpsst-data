@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/27/2022
+  course: PDP06860
+  title: OR Tactical Officer Assoc. Basic SWAT School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/13/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

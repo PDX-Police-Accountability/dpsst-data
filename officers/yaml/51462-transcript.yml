@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/6/2022
+  course: PDS28431
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/23/2022
   course: PDS23113
   title: Use of Force

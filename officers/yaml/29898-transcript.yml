@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/9/2022
+  course: PDS28431
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/19/2022
   course: PDS19200
   title: Airway  Circulatory Crisis Training  Response
@@ -3816,18 +3822,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/15/2021
-  expiration_date: 12/14/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/15/2021
@@ -3835,14 +3829,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/25/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/25/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/21/2001
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

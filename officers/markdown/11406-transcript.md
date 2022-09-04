@@ -42,7 +42,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 9/25/2008 |  |
-| Code of Ethics | Signed | 9/25/2008 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -53,6 +52,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2022 | F6R19465 | Meeting Demands of Reform | Passed | 0.0 | 1.00 |
+| 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 3.00 |
+| 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
+| 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 1.00 |
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 1/3/2022 | BPT03272 | Adult Learning Core (Virtual) | Passed | 0.0 | 2.00 |
 | 12/8/2021 | OSA14504 | Assessing Future Leaders | Passed | 0.0 | 4.00 |

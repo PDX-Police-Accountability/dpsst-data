@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/15/2022
+  course: PDS28431
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/9/2022
   course: LOP19092
   title: EVOC (Driving, Use of Force)
@@ -2395,10 +2401,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/12/2022
   expiration_date: 1/12/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/12/2022
-  expiration_date: 1/12/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -2407,18 +2409,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/25/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/25/2000

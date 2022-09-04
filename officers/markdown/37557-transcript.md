@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
-| Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
 | Certification Cards | First Aid | 11/5/2020 | 11/30/2022 |
-| Certification Cards | First Aid | 11/5/2020 | 11/30/2022 |
-| Code of Ethics | Signed | 12/20/2002 |  |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -105,6 +100,7 @@
 | 1/15/2020 | LOP15458 | DUII - 2020 Implied Consent Update | Passed | 0.0 | 0.50 |
 | 12/20/2019 | LOP02700 | Con-Sim | Passed | 0.0 | 1.50 |
 | 12/10/2019 | LOP21792 | Policy 324: Temporary Custody of Juveniles | Passed | 0.0 | 0.50 |
+| 12/10/2019 | LOP12561 | Policy 338 Review: Hate Crimes | Passed | 0.0 | 0.25 |
 | 12/3/2019 | LOP19038 | Changing the Narrative | Passed | 0.0 | 14.00 |
 | 11/26/2019 | LOP18818 | 40mm Less Lethal Impact Munition | Passed | 0.0 | 4.00 |
 | 11/4/2019 | LOP22343 | Ford Police Interceptor Utility Familiarization | Passed | 0.0 | 0.75 |

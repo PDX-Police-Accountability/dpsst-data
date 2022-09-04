@@ -38,11 +38,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 12/16/2021 | 12/16/2023 |
-| Certification Cards | First Aid and CPR | 12/16/2021 | 12/16/2023 |
-| Code of Ethics | Signed | 2/7/2012 |  |
 | Code of Ethics | Signed | 2/7/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -55,6 +51,10 @@
 | 5/11/2022 | HUP33125 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 5/10/2022 | SMP29046 | Quarterly Firearms Qualification | Passed | 0.0 | 2.00 |
 | 4/30/2022 | SMP00099 | Interacting with Mentally Ill as 1st Responder | Passed | 0.0 | 1.00 |
+| 4/15/2022 | F6R16068 | How to be Comfortable in Uncomfortable Convo | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 3.00 |
+| 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 1.00 |
 | 3/9/2022 | HUP14053 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |

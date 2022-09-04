@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2022 | PDS18918 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 6/9/2022 | PDS43165 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 6/8/2022 | PDS28698 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 6/7/2022 | PDS28342 | Use of Force Reports | Instructed | 0.0 | 3.00 |

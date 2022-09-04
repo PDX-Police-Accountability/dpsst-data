@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/31/2022
+  agency: Oregon Liquor and Cannabis Commission
+  action: Retired
+  rank: RegSpec
+  classification: ''
+  assignment: ''
 - date: 5/2/2017
   agency: Oregon Liquor and Cannabis Commission
   action: Hired
@@ -34,40 +40,40 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 5/14/2020
+  certificate: Police Officer
+  level: Advanced
+  status: Expired
+  certificate_date: 12/10/1998
+  expiration_date: ''
+  probation_date: ''
+- status_date: 5/14/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 12/20/1990
+  expiration_date: ''
+  probation_date: ''
+- status_date: 5/14/2020
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 12/10/1998
+  expiration_date: ''
+  probation_date: ''
+- status_date: 5/14/2020
+  certificate: Police Officer
+  level: Supervisory
+  status: Expired
+  certificate_date: 3/25/2009
+  expiration_date: ''
+  probation_date: ''
 - status_date: 11/5/2018
   certificate: Regulatory Specialist
   level: Basic
   status: Granted
   certificate_date: 11/5/2018
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/14/2015
-  certificate: Police Officer
-  level: Advanced
-  status: Lapsed
-  certificate_date: 12/10/1998
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/14/2015
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 12/20/1990
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/14/2015
-  certificate: Police Officer
-  level: Intermediate
-  status: Lapsed
-  certificate_date: 12/10/1998
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/14/2015
-  certificate: Police Officer
-  level: Supervisory
-  status: Lapsed
-  certificate_date: 3/25/2009
-  expiration_date: ''
+  expiration_date: 10/31/2022
   probation_date: ''
 training_records:
 - date: 6/1/2022
@@ -2047,18 +2053,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/4/2021
-  expiration_date: 8/4/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/4/2021
@@ -2066,14 +2060,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/15/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/15/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/20/2009
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

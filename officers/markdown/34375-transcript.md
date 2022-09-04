@@ -26,7 +26,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/8/2022 | Corrections Officer | Basic | App Incmpl |  | 10/8/2022 | 1/29/2022 |
+| 8/31/2022 | Corrections Officer | Basic | Granted | 8/31/2022 |  |  |
 | 6/22/2021 | Police Officer | Executive | Granted | 6/22/2021 |  |  |
 | 12/13/2019 | Police Officer | Management | Granted | 12/13/2019 |  |  |
 | 1/28/2013 | Police Officer | Supervisory | Granted | 1/28/2013 |  |  |
@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Code of Ethics | Signed | 4/24/2002 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
 ## Education
 | date | degree | school | major | hours |

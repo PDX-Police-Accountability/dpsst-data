@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 10/27/2005 |  |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -125,6 +121,7 @@
 | 1/9/2020 | F6D12325 | Human Trafficking Investigations | Passed | 0.0 | 2.00 |
 | 12/13/2019 | LOP22706 | How to Convict a Child Pornographer | Passed | 0.0 | 1.50 |
 | 12/10/2019 | LOP21792 | Policy 324: Temporary Custody of Juveniles | Passed | 0.0 | 0.50 |
+| 12/10/2019 | LOP12561 | Policy 338 Review: Hate Crimes | Passed | 0.0 | 0.25 |
 | 12/9/2019 | LOP15392 | Slaying iOS Investigations | Passed | 0.0 | 1.00 |
 | 12/4/2019 | LOP00465 | Specialized Location Reports:Crime to Courtroom | Passed | 0.0 | 1.00 |
 | 11/26/2019 | LOP18818 | 40mm Less Lethal Impact Munition | Passed | 0.0 | 4.00 |

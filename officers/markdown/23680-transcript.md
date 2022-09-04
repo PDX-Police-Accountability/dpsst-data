@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/31/2022 | Oregon Liquor and Cannabis Commission | Retired | RegSpec |  |  |
 | 5/2/2017 | Oregon Liquor and Cannabis Commission | Hired | RegSpec |  |  |
 | 5/14/2015 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 11/16/2005 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -19,23 +20,18 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/5/2018 | Regulatory Specialist | Basic | Granted | 11/5/2018 |  |  |
-| 8/14/2015 | Police Officer | Advanced | Lapsed | 12/10/1998 |  |  |
-| 8/14/2015 | Police Officer | Basic | Lapsed | 12/20/1990 |  |  |
-| 8/14/2015 | Police Officer | Intermediate | Lapsed | 12/10/1998 |  |  |
-| 8/14/2015 | Police Officer | Supervisory | Lapsed | 3/25/2009 |  |  |
+| 5/14/2020 | Police Officer | Advanced | Expired | 12/10/1998 |  |  |
+| 5/14/2020 | Police Officer | Basic | Expired | 12/20/1990 |  |  |
+| 5/14/2020 | Police Officer | Intermediate | Expired | 12/10/1998 |  |  |
+| 5/14/2020 | Police Officer | Supervisory | Expired | 3/25/2009 |  |  |
+| 11/5/2018 | Regulatory Specialist | Basic | Granted | 11/5/2018 | 10/31/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
 | Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Signed | 2/20/2009 |  |
 | Code of Ethics | Signed | 2/20/2009 |  |
 ## Education
 | date | degree | school | major | hours |

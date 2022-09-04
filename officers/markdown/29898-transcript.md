@@ -30,13 +30,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 12/15/2021 | 12/14/2023 |
 | Certification Cards | First Aid and CPR | 12/15/2021 | 12/14/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
-| Code of Ethics | Signed | 6/21/2001 |  |
 | Code of Ethics | Signed | 6/21/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +47,7 @@
 | 5/17/2022 | PDS14000 | Evidence Collection | Passed | 0.0 | 2.00 |
 | 5/17/2022 | PDS39883 | CIT | Passed | 0.0 | 4.00 |
 | 5/17/2022 | PDS19960 | Use of Force Reports | Passed | 0.0 | 3.00 |
+| 4/9/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |
 | 3/19/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/9/2022 | BPT10897 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |

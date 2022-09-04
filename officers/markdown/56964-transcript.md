@@ -23,16 +23,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
 | Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2019 | 12/31/2019 |
 | Maintenance Requirements | LE Annual | 1/1/2019 | 12/31/2019 |
 | Code of Ethics | Law Enforcement Signed | 2/1/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 2/1/2018 |  |
-| Code of Ethics | Signed | 2/21/2017 |  |
 | Code of Ethics | Signed | 2/21/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/17/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 5/25/2022 | PDP06062 | Redefine Police to Affirm  Instill Human Rights | Passed | 0.0 | 24.00 |
+| 5/25/2022 | PDP07322 | REPAIR - Trainer Training | Passed | 0.0 | 8.00 |
 | 5/20/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/20/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/20/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

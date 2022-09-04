@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/25/2022
+  course: NGP31743
+  title: Handcuffing  Restraints
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2022
+  course: NGP21069
+  title: WRAP Restraint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/13/2022
   course: OSH16712
   title: ARIDE

@@ -35,11 +35,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Code of Ethics | Signed | 9/6/2011 |  |
 | Code of Ethics | Signed | 9/6/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,6 +50,10 @@
 | 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/16/2022 | F6R32992 | Active Threat Response/Tactical Medicine | Passed | 0.0 | 2.00 |
 | 4/27/2022 | F6R18276 | Use of Force/Taser/40mm | Passed | 0.0 | 3.00 |
+| 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 3.00 |
+| 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
+| 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 3/25/2022 | CAP37217 | HB 2513 Airway and Circulatory Crisis Legislation | Passed | 0.0 | 2.00 |
 | 3/16/2022 | F6R37504 | Patrol Rifle Fundamentals and Qualification | Passed | 0.0 | 3.00 |

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2022
+  course: TGP20730
+  title: Pix4dMapper Basic for Public Safety (UAS)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/22/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -2365,18 +2371,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/1/2022
   expiration_date: 3/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/1/2022
-  expiration_date: 3/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

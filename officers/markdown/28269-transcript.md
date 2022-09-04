@@ -36,11 +36,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/9/2021 | 2/9/2023 |
-| Certification Cards | First Aid and CPR | 2/9/2021 | 2/9/2023 |
-| Code of Ethics | Signed | 2/20/2001 |  |
 | Code of Ethics | Signed | 2/20/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -56,6 +52,11 @@
 | 6/2/2022 | BNP18112 | Sleep Wellness | Passed | 0.0 | 0.50 |
 | 6/2/2022 | BNP19784 | 40MM Recertification | Passed | 0.0 | 0.50 |
 | 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
+| 4/15/2022 | F6R16068 | How to be Comfortable in Uncomfortable Convo | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 2.00 |
+| 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
+| 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
 | 2/9/2022 | BNP40597 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
 | 2/9/2022 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/9/2022 | BNP31744 | Mindfulness | Passed | 0.0 | 0.50 |

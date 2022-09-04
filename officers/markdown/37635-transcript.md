@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/27/2001 |  |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/31/2022 | EGP27956 | Briefing:  Oregon OHSA - Heat Prevention Training | Passed | 0.0 | 0.50 |
+| 7/31/2022 | EGP27956 | Briefing:  Oregon OSHA - Heat Prevention Training | Passed | 0.0 | 0.50 |
 | 6/30/2022 | EGP00110 | Briefing:  OSHA Wildlife Smoke Exposure | Passed | 0.0 | 0.50 |
 | 5/18/2022 | EGP12087 | Autism Spectrum Disorder/CIT | Passed | 0.0 | 0.75 |
 | 5/18/2022 | EGP26553 | Chief Briefing - Leadership | Passed | 0.0 | 0.75 |

@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 5/27/2022
+  course: PDP06860
+  title: OR Tactical Officer Assoc. Basic SWAT School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/5/2022
   course: PDP03522
   title: 2022 Queer Policy Pronouns

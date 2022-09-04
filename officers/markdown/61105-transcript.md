@@ -33,6 +33,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/25/2022 | NGP44362 | Taser 7 user transition course | Passed | 0.0 | 4.00 |
+| 8/25/2022 | NGP31743 | Handcuffing  Restraints | Passed | 0.0 | 2.00 |
+| 8/25/2022 | NGP21069 | WRAP Restraint | Passed | 0.0 | 1.00 |
 | 7/13/2022 | OSH16712 | ARIDE | Passed | 0.0 | 16.00 |
 | 6/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2022 | OSH37574 | Oregon State Police-Crisis Negotiator Training | Passed | 0.0 | 7.00 |
 | 8/5/2022 | OSH35861 | Tactical Decision Making | Passed | 0.0 | 2.00 |
 | 8/5/2022 | OSH12992 | Critical Incident Response | Passed | 0.0 | 2.00 |
 | 8/4/2022 | OSH22121 | PL 280 | Passed | 0.0 | 4.00 |

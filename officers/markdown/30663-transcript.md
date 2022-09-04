@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2022 | PDS00380 | CIT | Passed | 0.0 | 4.00 |
 | 5/21/2022 | PDS02476 | Use of Force Reports | Passed | 0.0 | 3.00 |
+| 4/18/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |
 | 4/5/2022 | PDS11149 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/29/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |
 | 1/14/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |

@@ -53,6 +53,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/14/2022
+  course: PDS28431
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/11/2022
   course: PDS05111
   title: Civil Process

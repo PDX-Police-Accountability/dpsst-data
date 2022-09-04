@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2022
+  course: ADP34286
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/1/2022
   course: TAP27190
   title: '3 Ways to Fight the #1 Killer of First Responders'
@@ -3164,14 +3170,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
@@ -3179,14 +3177,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 10/28/2020
   expiration_date: 10/28/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 10/28/2020
-  expiration_date: 10/28/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/10/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/10/2008

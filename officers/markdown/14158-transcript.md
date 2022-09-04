@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
-| Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
-| Code of Ethics | Signed | 2/7/2017 |  |
 | Code of Ethics | Signed | 2/7/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2022 | MKL36163 | Harvest and Compliance Dashboard Overview | Passed | 0.0 | 1.50 |
+| 8/24/2022 | MKL05871 | Resiliency | Passed | 0.0 | 3.00 |
 | 6/23/2022 | MKL06324 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 6/23/2022 | MKL27046 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |
 | 6/2/2022 | MKL24792 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |

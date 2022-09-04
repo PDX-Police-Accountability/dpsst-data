@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |
 | 4/28/2022 | PDS11149 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 4/23/2022 | PDS23113 | Use of Force | Passed | 0.0 | 4.00 |
 | 3/8/2022 | LOP23447 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |

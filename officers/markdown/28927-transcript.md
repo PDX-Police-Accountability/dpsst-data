@@ -26,13 +26,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 12/1/2021 | 12/1/2023 |
 | Certification Cards | First Aid and CPR | 12/1/2021 | 12/1/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 3/8/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/8/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2022 | MKL36163 | Harvest and Compliance Dashboard Overview | Passed | 0.0 | 1.50 |
 | 8/10/2022 | MKL24249 | Resiliency | Passed | 0.0 | 3.00 |
 | 7/29/2022 | MKL03056 | Wildfire Smoke Training | Passed | 0.0 | 1.00 |
 | 6/10/2022 | 22-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
@@ -47,6 +43,10 @@
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 4/19/2022 | MKL29255 | Metrc RFID Training | Passed | 0.0 | 8.00 |
 | 4/18/2022 | MKL44019 | Advanced Metrc Training | Passed | 0.0 | 8.00 |
+| 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 1.50 |
+| 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
+| 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 3/16/2022 | MKL41467 | Metrc Training | Passed | 0.0 | 3.00 |
 | 12/17/2021 | MKL22033 | Processing Mandatory Sex Trafficking Reports | Passed | 0.0 | 1.50 |
 | 12/17/2021 | MKL28110 | DOJ - Understanding and Addressing Sex Trafficking | Passed | 0.0 | 1.50 |

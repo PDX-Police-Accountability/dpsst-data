@@ -34,12 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 10/10/2007 |  |
 | Code of Ethics | Signed | 10/10/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -56,6 +52,11 @@
 | 5/18/2022 | F1519773 | One Chiefs Experience Leading NYPD | Passed | 0.0 | 2.00 |
 | 5/11/2022 | ICE15251 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 3.00 |
 | 4/16/2022 | ICE32474 | Ethics-Duty to Intercede | Passed | 0.0 | 1.00 |
+| 4/15/2022 | F6R16068 | How to be Comfortable in Uncomfortable Convo | Passed | 0.0 | 1.50 |
+| 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 3.00 |
+| 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
+| 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 3/29/2022 | ICE11766 | Firearms | Passed | 0.0 | 4.00 |
 | 3/28/2022 | ICE18493 | Annual Taser Certification | Passed | 0.0 | 1.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
