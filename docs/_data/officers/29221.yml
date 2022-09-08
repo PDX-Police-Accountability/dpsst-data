@@ -275,6 +275,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/14/2022
+  course: F6R12499
+  title: Legislative Briefing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/14/2022
+  course: F6R11889
+  title: The Journey to Midnight
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/13/2022
   course: F6R15850
   title: 'Heart Disease #1 Killer of Active  Retired Cops'

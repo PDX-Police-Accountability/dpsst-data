@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2022 | OCS14404 | One hand shooting, Qualification | Instructed | 0.0 | 2.00 |
 | 8/10/2022 | OCS07092 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 7/25/2022 | OCS30020 | Shotgun Orientation Training | Instructed | 0.0 | 2.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2022 | NGP16978 | Oregon SFST Refresher | Passed | 0.0 | 4.00 |
 | 8/25/2022 | NGP44362 | Taser 7 user transition course | Passed | 0.0 | 4.00 |
 | 8/25/2022 | NGP31743 | Handcuffing  Restraints | Passed | 0.0 | 2.00 |
 | 8/25/2022 | NGP21069 | WRAP Restraint | Passed | 0.0 | 1.00 |

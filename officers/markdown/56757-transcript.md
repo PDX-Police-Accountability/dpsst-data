@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/5/2022 | PSU22819 | Campus Based Training: Clery Act | Passed | 0.0 | 2.00 |
 | 8/25/2022 | PSU24314 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/19/2022 | PSU10134 | HB 2513 Airway, Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 7/27/2022 | PSU33623 | NOBLE Training Confrence 2022 | Passed | 0.0 | 32.00 |

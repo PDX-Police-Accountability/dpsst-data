@@ -55,6 +55,8 @@
 | 4/15/2022 | F6R16068 | How to be Comfortable in Uncomfortable Convo | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 2.00 |
+| 4/14/2022 | F6R12499 | Legislative Briefing | Passed | 0.0 | 1.00 |
+| 4/14/2022 | F6R11889 | The Journey to Midnight | Passed | 0.0 | 1.50 |
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
 | 2/9/2022 | BNP40597 | Taser Policy and Transition | Passed | 0.0 | 1.50 |

@@ -4,7 +4,7 @@
 | name | Sederholm, Alexander J. |
 | dpsst_identifier | 60962 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/26/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/21/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/7/2020 | Out of State Employment | Resigned | Police Off |  |  |
 | 11/11/2017 | Out of State Employment | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/3/2021 | Police Officer | Basic | Granted | 2/3/2021 |  |  |
+| 2/3/2021 | Police Officer | Basic | Granted | 2/3/2021 | 11/26/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

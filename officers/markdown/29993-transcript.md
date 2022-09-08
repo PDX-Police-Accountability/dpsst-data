@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/6/2022 | Hillsboro Police Department | Resigned | Police Off |  |  |
 | 5/10/2021 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 5/9/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/21/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
@@ -22,9 +23,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/11/2020 | Police Officer | Advanced | Granted | 12/11/2020 |  |  |
-| 12/11/2020 | Police Officer | Intermediate | Granted | 12/11/2020 |  |  |
-| 7/24/1995 | Police Officer | Basic | Granted | 7/24/1995 |  |  |
+| 12/11/2020 | Police Officer | Advanced | Granted | 12/11/2020 | 12/6/2022 |  |
+| 12/11/2020 | Police Officer | Intermediate | Granted | 12/11/2020 | 12/6/2022 |  |
+| 7/24/1995 | Police Officer | Basic | Granted | 7/24/1995 | 12/6/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

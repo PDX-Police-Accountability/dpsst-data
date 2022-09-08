@@ -56,6 +56,7 @@
 | 4/16/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 3.00 |
+| 4/14/2022 | F6R11889 | The Journey to Midnight | Passed | 0.0 | 1.50 |
 | 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 3/29/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

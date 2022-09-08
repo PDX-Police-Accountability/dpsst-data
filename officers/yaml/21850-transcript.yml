@@ -15,6 +15,12 @@ employment_records:
   rank: Chief
   classification: ''
   assignment: ''
+- date: 9/2/2022
+  agency: Salem Police Department
+  action: Resigned
+  rank: Dpty Chief
+  classification: ''
+  assignment: ''
 - date: 1/3/2017
   agency: Salem Police Department
   action: Hired
@@ -167,6 +173,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/14/2022
+  course: F6R12499
+  title: Legislative Briefing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/14/2022
+  course: F6R11889
+  title: The Journey to Midnight
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/13/2022
   course: F6R11911
   title: Leading During Unprecedented Times

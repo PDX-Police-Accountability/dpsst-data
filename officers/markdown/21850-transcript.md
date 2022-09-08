@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 9/6/2022 | Lake Oswego Police Department | Hired | Chief |  |  |
+| 9/2/2022 | Salem Police Department | Resigned | Dpty Chief |  |  |
 | 1/3/2017 | Salem Police Department | Hired | Dpty Chief |  |  |
 | 12/27/2016 | Portland Police Bureau | Resigned | Commander |  |  |
 | 2/21/2013 | Portland Police Bureau | Promotion | Commander |  |  |
@@ -54,6 +55,8 @@
 | 4/15/2022 | F6R16068 | How to be Comfortable in Uncomfortable Convo | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 3.00 |
+| 4/14/2022 | F6R12499 | Legislative Briefing | Passed | 0.0 | 1.00 |
+| 4/14/2022 | F6R11889 | The Journey to Midnight | Passed | 0.0 | 1.50 |
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 1.00 |
 | 3/9/2022 | HUP14053 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |

@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2022
+  course: OCS14404
+  title: One hand shooting, Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/10/2022
   course: OCS07092
   title: Shotgun Orientation

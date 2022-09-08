@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2022 | OSH27620 | ARIDE | Instructed | 0.0 | 8.00 |
 | 6/8/2022 | PLS29699 | ARIDE / Wet Lab | Instructed | 0.0 | 16.00 |
 | 6/8/2022 | F6R17453 | ARIDE/Wet Lab | Instructed | 0.0 | 16.00 |
 | 5/16/2022 | VND14835 | 40 Hour CIT 5/16/2022 - 5/20/2022 | Passed | 0.0 | 40.00 |

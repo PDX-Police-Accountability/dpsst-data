@@ -142,6 +142,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/22/2022
+  course: OSH27620
+  title: ARIDE
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/8/2022
   course: PLS29699
   title: ARIDE / Wet Lab
