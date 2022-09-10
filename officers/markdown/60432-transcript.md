@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2022 | PDP34805 | Standarized Field Sobriety Test Refresher | Passed | 0.0 | 7.00 |
 | 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/25/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/19/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

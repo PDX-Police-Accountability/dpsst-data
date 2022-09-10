@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Code of Ethics | Signed | 8/6/2001 |  |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 8/16/2022 | PDP20101 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 6/30/2022 | PDP10222 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 6/30/2022 | PDP27416 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |

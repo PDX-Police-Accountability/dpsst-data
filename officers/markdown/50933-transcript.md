@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 11/18/2009 |  |
 | Code of Ethics | Signed | 11/18/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/21/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 5/30/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/30/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

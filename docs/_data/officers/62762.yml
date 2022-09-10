@@ -60,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 8/3/2022
+  course: PDP33543
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/2/2022
+  course: PDP13212
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

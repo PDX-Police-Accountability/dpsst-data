@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
 | Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 8/15/2006 |  |
 | Code of Ethics | Signed | 8/15/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,7 @@
 | 6/4/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/4/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP37938 | Basic SWAT School | Passed | 0.0 | 40.00 |
+| 5/27/2022 | VND03045 | OTOA Basic SWAT Course | Passed | 0.0 | 40.00 |
 | 5/19/2022 | PDP03853 | K-9 Training: Build. Searches, Equipment, etc. | Passed | 0.0 | 3.00 |
 | 5/11/2022 | PDP42861 | K-9 Training: Debriefs, De-escelation, etc. | Passed | 0.0 | 2.00 |
 | 5/10/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

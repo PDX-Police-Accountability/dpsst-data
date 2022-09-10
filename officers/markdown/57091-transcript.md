@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Instructed | 0.0 | 4.00 |
+| 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Instructed | 0.0 | 7.00 |
+| 8/3/2022 | PDP33543 | Firearms Training | Instructed | 0.0 | 9.00 |
+| 8/2/2022 | PDP13212 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/1/2022 | PDP39626 | Firearms Training | Instructed | 0.0 | 4.00 |
 | 7/20/2022 | PDP15790 | Focused Intervention Team Firearms Training | Instructed | 0.0 | 5.00 |
 | 7/19/2022 | PDP30803 | General Firearms Training | Instructed | 0.0 | 3.00 |

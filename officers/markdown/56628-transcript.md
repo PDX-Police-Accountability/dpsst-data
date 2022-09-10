@@ -22,14 +22,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 10/24/2017 |  |
-| Code of Ethics | Signed | 10/24/2017 |  |
-| Code of Ethics | Signed | 11/6/2016 |  |
 | Code of Ethics | Signed | 11/6/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2022 | PDP09581 | Standardized Field Sobriety Refersher Training | Passed | 0.0 | 7.00 |
 | 5/12/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP09538 | 2022-1 Chief's Office House Bill 2928 (2021) | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP19930 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |

@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/14/2021 | 7/14/2023 |
-| Certification Cards | First Aid and CPR | 7/14/2021 | 7/14/2023 |
-| Code of Ethics | Signed | 5/28/2009 |  |
 | Code of Ethics | Signed | 5/28/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,7 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/5/2022 | PDP28401 | NW Gang Invest Assoc Training Symposium | Passed | 0.0 | 36.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 6/9/2022 | PDP31365 | Digital Video Evidence Recovery | Passed | 0.0 | 21.00 |
 | 6/4/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/4/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

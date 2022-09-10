@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 1/2/2002 |  |
 | Code of Ethics | Signed | 1/2/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | PDP40654 | Financial Records Examination  Analysis | Passed | 0.0 | 24.00 |
 | 6/30/2022 | PDP42779 | Assessment of Digital  Video Imaging DVITA | Passed | 0.0 | 30.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/20/2022 | PDP07312 | i2 Analysts Notebook Complete Course | Passed | 0.0 | 40.00 |

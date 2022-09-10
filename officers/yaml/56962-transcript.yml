@@ -49,12 +49,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2023
+  course: M31-21A
+  title: DPSST Parole and Probation Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
 - date: 9/26/2022
   course: 22-0005
   title: DPSST Basic Parole and Probation
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '200.00'
+- date: 9/5/2022
+  course: HBN10767
+  title: Airway Circulatory Anatomy and Physiology (ACAP)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/7/2022
   course: HBN39082
   title: Motivational Interviewing

@@ -37,6 +37,7 @@
 | 6/10/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/10/2022 | PDP22234 | DPSST SFST Instructors Course | Passed | 0.0 | 45.00 |
 | 5/31/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/26/2022 | PDP22172 | Standarized Field Sobriety Test Refresher Training | Passed | 0.0 | 9.00 |
 | 5/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/6/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/28/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

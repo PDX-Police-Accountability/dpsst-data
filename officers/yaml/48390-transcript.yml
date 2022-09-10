@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/17/2022
+  course: PDP02516
+  title: Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/5/2022
   course: PDP39781
   title: ICS-100 Intro to the Incident Cmmnd System
@@ -29,6 +35,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/9/2022
+  course: PDP38472
+  title: SharePoint Lesson Plan Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/6/2022
   course: PDP32165
   title: Crisis Negotiation Team Training

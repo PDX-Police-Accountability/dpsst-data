@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Code of Ethics | Signed | 12/10/2002 |  |
 | Code of Ethics | Signed | 12/10/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,7 @@
 | 5/23/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/23/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/23/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/16/2022 | PDP29974 | SharePoint Lesson Plan Training | Passed | 0.0 | 2.00 |
 | 5/1/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/1/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/3/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

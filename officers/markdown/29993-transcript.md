@@ -49,12 +49,14 @@
 | 12/1/2021 | HBP44370 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 11/17/2021 | F6E28456 | Tactical De-Escalation | Passed | 0.0 | 3.00 |
 | 11/17/2021 | F6E09452 | Firearms Training | Passed | 0.0 | 7.00 |
+| 9/26/2021 | HBP27735 | Body-Worn Camera Training | Passed | 0.0 | 0.50 |
 | 8/30/2021 | F6K23562 | Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
 | 7/14/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/30/2021 | F6E41157 | Wellness and Resilience Training | Passed | 0.0 | 3.00 |
 | 6/13/2021 | F6E36971 | ICS 100 | Passed | 0.0 | 2.00 |
 | 6/13/2021 | F6E21016 | ICS 700 | Passed | 0.0 | 2.00 |
 | 6/9/2021 | HBS35966 | CNU | Passed | 0.0 | 7.00 |
+| 5/13/2021 | HBP13562 | Body-Worn Camera Training | Passed | 0.0 | 2.00 |
 | 5/12/2021 | F6E26386 | Fair  Impartial Policing - Patrol | Passed | 0.0 | 8.00 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/6/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |

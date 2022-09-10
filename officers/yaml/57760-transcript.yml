@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2022
+  course: PDP02516
+  title: Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/2/2022
   course: PDP03251
   title: Real Time Cell Phone Investigations
@@ -57,6 +63,12 @@ training_records:
 - date: 5/27/2022
   course: PDP24393
   title: CSM - Crisis/Hostage Negotiation Level 1
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/27/2022
+  course: PDP15846
+  title: Crisis/ Hostage negotiation Course Level I Basic
   status: Passed
   score: '0.0'
   hours: '40.00'

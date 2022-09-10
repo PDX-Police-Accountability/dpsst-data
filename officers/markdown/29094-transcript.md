@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/21/2021 | 6/21/2023 |
-| Certification Cards | First Aid and CPR | 6/21/2021 | 6/21/2023 |
-| Code of Ethics | Signed | 11/22/2010 |  |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP15241 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
 | 8/2/2022 | PDP11268 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 8/2/2022 | PDP10693 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

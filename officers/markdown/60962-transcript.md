@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/20/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 5/26/2022 | PDP22172 | Standarized Field Sobriety Test Refresher Training | Passed | 0.0 | 9.00 |
 | 5/24/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/24/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/15/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

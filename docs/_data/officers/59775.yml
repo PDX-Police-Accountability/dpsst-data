@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 6/23/2022
+  course: PDP09581
+  title: Standardized Field Sobriety Refersher Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/16/2022
   course: PDP43947
   title: Directive 0500.00, Wellness Program

@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 9/6/2000 |  |
 | Code of Ethics | Signed | 9/6/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,8 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/18/2022 | PDP11656 | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 9.00 |
 | 6/1/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP24393 | CSM - Crisis/Hostage Negotiation Level 1 | Passed | 0.0 | 40.00 |
+| 5/16/2022 | PDP29974 | SharePoint Lesson Plan Training | Passed | 0.0 | 2.00 |
 | 5/3/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/3/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 4/21/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/14/2022 | 1/14/2024 |
-| Certification Cards | First Aid and CPR | 1/14/2022 | 1/14/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 11/20/2008 |  |
 | Code of Ethics | Signed | 11/20/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,7 @@
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/8/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP24393 | CSM - Crisis/Hostage Negotiation Level 1 | Passed | 0.0 | 40.00 |
+| 5/27/2022 | PDP15846 | Crisis/ Hostage negotiation Course Level I Basic | Passed | 0.0 | 40.00 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |

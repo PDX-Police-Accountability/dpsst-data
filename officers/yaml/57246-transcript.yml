@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/5/2022
+  course: HBN10767
+  title: Airway Circulatory Anatomy and Physiology (ACAP)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/29/2022
   course: HBN32368
   title: Officer Safety / Field Work Training and Scenarios

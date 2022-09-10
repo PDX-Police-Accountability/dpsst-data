@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2022 | PDP30727 | Advanced Roadside Impaired Driving Enforcement | Passed | 0.0 | 18.00 |
 | 7/13/2022 | OSH16712 | ARIDE | Passed | 0.0 | 16.00 |
 | 6/19/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/31/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 2/2/2009 |  |
 | Code of Ethics | Signed | 2/2/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2022 | PDP34805 | Standarized Field Sobriety Test Refresher | Passed | 0.0 | 7.00 |
 | 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 5/28/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/28/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

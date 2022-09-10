@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/23/2021 | 6/23/2023 |
-| Certification Cards | First Aid and CPR | 6/23/2021 | 6/23/2023 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP15241 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 5/17/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/17/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/4/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

@@ -50,6 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2022
+  course: PDP25074
+  title: Post DPSST Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/16/2022
+  course: PDP20101
+  title: SharePoint Lesson Plan Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/15/2022
+  course: PDP10686
+  title: Post DPSST Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/3/2022
+  course: PDP33543
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/2/2022
+  course: PDP13212
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/25/2022
   course: PDP27302
   title: Firearms Training
@@ -3899,26 +3929,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/21/2021
   expiration_date: 7/21/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/21/2021
-  expiration_date: 7/21/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/17/2003

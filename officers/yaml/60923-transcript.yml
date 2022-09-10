@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/14/2022
+  course: PDP30727
+  title: Advanced Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 7/13/2022
   course: OSH16712
   title: ARIDE

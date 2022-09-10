@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2022 | BNP43261 | Search and Seizure | Passed | 0.0 | 1.50 |
 | 6/2/2022 | BNP44068 | Active Threat Response | Passed | 0.0 | 3.00 |
 | 6/2/2022 | BNP34117 | OC Recertification | Passed | 0.0 | 0.50 |
 | 6/2/2022 | BNP19784 | 40MM Recertification | Passed | 0.0 | 0.50 |

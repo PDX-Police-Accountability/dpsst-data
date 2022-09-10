@@ -28,6 +28,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/25/2022 | PDP41303 | Intro to VCAD/MRE Training | Passed | 0.0 | 14.00 |
+| 8/23/2022 | PDP18192 | FTEP Orientation | Passed | 0.0 | 6.50 |
+| 8/22/2022 | PDP19818 | Control Tactics Training- Post Basic Academy | Passed | 0.0 | 4.00 |
+| 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Passed | 0.0 | 4.00 |
+| 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Passed | 0.0 | 7.00 |
 | 8/12/2022 | M10-21A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 6/16/2022 | F6R07258 | INTOX 8000 - Hours included in Basic | Passed | 0.0 | 6.00 |
 | 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Passed | 0.0 | 5.00 |

@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/17/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 5/25/2022 | PDP06062 | Redefine Police to Affirm  Instill Human Rights | Passed | 0.0 | 24.00 |
 | 5/25/2022 | PDP07322 | REPAIR - Trainer Training | Passed | 0.0 | 8.00 |
 | 5/20/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

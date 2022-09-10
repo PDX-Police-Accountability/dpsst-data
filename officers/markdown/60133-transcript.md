@@ -34,6 +34,7 @@
 | 8/17/2022 | PDP31730 | Critical Incident Stress Management | Passed | 0.0 | 27.00 |
 | 6/6/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/4/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/26/2022 | PDP22172 | Standarized Field Sobriety Test Refresher Training | Passed | 0.0 | 9.00 |
 | 5/16/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 4/30/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/30/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |

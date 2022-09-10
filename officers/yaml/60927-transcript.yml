@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2022
+  course: PDP09581
+  title: Standardized Field Sobriety Refersher Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/20/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

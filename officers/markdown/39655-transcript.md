@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Code of Ethics | Signed | 10/15/2002 |  |
 | Code of Ethics | Signed | 10/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2022 | PDP20101 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 8/1/2022 | PDP28903 | Legal Updates | Instructed | 0.0 | 1.00 |
 | 7/21/2022 | PDP37678 | SERT Firearms Training | Passed | 0.0 | 9.00 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Instructed | 0.0 | 9.00 |

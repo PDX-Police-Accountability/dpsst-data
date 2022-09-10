@@ -25,8 +25,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 8/5/2022 | PDP39781 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 3/9/2022 | PDP01777 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 2/24/2022 | PDP24753 | Crisis Negotiation Team Training | Passed | 0.0 | 27.00 |

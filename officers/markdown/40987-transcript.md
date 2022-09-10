@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Code of Ethics | Signed | 12/11/2001 |  |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP34757 | EDU Operations After-Action Briefs  Dispsal | Passed | 0.0 | 9.00 |
+| 8/3/2022 | PDP04404 | EDU Training- SPARTAN Robot Training | Passed | 0.0 | 9.00 |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Passed | 0.0 | 9.00 |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Passed | 0.0 | 9.00 |
 | 6/22/2022 | PDP17414 | EDU Weekly Training ATF E3/ Maintenance | Passed | 0.0 | 9.00 |
@@ -49,6 +47,7 @@
 | 6/8/2022 | PDP40534 | Weekly EDU Training-JCEM Course | Passed | 0.0 | 9.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/27/2022 | PDP37938 | Basic SWAT School | Passed | 0.0 | 40.00 |
+| 5/27/2022 | VND03045 | OTOA Basic SWAT Course | Passed | 0.0 | 40.00 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

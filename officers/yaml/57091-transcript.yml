@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2022
+  course: PDP25074
+  title: Post DPSST Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/15/2022
+  course: PDP10686
+  title: Post DPSST Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/3/2022
+  course: PDP33543
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/2/2022
+  course: PDP13212
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/1/2022
   course: PDP39626
   title: Firearms Training

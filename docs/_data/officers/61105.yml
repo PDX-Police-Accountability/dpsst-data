@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/26/2022
+  course: PDP22172
+  title: Standarized Field Sobriety Test Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/5/2022
   course: PDP21588
   title: 2022 PIT and Ramming

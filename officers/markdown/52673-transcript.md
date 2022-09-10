@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Signed | 1/18/2013 |  |
-| Code of Ethics | Signed | 1/18/2013 |  |
-| Code of Ethics | Signed | 7/23/2012 |  |
 | Code of Ethics | Signed | 7/23/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,7 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2022 | PDP19818 | Control Tactics Training- Post Basic Academy | Instructed | 0.0 | 4.00 |
 | 6/15/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 6/2/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Instructed | 0.0 | 18.00 |

@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Code of Ethics | Signed | 1/17/2003 |  |
 | Code of Ethics | Signed | 1/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Instructed | 0.0 | 4.00 |
+| 8/16/2022 | PDP20101 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
+| 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Instructed | 0.0 | 7.00 |
+| 8/3/2022 | PDP33543 | Firearms Training | Instructed | 0.0 | 9.00 |
+| 8/2/2022 | PDP13212 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 7/25/2022 | PDP27302 | Firearms Training | Instructed | 0.0 | 3.50 |
 | 7/20/2022 | PDP15790 | Focused Intervention Team Firearms Training | Instructed | 0.0 | 5.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Instructed | 0.0 | 6.00 |

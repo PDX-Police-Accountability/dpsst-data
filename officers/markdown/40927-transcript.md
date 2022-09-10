@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Code of Ethics | Signed | 12/9/2002 |  |
 | Code of Ethics | Signed | 12/9/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/28/2022 | PDP15037 | Natl. Technical Invest. Assoc. Training Conference | Passed | 0.0 | 40.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 6/17/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/14/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

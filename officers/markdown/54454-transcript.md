@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 4/7/2021 | 4/7/2023 |
 | Certification Cards | First Aid and CPR | 4/7/2021 | 4/7/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 7/16/2015 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2022 | PDP43037 | Elder Abuse Symposium | Passed | 0.0 | 5.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/31/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/17/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

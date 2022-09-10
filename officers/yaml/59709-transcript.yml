@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2022
+  course: BNP43261
+  title: Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/2/2022
   course: BNP44068
   title: Active Threat Response

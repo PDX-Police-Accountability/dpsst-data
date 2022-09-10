@@ -88,6 +88,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/14/2022
+  course: PDP09525
+  title: OR Narcotics Enforcement Association Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/30/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -3835,26 +3841,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/22/2021
   expiration_date: 7/22/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/22/2021
-  expiration_date: 7/22/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/13/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/13/2004

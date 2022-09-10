@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2022
+  course: PDP21061
+  title: Intl. Assoc. for Identification Education Conf.
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 6/15/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens
@@ -3301,14 +3307,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/9/2021
-  expiration_date: 6/9/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/9/2021
@@ -3317,14 +3315,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/7/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/7/2007

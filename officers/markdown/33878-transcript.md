@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 2/13/2007 |  |
 | Code of Ethics | Signed | 2/13/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/14/2022 | HDA16104 | 2022 ONEA Training Institute | Passed | 0.0 | 20.00 |
+| 7/14/2022 | PDP09525 | OR Narcotics Enforcement Association Conference | Passed | 0.0 | 24.00 |
 | 7/13/2022 | HDA29098 | Ethos Leadership | Passed | 0.0 | 4.00 |
 | 6/22/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

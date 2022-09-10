@@ -29,6 +29,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/1/2022 | PDP29324 | FTEP Orientation | Passed | 0.0 | 7.00 |
+| 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Passed | 0.0 | 4.00 |
+| 7/21/2022 | PDP21058 | Hazmat/ WMD Response Awareness Gas Mask Fitting | Passed | 0.0 | 3.00 |
 | 7/19/2022 | PDP30803 | General Firearms Training | Passed | 0.0 | 3.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Passed | 0.0 | 6.00 |
 | 7/14/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

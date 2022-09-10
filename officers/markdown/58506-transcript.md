@@ -42,6 +42,7 @@
 | 6/3/2022 | PDP24833 | Southern California Gang Conference | Passed | 0.0 | 36.00 |
 | 6/1/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP06860 | OR Tactical Officer Assoc. Basic SWAT School | Passed | 0.0 | 40.00 |
+| 5/27/2022 | VND03045 | OTOA Basic SWAT Course | Passed | 0.0 | 40.00 |
 | 5/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/27/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

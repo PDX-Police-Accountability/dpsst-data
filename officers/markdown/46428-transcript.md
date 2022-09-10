@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/15/2021 | 6/15/2023 |
-| Certification Cards | First Aid and CPR | 6/15/2021 | 6/15/2023 |
-| Code of Ethics | Signed | 1/31/2006 |  |
 | Code of Ethics | Signed | 1/31/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2022 | PDP15241 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 6/24/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/24/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/18/2022 | PDP13506 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |

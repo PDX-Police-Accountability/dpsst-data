@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 9/6/2000 |  |
 | Code of Ethics | Signed | 9/6/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 7/11/2022 | PDP40334 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/17/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |

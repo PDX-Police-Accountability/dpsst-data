@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 2/8/2007 |  |
 | Code of Ethics | Signed | 2/8/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 6/27/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/14/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

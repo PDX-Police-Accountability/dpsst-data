@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/15/2021 | 6/15/2023 |
-| Certification Cards | First Aid and CPR | 6/15/2021 | 6/15/2023 |
-| Code of Ethics | Signed | 10/18/2004 |  |
 | Code of Ethics | Signed | 10/18/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/17/2022 | PDP31730 | Critical Incident Stress Management | Instructed | 0.0 | 27.00 |
 | 6/25/2022 | PDP42874 | Group Crisis Intervention-CISM | Passed | 0.0 | 14.00 |
+| 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 5/28/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/3/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

@@ -22,11 +22,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/11/2021 | 6/11/2023 |
-| Certification Cards | First Aid and CPR | 6/11/2021 | 6/11/2023 |
-| Code of Ethics | Signed | 1/3/2012 |  |
 | Code of Ethics | Signed | 1/3/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 | 5/18/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/6/2022 | HBS40753 | Cellebrite Certified Physical Analyst | Passed | 0.0 | 21.00 |
+| 5/6/2022 | PDP29670 | Cellebrite Operator  Physical Analyst Training | Passed | 0.0 | 35.00 |
 | 5/3/2022 | HBS34823 | Cellebrite Certified Operator | Passed | 0.0 | 14.00 |
 | 5/3/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

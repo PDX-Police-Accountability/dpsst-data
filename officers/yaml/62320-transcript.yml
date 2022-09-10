@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 7/26/2022
+  course: PDP15933
+  title: Control Tactics Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/21/2022
+  course: PDP21058
+  title: Hazmat/ WMD Response Awareness Gas Mask Fitting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/19/2022
   course: PDP30803
   title: General Firearms Training

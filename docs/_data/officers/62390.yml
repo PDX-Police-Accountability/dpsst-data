@@ -30,6 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/25/2022
+  course: PDP41303
+  title: Intro to VCAD/MRE Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 8/23/2022
+  course: PDP18192
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 8/22/2022
+  course: PDP19818
+  title: Control Tactics Training- Post Basic Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/16/2022
+  course: PDP25074
+  title: Post DPSST Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/15/2022
+  course: PDP10686
+  title: Post DPSST Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/12/2022
   course: M10-21A
   title: DPSST Basic Police Course

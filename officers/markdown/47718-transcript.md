@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 3/7/2007 |  |
 | Code of Ethics | Signed | 3/7/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 6/30/2022 | PDP10222 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 6/30/2022 | PDP27416 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
@@ -50,6 +47,7 @@
 | 6/30/2022 | PDP27155 | Dir 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 6/22/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/13/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/10/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

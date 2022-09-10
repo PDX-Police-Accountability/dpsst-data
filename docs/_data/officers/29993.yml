@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 9/26/2021
+  course: HBP27735
+  title: Body-Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/30/2021
   course: F6K23562
   title: Bloodbourne Pathogens
@@ -176,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 5/13/2021
+  course: HBP13562
+  title: Body-Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/12/2021
   course: F6E26386
   title: Fair  Impartial Policing - Patrol

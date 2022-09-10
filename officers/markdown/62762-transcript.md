@@ -33,3 +33,5 @@
 | 8/11/2022 | PDP11019 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 8/11/2022 | PDP38997 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 8/8/2022 | PDP15565 | Policy and Procedure Training | Passed | 0.0 | 7.00 |
+| 8/3/2022 | PDP33543 | Firearms Training | Passed | 0.0 | 9.00 |
+| 8/2/2022 | PDP13212 | Firearms Training | Passed | 0.0 | 9.00 |

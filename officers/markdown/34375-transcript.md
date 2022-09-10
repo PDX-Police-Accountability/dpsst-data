@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Code of Ethics | Signed | 4/24/2002 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -55,6 +50,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/25/2022 | OSH41975 | Medicolegal Death Investigator In-Service | Passed | 0.0 | 1.50 |
 | 8/16/2022 | 21T002 | Corrections Field Training Manual | Completed | 0.0 | 50.00 |
+| 8/8/2022 | STS08197 | LEDS Inquiry Only Recertification | Passed | 0.0 | 1.00 |
 | 7/22/2022 | 22-0022 | Police to Corrections Certification Program | Passed | 0.0 | 80.00 |
 | 6/23/2022 | OSH24041 | Medicolegal Death Investigator In-Service | Passed | 0.0 | 1.50 |
 | 5/19/2022 | STS27683 | HB 2513 - Airway and Circulation Training | Passed | 0.0 | 2.00 |

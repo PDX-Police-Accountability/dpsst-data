@@ -30,12 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -55,6 +51,7 @@
 | 11/17/2021 | F6E28456 | Tactical De-Escalation | Passed | 0.0 | 3.00 |
 | 11/17/2021 | F6E09452 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/29/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/22/2021 | HBP36108 | Body-Worn Camera Training | Passed | 0.0 | 2.00 |
 | 7/21/2021 | F6F36220 | CIT | Passed | 0.0 | 1.00 |
 | 7/21/2021 | F6F36414 | EVOC - PIT | Passed | 0.0 | 5.00 |
 | 7/21/2021 | F6F14747 | WIN Investigation | Passed | 0.0 | 1.00 |

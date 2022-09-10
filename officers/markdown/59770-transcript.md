@@ -32,6 +32,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2022 | PDP27302 | Firearms Training | Passed | 0.0 | 3.50 |
 | 5/27/2022 | PDP06860 | OR Tactical Officer Assoc. Basic SWAT School | Passed | 0.0 | 40.00 |
+| 5/27/2022 | VND03045 | OTOA Basic SWAT Course | Passed | 0.0 | 40.00 |
 | 5/5/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
