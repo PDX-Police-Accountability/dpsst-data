@@ -4,7 +4,7 @@
 | name | Trapp, Todd D. |
 | dpsst_identifier | 56260 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/22/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/1/2021 | Canby Police Department | Hired | Police Off |  |  |
 | 7/28/2016 | Portland Police Bureau | Hired | Police Off |  |  |

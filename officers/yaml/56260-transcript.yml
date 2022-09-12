@@ -3,12 +3,18 @@ header_record:
   name: Trapp, Todd D.
   dpsst_identifier: '56260'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/22/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/1/2021
   agency: Portland Police Bureau
   action: Resigned

@@ -86,6 +86,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 7/27/2022
+  course: HBP34367
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/8/2022
   course: HBP34760
   title: Range / Force and Tactics

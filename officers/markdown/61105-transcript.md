@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/23/2022 | Newberg-Dundee Police Department | Hired | Police Off |  |  |
 | 8/22/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/11/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/12/2022 | Police Officer | Basic | Granted | 1/12/2022 | 11/22/2022 |  |
+| 1/12/2022 | Police Officer | Basic | Granted | 1/12/2022 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

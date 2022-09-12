@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
+| 7/20/2022 | HBP17844 | EVOC | Passed | 0.0 | 1.00 |
 | 6/22/2022 | HBP00888 | Range/Force and Tactics | Passed | 0.0 | 7.00 |
 | 5/26/2022 | ALP42345 | The C.A.L.M. Approach | Passed | 0.0 | 8.00 |
 | 4/6/2022 | HBS03046 | 28CFR-PART 23: RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |

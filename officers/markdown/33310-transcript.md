@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/14/2022 | 3/10/2024 |
-| Certification Cards | First Aid and CPR | 3/14/2022 | 3/10/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2022 | MMP25020 | Firearms training | Passed | 0.0 | 4.00 |
+| 8/17/2022 | MMP18604 | DT training | Passed | 0.0 | 4.00 |
 | 7/20/2022 | MMP25703 | SART training / Evidence Collection | Passed | 0.0 | 1.50 |
 | 7/3/2022 | MMP08519 | Police One Academy - Ethics in LE | Passed | 0.0 | 1.00 |
 | 5/25/2022 | MMP29448 | Firearms Qualifications | Passed | 0.0 | 3.00 |

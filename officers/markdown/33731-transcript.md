@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | First Aid/CPR Required | 9/8/2022 | 9/8/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 9/8/2022 | 9/8/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/23/2001 |  |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/8/2022 | PDN17455 | Confrontational Simulation Off Duty Encounters | Passed | 0.0 | 1.50 |
 | 8/24/2022 | PDN02361 | Working with the Mentally Ill | Passed | 0.0 | 1.50 |
 | 8/17/2022 | PDN09049 | Fentanyl Safety  Awareness | Passed | 0.0 | 4.00 |
 | 7/28/2022 | PDN27787 | Confrontational Simulation Search and Seizure | Passed | 0.0 | 1.50 |

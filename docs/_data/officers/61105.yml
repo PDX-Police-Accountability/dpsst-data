@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/23/2022
+  agency: Newberg-Dundee Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/22/2022
   agency: Portland Police Bureau
   action: Resigned
@@ -27,7 +33,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 1/12/2022
-  expiration_date: 11/22/2022
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 8/26/2022

@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/8/2022
+  course: MKL18517
+  title: Rec MJ Compliance Dashboard Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/1/2022
   course: MKL36163
   title: Harvest and Compliance Dashboard Overview
@@ -1480,18 +1486,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/1/2021
-  expiration_date: 12/1/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/1/2021
@@ -1499,14 +1493,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/15/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/15/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/8/2018
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
