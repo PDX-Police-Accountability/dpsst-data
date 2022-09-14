@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2022 | PDP32113 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 7/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 7/22/2022 | HBS27202 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 6/17/2022 | PDP17470 | Essential Ridgeology Concepts | Passed | 0.0 | 40.00 |

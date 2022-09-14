@@ -70,6 +70,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2022
+  course: WBP44011
+  title: 'Hazard Communication: The New GHS Standard'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2022
+  course: WBP25892
+  title: Bloodborne Pathogens for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2022
+  course: WBP29056
+  title: 'Use of Force: Ethical Considerations'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/14/2022
   course: WBP20400
   title: Pistol Mounted Optics Instructor course
@@ -232,6 +250,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/1/2021
+  course: WBP20186
+  title: Red Flex Trf Sys Police Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/26/2021
   course: F6F29635
   title: Covid-19 Training Requirements

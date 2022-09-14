@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2022
+  course: PDP30199
+  title: OR Peace Ofc. Assoc. Search Warrant Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/5/2022
   course: PDP17961
   title: Global Leadership Summit

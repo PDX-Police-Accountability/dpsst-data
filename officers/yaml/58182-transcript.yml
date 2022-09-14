@@ -30,6 +30,12 @@ certification_records:
   expiration_date: 2/8/2027
   probation_date: ''
 training_records:
+- date: 8/24/2022
+  course: PDP01127
+  title: 'K-9 Training: Obedience, Control, Equipment, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/30/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

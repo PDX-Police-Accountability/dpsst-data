@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2022 | PDP21109 | OR Peace Ofc. Assoc. Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
 | 8/5/2022 | PDP34106 | NW Gang Investigators Assoc Training Symposium | Passed | 0.0 | 36.00 |
 | 7/20/2022 | PDP15790 | Focused Intervention Team Firearms Training | Passed | 0.0 | 5.00 |
@@ -41,6 +42,7 @@
 | 6/30/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 6/28/2022 | VND33109 | Firearm and Vehicle Tactics | Passed | 0.0 | 8.00 |
+| 6/28/2022 | PDP27940 | OR Peace Ofc. Assoc. Firearm  Vehicle Tactics | Passed | 0.0 | 8.00 |
 | 6/24/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |

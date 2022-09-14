@@ -44,18 +44,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 8/4/2022
-  course: NGP18665
-  title: Handcuffing  Restraints
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 8/4/2022
-  course: NGP36663
-  title: WRAP Restraint
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 7/13/2022
   course: PDP31347
   title: Crisis Negotiation Team Training

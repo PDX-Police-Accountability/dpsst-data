@@ -12,12 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/12/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
+| 4/13/2022 | Gresham Police Department | Hired | Police Off |  |  |
 | 12/7/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/23/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/7/2022 | Police Officer | Basic | Lapsed | 10/19/2021 | 12/7/2026 |  |
+| 3/7/2022 | Police Officer | Basic | Lapsed | 10/19/2021 | 7/12/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

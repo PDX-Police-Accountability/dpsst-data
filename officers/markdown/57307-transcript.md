@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2022 | PDP21109 | OR Peace Ofc. Assoc. Open Source Intelligence | Passed | 0.0 | 8.00 |
 | 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
 | 8/5/2022 | PDP34106 | NW Gang Investigators Assoc Training Symposium | Passed | 0.0 | 36.00 |
 | 7/24/2022 | PDP15790 | Focused Intervention Team Firearms Training | Passed | 0.0 | 5.00 |

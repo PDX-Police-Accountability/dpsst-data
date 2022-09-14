@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2022 | PDP30199 | OR Peace Ofc. Assoc. Search Warrant Training | Passed | 0.0 | 7.00 |
 | 8/5/2022 | PDP17961 | Global Leadership Summit | Passed | 0.0 | 11.75 |
 | 8/2/2022 | PDP03251 | Real Time Cell Phone Investigations | Passed | 0.0 | 16.00 |
 | 6/7/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

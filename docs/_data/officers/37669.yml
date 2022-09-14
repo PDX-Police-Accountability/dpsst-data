@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/25/2022
+  course: PDP13877
+  title: SERT QRT Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/30/2022
   course: PDP07658
   title: Hostage Rescue  Breaching

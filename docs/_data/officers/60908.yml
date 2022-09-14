@@ -9,6 +9,18 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/12/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 4/13/2022
+  agency: Gresham Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/7/2021
   agency: Portland Police Bureau
   action: Resigned
@@ -27,7 +39,7 @@ certification_records:
   level: Basic
   status: Lapsed
   certificate_date: 10/19/2021
-  expiration_date: 12/7/2026
+  expiration_date: 7/12/2027
   probation_date: ''
 training_records:
 - date: 11/10/2021

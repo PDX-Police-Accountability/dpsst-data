@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/24/2022
+  course: PDP01127
+  title: 'K-9 Training: Obedience, Control, Equipment, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/27/2022
   course: PDP35512
   title: 'K9 Weekly Training: Searches, obedience, OPCA'

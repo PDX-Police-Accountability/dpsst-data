@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2022 | WBP44011 | Hazard Communication: The New GHS Standard | Passed | 0.0 | 1.00 |
+| 9/1/2022 | WBP25892 | Bloodborne Pathogens for Law Enforcement | Passed | 0.0 | 1.00 |
+| 9/1/2022 | WBP29056 | Use of Force: Ethical Considerations | Passed | 0.0 | 1.00 |
 | 7/14/2022 | WBP20400 | Pistol Mounted Optics Instructor course | Passed | 0.0 | 24.00 |
 | 6/30/2022 | WBP17534 | Second Quarter Firearms Qualification | Passed | 0.0 | 0.50 |
 | 6/28/2022 | VND33109 | Firearm and Vehicle Tactics | Passed | 0.0 | 8.00 |
@@ -64,6 +67,7 @@
 | 9/15/2021 | F6F09608 | 2021 Your Role: Internet Security and You | Passed | 0.0 | 0.50 |
 | 8/11/2021 | REG17668 | Firearms Training | Passed | 0.0 | 4.00 |
 | 8/5/2021 | F6E07485 | Bloodborne Pathogens for Law Enforcement Officers | Passed | 0.0 | 1.00 |
+| 6/1/2021 | WBP20186 | Red Flex Trf Sys Police Training | Passed | 0.0 | 4.00 |
 | 4/26/2021 | F6F29635 | Covid-19 Training Requirements | Passed | 0.0 | 1.00 |
 | 4/26/2021 | F6F39559 | New Employee Safety Orientation | Passed | 0.0 | 1.00 |
 | 4/20/2021 | F6D25246 | Annual Spring Firearms Training | Passed | 0.0 | 4.00 |

@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/19/2022
+  course: PDP39643
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/16/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

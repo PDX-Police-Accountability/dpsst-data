@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/3/2022
+  course: PDP32113
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/22/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
