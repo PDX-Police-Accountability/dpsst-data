@@ -1425,4 +1425,12 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/10/2021
+  expiration_date: 5/10/2023
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 5/13/2019
+  expiration_date: ''
 education_records: []
