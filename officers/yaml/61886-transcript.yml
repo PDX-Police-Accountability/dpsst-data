@@ -599,6 +599,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/2/2021
   expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 8/2/2021
+  expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/27/2021
+  expiration_date: 7/27/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/27/2021
