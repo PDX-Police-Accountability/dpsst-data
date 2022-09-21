@@ -80,6 +80,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 7/27/2022
+  course: PDS33362
+  title: CPR-First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/26/2022
   course: PDS13285
   title: Homeless Outreach Program
@@ -92,6 +104,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/26/2022
+  course: PDS33712
+  title: Policy Access
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/26/2022
+  course: PDS14394
+  title: Narcan
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/22/2022
+  course: PDS00058
+  title: Uncontrolled Environments
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/21/2022
+  course: PDS34630
+  title: Off-Duty Carry
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/21/2022
+  course: PDS40989
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/21/2022
+  course: PDS19627
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 7/21/2022
+  course: PDS24488
+  title: OC Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/20/2022
+  course: PDS35542
+  title: Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/14/2022
+  course: PDS06402
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/13/2022
+  course: PDS26289
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/12/2022
+  course: PDS10955
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/11/2022
+  course: PDS15319
+  title: Ethics  IAU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/11/2022
+  course: PDS34747
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/7/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -3697,14 +3787,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/27/2022
-  expiration_date: 7/23/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/27/2022
@@ -3717,26 +3799,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/2/2021
   expiration_date: 6/2/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/2/2021
-  expiration_date: 6/2/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/7/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/7/2011

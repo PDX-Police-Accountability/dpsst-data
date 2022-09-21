@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/9/2022 | 2/9/2024 |
-| Certification Cards | First Aid and CPR | 2/9/2022 | 2/9/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 12/20/2002 |  |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -62,6 +58,7 @@
 | 11/30/2020 | PPP17992 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 11/23/2020 | F6E27464 | ICAT Mod 1-5 | Passed | 0.0 | 1.00 |
 | 11/23/2020 | F6E41135 | ICAT Mod 1-5 | Passed | 0.0 | 8.00 |
+| 11/16/2020 | PPP09205 | ICS 100 | Passed | 0.0 | 1.00 |
 | 9/24/2020 | PPP05349 | TASER 7 Certificartion | Passed | 0.0 | 8.00 |
 | 9/20/2020 | PPP43784 | Conflict  Dispute Resolution | Passed | 0.0 | 1.00 |
 | 5/9/2020 | PPP40037 | First Responders, Stress Mnmt  Coronavirus | Passed | 0.0 | 1.00 |

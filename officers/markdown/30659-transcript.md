@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 11/22/2021 | 10/28/2023 |
 | Certification Cards | First Aid and CPR | 11/22/2021 | 10/28/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 12/14/2001 |  |
 | Code of Ethics | Signed | 12/14/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,7 @@
 | 5/12/2022 | PDS12287 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 5/12/2022 | PDS16493 | CIT | Passed | 0.0 | 4.00 |
 | 4/13/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |
+| 4/13/2022 | PDS32227 | ADA Policy | Passed | 0.0 | 1.00 |
 | 3/22/2022 | PDS19200 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 3/22/2022 | PDS00390 | Medication Supported Recovery | Passed | 0.0 | 0.50 |
 | 1/13/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |

@@ -28,10 +28,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
-| Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,7 +39,23 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/27/2022 | PDS06193 | Civil Process | Passed | 0.0 | 1.00 |
 | 7/27/2022 | PDS34931 | ICS-800 | Passed | 0.0 | 3.00 |
+| 7/27/2022 | PDS33362 | CPR-First Aid | Passed | 0.0 | 2.00 |
+| 7/27/2022 | PDS33712 | Policy Access | Passed | 0.0 | 0.50 |
+| 7/27/2022 | PDS14394 | Narcan | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDS13285 | Homeless Outreach Program | Passed | 0.0 | 1.00 |
+| 7/22/2022 | PDS00058 | Uncontrolled Environments | Passed | 0.0 | 8.00 |
+| 7/21/2022 | PDS40989 | Range Qualification | Passed | 0.0 | 2.00 |
+| 7/21/2022 | PDS19627 | Firearms Training | Passed | 0.0 | 21.00 |
+| 7/21/2022 | PDS24488 | OC Training | Passed | 0.0 | 4.00 |
+| 7/21/2022 | PDS34630 | Off-Duty Carry | Passed | 0.0 | 1.00 |
+| 7/20/2022 | PDS35542 | Mental Health First Aid | Passed | 0.0 | 8.00 |
+| 7/14/2022 | PDS06402 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 7/13/2022 | PDS26289 | Use of Force | Passed | 0.0 | 4.00 |
+| 7/12/2022 | PDS10955 | OSHA | Passed | 0.0 | 2.00 |
+| 7/12/2022 | PDS27587 | Wellness Program | Passed | 0.0 | 2.00 |
+| 7/12/2022 | PDS32227 | ADA Policy | Passed | 0.0 | 1.00 |
+| 7/11/2022 | PDS15319 | Ethics  IAU | Passed | 0.0 | 2.00 |
+| 7/11/2022 | PDS34747 | PREA | Passed | 0.0 | 2.00 |
 | 2/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/10/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |

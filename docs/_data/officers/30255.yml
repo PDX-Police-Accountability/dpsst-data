@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2022
+  course: REG31188
+  title: EVOIC-Advanced Dynamic and Driver Behavior
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/1/2021
   course: BPT22774
   title: EVO Instructor - Adv. Diagnostic  Driver Eval.
@@ -3623,10 +3629,6 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/5/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/5/2001

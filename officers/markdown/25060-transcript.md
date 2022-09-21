@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Code of Ethics | Signed | 12/4/2007 |  |
 | Code of Ethics | Signed | 12/4/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2022 | WBP22329 | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 9/1/2022 | WBP44011 | Hazard Communication: The New GHS Standard | Passed | 0.0 | 1.00 |
 | 9/1/2022 | WBP25892 | Bloodborne Pathogens for Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/1/2022 | WBP29056 | Use of Force: Ethical Considerations | Passed | 0.0 | 1.00 |

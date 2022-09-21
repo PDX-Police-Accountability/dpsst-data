@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/13/2022
+  course: PDS32227
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/22/2022
   course: PDS19200
   title: Airway  Circulatory Crisis Training  Response
@@ -1279,14 +1285,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/22/2021
-  expiration_date: 10/28/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/22/2021
@@ -1295,14 +1293,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/14/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/14/2001

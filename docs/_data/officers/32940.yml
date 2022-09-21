@@ -57,6 +57,12 @@ certification_records:
   expiration_date: 1/4/2027
   probation_date: ''
 training_records:
+- date: 9/1/2022
+  course: PDP41139
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/9/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

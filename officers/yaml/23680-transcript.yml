@@ -82,6 +82,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/1/2022
+  course: MKL27719
+  title: CORRECTED - MKL12465
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/31/2022
   course: MKL34858
   title: ACAP Training Video

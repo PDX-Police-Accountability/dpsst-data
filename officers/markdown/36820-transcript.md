@@ -22,8 +22,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/1/2022 | Police Officer | Executive | App Recd |  |  |  |
-| 9/1/2022 | Police Officer | Management | App Recd |  |  |  |
+| 9/19/2022 | Police Officer | Executive | App Incmpl |  | 11/19/2022 |  |
+| 9/19/2022 | Police Officer | Management | App Incmpl |  | 11/19/2022 |  |
 | 10/31/2011 | Police Officer | Advanced | Granted | 10/31/2011 |  |  |
 | 10/31/2011 | Police Officer | Intermediate | Granted | 10/31/2011 |  |  |
 | 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 |  |  |
@@ -33,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/28/2021 | 7/28/2023 |
-| Certification Cards | First Aid and CPR | 7/28/2021 | 7/28/2023 |
-| Code of Ethics | Signed | 10/31/2011 |  |
 | Code of Ethics | Signed | 10/31/2011 |  |
 ## Education
 | date | degree | school | major | hours |

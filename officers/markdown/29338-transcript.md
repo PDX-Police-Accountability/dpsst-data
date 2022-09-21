@@ -30,16 +30,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/7/2011 |  |
 | Code of Ethics | Signed | 12/7/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,8 +42,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/27/2022 | PDS33362 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/26/2022 | PDS13285 | Homeless Outreach Program | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDS06193 | Civil Process | Passed | 0.0 | 1.00 |
+| 7/26/2022 | PDS33712 | Policy Access | Passed | 0.0 | 0.50 |
+| 7/26/2022 | PDS14394 | Narcan | Passed | 0.0 | 1.00 |
+| 7/22/2022 | PDS00058 | Uncontrolled Environments | Passed | 0.0 | 8.00 |
+| 7/21/2022 | PDS34630 | Off-Duty Carry | Passed | 0.0 | 1.00 |
+| 7/21/2022 | PDS40989 | Range Qualification | Passed | 0.0 | 2.00 |
+| 7/21/2022 | PDS19627 | Firearms Training | Passed | 0.0 | 21.00 |
+| 7/21/2022 | PDS24488 | OC Training | Passed | 0.0 | 4.00 |
+| 7/20/2022 | PDS35542 | Mental Health First Aid | Passed | 0.0 | 8.00 |
+| 7/14/2022 | PDS06402 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 7/13/2022 | PDS26289 | Use of Force | Passed | 0.0 | 4.00 |
+| 7/12/2022 | PDS10955 | OSHA | Passed | 0.0 | 2.00 |
+| 7/11/2022 | PDS15319 | Ethics  IAU | Passed | 0.0 | 2.00 |
+| 7/11/2022 | PDS34747 | PREA | Passed | 0.0 | 2.00 |
 | 6/7/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/7/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/7/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
