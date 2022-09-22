@@ -28,8 +28,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/30/2022 | PDP40385 | Control Tactics Training (Post Academy) | Passed | 0.0 | 4.00 |
 | 8/25/2022 | PDP41303 | Intro to VCAD/MRE Training | Passed | 0.0 | 14.00 |
 | 8/23/2022 | PDP18192 | FTEP Orientation | Passed | 0.0 | 6.50 |
+| 8/17/2022 | PDP07049 | CEW Training Course: Axon Taser V22 PP | Passed | 0.0 | 7.00 |
 | 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Passed | 0.0 | 4.00 |
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Passed | 0.0 | 7.00 |
 | 8/12/2022 | M10-21A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |

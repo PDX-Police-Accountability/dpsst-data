@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/30/2022
+  course: PDP40385
+  title: Control Tactics Training (Post Academy)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/25/2022
   course: PDP41303
   title: Intro to VCAD/MRE Training
@@ -42,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 8/17/2022
+  course: PDP07049
+  title: 'CEW Training Course: Axon Taser V22 PP'
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/16/2022
   course: PDP25074
   title: Post DPSST Firearms Training

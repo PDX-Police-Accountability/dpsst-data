@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2022
+  course: PDP40385
+  title: Control Tactics Training (Post Academy)
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/15/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

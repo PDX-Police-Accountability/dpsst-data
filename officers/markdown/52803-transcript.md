@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/12/2022 | PDP00518 | Advanced Traffic Crash Investigation | Passed | 0.0 | 80.00 |
 | 7/22/2022 | PDP19082 | At-Scene Traffic Crash Homicide Investigation | Passed | 0.0 | 80.00 |
 | 6/14/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/31/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

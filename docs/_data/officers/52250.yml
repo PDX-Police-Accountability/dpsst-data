@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 8/30/2022
+  course: VND10006
+  title: 'Search Warrants: Not as Painful As You Think'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/5/2022
   course: PDP17961
   title: Global Leadership Summit

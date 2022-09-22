@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/12/2022
+  course: PDP00518
+  title: Advanced Traffic Crash Investigation
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 7/22/2022
   course: PDP19082
   title: At-Scene Traffic Crash Homicide Investigation

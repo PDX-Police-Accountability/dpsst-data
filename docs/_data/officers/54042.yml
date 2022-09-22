@@ -42,6 +42,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/1/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/1/2022
+  course: OCS20390
+  title: Ethics- online
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/1/2022
+  course: OCS19556
+  title: Ethics- online
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/30/2022
   course: OCS12963
   title: De-Escalation

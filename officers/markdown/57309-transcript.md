@@ -38,10 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 6/30/2022 | OCS21814 | Ground Fightint | Passed | 0.0 | 1.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/3/2022 | OCS10265 | SWAT firearms | Passed | 0.0 | 10.00 |
+| 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
+| 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Passed | 0.0 | 32.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |

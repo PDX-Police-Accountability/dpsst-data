@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/30/2022
   course: OCS12963
   title: De-Escalation
@@ -60,6 +66,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/19/2022
+  course: OCS27163
+  title: Ethos training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/19/2022
+  course: OCS06518
+  title: Ethos training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/4/2022
   course: F6R00500
   title: EVOC and PIT

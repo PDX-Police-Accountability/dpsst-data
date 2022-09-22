@@ -61,6 +61,9 @@
 | 2/28/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/28/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 2/24/2022 | PDP24753 | Crisis Negotiation Team Training | Passed | 0.0 | 27.00 |
+| 2/10/2022 | PDP22251 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/10/2022 | PDP11554 | 2022-1 Range Qualification Secondary Firearm 50 Rd | Passed | 0.0 | 0.50 |
+| 2/10/2022 | PDP10157 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.15 |
 | 2/3/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 1/13/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/6/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
@@ -103,6 +106,8 @@
 | 8/25/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/25/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 8/17/2021 | PDP21561 | 2021 CNT Annual Training | Passed | 0.0 | 9.00 |
+| 7/13/2021 | PDP40787 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/13/2021 | PDP29293 | 2021-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.15 |
 | 7/7/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/24/2021 | PDP06069 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/18/2021 | PDP01463 | 2021 EAP Program and Resources Updates | Passed | 0.0 | 4.00 |

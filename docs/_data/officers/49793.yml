@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/9/2022
+  course: CIF30497
+  title: American Heart Association Instructor Recert BLS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/6/2022
   course: CIF04510
   title: Patrol Rifle Training

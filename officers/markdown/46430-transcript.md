@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2022 | PDP40385 | Control Tactics Training (Post Academy) | Instructed | 0.0 | 4.00 |
 | 8/22/2022 | PDP19818 | Control Tactics Training- Post Basic Academy | Instructed | 0.0 | 4.00 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Instructed | 0.0 | 4.00 |
 | 6/21/2022 | PDP12874 | Use of Force Handcuffing | Instructed | 0.0 | 4.00 |

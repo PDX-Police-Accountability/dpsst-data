@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/10/2022
+  course: MAP31419
+  title: Taser Annual Re-Certification Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/29/2022
   course: MAP35999
   title: BUILDING SEARCH TACTICS I

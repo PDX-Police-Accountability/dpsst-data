@@ -38,6 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/7/2022
+  course: PDP26126
+  title: 'EDU Training: Spartan, F6B, ICOR, Carbon Fire'
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/31/2022
+  course: PDP22945
+  title: Tactical rigging, robot/bag attack, bomb suit
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/24/2022
+  course: PDP32535
+  title: 'EDU Training: Rigging  Robot Operations'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/3/2022
   course: HBS05929
   title: Rifle Instructor Update

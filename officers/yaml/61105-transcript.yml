@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/24/2022
+  course: NGP09490
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 7/13/2022
   course: OSH16712
   title: ARIDE

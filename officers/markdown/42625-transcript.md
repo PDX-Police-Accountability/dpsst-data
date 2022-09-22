@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | PDP07049 | CEW Training Course: Axon Taser V22 PP | Instructed | 0.0 | 7.00 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Instructed | 0.0 | 4.00 |
 | 5/11/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/4/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

@@ -98,6 +98,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP00431
+  title: Suicide Prevention/Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/8/2022
   course: PDP21753
   title: Peer Support Role in Member Serious Injury/LODD

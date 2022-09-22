@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2022 | PDP38929 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 8/26/2022 | PDP06663 | Law Enforcement Training Camp | Passed | 0.0 | 40.00 |
 | 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Instructed | 0.0 | 4.00 |
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Instructed | 0.0 | 7.00 |
 | 8/3/2022 | PDP33543 | Firearms Training | Instructed | 0.0 | 9.00 |

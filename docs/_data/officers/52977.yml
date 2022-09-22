@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2022
+  course: PDP07049
+  title: 'CEW Training Course: Axon Taser V22 PP'
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/16/2022
   course: PDP20101
   title: SharePoint Lesson Plan Training

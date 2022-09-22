@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2022
+  course: PDP38929
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/26/2022
+  course: PDP06663
+  title: Law Enforcement Training Camp
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/16/2022
   course: PDP25074
   title: Post DPSST Firearms Training

@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2022 | OSH37404 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
+| 9/16/2022 | OSH05936 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
 | 9/2/2022 | OSH42024 | 2nd Trimester DT / Taser Recertification | Passed | 0.0 | 4.00 |
 | 9/2/2022 | OSH42862 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
 | 6/24/2022 | F6R23339 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |

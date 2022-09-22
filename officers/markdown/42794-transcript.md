@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/1/2022 | OCS14404 | One hand shooting, Qualification | Instructed | 0.0 | 2.00 |
 | 8/10/2022 | OCS07092 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
@@ -64,6 +65,8 @@
 | 5/20/2022 | OCS31461 | June 2022 FTU Inservice Training | Passed | 0.0 | 5.00 |
 | 5/20/2022 | OCS38314 | Annual Qualification / Marksmanship | Instructed | 0.0 | 2.00 |
 | 5/20/2022 | OCS19690 | June 2022 FTU Inservice Training | Passed | 0.0 | 5.00 |
+| 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
+| 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
 | 5/13/2022 | OCS34450 | May 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/25/2022 | OCS11374 | K9 Firearms - Marksmanship | Instructed | 0.0 | 2.00 |

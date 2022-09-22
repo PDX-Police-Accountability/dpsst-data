@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/16/2022
+  course: OSH37404
+  title: 2nd Trimester DT / Taser Recertification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/16/2022
+  course: OSH05936
+  title: 2nd Trimester DT / Taser Recertification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/2/2022
   course: OSH42024
   title: 2nd Trimester DT / Taser Recertification

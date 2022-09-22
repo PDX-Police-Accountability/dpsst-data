@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Instructed | 0.0 | 8.00 |
+| 8/31/2022 | PDP22945 | Tactical rigging, robot/bag attack, bomb suit | Instructed | 0.0 | 9.00 |
+| 8/24/2022 | PDP32535 | EDU Training: Rigging  Robot Operations | Passed | 0.0 | 9.00 |
 | 8/3/2022 | HBS05929 | Rifle Instructor Update | Passed | 0.0 | 8.00 |
 | 8/3/2022 | PDP04404 | EDU Training- SPARTAN Robot Training | Passed | 0.0 | 9.00 |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Passed | 0.0 | 9.00 |

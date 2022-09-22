@@ -53,6 +53,7 @@
 | 7/27/2022 | CIF11318 | Use of Force | Passed | 0.0 | 1.00 |
 | 7/22/2022 | CIF19753 | Professional Standards: Roles  Responsibilities | Passed | 0.0 | 1.00 |
 | 7/13/2022 | CIF15333 | Vehicle Pursuit Training | Passed | 0.0 | 1.00 |
+| 7/9/2022 | CIF30497 | American Heart Association Instructor Recert BLS | Passed | 0.0 | 8.00 |
 | 7/6/2022 | CIF04510 | Patrol Rifle Training | Passed | 0.0 | 4.00 |
 | 7/2/2022 | CIF20008 | Use of Force: Policy or Tactics? | Passed | 0.0 | 1.50 |
 | 5/11/2022 | CIF27670 | Handgun and Rifle Range | Passed | 0.0 | 2.00 |

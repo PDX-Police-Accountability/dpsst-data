@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/26/2022 | MLP24586 | Enter | Passed | 0.0 | 2.00 |
+| 8/10/2022 | MAP31419 | Taser Annual Re-Certification Training | Passed | 0.0 | 3.00 |
 | 6/29/2022 | MAP35999 | BUILDING SEARCH TACTICS I | Passed | 0.0 | 3.00 |
 | 5/15/2022 | MAP34059 | CONSENT TO SEARCH/ EQUIPMENT VEHICLE STOPS | Passed | 0.0 | 0.50 |
 | 5/4/2022 | MAP31626 | HB 2513 AIRWAY  CIRCULATORY CRISIS | Passed | 0.0 | 2.00 |

@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2022
+  course: PDP40385
+  title: Control Tactics Training (Post Academy)
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/22/2022
   course: PDP19818
   title: Control Tactics Training- Post Basic Academy

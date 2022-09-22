@@ -183,6 +183,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 2/10/2022
+  course: PDP22251
+  title: 2022-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2022
+  course: PDP11554
+  title: 2022-1 Range Qualification Secondary Firearm 50 Rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2022
+  course: PDP10157
+  title: 2022-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.15'
 - date: 2/3/2022
   course: PDP34522
   title: Interacting with Member LGBTQIA2S+ Chief's Message
@@ -435,6 +453,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/13/2021
+  course: PDP40787
+  title: 2021-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2021
+  course: PDP29293
+  title: 2021-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.15'
 - date: 7/7/2021
   course: PDP04678
   title: 2021-7 Tips  Tech Bureau Issued Utility Knives

@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: HDA36307
+  title: Critical Thinking for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/16/2022
   course: PDP01652
   title: AAR SharePoint Transition

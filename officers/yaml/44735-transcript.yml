@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP00431
+  title: Suicide Prevention/Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/17/2022
   course: PDP31730
   title: Critical Incident Stress Management

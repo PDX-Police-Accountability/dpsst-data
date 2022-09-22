@@ -316,6 +316,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/9/2020
+  course: STP09186
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/2/2020
   course: F6D40255
   title: SFST Refresher

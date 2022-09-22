@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2022 | PDP00431 | Suicide Prevention/Intervention Training | Passed | 0.0 | 7.00 |
 | 8/17/2022 | PDP31730 | Critical Incident Stress Management | Instructed | 0.0 | 27.00 |
 | 6/25/2022 | PDP42874 | Group Crisis Intervention-CISM | Passed | 0.0 | 14.00 |
 | 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |

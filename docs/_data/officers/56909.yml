@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/12/2022
+  course: PDP08227
+  title: Scientific Basics of Fingerprints
+  status: Passed
+  score: '0.0'
+  hours: '25.50'
 - date: 7/22/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -57,6 +63,12 @@ training_records:
   hours: '40.00'
 - date: 7/22/2022
   course: HBS27202
+  title: Practical Shooting Incident Reconstruction
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/22/2022
+  course: PDP10537
   title: Practical Shooting Incident Reconstruction
   status: Passed
   score: '0.0'

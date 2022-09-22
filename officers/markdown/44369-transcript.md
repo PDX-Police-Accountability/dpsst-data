@@ -86,6 +86,7 @@
 | 10/17/2020 | F6D42009 | Use of Force / Con Sim Scenario Training | Instructed | 0.0 | 6.50 |
 | 10/17/2020 | F6D05692 | Use of Force/ Officer Safety Review and Scenario | Instructed | 0.0 | 6.00 |
 | 9/21/2020 | F6D40998 | CPR, AED, and Basic First Aid | Passed | 0.0 | 4.00 |
+| 9/9/2020 | STP09186 | CPR / First Aid / AED | Passed | 0.0 | 4.00 |
 | 9/2/2020 | F6D40255 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 8/4/2020 | F6D12197 | Firearms-Red Dot Sights | Passed | 0.0 | 7.00 |
 | 7/12/2020 | F6D10158 | Firearms Training | Passed | 0.0 | 3.50 |
