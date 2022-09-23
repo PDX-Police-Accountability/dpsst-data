@@ -30,11 +30,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/22/2021 | 7/22/2023 |
-| Certification Cards | First Aid and CPR | 7/22/2021 | 7/22/2023 |
-| Code of Ethics | Signed | 4/13/2004 |  |
 | Code of Ethics | Signed | 4/13/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2022 | PDP01747 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 7/14/2022 | HDA16104 | 2022 ONEA Training Institute | Passed | 0.0 | 20.00 |
 | 7/14/2022 | HDA29098 | Ethos Leadership | Passed | 0.0 | 4.00 |
 | 7/14/2022 | PDP09525 | OR Narcotics Enforcement Association Conference | Passed | 0.0 | 24.00 |
@@ -539,6 +536,7 @@
 | 10/22/2012 | 12-0496 | Writing Policies  Procedures | Passed | 0.0 | 2.00 |
 | 10/22/2012 | 12-0915 | Agency Policies / Procedures | Passed | 0.0 | 1.00 |
 | 8/8/2012 | 12-0389 | ICS 200 / IS 200 - Basic ICS | Passed | 0.0 | 3.00 |
+| 8/5/2012 | PDP10791 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/23/2012 | 12-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/23/2012 | 12-0253 | Crowd / Riot Control | Passed | 0.0 | 4.00 |
 | 5/23/2012 | 12-0272 | Taser Refresher Training | Passed | 0.0 | 4.00 |
@@ -657,6 +655,8 @@
 | 11/1/2006 | 06-1973 | Narcotics ID Kit | Passed | 0.0 | 2.00 |
 | 10/18/2006 | 06-0665 | In Car Video System | Passed | 0.0 | 7.00 |
 | 9/1/2006 | 06-0777 | Street Crimes | Passed | 0.0 | 21.00 |
+| 6/15/2006 | PDP06365 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
+| 6/15/2006 | PDP19324 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 30.00 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 18.00 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |

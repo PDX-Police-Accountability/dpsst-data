@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | BNP05092 | Ethos Leadership | Passed | 0.0 | 3.00 |
+| 9/15/2022 | BNP36027 | Fitness, Diet and Mental Health | Passed | 0.0 | 0.50 |
+| 9/15/2022 | BNP07309 | High Risk Stops | Passed | 0.0 | 0.50 |
+| 9/15/2022 | BNP33682 | Bola Wrap Familiarization/Certification | Passed | 0.0 | 0.50 |
+| 9/15/2022 | BNP39459 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 7/24/2022 | BNP43261 | Search and Seizure | Passed | 0.0 | 1.50 |
 | 6/2/2022 | BNP44068 | Active Threat Response | Passed | 0.0 | 3.00 |
 | 6/2/2022 | BNP34117 | OC Recertification | Passed | 0.0 | 0.50 |

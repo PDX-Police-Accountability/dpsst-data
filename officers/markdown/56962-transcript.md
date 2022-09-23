@@ -42,6 +42,8 @@
 | 9/19/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
 | 9/5/2022 | HBN10767 | Airway Circulatory Anatomy and Physiology (ACAP) | Passed | 0.0 | 2.00 |
+| 8/4/2022 | HBN21761 | Motivational Interviewing | Passed | 0.0 | 3.00 |
+| 7/13/2022 | HBN40017 | Survival Skills - Defensive Tactics | Passed | 0.0 | 4.00 |
 | 7/7/2022 | HBN39082 | Motivational Interviewing | Passed | 0.0 | 4.00 |
 | 7/7/2022 | HBN23451 | Gender Responsive | Passed | 0.0 | 2.00 |
 | 7/7/2022 | HBN24565 | Trauma Informed Care | Passed | 0.0 | 2.00 |

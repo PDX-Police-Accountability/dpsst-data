@@ -36,6 +36,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: BNP05092
+  title: Ethos Leadership
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/15/2022
+  course: BNP36027
+  title: Fitness, Diet and Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/15/2022
+  course: BNP07309
+  title: High Risk Stops
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/15/2022
+  course: BNP33682
+  title: Bola Wrap Familiarization/Certification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/15/2022
+  course: BNP39459
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/24/2022
   course: BNP43261
   title: Search and Seizure

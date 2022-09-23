@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 10/27/2005 |  |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -74,6 +70,7 @@
 | 8/17/2021 | LOP09025 | Blood Borne Pathogens | Passed | 0.0 | 0.50 |
 | 8/3/2021 | LOP33899 | OSHA Temporary Rule - Heat Exposure | Passed | 0.0 | 1.50 |
 | 8/2/2021 | LOP36419 | Springtime SQLite Survival Series Part III | Passed | 0.0 | 1.00 |
+| 7/14/2021 | LOP24237 | Strangulation Supplemental Training | Passed | 0.0 | 0.25 |
 | 6/21/2021 | LOP40818 | Vehicle Stops Training | Passed | 0.0 | 4.00 |
 | 6/9/2021 | LOP37458 | Acting Sergeant Training | Passed | 0.0 | 40.00 |
 | 5/27/2021 | LOP17805 | Snapchat - A False Sense of Security | Passed | 0.0 | 1.00 |
@@ -85,6 +82,7 @@
 | 5/6/2021 | LOP40096 | Introducing Magnet AXIOM 5.0 | Passed | 0.0 | 0.50 |
 | 4/29/2021 | LOP01596 | SQLite Survival Series Part I | Passed | 0.0 | 1.00 |
 | 4/13/2021 | LOP40066 | Tactical Medical Refresher | Passed | 0.0 | 1.00 |
+| 4/9/2021 | LOP08665 | LEP  CPD Annual Review | Passed | 0.0 | 0.50 |
 | 4/6/2021 | LOP39278 | Mobile Device Vulnerability Discovery  Exploit | Passed | 0.0 | 1.50 |
 | 4/1/2021 | LOP14567 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
 | 3/25/2021 | LOP30659 | Importance of Using the Correct Cell Site List | Passed | 0.0 | 1.00 |

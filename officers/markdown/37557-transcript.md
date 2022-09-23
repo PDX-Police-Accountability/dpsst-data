@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
-| Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
 | Certification Cards | First Aid | 11/5/2020 | 11/30/2022 |
-| Certification Cards | First Aid | 11/5/2020 | 11/30/2022 |
-| Code of Ethics | Signed | 12/20/2002 |  |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -72,9 +67,11 @@
 | 8/19/2021 | LOP08366 | Custodial Searches | Passed | 0.0 | 0.50 |
 | 7/28/2021 | LOP33899 | OSHA Temporary Rule - Heat Exposure | Passed | 0.0 | 1.50 |
 | 7/28/2021 | LOP19381 | House Bills 3115  3124 | Passed | 0.0 | 0.50 |
+| 7/15/2021 | LOP24237 | Strangulation Supplemental Training | Passed | 0.0 | 0.25 |
 | 6/21/2021 | LOP40818 | Vehicle Stops Training | Passed | 0.0 | 4.00 |
 | 5/21/2021 | LOP29932 | Firearms | Passed | 0.0 | 4.00 |
 | 5/7/2021 | LOP20948 | Mental Health/Crisis Intervention | Passed | 0.0 | 3.00 |
+| 4/20/2021 | LOP08665 | LEP  CPD Annual Review | Passed | 0.0 | 0.50 |
 | 4/12/2021 | LOP40066 | Tactical Medical Refresher | Passed | 0.0 | 1.00 |
 | 4/2/2021 | LOP14567 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
 | 2/23/2021 | LOP29539 | Recognizing  Managing Abnormal Breathing | Passed | 0.0 | 1.00 |

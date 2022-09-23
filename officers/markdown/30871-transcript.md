@@ -33,12 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/17/2022 | 2/28/2024 |
-| Certification Cards | First Aid and CPR | 2/17/2022 | 2/28/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 6/10/2002 |  |
 | Code of Ethics | Signed | 6/10/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2022 | OSH02130 | OSP 2nd Trimester Defensive Tactics/Taser Re-Cert | Instructed | 0.0 | 8.00 |
 | 8/31/2022 | OSH32434 | OSP 2nd Trimester Defensive Tactics/Taser Re-Cert | Instructed | 0.0 | 8.00 |
 | 8/22/2022 | OSH30379 | Taser X2 Instructor Certification | Instructed | 0.0 | 6.00 |
 | 8/16/2022 | OSH29792 | Struggle Well | Passed | 0.0 | 16.00 |

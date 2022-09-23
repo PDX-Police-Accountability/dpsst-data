@@ -231,6 +231,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/15/2021
+  course: LOP24237
+  title: Strangulation Supplemental Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/21/2021
   course: LOP40818
   title: Vehicle Stops Training
@@ -249,6 +255,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/20/2021
+  course: LOP08665
+  title: LEP  CPD Annual Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/12/2021
   course: LOP40066
   title: Tactical Medical Refresher
@@ -2379,14 +2391,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -2395,21 +2399,9 @@ attribute_records:
   effective_date: 11/22/2021
   expiration_date: 11/30/2023
 - topic: Certification Cards
-  value: CPR
-  effective_date: 11/22/2021
-  expiration_date: 11/30/2023
-- topic: Certification Cards
   value: First Aid
   effective_date: 11/5/2020
   expiration_date: 11/30/2022
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 11/5/2020
-  expiration_date: 11/30/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/20/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2002

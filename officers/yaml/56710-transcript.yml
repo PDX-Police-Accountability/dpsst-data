@@ -62,32 +62,14 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 6/15/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 6/15/2022
   course: HBS41983
   title: Basic Patrol Rifle Operator School
   status: Passed
   score: '0.0'
   hours: '8.00'
 - date: 6/14/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 6/14/2022
   course: HBS31785
   title: Basic Patrol Rifle Operator School
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 6/13/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -115,12 +97,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
-- date: 4/26/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.50'
 - date: 4/26/2022
   course: HBS21732
   title: IFAST In-Service

@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP10791
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/25/2022
   course: PDP01652
   title: AAR SharePoint Transition
@@ -3306,26 +3312,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/9/2021
   expiration_date: 8/9/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/9/2021
-  expiration_date: 8/9/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/29/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/29/2011

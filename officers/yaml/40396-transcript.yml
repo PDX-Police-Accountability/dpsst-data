@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/26/2022
+  course: PDP43316
+  title: CA Homicide Invest. Assoc. Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.50'
 - date: 6/9/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens
@@ -3017,26 +3023,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/23/2021
   expiration_date: 6/23/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/23/2021
-  expiration_date: 6/23/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/27/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/27/2001

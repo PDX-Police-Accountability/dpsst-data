@@ -69,6 +69,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/8/2022
+  course: OCS40070
+  title: Sergeants meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/14/2022
   course: HDA16104
   title: 2022 ONEA Training Institute
@@ -99,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/19/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/3/2022
   course: OCS03360
   title: HB 2513 Airway and Circulation
@@ -4946,14 +4958,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022
@@ -4966,18 +4970,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/10/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/10/2004

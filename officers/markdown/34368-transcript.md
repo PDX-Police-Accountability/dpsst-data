@@ -33,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Code of Ethics | Signed | 5/28/2003 |  |
 | Code of Ethics | Signed | 5/28/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | BNP05092 | Ethos Leadership | Passed | 0.0 | 3.00 |
+| 9/15/2022 | BNP36027 | Fitness, Diet and Mental Health | Passed | 0.0 | 0.50 |
+| 9/15/2022 | BNP07309 | High Risk Stops | Passed | 0.0 | 0.50 |
+| 9/15/2022 | BNP33682 | Bola Wrap Familiarization/Certification | Passed | 0.0 | 0.50 |
+| 9/15/2022 | BNP39459 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 8/31/2022 | BNP40850 | Bringing Wellness Home - Online | Passed | 0.0 | 1.00 |
 | 7/21/2022 | BNP07745 | Evidence Handling | Passed | 0.0 | 0.50 |
 | 6/2/2022 | BNP44068 | Active Threat Response | Passed | 0.0 | 3.00 |

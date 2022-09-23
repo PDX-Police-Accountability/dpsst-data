@@ -1,2 +1,93 @@
 ---
-missing_transcript: true
+header_record:
+  name: Roehrig, Lee M.
+  dpsst_identifier: '45792'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 6/14/2005
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 1/11/2021
+  course: F6D11528
+  title: OSHA Mandatory COVID 19 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/8/2019
+  course: F6D31138
+  title: Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/29/2017
+  course: F6B34085
+  title: Knife Defense
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/29/2017
+  course: F6B09744
+  title: Striking
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/27/2017
+  course: F6W16214
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/2013
+  course: 13-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2007
+  course: 07-0809
+  title: Identity Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/23/2007
+  course: 07-0790
+  title: Forensics - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []
