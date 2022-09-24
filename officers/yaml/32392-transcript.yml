@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/18/2022
+  course: TGP03346
+  title: Respiratory Protection
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/17/2022
   course: TGP20730
   title: Pix4dMapper Basic for Public Safety (UAS)

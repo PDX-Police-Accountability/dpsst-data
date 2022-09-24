@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/16/2022
+  course: REG19344
+  title: Take downs and Defending Back Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/22/2022
   course: REG27088
   title: Strike defense, Body lock takedown

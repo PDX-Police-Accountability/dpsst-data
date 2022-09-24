@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2022 | VND24266 | Domestic Terrorism | Passed | 0.0 | 16.00 |
 | 5/6/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |
 | 4/23/2022 | PDS23113 | Use of Force | Passed | 0.0 | 4.00 |
 | 4/22/2022 | PDS11149 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |

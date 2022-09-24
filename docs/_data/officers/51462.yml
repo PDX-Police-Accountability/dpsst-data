@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/21/2022
+  course: VND24266
+  title: Domestic Terrorism
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/6/2022
   course: PDS28431
   title: Taser Recertification

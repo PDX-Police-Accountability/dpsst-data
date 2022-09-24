@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
 | 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
 | 4/26/2022 | TUP09824 | EVOC | Passed | 0.0 | 7.00 |

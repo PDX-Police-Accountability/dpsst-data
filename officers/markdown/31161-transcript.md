@@ -43,7 +43,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
+| 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
 | 8/3/2022 | TGP16659 | Case Law Study | Passed | 0.0 | 1.50 |
+| 6/29/2022 | TGP31604 | Failure to Supervise Liability in Law Enforcement | Passed | 0.0 | 2.00 |
 | 6/16/2022 | TGP20718 | OHIA OIS Investigations | Passed | 0.0 | 16.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Passed | 0.0 | 16.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 4.00 |

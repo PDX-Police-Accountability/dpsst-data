@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
+| 9/16/2022 | REG40540 | In Fight Weapon Access | Passed | 0.0 | 2.00 |
 | 8/16/2022 | HBS34143 | Rifle Update | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS41983 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |
 | 6/14/2022 | HBS31785 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |

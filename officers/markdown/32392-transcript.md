@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/6/2022 | TGP09034 | SFST Refresher | Passed | 0.0 | 4.00 |
+| 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
 | 8/17/2022 | TGP20730 | Pix4dMapper Basic for Public Safety (UAS) | Passed | 0.0 | 24.00 |
 | 7/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 7/22/2022 | HBS27202 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |

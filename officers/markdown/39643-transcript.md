@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2022 | REG19344 | Take downs and Defending Back Control | Passed | 0.0 | 1.00 |
 | 8/22/2022 | REG27088 | Strike defense, Body lock takedown | Passed | 0.0 | 1.00 |
 | 8/15/2022 | REG34517 | Body lock take down, Cross side top control | Passed | 0.0 | 1.00 |
 | 8/11/2022 | REG21262 | 1/2 guard bottom getting up off the ground | Passed | 0.0 | 1.00 |

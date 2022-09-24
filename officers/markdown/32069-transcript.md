@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2022 | REG19344 | Take downs and Defending Back Control | Passed | 0.0 | 1.00 |
 | 8/24/2022 | SDP14360 | 40MM Re-Certification | Passed | 0.0 | 2.00 |
 | 8/24/2022 | SDP37199 | Stop Stick Training | Passed | 0.0 | 1.00 |
 | 8/24/2022 | SDP29859 | MHRT CIT Clinician and Officer Review | Passed | 0.0 | 2.00 |

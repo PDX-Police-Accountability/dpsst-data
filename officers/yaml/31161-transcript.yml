@@ -93,12 +93,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 8/18/2022
+  course: TGP03346
+  title: Respiratory Protection
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/3/2022
   course: TGP16659
   title: Case Law Study
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 6/29/2022
+  course: TGP31604
+  title: Failure to Supervise Liability in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/16/2022
   course: TGP20718
   title: OHIA OIS Investigations

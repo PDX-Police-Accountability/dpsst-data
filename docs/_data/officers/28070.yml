@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/18/2022
+  course: TGP03346
+  title: Respiratory Protection
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/27/2022
   course: BPT02401
   title: Intoxilyzer 8000 Certification Course
