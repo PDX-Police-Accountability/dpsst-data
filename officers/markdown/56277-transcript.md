@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2022 | CAP05650 | Precision Rifle Training | Passed | 0.0 | 3.00 |
 | 5/4/2022 | GLP08698 | Qual/Movement/Target Focus Shooting | Passed | 0.0 | 3.00 |
 | 4/12/2022 | GLP21351 | Adult/Child CPR/First Aid | Passed | 0.0 | 2.00 |
 | 4/12/2022 | OCS22537 | Crisis Intervention Training | Passed | 0.0 | 40.00 |

@@ -231,6 +231,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/28/2021
+  course: LOP09321
+  title: OSHA Heat Illness Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/15/2021
   course: LOP24237
   title: Strangulation Supplemental Training
@@ -405,6 +411,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 2/21/2020
+  course: LOP13186
+  title: LEP  CPD Annual Review Policies 368  370
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/20/2020
   course: LOP02186
   title: Anti-Harassment  Non-Discrimination
@@ -459,6 +471,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/10/2019
+  course: LOP17827
+  title: Disaster Plan Annual Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/4/2019
   course: LOP22343
   title: Ford Police Interceptor Utility Familiarization
@@ -603,6 +621,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/2/2019
+  course: LOP36960
+  title: LEP  CPD Annual Review Policies 368  370
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/1/2019
   course: LOP04903
   title: Firearms Training

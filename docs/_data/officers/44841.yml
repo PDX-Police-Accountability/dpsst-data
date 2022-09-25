@@ -242,6 +242,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 8/3/2021
+  course: LOP09321
+  title: OSHA Heat Illness Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/2/2021
   course: LOP36419
   title: Springtime SQLite Survival Series Part III
@@ -524,6 +530,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/21/2020
+  course: LOP13186
+  title: LEP  CPD Annual Review Policies 368  370
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/20/2020
   course: LOP02186
   title: Anti-Harassment  Non-Discrimination
@@ -608,6 +620,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 10/31/2019
+  course: LOP17827
+  title: Disaster Plan Annual Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/24/2019
   course: LOP27268
   title: TASER X26P
@@ -746,6 +764,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/12/2019
+  course: LOP36960
+  title: LEP  CPD Annual Review Policies 368  370
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/1/2019
   course: LOP04903
   title: Firearms Training

@@ -67,6 +67,7 @@
 | 8/19/2021 | LOP08366 | Custodial Searches | Passed | 0.0 | 0.50 |
 | 7/28/2021 | LOP33899 | OSHA Temporary Rule - Heat Exposure | Passed | 0.0 | 1.50 |
 | 7/28/2021 | LOP19381 | House Bills 3115  3124 | Passed | 0.0 | 0.50 |
+| 7/28/2021 | LOP09321 | OSHA Heat Illness Training | Passed | 0.0 | 0.50 |
 | 7/15/2021 | LOP24237 | Strangulation Supplemental Training | Passed | 0.0 | 0.25 |
 | 6/21/2021 | LOP40818 | Vehicle Stops Training | Passed | 0.0 | 4.00 |
 | 5/21/2021 | LOP29932 | Firearms | Passed | 0.0 | 4.00 |
@@ -96,6 +97,7 @@
 | 3/31/2020 | LOP33999 | Tactical Stretch/Mindfullness - Consolidated | Passed | 0.0 | 1.00 |
 | 3/6/2020 | F6D32246 | Northwest Leadership Seminar 2020 | Passed | 0.0 | 20.00 |
 | 2/27/2020 | LOP39774 | Human Trafficking Awareness | Passed | 0.0 | 0.75 |
+| 2/21/2020 | LOP13186 | LEP  CPD Annual Review Policies 368  370 | Passed | 0.0 | 0.50 |
 | 2/20/2020 | LOP02186 | Anti-Harassment  Non-Discrimination | Passed | 0.0 | 1.50 |
 | 2/3/2020 | LOP43050 | Defensive Tactics, Vehicle Extraction | Passed | 0.0 | 4.00 |
 | 1/24/2020 | LOP23414 | Firearms | Passed | 0.0 | 5.00 |
@@ -105,6 +107,7 @@
 | 12/10/2019 | LOP12561 | Policy 338 Review: Hate Crimes | Passed | 0.0 | 0.25 |
 | 12/3/2019 | LOP19038 | Changing the Narrative | Passed | 0.0 | 14.00 |
 | 11/26/2019 | LOP18818 | 40mm Less Lethal Impact Munition | Passed | 0.0 | 4.00 |
+| 11/10/2019 | LOP17827 | Disaster Plan Annual Review | Passed | 0.0 | 0.50 |
 | 11/4/2019 | LOP22343 | Ford Police Interceptor Utility Familiarization | Passed | 0.0 | 0.75 |
 | 11/4/2019 | LOP13171 | BLS CPR + AED | Passed | 0.0 | 3.00 |
 | 10/24/2019 | LOP27268 | TASER X26P | Passed | 0.0 | 4.00 |
@@ -129,6 +132,7 @@
 | 3/9/2019 | LOP04973 | DV/Strangulation Training | Passed | 0.0 | 1.00 |
 | 3/1/2019 | LOP04605 | EVO Training with Pursuit Scenarios | Passed | 0.0 | 9.00 |
 | 2/14/2019 | LOP40699 | Legitimacy/Procedural Justice  Implicit Bias | Passed | 0.0 | 4.00 |
+| 2/2/2019 | LOP36960 | LEP  CPD Annual Review Policies 368  370 | Passed | 0.0 | 0.50 |
 | 2/1/2019 | LOP04903 | Firearms Training | Passed | 0.0 | 4.00 |
 | 1/10/2019 | LOP37072 | ASIST (Suicide Intervention) | Passed | 0.0 | 12.50 |
 | 12/31/2018 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |

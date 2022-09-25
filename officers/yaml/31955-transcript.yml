@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/21/2022
+  course: CAP05650
+  title: Precision Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/14/2022
   course: F6R17303
   title: 'Firearms: Vehicle Close Quarters Battle/40mm'

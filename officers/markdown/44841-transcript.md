@@ -69,6 +69,7 @@
 | 8/18/2021 | LOP19381 | House Bills 3115  3124 | Passed | 0.0 | 0.50 |
 | 8/17/2021 | LOP09025 | Blood Borne Pathogens | Passed | 0.0 | 0.50 |
 | 8/3/2021 | LOP33899 | OSHA Temporary Rule - Heat Exposure | Passed | 0.0 | 1.50 |
+| 8/3/2021 | LOP09321 | OSHA Heat Illness Training | Passed | 0.0 | 0.50 |
 | 8/2/2021 | LOP36419 | Springtime SQLite Survival Series Part III | Passed | 0.0 | 1.00 |
 | 7/14/2021 | LOP24237 | Strangulation Supplemental Training | Passed | 0.0 | 0.25 |
 | 6/21/2021 | LOP40818 | Vehicle Stops Training | Passed | 0.0 | 4.00 |
@@ -116,6 +117,7 @@
 | 3/12/2020 | HBS20573 | ZETX - Criminal Investigations Using Cell Tech | Passed | 0.0 | 8.00 |
 | 3/11/2020 | HBS16015 | ZETX-Criminal Investigations Using Cell Tech | Passed | 0.0 | 8.00 |
 | 3/10/2020 | HBS39400 | ZETX-Criminal Investigations Using Cell Tech | Passed | 0.0 | 8.00 |
+| 2/21/2020 | LOP13186 | LEP  CPD Annual Review Policies 368  370 | Passed | 0.0 | 0.50 |
 | 2/20/2020 | LOP02186 | Anti-Harassment  Non-Discrimination | Passed | 0.0 | 1.50 |
 | 1/30/2020 | LOP23568 | ASIST (Suicide Intervention) | Passed | 0.0 | 14.00 |
 | 1/24/2020 | LOP23414 | Firearms | Passed | 0.0 | 5.00 |
@@ -130,6 +132,7 @@
 | 11/26/2019 | LOP18818 | 40mm Less Lethal Impact Munition | Passed | 0.0 | 4.00 |
 | 11/7/2019 | LOP13171 | BLS CPR + AED | Passed | 0.0 | 2.50 |
 | 11/4/2019 | LOP22343 | Ford Police Interceptor Utility Familiarization | Passed | 0.0 | 0.75 |
+| 10/31/2019 | LOP17827 | Disaster Plan Annual Review | Passed | 0.0 | 0.50 |
 | 10/24/2019 | LOP27268 | TASER X26P | Passed | 0.0 | 4.00 |
 | 10/10/2019 | LOP04975 | 2019 Legislative Update - Clackamas Co DA | Passed | 0.0 | 0.50 |
 | 10/9/2019 | F6D40515 | Criminal Law Update and Legislative Changes to ORS | Passed | 0.0 | 1.50 |
@@ -153,6 +156,7 @@
 | 3/5/2019 | LOP04973 | DV/Strangulation Training | Passed | 0.0 | 1.00 |
 | 3/1/2019 | LOP04605 | EVO Training with Pursuit Scenarios | Passed | 0.0 | 9.00 |
 | 2/14/2019 | LOP40699 | Legitimacy/Procedural Justice  Implicit Bias | Passed | 0.0 | 4.00 |
+| 2/12/2019 | LOP36960 | LEP  CPD Annual Review Policies 368  370 | Passed | 0.0 | 0.50 |
 | 2/1/2019 | LOP04903 | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/31/2018 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2018 | LOP19804 | 40mm Less Lethal | Passed | 0.0 | 4.00 |
