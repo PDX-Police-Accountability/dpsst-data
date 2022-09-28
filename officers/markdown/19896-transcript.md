@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/24/2022 | Grant County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 8/27/2018 | Grant County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 8/20/2018 | Wheeler County Sheriff's Office | Retired | Undrsherif |  |  |
 | 11/15/2017 | Wheeler County Sheriff's Office | Promotion | Undrsherif |  |  |
@@ -37,9 +38,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/30/2018 | Police Officer | Advanced | Reactivate | 11/16/1995 |  |  |
-| 5/30/2018 | Police Officer | Basic | Reactivate | 8/2/1988 |  |  |
-| 5/30/2018 | Police Officer | Intermediate | Reactivate | 10/24/1990 |  |  |
+| 5/30/2018 | Police Officer | Advanced | Reactivate | 11/16/1995 | 11/24/2022 |  |
+| 5/30/2018 | Police Officer | Basic | Reactivate | 8/2/1988 | 11/24/2022 |  |
+| 5/30/2018 | Police Officer | Intermediate | Reactivate | 10/24/1990 | 11/24/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

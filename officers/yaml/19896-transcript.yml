@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/24/2022
+  agency: Grant County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 8/27/2018
   agency: Grant County Sheriff's Office
   action: Hired
@@ -147,21 +153,21 @@ certification_records:
   level: Advanced
   status: Reactivate
   certificate_date: 11/16/1995
-  expiration_date: ''
+  expiration_date: 11/24/2022
   probation_date: ''
 - status_date: 5/30/2018
   certificate: Police Officer
   level: Basic
   status: Reactivate
   certificate_date: 8/2/1988
-  expiration_date: ''
+  expiration_date: 11/24/2022
   probation_date: ''
 - status_date: 5/30/2018
   certificate: Police Officer
   level: Intermediate
   status: Reactivate
   certificate_date: 10/24/1990
-  expiration_date: ''
+  expiration_date: 11/24/2022
   probation_date: ''
 training_records:
 - date: 6/20/2022
