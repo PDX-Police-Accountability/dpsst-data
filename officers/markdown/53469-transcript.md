@@ -40,6 +40,7 @@
 | 6/30/2022 | OCS21814 | Ground Fightint | Passed | 0.0 | 1.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/23/2022 | OCS14400 | Hate and Bias Crimes Training | Passed | 0.0 | 4.00 |
+| 6/23/2022 | VND32811 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 5/30/2022 | OCS17591 | Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |

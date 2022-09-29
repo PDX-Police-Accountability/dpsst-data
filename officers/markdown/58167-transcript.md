@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 6/26/2022 | PDP25704 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
 | 6/26/2022 | PDP04749 | Directive 640.10, Crime Scene Procedures | Passed | 0.0 | 0.25 |
 | 6/26/2022 | PDP05898 | HR Rule 2.02, Prohibition Against Wrkplc Hrssmnt | Passed | 0.0 | 0.25 |

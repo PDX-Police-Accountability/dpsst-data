@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
+| 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 4/27/2022 | SMP39708 | Property  Evidence Management | Passed | 0.0 | 16.00 |
 | 3/9/2022 | PDS25612 | Narcan Training | Passed | 0.0 | 1.00 |
 | 12/29/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

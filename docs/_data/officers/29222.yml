@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/2/2022
+  course: GSP39308
+  title: 2022 Spring Handgun In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/22/2022
   course: GSP17501
   title: TikTok for Law Enforcement

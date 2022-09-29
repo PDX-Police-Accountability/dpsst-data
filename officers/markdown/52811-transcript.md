@@ -40,6 +40,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/28/2022 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/28/2022 | SMS22986 | IALEFI- Master Instructor Development Program | Passed | 0.0 | 24.00 |
+| 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
+| 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 5/20/2022 | PDS37106 | 2022 Basic Sniper School | Passed | 0.0 | 40.00 |
 | 5/5/2022 | PDS03966 | Use of Force for Supervisors | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDS17154 | CIT | Passed | 0.0 | 4.00 |

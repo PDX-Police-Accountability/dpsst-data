@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2022 | OCP31548 | LEDS Training | Passed | 0.0 | 1.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 3/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

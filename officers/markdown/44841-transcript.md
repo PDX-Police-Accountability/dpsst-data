@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | LOP06103 | Fire Extinguisher Training | Passed | 0.0 | 0.33 |
 | 6/15/2022 | LOP16376 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/28/2022 | LOP33164 | LEP Policy 368  CPD Policy 370 Annual Review | Passed | 0.0 | 0.50 |
 | 4/28/2022 | LOP24922 | Body Camera Policy Briefing Training | Passed | 0.0 | 0.50 |

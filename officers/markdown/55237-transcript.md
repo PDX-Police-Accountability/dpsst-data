@@ -409,4 +409,6 @@
 | 7/16/2015 | 15-0653 | Community - Other | Passed | 0.0 | 2.00 |
 | 7/16/2015 | 15-0905 | Ethics | Passed | 0.0 | 4.00 |
 | 7/16/2015 | 15-0915 | Agency Policies / Procedures | Passed | 0.0 | 1.00 |
+| 1/7/2010 | PDP32369 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
+| 1/7/2010 | PDP22671 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 10/1/2009 | 10U002 | Approved Out-of-State Training | Passed | 0.0 | 1064.00 |

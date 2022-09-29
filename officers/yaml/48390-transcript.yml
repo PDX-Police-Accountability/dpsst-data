@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/16/2022
+  course: PDP22671
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/17/2022
   course: PDP02516
   title: Crisis Negotiation Team Training

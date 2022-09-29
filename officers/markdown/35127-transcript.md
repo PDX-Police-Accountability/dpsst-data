@@ -41,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/9/2022 | SAG44131 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
+| 8/9/2022 | SAG12608 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
 | 5/26/2022 | SAG11522 | Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 2/17/2022 | SAG18841 | Firearms | Passed | 0.0 | 1.50 |

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP24552
+  title: 'EDU Training: PPE  Remote Rigging'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/7/2022
   course: PDP26126
   title: 'EDU Training: Spartan, F6B, ICOR, Carbon Fire'

@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/13/2022
+  course: OCS39395
+  title: Interview and Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/14/2022
   course: PDP09525
   title: OR Narcotics Enforcement Association Conference

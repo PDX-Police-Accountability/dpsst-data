@@ -76,7 +76,7 @@ training_records:
   score: '0.0'
   hours: '1.50'
 - date: 8/9/2022
-  course: SAG44131
+  course: SAG12608
   title: First Aid / Adult  Infant CPR/ AED
   status: Passed
   score: '0.0'
@@ -95,6 +95,12 @@ training_records:
   hours: '1.50'
 - date: 6/23/2022
   course: VND16392
+  title: Hate and Bias Crimes
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/23/2022
+  course: VND32811
   title: Hate and Bias Crimes
   status: Passed
   score: '0.0'

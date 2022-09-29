@@ -44,6 +44,7 @@
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
+| 6/23/2022 | VND32811 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
 | 5/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |

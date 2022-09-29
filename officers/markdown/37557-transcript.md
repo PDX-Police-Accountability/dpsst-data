@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | LOP06103 | Fire Extinguisher Training | Passed | 0.0 | 0.33 |
 | 6/10/2022 | LOP16376 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/25/2022 | LOP35972 | Defensive Tactics OC | Passed | 0.0 | 3.00 |

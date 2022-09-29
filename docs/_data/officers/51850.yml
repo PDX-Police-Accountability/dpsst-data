@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2022
+  course: PDP38569
+  title: Intoxilyzer 8000 Class
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/13/2022
+  course: OCS39395
+  title: Interview and Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 6/26/2022
   course: PDP42419
   title: 2021-10 CAO Legal Updates for October 2021

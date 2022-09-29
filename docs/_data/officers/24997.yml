@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2022
+  course: PPP08070
+  title: FN303 Recert
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/1/2022
   course: PPP15504
   title: Legal Update from MCDA Office

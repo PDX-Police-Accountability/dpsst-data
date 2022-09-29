@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2022 | PDP17608 | Control Tactics Striking, Clinch, Ground | Passed | 0.0 | 1.00 |
 | 8/30/2022 | PDP40385 | Control Tactics Training (Post Academy) | Instructed | 0.0 | 4.00 |
 | 6/15/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Passed | 0.0 | 18.00 |

@@ -42,7 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
-| 8/8/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 9/16/2022 | 22-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 6/27/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/16/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

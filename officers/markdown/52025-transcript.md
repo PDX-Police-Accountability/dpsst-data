@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2022 | PDP24552 | EDU Training: PPE  Remote Rigging | Passed | 0.0 | 6.00 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Instructed | 0.0 | 8.00 |
 | 8/31/2022 | PDP22945 | Tactical rigging, robot/bag attack, bomb suit | Instructed | 0.0 | 9.00 |
 | 8/24/2022 | PDP32535 | EDU Training: Rigging  Robot Operations | Passed | 0.0 | 9.00 |

@@ -37,12 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/3/2022 | PDS40825 | ConSim | Passed | 0.0 | 8.00 |
 | 7/27/2022 | PDS06193 | Civil Process | Passed | 0.0 | 1.00 |
 | 7/27/2022 | PDS34931 | ICS-800 | Passed | 0.0 | 3.00 |
 | 7/27/2022 | PDS33362 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/27/2022 | PDS33712 | Policy Access | Passed | 0.0 | 0.50 |
 | 7/27/2022 | PDS14394 | Narcan | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDS13285 | Homeless Outreach Program | Passed | 0.0 | 1.00 |
+| 7/26/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/22/2022 | PDS00058 | Uncontrolled Environments | Passed | 0.0 | 8.00 |
 | 7/21/2022 | PDS40989 | Range Qualification | Passed | 0.0 | 2.00 |
 | 7/21/2022 | PDS19627 | Firearms Training | Passed | 0.0 | 21.00 |

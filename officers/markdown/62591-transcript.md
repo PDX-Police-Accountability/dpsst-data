@@ -28,6 +28,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/20/2022 | PDP25307 | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 9/19/2022 | PDP30713 | Geography Training | Passed | 0.0 | 1.50 |
+| 9/19/2022 | PDP16944 | Control Tactics (Handcuffing, Hobble, OC) | Passed | 0.0 | 2.00 |
+| 9/15/2022 | PDP35078 | Hazmat/ WMD Awareness  APR Program | Passed | 0.0 | 3.50 |
+| 9/13/2022 | PDP08935 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
+| 9/12/2022 | PDP39710 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
 | 9/9/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/12/2022 | PDP07838 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/12/2022 | PDP02880 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

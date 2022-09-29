@@ -44,6 +44,7 @@
 | 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
 | 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
+| 5/2/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 3/22/2022 | GSP17501 | TikTok for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/10/2022 | GSP09814 | Interview  Interrogation | Passed | 0.0 | 24.00 |
 | 2/22/2022 | CVP25074 | Glock Armorer Course | Passed | 0.0 | 8.00 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2022
+  course: GSP39308
+  title: 2022 Spring Handgun In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/19/2022
   course: GSP19422
   title: Incident Response Vehicle Training

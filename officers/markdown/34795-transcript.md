@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Passed | 0.0 | 4.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/8/2022 | OCS40070 | Sergeants meeting | Passed | 0.0 | 2.00 |
 | 7/14/2022 | HDA16104 | 2022 ONEA Training Institute | Passed | 0.0 | 24.00 |

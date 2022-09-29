@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2022 | STS07035 | Child Abuse Mandatory Reporting Law ORS-419B.005 | Passed | 0.0 | 2.00 |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
 | 8/25/2022 | OSH41975 | Medicolegal Death Investigator In-Service | Passed | 0.0 | 1.50 |
 | 8/16/2022 | 21T002 | Corrections Field Training Manual | Completed | 0.0 | 50.00 |

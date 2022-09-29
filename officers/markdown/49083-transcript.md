@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/24/2022 | VND34310 | Mindful Agility Training (MAT) | Passed | 0.0 | 4.00 |
 | 12/31/2017 | MISCMAIN | 2017 Police Maintenance Basic | Completed | 0.0 | 0.00 |
 | 2/28/2017 | F6C13191 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |
 | 2/28/2017 | F6C19360 | Less Lethal Qualification | Passed | 0.0 | 0.50 |

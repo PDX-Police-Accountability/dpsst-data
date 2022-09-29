@@ -37,7 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/9/2022 | SAG44131 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
+| 9/15/2022 | SAG02166 | Firearms | Passed | 0.0 | 2.00 |
+| 8/9/2022 | SAG12608 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Passed | 0.0 | 16.00 |
 | 5/19/2022 | VND37030 | 1st Annual OR Cold Case Inv Assn Conf | Passed | 0.0 | 8.00 |
 | 4/14/2022 | SAG18400 | Firearms/Use of Force | Passed | 0.0 | 2.00 |

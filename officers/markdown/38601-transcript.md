@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
+| 5/6/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 2/24/2022 | GSP27988 | Video Evidence Collection | Passed | 0.0 | 8.00 |
 | 2/16/2022 | GSP21809 | Nighthawk Digital Investigation Training | Passed | 0.0 | 4.00 |
 | 2/16/2022 | PDS09811 | Inattentional Blindness  Major Crimes | Passed | 0.0 | 2.00 |

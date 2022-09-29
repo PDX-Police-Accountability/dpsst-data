@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 6/27/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/8/2022 | PDP33176 | Dir 1010.00, Use of Force | Passed | 0.0 | 0.25 |
 | 6/8/2022 | PDP43874 | Dir 1010.10, Deadly Force and In-Custody Death | Passed | 0.0 | 0.25 |

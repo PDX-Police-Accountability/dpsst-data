@@ -29,6 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
+| 7/23/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 4/23/2022 | PDS23113 | Use of Force | Passed | 0.0 | 4.00 |
 | 4/21/2022 | PDS11149 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 4/14/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |

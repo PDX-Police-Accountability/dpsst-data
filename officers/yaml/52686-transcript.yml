@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP40160
+  title: PNW LE Human Trafficking Consortium
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/10/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

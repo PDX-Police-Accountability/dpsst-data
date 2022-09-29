@@ -30,11 +30,11 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 3/20/2023
-  course: M10-21A
-  title: DPSST Basic Police Course
-  status: Registered
+- date: 12/5/2022
+  course: 22-0009
+  title: DPSST Basic Police COD
+  status: Pending
   score: '0.0'
-  hours: '640.00'
+  hours: '80.00'
 attribute_records: []
 education_records: []

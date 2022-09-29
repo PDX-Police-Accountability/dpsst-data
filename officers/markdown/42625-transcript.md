@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2022 | PDP17608 | Control Tactics Striking, Clinch, Ground | Instructed | 0.0 | 1.00 |
+| 9/19/2022 | PDP16944 | Control Tactics (Handcuffing, Hobble, OC) | Instructed | 0.0 | 2.00 |
 | 8/17/2022 | PDP07049 | CEW Training Course: Axon Taser V22 PP | Instructed | 0.0 | 7.00 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Instructed | 0.0 | 4.00 |
 | 5/11/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

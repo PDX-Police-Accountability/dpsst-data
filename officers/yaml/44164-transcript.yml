@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/13/2022
+  course: OCS39395
+  title: Interview and Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/17/2022
   course: PDP02516
   title: Crisis Negotiation Team Training
@@ -238,9 +244,9 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 12/31/2021
-  course: 21-CVDL1
-  title: 2021 LE Annual Maint-Not Met COVID19
-  status: Incomplete
+  course: MISCMAIN
+  title: 2021 LE Annual Maintenance Met
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 12/16/2021

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/19/2022 | GSP19422 | Incident Response Vehicle Training | Passed | 0.0 | 2.50 |
 | 1/5/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | GSP11619 | 2021 Mental Health In Service | Passed | 0.0 | 3.00 |

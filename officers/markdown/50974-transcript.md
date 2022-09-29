@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2022 | LOP30580 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |

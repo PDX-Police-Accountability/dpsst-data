@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: LOP06103
+  title: Fire Extinguisher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.33'
 - date: 6/15/2022
   course: LOP16376
   title: Firearms Training

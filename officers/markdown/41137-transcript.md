@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2022 | PDP38569 | Intoxilyzer 8000 Class | Instructed | 0.0 | 6.00 |
 | 7/13/2022 | OSH16712 | ARIDE | Instructed | 0.0 | 16.00 |
 | 6/23/2022 | PDP09581 | Standardized Field Sobriety Refersher Training | Instructed | 0.0 | 7.00 |
 | 5/26/2022 | PDP22172 | Standarized Field Sobriety Test Refresher Training | Instructed | 0.0 | 9.00 |

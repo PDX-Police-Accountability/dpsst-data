@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2022 | PDP24552 | EDU Training: PPE  Remote Rigging | Passed | 0.0 | 6.00 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Passed | 0.0 | 8.00 |
 | 8/3/2022 | PDP04404 | EDU Training- SPARTAN Robot Training | Passed | 0.0 | 9.00 |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Passed | 0.0 | 9.00 |

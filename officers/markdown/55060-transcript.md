@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | PDP35078 | Hazmat/ WMD Awareness  APR Program | Instructed | 0.0 | 3.50 |
+| 9/14/2022 | PDP24552 | EDU Training: PPE  Remote Rigging | Passed | 0.0 | 6.00 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Passed | 0.0 | 8.00 |
 | 9/1/2022 | PDP07595 | Hazmat/WMD Awareness  APR | Instructed | 0.0 | 1.50 |
 | 8/31/2022 | PDP22945 | Tactical rigging, robot/bag attack, bomb suit | Passed | 0.0 | 9.00 |

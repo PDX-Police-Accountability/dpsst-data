@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 7/14/2022 | PDP09525 | OR Narcotics Enforcement Association Conference | Passed | 0.0 | 24.00 |
 | 6/30/2022 | PDP16397 | Intl. Narc. Interdict. Assoc. Training Conference | Passed | 0.0 | 29.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

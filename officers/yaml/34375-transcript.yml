@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2022
+  course: STS07035
+  title: Child Abuse Mandatory Reporting Law ORS-419B.005
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/15/2022
   course: OSH42802
   title: Oregon Homicide Investigators Association

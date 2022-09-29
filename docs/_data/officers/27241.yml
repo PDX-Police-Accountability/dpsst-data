@@ -50,6 +50,12 @@ certification_records:
   expiration_date: 8/7/2025
   probation_date: ''
 training_records:
+- date: 9/23/2022
+  course: VND31993
+  title: Basic Background
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/30/2020
   course: PDP42651
   title: 2020-3 City Attorney's Office Legal Updates 3/2020

@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2022
+  course: OCS22530
+  title: One Hand Shooting/Low Light/Target ID
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/15/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

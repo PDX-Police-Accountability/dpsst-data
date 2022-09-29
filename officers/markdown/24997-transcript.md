@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2022 | PPP08070 | FN303 Recert | Passed | 0.0 | 2.00 |
 | 8/1/2022 | PPP15504 | Legal Update from MCDA Office | Passed | 0.0 | 2.00 |
 | 7/31/2022 | PPP37086 | Emotional  Psychological Disorders 1 | Passed | 0.0 | 0.45 |
 | 6/30/2022 | PPP30349 | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |

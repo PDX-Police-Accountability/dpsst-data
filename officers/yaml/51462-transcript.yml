@@ -35,6 +35,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/22/2022
+  course: PDS44753
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/6/2022
   course: PDS28431
   title: Taser Recertification

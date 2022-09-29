@@ -37,9 +37,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 9/16/2022 | 22-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 8/18/2022 | PDP11656 | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 9.00 |
 | 8/17/2022 | PDP15241 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
-| 8/8/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 6/14/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/14/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/25/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

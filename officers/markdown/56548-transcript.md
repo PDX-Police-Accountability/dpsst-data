@@ -203,6 +203,7 @@
 | 1/20/2020 | PDP19553 | 2020 InService Police Response Criminal Extremism | Passed | 0.0 | 1.00 |
 | 1/20/2020 | PDP26056 | 2020 InService PVO - Pursuit Management | Passed | 0.0 | 2.00 |
 | 1/20/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |
+| 1/16/2020 | PDP30882 | Incident Response to Terrorist Bombings | Passed | 0.0 | 27.00 |
 | 1/8/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |
 | 12/31/2019 | PDP19441 | 2019-11 City Attorney's Legal Updates for 11/2019 | Passed | 0.0 | 0.25 |
 | 12/27/2019 | MISCMAIN | 2019 LE Annual Maintenance | Completed | 0.0 | 0.00 |

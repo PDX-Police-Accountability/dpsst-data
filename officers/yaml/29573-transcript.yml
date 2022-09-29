@@ -81,6 +81,12 @@ certification_records:
   expiration_date: 10/29/2022
   probation_date: ''
 training_records:
+- date: 9/19/2022
+  course: OCS43683
+  title: FBI LEEDA- Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 6/16/2022
   course: PDP01652
   title: AAR SharePoint Transition

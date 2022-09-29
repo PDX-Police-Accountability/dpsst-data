@@ -42,6 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Instructed | 0.0 | 4.00 |
+| 9/19/2022 | OCS39426 | September 2022 FTU Inservice Training | Passed | 0.0 | 4.00 |
+| 9/16/2022 | OCS29922 | Sniper Unit Overview | Passed | 0.0 | 16.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/1/2022 | OCS14404 | One hand shooting, Qualification | Instructed | 0.0 | 2.00 |
 | 8/30/2022 | OCS23790 | One Handed Shooting and Barricading | Instructed | 0.0 | 97.00 |

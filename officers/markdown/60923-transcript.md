@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 7/14/2022 | PDP30727 | Advanced Roadside Impaired Driving Enforcement | Passed | 0.0 | 18.00 |
 | 7/13/2022 | OSH16712 | ARIDE | Passed | 0.0 | 16.00 |
 | 6/19/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/10/2022
+  course: PDP08413
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/18/2022
   course: PDP01652
   title: AAR SharePoint Transition

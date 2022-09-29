@@ -56,8 +56,14 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: SAG02166
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/9/2022
-  course: SAG44131
+  course: SAG12608
   title: First Aid / Adult  Infant CPR/ AED
   status: Passed
   score: '0.0'

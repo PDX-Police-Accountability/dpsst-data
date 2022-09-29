@@ -86,6 +86,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/3/2022
+  course: PDS40825
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/27/2022
   course: PDS33362
   title: CPR-First Aid
@@ -170,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/12/2022
+  course: PDS03881
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/11/2022
   course: PDS15319
   title: Ethics  IAU

@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/3/2022
+  course: PDS40825
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/27/2022
   course: PDS06193
   title: Civil Process
@@ -106,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/26/2022
+  course: PDS03881
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/22/2022
   course: PDS00058
   title: Uncontrolled Environments

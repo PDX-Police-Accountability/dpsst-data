@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2022 | PDP38569 | Intoxilyzer 8000 Class | Instructed | 0.0 | 6.00 |
+| 9/2/2022 | PDP12500 | Traffic Crash Reconstruction | Passed | 0.0 | 80.00 |
 | 8/12/2022 | PDP00518 | Advanced Traffic Crash Investigation | Passed | 0.0 | 80.00 |
 | 7/22/2022 | PDP19082 | At-Scene Traffic Crash Homicide Investigation | Passed | 0.0 | 80.00 |
 | 6/14/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

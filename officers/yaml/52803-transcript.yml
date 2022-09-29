@@ -37,6 +37,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2022
+  course: PDP38569
+  title: Intoxilyzer 8000 Class
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/2/2022
+  course: PDP12500
+  title: Traffic Crash Reconstruction
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 8/12/2022
   course: PDP00518
   title: Advanced Traffic Crash Investigation

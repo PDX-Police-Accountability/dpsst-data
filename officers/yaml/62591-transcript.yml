@@ -30,6 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/20/2022
+  course: PDP25307
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/19/2022
+  course: PDP30713
+  title: Geography Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/19/2022
+  course: PDP16944
+  title: Control Tactics (Handcuffing, Hobble, OC)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/15/2022
+  course: PDP35078
+  title: Hazmat/ WMD Awareness  APR Program
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/13/2022
+  course: PDP08935
+  title: Firearms Training (post academy)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/12/2022
+  course: PDP39710
+  title: Firearms Training (post academy)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/9/2022
   course: M10-21A
   title: DPSST Basic Police Course

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/26/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 6/14/2022 | PDS03693 | Less Lethal | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS13914 | Range Qualfiication | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS30938 | Rifle Training | Passed | 0.0 | 28.00 |

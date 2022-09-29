@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/23/2022
+  course: VND32811
+  title: Hate and Bias Crimes
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/18/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

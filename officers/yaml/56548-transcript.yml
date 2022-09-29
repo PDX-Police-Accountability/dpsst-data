@@ -1050,6 +1050,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/16/2020
+  course: PDP30882
+  title: Incident Response to Terrorist Bombings
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 1/8/2020
   course: PDP23987
   title: 2020 Threat Assess/Referral Program (TARP) App

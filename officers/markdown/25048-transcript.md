@@ -40,10 +40,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
 | 8/10/2022 | HUP31112 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
-| 8/9/2022 | SAG44131 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
+| 8/9/2022 | SAG12608 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
 | 7/28/2022 | SAG24786 | Firearms Qualifications | Passed | 0.0 | 2.00 |
 | 7/13/2022 | HUP26869 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
+| 6/23/2022 | VND32811 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Instructed | 0.0 | 16.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 2/17/2022 | SAG18841 | Firearms | Passed | 0.0 | 1.50 |

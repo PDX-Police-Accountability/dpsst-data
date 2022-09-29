@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2022 | PDS18524 | CPR-First Aid | Passed | 0.0 | 2.00 |
+| 7/23/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
+| 7/23/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 6/9/2022 | PDS05886 | CIT | Passed | 0.0 | 4.00 |
 | 6/9/2022 | PDS36826 | Evidence Collection | Passed | 0.0 | 2.00 |
 | 6/9/2022 | PDS43165 | Use of Force Reports | Passed | 0.0 | 3.00 |

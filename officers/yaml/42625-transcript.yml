@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2022
+  course: PDP17608
+  title: Control Tactics Striking, Clinch, Ground
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/19/2022
+  course: PDP16944
+  title: Control Tactics (Handcuffing, Hobble, OC)
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/17/2022
   course: PDP07049
   title: 'CEW Training Course: Axon Taser V22 PP'

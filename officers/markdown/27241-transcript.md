@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2022 | VND31993 | Basic Background | Passed | 0.0 | 16.00 |
 | 7/30/2020 | PDP42651 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 7/8/2020 | PDP38171 | 2020-5 Tips  Tech Drug Packaging/Crime Lab Sub | Passed | 0.0 | 0.25 |
 | 6/29/2020 | PDP24243 | 2020-2 City Attorney's Office Legal Updates 2/2020 | Passed | 0.0 | 0.50 |

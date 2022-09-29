@@ -86,6 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2022
+  course: OCS22530
+  title: One Hand Shooting/Low Light/Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/19/2022
+  course: OCS39426
+  title: September 2022 FTU Inservice Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/16/2022
+  course: OCS29922
+  title: Sniper Unit Overview
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/15/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

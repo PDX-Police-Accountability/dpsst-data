@@ -47,6 +47,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2022 | BNS25042 | Objective Jail Classification | Passed | 0.0 | 24.00 |
+| 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
+| 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 5/26/2022 | PDS35475 | CIT | Instructed | 0.0 | 4.00 |
 | 5/24/2022 | PDS42809 | Civil Disturbance Training | Passed | 0.0 | 4.00 |
 | 5/18/2022 | PDS13529 | CIT | Instructed | 0.0 | 4.00 |

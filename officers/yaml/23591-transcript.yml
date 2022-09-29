@@ -99,6 +99,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/16/2022
+  course: BNN43931
+  title: Sex Offender Supervision Specialist Training
+  status: Passed
+  score: '0.0'
+  hours: '34.00'
 - date: 12/31/2021
   course: 21-CVDL1
   title: 2021 LE Annual Maint-Not Met COVID19

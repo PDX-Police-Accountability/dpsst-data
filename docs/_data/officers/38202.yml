@@ -68,6 +68,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/23/2022
+  course: PDS44753
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/23/2022
+  course: PDS03881
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/9/2022
   course: PDS05886
   title: CIT

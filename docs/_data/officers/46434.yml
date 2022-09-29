@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/19/2022
+  course: PDP17608
+  title: Control Tactics Striking, Clinch, Ground
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/26/2022
   course: PDP15933
   title: Control Tactics Handcuffing

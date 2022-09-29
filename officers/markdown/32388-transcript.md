@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/26/2022 | HBS04306 | Tactical Casualty Care for Law Enforcement | Passed | 0.0 | 8.00 |
+| 5/2/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/8/2022 | GSP16273 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |
 | 3/10/2022 | GSP44332 | Bank Robbery (Tracker) Tracker | Passed | 0.0 | 1.00 |
 | 3/4/2022 | F6R40127 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |

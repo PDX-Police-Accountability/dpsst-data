@@ -35,6 +35,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2022 | 22-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 200.00 |
+| 9/20/2022 | MFN44035 | OMS/BCP Coaching | Passed | 0.0 | 2.00 |
+| 9/8/2022 | MFN17312 | Firearms: Movement | Passed | 0.0 | 2.00 |
 | 8/12/2022 | MFN38311 | CPR, AED and First Aid for Adults and Children | Passed | 0.0 | 4.00 |
 | 8/11/2022 | MFN14301 | Firearms | Passed | 0.0 | 1.00 |
 | 7/27/2022 | MFN17897 | ACJI: 5 Dynamics of Effective Leadership | Passed | 0.0 | 1.00 |

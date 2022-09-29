@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2022 | F6R22533 | CPR/First Aid | Passed | 0.0 | 6.00 |
 | 9/8/2022 | PDN17455 | Confrontational Simulation Off Duty Encounters | Passed | 0.0 | 1.50 |
 | 8/24/2022 | PDN02361 | Working with the Mentally Ill | Passed | 0.0 | 1.50 |
 | 8/17/2022 | PDN09049 | Fentanyl Safety  Awareness | Passed | 0.0 | 4.00 |

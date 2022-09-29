@@ -93,10 +93,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 8/8/2022
+- date: 9/16/2022
   course: 22-0026
   title: DPSST Middle Management
-  status: Registered
+  status: Passed
   score: '0.0'
   hours: '80.00'
 - date: 6/16/2022

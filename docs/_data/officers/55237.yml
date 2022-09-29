@@ -2292,6 +2292,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/7/2010
+  course: PDP32369
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/7/2010
+  course: PDP22671
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/1/2009
   course: 10U002
   title: Approved Out-of-State Training

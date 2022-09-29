@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 6/13/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/12/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 5/31/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |

@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/3/2022 | PDS40825 | ConSim | Passed | 0.0 | 8.00 |
 | 7/27/2022 | PDS33362 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/26/2022 | PDS13285 | Homeless Outreach Program | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDS06193 | Civil Process | Passed | 0.0 | 1.00 |
@@ -57,6 +58,7 @@
 | 7/14/2022 | PDS06402 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 7/13/2022 | PDS26289 | Use of Force | Passed | 0.0 | 4.00 |
 | 7/12/2022 | PDS10955 | OSHA | Passed | 0.0 | 2.00 |
+| 7/12/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/11/2022 | PDS15319 | Ethics  IAU | Passed | 0.0 | 2.00 |
 | 7/11/2022 | PDS34747 | PREA | Passed | 0.0 | 2.00 |
 | 6/7/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
