@@ -42,6 +42,7 @@
 | 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Instructed | 0.0 | 4.00 |
 | 8/16/2022 | PDP20101 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Instructed | 0.0 | 7.00 |
+| 8/10/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/3/2022 | PDP33543 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/2/2022 | PDP13212 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 7/25/2022 | PDP27302 | Firearms Training | Instructed | 0.0 | 3.50 |

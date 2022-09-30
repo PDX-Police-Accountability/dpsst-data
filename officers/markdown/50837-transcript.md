@@ -35,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 5/29/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/28/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/26/2022 | WLP02990 | CRI-TAC First Line Leadership and Supervision | Passed | 0.0 | 24.00 |
 | 5/26/2022 | PDP24406 | First Line Leadership  Supervision Training | Passed | 0.0 | 21.00 |
 | 5/15/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

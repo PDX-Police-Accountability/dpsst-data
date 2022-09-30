@@ -56,6 +56,12 @@ certification_records:
   expiration_date: 10/25/2022
   probation_date: ''
 training_records:
+- date: 6/22/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/12/2022
   course: PDP23522
   title: 2022 Queer Policy - Policy Scenarios

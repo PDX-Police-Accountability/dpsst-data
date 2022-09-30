@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/16/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP40670 | Intl. Narcotics Interdiction Assoc. Conference | Passed | 0.0 | 29.00 |
 | 6/11/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/9/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

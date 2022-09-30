@@ -40,6 +40,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/6/2022 | PDP01747 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
+| 8/8/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/8/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/14/2022 | HDA16104 | 2022 ONEA Training Institute | Passed | 0.0 | 20.00 |
 | 7/14/2022 | HDA29098 | Ethos Leadership | Passed | 0.0 | 4.00 |
 | 7/14/2022 | PDP09525 | OR Narcotics Enforcement Association Conference | Passed | 0.0 | 24.00 |

@@ -40,6 +40,9 @@
 | 8/15/2022 | REG34517 | Body lock take down, Cross side top control | Passed | 0.0 | 1.00 |
 | 8/11/2022 | REG21262 | 1/2 guard bottom getting up off the ground | Passed | 0.0 | 1.00 |
 | 8/8/2022 | REG35338 | 1/2 guard bottom positional control, grip fighting | Passed | 0.0 | 1.00 |
+| 7/19/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/19/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/19/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/14/2022 | REG00839 | weapon retention | Passed | 0.0 | 1.00 |
 | 7/7/2022 | REG16331 | Collar tie, single leg, knee on hip | Passed | 0.0 | 1.00 |
 | 6/30/2022 | REG30867 | Grip fighting, posture control, getting up | Passed | 0.0 | 1.00 |

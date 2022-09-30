@@ -46,6 +46,9 @@
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Passed | 0.0 | 9.00 |
 | 6/22/2022 | PDP17414 | EDU Weekly Training ATF E3/ Maintenance | Passed | 0.0 | 9.00 |
 | 6/15/2022 | PDP00617 | EDU Weekly- Maritime Operations for Bomb Techs | Passed | 0.0 | 9.00 |
+| 6/13/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 6/13/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 6/13/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/8/2022 | PDP40534 | Weekly EDU Training-JCEM Course | Passed | 0.0 | 9.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/27/2022 | PDP37938 | Basic SWAT School | Passed | 0.0 | 40.00 |

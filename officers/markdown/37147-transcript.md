@@ -35,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/26/2022 | PDP43316 | CA Homicide Invest. Assoc. Annual Conference | Passed | 0.0 | 21.50 |
+| 7/14/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/14/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Passed | 0.0 | 16.00 |
 | 6/16/2022 | PDP43669 | Officer Involved Shooting Investigation Training | Passed | 0.0 | 16.00 |

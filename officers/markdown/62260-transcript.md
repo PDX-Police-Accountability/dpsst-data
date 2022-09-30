@@ -94,6 +94,7 @@
 | 6/21/2022 | PDP12874 | Use of Force Handcuffing | Passed | 0.0 | 4.00 |
 | 6/21/2022 | PDP04223 | Directive 1500.00, Training | Passed | 0.0 | 0.25 |
 | 6/21/2022 | PDP06607 | Directive 316.00, Drug, Alcohol, and Tobacco Free | Passed | 0.0 | 0.25 |
+| 6/21/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/14/2022 | PDP43746 | Geography Training | Passed | 0.0 | 2.00 |
 | 6/14/2022 | PDP38663 | Property  Evidence Handling | Passed | 0.0 | 2.00 |
 | 6/10/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

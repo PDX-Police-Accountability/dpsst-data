@@ -37,6 +37,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/24/2022 | PDP01127 | K-9 Training: Obedience, Control, Equipment, etc. | Passed | 0.0 | 5.00 |
 | 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
+| 8/10/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 8/10/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/10/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |
 | 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Passed | 0.0 | 9.00 |
 | 5/22/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

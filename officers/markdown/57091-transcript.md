@@ -42,6 +42,10 @@
 | 8/26/2022 | PDP06663 | Law Enforcement Training Camp | Passed | 0.0 | 40.00 |
 | 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Instructed | 0.0 | 4.00 |
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Instructed | 0.0 | 7.00 |
+| 8/9/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 8/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/9/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 8/9/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/3/2022 | PDP33543 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/2/2022 | PDP13212 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/1/2022 | PDP39626 | Firearms Training | Instructed | 0.0 | 4.00 |

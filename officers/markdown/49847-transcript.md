@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/12/2022 | PDP35172 | Scientific basics of fingerprints | Passed | 0.0 | 22.50 |
+| 7/5/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/5/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP17244 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 5/20/2022 | PDP42697 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 5/12/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

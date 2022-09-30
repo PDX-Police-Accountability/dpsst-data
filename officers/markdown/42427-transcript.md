@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/26/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/26/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/10/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/31/2022 | PDP00820 | 2020 Trnng Mgmt Crit Incidents Well The Sgts Role | Passed | 0.0 | 0.25 |
 | 5/31/2022 | PDP25704 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |

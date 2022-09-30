@@ -64,6 +64,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 9/28/2022
+  certificate: Police Officer
+  level: Executive
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 4/21/2020
   certificate: Police Officer
   level: Management
@@ -106,6 +113,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/2/2022
+  course: PDP33829
+  title: 2022-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/17/2022
   course: PDP01652
   title: AAR SharePoint Transition

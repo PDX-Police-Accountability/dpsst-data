@@ -43,6 +43,9 @@
 | 8/24/2022 | PDP01127 | K-9 Training: Obedience, Control, Equipment, etc. | Passed | 0.0 | 5.00 |
 | 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
 | 7/27/2022 | PDP35512 | K9 Weekly Training: Searches, obedience, OPCA | Passed | 0.0 | 1.00 |
+| 7/27/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/27/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 7/27/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/29/2022 | PDP08936 | K-9 Weekly Training: control, de-escalation, etc. | Passed | 0.0 | 4.00 |
 | 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Passed | 0.0 | 9.00 |
 | 5/12/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

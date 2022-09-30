@@ -47,6 +47,10 @@
 | 6/6/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Passed | 0.0 | 9.00 |
 | 5/26/2022 | PDP07292 | Range Drills Handgun  Rifle | Passed | 0.0 | 9.00 |
+| 5/26/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 5/26/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 5/26/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/26/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
 | 5/23/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/19/2022 | PDP23266 | SERT breaching iteration training | Passed | 0.0 | 9.00 |
 | 4/18/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2022
+  course: PDP11139
+  title: 2022-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/16/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/13/2022
   course: FGP20462
   title: NAMOA Motorcycle Training

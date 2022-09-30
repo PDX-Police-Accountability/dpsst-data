@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 6/11/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/9/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/26/2022 | WLP02990 | CRI-TAC First Line Leadership and Supervision | Passed | 0.0 | 24.00 |
 | 5/26/2022 | PDP17225 | First Line Leadership  Supervision Training | Passed | 0.0 | 21.00 |
 | 5/14/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

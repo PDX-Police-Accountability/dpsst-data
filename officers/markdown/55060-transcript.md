@@ -44,6 +44,10 @@
 | 7/21/2022 | PDP21058 | Hazmat/ WMD Response Awareness Gas Mask Fitting | Instructed | 0.0 | 3.00 |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Passed | 0.0 | 9.00 |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Passed | 0.0 | 9.00 |
+| 6/25/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 6/25/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 6/25/2022 | PDP25990 | 2022-2 Range Qualification Secondary Firearm 25rd | Passed | 0.0 | 0.50 |
+| 6/25/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/24/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/23/2022 | PDP02604 | HAZMAT/ WMD Response Awareness Training | Instructed | 0.0 | 3.00 |
 | 6/22/2022 | PDP17414 | EDU Weekly Training ATF E3/ Maintenance | Passed | 0.0 | 9.00 |

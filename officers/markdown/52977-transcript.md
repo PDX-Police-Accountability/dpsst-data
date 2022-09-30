@@ -36,6 +36,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/17/2022 | PDP07049 | CEW Training Course: Axon Taser V22 PP | Instructed | 0.0 | 7.00 |
 | 8/16/2022 | PDP20101 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
+| 8/16/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 8/16/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 8/16/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/16/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Passed | 0.0 | 18.00 |
 | 5/10/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

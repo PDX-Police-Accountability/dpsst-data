@@ -31,6 +31,7 @@
 | 8/25/2022 | PDP41303 | Intro to VCAD/MRE Training | Passed | 0.0 | 14.00 |
 | 8/23/2022 | PDP18192 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/22/2022 | PDP19818 | Control Tactics Training- Post Basic Academy | Passed | 0.0 | 4.00 |
+| 8/18/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/17/2022 | PDP07049 | CEW Training Course: Axon Taser V22 PP | Passed | 0.0 | 7.00 |
 | 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Passed | 0.0 | 4.00 |
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Passed | 0.0 | 7.00 |

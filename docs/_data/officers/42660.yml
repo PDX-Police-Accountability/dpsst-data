@@ -68,12 +68,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 9/10/2022
-  course: PDP08413
-  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+- date: 8/4/2022
+  course: PDP11139
+  title: 2022-2 Range Qualification 40mm Less Lethal
   status: Passed
   score: '0.0'
-  hours: '4.00'
+  hours: '0.50'
+- date: 8/4/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/4/2022
+  course: PDP33829
+  title: 2022-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/18/2022
   course: PDP01652
   title: AAR SharePoint Transition

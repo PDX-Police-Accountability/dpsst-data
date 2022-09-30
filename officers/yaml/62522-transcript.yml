@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/18/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/17/2022
   course: PDP07049
   title: 'CEW Training Course: Axon Taser V22 PP'

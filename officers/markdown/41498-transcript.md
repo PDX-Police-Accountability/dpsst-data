@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
+| 6/23/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 6/23/2022 | VND32811 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 5/18/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/18/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

@@ -42,6 +42,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/2/2022
+  course: PDP11139
+  title: 2022-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/2/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/2/2022
+  course: PDP33829
+  title: 2022-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/2/2022
+  course: PDP35393
+  title: 2022-2 Range Qualification Secondary Firearm 50rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/27/2022
   course: PDP24393
   title: CSM - Crisis/Hostage Negotiation Level 1

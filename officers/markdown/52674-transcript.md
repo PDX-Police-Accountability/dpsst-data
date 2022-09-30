@@ -41,9 +41,13 @@
 | 6/23/2022 | PDP32071 | SERT/CNT/CIC Scenario Training | Passed | 0.0 | 0.00 |
 | 6/16/2022 | PDP37828 | Range Training Inner Perimeter  Weapon Drills | Passed | 0.0 | 9.00 |
 | 6/14/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Passed | 0.0 | 9.00 |
 | 6/1/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/1/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/8/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 5/8/2022 | PDP39583 | 2022-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 5/8/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/6/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP44374 | SERT Weekly Inner Perimeter | Passed | 0.0 | 0.00 |
 | 4/8/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

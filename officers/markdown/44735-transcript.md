@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/14/2022 | PDP00431 | Suicide Prevention/Intervention Training | Passed | 0.0 | 7.00 |
 | 8/17/2022 | PDP31730 | Critical Incident Stress Management | Instructed | 0.0 | 27.00 |
+| 8/8/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/8/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/25/2022 | PDP42874 | Group Crisis Intervention-CISM | Passed | 0.0 | 14.00 |
 | 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |

@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 9/28/2022 | Police Officer | Management | App Recd |  |  |  |
 | 1/3/2014 | Police Officer | Supervisory | Granted | 1/3/2014 |  |  |
 | 1/24/2006 | Police Officer | Advanced | Granted | 1/24/2006 |  |  |
 | 12/22/2005 | Police Officer | Intermediate | Granted | 12/22/2005 |  |  |
@@ -47,6 +48,8 @@
 | 6/11/2022 | LOP39914 | First Responder Families Resiliency Training | Passed | 0.0 | 3.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 6/1/2022 | VND40358 | The Rights of Police Officers | Passed | 0.0 | 15.00 |
+| 5/25/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/25/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/18/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/4/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

@@ -37,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/23/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/9/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 6/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/8/2022 | PDP25704 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
 | 6/8/2022 | PDP13398 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 6/8/2022 | PDP05898 | HR Rule 2.02, Prohibition Against Wrkplc Hrssmnt | Passed | 0.0 | 0.25 |

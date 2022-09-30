@@ -34,6 +34,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/30/2022 | PDP30199 | OR Peace Ofc. Assoc. Search Warrant Training | Passed | 0.0 | 7.00 |
 | 8/30/2022 | VND10006 | Search Warrants: Not as Painful As You Think | Passed | 0.0 | 8.00 |
+| 8/11/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/11/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/5/2022 | PDP17961 | Global Leadership Summit | Passed | 0.0 | 11.75 |
 | 8/2/2022 | PDP03251 | Real Time Cell Phone Investigations | Passed | 0.0 | 16.00 |
 | 6/7/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

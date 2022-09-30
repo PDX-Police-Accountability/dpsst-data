@@ -104,6 +104,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 7/13/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2022
+  course: PDP33829
+  title: 2022-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/8/2022
   course: PDP21753
   title: Peer Support Role in Member Serious Injury/LODD

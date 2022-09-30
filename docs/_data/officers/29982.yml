@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2022
+  course: SYP38011
+  title: Defensive Tactics, Handcuffing
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/19/2022
   course: SVP25472
   title: Peak Performance in Emotional Survival

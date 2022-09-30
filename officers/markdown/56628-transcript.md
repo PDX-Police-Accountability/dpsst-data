@@ -46,6 +46,12 @@
 | 5/12/2022 | PDP08575 | Dir 640.38, Intrctng with Members CHO Letter | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP06607 | Directive 316.00, Drug, Alcohol, and Tobacco Free | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP38509 | Directive 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
+| 5/12/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 5/12/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/12/2022 | PDP39583 | 2022-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 5/12/2022 | PDP25990 | 2022-2 Range Qualification Secondary Firearm 25rd | Passed | 0.0 | 0.50 |
+| 5/12/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 5/12/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/11/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

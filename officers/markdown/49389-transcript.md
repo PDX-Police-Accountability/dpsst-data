@@ -32,6 +32,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/23/2022 | PDP18192 | FTEP Orientation | Instructed | 0.0 | 6.50 |
+| 8/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/9/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP29324 | FTEP Orientation | Instructed | 0.0 | 7.00 |
 | 6/23/2022 | PDP42888 | FTEP Orientation | Instructed | 0.0 | 6.00 |
 | 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |

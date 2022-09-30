@@ -35,6 +35,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/24/2022 | PDP01127 | K-9 Training: Obedience, Control, Equipment, etc. | Passed | 0.0 | 5.00 |
 | 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
+| 7/18/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/18/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/18/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP08936 | K-9 Weekly Training: control, de-escalation, etc. | Passed | 0.0 | 4.00 |
 | 6/13/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/19/2022 | PDP03853 | K-9 Training: Build. Searches, Equipment, etc. | Passed | 0.0 | 3.00 |

@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/22/2022 | PDP15790 | Focused Intervention Team Firearms Training | Passed | 0.0 | 5.00 |
 | 7/21/2022 | PDP37678 | SERT Firearms Training | Passed | 0.0 | 9.00 |
+| 7/20/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/20/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |
 | 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Passed | 0.0 | 9.00 |
 | 6/23/2022 | PDP32071 | SERT/CNT/CIC Scenario Training | Instructed | 0.0 | 0.00 |

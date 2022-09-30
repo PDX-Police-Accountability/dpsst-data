@@ -44,6 +44,9 @@
 | 6/22/2022 | PDP17414 | EDU Weekly Training ATF E3/ Maintenance | Passed | 0.0 | 9.00 |
 | 6/15/2022 | PDP00617 | EDU Weekly- Maritime Operations for Bomb Techs | Passed | 0.0 | 9.00 |
 | 6/8/2022 | PDP40534 | Weekly EDU Training-JCEM Course | Passed | 0.0 | 9.00 |
+| 5/23/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/23/2022 | PDP25990 | 2022-2 Range Qualification Secondary Firearm 25rd | Passed | 0.0 | 0.50 |
+| 5/23/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/17/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/17/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/3/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

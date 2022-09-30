@@ -39,6 +39,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/17/2022 | PDP15241 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Passed | 0.0 | 3.00 |
+| 8/3/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/3/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/2/2022 | PDP11268 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 8/2/2022 | PDP10693 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 6/29/2022 | PDP08936 | K-9 Weekly Training: control, de-escalation, etc. | Passed | 0.0 | 4.00 |

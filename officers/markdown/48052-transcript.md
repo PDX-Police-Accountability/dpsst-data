@@ -33,6 +33,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 8/1/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/1/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
 | 6/13/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP24393 | CSM - Crisis/Hostage Negotiation Level 1 | Passed | 0.0 | 40.00 |
 | 5/27/2022 | PDP15846 | Crisis/ Hostage negotiation Course Level I Basic | Passed | 0.0 | 40.00 |

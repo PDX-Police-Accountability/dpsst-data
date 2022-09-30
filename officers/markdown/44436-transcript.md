@@ -42,6 +42,9 @@
 | 8/24/2022 | PDP32535 | EDU Training: Rigging  Robot Operations | Passed | 0.0 | 9.00 |
 | 8/17/2022 | PDP34757 | EDU Operations After-Action Briefs  Dispsal | Instructed | 0.0 | 9.00 |
 | 8/3/2022 | PDP04404 | EDU Training- SPARTAN Robot Training | Instructed | 0.0 | 9.00 |
+| 7/21/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/21/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/21/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Instructed | 0.0 | 9.00 |
 | 6/25/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/25/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/16/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/15/2022
   course: PDP10686
   title: Post DPSST Firearms Training

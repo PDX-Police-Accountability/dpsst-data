@@ -39,6 +39,7 @@
 | 8/24/2022 | PDP32535 | EDU Training: Rigging  Robot Operations | Instructed | 0.0 | 9.00 |
 | 8/17/2022 | PDP34757 | EDU Operations After-Action Briefs  Dispsal | Instructed | 0.0 | 9.00 |
 | 8/3/2022 | PDP04404 | EDU Training- SPARTAN Robot Training | Passed | 0.0 | 9.00 |
+| 7/27/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Instructed | 0.0 | 9.00 |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Instructed | 0.0 | 9.00 |
 | 6/15/2022 | PDP00617 | EDU Weekly- Maritime Operations for Bomb Techs | Instructed | 0.0 | 9.00 |

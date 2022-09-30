@@ -37,6 +37,9 @@
 | 6/26/2022 | PDP05898 | HR Rule 2.02, Prohibition Against Wrkplc Hrssmnt | Passed | 0.0 | 0.25 |
 | 6/26/2022 | PDP21195 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.08 |
 | 6/26/2022 | PDP41995 | UDAR Guide - Requesting | Passed | 0.0 | 0.08 |
+| 6/19/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 6/19/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/19/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/31/2022 | PDP43874 | Dir 1010.10, Deadly Force and In-Custody Death | Passed | 0.0 | 0.25 |
 | 5/25/2022 | ALP42345 | The C.A.L.M. Approach | Passed | 0.0 | 8.00 |
 | 5/23/2022 | PDP00820 | 2020 Trnng Mgmt Crit Incidents Well The Sgts Role | Passed | 0.0 | 0.25 |

@@ -51,7 +51,7 @@
 | 7/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/9/2022 | STP14142 | Ethics in Public Service | Passed | 0.0 | 1.00 |
 | 6/26/2022 | STP00044 | Shooting In And Around Vehicles | Passed | 0.0 | 4.00 |
-| 6/23/2022 | VND16392 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
+| 6/23/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 6/23/2022 | VND32811 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/15/2022 | BPT31793 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/15/2022 | BPT10339 | Coaching and Feedback | Passed | 0.0 | 4.00 |

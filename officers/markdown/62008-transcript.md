@@ -31,6 +31,8 @@
 | 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/5/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/5/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/25/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/25/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP00898 | 2022-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 21.50 |
 | 5/12/2022 | PDP06934 | 2022-1 Advanced Academy Crowd Control | Passed | 0.0 | 9.50 |
 | 5/12/2022 | PDP39022 | 2022-1 Advanced Academy EAP | Passed | 0.0 | 1.00 |

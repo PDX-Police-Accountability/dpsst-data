@@ -36,6 +36,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP38569 | Intoxilyzer 8000 Class | Instructed | 0.0 | 6.00 |
+| 8/3/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 8/3/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/3/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/13/2022 | OSH16712 | ARIDE | Instructed | 0.0 | 16.00 |
 | 7/6/2022 | PDP12004 | Motor Officer Training at PIR | Passed | 0.0 | 6.00 |
 | 6/23/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

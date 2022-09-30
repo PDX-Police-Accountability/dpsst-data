@@ -39,6 +39,8 @@
 | 8/25/2022 | NGP21069 | WRAP Restraint | Passed | 0.0 | 1.00 |
 | 8/24/2022 | NGP09490 | Firearms Qualification | Passed | 0.0 | 5.50 |
 | 7/13/2022 | OSH16712 | ARIDE | Passed | 0.0 | 16.00 |
+| 6/14/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/14/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/28/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

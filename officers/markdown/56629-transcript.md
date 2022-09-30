@@ -39,6 +39,10 @@
 | 6/8/2022 | PDP43874 | Dir 1010.10, Deadly Force and In-Custody Death | Passed | 0.0 | 0.25 |
 | 6/8/2022 | PDP22386 | Dir 905.00, Non-Force After Action Reporting | Passed | 0.0 | 0.25 |
 | 6/6/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 6/1/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
+| 6/1/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/1/2022 | PDP39583 | 2022-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 6/1/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/23/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/9/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/11/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

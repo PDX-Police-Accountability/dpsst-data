@@ -24,6 +24,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 9/28/2022 | Police Officer | Executive | App Recd |  |  |  |
 | 4/21/2020 | Police Officer | Management | Granted | 4/21/2020 |  |  |
 | 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 |  |  |
 | 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 |  |  |
@@ -44,6 +45,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/12/2022 | PDP19841 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
+| 8/2/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/2/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/17/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/17/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/10/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

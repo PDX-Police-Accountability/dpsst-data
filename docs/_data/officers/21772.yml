@@ -75,6 +75,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2022
+  course: PDP11139
+  title: 2022-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/26/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/26/2022
+  course: PDP39583
+  title: 2022-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/26/2022
+  course: PDP25990
+  title: 2022-2 Range Qualification Secondary Firearm 25rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/26/2022
+  course: PDP33829
+  title: 2022-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/17/2022
   course: PDP01652
   title: AAR SharePoint Transition

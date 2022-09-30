@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2022 | SYP38011 | Defensive Tactics, Handcuffing | Instructed | 0.0 | 4.00 |
 | 8/19/2022 | SVP25472 | Peak Performance in Emotional Survival | Passed | 0.0 | 1.50 |
 | 8/17/2022 | SVP35313 | Active Shooter Simulation Training | Instructed | 0.0 | 4.00 |
 | 7/25/2022 | SVP36319 | Hazmat First Responder Awareness | Passed | 0.0 | 2.00 |

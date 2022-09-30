@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '56.00'
+- date: 5/7/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/5/2022
   course: PDP21588
   title: 2022 PIT and Ramming

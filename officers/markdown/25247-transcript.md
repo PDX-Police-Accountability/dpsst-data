@@ -45,6 +45,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2022 | 22-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 6/16/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
+| 6/15/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 6/15/2022 | PDP25990 | 2022-2 Range Qualification Secondary Firearm 25rd | Passed | 0.0 | 0.50 |
+| 6/15/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/27/2022 | PDP23768 | Emerg. Ops Center-ICS Interface G-0191 | Passed | 0.0 | 8.66 |
 | 2/14/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/14/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |

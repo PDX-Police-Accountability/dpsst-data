@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2022 | BNN43931 | Sex Offender Supervision Specialist Training | Passed | 0.0 | 34.00 |
+| 9/16/2022 | BNN18586 | Sex Offender Supervision Specialist Training | Passed | 0.0 | 34.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/21/2021 | BPT31437 | Adult Learning Core (Virtual) | Passed | 0.0 | 2.00 |
 | 12/21/2021 | BPT08851 | Skills Coaching Workshop (Virtual) | Passed | 0.0 | 1.00 |

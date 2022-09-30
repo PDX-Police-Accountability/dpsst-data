@@ -31,6 +31,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/13/2022
+  course: PDP11139
+  title: 2022-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2022
+  course: PDP43052
+  title: 2022-2 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2022
+  course: PDP33829
+  title: 2022-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/7/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

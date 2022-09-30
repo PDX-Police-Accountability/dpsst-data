@@ -34,6 +34,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/5/2022 | PDP31516 | Global Leadership Network Conference | Passed | 0.0 | 15.00 |
 | 8/2/2022 | PDP03251 | Real Time Cell Phone Investigations | Passed | 0.0 | 16.00 |
+| 7/7/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/7/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/7/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/14/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/14/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/20/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

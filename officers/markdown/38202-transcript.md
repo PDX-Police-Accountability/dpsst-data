@@ -26,9 +26,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 9/15/2022 | 9/15/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/5/2021 | 5/5/2023 |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | PDS18524 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/23/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 7/23/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |

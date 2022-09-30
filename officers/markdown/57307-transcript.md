@@ -36,6 +36,10 @@
 | 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
 | 8/5/2022 | PDP34106 | NW Gang Investigators Assoc Training Symposium | Passed | 0.0 | 36.00 |
 | 7/24/2022 | PDP15790 | Focused Intervention Team Firearms Training | Passed | 0.0 | 5.00 |
+| 7/20/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/20/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
+| 7/20/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/20/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 5/12/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

@@ -35,6 +35,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 7/14/2022 | PDP09525 | OR Narcotics Enforcement Association Conference | Passed | 0.0 | 24.00 |
+| 7/8/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/5/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/5/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP16397 | Intl. Narc. Interdict. Assoc. Training Conference | Passed | 0.0 | 29.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/17/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 8/16/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Passed | 0.0 | 27.00 |
 | 5/13/2022 | PDP19711 | North Aerican Motor Ofc. Assoc. Training Conf. | Passed | 0.0 | 24.00 |
 | 5/2/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

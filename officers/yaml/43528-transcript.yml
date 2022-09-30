@@ -81,6 +81,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 7/7/2022
+  course: PDP43052
+  title: 2022-2 Range Qualification AR-15 (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/7/2022
+  course: PDP16854
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/7/2022
+  course: PDP25990
+  title: 2022-2 Range Qualification Secondary Firearm 25rd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/23/2022
   course: PDP01652
   title: AAR SharePoint Transition

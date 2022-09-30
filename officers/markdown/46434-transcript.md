@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2022 | PDP17608 | Control Tactics Striking, Clinch, Ground | Passed | 0.0 | 1.00 |
+| 8/3/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Instructed | 0.0 | 4.00 |
 | 7/20/2022 | SVP04681 | PIT Training | Instructed | 0.0 | 8.00 |
 | 6/15/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

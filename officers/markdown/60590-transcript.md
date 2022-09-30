@@ -32,6 +32,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2022 | PDP20168 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/1/2022 | PDP04624 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 6/21/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/12/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/16/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/16/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

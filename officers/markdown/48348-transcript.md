@@ -39,6 +39,9 @@
 | 6/12/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/2/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 5/31/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/31/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
+| 5/31/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Passed | 0.0 | 27.00 |
 | 5/13/2022 | PDP23653 | NAMOA Police Motorcycle Training Conference | Passed | 0.0 | 24.00 |
 | 5/4/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
