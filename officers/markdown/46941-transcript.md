@@ -66,6 +66,12 @@
 | 3/20/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/2/2022 | PDP40781 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 3/2/2022 | PDP40693 | K-9 weekly training | Passed | 0.0 | 3.00 |
+| 2/22/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |
+| 2/22/2022 | PDP08649 | 2022 In-Service Firearms - Range | Passed | 0.0 | 3.00 |
+| 2/22/2022 | PDP36959 | 2022 In-Service Firearms - Scenarios | Passed | 0.0 | 1.00 |
+| 2/22/2022 | PDP15870 | 2022 In-Service Patrol Proc. Mental Hlth Scenarios | Passed | 0.0 | 0.50 |
+| 2/22/2022 | PDP38760 | 2022 In-Service Patrol Procedures - Principles | Passed | 0.0 | 1.50 |
+| 2/22/2022 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
 | 2/16/2022 | PDP19006 | K-9 Training (control, searches, debriefs, etc.) | Passed | 0.0 | 3.00 |
 | 2/9/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/9/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
@@ -97,6 +103,9 @@
 | 12/9/2021 | PDP34689 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |
 | 12/9/2021 | PDP30935 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 12/8/2021 | PDP34001 | K-9 weekly: decoy exercise, obedience, etc. | Passed | 0.0 | 4.50 |
+| 12/8/2021 | PDP15870 | 2022 In-Service Patrol Proc. Mental Hlth Scenarios | Passed | 0.0 | 0.50 |
+| 12/8/2021 | PDP38760 | 2022 In-Service Patrol Procedures - Principles | Passed | 0.0 | 1.50 |
+| 12/8/2021 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
 | 11/24/2021 | PDP10199 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 4.50 |
 | 11/17/2021 | PDP25039 | 2021 K-9 Wednesday Night K-9 Training | Passed | 0.0 | 5.00 |
 | 11/15/2021 | PDP07854 | 2021 Language Access-Util Bilingual Bureau Members | Passed | 0.0 | 0.25 |

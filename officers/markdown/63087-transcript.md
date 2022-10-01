@@ -27,4 +27,4 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 11/7/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 11/7/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |

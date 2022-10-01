@@ -148,6 +148,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/15/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/14/2022
   course: PDP42419
   title: 2021-10 CAO Legal Updates for October 2021
@@ -214,6 +220,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/9/2022
+  course: PDP36959
+  title: 2022 In-Service Firearms - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/9/2022
+  course: PDP08649
+  title: 2022 In-Service Firearms - Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/9/2022
+  course: PDP37784
+  title: 2022 In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/9/2022
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/9/2022
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/9/2022
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/20/2022
   course: PDP34045
   title: 2022 Training 3M N Series Helmet
@@ -250,6 +292,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/5/2022
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2022
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/5/2022
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/15/2021
   course: PDP44453
   title: 2021-4 City Attorney's Legal Updates for 4/2021
@@ -286,6 +346,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/8/2021
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2021
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/8/2021
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/30/2021
   course: PDP05621
   title: CPR/First Aid

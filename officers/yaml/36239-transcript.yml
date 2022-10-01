@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/21/2022
+  course: PDP16709
+  title: 'EDU Training: Explosive Operations'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/14/2022
   course: PDP24552
   title: 'EDU Training: PPE  Remote Rigging'
@@ -143,6 +149,12 @@ training_records:
 - date: 4/15/2022
   course: PDP41767
   title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
   status: Passed
   score: '0.0'
   hours: '2.00'

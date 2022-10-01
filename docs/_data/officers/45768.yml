@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/5/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/15/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -200,6 +206,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/5/2022
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2022
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/5/2022
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/4/2022
   course: PDP14510
   title: Directive 630.15 Foot Pursuits Video Part 2

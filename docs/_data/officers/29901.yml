@@ -151,6 +151,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/27/2022
+  course: PDP08649
+  title: 2022 In-Service Firearms - Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/27/2022
+  course: PDP37784
+  title: 2022 In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2022
+  course: PDP36959
+  title: 2022 In-Service Firearms - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2022
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2022
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/27/2022
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/26/2022
   course: PDP30218
   title: 2021 Training New Pistol Qualification

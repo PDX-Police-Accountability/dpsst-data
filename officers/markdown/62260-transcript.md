@@ -36,6 +36,7 @@
 | 6/29/2022 | PDP12532 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/29/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 6/29/2022 | PDP00588 | Dir 660.10, Property and Evidence Procedures | Passed | 0.0 | 0.25 |
+| 6/29/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 6/28/2022 | PDP15251 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 6/28/2022 | PDP37844 | 2021-9 TT Protecting Workers from the Dangers of | Passed | 0.0 | 0.50 |
 | 6/28/2022 | PDP02335 | DIR 640.38, Interact w Members of the LGBTQIA2S+ | Passed | 0.0 | 0.25 |

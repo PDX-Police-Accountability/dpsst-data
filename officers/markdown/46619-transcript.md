@@ -42,6 +42,7 @@
 | 4/25/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/25/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 4/25/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 4/25/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/7/2022 | PDP03369 | OR Law Enforcement PIO Conference | Passed | 0.0 | 16.00 |
 | 4/6/2022 | SMS42779 | Oregon Police  Fire PIO Conference - Spring 2022 | Passed | 0.0 | 14.00 |
 | 4/6/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |

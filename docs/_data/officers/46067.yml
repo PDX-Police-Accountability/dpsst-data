@@ -194,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/6/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2022
   course: PDP26350
   title: 2022 EAP-Crisis Planning
@@ -458,6 +464,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/8/2021
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2021
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/8/2021
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/7/2021
   course: PDP30674
   title: 2021-12 TipsTech Request Emer Ping Cell Device

@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/2/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/2/2022
   course: PDP34522
   title: Interacting with Member LGBTQIA2S+ Chief's Message

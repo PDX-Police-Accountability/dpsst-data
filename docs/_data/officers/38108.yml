@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP03541
+  title: 'K-9 Training: de-escalation, scenario, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/24/2022
   course: PDP01127
   title: 'K-9 Training: Obedience, Control, Equipment, etc.'
@@ -326,6 +332,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 1/5/2022
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2022
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/5/2022
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/3/2022
   course: PDP14510
   title: Directive 630.15 Foot Pursuits Video Part 2

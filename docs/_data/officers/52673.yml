@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '18.00'
+- date: 5/26/2022
+  course: PDP37784
+  title: 2022 In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/11/2022
   course: PDP18820
   title: Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info
@@ -92,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/18/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/12/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021

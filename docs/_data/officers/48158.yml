@@ -267,6 +267,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/8/2021
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2021
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/8/2021
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/1/2021
   course: PDP02283
   title: 2021 EAP Peer Communication Techniques

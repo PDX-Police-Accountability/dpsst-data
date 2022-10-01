@@ -29,7 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/23/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 11/7/2022 | M10-21A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 11/7/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 8/2/2021 | M10-21A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |
 | 7/22/2021 | PDP35087 | 2021 FTEP Pre-DPSST Use of Force Class | Passed | 0.0 | 0.50 |

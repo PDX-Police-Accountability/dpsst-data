@@ -224,6 +224,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/5/2022
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2022
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/5/2022
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/28/2021
   course: PDP36885
   title: 2021 Training New Pistol Qualification
@@ -266,6 +284,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 12/8/2021
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2021
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/8/2021
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/27/2021
   course: PDP34501
   title: 2021-4 City Attorney's Legal Updates for 4/2021

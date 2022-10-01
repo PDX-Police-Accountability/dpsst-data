@@ -212,6 +212,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.15'
+- date: 1/19/2022
+  course: PDP36959
+  title: 2022 In-Service Firearms - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/19/2022
+  course: PDP37784
+  title: 2022 In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/19/2022
+  course: PDP08649
+  title: 2022 In-Service Firearms - Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/18/2022
   course: PDP40050
   title: Intro to Link Analysis

@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/8/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/29/2022
   course: VND39935
   title: 28 CFR Part 23 and Rissafe/Rissintel Deconfliction

@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/14/2022
+  course: PDP03541
+  title: 'K-9 Training: de-escalation, scenario, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/10/2022
   course: PDP17542
   title: 'K9 Training: control work, searches, takedowns'

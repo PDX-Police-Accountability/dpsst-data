@@ -55,6 +55,7 @@
 | 4/10/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 4/10/2022 | PDP13398 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 4/10/2022 | PDP04749 | Directive 640.10, Crime Scene Procedures | Passed | 0.0 | 0.25 |
+| 4/10/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/9/2022 | PDP43874 | Dir 1010.10, Deadly Force and In-Custody Death | Passed | 0.0 | 0.25 |
 | 4/3/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 4/3/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

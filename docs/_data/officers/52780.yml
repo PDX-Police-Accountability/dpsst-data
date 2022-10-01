@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/12/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/29/2022
   course: PDP25308
   title: 2022 Vocabulary in LGBTQIA2S+ / Queer Community
@@ -216,6 +222,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 12/8/2021
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/8/2021
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/8/2021
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/6/2021
   course: PDP04708
   title: 2021 External Training ABLE Training Ethics

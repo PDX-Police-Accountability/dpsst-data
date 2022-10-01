@@ -180,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/10/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/8/2022
   course: BNS36224
   title: Vehicle Assaults/Night Vision/SWAT
@@ -342,6 +348,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/5/2022
+  course: PDP15870
+  title: 2022 In-Service Patrol Proc. Mental Hlth Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2022
+  course: PDP38760
+  title: 2022 In-Service Patrol Procedures - Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/5/2022
+  course: PDP12187
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/18/2021
   course: PDP44453
   title: 2021-4 City Attorney's Legal Updates for 4/2021

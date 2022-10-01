@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP03541
+  title: 'K-9 Training: de-escalation, scenario, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/24/2022
   course: PDP01127
   title: 'K-9 Training: Obedience, Control, Equipment, etc.'
@@ -169,6 +175,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/6/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/16/2022
   course: PDP05402
   title: 2022-1 Range Qualification 40mm Less Lethal

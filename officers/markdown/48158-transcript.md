@@ -71,6 +71,9 @@
 | 12/17/2021 | 17726 | 2021 Sworn Supervisor In-Service Lead  Wellness | Passed | 0.0 | 1.00 |
 | 12/17/2021 | PDP42678 | 2021 Sworn Supervisor In-Service Crit. Incid. Mgmt | Passed | 0.0 | 3.50 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 12/8/2021 | PDP15870 | 2022 In-Service Patrol Proc. Mental Hlth Scenarios | Passed | 0.0 | 0.50 |
+| 12/8/2021 | PDP38760 | 2022 In-Service Patrol Procedures - Principles | Passed | 0.0 | 1.50 |
+| 12/8/2021 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
 | 12/1/2021 | PDP02283 | 2021 EAP Peer Communication Techniques | Passed | 0.0 | 5.00 |
 | 11/17/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 11/17/2021 | PDP34501 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2022
+  course: PDP03541
+  title: 'K-9 Training: de-escalation, scenario, etc.'
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/24/2022
   course: PDP01127
   title: 'K-9 Training: Obedience, Control, Equipment, etc.'
@@ -146,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/12/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/6/2022
   course: PDP43299
   title: OR Police K9 Assoc.- Spring Seminar

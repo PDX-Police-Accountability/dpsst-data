@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2022 | BPT39755 | Adult Learning Core | Passed | 0.0 | 6.00 |
 | 5/20/2022 | REG31188 | EVOIC-Advanced Dynamic and Driver Behavior | Instructed | 0.0 | 40.00 |
 | 10/1/2021 | BPT22774 | EVO Instructor - Adv. Diagnostic  Driver Eval. | Instructed | 0.0 | 36.00 |
 | 8/20/2021 | BPT21309 | EVOIC - Basic Dynamics and Driver Behavior | Instructed | 0.0 | 34.00 |

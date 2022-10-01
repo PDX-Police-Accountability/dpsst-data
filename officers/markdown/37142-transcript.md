@@ -58,6 +58,7 @@
 | 4/16/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/16/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/16/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 4/16/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |
 | 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 3.00 |
 | 4/14/2022 | F6R11889 | The Journey to Midnight | Passed | 0.0 | 1.50 |

@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/22/2022
+  course: PDP44125
+  title: 2022 HB 2513 Airways - ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/8/2022
   course: PDP26350
   title: 2022 EAP-Crisis Planning

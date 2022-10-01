@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2022 | CIF06710 | Boat Training | Instructed | 0.0 | 4.00 |
 | 8/24/2022 | CIF01799 | Firearms | Passed | 0.0 | 3.00 |
 | 8/5/2022 | CIF07921 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/27/2022 | CIF11318 | Use of Force | Passed | 0.0 | 1.00 |
