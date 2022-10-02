@@ -22,9 +22,12 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Code of Ethics | Law Enforcement Signed | 11/22/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 11/22/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
-| Certification Cards | First Aid and CPR | 9/23/2020 | 9/23/2022 |
+| Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
