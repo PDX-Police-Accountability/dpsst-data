@@ -40,10 +40,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/28/2022
+- status_date: 9/30/2022
   certificate: Police Officer
   level: Management
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: ''
@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2022
+  course: PDP38370
+  title: Emergency Operations Center/ICS Interface
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
 - date: 6/29/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens
@@ -167,8 +173,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/5/2022
-  course: PDP41767
-  title: 2022 HB 2513 Airways
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -3997,26 +4003,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/21/2021
   expiration_date: 6/22/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/21/2021
-  expiration_date: 6/22/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/12/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/12/2000

@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 3/22/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 3/22/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -36,7 +35,7 @@
 | 7/20/2022 | PDP25990 | 2022-2 Range Qualification Secondary Firearm 25rd | Passed | 0.0 | 0.50 |
 | 7/19/2022 | PDP30803 | General Firearms Training | Passed | 0.0 | 3.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Passed | 0.0 | 6.00 |
-| 7/14/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 7/14/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/19/2022 | BPT03405 | INTOX 8000  Hours included with Basic | Passed | 0.0 | 8.00 |
 | 3/17/2022 | PDP25043 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 3/17/2022 | PDP27509 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

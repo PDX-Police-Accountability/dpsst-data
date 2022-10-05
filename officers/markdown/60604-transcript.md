@@ -30,7 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/4/2022 | M10-21A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
+| 4/4/2022 | M10-22A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
 | 7/12/2021 | 21-0001 | DPSST Basic Corrections | Cancelled | 0.0 | 0.00 |
 | 5/2/2021 | HBS19466 | OC, Baton and Taser Updates | Passed | 0.0 | 3.50 |
 | 5/2/2021 | HBS32891 | May In-Service Firearms Update | Passed | 0.0 | 4.50 |

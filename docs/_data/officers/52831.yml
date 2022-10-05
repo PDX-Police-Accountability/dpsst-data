@@ -30,6 +30,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/28/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/28/2022
+  course: HDA23700
+  title: Mobile Vehicle and Foot Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/28/2022
+  course: F6R39942
+  title: Mobile Vehicle and Foot Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/11/2022
   course: PDP16854
   title: 2022-2 Range Qualification Primary Firearm
@@ -91,8 +109,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/13/2022
-  course: PDP41767
-  title: 2022 HB 2513 Airways
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -2646,14 +2664,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -2661,14 +2671,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/22/2021
   expiration_date: 6/22/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/22/2021
-  expiration_date: 6/22/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/15/2012
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2012

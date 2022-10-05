@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -97,7 +96,7 @@
 | 6/21/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/14/2022 | PDP43746 | Geography Training | Passed | 0.0 | 2.00 |
 | 6/14/2022 | PDP38663 | Property  Evidence Handling | Passed | 0.0 | 2.00 |
-| 6/10/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 6/10/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/16/2022 | BPT41049 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.50 |
 | 4/12/2022 | PDP43947 | Directive 0500.00, Wellness Program | Passed | 0.0 | 0.25 |
 | 2/3/2022 | PDP33896 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

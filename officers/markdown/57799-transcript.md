@@ -22,13 +22,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
 | Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
 | Code of Ethics | Law Enforcement Signed | 10/22/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 10/22/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -57,7 +52,7 @@
 | 4/11/2022 | PDP41995 | UDAR Guide - Requesting | Passed | 0.0 | 0.08 |
 | 4/10/2022 | PDP00820 | 2020 Trnng Mgmt Crit Incidents Well The Sgts Role | Passed | 0.0 | 0.25 |
 | 4/10/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
-| 4/10/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 4/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/10/2022 | PDP13398 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 4/10/2022 | PDP04749 | Directive 640.10, Crime Scene Procedures | Passed | 0.0 | 0.25 |
 | 4/10/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |

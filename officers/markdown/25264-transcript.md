@@ -20,6 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/3/2022 | Police Officer | Advanced | App Recd |  | 8/9/2025 |  |
+| 10/3/2022 | Police Officer | Basic | App Recd |  | 8/9/2025 |  |
+| 10/3/2022 | Police Officer | Intermediate | App Recd |  | 8/9/2025 |  |
 | 11/9/2020 | Police Officer | Advanced | Lapsed | 3/16/2001 | 8/9/2025 |  |
 | 11/9/2020 | Police Officer | Basic | Lapsed | 10/22/1993 | 8/9/2025 |  |
 | 11/9/2020 | Police Officer | Intermediate | Lapsed | 3/16/2001 | 8/9/2025 |  |
@@ -35,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2022 | PDS35405 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/24/2020 | PDP00739 | 2020 City Attorney's Gathright Decision Refresher | Passed | 0.0 | 0.25 |
 | 5/13/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
 | 5/13/2020 | PDP15453 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |

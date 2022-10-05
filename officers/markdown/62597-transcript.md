@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 5/16/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 5/16/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -35,14 +34,14 @@
 | 9/15/2022 | PDP35078 | Hazmat/ WMD Awareness  APR Program | Passed | 0.0 | 3.50 |
 | 9/13/2022 | PDP08935 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
 | 9/12/2022 | PDP39710 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
-| 9/9/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 9/9/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/12/2022 | PDP07838 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/12/2022 | PDP02880 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 5/10/2022 | PDP20915 | Policy and Procedure Training | Passed | 0.0 | 7.00 |
 | 5/6/2022 | PDP07172 | New Hire (pre DPSST) Firearms Training | Passed | 0.0 | 7.00 |
 | 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Passed | 0.0 | 5.00 |
-| 4/20/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 4/20/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/20/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/19/2022 | PDP10330 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 4/19/2022 | PDP01050 | 2020-12 CAO Legal Updates for Dec 2020 - Updated | Passed | 0.0 | 0.25 |

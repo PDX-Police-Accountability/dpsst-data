@@ -25,4 +25,4 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/4/2022 | M10-21A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
+| 4/4/2022 | M10-22A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |

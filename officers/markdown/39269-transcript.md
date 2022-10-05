@@ -26,6 +26,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2022 | PDP24519 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 22.75 |
 | 1/31/2016 | F6C06689 | eCourts  DV Case Summary Roll Call Video | Passed | 0.0 | 0.25 |
 | 11/11/2015 | 15-0715 | LEDS Inquiry Level | Instructed | 0.0 | 4.00 |
 | 8/26/2015 | 15-0952 | CPR / First Aid | Passed | 0.0 | 2.00 |

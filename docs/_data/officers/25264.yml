@@ -40,6 +40,27 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/3/2022
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: 8/9/2025
+  probation_date: ''
+- status_date: 10/3/2022
+  certificate: Police Officer
+  level: Basic
+  status: App Recd
+  certificate_date: ''
+  expiration_date: 8/9/2025
+  probation_date: ''
+- status_date: 10/3/2022
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: 8/9/2025
+  probation_date: ''
 - status_date: 11/9/2020
   certificate: Police Officer
   level: Advanced
@@ -62,6 +83,12 @@ certification_records:
   expiration_date: 8/9/2025
   probation_date: ''
 training_records:
+- date: 9/28/2022
+  course: PDS35405
+  title: CPR-First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/24/2020
   course: PDP00739
   title: 2020 City Attorney's Gathright Decision Refresher

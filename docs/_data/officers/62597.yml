@@ -67,7 +67,7 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 9/9/2022
-  course: M10-21A
+  course: M10-22A
   title: DPSST Basic Police Course
   status: Passed
   score: '0.0'
@@ -109,8 +109,8 @@ training_records:
   score: '0.0'
   hours: '5.00'
 - date: 4/20/2022
-  course: PDP41767
-  title: 2022 HB 2513 Airways
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -385,10 +385,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 5/16/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/16/2022

@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/28/2022
+  course: PDP30946
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '21.50'
 - date: 3/8/2019
   course: PDP28274
   title: Northwest Leadership Seminar

@@ -37,7 +37,7 @@ training_records:
   score: '0.0'
   hours: '6.00'
 - date: 6/13/2022
-  course: M10-21A
+  course: M10-22A
   title: DPSST Basic Police Course
   status: Registered
   score: '0.0'
@@ -91,10 +91,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 6/13/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 6/13/2022

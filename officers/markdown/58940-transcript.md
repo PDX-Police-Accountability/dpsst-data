@@ -22,20 +22,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 9/8/2022 | 9/8/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 9/8/2022 | 9/8/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 7/6/2022 | 7/6/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 7/6/2022 | 7/6/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 6/3/2022 | 6/3/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 6/3/2022 | 6/3/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 7/30/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 7/30/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 12/19/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 12/19/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,7 +44,7 @@
 | 6/11/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 6/11/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 6/5/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
-| 6/5/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 6/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 6/5/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 6/4/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 6/4/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

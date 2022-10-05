@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -35,7 +34,7 @@
 | 6/29/2022 | PDP10330 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 6/29/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP12532 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
-| 6/29/2022 | PDP41767 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 6/29/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 6/29/2022 | PDP00588 | Dir 660.10, Property and Evidence Procedures | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 6/28/2022 | PDP15251 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
@@ -99,7 +98,7 @@
 | 6/21/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/14/2022 | PDP43746 | Geography Training | Passed | 0.0 | 2.00 |
 | 6/14/2022 | PDP38663 | Property  Evidence Handling | Passed | 0.0 | 2.00 |
-| 6/10/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 6/10/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/16/2022 | BPT41049 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.50 |
 | 4/22/2022 | PDP43947 | Directive 0500.00, Wellness Program | Passed | 0.0 | 0.25 |
 | 4/21/2022 | REG08525 | INTOX 8000 - Hours included in Basic | Passed | 0.0 | 6.00 |

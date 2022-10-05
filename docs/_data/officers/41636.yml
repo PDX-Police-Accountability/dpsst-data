@@ -123,8 +123,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/6/2022
-  course: PDP41767
-  title: 2022 HB 2513 Airways
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -3473,26 +3473,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/15/2021
   expiration_date: 4/15/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/15/2021
-  expiration_date: 4/15/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/14/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/14/2005

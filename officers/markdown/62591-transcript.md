@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 5/16/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 5/16/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -35,7 +34,7 @@
 | 9/15/2022 | PDP35078 | Hazmat/ WMD Awareness  APR Program | Passed | 0.0 | 3.50 |
 | 9/13/2022 | PDP08935 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
 | 9/12/2022 | PDP39710 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
-| 9/9/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 9/9/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/12/2022 | PDP07838 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/12/2022 | PDP02880 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 5/10/2022 | PDP20915 | Policy and Procedure Training | Passed | 0.0 | 7.00 |

@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/16/2022
+  course: PDP24519
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '22.75'
 - date: 1/31/2016
   course: F6C06689
   title: eCourts  DV Case Summary Roll Call Video

@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2022 | PDP30946 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 21.50 |
 | 3/8/2019 | PDP28274 | Northwest Leadership Seminar | Passed | 0.0 | 17.50 |
 | 3/8/2019 | F6D31138 | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 5/23/2018 | PDP40857 | Leadership 2018: Law Enforcement Professionals | Passed | 0.0 | 4.00 |
