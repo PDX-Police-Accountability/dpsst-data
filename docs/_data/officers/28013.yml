@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2022
+  course: 22-0029
+  title: DPSST Supervision
+  status: Registered
+  score: '0.0'
+  hours: '80.00'
 - date: 5/18/2022
   course: PSU25775
   title: CPR/AED  First Aid

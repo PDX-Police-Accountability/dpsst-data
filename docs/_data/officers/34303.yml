@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2022
+  course: F6R25341
+  title: LIDAR Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/6/2022
   course: HBP35698
   title: K9 Maintenance Training - Patrol

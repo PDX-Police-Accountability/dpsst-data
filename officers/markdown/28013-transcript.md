@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2022 | 22-0029 | DPSST Supervision | Registered | 0.0 | 80.00 |
 | 5/18/2022 | PSU25775 | CPR/AED  First Aid | Passed | 0.0 | 1.50 |
 | 4/5/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |

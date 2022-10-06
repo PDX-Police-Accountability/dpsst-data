@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2022 | F6R25341 | LIDAR Agency Practical | Passed | 0.0 | 6.00 |
 | 7/6/2022 | HBP35698 | K9 Maintenance Training - Patrol | Passed | 0.0 | 5.00 |
 | 6/8/2022 | HBP34760 | Range / Force and Tactics | Passed | 0.0 | 7.00 |
 | 4/26/2022 | BPT03227 | RADAR/LIDAR Operator Course | Passed | 0.0 | 8.00 |

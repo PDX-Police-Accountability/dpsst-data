@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2022
+  course: PDP25459
+  title: 'SERT: Breaching, HRT, Gas Familiarization'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/21/2022
   course: PDP37678
   title: SERT Firearms Training

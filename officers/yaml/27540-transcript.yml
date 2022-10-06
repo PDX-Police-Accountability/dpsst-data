@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/28/2022
+  course: HUP06755
+  title: OACP/OSSA Board Meeting/Fall Conference
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/4/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

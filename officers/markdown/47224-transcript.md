@@ -35,7 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 9/28/2022 | HDA23700 | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 24.00 |
-| 9/28/2022 | F6R39942 | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 24.00 |
+| 9/28/2022 | F6R39942 | Undefined | Passed | 0.0 | 24.00 |
 | 8/12/2022 | PDP40472 | Scientific Basics of Fingerprints | Passed | 0.0 | 22.50 |
 | 7/12/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/12/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2022 | HRS07720 | Tactical Training - Entry | Passed | 0.0 | 2.00 |
+| 9/29/2022 | HRS29136 | NFDD Training | Passed | 0.0 | 3.00 |
 | 7/22/2022 | HRS43288 | Developing a culture of accountability | Passed | 0.0 | 1.00 |
 | 7/11/2022 | REG10830 | Ballistic Shield | Passed | 0.0 | 14.00 |
 | 6/23/2022 | MOS08571 | Stop the Bleed Course | Passed | 0.0 | 1.00 |

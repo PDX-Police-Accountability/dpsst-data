@@ -37,7 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 9/28/2022 | HDA23700 | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 24.00 |
-| 9/28/2022 | F6R39942 | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 24.00 |
+| 9/28/2022 | F6R39942 | Undefined | Passed | 0.0 | 24.00 |
 | 9/15/2022 | PDP16136 | Interview  Interrogation Training | Passed | 0.0 | 24.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 8/17/2022 | PDP31730 | Critical Incident Stress Management | Passed | 0.0 | 27.00 |

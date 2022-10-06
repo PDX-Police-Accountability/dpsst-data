@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2022 | HUP06755 | OACP/OSSA Board Meeting/Fall Conference | Passed | 0.0 | 2.00 |
 | 8/4/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/15/2022 | WLP36075 | Firt Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 7/13/2022 | WLP32007 | Quarterly Firearms Training (Pistol/Carbine) | Passed | 0.0 | 4.00 |
