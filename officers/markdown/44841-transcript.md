@@ -12,8 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 10/17/2005 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 10/17/2005 | Lake Oswego Police Department | Hired | Police Off |  |  |
+| 10/17/2005 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 9/27/2004 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
@@ -26,7 +26,11 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
+| Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
+| Code of Ethics | Signed | 10/27/2005 |  |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |

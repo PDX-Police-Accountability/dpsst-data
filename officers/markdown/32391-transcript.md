@@ -20,8 +20,8 @@
 | 1/8/2004 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/7/2004 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/1/2003 | Troutdale Police Department | Resigned | Reserve |  |  |
-| 10/15/2002 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 10/15/2002 | Troutdale Police Department | Hired | Reserve |  |  |
+| 10/15/2002 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 7/13/1998 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 5/30/1996 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
@@ -36,8 +36,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
+| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
+| Code of Ethics | Signed | 2/12/2004 |  |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |

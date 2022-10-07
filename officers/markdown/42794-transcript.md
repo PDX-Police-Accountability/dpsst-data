@@ -18,8 +18,8 @@
 | 5/18/2009 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/17/2008 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/16/2008 | West Linn Police Department | Resigned | Police Off |  |  |
-| 9/15/2003 | Oregon City Police Department | Resigned | Reserve |  |  |
 | 9/15/2003 | West Linn Police Department | Hired | Police Off |  |  |
+| 9/15/2003 | Oregon City Police Department | Resigned | Reserve |  |  |
 | 9/13/2002 | Oregon City Police Department | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
@@ -31,8 +31,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
+| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |

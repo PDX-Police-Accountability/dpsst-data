@@ -15,8 +15,8 @@
 | 11/16/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/20/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/18/2009 | Albany Police Department | Resigned | Police Off |  |  |
-| 11/20/2006 | Benton County Sheriff's Office | Resigned | Reserve |  |  |
 | 11/20/2006 | Albany Police Department | Hired | Police Off |  |  |
+| 11/20/2006 | Benton County Sheriff's Office | Resigned | Reserve |  |  |
 | 1/8/2003 | Benton County Sheriff's Office | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
@@ -29,8 +29,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
+| Code of Ethics | Signed | 11/25/2008 |  |
 | Code of Ethics | Signed | 11/25/2008 |  |
 ## Education
 | date | degree | school | major | hours |

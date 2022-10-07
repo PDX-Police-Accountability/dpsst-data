@@ -112,4 +112,8 @@ attribute_records:
   value: Signed
   effective_date: 5/23/2011
   expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 5/23/2011
+  expiration_date: ''
 education_records: []

@@ -12,8 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 4/1/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/1/2022 | Oregon City Police Department | Hired | Police Off |  |  |
+| 4/1/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/21/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/20/2020 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 6/12/2017 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
@@ -27,9 +27,15 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
 | Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
+| Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
+| Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
+| Code of Ethics | Signed | 10/6/2017 |  |
 | Code of Ethics | Signed | 10/6/2017 |  |
 ## Education
 | date | degree | school | major | hours |
