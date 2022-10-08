@@ -28,15 +28,15 @@ employment_records:
   classification: ''
   assignment: ''
 - date: 11/20/2006
-  agency: Albany Police Department
-  action: Hired
-  rank: Police Off
-  classification: ''
-  assignment: ''
-- date: 11/20/2006
   agency: Benton County Sheriff's Office
   action: Resigned
   rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 11/20/2006
+  agency: Albany Police Department
+  action: Hired
+  rank: Police Off
   classification: ''
   assignment: ''
 - date: 1/8/2003

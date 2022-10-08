@@ -2944,6 +2944,14 @@ training_records:
   hours: '8.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -2962,11 +2970,11 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2019
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2019
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/5/2000
