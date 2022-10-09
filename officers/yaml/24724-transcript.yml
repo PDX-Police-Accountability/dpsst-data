@@ -100,6 +100,54 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 9/29/2022
+  course: F6R19836
+  title: Cultivating an Inclusive, Ethical Culture
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/29/2022
+  course: F6R36766
+  title: DPSST's Use of Force Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2022
+  course: F6R05708
+  title: New Laws and Reporting Requirements
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 9/29/2022
+  course: F6R04717
+  title: Standards of Student Conduct
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/29/2022
+  course: F6R25371
+  title: Trauma Recovery, Wellness  Resilience
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R43838
+  title: Critical Issue Briefings
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R38139
+  title: Understanding "Human Error"
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R03555
+  title: The C.A.L.M. Approach
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/20/2022
   course: FGP28700
   title: How to Resolve Workplace Conflict
@@ -4227,10 +4275,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/31/2022
   expiration_date: 3/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/31/2022
-  expiration_date: 3/31/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -4239,18 +4283,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/22/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/22/2008

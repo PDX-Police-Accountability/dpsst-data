@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 7/3/2021 | 7/3/2023 |
 | Certification Cards | First Aid and CPR | 7/3/2021 | 7/3/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/14/2009 |  |
 | Code of Ethics | Signed | 8/14/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
+| 9/21/2022 | PDP41584 | SERT: HRT, Scenarios, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
 | 6/23/2022 | PDP32071 | SERT/CNT/CIC Scenario Training | Passed | 0.0 | 0.00 |
 | 5/26/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |
 | 5/26/2022 | PDP08649 | 2022 In-Service Firearms - Range | Passed | 0.0 | 3.00 |

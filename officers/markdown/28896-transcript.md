@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/19/2001 |  |
 | Code of Ethics | Signed | 10/19/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/21/2022 | OCS14962 | IPO Statute Update | Passed | 0.0 | 0.75 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |

@@ -35,6 +35,7 @@
 | 9/13/2022 | PDP08935 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
 | 9/12/2022 | PDP39710 | Firearms Training (post academy) | Passed | 0.0 | 4.00 |
 | 9/9/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 7/21/2022 | REG06527 | INTOX 8000 (Hours included with Basic) | Passed | 0.0 | 0.00 |
 | 5/12/2022 | PDP07838 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/12/2022 | PDP02880 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 5/10/2022 | PDP20915 | Policy and Procedure Training | Passed | 0.0 | 7.00 |

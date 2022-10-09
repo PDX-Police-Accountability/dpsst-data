@@ -22,12 +22,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 7/20/2007 |  |
 | Code of Ethics | Signed | 7/20/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
+| 9/21/2022 | PDP12091 | SERT: HRT, Side One Iterations, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
+| 9/19/2022 | PDP28471 | SERT: Concealment, Movement, Communication | Passed | 0.0 | 6.50 |
+| 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
 | 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Passed | 0.0 | 9.00 |
 | 6/29/2022 | PDP43874 | Dir 1010.10, Deadly Force and In-Custody Death | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP04749 | Directive 640.10, Crime Scene Procedures | Passed | 0.0 | 0.25 |

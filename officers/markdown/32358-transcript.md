@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/4/2021 | 5/4/2023 |
-| Certification Cards | First Aid and CPR | 5/4/2021 | 5/4/2023 |
-| Code of Ethics | Signed | 6/6/2001 |  |
 | Code of Ethics | Signed | 6/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
 | 9/28/2022 | F6R39942 | Undefined | Passed | 0.0 | 24.00 |
 | 8/3/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 8/3/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

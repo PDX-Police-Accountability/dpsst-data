@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -129,6 +125,8 @@
 | 7/30/2021 | OCS32139 | July firearms instructor hours | Instructed | 0.0 | 51.00 |
 | 7/30/2021 | OCS15627 | July Monthly firearms | Passed | 0.0 | 1.00 |
 | 7/23/2021 | OCS29653 | Duty to Intercede | Passed | 0.0 | 1.50 |
+| 7/21/2021 | OCS35910 | Remington 700 Armorer's Course | Passed | 0.0 | 8.00 |
+| 7/20/2021 | OCS32282 | Remington 870 Armorer's Course | Passed | 0.0 | 16.00 |
 | 7/1/2021 | F6E23595 | MILO Scenarios - De-escalation, Decision Making | Instructed | 0.0 | 1.00 |
 | 6/30/2021 | OCS34613 | June Firearms instructor hours | Instructed | 0.0 | 62.00 |
 | 6/20/2021 | OCS43052 | EVOC track | Passed | 0.0 | 4.00 |

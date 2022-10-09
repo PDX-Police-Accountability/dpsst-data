@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/4/2004 |  |
 | Code of Ethics | Signed | 8/4/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
 | 9/21/2022 | PDP16709 | EDU Training: Explosive Operations | Passed | 0.0 | 9.00 |
+| 9/21/2022 | PDP41584 | SERT: HRT, Scenarios, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
+| 9/19/2022 | PDP10782 | SERT: Search Warrant Entry | Passed | 0.0 | 6.50 |
+| 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
 | 9/14/2022 | PDP24552 | EDU Training: PPE  Remote Rigging | Instructed | 0.0 | 6.00 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Passed | 0.0 | 8.00 |
 | 8/31/2022 | PDP22945 | Tactical rigging, robot/bag attack, bomb suit | Passed | 0.0 | 9.00 |

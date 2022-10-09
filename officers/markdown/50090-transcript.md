@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/16/2021 | 7/16/2023 |
-| Certification Cards | First Aid and CPR | 7/16/2021 | 7/16/2023 |
-| Code of Ethics | Signed | 11/20/2008 |  |
 | Code of Ethics | Signed | 11/20/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2025 | PDP03489 | Extreme Ownership: Leadership | Passed | 0.0 | 4.00 |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
+| 9/21/2022 | PDP41584 | SERT: HRT, Scenarios, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
+| 9/19/2022 | PDP10782 | SERT: Search Warrant Entry | Passed | 0.0 | 6.50 |
+| 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
 | 9/14/2022 | PDP03541 | K-9 Training: de-escalation, scenario, etc. | Passed | 0.0 | 4.00 |
 | 8/10/2022 | PDP17542 | K9 Training: control work, searches, takedowns | Instructed | 0.0 | 3.00 |
 | 8/3/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

@@ -26,15 +26,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 10/17/2002 |  |
 | Code of Ethics | Signed | 10/17/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/25/2022 | HBS34146 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
+| 8/25/2022 | HBS16554 | EVO Fall 2022 In-Service | Passed | 0.0 | 4.00 |
+| 8/25/2022 | HBS29122 | DT CONSIM Instructor Updates | Passed | 0.0 | 3.00 |
 | 7/19/2022 | HBS26558 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
 | 7/12/2022 | HBS42391 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
 | 4/13/2022 | HBS10219 | IFAST Instructor Updates | Passed | 0.0 | 4.50 |

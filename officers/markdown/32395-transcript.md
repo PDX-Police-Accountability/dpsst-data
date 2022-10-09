@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/9/2022 | 5/9/2024 |
-| Certification Cards | First Aid and CPR | 5/9/2022 | 5/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 7/3/2002 |  |
 | Code of Ethics | Signed | 7/3/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2022 | PPP02329 | Reality Training Series | Passed | 0.0 | 0.45 |
 | 6/30/2022 | PPP30349 | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |
 | 5/9/2022 | PPP15105 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 4/7/2022 | PPP34624 | Body Worn Camera Operation and Policy | Passed | 0.0 | 2.00 |

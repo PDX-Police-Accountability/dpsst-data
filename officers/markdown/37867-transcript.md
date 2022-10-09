@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/17/2021 | 5/17/2023 |
-| Certification Cards | First Aid and CPR | 5/17/2021 | 5/17/2023 |
-| Code of Ethics | Signed | 4/27/2001 |  |
 | Code of Ethics | Signed | 4/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
+| 9/22/2022 | PDP42762 | SERT: Weapons Drills | Passed | 0.0 | 9.00 |
+| 9/21/2022 | PDP12091 | SERT: HRT, Side One Iterations, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
+| 9/19/2022 | PDP28471 | SERT: Concealment, Movement, Communication | Passed | 0.0 | 6.50 |
+| 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
+| 9/15/2022 | PDP40505 | SERT: HRT Iterations | Passed | 0.0 | 9.00 |
 | 8/16/2022 | HSU16497 | Post Academy Defensive Tactics | Instructed | 0.0 | 6.00 |
 | 7/21/2022 | PDP37678 | SERT Firearms Training | Instructed | 0.0 | 9.00 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |

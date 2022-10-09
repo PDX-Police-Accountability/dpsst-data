@@ -34,12 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 10/10/2007 |  |
 | Code of Ethics | Signed | 10/10/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2022 | F6R19836 | Cultivating an Inclusive, Ethical Culture | Passed | 0.0 | 3.50 |
+| 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
+| 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |
+| 9/29/2022 | F6R04717 | Standards of Student Conduct | Passed | 0.0 | 0.50 |
+| 9/29/2022 | F6R25371 | Trauma Recovery, Wellness  Resilience | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R43838 | Critical Issue Briefings | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 8/25/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/13/2022 | ICE16086 | Patient Evaluation for Law Enforcement-HB 2513 | Passed | 0.0 | 1.75 |
 | 6/27/2022 | ICE20832 | Firearms-Handgun and Rifle | Passed | 0.0 | 4.00 |

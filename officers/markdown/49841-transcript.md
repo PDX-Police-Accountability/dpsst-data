@@ -23,11 +23,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
-| Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
-| Code of Ethics | Signed | 9/2/2008 |  |
 | Code of Ethics | Signed | 9/2/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
+| 9/21/2022 | PDP12091 | SERT: HRT, Side One Iterations, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
+| 9/19/2022 | PDP28471 | SERT: Concealment, Movement, Communication | Passed | 0.0 | 6.50 |
+| 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
 | 7/28/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/28/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -150,6 +150,7 @@
 | 8/4/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/29/2021 | PDP06306 | 2021 SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 7/21/2021 | PDP26873 | 870 Remington Shotgun 700 Remington Rifle | Passed | 0.0 | 21.00 |
+| 7/20/2021 | OCS32282 | Remington 870 Armorer's Course | Passed | 0.0 | 16.00 |
 | 7/17/2021 | EGP18437 | Tactical Explosive Breacher  -Basic/Intermediate | Passed | 0.0 | 48.00 |
 | 7/17/2021 | PDP04370 | M.M.B.T.H. Breacher Certification Course | Passed | 0.0 | 45.00 |
 | 7/15/2021 | PDP35373 | 2021 SERT Training - Scenario | Passed | 0.0 | 9.00 |

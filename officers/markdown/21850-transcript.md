@@ -39,11 +39,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 12/16/2021 | 12/16/2023 |
-| Certification Cards | First Aid and CPR | 12/16/2021 | 12/16/2023 |
-| Code of Ethics | Signed | 2/7/2012 |  |
 | Code of Ethics | Signed | 2/7/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +48,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
+| 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |
+| 9/29/2022 | F6R25371 | Trauma Recovery, Wellness  Resilience | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 6/8/2022 | HUP11912 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 5/11/2022 | HUP33125 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 5/10/2022 | SMP29046 | Quarterly Firearms Qualification | Passed | 0.0 | 2.00 |
@@ -217,6 +217,7 @@
 | 11/19/2015 | 15-0827 | Informants | Passed | 0.0 | 2.00 |
 | 7/31/2015 | 15-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2015 | 15-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
+| 6/17/2015 | F6R20629 | ICS400: Command  General Staff-Complex Incidents | Passed | 0.0 | 16.00 |
 | 5/13/2015 | 15-0830 | Investigative Interviews | Passed | 0.0 | 2.00 |
 | 4/16/2015 | 15-0436 | Communication for Leaders | Passed | 0.0 | 4.00 |
 | 4/15/2015 | 15-0361 | Oregon Association Chief's of Police Conference | Passed | 0.0 | 3.50 |

@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
 | Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
 | 6/1/2022 | MLP40570 | SB 1510 Stops  Searches | Passed | 0.0 | 0.50 |
 | 5/31/2022 | MLP35269 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/31/2022 | MLP17838 | Anti-Bias Training For Law Enforcement | Passed | 0.0 | 1.00 |

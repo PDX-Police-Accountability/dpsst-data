@@ -21,15 +21,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/26/2002 | Corrections Officer | Advanced | Granted | 12/26/2002 | 9/25/2022 |  |
-| 3/15/2000 | Corrections Officer | Intermediate | Granted | 3/15/2000 | 9/25/2022 |  |
-| 4/2/1997 | Corrections Officer | Basic | Granted | 4/2/1997 | 9/25/2022 |  |
+| 9/25/2022 | Corrections Officer | Advanced | Lapsed | 12/26/2002 | 6/25/2027 |  |
+| 9/25/2022 | Corrections Officer | Basic | Lapsed | 4/2/1997 | 6/25/2027 |  |
+| 9/25/2022 | Corrections Officer | Intermediate | Lapsed | 3/15/2000 | 6/25/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 10/28/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |

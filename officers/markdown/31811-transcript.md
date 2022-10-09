@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/25/2021 | 5/25/2023 |
-| Certification Cards | First Aid and CPR | 5/25/2021 | 5/25/2023 |
-| Code of Ethics | Signed | 12/20/2010 |  |
 | Code of Ethics | Signed | 12/20/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -122,6 +118,7 @@
 | 7/25/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/25/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/25/2021 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
+| 7/20/2021 | OCS32282 | Remington 870 Armorer's Course | Passed | 0.0 | 16.00 |
 | 6/28/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/28/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/9/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

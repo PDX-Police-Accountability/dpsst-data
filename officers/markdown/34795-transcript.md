@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/10/2004 |  |
 | Code of Ethics | Signed | 3/10/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -108,6 +104,7 @@
 | 4/8/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/2/2021 | OCS23601 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/9/2021 | F6D42236 | Firearms - Marksmanship, Multiple Targets, Veh. | Passed | 0.0 | 4.00 |
+| 3/4/2021 | OCS42759 | Sergeant Training | Passed | 0.0 | 2.00 |
 | 2/28/2021 | OCS18919 | Defensive Tactics- Striking | Passed | 0.0 | 1.00 |
 | 2/28/2021 | OCS05265 | February monthly firearms | Passed | 0.0 | 1.00 |
 | 2/1/2021 | OCS31237 | Harassment training | Passed | 0.0 | 0.50 |

@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 7/21/2022
+  course: REG06527
+  title: INTOX 8000 (Hours included with Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/12/2022
   course: PDP07838
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp

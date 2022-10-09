@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/21/2010 |  |
 | Code of Ethics | Signed | 12/21/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/26/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
+| 7/22/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 6/14/2022 | PDS03693 | Less Lethal | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS13914 | Range Qualfiication | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS30938 | Rifle Training | Passed | 0.0 | 28.00 |

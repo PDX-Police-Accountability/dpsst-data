@@ -35,11 +35,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Code of Ethics | Signed | 9/6/2011 |  |
 | Code of Ethics | Signed | 9/6/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,7 +46,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
+| 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |
+| 9/29/2022 | F6R25371 | Trauma Recovery, Wellness  Resilience | Passed | 0.0 | 2.00 |
+| 9/29/2022 | F6R04717 | Standards of Student Conduct | Passed | 0.0 | 0.50 |
 | 9/28/2022 | HUP06755 | OACP/OSSA Board Meeting/Fall Conference | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R43838 | Critical Issue Briefings | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 9/21/2022 | CAP05650 | Precision Rifle Training | Passed | 0.0 | 3.00 |
 | 7/14/2022 | F6R17303 | Firearms: Vehicle Close Quarters Battle/40mm | Passed | 0.0 | 4.00 |
 | 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |

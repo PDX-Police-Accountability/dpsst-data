@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/22/2008 |  |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/7/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 9/29/2022 | F6R19836 | Cultivating an Inclusive, Ethical Culture | Passed | 0.0 | 3.50 |
+| 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
+| 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |
+| 9/29/2022 | F6R04717 | Standards of Student Conduct | Passed | 0.0 | 0.50 |
+| 9/29/2022 | F6R25371 | Trauma Recovery, Wellness  Resilience | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R43838 | Critical Issue Briefings | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 9/20/2022 | FGP28700 | How to Resolve Workplace Conflict | Passed | 0.0 | 1.00 |
 | 9/1/2022 | FGP26115 | OSHA Wildfire Smoke and Medical Plan Trainig | Passed | 0.0 | 1.00 |
 | 8/10/2022 | FGP44281 | Assisting Individuals and Groups in Crisis | Passed | 0.0 | 27.00 |

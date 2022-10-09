@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
 | Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 7/20/2007 |  |
 | Code of Ethics | Signed | 7/20/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | PDP30946 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 21.50 |
+| 9/16/2022 | PDP44636 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 7/23/2022 | PDP15790 | Focused Intervention Team Firearms Training | Passed | 0.0 | 5.00 |
 | 7/20/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/20/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
@@ -162,6 +159,7 @@
 | 12/10/2020 | PDP07824 | 2020-10 City Attorney's Office Legal Updates 10/20 | Passed | 0.0 | 0.25 |
 | 11/21/2020 | PDP26706 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 11/20/2020 | MISCMAIN | 2020 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/20/2020 | PDP00894 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 11/10/2020 | PDP27995 | 2020 Presumpt Declination DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |
 | 11/10/2020 | PDP29841 | 2020 Supervisor IS Performance Mgmt/Tableau Part I | Passed | 0.0 | 0.75 |
 | 11/10/2020 | PDP42661 | 2020 Supervisor IS Performance Mgmt/Tableau PartII | Passed | 0.0 | 0.50 |

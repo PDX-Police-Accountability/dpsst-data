@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 6/12/2003 |  |
 | Code of Ethics | Signed | 6/12/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -128,6 +124,7 @@
 | 4/26/2021 | PDP21086 | 2021 Equity Training Series Racism Part 1 | Passed | 0.0 | 0.25 |
 | 4/26/2021 | PDP15799 | 2021 Legal Updates | Passed | 0.0 | 0.75 |
 | 4/21/2021 | PDP12819 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
+| 4/20/2021 | OCS14336 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 4/9/2021 | PDP37507 | Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 3/30/2021 | PDP20959 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 3/30/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |

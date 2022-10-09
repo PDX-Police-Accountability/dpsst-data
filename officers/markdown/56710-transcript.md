@@ -25,16 +25,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 10/4/2016 |  |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,7 +38,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
+| 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/16/2022 | REG40540 | In Fight Weapon Access | Passed | 0.0 | 2.00 |
+| 9/12/2022 | HBS43987 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
+| 9/12/2022 | HBS04668 | CONSIM | Passed | 0.0 | 2.50 |
 | 8/16/2022 | HBS34143 | Rifle Update | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS41983 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |
 | 6/14/2022 | HBS31785 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |

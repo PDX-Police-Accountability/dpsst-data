@@ -32,14 +32,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 5/11/2001 |  |
 | Code of Ethics | Signed | 5/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/13/2022 | HBS06667 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 8/15/2022 | HBS25002 | Rifle Update | Passed | 0.0 | 8.00 |
 | 6/16/2022 | HBS27141 | MFF Scenario Day | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS34046 | MFF Basic Drills | Passed | 0.0 | 3.00 |

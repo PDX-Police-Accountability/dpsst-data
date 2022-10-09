@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 7/27/2000 |  |
 | Code of Ethics | Signed | 7/27/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
+| 9/21/2022 | PDP41584 | SERT: HRT, Scenarios, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
+| 9/19/2022 | PDP10782 | SERT: Search Warrant Entry | Passed | 0.0 | 6.50 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
 | 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Passed | 0.0 | 9.00 |
 | 6/23/2022 | PDP32071 | SERT/CNT/CIC Scenario Training | Passed | 0.0 | 0.00 |

@@ -615,6 +615,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 7/21/2021
+  course: OCS35910
+  title: Remington 700 Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/20/2021
+  course: OCS32282
+  title: Remington 870 Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/28/2021
   course: PDP13788
   title: 2021 Procedural Justice
@@ -4200,26 +4212,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
   expiration_date: 5/26/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/6/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/6/2001

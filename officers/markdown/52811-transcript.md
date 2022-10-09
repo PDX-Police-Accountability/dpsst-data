@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +43,7 @@
 | 7/28/2022 | SMS22986 | IALEFI- Master Instructor Development Program | Passed | 0.0 | 24.00 |
 | 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
+| 7/20/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 5/20/2022 | PDS37106 | 2022 Basic Sniper School | Passed | 0.0 | 40.00 |
 | 5/5/2022 | PDS03966 | Use of Force for Supervisors | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDS17154 | CIT | Passed | 0.0 | 4.00 |

@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/26/2021 | 6/26/2023 |
-| Certification Cards | First Aid and CPR | 6/26/2021 | 6/26/2023 |
-| Code of Ethics | Signed | 4/5/2002 |  |
 | Code of Ethics | Signed | 4/5/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
+| 9/21/2022 | PDP41584 | SERT: HRT, Scenarios, Cautious Clears | Passed | 0.0 | 6.50 |
+| 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
+| 9/19/2022 | PDP10782 | SERT: Search Warrant Entry | Passed | 0.0 | 6.50 |
+| 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
+| 9/15/2022 | PDP40505 | SERT: HRT Iterations | Instructed | 0.0 | 9.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
 | 8/5/2022 | PDP39567 | NW Gang Invest. Association Training Conference | Passed | 0.0 | 20.00 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |

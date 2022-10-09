@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
-| Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
 | 6/3/2022 | TGP35064 | Lock Picking, Bypassing  Subtle Mech Breaching | Passed | 0.0 | 16.00 |
 | 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Passed | 0.0 | 40.00 |
 | 4/28/2022 | TUP34147 | EVOC | Passed | 0.0 | 7.00 |

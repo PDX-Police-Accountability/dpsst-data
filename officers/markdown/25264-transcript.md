@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/26/2022 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 8/9/2020 | Portland Police Bureau | Retired | Police Off |  |  |
 | 10/7/1993 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/30/1993 | Cannon Beach Police Department | Resigned | Police Off |  |  |
@@ -23,9 +24,10 @@
 | 10/3/2022 | Police Officer | Advanced | App Recd |  | 8/9/2025 |  |
 | 10/3/2022 | Police Officer | Basic | App Recd |  | 8/9/2025 |  |
 | 10/3/2022 | Police Officer | Intermediate | App Recd |  | 8/9/2025 |  |
-| 11/9/2020 | Police Officer | Advanced | Lapsed | 3/16/2001 | 8/9/2025 |  |
-| 11/9/2020 | Police Officer | Basic | Lapsed | 10/22/1993 | 8/9/2025 |  |
-| 11/9/2020 | Police Officer | Intermediate | Lapsed | 3/16/2001 | 8/9/2025 |  |
+| 9/26/2022 | Police Officer | Basic | Required |  |  | 3/26/2024 |
+| 11/9/2020 | Police Officer | Advanced | Lapsed | 3/16/2001 |  |  |
+| 11/9/2020 | Police Officer | Basic | Lapsed | 10/22/1993 |  |  |
+| 11/9/2020 | Police Officer | Intermediate | Lapsed | 3/16/2001 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

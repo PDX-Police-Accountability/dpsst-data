@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2022
+  course: HBS32943
+  title: Civility  Harassment Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/28/2022
   course: HBS27163
   title: PREA (Prison Rape Elimination Act)

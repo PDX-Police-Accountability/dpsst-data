@@ -111,6 +111,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2022
+  course: HBS21565
+  title: Civility  Harassment Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/31/2021
   course: F6E18909
   title: 2021 Red Cross Adult First Aid/CPR/AED Online

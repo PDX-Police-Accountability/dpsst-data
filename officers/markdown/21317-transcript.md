@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2022 | HBS21565 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 1/31/2021 | F6E18909 | 2021 Red Cross Adult First Aid/CPR/AED Online | Passed | 0.0 | 2.50 |
 | 12/14/2020 | HBS13155 | PowerDMS Ethics Training | Passed | 0.0 | 1.00 |
 | 11/7/2019 | HBS14092 | Eliminating Discrimination/Harassment - Workplace | Passed | 0.0 | 1.00 |

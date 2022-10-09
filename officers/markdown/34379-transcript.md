@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
-| Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
-| Code of Ethics | Signed | 2/12/2004 |  |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/31/2022 | PPP37086 | Emotional  Psychological Disorders 1 | Passed | 0.0 | 0.45 |
+| 7/31/2022 | PPP02029 | Reality Training Series | Passed | 0.0 | 0.45 |
 | 6/30/2022 | PPP30349 | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |
 | 5/13/2022 | 42687 | Washington Homicide Investigators Conference | Passed | 0.0 | 20.00 |
 | 5/12/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

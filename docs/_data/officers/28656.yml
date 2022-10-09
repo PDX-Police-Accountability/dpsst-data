@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: TGP42147
+  title: Fall Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/3/2022
   course: TGP35064
   title: Lock Picking, Bypassing  Subtle Mech Breaching
@@ -2353,14 +2359,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/23/2022
   expiration_date: 2/29/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/23/2022
-  expiration_date: 2/29/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -2369,14 +2367,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/20/2021
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/20/2021
-  expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021

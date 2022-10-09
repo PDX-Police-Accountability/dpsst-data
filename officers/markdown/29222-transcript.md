@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -66,6 +62,7 @@
 | 9/20/2021 | F6F11344 | Searcb Warrant: Not as Painful as You Think | Passed | 0.0 | 8.00 |
 | 9/17/2021 | GSP15126 | 2021 PVO Inservice | Passed | 0.0 | 10.00 |
 | 5/3/2021 | GSP16774 | 2021 Spring Firearms Inservice | Passed | 0.0 | 10.00 |
+| 4/20/2021 | OCS14336 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 1/22/2021 | GSP17634 | LEDS Refresher | Instructed | 0.0 | 10.00 |
 | 1/6/2021 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2020 | GSP35136 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |

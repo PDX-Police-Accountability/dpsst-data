@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/6/2022
+  course: MISCMAIN
+  title: 2022 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/30/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens
@@ -3362,21 +3368,9 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/10/2021
-  expiration_date: 6/10/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/10/2021
@@ -3385,14 +3379,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 1/1/1950
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/7/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/7/2004

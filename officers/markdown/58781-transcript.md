@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/24/2021 | 5/24/2023 |
-| Certification Cards | First Aid and CPR | 5/24/2021 | 5/24/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
-| Code of Ethics | Law Enforcement Signed | 7/15/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 5/23/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/23/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

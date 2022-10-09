@@ -101,9 +101,45 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2022
+  course: F6R19836
+  title: Cultivating an Inclusive, Ethical Culture
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/29/2022
+  course: F6R36766
+  title: DPSST's Use of Force Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2022
+  course: F6R05708
+  title: New Laws and Reporting Requirements
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 9/29/2022
+  course: F6R25371
+  title: Trauma Recovery, Wellness  Resilience
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/28/2022
   course: HUP06755
   title: OACP/OSSA Board Meeting/Fall Conference
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R43838
+  title: Critical Issue Briefings
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R38139
+  title: Understanding "Human Error"
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -3802,14 +3838,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/15/2022
-  expiration_date: 7/15/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022
@@ -3818,14 +3846,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/19/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/19/2007

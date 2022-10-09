@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
-| Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Signed | 4/12/2006 |  |
 | Code of Ethics | Signed | 4/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -53,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2022 | SVP11703 | Peak Performance in Emotional Survival | Passed | 0.0 | 1.50 |
 | 8/19/2022 | SVP25472 | Peak Performance in Emotional Survival | Passed | 0.0 | 1.50 |
 | 8/17/2022 | SVP35313 | Active Shooter Simulation Training | Passed | 0.0 | 4.00 |
 | 7/25/2022 | SVP36319 | Hazmat First Responder Awareness | Passed | 0.0 | 2.00 |

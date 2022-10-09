@@ -30,13 +30,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 12/15/2021 | 12/14/2023 |
 | Certification Cards | First Aid and CPR | 12/15/2021 | 12/14/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
-| Code of Ethics | Signed | 6/21/2001 |  |
 | Code of Ethics | Signed | 6/21/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS13914 | Range Qualfiication | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS30938 | Rifle Training | Passed | 0.0 | 28.00 |
 | 5/26/2022 | PDS00250 | Field Training and Evaluation Program, 24 hr basic | Passed | 0.0 | 24.00 |
