@@ -1284,11 +1284,7 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-attribute_records:
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2016
-  expiration_date: 12/31/2018
+attribute_records: []
 education_records:
 - date: 6/15/1995
   degree: No Degree

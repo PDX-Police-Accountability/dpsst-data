@@ -33,7 +33,6 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2016 | 12/31/2018 |
 | Code of Ethics | Signed | 3/9/2001 |  |
 ## Education
 | date | degree | school | major | hours |

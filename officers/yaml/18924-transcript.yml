@@ -2016,10 +2016,6 @@ training_records:
   score: '0.0'
   hours: '84.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2016
-  expiration_date: 12/31/2018
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/9/2001
