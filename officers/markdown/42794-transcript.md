@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +48,7 @@
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/1/2022 | OCS14404 | One hand shooting, Qualification | Instructed | 0.0 | 2.00 |
 | 8/30/2022 | OCS23790 | One Handed Shooting and Barricading | Instructed | 0.0 | 97.00 |
+| 8/19/2022 | OCS23432 | August 2022 New Hire Firearms | Instructed | 0.0 | 40.00 |
 | 8/10/2022 | OCS07092 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS02425 | One handed shooting and marksmanship | Instructed | 0.0 | 49.00 |

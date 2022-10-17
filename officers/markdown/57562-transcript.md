@@ -27,15 +27,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
 | Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
-| Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Signed | 10/6/2017 |  |
 | Code of Ethics | Signed | 10/6/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +38,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/13/2022 | OCP31548 | LEDS Training | Passed | 0.0 | 1.00 |
+| 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
+| 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Passed | 0.0 | 0.50 |
+| 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 3/10/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

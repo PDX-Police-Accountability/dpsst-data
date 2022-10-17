@@ -28,10 +28,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
-| Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +43,7 @@
 | 9/29/2022 | F6R25371 | Trauma Recovery, Wellness  Resilience | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
+| 9/28/2022 | F6R43838 | Critical Issue Briefings | Passed | 0.0 | 2.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/9/2022 | HSU26856 | Defensive Tactics Spring In-Service 2022 | Passed | 0.0 | 2.50 |
 | 4/9/2022 | HSU28325 | Firearms Spring In-Service 2022 | Passed | 0.0 | 4.00 |

@@ -36,5 +36,29 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '80.00'
+- date: 10/2/2022
+  course: PDP36883
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/30/2022
+  course: PDP37875
+  title: Firearms Training - New Hire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/29/2022
+  course: PDP14717
+  title: Firearms Training - New Hire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/27/2022
+  course: PDP12607
+  title: FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 attribute_records: []
 education_records: []

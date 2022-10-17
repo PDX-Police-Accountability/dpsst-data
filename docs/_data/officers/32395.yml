@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2022
+  course: PPP23869
+  title: Narcan Naloxone Spray Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/1/2022
   course: PPP02329
   title: Reality Training Series
@@ -1963,10 +1969,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/9/2022
   expiration_date: 5/9/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/9/2022
-  expiration_date: 5/9/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -1975,18 +1977,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/3/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/3/2002

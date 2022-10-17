@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 9/7/2022
+  course: HBS34275
+  title: Post Crash Vehicle Inspections
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/6/2022
   course: TGP09034
   title: SFST Refresher
@@ -2413,18 +2419,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/1/2022
   expiration_date: 3/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/1/2022
-  expiration_date: 3/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

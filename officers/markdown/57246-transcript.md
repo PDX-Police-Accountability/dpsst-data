@@ -24,16 +24,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
-| Code of Ethics | Signed | 6/14/2017 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2022 | HBN07766 | Suicide Prevention and Intervention | Passed | 0.0 | 1.00 |
+| 9/27/2022 | HBN03095 | "988 and the Future of Crisis Response" | Passed | 0.0 | 1.00 |
 | 9/5/2022 | HBN10767 | Airway Circulatory Anatomy and Physiology (ACAP) | Passed | 0.0 | 2.00 |
 | 7/14/2022 | HBN26855 | Survival Skills - Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/29/2022 | HBN32368 | Officer Safety / Field Work Training and Scenarios | Passed | 0.0 | 6.00 |

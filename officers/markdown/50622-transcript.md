@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 6/25/2009 |  |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
+| 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Passed | 0.0 | 0.50 |
+| 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 8/18/2022 | OCP07088 | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
+| 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 7/5/2022 | OCP17736 | FTO Leadership Meeting | Passed | 0.0 | 1.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Instructed | 0.0 | 20.00 |

@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/6/2022
+  course: PDP11536
+  title: Basic Motor School
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 4/19/2022
   course: PDP21588
   title: 2022 PIT and Ramming
@@ -3692,14 +3698,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -3707,14 +3705,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/29/2021
   expiration_date: 6/29/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2021
-  expiration_date: 6/29/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/2/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/2/2009

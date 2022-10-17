@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2022
+  course: HBN07766
+  title: Suicide Prevention and Intervention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2022
+  course: HBN03095
+  title: '"988 and the Future of Crisis Response"'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/5/2022
   course: HBN10767
   title: Airway Circulatory Anatomy and Physiology (ACAP)
@@ -690,22 +702,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/29/2021
   expiration_date: 6/29/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2021
-  expiration_date: 6/29/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2020
@@ -716,19 +716,7 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 8/25/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 1/28/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/28/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/14/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

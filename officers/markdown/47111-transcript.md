@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/22/2022 | 2/14/2024 |
-| Certification Cards | First Aid and CPR | 2/22/2022 | 2/14/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 3/4/2015 |  |
 | Code of Ethics | Signed | 3/4/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 | 6/16/2022 | BVP15467 | Handgun and Rifle Qual June IST 2022 | Passed | 0.0 | 4.00 |
 | 6/16/2022 | BVP28630 | Control Tactics June IST | Passed | 0.0 | 2.00 |
 | 6/16/2022 | BVP28765 | Blood Draw Warrant   Search Warrant Review | Passed | 0.0 | 2.00 |
+| 6/2/2022 | BVP04034 | Active Threat Briefing Training | Passed | 0.0 | 0.75 |
 | 4/5/2022 | BVP35408 | Blood Draw  Vehicle Extractions HB 4301 | Passed | 0.0 | 0.50 |
 | 4/5/2022 | BVP27801 | Taser Recertification | Passed | 0.0 | 2.00 |
 | 4/5/2022 | BVP21253 | Blood Draw  Vehicle Extractions Control Tactics | Passed | 0.0 | 2.00 |

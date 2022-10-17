@@ -48,6 +48,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2022
+  course: OCP33065
+  title: Unknown Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/18/2022
+  course: OCP07088
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/31/2022
+  course: OCP27322
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/23/2022
   course: OCP33494
   title: Firearms/Use of Force
@@ -879,18 +897,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 10/14/2021
-  expiration_date: 10/14/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 10/14/2021
@@ -898,14 +904,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/23/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 5/23/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/15/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

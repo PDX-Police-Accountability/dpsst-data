@@ -25,16 +25,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
 | Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +42,8 @@
 | 9/16/2022 | HBS18311 | CONSIM | Passed | 0.0 | 3.00 |
 | 5/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 5/6/2022 | HBS21853 | IFAST In-Service | Passed | 0.0 | 4.00 |
+| 5/6/2022 | HBS40162 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
+| 5/6/2022 | HBS33685 | Airway Circulation Training | Passed | 0.0 | 2.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/28/2022 | HBS40639 | First Aid | Passed | 0.0 | 2.50 |
 | 1/28/2022 | HBS37678 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

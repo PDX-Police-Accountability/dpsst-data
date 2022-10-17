@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 1/31/2022 | 1/31/2024 |
 | Certification Cards | First Aid and CPR | 1/31/2022 | 1/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 11/18/2009 |  |
 | Code of Ethics | Signed | 11/18/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,7 +37,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/21/2022 | LOP30580 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
+| 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
+| 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Instructed | 0.0 | 0.50 |
+| 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 5/6/2022 | PDP11536 | Basic Motor School | Passed | 0.0 | 40.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |

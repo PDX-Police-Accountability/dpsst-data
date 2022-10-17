@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2022
+  course: PPP21848
+  title: Advanced Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/22/2022
   course: PDP19818
   title: Control Tactics Training- Post Basic Academy
@@ -3152,14 +3158,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -3167,21 +3165,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/30/2021
   expiration_date: 6/30/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/30/2021
-  expiration_date: 6/30/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/23/2012
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

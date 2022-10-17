@@ -29,7 +29,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/12/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 9/6/2022 | PDP38929 | Firearms Training | Passed | 0.0 | 7.00 |
+| 9/2/2022 | PDP00747 | Firearms Training | Passed | 0.0 | 9.00 |
+| 9/1/2022 | PDP33916 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 8/30/2022 | PDP05152 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/30/2022 | PDP11019 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 8/30/2022 | PDP38997 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/14/2022
+  course: HBS23268
+  title: PNW Law Enforcement Human Trafficking Consortium
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/25/2022
   course: HBS34146
   title: Civility  Harassment Free Workplace
@@ -92,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/13/2022
+  course: HBS37414
+  title: Cryptocurrency Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/12/2022
   course: HBS42391
   title: Detective building search / Warrant planning
@@ -104,6 +116,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 4/13/2022
+  course: HBS44763
+  title: Airway Circulation Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/13/2022
+  course: HBS43353
+  title: May 2022 Defensive Tactics (vest grabs)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 3/17/2022
   course: HBS08292
   title: 'CI240 Intermediate Cyber: Virtual Currency'
@@ -2941,14 +2965,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 1/26/2022
-  expiration_date: 1/26/2024
 - topic: Certification Cards
   value: First Aid
   effective_date: 1/26/2022
@@ -2961,26 +2977,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2021
   expiration_date: 1/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/31/2021
-  expiration_date: 1/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2002

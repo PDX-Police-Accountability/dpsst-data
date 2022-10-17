@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2022
+  course: PDP36883
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/30/2022
+  course: PDP37875
+  title: Firearms Training - New Hire
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/29/2022
+  course: PDP14717
+  title: Firearms Training - New Hire
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/13/2022
   course: PDP08935
   title: Firearms Training (post academy)
@@ -68,6 +86,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 9/2/2022
+  course: PDP00747
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/1/2022
+  course: PDP33916
+  title: Firearms Training - New Hire
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/16/2022
   course: PDP25074
   title: Post DPSST Firearms Training
@@ -3995,26 +4025,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/21/2021
   expiration_date: 7/21/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/21/2021
-  expiration_date: 7/21/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/17/2003

@@ -110,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 5/3/2022
+  course: HBS06797
+  title: May 2022 Defensive Tactics (vest grabs)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/3/2022
+  course: HBS40105
+  title: Airway Circulation Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/24/2022
   course: HBS13958
   title: MFF Scenarios and scenario building
@@ -3493,14 +3505,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/4/2022
-  expiration_date: 1/4/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/4/2022
@@ -3513,18 +3517,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/11/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/11/2000

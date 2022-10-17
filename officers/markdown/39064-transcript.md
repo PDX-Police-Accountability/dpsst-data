@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/14/2021 | 7/14/2023 |
-| Certification Cards | First Aid and CPR | 7/14/2021 | 7/14/2023 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
+| 9/2/2022 | TDP44834 | Use of Less Lethal Force |  | 0.0 | 1.00 |
+| 8/4/2022 | TDP13470 | Missing Persons with Alzheimers Disease |  | 0.0 | 1.00 |
+| 7/26/2022 | TDP30247 | P.R.E.A. |  | 0.0 | 1.00 |
 | 6/10/2022 | TDP22694 | Advanced Defensive Driving Techniques | Passed | 0.0 | 1.00 |
 | 5/7/2022 | TDP09908 | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 3/22/2022 | TDP40775 | Implicit Bias 2022 | Passed | 0.0 | 1.00 |

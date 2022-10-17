@@ -62,6 +62,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 9/2/2022
+  course: TDP44834
+  title: Use of Less Lethal Force
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 8/4/2022
+  course: TDP13470
+  title: Missing Persons with Alzheimers Disease
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 7/26/2022
+  course: TDP30247
+  title: P.R.E.A.
+  status: ''
+  score: '0.0'
+  hours: '1.00'
 - date: 6/10/2022
   course: TDP22694
   title: Advanced Defensive Driving Techniques
@@ -1535,26 +1553,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/14/2021
   expiration_date: 7/14/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/14/2021
-  expiration_date: 7/14/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/15/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/15/2002

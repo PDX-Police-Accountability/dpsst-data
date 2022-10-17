@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,9 +36,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2022 | PDP36883 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 9/30/2022 | PDP37875 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |
+| 9/29/2022 | PDP14717 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |
 | 9/13/2022 | PDP08935 | Firearms Training (post academy) | Instructed | 0.0 | 4.00 |
 | 9/12/2022 | PDP39710 | Firearms Training (post academy) | Instructed | 0.0 | 4.00 |
 | 9/6/2022 | PDP38929 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 9/2/2022 | PDP00747 | Firearms Training | Instructed | 0.0 | 9.00 |
+| 9/1/2022 | PDP33916 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |
 | 8/26/2022 | PDP06663 | Law Enforcement Training Camp | Passed | 0.0 | 40.00 |
 | 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Instructed | 0.0 | 4.00 |
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Instructed | 0.0 | 7.00 |

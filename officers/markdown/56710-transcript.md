@@ -25,16 +25,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 10/4/2016 |  |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +39,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/6/2022 | REG00384 | Defending Strikes from the Ground | Passed | 0.0 | 1.00 |
+| 10/3/2022 | REG06408 | Defending Strikes from the Ground | Passed | 0.0 | 1.00 |
+| 9/29/2022 | REG01912 | Take Down, Guard Pass | Passed | 0.0 | 1.00 |
 | 9/16/2022 | REG40540 | In Fight Weapon Access | Passed | 0.0 | 2.00 |
 | 9/12/2022 | HBS43987 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/12/2022 | HBS04668 | CONSIM | Passed | 0.0 | 2.50 |
@@ -56,6 +53,8 @@
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
 | 5/13/2022 | HDA18610 | Criminal Gang Investigations | Passed | 0.0 | 24.00 |
 | 4/26/2022 | HBS21732 | IFAST In-Service | Passed | 0.0 | 4.50 |
+| 4/26/2022 | HBS31567 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
+| 4/26/2022 | HBS04070 | Airway Circulation Training | Passed | 0.0 | 2.00 |
 | 4/18/2022 | REG05790 | DT controlling base and recovering base | Passed | 0.0 | 1.00 |
 | 4/14/2022 | REG11755 | Control tactics- Structure control and recovery | Passed | 0.0 | 1.00 |
 | 4/7/2022 | REG03632 | Grip fighting, 2 officer take down, wrestle up | Passed | 0.0 | 1.00 |

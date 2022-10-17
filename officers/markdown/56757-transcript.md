@@ -18,13 +18,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/3/2022 | Police Officer | Basic | App Recd |  |  | 2/10/2023 |
+| 10/14/2022 | Police Officer | Basic | App InProc |  |  | 2/10/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and Adult/Child CPR | 6/24/2022 | 6/24/2024 |
-| Certification Cards | First Aid and Adult/Child CPR | 6/24/2022 | 6/24/2024 |
-| Code of Ethics | Signed | 12/16/2016 |  |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -128,6 +128,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '97.00'
+- date: 8/19/2022
+  course: OCS23432
+  title: August 2022 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/10/2022
   course: OCS07092
   title: Shotgun Orientation
@@ -3205,14 +3211,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022
@@ -3221,14 +3219,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2003

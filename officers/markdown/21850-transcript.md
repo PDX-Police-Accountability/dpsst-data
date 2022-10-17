@@ -39,11 +39,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 12/16/2021 | 12/16/2023 |
-| Certification Cards | First Aid and CPR | 12/16/2021 | 12/16/2023 |
-| Code of Ethics | Signed | 2/7/2012 |  |
 | Code of Ethics | Signed | 2/7/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -56,6 +52,7 @@
 | 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |
 | 9/29/2022 | F6R25371 | Trauma Recovery, Wellness  Resilience | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
+| 9/23/2022 | LOP21868 | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 6/8/2022 | HUP11912 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 5/11/2022 | HUP33125 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 5/10/2022 | SMP29046 | Quarterly Firearms Qualification | Passed | 0.0 | 2.00 |

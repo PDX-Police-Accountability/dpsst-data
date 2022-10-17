@@ -29,7 +29,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/12/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 9/6/2022 | PDP38929 | Firearms Training | Passed | 0.0 | 7.00 |
+| 9/2/2022 | PDP00747 | Firearms Training | Passed | 0.0 | 9.00 |
+| 9/1/2022 | PDP33916 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 2/19/2018 | PDP26940 | IS-323 Earthquake Mitigation Basics for Staff | Passed | 0.0 | 1.00 |
 | 2/19/2018 | PDP11808 | IS-393.b Intro to Hazard Mitigation | Passed | 0.0 | 2.00 |
 | 2/5/2018 | PDP42212 | IS-240.b Leadership and Influence | Passed | 0.0 | 3.00 |

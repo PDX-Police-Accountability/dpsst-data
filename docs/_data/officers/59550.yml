@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/12/2022
+  course: RMP44573
+  title: Firearm 1 on 1s
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/16/2022
   course: RMP02002
   title: Patrol Scenario Day / Critical Incident Management
@@ -1104,14 +1110,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -1119,21 +1117,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/5/2021
   expiration_date: 6/5/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/5/2021
-  expiration_date: 6/5/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/27/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/27/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/18/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

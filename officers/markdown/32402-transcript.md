@@ -27,16 +27,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 10/17/2002 |  |
 | Code of Ethics | Signed | 10/17/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,12 +40,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/14/2022 | HBS23268 | PNW Law Enforcement Human Trafficking Consortium | Passed | 0.0 | 8.00 |
 | 8/25/2022 | HBS34146 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 8/25/2022 | HBS16554 | EVO Fall 2022 In-Service | Passed | 0.0 | 4.00 |
 | 8/25/2022 | HBS29122 | DT CONSIM Instructor Updates | Passed | 0.0 | 3.00 |
 | 7/19/2022 | HBS26558 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
+| 7/13/2022 | HBS37414 | Cryptocurrency Training | Passed | 0.0 | 2.00 |
 | 7/12/2022 | HBS42391 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
 | 4/13/2022 | HBS10219 | IFAST Instructor Updates | Passed | 0.0 | 4.50 |
+| 4/13/2022 | HBS44763 | Airway Circulation Training | Passed | 0.0 | 2.00 |
+| 4/13/2022 | HBS43353 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
 | 3/17/2022 | HBS08292 | CI240 Intermediate Cyber: Virtual Currency | Passed | 0.0 | 24.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2022 | HBS22020 | First Aid | Passed | 0.0 | 2.50 |

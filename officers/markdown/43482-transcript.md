@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/3/2022 | DAS00988 | Close quarters shooting and Cover | Passed | 0.0 | 3.00 |
 | 6/30/2022 | DAS29574 | Drug and Alcohol Abuse | Passed | 0.0 | 1.00 |
 | 6/30/2022 | DAS30445 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 6/30/2022 | DAS41449 | ADA Training | Passed | 0.0 | 1.00 |

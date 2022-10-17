@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,7 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2022 | REG06408 | Defending Strikes from the Ground | Passed | 0.0 | 1.00 |
 | 10/1/2022 | HBS07264 | ARIDE | Passed | 0.0 | 16.00 |
+| 9/29/2022 | REG01912 | Take Down, Guard Pass | Passed | 0.0 | 1.00 |
 | 9/19/2022 | REG19344 | Take downs and Defending Back Control | Passed | 0.0 | 1.00 |
 | 8/24/2022 | SDP14360 | 40MM Re-Certification | Passed | 0.0 | 2.00 |
 | 8/24/2022 | SDP37199 | Stop Stick Training | Passed | 0.0 | 1.00 |

@@ -26,13 +26,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 10/14/2021 | 10/14/2023 |
 | Certification Cards | First Aid and CPR | 10/14/2021 | 10/14/2023 |
 | Code of Ethics | Law Enforcement Signed | 5/23/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 5/23/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
+| 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 5/20/2022 | OCS28839 | New Hire Patrol Tactics | Passed | 0.0 | 40.00 |
 | 5/20/2022 | OCS09939 | May 2022 New Hire Patrol Tactics | Passed | 0.0 | 40.00 |
