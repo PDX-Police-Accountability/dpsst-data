@@ -4,7 +4,7 @@
 | name | Hogan, Kevin T. |
 | dpsst_identifier | 33878 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/26/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/24/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/25/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/24/1997 | Oregon City Police Department | Resigned | Reserve |  |  |
@@ -19,10 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 |  |  |
-| 2/13/2007 | Police Officer | Advanced | Granted | 2/13/2007 |  |  |
-| 2/13/2007 | Police Officer | Intermediate | Granted | 2/13/2007 |  |  |
-| 8/19/1998 | Police Officer | Basic | Granted | 8/19/1998 |  |  |
+| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 | 12/26/2022 |  |
+| 2/13/2007 | Police Officer | Advanced | Granted | 2/13/2007 | 12/26/2022 |  |
+| 2/13/2007 | Police Officer | Intermediate | Granted | 2/13/2007 | 12/26/2022 |  |
+| 8/19/1998 | Police Officer | Basic | Granted | 8/19/1998 | 12/26/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

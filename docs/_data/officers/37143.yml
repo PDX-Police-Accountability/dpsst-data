@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '37143'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Sergeant
+  rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/13/2022
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 1/9/2014
   agency: Portland Police Bureau
   action: Promotion
@@ -51,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/13/2023
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 7/12/2022
   course: PDP11139
   title: 2022-2 Range Qualification 40mm Less Lethal

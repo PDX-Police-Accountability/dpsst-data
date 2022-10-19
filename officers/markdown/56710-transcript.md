@@ -45,6 +45,7 @@
 | 9/16/2022 | REG40540 | In Fight Weapon Access | Passed | 0.0 | 2.00 |
 | 9/12/2022 | HBS43987 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/12/2022 | HBS04668 | CONSIM | Passed | 0.0 | 2.50 |
+| 9/12/2022 | HBS36858 | EVO September 2022 In-Service | Passed | 0.0 | 4.00 |
 | 8/16/2022 | HBS34143 | Rifle Update | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS41983 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |
 | 6/14/2022 | HBS31785 | Basic Patrol Rifle Operator School | Passed | 0.0 | 8.00 |

@@ -42,6 +42,7 @@
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2022 | HBS06667 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/13/2022 | HBS24910 | CONSIM | Passed | 0.0 | 3.00 |
+| 9/13/2022 | HBS42005 | EVO September 2022 In-Service | Passed | 0.0 | 4.00 |
 | 6/28/2022 | BNS39659 | Combined Tactical Systems Instructor Course | Passed | 0.0 | 24.00 |
 | 6/16/2022 | HBS27141 | MFF Scenario Day | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS34046 | MFF Basic Drills | Passed | 0.0 | 3.00 |

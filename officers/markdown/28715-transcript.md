@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/9/2022 | Hillsboro Police Department | Promotion | Sergeant |  |  |
 | 8/30/2021 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 8/9/2021 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 5/4/2017 | Portland Police Bureau | Reclassed | Sergeant |  |  |

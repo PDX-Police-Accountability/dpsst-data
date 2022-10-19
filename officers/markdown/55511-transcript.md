@@ -40,6 +40,7 @@
 | 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/16/2022 | HBS22182 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/16/2022 | HBS18311 | CONSIM | Passed | 0.0 | 3.00 |
+| 9/16/2022 | HBS22474 | EVO September 2022 In-Service | Passed | 0.0 | 4.00 |
 | 5/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 5/6/2022 | HBS21853 | IFAST In-Service | Passed | 0.0 | 4.00 |
 | 5/6/2022 | HBS40162 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |

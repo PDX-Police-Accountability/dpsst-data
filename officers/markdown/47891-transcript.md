@@ -5,13 +5,14 @@
 | dpsst_identifier | 47891 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/13/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 11/16/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 2/22/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 9/20/2022 | PDP38370 | Emergency Operations Center/ICS Interface | Passed | 0.0 | 8.50 |
 | 7/20/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/20/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

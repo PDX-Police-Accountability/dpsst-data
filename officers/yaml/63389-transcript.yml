@@ -16,18 +16,24 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/26/2022
+- status_date: 10/27/2022
   certificate: Police Officer
   level: Basic
   status: Required
   certificate_date: ''
   expiration_date: ''
-  probation_date: 3/26/2024
+  probation_date: 4/27/2024
 training_records:
+- date: 4/27/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
 - date: 3/20/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '640.00'
 attribute_records: []

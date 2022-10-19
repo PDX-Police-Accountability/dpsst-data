@@ -3,12 +3,18 @@ header_record:
   name: Hogan, Kevin T.
   dpsst_identifier: '33878'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/26/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/24/2008
   agency: Portland Police Bureau
   action: Promotion
@@ -39,28 +45,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 12/26/2022
   probation_date: ''
 - status_date: 2/13/2007
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/13/2007
-  expiration_date: ''
+  expiration_date: 12/26/2022
   probation_date: ''
 - status_date: 2/13/2007
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/13/2007
-  expiration_date: ''
+  expiration_date: 12/26/2022
   probation_date: ''
 - status_date: 8/19/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 8/19/1998
-  expiration_date: ''
+  expiration_date: 12/26/2022
   probation_date: ''
 training_records:
 - date: 7/14/2022

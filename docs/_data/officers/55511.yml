@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/16/2022
+  course: HBS22474
+  title: EVO September 2022 In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/6/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

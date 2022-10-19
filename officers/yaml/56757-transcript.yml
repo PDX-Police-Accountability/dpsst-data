@@ -28,13 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/14/2022
+- status_date: 10/17/2022
   certificate: Police Officer
   level: Basic
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 10/17/2022
   expiration_date: ''
-  probation_date: 2/10/2023
+  probation_date: ''
 training_records:
 - date: 9/5/2022
   course: PSU22819

@@ -4,7 +4,7 @@
 | name | Darby, James P. |
 | dpsst_identifier | 32384 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/20/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 2/20/2019 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 7/5/2012 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 3/14/1997 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,10 +21,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/6/2014 | Police Officer | Supervisory | Granted | 2/6/2014 |  |  |
-| 1/10/2011 | Police Officer | Advanced | Granted | 1/10/2011 |  |  |
-| 1/10/2011 | Police Officer | Intermediate | Granted | 1/10/2011 |  |  |
-| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 |  |  |
+| 2/6/2014 | Police Officer | Supervisory | Granted | 2/6/2014 | 12/20/2022 |  |
+| 1/10/2011 | Police Officer | Advanced | Granted | 1/10/2011 | 12/20/2022 |  |
+| 1/10/2011 | Police Officer | Intermediate | Granted | 1/10/2011 | 12/20/2022 |  |
+| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 | 12/20/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -15,6 +15,18 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 9/2/2022
+  agency: Out of State Employment
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/25/2018
+  agency: Out of State Employment
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 certification_records:
 - status_date: 9/22/2022
   certificate: Police Officer
@@ -33,7 +45,7 @@ training_records:
 - date: 12/5/2022
   course: 22-0009
   title: DPSST Basic Police COD
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '80.00'
 - date: 10/2/2022

@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/13/2022
+  course: HBS42005
+  title: EVO September 2022 In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/28/2022
   course: BNS39659
   title: Combined Tactical Systems Instructor Course

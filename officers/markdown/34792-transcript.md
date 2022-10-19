@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2022 | ADP38301 | Taser Instructor | Passed | 0.0 | 8.00 |
+| 10/11/2022 | ADP04385 | Ashland PD Night Range | Passed | 0.0 | 4.00 |
 | 9/28/2022 | ADP01784 | Adult Child Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
 | 8/19/2022 | ADP34286 | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 8/1/2022 | TAP27190 | 3 Ways to Fight the #1 Killer of First Responders | Passed | 0.0 | 1.25 |
