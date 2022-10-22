@@ -50,6 +50,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/8/2022
+  course: PDP38647
+  title: NAGIA World Gang Summit
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/13/2022
+  course: PDP35733
+  title: 2022 ABLE Performance Reviews for Supervisors Swrn
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/28/2022
   course: PDP16854
   title: 2022-2 Range Qualification Primary Firearm
@@ -4179,20 +4191,8 @@ attribute_records:
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
@@ -4201,14 +4201,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/7/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/7/2004

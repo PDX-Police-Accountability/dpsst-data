@@ -27,8 +27,8 @@ training_records:
 - date: 12/12/2022
   course: M10-22A
   title: DPSST Basic Police Course
-  status: Pending
+  status: Cancelled
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 attribute_records: []
 education_records: []

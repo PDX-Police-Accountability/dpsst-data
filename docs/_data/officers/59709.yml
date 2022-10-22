@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/12/2022
+  course: BNP11973
+  title: Skid Car
+  status: Passed
+  score: '0.0'
+  hours: '0.30'
 - date: 9/15/2022
   course: BNP05092
   title: Ethos Leadership

@@ -42,6 +42,18 @@ certification_records:
   expiration_date: 4/8/2027
   probation_date: ''
 training_records:
+- date: 10/14/2022
+  course: BPT25310
+  title: Oregon Case Management Network
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/13/2022
+  course: BPT06935
+  title: Oregon Case Management Network - Gender Cohort)
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 4/27/2022
   course: HBN34087
   title: Officer Safety / Field Work Training and Scenarios

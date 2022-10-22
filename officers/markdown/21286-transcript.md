@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/7/2022 | 4/7/2024 |
-| Certification Cards | First Aid and CPR | 4/7/2022 | 4/7/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2022 | BNS36733 | Taser Instructor Course/Instructor Certification | Passed | 0.0 | 12.00 |
 | 6/7/2022 | BNS29465 | DUII / SFST Refresher | Passed | 0.0 | 4.00 |
 | 5/31/2022 | BBP06033 | Emergency Vehicle Operations | Passed | 0.0 | 3.00 |
 | 4/30/2022 | BBP44102 | Narcan and Opioid Exposure | Passed | 0.0 | 2.00 |

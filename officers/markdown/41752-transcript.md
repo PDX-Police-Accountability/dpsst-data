@@ -41,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/21/2022 | GPP28391 | De-escalation |  | 0.0 | 4.00 |
+| 6/21/2022 | GPP28391 | De-escalation | Passed | 0.0 | 4.00 |
 | 6/3/2022 | GPP24553 | Adaptive Ethics Training | Passed | 0.0 | 3.00 |
 | 5/26/2022 | GPP08823 | DA Domestic Violence | Passed | 0.0 | 1.00 |
 | 4/19/2022 | GPP38935 | Scenario Training | Passed | 0.0 | 2.00 |
@@ -50,6 +50,7 @@
 | 3/28/2022 | GPP29836 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 2/13/2022 | GPP16611 | Advanced Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 1/19/2022 | REG33922 | Pursuit Management for Supervisors | Passed | 0.0 | 3.50 |
+| 1/18/2022 | GPP06614 | Low light shooting / Flashlight tactics | Passed | 0.0 | 2.00 |
 | 1/10/2022 | GPP02333 | Non-criminal Death Investigation Training | Passed | 0.0 | 0.50 |
 | 1/5/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2021 | GPP08867 | 2021 Legislative Report | Passed | 0.0 | 1.00 |

@@ -33,6 +33,12 @@
 | 9/6/2022 | PDP38929 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/2/2022 | PDP00747 | Firearms Training | Passed | 0.0 | 9.00 |
 | 9/1/2022 | PDP33916 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
+| 8/16/2022 | PDP13563 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP33107 | 2021 Language Access Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP32564 | 2021 Online In-Service Language Access Translation | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP39385 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 8/1/2022 | PDP40044 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP17611 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 2/19/2018 | PDP26940 | IS-323 Earthquake Mitigation Basics for Staff | Passed | 0.0 | 1.00 |
 | 2/19/2018 | PDP11808 | IS-393.b Intro to Hazard Mitigation | Passed | 0.0 | 2.00 |
 | 2/5/2018 | PDP42212 | IS-240.b Leadership and Influence | Passed | 0.0 | 3.00 |

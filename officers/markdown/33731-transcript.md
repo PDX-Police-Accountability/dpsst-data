@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
 | Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/23/2001 |  |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/11/2022 | PDN25043 | Defensive Tactics-Krav Shielding Techniques | Passed | 0.0 | 1.50 |
+| 10/4/2022 | OCN41697 | FVSN: DV Academy-Supervising Women of DV | Passed | 0.0 | 2.00 |
 | 9/22/2022 | F6R22533 | CPR/First Aid | Passed | 0.0 | 6.00 |
 | 9/8/2022 | PDN17455 | Confrontational Simulation Off Duty Encounters | Passed | 0.0 | 1.50 |
 | 8/24/2022 | PDN02361 | Working with the Mentally Ill | Passed | 0.0 | 1.50 |

@@ -33,3 +33,6 @@
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 9/27/2022 | PDP12607 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
+| 9/12/2022 | PDP44383 | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 9/12/2022 | PDP17329 | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 8/24/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

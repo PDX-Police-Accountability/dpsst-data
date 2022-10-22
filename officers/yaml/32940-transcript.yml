@@ -63,6 +63,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/31/2022
+  course: PDP10514
+  title: 2021-10 CAO Legal Updates for 10/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/31/2022
+  course: PDP30440
+  title: 2021-11 CAO Legal Updates for 11/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/30/2022
+  course: PDP00776
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/30/2022
+  course: PDP05774
+  title: 2021-12 CAO Legal Updates for 12/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/30/2022
+  course: PDP38816
+  title: 2021-8 CAO Legal Updates for 08/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/30/2022
+  course: PDP33017
+  title: 2021-9 CAO Legal Updates for 09/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/30/2022
+  course: PDP35733
+  title: 2022 ABLE Performance Reviews for Supervisors Swrn
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/9/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

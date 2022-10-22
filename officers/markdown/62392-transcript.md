@@ -28,6 +28,35 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/30/2022 | PDP39385 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 8/30/2022 | PDP17611 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP32564 | 2021 Online In-Service Language Access Translation | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP32892 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 8/30/2022 | PDP03740 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP44383 | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP17329 | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP24425 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 8/30/2022 | PDP40044 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP25360 | 2021-9 TT Protecting Workers from the Dangers of | Passed | 0.0 | 0.50 |
+| 8/29/2022 | PDP33107 | 2021 Language Access Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP36083 | 2019-5 TT nforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP13563 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP41231 | 2020-12 CAO Legal Updates for 12/2020 - Updated | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP35057 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP05774 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP20529 | 2021-12 TT Requesting an Emergency Ping of Cell | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP24270 | 2021-2 CAO Legal Updates for 02/2021 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP30613 | 2021-3 CAO Legal Updates for 03/2021 | Passed | 0.0 | 0.50 |
+| 8/29/2022 | PDP22123 | 2021-4 CAO Legal Updates for 04/2021 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP01218 | 2021-7 CAO Legal Updates for 07/2021 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP38816 | 2021-8 CAO Legal Updates for 08/2021 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP28427 | 2021-1 CAO Legal Updates for 01/2021 | Passed | 0.0 | 0.50 |
+| 8/29/2022 | PDP10514 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP13491 | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP30440 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP23639 | 2021-11 TT Unlawful Street Takeovers or Unlawful | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP33017 | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
 | 8/25/2022 | PDP41303 | Intro to VCAD/MRE Training | Passed | 0.0 | 14.00 |
 | 8/23/2022 | PDP18192 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/22/2022 | PDP19818 | Control Tactics Training- Post Basic Academy | Passed | 0.0 | 4.00 |

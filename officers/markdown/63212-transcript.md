@@ -26,4 +26,4 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/12/2022 | M10-22A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 12/12/2022 | M10-22A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |

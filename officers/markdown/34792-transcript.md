@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 10/28/2020 | 10/28/2022 |
-| Certification Cards | First Aid and CPR | 10/28/2020 | 10/28/2022 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,11 +39,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2022 | TAP30889 | Pipeline Emergency Response Guidelines 2022 | Passed | 0.0 | 1.00 |
 | 10/11/2022 | ADP38301 | Taser Instructor | Passed | 0.0 | 8.00 |
 | 10/11/2022 | ADP04385 | Ashland PD Night Range | Passed | 0.0 | 4.00 |
+| 10/11/2022 | TAP13086 | AXON Academy TASER Instructors Course | Passed | 0.0 | 16.00 |
+| 10/5/2022 | TAP34836 | De-escalation Strategies and Techniques | Passed | 0.0 | 0.00 |
 | 9/28/2022 | ADP01784 | Adult Child Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
+| 9/27/2022 | TAP14109 | OR DOJ Bias Crimes and Incidents FayStetz Waters | Passed | 0.0 | 1.00 |
+| 9/22/2022 | TAP25942 | LEDS (re) Certification | Passed | 0.0 | 1.00 |
 | 8/19/2022 | ADP34286 | Patrol Rifle | Passed | 0.0 | 4.00 |
+| 8/16/2022 | TAP17390 | RdyRspndrPhysicalMentalWellbeingAffectPerformance | Passed | 0.0 | 1.25 |
+| 8/9/2022 | TAP42440 | Anti Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
+| 8/3/2022 | TAP14761 | Anti Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 8/1/2022 | TAP27190 | 3 Ways to Fight the #1 Killer of First Responders | Passed | 0.0 | 1.25 |
+| 6/11/2022 | TAP36128 | EnteringtheDangerZoneDogsHotCarsHowtoHelp | Passed | 0.0 | 1.00 |
 | 4/12/2022 | ADP30708 | Crime Scene Investigation | Passed | 0.0 | 1.00 |
 | 4/12/2022 | ADP39215 | Cops/Firefighters-How to Help Each Other | Passed | 0.0 | 1.00 |
 | 4/8/2022 | ADP37728 | Less Lethal Shotgun and Ballistic Shield Refresher | Passed | 0.0 | 3.00 |

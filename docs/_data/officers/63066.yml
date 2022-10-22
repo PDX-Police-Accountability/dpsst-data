@@ -30,5 +30,11 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '640.00'
+- date: 8/16/2022
+  course: PDP00776
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 attribute_records: []
 education_records: []

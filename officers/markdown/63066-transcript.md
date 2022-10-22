@@ -27,3 +27,4 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2022 | M10-22A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 8/16/2022 | PDP00776 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

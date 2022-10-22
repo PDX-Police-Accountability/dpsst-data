@@ -48,6 +48,78 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 7/20/2022
+  course: PDP33927
+  title: 2021 Online In-Service DIR 870.25 Holding Rooms
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/19/2022
+  course: PDP44630
+  title: 2021 PIO Photos for Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP00113
+  title: 2021 Online In-Service Language Access - LEP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP21230
+  title: 2019 Chief's Office SPLC Antigovernment Extremists
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP11200
+  title: 2019 Chief's Office SPLC Aryan Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP28158
+  title: 2019 CHO SPLC Sovereign Citizen Movement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP02290
+  title: 2019 Chief's Office SPLC The Rise of the Lone Wolf
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP39932
+  title: 2019 External Training HQPT Introduction
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/14/2022
+  course: PDP12720
+  title: 2019 Chief's Office SPLC Hate Crimes
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/14/2022
+  course: PDP17656
+  title: 2019 CHO SPLC LE Response to Hate Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/14/2022
+  course: PDP23345
+  title: 2019 Chief's Office SPLC Racists Skinheads
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/7/2022
+  course: PDP00776
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/2/2021
   course: M10-21A
   title: DPSST Basic Police Course

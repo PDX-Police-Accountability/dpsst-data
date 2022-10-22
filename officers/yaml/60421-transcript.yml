@@ -3,12 +3,18 @@ header_record:
   name: Baten, Christopher E.
   dpsst_identifier: '60421'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/30/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 11/19/2019
   agency: Portland Police Bureau
   action: Hired
@@ -39,21 +45,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 6/30/2021
-  expiration_date: ''
+  expiration_date: 12/30/2022
   probation_date: ''
 - status_date: 6/30/2021
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/30/2021
-  expiration_date: ''
+  expiration_date: 12/30/2022
   probation_date: ''
 - status_date: 1/28/2021
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/28/2021
-  expiration_date: ''
+  expiration_date: 12/30/2022
   probation_date: ''
 training_records:
 - date: 9/15/2022

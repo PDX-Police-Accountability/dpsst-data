@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2022 | BPT25310 | Oregon Case Management Network | Passed | 0.0 | 8.00 |
+| 10/13/2022 | BPT06935 | Oregon Case Management Network - Gender Cohort) | Passed | 0.0 | 3.50 |
 | 4/27/2022 | HBN34087 | Officer Safety / Field Work Training and Scenarios | Passed | 0.0 | 6.00 |
 | 11/30/2021 | F6K04474 | Third Trimester Firearms | Passed | 0.0 | 4.00 |
 | 11/12/2021 | F6K09687 | The Reid Tchnq of Invstgtv Intrvwng Advcd Intrgtn | Passed | 0.0 | 30.00 |

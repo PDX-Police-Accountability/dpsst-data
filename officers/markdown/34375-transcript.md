@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Code of Ethics | Signed | 4/24/2002 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -110,6 +105,7 @@
 | 11/3/2020 | F6D10019 | Firearms Training - Low Light | Passed | 0.0 | 1.00 |
 | 10/20/2020 | F6D16884 | SAMS Track Training | Passed | 0.0 | 1.00 |
 | 10/20/2020 | F6D14124 | Sexual Misconduct: How to Protect Your Agency. | Passed | 0.0 | 0.50 |
+| 10/19/2020 | VND07433 | 28 CFR Part 23 and Rissafe/Rissintel Deconfliction | Passed | 0.0 | 2.00 |
 | 9/30/2020 | F6D37444 | Basic Patrol Rifle Fundamentals Training | Passed | 0.0 | 4.00 |
 | 9/23/2020 | OSA12688 | OSSA New Jail Commander Class | Passed | 0.0 | 8.00 |
 | 9/2/2020 | BPT27105 | Intoxilyzer 8000 Certification | Passed | 0.0 | 6.00 |

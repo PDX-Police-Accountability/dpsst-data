@@ -24,14 +24,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/29/2022 | 6/30/2024 |
-| Certification Cards | First Aid and CPR | 6/29/2022 | 6/30/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2022 | MKL06063 | Understanding Oregon's Ethics Laws | Passed | 0.0 | 1.50 |
+| 10/19/2022 | MKL10795 | Heat Illness and Prevention Training | Passed | 0.0 | 0.25 |
+| 10/19/2022 | MKL23362 | Resiliency Training | Passed | 0.0 | 3.00 |
 | 7/28/2022 | F6R31555 | Wildfire Smoke Training Requirements | Passed | 0.0 | 1.00 |
 | 6/29/2022 | MKL26688 | First Aid and CPR | Passed | 0.0 | 5.50 |
 | 6/15/2022 | MKL24792 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |

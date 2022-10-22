@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 1/31/2001 |  |
 | Code of Ethics | Signed | 1/31/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2022 | REG21426 | Weapon Retention Standing/Ground | Passed | 0.0 | 1.00 |
 | 10/10/2022 | REG23073 | Takedowns and Controlling Top Position | Passed | 0.0 | 1.00 |
 | 10/3/2022 | REG06408 | Defending Strikes from the Ground | Passed | 0.0 | 1.00 |
 | 9/29/2022 | REG01912 | Take Down, Guard Pass | Passed | 0.0 | 1.00 |

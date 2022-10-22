@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/22/2022
+  course: PDP35733
+  title: 2022 ABLE Performance Reviews for Supervisors Swrn
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/25/2022
   course: PDP43052
   title: 2022-2 Range Qualification AR-15 (20 Yard)

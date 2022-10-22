@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/20/2022
+  course: PDP01613
+  title: 2022 ABLE Performance Reviews for Supervisors NR
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/15/2022
   course: PDP33829
   title: 2022-2 Range Qualification Shotgun Function Check
@@ -4158,26 +4164,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/29/2021
   expiration_date: 6/29/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2021
-  expiration_date: 6/29/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/15/2012
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/15/2012

@@ -21,19 +21,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/3/2022 | Police Officer | Advanced | App Recd |  | 8/9/2025 |  |
-| 10/3/2022 | Police Officer | Basic | App Recd |  | 8/9/2025 |  |
-| 10/3/2022 | Police Officer | Intermediate | App Recd |  | 8/9/2025 |  |
-| 9/26/2022 | Police Officer | Basic | Required |  |  | 3/26/2024 |
-| 11/9/2020 | Police Officer | Advanced | Lapsed | 3/16/2001 |  |  |
-| 11/9/2020 | Police Officer | Basic | Lapsed | 10/22/1993 |  |  |
-| 11/9/2020 | Police Officer | Intermediate | Lapsed | 3/16/2001 |  |  |
+| 10/19/2022 | Police Officer | Advanced | Reactivate | 3/16/2001 |  |  |
+| 10/19/2022 | Police Officer | Basic | Reactivate | 10/22/1993 |  |  |
+| 10/19/2022 | Police Officer | Intermediate | Reactivate | 3/16/2001 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Code of Ethics | Signed | 3/16/2001 |  |
 | Code of Ethics | Signed | 3/16/2001 |  |
 ## Education
 | date | degree | school | major | hours |

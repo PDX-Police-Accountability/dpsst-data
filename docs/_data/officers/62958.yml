@@ -60,6 +60,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 8/16/2022
+  course: PDP13563
+  title: 2020-11 CAO Legal Updates for 11/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/1/2022
+  course: PDP33107
+  title: 2021 Language Access Utilizing Bilingual Members
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/1/2022
+  course: PDP32564
+  title: 2021 Online In-Service Language Access Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/1/2022
+  course: PDP39385
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/1/2022
+  course: PDP40044
+  title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/28/2022
+  course: PDP17611
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/19/2018
   course: PDP26940
   title: IS-323 Earthquake Mitigation Basics for Staff

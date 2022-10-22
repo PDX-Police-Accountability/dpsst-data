@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/22/2022
+  course: PDP09119
+  title: 2020 Managing Critical Incidents Well Sgts Role
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/27/2022
   course: PDP23522
   title: 2022 Queer Policy - Policy Scenarios

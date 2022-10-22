@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/27/2022 | PDP05774 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
+| 9/27/2022 | PDP30440 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
 | 9/20/2022 | PDP25307 | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/19/2022 | PDP30713 | Geography Training | Passed | 0.0 | 1.50 |
 | 9/19/2022 | PDP16944 | Control Tactics (Handcuffing, Hobble, OC) | Passed | 0.0 | 2.00 |

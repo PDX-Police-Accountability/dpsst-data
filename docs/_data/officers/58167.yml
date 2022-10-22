@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/25/2022
+  course: PDP44096
+  title: C.A.L.M. Approach De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/23/2022
   course: PDP00820
   title: 2020 Trnng Mgmt Crit Incidents Well The Sgts Role

@@ -171,13 +171,13 @@ training_records:
 - date: 1/12/2022
   course: OSH41067
   title: Hostage Negotiation Scenarios
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 1/12/2022
   course: OSH25376
   title: Hostage Negotiation Equipment
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 12/15/2021

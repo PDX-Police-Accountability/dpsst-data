@@ -55,8 +55,8 @@
 | 2/11/2022 | EGP16609 | Homicide Investigation | Passed | 0.0 | 80.00 |
 | 1/18/2022 | F6M03338 | Survival Skills - OSP 3rd Tri | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6M27598 | OSP Swat Scenario Training | Passed | 0.0 | 3.50 |
-| 1/12/2022 | OSH41067 | Hostage Negotiation Scenarios |  | 0.0 | 4.00 |
-| 1/12/2022 | OSH25376 | Hostage Negotiation Equipment |  | 0.0 | 4.00 |
+| 1/12/2022 | OSH41067 | Hostage Negotiation Scenarios | Passed | 0.0 | 4.00 |
+| 1/12/2022 | OSH25376 | Hostage Negotiation Equipment | Passed | 0.0 | 4.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/10/2021 | F6K27482 | 3rd Trimester Firearms - Low Light | Passed | 0.0 | 4.00 |
 | 12/3/2021 | F6K33785 | Defensive Tactics / Taser 2nd Trimester | Passed | 0.0 | 4.00 |

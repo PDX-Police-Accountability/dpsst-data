@@ -4,7 +4,7 @@
 | name | Baten, Christopher E. |
 | dpsst_identifier | 60421 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/30/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/19/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 | 11/8/2019 | Out of State Employment | Resigned | Detective |  |  |
 | 11/11/2013 | Out of State Employment | Promotion | Detective |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/30/2021 | Police Officer | Advanced | Granted | 6/30/2021 |  |  |
-| 6/30/2021 | Police Officer | Intermediate | Granted | 6/30/2021 |  |  |
-| 1/28/2021 | Police Officer | Basic | Granted | 1/28/2021 |  |  |
+| 6/30/2021 | Police Officer | Advanced | Granted | 6/30/2021 | 12/30/2022 |  |
+| 6/30/2021 | Police Officer | Intermediate | Granted | 6/30/2021 | 12/30/2022 |  |
+| 1/28/2021 | Police Officer | Basic | Granted | 1/28/2021 | 12/30/2022 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

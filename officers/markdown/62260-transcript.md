@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/30/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/22/2022 | PDP00776 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP43538 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 6/29/2022 | PDP34540 | 2018 TOD 100% Collection Submission Model Video | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP42123 | 2018-5 TT 100% Coll  Submission Model for FA | Passed | 0.0 | 0.25 |

@@ -37,11 +37,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/11/2021 | 2/11/2023 |
-| Certification Cards | First Aid and CPR | 2/11/2021 | 2/11/2023 |
-| Code of Ethics | Signed | 8/6/2001 |  |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 5/18/2022 | BNP39812 | Airway and Circulatory Anatomy training | Passed | 0.0 | 2.00 |
 | 4/29/2022 | VND34312 | Officer Involved Shooting | Passed | 0.0 | 2.00 |
 | 4/29/2022 | VND03762 | Scenario Based Training | Passed | 0.0 | 6.00 |

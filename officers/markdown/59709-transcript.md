@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 9/15/2022 | BNP05092 | Ethos Leadership | Passed | 0.0 | 3.00 |
 | 9/15/2022 | BNP36027 | Fitness, Diet and Mental Health | Passed | 0.0 | 0.50 |
 | 9/15/2022 | BNP07309 | High Risk Stops | Passed | 0.0 | 0.50 |

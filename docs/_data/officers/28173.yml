@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2022
+  course: MKL06063
+  title: Understanding Oregon's Ethics Laws
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/19/2022
+  course: MKL10795
+  title: Heat Illness and Prevention Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/19/2022
+  course: MKL23362
+  title: Resiliency Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/28/2022
   course: F6R31555
   title: Wildfire Smoke Training Requirements
@@ -2472,14 +2490,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/29/2022
   expiration_date: 6/30/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2022
-  expiration_date: 6/30/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -2488,21 +2498,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/15/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/15/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/10/2018
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

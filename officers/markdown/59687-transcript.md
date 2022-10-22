@@ -45,7 +45,7 @@
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/28/2022 | WLP15833 | WSIN/RISS Deconfliction Training | Passed | 0.0 | 1.50 |
 | 1/16/2022 | WLP17269 | SFST REFRESHER | Passed | 0.0 | 4.00 |
-| 12/31/2021 | WLP02302 | Self Care and Wellness |  | 0.0 | 3.00 |
+| 12/31/2021 | WLP02302 | Self Care and Wellness | Passed | 0.0 | 3.00 |
 | 11/30/2021 | WLP29226 | CIT De-escalation Training | Passed | 0.0 | 0.50 |
 | 11/1/2021 | WLP17861 | Cognitive Training | Passed | 0.0 | 1.00 |
 | 10/27/2021 | F6E37141 | 3 Day Basic Patrol Rifle Course | Passed | 0.0 | 24.00 |

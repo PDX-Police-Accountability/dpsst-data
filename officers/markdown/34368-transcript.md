@@ -33,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Code of Ethics | Signed | 5/28/2003 |  |
 | Code of Ethics | Signed | 5/28/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 10/5/2022 | BNP28489 | Lexipol Connect - Online Leadership Conference | Passed | 0.0 | 2.25 |
 | 9/15/2022 | BNP05092 | Ethos Leadership | Passed | 0.0 | 3.00 |
 | 9/15/2022 | BNP36027 | Fitness, Diet and Mental Health | Passed | 0.0 | 0.50 |
