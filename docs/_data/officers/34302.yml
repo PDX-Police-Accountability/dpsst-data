@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2022
+  course: REG04480
+  title: 2022 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 5/25/2022
   course: GSP39308
   title: 2022 Spring Handgun In-Service

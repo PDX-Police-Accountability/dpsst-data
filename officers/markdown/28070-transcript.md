@@ -40,10 +40,13 @@
 | 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
 | 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
+| 5/9/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |
 | 4/26/2022 | TUP09824 | EVOC | Passed | 0.0 | 7.00 |
 | 4/26/2022 | TUP10384 | High Risk Traffic Stops | Passed | 0.0 | 1.00 |
 | 4/6/2022 | TGP32402 | Barricaded Suspects in Vehicles | Passed | 0.0 | 1.25 |
 | 4/4/2022 | TGP38071 | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 3/22/2022 | TGP31467 | 2022 ACAP Training | Passed | 0.0 | 2.00 |
+| 3/11/2022 | TGP08380 | HB4301 Update | Passed | 0.0 | 0.50 |
 | 3/6/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |
 | 2/21/2022 | TGP38122 | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.50 |
 | 12/21/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

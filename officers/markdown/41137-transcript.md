@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP38569 | Intoxilyzer 8000 Class | Instructed | 0.0 | 6.00 |
+| 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 12.00 |
 | 7/13/2022 | OSH16712 | ARIDE | Instructed | 0.0 | 16.00 |
 | 6/23/2022 | PDP09581 | Standardized Field Sobriety Refersher Training | Instructed | 0.0 | 7.00 |
 | 6/22/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

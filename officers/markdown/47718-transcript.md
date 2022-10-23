@@ -58,7 +58,7 @@
 | 3/31/2022 | PDP30923 | 2021-11 City Attorney's Legal Update for Nov. 2021 | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP25773 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 3/30/2022 | PDP11227 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.15 |
-| 3/18/2022 | VND29018 | Collective Bargaining for Public Safety Employees |  | 0.0 | 15.00 |
+| 3/18/2022 | VND29018 | Collective Bargaining for Public Safety Employees | Passed | 0.0 | 15.00 |
 | 3/14/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/14/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/9/2022 | PDP01777 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
@@ -346,7 +346,6 @@
 | 2/27/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/26/2019 | PDP21611 | Leadership Training - Civil Rights | Passed | 0.0 | 2.00 |
 | 2/15/2019 | PDP41398 | Innovative Leadership Seminar | Passed | 0.0 | 6.00 |
-| 2/8/2019 | F6D33143 | Northwest Law  Mental Health Confrence |  | 0.0 | 8.00 |
 | 2/8/2019 | PDP14606 | NW Law and Mental Health Conference | Passed | 0.0 | 7.50 |
 | 2/5/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 1/28/2019 | MISCMAIN | 2019 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

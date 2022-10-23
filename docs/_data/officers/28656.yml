@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/23/2022
+  course: TGP02126
+  title: 2022 MHRT Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2022
   course: TGP29734
   title: Patrol Rifle Operator Course
@@ -98,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/25/2022
+  course: TGP31467
+  title: 2022 ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/6/2022
   course: TGP32402
   title: Barricaded Suspects in Vehicles
@@ -116,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/11/2022
+  course: TGP08380
+  title: HB4301 Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/23/2022
   course: TGP38122
   title: First Aid/CPR/AED/TCCC/Naloxone

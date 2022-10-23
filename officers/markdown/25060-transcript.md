@@ -60,7 +60,7 @@
 | 12/8/2021 | F6E35992 | Use of Force: Community Policing and Community | Passed | 0.0 | 1.00 |
 | 11/18/2021 | WBP08208 | Krav Maga / Arrest and control | Passed | 0.0 | 3.50 |
 | 11/11/2021 | F6K33903 | Stress Mngmnt for LE  Copline Video Trng Splmnt | Passed | 0.0 | 1.00 |
-| 11/11/2021 | F6E31263 | Stress Mgmt for LE  Copline Video Training |  | 0.0 | 1.00 |
+| 11/11/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 1.00 |
 | 11/7/2021 | F6K40168 | Woodburn Police Dept Yearly Policy Review | Passed | 0.0 | 3.00 |
 | 9/30/2021 | F6E09253 | Third Quarter Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/16/2021 | F6F03760 | Off Duty Conduct | Passed | 0.0 | 0.50 |

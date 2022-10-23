@@ -39,6 +39,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/20/2022 | PDS37453 | Firearms Training | Instructed | 0.0 | 3.00 |
+| 9/20/2022 | PDS16719 | Range Qualification | Instructed | 0.0 | 2.00 |
+| 9/6/2022 | PDS28173 | Range Qualification | Instructed | 0.0 | 2.00 |
+| 9/6/2022 | PDS09283 | Firearms Training | Instructed | 0.0 | 6.00 |
+| 8/31/2022 | PDS13390 | Firearms IDC | Passed | 0.0 | 6.00 |
+| 8/31/2022 | PDS19956 | Range Qualification | Passed | 0.0 | 2.00 |
 | 7/28/2022 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/28/2022 | SMS22986 | IALEFI- Master Instructor Development Program | Passed | 0.0 | 24.00 |
 | 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |

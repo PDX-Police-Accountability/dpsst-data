@@ -63,6 +63,42 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/20/2022
+  course: PDS37453
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/20/2022
+  course: PDS16719
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/6/2022
+  course: PDS28173
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/6/2022
+  course: PDS09283
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/31/2022
+  course: PDS13390
+  title: Firearms IDC
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/31/2022
+  course: PDS19956
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/28/2022
   course: MISCMAIN
   title: 2022 LE Leadership 3 Year Maintenance

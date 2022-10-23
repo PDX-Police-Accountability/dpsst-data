@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2022 | MKL12687 | LEDS re-certification | Passed | 0.0 | 1.00 |
 | 10/19/2022 | MKL06063 | Understanding Oregon's Ethics Laws | Passed | 0.0 | 1.50 |
 | 10/19/2022 | MKL10795 | Heat Illness and Prevention Training | Passed | 0.0 | 0.25 |
 | 10/19/2022 | MKL23362 | Resiliency Training | Passed | 0.0 | 3.00 |

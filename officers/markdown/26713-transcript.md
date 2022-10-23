@@ -72,7 +72,7 @@
 | 8/3/2020 | F6D25090 | Crisis Intervention and De-escalation | Passed | 0.0 | 1.00 |
 | 7/22/2020 | F6D34258 | Review of New Laws Re: Police Accountability . | Passed | 0.0 | 0.50 |
 | 7/16/2020 | F6D08852 | 2020 ICCR Update | Passed | 0.0 | 1.00 |
-| 7/1/2020 | F6D21472 | 2020 ICCR Update | Passed | 0.0 | 1.00 |
+| 7/1/2020 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/24/2020 | F6D37779 | Range/ MRT | Passed | 0.0 | 8.00 |
 | 4/24/2020 | F6D03424 | Range | Passed | 0.0 | 2.00 |
 | 4/1/2020 | F6D03758 | MRT Refresher | Passed | 0.0 | 0.75 |

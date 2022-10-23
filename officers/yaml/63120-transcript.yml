@@ -3,7 +3,7 @@ header_record:
   name: Johnson, Jeremiah J.
   dpsst_identifier: '63120'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
@@ -11,18 +11,11 @@ header_record:
 employment_records:
 - date: 9/15/2022
   agency: Portland Police Bureau
-  action: Hired
+  action: Resigned
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 9/15/2022
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 3/15/2024
+certification_records: []
 training_records:
 - date: 11/7/2022
   course: M10-22A

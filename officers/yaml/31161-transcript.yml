@@ -129,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 6/9/2022
+  course: TGP02126
+  title: 2022 MHRT Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/3/2022
   course: TGP10075
   title: Firearms
@@ -141,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/21/2022
+  course: TGP31467
+  title: 2022 ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/6/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

@@ -49,8 +49,10 @@
 | 6/29/2022 | TGP31604 | Failure to Supervise Liability in Law Enforcement | Passed | 0.0 | 2.00 |
 | 6/16/2022 | TGP20718 | OHIA OIS Investigations | Passed | 0.0 | 16.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Passed | 0.0 | 16.00 |
+| 6/9/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 4.00 |
 | 5/4/2022 | TGP10528 | Redefining Adversity | Passed | 0.0 | 1.00 |
+| 4/21/2022 | TGP31467 | 2022 ACAP Training | Passed | 0.0 | 2.00 |
 | 4/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 12.00 |
 | 4/6/2022 | TGP14188 | OWLA Spring Conference | Passed | 0.0 | 12.00 |
 | 3/16/2022 | TGP20313 | Domestic Violence Training | Passed | 0.0 | 1.00 |

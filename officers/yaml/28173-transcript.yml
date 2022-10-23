@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2022
+  course: MKL12687
+  title: LEDS re-certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/19/2022
   course: MKL06063
   title: Understanding Oregon's Ethics Laws

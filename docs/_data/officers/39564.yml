@@ -149,6 +149,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/30/2022
+  course: REG04480
+  title: 2022 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 8/9/2022
   course: PDP35733
   title: 2022 ABLE Performance Reviews for Supervisors Swrn

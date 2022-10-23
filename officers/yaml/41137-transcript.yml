@@ -44,6 +44,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 8/30/2022
+  course: REG04480
+  title: 2022 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 7/13/2022
   course: OSH16712
   title: ARIDE

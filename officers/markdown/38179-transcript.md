@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2022 | CQN27132 | MRT Fidelity Call | Passed | 0.0 | 1.00 |
 | 3/13/2019 | F6D29518 | OACCD - Oregon Association of Community Correc. | Passed | 0.0 | 5.00 |
 | 5/4/2018 | PDP05409 | 2018 EAP Training Individuals in Crisis CISM | Passed | 0.0 | 16.00 |
 | 5/2/2018 | PDP14332 | 2018 EAP Spring Training | Passed | 0.0 | 8.00 |

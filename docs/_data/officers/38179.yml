@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 10/19/2022
+  course: CQN27132
+  title: MRT Fidelity Call
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/13/2019
   course: F6D29518
   title: OACCD - Oregon Association of Community Correc.

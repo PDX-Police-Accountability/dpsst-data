@@ -47,8 +47,11 @@
 | 9/28/2022 | ADP01784 | Adult Child Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
 | 9/27/2022 | TAP14109 | OR DOJ Bias Crimes and Incidents FayStetz Waters | Passed | 0.0 | 1.00 |
 | 9/22/2022 | TAP25942 | LEDS (re) Certification | Passed | 0.0 | 1.00 |
+| 9/6/2022 | TAP42127 | Bringing Wellness Home | Passed | 0.0 | 1.00 |
+| 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 8/19/2022 | ADP34286 | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 8/16/2022 | TAP17390 | RdyRspndrPhysicalMentalWellbeingAffectPerformance | Passed | 0.0 | 1.25 |
+| 8/11/2022 | TAP37130 | TASER 7 Transition/Annual Certfication | Passed | 0.0 | 0.00 |
 | 8/9/2022 | TAP42440 | Anti Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/3/2022 | TAP14761 | Anti Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 8/1/2022 | TAP27190 | 3 Ways to Fight the #1 Killer of First Responders | Passed | 0.0 | 1.25 |

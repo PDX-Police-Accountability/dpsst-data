@@ -64,6 +64,7 @@
 | 4/14/2022 | F6R11889 | The Journey to Midnight | Passed | 0.0 | 1.50 |
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 4/12/2022 | HUP39428 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 1.00 |
+| 3/23/2022 | SMP02680 | Quarterly Defensive Tactics | Passed | 0.0 | 2.00 |
 | 3/9/2022 | HUP14053 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6M27047 | Finding the Leader in You | Passed | 0.0 | 4.00 |

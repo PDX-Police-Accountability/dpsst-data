@@ -39,6 +39,7 @@
 | 9/21/2022 | LOP30580 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
 | 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Instructed | 0.0 | 0.50 |
+| 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |

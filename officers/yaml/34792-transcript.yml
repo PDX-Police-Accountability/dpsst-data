@@ -104,6 +104,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/6/2022
+  course: TAP42127
+  title: Bringing Wellness Home
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2022
+  course: REG04480
+  title: 2022 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 8/19/2022
   course: ADP34286
   title: Patrol Rifle
@@ -116,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 8/11/2022
+  course: TAP37130
+  title: TASER 7 Transition/Annual Certfication
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/9/2022
   course: TAP42440
   title: Anti Bias Training for Law Enforcement

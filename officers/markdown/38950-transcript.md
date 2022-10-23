@@ -47,7 +47,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |
-| 10/15/2022 | HBS08572 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
+| 10/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 10/14/2022 | HBS10447 | CONSIM | Passed | 0.0 | 3.00 |
 | 9/14/2022 | ALP01096 | RITE Professional Workplace for Leaders | Passed | 0.0 | 8.00 |
 | 7/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |

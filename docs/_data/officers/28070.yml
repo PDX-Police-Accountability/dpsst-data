@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/9/2022
+  course: TGP02126
+  title: 2022 MHRT Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/26/2022
   course: TUP09824
   title: EVOC
@@ -103,6 +109,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/22/2022
+  course: TGP31467
+  title: 2022 ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/11/2022
+  course: TGP08380
+  title: HB4301 Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/6/2022
   course: TGP12508
   title: Less Lethal Impact Munitions as Distraction Device

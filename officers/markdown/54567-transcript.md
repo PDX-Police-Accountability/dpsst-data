@@ -48,7 +48,7 @@
 | 3/29/2022 | MLP44580 | Axon Body Camera Instruction | Passed | 0.0 | 2.00 |
 | 3/16/2022 | BPT34763 | Advanced De-Escalation and Escalation Prevention | Passed | 0.0 | 20.00 |
 | 3/11/2022 | LOP01108 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
-| 3/7/2022 | MLP08859 | HB 2513 Airway Circulatory Anatomy |  | 0.0 | 2.00 |
+| 3/7/2022 | MLP08859 | HB 2513 Airway Circulatory Anatomy | Passed | 0.0 | 2.00 |
 | 2/15/2022 | F6R42951 | Adult/Infant First Aid  CPR | Passed | 0.0 | 3.00 |
 | 10/29/2021 | REG13223 | Handgun Instructor Development | Passed | 0.0 | 40.00 |
 | 7/28/2021 | LOP25336 | Pursuit Intervention Technique Certification | Passed | 0.0 | 5.50 |

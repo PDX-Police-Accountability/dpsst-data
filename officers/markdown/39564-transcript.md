@@ -57,6 +57,7 @@
 | 9/28/2022 | F6R43838 | Critical Issue Briefings | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
+| 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 12.00 |
 | 8/9/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
 | 6/24/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/24/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

@@ -40,12 +40,15 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/15/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
 | 6/3/2022 | TGP35064 | Lock Picking, Bypassing  Subtle Mech Breaching | Passed | 0.0 | 16.00 |
+| 5/23/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |
 | 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Passed | 0.0 | 40.00 |
 | 4/28/2022 | TUP34147 | EVOC | Passed | 0.0 | 7.00 |
 | 4/28/2022 | TUP16481 | High Risk Traffic Stops | Passed | 0.0 | 1.00 |
+| 4/25/2022 | TGP31467 | 2022 ACAP Training | Passed | 0.0 | 2.00 |
 | 4/6/2022 | TGP32402 | Barricaded Suspects in Vehicles | Passed | 0.0 | 1.25 |
 | 4/4/2022 | TGP38071 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/17/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |
+| 3/11/2022 | TGP08380 | HB4301 Update | Passed | 0.0 | 0.50 |
 | 2/23/2022 | TGP38122 | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.50 |
 | 12/31/2021 | TGP21373 | Use of Force:  Community Perceptions | Passed | 0.0 | 1.00 |
 | 12/21/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
