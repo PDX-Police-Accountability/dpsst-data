@@ -3475,11 +3475,11 @@ attribute_records:
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
 - topic: Certification Cards
-  value: First Aid and Adult/Child CPR
+  value: First Aid and CPR
   effective_date: 5/20/2021
   expiration_date: 5/20/2023
 - topic: Certification Cards
-  value: First Aid and Adult/Child CPR
+  value: First Aid and CPR
   effective_date: 5/20/2021
   expiration_date: 5/20/2023
 - topic: Maintenance Requirements

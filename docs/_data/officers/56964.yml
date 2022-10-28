@@ -1794,7 +1794,7 @@ attribute_records:
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
 - topic: Certification Cards
-  value: First Aid and Adult/Child CPR
+  value: First Aid and CPR
   effective_date: 7/7/2021
   expiration_date: 7/7/2023
 - topic: Maintenance Requirements

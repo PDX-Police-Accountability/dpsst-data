@@ -885,7 +885,7 @@ training_records:
   hours: '20.00'
 attribute_records:
 - topic: Certification Cards
-  value: First Aid and Adult/Child CPR
+  value: First Aid and CPR
   effective_date: 6/24/2022
   expiration_date: 6/24/2024
 - topic: Maintenance Requirements
