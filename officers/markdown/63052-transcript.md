@@ -28,3 +28,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/7/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 8/15/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 8/8/2022 | PDP31681 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 8/8/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

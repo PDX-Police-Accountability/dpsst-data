@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/29/2022
+  course: MOS28865
+  title: Intro to Night Vision
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/22/2022
   course: HRS43288
   title: Developing a culture of accountability
@@ -208,7 +214,7 @@ training_records:
 - date: 5/31/2021
   course: TDP15663
   title: Ethics 2021--Becoming a leader in LE
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 4/21/2021
@@ -226,7 +232,7 @@ training_records:
 - date: 1/6/2021
   course: TDP34755
   title: Pursuit Policy and Stop Stick Deployment
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '0.50'
 - date: 12/22/2020
@@ -244,7 +250,7 @@ training_records:
 - date: 12/18/2020
   course: TDP18332
   title: Annual Bloodborne Pathogens Training w/COVID INFO
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 11/23/2020

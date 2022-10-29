@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2022
+  course: LOP19607
+  title: West Metro Monthly Motor Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/19/2022
+  course: LOP42495
+  title: West Metro Monthly Motor Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/21/2022
   course: LOP30580
   title: West Metro Monthly Motor Training
@@ -3067,14 +3079,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/31/2022
-  expiration_date: 1/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2022
@@ -3083,14 +3087,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/18/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/18/2009

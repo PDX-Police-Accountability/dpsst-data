@@ -33,12 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/19/2007 |  |
 | Code of Ethics | Signed | 7/19/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -73,7 +69,7 @@
 | 1/13/2022 | F6M27047 | Finding the Leader in You | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6R03814 | Advanced Leadership for a Police Reform Era | Passed | 0.0 | 4.00 |
 | 1/12/2022 | F6R23897 | Crowd Violence/Preventing Targeted Violence | Passed | 0.0 | 4.00 |
-| 12/31/2021 | WLP02302 | Self Care and Wellness |  | 0.0 | 3.00 |
+| 12/31/2021 | WLP02302 | Self Care and Wellness | Passed | 0.0 | 3.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2021 | WLP29226 | CIT De-escalation Training | Passed | 0.0 | 0.50 |
 | 11/1/2021 | WLP17861 | Cognitive Training | Passed | 0.0 | 1.00 |

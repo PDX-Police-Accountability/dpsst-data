@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/12/2021 | 4/5/2023 |
-| Certification Cards | First Aid and CPR | 6/12/2021 | 4/5/2023 |
-| Code of Ethics | Signed | 10/29/2010 |  |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,7 +49,7 @@
 | 4/18/2022 | WLP32038 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 2/28/2022 | WLP15833 | WSIN/RISS Deconfliction Training | Passed | 0.0 | 1.50 |
-| 12/31/2021 | WLP02302 | Self Care and Wellness |  | 0.0 | 3.00 |
+| 12/31/2021 | WLP02302 | Self Care and Wellness | Passed | 0.0 | 3.00 |
 | 11/30/2021 | WLP29226 | CIT De-escalation Training | Passed | 0.0 | 0.50 |
 | 11/18/2021 | F6E06892 | Tactical Casualty Care for Law Enforcement | Passed | 0.0 | 8.00 |
 | 11/3/2021 | F6E07496 | 3 Day Basic Patrol Rifle Course | Passed | 0.0 | 24.00 |

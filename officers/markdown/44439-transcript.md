@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/24/2021 | 5/24/2023 |
 | Certification Cards | First Aid and CPR | 5/24/2021 | 5/24/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/4/2004 |  |
 | Code of Ethics | Signed | 8/4/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,11 +33,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 8/20/2022 | PDP04898 | 2022 Vocabulary in the LGBTQIA2S+ Queer Community | Passed | 0.0 | 0.25 |
+| 8/15/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 8/15/2022 | PDP31681 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 8/15/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 8/15/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/15/2022 | PDP44058 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 8/15/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 8/15/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 8/14/2022 | PDP10514 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
 | 8/14/2022 | PDP05774 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
 | 8/5/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 8/3/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/3/2022 | PDP30440 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 8/3/2022 | PDP35473 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 8/3/2022 | PDP14900 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 8/3/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 6/11/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/10/2022 | PDP05146 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/19/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

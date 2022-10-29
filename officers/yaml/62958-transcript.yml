@@ -66,6 +66,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/16/2022
+  course: PDP14900
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP35473
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2022
+  course: PDP31681
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/1/2022
   course: PDP33107
   title: 2021 Language Access Utilizing Bilingual Members
@@ -96,6 +114,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/28/2022
+  course: PDP00958
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/26/2022
+  course: PDP05995
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/19/2018
   course: PDP26940
   title: IS-323 Earthquake Mitigation Basics for Staff

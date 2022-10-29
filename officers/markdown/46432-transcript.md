@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2022 | PDP10526 | Natl Internal Affairs Invest. Training Conference | Passed | 0.0 | 28.00 |
 | 1/17/2020 | PDP35329 | 2020 Ext Trng Conducting  Mngng IA Investigations | Passed | 0.0 | 35.00 |
 | 11/5/2019 | PDP19385 | 2019 External Training Constiutional Use of Force | Passed | 0.0 | 8.00 |
 | 3/31/2017 | F6C31871 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |

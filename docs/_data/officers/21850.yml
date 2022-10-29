@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 9/29/2022
   course: F6R36766
   title: DPSST's Use of Force Program
@@ -161,6 +167,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/29/2022
+  course: SMP04855
+  title: Quarterly Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/8/2022
   course: HUP11912
   title: Marion County Leadership Monthly Meeting
@@ -2419,33 +2431,21 @@ training_records:
   hours: '4.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/16/2021
   expiration_date: 12/16/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/16/2021
-  expiration_date: 12/16/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/7/2012
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/7/2012

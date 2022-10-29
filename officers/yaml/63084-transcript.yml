@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 8/31/2022
+  course: PDP35473
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/17/2022
   course: PDP10514
   title: 2021-10 CAO Legal Updates for 10/2021
@@ -51,6 +57,36 @@ training_records:
 - date: 8/11/2022
   course: PDP40044
   title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2022
+  course: PDP40718
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/29/2022
+  course: PDP31681
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/29/2022
+  course: PDP05995
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/29/2022
+  course: PDP04898
+  title: 2022 Vocabulary in the LGBTQIA2S+ Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/29/2022
+  course: PDP44058
+  title: 2022 Queer Policy - Policy Scenarios
   status: Passed
   score: '0.0'
   hours: '0.25'

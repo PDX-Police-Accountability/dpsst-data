@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
-| Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
-| Code of Ethics | Signed | 11/23/2010 |  |
 | Code of Ethics | Signed | 11/23/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/8/2022 | PDP38647 | NAGIA World Gang Summit | Passed | 0.0 | 24.00 |
+| 8/9/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 8/9/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 8/9/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/9/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 8/9/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 8/5/2022 | PDP38179 | NW Gang Invest. Assoc. Training Symposium | Passed | 0.0 | 36.00 |
 | 6/15/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/15/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

@@ -163,7 +163,7 @@ training_records:
 - date: 12/31/2021
   course: WLP02302
   title: Self Care and Wellness
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 12/15/2021
@@ -2625,22 +2625,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022
   expiration_date: 7/15/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/15/2022
-  expiration_date: 7/15/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

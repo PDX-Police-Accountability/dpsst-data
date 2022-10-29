@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 10/28/2020 | 10/28/2022 |
-| Certification Cards | First Aid and CPR | 10/28/2020 | 10/28/2022 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,6 +46,8 @@
 | 10/5/2022 | TAP34836 | De-escalation Strategies and Techniques | Passed | 0.0 | 0.00 |
 | 9/28/2022 | ADP01784 | Adult Child Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
 | 9/27/2022 | TAP14109 | OR DOJ Bias Crimes and Incidents FayStetz Waters | Passed | 0.0 | 1.00 |
+| 9/27/2022 | TAP36759 | Killer High The Silent Crisis | Passed | 0.0 | 0.75 |
+| 9/27/2022 | TAP19316 | Oregon CIT Newsletter SpringWinter 2022 | Passed | 0.0 | 0.50 |
 | 9/22/2022 | TAP25942 | LEDS (re) Certification | Passed | 0.0 | 1.00 |
 | 9/6/2022 | TAP42127 | Bringing Wellness Home | Passed | 0.0 | 1.00 |
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
@@ -91,6 +88,7 @@
 | 10/1/2021 | ADP25143 | Handgun Diagnostics | Passed | 0.0 | 1.00 |
 | 9/30/2021 | BPT42310 | Emergency Vehicle Operations - Skill Refresher | Passed | 0.0 | 4.00 |
 | 9/29/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/27/2021 | TAP40711 | Oregon CIT Newsletter Summer Fall 2021 | Passed | 0.0 | 0.50 |
 | 9/21/2021 | TAP26603 | CARFAX for Police Training | Passed | 0.0 | 1.00 |
 | 9/21/2021 | TAP32119 | IS-00241.c Decision Making and Problem Solving | Passed | 0.0 | 1.00 |
 | 9/21/2021 | TAP38093 | IS-00240.c Leadership and Influence | Passed | 0.0 | 3.00 |

@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/15/2007 |  |
 | Code of Ethics | Signed | 3/15/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2022 | SAG38557 | Night / low light shooting courses | Passed | 0.0 | 2.00 |
 | 8/9/2022 | SAG12608 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
 | 5/26/2022 | SAG11522 | Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |

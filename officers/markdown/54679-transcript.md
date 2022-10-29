@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 8/26/2022 | MLP24586 | Enter | Passed | 0.0 | 2.00 |
 | 8/10/2022 | MAP31419 | Taser Annual Re-Certification Training | Passed | 0.0 | 3.00 |
 | 6/29/2022 | MAP35999 | BUILDING SEARCH TACTICS I | Passed | 0.0 | 3.00 |

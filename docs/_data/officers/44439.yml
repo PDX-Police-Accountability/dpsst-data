@@ -38,6 +38,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/22/2022
+  course: PDP42210
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/20/2022
+  course: PDP04898
+  title: 2022 Vocabulary in the LGBTQIA2S+ Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP13658
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP31681
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP11567
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP05995
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/15/2022
+  course: PDP44058
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP25814
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP30324
+  title: 2022-1 CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/14/2022
   course: PDP10514
   title: 2021-10 CAO Legal Updates for 10/2021
@@ -65,6 +119,24 @@ training_records:
 - date: 8/3/2022
   course: PDP30440
   title: 2021-11 CAO Legal Updates for 11/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/3/2022
+  course: PDP35473
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/3/2022
+  course: PDP14900
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/3/2022
+  course: PDP40718
+  title: 2022 Queer Policy Pronouns
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -3745,14 +3817,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/24/2021
-  expiration_date: 5/24/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/24/2021
@@ -3761,14 +3825,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/4/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/4/2004

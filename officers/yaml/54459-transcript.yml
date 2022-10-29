@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2022
+  course: HRS39418
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/22/2022
   course: HRS43288
   title: Developing a culture of accountability

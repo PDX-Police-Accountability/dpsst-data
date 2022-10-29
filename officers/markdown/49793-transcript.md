@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/9/2022 | 7/9/2024 |
 | Certification Cards | First Aid and CPR | 7/9/2022 | 7/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/15/2008 |  |
 | Code of Ethics | Signed | 7/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -135,7 +131,7 @@
 | 10/25/2018 | CIF36982 | Firearms Qualifications and Cover Movement Drills | Passed | 0.0 | 3.00 |
 | 10/19/2018 | F6B24264 | Breachpoint, Personal  Professional Breakthroughs | Passed | 0.0 | 4.00 |
 | 10/11/2018 | F6D31101 | Basic Instructor Development Course | Passed | 0.0 | 40.00 |
-| 9/26/2018 | CIF36701 | LEDS Recertification |  | 0.0 | 1.00 |
+| 9/26/2018 | CIF36701 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 8/9/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/18/2018 | F6B31057 | Firearms Qualifications | Passed | 0.0 | 2.00 |
 | 7/11/2018 | F6B07342 | Use of Force | Passed | 0.0 | 2.00 |

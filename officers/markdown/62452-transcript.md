@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/6/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PDP41303 | Intro to VCAD/MRE Training | Passed | 0.0 | 14.00 |
 | 8/23/2022 | PDP18192 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/22/2022 | PDP19818 | Control Tactics Training- Post Basic Academy | Passed | 0.0 | 4.00 |

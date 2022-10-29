@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/17/2022 | Port of Portland Police Department | Hired | Captain |  |  |
 | 9/2/2021 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 5/21/2020 | Portland Police Bureau | Promotion | Commander |  |  |
 | 6/22/2018 | Portland Police Bureau | Promotion | Captain |  |  |
@@ -34,9 +35,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -47,8 +45,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/26/2022 | PDP27720 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 8/8/2022 | PDP01613 | 2022 ABLE Performance Reviews for Supervisors NR | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/1/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/28/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 7/14/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 7/7/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 6/6/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/6/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/1/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

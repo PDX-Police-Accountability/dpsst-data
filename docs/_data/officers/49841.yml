@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 8/26/2022
+  course: PDP05995
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/25/2022
   course: PDP13877
   title: SERT QRT Training
@@ -75,6 +81,18 @@ training_records:
 - date: 8/9/2022
   course: PDP35733
   title: 2022 ABLE Performance Reviews for Supervisors Swrn
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2022
+  course: PDP13658
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2022
+  course: PDP25814
+  title: 2022 Voice Record Pro App
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -5607,26 +5625,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/6/2021
   expiration_date: 7/6/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/6/2021
-  expiration_date: 7/6/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/2/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/2/2008

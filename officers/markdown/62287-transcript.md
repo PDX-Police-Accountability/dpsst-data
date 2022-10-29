@@ -54,10 +54,24 @@
 | 7/28/2022 | PDP25187 | 2021-8 TT Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP30440 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP23639 | 2021-11 TT Unlawful Street Takeovers or Unlawful | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP04898 | 2022 Vocabulary in the LGBTQIA2S+ Queer Community | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP35473 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 7/28/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP44058 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP42049 | 2022-1 Chief's Office House Bill 2928 (2021) EO | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Passed | 0.0 | 4.00 |
 | 7/26/2022 | PDP22123 | 2021-4 CAO Legal Updates for 04/2021 | Passed | 0.0 | 0.25 |
 | 7/26/2022 | PDP01218 | 2021-7 CAO Legal Updates for 07/2021 | Passed | 0.0 | 0.25 |
 | 7/26/2022 | PDP38816 | 2021-8 CAO Legal Updates for 08/2021 | Passed | 0.0 | 0.25 |
+| 7/26/2022 | PDP31681 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 7/26/2022 | PDP00958 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 7/26/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/26/2022 | PDP14900 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 7/25/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 7/25/2022 | PDP33017 | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
 | 7/21/2022 | PDP21058 | Hazmat/ WMD Response Awareness Gas Mask Fitting | Passed | 0.0 | 3.00 |

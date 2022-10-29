@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2022 | REG09811 | Emergency Vehicle Instructor- DynamicsBehaviors | Instructed | 0.0 | 40.00 |
 | 11/16/2021 | BPT15143 | Use of Force Instructor refresher | Passed | 0.0 | 16.00 |
 | 7/12/2021 | F6E16369 | Annual LEOSA HR - 218 Qualification (9mm) | Passed | 0.0 | 0.25 |
 | 1/22/2020 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |

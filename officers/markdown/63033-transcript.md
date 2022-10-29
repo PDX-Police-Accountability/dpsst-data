@@ -36,3 +36,4 @@
 | 9/12/2022 | PDP44383 | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 9/12/2022 | PDP17329 | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 8/24/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 8/24/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

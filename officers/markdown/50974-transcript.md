@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 1/31/2022 | 1/31/2024 |
 | Certification Cards | First Aid and CPR | 1/31/2022 | 1/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 11/18/2009 |  |
 | Code of Ethics | Signed | 11/18/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2022 | LOP19607 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
+| 10/19/2022 | LOP42495 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 9/21/2022 | LOP30580 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
 | 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Instructed | 0.0 | 0.50 |

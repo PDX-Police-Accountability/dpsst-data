@@ -29,9 +29,18 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/22/2022 | PDP24425 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 8/22/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 8/22/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 8/22/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 8/2/2022 | PDP33107 | 2021 Language Access Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
 | 8/2/2022 | PDP32564 | 2021 Online In-Service Language Access Translation | Passed | 0.0 | 0.25 |
 | 8/2/2022 | PDP32892 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 8/2/2022 | PDP31681 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 8/2/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 8/2/2022 | PDP00958 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 8/2/2022 | PDP04898 | 2022 Vocabulary in the LGBTQIA2S+ Queer Community | Passed | 0.0 | 0.25 |
+| 8/2/2022 | PDP35473 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 8/2/2022 | PDP44058 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP29324 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 8/1/2022 | PDP13563 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP41231 | 2020-12 CAO Legal Updates for 12/2020 - Updated | Passed | 0.0 | 0.25 |
@@ -49,10 +58,15 @@
 | 8/1/2022 | PDP13491 | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP30440 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP23639 | 2021-11 TT Unlawful Street Takeovers or Unlawful | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/1/2022 | PDP42049 | 2022-1 Chief's Office House Bill 2928 (2021) EO | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP39385 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 7/28/2022 | PDP17611 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP40044 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP14900 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 7/27/2022 | PDP36083 | 2019-5 TT nforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 7/27/2022 | PDP35057 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Passed | 0.0 | 4.00 |

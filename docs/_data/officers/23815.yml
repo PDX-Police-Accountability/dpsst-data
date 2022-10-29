@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2022
+  course: REG09811
+  title: Emergency Vehicle Instructor- DynamicsBehaviors
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/16/2021
   course: BPT15143
   title: Use of Force Instructor refresher

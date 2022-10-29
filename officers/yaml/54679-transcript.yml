@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2022
+  course: MLP24161
+  title: Defensive Tactics/ OC Spray/ Baton Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/26/2022
   course: MLP24586
   title: Enter

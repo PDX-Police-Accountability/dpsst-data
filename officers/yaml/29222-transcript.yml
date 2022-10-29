@@ -75,6 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/16/2022
+  course: GSP27130
+  title: 'The Internet: Investigations and Intelligence'
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/14/2022
+  course: GSP03764
+  title: NW Regional Human Trafficking Workshop
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/11/2022
+  course: GSP21949
+  title: 2022 Crimes Against Children Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.25'
 - date: 7/20/2022
   course: OCS26614
   title: AR15 Range Diagnostics
@@ -84,6 +102,12 @@ training_records:
 - date: 7/19/2022
   course: OCS27541
   title: AR15 Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/24/2022
+  course: GSP26062
+  title: 'OneNote: Digital Case Management'
   status: Passed
   score: '0.0'
   hours: '16.00'
@@ -2348,10 +2372,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/19/2023
   expiration_date: 1/19/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/19/2023
-  expiration_date: 1/19/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -2360,18 +2380,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/11/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/11/2000

@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 8/11/2022
+  course: OSH24317
+  title: Firearms In-Service
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 6/24/2022
   course: F6R23339
   title: 2nd Trimester Firearms - Rifle
@@ -2222,14 +2228,6 @@ attribute_records:
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
@@ -2237,14 +2235,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 11/5/2020
   expiration_date: 11/5/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/5/2020
-  expiration_date: 11/5/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/23/2006
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/23/2006

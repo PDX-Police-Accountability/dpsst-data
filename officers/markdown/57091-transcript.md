@@ -54,6 +54,11 @@
 | 8/3/2022 | PDP33543 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/2/2022 | PDP13212 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/1/2022 | PDP39626 | Firearms Training | Instructed | 0.0 | 4.00 |
+| 8/1/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/1/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 7/20/2022 | PDP15790 | Focused Intervention Team Firearms Training | Instructed | 0.0 | 5.00 |
 | 7/19/2022 | PDP30803 | General Firearms Training | Instructed | 0.0 | 3.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Instructed | 0.0 | 6.00 |

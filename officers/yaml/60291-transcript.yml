@@ -54,6 +54,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/7/2022
+  course: PDP04898
+  title: 2022 Vocabulary in the LGBTQIA2S+ Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/7/2022
+  course: PDP35473
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/7/2022
+  course: PDP14900
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/7/2022
+  course: PDP40718
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/26/2022
   course: PDP34045
   title: 2022 Training 3M N Series Helmet

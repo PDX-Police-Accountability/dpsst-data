@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 11/5/2020 | 11/5/2022 |
-| Certification Cards | First Aid and CPR | 11/5/2020 | 11/5/2022 |
-| Code of Ethics | Signed | 1/23/2006 |  |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 | 9/16/2022 | OSH37404 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
 | 9/2/2022 | OSH42024 | 2nd Trimester DT / Taser Recertification | Passed | 0.0 | 4.00 |
 | 9/2/2022 | OSH42862 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
+| 8/11/2022 | OSH24317 | Firearms In-Service | Passed | 0.0 | 24.00 |
 | 6/24/2022 | F6R23339 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 6/10/2022 | F6R18237 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 6/3/2022 | F6R01153 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |

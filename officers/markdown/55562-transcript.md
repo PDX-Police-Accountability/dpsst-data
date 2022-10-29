@@ -23,7 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/20/2020 |  |
@@ -33,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/24/2022 | PDS02080 | Firearms Training | Passed | 0.0 | 6.00 |
 | 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 5/12/2022 | PDS12287 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 5/12/2022 | PDS16493 | CIT | Passed | 0.0 | 4.00 |

@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 7/5/2022
+  course: PDP11567
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/16/2022
   course: PDP01652
   title: AAR SharePoint Transition

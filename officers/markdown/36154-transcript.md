@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
-| Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
-| Code of Ethics | Signed | 7/25/2002 |  |
 | Code of Ethics | Signed | 7/25/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 10/14/2022 | MFP08261 | 2022 ETHOS Leadership Development Program | Passed | 0.0 | 3.50 |
 | 8/5/2022 | MFP38130 | CNT and SWAT Hostage Scenario | Passed | 0.0 | 7.00 |
 | 6/17/2022 | MFP07975 | Assisting Individuals in Crisis/Group Crisis Int | Passed | 0.0 | 32.00 |
 | 5/20/2022 | MFP09166 | 2022 Annual Rifle Qualification | Passed | 0.0 | 0.75 |

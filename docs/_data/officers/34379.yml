@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/30/2022
+  course: PPP19987
+  title: Duty to Intervene
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2022
+  course: PPP18308
+  title: Legal Update from MCDA Office
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/27/2022
   course: PPP23869
   title: Narcan Naloxone Spray Training
@@ -1922,29 +1940,17 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2025
+  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/8/2021
   expiration_date: 11/8/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/8/2021
-  expiration_date: 11/8/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/12/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/12/2004

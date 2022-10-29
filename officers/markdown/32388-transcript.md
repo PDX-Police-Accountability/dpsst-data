@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 10/13/2022 | 10/13/2024 |
-| Certification Cards | First Aid and CPR | 10/13/2022 | 10/13/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/29/2020 | 10/29/2022 |
-| Certification Cards | First Aid and CPR | 10/29/2020 | 10/29/2022 |
-| Code of Ethics | Signed | 6/19/2003 |  |
 | Code of Ethics | Signed | 6/19/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2022 | GSP17921 | CPR and First Aid | Passed | 0.0 | 2.50 |
+| 6/30/2022 | GSP27508 | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
 | 5/26/2022 | HBS04306 | Tactical Casualty Care for Law Enforcement | Passed | 0.0 | 8.00 |
 | 5/2/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/8/2022 | GSP16273 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |

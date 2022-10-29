@@ -95,6 +95,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/13/2022
+  course: HBS32629
+  title: MFF APR Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/12/2022
+  course: HBS22790
+  title: Mobile Field Force - Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/6/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -113,6 +125,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/31/2022
+  course: HBS24217
+  title: Heat Illness Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/30/2022
+  course: HBS29492
+  title: Slow Clears Controlled Entry with K9
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/15/2022
   course: HBS25002
   title: Rifle Update
@@ -2410,14 +2434,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/23/2022
-  expiration_date: 3/23/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/23/2022
@@ -2427,21 +2443,9 @@ attribute_records:
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/11/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/11/2001

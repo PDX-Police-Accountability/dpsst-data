@@ -38,6 +38,10 @@
 | 8/25/2022 | NGP31743 | Handcuffing  Restraints | Passed | 0.0 | 2.00 |
 | 8/25/2022 | NGP21069 | WRAP Restraint | Passed | 0.0 | 1.00 |
 | 8/24/2022 | NGP09490 | Firearms Qualification | Passed | 0.0 | 5.50 |
+| 7/30/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 7/30/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 7/30/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 7/30/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 7/13/2022 | OSH16712 | ARIDE | Passed | 0.0 | 16.00 |
 | 6/14/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/14/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

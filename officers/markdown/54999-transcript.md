@@ -46,6 +46,7 @@
 | 10/3/2022 | HRS02450 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 9/29/2022 | HRS07720 | Tactical Training - Entry | Passed | 0.0 | 2.00 |
 | 9/29/2022 | HRS29136 | NFDD Training | Passed | 0.0 | 3.00 |
+| 9/29/2022 | MOS28865 | Intro to Night Vision | Passed | 0.0 | 1.00 |
 | 7/22/2022 | HRS43288 | Developing a culture of accountability | Passed | 0.0 | 1.00 |
 | 7/11/2022 | REG10830 | Ballistic Shield | Passed | 0.0 | 14.00 |
 | 6/23/2022 | MOS08571 | Stop the Bleed Course | Passed | 0.0 | 1.00 |
@@ -65,13 +66,13 @@
 | 7/6/2021 | F6E33734 | Use of Force | Passed | 0.0 | 2.00 |
 | 7/6/2021 | F6E41166 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 7/2/2021 | F6E26105 | Firearms Qualification | Passed | 0.0 | 4.00 |
-| 5/31/2021 | TDP15663 | Ethics 2021--Becoming a leader in LE |  | 0.0 | 1.00 |
+| 5/31/2021 | TDP15663 | Ethics 2021--Becoming a leader in LE | Passed | 0.0 | 1.00 |
 | 4/21/2021 | F6E02294 | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 1/8/2021 | TDP13403 | De-Escalation and Reasonable Force | Passed | 0.0 | 2.00 |
-| 1/6/2021 | TDP34755 | Pursuit Policy and Stop Stick Deployment |  | 0.0 | 0.50 |
+| 1/6/2021 | TDP34755 | Pursuit Policy and Stop Stick Deployment | Passed | 0.0 | 0.50 |
 | 12/22/2020 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 12/22/2020 | TDP13011 | WMD/Terrorism Awareness for Ermerg Respondr. | Passed | 0.0 | 8.00 |
-| 12/18/2020 | TDP18332 | Annual Bloodborne Pathogens Training w/COVID INFO |  | 0.0 | 1.00 |
+| 12/18/2020 | TDP18332 | Annual Bloodborne Pathogens Training w/COVID INFO | Passed | 0.0 | 1.00 |
 | 11/23/2020 | TDP15890 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/7/2020 | F6D29440 | Fall Firearms Low Light Qualification / Training | Passed | 0.0 | 2.50 |
 | 9/28/2020 | PDP23314 | 2020 Advanced Academy Law | Passed | 0.0 | 4.00 |

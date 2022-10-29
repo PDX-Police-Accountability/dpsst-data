@@ -28,7 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 2/3/2011 |  |
-| Code of Ethics | Signed | 2/3/2011 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -42,6 +41,10 @@
 | 9/29/2022 | PDP01218 | 2021-7 CAO Legal Updates for 07/2021 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP38816 | 2021-8 CAO Legal Updates for 08/2021 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP33017 | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
+| 9/29/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 9/29/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 9/29/2022 | PDP42049 | 2022-1 Chief's Office House Bill 2928 (2021) EO | Passed | 0.0 | 0.25 |
+| 9/28/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 12/3/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 12/3/2020 | PDP37866 | 2020 Roles/Resp PPB on Mental Health Related Calls | Passed | 0.0 | 1.00 |

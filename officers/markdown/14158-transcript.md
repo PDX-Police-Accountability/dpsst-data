@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
-| Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
-| Code of Ethics | Signed | 2/7/2017 |  |
 | Code of Ethics | Signed | 2/7/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2022 | MKL31883 | DT/Use of Force, Fall 2022 | Instructed | 0.0 | 8.00 |
 | 10/13/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/4/2022 | REG39689 | Ethics | Passed | 0.0 | 2.00 |
 | 9/28/2022 | MKL37823 | DT/Use of Force, Fall 2022 | Instructed | 0.0 | 8.00 |

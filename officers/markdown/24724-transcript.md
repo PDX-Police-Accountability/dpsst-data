@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/22/2008 |  |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,7 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/7/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 9/29/2022 | F6R19836 | Cultivating an Inclusive, Ethical Culture | Passed | 0.0 | 3.50 |
 | 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
 | 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |

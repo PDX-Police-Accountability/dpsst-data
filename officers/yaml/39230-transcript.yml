@@ -87,6 +87,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/19/2022
+  course: EGP13229
+  title: Vehicle Use of Force - Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/19/2022
+  course: EGP21433
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/21/2022
+  course: EGP22702
+  title: 'ETHOS:  Leadership'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/30/2022
   course: EGP00110
   title: 'Briefing:  OSHA Wildlife Smoke Exposure'
@@ -4066,10 +4090,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/19/2022
-  expiration_date: 1/19/2024
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/19/2022
@@ -4081,19 +4105,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/29/2003
-  expiration_date: ''
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
 | 6/1/2022 | MLP40570 | SB 1510 Stops  Searches | Passed | 0.0 | 0.50 |
 | 5/31/2022 | MLP35269 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
