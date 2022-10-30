@@ -30,6 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/10/2022
+  course: PDP32096
+  title: DIR 0910.00, Use of Force Reporting, Review,  Inv
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/10/2022
+  course: PDP37114
+  title: DIR 1010.00, Use of Force (effective 11/15/2022)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/10/2022
+  course: PDP39675
+  title: DIR 1015.00, Less Lethal Weapons and Tools
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2022
+  course: PDP38585
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/20/2022
+  course: PDP26686
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/13/2022
   course: PDP00776
   title: 2021 Training New Pistol Qualification
@@ -42,9 +72,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/13/2022
+  course: PDP14206
+  title: 2022-1 Tips and Techniques Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 7/13/2022
+  course: PDP05316
+  title: '2022-7 Executive Order: Corrective Action Guide'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/12/2022
   course: PDP30324
   title: 2022-1 CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/12/2022
+  course: PDP36163
+  title: 2022-2- CAO Legal Updates 02/2022
   status: Passed
   score: '0.0'
   hours: '0.25'

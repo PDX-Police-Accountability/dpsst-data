@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2022
+  course: PDS33076
+  title: MIDD Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/28/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

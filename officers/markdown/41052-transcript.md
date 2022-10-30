@@ -4,7 +4,7 @@
 | name | Nett, James C. |
 | dpsst_identifier | 41052 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/14/2022 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 6/14/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 5/30/2014 | Portland Police Bureau | Demotion | Police Off |  |  |
 | 1/9/2014 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -21,10 +22,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/28/2020 | Police Officer | Supervisory | Granted | 9/28/2020 |  |  |
-| 6/8/2010 | Police Officer | Advanced | Granted | 6/8/2010 |  |  |
-| 6/8/2010 | Police Officer | Intermediate | Granted | 6/8/2010 |  |  |
-| 3/7/2003 | Police Officer | Basic | Granted | 3/7/2003 |  |  |
+| 9/28/2020 | Police Officer | Supervisory | Granted | 9/28/2020 | 1/14/2023 |  |
+| 6/8/2010 | Police Officer | Advanced | Granted | 6/8/2010 | 1/14/2023 |  |
+| 6/8/2010 | Police Officer | Intermediate | Granted | 6/8/2010 | 1/14/2023 |  |
+| 3/7/2003 | Police Officer | Basic | Granted | 3/7/2003 | 1/14/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -43,9 +44,16 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2022 | PDP38569 | Intoxilyzer 8000 Class | Passed | 0.0 | 6.00 |
 | 9/22/2022 | PDP43256 | 2022 Traffic Intoxylizer 8000 Certification | Passed | 0.0 | 6.00 |
+| 9/21/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
+| 9/21/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 9/21/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/14/2022 | PDP00431 | Suicide Prevention/Intervention Training | Passed | 0.0 | 7.00 |
 | 9/1/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 9/1/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
+| 9/1/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
+| 8/17/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 7/5/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/7/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/7/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/1/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

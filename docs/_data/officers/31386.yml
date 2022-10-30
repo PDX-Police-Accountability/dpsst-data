@@ -56,6 +56,12 @@ certification_records:
   expiration_date: 10/25/2022
   probation_date: ''
 training_records:
+- date: 7/20/2022
+  course: PDP33630
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/22/2022
   course: PDP16854
   title: 2022-2 Range Qualification Primary Firearm

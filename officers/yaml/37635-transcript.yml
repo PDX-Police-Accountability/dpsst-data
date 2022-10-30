@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2022
+  course: EGP21546
+  title: 'ETHOS:  Ethics'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/26/2022
+  course: EGP19375
+  title: 'ETHOS:  Leadership'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/19/2022
   course: EGP13229
   title: Vehicle Use of Force - Decision Making

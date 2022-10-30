@@ -66,6 +66,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/4/2022
+  course: PDP32096
+  title: DIR 0910.00, Use of Force Reporting, Review,  Inv
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2022
+  course: PDP37114
+  title: DIR 1010.00, Use of Force (effective 11/15/2022)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2022
+  course: PDP39675
+  title: DIR 1015.00, Less Lethal Weapons and Tools
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/26/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner
@@ -78,12 +96,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/16/2022
+  course: PDP38585
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/9/2022
   course: PDP35733
   title: 2022 ABLE Performance Reviews for Supervisors Swrn
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/9/2022
+  course: PDP26686
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/2/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -96,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/2/2022
+  course: PDP36911
+  title: AAR SharePoint Transition
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/28/2022
   course: PDP11139
   title: 2022-2 Range Qualification 40mm Less Lethal

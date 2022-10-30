@@ -42,9 +42,27 @@ certification_records:
   expiration_date: 11/26/2022
   probation_date: ''
 training_records:
+- date: 8/10/2022
+  course: PDP38585
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/22/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/22/2022
+  course: PDP36163
+  title: 2022-2- CAO Legal Updates 02/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/22/2022
+  course: PDP26686
+  title: Amended DOJ Settlement Agreement
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -63,6 +81,18 @@ training_records:
 - date: 7/17/2022
   course: PDP25814
   title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/17/2022
+  course: PDP14206
+  title: 2022-1 Tips and Techniques Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 7/17/2022
+  course: PDP05316
+  title: '2022-7 Executive Order: Corrective Action Guide'
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/20/2022
+  course: PDP02010
+  title: DIR 640.38, Interacting w Members of the LGBTQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/19/2022
   course: PDP44630
   title: 2021 PIO Photos for Social Media
@@ -120,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/7/2022
+  course: PDP38388
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/2/2021
   course: M10-21A
   title: DPSST Basic Police Course

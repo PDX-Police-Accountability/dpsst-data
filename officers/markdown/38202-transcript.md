@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2022 | PDS11280 | Firearms Training | Passed | 0.0 | 3.00 |
+| 9/30/2022 | PDS41330 | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | PDS18524 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/23/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |

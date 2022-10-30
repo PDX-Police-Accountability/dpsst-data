@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/27/2022
+  course: SAG15909
+  title: Mental Health Resilence
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/16/2022
   course: PDS24124
   title: Officer Involved Shootings Investigations

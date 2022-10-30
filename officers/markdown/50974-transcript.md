@@ -36,9 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/19/2022 | LOP19607 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 10/19/2022 | LOP42495 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
-| 9/21/2022 | LOP30580 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
+| 10/19/2022 | LOP43350 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
 | 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Instructed | 0.0 | 0.50 |
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |

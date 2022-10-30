@@ -122,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/13/2022
+  course: PDP33630
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/28/2022
   course: VND33109
   title: Firearm and Vehicle Tactics

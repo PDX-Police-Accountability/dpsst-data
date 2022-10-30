@@ -39,6 +39,10 @@
 | 10/2/2022 | PDP36883 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |
+| 9/29/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 9/22/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
+| 9/22/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 9/22/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/13/2022 | PDP08935 | Firearms Training (post academy) | Instructed | 0.0 | 4.00 |
 | 9/12/2022 | PDP39710 | Firearms Training (post academy) | Instructed | 0.0 | 4.00 |
 | 9/6/2022 | PDP38929 | Firearms Training | Instructed | 0.0 | 7.00 |
@@ -51,6 +55,7 @@
 | 8/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/9/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 8/9/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/8/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/3/2022 | PDP33543 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/2/2022 | PDP13212 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 8/1/2022 | PDP39626 | Firearms Training | Instructed | 0.0 | 4.00 |
@@ -59,6 +64,10 @@
 | 8/1/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 8/1/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/20/2022 | PDP15790 | Focused Intervention Team Firearms Training | Instructed | 0.0 | 5.00 |
 | 7/19/2022 | PDP30803 | General Firearms Training | Instructed | 0.0 | 3.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Instructed | 0.0 | 6.00 |

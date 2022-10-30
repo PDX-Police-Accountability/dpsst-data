@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2022
+  course: CAP20916
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/13/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

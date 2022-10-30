@@ -73,12 +73,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 9/30/2017
-  course: PPB24642
-  title: 2017-2 In-Service Defensive Tactics
-  status: No Show
-  score: '0.0'
-  hours: '0.00'
-- date: 9/30/2017
   course: PPB24634
   title: 2017-2 In-Servce Evaluations/Training Debrief
   status: Passed

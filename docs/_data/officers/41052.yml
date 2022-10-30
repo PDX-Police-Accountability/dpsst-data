@@ -3,12 +3,18 @@ header_record:
   name: Nett, James C.
   dpsst_identifier: '41052'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/14/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 6/14/2018
   agency: Portland Police Bureau
   action: Promotion
@@ -51,28 +57,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 9/28/2020
-  expiration_date: ''
+  expiration_date: 1/14/2023
   probation_date: ''
 - status_date: 6/8/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 6/8/2010
-  expiration_date: ''
+  expiration_date: 1/14/2023
   probation_date: ''
 - status_date: 6/8/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/8/2010
-  expiration_date: ''
+  expiration_date: 1/14/2023
   probation_date: ''
 - status_date: 3/7/2003
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/7/2003
-  expiration_date: ''
+  expiration_date: 1/14/2023
   probation_date: ''
 training_records:
 - date: 9/22/2022
@@ -87,6 +93,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 9/21/2022
+  course: PDP32096
+  title: DIR 0910.00, Use of Force Reporting, Review,  Inv
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/21/2022
+  course: PDP37114
+  title: DIR 1010.00, Use of Force (effective 11/15/2022)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/21/2022
+  course: PDP39675
+  title: DIR 1015.00, Less Lethal Weapons and Tools
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/14/2022
   course: PDP00431
   title: Suicide Prevention/Intervention Training
@@ -99,12 +123,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/1/2022
+  course: PDP36911
+  title: AAR SharePoint Transition
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2022
+  course: PDP38585
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/17/2022
   course: PDP35733
   title: 2022 ABLE Performance Reviews for Supervisors Swrn
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/17/2022
+  course: PDP26686
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/5/2022
+  course: PDP33630
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/7/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

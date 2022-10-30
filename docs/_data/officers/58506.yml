@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/9/2022
+  course: PDP33630
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/7/2022
   course: PDP08674
   title: Weapons Drills Handgun and AR 3-50 Yards

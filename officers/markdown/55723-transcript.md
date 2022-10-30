@@ -37,7 +37,6 @@
 | 2/7/2018 | PDP22757 | 2018-1 In-Service Police Vehicle Operation Lecture | Passed | 0.0 | 1.00 |
 | 2/7/2018 | PDP34636 | 2018-1 In-Service PVO Skid Car Operations | Passed | 0.0 | 2.00 |
 | 2/5/2018 | PDP01076 | BHU Mental Health Template Video Non-ECIT Officers | Passed | 0.0 | 0.25 |
-| 9/30/2017 | PPB24642 | 2017-2 In-Service Defensive Tactics | No Show | 0.0 | 0.00 |
 | 9/30/2017 | PPB24634 | 2017-2 In-Servce Evaluations/Training Debrief | Passed | 0.0 | 1.00 |
 | 9/30/2017 | PPB24639 | 2017-2 In-Service Firearms | Passed | 0.0 | 2.00 |
 | 9/30/2017 | PPB24640 | 2017-2 In-Service TECC | Passed | 0.0 | 2.00 |

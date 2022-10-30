@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2022 | ETS14899 | Airway Circulatory Crisis  Response | Passed | 0.0 | 2.00 |
 | 8/22/2022 | OSH27620 | ARIDE | Instructed | 0.0 | 8.00 |
 | 6/8/2022 | PLS29699 | ARIDE / Wet Lab | Instructed | 0.0 | 16.00 |
 | 6/8/2022 | F6R17453 | ARIDE/Wet Lab | Instructed | 0.0 | 16.00 |

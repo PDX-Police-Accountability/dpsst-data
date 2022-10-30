@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/7/2022
+  course: PDP33630
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/26/2022
   course: PDP11139
   title: 2022-2 Range Qualification 40mm Less Lethal

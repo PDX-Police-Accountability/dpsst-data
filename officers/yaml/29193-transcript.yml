@@ -94,12 +94,24 @@ certification_records:
   expiration_date: 10/21/2022
   probation_date: ''
 training_records:
+- date: 7/18/2022
+  course: PDP36911
+  title: AAR SharePoint Transition
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/12/2022
   course: PDP39295
   title: ICS-400 Adv ICS Cmd  General Staff-Complex Incdts
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 7/7/2022
+  course: PDP33630
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

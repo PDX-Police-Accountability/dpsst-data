@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2022
+  course: PDS32518
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2022
+  course: PDS06856
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/18/2022
   course: PDS10376
   title: Force Entry

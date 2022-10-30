@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2022 | PDS32518 | Range Qualification | Passed | 0.0 | 2.00 |
+| 9/30/2022 | PDS06856 | Firearms Training | Passed | 0.0 | 3.00 |
 | 7/18/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS13914 | Range Qualfiication | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDS30938 | Rifle Training | Passed | 0.0 | 28.00 |

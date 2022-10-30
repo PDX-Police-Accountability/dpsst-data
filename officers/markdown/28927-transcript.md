@@ -67,7 +67,7 @@
 | 3/4/2021 | MKL31128 | Defensive Tactics "Where Am I" Situation Awareness | Passed | 0.0 | 2.50 |
 | 2/24/2021 | MKL02871 | Marijuana Additives Rule Training | Passed | 0.0 | 1.00 |
 | 2/23/2021 | MKL38621 | Gangs and Human Trafficking | Passed | 0.0 | 3.00 |
-| 1/26/2021 | RMP34487 | DT Instructor: Combative Problem Solving |  | 0.0 | 40.00 |
+| 1/26/2021 | RMP34487 | DT Instructor: Combative Problem Solving | Passed | 0.0 | 40.00 |
 | 12/29/2020 | MKL26811 | Adobe Sign for Enforcement | Passed | 0.0 | 0.50 |
 | 12/22/2020 | MKL41320 | Adobe Sign for Enforcement | Passed | 0.0 | 1.00 |
 | 12/17/2020 | MKL24344 | COVID-19 Training Requirements | Passed | 0.0 | 1.00 |
