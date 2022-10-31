@@ -36,6 +36,15 @@
 | 8/30/2022 | PDP14900 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP44058 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 8/30/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP12933 | Annual CIU NTR Alarm Response Trng Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/30/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/30/2022 | PDP02010 | DIR 640.38, Interacting w Members of the LGBTQ | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/29/2022 | PDP38816 | 2021-8 CAO Legal Updates for 08/2021 | Passed | 0.0 | 0.25 |
 | 8/29/2022 | PDP33017 | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
 | 8/29/2022 | PDP10514 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
@@ -45,6 +54,8 @@
 | 8/29/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/29/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 8/29/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
+| 8/29/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PDP41303 | Intro to VCAD/MRE Training | Passed | 0.0 | 14.00 |
 | 8/23/2022 | PDP18192 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 8/22/2022 | PDP19818 | Control Tactics Training- Post Basic Academy | Passed | 0.0 | 4.00 |

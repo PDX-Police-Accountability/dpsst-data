@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 9/30/2022
+  course: PDP38388
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2022
   course: PDP00776
   title: 2021 Training New Pistol Qualification

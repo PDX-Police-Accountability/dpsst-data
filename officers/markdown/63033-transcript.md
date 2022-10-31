@@ -35,5 +35,11 @@
 | 9/27/2022 | PDP12607 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 9/12/2022 | PDP44383 | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 9/12/2022 | PDP17329 | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 9/12/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 9/12/2022 | PDP02010 | DIR 640.38, Interacting w Members of the LGBTQ | Passed | 0.0 | 0.25 |
+| 9/12/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
+| 9/12/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 9/12/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
+| 9/12/2022 | PDP18063 | DIR 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
 | 8/24/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 8/24/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

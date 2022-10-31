@@ -34,3 +34,4 @@
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 9/27/2022 | PDP12607 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 7/6/2022 | PDP00776 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 7/6/2022 | PDP38388 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

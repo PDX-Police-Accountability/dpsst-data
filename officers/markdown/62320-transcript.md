@@ -28,6 +28,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/4/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
+| 9/4/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 9/4/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/22/2022 | PDP24425 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 8/22/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 8/22/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
@@ -41,6 +44,7 @@
 | 8/2/2022 | PDP04898 | 2022 Vocabulary in the LGBTQIA2S+ Queer Community | Passed | 0.0 | 0.25 |
 | 8/2/2022 | PDP35473 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 8/2/2022 | PDP44058 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 8/2/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP29324 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 8/1/2022 | PDP13563 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP41231 | 2020-12 CAO Legal Updates for 12/2020 - Updated | Passed | 0.0 | 0.25 |
@@ -61,17 +65,25 @@
 | 8/1/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP42049 | 2022-1 Chief's Office House Bill 2928 (2021) EO | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/28/2022 | PDP39385 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 7/28/2022 | PDP17611 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP15278 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP40044 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP14900 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP18063 | DIR 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
 | 7/27/2022 | PDP36083 | 2019-5 TT nforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 7/27/2022 | PDP35057 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 7/27/2022 | PDP02010 | DIR 640.38, Interacting w Members of the LGBTQ | Passed | 0.0 | 0.25 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Passed | 0.0 | 4.00 |
 | 7/22/2022 | PDP03740 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 7/22/2022 | PDP25360 | 2021-9 TT Protecting Workers from the Dangers of | Passed | 0.0 | 0.50 |
+| 7/22/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 7/22/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 7/22/2022 | PDP12933 | Annual CIU NTR Alarm Response Trng Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 7/22/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/21/2022 | PDP21058 | Hazmat/ WMD Response Awareness Gas Mask Fitting | Passed | 0.0 | 3.00 |
 | 7/21/2022 | PDP44383 | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 7/21/2022 | PDP17329 | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |

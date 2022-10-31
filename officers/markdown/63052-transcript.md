@@ -31,3 +31,5 @@
 | 8/15/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 8/8/2022 | PDP31681 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 8/8/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/8/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 7/20/2022 | PDP38388 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -33,6 +33,8 @@
 | 9/6/2022 | PDP38929 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/2/2022 | PDP00747 | Firearms Training | Passed | 0.0 | 9.00 |
 | 9/1/2022 | PDP33916 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
+| 8/18/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 8/18/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/16/2022 | PDP13563 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 8/16/2022 | PDP14900 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 8/15/2022 | PDP35473 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
@@ -43,7 +45,9 @@
 | 8/1/2022 | PDP40044 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP17611 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP00958 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/25/2022 | PDP38388 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 2/19/2018 | PDP26940 | IS-323 Earthquake Mitigation Basics for Staff | Passed | 0.0 | 1.00 |
 | 2/19/2018 | PDP11808 | IS-393.b Intro to Hazard Mitigation | Passed | 0.0 | 2.00 |
 | 2/5/2018 | PDP42212 | IS-240.b Leadership and Influence | Passed | 0.0 | 3.00 |

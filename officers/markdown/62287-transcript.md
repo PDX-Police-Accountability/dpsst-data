@@ -29,15 +29,20 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/22/2022 | PDP33107 | 2021 Language Access Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
+| 8/22/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/20/2022 | PDP13563 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
 | 8/19/2022 | PDP44383 | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 8/19/2022 | PDP17329 | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
+| 8/19/2022 | PDP12933 | Annual CIU NTR Alarm Response Trng Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP29324 | FTEP Orientation | Passed | 0.0 | 7.00 |
 | 8/1/2022 | PDP32892 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 8/1/2022 | PDP03740 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP36083 | 2019-5 TT nforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP35057 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP25360 | 2021-9 TT Protecting Workers from the Dangers of | Passed | 0.0 | 0.50 |
+| 8/1/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 8/1/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 8/1/2022 | PDP02010 | DIR 640.38, Interacting w Members of the LGBTQ | Passed | 0.0 | 0.25 |
 | 7/31/2022 | PDP39385 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 7/31/2022 | PDP17611 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/31/2022 | PDP24425 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
@@ -47,6 +52,9 @@
 | 7/31/2022 | PDP28427 | 2021-1 CAO Legal Updates for 01/2021 | Passed | 0.0 | 0.50 |
 | 7/31/2022 | PDP10514 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
 | 7/31/2022 | PDP13491 | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
+| 7/31/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 7/31/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/31/2022 | PDP18063 | DIR 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
 | 7/28/2022 | PDP05774 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP20529 | 2021-12 TT Requesting an Emergency Ping of Cell | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP24270 | 2021-2 CAO Legal Updates for 02/2021 | Passed | 0.0 | 0.25 |
@@ -64,6 +72,7 @@
 | 7/28/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP42049 | 2022-1 Chief's Office House Bill 2928 (2021) EO | Passed | 0.0 | 0.25 |
 | 7/28/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 7/28/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Passed | 0.0 | 4.00 |
 | 7/26/2022 | PDP22123 | 2021-4 CAO Legal Updates for 04/2021 | Passed | 0.0 | 0.25 |
 | 7/26/2022 | PDP01218 | 2021-7 CAO Legal Updates for 07/2021 | Passed | 0.0 | 0.25 |

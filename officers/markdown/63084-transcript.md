@@ -32,6 +32,7 @@
 | 8/17/2022 | PDP10514 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
 | 8/11/2022 | PDP39385 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 8/11/2022 | PDP40044 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 8/11/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/2/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 7/29/2022 | PDP31681 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 7/29/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

@@ -36,3 +36,4 @@
 | 8/30/2022 | PDP05152 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/30/2022 | PDP11019 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 8/30/2022 | PDP38997 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 7/21/2022 | PDP38388 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

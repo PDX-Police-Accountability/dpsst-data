@@ -28,3 +28,4 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2022 | M10-22A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
 | 8/16/2022 | PDP00776 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 8/16/2022 | PDP38388 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
