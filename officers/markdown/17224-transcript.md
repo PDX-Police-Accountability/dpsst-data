@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 8/3/2004 |  |
 | Code of Ethics | Signed | 8/3/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |
+| 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU07156 | Wellness Fall In-Service 2022 | Passed | 0.0 | 1.00 |
+| 10/15/2022 | HSU11555 | Instructor In Service Firearms | Passed | 0.0 | 4.00 |
+| 10/9/2022 | HSU14560 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/17/2022 | HSU13145 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/16/2022 | HSU37407 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/10/2022 | HSU24076 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/9/2022 | HSU21000 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
 | 8/15/2022 | HSU12046 | Naloxone Application | Instructed | 0.0 | 1.00 |
 | 8/15/2022 | HSU23055 | Post Academy Active Threat | Instructed | 0.0 | 6.00 |
 | 7/24/2022 | HSU03125 | July 2022 Supplemental Range | Instructed | 0.0 | 2.00 |

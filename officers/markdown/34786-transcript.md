@@ -160,7 +160,7 @@
 | 9/6/2019 | MNS01831 | Supervisor Meeting | Instructed | 0.0 | 2.00 |
 | 8/31/2019 | MNS04604 | DPSST Ethics Bulletin Volumes 187, 188  189 | Passed | 0.0 | 0.50 |
 | 8/26/2019 | MNS38851 | Supervisor Meeting | Instructed | 0.0 | 2.00 |
-| 7/7/2019 | MNS07181 | MILO RANGE |  | 0.0 | 0.50 |
+| 7/7/2019 | MNS07181 | MILO RANGE | Passed | 0.0 | 0.50 |
 | 7/1/2019 | MNS35300 | Use of Force Incident Review | Passed | 0.0 | 1.00 |
 | 6/30/2019 | MNS42654 | 2019 Annual Jail Policy Review | Passed | 0.0 | 9.00 |
 | 6/27/2019 | MNS14265 | Statistical Transparency of Policing (STOP) | Passed | 0.0 | 0.50 |

@@ -4,7 +4,7 @@
 | name | Ossenkop, Brian D. |
 | dpsst_identifier | 28330 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Assistant Chief |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 10/17/2022 | Port of Portland Police Department | Hired | Captain |  |  |
+| 10/12/2022 | Portland Police Bureau | Retired | Asst Chief |  |  |
 | 9/2/2021 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 5/21/2020 | Portland Police Bureau | Promotion | Commander |  |  |
 | 6/22/2018 | Portland Police Bureau | Promotion | Captain |  |  |
@@ -35,9 +36,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 ## Education
 | date | degree | school | major | hours |

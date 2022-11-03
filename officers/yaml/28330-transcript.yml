@@ -3,7 +3,7 @@ header_record:
   name: Ossenkop, Brian D.
   dpsst_identifier: '28330'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Assistant Chief
   level: ''
   classification: ''
@@ -13,6 +13,12 @@ employment_records:
   agency: Port of Portland Police Department
   action: Hired
   rank: Captain
+  classification: ''
+  assignment: ''
+- date: 10/12/2022
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Asst Chief
   classification: ''
   assignment: ''
 - date: 9/2/2021
@@ -3884,18 +3890,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021

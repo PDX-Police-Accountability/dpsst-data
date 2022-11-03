@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/20/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 4/20/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +44,7 @@
 | 9/15/2022 | BNP33682 | Bola Wrap Familiarization/Certification | Passed | 0.0 | 0.50 |
 | 9/15/2022 | BNP39459 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 7/24/2022 | BNP43261 | Search and Seizure | Passed | 0.0 | 1.50 |
+| 7/14/2022 | BNP34385 | UAS Drone Mapping  Dronesense | Passed | 0.0 | 4.00 |
 | 6/2/2022 | BNP44068 | Active Threat Response | Passed | 0.0 | 3.00 |
 | 6/2/2022 | BNP34117 | OC Recertification | Passed | 0.0 | 0.50 |
 | 6/2/2022 | BNP19784 | 40MM Recertification | Passed | 0.0 | 0.50 |
@@ -76,6 +72,7 @@
 | 9/20/2021 | BNP19554 | Interview Interrogation Training | Passed | 0.0 | 8.00 |
 | 9/13/2021 | F6F42954 | In-Service Training | Passed | 0.0 | 5.50 |
 | 9/13/2021 | F6F40284 | In-Service Mental Health | Passed | 0.0 | 0.50 |
+| 8/27/2021 | BNP01546 | Wellness: Yoga - August | Passed | 0.0 | 4.00 |
 | 8/6/2021 | F6E25078 | DUII Refresher Course | Passed | 0.0 | 4.00 |
 | 7/31/2021 | BNP25248 | Wellness; Yoga - July 2021 | Passed | 0.0 | 2.00 |
 | 6/22/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

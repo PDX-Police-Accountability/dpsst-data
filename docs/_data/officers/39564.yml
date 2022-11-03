@@ -299,6 +299,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/14/2022
+  course: PDP02322
+  title: Standardized Field Sobriety Test Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/12/2022
   course: PDP38945
   title: 2021-11 CAO Legal Updates for November 2021
@@ -4469,14 +4475,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -4484,14 +4482,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/29/2021
   expiration_date: 6/29/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2021
-  expiration_date: 6/29/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/11/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/11/2000

@@ -30,12 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -76,7 +72,6 @@
 | 8/3/2020 | F6D25090 | Crisis Intervention and De-escalation | Passed | 0.0 | 1.00 |
 | 7/22/2020 | F6D34258 | Review of New Laws Re: Police Accountability . | Passed | 0.0 | 0.50 |
 | 7/16/2020 | F6D08852 | 2020 ICCR Update | Passed | 0.0 | 1.00 |
-| 7/1/2020 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/24/2020 | F6D37779 | Range/ MRT | Passed | 0.0 | 8.00 |
 | 4/24/2020 | F6D03424 | Range | Passed | 0.0 | 2.00 |
 | 4/1/2020 | F6D03758 | MRT Refresher | Passed | 0.0 | 0.75 |

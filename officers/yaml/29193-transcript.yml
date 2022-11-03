@@ -58,40 +58,40 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 5/5/2022
-  certificate: Police Officer
-  level: Management
-  status: Granted
-  certificate_date: 5/5/2022
-  expiration_date: 10/21/2022
-  probation_date: ''
-- status_date: 5/5/2022
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 5/5/2022
-  expiration_date: 10/21/2022
-  probation_date: ''
-- status_date: 3/17/2011
+- status_date: 10/21/2022
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 3/17/2011
-  expiration_date: 10/21/2022
+  expiration_date: 7/21/2027
   probation_date: ''
-- status_date: 3/17/2011
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 3/17/2011
-  expiration_date: 10/21/2022
-  probation_date: ''
-- status_date: 12/28/1994
+- status_date: 10/21/2022
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 12/28/1994
-  expiration_date: 10/21/2022
+  expiration_date: 7/21/2027
+  probation_date: ''
+- status_date: 10/21/2022
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 3/17/2011
+  expiration_date: 7/21/2027
+  probation_date: ''
+- status_date: 10/21/2022
+  certificate: Police Officer
+  level: Management
+  status: Lapsed
+  certificate_date: 5/5/2022
+  expiration_date: 7/21/2027
+  probation_date: ''
+- status_date: 10/21/2022
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 5/5/2022
+  expiration_date: 7/21/2027
   probation_date: ''
 training_records:
 - date: 7/18/2022
@@ -3455,18 +3455,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/18/2021
   expiration_date: 6/18/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/17/2011

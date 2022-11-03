@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/1/2022 | Portland Police Bureau | Return LOA | Detective |  |  |
 | 12/13/2021 | Portland Police Bureau | LOA | Detective |  |  |
 | 10/18/2018 | Portland Police Bureau | Promotion | Detective |  |  |
 | 12/8/2011 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -24,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 3/5/2013 |  |
 | Code of Ethics | Signed | 3/5/2013 |  |
 ## Education
 | date | degree | school | major | hours |

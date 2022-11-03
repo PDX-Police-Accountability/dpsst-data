@@ -81,12 +81,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 2/3/2023
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 9/20/2022
   course: PDP02219
   title: DIR 0850.20 Police Response to MH Crisis
@@ -3578,14 +3572,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/20/2021
-  expiration_date: 5/20/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/20/2021
@@ -3594,14 +3580,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/30/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/30/2002

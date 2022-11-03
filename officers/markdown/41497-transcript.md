@@ -4,7 +4,7 @@
 | name | Sickon, Bridget M. |
 | dpsst_identifier | 41497 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/17/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/17/2018 | Portland Police Bureau | LOA | Police Off |  |  |
 | 4/5/2016 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 9/1/2015 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -21,19 +22,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 |  |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 |  |  |
-| 11/13/2002 | Police Officer | Basic | Granted | 11/13/2002 |  |  |
+| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 | 1/17/2023 |  |
+| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 1/17/2023 |  |
+| 11/13/2002 | Police Officer | Basic | Granted | 11/13/2002 | 1/17/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | First Aid/CPR Required | 10/11/2022 | 10/11/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 10/11/2022 | 10/11/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 12/11/2001 |  |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |

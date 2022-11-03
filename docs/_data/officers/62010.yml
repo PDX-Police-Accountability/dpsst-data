@@ -48,6 +48,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 10/27/2022
+  course: PDP37771
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/20/2022
   course: PDP33927
   title: 2021 Online In-Service DIR 870.25 Holding Rooms
@@ -156,5 +162,17 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 3/13/2016
+  course: PDP37433
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/26/2016
+  course: PDP15445
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records: []
 education_records: []

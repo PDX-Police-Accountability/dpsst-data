@@ -31,9 +31,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
-| Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 ## Education
@@ -43,6 +40,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2022 | HSU13319 | EVO Fall In-Service 2022 | Instructed | 0.0 | 2.00 |
+| 10/21/2022 | HSU07156 | Wellness Fall In-Service 2022 | Passed | 0.0 | 1.00 |
+| 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |
+| 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/16/2022 | HSU43777 | Defensive Tactics Fall In-Service 2022 | Passed | 0.0 | 3.00 |
+| 10/16/2022 | HSU13319 | EVO Fall In-Service 2022 | Instructed | 0.0 | 2.00 |
+| 10/15/2022 | HSU11555 | Instructor In Service Firearms | Passed | 0.0 | 4.00 |
 | 4/4/2022 | HSU23021 | CPR Spring In-Service 2022_2 | Passed | 0.0 | 4.00 |
 | 4/3/2022 | HSU32901 | PVO Spring In-Service 2022 | Instructed | 0.0 | 2.50 |
 | 3/26/2022 | HSU04230 | Instructor In-Service Firearms Spring 2022 | Passed | 0.0 | 4.00 |

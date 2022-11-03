@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/31/2022
+  course: OCP01389
+  title: Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/30/2022
   course: OCP44010
   title: Marijuana Impaired Driving Briefing Training
@@ -946,7 +952,7 @@ training_records:
 - date: 12/10/2018
   course: F6D12872
   title: Radio Communications and BOEC Familiarization
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '0.50'
 - date: 12/10/2018
@@ -1270,18 +1276,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 9/12/2021
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/12/2021
@@ -1290,21 +1284,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/12/2021
   expiration_date: 1/12/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/12/2021
-  expiration_date: 1/12/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/31/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/31/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/6/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

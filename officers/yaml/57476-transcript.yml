@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2022
+  course: PDP14521
+  title: Interview  Interrogation Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/13/2022
   course: OCS39395
   title: Interview and Interrogation
@@ -1917,18 +1923,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/24/2021
-  expiration_date: 5/24/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/24/2021
@@ -1936,14 +1930,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/17/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/17/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/17/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

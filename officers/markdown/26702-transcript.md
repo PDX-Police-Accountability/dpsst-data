@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -57,7 +53,6 @@
 | 8/3/2020 | F6D06097 | CPR/ First Aid / AED | Passed | 0.0 | 0.50 |
 | 8/3/2020 | F6D25939 | CPR/ First Aid / AED | Passed | 0.0 | 1.00 |
 | 7/16/2020 | F6D08852 | 2020 ICCR Update | Passed | 0.0 | 1.00 |
-| 7/1/2020 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 2/12/2020 | HBS04011 | CNU Training | Passed | 0.0 | 7.00 |
 | 2/5/2020 | F6D29108 | Patrol Tactics | Passed | 0.0 | 4.00 |
 | 2/5/2020 | F6D31491 | Search and Seizure | Passed | 0.0 | 3.00 |

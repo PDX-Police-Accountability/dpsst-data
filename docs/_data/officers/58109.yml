@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2022
+  course: PDP37189
+  title: Intoxylizer 8000 Certificate Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/30/2022
   course: PDP31358
   title: 2022-4 CAO Legal Updates for 04/2022
@@ -1932,14 +1938,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -1947,21 +1945,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/27/2021
   expiration_date: 6/27/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/27/2021
-  expiration_date: 6/27/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/23/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/23/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/10/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/13/2022 | 4/13/2024 |
-| Certification Cards | First Aid and CPR | 4/13/2022 | 4/13/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
-| Code of Ethics | Signed | 4/10/2001 |  |
 | Code of Ethics | Signed | 4/10/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +40,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2022 | HSU04608 | Firearms Fall In-Service 2022 | Instructed | 0.0 | 5.00 |
+| 10/21/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/21/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |
+| 10/21/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/21/2022 | HSU07156 | Wellness Fall In-Service 2022 | Passed | 0.0 | 1.00 |
+| 10/16/2022 | HSU04608 | Firearms Fall In-Service 2022 | Instructed | 0.0 | 5.00 |
+| 10/15/2022 | HSU11555 | Instructor In Service Firearms | Passed | 0.0 | 4.00 |
+| 10/9/2022 | HSU14560 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/17/2022 | HSU13145 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/16/2022 | HSU37407 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/10/2022 | HSU24076 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
+| 9/9/2022 | HSU21000 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
 | 7/14/2022 | WBP20400 | Pistol Mounted Optics Instructor course | Passed | 0.0 | 24.00 |
 | 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Passed | 0.0 | 3.00 |
 | 5/18/2022 | 22-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |

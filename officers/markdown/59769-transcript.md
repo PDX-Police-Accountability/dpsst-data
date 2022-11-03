@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
-| Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
-| Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/6/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/6/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +32,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |
+| 10/17/2022 | HSU07156 | Wellness Fall In-Service 2022 | Passed | 0.0 | 1.00 |
+| 10/16/2022 | HSU04608 | Firearms Fall In-Service 2022 | Passed | 0.0 | 5.00 |
+| 10/16/2022 | HSU13319 | EVO Fall In-Service 2022 | Passed | 0.0 | 2.00 |
+| 10/16/2022 | HSU43777 | Defensive Tactics Fall In-Service 2022 | Passed | 0.0 | 3.00 |
 | 10/7/2022 | PPP21848 | Advanced Patrol Tactics | Passed | 0.0 | 8.00 |
 | 7/24/2022 | HSU03125 | July 2022 Supplemental Range | Passed | 0.0 | 2.00 |
 | 5/22/2022 | HSU03285 | May 2022 Supplemental Range | Passed | 0.0 | 3.00 |

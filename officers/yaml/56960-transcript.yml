@@ -54,12 +54,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
-- date: 4/27/2022
-  course: HBN34087
-  title: Officer Safety / Field Work Training and Scenarios
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
 - date: 11/30/2021
   course: F6K04474
   title: Third Trimester Firearms

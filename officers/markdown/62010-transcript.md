@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/23/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/7/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 10/27/2022 | PDP37771 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 7/20/2022 | PDP33927 | 2021 Online In-Service DIR 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/20/2022 | PDP02010 | DIR 640.38, Interacting w Members of the LGBTQ | Passed | 0.0 | 0.25 |
 | 7/19/2022 | PDP44630 | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
@@ -48,3 +49,5 @@
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |
 | 7/22/2021 | PDP35087 | 2021 FTEP Pre-DPSST Use of Force Class | Passed | 0.0 | 0.50 |
 | 7/20/2021 | PDP14760 | 2021 FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
+| 3/13/2016 | PDP37433 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
+| 2/26/2016 | PDP15445 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

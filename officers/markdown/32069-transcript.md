@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2022 | REG12825 | Weapon Retention | Passed | 0.0 | 1.00 |
+| 10/20/2022 | REG09502 | Weapon Retention Standing/Ground | Passed | 0.0 | 1.00 |
 | 10/17/2022 | REG21426 | Weapon Retention Standing/Ground | Passed | 0.0 | 1.00 |
 | 10/3/2022 | REG06408 | Defending Strikes from the Ground | Passed | 0.0 | 1.00 |
 | 10/1/2022 | HBS07264 | ARIDE | Passed | 0.0 | 16.00 |

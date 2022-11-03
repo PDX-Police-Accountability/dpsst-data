@@ -74,6 +74,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2022
+  course: HSU04608
+  title: Firearms Fall In-Service 2022
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/21/2022
+  course: HSU33827
+  title: Airway TRN Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/21/2022
+  course: HSU02725
+  title: Active Threat Refresher Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/21/2022
+  course: HSU32547
+  title: Chief's Ethics Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/21/2022
+  course: HSU07156
+  title: Wellness Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2022
+  course: HSU04608
+  title: Firearms Fall In-Service 2022
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/15/2022
+  course: HSU11555
+  title: Instructor In Service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/9/2022
+  course: HSU14560
+  title: Patrol Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/17/2022
+  course: HSU13145
+  title: Patrol Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/16/2022
+  course: HSU37407
+  title: Patrol Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/10/2022
+  course: HSU24076
+  title: Patrol Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/9/2022
+  course: HSU21000
+  title: Patrol Rifle Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/14/2022
   course: WBP20400
   title: Pistol Mounted Optics Instructor course
@@ -6661,18 +6733,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/13/2022
   expiration_date: 4/13/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/13/2022
-  expiration_date: 4/13/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -6684,14 +6744,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/24/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/24/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/10/2001
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

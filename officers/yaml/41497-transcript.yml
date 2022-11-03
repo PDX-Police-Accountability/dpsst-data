@@ -3,12 +3,18 @@ header_record:
   name: Sickon, Bridget M.
   dpsst_identifier: '41497'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/17/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/17/2018
   agency: Portland Police Bureau
   action: LOA
@@ -51,21 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 1/17/2023
   probation_date: ''
 - status_date: 11/23/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 1/17/2023
   probation_date: ''
 - status_date: 11/13/2002
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/13/2002
-  expiration_date: ''
+  expiration_date: 1/17/2023
   probation_date: ''
 training_records:
 - date: 12/31/2020
@@ -1334,14 +1340,6 @@ attribute_records:
   effective_date: 10/11/2022
   expiration_date: 10/11/2022
 - topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 10/11/2022
-  expiration_date: 10/11/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -1349,14 +1347,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/11/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/11/2001

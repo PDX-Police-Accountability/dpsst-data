@@ -36,6 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 10/27/2022
+  course: PDP37433
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/27/2022
+  course: PDP37771
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2022
+  course: PDP15445
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/6/2022
   course: PDP38388
   title: DOJ Settlement Agreement

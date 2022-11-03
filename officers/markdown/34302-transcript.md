@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/28/2000 |  |
 | Code of Ethics | Signed | 8/28/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 5/25/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
+| 4/21/2022 | GSP21415 | Forensic Accident Reconstructionists of Oregon | Passed | 0.0 | 24.00 |
 | 1/5/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | GSP11619 | 2021 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/15/2021 | GSP08272 | 2021 Ethics In Service | Passed | 0.0 | 1.00 |
@@ -55,6 +52,7 @@
 | 9/14/2021 | BPT39200 | Police Traffic Safety Conference 2021 | Passed | 0.0 | 12.00 |
 | 6/16/2021 | F6E40624 | Police Motorcycle Training - West Metro Training | Passed | 0.0 | 5.00 |
 | 3/26/2021 | GSP07430 | 2021 Spring Firearms Inservice | Passed | 0.0 | 10.00 |
+| 2/4/2021 | GSP25196 | Oregon Update: Measure 101, DUII, Search  Seizure | Passed | 0.0 | 3.00 |
 | 1/12/2021 | GSP05336 | CPR and First Aid | Passed | 0.0 | 8.00 |
 | 1/6/2021 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2020 | GSP35136 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
@@ -64,8 +62,10 @@
 | 9/23/2020 | F6D06879 | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 7/9/2020 | TGP20475 | Police Motors Training | Passed | 0.0 | 7.00 |
 | 7/2/2020 | GSP03476 | PVO Inservice | Passed | 0.0 | 10.00 |
+| 7/1/2020 | GSP37236 | Implied Consent Webinar | Passed | 0.0 | 1.00 |
 | 5/20/2020 | GSP15239 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 5/20/2020 | GSP10796 | SFST Refresher Webinar | Passed | 0.0 | 4.00 |
+| 4/23/2020 | GSP20066 | Duii case law update webinar | Passed | 0.0 | 2.00 |
 | 4/6/2020 | MISCMAIN | 2020 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/12/2020 | TGP35690 | Police motors training | Passed | 0.0 | 8.00 |
 | 2/19/2020 | F6D21241 | Police Motors | Passed | 0.0 | 6.00 |

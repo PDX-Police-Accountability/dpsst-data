@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2022
+  course: PDP44475
+  title: 'SERT: Control Entry Search Warrants Training'
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 9/22/2022
   course: PDP25459
   title: 'SERT: Breaching, HRT, Gas Familiarization'
@@ -1244,14 +1250,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 10/11/2022
-  expiration_date: 10/11/2022
-- topic: Maintenance Requirements
   value: First Aid/CPR Required
   effective_date: 10/11/2022
   expiration_date: 10/11/2022
@@ -1261,20 +1259,8 @@ attribute_records:
   expiration_date: 9/8/2022
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
-  effective_date: 9/8/2022
-  expiration_date: 9/8/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
   effective_date: 7/6/2022
   expiration_date: 7/6/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 7/6/2022
-  expiration_date: 7/6/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -1282,14 +1268,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/2/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/2/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/18/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

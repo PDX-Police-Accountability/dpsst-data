@@ -36,5 +36,23 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 10/28/2022
+  course: PDP12513
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/27/2022
+  course: PDP43959
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/26/2022
+  course: PDP04111
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 attribute_records: []
 education_records: []

@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/28/2021 | 5/28/2023 |
 | Certification Cards | First Aid and CPR | 5/28/2021 | 5/28/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/17/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/17/2021 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/8/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -63,6 +58,7 @@
 | 4/26/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/24/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/24/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
+| 4/14/2022 | PDP02322 | Standardized Field Sobriety Test Training | Passed | 0.0 | 6.00 |
 | 4/10/2022 | PDP00396 | 2022 Advanced Shotgun Operator PowerPoint | Passed | 0.0 | 0.75 |
 | 4/4/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/4/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |

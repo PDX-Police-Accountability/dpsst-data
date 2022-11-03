@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/27/2001 |  |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2022 | EGP31826 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 7.00 |
 | 10/26/2022 | EGP21546 | ETHOS:  Ethics | Passed | 0.0 | 3.00 |
 | 10/26/2022 | EGP19375 | ETHOS:  Leadership | Passed | 0.0 | 3.00 |
 | 10/19/2022 | EGP13229 | Vehicle Use of Force - Decision Making | Passed | 0.0 | 3.50 |

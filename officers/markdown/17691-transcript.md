@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 1/15/2021 | 1/15/2023 |
-| Certification Cards | First Aid and CPR | 1/15/2021 | 1/15/2023 |
-| Code of Ethics | Signed | 3/29/2006 |  |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -66,7 +62,7 @@
 | 10/1/2021 | F6F27134 | Legal Update: HB 3265, HB 3164, Box Us. Oregon | Passed | 0.0 | 1.00 |
 | 7/29/2021 | MNS32123 | Heat Illness Prevention | Passed | 0.0 | 0.50 |
 | 6/4/2021 | MNS20329 | Handcuffing / Restraint Placement | Passed | 0.0 | 1.00 |
-| 4/23/2021 | MNS00105 | Oregon Measure 110 Legal Update |  | 0.0 | 1.00 |
+| 4/23/2021 | MNS00105 | Oregon Measure 110 Legal Update | Passed | 0.0 | 1.00 |
 | 4/21/2021 | MNS24359 | Firearms Training, handgun, rifle, shotgun | Passed | 0.0 | 2.00 |
 | 4/5/2021 | MNS07546 | Yamhill County Handbook and County Policy Review | Passed | 0.0 | 2.00 |
 | 3/15/2021 | MNS37814 | Weapons Retention | Passed | 0.0 | 0.50 |
@@ -131,7 +127,7 @@
 | 10/14/2019 | MNS11403 | Trauma First Aid | Passed | 0.0 | 2.00 |
 | 8/21/2019 | MNS17396 | Search and Seizure Update | Passed | 0.0 | 2.00 |
 | 8/19/2019 | MNS03664 | Ethics Bulletin #187, 188 and 189 | Passed | 0.0 | 0.50 |
-| 7/7/2019 | MNS07181 | MILO RANGE |  | 0.0 | 0.50 |
+| 7/7/2019 | MNS07181 | MILO RANGE | Passed | 0.0 | 0.50 |
 | 6/10/2019 | MNS32589 | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 6/10/2019 | MNS16518 | Optional Firearms Skill Range | Passed | 0.0 | 2.00 |
 | 6/9/2019 | MNS14265 | Statistical Transparency of Policing (STOP) | Passed | 0.0 | 0.50 |

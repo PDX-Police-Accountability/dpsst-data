@@ -27,15 +27,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
 | Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
-| Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Signed | 10/6/2017 |  |
 | Code of Ethics | Signed | 10/6/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/13/2022 | OCP31548 | LEDS Training | Passed | 0.0 | 1.00 |
 | 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
+| 8/31/2022 | OCP01389 | Search and Seizure | Passed | 0.0 | 1.50 |
 | 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Passed | 0.0 | 0.50 |
 | 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
@@ -191,7 +186,7 @@
 | 4/4/2019 | HBN40705 | P.O. School- Motivational Interviewing | Passed | 0.0 | 3.00 |
 | 2/6/2019 | F6D24345 | ConSim | Passed | 0.0 | 3.50 |
 | 2/6/2019 | F6D04529 | Defensive Tactics | Passed | 0.0 | 3.50 |
-| 12/10/2018 | F6D12872 | Radio Communications and BOEC Familiarization |  | 0.0 | 0.50 |
+| 12/10/2018 | F6D12872 | Radio Communications and BOEC Familiarization | Passed | 0.0 | 0.50 |
 | 12/10/2018 | F6D37459 | Workday Basics | Passed | 0.0 | 0.50 |
 | 11/14/2018 | F6D22668 | Bias  Diversity Training | Passed | 0.0 | 7.00 |
 | 9/20/2018 | F6B12356 | Firearms Training | Passed | 0.0 | 5.00 |
