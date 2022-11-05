@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '58984'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Sergeant
+  rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/20/2022
+  agency: Portland Police Bureau
+  action: Demotn Vol
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/17/2022
   agency: Portland Police Bureau
   action: Promotion
@@ -42,12 +48,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 3/17/2023
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 9/26/2022
   course: PDP38854
   title: 2022-3 CAO Legal Updates for 03/2022

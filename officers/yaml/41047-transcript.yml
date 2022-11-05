@@ -22,6 +22,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 11/3/2022
+  certificate: Instructor
+  level: ''
+  status: Granted
+  certificate_date: 11/3/2022
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/29/2010
   certificate: Police Officer
   level: Advanced
@@ -5195,26 +5202,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/1/2021
   expiration_date: 6/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/8/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/8/2001

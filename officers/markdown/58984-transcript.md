@@ -5,13 +5,14 @@
 | dpsst_identifier | 58984 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Police Officer |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/20/2022 | Portland Police Bureau | Demotn Vol | Police Off |  |  |
 | 3/17/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/22/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/15/2018 | Out of State Employment | Resigned | Police Off |  |  |
@@ -35,7 +36,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/26/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |

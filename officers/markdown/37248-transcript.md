@@ -22,13 +22,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/29/2021 | 5/29/2023 |
-| Certification Cards | First Aid and CPR | 5/29/2021 | 5/29/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 4/2/2001 |  |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
 | Code of Ethics | Signed | 4/2/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/21/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
 | 9/21/2022 | PDP25389 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 9/21/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |

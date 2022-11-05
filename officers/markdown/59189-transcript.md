@@ -20,9 +20,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 10/30/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2018 |  |
 ## Education
@@ -31,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/23/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |

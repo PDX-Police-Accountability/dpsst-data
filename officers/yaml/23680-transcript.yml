@@ -40,6 +40,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/31/2022
+  certificate: Regulatory Specialist
+  level: Basic
+  status: Lapsed
+  certificate_date: 11/5/2018
+  expiration_date: 7/31/2027
+  probation_date: ''
 - status_date: 5/14/2020
   certificate: Police Officer
   level: Advanced
@@ -67,13 +74,6 @@ certification_records:
   status: Expired
   certificate_date: 3/25/2009
   expiration_date: ''
-  probation_date: ''
-- status_date: 11/5/2018
-  certificate: Regulatory Specialist
-  level: Basic
-  status: Granted
-  certificate_date: 11/5/2018
-  expiration_date: 10/31/2022
   probation_date: ''
 training_records:
 - date: 6/1/2022

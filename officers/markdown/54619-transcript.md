@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 1/11/2016 |  |
-| Code of Ethics | Signed | 1/11/2016 |  |
-| Code of Ethics | Signed | 7/16/2015 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2022 | HBP19448 | Weapon Retention, DT Refresher, Force Response | Passed | 0.0 | 1.00 |
 | 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
 | 7/20/2022 | HBP17844 | EVOC | Passed | 0.0 | 1.00 |
 | 6/22/2022 | HBP00888 | Range/Force and Tactics | Passed | 0.0 | 7.00 |

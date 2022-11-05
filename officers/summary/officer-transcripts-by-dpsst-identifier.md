@@ -1254,7 +1254,7 @@
 | Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | LOA | 2021-06-16 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
 | Bailey, Richard D. | 55393 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55393-transcript.md) - [yaml](../yaml/55393-transcript.yml) |
 | Potter, Ryan A. | 55447 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55447-transcript.md) - [yaml](../yaml/55447-transcript.yml) |
-| Harper, Ross C. | 55511 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-14 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
+| Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Kingen, Avalon M. | 55512 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55512-transcript.md) - [yaml](../yaml/55512-transcript.yml) |
 | Lessman, Eric R. | 55513 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55513-transcript.md) - [yaml](../yaml/55513-transcript.yml) |
 | Jones, Nathaniel P. | 55553 | Portland Police Bureau | Active | Police Officer | Hired | 2016-01-14 | [md](../markdown/55553-transcript.md) - [yaml](../yaml/55553-transcript.yml) |
@@ -1418,7 +1418,7 @@
 | Schroeder, Shawn R. | 58932 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58932-transcript.md) - [yaml](../yaml/58932-transcript.yml) |
 | Ollenbrook, Alexis S. | 58940 | Portland Police Bureau | Active | Police Officer | LOA | 2022-03-10 | [md](../markdown/58940-transcript.md) - [yaml](../yaml/58940-transcript.yml) |
 | Babusis, Vytas P. | 58979 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-17 | [md](../markdown/58979-transcript.md) - [yaml](../yaml/58979-transcript.yml) |
-| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
+| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Police Officer | Demotn Vol | 2022-10-20 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Miron, Elena R. | 59009 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-19 | [md](../markdown/59009-transcript.md) - [yaml](../yaml/59009-transcript.yml) |
 | Hoffman, Michael T. | 59046 | Portland Police Bureau | Active | Police Officer | Hired | 2018-08-22 | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Araujo-Garivo, Noe J. | 59065 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2019-12-04 | [md](../markdown/59065-transcript.md) - [yaml](../yaml/59065-transcript.yml) |

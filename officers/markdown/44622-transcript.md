@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 11/5/2020 | 11/5/2022 |
-| Certification Cards | First Aid and CPR | 11/5/2020 | 11/5/2022 |
-| Code of Ethics | Signed | 1/23/2006 |  |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2022 | OSH01793 | 3rd Tri Low Light Firearms | Instructed | 0.0 | 4.00 |
+| 10/19/2022 | OSH13477 | 3rd Tri Low Light Firearms | Instructed | 0.0 | 4.00 |
 | 10/14/2022 | OSH42347 | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
 | 10/13/2022 | OSH08653 | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
 | 9/16/2022 | OSH37404 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |

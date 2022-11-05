@@ -27,9 +27,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/1/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/1/2022 | 3/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 ## Education
@@ -39,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2022 | TGP21919 | ROVT Operator Training | Instructed | 0.0 | 1.50 |
 | 9/26/2022 | TGP42147 | Fall Firearms Training | Instructed | 0.0 | 8.00 |
 | 9/22/2022 | TGP42147 | Fall Firearms Training | Instructed | 0.0 | 8.00 |
 | 9/19/2022 | TGP42147 | Fall Firearms Training | Instructed | 0.0 | 8.00 |

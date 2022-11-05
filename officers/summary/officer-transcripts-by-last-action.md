@@ -9,6 +9,7 @@
 | Shirahama, Grant T. | 41300 | Portland Police Bureau | Inactive | Police Officer | Deceased | 2018-08-23 | [md](../markdown/41300-transcript.md) - [yaml](../yaml/41300-transcript.yml) |
 | Sessions, Timothy E. | 21772 | Portland Police Bureau | Active | Sergeant | Demotion | 2008-06-04 | [md](../markdown/21772-transcript.md) - [yaml](../yaml/21772-transcript.yml) |
 | Hensey, Jason R. | 42309 | Portland Police Bureau | Active | Police Officer | Demotion | 2016-10-01 | [md](../markdown/42309-transcript.md) - [yaml](../yaml/42309-transcript.yml) |
+| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Police Officer | Demotn Vol | 2022-10-20 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Watson, Steven E. | 21400 | Portland Police Bureau | Inactive | Dispatcher | Discharged | 1989-09-26 | [md](../markdown/21400-transcript.md) - [yaml](../yaml/21400-transcript.yml) |
 | Evans, Timmy | 29606 | Portland Police Bureau | Inactive | Police Officer | Discharged | 2018-05-10 | [md](../markdown/29606-transcript.md) - [yaml](../yaml/29606-transcript.yml) |
 | Budke, John G. | 32403 | Portland Police Bureau | Inactive | Reserve Officer | Discharged | 2008-06-18 | [md](../markdown/32403-transcript.md) - [yaml](../yaml/32403-transcript.yml) |
@@ -371,6 +372,7 @@
 | Trummer, Daniel Y. | 55317 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55317-transcript.md) - [yaml](../yaml/55317-transcript.yml) |
 | Bailey, Richard D. | 55393 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55393-transcript.md) - [yaml](../yaml/55393-transcript.yml) |
 | Potter, Ryan A. | 55447 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55447-transcript.md) - [yaml](../yaml/55447-transcript.yml) |
+| Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Jones, Nathaniel P. | 55553 | Portland Police Bureau | Active | Police Officer | Hired | 2016-01-14 | [md](../markdown/55553-transcript.md) - [yaml](../yaml/55553-transcript.yml) |
 | Buxman, Ian M. | 55591 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/55591-transcript.md) - [yaml](../yaml/55591-transcript.yml) |
 | Nyone, Joshua B. | 55652 | Portland Police Bureau | Active | Police Officer | Hired | 2016-01-28 | [md](../markdown/55652-transcript.md) - [yaml](../yaml/55652-transcript.yml) |
@@ -880,7 +882,6 @@
 | Streed, Torrey R. | 54282 | Portland Police Bureau | Active | Detective | Promotion | 2022-03-17 | [md](../markdown/54282-transcript.md) - [yaml](../yaml/54282-transcript.yml) |
 | Flores-Chambers, Seth E. | 54378 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/54378-transcript.md) - [yaml](../yaml/54378-transcript.yml) |
 | Walz, Allison C. | 54454 | Portland Police Bureau | Active | Detective | Promotion | 2022-07-21 | [md](../markdown/54454-transcript.md) - [yaml](../yaml/54454-transcript.yml) |
-| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Mason, Christine S. | 20384 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 1990-10-11 | [md](../markdown/20384-transcript.md) - [yaml](../yaml/20384-transcript.yml) |
 | Geiger, Bert L. | 21285 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 2005-03-01 | [md](../markdown/21285-transcript.md) - [yaml](../yaml/21285-transcript.yml) |
 | Lewton, Ryan S. | 34674 | Portland Police Bureau | Active | Police Officer | Reclassed | 2001-08-16 | [md](../markdown/34674-transcript.md) - [yaml](../yaml/34674-transcript.yml) |
@@ -1158,7 +1159,6 @@
 | Gillingham, Nicholaas S. | 54919 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-31 | [md](../markdown/54919-transcript.md) - [yaml](../yaml/54919-transcript.yml) |
 | Smith, Michael A. | 54999 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-29 | [md](../markdown/54999-transcript.md) - [yaml](../yaml/54999-transcript.yml) |
 | Rethmeier, Taylor D. | 55243 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-07-30 | [md](../markdown/55243-transcript.md) - [yaml](../yaml/55243-transcript.yml) |
-| Harper, Ross C. | 55511 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-14 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Kingen, Avalon M. | 55512 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55512-transcript.md) - [yaml](../yaml/55512-transcript.yml) |
 | Lessman, Eric R. | 55513 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55513-transcript.md) - [yaml](../yaml/55513-transcript.yml) |
 | Phan, Huy Q. | 55562 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55562-transcript.md) - [yaml](../yaml/55562-transcript.yml) |

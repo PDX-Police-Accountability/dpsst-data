@@ -661,6 +661,7 @@
 | Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | LOA | 2021-06-16 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
 | Bailey, Richard D. | 55393 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55393-transcript.md) - [yaml](../yaml/55393-transcript.yml) |
 | Potter, Ryan A. | 55447 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55447-transcript.md) - [yaml](../yaml/55447-transcript.yml) |
+| Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Jones, Nathaniel P. | 55553 | Portland Police Bureau | Active | Police Officer | Hired | 2016-01-14 | [md](../markdown/55553-transcript.md) - [yaml](../yaml/55553-transcript.yml) |
 | Buxman, Ian M. | 55591 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/55591-transcript.md) - [yaml](../yaml/55591-transcript.yml) |
 | Nyone, Joshua B. | 55652 | Portland Police Bureau | Active | Police Officer | Hired | 2016-01-28 | [md](../markdown/55652-transcript.md) - [yaml](../yaml/55652-transcript.yml) |
@@ -753,7 +754,7 @@
 | Schaaf, Spencer D. | 58874 | Portland Police Bureau | Active | Police Officer | Hired | 2018-06-28 | [md](../markdown/58874-transcript.md) - [yaml](../yaml/58874-transcript.yml) |
 | Schroeder, Shawn R. | 58932 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58932-transcript.md) - [yaml](../yaml/58932-transcript.yml) |
 | Ollenbrook, Alexis S. | 58940 | Portland Police Bureau | Active | Police Officer | LOA | 2022-03-10 | [md](../markdown/58940-transcript.md) - [yaml](../yaml/58940-transcript.yml) |
-| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
+| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Police Officer | Demotn Vol | 2022-10-20 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Hoffman, Michael T. | 59046 | Portland Police Bureau | Active | Police Officer | Hired | 2018-08-22 | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Scannell, Colin C. | 59093 | Portland Police Bureau | Active | Police Officer | Hired | 2019-10-17 | [md](../markdown/59093-transcript.md) - [yaml](../yaml/59093-transcript.yml) |
 | Cavalli-Singer, Gelsomina M. | 59104 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-12 | [md](../markdown/59104-transcript.md) - [yaml](../yaml/59104-transcript.yml) |
@@ -1499,7 +1500,6 @@
 | Gillingham, Nicholaas S. | 54919 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-31 | [md](../markdown/54919-transcript.md) - [yaml](../yaml/54919-transcript.yml) |
 | Smith, Michael A. | 54999 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-29 | [md](../markdown/54999-transcript.md) - [yaml](../yaml/54999-transcript.yml) |
 | Rethmeier, Taylor D. | 55243 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-07-30 | [md](../markdown/55243-transcript.md) - [yaml](../yaml/55243-transcript.yml) |
-| Harper, Ross C. | 55511 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-14 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Kingen, Avalon M. | 55512 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55512-transcript.md) - [yaml](../yaml/55512-transcript.yml) |
 | Lessman, Eric R. | 55513 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55513-transcript.md) - [yaml](../yaml/55513-transcript.yml) |
 | Phan, Huy Q. | 55562 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/55562-transcript.md) - [yaml](../yaml/55562-transcript.yml) |

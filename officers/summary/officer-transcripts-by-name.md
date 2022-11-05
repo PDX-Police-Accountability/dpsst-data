@@ -211,7 +211,7 @@
 | Burns, Justin L. | 47103 | Portland Police Bureau | Active | Police Officer | Hired | 2006-07-06 | [md](../markdown/47103-transcript.md) - [yaml](../yaml/47103-transcript.yml) |
 | Burns, Sarah C. | 58108 | Portland Police Bureau | Active | Police Officer | Hired | 2017-10-19 | [md](../markdown/58108-transcript.md) - [yaml](../yaml/58108-transcript.yml) |
 | Burton, Bret A. | 43860 | Portland Police Bureau | Active | Sergeant | Promotion | 2014-09-25 | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
-| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
+| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Police Officer | Demotn Vol | 2022-10-20 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Butcher, Jennifer L. | 43484 | Portland Police Bureau | Active | Sergeant | Promotion | 2016-01-14 | [md](../markdown/43484-transcript.md) - [yaml](../yaml/43484-transcript.yml) |
 | Butcher, Kristine M. | 43866 | Portland Police Bureau | Active | Sergeant | Return LOA | 2020-11-23 | [md](../markdown/43866-transcript.md) - [yaml](../yaml/43866-transcript.yml) |
 | Butcher, Tad C. | 43089 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-01-26 | [md](../markdown/43089-transcript.md) - [yaml](../yaml/43089-transcript.yml) |
@@ -595,7 +595,7 @@
 | Harding, David N. | 52228 | Portland Police Bureau | Active | Police Officer | Hired | 2018-03-29 | [md](../markdown/52228-transcript.md) - [yaml](../yaml/52228-transcript.yml) |
 | Hardy, Javelin L. | 34055 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1998-09-03 | [md](../markdown/34055-transcript.md) - [yaml](../yaml/34055-transcript.yml) |
 | Harlan, Justin T. | 62974 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
-| Harper, Ross C. | 55511 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-14 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
+| Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Harris, Benjamin D. | 52171 | Portland Police Bureau | Active | Detective | Promotion | 2022-03-17 | [md](../markdown/52171-transcript.md) - [yaml](../yaml/52171-transcript.yml) |
 | Harris, Charles R. | 44438 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2019-09-03 | [md](../markdown/44438-transcript.md) - [yaml](../yaml/44438-transcript.yml) |
 | Harris, Derek A. | 47653 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-02 | [md](../markdown/47653-transcript.md) - [yaml](../yaml/47653-transcript.yml) |

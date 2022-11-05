@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Code of Ethics | Signed | 9/22/2011 |  |
 | Code of Ethics | Signed | 9/22/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,7 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
-| 11/7/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 11/7/2022 | 22-0026 | DPSST Middle Management | Cancelled | 0.0 | 0.00 |
 | 9/26/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |

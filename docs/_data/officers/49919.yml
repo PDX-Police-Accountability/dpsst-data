@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2022
+  course: HBP19448
+  title: Weapon Retention, DT Refresher, Force Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/22/2022
   course: HBP00888
   title: Range/Force and Tactics
@@ -2431,14 +2437,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -2446,14 +2444,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 12/31/2020
   expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/31/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/2/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/2/2008

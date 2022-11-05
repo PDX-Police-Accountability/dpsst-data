@@ -26,13 +26,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 11/28/2012 |  |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
 | Code of Ethics | Signed | 11/28/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 9/19/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/12/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/12/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |

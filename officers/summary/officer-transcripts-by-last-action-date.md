@@ -908,7 +908,6 @@
 | Baydala, Oleksiy P. | 56575 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/56575-transcript.md) - [yaml](../yaml/56575-transcript.yml) |
 | Arneson, Alexandra M. | 57246 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-05 | [md](../markdown/57246-transcript.md) - [yaml](../yaml/57246-transcript.yml) |
 | Saephanh, Justin | 57267 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-13 | [md](../markdown/57267-transcript.md) - [yaml](../yaml/57267-transcript.yml) |
-| Harper, Ross C. | 55511 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-14 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Tsukimura, Lance H. | 32308 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Budry, Richard J. | 37043 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/37043-transcript.md) - [yaml](../yaml/37043-transcript.yml) |
 | Buxman, Ian M. | 55591 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/55591-transcript.md) - [yaml](../yaml/55591-transcript.yml) |
@@ -1515,7 +1514,6 @@
 | Delong, Zachary S. | 52979 | Portland Police Bureau | Active | Detective | Promotion | 2022-03-17 | [md](../markdown/52979-transcript.md) - [yaml](../yaml/52979-transcript.yml) |
 | Amos, DeAndre D. | 52982 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/52982-transcript.md) - [yaml](../yaml/52982-transcript.yml) |
 | Streed, Torrey R. | 54282 | Portland Police Bureau | Active | Detective | Promotion | 2022-03-17 | [md](../markdown/54282-transcript.md) - [yaml](../yaml/54282-transcript.yml) |
-| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Nguyen, Vu D. | 62665 | Portland Police Bureau | Active | Police Officer | Hired | 2022-03-17 | [md](../markdown/62665-transcript.md) - [yaml](../yaml/62665-transcript.yml) |
 | Hern, Paul W. | 32396 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32396-transcript.md) - [yaml](../yaml/32396-transcript.yml) |
 | Blair, John C. | 32401 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32401-transcript.md) - [yaml](../yaml/32401-transcript.yml) |
@@ -1587,6 +1585,7 @@
 | Jackson, Jakhary J. | 51727 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-08 | [md](../markdown/51727-transcript.md) - [yaml](../yaml/51727-transcript.yml) |
 | Johnson, Jeremiah J. | 63120 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-09-15 | [md](../markdown/63120-transcript.md) - [yaml](../yaml/63120-transcript.yml) |
 | Darby, James P. | 32384 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-09-20 | [md](../markdown/32384-transcript.md) - [yaml](../yaml/32384-transcript.yml) |
+| Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Trapp, Todd D. | 56260 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/56260-transcript.md) - [yaml](../yaml/56260-transcript.yml) |
 | Keep, Hayden J. | 63210 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/63210-transcript.md) - [yaml](../yaml/63210-transcript.yml) |
 | Mire, Abbas M. | 63285 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/63285-transcript.md) - [yaml](../yaml/63285-transcript.yml) |
@@ -1616,5 +1615,6 @@
 | Roberts, Michael D. | 47891 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/47891-transcript.md) - [yaml](../yaml/47891-transcript.yml) |
 | Nett, James C. | 41052 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2022-10-14 | [md](../markdown/41052-transcript.md) - [yaml](../yaml/41052-transcript.yml) |
 | Sickon, Bridget M. | 41497 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-10-17 | [md](../markdown/41497-transcript.md) - [yaml](../yaml/41497-transcript.yml) |
+| Bush, Thomas S. | 58984 | Portland Police Bureau | Active | Police Officer | Demotn Vol | 2022-10-20 | [md](../markdown/58984-transcript.md) - [yaml](../yaml/58984-transcript.yml) |
 | Wang, Yixin | 63389 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63389-transcript.md) - [yaml](../yaml/63389-transcript.yml) |
 | Sell, Raleigh W. | 63392 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63392-transcript.md) - [yaml](../yaml/63392-transcript.yml) |
