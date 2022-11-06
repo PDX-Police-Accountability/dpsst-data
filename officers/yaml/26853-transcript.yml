@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2022
+  course: BPT36283
+  title: Annual LEOSA HR-218 Qualification (9mm)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/1/2022
   course: BPT23898
   title: Firearms Training

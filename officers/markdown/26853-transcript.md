@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2022 | BPT36283 | Annual LEOSA HR-218 Qualification (9mm) | Passed | 0.0 | 0.25 |
 | 2/1/2022 | BPT23898 | Firearms Training | Passed | 0.0 | 4.00 |
 | 10/19/2021 | REG11746 | Coaching  Feedback IDC | Passed | 0.0 | 2.00 |
 | 9/13/2019 | F6D09352 | Adult Learning Core | Passed | 0.0 | 2.00 |

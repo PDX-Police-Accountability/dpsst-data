@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/23/2022 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 5/30/2017 | Oregon Liquor and Cannabis Commission | Hired | RegSpec |  |  |
 | 4/28/2016 | Portland Police Bureau | Retired | Police Off |  |  |
 | 4/25/1991 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -46,6 +47,7 @@
 | 6/15/2022 | BPT31793 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/15/2022 | BPT10339 | Coaching and Feedback | Passed | 0.0 | 4.00 |
 | 6/15/2022 | MKL24792 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |
+| 6/15/2022 | MKL39637 | CORRECTED - MKL24792 | Passed | 0.0 | 8.00 |
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 5/26/2022 | MKL36110 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 5/4/2022 | MKL39734 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |

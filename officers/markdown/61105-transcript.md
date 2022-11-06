@@ -33,10 +33,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2022 | F1514112 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
+| 8/30/2022 | F1521738 | De-Escalation  Minimizing UOF | Passed | 0.0 | 2.00 |
+| 8/30/2022 | F1528247 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/30/2022 | F1507039 | HazMat Awareness Level | Passed | 0.0 | 2.00 |
 | 8/26/2022 | NGP16978 | Oregon SFST Refresher | Passed | 0.0 | 4.00 |
+| 8/26/2022 | F1509672 | Anti-Bias Trianing for LE | Passed | 0.0 | 2.00 |
 | 8/25/2022 | NGP44362 | Taser 7 user transition course | Passed | 0.0 | 4.00 |
 | 8/25/2022 | NGP31743 | Handcuffing  Restraints | Passed | 0.0 | 2.00 |
 | 8/25/2022 | NGP21069 | WRAP Restraint | Passed | 0.0 | 1.00 |
+| 8/25/2022 | F1513511 | Interacting with the Mentally Ill | Passed | 0.0 | 1.00 |
+| 8/25/2022 | F1521665 | Duty to Intercede | Passed | 0.0 | 1.00 |
+| 8/25/2022 | F1537878 | Force Response Decision Making | Passed | 0.0 | 4.00 |
 | 8/24/2022 | NGP09490 | Firearms Qualification | Passed | 0.0 | 5.50 |
 | 7/30/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/30/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |

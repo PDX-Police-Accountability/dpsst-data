@@ -36,12 +36,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2022
+  course: F1514112
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2022
+  course: F1521738
+  title: De-Escalation  Minimizing UOF
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/30/2022
+  course: F1528247
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2022
+  course: F1507039
+  title: HazMat Awareness Level
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/26/2022
   course: NGP16978
   title: Oregon SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/26/2022
+  course: F1509672
+  title: Anti-Bias Trianing for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/25/2022
   course: NGP44362
   title: Taser 7 user transition course
@@ -60,6 +90,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/25/2022
+  course: F1513511
+  title: Interacting with the Mentally Ill
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/25/2022
+  course: F1521665
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/25/2022
+  course: F1537878
+  title: Force Response Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/24/2022
   course: NGP09490
   title: Firearms Qualification

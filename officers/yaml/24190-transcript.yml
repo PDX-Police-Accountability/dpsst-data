@@ -94,6 +94,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/3/2019
+  course: PDP38097
+  title: ALERT International Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/27/2019
   course: PDP01504
   title: 2019-7 City Attorney's Office Legal Updates 7/2019

@@ -40,6 +40,7 @@
 | 10/9/2019 | PDP08055 | 2019 Chiefs Office SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |
 | 10/9/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |
 | 10/9/2019 | PDP09647 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |
+| 10/3/2019 | PDP38097 | ALERT International Conference | Passed | 0.0 | 24.00 |
 | 9/27/2019 | PDP01504 | 2019-7 City Attorney's Office Legal Updates 7/2019 | Passed | 0.0 | 0.25 |
 | 9/12/2019 | PDP40096 | 2019-2 CHO Force Inspector Updates for Q2 | Passed | 0.0 | 0.25 |
 | 9/11/2019 | PDP13537 | 2019 Training Public Safety Support Specialist Vid | Passed | 0.0 | 0.25 |

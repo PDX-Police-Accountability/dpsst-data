@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/23/2022
+  agency: DPSST Use Only
+  action: InstrApp
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 5/30/2017
   agency: Oregon Liquor and Cannabis Commission
   action: Hired
@@ -108,6 +114,12 @@ training_records:
 - date: 6/15/2022
   course: MKL24792
   title: Use of Force / Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/15/2022
+  course: MKL39637
+  title: CORRECTED - MKL24792
   status: Passed
   score: '0.0'
   hours: '8.00'

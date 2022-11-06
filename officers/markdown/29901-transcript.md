@@ -4,7 +4,7 @@
 | name | Roberts, Cory R. |
 | dpsst_identifier | 29901 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/27/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 8/9/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/8/1994 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/8/2019 | Police Officer | Supervisory | Granted | 8/8/2019 |  |  |
-| 6/12/1995 | Police Officer | Basic | Granted | 6/12/1995 |  |  |
+| 8/8/2019 | Police Officer | Supervisory | Granted | 8/8/2019 | 1/27/2023 |  |
+| 6/12/1995 | Police Officer | Basic | Granted | 6/12/1995 | 1/27/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

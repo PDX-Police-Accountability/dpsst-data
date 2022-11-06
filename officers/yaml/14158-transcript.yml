@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/15/2022
+  course: MKL39637
+  title: CORRECTED - MKL24792
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/2/2022
   course: MKL24792
   title: Use of Force / Defensive Tactics

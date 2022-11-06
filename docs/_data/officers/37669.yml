@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/6/2022
+  course: PDP03815
+  title: 'SERT: Breaching, HRT, Scenarios, Tech'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/30/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

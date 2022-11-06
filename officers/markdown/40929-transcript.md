@@ -42,6 +42,8 @@
 | 10/22/2022 | HSU04608 | Firearms Fall In-Service 2022 | Instructed | 0.0 | 5.00 |
 | 10/16/2022 | HSU04608 | Firearms Fall In-Service 2022 | Instructed | 0.0 | 5.00 |
 | 10/15/2022 | HSU11555 | Instructor In Service Firearms | Instructed | 0.0 | 4.00 |
+| 10/11/2022 | PDP28842 | Firearms Training | Instructed | 0.0 | 3.00 |
+| 10/10/2022 | PDP05658 | Firearms Training | Instructed | 0.0 | 3.00 |
 | 10/2/2022 | PDP36883 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |

@@ -1383,6 +1383,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 11/13/2019
+  course: PDP38441
+  title: Problem-Oriented Policing Conference
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 11/5/2019
   course: PDP31997
   title: 2019 Chief's Office SPLC Aryan Prison Gangs

@@ -44,6 +44,7 @@
 | 10/31/2022 | OCS22224 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Instructed | 0.0 | 4.00 |
+| 9/20/2022 | OCS06165 | One Hand Shooting/Low Light/Target ID | Instructed | 0.0 | 4.00 |
 | 9/19/2022 | OCS39426 | September 2022 FTU Inservice Training | Passed | 0.0 | 4.00 |
 | 9/16/2022 | OCS29922 | Sniper Unit Overview | Passed | 0.0 | 16.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

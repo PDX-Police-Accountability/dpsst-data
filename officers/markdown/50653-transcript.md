@@ -257,6 +257,7 @@
 | 11/18/2019 | PDP34815 | 2019 MCDA Unavoidable Lull Opinion Update | Passed | 0.0 | 0.25 |
 | 11/18/2019 | PDP36636 | 2019 Training Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 11/18/2019 | PDP36450 | 2019 Training Bloodborne Pathogens | Passed | 0.0 | 0.75 |
+| 11/13/2019 | PDP38441 | Problem-Oriented Policing Conference | Passed | 0.0 | 23.50 |
 | 11/5/2019 | PDP31997 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 11/5/2019 | PDP19197 | 2019 Chief's Office SPLC Racists Skinheads | Passed | 0.0 | 0.25 |
 | 10/29/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |

@@ -30,6 +30,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/5/2022 | 22-0009 | DPSST Basic Police COD | Registered | 0.0 | 80.00 |
+| 10/11/2022 | PDP28842 | Firearms Training | Passed | 0.0 | 3.00 |
+| 10/10/2022 | PDP05658 | Firearms Training | Passed | 0.0 | 3.00 |
 | 10/2/2022 | PDP36883 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |

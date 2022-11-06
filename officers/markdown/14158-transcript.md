@@ -45,6 +45,7 @@
 | 8/24/2022 | MKL05871 | Resiliency | Passed | 0.0 | 3.00 |
 | 6/23/2022 | MKL06324 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 6/23/2022 | MKL27046 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |
+| 6/15/2022 | MKL39637 | CORRECTED - MKL24792 | Instructed | 0.0 | 8.00 |
 | 6/2/2022 | MKL24792 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 6/1/2022 | MKL09400 | Defensive Tactics/Use of Force | Instructed | 0.0 | 8.00 |
 | 6/1/2022 | MKL12465 | Defensive Tactics/Use of Force | Instructed | 0.0 | 8.00 |
