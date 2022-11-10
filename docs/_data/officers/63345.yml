@@ -48,6 +48,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 10/18/2022
+  course: PDP44778
+  title: Field Training Eval Program Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/17/2022
+  course: PDP23129
+  title: 'Control Tactics: Handcuffing, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/11/2022
   course: PDP28842
   title: Firearms Training

@@ -4,7 +4,7 @@
 | name | Lynch, Kyle R. |
 | dpsst_identifier | 63212 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,10 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 8/18/2022 | Portland Police Bureau | Hired | Police Off |  |  |
+| 8/16/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/18/2022 | Police Officer | Basic | Required |  |  | 2/18/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

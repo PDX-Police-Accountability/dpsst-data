@@ -101,6 +101,18 @@ certification_records:
   expiration_date: 11/30/2023
   probation_date: ''
 training_records:
+- date: 10/26/2022
+  course: BPT21069
+  title: Oregon CIT Summit 2022
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/25/2022
+  course: BPT29803
+  title: Oregon CIT Summit 2022
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/28/2021
   course: F6E10277
   title: Mental Health First Aid Train  the Trainer

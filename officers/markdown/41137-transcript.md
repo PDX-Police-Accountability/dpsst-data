@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 10/8/2001 |  |
 | Code of Ethics | Signed | 10/8/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -137,7 +133,7 @@
 | 6/29/2021 | PDP02868 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/21/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/21/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
-| 6/18/2021 | F6E18518 | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 24.00 |
+| 6/18/2021 | F6E18518 | Drug Evaluation  Classification Program School | Instructed | 0.0 | 24.00 |
 | 6/4/2021 | F6F26109 | Drug Recognition Expert Instructor Development | Instructed | 0.0 | 13.00 |
 | 6/2/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
 | 6/1/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

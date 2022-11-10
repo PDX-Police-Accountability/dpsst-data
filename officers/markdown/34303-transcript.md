@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | HBP26736 | DIRECT TO CONTACT | Passed | 0.0 | 1.00 |
+| 9/7/2022 | HBP16643 | ACAP - Airways Training | Passed | 0.0 | 3.00 |
+| 9/7/2022 | HBP22379 | DV Update and Warrant Writing | Passed | 0.0 | 7.00 |
 | 8/29/2022 | F6R25341 | LIDAR Agency Practical | Passed | 0.0 | 6.00 |
 | 8/17/2022 | HBP19448 | Weapon Retention, DT Refresher, Force Response | Passed | 0.0 | 1.00 |
 | 7/6/2022 | HBP35698 | K9 Maintenance Training - Patrol | Passed | 0.0 | 5.00 |

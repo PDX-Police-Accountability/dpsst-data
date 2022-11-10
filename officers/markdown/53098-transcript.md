@@ -27,15 +27,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Signed | 11/21/2013 |  |
 | Code of Ethics | Signed | 11/21/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -144,7 +138,7 @@
 | 7/3/2021 | PDP40168 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 7/3/2021 | PDP19393 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/30/2021 | PDP06621 | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 6/18/2021 | F6E18518 | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 56.00 |
+| 6/18/2021 | F6E18518 | Drug Evaluation  Classification Program School | Passed | 0.0 | 56.00 |
 | 6/18/2021 | PDP21937 | Oregon Drug Evaluation  Classification Program | Passed | 0.0 | 72.00 |
 | 6/9/2021 | F6E42572 | Drug Evaluation  Classification Pre-School | Passed | 0.0 | 16.00 |
 | 5/16/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |

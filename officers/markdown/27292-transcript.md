@@ -34,12 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
 | Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 7/7/2003 |  |
 | Code of Ethics | Signed | 7/7/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/5/2022 | PDS18361 | Leadership | Passed | 0.0 | 0.50 |
 | 9/7/2022 | PDS15440 | Leadership Training | Passed | 0.0 | 0.50 |
 | 7/25/2022 | BNS25042 | Objective Jail Classification | Passed | 0.0 | 24.00 |
 | 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |

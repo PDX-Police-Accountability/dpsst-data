@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2022 | BPT21069 | Oregon CIT Summit 2022 | Passed | 0.0 | 8.00 |
+| 10/25/2022 | BPT29803 | Oregon CIT Summit 2022 | Passed | 0.0 | 8.00 |
 | 5/28/2021 | F6E10277 | Mental Health First Aid Train  the Trainer | Passed | 0.0 | 29.50 |
 | 11/5/2020 | F6D01655 | Resilience in First Responder | Passed | 0.0 | 6.00 |
 | 12/31/2018 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |

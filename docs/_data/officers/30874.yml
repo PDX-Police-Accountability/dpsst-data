@@ -111,8 +111,8 @@ training_records:
   score: '0.0'
   hours: '1.75'
 - date: 3/16/2022
-  course: FGP19256
-  title: 2022 Airways Training Video Pat. Eval for LE ACAP
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.75'
@@ -4343,26 +4343,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/17/2021
   expiration_date: 9/17/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 9/17/2021
-  expiration_date: 9/17/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/29/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/29/2010

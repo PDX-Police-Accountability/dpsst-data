@@ -30,14 +30,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/7/2011 |  |
 | Code of Ethics | Signed | 12/7/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -651,6 +646,7 @@
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 24.00 |
 | 7/21/2004 | 04-2043 | NIK Basic Competency Course | Passed | 0.0 | 1.50 |
 | 2/6/2004 | 04-0143 | SFST Refresher | Passed | 0.0 | 8.00 |
+| 11/4/2002 | OSH29178 | SFST Refresher with wet lab | Passed | 0.0 | 8.00 |
 | 10/9/2002 | 02U001 | Approved In-State Training | Passed | 0.0 | 180.00 |
 | 5/3/2002 | 02CP541 | Oregon State Police DRE School | Passed | 0.0 | 8.00 |
 | 1/9/2002 | 02CP083 | Tactical Risk Management Conference | Passed | 0.0 | 8.00 |

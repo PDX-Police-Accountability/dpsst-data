@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2023 | 1/19/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,19 +41,24 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/19/2023 | GSP19639 | CPR and First Aid | Passed | 0.0 | 8.00 |
+| 11/3/2022 | GSP34382 | Officer Decision Making: Qualified Immunity | Passed | 0.0 | 1.50 |
 | 9/16/2022 | GSP27130 | The Internet: Investigations and Intelligence | Passed | 0.0 | 16.00 |
 | 9/14/2022 | GSP03764 | NW Regional Human Trafficking Workshop | Passed | 0.0 | 8.00 |
 | 8/11/2022 | GSP21949 | 2022 Crimes Against Children Conference | Passed | 0.0 | 16.25 |
 | 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
 | 6/24/2022 | GSP26062 | OneNote: Digital Case Management | Passed | 0.0 | 16.00 |
+| 5/23/2022 | GSP39138 | Karly's Law Training | Passed | 0.0 | 0.50 |
 | 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
 | 5/2/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 3/22/2022 | GSP17501 | TikTok for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/10/2022 | GSP09814 | Interview  Interrogation | Passed | 0.0 | 24.00 |
 | 2/22/2022 | CVP25074 | Glock Armorer Course | Passed | 0.0 | 8.00 |
 | 2/21/2022 | GSP27019 | Child Abuse Recognition, Invst  Protection | Passed | 0.0 | 12.00 |
+| 2/4/2022 | GSP44217 | Accurint LE-Advanced | Passed | 0.0 | 0.50 |
+| 2/1/2022 | GSP39421 | DF100 Basic Digital Forensic Analysis | Passed | 0.0 | 8.00 |
 | 1/28/2022 | GSP32795 | San Diego Conf on Child and Fmaily Maltreatment | Passed | 0.0 | 16.25 |
+| 1/21/2022 | GSP44427 | Introduction to Accurint for Law Enforcement | Passed | 0.0 | 0.50 |
 | 1/13/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2021 | 21-CVDL3 | 2021 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/16/2021 | GSP12908 | 2021 Mental Health In Service | Passed | 0.0 | 1.00 |

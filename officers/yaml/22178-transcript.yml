@@ -620,6 +620,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/16/2021
+  course: PDP39501
+  title: Piping Hot Summer Drummer
+  status: Passed
+  score: '0.0'
+  hours: '48.00'
 - date: 6/14/2021
   course: PDP13788
   title: 2021 Procedural Justice
@@ -3857,18 +3863,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/14/2021
-  expiration_date: 5/14/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/14/2021

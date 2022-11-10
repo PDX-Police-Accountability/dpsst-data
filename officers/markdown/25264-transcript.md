@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Code of Ethics | Signed | 3/16/2001 |  |
 | Code of Ethics | Signed | 3/16/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2022 | PDS40052 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 10/4/2022 | PDS38619 | Ethics  IAU | Passed | 0.0 | 2.00 |
+| 10/4/2022 | PDS39189 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
+| 10/4/2022 | PDS39809 | Wellness | Passed | 0.0 | 1.00 |
 | 9/28/2022 | PDS35405 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/24/2020 | PDP00739 | 2020 City Attorney's Gathright Decision Refresher | Passed | 0.0 | 0.25 |
 | 5/13/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |

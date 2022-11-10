@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 5/15/2012 |  |
 | Code of Ethics | Signed | 5/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2022 | HBP26736 | DIRECT TO CONTACT | Passed | 0.0 | 1.00 |
+| 9/21/2022 | HBP25022 | DV Update and Warrant Writing | Passed | 0.0 | 7.00 |
+| 9/21/2022 | HBP38824 | ACAP - Airways Training | Passed | 0.0 | 3.00 |
 | 8/17/2022 | HBP19448 | Weapon Retention, DT Refresher, Force Response | Passed | 0.0 | 1.00 |
 | 7/20/2022 | HBP17844 | EVOC | Passed | 0.0 | 1.00 |
 | 6/30/2022 | BPT28832 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |

@@ -40,16 +40,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
-| Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Signed | 10/12/2000 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -75,7 +69,7 @@
 | 12/23/2021 | ETS24062 | Use of Force | Passed | 0.0 | 4.00 |
 | 8/7/2021 | F6E09733 | DRE Certification Training | Instructed | 0.0 | 40.00 |
 | 6/29/2021 | F6E35645 | Advanced Roadside Impaired Driving Enforcement | Instructed | 0.0 | 16.00 |
-| 6/18/2021 | F6E18518 | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 12.00 |
+| 6/18/2021 | F6E18518 | Drug Evaluation  Classification Program School | Instructed | 0.0 | 12.00 |
 | 6/9/2021 | F6E42572 | Drug Evaluation  Classification Pre-School | Instructed | 0.0 | 8.00 |
 | 4/21/2021 | F6D41805 | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 4/19/2021 | 20T003 | Parole  Probation Field Training Manual | Completed | 0.0 | 50.00 |

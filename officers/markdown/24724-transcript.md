@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/22/2008 |  |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -73,7 +69,7 @@
 | 4/8/2022 | FGP05906 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 2.00 |
 | 3/31/2022 | F6R27961 | CPR and First Aid Refresher Training | Passed | 0.0 | 2.00 |
 | 3/16/2022 | FGP28057 | 2022 Airways Training Video Pat. Eval for LE ACAP | Passed | 0.0 | 1.75 |
-| 3/16/2022 | FGP19256 | 2022 Airways Training Video Pat. Eval for LE ACAP | Passed | 0.0 | 1.75 |
+| 3/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.75 |
 | 3/15/2022 | F6R01453 | Use of Force Legislative and Policy Reviews | Instructed | 0.0 | 6.00 |
 | 3/3/2022 | F6R04359 | Firearms Transition and Reload Drills | Instructed | 0.0 | 1.00 |
 | 3/3/2022 | F6R14638 | Lateral Officer Firearms Training  Qualification | Passed | 0.0 | 1.00 |

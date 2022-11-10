@@ -825,6 +825,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 5/7/2021
+  course: PDP34593
+  title: ICS L0958 All Hazards Operations Section Chief
+  status: Passed
+  score: '0.0'
+  hours: '27.50'
 - date: 4/20/2021
   course: PDP04969
   title: 2020 CAO Don't Shoot PDX.Hernandez (resend)
@@ -4478,14 +4484,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2021
-  expiration_date: 6/29/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/29/2021
@@ -4494,14 +4492,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/3/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/3/2005
