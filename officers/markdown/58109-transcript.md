@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 10/27/2022 | PDP37189 | Intoxylizer 8000 Certificate Training | Passed | 0.0 | 6.00 |
 | 10/6/2022 | PDP03815 | SERT: Breaching, HRT, Scenarios, Tech | Passed | 0.0 | 9.00 |
 | 9/30/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2022 | OCP32451 | Firearms/Use of Force | Passed | 0.0 | 20.00 |
 | 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
 | 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

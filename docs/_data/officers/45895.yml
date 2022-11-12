@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2022
+  course: SAG10709
+  title: Oregon DOJ Elder Abuse Conference
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/21/2022
+  course: SAG21628
+  title: Oregon DOJ Elder Abuse Conference
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 9/28/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea
@@ -53,6 +65,12 @@ training_records:
 - date: 9/28/2022
   course: F6R39942
   title: Undefined
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/28/2022
+  course: PDP43122
+  title: Mobile vehicle  foot surveillance training
   status: Passed
   score: '0.0'
   hours: '24.00'
@@ -3731,26 +3749,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/18/2021
   expiration_date: 5/18/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/18/2021
-  expiration_date: 5/18/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/13/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/13/2005

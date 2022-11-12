@@ -63,6 +63,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/10/2022
+  course: PDS06689
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2022
+  course: PDS03709
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/3/2022
   course: PDS32844
   title: Firearms Training

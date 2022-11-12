@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 4/8/2021 | 4/8/2023 |
-| Certification Cards | First Aid and CPR | 4/8/2021 | 4/8/2023 |
-| Code of Ethics | Signed | 10/12/2006 |  |
 | Code of Ethics | Signed | 10/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 | 9/28/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 9/28/2022 | HDA23700 | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 24.00 |
 | 9/28/2022 | F6R39942 | Undefined | Passed | 0.0 | 24.00 |
+| 9/28/2022 | PDP43122 | Mobile vehicle  foot surveillance training | Passed | 0.0 | 24.00 |
 | 9/8/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |

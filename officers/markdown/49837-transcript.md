@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 10/13/2022 | PDP37749 | SERT: Weapons Drills | Passed | 0.0 | 9.00 |
 | 10/6/2022 | PDP03815 | SERT: Breaching, HRT, Scenarios, Tech | Passed | 0.0 | 9.00 |
 | 9/25/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |

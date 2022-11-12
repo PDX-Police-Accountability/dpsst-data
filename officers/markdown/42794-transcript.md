@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/31/2022 | OCS22224 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
+| 10/18/2022 | OCS24937 | Intro to Pistol Red Dot Systems | Instructed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Instructed | 0.0 | 4.00 |
 | 9/19/2022 | OCS39426 | September 2022 FTU Inservice Training | Passed | 0.0 | 4.00 |

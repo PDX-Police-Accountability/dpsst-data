@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Code of Ethics | Signed | 3/16/2001 |  |
 | Code of Ethics | Signed | 3/16/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2022 | PDS40955 | TASER | Passed | 0.0 | 8.00 |
+| 10/13/2022 | PDS35384 | Off-Duty Carry | Passed | 0.0 | 1.00 |
+| 10/12/2022 | PDS39700 | Patrol Tactics | Passed | 0.0 | 8.00 |
+| 10/7/2022 | PDS21645 | ICS-200 | Passed | 0.0 | 4.00 |
+| 10/7/2022 | PDS17973 | ICS-800 | Passed | 0.0 | 3.00 |
+| 10/7/2022 | PDS40796 | OC Training | Passed | 0.0 | 4.00 |
 | 10/6/2022 | PDS40052 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/4/2022 | PDS38619 | Ethics  IAU | Passed | 0.0 | 2.00 |
 | 10/4/2022 | PDS39189 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |

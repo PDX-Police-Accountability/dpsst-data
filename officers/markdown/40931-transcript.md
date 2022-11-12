@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/21/2021 | 5/21/2023 |
-| Certification Cards | First Aid and CPR | 5/21/2021 | 5/21/2023 |
-| Code of Ethics | Signed | 10/21/2002 |  |
 | Code of Ethics | Signed | 10/21/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -68,6 +64,7 @@
 | 7/5/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/5/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/5/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
+| 6/24/2022 | PDP04322 | All Hazards Logistics Section Chief | Passed | 0.0 | 30.00 |
 | 6/9/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 5/12/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

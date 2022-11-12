@@ -92,12 +92,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
-- date: 9/28/2022
-  course: F6R39942
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
 - date: 9/15/2022
   course: PDP16136
   title: Interview  Interrogation Training

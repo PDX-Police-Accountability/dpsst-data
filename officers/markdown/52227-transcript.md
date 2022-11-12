@@ -227,6 +227,7 @@
 | 12/2/2019 | PDP08945 | 2019-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/2/2019 | PDP16502 | 2019-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 12/2/2019 | PDP23516 | 2019-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 11/26/2019 | PDP29462 | CNOA annual training institute | Passed | 0.0 | 25.50 |
 | 11/7/2019 | PDP31997 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 11/7/2019 | PDP19197 | 2019 Chief's Office SPLC Racists Skinheads | Passed | 0.0 | 0.25 |
 | 11/7/2019 | PDP19532 | 2019-9 City Attorney's Office Legal Updates 9/2019 | Passed | 0.0 | 0.25 |

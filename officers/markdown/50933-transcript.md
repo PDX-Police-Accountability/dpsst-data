@@ -278,6 +278,7 @@
 | 12/2/2019 | PDP40502 | 2019-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 12/2/2019 | PDP16502 | 2019-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 12/2/2019 | PDP23516 | 2019-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 11/26/2019 | PDP29462 | CNOA annual training institute | Passed | 0.0 | 25.50 |
 | 11/18/2019 | PDP31997 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 11/18/2019 | PDP34815 | 2019 MCDA Unavoidable Lull Opinion Update | Passed | 0.0 | 0.25 |
 | 11/5/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |

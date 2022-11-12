@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
 | 9/21/2022 | PDP12091 | SERT: HRT, Side One Iterations, Cautious Clears | Passed | 0.0 | 6.50 |
 | 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |

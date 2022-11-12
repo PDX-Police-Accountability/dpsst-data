@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/20/2021 | 7/20/2023 |
-| Certification Cards | First Aid and CPR | 7/20/2021 | 7/20/2023 |
-| Code of Ethics | Signed | 11/22/2010 |  |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 9/21/2022 | PDP41584 | SERT: HRT, Scenarios, Cautious Clears | Passed | 0.0 | 6.50 |
 | 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |
 | 9/9/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

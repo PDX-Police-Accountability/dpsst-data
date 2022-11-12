@@ -604,8 +604,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 6/18/2019
-  course: GPP21054
-  title: '0'
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
-| Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Code of Ethics | Signed | 10/24/2008 |  |
 | Code of Ethics | Signed | 10/24/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2022 | PDS35785 | Firearsm Training | Passed | 0.0 | 3.00 |
+| 10/7/2022 | PDS39944 | Range Qualification | Passed | 0.0 | 2.00 |
 | 7/22/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 6/8/2022 | PDS41667 | CIT | Passed | 0.0 | 4.00 |
 | 6/8/2022 | PDS08484 | Evidence Collection | Passed | 0.0 | 2.00 |

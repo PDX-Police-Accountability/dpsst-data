@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2022 | OCP32451 | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
 | 9/20/2022 | OCP29321 | PIT training | Instructed | 0.0 | 4.00 |
 | 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |
 | 8/31/2022 | OCP01389 | Search and Seizure | Passed | 0.0 | 1.50 |

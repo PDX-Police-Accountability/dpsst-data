@@ -1507,6 +1507,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/26/2019
+  course: PDP29462
+  title: CNOA annual training institute
+  status: Passed
+  score: '0.0'
+  hours: '25.50'
 - date: 11/18/2019
   course: PDP31997
   title: 2019 Chief's Office SPLC Aryan Prison Gangs

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 10/26/2022 | PDP03949 | K9 De-escalation  Building Search Training | Passed | 0.0 | 2.00 |
 | 10/12/2022 | PDP42677 | K9 Training: Debriefs, De-escalation, Searches | Passed | 0.0 | 2.00 |
 | 9/30/2022 | PDP27596 | 2022 Lead Awareness  Safety Trng for PPB Arms | Passed | 0.0 | 1.25 |

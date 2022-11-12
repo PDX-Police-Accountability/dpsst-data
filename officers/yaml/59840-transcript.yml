@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/12/2022
+  course: OCP32451
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/31/2022
   course: OCP33065
   title: Unknown Risk Vehicle Stops

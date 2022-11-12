@@ -1351,6 +1351,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/26/2019
+  course: PDP29462
+  title: CNOA annual training institute
+  status: Passed
+  score: '0.0'
+  hours: '25.50'
 - date: 11/19/2019
   course: PDP34815
   title: 2019 MCDA Unavoidable Lull Opinion Update

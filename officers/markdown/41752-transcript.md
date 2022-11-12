@@ -127,7 +127,7 @@
 | 7/24/2019 | GPP30557 | SWAT Mobile Surveillance Techniques/Scenarios | Passed | 0.0 | 8.00 |
 | 7/8/2019 | GPP08016 | SWAT/Patrol Firearms Qualification | Passed | 0.0 | 4.00 |
 | 6/30/2019 | GPP27183 | Foot Pursuits | Passed | 0.0 | 0.50 |
-| 6/18/2019 | GPP21054 | 0 | Passed | 0.0 | 1.00 |
+| 6/18/2019 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/10/2019 | GPP30953 | SWAT Tactical Rifle | Passed | 0.0 | 8.00 |
 | 5/16/2019 | GPP27709 | NTOA SWAT-HRT/CNT/Scenarios  Movement | Passed | 0.0 | 10.00 |
 | 5/15/2019 | GPP01584 | NTOA SWAT - Debriefs and Scenario Movement | Passed | 0.0 | 10.00 |

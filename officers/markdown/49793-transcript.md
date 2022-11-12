@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2022 | CIF03808 | Sidearm Range | Passed | 0.0 | 2.50 |
 | 10/19/2022 | CIF32071 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |
 | 9/1/2022 | CIF06710 | Boat Training | Instructed | 0.0 | 4.00 |
 | 8/24/2022 | CIF01799 | Firearms | Passed | 0.0 | 3.00 |

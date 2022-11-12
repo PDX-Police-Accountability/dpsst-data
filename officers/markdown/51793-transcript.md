@@ -251,6 +251,7 @@
 | 12/2/2019 | PDP23516 | 2019-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 11/28/2019 | PDP31997 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 11/28/2019 | PDP19197 | 2019 Chief's Office SPLC Racists Skinheads | Passed | 0.0 | 0.25 |
+| 11/26/2019 | PDP29462 | CNOA annual training institute | Passed | 0.0 | 25.50 |
 | 11/19/2019 | PDP34815 | 2019 MCDA Unavoidable Lull Opinion Update | Passed | 0.0 | 0.25 |
 | 10/28/2019 | PDP19532 | 2019-9 City Attorney's Office Legal Updates 9/2019 | Passed | 0.0 | 0.25 |
 | 10/24/2019 | PDP09647 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |
