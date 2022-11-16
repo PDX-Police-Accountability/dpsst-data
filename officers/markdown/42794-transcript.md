@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |
 | 10/31/2022 | OCS22224 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 10/18/2022 | OCS24937 | Intro to Pistol Red Dot Systems | Instructed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -48,8 +49,10 @@
 | 9/19/2022 | OCS39426 | September 2022 FTU Inservice Training | Passed | 0.0 | 4.00 |
 | 9/16/2022 | OCS29922 | Sniper Unit Overview | Passed | 0.0 | 16.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/12/2022 | OCS18613 | Low Light, One hand shooting use of cover | Passed | 0.0 | 1.00 |
 | 9/1/2022 | OCS14404 | One hand shooting, Qualification | Instructed | 0.0 | 2.00 |
 | 8/30/2022 | OCS23790 | One Handed Shooting and Barricading | Instructed | 0.0 | 97.00 |
+| 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
 | 8/19/2022 | OCS23432 | August 2022 New Hire Firearms | Instructed | 0.0 | 40.00 |
 | 8/10/2022 | OCS07092 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |

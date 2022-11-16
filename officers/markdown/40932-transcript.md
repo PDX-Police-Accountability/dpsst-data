@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/22/2022 | PDP10526 | Natl Internal Affairs Invest. Training Conference | Passed | 0.0 | 28.00 |
 | 9/8/2022 | PDP43328 | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 9.00 |
 | 9/5/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

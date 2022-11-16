@@ -42,3 +42,6 @@
 | 7/29/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/29/2022 | PDP04898 | 2022 Vocabulary in the LGBTQIA2S+ Queer Community | Passed | 0.0 | 0.25 |
 | 7/29/2022 | PDP44058 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 9/4/2019 | PDP38307 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 8/31/2019 | PDP03401 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 8/26/2019 | PDP22867 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2022 | OCS07603 | Domestic Violence Investigations | Passed | 0.0 | 0.50 |
 | 10/8/2022 | OCS20838 | PEER Support - Law Enforcement Traumas | Passed | 0.0 | 3.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

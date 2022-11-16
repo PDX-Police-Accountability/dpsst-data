@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
 | 9/28/2022 | F6R39942 | Undefined | Passed | 0.0 | 24.00 |
 | 9/28/2022 | PDP43122 | Mobile vehicle  foot surveillance training | Passed | 0.0 | 24.00 |

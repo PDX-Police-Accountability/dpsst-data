@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2022
+  course: OCS07603
+  title: Domestic Violence Investigations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/1/2022
+  course: OCS34643
+  title: Axon BWC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/28/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -68,6 +80,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/12/2022
+  course: OCS18613
+  title: Low Light, One hand shooting use of cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2022
+  course: OCS20366
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2022
+  course: OCS36465
+  title: One Hand Shooting/Barricading
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/1/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

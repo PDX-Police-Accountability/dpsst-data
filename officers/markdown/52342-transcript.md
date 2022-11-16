@@ -34,6 +34,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP37441 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP23799 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP20341 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/10/2022 | PDP04798 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 10/10/2022 | PDP22927 | 2021-8 CAO Legal Updates for 08/2021 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP26856 | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP27649 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 10/10/2022 | PDP38770 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP19918 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |

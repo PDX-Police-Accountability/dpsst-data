@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/22/2022 | SAG10709 | Oregon DOJ Elder Abuse Conference | Passed | 0.0 | 3.00 |
 | 10/21/2022 | SAG21628 | Oregon DOJ Elder Abuse Conference | Passed | 0.0 | 7.50 |
 | 9/29/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |

@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2022 | PDP20341 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
+| 10/24/2022 | PDP30456 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
+| 10/24/2022 | PDP10134 | 2021-2 CAO Legal Updates for 02/2021 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP30613 | 2021-3 CAO Legal Updates for 03/2021 | Passed | 0.0 | 0.50 |
 | 9/29/2022 | PDP22123 | 2021-4 CAO Legal Updates for 04/2021 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP01218 | 2021-7 CAO Legal Updates for 07/2021 | Passed | 0.0 | 0.25 |

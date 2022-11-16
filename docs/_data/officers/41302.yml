@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/31/2022
   course: PDP39675
   title: DIR 1015.00, Less Lethal Weapons and Tools

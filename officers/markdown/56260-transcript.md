@@ -38,6 +38,31 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2022 | PDP30456 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
+| 10/24/2022 | PDP07027 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 10/24/2022 | PDP19918 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP16370 | 2021 Language Access Utilizing Bilingual Bur Mmbrs | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP05665 | 2021 Online In-Service Lang Access - Translation | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP32093 | 2020-12 CAO Legal Updates for 12/2020 - Updated | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP08209 | 2021-1 CAO Legal Updates for 01/2021 | Passed | 0.0 | 0.50 |
+| 10/21/2022 | PDP37441 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP36286 | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP23799 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP36787 | 2021-11 TT Unlawful St Takeovers or Unlawful | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP20341 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP10134 | 2021-2 CAO Legal Updates for 02/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP05482 | 2021-3 CAO Legal Updates for 03/2021 | Passed | 0.0 | 0.50 |
+| 10/21/2022 | PDP15344 | 2021-4 CAO Legal Updates for 04/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP29463 | 2021-5 CAO Legal Updates for 05/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP19323 | 2021-6 CAO Legal Updates for 06/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP23184 | 2021-7 CAO Legal Updates for 07/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP22927 | 2021-8 CAO Legal Updates for 08/2021 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP38770 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 10/17/2022 | PDP10540 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 10/17/2022 | PDP12661 | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 10/14/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 10/14/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/14/2022 | PDP26856 | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
 | 7/14/2022 | F6R17303 | Firearms: Vehicle Close Quarters Battle/40mm | Passed | 0.0 | 3.00 |
 | 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/19/2022 | F6R15275 | Active Threat Response/Tactical Medicine | Passed | 0.0 | 2.00 |

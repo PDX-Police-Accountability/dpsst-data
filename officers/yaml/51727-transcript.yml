@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2022
+  course: PDP20341
+  title: 2021-12 CAO Legal Updates for 12/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/24/2022
+  course: PDP30456
+  title: 2021-12 TT Requesting an Emergency Ping of a Cell
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/24/2022
+  course: PDP10134
+  title: 2021-2 CAO Legal Updates for 02/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/29/2022
   course: PDP30613
   title: 2021-3 CAO Legal Updates for 03/2021

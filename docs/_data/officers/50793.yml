@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/9/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/30/2022
   course: PDP27596
   title: 2022 Lead Awareness  Safety Trng for PPB Arms

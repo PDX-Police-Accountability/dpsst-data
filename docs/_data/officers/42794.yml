@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2022
+  course: OCS34643
+  title: Axon BWC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/31/2022
   course: OCS22224
   title: Shotgun Orientation
@@ -128,6 +134,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/12/2022
+  course: OCS18613
+  title: Low Light, One hand shooting use of cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/1/2022
   course: OCS14404
   title: One hand shooting, Qualification
@@ -140,6 +152,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '97.00'
+- date: 8/20/2022
+  course: OCS36465
+  title: One Hand Shooting/Barricading
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/19/2022
   course: OCS23432
   title: August 2022 New Hire Firearms

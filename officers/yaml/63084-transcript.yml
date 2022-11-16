@@ -114,6 +114,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/4/2019
+  course: PDP38307
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/31/2019
+  course: PDP03401
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/26/2019
+  course: PDP22867
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

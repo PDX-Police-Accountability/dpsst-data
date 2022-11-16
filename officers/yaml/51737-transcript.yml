@@ -44,6 +44,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 10/14/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/13/2022
   course: PDP42433
   title: Intoxylizer 8000 certification

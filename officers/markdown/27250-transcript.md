@@ -95,7 +95,7 @@
 | 5/30/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/30/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |
-| 3/26/2022 | MNS16260 | MILO, Senario Based Training |  | 0.0 | 0.50 |
+| 3/26/2022 | MNS16260 | MILO, Senario Based Training | Passed | 0.0 | 0.50 |
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2021 | F1507780 | Missing  Exploited Children | Passed | 0.0 | 4.00 |

@@ -57,6 +57,12 @@ certification_records:
   expiration_date: 1/4/2027
   probation_date: ''
 training_records:
+- date: 10/23/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/1/2022
   course: PDP41139
   title: IS-800 National Response Framework

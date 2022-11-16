@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP09771 | 2022 ABLE Perf Reviews for Sups Non-Rep Mmbrs | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP44770 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/29/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |

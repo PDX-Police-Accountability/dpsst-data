@@ -62,6 +62,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/20/2022
+  course: OCS20366
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2022
+  course: OCS36465
+  title: One Hand Shooting/Barricading
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/30/2022
   course: OCS12963
   title: De-Escalation

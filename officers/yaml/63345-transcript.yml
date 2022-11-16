@@ -48,6 +48,138 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 10/30/2022
+  course: PDP21194
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP16370
+  title: 2021 Language Access Utilizing Bilingual Bur Mmbrs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP05665
+  title: 2021 Online In-Service Lang Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP07027
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/23/2022
+  course: PDP10540
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP30456
+  title: 2021-12 TT Requesting an Emergency Ping of a Cell
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP12661
+  title: 2021-6 TT Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP04798
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/23/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP27649
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP38770
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP19918
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP37441
+  title: 2021-10 CAO Legal Updates for 10/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP23799
+  title: 2021-11 CAO Legal Updates for 11/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP20341
+  title: 2021-12 CAO Legal Updates for 12/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP05482
+  title: 2021-3 CAO Legal Updates for 03/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/21/2022
+  course: PDP15344
+  title: 2021-4 CAO Legal Updates for 04/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP29463
+  title: 2021-5 CAO Legal Updates for 05/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP19323
+  title: 2021-6 CAO Legal Updates for 06/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP23184
+  title: 2021-7 CAO Legal Updates for 07/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP22927
+  title: 2021-8 CAO Legal Updates for 08/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP26856
+  title: 2021-9 CAO Legal Updates for 09/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/18/2022
   course: PDP44778
   title: Field Training Eval Program Orientation

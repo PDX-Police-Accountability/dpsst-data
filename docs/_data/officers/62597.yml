@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/21/2022
+  course: PDP21194
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/27/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories

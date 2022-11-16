@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/17/2022 | PDP23129 | Control Tactics: Handcuffing, etc. | Instructed | 0.0 | 4.00 |
 | 10/14/2022 | PPP21848 | Advanced Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/21/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |

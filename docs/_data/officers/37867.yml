@@ -68,6 +68,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 10/16/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/22/2022
   course: PDP25459
   title: 'SERT: Breaching, HRT, Gas Familiarization'

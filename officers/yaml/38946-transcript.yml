@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2022
+  course: PDP21194
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP09771
+  title: 2022 ABLE Perf Reviews for Sups Non-Rep Mmbrs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/29/2022
   course: PDP44770
   title: 2022 Crowd Management

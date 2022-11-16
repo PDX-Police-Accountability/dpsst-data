@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/8/2022 | PDP12593 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 10/8/2022 | PDP42864 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 9/21/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

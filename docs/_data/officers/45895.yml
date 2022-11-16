@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.50'
+- date: 10/7/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/28/2022
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

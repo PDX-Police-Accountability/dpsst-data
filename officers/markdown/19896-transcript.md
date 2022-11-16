@@ -56,7 +56,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/20/2022 | CYS36340 | Trauma Bag Training |  | 0.0 | 1.00 |
+| 6/20/2022 | CYS36340 | Trauma Bag Training | Passed | 0.0 | 1.00 |
 | 6/20/2022 | CYS29816 | Night Vision Training | Passed | 0.0 | 2.00 |
 | 5/23/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/19/2022 | BPT34076 | Ethics | Passed | 0.0 | 2.00 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/19/2022 | PDP38273 | EDU: Vehicle  Trailer Driving | Instructed | 0.0 | 9.00 |
 | 10/12/2022 | PDP31661 | Intl. Assoc. Bomb Tech.  Invest. Meeting | Passed | 0.0 | 9.00 |
 | 9/28/2022 | PDP35307 | EDU: Individual Equipment Instruction | Passed | 0.0 | 9.00 |
