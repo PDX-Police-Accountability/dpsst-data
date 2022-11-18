@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/25/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/19/2022 | PDP38273 | EDU: Vehicle  Trailer Driving | Passed | 0.0 | 9.00 |
+| 10/17/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 10/17/2022 | PDP32158 | 2022 Lead Awareness  Safety Trng for Instructors | Passed | 0.0 | 1.25 |
 | 10/5/2022 | PDP20728 | EDU X-Ray Training | Passed | 0.0 | 9.00 |
 | 9/28/2022 | PDP35307 | EDU: Individual Equipment Instruction | Passed | 0.0 | 9.00 |
 | 9/21/2022 | PDP16709 | EDU Training: Explosive Operations | Instructed | 0.0 | 9.00 |

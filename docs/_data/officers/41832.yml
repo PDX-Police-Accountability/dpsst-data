@@ -76,6 +76,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/31/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2022
+  course: PDP07693
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/16/2022
   course: PDP39675
   title: DIR 1015.00, Less Lethal Weapons and Tools

@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2022 | GSP17921 | CPR and First Aid | Passed | 0.0 | 2.50 |
 | 6/30/2022 | GSP27508 | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
+| 6/27/2022 | GSP08384 | 2022 Spring Rifle In Service | Instructed | 0.0 | 10.00 |
 | 5/26/2022 | HBS04306 | Tactical Casualty Care for Law Enforcement | Passed | 0.0 | 8.00 |
 | 5/2/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/8/2022 | GSP16273 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |

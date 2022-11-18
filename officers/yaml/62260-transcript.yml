@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/24/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/8/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

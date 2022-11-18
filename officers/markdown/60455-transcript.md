@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PLS34604 | CIT/Mental Health | Passed | 0.0 | 24.00 |
 | 9/20/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/13/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |

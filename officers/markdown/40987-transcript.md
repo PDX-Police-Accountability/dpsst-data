@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP38273 | EDU: Vehicle  Trailer Driving | Passed | 0.0 | 9.00 |
 | 10/12/2022 | PDP31661 | Intl. Assoc. Bomb Tech.  Invest. Meeting | Passed | 0.0 | 9.00 |
 | 10/6/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

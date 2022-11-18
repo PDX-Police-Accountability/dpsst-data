@@ -42,6 +42,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2022
+  course: DAS14861
+  title: Airway Breathing and Circulatory System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2022
+  course: DAS37723
+  title: Ethical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2022
+  course: DAS32811
+  title: Policy 621 Review Inmate Searches
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2022
+  course: DAS37279
+  title: Policy 701 Review PCJ Evacuation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2022
+  course: DAS06437
+  title: Policy 802 Review Inmate Grievances
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2022
+  course: DAS16111
+  title: Policy 300 Review Food Services
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2022
+  course: DAS26766
+  title: 'Policy 502 Review: Sentence Computation'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/3/2022
   course: DAS00988
   title: Close quarters shooting and Cover

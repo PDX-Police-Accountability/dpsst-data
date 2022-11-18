@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2022 | MNS39047 | Firearms Qualification Daylight | Passed | 0.0 | 2.00 |
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 5/31/2022 | MNS32249 | FIREARMS SKILL BUILDER | Passed | 0.0 | 2.00 |
 | 3/26/2022 | MNS16260 | MILO, Senario Based Training | Passed | 0.0 | 0.50 |

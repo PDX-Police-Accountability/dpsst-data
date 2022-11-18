@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/25/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/22/2022
   course: SAG10709
   title: Oregon DOJ Elder Abuse Conference
@@ -57,20 +63,8 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 9/28/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
-- date: 9/28/2022
   course: HDA23700
   title: Mobile Vehicle and Foot Surveillance Training
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
-- date: 9/28/2022
-  course: F6R39942
-  title: Undefined
   status: Passed
   score: '0.0'
   hours: '24.00'

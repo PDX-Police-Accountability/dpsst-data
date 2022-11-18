@@ -56,12 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/7/2022
   course: PDP36211
   title: 2022 Crowd Management
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/7/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/30/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

@@ -58,6 +58,7 @@
 | 5/17/2022 | PDS19960 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 5/16/2022 | PDS02141 | Use of Force for Supervisors | Instructed | 0.0 | 4.00 |
 | 5/15/2022 | PDS30845 | Use of Force Reports | Instructed | 0.0 | 3.00 |
+| 5/9/2022 | PDS10516 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 5/5/2022 | PDS03966 | Use of Force for Supervisors | Instructed | 0.0 | 4.00 |
 | 4/27/2022 | PDS04562 | Command Use of Force Reviews | Instructed | 0.0 | 3.00 |
 | 12/9/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

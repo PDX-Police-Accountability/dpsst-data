@@ -92,6 +92,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2022
+  course: GSP21114
+  title: 2022 Spring Rifle In Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/16/2022
   course: GSP39308
   title: 2022 Spring Handgun In-Service

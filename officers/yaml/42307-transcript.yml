@@ -44,6 +44,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/21/2022
+  course: PDP32158
+  title: 2022 Lead Awareness  Safety Trng for Instructors
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/21/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/14/2022
   course: LKP37262
   title: West Metro Fall 2022 Motor School

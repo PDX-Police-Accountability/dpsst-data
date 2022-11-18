@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP37441 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP23799 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
@@ -45,6 +46,18 @@
 | 10/10/2022 | PDP27649 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 10/10/2022 | PDP38770 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP19918 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP28611 | 2022-2- CAO Legal Updates for 02/2022 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP07693 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP42838 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP03561 | 2022-1 CHO House Bill 2928 EO Crowd Control | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP07649 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP22831 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP11083 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/10/2022 | PDP44715 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP35747 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP36255 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP18312 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |

@@ -29,8 +29,10 @@
 | 2/18/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/12/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/11/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/11/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/6/2022 | PDP27649 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 10/6/2022 | PDP38770 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 10/6/2022 | PDP42838 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP39385 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 9/29/2022 | PDP40044 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

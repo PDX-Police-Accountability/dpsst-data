@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/5/2022 | PDP20728 | EDU X-Ray Training | Passed | 0.0 | 9.00 |
 | 9/28/2022 | PDP35307 | EDU: Individual Equipment Instruction | Passed | 0.0 | 9.00 |
 | 9/15/2022 | PDP35078 | Hazmat/ WMD Awareness  APR Program | Instructed | 0.0 | 3.50 |

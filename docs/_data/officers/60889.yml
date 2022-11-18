@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/31/2022
+  course: PDP42838
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/29/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner

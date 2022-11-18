@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2022 | FGP26754 | Domestic Violence/Strangulation Training | Passed | 0.0 | 1.00 |
 | 9/1/2022 | FGP26115 | OSHA Wildfire Smoke and Medical Plan Trainig | Passed | 0.0 | 1.00 |
 | 7/28/2022 | FGP16614 | Bloodborne | Passed | 0.0 | 1.00 |
 | 7/28/2022 | FGP07221 | HazMat | Passed | 0.0 | 1.00 |

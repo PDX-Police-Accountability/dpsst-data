@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2022
+  course: FGP26754
+  title: Domestic Violence/Strangulation Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/1/2022
   course: FGP26115
   title: OSHA Wildfire Smoke and Medical Plan Trainig

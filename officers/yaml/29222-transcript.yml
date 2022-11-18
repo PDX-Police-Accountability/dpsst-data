@@ -111,12 +111,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 6/27/2022
+  course: GSP08384
+  title: 2022 Spring Rifle In Service
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 6/24/2022
   course: GSP26062
   title: 'OneNote: Digital Case Management'
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 6/20/2022
+  course: GSP44643
+  title: 2022 Spring Instructor Rifle In Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/23/2022
   course: GSP39138
   title: Karly's Law Training

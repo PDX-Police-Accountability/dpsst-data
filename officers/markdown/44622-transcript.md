@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2022 | OSH21256 | 3rd Tri Firearms Low Light | Instructed | 0.0 | 4.00 |
 | 10/21/2022 | OSH01793 | 3rd Tri Low Light Firearms | Instructed | 0.0 | 4.00 |
 | 10/19/2022 | OSH13477 | 3rd Tri Low Light Firearms | Instructed | 0.0 | 4.00 |
 | 10/14/2022 | OSH42347 | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |

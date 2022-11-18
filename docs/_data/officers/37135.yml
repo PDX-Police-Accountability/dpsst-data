@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/18/2022
+  course: PDP32158
+  title: 2022 Lead Awareness  Safety Trng for Instructors
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 9/8/2022
   course: PDP37114
   title: DIR 1010.00, Use of Force (effective 11/15/2022)

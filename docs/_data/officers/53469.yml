@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/7/2022
+  course: OCS25794
+  title: Less Lethal- 40 mm bean bag cert
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/24/2022
   course: OCS07603
   title: Domestic Violence Investigations

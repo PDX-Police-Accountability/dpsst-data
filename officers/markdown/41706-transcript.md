@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP30946 | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 21.50 |
 | 9/8/2022 | PDP43328 | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 9.00 |
 | 8/29/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

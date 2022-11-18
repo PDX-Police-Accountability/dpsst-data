@@ -147,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/18/2022
+  course: GPP12761
+  title: Low light shooting / Flashlight tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/10/2022
   course: GPP02333
   title: Non-criminal Death Investigation Training

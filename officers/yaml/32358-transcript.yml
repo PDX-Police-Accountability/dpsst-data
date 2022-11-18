@@ -56,18 +56,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/18/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/5/2022
   course: HDA44776
   title: Snapchat Inveatigations Course
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 9/28/2022
-  course: F6R39942
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
 - date: 9/28/2022
   course: PDP43122
   title: Mobile vehicle  foot surveillance training

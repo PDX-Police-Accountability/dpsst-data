@@ -37,6 +37,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2022 | PDP37189 | Intoxylizer 8000 Certificate Training | Passed | 0.0 | 6.00 |
 | 10/21/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/21/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP32158 | 2022 Lead Awareness  Safety Trng for Instructors | Passed | 0.0 | 1.25 |
+| 10/21/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/20/2022 | PDP43317 | 2022 Advanced Shotgun Operator PowerPoint | Passed | 0.0 | 0.75 |
 | 9/16/2022 | PDP03894 | Basic Motor School | Passed | 0.0 | 80.00 |
 | 8/31/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |

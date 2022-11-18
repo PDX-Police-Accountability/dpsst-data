@@ -31,6 +31,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2022 | DAS14861 | Airway Breathing and Circulatory System | Passed | 0.0 | 2.00 |
+| 9/30/2022 | DAS37723 | Ethical Decision Making | Passed | 0.0 | 1.00 |
+| 9/30/2022 | DAS32811 | Policy 621 Review Inmate Searches | Passed | 0.0 | 1.00 |
+| 9/30/2022 | DAS37279 | Policy 701 Review PCJ Evacuation | Passed | 0.0 | 1.00 |
+| 9/30/2022 | DAS06437 | Policy 802 Review Inmate Grievances | Passed | 0.0 | 1.00 |
+| 9/30/2022 | DAS16111 | Policy 300 Review Food Services | Passed | 0.0 | 1.00 |
+| 9/30/2022 | DAS26766 | Policy 502 Review: Sentence Computation | Passed | 0.0 | 1.00 |
 | 9/3/2022 | DAS00988 | Close quarters shooting and Cover | Passed | 0.0 | 3.00 |
 | 6/30/2022 | DAS29574 | Drug and Alcohol Abuse | Passed | 0.0 | 1.00 |
 | 6/30/2022 | DAS30445 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |

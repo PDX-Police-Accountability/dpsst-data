@@ -33,9 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/28/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 9/28/2022 | HDA23700 | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 24.00 |
-| 9/28/2022 | F6R39942 | Undefined | Passed | 0.0 | 24.00 |
 | 9/28/2022 | PDP43122 | Mobile vehicle  foot surveillance training | Passed | 0.0 | 24.00 |
 | 9/8/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |

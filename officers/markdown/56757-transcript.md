@@ -44,10 +44,10 @@
 | 4/5/2022 | PSU37477 | Calm Approach | Passed | 0.0 | 8.00 |
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |
 | 12/30/2021 | F1537460 | Active Shooter 4 | Passed | 0.0 | 1.00 |
-| 12/29/2021 | F1505404 | #REF! | Passed | 0.0 | 1.00 |
+| 12/29/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/28/2021 | F1527036 | Active Shooter: Phases/Prevention | Passed | 0.0 | 1.00 |
 | 12/27/2021 | F1531394 | Active Shooter 3 | Passed | 0.0 | 1.00 |
-| 12/22/2021 | F1505404 | #REF! | Passed | 0.0 | 1.00 |
+| 12/22/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 12/15/2021 | F1502484 | Campus Policing | Passed | 0.0 | 1.00 |
 | 11/10/2021 | 21-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 80.00 |

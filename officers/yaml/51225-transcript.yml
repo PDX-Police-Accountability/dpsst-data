@@ -42,12 +42,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/21/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/20/2022
   course: PDP44475
   title: 'SERT: Control Entry Search Warrants Training'
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 10/17/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2022
+  course: PDP32158
+  title: 2022 Lead Awareness  Safety Trng for Instructors
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/13/2022
   course: PDP37749
   title: 'SERT: Weapons Drills'

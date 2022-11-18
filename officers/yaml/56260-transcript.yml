@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/30/2022
+  course: PDP22831
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/24/2022
   course: PDP07027
   title: 2021 Online In-Service Procedural Justice
@@ -175,6 +181,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/21/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/17/2022
   course: PDP10540
   title: 2021 Training Crowd Control Vehicles
@@ -184,6 +196,48 @@ training_records:
 - date: 10/17/2022
   course: PDP12661
   title: 2021-6 TT Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2022
+  course: PDP28611
+  title: 2022-2- CAO Legal Updates for 02/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2022
+  course: PDP03561
+  title: 2022-1 CHO House Bill 2928 EO Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2022
+  course: PDP07649
+  title: 2022-1 CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2022
+  course: PDP11083
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2022
+  course: PDP44715
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2022
+  course: PDP36255
+  title: 2022 Queer Policy - Policy Scenarios
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -202,6 +256,24 @@ training_records:
 - date: 10/14/2022
   course: PDP26856
   title: 2021-9 CAO Legal Updates for 09/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2022
+  course: PDP07693
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2022
+  course: PDP35747
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2022
+  course: PDP18312
+  title: 2022 Training 3M N Series Helmet
   status: Passed
   score: '0.0'
   hours: '0.25'

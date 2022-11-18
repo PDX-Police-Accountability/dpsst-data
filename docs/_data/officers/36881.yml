@@ -56,6 +56,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2022
+  course: SAG29613
+  title: 2022 Organized Crime Conference
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/9/2022
+  course: SAG30474
+  title: 2022 Organized Crime Conference
+  status: ''
+  score: '0.0'
+  hours: '0.00'
+- date: 11/9/2022
+  course: SAG07519
+  title: 2022 Organized Crime Conference
+  status: ''
+  score: '0.0'
+  hours: '0.00'
+- date: 11/8/2022
+  course: SAG26387
+  title: 2022 Organized Crime Conference
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/15/2022
   course: SAG02166
   title: Firearms

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/11/2022
+  course: WLP33367
+  title: Emergency Operations Plan Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/13/2022
   course: PDP42433
   title: Intoxylizer 8000 certification

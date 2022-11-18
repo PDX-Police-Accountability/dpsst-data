@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP44770 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/27/2022 | PDP12607 | FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Instructed | 0.0 | 7.00 |

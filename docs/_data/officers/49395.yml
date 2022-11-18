@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/25/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/20/2022
   course: PDP02219
   title: DIR 0850.20 Police Response to MH Crisis

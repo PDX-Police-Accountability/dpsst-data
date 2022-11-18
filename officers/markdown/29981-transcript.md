@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |
 | 7/25/2022 | WLP10437 | Active Threat (Shooter) Response | Passed | 0.0 | 8.00 |
 | 7/15/2022 | WLP36075 | Firt Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 7/13/2022 | WLP32007 | Quarterly Firearms Training (Pistol/Carbine) | Passed | 0.0 | 4.00 |

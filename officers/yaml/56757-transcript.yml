@@ -103,8 +103,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 12/29/2021
-  course: F1505404
-  title: "#REF!"
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -121,8 +121,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 12/22/2021
-  course: F1505404
-  title: "#REF!"
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

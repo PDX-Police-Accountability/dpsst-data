@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2022 | SAG29613 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |
+| 11/9/2022 | SAG30474 | 2022 Organized Crime Conference | Passed | 0.0 | 3.00 |
+| 11/9/2022 | SAG07519 | 2022 Organized Crime Conference | Passed | 0.0 | 5.00 |
+| 11/8/2022 | SAG26387 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |
 | 10/18/2022 | SAG38557 | Night / low light shooting courses | Passed | 0.0 | 2.00 |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
 | 8/10/2022 | HUP31112 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |

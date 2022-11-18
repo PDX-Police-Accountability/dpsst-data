@@ -36,9 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/27/2022 | PDP43959 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 10/26/2022 | PDP04111 | Firearms Training | Instructed | 0.0 | 8.00 |
 | 10/19/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/16/2022 | PDP32158 | 2022 Lead Awareness  Safety Trng for Instructors | Passed | 0.0 | 1.25 |
 | 10/11/2022 | PDP28842 | Firearms Training | Instructed | 0.0 | 3.00 |
 | 10/10/2022 | PDP05658 | Firearms Training | Instructed | 0.0 | 3.00 |
 | 10/2/2022 | PDP36883 | Firearms Training | Instructed | 0.0 | 7.00 |

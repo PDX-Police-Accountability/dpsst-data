@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/11/2022
+  course: MNS39047
+  title: Firearms Qualification Daylight
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/30/2022
   course: REG04480
   title: 2022 Police Traffic Safety Conference

@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/22/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/29/2022
   course: PLS34604
   title: CIT/Mental Health

@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2022 | REG09312 | Body Lock, Escaping Quarters Position | Passed | 0.0 | 1.00 |
+| 11/10/2022 | REG07994 | Takedown, Quarters Top Position | Passed | 0.0 | 1.00 |
+| 11/7/2022 | REG23396 | Takedown, Control Quarters Position | Passed | 0.0 | 1.00 |
+| 11/3/2022 | REG25383 | Back Control from the Ground | Passed | 0.0 | 1.00 |
 | 10/24/2022 | REG12825 | Weapon Retention | Passed | 0.0 | 1.00 |
 | 10/20/2022 | REG09502 | Weapon Retention Standing/Ground | Passed | 0.0 | 1.00 |
 | 10/17/2022 | REG21426 | Weapon Retention Standing/Ground | Passed | 0.0 | 1.00 |
