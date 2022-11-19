@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
+| 8/8/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 6/20/2022 | PDS18918 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 6/9/2022 | PDS43165 | Use of Force Reports | Instructed | 0.0 | 3.00 |
 | 6/8/2022 | PDS28698 | Use of Force Reports | Instructed | 0.0 | 3.00 |

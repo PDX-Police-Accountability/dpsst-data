@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/16/2022
+  course: GSP08463
+  title: 2022 Basic Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/27/2022
   course: GSP08384
   title: 2022 Spring Rifle In Service

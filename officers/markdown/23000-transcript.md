@@ -53,6 +53,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/4/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
+| 8/1/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 4/27/2022 | PDS22506 | CIT | Passed | 0.0 | 4.00 |
 | 4/27/2022 | PDS20012 | Evidence Collection | Passed | 0.0 | 2.00 |
 | 4/27/2022 | PDS04562 | Command Use of Force Reviews | Passed | 0.0 | 3.00 |

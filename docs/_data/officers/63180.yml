@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/3/2022
+  course: PDP21221
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

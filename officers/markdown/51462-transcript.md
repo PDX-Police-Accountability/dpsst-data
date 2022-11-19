@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/21/2022 | VND24266 | Domestic Terrorism | Passed | 0.0 | 16.00 |
+| 8/2/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 5/6/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |
 | 4/23/2022 | PDS23113 | Use of Force | Passed | 0.0 | 4.00 |

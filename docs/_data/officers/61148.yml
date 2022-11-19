@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/5/2022
+  course: PDP10530
+  title: DIR 850.22, 850.21, 850.25, 850.20 with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 9/29/2022
   course: PDP02219
   title: DIR 0850.20 Police Response to MH Crisis

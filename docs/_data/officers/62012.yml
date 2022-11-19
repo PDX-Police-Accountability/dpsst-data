@@ -16,17 +16,17 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 11/14/2022
+- status_date: 11/17/2022
   certificate: Police Officer
   level: Basic
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: 1/8/2024
 training_records:
 - date: 11/14/2022
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
+  course: E11PDP19
+  title: FTM Equivalency Review (Portland Police Bureau)
   status: Completed
   score: '0.0'
   hours: '50.00'
@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/18/2022
+  course: PDP27396
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/18/2022
+  course: PDP10530
+  title: DIR 850.22, 850.21, 850.25, 850.20 with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 9/12/2022
   course: PDP37114
   title: DIR 1010.00, Use of Force (effective 11/15/2022)
@@ -557,7 +569,7 @@ training_records:
   title: SFST/DID BP410
   status: Passed
   score: '0.0'
-  hours: '20.00'
+  hours: '24.00'
 - date: 10/28/2021
   course: F6F38551
   title: Intox 8000 Bp 410

@@ -69,12 +69,21 @@
 | 10/17/2022 | PDP11083 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 10/17/2022 | PDP44715 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 10/17/2022 | PDP36255 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 10/17/2022 | PDP33137 | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 10/17/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 10/17/2022 | PDP39002 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 10/17/2022 | PDP16534 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 10/17/2022 | PDP28741 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 10/14/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 10/14/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/14/2022 | PDP26856 | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
 | 10/14/2022 | PDP07693 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 10/14/2022 | PDP35747 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 10/14/2022 | PDP18312 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 10/14/2022 | PDP14393 | Directive 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
+| 10/14/2022 | PDP36363 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 10/14/2022 | PDP28248 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/14/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 7/14/2022 | F6R17303 | Firearms: Vehicle Close Quarters Battle/40mm | Passed | 0.0 | 3.00 |
 | 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/19/2022 | F6R15275 | Active Threat Response/Tactical Medicine | Passed | 0.0 | 2.00 |

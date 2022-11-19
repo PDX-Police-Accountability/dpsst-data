@@ -86,12 +86,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/25/2022
+  course: PDP10530
+  title: DIR 850.22, 850.21, 850.25, 850.20 with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/18/2022
   course: PDP36211
   title: 2022 Crowd Management
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/18/2022
+  course: PDP36363
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/17/2022
   course: PDP27649
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -110,6 +122,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/17/2022
+  course: PDP39002
+  title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2022
+  course: PDP16534
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/8/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/19/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 8/4/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 8/3/2022 | PDS40825 | ConSim | Passed | 0.0 | 8.00 |
 | 7/27/2022 | PDS06193 | Civil Process | Passed | 0.0 | 1.00 |

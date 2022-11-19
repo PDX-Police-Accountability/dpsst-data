@@ -24,12 +24,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/13/2022
+  course: GBP42793
+  title: CQB / Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/11/2022
+  course: GBP22350
+  title: CQB Pistol / Rifle
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/20/2022
   course: PDP28840
   title: 2022-3 CAO Legal Updates for 03/2022
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/20/2022
+  course: PDP27396
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/19/2022
+  course: PDP10530
+  title: DIR 850.22, 850.21, 850.25, 850.20 with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/5/2022
   course: HDA44776
   title: Snapchat Inveatigations Course

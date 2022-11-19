@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/25/2022
+  course: PDS09153
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2022
+  course: PDS13906
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/20/2022
   course: PDS44647
   title: Patrol Unit Supervisors Meeting

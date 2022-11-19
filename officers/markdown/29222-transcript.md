@@ -47,6 +47,7 @@
 | 8/11/2022 | GSP21949 | 2022 Crimes Against Children Conference | Passed | 0.0 | 16.25 |
 | 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
+| 7/16/2022 | GSP08463 | 2022 Basic Rifle | Instructed | 0.0 | 10.00 |
 | 6/27/2022 | GSP08384 | 2022 Spring Rifle In Service | Instructed | 0.0 | 5.00 |
 | 6/24/2022 | GSP26062 | OneNote: Digital Case Management | Passed | 0.0 | 16.00 |
 | 6/20/2022 | GSP44643 | 2022 Spring Instructor Rifle In Service | Passed | 0.0 | 10.00 |

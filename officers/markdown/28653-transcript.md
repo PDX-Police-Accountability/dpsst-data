@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |
+| 11/15/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |
 | 10/13/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 10/13/2022 | ICE01456 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Instructed | 0.0 | 16.00 |

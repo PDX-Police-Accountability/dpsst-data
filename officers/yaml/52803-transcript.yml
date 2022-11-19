@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/7/2022
+  course: PDP29500
+  title: Digital Data Exploitation
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 9/30/2022
   course: PDP31358
   title: 2022-4 CAO Legal Updates for 04/2022
@@ -70,6 +76,12 @@ training_records:
 - date: 9/30/2022
   course: PDP28840
   title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2022
+  course: PDP27396
+  title: 2022-4 CAO Legal Updates for 04/2022
   status: Passed
   score: '0.0'
   hours: '0.25'

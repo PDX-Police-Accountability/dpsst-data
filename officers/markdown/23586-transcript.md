@@ -34,6 +34,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/24/2022 | PDS02080 | Firearms Training | Passed | 0.0 | 6.00 |
+| 9/12/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |
 | 7/25/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/25/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 6/7/2022 | PDS04015 | CIT | Passed | 0.0 | 4.00 |

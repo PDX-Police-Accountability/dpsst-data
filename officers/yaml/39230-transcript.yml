@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/11/2022
+  course: EGP01973
+  title: 2022 Sergeant Academy Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/27/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

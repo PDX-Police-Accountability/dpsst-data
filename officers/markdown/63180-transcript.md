@@ -35,3 +35,4 @@
 | 10/28/2022 | PDP12513 | Firearms Training | Passed | 0.0 | 6.00 |
 | 10/27/2022 | PDP43959 | Firearms Training | Passed | 0.0 | 6.00 |
 | 10/26/2022 | PDP04111 | Firearms Training | Passed | 0.0 | 8.00 |
+| 10/3/2022 | PDP21221 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2022 | PDS38818 | Patrol Rifle | Passed | 0.0 | 30.00 |
 | 10/14/2022 | PDS40955 | TASER | Passed | 0.0 | 8.00 |
 | 10/13/2022 | PDS35384 | Off-Duty Carry | Passed | 0.0 | 1.00 |
 | 10/12/2022 | PDS39700 | Patrol Tactics | Passed | 0.0 | 8.00 |
@@ -48,7 +49,10 @@
 | 10/4/2022 | PDS38619 | Ethics  IAU | Passed | 0.0 | 2.00 |
 | 10/4/2022 | PDS39189 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 10/4/2022 | PDS39809 | Wellness | Passed | 0.0 | 1.00 |
+| 9/30/2022 | PDS08408 | Civil Process | Passed | 0.0 | 1.00 |
 | 9/28/2022 | PDS35405 | CPR-First Aid | Passed | 0.0 | 2.00 |
+| 9/27/2022 | PDS29027 | Homeless Outreach | Passed | 0.0 | 1.00 |
+| 9/27/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/24/2020 | PDP00739 | 2020 City Attorney's Gathright Decision Refresher | Passed | 0.0 | 0.25 |
 | 5/13/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
 | 5/13/2020 | PDP15453 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |

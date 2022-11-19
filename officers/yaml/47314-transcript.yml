@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/20/2022
+  course: PDS37568
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/19/2022
+  course: PDS40603
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/22/2022
   course: PDS10376
   title: Force Entry

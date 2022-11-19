@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 9/22/2022 | Portland Police Bureau | Hired | Police Off |  |  |
+| 12/15/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 | 4/8/2019 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 4/1/2019 | Multnomah County Sheriff's Office | Resigned | Reserve |  |  |
 | 7/24/2018 | Multnomah County Sheriff's Office | Hired | Reserve |  |  |
@@ -21,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/22/2022 | Police Officer | Basic | Required |  |  | 3/22/2024 |
+| 12/15/2022 | Police Officer | Basic | Required |  |  | 6/15/2024 |
 | 11/26/2019 | Corrections Officer | Basic | Granted | 11/26/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/17/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/16/2022 | HBS22182 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |

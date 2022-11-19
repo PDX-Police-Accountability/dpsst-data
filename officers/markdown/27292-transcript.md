@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/5/2022 | PDS18361 | Leadership | Passed | 0.0 | 0.50 |
+| 9/11/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |
 | 9/7/2022 | PDS15440 | Leadership Training | Passed | 0.0 | 0.50 |
 | 7/25/2022 | BNS25042 | Objective Jail Classification | Passed | 0.0 | 24.00 |
 | 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |

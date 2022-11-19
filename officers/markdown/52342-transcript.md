@@ -58,6 +58,14 @@
 | 10/10/2022 | PDP35747 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP36255 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP18312 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP33137 | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 10/10/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
+| 10/10/2022 | PDP39002 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP16534 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 10/10/2022 | PDP28741 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 10/10/2022 | PDP36363 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 10/10/2022 | PDP28248 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |

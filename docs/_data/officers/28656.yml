@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2022
+  course: TGP37401
+  title: Motivational Ethics
+  status: ''
+  score: '0.0'
+  hours: '2.00'
 - date: 9/15/2022
   course: TGP42147
   title: Fall Firearms Training

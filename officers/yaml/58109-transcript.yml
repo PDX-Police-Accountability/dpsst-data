@@ -96,6 +96,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/30/2022
+  course: PDP27396
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2022
+  course: PDP10530
+  title: DIR 850.22, 850.21, 850.25, 850.20 with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 9/20/2022
   course: PDP24309
   title: 'SERT: Entry, Downed Officer, HRT, Scenario'

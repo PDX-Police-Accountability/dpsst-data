@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2022
+  course: PDS32233
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/22/2022
   course: PDS03881
   title: Fentanyl

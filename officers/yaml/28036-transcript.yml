@@ -56,6 +56,12 @@ certification_records:
   expiration_date: 1/21/2026
   probation_date: ''
 training_records:
+- date: 8/22/2022
+  course: PDS37568
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/22/2021
   course: PDS21233
   title: OSHA  Bloodborne Pathogens

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2022
+  course: PDS38818
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 10/14/2022
   course: PDS40955
   title: TASER
@@ -128,12 +134,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/30/2022
+  course: PDS08408
+  title: Civil Process
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/28/2022
   course: PDS35405
   title: CPR-First Aid
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/27/2022
+  course: PDS29027
+  title: Homeless Outreach
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2022
+  course: PDS40603
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/24/2020
   course: PDP00739
   title: 2020 City Attorney's Gathright Decision Refresher

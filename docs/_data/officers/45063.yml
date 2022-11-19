@@ -56,6 +56,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/21/2022
+  course: PDP27396
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/20/2022
+  course: PDP10530
+  title: DIR 850.22, 850.21, 850.25, 850.20 with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/11/2022
+  course: PDP42073
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/11/2022
+  course: PDP29722
+  title: HR Rule 2.02, Prohibition Against Wrkpl Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2022
+  course: PDP14329
+  title: UDAR Guide - Approving (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2022
+  course: PDP34136
+  title: UDAR Guide - Coaches Pay (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2022
+  course: PDP01434
+  title: UDAR Guide - Requesting (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/10/2022
   course: PDP00909
   title: 2020 Trng Managing Critical Incdt Well Sgts Role

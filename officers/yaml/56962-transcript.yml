@@ -55,6 +55,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/3/2022
+  course: HBN44551
+  title: Motivational Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/26/2022
   course: 22-0005
   title: DPSST Basic Parole and Probation

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 12/22/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/6/2021 | PDP18297 | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 12/15/2020 | PDP07824 | 2020-10 City Attorney's Office Legal Updates 10/20 | Passed | 0.0 | 0.25 |

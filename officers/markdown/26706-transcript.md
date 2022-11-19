@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |
+| 8/10/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
+| 8/3/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 6/1/2022 | PDS18438 | CIT | Passed | 0.0 | 4.00 |
 | 6/1/2022 | PDS08777 | Use of Force Reports | Passed | 0.0 | 3.00 |
 | 4/17/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |

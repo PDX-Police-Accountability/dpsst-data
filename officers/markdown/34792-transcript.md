@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2022 | MFS14792 | EVOC pursuits, spikes, arrest tactics | Passed | 0.0 | 4.00 |
 | 11/4/2022 | ADP03169 | Taser 7 Annual Recertification | Instructed | 0.0 | 3.00 |
 | 10/17/2022 | TAP30889 | Pipeline Emergency Response Guidelines 2022 | Passed | 0.0 | 1.00 |
 | 10/11/2022 | ADP38301 | Taser Instructor | Passed | 0.0 | 8.00 |

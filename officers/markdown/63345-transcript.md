@@ -50,6 +50,13 @@
 | 10/23/2022 | PDP44715 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 10/23/2022 | PDP36255 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 10/23/2022 | PDP18312 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 10/23/2022 | PDP33137 | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 10/23/2022 | PDP14393 | Directive 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
+| 10/23/2022 | PDP12800 | DIR 660.10, Property and Evidence Procedures | Passed | 0.0 | 0.50 |
+| 10/23/2022 | PDP39002 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 10/23/2022 | PDP28741 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 10/23/2022 | PDP28248 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/23/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 10/21/2022 | PDP37441 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
 | 10/21/2022 | PDP23799 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
 | 10/21/2022 | PDP20341 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
@@ -65,6 +72,10 @@
 | 10/21/2022 | PDP03561 | 2022-1 CHO House Bill 2928 EO Crowd Control | Passed | 0.0 | 0.25 |
 | 10/21/2022 | PDP07649 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 10/21/2022 | PDP35747 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 10/21/2022 | PDP16534 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 10/21/2022 | PDP36363 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 10/21/2022 | PDP21221 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/18/2022 | PDP44778 | Field Training Eval Program Orientation | Passed | 0.0 | 6.00 |
 | 10/17/2022 | PDP23129 | Control Tactics: Handcuffing, etc. | Passed | 0.0 | 4.00 |
 | 10/11/2022 | PDP28842 | Firearms Training | Passed | 0.0 | 3.00 |

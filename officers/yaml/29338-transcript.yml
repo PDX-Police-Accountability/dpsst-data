@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2022
+  course: PDS38818
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 9/30/2022
   course: PDS33076
   title: MIDD Training

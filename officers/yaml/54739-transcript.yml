@@ -29,6 +29,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 9/1/2022
+  course: PDS40603
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/2/2022
+  course: PDS37568
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/13/2022
   course: PDS28431
   title: Taser Recertification

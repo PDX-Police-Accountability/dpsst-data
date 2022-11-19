@@ -31,7 +31,9 @@
 | 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/30/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/30/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/22/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/17/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 10/16/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 9/16/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/4/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/26/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
@@ -115,7 +117,7 @@
 | 1/5/2022 | PDP14317 | 2022 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 12/22/2021 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
-| 11/17/2021 | BPT21848 | SFST/DID BP410 | Passed | 0.0 | 20.00 |
+| 11/17/2021 | BPT21848 | SFST/DID BP410 | Passed | 0.0 | 24.00 |
 | 11/2/2021 | F6F22952 | Intox 8000 Bp 410 | Passed | 0.0 | 0.00 |
 | 8/9/2021 | PDP41627 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/29/2021 | PDP32847 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

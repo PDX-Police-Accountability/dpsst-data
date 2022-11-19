@@ -40,6 +40,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/7/2022 | PDS35785 | Firearsm Training | Passed | 0.0 | 3.00 |
 | 10/7/2022 | PDS39944 | Range Qualification | Passed | 0.0 | 2.00 |
+| 8/20/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
+| 8/19/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/22/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 6/8/2022 | PDS41667 | CIT | Passed | 0.0 | 4.00 |
 | 6/8/2022 | PDS08484 | Evidence Collection | Passed | 0.0 | 2.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2022 | HBN28748 | Ethics and Personal Decision Making | Passed | 0.0 | 2.00 |
 | 10/4/2022 | HBN07766 | Suicide Prevention and Intervention | Passed | 0.0 | 1.00 |
 | 9/27/2022 | HBN03095 | "988 and the Future of Crisis Response" | Passed | 0.0 | 1.00 |
 | 9/5/2022 | HBN10767 | Airway Circulatory Anatomy and Physiology (ACAP) | Passed | 0.0 | 2.00 |

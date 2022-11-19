@@ -167,6 +167,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/1/2022
+  course: PDS37568
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/27/2022
   course: PDS22506
   title: CIT
