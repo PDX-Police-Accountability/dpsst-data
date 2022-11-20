@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/19/2023 | GSP19639 | CPR and First Aid | Passed | 0.0 | 8.00 |
+| 11/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 11/3/2022 | GSP34382 | Officer Decision Making: Qualified Immunity | Passed | 0.0 | 1.50 |
 | 9/16/2022 | GSP27130 | The Internet: Investigations and Intelligence | Passed | 0.0 | 16.00 |
 | 9/14/2022 | GSP03764 | NW Regional Human Trafficking Workshop | Passed | 0.0 | 8.00 |

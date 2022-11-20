@@ -52,7 +52,7 @@
 | 9/1/2019 | F6D20435 | September Emergency Training - Bomb Threat | Passed | 0.0 | 1.00 |
 | 9/1/2019 | F6D08845 | Workign with Offenders Who May Have PTSD | Passed | 0.0 | 1.50 |
 | 8/1/2019 | F6D04473 | August Emergency Training - Escape | Passed | 0.0 | 1.00 |
-| 8/1/2019 | F6D01223 | Offender Rights Part 3 - Use of Force |  | 0.0 | 2.00 |
+| 8/1/2019 | F6D01223 | Offender Rights Part 3 - Use of Force | Passed | 0.0 | 2.00 |
 | 8/1/2019 | F6D10911 | Suicide in Corrections Part 4 | Passed | 0.0 | 2.00 |
 | 7/1/2019 | F6D40028 | July Emergency Training - Flood | Passed | 0.0 | 1.00 |
 | 7/1/2019 | F6D07229 | Crisis Management in Adult Correctional Settings | Passed | 0.0 | 1.25 |
@@ -73,7 +73,7 @@
 | 3/4/2019 | F6D34706 | Energency Preparednsess | Passed | 0.0 | 1.00 |
 | 3/4/2019 | F6D30055 | PREA: Dynamics of Sexual Abuse | Passed | 0.0 | 2.00 |
 | 2/22/2019 | F6D13889 | Counter Assault Tactics (Combatives) | Passed | 0.0 | 1.00 |
-| 2/15/2019 | F6D32075 | TruNarc |  | 0.0 | 2.00 |
+| 2/15/2019 | F6D32075 | TruNarc | Passed | 0.0 | 2.00 |
 | 2/4/2019 | F6D19016 | Common Mental Health Conditions in Veterans | Passed | 0.0 | 2.50 |
 | 2/4/2019 | F6D31124 | Janurary Emergency Preparedness: Fire Extinguisher | Passed | 0.0 | 1.00 |
 | 2/4/2019 | F6D21178 | Professional Ethics in Corrections:Best Practices | Passed | 0.0 | 3.00 |

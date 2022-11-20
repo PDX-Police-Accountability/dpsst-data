@@ -180,7 +180,7 @@ training_records:
 - date: 8/1/2019
   course: F6D01223
   title: Offender Rights Part 3 - Use of Force
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '2.00'
 - date: 8/1/2019
@@ -306,7 +306,7 @@ training_records:
 - date: 2/15/2019
   course: F6D32075
   title: TruNarc
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '2.00'
 - date: 2/4/2019

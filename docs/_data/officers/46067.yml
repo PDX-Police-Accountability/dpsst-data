@@ -200,6 +200,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/5/2022
+  course: PDP09900
+  title: NW Gang Invest. Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 7/21/2022
   course: PDP37678
   title: SERT Firearms Training

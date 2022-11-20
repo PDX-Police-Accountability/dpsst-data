@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
 | 9/2/2022 | TDP44834 | Use of Less Lethal Force | Passed | 0.0 | 1.00 |

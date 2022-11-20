@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/12/2022 | TGP37401 | Motivational Ethics |  | 0.0 | 2.00 |
+| 10/15/2022 | TGP22586 | Annual Holding Cell Training | Passed | 0.0 | 0.50 |
 | 9/19/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
 | 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |

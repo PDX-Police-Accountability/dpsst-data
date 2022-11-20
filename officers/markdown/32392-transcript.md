@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/18/2022 | TGP21919 | ROVT Operator Training | Instructed | 0.0 | 1.50 |
+| 10/15/2022 | TGP22586 | Annual Holding Cell Training | Passed | 0.0 | 0.50 |
 | 9/26/2022 | TGP42147 | Fall Firearms Training | Instructed | 0.0 | 8.00 |
 | 9/22/2022 | TGP42147 | Fall Firearms Training | Instructed | 0.0 | 8.00 |
 | 9/19/2022 | TGP42147 | Fall Firearms Training | Instructed | 0.0 | 8.00 |

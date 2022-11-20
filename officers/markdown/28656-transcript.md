@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/12/2022 | TGP37401 | Motivational Ethics |  | 0.0 | 2.00 |
+| 10/15/2022 | TGP22586 | Annual Holding Cell Training | Passed | 0.0 | 0.50 |
 | 9/15/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
 | 6/3/2022 | TGP35064 | Lock Picking, Bypassing  Subtle Mech Breaching | Passed | 0.0 | 16.00 |
 | 5/23/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |

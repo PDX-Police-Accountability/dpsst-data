@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/12/2022
+  course: F6R00990
+  title: Combat Application Tourniquet
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/25/2022
   course: PDS03881
   title: Fentanyl

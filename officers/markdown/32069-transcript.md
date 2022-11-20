@@ -37,9 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2022 | SDP09363 | Defensive Tactics | Instructed | 0.0 | 2.50 |
 | 11/14/2022 | REG09312 | Body Lock, Escaping Quarters Position | Passed | 0.0 | 1.00 |
 | 11/10/2022 | REG07994 | Takedown, Quarters Top Position | Passed | 0.0 | 1.00 |
 | 11/9/2022 | SDP27332 | Defensive Tactics | Instructed | 0.0 | 2.00 |
+| 11/9/2022 | SDP38498 | Taser X2 Rcertification Of CEW | Passed | 0.0 | 4.00 |
 | 11/7/2022 | REG23396 | Takedown, Control Quarters Position | Passed | 0.0 | 1.00 |
 | 11/3/2022 | REG25383 | Back Control from the Ground | Passed | 0.0 | 1.00 |
 | 10/24/2022 | REG12825 | Weapon Retention | Passed | 0.0 | 1.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2022 | MKL22194 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/22/2022 | MKL31498 | Understanding Oregon's Ethics Laws | Passed | 0.0 | 1.50 |
 | 8/10/2022 | MKL24249 | Resiliency | Passed | 0.0 | 3.00 |

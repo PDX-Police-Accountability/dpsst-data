@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2022
+  course: SAG41241
+  title: New Trends in Obtaining  Mapping Location Data
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/3/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

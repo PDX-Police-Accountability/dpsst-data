@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/10/2022 | SAG29613 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |
+| 11/10/2022 | SAG44239 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |
 | 11/9/2022 | SAG30474 | 2022 Organized Crime Conference |  | 0.0 | 0.00 |
 | 11/9/2022 | SAG07519 | 2022 Organized Crime Conference |  | 0.0 | 0.00 |
 | 11/8/2022 | SAG26387 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |

@@ -124,6 +124,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2022
+  course: LGS10575
+  title: Rifle night training
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/10/2022
   course: LGS09574
   title: Firearms/Use of Force

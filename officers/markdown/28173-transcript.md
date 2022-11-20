@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2022 | MKL22194 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2022 | MKL12687 | LEDS re-certification | Passed | 0.0 | 1.00 |
 | 10/20/2022 | MKL19291 | LEDS Re-certification | Passed | 0.0 | 1.00 |
