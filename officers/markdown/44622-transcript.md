@@ -43,6 +43,9 @@
 | 10/14/2022 | OSH42347 | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
 | 10/13/2022 | OSH08653 | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
 | 9/16/2022 | OSH37404 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
+| 9/12/2022 | OSH24823 | Adult/Child CPR | Passed | 0.0 | 4.00 |
+| 9/12/2022 | OSH01878 | Naloxone/Narcan | Passed | 0.0 | 0.50 |
+| 9/12/2022 | OSH11934 | First Aid | Passed | 0.0 | 3.50 |
 | 9/2/2022 | OSH42024 | 2nd Trimester DT / Taser Recertification | Passed | 0.0 | 4.00 |
 | 9/2/2022 | OSH42862 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
 | 8/11/2022 | OSH24317 | Firearms In-Service | Passed | 0.0 | 24.00 |

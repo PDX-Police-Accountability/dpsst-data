@@ -124,7 +124,7 @@
 | 9/27/2017 | F6A09801 | Leading on Empty-Lessons Learned for Rock Bottom | Passed | 0.0 | 1.25 |
 | 9/20/2017 | F6C24320 | Qualifications/Training-Rifles | Passed | 0.0 | 3.00 |
 | 9/20/2017 | F6C38147 | Firearms-Qualifications (Secondary Weapons) | Passed | 0.0 | 1.00 |
-| 7/18/2017 | MKP26906 | Lake Oswego Protest Debrief March 4, 2017 |  | 0.0 | 1.50 |
+| 7/18/2017 | MKP26906 | Lake Oswego Protest Debrief March 4, 2017 | Passed | 0.0 | 1.50 |
 | 6/28/2017 | CAP18394 | Active Shooter - tactical response | Passed | 0.0 | 4.00 |
 | 6/27/2017 | F6C11870 | Threat Assessment-Salem/Keizer Model | Passed | 0.0 | 16.00 |
 | 4/19/2017 | F6C00718 | Firearms Training | Passed | 0.0 | 3.00 |

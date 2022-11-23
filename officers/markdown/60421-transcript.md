@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 11/16/2022 | SAG15279 | ICAC 101 | Passed | 0.0 | 8.00 |
 | 10/19/2022 | SAG13289 | CPR,AED,Basic First AID | Passed | 0.0 | 4.00 |
 | 10/18/2022 | SAG38557 | Night / low light shooting courses | Passed | 0.0 | 2.00 |
 | 9/15/2022 | PDP25521 | Interview  Interrogation Training | Passed | 0.0 | 24.00 |

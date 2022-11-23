@@ -37,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2025 | PDP03489 | Extreme Ownership: Leadership | Passed | 0.0 | 4.00 |
+| 11/9/2022 | PDP26151 | K-9 Weekly: Policy Review  Training Tracking | Passed | 0.0 | 4.00 |
+| 11/2/2022 | PDP21315 | K-9 Weekly: Searches, Obedience, De-escalation | Passed | 0.0 | 3.00 |
 | 10/15/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 10/12/2022 | PDP42677 | K9 Training: Debriefs, De-escalation, Searches | Instructed | 0.0 | 2.00 |
 | 10/6/2022 | PDP32158 | 2022 Lead Awareness  Safety Trng for Instructors | Passed | 0.0 | 1.25 |

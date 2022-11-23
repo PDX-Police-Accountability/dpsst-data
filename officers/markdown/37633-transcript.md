@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2022 | PDP26151 | K-9 Weekly: Policy Review  Training Tracking | Passed | 0.0 | 4.00 |
+| 11/2/2022 | PDP21315 | K-9 Weekly: Searches, Obedience, De-escalation | Instructed | 0.0 | 3.00 |
 | 10/26/2022 | PDP03949 | K9 De-escalation  Building Search Training | Instructed | 0.0 | 2.00 |
 | 10/19/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/19/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |

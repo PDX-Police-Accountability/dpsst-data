@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2022 | PDP39508 | EDU Weekly: Robot and Rigging Training | Passed | 0.0 | 9.00 |
+| 11/2/2022 | PDP01355 | EDU weekly: Scenario Training | Passed | 0.0 | 9.00 |
+| 10/26/2022 | PDP10937 | EDU Weekly Training: X-Ray  RSP | Instructed | 0.0 | 9.00 |
 | 10/7/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/7/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/7/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |

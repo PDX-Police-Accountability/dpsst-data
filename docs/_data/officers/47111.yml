@@ -253,6 +253,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/25/2021
+  course: BVP14317
+  title: De-Escalation and CIT Techniques
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/26/2021
   course: BVP01451
   title: Measure 110  Officer Investigative Authority
@@ -400,6 +406,12 @@ training_records:
 - date: 2/27/2020
   course: BVP21644
   title: First Aid/ AED
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2020
+  course: BVP14317
+  title: De-Escalation and CIT Techniques
   status: Passed
   score: '0.0'
   hours: '1.00'

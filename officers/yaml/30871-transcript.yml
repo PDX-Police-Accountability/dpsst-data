@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2022
+  course: OSH06858
+  title: VERBAL JUDO-TACTICAL COMMUNICATION
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/14/2022
   course: OSH02130
   title: OSP 2nd Trimester Defensive Tactics/Taser Re-Cert
@@ -2152,12 +2158,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 5/13/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 5/12/2015
   course: 15-0256
   title: Sniper Training
@@ -2176,12 +2176,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '13.00'
-- date: 4/15/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 4/14/2015
   course: 15-0256
   title: Sniper Training
@@ -2200,57 +2194,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 2/12/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 2/11/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
-- date: 2/10/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 2/10/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 2/10/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 2/10/2015
   course: F6E17217
-  title: SWAT - Swimming Practical
+  title: OSP SWAT TRAINING
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 2/10/2015
   course: F6E22467
-  title: SWAT Training - Officer Rescue, Building Clears
+  title: OSP SWAT TRAINING
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 2/9/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '4.00'
-- date: 2/9/2015
   course: F6E35620
-  title: OSP SWAT Training , GPS Navigation
+  title: OSP SWAT TRAINING
   status: Instructed
   score: '0.0'
   hours: '4.00'
@@ -2268,7 +2226,7 @@ training_records:
   hours: '6.00'
 - date: 1/14/2015
   course: F6E07871
-  title: OSP SWAT Training
+  title: OSP SWAT TRAINING
   status: Passed
   score: '0.0'
   hours: '4.00'

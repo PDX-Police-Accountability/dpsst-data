@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 11/16/2022
+  course: SAG15279
+  title: ICAC 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/19/2022
   course: SAG13289
   title: CPR,AED,Basic First AID

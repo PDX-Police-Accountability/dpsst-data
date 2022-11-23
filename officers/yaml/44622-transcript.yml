@@ -98,6 +98,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 9/12/2022
+  course: OSH24823
+  title: Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/12/2022
+  course: OSH01878
+  title: Naloxone/Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2022
+  course: OSH11934
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/2/2022
   course: OSH42024
   title: 2nd Trimester DT / Taser Recertification

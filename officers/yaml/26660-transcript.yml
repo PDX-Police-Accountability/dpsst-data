@@ -3267,14 +3267,8 @@ training_records:
   score: '0.0'
   hours: '10.00'
 - date: 2/12/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '4.00'
-- date: 2/12/2015
   course: F6E36930
-  title: OSP SWAT Training - Hostage
+  title: OSP SWAT Training
   status: Instructed
   score: '0.0'
   hours: '4.00'

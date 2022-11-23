@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2022 | PDP10589 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 11/4/2022 | PDP26684 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 11/3/2022 | PDP13295 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 10/27/2022 | PDP43959 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 10/26/2022 | PDP04111 | Firearms Training | Instructed | 0.0 | 8.00 |
 | 10/22/2022 | HSU43777 | Defensive Tactics Fall In-Service 2022 | Instructed | 0.0 | 3.00 |

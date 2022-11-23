@@ -69,6 +69,7 @@
 | 2/25/2021 | BVP14653 | Measure 110/ Search  Seizure Refresher | Passed | 0.0 | 1.50 |
 | 2/25/2021 | BVP23195 | OC Refresher | Passed | 0.0 | 0.50 |
 | 2/25/2021 | BVP04648 | Taser ReCertification | Passed | 0.0 | 1.50 |
+| 2/25/2021 | BVP14317 | De-Escalation and CIT Techniques | Passed | 0.0 | 2.00 |
 | 1/26/2021 | BVP01451 | Measure 110  Officer Investigative Authority | Passed | 0.0 | 0.50 |
 | 12/22/2020 | BVP23816 | OSHA COVID-19 Training | Passed | 0.0 | 0.50 |
 | 12/15/2020 | BVP32367 | Temp Hold Facility, Fire Safety  Evacuation | Passed | 0.0 | 0.50 |
@@ -94,6 +95,7 @@
 | 2/27/2020 | BVP17531 | De-escalation Techniques | Passed | 0.0 | 1.00 |
 | 2/27/2020 | BVP37334 | Force on Force Scenario Training | Passed | 0.0 | 2.50 |
 | 2/27/2020 | BVP21644 | First Aid/ AED | Passed | 0.0 | 1.00 |
+| 2/27/2020 | BVP14317 | De-Escalation and CIT Techniques | Passed | 0.0 | 1.00 |
 | 2/26/2020 | BVP00695 | Control Tactics - Baton and Ground Control | Passed | 0.0 | 1.50 |
 | 2/26/2020 | BVP34274 | Search and Seizure Update | Passed | 0.0 | 1.50 |
 | 2/26/2020 | BVP27962 | Taser Recertification | Passed | 0.0 | 6.00 |

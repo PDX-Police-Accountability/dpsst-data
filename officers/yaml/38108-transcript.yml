@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 9/21/2022
+  course: PDP06991
+  title: OR Police Canine Assoc Fall Seminar
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 9/14/2022
   course: PDP03541
   title: 'K-9 Training: de-escalation, scenario, etc.'

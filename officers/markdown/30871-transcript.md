@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/22/2022 | OSH06858 | VERBAL JUDO-TACTICAL COMMUNICATION | Instructed | 0.0 | 4.00 |
 | 9/14/2022 | OSH02130 | OSP 2nd Trimester Defensive Tactics/Taser Re-Cert | Instructed | 0.0 | 8.00 |
 | 8/31/2022 | OSH32434 | OSP 2nd Trimester Defensive Tactics/Taser Re-Cert | Instructed | 0.0 | 8.00 |
 | 8/22/2022 | OSH30379 | Taser X2 Instructor Certification | Instructed | 0.0 | 6.00 |
@@ -385,26 +386,18 @@
 | 6/19/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 40.00 |
 | 6/11/2015 | 15-0114 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 5/14/2015 | 15-0955 | First Aid | Passed | 0.0 | 2.00 |
-| 5/13/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 5/12/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 10.00 |
 | 4/22/2015 | 15-0568 | Oregon Tactical Officers Association Conference | Passed | 0.0 | 16.00 |
 | 4/16/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 13.00 |
-| 4/15/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 4/14/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 13.00 |
 | 4/3/2015 | 15-0114 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/12/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 4.00 |
-| 2/12/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/11/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
-| 2/10/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/10/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
-| 2/10/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
-| 2/10/2015 | F6E17217 | SWAT - Swimming Practical | Passed | 0.0 | 3.00 |
-| 2/10/2015 | F6E22467 | SWAT Training - Officer Rescue, Building Clears | Passed | 0.0 | 4.00 |
-| 2/9/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
-| 2/9/2015 | F6E35620 | OSP SWAT Training , GPS Navigation | Instructed | 0.0 | 4.00 |
+| 2/10/2015 | F6E17217 | OSP SWAT TRAINING | Passed | 0.0 | 3.00 |
+| 2/10/2015 | F6E22467 | OSP SWAT TRAINING | Passed | 0.0 | 4.00 |
+| 2/9/2015 | F6E35620 | OSP SWAT TRAINING | Instructed | 0.0 | 4.00 |
 | 1/14/2015 | 15-0129 | Firearms Training | Passed | 0.0 | 4.00 |
 | 1/14/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 6.00 |
-| 1/14/2015 | F6E07871 | OSP SWAT Training | Passed | 0.0 | 4.00 |
+| 1/14/2015 | F6E07871 | OSP SWAT TRAINING | Passed | 0.0 | 4.00 |
 | 1/13/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 8.00 |
 | 1/9/2015 | 15-1150 | Emergency Medical Responder | Passed | 0.0 | 2.50 |
 | 1/9/2015 | 15-0974 | Hazardous Materials | Passed | 0.0 | 2.00 |

@@ -66,6 +66,8 @@
 | 6/6/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP17244 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
 | 5/20/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/12/2022 | PDP22536 | Sport  Special Event Enhanced Risk Mgmt | Passed | 0.0 | 15.00 |
+| 5/10/2022 | PDP33851 | 2022 Sport  Special Event Risk Management | Passed | 0.0 | 16.00 |
 | 4/29/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/29/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/29/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

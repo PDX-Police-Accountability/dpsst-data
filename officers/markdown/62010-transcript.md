@@ -31,6 +31,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/23/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/7/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 11/5/2022 | PDP10589 | Firearms Training | Passed | 0.0 | 7.00 |
+| 11/4/2022 | PDP26684 | Firearms Training | Passed | 0.0 | 7.00 |
+| 11/3/2022 | PDP13295 | Firearms Training | Passed | 0.0 | 7.00 |
 | 10/27/2022 | PDP37771 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 7/20/2022 | PDP33927 | 2021 Online In-Service DIR 870.25 Holding Rooms | Passed | 0.0 | 0.25 |
 | 7/20/2022 | PDP02010 | DIR 640.38, Interacting w Members of the LGBTQ | Passed | 0.0 | 0.25 |

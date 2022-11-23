@@ -88,6 +88,7 @@
 | 3/9/2021 | BVP14653 | Measure 110/ Search  Seizure Refresher | Passed | 0.0 | 1.50 |
 | 3/9/2021 | BVP23195 | OC Refresher | Passed | 0.0 | 0.50 |
 | 3/9/2021 | BVP04648 | Taser ReCertification | Passed | 0.0 | 1.50 |
+| 3/9/2021 | BVP14317 | De-Escalation and CIT Techniques | Passed | 0.0 | 2.00 |
 | 2/2/2021 | BVP23816 | OSHA COVID-19 Training | Passed | 0.0 | 0.50 |
 | 2/1/2021 | BVP41165 | First Aid | Passed | 0.0 | 1.00 |
 | 2/1/2021 | BVP02344 | CPR | Passed | 0.0 | 2.00 |

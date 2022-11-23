@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/21/2022
+  course: PDP42817
+  title: 'FBI NA:  National Intel  Information Security'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/20/2022
   course: PDP02219
   title: DIR 0850.20 Police Response to MH Crisis

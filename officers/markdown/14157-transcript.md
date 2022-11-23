@@ -144,7 +144,7 @@
 | 9/27/2017 | F6A09801 | Leading on Empty-Lessons Learned for Rock Bottom | Passed | 0.0 | 1.25 |
 | 9/27/2017 | F6A09803 | Joint Board Meeting | Passed | 0.0 | 1.50 |
 | 9/13/2017 | CAP40255 | 100 Yard Patrol Rifle Training | Passed | 0.0 | 3.00 |
-| 7/18/2017 | MKP26906 | Lake Oswego Protest Debrief March 4, 2017 |  | 0.0 | 1.50 |
+| 7/18/2017 | MKP26906 | Lake Oswego Protest Debrief March 4, 2017 | Passed | 0.0 | 1.50 |
 | 7/12/2017 | CAP13222 | Tactical patrol rifle and handgun competition | Passed | 0.0 | 2.00 |
 | 7/2/2017 | CAP42342 | Ambush Awareness Training | Passed | 0.0 | 1.00 |
 | 6/28/2017 | CAP18394 | Active Shooter - tactical response | Passed | 0.0 | 4.00 |

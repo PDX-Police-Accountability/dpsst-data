@@ -48,6 +48,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 11/5/2022
+  course: PDP10589
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/4/2022
+  course: PDP26684
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/3/2022
+  course: PDP13295
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/27/2022
   course: PDP37771
   title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
