@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/25/2022 | PDS09153 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/25/2022 | PDS13906 | Firearms Training | Instructed | 0.0 | 6.00 |
+| 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/20/2022 | PDS44647 | Patrol Unit Supervisors Meeting | Passed | 0.0 | 3.00 |
 | 10/10/2022 | PDS06689 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/10/2022 | PDS03709 | Firearms Training | Instructed | 0.0 | 3.00 |

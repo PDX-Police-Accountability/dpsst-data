@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2022
+  course: PDS14098
+  title: Narcan Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/27/2022
   course: PDS38818
   title: Patrol Rifle
@@ -158,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/27/2022
+  course: PDS43342
+  title: Policy Access
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/24/2020
   course: PDP00739
   title: 2020 City Attorney's Gathright Decision Refresher

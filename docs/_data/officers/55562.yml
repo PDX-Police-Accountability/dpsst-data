@@ -48,6 +48,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/26/2022
+  course: PDS14098
+  title: Narcan Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/24/2022
   course: PDS02080
   title: Firearms Training

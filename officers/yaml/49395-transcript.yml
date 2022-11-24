@@ -474,6 +474,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 9/21/2021
+  course: PDP42053
+  title: 2021 Training All Sworn Crowd Control Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/6/2021
   course: PDP12662
   title: 2021-9 Tips  Tech Dangers of High/Extreme Heat

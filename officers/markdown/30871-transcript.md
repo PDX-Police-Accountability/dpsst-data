@@ -392,6 +392,7 @@
 | 4/14/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 13.00 |
 | 4/3/2015 | 15-0114 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/12/2015 | 15-0256 | Sniper Training | Passed | 0.0 | 4.00 |
+| 2/11/2015 | F6R36945 | OSP SWAT TRAINING | Passed | 0.0 | 3.00 |
 | 2/10/2015 | F6E17217 | OSP SWAT TRAINING | Passed | 0.0 | 3.00 |
 | 2/10/2015 | F6E22467 | OSP SWAT TRAINING | Passed | 0.0 | 4.00 |
 | 2/9/2015 | F6E35620 | OSP SWAT TRAINING | Instructed | 0.0 | 4.00 |

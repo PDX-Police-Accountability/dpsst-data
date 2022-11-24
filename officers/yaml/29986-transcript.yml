@@ -132,13 +132,13 @@ training_records:
 - date: 3/10/2021
   course: BNS35051
   title: Ethics Bulletin 205
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 3/10/2021
   course: BNS06585
   title: Ethics Bulletin 205
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/12/2020

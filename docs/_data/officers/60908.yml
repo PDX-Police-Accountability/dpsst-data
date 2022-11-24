@@ -162,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 9/27/2021
+  course: PDP42053
+  title: 2021 Training All Sworn Crowd Control Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/4/2021
   course: PDP15108
   title: 2020 CAONewspapers/SimonTRO (resend)

@@ -87,7 +87,7 @@
 | 2/24/2020 | PDP41130 | Taser X2 Operator Course | Passed | 0.0 | 13.00 |
 | 2/18/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/14/2020 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 1/22/2020 | F6D11317 | SFST/DID 395 | Passed | 0.0 | 0.00 |
+| 1/22/2020 | F6D11317 | SFST/DID 395 | Passed | 0.0 | 24.00 |
 | 1/20/2020 | PDP10933 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 11/29/2019 | PDP05742 | IS-241 Decision Making  Problem Solving IS-241b | Passed | 0.0 | 2.00 |
 | 11/27/2019 | PDP03445 | 2019 FTEP Radar LIDAR | Passed | 0.0 | 14.00 |

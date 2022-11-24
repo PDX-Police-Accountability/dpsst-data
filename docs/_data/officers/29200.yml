@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2022
+  course: PDS14098
+  title: Narcan Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/19/2022
   course: PDS37568
   title: Ethics
@@ -472,6 +478,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 9/13/2021
+  course: PDP42053
+  title: 2021 Training All Sworn Crowd Control Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/9/2021
   course: PDP19371
   title: 2021-3 Range Qualification Shotgun Function Check

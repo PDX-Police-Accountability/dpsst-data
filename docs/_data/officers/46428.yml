@@ -555,6 +555,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/5/2021
+  course: PDP42053
+  title: 2021 Training All Sworn Crowd Control Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/4/2021
   course: PDP39944
   title: 2021 OSHA Heat Illness Prevention Video

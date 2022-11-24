@@ -168,6 +168,7 @@
 | 9/22/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/22/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
 | 9/22/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
+| 9/22/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 9/16/2021 | PDP24872 | Return to Work Firearms | Passed | 0.0 | 4.00 |
 | 8/13/2021 | PDP13827 | 2021-2 AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 8/13/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

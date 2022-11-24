@@ -44,7 +44,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/25/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
@@ -224,7 +223,7 @@
 | 1/25/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/25/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 1/24/2019 | PDP32927 | ICS GO191 ICP/EDU | Passed | 0.0 | 8.00 |
-| 1/16/2019 | F6D21308 | ICS 400 |  | 0.0 | 16.00 |
+| 1/16/2019 | F6D21308 | ICS 400 | Passed | 0.0 | 16.00 |
 | 1/3/2019 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2018 | CQS39618 | Stress First Aid for Law Enforcement Personnel | Passed | 0.0 | 4.00 |
 | 12/1/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |

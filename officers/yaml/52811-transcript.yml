@@ -69,6 +69,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 10/21/2022
+  course: PDS14098
+  title: Narcan Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/20/2022
   course: PDS44647
   title: Patrol Unit Supervisors Meeting

@@ -2194,6 +2194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/11/2015
+  course: F6R36945
+  title: OSP SWAT TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/10/2015
   course: F6E17217
   title: OSP SWAT TRAINING

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/3/2022 | DOJ-Criminal Justice Division | Hired | Spec Agent |  |  |
 | 9/30/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/19/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 | 11/8/2019 | Out of State Employment | Resigned | Detective |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/30/2021 | Police Officer | Advanced | Granted-UR | 6/30/2021 | 12/30/2022 |  |
-| 6/30/2021 | Police Officer | Intermediate | Granted-UR | 6/30/2021 | 12/30/2022 |  |
-| 1/28/2021 | Police Officer | Basic | Granted-UR | 1/28/2021 | 12/30/2022 |  |
+| 6/30/2021 | Police Officer | Advanced | Granted-UR | 6/30/2021 |  |  |
+| 6/30/2021 | Police Officer | Intermediate | Granted-UR | 6/30/2021 |  |  |
+| 1/28/2021 | Police Officer | Basic | Granted-UR | 1/28/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -111,6 +112,7 @@
 | 9/16/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/16/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
 | 9/16/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
+| 9/16/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 9/6/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 9/6/2021 | PDP32614 | 2021-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/6/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

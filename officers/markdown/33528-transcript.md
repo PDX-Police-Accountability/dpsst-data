@@ -41,6 +41,7 @@
 | 9/16/2021 | PDP22578 | 2021 SERT Training - Classroom | Passed | 0.0 | 3.00 |
 | 9/16/2021 | PDP13847 | 2021 SERT Training - Iteration | Passed | 0.0 | 4.50 |
 | 9/16/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
+| 9/16/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 9/15/2021 | PDP19172 | 2021 SERT Training - Iteration | Passed | 0.0 | 3.00 |
 | 9/14/2021 | PDP17062 | 2021 SERT Training - Scenario | Passed | 0.0 | 8.50 |
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |

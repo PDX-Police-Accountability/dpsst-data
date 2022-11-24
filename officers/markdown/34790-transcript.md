@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/5/2022 | PDS10386 | Firearms Training | Passed | 0.0 | 2.00 |
 | 10/5/2022 | PDS04765 | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

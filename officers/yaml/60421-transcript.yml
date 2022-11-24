@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/3/2022
+  agency: DOJ-Criminal Justice Division
+  action: Hired
+  rank: Spec Agent
+  classification: ''
+  assignment: ''
 - date: 9/30/2022
   agency: Portland Police Bureau
   action: Resigned
@@ -45,21 +51,21 @@ certification_records:
   level: Advanced
   status: Granted-UR
   certificate_date: 6/30/2021
-  expiration_date: 12/30/2022
+  expiration_date: ''
   probation_date: ''
 - status_date: 6/30/2021
   certificate: Police Officer
   level: Intermediate
   status: Granted-UR
   certificate_date: 6/30/2021
-  expiration_date: 12/30/2022
+  expiration_date: ''
   probation_date: ''
 - status_date: 1/28/2021
   certificate: Police Officer
   level: Basic
   status: Granted-UR
   certificate_date: 1/28/2021
-  expiration_date: 12/30/2022
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 11/16/2022
@@ -482,6 +488,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 9/16/2021
+  course: PDP42053
+  title: 2021 Training All Sworn Crowd Control Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/6/2021
   course: PDP19371
   title: 2021-3 Range Qualification Shotgun Function Check

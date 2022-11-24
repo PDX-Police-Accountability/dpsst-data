@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 9/21/2022 | VND24266 | Domestic Terrorism | Passed | 0.0 | 16.00 |
 | 8/2/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |

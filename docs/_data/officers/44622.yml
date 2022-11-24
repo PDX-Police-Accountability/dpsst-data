@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2022
+  course: OSH17443
+  title: Active Shooter Response
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/2/2022
   course: OSH21256
   title: 3rd Tri Firearms Low Light
@@ -80,6 +86,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 10/19/2022
+  course: OSH07163
+  title: Active Shooter Response
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/14/2022
   course: OSH42347
   title: 3rd Trimester Firearms Low Light

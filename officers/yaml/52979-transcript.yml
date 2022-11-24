@@ -636,6 +636,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/5/2021
+  course: PDP42053
+  title: 2021 Training All Sworn Crowd Control Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/8/2021
   course: PDP25589
   title: 2021 External Training The Advanced SEND Protocol

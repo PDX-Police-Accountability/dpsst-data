@@ -488,6 +488,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 9/20/2021
+  course: PDP42053
+  title: 2021 Training All Sworn Crowd Control Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/4/2021
   course: PDP23514
   title: 2021 Training Response to Calls Involving Youth

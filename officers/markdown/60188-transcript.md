@@ -102,6 +102,7 @@
 | 9/9/2021 | PDP20476 | 2021 Training All Sworn Crowd Control Training Mob | Passed | 0.0 | 0.42 |
 | 9/9/2021 | PDP21907 | 2021 Training All Sworn Crowd Control Training For | Passed | 0.0 | 1.83 |
 | 9/9/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
+| 9/9/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 9/5/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/5/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 9/5/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
@@ -219,7 +220,7 @@
 | 2/24/2020 | PDP14732 | 2020 Youth Educating Police Training | Passed | 0.0 | 0.75 |
 | 2/18/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/14/2020 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 1/22/2020 | F6D11317 | SFST/DID 395 | Passed | 0.0 | 0.00 |
+| 1/22/2020 | F6D11317 | SFST/DID 395 | Passed | 0.0 | 24.00 |
 | 1/22/2020 | PDP38382 | 2019 MCDA Unavoidable Lull Opinion Update | Passed | 0.0 | 0.25 |
 | 1/20/2020 | PDP10933 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 1/18/2020 | PDP28532 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |

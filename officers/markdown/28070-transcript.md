@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/12/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 2.00 |
+| 11/12/2022 | TGP29975 | Motivational Ethics | Passed | 0.0 | 2.00 |
 | 10/15/2022 | TGP22586 | Annual Holding Cell Training | Passed | 0.0 | 0.50 |
 | 9/16/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
 | 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |

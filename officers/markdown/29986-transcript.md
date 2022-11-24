@@ -45,8 +45,8 @@
 | 3/10/2021 | BNS27477 | Fire Evacuation / Behavior | Passed | 0.0 | 1.00 |
 | 3/10/2021 | BNS23034 | UOF | Passed | 0.0 | 4.00 |
 | 3/10/2021 | BNS16260 | Firearms | Passed | 0.0 | 3.00 |
-| 3/10/2021 | BNS35051 | Ethics Bulletin 205 |  | 0.0 | 1.00 |
-| 3/10/2021 | BNS06585 | Ethics Bulletin 205 |  | 0.0 | 1.00 |
+| 3/10/2021 | BNS35051 | Ethics Bulletin 205 | Passed | 0.0 | 1.00 |
+| 3/10/2021 | BNS06585 | Ethics Bulletin 205 | Passed | 0.0 | 1.00 |
 | 8/12/2020 | PDP34210 | 2020 EDU Weekly Training | Passed | 0.0 | 10.00 |
 | 7/31/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/29/2020 | PDP17280 | 2020 EDU Weekly Training | Passed | 0.0 | 10.00 |

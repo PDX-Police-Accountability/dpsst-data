@@ -74,6 +74,12 @@ training_records:
   status: ''
   score: '0.0'
   hours: '2.00'
+- date: 11/12/2022
+  course: TGP29975
+  title: Motivational Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/15/2022
   course: TGP22586
   title: Annual Holding Cell Training
