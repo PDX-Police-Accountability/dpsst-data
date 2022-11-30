@@ -34,6 +34,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2022 | PSU11342 | Qualification / Firearm Training | Passed | 0.0 | 1.00 |
+| 11/1/2022 | PSU44202 | MILO 3000 | Instructed | 0.0 | 2.00 |
+| 9/26/2022 | PSU12472 | Officer Wellness / Mental Health | Passed | 0.0 | 2.00 |
+| 9/5/2022 | PSU21132 | Crisis Intervention - Mentally ill subjects | Passed | 0.0 | 2.00 |
+| 9/5/2022 | PSU01586 | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PSU24314 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/19/2022 | PSU10134 | HB 2513 Airway, Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 7/15/2022 | VND13388 | FTEP | Passed | 0.0 | 24.00 |

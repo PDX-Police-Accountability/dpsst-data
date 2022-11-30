@@ -56,12 +56,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 11/12/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: ''
-  score: '0.0'
-  hours: '2.00'
-- date: 11/12/2022
   course: TGP29975
   title: Motivational Ethics
   status: Passed

@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2022
+  course: HSU24957
+  title: November 2022 Supplemental Range
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/3/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

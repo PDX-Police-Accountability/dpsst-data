@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2022 | MKL24393 | Defensive  Tactics | Passed | 0.0 | 4.00 |
 | 9/8/2022 | MKL18517 | Rec MJ Compliance Dashboard Training | Passed | 0.0 | 1.50 |
 | 9/1/2022 | MKL36163 | Harvest and Compliance Dashboard Overview | Passed | 0.0 | 1.50 |
 | 8/10/2022 | MKL24249 | Resiliency | Passed | 0.0 | 3.00 |

@@ -43,6 +43,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2022
+  course: PSU11342
+  title: Qualification / Firearm Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2022
+  course: PSU44202
+  title: MILO 3000
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/26/2022
+  course: PSU12472
+  title: Officer Wellness / Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/5/2022
+  course: PSU21132
+  title: Crisis Intervention - Mentally ill subjects
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/5/2022
+  course: PSU01586
+  title: Ethics In Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/25/2022
   course: PSU24314
   title: Defensive Tactics

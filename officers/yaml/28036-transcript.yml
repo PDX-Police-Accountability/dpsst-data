@@ -56,6 +56,12 @@ certification_records:
   expiration_date: 1/21/2026
   probation_date: ''
 training_records:
+- date: 11/3/2022
+  course: PDS42454
+  title: MDT-MRE Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/22/2022
   course: PDS37568
   title: Ethics

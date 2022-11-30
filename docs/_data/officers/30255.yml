@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2022
+  course: BPT01449
+  title: Firearms Training and Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/26/2022
   course: BPT39755
   title: Adult Learning Core

@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/18/2022
+  course: MNP43650
+  title: Firearms Night Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/3/2022
   course: MNP24260
   title: S.T.O.P. data refresher training

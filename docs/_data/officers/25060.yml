@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2022
+  course: WBP42726
+  title: Low Light Shooting, Pistol and Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/30/2022
   course: WBP24007
   title: Third Quarter Firearms Qualifications

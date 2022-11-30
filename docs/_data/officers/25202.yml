@@ -41,6 +41,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/1/2022
+  course: PDS12549
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/1/2022
+  course: PDS16611
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/23/2022
   course: PDS44753
   title: Ethics

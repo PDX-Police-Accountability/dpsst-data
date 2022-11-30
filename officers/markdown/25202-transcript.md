@@ -29,6 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2022 | PDS12549 | Firearms Training | Passed | 0.0 | 6.00 |
+| 11/1/2022 | PDS16611 | Range Qualification | Passed | 0.0 | 2.00 |
 | 7/23/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 7/23/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 4/23/2022 | PDS23113 | Use of Force | Passed | 0.0 | 4.00 |

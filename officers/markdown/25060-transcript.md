@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2022 | WBP42726 | Low Light Shooting, Pistol and Rifle | Instructed | 0.0 | 3.50 |
 | 9/30/2022 | WBP24007 | Third Quarter Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/14/2022 | WBP22329 | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 9/1/2022 | WBP44011 | Hazard Communication: The New GHS Standard | Passed | 0.0 | 1.00 |
