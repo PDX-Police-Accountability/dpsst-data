@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
+| 10/27/2022 | PDP28992 | SERT- Rural Movement Training | Passed | 0.0 | 9.00 |
 | 10/20/2022 | PDP44475 | SERT: Control Entry Search Warrants Training | Passed | 0.0 | 5.00 |
 | 10/20/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/13/2022 | PDP37749 | SERT: Weapons Drills | Passed | 0.0 | 9.00 |

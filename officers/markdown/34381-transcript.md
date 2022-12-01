@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2022 | PDP28992 | SERT- Rural Movement Training | Passed | 0.0 | 9.00 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/26/2022 | PDP27596 | 2022 Lead Awareness  Safety Trng for PPB Arms | Passed | 0.0 | 1.25 |

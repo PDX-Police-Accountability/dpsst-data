@@ -112,6 +112,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/15/2022
+  course: VND16788
+  title: Ghost Guns/East Freight Case Review
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2022
+  course: VND14635
+  title: Reframing Your Narrative/Appeals Process
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/14/2022
+  course: VND38409
+  title: 'Case Review: Fretwell Double Homicide'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/14/2022
+  course: VND24860
+  title: Cold Case Evidence
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2022
+  course: VND19969
+  title: Ethos Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/31/2022
   course: STP19554
   title: Annual Qualifications for Firearms

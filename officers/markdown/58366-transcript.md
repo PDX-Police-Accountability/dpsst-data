@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2022 | BSP04855 | Death Investigation | Passed | 0.0 | 4.00 |
 | 8/23/2022 | OSH37574 | Oregon State Police-Crisis Negotiator Training | Passed | 0.0 | 7.00 |
 | 8/5/2022 | OSH35861 | Tactical Decision Making | Passed | 0.0 | 2.00 |
 | 8/5/2022 | OSH12992 | Critical Incident Response | Passed | 0.0 | 2.00 |

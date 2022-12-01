@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2022
+  course: BSP04855
+  title: Death Investigation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/23/2022
   course: OSH37574
   title: Oregon State Police-Crisis Negotiator Training

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2022 | MNP43650 | Firearms Night Qualifications | Passed | 0.0 | 4.00 |
+| 11/18/2022 | MNP22038 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/3/2022 | MNP24260 | S.T.O.P. data refresher training | Passed | 0.0 | 0.50 |
 | 4/22/2022 | MNP32496 | Trauma First Aid | Passed | 0.0 | 1.00 |
 | 4/15/2022 | MNP18880 | Airway and Circulatory Crisis Training | Passed | 0.0 | 2.00 |

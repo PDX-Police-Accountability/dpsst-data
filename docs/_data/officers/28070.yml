@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/14/2022
+  course: HBS11812
+  title: Preparing for Advancement A Seminar for Candidates
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/18/2022
   course: TGP03346
   title: Respiratory Protection

@@ -62,6 +62,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2022
+  course: VND13034
+  title: Treasure Hidden in Trauma
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2022
+  course: VND34213
+  title: Crisis De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2022
+  course: VND23364
+  title: Resilience in the Face of Tragedy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2022
+  course: VND08025
+  title: Cold Case/WC Lawfully Owned DNA Project
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2022
+  course: VND15013
+  title: FIGG Evoltuion/When DNA was just DNA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2022
+  course: VND16788
+  title: Ghost Guns/East Freight Case Review
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2022
+  course: VND14635
+  title: Reframing Your Narrative/Appeals Process
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/13/2022
   course: HBS32629
   title: MFF APR Qualification

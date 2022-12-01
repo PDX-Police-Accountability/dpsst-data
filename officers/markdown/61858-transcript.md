@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
+| 11/10/2022 | MFN32990 | Firearms: Multiple Threats, Movement, Barriers | Passed | 0.0 | 2.50 |
 | 10/28/2022 | 22-0005 | DPSST Basic Parole and Probation | Passed | 0.0 | 200.00 |
 | 9/20/2022 | MFN44035 | OMS/BCP Coaching | Passed | 0.0 | 2.00 |
 | 9/8/2022 | MFN17312 | Firearms: Movement | Passed | 0.0 | 2.00 |

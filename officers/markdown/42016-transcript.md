@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2022 | PDP28992 | SERT- Rural Movement Training | Passed | 0.0 | 9.00 |
 | 10/23/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/20/2022 | PDP44475 | SERT: Control Entry Search Warrants Training | Instructed | 0.0 | 5.00 |
 | 10/18/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

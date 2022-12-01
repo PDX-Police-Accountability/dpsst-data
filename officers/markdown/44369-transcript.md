@@ -46,6 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2022 | VND16788 | Ghost Guns/East Freight Case Review | Passed | 0.0 | 4.00 |
+| 11/15/2022 | VND14635 | Reframing Your Narrative/Appeals Process | Passed | 0.0 | 4.00 |
+| 11/14/2022 | VND38409 | Case Review: Fretwell Double Homicide | Passed | 0.0 | 3.00 |
+| 11/14/2022 | VND24860 | Cold Case Evidence | Passed | 0.0 | 1.00 |
+| 11/14/2022 | VND19969 | Ethos Training | Passed | 0.0 | 3.00 |
 | 7/31/2022 | STP19554 | Annual Qualifications for Firearms | Passed | 0.0 | 4.00 |
 | 7/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/9/2022 | STP14142 | Ethics in Public Service | Passed | 0.0 | 1.00 |

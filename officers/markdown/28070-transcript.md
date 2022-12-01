@@ -39,6 +39,7 @@
 | 11/12/2022 | TGP29975 | Motivational Ethics | Passed | 0.0 | 2.00 |
 | 10/15/2022 | TGP22586 | Annual Holding Cell Training | Passed | 0.0 | 0.50 |
 | 9/16/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
+| 9/14/2022 | HBS11812 | Preparing for Advancement A Seminar for Candidates | Passed | 0.0 | 8.00 |
 | 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
 | 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |

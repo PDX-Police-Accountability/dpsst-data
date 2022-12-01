@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2022 | VND13034 | Treasure Hidden in Trauma | Passed | 0.0 | 4.00 |
+| 11/17/2022 | VND34213 | Crisis De-Escalation | Passed | 0.0 | 4.00 |
+| 11/17/2022 | VND23364 | Resilience in the Face of Tragedy | Passed | 0.0 | 4.00 |
+| 11/16/2022 | VND08025 | Cold Case/WC Lawfully Owned DNA Project | Passed | 0.0 | 4.00 |
+| 11/16/2022 | VND15013 | FIGG Evoltuion/When DNA was just DNA | Passed | 0.0 | 4.00 |
+| 11/15/2022 | VND16788 | Ghost Guns/East Freight Case Review | Passed | 0.0 | 4.00 |
+| 11/15/2022 | VND14635 | Reframing Your Narrative/Appeals Process | Passed | 0.0 | 4.00 |
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |
 | 10/12/2022 | HBS22790 | Mobile Field Force - Familiarization | Passed | 0.0 | 6.00 |
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
