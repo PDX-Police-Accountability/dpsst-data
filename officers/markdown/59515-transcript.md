@@ -30,6 +30,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | First Aid/CPR Required | 11/30/2022 | 11/30/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 10/11/2022 | 10/11/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 9/8/2022 | 9/8/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 7/6/2022 | 7/6/2022 |

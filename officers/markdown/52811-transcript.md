@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2022 | PDS42594 | Defensive Tactics IDC | Instructed | 0.0 | 8.00 |
 | 10/25/2022 | PDS09153 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/25/2022 | PDS13906 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |

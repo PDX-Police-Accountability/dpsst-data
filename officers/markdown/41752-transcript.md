@@ -23,16 +23,14 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/31/2018 | Police Officer | Supervisory | Granted | 1/31/2018 | 11/3/2022 |  |
-| 4/2/2012 | Police Officer | Advanced | Granted | 4/2/2012 | 11/3/2022 |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 11/3/2022 |  |
-| 2/27/2007 | Police Officer | Basic | Granted | 2/27/2007 | 11/3/2022 |  |
+| 11/3/2022 | Police Officer | Advanced | Lapsed | 4/2/2012 | 8/3/2027 |  |
+| 11/3/2022 | Police Officer | Basic | Lapsed | 2/27/2007 | 8/3/2027 |  |
+| 11/3/2022 | Police Officer | Intermediate | Lapsed | 11/23/2010 | 8/3/2027 |  |
+| 11/3/2022 | Police Officer | Supervisory | Lapsed | 1/31/2018 | 8/3/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/28/2022 | 3/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 1/13/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -128,7 +126,6 @@
 | 7/24/2019 | GPP30557 | SWAT Mobile Surveillance Techniques/Scenarios | Passed | 0.0 | 8.00 |
 | 7/8/2019 | GPP08016 | SWAT/Patrol Firearms Qualification | Passed | 0.0 | 4.00 |
 | 6/30/2019 | GPP27183 | Foot Pursuits | Passed | 0.0 | 0.50 |
-| 6/18/2019 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/10/2019 | GPP30953 | SWAT Tactical Rifle | Passed | 0.0 | 8.00 |
 | 5/16/2019 | GPP27709 | NTOA SWAT-HRT/CNT/Scenarios  Movement | Passed | 0.0 | 10.00 |
 | 5/15/2019 | GPP01584 | NTOA SWAT - Debriefs and Scenario Movement | Passed | 0.0 | 10.00 |

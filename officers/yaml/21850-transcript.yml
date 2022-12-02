@@ -137,6 +137,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/27/2022
+  course: LOP04764
+  title: Hazardous Materials 2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/12/2022
   course: LOP14394
   title: Cognitive Disorder

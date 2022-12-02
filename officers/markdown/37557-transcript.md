@@ -31,7 +31,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
-| Certification Cards | First Aid | 11/5/2020 | 11/30/2022 |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/25/2022 | LOP16443 | Taser X26P Recertification Training | Passed | 0.0 | 4.00 |
+| 10/20/2022 | LOP04764 | Hazardous Materials 2022 | Passed | 0.0 | 4.00 |
 | 9/22/2022 | LOP14394 | Cognitive Disorder | Passed | 0.0 | 1.00 |
 | 9/15/2022 | LOP06103 | Fire Extinguisher Training | Passed | 0.0 | 0.33 |
 | 6/10/2022 | LOP16376 | Firearms Training | Passed | 0.0 | 4.00 |

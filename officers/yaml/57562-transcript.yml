@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 11/17/2022
+  course: OCP34531
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/12/2022
   course: OCP32451
   title: Firearms/Use of Force

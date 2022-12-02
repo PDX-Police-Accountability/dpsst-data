@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2022 | PDN23257 | EDIS Training | Passed | 0.0 | 1.00 |
 | 10/19/2022 | PDN23476 | Field Applications-Situational Awareness | Passed | 0.0 | 1.25 |
 | 10/13/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/11/2022 | PDN25043 | Defensive Tactics-Krav Shielding Techniques | Passed | 0.0 | 1.50 |

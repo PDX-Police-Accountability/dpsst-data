@@ -120,12 +120,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 12/29/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 12/28/2021
   course: F1527036
   title: 'Active Shooter: Phases/Prevention'
@@ -135,12 +129,6 @@ training_records:
 - date: 12/27/2021
   course: F1531394
   title: Active Shooter 3
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/22/2021
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

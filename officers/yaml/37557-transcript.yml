@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/20/2022
+  course: LOP04764
+  title: Hazardous Materials 2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/22/2022
   course: LOP14394
   title: Cognitive Disorder
@@ -2440,10 +2446,6 @@ attribute_records:
   value: CPR
   effective_date: 11/22/2021
   expiration_date: 11/30/2023
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 11/5/2020
-  expiration_date: 11/30/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2002

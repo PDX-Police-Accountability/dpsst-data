@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/9/2022
+  course: VND17906
+  title: Advanced Course in Police Discipline
+  status: ''
+  score: '0.0'
+  hours: '15.00'
 - date: 10/24/2022
   course: PDP36211
   title: 2022 Crowd Management

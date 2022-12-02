@@ -32,7 +32,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2021 | PDS24575 | Financial Wellness | Passed | 0.0 | 1.00 |
 | 7/29/2021 | PDS42184 | BOEC Advanced SEND Protocol | Passed | 0.0 | 0.50 |
-| 7/18/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 5/31/2021 | PDS02599 | Ethics | Passed | 0.0 | 1.00 |
 | 4/17/2021 | PDS11851 | Firearms Training | Passed | 0.0 | 4.00 |
 | 1/31/2021 | PDS19477 | PREA | Passed | 0.0 | 1.00 |

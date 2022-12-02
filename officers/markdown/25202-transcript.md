@@ -44,7 +44,6 @@
 | 12/11/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
 | 8/31/2021 | PDS24777 | Financial Wellness | Passed | 0.0 | 1.00 |
 | 7/29/2021 | PDS42184 | BOEC Advanced SEND Protocol | Passed | 0.0 | 0.50 |
-| 7/18/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 5/31/2021 | PDS02599 | Ethics | Passed | 0.0 | 1.00 |
 | 4/17/2021 | PDS11851 | Firearms Training | Passed | 0.0 | 4.00 |
 | 1/31/2021 | PDS39567 | Legal Update - Measure 110 | Passed | 0.0 | 1.00 |
