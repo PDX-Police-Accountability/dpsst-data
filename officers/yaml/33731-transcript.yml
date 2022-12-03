@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2022
+  course: PDN34115
+  title: ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/10/2022
   course: PDN23257
   title: EDIS Training

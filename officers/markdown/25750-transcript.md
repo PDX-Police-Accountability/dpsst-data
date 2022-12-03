@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2022 | OCS39690 | Field Training Officer class | Instructed | 0.0 | 24.00 |
 | 7/8/2021 | BPT44041 | The Transformational Trainer | Passed | 0.0 | 7.00 |
 | 6/3/2021 | BPT40135 | FTEP Instructor Development Course | Instructed | 0.0 | 22.00 |
 | 12/29/2020 | REG33846 | DPSST TacMed IDC | Passed | 0.0 | 4.00 |

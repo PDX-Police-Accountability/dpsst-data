@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2022 | OCS34332 | Honor Guard Training | Passed | 0.0 | 24.00 |
 | 11/17/2022 | OCP34531 | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 11/17/2022 | OCP34531 | Firearms/Use of Force | Instructed | 0.0 | 3.00 |
 | 10/12/2022 | OCP32451 | Firearms/Use of Force | Instructed | 0.0 | 20.00 |

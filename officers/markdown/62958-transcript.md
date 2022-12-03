@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/10/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 9/12/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 9/6/2022 | PDP38929 | Firearms Training | Passed | 0.0 | 7.00 |

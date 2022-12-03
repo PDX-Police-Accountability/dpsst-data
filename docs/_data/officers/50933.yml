@@ -46,6 +46,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 12/1/2022
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 12/1/2022
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 4/26/2012
   certificate: Police Officer
   level: Intermediate
@@ -73,12 +87,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 10/21/2022
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 10/21/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training
@@ -127,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/9/2022
+  course: 22-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/25/2022
   course: PDP38585
   title: AXON CEW Annual Update

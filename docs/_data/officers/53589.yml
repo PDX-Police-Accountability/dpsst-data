@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2022
+  course: OCS04425
+  title: Interferring with a Peace Officer Statue update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/28/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -84,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/3/2022
+  course: OCS16566
+  title: Code 3 Driving
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/30/2022
   course: OCS21814
   title: Ground Fightint

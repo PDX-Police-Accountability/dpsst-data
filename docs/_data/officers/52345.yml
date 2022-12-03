@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2022
+  course: OCS34332
+  title: Honor Guard Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 10/25/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training

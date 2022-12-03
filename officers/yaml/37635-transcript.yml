@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 10/27/2022
+  course: EGP26840
+  title: HRT Crisis Search Skills-Explosive Breaching
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/26/2022
   course: EGP21546
   title: 'ETHOS:  Ethics'

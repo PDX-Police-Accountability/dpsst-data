@@ -40,6 +40,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 12/1/2022
+  certificate: Police Officer
+  level: Management
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 12/1/2022
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 5/3/2001
   certificate: Police Officer
   level: Basic

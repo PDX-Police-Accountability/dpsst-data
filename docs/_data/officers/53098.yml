@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 12/16/2022
   probation_date: ''
 training_records:
+- date: 11/18/2022
+  course: OCS34332
+  title: Honor Guard Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 10/19/2022
   course: PDP28840
   title: 2022-3 CAO Legal Updates for 03/2022

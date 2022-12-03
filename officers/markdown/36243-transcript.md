@@ -49,7 +49,7 @@
 | 9/13/2022 | HBS06667 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/13/2022 | HBS42005 | EVO September 2022 In-Service | Passed | 0.0 | 4.00 |
 | 8/31/2022 | HBS24217 | Heat Illness Prevention | Passed | 0.0 | 0.75 |
-| 8/30/2022 | HBS29492 | Slow Clears Controlled Entry with K9 | Passed | 0.0 | 7.00 |
+| 8/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 7.00 |
 | 8/15/2022 | HBS25002 | Rifle Update | Passed | 0.0 | 8.00 |
 | 6/16/2022 | HBS27141 | MFF Scenario Day | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS34046 | MFF Basic Drills | Passed | 0.0 | 3.00 |

@@ -41,9 +41,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2022 | OCS30026 | Marksmanship, Target Zone Transitions | Instructed | 0.0 | 2.00 |
+| 11/28/2022 | OCS12011 | Low Light Target ID, Target Zone Transitions | Instructed | 0.0 | 2.00 |
 | 11/18/2022 | OCS29404 | November 2022 New Hire Patrol Tactics | Instructed | 0.0 | 12.00 |
 | 11/11/2022 | OCS21400 | November 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |
+| 11/1/2022 | OCS27440 | Axon VR demo | Passed | 0.0 | 6.00 |
 | 10/31/2022 | OCS22224 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 10/18/2022 | OCS24937 | Intro to Pistol Red Dot Systems | Instructed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

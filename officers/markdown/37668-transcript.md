@@ -105,6 +105,7 @@
 | 1/5/2022 | PDP15870 | 2022 In-Service Patrol Proc. Mental Hlth Scenarios | Passed | 0.0 | 0.50 |
 | 1/5/2022 | PDP38760 | 2022 In-Service Patrol Procedures - Principles | Passed | 0.0 | 1.50 |
 | 1/5/2022 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
+| 1/4/2022 | OCS09554 | Metro Sgts Academy planning | Passed | 0.0 | 1.00 |
 | 11/30/2021 | PDP38207 | 2021-3 City Attorney's Legal Updates for 3/2021 | Passed | 0.0 | 0.50 |
 | 11/30/2021 | PDP34501 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
 | 11/30/2021 | PDP26000 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |

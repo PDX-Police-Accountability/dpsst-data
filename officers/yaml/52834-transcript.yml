@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2022
+  course: OCS04425
+  title: Interferring with a Peace Officer Statue update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/12/2022
   course: OCS18613
   title: Low Light, One hand shooting use of cover

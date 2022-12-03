@@ -21,6 +21,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 12/1/2022 | Police Officer | Advanced | App Recd |  |  |  |
+| 12/1/2022 | Police Officer | Supervisory | App Recd |  |  |  |
 | 4/26/2012 | Police Officer | Intermediate | Granted | 4/26/2012 |  |  |
 | 4/8/2011 | Police Officer | Basic | Granted | 4/8/2011 |  |  |
 ## Attributes
@@ -39,7 +41,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 10/26/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
-| 10/21/2022 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 10/21/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/23/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -48,6 +49,7 @@
 | 9/22/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
+| 9/9/2022 | 22-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 8/25/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/25/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

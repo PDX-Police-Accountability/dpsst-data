@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/29/2022
+  course: OCS30026
+  title: Marksmanship, Target Zone Transitions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/1/2022
   course: OCS34643
   title: Axon BWC
@@ -192,6 +198,12 @@ training_records:
 - date: 3/20/2022
   course: OCS05711
   title: Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/11/2022
+  course: OCS44559
+  title: ITF February monthly firearms
   status: Passed
   score: '0.0'
   hours: '1.00'

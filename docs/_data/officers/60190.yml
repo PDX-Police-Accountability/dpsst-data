@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 7/3/2022
+  course: OCS16566
+  title: Code 3 Driving
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/27/2022
   course: OCS39091
   title: Ground Fighting
