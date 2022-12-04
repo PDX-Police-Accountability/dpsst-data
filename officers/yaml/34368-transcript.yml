@@ -94,6 +94,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2022
+  course: BNP09524
+  title: Bias Crimes Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2022
+  course: BNP18175
+  title: Ethos Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/18/2022
   course: BNP13691
   title: IACP Conf.-Misc. Presentations/Breakout Groups

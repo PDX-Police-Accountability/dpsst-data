@@ -163,6 +163,7 @@
 | 12/17/2020 | PDP37950 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.72 |
 | 12/17/2020 | PDP29257 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
 | 12/17/2020 | PDP10147 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
+| 12/11/2020 | PDP38752 | Strangulation Prevention Conference | Passed | 0.0 | 15.00 |
 | 12/3/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 11/16/2020 | PDP30090 | 2020 City Attorney's Off Don't Shoot PDX/Hernandez | Passed | 0.0 | 0.25 |
 | 11/16/2020 | PDP16277 | 2020 City Attorney's Off Index Newspapers/SimonTRO | Passed | 0.0 | 0.25 |

@@ -45,6 +45,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2022 | BNP39082 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |
+| 11/15/2022 | BNP39588 | Mental Health/Wellness | Passed | 0.0 | 0.50 |
+| 11/15/2022 | BNP42004 | Low Light Range | Passed | 0.0 | 4.00 |
+| 11/15/2022 | BNP40592 | Ethos Ethics | Passed | 0.0 | 3.00 |
 | 10/18/2022 | BNP24298 | IACP Conf.-Misc. Presentations/Breakout Groups | Passed | 0.0 | 21.50 |
 | 10/10/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 7/21/2022 | BNP07745 | Evidence Handling | Passed | 0.0 | 0.50 |

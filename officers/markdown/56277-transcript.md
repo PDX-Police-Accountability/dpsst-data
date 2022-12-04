@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2022 | CAP36835 | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |
 | 10/26/2022 | CAP20916 | High Risk Vehicle Stops | Passed | 0.0 | 3.00 |
 | 9/21/2022 | CAP05650 | Precision Rifle Training | Passed | 0.0 | 3.00 |
 | 5/4/2022 | GLP08698 | Qual/Movement/Target Focus Shooting | Passed | 0.0 | 3.00 |

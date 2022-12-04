@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2022 | PDS35789 | 0 | Passed | 0.0 | 8.00 |
 | 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/5/2022 | PDS18361 | Leadership | Passed | 0.0 | 0.50 |
 | 9/11/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |

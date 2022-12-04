@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/14/2022 | SAG41241 | New Trends in Obtaining  Mapping Location Data | Passed | 0.0 | 8.00 |
 | 11/3/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/29/2022 | LOP11762 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 10/27/2022 | LOP02209 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
 | 10/25/2022 | LOP16443 | Taser X26P Recertification Training | Passed | 0.0 | 4.00 |
 | 10/4/2022 | LOP04764 | Hazardous Materials 2022 | Passed | 0.0 | 4.00 |

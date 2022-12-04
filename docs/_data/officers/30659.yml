@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2022
+  course: PDS40111
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/20/2022
   course: PDS14098
   title: Narcan Training

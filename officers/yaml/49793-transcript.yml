@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 11/30/2022
+  course: CIF27077
+  title: Drug Threat and Overdose Prevention
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/9/2022
   course: CIF03808
   title: Sidearm Range

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2022 | PDS40111 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 9/21/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |
 | 8/10/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
 | 8/3/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |

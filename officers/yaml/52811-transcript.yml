@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/28/2022
+  course: PDS16345
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/21/2022
+  course: PDS24055
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/15/2022
+  course: PDS25191
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/8/2022
   course: PDS42594
   title: Defensive Tactics IDC

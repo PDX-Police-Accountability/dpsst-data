@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/28/2022 | PDS16345 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 11/21/2022 | PDS24055 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 11/15/2022 | PDS25191 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/8/2022 | PDS42594 | Defensive Tactics IDC | Instructed | 0.0 | 8.00 |
 | 10/25/2022 | PDS09153 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/25/2022 | PDS13906 | Firearms Training | Instructed | 0.0 | 6.00 |

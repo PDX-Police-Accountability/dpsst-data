@@ -816,6 +816,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/11/2020
+  course: PDP38752
+  title: Strangulation Prevention Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 12/3/2020
   course: PDP12780
   title: 2020 CHO Stops App Update

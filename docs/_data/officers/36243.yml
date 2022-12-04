@@ -137,6 +137,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 8/30/2022
+  course: HBS16128
+  title: Slow Clears Controlled Entry with K9
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/15/2022
   course: HBS25002
   title: Rifle Update

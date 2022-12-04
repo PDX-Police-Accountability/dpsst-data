@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/7/2022
+  course: PDP02018
+  title: Crisis/Hostage Negotiation Level I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/22/2022
   course: PDP27596
   title: 2022 Lead Awareness  Safety Trng for PPB Arms

@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/28/2022
+  course: TDP00624
+  title: Airway Circulatory Crisis Training HB 2513
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/22/2022
   course: TDP40775
   title: Implicit Bias 2022

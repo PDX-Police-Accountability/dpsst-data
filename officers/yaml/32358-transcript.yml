@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/5/2022
+  course: PDP24489
+  title: Snapchat Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/28/2022
   course: PDP43122
   title: Mobile vehicle  foot surveillance training

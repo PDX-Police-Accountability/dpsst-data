@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2022 | LOP11762 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 10/25/2022 | LOP16443 | Taser X26P Recertification Training | Passed | 0.0 | 4.00 |
 | 10/20/2022 | LOP04764 | Hazardous Materials 2022 | Passed | 0.0 | 4.00 |
 | 9/22/2022 | LOP14394 | Cognitive Disorder | Passed | 0.0 | 1.00 |

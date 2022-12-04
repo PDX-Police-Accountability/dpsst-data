@@ -36,6 +36,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2022
+  course: BNP09524
+  title: Bias Crimes Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2022
+  course: BNP18175
+  title: Ethos Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/17/2022
+  course: BNP19114
+  title: Mental Health/Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/17/2022
+  course: BNP24932
+  title: Low Light Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/10/2022
   course: BNP10495
   title: UAS Indoor Flight Training

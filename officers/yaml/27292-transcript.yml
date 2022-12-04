@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2022
+  course: PDS35789
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/21/2022
   course: PDS14098
   title: Narcan Training

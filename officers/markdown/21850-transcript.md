@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2022 | LOP11762 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/27/2022 | LOP04764 | Hazardous Materials 2022 | Passed | 0.0 | 4.00 |
 | 10/12/2022 | LOP14394 | Cognitive Disorder | Passed | 0.0 | 1.00 |

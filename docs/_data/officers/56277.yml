@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2022
+  course: CAP36835
+  title: Shaping an Ethical Workplace Culture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/26/2022
   course: CAP20916
   title: High Risk Vehicle Stops

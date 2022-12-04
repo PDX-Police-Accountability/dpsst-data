@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2022 | BNP09524 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |
+| 11/17/2022 | BNP18175 | Ethos Ethics | Passed | 0.0 | 3.00 |
 | 10/18/2022 | BNP13691 | IACP Conf.-Misc. Presentations/Breakout Groups | Passed | 0.0 | 19.50 |
 | 10/11/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 10/5/2022 | BNP28489 | Lexipol Connect - Online Leadership Conference | Passed | 0.0 | 2.25 |

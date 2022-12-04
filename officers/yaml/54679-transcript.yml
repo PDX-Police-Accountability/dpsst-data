@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/26/2022
+  course: MLP29263
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/10/2022
   course: MAP31419
   title: Taser Annual Re-Certification Training

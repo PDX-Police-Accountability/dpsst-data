@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/9/2022
+  course: PDP29349
+  title: BOLI Employment Law Conference
+  status: Passed
+  score: '0.0'
+  hours: '11.50'
 - date: 10/25/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training

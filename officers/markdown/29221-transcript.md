@@ -47,6 +47,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2022 | BNP39082 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |
+| 11/15/2022 | BNP39588 | Mental Health/Wellness | Passed | 0.0 | 0.50 |
+| 11/15/2022 | BNP42004 | Low Light Range | Passed | 0.0 | 4.00 |
+| 11/15/2022 | BNP40592 | Ethos Ethics | Passed | 0.0 | 3.00 |
 | 10/10/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 5/18/2022 | BNP39812 | Airway and Circulatory Anatomy training | Passed | 0.0 | 2.00 |
 | 4/29/2022 | VND34312 | Officer Involved Shooting | Passed | 0.0 | 2.00 |

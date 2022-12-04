@@ -126,6 +126,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/30/2022
+  course: DAS11413
+  title: Blood Borne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: DAS37726
+  title: ADA Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: DAS20485
+  title: Drug and Alcohol Abuse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: DAS17033
+  title: Fire Extinguisher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: DAS41654
+  title: Preventing Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2022
+  course: DAS10423
+  title: PREA Brochure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/31/2022
   course: F6R13584
   title: Duty to Intercede

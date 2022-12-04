@@ -47,6 +47,7 @@
 | 7/26/2022 | TDP30247 | P.R.E.A. | Passed | 0.0 | 1.00 |
 | 6/10/2022 | TDP22694 | Advanced Defensive Driving Techniques | Passed | 0.0 | 1.00 |
 | 5/7/2022 | TDP09908 | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
+| 4/28/2022 | TDP00624 | Airway Circulatory Crisis Training HB 2513 | Passed | 0.0 | 2.00 |
 | 3/22/2022 | TDP40775 | Implicit Bias 2022 | Passed | 0.0 | 1.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6R03814 | Advanced Leadership for a Police Reform Era | Passed | 0.0 | 4.00 |
