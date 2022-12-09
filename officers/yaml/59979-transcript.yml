@@ -3,12 +3,18 @@ header_record:
   name: Faust, Robert
   dpsst_identifier: '59979'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/23/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/27/2019
   agency: Portland Police Bureau
   action: Hired
@@ -21,7 +27,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 3/11/2021
-  expiration_date: ''
+  expiration_date: 2/23/2023
   probation_date: ''
 training_records:
 - date: 10/28/2022
@@ -1259,14 +1265,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/16/2021
-  expiration_date: 7/16/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/16/2021
@@ -1275,22 +1273,10 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 3/5/2021
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/5/2021
-  expiration_date: ''
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/12/2019
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/12/2019

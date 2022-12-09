@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2022 | TOP43782 | Applying Lessons Learned from OIS Incidents | Passed | 0.0 | 1.00 |
 | 5/5/2021 | F6D27996 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |
 | 4/19/2019 | PDP15568 | May Day 2019 City Attorney Training | Passed | 0.0 | 1.50 |
 | 6/6/2018 | PDP07294 | 2018-2 Supv. In-Service Directive 330 | Passed | 0.0 | 2.00 |

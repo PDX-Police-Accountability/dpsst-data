@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/2/2022 | NGP14935 | SFST Refresher with Wet Lab | Passed | 0.0 | 3.50 |
+| 11/30/2022 | NGP36484 | Emotional Survival for Law Enforcement | Passed | 0.0 | 2.00 |
+| 11/15/2022 | NGP27107 | Reality Based Training | Passed | 0.0 | 1.50 |
 | 11/10/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/30/2022 | F1514112 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/30/2022 | F1521738 | De-Escalation  Minimizing UOF | Passed | 0.0 | 2.00 |

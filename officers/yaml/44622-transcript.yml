@@ -62,12 +62,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2022
+  course: OSH39135
+  title: Survival Skills PT/DT
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2022
+  course: OSH19877
+  title: Survival Skills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/20/2022
   course: OSH17443
   title: Active Shooter Response
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 11/18/2022
+  course: OSH29418
+  title: Survival Skills PT/DT
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/18/2022
+  course: OSH26850
+  title: Survival Skills PT/DT
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/2/2022
   course: OSH21256
   title: 3rd Tri Firearms Low Light
@@ -140,6 +164,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 8/24/2022
+  course: OSH22262
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/11/2022
   course: OSH24317
   title: Firearms In-Service
@@ -2276,21 +2306,9 @@ attribute_records:
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/23/2006
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/23/2006

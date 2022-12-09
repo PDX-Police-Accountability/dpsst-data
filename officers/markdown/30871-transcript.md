@@ -33,12 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/17/2022 | 2/28/2024 |
-| Certification Cards | First Aid and CPR | 2/17/2022 | 2/28/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 6/10/2002 |  |
 | Code of Ethics | Signed | 6/10/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +48,8 @@
 | 8/31/2022 | OSH32434 | OSP 2nd Trimester Defensive Tactics/Taser Re-Cert | Instructed | 0.0 | 8.00 |
 | 8/22/2022 | OSH30379 | Taser X2 Instructor Certification | Instructed | 0.0 | 6.00 |
 | 8/16/2022 | OSH29792 | Struggle Well | Passed | 0.0 | 16.00 |
+| 7/21/2022 | OSH22262 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 7/21/2022 | OSH25761 | 3rd Trimester Firearms - Low Light | Passed | 0.0 | 4.00 |
 | 7/15/2022 | OSH35997 | Critical Incident Response | Passed | 0.0 | 2.00 |
 | 7/15/2022 | OSH31263 | Tactical Decision Making | Passed | 0.0 | 2.00 |
 | 7/14/2022 | OSH26172 | De-Escalation/Verbal Judo | Instructed | 0.0 | 1.50 |

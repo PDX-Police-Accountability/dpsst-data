@@ -40,16 +40,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
-| Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Signed | 10/12/2000 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -60,6 +54,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/19/2022 | ETS14899 | Airway Circulatory Crisis  Response | Passed | 0.0 | 2.00 |
+| 8/25/2022 | ETS02800 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 8/22/2022 | OSH27620 | ARIDE | Instructed | 0.0 | 8.00 |
 | 6/25/2022 | OSH04781 | Drug Certification Training | Instructed | 0.0 | 27.00 |
 | 6/8/2022 | PLS29699 | ARIDE / Wet Lab | Instructed | 0.0 | 16.00 |
@@ -70,6 +65,7 @@
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |
 | 4/14/2022 | F6R17532 | Trust Building Practices Within the Organization | Passed | 0.0 | 2.00 |
 | 3/21/2022 | OSH17072 | ARIDE | Instructed | 0.0 | 16.00 |
+| 1/13/2022 | ETS25833 | Firearms/Range | Passed | 0.0 | 4.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/31/2021 | 21-CVDL3 | 2021 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/23/2021 | ETS24062 | Use of Force | Passed | 0.0 | 4.00 |

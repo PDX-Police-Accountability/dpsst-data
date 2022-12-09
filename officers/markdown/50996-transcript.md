@@ -4,7 +4,7 @@
 | name | Hearst, Andrew L. |
 | dpsst_identifier | 50996 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,23 +12,20 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/23/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 12/10/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/28/2020 | Police Officer | Advanced | Granted | 12/28/2020 |  |  |
-| 2/1/2012 | Police Officer | Intermediate | Granted | 2/1/2012 |  |  |
-| 6/30/2011 | Police Officer | Basic | Granted | 6/30/2011 |  |  |
+| 12/28/2020 | Police Officer | Advanced | Granted | 12/28/2020 | 2/23/2023 |  |
+| 2/1/2012 | Police Officer | Intermediate | Granted | 2/1/2012 | 2/23/2023 |  |
+| 6/30/2011 | Police Officer | Basic | Granted | 6/30/2011 | 2/23/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/7/2021 | 6/7/2023 |
-| Certification Cards | First Aid and CPR | 6/7/2021 | 6/7/2023 |
-| Code of Ethics | Signed | 3/11/2010 |  |
 | Code of Ethics | Signed | 3/11/2010 |  |
 ## Education
 | date | degree | school | major | hours |

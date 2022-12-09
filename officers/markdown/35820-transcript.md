@@ -25,9 +25,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/23/2021 | 6/23/2023 |
 | Certification Cards | First Aid and CPR | 6/23/2021 | 6/23/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +36,7 @@
 | 10/25/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/22/2022 | SAG10709 | Oregon DOJ Elder Abuse Conference | Passed | 0.0 | 3.00 |
 | 10/21/2022 | SAG21628 | Oregon DOJ Elder Abuse Conference | Passed | 0.0 | 7.50 |
+| 10/21/2022 | PDP44150 | OR DOJ Elder Abuse Conference | Passed | 0.0 | 10.00 |
 | 10/13/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/30/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/30/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |

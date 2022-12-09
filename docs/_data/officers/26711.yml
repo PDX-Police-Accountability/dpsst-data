@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2022
+  course: HBP39455
+  title: Ethics Training and Writing Assignment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/17/2022
   course: HBP19448
   title: Weapon Retention, DT Refresher, Force Response
@@ -1431,10 +1437,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/16/2022
   expiration_date: 3/16/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/16/2022
-  expiration_date: 3/16/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -1443,18 +1445,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/2/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/2/2001

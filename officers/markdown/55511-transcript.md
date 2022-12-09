@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 12/15/2022 | Portland Police Bureau | Hired | Police Off |  |  |
+| 12/2/2022 | Washington County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 4/8/2019 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 4/1/2019 | Multnomah County Sheriff's Office | Resigned | Reserve |  |  |
 | 7/24/2018 | Multnomah County Sheriff's Office | Hired | Reserve |  |  |
@@ -22,19 +23,12 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 12/15/2022 | Police Officer | Basic | Required |  |  | 6/15/2024 |
-| 11/26/2019 | Corrections Officer | Basic | Granted | 11/26/2019 |  |  |
+| 11/26/2019 | Corrections Officer | Basic | Granted | 11/26/2019 | 3/2/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
 | Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 ## Education
 | date | degree | school | major | hours |

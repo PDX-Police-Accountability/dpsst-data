@@ -26,6 +26,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2022 | EGN15371 | Defensive Tactics | Instructed | 0.0 | 2.00 |
+| 11/21/2022 | EGN24295 | Defensive Tactics | Instructed | 0.0 | 2.00 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/11/2014 | 14-0924 | Sexual Harassment | Passed | 0.0 | 1.00 |
 | 7/1/2009 | 09-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |

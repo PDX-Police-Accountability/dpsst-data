@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2022 | BSP04855 | Death Investigation | Passed | 0.0 | 4.00 |
+| 10/28/2022 | OSH34559 | 2022 OSP Detective Academy | Passed | 0.0 | 44.00 |
 | 8/23/2022 | OSH37574 | Oregon State Police-Crisis Negotiator Training | Passed | 0.0 | 7.00 |
 | 8/5/2022 | OSH35861 | Tactical Decision Making | Passed | 0.0 | 2.00 |
 | 8/5/2022 | OSH12992 | Critical Incident Response | Passed | 0.0 | 2.00 |
@@ -47,6 +43,7 @@
 | 8/4/2022 | OSH10549 | De-Escalation of People in Crisis | Passed | 0.0 | 1.50 |
 | 8/3/2022 | OSH33705 | Resilience Training | Passed | 0.0 | 8.00 |
 | 8/2/2022 | OSH29508 | Police Accountability  Legal Updates | Passed | 0.0 | 8.00 |
+| 7/20/2022 | OSH22262 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/30/2022 | F6R32295 | PREA Online Training | Passed | 0.0 | 4.00 |
 | 6/7/2022 | F6R20897 | 2nd Trimester Firearms - Rifle | Passed | 0.0 | 8.00 |
 | 5/4/2022 | OSH17559 | Western States Hostage Negotiators' Assosciation | Passed | 0.0 | 20.00 |

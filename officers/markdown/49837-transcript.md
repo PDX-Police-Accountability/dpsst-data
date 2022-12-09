@@ -23,18 +23,14 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Code of Ethics | Signed | 9/2/2008 |  |
 | Code of Ethics | Signed | 9/2/2008 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 2/14/2017 | Associate Science | All Other Education Institutes |  | 64.0 |
 | 6/15/2007 | No Degree | Clackamas Community College |  | 29.0 |
-| 5/31/2006 | No Degree | All Other Education Institutes |  | 35.0 |
 | 5/15/2006 | No Degree | All Other Education Institutes |  | 3.0 |
 ## Training
 | date | course | title | status | score | hours |

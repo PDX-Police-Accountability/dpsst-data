@@ -3,12 +3,18 @@ header_record:
   name: Danielson, Nichol M.
   dpsst_identifier: '60894'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/4/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 4/23/2020
   agency: Portland Police Bureau
   action: Hired
@@ -21,7 +27,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 8/2/2022
-  expiration_date: ''
+  expiration_date: 2/4/2023
   probation_date: ''
 training_records:
 - date: 10/23/2022

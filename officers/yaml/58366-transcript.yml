@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/28/2022
+  course: OSH34559
+  title: 2022 OSP Detective Academy
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
 - date: 8/23/2022
   course: OSH37574
   title: Oregon State Police-Crisis Negotiator Training
@@ -90,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/20/2022
+  course: OSH22262
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/30/2022
   course: F6R32295
   title: PREA Online Training
@@ -1169,18 +1181,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/22/2022
   expiration_date: 3/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/22/2022
-  expiration_date: 3/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -1192,14 +1192,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/8/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/8/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/19/2018
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

@@ -23,6 +23,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/22/2022
+  course: EGN15371
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/21/2022
+  course: EGN24295
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/31/2014
   course: 14-0716
   title: LEDS Recertification
