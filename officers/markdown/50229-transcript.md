@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/3/2021 | 5/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
@@ -35,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2022 | TRN37113 | DOC - HSI Adult First Aid CPR AED v2022 | Passed | 0.0 | 4.00 |
+| 10/31/2022 | TRN36960 | DOC - Threat and Risk Assessment Model v2022c | Passed | 0.0 | 2.00 |
+| 10/31/2022 | TRN29257 | DOC - Duty to Intervene v2022c | Passed | 0.0 | 2.00 |
 | 5/31/2022 | TRN01391 | 2022 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 5/31/2022 | TRN18068 | 2022 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 5/31/2022 | TRN21270 | PREA Training Requirement v2022 | Passed | 0.0 | 1.00 |

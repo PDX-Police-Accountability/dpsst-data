@@ -119,6 +119,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2022
+  course: BNP35909
+  title: OC Policy, 40mm Policy and User Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/7/2022
+  course: BNP36870
+  title: BOLA Wrap policy/familiarization
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/7/2022
+  course: BNP21504
+  title: Handgun Skill Builders
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/15/2022
   course: BNP39082
   title: Bias Crimes Investigations

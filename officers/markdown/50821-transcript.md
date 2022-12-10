@@ -167,6 +167,7 @@
 | 12/18/2019 | PDP30575 | 2019 In-Service Active Threat Practical | Passed | 0.0 | 9.00 |
 | 12/16/2019 | PDP43862 | Mobile Detect Training | Passed | 0.0 | 0.25 |
 | 12/10/2019 | PDP13980 | 2019-10 City Attorney's Legal Updates for 10/2019 | Passed | 0.0 | 0.25 |
+| 12/6/2019 | PDP05267 | Street Sergeant Evidence Based Training | Passed | 0.0 | 0.00 |
 | 11/27/2019 | PDP08945 | 2019-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/27/2019 | PDP16502 | 2019-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 11/27/2019 | PDP23516 | 2019-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

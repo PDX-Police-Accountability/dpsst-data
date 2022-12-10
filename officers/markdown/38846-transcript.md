@@ -20,8 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/1/2022 | Police Officer | Management | App Recd |  |  |  |
-| 12/1/2022 | Police Officer | Supervisory | App Recd |  |  |  |
+| 12/8/2022 | Police Officer | Management | Granted | 12/8/2022 |  |  |
+| 12/8/2022 | Police Officer | Supervisory | Granted | 12/8/2022 |  |  |
 | 5/3/2001 | Police Officer | Basic | Granted | 5/3/2001 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

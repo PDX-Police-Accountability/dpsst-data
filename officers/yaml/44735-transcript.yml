@@ -123,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/15/2022
+  course: PDP00720
+  title: 'Police Suicide: Know the Warning Signs'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/14/2022
   course: PDP00431
   title: Suicide Prevention/Intervention Training

@@ -49,6 +49,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2022
+  course: TRN37113
+  title: DOC - HSI Adult First Aid CPR AED v2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2022
+  course: TRN36960
+  title: DOC - Threat and Risk Assessment Model v2022c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2022
+  course: TRN29257
+  title: DOC - Duty to Intervene v2022c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/31/2022
   course: TRN01391
   title: 2022 Preventing Discrimination and Harassment
@@ -782,6 +800,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/31/2022
+  expiration_date: 10/31/2024
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022

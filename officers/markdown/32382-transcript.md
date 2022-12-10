@@ -47,6 +47,7 @@
 | 11/15/2022 | VND14635 | Reframing Your Narrative/Appeals Process | Passed | 0.0 | 4.00 |
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |
 | 10/12/2022 | HBS22790 | Mobile Field Force - Familiarization | Passed | 0.0 | 6.00 |
+| 10/12/2022 | HBS12517 | MFF Gas Plan Training | Passed | 0.0 | 0.50 |
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2022 | HBS06667 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/13/2022 | HBS24910 | CONSIM | Passed | 0.0 | 3.00 |

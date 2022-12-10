@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2022
+  course: JKP10056
+  title: Tazer Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/10/2022
   course: MFS14792
   title: EVOC pursuits, spikes, arrest tactics

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2022 | SAG34789 | Firearms training | Passed | 0.0 | 2.00 |
 | 11/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 11/16/2022 | SAG15279 | ICAC 101 | Passed | 0.0 | 8.00 |
 | 10/19/2022 | SAG13289 | CPR,AED,Basic First AID | Passed | 0.0 | 4.00 |

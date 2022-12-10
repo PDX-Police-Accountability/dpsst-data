@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2022
+  course: OCP02181
+  title: Legislative Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/17/2022
   course: OCP34531
   title: Firearms/Use of Force

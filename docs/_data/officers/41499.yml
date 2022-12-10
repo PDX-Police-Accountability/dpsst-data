@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/4/2022
+  course: PDP30030
+  title: Search  Canvass Ops Child Abductions
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/8/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

@@ -47,6 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | BNP35909 | OC Policy, 40mm Policy and User Qualification | Passed | 0.0 | 1.50 |
+| 12/7/2022 | BNP36870 | BOLA Wrap policy/familiarization | Passed | 0.0 | 0.50 |
+| 12/7/2022 | BNP21504 | Handgun Skill Builders | Passed | 0.0 | 1.50 |
 | 11/15/2022 | BNP39082 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |
 | 11/15/2022 | BNP39588 | Mental Health/Wellness | Passed | 0.0 | 0.50 |
 | 11/15/2022 | BNP42004 | Low Light Range | Passed | 0.0 | 4.00 |
