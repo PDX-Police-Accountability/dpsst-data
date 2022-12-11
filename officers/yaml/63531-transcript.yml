@@ -9,20 +9,20 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 12/8/2022
+- date: 12/15/2022
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/8/2022
+- status_date: 12/15/2022
   certificate: Police Officer
   level: Basic
   status: Required
   certificate_date: ''
   expiration_date: ''
-  probation_date: 6/8/2024
+  probation_date: 6/15/2024
 training_records:
 - date: 4/17/2023
   course: M10-23A

@@ -42,6 +42,7 @@
 | 10/20/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 10/17/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/17/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 9/30/2022 | PDP09732 | ICS 400 | Passed | 0.0 | 14.75 |
 | 9/7/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 9/6/2022 | PDP01747 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 8/17/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -67,6 +67,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/7/2022
+  course: CAP30191
+  title: Night Shoot
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/31/2022
   course: CAP36835
   title: Shaping an Ethical Workplace Culture

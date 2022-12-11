@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2022
+  course: SAG07247
+  title: ICAC 101
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/17/2022
   course: SAG34789
   title: Firearms training

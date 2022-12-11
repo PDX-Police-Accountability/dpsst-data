@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2022
+  course: HSU32952
+  title: Addiction and Recovery for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 10/17/2022
   course: HSU32547
   title: Chief's Ethics Fall In-Service 2022

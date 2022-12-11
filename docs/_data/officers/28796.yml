@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 11/10/2022
+  course: PDP19413
+  title: Certified Technical Investigator (CTI)
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 10/9/2022
   course: PDP32158
   title: 2022 Lead Awareness  Safety Trng for Instructors

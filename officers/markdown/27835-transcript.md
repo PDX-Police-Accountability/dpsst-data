@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | HSU32952 | Addiction and Recovery for First Responders | Passed | 0.0 | 6.50 |
 | 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |

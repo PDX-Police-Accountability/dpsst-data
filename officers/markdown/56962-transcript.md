@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
+| 12/7/2022 | VND44046 | Parole Board Overview/ Q and A | Passed | 0.0 | 4.00 |
 | 11/3/2022 | HBN44551 | Motivational Interviewing | Passed | 0.0 | 3.00 |
 | 10/28/2022 | 22-0005 | DPSST Basic Parole and Probation | Passed | 0.0 | 200.00 |
 | 9/5/2022 | HBN10767 | Airway Circulatory Anatomy and Physiology (ACAP) | Passed | 0.0 | 2.00 |

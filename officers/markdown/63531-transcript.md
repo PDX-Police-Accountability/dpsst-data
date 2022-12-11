@@ -12,11 +12,11 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 12/8/2022 | Portland Police Bureau | Hired | Police Off |  |  |
+| 12/15/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/8/2022 | Police Officer | Basic | Required |  |  | 6/8/2024 |
+| 12/15/2022 | Police Officer | Basic | Required |  |  | 6/15/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

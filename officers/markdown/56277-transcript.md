@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/7/2022 | CAP30191 | Night Shoot | Passed | 0.0 | 3.00 |
 | 10/31/2022 | CAP36835 | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |
 | 10/26/2022 | CAP20916 | High Risk Vehicle Stops | Passed | 0.0 | 3.00 |
 | 9/21/2022 | CAP05650 | Precision Rifle Training | Passed | 0.0 | 3.00 |

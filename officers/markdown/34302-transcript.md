@@ -42,6 +42,7 @@
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 5/25/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/21/2022 | GSP21415 | Forensic Accident Reconstructionists of Oregon | Passed | 0.0 | 24.00 |
+| 4/12/2022 | GSP24622 | Airway Circulatory In Service | Passed | 0.0 | 2.00 |
 | 1/5/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2021 | GSP11619 | 2021 Mental Health In Service | Passed | 0.0 | 3.00 |
 | 12/15/2021 | GSP08272 | 2021 Ethics In Service | Passed | 0.0 | 1.00 |

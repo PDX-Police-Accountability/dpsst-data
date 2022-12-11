@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2022
+  course: PDP10183
+  title: CNOA Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 10/10/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -119,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 9/30/2022
+  course: PDP09732
+  title: ICS 400
+  status: Passed
+  score: '0.0'
+  hours: '14.75'
 - date: 9/8/2022
   course: PDP43328
   title: G0191 Emergency Operations Center/ICS Interface

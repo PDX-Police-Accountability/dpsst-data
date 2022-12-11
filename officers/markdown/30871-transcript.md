@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2022 | OSH32127 | OSP 3rd Trimester Firearms-Low Light | Passed | 0.0 | 4.00 |
 | 9/22/2022 | OSH06858 | VERBAL JUDO-TACTICAL COMMUNICATION | Instructed | 0.0 | 4.00 |
 | 9/14/2022 | OSH02130 | OSP 2nd Trimester Defensive Tactics/Taser Re-Cert | Instructed | 0.0 | 8.00 |
 | 8/31/2022 | OSH32434 | OSP 2nd Trimester Defensive Tactics/Taser Re-Cert | Instructed | 0.0 | 8.00 |

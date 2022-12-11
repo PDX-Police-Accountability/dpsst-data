@@ -969,7 +969,7 @@
 | Rudakova, Diana L. | 63527 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63527-transcript.md) - [yaml](../yaml/63527-transcript.yml) |
 | Pegoski, Billy R. | 63528 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63528-transcript.md) - [yaml](../yaml/63528-transcript.yml) |
 | Liu, Simeni M. | 63530 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63530-transcript.md) - [yaml](../yaml/63530-transcript.yml) |
-| Brown, Michael R. | 63531 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-08 | [md](../markdown/63531-transcript.md) - [yaml](../yaml/63531-transcript.yml) |
+| Brown, Michael R. | 63531 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63531-transcript.md) - [yaml](../yaml/63531-transcript.yml) |
 | MacIntyre, Nathan W., Jr. | 63589 | Portland Police Bureau | Active | Police Officer | Hired | 2022-11-10 | [md](../markdown/63589-transcript.md) - [yaml](../yaml/63589-transcript.yml) |
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |
 | Milton, Llissel G. | 63598 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |

@@ -142,6 +142,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/8/2022
+  course: ETS40244
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/19/2022
   course: ETS14899
   title: Airway Circulatory Crisis  Response

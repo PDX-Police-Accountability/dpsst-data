@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2022 | ETS40244 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 10/19/2022 | ETS14899 | Airway Circulatory Crisis  Response | Passed | 0.0 | 2.00 |
 | 8/25/2022 | ETS02800 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 8/22/2022 | OSH27620 | ARIDE | Instructed | 0.0 | 8.00 |

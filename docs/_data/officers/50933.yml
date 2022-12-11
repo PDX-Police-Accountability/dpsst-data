@@ -171,6 +171,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/24/2022
+  course: F1510893
+  title: Bud to Boss
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/24/2022
+  course: F1529404
+  title: Vivid Vision
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/18/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner
@@ -219,8 +231,26 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/3/2022
+  course: F1530675
+  title: Managing Oneself
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/3/2022
+  course: F1543567
+  title: The Discipline of Teams
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2022
   course: F1500118
+  title: Building Relationships Transgender
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/25/2022
+  course: F1534679
   title: Building Relationships Transgender
   status: Passed
   score: '0.0'
@@ -603,6 +633,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/28/2021
+  course: F1538002
+  title: Engaging with Transgender Community
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/19/2021
   course: PDP27760
   title: 2021-1 City Attorney's Legal Updates for 1/2021
@@ -683,6 +719,12 @@ training_records:
   hours: '6.00'
 - date: 9/25/2021
   course: F1538159
+  title: Protecting  Promoting Human Rights
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 9/25/2021
+  course: F1535385
   title: Protecting  Promoting Human Rights
   status: Passed
   score: '0.0'

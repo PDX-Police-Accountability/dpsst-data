@@ -55,6 +55,8 @@
 | 8/25/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/24/2022 | F1532431 | Bud to Boss | Passed | 0.0 | 10.00 |
 | 8/24/2022 | F1534876 | Vivid Vision | Passed | 0.0 | 4.00 |
+| 8/24/2022 | F1510893 | Bud to Boss | Passed | 0.0 | 10.00 |
+| 8/24/2022 | F1529404 | Vivid Vision | Passed | 0.0 | 4.00 |
 | 8/18/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 8/17/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
@@ -63,7 +65,10 @@
 | 8/10/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/3/2022 | F1511579 | Managing Oneself | Passed | 0.0 | 2.00 |
 | 8/3/2022 | F1541370 | The Discipline of Teams | Passed | 0.0 | 2.00 |
+| 8/3/2022 | F1530675 | Managing Oneself | Passed | 0.0 | 2.00 |
+| 8/3/2022 | F1543567 | The Discipline of Teams | Passed | 0.0 | 2.00 |
 | 7/25/2022 | F1500118 | Building Relationships Transgender | Passed | 0.0 | 3.00 |
+| 7/25/2022 | F1534679 | Building Relationships Transgender | Passed | 0.0 | 3.00 |
 | 7/18/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 7/13/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
@@ -127,6 +132,7 @@
 | 11/1/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 11/1/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 10/28/2021 | F1502708 | Engaging with Transgender Comm. | Passed | 0.0 | 4.00 |
+| 10/28/2021 | F1538002 | Engaging with Transgender Community | Passed | 0.0 | 4.00 |
 | 10/19/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |
 | 10/19/2021 | PDP16282 | 2021-11 TipsTech Unlawful Street Takeovers.Events | Passed | 0.0 | 0.25 |
 | 10/18/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
@@ -141,6 +147,7 @@
 | 9/28/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/28/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 9/25/2021 | F1538159 | Protecting  Promoting Human Rights | Passed | 0.0 | 20.00 |
+| 9/25/2021 | F1535385 | Protecting  Promoting Human Rights | Passed | 0.0 | 20.00 |
 | 9/24/2021 | F6R11457 | Intermediate Crisis/Hostage Negotiation | Passed | 0.0 | 40.00 |
 | 9/16/2021 | PDP33332 | 2019 LeadershipOrganizational Excellence PowerPt | Passed | 0.0 | 0.50 |
 | 9/16/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

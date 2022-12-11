@@ -86,6 +86,12 @@ certification_records:
   expiration_date: 12/12/2023
   probation_date: ''
 training_records:
+- date: 11/28/2022
+  course: HBY23635
+  title: LEDS Inquiry Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/24/2018
   course: PDP09911
   title: 2018 Annual Hearing Conservation Training for OSHA

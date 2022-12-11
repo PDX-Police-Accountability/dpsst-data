@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | VND44046 | Parole Board Overview/ Q and A | Passed | 0.0 | 4.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/19/2022 | HBN28748 | Ethics and Personal Decision Making | Passed | 0.0 | 2.00 |
 | 10/4/2022 | HBN07766 | Suicide Prevention and Intervention | Passed | 0.0 | 1.00 |

@@ -56,6 +56,7 @@
 | 5/23/2022 | GSP39138 | Karly's Law Training | Passed | 0.0 | 0.50 |
 | 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
 | 5/2/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
+| 4/12/2022 | GSP24622 | Airway Circulatory In Service | Passed | 0.0 | 2.00 |
 | 3/22/2022 | GSP17501 | TikTok for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/10/2022 | GSP09814 | Interview  Interrogation | Passed | 0.0 | 24.00 |
 | 2/22/2022 | CVP25074 | Glock Armorer Course | Passed | 0.0 | 8.00 |
