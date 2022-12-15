@@ -34,14 +34,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/2/2001 |  |
 | Code of Ethics | Signed | 3/2/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -62,6 +57,7 @@
 | 4/6/2022 | HBP32929 | Officer Rescue | Passed | 0.0 | 5.00 |
 | 4/6/2022 | HBP01727 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/30/2022 | HBP15013 | ARREST AND CONTROL | Passed | 0.0 | 1.00 |
+| 3/23/2022 | HBP25526 | Assisting Individuals in Crisis | Passed | 0.0 | 13.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 2/2/2022 | HBP13260 | Advanced Vehicle Stops | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDLD | 2021 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

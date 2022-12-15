@@ -55,6 +55,36 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2022
+  course: HBN24413
+  title: BCP Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/16/2022
+  course: HBN02293
+  title: Trauma Informed Practices
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/15/2022
+  course: HBN15275
+  title: Mentor Panel and Professional ID
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/10/2022
+  course: HBN01953
+  title: 2022 Diversity Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/27/2022
+  course: HBN12924
+  title: Search and Seizure Course - 4
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/19/2022
   course: HBN28748
   title: Ethics and Personal Decision Making
@@ -722,28 +752,12 @@ attribute_records:
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/29/2021
   expiration_date: 6/29/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2021
-  expiration_date: 6/29/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2020
@@ -754,19 +768,7 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 8/25/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 1/28/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/28/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/14/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

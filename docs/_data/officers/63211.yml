@@ -36,5 +36,15 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
-attribute_records: []
+- date: 11/29/2022
+  course: PDP00648
+  title: FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 12/12/2022
+  expiration_date: ''
 education_records: []

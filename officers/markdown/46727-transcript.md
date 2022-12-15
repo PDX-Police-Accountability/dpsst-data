@@ -25,6 +25,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2022 | TOP14271 | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 1.00 |
+| 12/1/2022 | TOP26575 | Bulletproof Spirit: Trauma and Healing | Passed | 0.0 | 2.00 |
 | 11/18/2022 | TOP43782 | Applying Lessons Learned from OIS Incidents | Passed | 0.0 | 1.00 |
 | 5/5/2021 | F6D27996 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |
 | 4/19/2019 | PDP15568 | May Day 2019 City Attorney Training | Passed | 0.0 | 1.50 |

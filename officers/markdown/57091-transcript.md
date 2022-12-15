@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2022 | PDP16923 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 11/5/2022 | PDP10589 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 11/4/2022 | PDP26684 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 11/3/2022 | PDP13295 | Firearms Training | Instructed | 0.0 | 7.00 |

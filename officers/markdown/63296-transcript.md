@@ -20,6 +20,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -28,4 +29,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/12/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 11/30/2022 | PDP16923 | Firearms Training | Passed | 0.0 | 6.00 |
+| 11/29/2022 | PDP34065 | Firearms Training | Passed | 0.0 | 7.00 |
 | 10/4/2022 | PDP21221 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/16/2022 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 7/31/2022 | Oregon Liquor and Cannabis Commission | Retired | RegSpec |  |  |
 | 5/2/2017 | Oregon Liquor and Cannabis Commission | Hired | RegSpec |  |  |
 | 5/14/2015 | Portland Police Bureau | Retired | Sergeant |  |  |

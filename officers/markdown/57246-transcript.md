@@ -24,18 +24,11 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
-| Code of Ethics | Signed | 6/14/2017 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +41,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/7/2022 | VND44046 | Parole Board Overview/ Q and A | Passed | 0.0 | 4.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/16/2022 | HBN24413 | BCP Fundamentals | Passed | 0.0 | 2.00 |
+| 11/16/2022 | HBN02293 | Trauma Informed Practices | Passed | 0.0 | 2.00 |
+| 11/15/2022 | HBN15275 | Mentor Panel and Professional ID | Passed | 0.0 | 2.00 |
+| 11/10/2022 | HBN01953 | 2022 Diversity Training | Passed | 0.0 | 1.50 |
+| 10/27/2022 | HBN12924 | Search and Seizure Course - 4 | Passed | 0.0 | 6.00 |
 | 10/19/2022 | HBN28748 | Ethics and Personal Decision Making | Passed | 0.0 | 2.00 |
 | 10/4/2022 | HBN07766 | Suicide Prevention and Intervention | Passed | 0.0 | 1.00 |
 | 9/27/2022 | HBN03095 | "988 and the Future of Crisis Response" | Passed | 0.0 | 1.00 |

@@ -63,8 +63,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 11/28/2022
+  course: PDS10314
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/21/2022
   course: PDS24055
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/21/2022
+  course: PDS14257
   title: Defensive Tactics
   status: Instructed
   score: '0.0'
@@ -1824,26 +1836,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/6/2021
   expiration_date: 12/6/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/6/2021
-  expiration_date: 12/6/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/15/2012
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2012

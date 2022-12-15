@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
 | Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
-| Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 12/20/2002 |  |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2022 | LOP15466 | 40mm Less-Lethal Recertification | Passed | 0.0 | 4.00 |
+| 11/6/2022 | LOP03609 | First Aid | Passed | 0.0 | 2.00 |
 | 10/30/2022 | LOP11762 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 10/25/2022 | LOP16443 | Taser X26P Recertification Training | Passed | 0.0 | 4.00 |
 | 10/20/2022 | LOP04764 | Hazardous Materials 2022 | Passed | 0.0 | 4.00 |

@@ -25,20 +25,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
-| Certification Cards | First Aid | 1/27/2022 | 1/27/2024 |
 | Certification Cards | First Aid | 1/27/2022 | 1/27/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/13/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 1/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 6/4/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 6/4/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 1/8/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/8/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,6 +42,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/19/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
 | 12/7/2022 | VND44046 | Parole Board Overview/ Q and A | Passed | 0.0 | 4.00 |
+| 11/18/2022 | HBN01213 | BCP Fundamentals | Passed | 0.0 | 2.00 |
+| 11/16/2022 | HBN02293 | Trauma Informed Practices | Passed | 0.0 | 2.00 |
+| 11/15/2022 | HBN15275 | Mentor Panel and Professional ID | Passed | 0.0 | 2.00 |
+| 11/10/2022 | HBN01953 | 2022 Diversity Training | Passed | 0.0 | 1.50 |
 | 11/3/2022 | HBN44551 | Motivational Interviewing | Passed | 0.0 | 3.00 |
 | 10/28/2022 | 22-0005 | DPSST Basic Parole and Probation | Passed | 0.0 | 200.00 |
 | 9/5/2022 | HBN10767 | Airway Circulatory Anatomy and Physiology (ACAP) | Passed | 0.0 | 2.00 |

@@ -17,6 +17,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/10/2022
+  course: TOP14271
+  title: Identifying and Preventing Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2022
+  course: TOP26575
+  title: 'Bulletproof Spirit: Trauma and Healing'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/18/2022
   course: TOP43782
   title: Applying Lessons Learned from OIS Incidents

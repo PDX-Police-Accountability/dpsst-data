@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,7 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/28/2022 | PDS16345 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 11/28/2022 | PDS10314 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/21/2022 | PDS24055 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 11/21/2022 | PDS14257 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/15/2022 | PDS25191 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/8/2022 | PDS42594 | Defensive Tactics IDC | Instructed | 0.0 | 8.00 |
 | 10/25/2022 | PDS09153 | Range Qualification | Instructed | 0.0 | 2.00 |
