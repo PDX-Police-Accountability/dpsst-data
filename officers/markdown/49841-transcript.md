@@ -34,6 +34,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
+| 11/15/2022 | PDP40525 | SERT Training: Individual Scenarios | Passed | 0.0 | 9.00 |
 | 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 10/27/2022 | PDP28992 | SERT- Rural Movement Training | Passed | 0.0 | 9.00 |
 | 10/20/2022 | PDP44475 | SERT: Control Entry Search Warrants Training | Passed | 0.0 | 5.00 |

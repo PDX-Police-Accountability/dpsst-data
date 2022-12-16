@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/18/2022
+  course: PDP25844
+  title: 'SERT Training: Iteration for test applicants'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/17/2022
+  course: PDP10051
+  title: 'SERT Training: Entry  HRT'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/15/2022
+  course: PDP40525
+  title: 'SERT Training: Individual Scenarios'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/22/2022
   course: PDP25459
   title: 'SERT: Breaching, HRT, Gas Familiarization'

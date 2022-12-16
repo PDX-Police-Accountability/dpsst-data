@@ -42,8 +42,10 @@
 | 8/1/2022 | OCS20390 | Ethics- online | Passed | 0.0 | 2.00 |
 | 8/1/2022 | OCS19556 | Ethics- online | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
+| 7/20/2022 | OCS05500 | One Hand Shooting/Marksmanship | Passed | 0.0 | 1.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
+| 6/20/2022 | OCS41203 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |

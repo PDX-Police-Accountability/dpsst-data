@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/29/2022
+  course: OCS09948
+  title: Marksmanship, Target Zone Transitions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/1/2022
   course: OCS34643
   title: Axon BWC
@@ -87,6 +93,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 10/20/2022
+  course: OCS30444
+  title: Impact and Edge Weapons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2022
+  course: OCS34377
+  title: Milo De-Escalation  Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/11/2022
+  course: OCS32432
+  title: Taser 7 Transition
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/28/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -129,6 +153,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/20/2022
+  course: OCS05500
+  title: One Hand Shooting/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/14/2022
   course: HDA16104
   title: 2022 ONEA Training Institute
@@ -144,6 +174,12 @@ training_records:
 - date: 6/23/2022
   course: OCS33874
   title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2022
+  course: OCS41203
+  title: Target Transition  Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'

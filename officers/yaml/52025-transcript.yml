@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2022
+  course: PDP05111
+  title: 'Weekly EDU: robots, rigging, glass door entry'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/9/2022
   course: PDP39508
   title: 'EDU Weekly: Robot and Rigging Training'

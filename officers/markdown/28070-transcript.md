@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 12/9/2022 | Yamhill County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 12/8/2022 | Tigard Police Department | Resigned | Police Off |  |  |
 | 11/8/2016 | Tigard Police Department | Hired | Police Off |  |  |
 | 7/6/1994 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 3/4/1993 | Portland Police Bureau | Hired | Reserve |  |  |

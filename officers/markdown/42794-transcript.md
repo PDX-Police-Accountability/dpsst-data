@@ -43,12 +43,16 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/29/2022 | OCS30026 | Marksmanship, Target Zone Transitions | Instructed | 0.0 | 2.00 |
+| 11/29/2022 | OCS09948 | Marksmanship, Target Zone Transitions | Instructed | 0.0 | 2.00 |
 | 11/28/2022 | OCS12011 | Low Light Target ID, Target Zone Transitions | Instructed | 0.0 | 2.00 |
+| 11/28/2022 | OCS16858 | Low Light Target ID, Target Zone Transitions | Instructed | 0.0 | 2.00 |
 | 11/18/2022 | OCS29404 | November 2022 New Hire Patrol Tactics | Instructed | 0.0 | 12.00 |
 | 11/11/2022 | OCS21400 | November 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |
 | 11/1/2022 | OCS27440 | Axon VR demo | Passed | 0.0 | 6.00 |
 | 10/31/2022 | OCS22224 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
+| 10/20/2022 | OCS38596 | Milo De-Escalation and problem solving | Instructed | 0.0 | 61.00 |
+| 10/20/2022 | OCS42905 | Target zone transitions, marksmanship | Instructed | 0.0 | 68.00 |
 | 10/18/2022 | OCS24937 | Intro to Pistol Red Dot Systems | Instructed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Instructed | 0.0 | 4.00 |
@@ -66,10 +70,12 @@
 | 7/25/2022 | OCS30020 | Shotgun Orientation Training | Instructed | 0.0 | 2.00 |
 | 7/22/2022 | OCS12091 | Balance speed/marksmanship, one hand shooting | Instructed | 0.0 | 2.00 |
 | 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
+| 7/20/2022 | OCS05500 | One Hand Shooting/Marksmanship | Passed | 0.0 | 1.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/27/2022 | OCS41952 | K9 Firearms - MILO and live fire | Instructed | 0.0 | 2.00 |
 | 6/22/2022 | OCS20615 | Target ID Marksmanship and Annual Qualifications | Instructed | 0.0 | 2.00 |
+| 6/20/2022 | OCS41203 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/10/2022 | OCS31761 | SWAT - Marksmanship Keyhole Shooting | Instructed | 0.0 | 3.00 |
 | 6/5/2022 | OCS43988 | Functional Pistol Skills | Passed | 0.0 | 20.00 |
 | 6/1/2022 | OCS16410 | New Hire Shotgun Orientation | Instructed | 0.0 | 2.00 |

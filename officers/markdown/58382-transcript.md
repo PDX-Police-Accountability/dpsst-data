@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
+| 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/20/2022 | OCS20366 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |

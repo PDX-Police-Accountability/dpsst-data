@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/20/2022
+  course: OCS05500
+  title: One Hand Shooting/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/19/2022
   course: OCS27541
   title: AR15 Armorer's Course
@@ -98,6 +104,12 @@ training_records:
   hours: '16.00'
 - date: 6/30/2022
   course: OCS08007
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2022
+  course: OCS41203
   title: Target Transition  Marksmanship
   status: Passed
   score: '0.0'

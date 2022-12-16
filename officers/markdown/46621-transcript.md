@@ -38,7 +38,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
+| 11/30/2022 | OCS37740 | Taser Refresher Course | Passed | 0.0 | 1.00 |
 | 11/22/2022 | OCS39690 | Field Training Officer class | Passed | 0.0 | 24.00 |
+| 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 10/14/2022 | OCS04425 | Interferring with a Peace Officer Statue update | Passed | 0.0 | 0.75 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -49,7 +51,9 @@
 | 8/1/2022 | OCS20390 | Ethics- online | Passed | 0.0 | 2.00 |
 | 8/1/2022 | OCS19556 | Ethics- online | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
+| 7/20/2022 | OCS05500 | One Hand Shooting/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
+| 6/20/2022 | OCS41203 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 5/30/2022 | OCS17591 | Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/27/2022 | OCS39091 | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |

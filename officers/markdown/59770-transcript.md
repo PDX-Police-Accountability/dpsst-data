@@ -30,6 +30,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
+| 11/17/2022 | PDP10051 | SERT Training: Entry  HRT | Passed | 0.0 | 9.00 |
+| 11/15/2022 | PDP40525 | SERT Training: Individual Scenarios | Passed | 0.0 | 9.00 |
 | 10/25/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/25/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/12/2022 | PDP32158 | 2022 Lead Awareness  Safety Trng for Instructors | Passed | 0.0 | 1.25 |

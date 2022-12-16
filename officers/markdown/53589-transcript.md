@@ -39,6 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
+| 11/30/2022 | OCS37740 | Taser Refresher Course | Passed | 0.0 | 1.00 |
+| 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
+| 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 10/14/2022 | OCS04425 | Interferring with a Peace Officer Statue update | Passed | 0.0 | 0.75 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -49,6 +52,7 @@
 | 7/3/2022 | OCS16566 | Code 3 Driving | Passed | 0.0 | 0.50 |
 | 6/30/2022 | OCS21814 | Ground Fightint | Passed | 0.0 | 1.00 |
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
+| 6/20/2022 | OCS41203 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 5/30/2022 | OCS17591 | Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/27/2022 | OCS39091 | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |

@@ -54,6 +54,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/30/2022
+  course: OCS37740
+  title: Taser Refresher Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2022
+  course: OCS30444
+  title: Impact and Edge Weapons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2022
+  course: OCS34377
+  title: Milo De-Escalation  Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/14/2022
   course: OCS04425
   title: Interferring with a Peace Officer Statue update
@@ -110,6 +128,12 @@ training_records:
   hours: '1.00'
 - date: 6/30/2022
   course: OCS08007
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2022
+  course: OCS41203
   title: Target Transition  Marksmanship
   status: Passed
   score: '0.0'

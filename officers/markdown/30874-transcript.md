@@ -42,11 +42,11 @@
 | 7/28/2022 | FGP16614 | Bloodborne | Passed | 0.0 | 1.00 |
 | 7/28/2022 | FGP07221 | HazMat | Passed | 0.0 | 1.00 |
 | 6/2/2022 | PDP17244 | 2021 Training Wellness Restoration Project | Passed | 0.0 | 9.00 |
+| 5/22/2022 | FGP33612 | EVOC Training | Passed | 0.0 | 8.00 |
 | 5/2/2022 | FGP41559 | Semi-Annual Firearms Training | Passed | 0.0 | 4.00 |
 | 4/19/2022 | FGP17600 | Patrol Tactics/Building Search Con Sim | Passed | 0.0 | 1.00 |
 | 4/8/2022 | FGP37598 | ACAP Carotid Restraint Policy Review | Passed | 0.0 | 0.25 |
 | 3/16/2022 | FGP28057 | 2022 Airways Training Video Pat. Eval for LE ACAP | Passed | 0.0 | 1.75 |
-| 3/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.75 |
 | 1/26/2022 | FGP01150 | High Throughput Property Crime DNA Analysis | Passed | 0.0 | 0.50 |
 | 12/29/2021 | F6F16400 | Critical Incident Response, Use of Force | Passed | 0.0 | 1.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

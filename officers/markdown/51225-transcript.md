@@ -32,6 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Instructed | 0.0 | 9.00 |
+| 11/17/2022 | PDP10051 | SERT Training: Entry  HRT | Passed | 0.0 | 9.00 |
+| 11/15/2022 | PDP40525 | SERT Training: Individual Scenarios | Passed | 0.0 | 9.00 |
 | 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 10/27/2022 | PDP28992 | SERT- Rural Movement Training | Passed | 0.0 | 9.00 |
 | 10/25/2022 | BPT29803 | Oregon CIT Summit 2022 | Passed | 0.0 | 8.00 |

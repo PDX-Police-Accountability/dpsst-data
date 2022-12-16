@@ -61,6 +61,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/20/2022
+  course: OCS30444
+  title: Impact and Edge Weapons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2022
+  course: OCS34377
+  title: Milo De-Escalation  Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2022
+  course: OCS34059
+  title: MIDD Portable Fingerprint Device Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/14/2022
   course: OCS04425
   title: Interferring with a Peace Officer Statue update
@@ -97,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/20/2022
+  course: OCS05500
+  title: One Hand Shooting/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/3/2022
   course: OCS16566
   title: Code 3 Driving
@@ -127,6 +151,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/20/2022
+  course: OCS41203
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/30/2022
   course: OCS17591
   title: Spring Patrol Rifle

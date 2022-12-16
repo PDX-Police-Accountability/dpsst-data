@@ -213,6 +213,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/2/2022
+  course: PDP30535
+  title: 2022 In-Service Firearms - Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/2/2022
+  course: PDP16706
+  title: 2022 In-Service Firearms - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/2/2022
+  course: PDP25803
+  title: 2022 In-Service Patrol Procedures - Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/14/2022
   course: PDP30218
   title: 2021 Training New Pistol Qualification

@@ -98,8 +98,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 11/29/2022
+  course: OCS09948
+  title: Marksmanship, Target Zone Transitions
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/28/2022
   course: OCS12011
+  title: Low Light Target ID, Target Zone Transitions
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/28/2022
+  course: OCS16858
   title: Low Light Target ID, Target Zone Transitions
   status: Instructed
   score: '0.0'
@@ -134,6 +146,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 10/20/2022
+  course: OCS38596
+  title: Milo De-Escalation and problem solving
+  status: Instructed
+  score: '0.0'
+  hours: '61.00'
+- date: 10/20/2022
+  course: OCS42905
+  title: Target zone transitions, marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '68.00'
 - date: 10/18/2022
   course: OCS24937
   title: Intro to Pistol Red Dot Systems
@@ -236,6 +260,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/20/2022
+  course: OCS05500
+  title: One Hand Shooting/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/19/2022
   course: OCS27541
   title: AR15 Armorer's Course
@@ -260,6 +290,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 6/20/2022
+  course: OCS41203
+  title: Target Transition  Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/10/2022
   course: OCS31761
   title: SWAT - Marksmanship Keyhole Shooting

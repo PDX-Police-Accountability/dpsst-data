@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.50'
+- date: 12/5/2022
+  course: HBS39429
+  title: 40MM Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/1/2022
   course: VND09645
   title: Using the Dark Web in Sex Trafficking

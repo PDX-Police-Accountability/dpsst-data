@@ -176,7 +176,7 @@
 | Berg, Walker R. | 43499 | Portland Police Bureau | Active | Criminalist | Promotion | 2016-01-11 | [md](../markdown/43499-transcript.md) - [yaml](../yaml/43499-transcript.yml) |
 | Berge, Christian R. | 49083 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2017-12-14 | [md](../markdown/49083-transcript.md) - [yaml](../yaml/49083-transcript.yml) |
 | Bergstrom, David A. | 26713 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1995-08-21 | [md](../markdown/26713-transcript.md) - [yaml](../yaml/26713-transcript.yml) |
-| Bernard, Joseph M. | 53468 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-07-06 | [md](../markdown/53468-transcript.md) - [yaml](../yaml/53468-transcript.yml) |
+| Bernard, Joseph M. | 53468 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/53468-transcript.md) - [yaml](../yaml/53468-transcript.yml) |
 | Besner, Leo M. | 27981 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2021-01-06 | [md](../markdown/27981-transcript.md) - [yaml](../yaml/27981-transcript.yml) |
 | Best, Cody J. | 54567 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2017-05-02 | [md](../markdown/54567-transcript.md) - [yaml](../yaml/54567-transcript.yml) |
 | Beyer, Mitchell A. | 25750 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1993-07-05 | [md](../markdown/25750-transcript.md) - [yaml](../yaml/25750-transcript.yml) |
