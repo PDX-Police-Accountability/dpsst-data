@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/14/2022
+  course: ALP05967
+  title: Interview and Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 11/30/2022
   course: OCS15169
   title: Target zone transitions, marksmanship

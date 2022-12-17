@@ -39,7 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/28/2022 | PDS16345 | Defensive Tactics | Instructed | 0.0 | 8.00 |
-| 11/28/2022 | PDS10314 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 11/28/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 11/21/2022 | PDS24055 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/21/2022 | PDS14257 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/15/2022 | PDS25191 | Defensive Tactics | Instructed | 0.0 | 8.00 |

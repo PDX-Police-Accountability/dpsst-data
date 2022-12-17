@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
+| 7/20/2022 | MLP38428 | Rifle Qualifications and Training | Passed | 0.0 | 4.00 |
 | 6/1/2022 | MLP40570 | SB 1510 Stops  Searches | Passed | 0.0 | 0.50 |
 | 5/31/2022 | MLP35269 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/31/2022 | MLP17838 | Anti-Bias Training For Law Enforcement | Passed | 0.0 | 1.00 |
@@ -53,6 +54,7 @@
 | 2/15/2022 | F6R42951 | Adult/Infant First Aid  CPR | Passed | 0.0 | 3.00 |
 | 10/29/2021 | REG13223 | Handgun Instructor Development | Passed | 0.0 | 40.00 |
 | 7/28/2021 | LOP25336 | Pursuit Intervention Technique Certification | Passed | 0.0 | 5.50 |
+| 5/27/2021 | MLP34298 | Pistol/Rifle Reloads | Passed | 0.0 | 4.00 |
 | 4/13/2021 | MLP14550 | Defensive Tactics for law enforcement | Passed | 0.0 | 5.00 |
 | 3/31/2021 | MLP03666 | Hazmat training and Policy Review | Passed | 0.0 | 2.00 |
 | 3/26/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

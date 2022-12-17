@@ -26,4 +26,4 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/20/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 2/20/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |

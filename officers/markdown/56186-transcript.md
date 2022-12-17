@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2022 | HBS16797 | Restraint Chair Update | Passed | 0.0 | 0.50 |
 | 2/23/2017 | F6C19990 | Advanced Academy 2017-1 Crowd Control | Passed | 0.0 | 9.00 |
 | 2/16/2017 | F6C02794 | Advanced Academy-Personal Communications | Passed | 0.0 | 3.50 |
 | 2/15/2017 | F6C26074 | PVO Simulator Training | Passed | 0.0 | 1.00 |

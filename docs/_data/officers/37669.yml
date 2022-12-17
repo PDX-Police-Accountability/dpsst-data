@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2022
+  course: PDP23167
+  title: 'SERT Training: Wall Technologies'
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/3/2022
   course: PDP22960
   title: 'SERT: HRT, Entry, Cautious Clears, etc.'

@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/14/2022
+  course: HUP07629
+  title: Marion County Leadership Monthly Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/10/2022
   course: SAG29613
   title: 2022 Organized Crime Conference

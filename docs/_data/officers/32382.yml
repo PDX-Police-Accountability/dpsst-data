@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 10/13/2022
+  course: HBS44109
+  title: Mobile Field Force- Drills
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/12/2022
   course: HBS22790
   title: Mobile Field Force - Familiarization

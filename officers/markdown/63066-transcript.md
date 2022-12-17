@@ -26,7 +26,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/20/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 1/23/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
 | 10/26/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/26/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/25/2022 | PDP32896 | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |

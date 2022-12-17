@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/16/2022 | LGS10575 | Rifle night training | Instructed | 0.0 | 3.00 |
+| 10/31/2022 | LGS37032 | Duty To Intercede - PoliceOne Academy #DUTY101 | Passed | 0.0 | 1.00 |
 | 8/10/2022 | LGS09574 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 6/11/2022 | LGS30098 | Extreme Ownership | Passed | 0.0 | 4.00 |
 | 3/30/2022 | LGS18982 | Defensive Tactics, Con-Sims | Instructed | 0.0 | 4.00 |

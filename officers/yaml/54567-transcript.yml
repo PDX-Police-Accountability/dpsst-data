@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/20/2022
+  course: MLP38428
+  title: Rifle Qualifications and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/1/2022
   course: MLP40570
   title: SB 1510 Stops  Searches
@@ -162,6 +168,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.50'
+- date: 5/27/2021
+  course: MLP34298
+  title: Pistol/Rifle Reloads
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/13/2021
   course: MLP14550
   title: Defensive Tactics for law enforcement

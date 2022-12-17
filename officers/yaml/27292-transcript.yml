@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 11/19/2022
+  course: PDS13451
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/21/2022
   course: PDS14098
   title: Narcan Training

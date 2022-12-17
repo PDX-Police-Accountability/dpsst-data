@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2022 | PDP00205 | 2022-2 Advanced Shotgun Operator Course | Passed | 0.0 | 13.00 |
 | 11/9/2022 | KFS21852 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 10/20/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 9/22/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

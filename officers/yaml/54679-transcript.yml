@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2022
+  course: MLP44561
+  title: Night Range Firearms November
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/16/2022
   course: MLP24161
   title: Defensive Tactics/ OC Spray/ Baton Training
@@ -78,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/6/2022
+  course: MLP40241
+  title: Rifle Qualifications and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/29/2022
   course: MAP35999
   title: BUILDING SEARCH TACTICS I

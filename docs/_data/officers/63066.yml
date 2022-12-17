@@ -24,7 +24,7 @@ certification_records:
   expiration_date: ''
   probation_date: 1/7/2024
 training_records:
-- date: 2/20/2023
+- date: 1/23/2023
   course: M10-23A
   title: DPSST Basic Police Course
   status: Pending

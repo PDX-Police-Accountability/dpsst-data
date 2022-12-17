@@ -48,6 +48,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 11/19/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 11/19/2022 | PDS13451 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/5/2022 | PDS18361 | Leadership | Passed | 0.0 | 0.50 |
 | 9/11/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |

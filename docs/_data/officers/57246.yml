@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: MISCMAIN
+  title: 2022 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/7/2022
   course: VND44046
   title: Parole Board Overview/ Q and A
@@ -73,6 +79,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/15/2022
+  course: HBN22257
+  title: Criminogenic Thinking, Skills, and Interventions
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/15/2022
+  course: HBN32709
+  title: Co-regulation and office visit success
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/10/2022
   course: HBN01953
   title: 2022 Diversity Training
@@ -751,6 +769,10 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
@@ -761,7 +783,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2020
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/25/2019

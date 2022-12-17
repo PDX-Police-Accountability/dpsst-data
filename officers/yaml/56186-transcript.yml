@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/14/2022
+  course: HBS16797
+  title: Restraint Chair Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/23/2017
   course: F6C19990
   title: Advanced Academy 2017-1 Crowd Control

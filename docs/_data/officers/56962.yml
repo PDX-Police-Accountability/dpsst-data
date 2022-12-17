@@ -79,6 +79,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/15/2022
+  course: HBN22257
+  title: Criminogenic Thinking, Skills, and Interventions
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/15/2022
+  course: HBN32709
+  title: Co-regulation and office visit success
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/10/2022
   course: HBN01953
   title: 2022 Diversity Training

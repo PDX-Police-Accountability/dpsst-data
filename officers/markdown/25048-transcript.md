@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2022 | HUP07629 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 11/10/2022 | SAG29613 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |
 | 11/9/2022 | SAG30474 | 2022 Organized Crime Conference | Passed | 0.0 | 3.00 |
 | 11/9/2022 | SAG07519 | 2022 Organized Crime Conference | Passed | 0.0 | 5.00 |

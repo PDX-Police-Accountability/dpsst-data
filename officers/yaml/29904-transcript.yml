@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/19/2022
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 9/8/2016
   agency: Portland Police Bureau
   action: Promotion

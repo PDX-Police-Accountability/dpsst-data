@@ -45,6 +45,8 @@
 | 11/18/2022 | HBN01213 | BCP Fundamentals | Passed | 0.0 | 2.00 |
 | 11/16/2022 | HBN02293 | Trauma Informed Practices | Passed | 0.0 | 2.00 |
 | 11/15/2022 | HBN15275 | Mentor Panel and Professional ID | Passed | 0.0 | 2.00 |
+| 11/15/2022 | HBN22257 | Criminogenic Thinking, Skills, and Interventions | Passed | 0.0 | 3.00 |
+| 11/15/2022 | HBN32709 | Co-regulation and office visit success | Passed | 0.0 | 3.00 |
 | 11/10/2022 | HBN01953 | 2022 Diversity Training | Passed | 0.0 | 1.50 |
 | 11/3/2022 | HBN44551 | Motivational Interviewing | Passed | 0.0 | 3.00 |
 | 10/28/2022 | 22-0005 | DPSST Basic Parole and Probation | Passed | 0.0 | 200.00 |
