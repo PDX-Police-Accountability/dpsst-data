@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 9/24/2022 | PDS02080 | Firearms Training | Passed | 0.0 | 6.00 |

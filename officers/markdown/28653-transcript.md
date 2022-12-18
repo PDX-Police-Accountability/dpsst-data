@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | PDP40615 | 2022-2 All Sworn In-Service Legal Updates 1010.00 | Passed | 0.0 | 2.00 |
 | 11/16/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |
 | 11/15/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |
 | 10/13/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |

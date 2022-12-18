@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: PDP40615
+  title: 2022-2 All Sworn In-Service Legal Updates 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/16/2022
   course: F1534570
   title: Threat Assessment Conference

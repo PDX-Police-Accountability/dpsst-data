@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/28/2022 | HBY23635 | LEDS Inquiry Recertification | Passed | 0.0 | 1.00 |
+| 11/16/2022 | HBY39477 | CPR vs Other Calltypes | Passed | 0.0 | 0.50 |
 | 11/24/2018 | PDP09911 | 2018 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
 | 10/14/2018 | PDP21953 | City Attorney's Legal Updates | Passed | 0.0 | 0.25 |
 | 10/3/2018 | PDP15551 | Fentanyl: The Real Deal | Passed | 0.0 | 0.25 |

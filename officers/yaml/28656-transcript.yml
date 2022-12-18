@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/2/2022
+  course: TGP39733
+  title: 2022 Domestic Violence Investigation Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/28/2022
   course: TUP34147
   title: EVOC

@@ -84,6 +84,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.30'
+- date: 9/30/2022
+  course: BNP20984
+  title: Law Enforcement Drone Assc. UAS conference
+  status: Passed
+  score: '0.0'
+  hours: '36.50'
+- date: 9/22/2022
+  course: BNP07284
+  title: Indoor UAS Operations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/15/2022
   course: BNP05092
   title: Ethos Leadership

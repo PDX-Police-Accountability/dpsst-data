@@ -170,6 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/9/2022
+  course: TGP39733
+  title: 2022 Domestic Violence Investigation Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/3/2022
   course: TGP10075
   title: Firearms

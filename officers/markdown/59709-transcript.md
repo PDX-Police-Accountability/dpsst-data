@@ -46,6 +46,8 @@
 | 11/10/2022 | BNP10495 | UAS Indoor Flight Training | Passed | 0.0 | 4.00 |
 | 10/20/2022 | BNP40235 | UAS - Mapping and evidence collection | Passed | 0.0 | 4.00 |
 | 10/12/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
+| 9/30/2022 | BNP20984 | Law Enforcement Drone Assc. UAS conference | Passed | 0.0 | 36.50 |
+| 9/22/2022 | BNP07284 | Indoor UAS Operations | Passed | 0.0 | 16.00 |
 | 9/15/2022 | BNP05092 | Ethos Leadership | Passed | 0.0 | 3.00 |
 | 9/15/2022 | BNP36027 | Fitness, Diet and Mental Health | Passed | 0.0 | 0.50 |
 | 9/15/2022 | BNP07309 | High Risk Stops | Passed | 0.0 | 0.50 |

@@ -53,7 +53,7 @@
 | 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 8/25/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 8/13/2022 | ICE16086 | Patient Evaluation for Law Enforcement-HB 2513 | Passed | 0.0 | 1.75 |
+| 8/13/2022 | ICE16086 | Patient Evaluation for Law Enforcement-HB 2513 | Passed | 0.0 | 2.00 |
 | 6/27/2022 | ICE20832 | Firearms-Handgun and Rifle | Passed | 0.0 | 4.00 |
 | 5/31/2022 | ICE24801 | Less Lethal-PepperBall | Passed | 0.0 | 1.00 |
 | 5/19/2022 | ICE01150 | Senate Bill 1510 Update | Passed | 0.0 | 0.50 |

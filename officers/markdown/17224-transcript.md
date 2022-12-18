@@ -24,6 +24,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 12/16/2022 | Police Officer | Management | App Recd |  |  |  |
 | 8/9/2016 | Police Officer | Supervisory | Granted | 8/9/2016 |  |  |
 | 8/3/2004 | Police Officer | Advanced | Granted | 8/3/2004 |  |  |
 | 8/3/2004 | Police Officer | Intermediate | Granted | 8/3/2004 |  |  |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 11/19/2022 | HSU24957 | November 2022 Supplemental Range | Instructed | 0.0 | 4.00 |
 | 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |

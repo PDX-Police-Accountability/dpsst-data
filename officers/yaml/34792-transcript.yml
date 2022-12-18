@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/6/2022
+  course: TAP04074
+  title: Officer Safety During High Risk LE Ops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/4/2022
   course: ADP03169
   title: Taser 7 Annual Recertification

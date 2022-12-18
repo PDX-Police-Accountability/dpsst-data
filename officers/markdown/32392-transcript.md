@@ -55,6 +55,7 @@
 | 7/22/2022 | HBS27202 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 7/6/2022 | HBS07135 | Crash Investigation Scenarios | Passed | 0.0 | 4.00 |
 | 6/9/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |
+| 6/9/2022 | TGP39733 | 2022 Domestic Violence Investigation Update | Passed | 0.0 | 1.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
 | 5/25/2022 | TGP31467 | 2022 ACAP Training | Passed | 0.0 | 2.00 |
 | 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Instructed | 0.0 | 40.00 |

@@ -47,6 +47,7 @@
 | 6/3/2022 | TGP35064 | Lock Picking, Bypassing  Subtle Mech Breaching | Passed | 0.0 | 16.00 |
 | 5/23/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |
 | 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Passed | 0.0 | 40.00 |
+| 5/2/2022 | TGP39733 | 2022 Domestic Violence Investigation Update | Passed | 0.0 | 1.00 |
 | 4/28/2022 | TUP34147 | EVOC | Passed | 0.0 | 7.00 |
 | 4/28/2022 | TUP16481 | High Risk Traffic Stops | Passed | 0.0 | 1.00 |
 | 4/25/2022 | TGP31467 | 2022 ACAP Training | Passed | 0.0 | 2.00 |

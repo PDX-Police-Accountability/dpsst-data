@@ -70,6 +70,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2022
+  course: PDS16690
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/1/2022
+  course: PDS24063
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/31/2022
   course: PDS14098
   title: Narcan Training

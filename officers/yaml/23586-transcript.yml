@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2022
+  course: PDS22022
+  title: ADA Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/27/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

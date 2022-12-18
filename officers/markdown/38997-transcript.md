@@ -23,6 +23,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 12/16/2022 | Police Officer | Management | App Recd |  |  |  |
 | 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 |  |  |
 | 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 |  |  |
 | 2/13/2012 | Police Officer | Supervisory | Granted | 2/13/2012 |  |  |
@@ -66,6 +67,7 @@
 | 8/17/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/17/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/17/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
+| 7/28/2022 | PDP40971 | Senior Management Institute for Police | Passed | 0.0 | 105.00 |
 | 6/2/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

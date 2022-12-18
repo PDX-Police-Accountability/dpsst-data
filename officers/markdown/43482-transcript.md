@@ -31,43 +31,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/30/2022 | DAS14861 | Airway Breathing and Circulatory System | Passed | 0.0 | 2.00 |
-| 9/30/2022 | DAS37723 | Ethical Decision Making | Passed | 0.0 | 1.00 |
-| 9/30/2022 | DAS32811 | Policy 621 Review Inmate Searches | Passed | 0.0 | 1.00 |
-| 9/30/2022 | DAS37279 | Policy 701 Review PCJ Evacuation | Passed | 0.0 | 1.00 |
-| 9/30/2022 | DAS06437 | Policy 802 Review Inmate Grievances | Passed | 0.0 | 1.00 |
-| 9/30/2022 | DAS16111 | Policy 300 Review Food Services | Passed | 0.0 | 1.00 |
-| 9/30/2022 | DAS26766 | Policy 502 Review: Sentence Computation | Passed | 0.0 | 1.00 |
-| 9/3/2022 | DAS00988 | Close quarters shooting and Cover | Passed | 0.0 | 3.00 |
-| 6/30/2022 | DAS29574 | Drug and Alcohol Abuse | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS30445 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS41449 | ADA Training | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS23024 | Preventing Sexual Harassment | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS04901 | PREA Brochure Training | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS07173 | Fire Extinguisher Training | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS11413 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS37726 | ADA Training | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS20485 | Drug and Alcohol Abuse | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS17033 | Fire Extinguisher Training | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS41654 | Preventing Sexual Harassment | Passed | 0.0 | 1.00 |
-| 6/30/2022 | DAS10423 | PREA Brochure Training | Passed | 0.0 | 1.00 |
-| 3/31/2022 | F6R13584 | Duty to Intercede | Passed | 0.0 | 1.50 |
-| 3/31/2022 | F6R02316 | Jail Policy Review | Passed | 0.0 | 1.00 |
-| 3/31/2022 | F6R14512 | Policy 600 Review Security and Control | Passed | 0.0 | 1.00 |
-| 3/31/2022 | F6R11431 | Policy 200 Review Operational Procedures | Passed | 0.0 | 1.00 |
-| 3/31/2022 | F6R44603 | Pre-Trial No Contact Order | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6K40813 | Sheriff's Office Policy 300 Review - Use of Force | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6K02110 | Preventing In Custody Deaths - Video Part 2 | Passed | 0.0 | 2.50 |
-| 10/1/2021 | F6K32195 | Ethical Decision Making for Today's CO | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6K07706 | Policy 300 Food Service Review | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E02753 | Ethical Decision Marking for Today's CO | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E37096 | Policy 502 Sentence Computation Review | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E40070 | Policy 701 PCJ Evacuation Review | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E16543 | Policy 621 Inmate Searches Review | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E18829 | Policy 802 Inmate Grievance Review | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E44141 | Policy 300 Food Service Review | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E09142 | Preventing In Custody Deaths-Video Part 2 | Passed | 0.0 | 1.00 |
-| 10/1/2021 | F6E33040 | Sheriff's Office Policy 300 Review-Use of Force | Passed | 0.0 | 1.00 |
 | 12/31/2016 | MISCMAIN | 2016 Police Maintenance Basic | Completed | 0.0 | 0.00 |
 | 5/24/2016 | F6C01116 | RegJIN - Supplemental Training for Non-Patrol | Passed | 0.0 | 4.00 |
 | 4/13/2016 | F6B00687 | Courageous Conversations about Race: Trainer | Passed | 0.0 | 12.00 |

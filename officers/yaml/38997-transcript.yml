@@ -58,6 +58,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 12/16/2022
+  certificate: Police Officer
+  level: Management
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/13/2012
   certificate: Police Officer
   level: Advanced
@@ -237,6 +244,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/28/2022
+  course: PDP40971
+  title: Senior Management Institute for Police
+  status: Passed
+  score: '0.0'
+  hours: '105.00'
 - date: 6/2/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
