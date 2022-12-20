@@ -16,15 +16,15 @@ employment_records:
   classification: ''
   assignment: ''
 - date: 3/15/2001
-  agency: Marion County Sheriff's Office
-  action: Resigned
-  rank: Dpty Shrf
-  classification: ''
-  assignment: ''
-- date: 3/15/2001
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/15/2001
+  agency: Marion County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
   classification: ''
   assignment: ''
 - date: 11/1/1997

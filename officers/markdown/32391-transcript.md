@@ -20,8 +20,8 @@
 | 1/8/2004 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/7/2004 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/1/2003 | Troutdale Police Department | Resigned | Reserve |  |  |
-| 10/15/2002 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 10/15/2002 | Troutdale Police Department | Hired | Reserve |  |  |
+| 10/15/2002 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 7/13/1998 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 5/30/1996 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification

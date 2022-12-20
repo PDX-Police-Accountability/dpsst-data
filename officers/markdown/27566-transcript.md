@@ -13,8 +13,8 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 3/20/2008 | Portland Police Bureau | Promotion | Detective |  |  |
-| 3/15/2001 | Marion County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 3/15/2001 | Portland Police Bureau | Hired | Police Off |  |  |
+| 3/15/2001 | Marion County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 11/1/1997 | Marion County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 10/31/1997 | Independence Police Department | Resigned | Police Off |  |  |
 | 7/15/1994 | Independence Police Department | Hired | Police Off |  |  |
