@@ -18,8 +18,8 @@
 | 5/18/2009 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/17/2008 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/16/2008 | West Linn Police Department | Resigned | Police Off |  |  |
-| 9/15/2003 | West Linn Police Department | Hired | Police Off |  |  |
 | 9/15/2003 | Oregon City Police Department | Resigned | Reserve |  |  |
+| 9/15/2003 | West Linn Police Department | Hired | Police Off |  |  |
 | 9/13/2002 | Oregon City Police Department | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

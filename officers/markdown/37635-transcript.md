@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | EGP19742 | PVS-14 Overview/Scenarios - Firerms Skills | Passed | 0.0 | 15.00 |
 | 10/27/2022 | EGP31826 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 7.00 |
 | 10/27/2022 | EGP26840 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 8.00 |
 | 10/26/2022 | EGP21546 | ETHOS:  Ethics | Passed | 0.0 | 3.00 |

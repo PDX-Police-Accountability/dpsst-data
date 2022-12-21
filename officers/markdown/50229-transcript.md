@@ -36,9 +36,33 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2022 | TRN20456 | Airway and Circulatory Anatomy Training (ACAP) | Passed | 0.0 | 2.00 |
+| 11/11/2022 | TRN20486 | Basic Public Records Training v2022 | Passed | 0.0 | 2.00 |
+| 11/11/2022 | TRN40851 | ICS for Corrections Review v2022 | Passed | 0.0 | 1.00 |
+| 11/11/2022 | TRN01887 | Leading Change Through a Dynamic Approach v2022 | Passed | 0.0 | 4.00 |
+| 11/11/2022 | TRN31977 | Suicide Prevention in Corrections Facilities v2022 | Passed | 0.0 | 1.00 |
+| 11/11/2022 | TRN09255 | Speak Up Culture-The Oregon Way v2022 | Passed | 0.0 | 2.00 |
+| 11/11/2022 | TRN26410 | Use of Force Documentation and Reviews v2022 | Passed | 0.0 | 2.00 |
+| 11/11/2022 | TRN42183 | Use of Force Applications - Evolving Caselaw v2022 | Passed | 0.0 | 2.00 |
+| 11/10/2022 | TRN26069 | 2021 Information Security Training Foundations | Passed | 0.0 | 0.50 |
+| 11/10/2022 | TRN06341 | AICs w Disabilities Access and Provisions v2022 | Passed | 0.0 | 1.00 |
+| 11/10/2022 | TRN22025 | Asbestos Awareness v2022 | Passed | 0.0 | 1.00 |
+| 11/10/2022 | TRN12632 | Bloodborne Pathogens in the Workplace v2022 | Passed | 0.0 | 1.00 |
+| 11/10/2022 | TRN21396 | CRCI Fire Suppression Training v2022 | Passed | 0.0 | 1.00 |
+| 11/10/2022 | TRN15021 | Environmental Wellness for Corr Professional v2022 | Passed | 0.0 | 0.50 |
+| 11/10/2022 | TRN40219 | Fire Extinguisher Use and Safety v2022 | Passed | 0.0 | 1.00 |
+| 11/10/2022 | TRN24883 | Fire Extinguisher Use v2021 | Passed | 0.0 | 0.50 |
+| 11/10/2022 | TRN16468 | Nasal Naloxone (Narcan) v2021 | Passed | 0.0 | 0.50 |
+| 11/10/2022 | TRN25456 | Spiritual Wellness for Corr Professionals v2022 | Passed | 0.0 | 0.50 |
+| 11/10/2022 | TRN19798 | Physical Wellness for Corr Professionals v2022 | Passed | 0.0 | 0.50 |
+| 11/10/2022 | TRN13587 | Safety Update - Earthquake Preparedness v2022 | Passed | 0.0 | 1.00 |
+| 11/10/2022 | TRN38029 | Social Wellness for Corrections Professional v2022 | Passed | 0.0 | 0.50 |
 | 10/31/2022 | TRN37113 | DOC - HSI Adult First Aid CPR AED v2022 | Passed | 0.0 | 4.00 |
 | 10/31/2022 | TRN36960 | DOC - Threat and Risk Assessment Model v2022c | Passed | 0.0 | 2.00 |
 | 10/31/2022 | TRN29257 | DOC - Duty to Intervene v2022c | Passed | 0.0 | 2.00 |
+| 10/31/2022 | TRN25761 | Duty to Intervene v2022c | Passed | 0.0 | 2.00 |
+| 10/31/2022 | TRN30602 | HSI Adult First Aid  CPR AED v2022 | Passed | 0.0 | 4.00 |
+| 10/31/2022 | TRN27815 | Threat and Risk Assessment Model v2022c | Passed | 0.0 | 2.00 |
 | 5/31/2022 | TRN01391 | 2022 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 5/31/2022 | TRN18068 | 2022 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 5/31/2022 | TRN21270 | PREA Training Requirement v2022 | Passed | 0.0 | 1.00 |

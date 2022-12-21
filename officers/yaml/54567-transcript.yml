@@ -66,6 +66,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/27/2022
+  course: MLP19099
+  title: Firearms Training and Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/13/2022
+  course: MLP19099
+  title: Firearms Training and Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/20/2022
   course: MLP38428
   title: Rifle Qualifications and Training
@@ -126,6 +138,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/5/2022
+  course: MLP34724
+  title: Firearms Quals  Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/29/2022
   course: MLP44580
   title: Axon Body Camera Instruction
@@ -156,6 +174,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/1/2022
+  course: MLP10358
+  title: Firearms Quals
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/1/2022
+  course: MLP10358
+  title: Firearms Quals
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/29/2021
   course: REG13223
   title: Handgun Instructor Development

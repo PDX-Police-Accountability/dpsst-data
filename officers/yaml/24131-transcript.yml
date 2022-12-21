@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2022
+  course: WLP34295
+  title: Bias Based Policy Annual Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/11/2022
   course: WLP33367
   title: Emergency Operations Plan Annual Training

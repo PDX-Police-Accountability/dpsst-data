@@ -58,14 +58,14 @@ employment_records:
   classification: ''
   assignment: ''
 - date: 10/15/2002
-  agency: Troutdale Police Department
-  action: Hired
+  agency: Portland Police Bureau
+  action: Resigned
   rank: Reserve
   classification: ''
   assignment: ''
 - date: 10/15/2002
-  agency: Portland Police Bureau
-  action: Resigned
+  agency: Troutdale Police Department
+  action: Hired
   rank: Reserve
   classification: ''
   assignment: ''

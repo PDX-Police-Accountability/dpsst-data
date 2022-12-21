@@ -46,15 +46,15 @@ employment_records:
   classification: ''
   assignment: ''
 - date: 9/15/2003
-  agency: West Linn Police Department
-  action: Hired
-  rank: Police Off
-  classification: ''
-  assignment: ''
-- date: 9/15/2003
   agency: Oregon City Police Department
   action: Resigned
   rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 9/15/2003
+  agency: West Linn Police Department
+  action: Hired
+  rank: Police Off
   classification: ''
   assignment: ''
 - date: 9/13/2002

@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2022 | SDP18151 | Handgun Qualification/Table Top Scenarios | Passed | 0.0 | 5.00 |
+| 12/14/2022 | SDP19796 | Police Reform New Legislation | Passed | 0.0 | 1.50 |
 | 11/16/2022 | SDP09363 | Defensive Tactics | Instructed | 0.0 | 2.50 |
 | 11/14/2022 | REG09312 | Body Lock, Escaping Quarters Position | Passed | 0.0 | 1.00 |
 | 11/10/2022 | REG07994 | Takedown, Quarters Top Position | Passed | 0.0 | 1.00 |

@@ -49,6 +49,132 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2022
+  course: TRN20456
+  title: Airway and Circulatory Anatomy Training (ACAP)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/11/2022
+  course: TRN20486
+  title: Basic Public Records Training v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/11/2022
+  course: TRN40851
+  title: ICS for Corrections Review v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/11/2022
+  course: TRN01887
+  title: Leading Change Through a Dynamic Approach v2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/11/2022
+  course: TRN31977
+  title: Suicide Prevention in Corrections Facilities v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/11/2022
+  course: TRN09255
+  title: Speak Up Culture-The Oregon Way v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/11/2022
+  course: TRN26410
+  title: Use of Force Documentation and Reviews v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/11/2022
+  course: TRN42183
+  title: Use of Force Applications - Evolving Caselaw v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/10/2022
+  course: TRN26069
+  title: 2021 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: TRN06341
+  title: AICs w Disabilities Access and Provisions v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2022
+  course: TRN22025
+  title: Asbestos Awareness v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2022
+  course: TRN12632
+  title: Bloodborne Pathogens in the Workplace v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2022
+  course: TRN21396
+  title: CRCI Fire Suppression Training v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2022
+  course: TRN15021
+  title: Environmental Wellness for Corr Professional v2022
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: TRN40219
+  title: Fire Extinguisher Use and Safety v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2022
+  course: TRN24883
+  title: Fire Extinguisher Use v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: TRN16468
+  title: Nasal Naloxone (Narcan) v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: TRN25456
+  title: Spiritual Wellness for Corr Professionals v2022
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: TRN19798
+  title: Physical Wellness for Corr Professionals v2022
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: TRN13587
+  title: Safety Update - Earthquake Preparedness v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/10/2022
+  course: TRN38029
+  title: Social Wellness for Corrections Professional v2022
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/31/2022
   course: TRN37113
   title: DOC - HSI Adult First Aid CPR AED v2022
@@ -64,6 +190,24 @@ training_records:
 - date: 10/31/2022
   course: TRN29257
   title: DOC - Duty to Intervene v2022c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2022
+  course: TRN25761
+  title: Duty to Intervene v2022c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2022
+  course: TRN30602
+  title: HSI Adult First Aid  CPR AED v2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2022
+  course: TRN27815
+  title: Threat and Risk Assessment Model v2022c
   status: Passed
   score: '0.0'
   hours: '2.00'

@@ -47,7 +47,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/8/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
+| 12/8/2022 | STP10082 | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 12/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
+| 12/6/2022 | STP42959 | Use of Force Training | Instructed | 0.0 | 8.00 |
 | 11/15/2022 | VND16788 | Ghost Guns/East Freight Case Review | Passed | 0.0 | 4.00 |
 | 11/15/2022 | VND14635 | Reframing Your Narrative/Appeals Process | Passed | 0.0 | 4.00 |
 | 11/14/2022 | VND38409 | Case Review: Fretwell Double Homicide | Passed | 0.0 | 3.00 |

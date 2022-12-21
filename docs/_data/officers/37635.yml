@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: EGP19742
+  title: PVS-14 Overview/Scenarios - Firerms Skills
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 10/27/2022
   course: EGP31826
   title: HRT Crisis Search Skills-Explosive Breaching

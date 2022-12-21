@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
+| 9/27/2022 | MLP19099 | Firearms Training and Qualification | Instructed | 0.0 | 4.00 |
+| 9/13/2022 | MLP19099 | Firearms Training and Qualification | Instructed | 0.0 | 4.00 |
 | 7/20/2022 | MLP38428 | Rifle Qualifications and Training | Passed | 0.0 | 4.00 |
 | 6/1/2022 | MLP40570 | SB 1510 Stops  Searches | Passed | 0.0 | 0.50 |
 | 5/31/2022 | MLP35269 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
@@ -47,11 +49,14 @@
 | 5/31/2022 | MLP25543 | Taser 7 training | Passed | 0.0 | 4.00 |
 | 5/31/2022 | MLP13641 | Taser 7 training | Passed | 0.0 | 4.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
+| 4/5/2022 | MLP34724 | Firearms Quals  Training | Instructed | 0.0 | 10.00 |
 | 3/29/2022 | MLP44580 | Axon Body Camera Instruction | Passed | 0.0 | 2.00 |
 | 3/16/2022 | BPT34763 | Advanced De-Escalation and Escalation Prevention | Passed | 0.0 | 20.00 |
 | 3/11/2022 | LOP01108 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |
 | 3/7/2022 | MLP08859 | HB 2513 Airway Circulatory Anatomy | Passed | 0.0 | 2.00 |
 | 2/15/2022 | F6R42951 | Adult/Infant First Aid  CPR | Passed | 0.0 | 3.00 |
+| 2/1/2022 | MLP10358 | Firearms Quals | Passed | 0.0 | 2.00 |
+| 2/1/2022 | MLP10358 | Firearms Quals | Instructed | 0.0 | 2.00 |
 | 10/29/2021 | REG13223 | Handgun Instructor Development | Passed | 0.0 | 40.00 |
 | 7/28/2021 | LOP25336 | Pursuit Intervention Technique Certification | Passed | 0.0 | 5.50 |
 | 5/27/2021 | MLP34298 | Pistol/Rifle Reloads | Passed | 0.0 | 4.00 |

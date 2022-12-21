@@ -15,8 +15,8 @@
 | 11/16/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/20/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/18/2009 | Albany Police Department | Resigned | Police Off |  |  |
-| 11/20/2006 | Albany Police Department | Hired | Police Off |  |  |
 | 11/20/2006 | Benton County Sheriff's Office | Resigned | Reserve |  |  |
+| 11/20/2006 | Albany Police Department | Hired | Police Off |  |  |
 | 1/8/2003 | Benton County Sheriff's Office | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
