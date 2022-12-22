@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2022
+  course: PDP36804
+  title: 2020 Trng Managing Critical Incidents Well Sgts
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/11/2022
   course: PDP10530
   title: DIR 850.22, 850.21, 850.25, 850.20 with KC

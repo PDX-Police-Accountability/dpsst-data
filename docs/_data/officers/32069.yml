@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: REG41163
+  title: Guard Bottom - sweeps, reversals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/14/2022
   course: SDP18151
   title: Handgun Qualification/Table Top Scenarios
@@ -68,6 +74,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/12/2022
+  course: REG14408
+  title: Guard Bottom - sweeps, reversals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2022
+  course: REG22807
+  title: Guard Pass
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/28/2022
+  course: REG40783
+  title: Guard Passing in Weapon Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2022
+  course: REG37107
+  title: Guard Bottom Sweeps, Reversal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2022
+  course: REG03740
+  title: Single Officer Takedown  Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/16/2022
   course: SDP09363
   title: Defensive Tactics

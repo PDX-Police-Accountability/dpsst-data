@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 11/17/2022
+  course: PDP41896
+  title: 2022 CNT Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 10/21/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training

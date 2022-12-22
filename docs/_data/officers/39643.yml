@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2022
+  course: REG14408
+  title: Guard Bottom - sweeps, reversals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2022
+  course: REG37107
+  title: Guard Bottom Sweeps, Reversal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/14/2022
   course: REG09312
   title: Body Lock, Escaping Quarters Position

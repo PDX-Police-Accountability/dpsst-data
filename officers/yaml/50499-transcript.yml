@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 11/17/2022
+  course: PDP41896
+  title: 2022 CNT Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 10/20/2022
   course: PDP36211
   title: 2022 Crowd Management

@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2022 | REG14408 | Guard Bottom - sweeps, reversals | Passed | 0.0 | 1.00 |
+| 11/21/2022 | REG37107 | Guard Bottom Sweeps, Reversal | Passed | 0.0 | 1.00 |
 | 11/14/2022 | REG09312 | Body Lock, Escaping Quarters Position | Passed | 0.0 | 1.00 |
 | 11/10/2022 | REG07994 | Takedown, Quarters Top Position | Passed | 0.0 | 1.00 |
 | 11/7/2022 | REG23396 | Takedown, Control Quarters Position | Passed | 0.0 | 1.00 |

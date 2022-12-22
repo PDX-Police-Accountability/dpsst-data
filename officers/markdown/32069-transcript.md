@@ -37,8 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | REG41163 | Guard Bottom - sweeps, reversals | Passed | 0.0 | 1.00 |
 | 12/14/2022 | SDP18151 | Handgun Qualification/Table Top Scenarios | Passed | 0.0 | 5.00 |
 | 12/14/2022 | SDP19796 | Police Reform New Legislation | Passed | 0.0 | 1.50 |
+| 12/12/2022 | REG14408 | Guard Bottom - sweeps, reversals | Passed | 0.0 | 1.00 |
+| 12/1/2022 | REG22807 | Guard Pass | Passed | 0.0 | 1.00 |
+| 11/28/2022 | REG40783 | Guard Passing in Weapon Control | Passed | 0.0 | 1.00 |
+| 11/21/2022 | REG37107 | Guard Bottom Sweeps, Reversal | Passed | 0.0 | 1.00 |
+| 11/17/2022 | REG03740 | Single Officer Takedown  Ground Control | Passed | 0.0 | 1.00 |
 | 11/16/2022 | SDP09363 | Defensive Tactics | Instructed | 0.0 | 2.50 |
 | 11/14/2022 | REG09312 | Body Lock, Escaping Quarters Position | Passed | 0.0 | 1.00 |
 | 11/10/2022 | REG07994 | Takedown, Quarters Top Position | Passed | 0.0 | 1.00 |

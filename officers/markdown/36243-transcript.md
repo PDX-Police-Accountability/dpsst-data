@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2022 | HBS33359 | Open Range | Passed | 0.0 | 1.00 |
+| 11/8/2022 | HBS43901 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |
 | 10/13/2022 | HBS44109 | Mobile Field Force- Drills | Passed | 0.0 | 6.00 |
 | 10/12/2022 | HBS22790 | Mobile Field Force - Familiarization | Passed | 0.0 | 6.00 |

@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/10/2022
+  course: HBS44714
+  title: IFAST In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/13/2022
   course: HBS32629
   title: MFF APR Qualification

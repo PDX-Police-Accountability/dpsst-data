@@ -1,6 +1,5 @@
 name	dpsst_identifier	agency	employment_status	rank	last_action	last_action_date
 Smith, Stephen J.	10762	Portland Police Bureau	Inactive	Lieutenant	Retired	2007-01-05
-McGranahan, Thomas T., Jr.	10949	Portland Police Bureau	Inactive	Lieutenant	Retired	2012-06-06
 Bottcher, Steven L.	11274	Portland Police Bureau	Inactive	Sergeant	Retired	2007-08-22
 Ferraris, James C.	11406	Portland Police Bureau	Inactive	Commander	Retired	2011-05-06
 Gill, Peter J.	11688	Portland Police Bureau	Inactive	Police Officer	Resigned	2020-07-23
@@ -20,7 +19,6 @@ Howell, Mary T.	15121	Portland Police Bureau	Inactive	Civilian Employee	Retired	
 Chamberlain, Mark E.	15413	Portland Police Bureau	Inactive	Sergeant	Retired	2012-12-12
 Moore, Gary D.	15650	Portland Police Bureau	Inactive	Reserve Officer	Retired	2018-07-04
 Jarmer, Vincent L.	15654	Portland Police Bureau	Inactive	Commander	Retired	2011-09-12
-Schmautz, Brian C.	15907	Portland Police Bureau	Inactive	Sergeant	Retired	2009-01-30
 Modica, Kevin L.	15909	Portland Police Bureau	Inactive	Assistant Chief	Retired	2017-06-30
 Elsner, Joann L.	15910	Portland Police Bureau	Inactive	Civilian Employee	Retired	2017-04-26
 Stradley, James M.	16129	Portland Police Bureau	Inactive	Police Officer	Retired	2011-07-20
@@ -39,7 +37,6 @@ Kuemper, Denise L.	17724	Portland Police Bureau	Inactive	Police Officer	Retired	
 Smith, Michael R.	17975	Portland Police Bureau	Inactive	Police Officer	Resigned	2021-03-03
 Anderson, David P.	18154	Portland Police Bureau	Inactive	Sergeant	Retired	2013-06-28
 Curl, Chauncey D.	18156	Portland Police Bureau	Inactive	Police Officer	Retired	2012-06-15
-Gottwald, Rudolph	18157	Portland Police Bureau	Inactive	Police Officer	Retired	2007-05-02
 Schilling, Joseph A.	18160	Portland Police Bureau	Inactive	Police Officer	Retired	2010-07-15
 Lock, Edwin C.	18363	Portland Police Bureau	Inactive	Police Officer	Retired	2019-03-20
 McCormick, Robert C.	18374	Portland Police Bureau	Inactive	Sergeant	Retired	2016-10-12
@@ -48,7 +45,6 @@ Owens, Joyce I.	18677	Portland Police Bureau	Inactive	Civilian Employee	Resigned
 Molinari, Mary E.	18742	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1990-02-07
 Schurter, Tina M.	18743	Portland Police Bureau	Inactive	Civilian Employee	Retired	2021-06-28
 Mudrick, Maury J.	18761	Portland Police Bureau	Inactive	Detective	Retired	2014-09-05
-Ortez, Armond A.	18966	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1986-07-31
 Bishop, Melissa A.	18974	Portland Police Bureau	Inactive	Police Officer	Retired	2017-09-14
 Steed, Bryan L.	19008	Portland Police Bureau	Inactive	Detective	Retired	2017-09-14
 Sheffer, Kelli D.	19192	Portland Police Bureau	Inactive	Commander	Retired	2018-06-22
@@ -64,7 +60,6 @@ Westberry, James D.	20365	Portland Police Bureau	Inactive	Police Officer	Retired
 Kelly, James P.	20672	Portland Police Bureau	Inactive	Sergeant	Resigned	2018-11-26
 Perkins, Thomas M.	21046	Portland Police Bureau	Inactive	Sergeant	Retired	2020-08-29
 King, Robert J.	21075	Portland Police Bureau	Inactive	Commander	Retired	2018-01-03
-Hoesly, Ronald J.	21282	Portland Police Bureau	Inactive	Police Officer	Retired	2015-11-20
 Cunningham, Craig A.	21286	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1988-08-21
 Powell, James E.	21311	Portland Police Bureau	Inactive	Criminalist	Resigned	2018-12-26
 Molinari, Joseph C., Jr.	21317	Portland Police Bureau	Inactive	Dispatcher	Resigned	1988-06-16
@@ -88,15 +83,12 @@ Mitchell, Edgar O., Jr.	22419	Portland Police Bureau	Inactive	Police Officer	Res
 Clevenger, Robert W.	22506	Portland Police Bureau	Inactive	Detective	Resigned	2018-11-29
 Ranum, Michael P.	22513	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1989-10-31
 Lewis, Gregg A.	22515	Portland Police Bureau	Inactive	Sergeant	Resigned	2018-12-03
-Jones, Kenneth L.	22516	Portland Police Bureau	Inactive	Reserve Officer	Retired	2018-07-04
 Willard, Tina M.	22518	Portland Police Bureau	Inactive	Criminalist	Resigned	2018-12-12
 Gunderson, Douglas A.	22519	Portland Police Bureau	Inactive	Sergeant	Retired	2017-11-20
-Pool, Deborah D.	22571	Portland Police Bureau	Inactive	Sergeant	Retired	2015-10-15
 Johnson, Mark A.	22655	Portland Police Bureau	Inactive	Criminalist	Retired	2020-08-10
 Hergert, Mitchell D.	22750	Portland Police Bureau	Inactive	Detective	Retired	2020-08-12
 Rendsland, Kimberly A.	22821	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1989-09-24
 Nelson, Jeffrey E.	22862	Portland Police Bureau	Inactive	Detective	Retired	2020-08-06
-Reese, Michael W.	23000	Portland Police Bureau	Inactive	Chief	Retired	2015-01-02
 Warren, Kevin D.	23188	Portland Police Bureau	Inactive	Sergeant	Retired	2019-03-28
 Alderman, Wayne D.	23331	Portland Police Bureau	Inactive	Police Officer	Retired	2021-01-31
 Day, Robert H.	23474	Portland Police Bureau	Inactive	Deputy Chief	Retired	2019-05-02
@@ -111,7 +103,6 @@ Park, Todd L.	23768	Portland Police Bureau	Inactive	Civilian Employee	Retired	20
 Montgomery, John S.	23815	Portland Police Bureau	Inactive	Police Officer	Resigned	2018-06-13
 Payne, Stephen L.	23851	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1993-03-31
 Hunt, Thomas A.	23932	Portland Police Bureau	Inactive	Captain	Retired	2017-06-30
-Gallagher, Michael O.	23941	Portland Police Bureau	Inactive	Police Officer	Retired	2021-01-21
 Hall, Heidi K.	23954	Portland Police Bureau	Inactive	Detective	Retired	2019-03-14
 Luiz, Joseph A.	23994	Portland Police Bureau	Inactive	Detective	Retired	2019-02-19
 Gustafson, Rodney D.	23996	Portland Police Bureau	Inactive	Police Officer	Retired	2020-08-25
@@ -139,7 +130,6 @@ McMurray, Shawnda L.	24747	Portland Police Bureau	Inactive	Criminalist	Resigned	
 Hurley, James A.	24796	Portland Police Bureau	Inactive	Police Officer	Resigned	2016-04-21
 Ferner, James A.	24817	Portland Police Bureau	Inactive	Police Officer	Retired	2019-04-24
 Wagenknecht, Mathew A.	24983	Portland Police Bureau	Inactive	Assistant Chief	Retired	2018-02-02
-Anderson, Katharine G.	24987	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1994-06-06
 Kaney, Joseph E.	24993	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1992-05-31
 Baker, William H., Jr.	24997	Portland Police Bureau	Inactive	Reserve Officer	Resigned	2002-07-26
 Austria, Richard B.	25048	Portland Police Bureau	Inactive	Sergeant	Retired	2016-10-20
@@ -147,7 +137,6 @@ Hawkins, Robert A.	25051	Portland Police Bureau	Inactive	Police Officer	Resigned
 Marshman, Michael W.	25056	Portland Police Bureau	Inactive	Chief	Retired	2017-08-25
 Rico, Julia	25059	Portland Police Bureau	Inactive	Police Officer	Resigned	2017-11-02
 Roeser, Daren C.	25060	Portland Police Bureau	Inactive	Sergeant	Retired	2019-03-20
-Welp, Joseph B.	25064	Portland Police Bureau	Inactive	Police Officer	Retired	2016-04-28
 Daul, Chad R.	25075	Portland Police Bureau	Inactive	Police Officer	Retired	2021-08-23
 Glass, Michael W.	25202	Portland Police Bureau	Inactive	Reserve Officer	Retired	2018-07-04
 Turner, Daryl	25221	Portland Police Bureau	Inactive	Police Officer	Retired	2021-01-18
@@ -203,7 +192,6 @@ Frazier, Kevin C.	27247	Portland Police Bureau	Inactive	Sergeant	Retired	2019-12
 Churella, Joseph J.	27249	Portland Police Bureau	Inactive	Police Officer	Retired	2022-01-13
 Maxwell, William M.	27292	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1998-03-22
 Groshong, Scott C.	27445	Portland Police Bureau	Inactive	Police Officer	Retired	2020-08-31
-Mahuna, Peter E.	27540	Portland Police Bureau	Inactive	Captain	Retired	2018-11-06
 Gorgone, Frank R.	27542	Portland Police Bureau	Inactive	Captain	Retired	2018-06-28
 Bender, Robert A.	27544	Portland Police Bureau	Inactive	Police Officer	Retired	2021-01-19
 Dunlap, Robert P.	27546	Portland Police Bureau	Inactive	Police Officer	Retired	2020-08-19
@@ -218,7 +206,6 @@ Kamkar, Sam S.	28017	Portland Police Bureau	Inactive	Reserve Officer	Resigned	19
 Yochim, Jonathan D.	28036	Portland Police Bureau	Inactive	Police Officer	Retired	2021-01-21
 Johnson, Christopher P.	28038	Portland Police Bureau	Inactive	Police Officer	Retired	2022-01-12
 Cuevas, Cristian R.	28043	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1993-05-31
-Kruger, Mark W.	28044	Portland Police Bureau	Inactive	Captain	Retired	2020-03-13
 Reiter, Michael N.	28049	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1997-08-03
 Shipley, John D., Jr.	28051	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1993-06-27
 Barker, Christian L.	28069	Portland Police Bureau	Inactive	Police Officer	Resigned	2021-01-31
@@ -244,8 +231,6 @@ Yrizarry, Christopher	28656	Portland Police Bureau	Inactive	Detective	Retired	20
 Goldschmidt, Joshua A.	28711	Portland Police Bureau	Inactive	Sergeant	Retired	2021-01-20
 Higginbotham, Jerrold D.	28713	Portland Police Bureau	Inactive	Police Officer	Retired	2019-12-04
 McConnell, Peter H.	28715	Portland Police Bureau	Inactive	Sergeant	Retired	2021-08-09
-Leonard, Michael G.	28716	Portland Police Bureau	Inactive	Police Officer	Retired	2020-04-07
-Hurley, Peter K.	28797	Portland Police Bureau	Inactive	Police Officer	Retired	2020-08-06
 Colbert, Terry T.	28896	Portland Police Bureau	Inactive	Police Officer	Resigned	2016-09-12
 Andrew, Daniel J.	28919	Portland Police Bureau	Inactive	Detective	Retired	2021-01-31
 Ballew, Tracy A.	28920	Portland Police Bureau	Inactive	Police Officer	Retired	2020-08-19
@@ -299,7 +284,6 @@ Hudson, Stephanie D.	29993	Portland Police Bureau	Inactive	Police Officer	Resign
 Axthelm, Roger S.	30020	Portland Police Bureau	Inactive	Sergeant	Retired	2019-03-27
 Roark, Kimberly A.	30040	Portland Police Bureau	Inactive	Civilian Employee	Retired	2021-12-30
 Miller, Dale E.	30239	Portland Police Bureau	Inactive	Civilian Employee	Retired	2018-01-02
-Clinton, John W.	30255	Portland Police Bureau	Inactive	Sergeant	Retired	2021-01-31
 Christian, Sean L.	30281	Portland Police Bureau	Inactive	Police Officer	Retired	2020-01-30
 Winstanley, Mary E.	30397	Portland Police Bureau	Inactive	Civilian Employee	Retired	2021-06-30
 Shults, Robin A.	30432	Portland Police Bureau	Inactive	Police Officer	Resigned	1995-10-17
@@ -339,9 +323,7 @@ Gossman, Rema M.	32395	Portland Police Bureau	Inactive	Reserve Officer	Resigned	
 Hern, Paul W.	32396	Portland Police Bureau	Inactive	Police Officer	Retired	2022-04-01
 Blair, John C.	32401	Portland Police Bureau	Inactive	Police Officer	Retired	2022-04-01
 Ruhl, Benjamin D.	32402	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1996-08-06
-Budke, John G.	32403	Portland Police Bureau	Inactive	Reserve Officer	Discharged	2008-06-18
 Ball, Robert D.	32411	Portland Police Bureau	Inactive	Reserve Officer	Retired	2018-07-04
-Weseman, George W.	32718	Portland Police Bureau	Inactive	Police Officer	Retired	2021-08-12
 Humphreys, Christopher G.	32784	Portland Police Bureau	Inactive	Police Officer	Layoff	2010-11-22
 Phothivongsa, Ney	32938	Portland Police Bureau	Inactive	Police Officer	Retired	2022-07-06
 Steinbronn, Richard E.	32940	Portland Police Bureau	Inactive	Sergeant	Retired	2022-01-04
@@ -358,12 +340,10 @@ Gilbert, Christopher J.	34017	Portland Police Bureau	Inactive	Police Officer	Ret
 Stellingwerf, Neil D.	34256	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1997-08-13
 Whattam, Deanna L.	34296	Portland Police Bureau	Inactive	Civilian Employee	Resigned	2019-05-19
 Moody, Karl A.	34301	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1999-12-15
-McFarland, Scott E.	34302	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1999-10-01
 Lemen-Sipp, Denise C.	34303	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1998-02-22
 Martin, Scott D.	34353	Portland Police Bureau	Inactive	Sergeant	Retired	2022-01-28
 Burleigh, David C.	34368	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1998-07-05
 Moss, Karen S.	34371	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1999-11-25
-Murphy, Ryan E.	34375	Portland Police Bureau	Inactive	Civilian Employee	Resigned	2002-01-15
 Ritschard, Jennifer E.	34379	Portland Police Bureau	Inactive	Civilian Employee	Resigned	2004-01-10
 O'Neil, Bryon J.	34489	Portland Police Bureau	Inactive	Civilian Employee	Resigned	1998-01-01
 Loomis, Heather B.	34493	Portland Police Bureau	Inactive	Police Officer	Resigned	2021-01-28
@@ -371,7 +351,6 @@ Geist, Richard E.	34786	Portland Police Bureau	Inactive	Reserve Officer	Resigned
 Ahn, Johnny Y.	34790	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1998-05-13
 Carnighan, Lencin F.	34792	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1998-07-07
 Nall, Jason M.	34795	Portland Police Bureau	Inactive	Reserve Officer	Resigned	1999-04-13
-Persons, Micah D.	35127	Portland Police Bureau	Inactive	Police Officer	Resigned	2006-03-05
 Fulitano, John A.	35225	Portland Police Bureau	Inactive	Police Officer	Retired	2021-01-06
 Gradwahl, Chad E.	35226	Portland Police Bureau	Inactive	Police Officer	Retired	2022-07-18
 Macho, Kevin M.	35366	Portland Police Bureau	Inactive	Police Officer	Resigned	2015-03-29
@@ -384,7 +363,6 @@ McCurley, Robert H.	36154	Portland Police Bureau	Inactive	Civilian Employee	Resi
 Sandvik, James E.	36242	Portland Police Bureau	Inactive	Police Officer	Retired	2020-08-07
 Wellhouser, Craig C.	36243	Portland Police Bureau	Inactive	Police Officer	Resigned	2000-02-26
 Venable, Rebecca I.	36545	Portland Police Bureau	Inactive	Civilian Employee	Resigned	2001-05-30
-Chastain, Daniel C.	36610	Portland Police Bureau	Inactive	Police Officer	Discharged	2017-08-01
 Davis, Christopher A.	36611	Portland Police Bureau	Inactive	Deputy Chief	Resigned	2021-09-02
 Sheridan, Timothy M.	36713	Portland Police Bureau	Inactive	Civilian Employee	Resigned	2003-01-09
 Hayward, Adra A.	36717	Portland Police Bureau	Inactive	Civilian Employee	Layoff	2017-03-06
@@ -402,7 +380,6 @@ Jackson, Robert H.	37241	Portland Police Bureau	Inactive	Police Officer	Retired	
 Blazer, Jack V.	37413	Portland Police Bureau	Inactive	Police Officer	Deceased	2020-01-30
 Scott, David M.	37557	Portland Police Bureau	Inactive	Police Officer	Resigned	2016-01-08
 Kindrick, Kelly R.	37630	Portland Police Bureau	Inactive	Police Officer	Resigned	2017-04-25
-Griesel, Robert C.	37635	Portland Police Bureau	Inactive	Cadet	Resigned	1999-08-20
 Lourenco, Stephanie K.	37836	Portland Police Bureau	Inactive	Captain	Retired	2020-08-12
 DeClercque, Bryan J.	37939	Portland Police Bureau	Inactive	Detective	Resigned	2022-07-29
 Gillentine, William V., Jr.	38034	Portland Police Bureau	Inactive	Police Officer	Resigned	2017-02-15

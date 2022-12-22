@@ -100,6 +100,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 12/15/2022
+  course: FGP37287
+  title: Domestic Violence / Strangulation Law Review
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/12/2022
   course: FGP22435
   title: Firearms Training

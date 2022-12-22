@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2022 | HBP22890 | MCIR / Active Threat Response - Briefing | Passed | 0.0 | 1.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | HBP39455 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |
 | 9/28/2022 | HBP26736 | DIRECT TO CONTACT | Passed | 0.0 | 1.00 |

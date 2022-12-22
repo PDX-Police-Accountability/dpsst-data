@@ -26,6 +26,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
+| 11/17/2022 | PDP41896 | 2022 CNT Annual Training | Passed | 0.0 | 18.00 |
 | 9/16/2022 | PDP22671 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 8/5/2022 | PDP39781 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
