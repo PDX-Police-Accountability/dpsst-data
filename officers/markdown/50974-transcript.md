@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
 | 11/30/2022 | OCP02181 | Legislative Updates | Passed | 0.0 | 0.75 |
 | 11/17/2022 | OCP34531 | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 10/19/2022 | LOP42495 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |

@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/24/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/24/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/20/2022 | PDP44475 | SERT: Control Entry Search Warrants Training | Instructed | 0.0 | 5.00 |

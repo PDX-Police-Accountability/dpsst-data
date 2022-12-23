@@ -24,6 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/26/2022
+  course: PDP15523
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2022
+  course: PDP01766
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/11/2022
+  course: PDP21461
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/22/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training

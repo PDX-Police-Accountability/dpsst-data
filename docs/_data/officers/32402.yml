@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2022
+  course: HBS18349
+  title: IFAST In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/18/2022
   course: HBS15748
   title: OSMOSISCON 2022

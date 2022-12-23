@@ -23,7 +23,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/20/2022 | Police Officer | Management | App InProc |  |  |  |
+| 12/21/2022 | Police Officer | Management | Granted | 12/21/2022 |  |  |
 | 8/2/2019 | Police Officer | Supervisory | Granted | 8/2/2019 |  |  |
 | 1/28/2014 | Police Officer | Advanced | Granted | 1/28/2014 |  |  |
 | 3/8/2002 | Police Officer | Intermediate | Granted | 3/8/2002 |  |  |
@@ -42,6 +42,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |
+| 11/29/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/29/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/25/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/25/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/18/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

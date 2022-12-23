@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 11/11/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2022
+  course: PDP33717
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/19/2022
   course: PDP37617
   title: 2022 CNT Crisis Negotiation Team Annual Training

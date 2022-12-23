@@ -31,7 +31,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/25/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP25259 | 2022 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
+| 11/13/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 11/13/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/4/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/24/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/24/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/24/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |

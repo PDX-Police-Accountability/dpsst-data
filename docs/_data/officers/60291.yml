@@ -24,6 +24,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/8/2022
+  course: PDP40447
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/5/2022
+  course: PDP33717
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/5/2022
+  course: PDP10129
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2022
+  course: PDP42232
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/1/2022
+  course: PDP11678
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2022
+  course: PDP03052
+  title: 2022-1 TT Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/1/2022
+  course: PDP04757
+  title: 2022-1- CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/1/2022
+  course: PDP19181
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2022
+  course: PDP33418
+  title: 2022-2- CAO Legal Updates for 02/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/31/2022
   course: PDP27649
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -32,6 +86,18 @@ training_records:
   hours: '0.50'
 - date: 10/31/2022
   course: PDP42838
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2022
+  course: PDP39147
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2022
+  course: PDP20399
   title: 2022 Voice Record Pro App
   status: Passed
   score: '0.0'

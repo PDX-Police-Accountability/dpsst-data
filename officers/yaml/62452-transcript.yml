@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/15/2022
+  course: PDP01766
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/15/2022
+  course: PDP21461
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/23/2022
   course: PDP36211
   title: 2022 Crowd Management

@@ -35,7 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/12/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/4/2022 | PDP36804 | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 11/4/2022 | PDP18833 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
+| 11/4/2022 | PDP28492 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 11/4/2022 | PDP04622 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 11/4/2022 | PDP09346 | UDAR Guide - Approving | Passed | 0.0 | 0.25 |
+| 11/4/2022 | PDP26922 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
+| 11/4/2022 | PDP42408 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
 | 10/30/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

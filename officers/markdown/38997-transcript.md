@@ -23,7 +23,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/16/2022 | Police Officer | Management | App Recd |  |  |  |
+| 12/21/2022 | Police Officer | Management | Granted | 12/21/2022 |  |  |
 | 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 |  |  |
 | 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 |  |  |
 | 2/13/2012 | Police Officer | Supervisory | Granted | 2/13/2012 |  |  |
@@ -42,6 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 11/3/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/11/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/11/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/11/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |

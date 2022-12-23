@@ -28,3 +28,4 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 11/23/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |

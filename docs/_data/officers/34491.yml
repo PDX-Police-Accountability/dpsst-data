@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/7/2022
   course: 22-0026
   title: DPSST Middle Management

@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2022
+  course: BNP43278
+  title: Low Light Exertion Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/17/2022
   course: BNP09524
   title: Bias Crimes Investigations

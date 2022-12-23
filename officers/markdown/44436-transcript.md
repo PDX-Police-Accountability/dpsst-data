@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP39508 | EDU Weekly: Robot and Rigging Training | Passed | 0.0 | 9.00 |
 | 10/26/2022 | PDP10937 | EDU Weekly Training: X-Ray  RSP | Passed | 0.0 | 9.00 |
 | 10/19/2022 | PDP38273 | EDU: Vehicle  Trailer Driving | Passed | 0.0 | 9.00 |

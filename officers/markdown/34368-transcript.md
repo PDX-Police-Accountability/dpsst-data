@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2022 | BNP43278 | Low Light Exertion Range | Passed | 0.0 | 3.00 |
 | 11/17/2022 | BNP09524 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |
 | 11/17/2022 | BNP18175 | Ethos Ethics | Passed | 0.0 | 3.00 |
 | 10/18/2022 | BNP13691 | IACP Conf.-Misc. Presentations/Breakout Groups | Passed | 0.0 | 19.50 |

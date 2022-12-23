@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2022 | LCP27290 | Homicide and Crime Scene Investigations | Passed | 0.0 | 20.00 |
 | 10/13/2022 | GSP17921 | CPR and First Aid | Passed | 0.0 | 2.50 |
 | 6/30/2022 | GSP27508 | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
 | 6/27/2022 | GSP08384 | 2022 Spring Rifle In Service | Instructed | 0.0 | 10.00 |

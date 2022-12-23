@@ -75,6 +75,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/29/2022
+  course: PDP18833
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/29/2022
+  course: PDP28492
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/29/2022
+  course: PDP04622
+  title: HR Rule 2.02 Prohibition Against Wrkplc Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2022
+  course: PDP09346
+  title: UDAR Guide - Approving
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2022
+  course: PDP26922
+  title: UDAR Guide - Coaches Pay
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2022
+  course: PDP42408
+  title: UDAR Guide - Requesting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/24/2022
   course: PDP20341
   title: 2021-12 CAO Legal Updates for 12/2021

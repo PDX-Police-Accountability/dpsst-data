@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2022 | HBS18349 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 10/18/2022 | HBS15748 | OSMOSISCON 2022 | Passed | 0.0 | 16.00 |
 | 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/14/2022 | HBS23268 | PNW Law Enforcement Human Trafficking Consortium | Passed | 0.0 | 8.00 |

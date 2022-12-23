@@ -31,8 +31,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 11/5/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 11/5/2022 | PDP10129 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 11/1/2022 | PDP42232 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP11678 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 11/1/2022 | PDP03052 | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 11/1/2022 | PDP04757 | 2022-1- CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP19181 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 11/1/2022 | PDP33418 | 2022-2- CAO Legal Updates for 02/2022 | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP27649 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP42838 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 10/31/2022 | PDP39147 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 10/31/2022 | PDP20399 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP04798 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 10/24/2022 | PDP22831 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 10/23/2022 | PDP36255 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

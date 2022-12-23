@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/18/2022 | OCS34332 | Honor Guard Training | Passed | 0.0 | 24.00 |
 | 10/20/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/14/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

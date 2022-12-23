@@ -37,8 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/15/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/15/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP26151 | K-9 Weekly: Policy Review  Training Tracking | Passed | 0.0 | 4.00 |
 | 11/2/2022 | PDP21315 | K-9 Weekly: Searches, Obedience, De-escalation | Passed | 0.0 | 3.00 |
+| 11/1/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/26/2022 | PDP03949 | K9 De-escalation  Building Search Training | Passed | 0.0 | 2.00 |
 | 10/14/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/14/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

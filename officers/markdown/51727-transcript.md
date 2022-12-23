@@ -37,6 +37,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/29/2022 | PDP36804 | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP18833 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
+| 11/29/2022 | PDP28492 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 11/29/2022 | PDP04622 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP09346 | UDAR Guide - Approving | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP26922 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP42408 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP20341 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP30456 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP10134 | 2021-2 CAO Legal Updates for 02/2021 | Passed | 0.0 | 0.25 |

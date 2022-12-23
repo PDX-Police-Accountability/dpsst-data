@@ -31,6 +31,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/8/2022 | PDP17029 | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |
+| 11/8/2022 | PDP39147 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 11/8/2022 | PDP42232 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 11/8/2022 | PDP20399 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP15049 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 11/1/2022 | PDP00215 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP32811 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/30/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/27/2022 | PDP37189 | Intoxylizer 8000 Certificate Training | Passed | 0.0 | 6.00 |
 | 10/23/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |

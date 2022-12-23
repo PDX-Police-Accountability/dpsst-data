@@ -38,7 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/24/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/16/2022 | PDP05111 | Weekly EDU: robots, rigging, glass door entry | Passed | 0.0 | 9.00 |
+| 11/14/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/14/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/14/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP39508 | EDU Weekly: Robot and Rigging Training | Passed | 0.0 | 9.00 |
 | 11/2/2022 | PDP01355 | EDU weekly: Scenario Training | Passed | 0.0 | 9.00 |
 | 10/26/2022 | PDP10937 | EDU Weekly Training: X-Ray  RSP | Passed | 0.0 | 9.00 |

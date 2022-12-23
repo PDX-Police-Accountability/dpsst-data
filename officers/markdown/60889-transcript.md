@@ -30,10 +30,27 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/27/2022 | PDP10129 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 11/12/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/12/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/12/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/9/2022 | PDP42232 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 11/9/2022 | PDP03052 | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 11/9/2022 | PDP04757 | 2022-1- CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 11/9/2022 | PDP19181 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 11/9/2022 | PDP33418 | 2022-2- CAO Legal Updates for 02/2022 | Passed | 0.0 | 0.25 |
+| 11/9/2022 | PDP00215 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 11/9/2022 | PDP32811 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 11/6/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP27649 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP42838 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP36363 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 10/31/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/31/2022 | PDP39147 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 10/31/2022 | PDP20399 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 10/31/2022 | PDP15049 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 7/29/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/10/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/3/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |

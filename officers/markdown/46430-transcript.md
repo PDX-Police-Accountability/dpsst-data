@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/16/2022 | Police Officer | Advanced | App Recd |  |  |  |
+| 12/21/2022 | Police Officer | Advanced | Granted | 12/21/2022 |  |  |
 | 12/20/2010 | Police Officer | Intermediate | Granted | 12/20/2010 |  |  |
 | 4/12/2007 | Police Officer | Basic | Granted | 4/12/2007 |  |  |
 ## Attributes
@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/17/2022 | PDP23129 | Control Tactics: Handcuffing, etc. | Instructed | 0.0 | 4.00 |
 | 10/17/2022 | PDP32158 | 2022 Lead Awareness  Safety Trng for Instructors | Passed | 0.0 | 1.25 |

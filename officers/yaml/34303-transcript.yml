@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2022
+  course: HBP18055
+  title: CARES NW Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/14/2022
   course: HBP22890
   title: MCIR / Active Threat Response - Briefing

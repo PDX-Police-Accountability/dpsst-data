@@ -37,7 +37,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2025 | PDP03489 | Extreme Ownership: Leadership | Passed | 0.0 | 4.00 |
+| 11/23/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/12/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/12/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/12/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP26151 | K-9 Weekly: Policy Review  Training Tracking | Passed | 0.0 | 4.00 |
+| 11/4/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 11/4/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/2/2022 | PDP21315 | K-9 Weekly: Searches, Obedience, De-escalation | Passed | 0.0 | 3.00 |
 | 10/15/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 10/12/2022 | PDP42677 | K9 Training: Debriefs, De-escalation, Searches | Instructed | 0.0 | 2.00 |

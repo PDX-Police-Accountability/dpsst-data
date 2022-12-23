@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: NGP42688
+  title: Hazmat (Police One Academy)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/2/2022
   course: NGP14935
   title: SFST Refresher with Wet Lab

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2022 | F6R11172 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |
 | 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
 | 9/27/2022 | MLP19099 | Firearms Training and Qualification | Instructed | 0.0 | 4.00 |

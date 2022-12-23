@@ -24,6 +24,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2022
+  course: PDP15523
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/27/2022
+  course: PDP10129
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/12/2022
+  course: PDP01766
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/12/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/12/2022
+  course: PDP21461
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2022
+  course: PDP42232
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2022
+  course: PDP03052
+  title: 2022-1 TT Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/9/2022
+  course: PDP04757
+  title: 2022-1- CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2022
+  course: PDP19181
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/9/2022
+  course: PDP33418
+  title: 2022-2- CAO Legal Updates for 02/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2022
+  course: PDP00215
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2022
+  course: PDP32811
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/6/2022
+  course: PDP40447
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/31/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -44,6 +122,30 @@ training_records:
   hours: '0.25'
 - date: 10/31/2022
   course: PDP36363
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2022
+  course: PDP33717
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2022
+  course: PDP39147
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2022
+  course: PDP20399
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2022
+  course: PDP15049
   title: AXON CEW Annual Update
   status: Passed
   score: '0.0'

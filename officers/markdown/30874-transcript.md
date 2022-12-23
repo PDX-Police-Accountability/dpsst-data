@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/21/2022 | FGP04780 | Use of Force Review | Passed | 0.0 | 0.75 |
+| 12/20/2022 | FGP41257 | Ethics Refresher | Passed | 0.0 | 1.00 |
 | 12/13/2022 | FGP44686 | Distraction Device | Passed | 0.0 | 2.50 |
 | 11/14/2022 | FGP26754 | Domestic Violence/Strangulation Training | Passed | 0.0 | 1.00 |
 | 9/1/2022 | FGP26115 | OSHA Wildfire Smoke and Medical Plan Trainig | Passed | 0.0 | 1.00 |

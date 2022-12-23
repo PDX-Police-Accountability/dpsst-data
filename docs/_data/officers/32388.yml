@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2022
+  course: LCP27290
+  title: Homicide and Crime Scene Investigations
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 10/13/2022
   course: GSP17921
   title: CPR and First Aid

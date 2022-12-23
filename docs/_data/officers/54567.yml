@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2022
+  course: F6R11172
+  title: Developing Your Leadership Brand
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/16/2022
   course: MLP24161
   title: Defensive Tactics/ OC Spray/ Baton Training

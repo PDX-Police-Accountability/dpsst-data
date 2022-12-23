@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2022 | EGP31133 | Taser Recertification Course | Passed | 0.0 | 3.00 |
 | 11/11/2022 | EGP01973 | 2022 Sergeant Academy Training | Passed | 0.0 | 1.50 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/19/2022 | EGP13229 | Vehicle Use of Force - Decision Making | Passed | 0.0 | 3.50 |

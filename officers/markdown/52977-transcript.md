@@ -34,6 +34,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/1/2022 | PDP00215 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP32811 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 11/1/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 10/16/2022 | PPP21848 | Advanced Patrol Tactics | Passed | 0.0 | 8.00 |
 | 9/30/2022 | PDP44770 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/30/2022 | PDP27596 | 2022 Lead Awareness  Safety Trng for PPB Arms | Passed | 0.0 | 1.25 |

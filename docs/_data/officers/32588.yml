@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2022
+  course: PDP01766
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/22/2022
+  course: PDP21461
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/18/2022
   course: PDP25844
   title: 'SERT Training: Iteration for test applicants'
@@ -75,12 +87,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/17/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/15/2022
   course: PDP40525
   title: 'SERT Training: Individual Scenarios'
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 11/7/2022
+  course: PDP40447
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/3/2022
   course: PDP22960
   title: 'SERT: HRT, Entry, Cautious Clears, etc.'

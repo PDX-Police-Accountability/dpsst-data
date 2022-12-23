@@ -27,6 +27,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 11/29/2022 | PDP02712 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP42911 | DIR 640.38 Interacting w Members of the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
+| 11/22/2022 | PDP20949 | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
+| 11/22/2022 | PDP14035 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 11/22/2022 | PDP03250 | 2019 CHO SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |
+| 11/22/2022 | PDP13241 | 2020 Sup In-Service Labor and Employment Laws | Passed | 0.0 | 1.00 |
+| 11/22/2022 | PDP05294 | Annual CIU NTR Alarm Response Trng Reed Reactor | Passed | 0.0 | 0.25 |
+| 11/15/2022 | PDP33759 | 2019 CHO SPLC The Rise of the Lone Wolf | Passed | 0.0 | 0.25 |
+| 11/15/2022 | PDP34472 | 2019 Trng Public Safety Support Specialist Video | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP07786 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP20943 | OSU Modified Duty and Cold Call-Taking Training | Passed | 0.0 | 0.25 |
+| 11/2/2022 | PDP04346 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
+| 11/2/2022 | PDP04437 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
+| 11/2/2022 | PDP32811 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/26/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/26/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/25/2022 | PDP32896 | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |

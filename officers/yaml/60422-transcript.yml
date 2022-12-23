@@ -24,6 +24,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/8/2022
+  course: PDP17029
+  title: 2022 Adv Shotgun Operator Pre-Test Study Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/8/2022
+  course: PDP39147
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/8/2022
+  course: PDP42232
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/8/2022
+  course: PDP20399
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/1/2022
+  course: PDP15049
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2022
+  course: PDP00215
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/1/2022
+  course: PDP32811
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/30/2022
   course: PDP36211
   title: 2022 Crowd Management

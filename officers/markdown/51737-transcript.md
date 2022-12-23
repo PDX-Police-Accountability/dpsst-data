@@ -35,8 +35,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/26/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/23/2022 | PDP36804 | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
+| 11/23/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/23/2022 | PDP18833 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
+| 11/23/2022 | PDP28492 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 11/23/2022 | PDP04622 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 11/23/2022 | PDP09346 | UDAR Guide - Approving | Passed | 0.0 | 0.25 |
+| 11/23/2022 | PDP26922 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
+| 11/23/2022 | PDP42408 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
+| 11/23/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/18/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP25259 | 2022 Adv Roadside Impaired Driving Enforcement | Instructed | 0.0 | 16.00 |
+| 11/9/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/27/2022 | PDP37189 | Intoxylizer 8000 Certificate Training | Instructed | 0.0 | 6.00 |
 | 10/14/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/14/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

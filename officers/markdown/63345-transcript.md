@@ -32,6 +32,10 @@
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/8/2022 | REG37300 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 12/5/2022 | 22-0009 | DPSST Basic Police COD | Registered | 0.0 | 80.00 |
+| 11/29/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/13/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/13/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/30/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 10/23/2022 | PDP16370 | 2021 Language Access Utilizing Bilingual Bur Mmbrs | Passed | 0.0 | 0.25 |
 | 10/23/2022 | PDP05665 | 2021 Online In-Service Lang Access - Translation | Passed | 0.0 | 0.25 |

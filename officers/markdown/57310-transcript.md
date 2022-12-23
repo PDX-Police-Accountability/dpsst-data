@@ -36,6 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2022 | ALP05967 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 11/18/2022 | OCS34332 | Honor Guard Training | Passed | 0.0 | 24.00 |
+| 11/15/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP37617 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 10/12/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

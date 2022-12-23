@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2022
+  course: RMP40854
+  title: Mental Health  Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/12/2022
   course: RMP44573
   title: Firearm 1 on 1s

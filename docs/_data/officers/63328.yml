@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 11/23/2022
+  course: PDP15523
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 attribute_records: []
 education_records: []

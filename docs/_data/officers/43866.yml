@@ -68,6 +68,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2022
+  course: PDP33717
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/27/2022
+  course: PDP40447
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/27/2022
+  course: PDP15523
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/25/2022
+  course: PDP13996
+  title: 2022 Lead Awareness  Safety Training for Inst
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/21/2022
+  course: PDP01766
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2022
+  course: PDP15049
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2022
+  course: PDP21461
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/19/2022
   course: PDP26686
   title: Amended DOJ Settlement Agreement

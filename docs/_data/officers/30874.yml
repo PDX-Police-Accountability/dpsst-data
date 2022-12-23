@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: FGP04780
+  title: Use of Force Review
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/20/2022
+  course: FGP41257
+  title: Ethics Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/13/2022
   course: FGP44686
   title: Distraction Device

@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2022 | PDP00179 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 11/25/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 11/25/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/25/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/20/2022 | PDP39147 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 11/20/2022 | PDP20399 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 11/20/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/30/2022 | PDP30456 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
 | 10/30/2022 | PDP22831 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP07027 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |

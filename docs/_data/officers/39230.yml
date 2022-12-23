@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2022
+  course: EGP31133
+  title: Taser Recertification Course
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/11/2022
   course: EGP01973
   title: 2022 Sergeant Academy Training

@@ -1,2 +1,159 @@
 ---
-missing_transcript: true
+header_record:
+  name: Ridenour, Michael T.
+  dpsst_identifier: '29332'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 3/10/1994
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 3/20/2019
+  course: PDP43537
+  title: What Law Enforcement Professionals Need to Know
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2016
+  course: F6A03002
+  title: RegJIN RMS Admin Class
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/24/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '15.50'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/26/2014
+  course: 14-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/14/2014
+  course: 14-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/3/2012
+  course: 12-0608
+  title: CJIS Conference
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 10/2/2012
+  course: 12-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/28/2011
+  course: 11-0713
+  title: LEDS Certification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/27/2010
+  course: 10-0469
+  title: Managing Employee Performance
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/20/2010
+  course: 10-1171
+  title: Labor Contract Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/13/2010
+  course: 10-0464
+  title: Employee Discipline
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/18/2009
+  course: '09-0715'
+  title: LEDS Inquiry Level
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/16/2009
+  course: '09-0715'
+  title: LEDS Inquiry Level
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/2/2009
+  course: '09-0715'
+  title: LEDS Inquiry Level
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/25/2008
+  course: '08-0715'
+  title: LEDS Inquiry Level
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/21/2008
+  course: '08-0630'
+  title: Verbal Communication - Other
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/14/2006
+  course: 06-0101
+  title: LEDS
+  status: Passed
+  score: '0.0'
+  hours: '21.30'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2003
+  course: 03-0358
+  title: PPB Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 5/9/1994
+  course: 94K168
+  title: LEDS GENERAL TRAINING GUIDE
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+attribute_records: []
+education_records: []

@@ -39,6 +39,8 @@
 | 11/21/2022 | REG37107 | Guard Bottom Sweeps, Reversal | Passed | 0.0 | 1.00 |
 | 11/14/2022 | REG09312 | Body Lock, Escaping Quarters Position | Passed | 0.0 | 1.00 |
 | 11/10/2022 | REG07994 | Takedown, Quarters Top Position | Passed | 0.0 | 1.00 |
+| 11/9/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 11/9/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/7/2022 | REG23396 | Takedown, Control Quarters Position | Passed | 0.0 | 1.00 |
 | 10/21/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/20/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

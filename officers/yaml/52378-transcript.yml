@@ -24,12 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/23/2022
+  course: PDP40447
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/17/2022
   course: PDP25259
   title: 2022 Adv Roadside Impaired Driving Enforcement
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 11/15/2022
+  course: PDP33717
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/15/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/27/2022
   course: PDP02219
   title: DIR 0850.20 Police Response to MH Crisis

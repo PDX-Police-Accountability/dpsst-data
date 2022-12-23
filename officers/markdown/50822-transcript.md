@@ -33,6 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/11/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/11/2022 | PDP09346 | UDAR Guide - Approving | Passed | 0.0 | 0.25 |
+| 11/11/2022 | PDP26922 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
+| 11/11/2022 | PDP42408 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
 | 10/29/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/29/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/11/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
