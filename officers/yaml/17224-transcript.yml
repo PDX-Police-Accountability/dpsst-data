@@ -64,10 +64,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/16/2022
+- status_date: 12/22/2022
   certificate: Police Officer
   level: Management
-  status: App Recd
+  status: App Incmpl
   certificate_date: ''
   expiration_date: ''
   probation_date: ''

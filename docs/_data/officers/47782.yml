@@ -60,12 +60,12 @@ training_records:
 - date: 3/20/2023
   course: 23-0026
   title: DPSST Middle Management
-  status: Registered
+  status: Cancelled
   score: '0.0'
-  hours: '80.00'
+  hours: '0.00'
 - date: 12/21/2022
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
+  course: 22-0028
+  title: DPSST Middle Management F22 Equivalency
   status: Completed
   score: '0.0'
   hours: '0.00'
