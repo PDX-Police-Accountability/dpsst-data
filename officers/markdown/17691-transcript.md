@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2022 | MNS00996 | EVOC Refresher | Instructed | 0.0 | 20.00 |
+| 12/5/2022 | MNS00369 | Firearms Introduction / Qualification Low Light | Passed | 0.0 | 2.00 |
+| 11/9/2022 | MNS17774 | MILO Scenarios | Passed | 0.0 | 0.50 |
 | 10/11/2022 | MNS39047 | Firearms Qualification Daylight | Passed | 0.0 | 2.00 |
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 5/31/2022 | MNS32249 | FIREARMS SKILL BUILDER | Passed | 0.0 | 2.00 |

@@ -30,6 +30,12 @@ certification_records:
   expiration_date: 2/5/2026
   probation_date: ''
 training_records:
+- date: 12/19/2022
+  course: EGP09946
+  title: Taser 7 New User Certification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/31/2020
   course: 20-CVDL1
   title: 2020 LE Annual Maint-Not Met COVID19

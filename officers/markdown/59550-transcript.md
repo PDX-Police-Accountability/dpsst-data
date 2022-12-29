@@ -34,6 +34,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/19/2022 | RMP40854 | Mental Health  Peer Support | Passed | 0.0 | 1.00 |
+| 12/2/2022 | RMP18238 | Ground Defense Jiu Jitsu | Passed | 0.0 | 4.00 |
+| 12/2/2022 | RMP23581 | Firearms Veh CQB, Target Focused Combat, HRT | Passed | 0.0 | 4.00 |
+| 10/27/2022 | RMP00685 | Building Clearing | Passed | 0.0 | 4.00 |
 | 6/12/2022 | RMP44573 | Firearm 1 on 1s | Passed | 0.0 | 1.00 |
 | 5/16/2022 | RMP02002 | Patrol Scenario Day / Critical Incident Management | Passed | 0.0 | 7.00 |
 | 5/12/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

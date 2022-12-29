@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/21/2022 | TAP39372 | Oregon CIT Newsletter December 2022 | Passed | 0.0 | 0.75 |
+| 12/21/2022 | TAP00243 | How to Survive and Ambush Attack | Passed | 0.0 | 0.75 |
 | 12/1/2022 | JKP10056 | Tazer Recertification | Passed | 0.0 | 2.00 |
 | 11/10/2022 | MFS14792 | EVOC pursuits, spikes, arrest tactics | Passed | 0.0 | 4.00 |
 | 11/6/2022 | TAP04074 | Officer Safety During High Risk LE Ops | Passed | 0.0 | 1.00 |
@@ -47,6 +49,7 @@
 | 10/11/2022 | ADP04385 | Ashland PD Night Range | Passed | 0.0 | 4.00 |
 | 10/11/2022 | TAP13086 | AXON Academy TASER Instructors Course | Passed | 0.0 | 16.00 |
 | 10/5/2022 | TAP34836 | De-escalation Strategies and Techniques | Passed | 0.0 | 0.00 |
+| 9/29/2022 | TAP27813 | Case Law Darius Thompson | Passed | 0.0 | 0.75 |
 | 9/28/2022 | ADP01784 | Adult Child Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
 | 9/27/2022 | TAP14109 | OR DOJ Bias Crimes and Incidents FayStetz Waters | Passed | 0.0 | 1.00 |
 | 9/27/2022 | TAP36759 | Killer High The Silent Crisis | Passed | 0.0 | 0.75 |

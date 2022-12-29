@@ -82,6 +82,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/29/2022
+  course: PDS36628
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/31/2022
   course: PDS14098
   title: Narcan Training

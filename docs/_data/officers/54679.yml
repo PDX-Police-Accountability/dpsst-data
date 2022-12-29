@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: MLP07375
+  title: Maintaining A Drug-Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/1/2022
   course: MLP44561
   title: Night Range Firearms November

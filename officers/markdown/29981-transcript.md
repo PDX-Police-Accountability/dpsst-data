@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |
 | 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |
 | 7/25/2022 | WLP10437 | Active Threat (Shooter) Response | Passed | 0.0 | 8.00 |

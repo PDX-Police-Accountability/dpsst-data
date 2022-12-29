@@ -33,7 +33,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 7/7/2003 |  |
@@ -46,10 +47,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 11/19/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 11/19/2022 | PDS13451 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 11/13/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |
+| 11/11/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/5/2022 | PDS18361 | Leadership | Passed | 0.0 | 0.50 |
 | 9/11/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |

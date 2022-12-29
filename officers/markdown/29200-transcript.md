@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | PDS16690 | Firearms Training | Passed | 0.0 | 3.00 |
 | 12/1/2022 | PDS24063 | Range Qualification | Passed | 0.0 | 2.00 |
+| 11/29/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/31/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 8/19/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 8/4/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |

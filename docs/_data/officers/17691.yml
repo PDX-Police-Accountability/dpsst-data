@@ -61,6 +61,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2022
+  course: MNS00996
+  title: EVOC Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/5/2022
+  course: MNS00369
+  title: Firearms Introduction / Qualification Low Light
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/9/2022
+  course: MNS17774
+  title: MILO Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2022
   course: MNS39047
   title: Firearms Qualification Daylight

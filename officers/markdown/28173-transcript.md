@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2022 | MKL02496 | Mental Health in times of racialized violence | Passed | 0.0 | 1.50 |
+| 12/22/2022 | MKL17230 | Race in Oregon History | Passed | 0.0 | 1.00 |
 | 11/4/2022 | MKL22194 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2022 | MKL12687 | LEDS re-certification | Passed | 0.0 | 1.00 |

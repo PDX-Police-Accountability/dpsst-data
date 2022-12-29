@@ -81,6 +81,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/12/2022
+  course: PDS22981
+  title: Naloxone Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/12/2022
+  course: PDS36628
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/30/2022
   course: PDS32518
   title: Range Qualification

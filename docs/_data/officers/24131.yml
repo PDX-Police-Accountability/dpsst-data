@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: SMP09331
+  title: 'Sex Offenders: What Every MDT Member Should Know'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/1/2022
   course: WLP34295
   title: Bias Based Policy Annual Policy Review

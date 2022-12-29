@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/27/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/30/2022
   course: OCP02181
   title: Legislative Updates
@@ -175,6 +181,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/4/2022
+  course: OCP32853
+  title: Gracie Survival Tactics Level 1
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 1/13/2022
   course: PDP34045
   title: 2022 Training 3M N Series Helmet
@@ -1306,8 +1318,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2022
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

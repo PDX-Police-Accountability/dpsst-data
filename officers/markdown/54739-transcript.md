@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 9/1/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
 | 8/2/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 6/13/2022 | PDS28431 | Taser Recertification | Passed | 0.0 | 1.50 |

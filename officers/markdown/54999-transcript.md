@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2022 | HRS38193 | Fall Firearms Range | Passed | 0.0 | 4.00 |
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/3/2022 | HRS02450 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 9/29/2022 | HRS07720 | Tactical Training - Entry | Passed | 0.0 | 2.00 |

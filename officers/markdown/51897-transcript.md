@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2022 | EGP09946 | Taser 7 New User Certification | Passed | 0.0 | 8.00 |
 | 12/31/2020 | 20-CVDL1 | 2020 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 11/24/2020 | PDP26706 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 11/14/2020 | PDP27995 | 2020 Presumpt Declination DUIIs Invl Hosp BAC | Passed | 0.0 | 0.25 |

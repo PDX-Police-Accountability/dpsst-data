@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2022
+  course: MKL02496
+  title: Mental Health in times of racialized violence
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/22/2022
+  course: MKL17230
+  title: Race in Oregon History
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/4/2022
   course: MKL22194
   title: Defensive Tactics

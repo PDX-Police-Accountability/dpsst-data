@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 11/21/2022
+  course: HBS44783
+  title: IFAST In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 10/20/2022
   course: REG09502
   title: Weapon Retention Standing/Ground

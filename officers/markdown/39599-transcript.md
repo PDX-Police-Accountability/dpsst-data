@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
+| 11/14/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/7/2022 | PDS35785 | Firearsm Training | Passed | 0.0 | 3.00 |
 | 10/7/2022 | PDS39944 | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

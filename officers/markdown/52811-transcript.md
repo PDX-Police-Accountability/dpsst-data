@@ -38,11 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2022 | PDS31596 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/28/2022 | PDS16345 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/28/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 11/21/2022 | PDS24055 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/21/2022 | PDS14257 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/15/2022 | PDS25191 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 11/11/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 11/8/2022 | PDS42594 | Defensive Tactics IDC | Instructed | 0.0 | 8.00 |
 | 10/25/2022 | PDS09153 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/25/2022 | PDS13906 | Firearms Training | Instructed | 0.0 | 6.00 |

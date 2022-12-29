@@ -50,6 +50,7 @@
 | 9/8/2022 | PDN17455 | Confrontational Simulation Off Duty Encounters | Passed | 0.0 | 1.50 |
 | 8/24/2022 | PDN02361 | Working with the Mentally Ill | Passed | 0.0 | 1.50 |
 | 8/17/2022 | PDN09049 | Fentanyl Safety  Awareness | Passed | 0.0 | 4.00 |
+| 8/10/2022 | PDN09208 | Wildfire Smoke Exposure Control and Protection | Passed | 0.0 | 1.00 |
 | 7/28/2022 | PDN27787 | Confrontational Simulation Search and Seizure | Passed | 0.0 | 1.50 |
 | 7/27/2022 | PDN09685 | Report Writing | Passed | 0.0 | 1.50 |
 | 7/21/2022 | PDN33394 | Defensive Tactics OC and Baton | Passed | 0.0 | 1.50 |

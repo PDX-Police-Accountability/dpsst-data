@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: MLP07375
+  title: Maintaining A Drug-Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/20/2022
   course: F6R11172
   title: Developing Your Leadership Brand

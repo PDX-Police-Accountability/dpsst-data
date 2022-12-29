@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: TAP39372
+  title: Oregon CIT Newsletter December 2022
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/21/2022
+  course: TAP00243
+  title: How to Survive and Ambush Attack
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/1/2022
   course: JKP10056
   title: Tazer Recertification
@@ -110,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 9/29/2022
+  course: TAP27813
+  title: Case Law Darius Thompson
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/28/2022
   course: ADP01784
   title: Adult Child Infant C.A.R.E. CPR, AED, First Aid

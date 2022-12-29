@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/21/2022 | MLP07375 | Maintaining A Drug-Free Workplace | Passed | 0.0 | 1.00 |
 | 11/1/2022 | MLP44561 | Night Range Firearms November | Passed | 0.0 | 4.00 |
 | 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 9/13/2022 | MLP19099 | Firearms Training and Qualification | Passed | 0.0 | 4.00 |

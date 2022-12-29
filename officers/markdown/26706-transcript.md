@@ -40,6 +40,8 @@
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/17/2022 | PDS40111 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 11/15/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |
+| 11/15/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
+| 11/10/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 9/21/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |
 | 8/10/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |
 | 8/3/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |

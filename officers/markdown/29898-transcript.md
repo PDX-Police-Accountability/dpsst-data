@@ -43,6 +43,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/12/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
+| 11/12/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 9/30/2022 | PDS32518 | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2022 | PDS06856 | Firearms Training | Passed | 0.0 | 3.00 |
 | 8/21/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |

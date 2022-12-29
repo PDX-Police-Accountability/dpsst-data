@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 10/31/2022
+  course: HRS38193
+  title: Fall Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/6/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

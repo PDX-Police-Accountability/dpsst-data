@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 11/3/2022 | PDS42454 | MDT-MRE Training | Instructed | 0.0 | 8.00 |
 | 8/22/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 12/22/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |

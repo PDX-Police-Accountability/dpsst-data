@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
+| 11/12/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 10/27/2022 | PDS38818 | Patrol Rifle | Passed | 0.0 | 30.00 |
 | 9/30/2022 | PDS33076 | MIDD Training | Passed | 0.0 | 4.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -29,6 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
+| 11/4/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 11/1/2022 | PDS12549 | Firearms Training | Passed | 0.0 | 6.00 |
 | 11/1/2022 | PDS16611 | Range Qualification | Passed | 0.0 | 2.00 |
 | 7/23/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |

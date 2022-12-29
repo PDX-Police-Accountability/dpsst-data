@@ -52,6 +52,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/23/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
+| 11/23/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 8/4/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 8/1/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 4/27/2022 | PDS22506 | CIT | Passed | 0.0 | 4.00 |

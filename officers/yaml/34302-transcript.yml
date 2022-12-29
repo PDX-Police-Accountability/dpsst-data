@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2022
+  course: VND06883
+  title: Pedestrian Safety Enforcement Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/30/2022
   course: REG04480
   title: 2022 Police Traffic Safety Conference

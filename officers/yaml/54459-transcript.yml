@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2022
+  course: HRS38193
+  title: Fall Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/10/2022
   course: HRS39418
   title: CPR/First Aid

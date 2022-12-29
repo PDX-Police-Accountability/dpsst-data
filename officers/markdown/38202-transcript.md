@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/23/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 9/30/2022 | PDS11280 | Firearms Training | Passed | 0.0 | 3.00 |
 | 9/30/2022 | PDS41330 | Range Qualification | Passed | 0.0 | 2.00 |

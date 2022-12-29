@@ -161,6 +161,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/23/2022
+  course: PDS22981
+  title: Naloxone Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/23/2022
+  course: PDS36628
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/4/2022
   course: PDS10376
   title: Force Entry

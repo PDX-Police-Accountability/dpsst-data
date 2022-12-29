@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/12/2022 | PDS23512 | Combat Application Tourniquet | Passed | 0.0 | 0.50 |
+| 11/12/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/30/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/27/2022 | PDS38818 | Patrol Rifle | Passed | 0.0 | 30.00 |
 | 10/14/2022 | PDS40955 | TASER | Passed | 0.0 | 8.00 |

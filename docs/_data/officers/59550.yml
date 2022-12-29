@@ -42,6 +42,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/2/2022
+  course: RMP18238
+  title: Ground Defense Jiu Jitsu
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/2/2022
+  course: RMP23581
+  title: Firearms Veh CQB, Target Focused Combat, HRT
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2022
+  course: RMP00685
+  title: Building Clearing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/12/2022
   course: RMP44573
   title: Firearm 1 on 1s

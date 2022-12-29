@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2022 | HRS38193 | Fall Firearms Range | Passed | 0.0 | 4.00 |
 | 10/10/2022 | HRS39418 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/22/2022 | HRS43288 | Developing a culture of accountability | Passed | 0.0 | 1.00 |
 | 6/1/2022 | HRS39309 | Firearms Qualification | Passed | 0.0 | 4.00 |
