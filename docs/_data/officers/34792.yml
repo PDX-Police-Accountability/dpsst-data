@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 11/3/2022
+  course: GPP20256
+  title: Emotional Survival For Law Enforcement
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/17/2022
   course: TAP30889
   title: Pipeline Emergency Response Guidelines 2022

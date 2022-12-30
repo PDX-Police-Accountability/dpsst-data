@@ -24,8 +24,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 6/29/2022 | 6/30/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
 ## Education
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2022 | MKL02496 | Mental Health in times of racialized violence | Passed | 0.0 | 1.50 |
 | 12/22/2022 | MKL17230 | Race in Oregon History | Passed | 0.0 | 1.00 |
 | 11/4/2022 | MKL22194 | Defensive Tactics | Passed | 0.0 | 8.00 |

@@ -33,6 +33,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/16/2022 | Masters Arts | All Other Education Institutes |  | 30.0 |
 | 6/15/2006 | No Degree | Portland Community College |  | 12.0 |
 | 6/12/2004 | Bachelor Arts | Portland State University | Sociology | 181.1 |
 ## Training

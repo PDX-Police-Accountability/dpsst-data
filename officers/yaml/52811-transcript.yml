@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: PDS41241
+  title: SWAT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/14/2022
+  course: PDS15045
+  title: SWAT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/12/2022
+  course: PDS22837
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/6/2022
   course: PDS31596
   title: Defensive Tactics

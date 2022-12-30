@@ -70,6 +70,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: WBP17233
+  title: 2022 Airways Training Video
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/15/2022
+  course: WBP05986
+  title: Anti-Bias Policing Part 1 and 2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/22/2022
   course: WBP42726
   title: Low Light Shooting, Pistol and Rifle

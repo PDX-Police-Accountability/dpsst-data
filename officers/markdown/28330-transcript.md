@@ -44,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | PPP35492 | Emotional Intelligence | Passed | 0.0 | 2.00 |
+| 12/1/2022 | PPP28131 | Duty To Intervene | Passed | 0.0 | 1.00 |
 | 9/26/2022 | PDP27720 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 9/26/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

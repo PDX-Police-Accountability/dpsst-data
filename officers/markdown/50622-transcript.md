@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/9/2022 | OCP18972 | LEDS Training | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCP02181 | Legislative Updates | Passed | 0.0 | 0.75 |
 | 11/18/2022 | OCS34332 | Honor Guard Training | Passed | 0.0 | 24.00 |
 | 11/17/2022 | OCP34531 | Firearms/Use of Force | Passed | 0.0 | 1.00 |

@@ -113,6 +113,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2022
+  course: PPP35492
+  title: Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/1/2022
+  course: PPP28131
+  title: Duty To Intervene
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/26/2022
   course: PDP27720
   title: IS-800 National Response Framework

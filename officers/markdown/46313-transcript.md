@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | PPP35492 | Emotional Intelligence | Passed | 0.0 | 2.00 |
+| 12/15/2022 | PPP14515 | How to Help a Cop In Immediate Crisis | Passed | 0.0 | 2.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/6/2022 | PPP31987 | Peer Support Training | Passed | 0.0 | 3.00 |
 | 9/30/2022 | PPP19987 | Duty to Intervene | Passed | 0.0 | 1.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | PDS21977 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 11/10/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |
 | 11/10/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

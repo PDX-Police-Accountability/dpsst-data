@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | PDS41241 | SWAT | Passed | 0.0 | 8.00 |
+| 12/14/2022 | PDS15045 | SWAT | Passed | 0.0 | 8.00 |
+| 12/12/2022 | PDS22837 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 12/6/2022 | PDS31596 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/28/2022 | PDS16345 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/28/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |

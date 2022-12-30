@@ -30,8 +30,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/16/2022 | 22-0009 | DPSST Basic Police COD | Passed | 0.0 | 80.00 |
 | 12/8/2022 | REG37300 | INTOX 8000 | Passed | 0.0 | 6.00 |
-| 12/5/2022 | 22-0009 | DPSST Basic Police COD | Registered | 0.0 | 80.00 |
 | 11/29/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/13/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/13/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

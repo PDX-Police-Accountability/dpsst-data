@@ -42,18 +42,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/16/2022
+  course: 22-0009
+  title: DPSST Basic Police COD
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 12/8/2022
   course: REG37300
   title: INTOX 8000
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 12/5/2022
-  course: 22-0009
-  title: DPSST Basic Police COD
-  status: Registered
-  score: '0.0'
-  hours: '80.00'
 - date: 11/29/2022
   course: PDP15523
   title: 2022-5 CAO Legal Updates for 05/2022

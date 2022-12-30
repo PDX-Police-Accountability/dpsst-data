@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | WBP17233 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |
+| 12/15/2022 | WBP05986 | Anti-Bias Policing Part 1 and 2 | Passed | 0.0 | 2.00 |
 | 11/22/2022 | WBP42726 | Low Light Shooting, Pistol and Rifle | Instructed | 0.0 | 3.50 |
 | 9/30/2022 | WBP24007 | Third Quarter Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/14/2022 | WBP22329 | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |

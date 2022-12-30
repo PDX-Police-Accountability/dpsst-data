@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2022 | PDS32981 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 11/19/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 11/11/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |
 | 11/11/2022 | PDS15100 | Substance Abuse and Addiction | Passed | 0.0 | 2.00 |

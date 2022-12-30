@@ -4540,6 +4540,11 @@ attribute_records:
   effective_date: 3/7/2007
   expiration_date: ''
 education_records:
+- date: 12/16/2022
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '30.0'
 - date: 6/15/2006
   degree: No Degree
   school: Portland Community College

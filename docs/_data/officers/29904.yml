@@ -42,6 +42,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2022
+  course: PDS00055
+  title: Ethicd  IAU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/20/2022
+  course: PDS10749
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/14/2022
   course: PDP01766
   title: 2022 Post Shooting Response
