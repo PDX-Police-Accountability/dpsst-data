@@ -41,6 +41,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/17/2022
+  course: PDS09552
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/20/2022
   course: PDS36628
   title: PREA

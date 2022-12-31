@@ -39,7 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/7/2022 | 22-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 12/16/2022 | 22-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 7/27/2022 | PSU33623 | NOBLE Training Confrence 2022 | Passed | 0.0 | 32.00 |
 | 6/30/2022 | PSU27944 | IACLEA 2022 Conference | Passed | 0.0 | 24.00 |
 | 5/18/2022 | PSU25775 | CPR/AED  First Aid | Passed | 0.0 | 1.50 |
@@ -53,7 +53,6 @@
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 8/23/2021 | F6E37073 | Bolo Wrap Instructor Certification | Passed | 0.0 | 5.00 |
 | 8/11/2021 | F6F02582 | De-Escalation Training | Passed | 0.0 | 6.00 |
-| 7/1/2021 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 5/19/2021 | F6E21345 | Bolo Wrap Instructor Certification | Passed | 0.0 | 5.00 |
 | 3/16/2021 | F6E12747 | Firearms Training | Passed | 0.0 | 2.00 |
 | 12/26/2020 | PSU42830 | Taser 7 Certification | Passed | 0.0 | 5.00 |

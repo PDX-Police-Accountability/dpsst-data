@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 11/29/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 11/12/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 10/27/2022 | PDS38818 | Patrol Rifle | Passed | 0.0 | 30.00 |

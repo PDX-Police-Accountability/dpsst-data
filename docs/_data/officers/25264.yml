@@ -68,12 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/17/2022
+  course: PDS09552
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/13/2022
   course: PDS34428
   title: Taser Instructor Course
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 12/11/2022
+  course: PDS13163
+  title: Gun Dispossession Enforcement  ERPO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/12/2022
   course: PDS23512
   title: Combat Application Tourniquet

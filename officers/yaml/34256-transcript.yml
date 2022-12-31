@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/3/2022
+  course: BVP31114
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/20/2022
   course: BVP16514
   title: ACAP and Duty to Intervene CT Scenarios

@@ -82,10 +82,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 11/7/2022
+- date: 12/16/2022
   course: 22-0026
   title: DPSST Middle Management
-  status: Registered
+  status: Passed
   score: '0.0'
   hours: '80.00'
 - date: 7/27/2022
@@ -166,12 +166,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 7/1/2021
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 5/19/2021
   course: F6E21345
   title: Bolo Wrap Instructor Certification

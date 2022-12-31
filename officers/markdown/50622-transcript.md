@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/8/2023 | Oregon City Police Department | Promotion | Sergeant |  |  |
 | 3/17/2019 | Oregon City Police Department | Reclassed | Police Off |  |  |
 | 3/13/2018 | Oregon City Police Department | Reclassed | Detective |  |  |
 | 1/29/2016 | Oregon City Police Department | Hired | Police Off |  |  |
@@ -39,7 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
+| 12/28/2022 | OCP22978 | Taser Training | Passed | 0.0 | 4.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2022 | OCP18972 | LEDS Training | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCP02181 | Legislative Updates | Passed | 0.0 | 0.75 |

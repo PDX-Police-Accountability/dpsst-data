@@ -27,6 +27,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
+| 12/12/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 11/21/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 9/21/2022 | VND24266 | Domestic Terrorism | Passed | 0.0 | 16.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 11/17/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 11/15/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 9/22/2022 | PDS42874 | Range Qualification | Passed | 0.0 | 2.00 |

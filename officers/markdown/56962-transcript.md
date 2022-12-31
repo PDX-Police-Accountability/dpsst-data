@@ -71,6 +71,7 @@
 | 1/12/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/12/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 1/11/2022 | HBS30665 | LEDS Recert | Passed | 0.0 | 1.00 |
+| 1/11/2022 | HBN25255 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/31/2021 | 21-CVDL3 | 2021 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 11/7/2021 | HBS21907 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/7/2021 | HBS19018 | Harassment/Civility | Passed | 0.0 | 1.50 |

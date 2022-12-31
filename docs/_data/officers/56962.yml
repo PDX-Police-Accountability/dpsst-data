@@ -235,6 +235,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/11/2022
+  course: HBN25255
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2021
   course: 21-CVDL3
   title: 2021 LE Basic 3 Year Maint-Not Met COVID19

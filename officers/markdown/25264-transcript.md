@@ -38,7 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/13/2022 | PDS34428 | Taser Instructor Course | Passed | 0.0 | 16.00 |
+| 12/11/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 11/12/2022 | PDS23512 | Combat Application Tourniquet | Passed | 0.0 | 0.50 |
 | 11/12/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/30/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |

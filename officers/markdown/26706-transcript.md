@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/17/2022 | PDS40111 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 11/15/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |

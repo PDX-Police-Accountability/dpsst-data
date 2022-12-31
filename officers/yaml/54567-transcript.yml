@@ -294,6 +294,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/28/2020
+  course: F1536745
+  title: Leadership in Critical Times
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/21/2020
   course: MAP07339
   title: Oregon OSHA COVID-19 Temporary Rule Training

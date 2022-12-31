@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
+| 12/11/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 11/12/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |

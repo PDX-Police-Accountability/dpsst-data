@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/21/2022 | PDS22735 | Distracted Driving | Passed | 0.0 | 0.50 |
+| 12/13/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/9/2022 | PDS32981 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 11/19/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 11/11/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |

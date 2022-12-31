@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/8/2023
+  agency: Oregon City Police Department
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 3/17/2019
   agency: Oregon City Police Department
   action: Reclassed
@@ -62,12 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2024
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 12/31/2022
   course: OCP44240
   title: Ethics
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/28/2022
+  course: OCP22978
+  title: Taser Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/27/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

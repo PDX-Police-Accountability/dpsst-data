@@ -46,6 +46,7 @@
 | 10/13/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/11/2022 | PDN25043 | Defensive Tactics-Krav Shielding Techniques | Passed | 0.0 | 1.50 |
 | 10/4/2022 | OCN41697 | FVSN: DV Academy-Supervising Women of DV | Passed | 0.0 | 2.00 |
+| 10/1/2022 | PDN36408 | Heat Stress Illness Prevention | Passed | 0.0 | 0.50 |
 | 9/22/2022 | F6R22533 | CPR/First Aid | Passed | 0.0 | 6.00 |
 | 9/8/2022 | PDN17455 | Confrontational Simulation Off Duty Encounters | Passed | 0.0 | 1.50 |
 | 8/24/2022 | PDN02361 | Working with the Mentally Ill | Passed | 0.0 | 1.50 |

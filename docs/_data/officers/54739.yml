@@ -29,6 +29,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/11/2022
+  course: PDS09552
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/4/2022
+  course: PDS42202
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/25/2022
   course: PDS22981
   title: Naloxone Training

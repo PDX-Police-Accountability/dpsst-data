@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2022
+  course: PDS09552
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/10/2022
+  course: PDS13163
+  title: Gun Dispossession Enforcement  ERPO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/14/2022
   course: PDS36628
   title: PREA

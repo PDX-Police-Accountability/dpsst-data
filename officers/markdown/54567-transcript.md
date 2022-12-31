@@ -75,6 +75,7 @@
 | 1/27/2021 | MLP10646 | Diversity in Our Workplaces | Passed | 0.0 | 3.00 |
 | 1/20/2021 | MLP24395 | Handgun Qualification | Passed | 0.0 | 3.00 |
 | 1/8/2021 | MAP00677 | Pipeline Safety for Emergency Response Officials | Passed | 0.0 | 0.25 |
+| 12/28/2020 | F1536745 | Leadership in Critical Times | Passed | 0.0 | 16.00 |
 | 12/21/2020 | MAP07339 | Oregon OSHA COVID-19 Temporary Rule Training | Passed | 0.0 | 2.00 |
 | 12/9/2020 | MAP19959 | 40mm Launcher Qualification | Passed | 0.0 | 4.00 |
 | 11/20/2020 | F6D12224 | Officer Wellness in 2020 and Beyond | Passed | 0.0 | 1.00 |

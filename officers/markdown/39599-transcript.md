@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
+| 12/14/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 11/14/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 11/14/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 10/7/2022 | PDS35785 | Firearsm Training | Passed | 0.0 | 3.00 |

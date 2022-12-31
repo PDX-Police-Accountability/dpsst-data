@@ -69,12 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 2/3/2023
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
+- date: 12/16/2022
+  course: 22-0026
+  title: DPSST Middle Management
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '80.00'
 - date: 11/23/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -99,12 +99,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 11/7/2022
-  course: 22-0026
-  title: DPSST Middle Management
-  status: Registered
-  score: '0.0'
-  hours: '80.00'
 - date: 11/2/2022
   course: PDP33717
   title: 2022 Crowd Management
