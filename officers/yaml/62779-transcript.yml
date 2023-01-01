@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/19/2022
+  course: PDP16779
+  title: Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/13/2022
   course: REG12045
   title: INTOX 8000 (w/BP419)

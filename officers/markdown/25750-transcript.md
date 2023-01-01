@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2022 | BPT31740 | Stolen Vehicle Operation | Passed | 0.0 | 2.50 |
 | 11/22/2022 | OCS39690 | Field Training Officer class | Instructed | 0.0 | 24.00 |
 | 7/8/2021 | BPT44041 | The Transformational Trainer | Passed | 0.0 | 7.00 |
 | 6/3/2021 | BPT40135 | FTEP Instructor Development Course | Instructed | 0.0 | 22.00 |

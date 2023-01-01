@@ -32,6 +32,7 @@
 | 11/16/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 12/8/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/8/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 12/7/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
 | 4/30/2021 | PDS22843 | Ethics | Passed | 0.0 | 1.00 |
 | 4/2/2020 | F6D04257 | Ethics in Piblic Safety 2020 | Passed | 0.0 | 1.00 |

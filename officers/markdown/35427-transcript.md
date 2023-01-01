@@ -43,6 +43,7 @@
 | 4/27/2022 | SMP39708 | Property  Evidence Management | Passed | 0.0 | 16.00 |
 | 3/9/2022 | PDS25612 | Narcan Training | Passed | 0.0 | 1.00 |
 | 12/29/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/29/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 5/31/2021 | PDS02599 | Ethics | Passed | 0.0 | 1.00 |
 | 4/7/2020 | F6D21291 | Ehtics in Public Safety | Passed | 0.0 | 1.00 |
 | 1/13/2020 | 20-0001 | DPSST Basic Corrections | Withdrew | 0.0 | 240.00 |

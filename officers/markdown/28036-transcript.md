@@ -38,6 +38,7 @@
 | 11/3/2022 | PDS42454 | MDT-MRE Training | Instructed | 0.0 | 8.00 |
 | 8/22/2022 | PDS37568 | Ethics | Passed | 0.0 | 1.00 |
 | 12/22/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/22/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 1/6/2021 | PDP18297 | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 12/15/2020 | PDP07824 | 2020-10 City Attorney's Office Legal Updates 10/20 | Passed | 0.0 | 0.25 |
 | 12/15/2020 | PDP37950 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.72 |

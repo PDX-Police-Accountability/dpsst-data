@@ -63,6 +63,7 @@
 | 3/9/2022 | LOP19092 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
 | 1/24/2022 | PDS35905 | Legal Update | Passed | 0.0 | 1.00 |
 | 12/30/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/30/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 12/22/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
 | 12/20/2021 | PDS25956 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -41,6 +41,7 @@
 | 1/10/2022 | PDS05076 | Firearms Training | Passed | 0.0 | 8.00 |
 | 12/16/2021 | PDS08708 | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/13/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/13/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 12/10/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
 | 9/30/2021 | PDS24575 | Financial Wellness | Passed | 0.0 | 1.00 |
 | 7/29/2021 | PDS42184 | BOEC Advanced SEND Protocol | Passed | 0.0 | 0.50 |

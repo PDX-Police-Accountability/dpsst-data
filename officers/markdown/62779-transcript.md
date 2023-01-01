@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/14/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/19/2022 | PDP16779 | Geography | Passed | 0.0 | 2.00 |
 | 10/13/2022 | REG12045 | INTOX 8000 (w/BP419) | Passed | 0.0 | 6.00 |
 | 8/15/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 8/11/2022 | PDP13201 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

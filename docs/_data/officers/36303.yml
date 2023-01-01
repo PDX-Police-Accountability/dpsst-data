@@ -105,6 +105,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/23/2022
+  course: PDP43118
+  title: Weekly K-9 Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 11/10/2022
   course: PDP40447
   title: 2022 MCDA Probable Cause Refresher Training

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | HBS35343 | 2022 Civility  Harassment Training | Passed | 0.0 | 1.00 |
 | 11/10/2022 | HBS44714 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 5/13/2022 | HBS38490 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 5/13/2022 | HBS39373 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |

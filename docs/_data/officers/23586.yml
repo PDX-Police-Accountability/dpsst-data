@@ -168,6 +168,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/7/2021
+  course: PDS27610
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/30/2021
   course: PDS13112
   title: CPR-First Aid
@@ -192,6 +198,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/30/2021
+  course: PDS23249
+  title: Substance Abuse  Addiction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/30/2021
   course: PDS22843
   title: Ethics

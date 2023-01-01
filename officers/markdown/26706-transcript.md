@@ -25,7 +25,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 8/19/2003 |  |
@@ -56,6 +55,7 @@
 | 12/7/2021 | PDS32581 | NARCAN | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
+| 12/7/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 11/30/2021 | PDS13112 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 11/29/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/22/2021 | PDS17643 | Use of Force | Passed | 0.0 | 8.00 |
@@ -63,6 +63,7 @@
 | 9/19/2021 | PDS27379 | ConSim | Passed | 0.0 | 4.00 |
 | 9/19/2021 | PDS16174 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/31/2021 | PDS24777 | Financial Wellness | Passed | 0.0 | 1.00 |
+| 6/30/2021 | PDS23249 | Substance Abuse  Addiction | Passed | 0.0 | 2.00 |
 | 4/30/2021 | PDS22843 | Ethics | Passed | 0.0 | 1.00 |
 | 4/28/2021 | PDS38203 | COVID Policy | Passed | 0.0 | 0.50 |
 | 2/28/2021 | PDS14585 | Facility Orientation | Passed | 0.0 | 0.50 |

@@ -44,6 +44,7 @@
 | 12/27/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
 | 12/15/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/15/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 12/9/2021 | PDS05816 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 10/26/2021 | PDS04916 | Substance Abuse  Addiction | Passed | 0.0 | 2.00 |
 | 10/21/2021 | PDS27826 | Suicide Prevention | Passed | 0.0 | 2.00 |

@@ -48,10 +48,12 @@
 | 12/7/2021 | PDS28945 | Combat Application Tourniquets | Passed | 0.0 | 0.50 |
 | 12/7/2021 | PDS32581 | NARCAN | Passed | 0.0 | 1.00 |
 | 12/7/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/7/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 11/23/2021 | PDS13112 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 10/23/2021 | PDS08343 | Firearms Training | Passed | 0.0 | 6.00 |
 | 10/23/2021 | PDS00751 | Range Qualification | Passed | 0.0 | 2.00 |
 | 8/31/2021 | PDS24777 | Financial Wellness | Passed | 0.0 | 1.00 |
+| 6/30/2021 | PDS23249 | Substance Abuse  Addiction | Passed | 0.0 | 2.00 |
 | 5/31/2021 | PDS02599 | Ethics | Passed | 0.0 | 1.00 |
 | 4/28/2021 | PDS38203 | COVID Policy | Passed | 0.0 | 0.50 |
 | 1/31/2021 | PDS27521 | Facility Orientation | Passed | 0.0 | 0.50 |

@@ -57,7 +57,7 @@ certification_records:
   level: Basic
   status: Lapsed-UR
   certificate_date: 4/20/2012
-  expiration_date: ''
+  expiration_date: 9/20/2024
   probation_date: ''
 training_records:
 - date: 4/3/2018

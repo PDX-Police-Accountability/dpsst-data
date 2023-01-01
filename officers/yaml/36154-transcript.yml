@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/31/2022
+  course: MFP15610
+  title: High Elevation Crisis Negotiation  De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/14/2022
   course: MFP08261
   title: 2022 ETHOS Leadership Development Program

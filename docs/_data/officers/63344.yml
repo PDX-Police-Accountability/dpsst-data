@@ -36,6 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 12/9/2022
+  course: PDP34098
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/9/2022
+  course: PDP16418
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/9/2022
+  course: PDP35120
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/29/2022
   course: PDP00648
   title: FTEP Policy  Procedure

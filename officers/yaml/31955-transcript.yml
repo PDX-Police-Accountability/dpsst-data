@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/30/2022
+  course: CAP23455
+  title: Interefering with a Police Officer Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/31/2022
   course: CAP36835
   title: Shaping an Ethical Workplace Culture

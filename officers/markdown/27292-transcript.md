@@ -34,7 +34,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 7/7/2003 |  |
@@ -54,6 +53,7 @@
 | 11/19/2022 | PDS13451 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 11/13/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |
 | 11/11/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
+| 10/31/2022 | PDS38719 | CNT Range | Passed | 0.0 | 8.00 |
 | 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/5/2022 | PDS18361 | Leadership | Passed | 0.0 | 0.50 |
 | 9/11/2022 | PDS32233 | Suicide Prevention | Passed | 0.0 | 2.00 |
@@ -74,12 +74,14 @@
 | 12/18/2021 | PDS32581 | NARCAN | Passed | 0.0 | 1.00 |
 | 12/18/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/18/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
+| 12/18/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 11/28/2021 | PDS13112 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 11/18/2021 | PDS21571 | Supervisors' Use of Force Review | Passed | 0.0 | 4.00 |
 | 11/9/2021 | PDS31457 | CNT Team Training | Passed | 0.0 | 16.00 |
 | 10/26/2021 | PDS21571 | Supervisors' Use of Force Review | Passed | 0.0 | 4.00 |
 | 9/30/2021 | PDS05588 | ConSim | Instructed | 0.0 | 8.00 |
 | 8/31/2021 | PDS24777 | Financial Wellness | Passed | 0.0 | 1.00 |
+| 6/30/2021 | PDS23249 | Substance Abuse  Addiction | Passed | 0.0 | 2.00 |
 | 5/31/2021 | PDS02599 | Ethics | Passed | 0.0 | 1.00 |
 | 4/28/2021 | PDS38203 | COVID Policy | Passed | 0.0 | 0.50 |
 | 1/31/2021 | PDS27521 | Facility Orientation | Passed | 0.0 | 0.50 |

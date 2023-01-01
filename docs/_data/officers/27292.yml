@@ -148,6 +148,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/31/2022
+  course: PDS38719
+  title: CNT Range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/21/2022
   course: PDS14098
   title: Narcan Training
@@ -268,6 +274,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/18/2021
+  course: PDS27610
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/28/2021
   course: PDS13112
   title: CPR-First Aid
@@ -304,6 +316,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/30/2021
+  course: PDS23249
+  title: Substance Abuse  Addiction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/31/2021
   course: PDS02599
   title: Ethics
@@ -2307,10 +2325,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/28/2021

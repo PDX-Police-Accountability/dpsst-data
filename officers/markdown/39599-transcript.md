@@ -61,6 +61,7 @@
 | 12/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/8/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/8/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
+| 12/8/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 11/19/2021 | PDS38145 | Range Qualification | Passed | 0.0 | 2.00 |
 | 11/19/2021 | PDS44197 | Firearms Training | Passed | 0.0 | 8.00 |
 | 9/30/2021 | PDS24575 | Financial Wellness | Passed | 0.0 | 1.00 |

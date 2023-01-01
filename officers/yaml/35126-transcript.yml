@@ -2357,6 +2357,10 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
+  effective_date: 12/30/2022
+  expiration_date: 12/30/2022
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
   effective_date: 11/30/2022
   expiration_date: 11/30/2022
 - topic: Maintenance Requirements

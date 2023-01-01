@@ -40,6 +40,7 @@
 | 1/10/2022 | PDS29388 | Range Qualification | Passed | 0.0 | 2.00 |
 | 12/10/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/10/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
+| 12/10/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 8/31/2021 | PDS24777 | Financial Wellness | Passed | 0.0 | 1.00 |
 | 7/29/2021 | PDS42184 | BOEC Advanced SEND Protocol | Passed | 0.0 | 0.50 |
 | 5/31/2021 | PDS02599 | Ethics | Passed | 0.0 | 1.00 |

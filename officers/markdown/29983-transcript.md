@@ -36,7 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/3/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 12/28/2022 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 11/28/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/28/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/28/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

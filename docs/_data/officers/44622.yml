@@ -2302,6 +2302,10 @@ training_records:
   hours: '32.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 12/30/2022
+  expiration_date: 12/30/2022
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022

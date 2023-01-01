@@ -44,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 12/22/2022 | FGP04006 | Active Shooter Refresher-PPT Only(0800-0900hrs) | Passed | 0.0 | 1.00 |
+| 12/22/2022 | FGP11503 | Firearms Training Drills and Qualifications | Passed | 0.0 | 2.25 |
 | 12/15/2022 | FGP37287 | Domestic Violence / Strangulation Law Review | Passed | 0.0 | 1.50 |
 | 12/12/2022 | FGP22435 | Firearms Training | Passed | 0.0 | 1.00 |
 | 11/2/2022 | FGP19875 | How to Help a Cop in IMMEDIATE Crisis | Passed | 0.0 | 1.75 |

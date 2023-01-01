@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/15/2022
+  course: REG06452
+  title: INTOX 8000 - Hours included with Basic
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/10/2022
   course: M10-22A
   title: DPSST Basic Police Course

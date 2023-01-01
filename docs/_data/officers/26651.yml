@@ -249,6 +249,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/9/2021
+  course: PDS27610
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/17/2021
   course: PDS22673
   title: Report Writing

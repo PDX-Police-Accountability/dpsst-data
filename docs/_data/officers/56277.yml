@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2022
+  course: CAP03923
+  title: Finding the Leader in You
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/8/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -1042,10 +1048,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/12/2022
   expiration_date: 4/12/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021

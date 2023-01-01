@@ -28,7 +28,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +41,7 @@
 | 12/1/2022 | VND29852 | Parole Board Overview/ Q and A | Passed | 0.0 | 4.00 |
 | 11/30/2022 | PDN34115 | ACAP | Passed | 0.0 | 2.00 |
 | 11/10/2022 | PDN23257 | EDIS Training | Passed | 0.0 | 1.00 |
+| 10/31/2022 | PDN09950 | Privacy and Security | Passed | 0.0 | 0.50 |
 | 10/19/2022 | PDN23476 | Field Applications-Situational Awareness | Passed | 0.0 | 1.25 |
 | 10/13/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/11/2022 | PDN25043 | Defensive Tactics-Krav Shielding Techniques | Passed | 0.0 | 1.50 |

@@ -55,6 +55,8 @@
 | 10/25/2022 | PDS13906 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 10/21/2022 | PDS14098 | Narcan Training | Passed | 0.0 | 0.50 |
 | 10/20/2022 | PDS44647 | Patrol Unit Supervisors Meeting | Passed | 0.0 | 3.00 |
+| 10/12/2022 | PDS16525 | SWAT Range | Passed | 0.0 | 8.00 |
+| 10/12/2022 | PDS35376 | SWAT Training | Passed | 0.0 | 1.00 |
 | 10/10/2022 | PDS06689 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 10/10/2022 | PDS03709 | Firearms Training | Instructed | 0.0 | 3.00 |
 | 10/3/2022 | PDS32844 | Firearms Training | Instructed | 0.0 | 6.00 |
@@ -87,6 +89,7 @@
 | 12/16/2021 | PDS22460 | SWAT Training | Passed | 0.0 | 20.00 |
 | 12/8/2021 | PDS21233 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/8/2021 | PDS10459 | PREA | Passed | 0.0 | 2.00 |
+| 12/8/2021 | PDS27610 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 12/6/2021 | PDS18544 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 11/23/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/16/2021 | PDS38145 | Range Qualification | Instructed | 0.0 | 2.00 |
