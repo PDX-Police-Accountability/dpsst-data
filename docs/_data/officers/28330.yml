@@ -119,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/8/2022
+  course: PPP16460
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/1/2022
   course: PPP28131
   title: Duty To Intervene

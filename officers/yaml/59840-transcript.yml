@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/31/2022
+  course: OCP10967
+  title: 40mm Initial Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/28/2022
   course: OCP22978
   title: Taser Training

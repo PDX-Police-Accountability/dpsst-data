@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2022
+  course: STS29887
+  title: Lexipol Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 12/19/2022
   course: STS20481
   title: Firearms/Qualification

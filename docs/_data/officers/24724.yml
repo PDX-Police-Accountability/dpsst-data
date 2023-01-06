@@ -100,6 +100,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 1/3/2023
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/22/2022
   course: FGP04006
   title: Active Shooter Refresher-PPT Only(0800-0900hrs)

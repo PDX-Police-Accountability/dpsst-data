@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | STS29887 | Lexipol Daily Training Bulletins | Passed | 0.0 | 11.00 |
 | 12/19/2022 | STS20481 | Firearms/Qualification | Passed | 0.0 | 0.50 |
 | 12/5/2022 | OSA15918 | OSSA Enforcement Command Council - Dec 2022 | Passed | 0.0 | 3.00 |
 | 12/1/2022 | LCP27290 | Homicide and Crime Scene Investigations | Passed | 0.0 | 20.00 |

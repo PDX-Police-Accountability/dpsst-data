@@ -40,19 +40,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 12/16/2022
+  certificate: Corrections Officer
+  level: Basic
+  status: Expired
+  certificate_date: 2/11/2014
+  expiration_date: ''
+  probation_date: ''
 - status_date: 1/9/2019
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/9/2019
   expiration_date: ''
-  probation_date: ''
-- status_date: 3/16/2018
-  certificate: Corrections Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 2/11/2014
-  expiration_date: 12/16/2022
   probation_date: ''
 training_records:
 - date: 11/20/2022
