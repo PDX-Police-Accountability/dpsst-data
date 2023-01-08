@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/3/2021 | 6/3/2023 |
-| Certification Cards | First Aid and CPR | 6/3/2021 | 6/3/2023 |
-| Code of Ethics | Signed | 1/3/2012 |  |
 | Code of Ethics | Signed | 1/3/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/14/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/14/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |
 | 11/28/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/22/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

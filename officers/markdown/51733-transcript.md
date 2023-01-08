@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
-| Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
-| Code of Ethics | Signed | 3/29/2011 |  |
 | Code of Ethics | Signed | 3/29/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 11/17/2022 | PDP41896 | 2022 CNT Annual Training | Passed | 0.0 | 18.00 |
 | 11/14/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
@@ -53,6 +51,7 @@
 | 9/22/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
+| 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
 | 9/1/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/18/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/10/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

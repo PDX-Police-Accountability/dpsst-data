@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2022
+  course: PDP39120
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/11/2022
+  course: PDP22307
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/10/2022
+  course: PDP16169
+  title: 2022-11 EO Clarification DIR 1010.00  1015.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/26/2022
   course: PDP27596
   title: 2022 Lead Awareness  Safety Trng for PPB Arms
@@ -1853,14 +1871,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/17/2021
-  expiration_date: 6/17/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/17/2021
@@ -1869,14 +1879,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/17/2017
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/17/2017

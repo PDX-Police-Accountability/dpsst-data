@@ -1608,6 +1608,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/29/2019
+  course: PDP02094
+  title: PPB 2019 Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
 - date: 1/23/2019
   course: PDP28048
   title: 2.02 for Managers and Supervisors

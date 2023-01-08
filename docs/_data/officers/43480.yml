@@ -69,6 +69,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 12/8/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/28/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -4281,14 +4287,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -4296,14 +4294,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/27/2021
   expiration_date: 6/27/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/27/2021
-  expiration_date: 6/27/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/29/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

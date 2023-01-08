@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/20/2021 | 5/20/2023 |
-| Certification Cards | First Aid and CPR | 5/20/2021 | 5/20/2023 |
-| Code of Ethics | Signed | 12/20/2002 |  |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2022 | NPS10285 | Crisis Intervention | Passed | 0.0 | 5.00 |
+| 11/18/2022 | NPS35781 | Scenario Skills | Passed | 0.0 | 3.00 |
+| 11/17/2022 | NPS05741 | NAMI | Passed | 0.0 | 2.00 |
+| 11/17/2022 | NPS41261 | Substance Use Disorders | Passed | 0.0 | 2.00 |
+| 11/17/2022 | NPS21515 | Suicide Assessment | Passed | 0.0 | 2.00 |
+| 11/17/2022 | NPS29783 | Peer Panel Presentation | Passed | 0.0 | 2.00 |
+| 11/16/2022 | NPS38746 | Case Studies/Community Resources | Passed | 0.0 | 3.00 |
+| 11/16/2022 | NPS38160 | De-escalation | Passed | 0.0 | 1.00 |
+| 11/16/2022 | NPS42325 | Medications | Passed | 0.0 | 2.00 |
+| 11/16/2022 | NPS03600 | Seniors/Aging | Passed | 0.0 | 2.00 |
+| 11/15/2022 | NPS12541 | Mental Health/Self Care | Passed | 0.0 | 2.00 |
+| 11/15/2022 | NPS38227 | Understanding Developmental Disabilities | Passed | 0.0 | 6.00 |
+| 11/14/2022 | NPS04261 | Mental Health First Aid | Passed | 0.0 | 8.00 |
 | 7/6/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/6/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/6/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
@@ -54,7 +63,6 @@
 | 5/25/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |

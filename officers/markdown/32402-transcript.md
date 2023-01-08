@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 10/17/2002 |  |
 | Code of Ethics | Signed | 10/17/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,7 +47,6 @@
 | 8/25/2022 | HBS29122 | DT CONSIM Instructor Updates | Passed | 0.0 | 3.00 |
 | 7/19/2022 | HBS26558 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
 | 7/13/2022 | HBS37414 | Cryptocurrency Training | Passed | 0.0 | 2.00 |
-| 7/12/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 7/12/2022 | HBS41060 | Detective Building Search/Warrants | Passed | 0.0 | 8.00 |
 | 4/13/2022 | HBS10219 | IFAST Instructor Updates | Passed | 0.0 | 4.50 |
 | 4/13/2022 | HBS44763 | Airway Circulation Training | Passed | 0.0 | 2.00 |
@@ -63,7 +57,6 @@
 | 1/26/2022 | HBS04916 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/26/2022 | HBS14727 | Use of Force Updates | Passed | 0.0 | 1.50 |
 | 1/26/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
-| 1/26/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/26/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
 | 1/26/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 11/8/2021 | HBS28583 | Firearms Update | Passed | 0.0 | 4.50 |

@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Code of Ethics | Signed | 11/29/2010 |  |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,35 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 12/29/2022 | PDP13052 | 2022 Vocabulary in the LGBTQIA2S+ Queer Comm | Passed | 0.0 | 0.25 |
+| 12/29/2022 | PDP09438 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 12/29/2022 | PDP42710 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 12/29/2022 | PDP27466 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 12/23/2022 | PDP21394 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 12/23/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 12/23/2022 | PDP15343 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 12/23/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/23/2022 | PDP44367 | City of Portland Bloodborne Pathogens Link | Passed | 0.0 | 1.00 |
+| 12/23/2022 | PDP13531 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 12/23/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/17/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/17/2022 | PDP14670 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 12/16/2022 | PDP30795 | 2022-1- CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 12/16/2022 | PDP11101 | 2022-2- CAO Legal Updates for 02/2022 | Passed | 0.0 | 0.25 |
+| 12/16/2022 | PDP13345 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 12/15/2022 | PDP30192 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 12/15/2022 | PDP15318 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 12/15/2022 | PDP11501 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP39896 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP13094 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP21997 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP06733 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP23762 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/9/2022 | PDP19312 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 12/9/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 1/21/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/20/2022 | ICE06030 | Online Investigations for Law Enforcement | Passed | 0.0 | 16.00 |
 | 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

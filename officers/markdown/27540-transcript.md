@@ -33,12 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/19/2007 |  |
 | Code of Ethics | Signed | 7/19/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -68,7 +64,6 @@
 | 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 3/2/2022 | LOP18982 | EVOC (Driving, Use of Force) | Passed | 0.0 | 4.00 |
-| 1/26/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/26/2022 | VND44564 | 28CFR-Part23; RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |
 | 1/26/2022 | WLP15833 | WSIN/RISS Deconfliction Training | Passed | 0.0 | 1.50 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |

@@ -28,6 +28,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/17/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 12/22/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/22/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP20995 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP04346 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP20780 | 2019 Chief's Office SPLC Hate Crimes | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP32603 | 2019 CHO SPLC LE Response to Hate Events | Passed | 0.0 | 0.25 |

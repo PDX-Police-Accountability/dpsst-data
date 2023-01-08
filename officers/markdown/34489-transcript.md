@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/12/2006 |  |
 | Code of Ethics | Signed | 9/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,7 +48,6 @@
 | 9/12/2022 | OCS18613 | Low Light, One hand shooting use of cover | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS20366 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
-| 8/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 8/1/2022 | OCS20390 | Ethics- online | Passed | 0.0 | 2.00 |
 | 8/1/2022 | OCS19556 | Ethics- online | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
@@ -66,7 +61,6 @@
 | 5/4/2022 | F6R29331 | FARO Laser Scanner Certification | Passed | 0.0 | 24.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
-| 4/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
 | 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
 | 3/29/2022 | VND08419 | CMV Inspection Law Enforcement Refresher Class | Passed | 0.0 | 4.00 |

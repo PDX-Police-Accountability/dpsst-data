@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/27/2022 | PDP11803 | 2021 Online In-Service Training Mental Wellness | Passed | 0.0 | 1.25 |
 | 11/10/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 11/10/2022 | REG24959 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 9/12/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |

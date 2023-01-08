@@ -172,6 +172,7 @@
 | 2/22/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/22/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/15/2019 | PDP41398 | Innovative Leadership Seminar | Passed | 0.0 | 6.00 |
+| 1/31/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 72.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
 | 1/17/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/17/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |

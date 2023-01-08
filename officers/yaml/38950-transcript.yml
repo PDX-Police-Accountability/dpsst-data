@@ -108,23 +108,11 @@ training_records:
   score: '0.0'
   hours: '4.50'
 - date: 11/22/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.50'
-- date: 11/22/2022
   course: HBS41262
   title: Undefined
   status: Passed
   score: '0.0'
   hours: '1.50'
-- date: 10/15/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 10/15/2022
   course: HBS41678
   title: Civility  Harassment Free Workplace
@@ -144,23 +132,11 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 7/15/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 7/15/2022
   course: HBS00169
   title: Genentech scenario
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 6/15/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '0.75'
 - date: 6/15/2022
   course: HBS41265
   title: Corporal Leadership Training
@@ -209,12 +185,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
-- date: 2/2/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 2/2/2022
   course: HBS35085
   title: Employee Wellness
@@ -2936,26 +2906,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2021
   expiration_date: 1/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/31/2021
-  expiration_date: 1/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/15/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/15/2002

@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
-| Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
-| Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2022 | WLP26381 | Quarterly Firearms Training | Passed | 0.0 | 2.50 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |
 | 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |
 | 10/13/2022 | PDP42433 | Intoxylizer 8000 certification | Passed | 0.0 | 6.00 |

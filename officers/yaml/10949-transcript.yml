@@ -466,12 +466,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/21/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 5/6/2015
   course: 15-0823
   title: Eye Witness Evidence

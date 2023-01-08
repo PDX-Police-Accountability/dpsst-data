@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Code of Ethics | Signed | 12/4/2007 |  |
 | Code of Ethics | Signed | 12/4/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2022 | WBP23768 | Fourth Quarter Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 12/15/2022 | WBP17233 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |
 | 12/15/2022 | WBP05986 | Anti-Bias Policing Part 1 and 2 | Passed | 0.0 | 2.00 |
 | 11/22/2022 | WBP42726 | Low Light Shooting, Pistol and Rifle | Instructed | 0.0 | 3.50 |

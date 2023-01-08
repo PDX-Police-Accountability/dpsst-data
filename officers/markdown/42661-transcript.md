@@ -30,11 +30,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/22/2021 | 7/22/2023 |
-| Certification Cards | First Aid and CPR | 7/22/2021 | 7/22/2023 |
-| Code of Ethics | Signed | 4/13/2004 |  |
 | Code of Ethics | Signed | 4/13/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/8/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/22/2022 | PDP03519 | CA Narcotics Officer's Assoc Training Conference | Passed | 0.0 | 24.00 |
 | 11/9/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/7/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 11/7/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |

@@ -30,6 +30,18 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '640.00'
+- date: 12/13/2022
+  course: PDP18151
+  title: 2020 TOD Shots Fired Incident Reporting (SFIR)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/13/2022
+  course: PDP15978
+  title: 2021 Online In-Service Training Chicago Case Study
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/29/2022
   course: PDP02712
   title: 2022 Training 3M N Series Helmet

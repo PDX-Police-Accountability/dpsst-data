@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
 | Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -61,7 +57,6 @@
 | 6/28/2022 | BNS39659 | Combined Tactical Systems Instructor Course | Passed | 0.0 | 24.00 |
 | 6/16/2022 | HBS27141 | MFF Scenario Day | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS34046 | MFF Basic Drills | Passed | 0.0 | 3.00 |
-| 5/3/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.50 |
 | 5/3/2022 | HBS03100 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 5/3/2022 | HBS06797 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
 | 5/3/2022 | HBS40105 | Airway Circulation Training | Passed | 0.0 | 2.00 |

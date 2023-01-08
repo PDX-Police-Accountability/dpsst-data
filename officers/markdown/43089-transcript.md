@@ -38,11 +38,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 5/19/2021 | 5/19/2023 |
-| Certification Cards | First Aid and CPR | 5/19/2021 | 5/19/2023 |
-| Code of Ethics | Signed | 2/21/2006 |  |
 | Code of Ethics | Signed | 2/21/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -261,7 +257,6 @@
 | 8/14/2015 | 15-0193 | ConSim Instructor Course | Instructed | 0.0 | 16.00 |
 | 6/11/2015 | 15-0952 | CPR / First Aid | Passed | 0.0 | 1.50 |
 | 6/9/2015 | 15-0167 | Rifle Qualification | Instructed | 0.0 | 8.00 |
-| 5/29/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/28/2015 | 15-0100 | Active Shooter | Instructed | 0.0 | 6.50 |
 | 4/19/2015 | 15-0100 | Active Shooter | Instructed | 0.0 | 16.00 |
 | 4/14/2015 | 15-0114 | Defensive Tactics | Instructed | 0.0 | 8.00 |

@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/2/2022
+  course: PDP39120
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2022
+  course: PDP16169
+  title: 2022-11 EO Clarification DIR 1010.00  1015.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/28/2022
   course: PDP31358
   title: 2022-4 CAO Legal Updates for 04/2022
@@ -195,12 +207,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 6/3/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 6/3/2022
   course: PDP23522
   title: 2022 Queer Policy - Policy Scenarios
@@ -3672,26 +3678,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/7/2021
   expiration_date: 7/7/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/7/2021
-  expiration_date: 7/7/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/6/2006
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/6/2006

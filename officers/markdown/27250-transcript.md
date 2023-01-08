@@ -25,9 +25,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 | Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -50,7 +47,6 @@
 | 7/10/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 6/27/2022 | PDP43947 | Directive 0500.00, Wellness Program | Passed | 0.0 | 0.25 |
 | 6/19/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
-| 6/14/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 6/14/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 6/12/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
 | 6/11/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

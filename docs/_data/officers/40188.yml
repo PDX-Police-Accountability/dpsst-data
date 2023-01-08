@@ -74,6 +74,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2022
+  course: F6R28547
+  title: 2022 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/6/2022
+  course: PDP44436
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/6/2022
+  course: PDP26920
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/17/2022
   course: PDP07684
   title: Crisis Negotiation Team Annual Training
@@ -134,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/21/2022
+  course: PDP29000
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 9/20/2022
   course: PDP37114
   title: DIR 1010.00, Use of Force (effective 11/15/2022)
@@ -236,6 +266,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/23/2022
+  course: PDP10363
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 6/9/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
@@ -284,12 +320,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/13/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/13/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
@@ -4106,14 +4136,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -4121,14 +4143,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 7/1/2021
   expiration_date: 7/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/1/2021
-  expiration_date: 7/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/23/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/23/2004

@@ -32,14 +32,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/22/2008 |  |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -53,6 +48,7 @@
 | 1/3/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2022 | FGP04006 | Active Shooter Refresher-PPT Only(0800-0900hrs) | Passed | 0.0 | 1.00 |
 | 12/22/2022 | FGP11503 | Firearms Training Drills and Qualifications | Passed | 0.0 | 2.25 |
+| 12/22/2022 | HBS39606 | Active Threat | Passed | 0.0 | 9.00 |
 | 12/15/2022 | FGP37287 | Domestic Violence / Strangulation Law Review | Passed | 0.0 | 1.50 |
 | 12/12/2022 | FGP22435 | Firearms Training | Passed | 0.0 | 1.00 |
 | 11/2/2022 | FGP19875 | How to Help a Cop in IMMEDIATE Crisis | Passed | 0.0 | 1.75 |
@@ -80,7 +76,6 @@
 | 4/8/2022 | FGP05906 | Patrol Tactics/Building Search Con Sim | Instructed | 0.0 | 2.00 |
 | 3/31/2022 | F6R27961 | CPR and First Aid Refresher Training | Passed | 0.0 | 2.00 |
 | 3/16/2022 | FGP28057 | 2022 Airways Training Video Pat. Eval for LE ACAP | Passed | 0.0 | 1.75 |
-| 3/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.75 |
 | 3/15/2022 | F6R01453 | Use of Force Legislative and Policy Reviews | Instructed | 0.0 | 6.00 |
 | 3/3/2022 | F6R04359 | Firearms Transition and Reload Drills | Instructed | 0.0 | 1.00 |
 | 3/3/2022 | F6R14638 | Lateral Officer Firearms Training  Qualification | Passed | 0.0 | 1.00 |

@@ -22,26 +22,15 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 12/30/2022 | 12/30/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 12/30/2022 | 12/30/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 11/30/2022 | 11/30/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 11/30/2022 | 11/30/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 10/11/2022 | 10/11/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 10/11/2022 | 10/11/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 9/8/2022 | 9/8/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 9/8/2022 | 9/8/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 7/6/2022 | 7/6/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 7/6/2022 | 7/6/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 6/3/2022 | 6/3/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 6/3/2022 | 6/3/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 3/16/2022 | 3/16/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 7/30/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 7/30/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 12/19/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 12/19/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,10 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/15/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/25/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/25/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP16498 | ECIT Training | Passed | 0.0 | 36.00 |
 | 11/2/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/23/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP31464 | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |

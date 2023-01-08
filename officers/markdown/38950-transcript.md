@@ -34,11 +34,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,15 +46,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/29/2022 | HBS39105 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
-| 11/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |
-| 10/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 10/15/2022 | HBS41678 | Civility  Harassment Free Workplace | Instructed | 0.0 | 2.00 |
 | 10/14/2022 | HBS10447 | CONSIM | Passed | 0.0 | 3.00 |
 | 9/14/2022 | ALP01096 | RITE Professional Workplace for Leaders | Passed | 0.0 | 8.00 |
-| 7/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 7/15/2022 | HBS00169 | Genentech scenario | Passed | 0.0 | 8.00 |
-| 6/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 0.75 |
 | 6/15/2022 | HBS41265 | Corporal Leadership Training | Instructed | 0.0 | 0.75 |
 | 5/24/2022 | HBS23273 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 5/24/2022 | HBS03956 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
@@ -67,7 +59,6 @@
 | 2/4/2022 | HBS10118 | Use of Force Updates | Passed | 0.0 | 1.50 |
 | 2/4/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 2/4/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
-| 2/2/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/2/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 11/22/2021 | HBS23539 | Firearms Update | Passed | 0.0 | 4.50 |

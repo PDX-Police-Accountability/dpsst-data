@@ -27,10 +27,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/1/2022 | 3/31/2024 |
-| Certification Cards | First Aid and CPR | 3/1/2022 | 3/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -53,7 +50,6 @@
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
 | 8/17/2022 | TGP20730 | Pix4dMapper Basic for Public Safety (UAS) | Passed | 0.0 | 24.00 |
-| 7/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 7/22/2022 | HBS27202 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 7/6/2022 | HBS07135 | Crash Investigation Scenarios | Passed | 0.0 | 4.00 |
 | 6/9/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |
@@ -61,7 +57,6 @@
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
 | 5/25/2022 | TGP31467 | 2022 ACAP Training | Passed | 0.0 | 2.00 |
 | 5/13/2022 | TGP29734 | Patrol Rifle Operator Course | Instructed | 0.0 | 40.00 |
-| 5/4/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/4/2022 | HBS40279 | CART Medical Conditions at Crashes | Passed | 0.0 | 1.00 |
 | 5/4/2022 | HBS44050 | CART Photography | Passed | 0.0 | 3.50 |
 | 4/14/2022 | TGP08898 | LEDA Training Conference | Passed | 0.0 | 32.00 |

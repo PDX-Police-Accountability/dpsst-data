@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
-| Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
-| Code of Ethics | Signed | 2/6/2006 |  |
 | Code of Ethics | Signed | 2/6/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/2/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 12/2/2022 | PDP16169 | 2022-11 EO Clarification DIR 1010.00  1015.00 | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
@@ -63,7 +61,6 @@
 | 7/20/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 7/20/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/20/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
-| 6/3/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 6/3/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/3/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 5/31/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

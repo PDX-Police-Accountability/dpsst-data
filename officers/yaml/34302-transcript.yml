@@ -69,12 +69,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/6/2023
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/5/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/2/2023
+  course: GSP25014
+  title: 2023 CPR and First Aid
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/22/2022
   course: VND06883
   title: Pedestrian Safety Enforcement Training
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/22/2022
+  course: GSP04652
+  title: Pedestrian Enforcement Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/15/2022
+  course: GSP43316
+  title: 2022 Ethics In Service
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/30/2022
   course: REG04480
   title: 2022 Police Traffic Safety Conference
@@ -2018,30 +2048,18 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/2/2023
-  expiration_date: 1/2/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/2/2023
   expiration_date: 1/2/2025
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/12/2021
-  expiration_date: 1/12/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/12/2021
@@ -2050,14 +2068,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/28/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/28/2000

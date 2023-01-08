@@ -101,7 +101,6 @@
 | 6/19/2015 | 15-0802 | Strangulation Overview | Passed | 0.0 | 2.00 |
 | 6/19/2015 | 15-0829 | Investigating Officer Involved Shootings | Passed | 0.0 | 1.50 |
 | 6/19/2015 | 15-0104 | ASP / OC | Passed | 0.0 | 1.00 |
-| 5/21/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 5/6/2015 | 15-0823 | Eye Witness Evidence | Passed | 0.0 | 1.00 |
 | 4/22/2015 | 15-0568 | Oregon Tactical Officers Association Conference | Passed | 0.0 | 16.00 |
 | 4/21/2015 | 15-0132 | Firearms Qualification | Passed | 0.0 | 3.00 |

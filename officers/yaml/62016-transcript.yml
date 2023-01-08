@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/19/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/16/2022
   course: PDP40447
   title: 2022 MCDA Probable Cause Refresher Training

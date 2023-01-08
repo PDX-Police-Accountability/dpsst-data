@@ -74,6 +74,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/27/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/27/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/7/2022
+  course: PDP44436
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/7/2022
+  course: PDP26920
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/14/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -272,12 +308,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/13/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/13/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
@@ -3085,14 +3115,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/16/2021
-  expiration_date: 6/16/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/16/2021
@@ -3101,14 +3123,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/17/2003

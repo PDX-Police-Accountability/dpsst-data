@@ -31,7 +31,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 5/15/2012 |  |
-| Code of Ethics | Signed | 5/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -42,7 +41,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/2/2022 | REG04546 | Evidence Collection/Investigation | Passed | 0.0 | 4.00 |
 | 2/1/2022 | FSS42466 | Ethics: Insight to Principle Policing | Passed | 0.0 | 2.00 |
-| 2/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 6/28/2021 | F6E02374 | OIS | Passed | 0.0 | 4.00 |
 | 3/30/2021 | BPT01222 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 6/17/2020 | F6D01911 | Firearms Training | Passed | 0.0 | 2.00 |

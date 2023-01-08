@@ -38,6 +38,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/26/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/20/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2022
+  course: PDP44436
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/18/2022
+  course: PDP26920
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/26/2022
   course: PDP15523
   title: 2022-5 CAO Legal Updates for 05/2022
@@ -200,12 +224,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/23/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/23/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
@@ -3457,10 +3475,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/29/2022
   expiration_date: 3/29/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/29/2022
-  expiration_date: 3/29/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -3469,18 +3483,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/10/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/10/2010

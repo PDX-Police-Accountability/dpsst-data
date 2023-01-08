@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 4/7/2021 | 4/7/2023 |
-| Certification Cards | First Aid and CPR | 4/7/2021 | 4/7/2023 |
-| Code of Ethics | Signed | 2/26/2013 |  |
 | Code of Ethics | Signed | 2/26/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 11/25/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/15/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/15/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

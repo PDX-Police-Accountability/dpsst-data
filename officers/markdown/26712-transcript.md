@@ -431,7 +431,6 @@
 | 5/31/2015 | 15-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 5/28/2015 | PPB23717 | SERT Tactical Scenario 2015 Training | Passed | 0.0 | 8.00 |
 | 5/27/2015 | PPB23716 | SERT Firearms 2015 Training | Passed | 0.0 | 9.00 |
-| 5/21/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 5/14/2015 | PPB23717 | SERT Tactical Scenario 2015 Training | Passed | 0.0 | 8.00 |
 | 5/13/2015 | PPB23716 | SERT Firearms 2015 Training | Passed | 0.0 | 20.00 |
 | 5/10/2015 | PPB23717 | SERT Tactical Scenario 2015 Training | Passed | 0.0 | 8.00 |
@@ -447,7 +446,6 @@
 | 2/18/2015 | 15-0138 | SERT Firearms Training | Passed | 0.0 | 5.00 |
 | 2/18/2015 | 15-0255 | SERT Training | Passed | 0.0 | 5.00 |
 | 2/17/2015 | 15-0255 | SERT Training | Passed | 0.0 | 10.00 |
-| 2/12/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 2/12/2015 | F6E36930 | OSP SWAT Training | Instructed | 0.0 | 4.00 |
 | 2/5/2015 | 15-0138 | SERT Firearms Training | Passed | 0.0 | 10.00 |
 | 2/4/2015 | 15-0255 | SERT Training | Passed | 0.0 | 10.00 |

@@ -32,14 +32,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
-| Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Code of Ethics | Signed | 5/11/2001 |  |
 | Code of Ethics | Signed | 5/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2022 | HBS33359 | Open Range | Passed | 0.0 | 1.00 |
 | 11/8/2022 | HBS43901 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |
@@ -59,13 +55,11 @@
 | 9/13/2022 | HBS06667 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/13/2022 | HBS42005 | EVO September 2022 In-Service | Passed | 0.0 | 4.00 |
 | 8/31/2022 | HBS24217 | Heat Illness Prevention | Passed | 0.0 | 0.75 |
-| 8/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 7.00 |
 | 8/30/2022 | HBS16128 | Slow Clears Controlled Entry with K9 | Passed | 0.0 | 7.00 |
 | 8/15/2022 | HBS25002 | Rifle Update | Passed | 0.0 | 8.00 |
 | 6/16/2022 | HBS27141 | MFF Scenario Day | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS34046 | MFF Basic Drills | Passed | 0.0 | 3.00 |
 | 6/9/2022 | HBS39068 | Peer Support | Passed | 0.0 | 7.50 |
-| 5/23/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.50 |
 | 5/23/2022 | HBS23543 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 5/23/2022 | HBS30511 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
 | 5/23/2022 | HBS14734 | Airway Circulation Training | Passed | 0.0 | 2.00 |

@@ -22,13 +22,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/19/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 9/19/2018 |  |
-| Code of Ethics | Signed | 9/14/2017 |  |
 | Code of Ethics | Signed | 9/14/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +33,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/26/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/26/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 12/12/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/12/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/12/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 12/9/2022 | BPT07811 | FBI Crisis Negotiations Course | Passed | 0.0 | 36.00 |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 11/17/2022 | PDP41896 | 2022 CNT Annual Training | Passed | 0.0 | 18.00 |
@@ -51,6 +53,7 @@
 | 9/25/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 9/24/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
 | 9/24/2022 | PDP25389 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
+| 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
 | 9/15/2022 | PDP41648 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 9/6/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
@@ -70,6 +73,7 @@
 | 7/6/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/6/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/5/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/23/2022 | PDP10363 | Crisis Negotiation Training | Passed | 0.0 | 18.00 |
 | 6/6/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/31/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/31/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

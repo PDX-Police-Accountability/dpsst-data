@@ -22,11 +22,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/28/2021 | 5/28/2023 |
-| Certification Cards | First Aid and CPR | 5/28/2021 | 5/28/2023 |
-| Code of Ethics | Signed | 3/24/2005 |  |
 | Code of Ethics | Signed | 3/24/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +33,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/6/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/6/2022 | PDP42302 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
+| 12/6/2022 | PDP06552 | UDAR Guide - Approving | Passed | 0.0 | 0.25 |
+| 12/6/2022 | PDP00123 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
+| 12/6/2022 | PDP14163 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
+| 12/6/2022 | PDP21373 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
 | 11/14/2022 | PDP36804 | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 11/14/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/14/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |

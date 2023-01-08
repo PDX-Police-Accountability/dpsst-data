@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
-| Code of Ethics | Signed | 6/25/2009 |  |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
+| 12/31/2022 | OCP12928 | Daily Training Bulletins | Passed | 0.0 | 8.50 |
 | 12/28/2022 | OCP22978 | Taser Training | Passed | 0.0 | 4.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2022 | OCP18972 | LEDS Training | Passed | 0.0 | 1.00 |

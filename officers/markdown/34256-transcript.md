@@ -33,16 +33,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/23/2022 | 2/14/2024 |
-| Certification Cards | First Aid and CPR | 2/23/2022 | 2/14/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid | 2/1/2021 | 2/1/2023 |
 | Certification Cards | CPR | 2/1/2021 | 2/1/2023 |
-| Certification Cards | First Aid | 2/1/2021 | 2/1/2023 |
-| Certification Cards | CPR | 2/1/2021 | 2/1/2023 |
-| Code of Ethics | Signed | 2/27/2003 |  |
 | Code of Ethics | Signed | 2/27/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -63,7 +57,6 @@
 | 2/23/2022 | BVP18356 | CPR/First Aid Adult and Child Recertification | Passed | 0.0 | 2.00 |
 | 2/23/2022 | BVP38644 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 2/23/2022 | BVP07767 | Diversity, Equity and Inclusion | Passed | 0.0 | 3.00 |
-| 2/9/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 2/9/2022 | BVP10445 | City of Beaverton Procurement/COBID Training | Passed | 0.0 | 0.50 |
 | 1/27/2022 | BVP19328 | Diversity, Equity, and Inlclusion Training | Passed | 0.0 | 3.00 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |

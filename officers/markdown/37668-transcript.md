@@ -34,11 +34,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 7/2/2001 |  |
 | Code of Ethics | Signed | 7/2/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,7 +45,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/9/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/8/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |
+| 12/1/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/16/2022 | PDP41896 | 2022 CNT Annual Training | Passed | 0.0 | 9.00 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
@@ -345,6 +346,7 @@
 | 2/22/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/16/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 2/16/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
+| 1/31/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 72.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
 | 1/18/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/18/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |

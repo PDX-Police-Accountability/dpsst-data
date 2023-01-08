@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/14/2022
+  course: F6R28547
+  title: 2022 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/17/2022
   course: PDP07684
   title: Crisis Negotiation Team Annual Training
@@ -29,6 +35,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 9/21/2022
+  course: PDP29000
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 9/16/2022
   course: PDP22671
   title: IS-700 National Incident Management System
@@ -53,6 +65,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/23/2022
+  course: PDP10363
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 6/9/2022
   course: PDP38472
   title: SharePoint Lesson Plan Training

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/14/2022
+  course: F6R28547
+  title: 2022 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/30/2022
   course: PDP15523
   title: 2022-5 CAO Legal Updates for 05/2022
@@ -128,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/21/2022
+  course: PDP29000
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 9/8/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv
@@ -230,6 +242,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 6/23/2022
+  course: PDP10363
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 6/16/2022
   course: PDS24124
   title: Officer Involved Shootings Investigations
@@ -4301,26 +4319,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
   expiration_date: 5/26/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/23/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/23/2011

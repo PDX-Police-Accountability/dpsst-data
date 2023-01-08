@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/31/2021 | 5/31/2023 |
-| Certification Cards | First Aid and CPR | 5/31/2021 | 5/31/2023 |
-| Code of Ethics | Signed | 10/12/2005 |  |
 | Code of Ethics | Signed | 10/12/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/6/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/28/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/28/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/15/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
@@ -77,7 +75,6 @@
 | 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/5/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/22/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/15/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
@@ -328,6 +325,7 @@
 | 2/5/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 2/4/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 2/4/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
+| 1/31/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 72.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
 | 1/3/2019 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |

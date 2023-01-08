@@ -125,7 +125,6 @@
 | 9/18/2015 | 15-0143 | Handgun Training | Passed | 0.0 | 2.00 |
 | 9/3/2015 | 15-0246 | Prisoner / Inmate - Other Use of Force Training | Passed | 0.0 | 2.00 |
 | 9/3/2015 | 15-0267 | Tactical Movement | Passed | 0.0 | 2.00 |
-| 9/2/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 8/26/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 8.00 |
 | 8/20/2015 | F6C17019 | Approaching Alzheimer's | Passed | 0.0 | 1.00 |
 | 6/19/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 40.00 |

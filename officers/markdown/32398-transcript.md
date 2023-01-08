@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Code of Ethics | Signed | 9/27/2005 |  |
 | Code of Ethics | Signed | 9/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/12/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/12/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/23/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/7/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
@@ -48,6 +47,7 @@
 | 10/6/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 9/29/2022 | PDP44770 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/27/2022 | PDP12607 | FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
+| 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
 | 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Instructed | 0.0 | 7.00 |
 | 8/23/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/23/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
@@ -69,6 +69,7 @@
 | 6/30/2022 | PDP10136 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP25519 | Dir 0835.20, Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP27155 | Dir 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 6/23/2022 | PDP10363 | Crisis Negotiation Training | Passed | 0.0 | 18.00 |
 | 6/14/2022 | PDP43746 | Geography Training | Instructed | 0.0 | 2.00 |
 | 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -76,6 +77,7 @@
 | 5/12/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/10/2022 | PDP20915 | Policy and Procedure Training | Instructed | 0.0 | 7.00 |
+| 5/4/2022 | PDP05287 | WSHNA annual conference | Passed | 0.0 | 32.00 |
 | 4/11/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Instructed | 0.0 | 7.00 |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |

@@ -30,5 +30,17 @@ training_records:
   status: Pending
   score: '0.0'
   hours: '640.00'
+- date: 12/22/2022
+  course: PDP28038
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2022
+  course: PDP43065
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records: []
 education_records: []

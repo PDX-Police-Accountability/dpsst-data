@@ -28,6 +28,26 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/31/2022 | PDP03544 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP42647 | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP19078 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP37053 | 2022-1 CHO HB2928 (2021) EO Crowd Control | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP30795 | 2022-1- CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP39896 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP13094 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP21997 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP33792 | 2021-8 CAO Legal Updates for 08/2021 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP43818 | 2021-9 CAO Legal Updates for 09/2021 1.0 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP10732 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 12/31/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/31/2022 | PDP11101 | 2022-2- CAO Legal Updates for 02/2022 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP38192 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP13345 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP14670 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 12/31/2022 | PDP44367 | City of Portland Bloodborne Pathogens Link | Passed | 0.0 | 1.00 |
+| 12/31/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/21/2022 | PDP21360 | Firearms Training | Passed | 0.0 | 6.00 |
 | 10/7/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 9/20/2022 | F6R07270 | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 9/12/2022 | BPT28921 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |

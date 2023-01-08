@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Code of Ethics | Signed | 3/16/2001 |  |
 | Code of Ethics | Signed | 3/16/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2022 | BPT33250 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 12/17/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/13/2022 | PDS34428 | Taser Instructor Course | Passed | 0.0 | 16.00 |
 | 12/11/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |

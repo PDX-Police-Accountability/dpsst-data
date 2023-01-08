@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Code of Ethics | Signed | 2/23/2011 |  |
 | Code of Ethics | Signed | 2/23/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/30/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 11/17/2022 | PDP41896 | 2022 CNT Annual Training | Passed | 0.0 | 18.00 |
@@ -52,6 +49,7 @@
 | 9/22/2022 | PDP25389 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
+| 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
 | 9/8/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
@@ -69,6 +67,7 @@
 | 7/14/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
 | 7/14/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 7/13/2022 | PDP31347 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 6/23/2022 | PDP10363 | Crisis Negotiation Training | Passed | 0.0 | 18.00 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Passed | 0.0 | 16.00 |
 | 6/16/2022 | PDP43669 | Officer Involved Shooting Investigation Training | Passed | 0.0 | 16.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/23/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -1911,6 +1917,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/31/2019
+  course: PDP02094
+  title: PPB 2019 Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 1/26/2019
   course: PDP11710
   title: 2018-4 City Attorney's Office Legal Updates for Q4
@@ -3510,26 +3522,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/9/2021
   expiration_date: 8/9/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/9/2021
-  expiration_date: 8/9/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/29/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/29/2011

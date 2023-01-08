@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/13/2021 | 5/13/2023 |
-| Certification Cards | First Aid and CPR | 5/13/2021 | 5/13/2023 |
-| Code of Ethics | Signed | 2/4/2005 |  |
 | Code of Ethics | Signed | 2/4/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/13/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/13/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/27/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/27/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/27/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
@@ -69,7 +68,6 @@
 | 7/18/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 7/18/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 7/18/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
-| 6/23/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 6/23/2022 | PDP14977 | Hate  Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/23/2022 | VND32811 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 3/7/2007 |  |
 | Code of Ethics | Signed | 3/7/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2022 | PDP06352 | 2022 Lead Awareness and Safety Training for FA | Passed | 0.0 | 1.25 |
+| 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/13/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/13/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |
 | 11/23/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
@@ -59,6 +59,7 @@
 | 9/26/2022 | PDP25389 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
 | 8/23/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/23/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/23/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
@@ -77,12 +78,14 @@
 | 6/30/2022 | PDP10136 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP25519 | Dir 0835.20, Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 6/30/2022 | PDP27155 | Dir 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
+| 6/23/2022 | PDP10363 | Crisis Negotiation Training | Passed | 0.0 | 18.00 |
 | 6/22/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/13/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/10/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
+| 5/4/2022 | PDP05287 | WSHNA annual conference | Passed | 0.0 | 32.00 |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 4/1/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 3/31/2022 | PDP38269 | 2021-12 City Attorney's Legal Update for Dec. 2021 | Passed | 0.0 | 0.25 |

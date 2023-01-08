@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/4/2021 | 5/4/2023 |
-| Certification Cards | First Aid and CPR | 5/4/2021 | 5/4/2023 |
 | Code of Ethics | Signed | 1/18/2013 |  |
-| Code of Ethics | Signed | 1/18/2013 |  |
-| Code of Ethics | Signed | 7/23/2012 |  |
 | Code of Ethics | Signed | 7/23/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/13/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/22/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/22/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/22/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

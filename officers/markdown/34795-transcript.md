@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/10/2004 |  |
 | Code of Ethics | Signed | 3/10/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -67,10 +63,8 @@
 | 5/30/2022 | OCS17591 | Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
-| 5/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
-| 4/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
 | 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
@@ -270,36 +264,26 @@
 | 12/4/2015 | 15-0259 | Tactical Entry | Instructed | 0.0 | 8.00 |
 | 11/30/2015 | 15-0143 | Handgun Training | Passed | 0.0 | 1.00 |
 | 11/24/2015 | 15-0112 | Control Holds  Handcuffing | Passed | 0.0 | 1.00 |
-| 11/20/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
-| 11/6/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 11/6/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 4.00 |
 | 10/31/2015 | 15-0249 | Range 3000 | Passed | 0.0 | 1.00 |
-| 10/16/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 10/9/2015 | 15-0259 | Tactical Entry | Instructed | 0.0 | 10.00 |
 | 9/30/2015 | 15-0100 | Active Shooter | Passed | 0.0 | 2.00 |
-| 9/17/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 36.00 |
 | 9/4/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 5.00 |
 | 8/31/2015 | 15-0143 | Handgun Training | Passed | 0.0 | 1.00 |
 | 8/31/2015 | 15-0117 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
-| 8/21/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 8/14/2015 | 15-0568 | Oregon Tactical Officers Association Conference | Instructed | 0.0 | 45.00 |
 | 8/7/2015 | 15-0254 | Explosive Breaching Techniques | Passed | 0.0 | 5.00 |
-| 8/7/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 7/31/2015 | 15-0143 | Handgun Training | Passed | 0.0 | 1.00 |
 | 7/16/2015 | 15-1193 | Bicycle - Basic Police Mtn Bike | Passed | 0.0 | 32.00 |
-| 7/10/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 6/30/2015 | 15-0143 | Handgun Training | Passed | 0.0 | 1.00 |
 | 6/29/2015 | 15-0115 | Ground Fighting | Passed | 0.0 | 1.00 |
 | 6/19/2015 | 15-0260 | Vehicle Assault / Hostage Rescue | Instructed | 0.0 | 10.00 |
 | 6/15/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 10.00 |
-| 5/15/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 9.00 |
 | 5/11/2015 | 15-1270 | Field Training Officer Update | Passed | 0.0 | 5.00 |
-| 5/1/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 4/17/2015 | 15-0260 | Vehicle Assault / Hostage Rescue | Passed | 0.0 | 10.00 |
 | 4/10/2015 | 15-0600 | Versadex Software Applications | Passed | 0.0 | 32.00 |
 | 4/3/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 10.00 |
 | 3/30/2015 | 15-0143 | Handgun Training | Passed | 0.0 | 1.00 |
-| 3/20/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 3/7/2015 | 15-1075 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
 | 3/6/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 5.00 |
 | 3/6/2015 | 15-0254 | Explosive Breaching Techniques | Passed | 0.0 | 4.00 |
@@ -307,7 +291,6 @@
 | 2/28/2015 | 15-0249 | Range 3000 | Passed | 0.0 | 1.00 |
 | 1/31/2015 | 15-0143 | Handgun Training | Passed | 0.0 | 1.00 |
 | 1/27/2015 | 15-0119 | Impact Weapons | Passed | 0.0 | 1.00 |
-| 1/16/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 10.00 |
 | 1/9/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 10.00 |
 | 12/31/2014 | 14-0143 | Handgun Training | Passed | 0.0 | 1.00 |
 | 12/27/2014 | 14-0114 | Defensive Tactics | Passed | 0.0 | 1.00 |

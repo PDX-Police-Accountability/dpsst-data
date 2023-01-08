@@ -22,13 +22,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/13/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 3/13/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,7 +33,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP10051 | SERT Training: Entry  HRT | Passed | 0.0 | 9.00 |
+| 11/16/2022 | PDP02231 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 11/15/2022 | PDP40525 | SERT Training: Individual Scenarios | Passed | 0.0 | 9.00 |
+| 11/14/2022 | PDP35970 | SERT Training Iteration | Passed | 0.0 | 9.00 |
 | 9/22/2022 | PDP25459 | SERT: Breaching, HRT, Gas Familiarization | Passed | 0.0 | 8.00 |
 | 9/21/2022 | PDP41584 | SERT: HRT, Scenarios, Cautious Clears | Passed | 0.0 | 6.50 |
 | 9/20/2022 | PDP24309 | SERT: Entry, Downed Officer, HRT, Scenario | Passed | 0.0 | 8.00 |

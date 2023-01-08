@@ -27,19 +27,13 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 10/19/2022 | 10/19/2024 |
-| Certification Cards | First Aid and CPR | 10/19/2022 | 10/19/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 7/9/2021 | 7/9/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/9/2021 | 7/9/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/30/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 7/30/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/19/2022 | SAG27460 | Bias Hotline / Sanctuary Promise Training | Passed | 0.0 | 1.00 |
 | 12/7/2022 | SAG07247 | ICAC 101 | Passed | 0.0 | 8.00 |
 | 11/17/2022 | SAG34789 | Firearms training | Passed | 0.0 | 2.00 |
 | 11/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |

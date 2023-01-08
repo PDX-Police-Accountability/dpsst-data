@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/25/2021 | 5/25/2023 |
-| Certification Cards | First Aid and CPR | 5/25/2021 | 5/25/2023 |
-| Code of Ethics | Signed | 3/7/2007 |  |
 | Code of Ethics | Signed | 3/7/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,7 +40,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/20/2025 | PDP03489 | Extreme Ownership: Leadership | Passed | 0.0 | 4.00 |
 | 12/29/2022 | BPT31740 | Stolen Vehicle Operation | Passed | 0.0 | 2.50 |
+| 12/19/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |
+| 12/5/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/5/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/20/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/20/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/30/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
@@ -366,6 +365,7 @@
 | 2/26/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/18/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/5/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
+| 1/31/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 72.00 |
 | 1/28/2019 | MISCMAIN | 2019 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
 | 1/19/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |

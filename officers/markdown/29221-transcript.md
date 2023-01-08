@@ -36,12 +36,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/11/2021 | 2/11/2023 |
-| Certification Cards | First Aid and CPR | 2/11/2021 | 2/11/2023 |
-| Code of Ethics | Signed | 8/6/2001 |  |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -90,7 +86,6 @@
 | 4/14/2022 | F6R11889 | The Journey to Midnight | Passed | 0.0 | 1.50 |
 | 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
-| 2/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/10/2022 | BNP38713 | Mindfulness | Passed | 0.0 | 0.50 |
 | 2/9/2022 | BNP40597 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |

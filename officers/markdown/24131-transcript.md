@@ -32,10 +32,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2022 | WLP26381 | Quarterly Firearms Training | Passed | 0.0 | 2.50 |
 | 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |
 | 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |
@@ -59,7 +57,6 @@
 | 3/11/2022 | VND24646 | Advanced Strangulation Training | Passed | 0.0 | 30.25 |
 | 3/11/2022 | VND25222 | Expert Witnesses Training | Passed | 0.0 | 3.50 |
 | 2/28/2022 | LOP21003 | EVOC (Pursuit driving, use of force) | Passed | 0.0 | 10.00 |
-| 1/26/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/26/2022 | VND44564 | 28CFR-Part23; RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |
 | 1/26/2022 | WLP15833 | WSIN/RISS Deconfliction Training | Passed | 0.0 | 1.50 |
 | 11/30/2021 | WLP29226 | CIT De-escalation Training | Passed | 0.0 | 0.50 |

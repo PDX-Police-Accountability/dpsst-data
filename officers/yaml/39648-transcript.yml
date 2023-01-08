@@ -1142,7 +1142,11 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
-attribute_records: []
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 1/31/2001
+  expiration_date: ''
 education_records:
 - date: 12/15/1999
   degree: No Degree

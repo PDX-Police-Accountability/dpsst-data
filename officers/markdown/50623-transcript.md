@@ -22,12 +22,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Certification Cards | First Aid and CPR | 5/11/2021 | 5/11/2023 |
-| Code of Ethics | Signed | 8/14/2009 |  |
 | Code of Ethics | Signed | 8/14/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +31,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/2/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 12/2/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/2/2022 | PDP13345 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 12/2/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/2/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 10/6/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 8/31/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/18/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

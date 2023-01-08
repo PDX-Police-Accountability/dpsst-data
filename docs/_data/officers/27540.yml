@@ -228,12 +228,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 1/26/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 1/26/2022
   course: VND44564
   title: 28CFR-Part23; RissIntel/Rissafe Deconfliction
   status: Passed
@@ -3850,14 +3844,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/15/2022
-  expiration_date: 7/15/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022
@@ -3866,14 +3852,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/19/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/19/2007

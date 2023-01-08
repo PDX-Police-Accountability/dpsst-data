@@ -26,9 +26,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/19/2022 | 5/19/2024 |
-| Certification Cards | First Aid and CPR | 5/19/2022 | 5/19/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 ## Education
@@ -44,7 +41,6 @@
 | 2/26/2022 | F6R24260 | Crisis Medicine | Passed | 0.0 | 8.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 1.00 |
-| 12/16/2021 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 11/19/2021 | 21-0029 | DPSST Supervision | Incomplete | 0.0 | 80.00 |
 | 10/20/2021 | F6F10746 | Dean of Student Life Training | Passed | 0.0 | 2.00 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |

@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2022
+  course: PDP44436
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2022
+  course: PDP26920
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/23/2022
   course: PDP40447
   title: 2022 MCDA Probable Cause Refresher Training
@@ -31,11 +49,11 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 11/18/2022
-  course: OCS34332
+  course: PDP36646
   title: Honor Guard Training
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '25.50'
 - date: 11/11/2022
   course: PDP33717
   title: 2022 Crowd Management
@@ -48,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/10/2022
+  course: PDP16498
+  title: ECIT Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 10/22/2022
   course: PDP28840
   title: 2022-3 CAO Legal Updates for 03/2022
@@ -1809,18 +1833,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/25/2021
-  expiration_date: 5/25/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/25/2021
@@ -1828,14 +1840,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/18/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 9/18/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/17/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

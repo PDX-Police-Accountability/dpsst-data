@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 1/15/2002 |  |
 | Code of Ethics | Signed | 1/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/27/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/27/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/27/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/15/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/15/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
@@ -332,6 +332,7 @@
 | 2/13/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 2/13/2019 | PDP15018 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 2/13/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
+| 1/31/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 72.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
 | 12/31/2018 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 1.75 |
 | 11/16/2018 | MISCMAIN | 2018 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

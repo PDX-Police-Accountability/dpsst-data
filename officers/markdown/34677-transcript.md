@@ -30,11 +30,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 11/30/2021 | 11/30/2023 |
-| Certification Cards | First Aid and CPR | 11/30/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 8/24/2000 |  |
 | Code of Ethics | Signed | 8/24/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/29/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/16/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 12/16/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/16/2022 | PDP16169 | 2022-11 EO Clarification DIR 1010.00  1015.00 | Passed | 0.0 | 0.25 |
+| 12/16/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/1/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/26/2022 | PDP27596 | 2022 Lead Awareness  Safety Trng for PPB Arms | Passed | 0.0 | 1.25 |
 | 9/26/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
@@ -76,7 +78,6 @@
 | 4/27/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/17/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/17/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/17/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/17/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/17/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/7/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
-| Code of Ethics | Signed | 5/28/2003 |  |
 | Code of Ethics | Signed | 5/28/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -67,7 +63,6 @@
 | 6/2/2022 | BNP34117 | OC Recertification | Passed | 0.0 | 0.50 |
 | 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 2/10/2022 | BNP15313 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
-| 2/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/10/2022 | BNP38713 | Mindfulness | Passed | 0.0 | 0.50 |
 | 11/30/2021 | BNP41469 | Harassment  Hostile Work Environment | Passed | 0.0 | 1.00 |
 | 11/16/2021 | F6E29888 | Adaptive Leadership | Passed | 0.0 | 0.50 |

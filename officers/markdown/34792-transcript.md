@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | 12/21/2022 | TAP39372 | Oregon CIT Newsletter December 2022 | Passed | 0.0 | 0.75 |
 | 12/21/2022 | TAP00243 | How to Survive and Ambush Attack | Passed | 0.0 | 0.75 |
 | 12/1/2022 | JKP10056 | Tazer Recertification | Passed | 0.0 | 2.00 |
+| 11/11/2022 | TAP42684 | WLO Oregon Court of Appeals Updates Nov 6 2022 | Passed | 0.0 | 0.75 |
 | 11/10/2022 | MFS14792 | EVOC pursuits, spikes, arrest tactics | Passed | 0.0 | 4.00 |
 | 11/6/2022 | TAP04074 | Officer Safety During High Risk LE Ops | Passed | 0.0 | 1.00 |
 | 11/4/2022 | ADP03169 | Taser 7 Annual Recertification | Instructed | 0.0 | 3.00 |
@@ -54,6 +51,7 @@
 | 10/11/2022 | ADP04385 | Ashland PD Night Range | Passed | 0.0 | 4.00 |
 | 10/11/2022 | TAP13086 | AXON Academy TASER Instructors Course | Passed | 0.0 | 16.00 |
 | 10/5/2022 | TAP34836 | De-escalation Strategies and Techniques | Passed | 0.0 | 0.00 |
+| 10/2/2022 | TAP23191 | WLO Oregon Supreme Court Updates October 2 2022 | Passed | 0.0 | 0.75 |
 | 9/29/2022 | TAP27813 | Case Law Darius Thompson | Passed | 0.0 | 0.75 |
 | 9/28/2022 | ADP01784 | Adult Child Infant C.A.R.E. CPR, AED, First Aid | Passed | 0.0 | 2.50 |
 | 9/27/2022 | TAP14109 | OR DOJ Bias Crimes and Incidents FayStetz Waters | Passed | 0.0 | 1.00 |
@@ -64,6 +62,7 @@
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 8/19/2022 | ADP34286 | Patrol Rifle | Passed | 0.0 | 4.00 |
 | 8/16/2022 | TAP17390 | RdyRspndrPhysicalMentalWellbeingAffectPerformance | Passed | 0.0 | 1.25 |
+| 8/16/2022 | TAP09700 | June 23, 2022 Legal Updates | Passed | 0.0 | 0.75 |
 | 8/11/2022 | TAP37130 | TASER 7 Transition/Annual Certfication | Passed | 0.0 | 0.00 |
 | 8/9/2022 | TAP42440 | Anti Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/3/2022 | TAP14761 | Anti Harassment in the Workplace | Passed | 0.0 | 1.00 |
@@ -77,7 +76,6 @@
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/17/2022 | TAP42193 | AED Refresher | Passed | 0.0 | 0.50 |
 | 3/11/2022 | ADP31469 | Firearms Training-Pistol | Passed | 0.0 | 4.00 |
-| 3/11/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 3/11/2022 | ADP41485 | 2022 ETHOS Program-Ethics | Passed | 0.0 | 3.00 |
 | 2/25/2022 | ADP34231 | Defensive Tactics-PunchDefense/BodyLocks/Takedowns | Passed | 0.0 | 4.00 |
 | 2/15/2022 | TAP00456 | Impriving Police Decision Making Under Stress | Passed | 0.0 | 1.25 |

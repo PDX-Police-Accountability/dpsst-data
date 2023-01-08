@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 1/2/2002 |  |
 | Code of Ethics | Signed | 1/2/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -222,7 +218,6 @@
 | 4/14/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
 | 3/25/2020 | PDP07236 | 2020 Training InService Wellness Stress/Resilience | Passed | 0.0 | 1.50 |
 | 3/20/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
-| 3/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/6/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
@@ -230,7 +225,6 @@
 | 2/28/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/28/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/28/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 2/12/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/12/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/2/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/8/2020 | PDP14732 | 2020 Youth Educating Police Training | Passed | 0.0 | 0.75 |

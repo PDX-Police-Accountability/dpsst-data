@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/29/2022
+  course: PDP21427
+  title: Advanced Shotgun Operator Training
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/24/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -74,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/22/2022
+  course: PDP09905
+  title: Advanced Shotgun Operator Training
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
+- date: 11/17/2022
+  course: PDP33808
+  title: Shotgun Operator Training
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
 - date: 10/27/2022
   course: PDP37189
   title: Intoxylizer 8000 Certificate Training
@@ -261,12 +279,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 5/5/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '18.00'
-- date: 5/5/2022
   course: PDP38948
   title: Advanced Shotgun Operator
   status: Instructed
@@ -320,12 +332,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/5/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/5/2022
   course: PDP26350
   title: 2022 EAP-Crisis Planning
@@ -4667,26 +4673,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/25/2021
   expiration_date: 5/25/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/25/2021
-  expiration_date: 5/25/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/20/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2010

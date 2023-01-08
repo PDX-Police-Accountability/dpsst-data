@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 2/10/2022 | 2/29/2024 |
 | Certification Cards | First Aid and CPR | 2/10/2022 | 2/29/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/5/2002 |  |
 | Code of Ethics | Signed | 9/5/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,9 +43,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 11/12/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 2.00 |
 | 11/12/2022 | TGP29975 | Motivational Ethics | Passed | 0.0 | 2.00 |
 | 10/15/2022 | TGP22586 | Annual Holding Cell Training | Passed | 0.0 | 0.50 |
+| 9/25/2022 | TGP25606 | AELE Level I Internal Affairs Investigator | Passed | 0.0 | 28.00 |
 | 9/19/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
 | 9/15/2022 | OSH42802 | Oregon Homicide Investigators Association | Passed | 0.0 | 21.00 |
 | 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
@@ -61,7 +57,6 @@
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 4.00 |
 | 5/4/2022 | TGP10528 | Redefining Adversity | Passed | 0.0 | 1.00 |
 | 4/21/2022 | TGP31467 | 2022 ACAP Training | Passed | 0.0 | 2.00 |
-| 4/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 12.00 |
 | 4/6/2022 | TGP14188 | OWLA Spring Conference | Passed | 0.0 | 12.00 |
 | 3/16/2022 | TGP20313 | Domestic Violence Training | Passed | 0.0 | 1.00 |
 | 3/3/2022 | TGP12508 | Less Lethal Impact Munitions as Distraction Device | Passed | 0.0 | 1.00 |

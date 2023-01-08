@@ -22,13 +22,13 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/15/2022 | 4/15/2024 |
-| Certification Cards | First Aid and CPR | 4/15/2022 | 4/15/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/3/2023 | MNP10907 | Ethics training 2022 | Passed | 0.0 | 1.00 |
 | 11/18/2022 | MNP43650 | Firearms Night Qualifications | Passed | 0.0 | 4.00 |
 | 11/18/2022 | MNP22038 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/3/2022 | MNP24260 | S.T.O.P. data refresher training | Passed | 0.0 | 0.50 |

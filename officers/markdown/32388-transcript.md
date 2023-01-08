@@ -24,13 +24,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 10/13/2022 | 10/13/2024 |
-| Certification Cards | First Aid and CPR | 10/13/2022 | 10/13/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 6/19/2003 |  |
 | Code of Ethics | Signed | 6/19/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/15/2022 | GSP43316 | 2022 Ethics In Service | Passed | 0.0 | 1.00 |
 | 12/7/2022 | GSP11722 | Red Dot Transition | Instructed | 0.0 | 30.00 |
 | 12/1/2022 | LCP27290 | Homicide and Crime Scene Investigations | Passed | 0.0 | 20.00 |
 | 10/13/2022 | GSP17921 | CPR and First Aid | Passed | 0.0 | 2.50 |
@@ -50,7 +49,6 @@
 | 4/8/2022 | GSP16273 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |
 | 3/10/2022 | GSP44332 | Bank Robbery (Tracker) Tracker | Passed | 0.0 | 1.00 |
 | 3/4/2022 | F6R40127 | SWAT Sniper Firearms Training | Instructed | 0.0 | 10.00 |
-| 2/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/22/2022 | VND28317 | 28CFR-Part23; RissIntel/Rissafe Deconfliction | Passed | 0.0 | 2.00 |
 | 2/22/2022 | VND28531 | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 2/16/2022 | PDS09811 | Inattentional Blindness  Major Crimes | Passed | 0.0 | 2.00 |
@@ -202,11 +200,9 @@
 | 5/12/2015 | 15-0952 | CPR / First Aid | Passed | 0.0 | 9.00 |
 | 5/11/2015 | 15-0129 | Firearms Training | Instructed | 0.0 | 9.00 |
 | 4/27/2015 | 15-0183 | Firearms Instructor Developement Course | Passed | 0.0 | 9.00 |
-| 4/23/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 4/22/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 9.00 |
 | 3/27/2015 | 15-0700 | CAD End User Training | Passed | 0.0 | 8.00 |
 | 2/27/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 9.00 |
-| 2/26/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 12/16/2014 | 14-0994 | CPR / First Aid Instructor Development Course | Passed | 0.0 | 2.00 |
 | 12/11/2014 | 14-0257 | SWAT Training | Passed | 0.0 | 9.00 |
 | 12/10/2014 | 14-0174 | SWAT / Sniper Firearms | Instructed | 0.0 | 9.00 |

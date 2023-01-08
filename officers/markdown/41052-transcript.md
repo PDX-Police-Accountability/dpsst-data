@@ -67,7 +67,6 @@
 | 4/28/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/28/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/28/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/24/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/24/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
@@ -332,6 +331,7 @@
 | 2/24/2019 | PDP12115 | 2019-1 TT Ext Vest Equip Requirements and Recs | Passed | 0.0 | 0.25 |
 | 2/15/2019 | PDP25362 | 2019-1 City Attorney's Legal Updates for Jan 2019 | Passed | 0.0 | 0.50 |
 | 2/9/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
+| 1/31/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 72.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
 | 1/18/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/18/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |

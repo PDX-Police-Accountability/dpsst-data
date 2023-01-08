@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/27/2021 | 6/27/2023 |
-| Certification Cards | First Aid and CPR | 6/27/2021 | 6/27/2023 |
-| Code of Ethics | Signed | 9/29/2003 |  |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 12/8/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 11/28/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/28/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/28/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

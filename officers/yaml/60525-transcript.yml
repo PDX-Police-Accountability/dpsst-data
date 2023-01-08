@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/15/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -36,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/10/2022
+  course: PDP16498
+  title: ECIT Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 11/9/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -1311,26 +1335,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/19/2021
   expiration_date: 5/19/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/19/2021
-  expiration_date: 5/19/2023
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/20/2020
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/20/2020

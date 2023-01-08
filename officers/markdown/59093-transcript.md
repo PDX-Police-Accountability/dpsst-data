@@ -25,16 +25,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/18/2021 | 6/18/2023 |
 | Certification Cards | First Aid and CPR | 6/18/2021 | 6/18/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 12/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
-| Code of Ethics | Telecommunication Signed | 1/13/2019 |  |
 | Code of Ethics | Telecommunication Signed | 1/13/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,10 +36,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 12/18/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 12/18/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/18/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 11/18/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP00215 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP32811 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP16498 | ECIT Training | Passed | 0.0 | 36.00 |
 | 9/25/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/11/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/11/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |

@@ -22,13 +22,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Code of Ethics | Law Enforcement Signed | 10/2/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 10/2/2018 |  |
-| Code of Ethics | Signed | 9/14/2017 |  |
 | Code of Ethics | Signed | 9/14/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/9/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/5/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/5/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 12/2/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/2/2022 | PDP16169 | 2022-11 EO Clarification DIR 1010.00  1015.00 | Passed | 0.0 | 0.25 |
 | 11/3/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/29/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/29/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |

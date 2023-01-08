@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2022
+  course: WLP26381
+  title: Quarterly Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 12/15/2022
   course: SMP09331
   title: 'Sex Offenders: What Every MDT Member Should Know'
@@ -183,12 +189,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
-- date: 1/26/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 1/26/2022
   course: VND44564
   title: 28CFR-Part23; RissIntel/Rissafe Deconfliction
@@ -2660,22 +2660,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022
   expiration_date: 7/15/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/15/2022
-  expiration_date: 7/15/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2021

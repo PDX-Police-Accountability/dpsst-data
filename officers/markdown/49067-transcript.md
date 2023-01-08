@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/6/2008 |  |
 | Code of Ethics | Signed | 3/6/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,13 +36,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | OCS04927 | FARO Scanner Certification | Passed | 0.0 | 24.00 |
+| 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
+| 12/5/2022 | OCS31491 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/22/2022 | OCS39690 | Field Training Officer class | Passed | 0.0 | 24.00 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 10/14/2022 | OCS04425 | Interferring with a Peace Officer Statue update | Passed | 0.0 | 0.75 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/20/2022 | OCS20366 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
@@ -59,10 +56,8 @@
 | 5/27/2022 | OCS39091 | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
-| 5/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
-| 4/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |

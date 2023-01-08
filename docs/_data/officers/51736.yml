@@ -38,6 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/25/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/25/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/25/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/23/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -62,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/16/2022
+  course: PDP02231
+  title: SERT Training - Firearms
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/15/2022
   course: PDP40525
   title: 'SERT Training: Individual Scenarios'
@@ -74,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/14/2022
+  course: PDP35970
+  title: SERT Training Iteration
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/3/2022
   course: PDP22960
   title: 'SERT: HRT, Entry, Cautious Clears, etc.'
@@ -3451,14 +3481,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/14/2021
-  expiration_date: 6/14/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/14/2021
@@ -3467,14 +3489,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/3/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/3/2011

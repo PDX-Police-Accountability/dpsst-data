@@ -26,16 +26,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
-| Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Signed | 10/6/2017 |  |
 | Code of Ethics | Signed | 10/6/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,7 +38,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
+| 12/31/2022 | OCP12928 | Daily Training Bulletins | Passed | 0.0 | 8.50 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/5/2022 | OCS31491 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 11/30/2022 | OCP02181 | Legislative Updates | Passed | 0.0 | 0.75 |
 | 11/17/2022 | OCP34531 | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 10/12/2022 | OCP32451 | Firearms/Use of Force | Passed | 0.0 | 20.00 |
@@ -54,6 +50,7 @@
 | 8/30/2022 | OCP44010 | Marijuana Impaired Driving Briefing Training | Passed | 0.0 | 0.50 |
 | 8/18/2022 | OCP07088 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 7/31/2022 | OCP27322 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 7/26/2022 | OCP11327 | Report Writing: 5 Key Elements | Passed | 0.0 | 3.00 |
 | 6/30/2022 | OCP23946 | Daily Training Bulletins | Passed | 0.0 | 5.50 |
 | 6/23/2022 | OCP33494 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/28/2022 | OCP09933 | Firearms/Use of Force | Passed | 0.0 | 4.00 |

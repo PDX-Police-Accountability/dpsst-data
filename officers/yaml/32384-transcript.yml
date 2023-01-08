@@ -268,12 +268,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/1/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 4/1/2022
   course: PDP03030
   title: Dir 0630.60, Vehicle Disposition and Impoundment
   status: Passed
@@ -6440,14 +6434,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/1/2021
   expiration_date: 6/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/20/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2010

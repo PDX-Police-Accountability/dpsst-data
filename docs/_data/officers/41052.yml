@@ -232,12 +232,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/13/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 4/13/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
   status: Passed
@@ -1821,6 +1815,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/31/2019
+  course: PDP02094
+  title: PPB 2019 Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 1/23/2019
   course: PDP28048
   title: 2.02 for Managers and Supervisors

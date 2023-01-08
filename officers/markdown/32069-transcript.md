@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2022 | HBS39606 | Active Threat | Passed | 0.0 | 9.00 |
 | 12/15/2022 | REG41163 | Guard Bottom - sweeps, reversals | Passed | 0.0 | 1.00 |
 | 12/14/2022 | SDP18151 | Handgun Qualification/Table Top Scenarios | Passed | 0.0 | 5.00 |
 | 12/14/2022 | SDP19796 | Police Reform New Legislation | Passed | 0.0 | 1.50 |

@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/31/2021 | 5/31/2023 |
-| Certification Cards | First Aid and CPR | 5/31/2021 | 5/31/2023 |
-| Code of Ethics | Signed | 7/16/2015 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,9 +33,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/23/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/23/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/23/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP10051 | SERT Training: Entry  HRT | Passed | 0.0 | 9.00 |
+| 11/16/2022 | PDP02231 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 11/15/2022 | PDP40525 | SERT Training: Individual Scenarios | Passed | 0.0 | 9.00 |
 | 11/14/2022 | PDP13996 | 2022 Lead Awareness  Safety Training for Inst | Passed | 0.0 | 1.25 |
 | 11/14/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |

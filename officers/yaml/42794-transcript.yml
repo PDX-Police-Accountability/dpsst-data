@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/28/2022
+  course: OCS33699
+  title: Marksmanship/Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/21/2022
   course: OCS27159
   title: Marksmanship, Shoot/No-Shoot Decision Making
@@ -380,12 +386,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 5/19/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/13/2022
   course: OCS34450
   title: May 2022 New Hire Firearms
@@ -3343,14 +3343,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022
@@ -3359,14 +3351,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2003

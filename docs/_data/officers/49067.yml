@@ -56,6 +56,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 12/28/2022
+  course: OCS33699
+  title: Marksmanship/Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/5/2022
+  course: OCS31491
+  title: Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/30/2022
   course: OCS15169
   title: Target zone transitions, marksmanship
@@ -87,12 +99,6 @@ training_records:
   score: '0.0'
   hours: '0.75'
 - date: 9/28/2022
-  course: MISCMAIN
-  title: 2022 LE Annual Maintenance
-  status: Completed
-  score: '0.0'
-  hours: '0.00'
-- date: 9/15/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
   status: Completed
@@ -170,12 +176,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 5/19/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/3/2022
   course: OCS03360
   title: HB 2513 Airway and Circulation
@@ -185,12 +185,6 @@ training_records:
 - date: 4/30/2022
   course: OCS31075
   title: Weapons Disarm
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/30/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -3523,14 +3517,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022
@@ -3539,14 +3525,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/6/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/6/2008

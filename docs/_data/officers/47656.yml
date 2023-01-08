@@ -44,6 +44,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2022
+  course: F6R28547
+  title: 2022 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/28/2022
   course: PDP15523
   title: 2022-5 CAO Legal Updates for 05/2022
@@ -128,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/21/2022
+  course: PDP29000
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 8/23/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv
@@ -248,6 +278,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/23/2022
+  course: PDP10363
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 6/14/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens
@@ -272,6 +308,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/4/2022
+  course: PDP05287
+  title: WSHNA annual conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 4/14/2022
   course: PDP03522
   title: 2022 Queer Policy Pronouns
@@ -1904,6 +1946,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/31/2019
+  course: PDP02094
+  title: PPB 2019 Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 1/28/2019
   course: MISCMAIN
   title: 2019 LE Basic 3 Year Maintenance
@@ -4513,14 +4561,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
@@ -4529,14 +4569,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/8/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/8/2007

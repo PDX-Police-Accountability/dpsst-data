@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/21/2022 | OCS27159 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
 | 12/20/2022 | OCS01142 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
@@ -94,7 +91,6 @@
 | 5/20/2022 | OCS19690 | June 2022 FTU Inservice Training | Passed | 0.0 | 5.00 |
 | 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
-| 5/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 5/13/2022 | OCS34450 | May 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/25/2022 | OCS11374 | K9 Firearms - Marksmanship | Instructed | 0.0 | 2.00 |

@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/25/2021 | 5/25/2023 |
-| Certification Cards | First Aid and CPR | 5/25/2021 | 5/25/2023 |
-| Code of Ethics | Signed | 10/8/2001 |  |
 | Code of Ethics | Signed | 10/8/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2022 | PDP05863 | 2020 Managing Critical Incidents Well Sgts Role | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP42302 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
+| 12/22/2022 | PDP18902 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 12/22/2022 | PDP06552 | UDAR Guide - Approving | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP00123 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP14163 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP21373 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 12/15/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/15/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/15/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/18/2022 | OCS34332 | Honor Guard Training | Passed | 0.0 | 24.00 |
 | 11/11/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/11/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

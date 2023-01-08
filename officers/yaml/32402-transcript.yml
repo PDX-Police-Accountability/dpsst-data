@@ -117,12 +117,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 7/12/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 7/12/2022
   course: HBS41060
   title: Detective Building Search/Warrants
   status: Passed
@@ -182,12 +176,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
-- date: 1/26/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 1/26/2022
   course: HBS35085
   title: Employee Wellness
@@ -2983,14 +2971,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 1/26/2022
-  expiration_date: 1/26/2024
 - topic: Certification Cards
   value: First Aid
   effective_date: 1/26/2022
@@ -2999,22 +2979,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2021
   expiration_date: 1/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/31/2021
-  expiration_date: 1/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2002

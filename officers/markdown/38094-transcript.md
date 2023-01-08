@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/9/2021 | 6/9/2023 |
-| Certification Cards | First Aid and CPR | 6/9/2021 | 6/9/2023 |
-| Code of Ethics | Signed | 9/29/2003 |  |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/9/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP21427 | Advanced Shotgun Operator Training | Instructed | 0.0 | 18.00 |
 | 11/14/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/14/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
@@ -73,7 +74,6 @@
 | 5/20/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/13/2022 | FGP20462 | NAMOA Motorcycle Training | Passed | 0.0 | 27.00 |
 | 5/13/2022 | PDP19711 | North Aerican Motor Ofc. Assoc. Training Conf. | Passed | 0.0 | 24.00 |
-| 5/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 9.00 |
 | 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Instructed | 0.0 | 9.00 |
 | 4/22/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/21/2022 | PDP03288 | Advanced Shotgun Operator Training | Instructed | 0.0 | 9.00 |

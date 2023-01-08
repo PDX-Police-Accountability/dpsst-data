@@ -190,18 +190,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 1/19/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.45'
-- date: 1/19/2022
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 1/19/2022
   course: EGP12383
   title: Chief Briefing - Leadership - January 2022
   status: Passed
@@ -1665,12 +1653,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 10/14/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 10/13/2015
   course: 15-0259
   title: Tactical Entry
@@ -1689,12 +1671,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 10/11/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '3.00'
 - date: 10/11/2015
   course: 15-0147
   title: Firearms - Less Lethal
@@ -1905,12 +1881,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/25/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 2/23/2015
   course: 15-0260
   title: Vehicle Assault / Hostage Rescue
@@ -1995,12 +1965,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 1/21/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.50'
 - date: 1/21/2015
   course: 15-0914
   title: Personal / Professional Development - Other
@@ -4628,14 +4592,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/19/2022
-  expiration_date: 1/19/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/19/2022
@@ -4644,14 +4600,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/27/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/27/2001

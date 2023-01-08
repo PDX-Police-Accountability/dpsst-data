@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/16/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -240,12 +246,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/4/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/4/2022
   course: PDP21588
   title: 2022 PIT and Ramming
@@ -3357,26 +3357,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/21/2021
   expiration_date: 7/21/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/21/2021
-  expiration_date: 7/21/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/25/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/25/2009

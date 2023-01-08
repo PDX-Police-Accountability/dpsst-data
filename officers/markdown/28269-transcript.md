@@ -35,12 +35,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/9/2021 | 2/9/2023 |
-| Certification Cards | First Aid and CPR | 2/9/2021 | 2/9/2023 |
-| Code of Ethics | Signed | 2/20/2001 |  |
 | Code of Ethics | Signed | 2/20/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -71,7 +67,6 @@
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
 | 2/9/2022 | BNP40597 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
-| 2/9/2022 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/9/2022 | BNP31744 | Mindfulness | Passed | 0.0 | 0.50 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6M27047 | Finding the Leader in You | Passed | 0.0 | 4.00 |

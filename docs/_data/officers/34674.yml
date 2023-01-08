@@ -44,6 +44,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2022
+  course: PDP05863
+  title: 2020 Managing Critical Incidents Well Sgts Role
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2022
+  course: PDP42302
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/22/2022
+  course: PDP18902
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2022
+  course: PDP06552
+  title: UDAR Guide - Approving
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2022
+  course: PDP00123
+  title: UDAR Guide - Coaches Pay
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2022
+  course: PDP14163
+  title: UDAR Guide - Requesting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/22/2022
+  course: PDP21373
+  title: HR Rule 2.02 Prohibition Against Wrkplc Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/18/2022
   course: OCS34332
   title: Honor Guard Training
@@ -3695,26 +3761,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/25/2021
   expiration_date: 5/25/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/25/2021
-  expiration_date: 5/25/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/8/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/8/2001

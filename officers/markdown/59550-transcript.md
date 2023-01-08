@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
-| Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2022 | RMP35799 | Personal Wellness / Mental Health | Passed | 0.0 | 0.00 |
 | 12/19/2022 | RMP40854 | Mental Health  Peer Support | Passed | 0.0 | 1.00 |
 | 12/2/2022 | RMP18238 | Ground Defense Jiu Jitsu | Passed | 0.0 | 4.00 |
 | 12/2/2022 | RMP23581 | Firearms Veh CQB, Target Focused Combat, HRT | Passed | 0.0 | 4.00 |

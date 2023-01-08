@@ -147,12 +147,6 @@ training_records:
   score: '0.0'
   hours: '24.00'
 - date: 7/22/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '40.00'
-- date: 7/22/2022
   course: HBS27202
   title: Practical Shooting Incident Reconstruction
   status: Passed
@@ -194,12 +188,6 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '40.00'
-- date: 5/4/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/4/2022
   course: HBS40279
   title: CART Medical Conditions at Crashes
@@ -2467,22 +2455,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/1/2022
   expiration_date: 3/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/1/2022
-  expiration_date: 3/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

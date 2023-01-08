@@ -2455,12 +2455,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 5/21/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 5/14/2015
   course: PPB23717
   title: SERT Tactical Scenario 2015 Training
@@ -2551,12 +2545,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
-- date: 2/12/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '4.00'
 - date: 2/12/2015
   course: F6E36930
   title: OSP SWAT Training

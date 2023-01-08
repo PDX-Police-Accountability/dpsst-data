@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Code of Ethics | Signed | 3/22/2010 |  |
 | Code of Ethics | Signed | 3/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -548,7 +546,6 @@
 | 5/31/2015 | 15-0169 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 5/28/2015 | PPB23717 | SERT Tactical Scenario 2015 Training | Passed | 0.0 | 8.00 |
 | 5/27/2015 | PPB23716 | SERT Firearms 2015 Training | Passed | 0.0 | 9.00 |
-| 5/21/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 5/14/2015 | PPB23717 | SERT Tactical Scenario 2015 Training | Passed | 0.0 | 8.00 |
 | 5/13/2015 | PPB23716 | SERT Firearms 2015 Training | Passed | 0.0 | 20.00 |
 | 5/10/2015 | PPB23717 | SERT Tactical Scenario 2015 Training | Passed | 0.0 | 8.00 |

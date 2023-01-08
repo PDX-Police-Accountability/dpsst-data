@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/16/2022
+  course: PDP02231
+  title: SERT Training - Firearms
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/15/2022
   course: PDP40525
   title: 'SERT Training: Individual Scenarios'
@@ -5261,26 +5267,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
   expiration_date: 5/26/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/28/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/28/2009

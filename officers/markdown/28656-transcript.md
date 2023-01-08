@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
-| Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 ## Education
 | date | degree | school | major | hours |
@@ -44,8 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 11/12/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 2.00 |
 | 11/12/2022 | TGP29975 | Motivational Ethics | Passed | 0.0 | 2.00 |
 | 10/15/2022 | TGP22586 | Annual Holding Cell Training | Passed | 0.0 | 0.50 |
 | 9/15/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |

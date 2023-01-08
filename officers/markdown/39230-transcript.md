@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/29/2003 |  |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -63,8 +59,6 @@
 | 2/9/2022 | EGP44286 | Bloodborne Pathogens/Tourniquet Wound Care/HazMat | Passed | 0.0 | 2.00 |
 | 2/9/2022 | EGP25257 | Ethos "Ethics" | Passed | 0.0 | 3.00 |
 | 1/19/2022 | EGP38986 | First Aid/CPR - TCCC | Passed | 0.0 | 4.00 |
-| 1/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.45 |
-| 1/19/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/19/2022 | EGP12383 | Chief Briefing - Leadership - January 2022 | Passed | 0.0 | 0.75 |
 | 1/19/2022 | EGP36629 | DUII Refresher Course - SFST | Passed | 0.0 | 4.00 |
 | 11/17/2021 | EGP20939 | 40mm Less Lethal recertification | Passed | 0.0 | 1.00 |

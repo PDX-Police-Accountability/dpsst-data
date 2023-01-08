@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/27/2001 |  |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -62,8 +58,6 @@
 | 2/24/2022 | EGP38695 | Briefing:  Measure 110 Update | Passed | 0.0 | 0.50 |
 | 2/9/2022 | EGP25257 | Ethos "Ethics" | Passed | 0.0 | 3.00 |
 | 1/19/2022 | EGP38986 | First Aid/CPR - TCCC | Passed | 0.0 | 4.00 |
-| 1/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.45 |
-| 1/19/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 1/19/2022 | EGP12383 | Chief Briefing - Leadership - January 2022 | Passed | 0.0 | 0.75 |
 | 1/19/2022 | EGP36629 | DUII Refresher Course - SFST | Passed | 0.0 | 4.00 |
 | 12/31/2021 | 21-CVDLD | 2021 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
@@ -308,11 +302,9 @@
 | 11/18/2015 | F6C11993 | Tactical Night Shooting | Passed | 0.0 | 4.00 |
 | 10/21/2015 | 15-0274 | Taser - Other | Passed | 0.0 | 2.00 |
 | 10/21/2015 | F6C08283 | Firearms Qualification | Passed | 0.0 | 4.00 |
-| 10/14/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 10/13/2015 | 15-0259 | Tactical Entry | Passed | 0.0 | 4.00 |
 | 10/13/2015 | 15-0260 | Vehicle Assault / Hostage Rescue | Passed | 0.0 | 5.00 |
 | 10/12/2015 | 15-0265 | Stealth Clearing | Passed | 0.0 | 9.00 |
-| 10/11/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 3.00 |
 | 10/11/2015 | 15-0147 | Firearms - Less Lethal | Passed | 0.0 | 2.00 |
 | 9/30/2015 | F6C05101 | Tactical Firearms-EPD SWAT | Passed | 0.0 | 7.00 |
 | 9/23/2015 | F6C35952 | Tactical Entry - EPD SWAT | Passed | 0.0 | 4.00 |
@@ -348,7 +340,6 @@
 | 3/18/2015 | 15-0209 | K-9 Use of Force Training | Passed | 0.0 | 8.00 |
 | 3/11/2015 | 15-0209 | K-9 Use of Force Training | Passed | 0.0 | 8.00 |
 | 2/25/2015 | 15-0147 | Firearms - Less Lethal | Passed | 0.0 | 1.00 |
-| 2/25/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.00 |
 | 2/23/2015 | 15-0260 | Vehicle Assault / Hostage Rescue | Passed | 0.0 | 9.00 |
 | 2/22/2015 | 15-0265 | Stealth Clearing | Passed | 0.0 | 10.00 |
 | 2/18/2015 | 15-1116 | Legal/Legislative Update | Passed | 0.0 | 4.00 |
@@ -363,7 +354,6 @@
 | 1/21/2015 | 15-0114 | Defensive Tactics | Passed | 0.0 | 4.50 |
 | 1/21/2015 | 15-0151 | Tactical Night Shooting | Passed | 0.0 | 3.00 |
 | 1/21/2015 | 15-0175 | Tactical Firearms | Passed | 0.0 | 3.00 |
-| 1/21/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.50 |
 | 1/21/2015 | 15-0914 | Personal / Professional Development - Other | Passed | 0.0 | 0.50 |
 | 1/21/2015 | 15-0209 | K-9 Use of Force Training | Passed | 0.0 | 8.00 |
 | 1/14/2015 | 15-0209 | K-9 Use of Force Training | Passed | 0.0 | 8.00 |

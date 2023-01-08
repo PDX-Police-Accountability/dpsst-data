@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/14/2021 | 10/14/2023 |
-| Certification Cards | First Aid and CPR | 10/14/2021 | 10/14/2023 |
 | Code of Ethics | Law Enforcement Signed | 5/23/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 5/23/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,8 +37,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
 | 12/31/2022 | OCP10967 | 40mm Initial Training | Passed | 0.0 | 1.50 |
+| 12/31/2022 | OCP12928 | Daily Training Bulletins | Passed | 0.0 | 8.50 |
 | 12/28/2022 | OCP22978 | Taser Training | Passed | 0.0 | 4.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/5/2022 | OCS31491 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 11/30/2022 | OCP02181 | Legislative Updates | Passed | 0.0 | 0.75 |
 | 11/17/2022 | OCP34531 | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 10/12/2022 | OCP32451 | Firearms/Use of Force | Passed | 0.0 | 20.00 |

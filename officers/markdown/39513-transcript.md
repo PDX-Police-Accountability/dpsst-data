@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/26/2021 | 6/26/2023 |
-| Certification Cards | First Aid and CPR | 6/26/2021 | 6/26/2023 |
-| Code of Ethics | Signed | 2/3/2005 |  |
 | Code of Ethics | Signed | 2/3/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,11 +39,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/21/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/21/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP10051 | SERT Training: Entry  HRT | Instructed | 0.0 | 9.00 |
 | 11/16/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/16/2022 | PDP02231 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
 | 11/15/2022 | PDP40525 | SERT Training: Individual Scenarios | Passed | 0.0 | 9.00 |
 | 11/3/2022 | PDP22960 | SERT: HRT, Entry, Cautious Clears, etc. | Passed | 0.0 | 9.00 |
 | 10/27/2022 | PDP28992 | SERT- Rural Movement Training | Passed | 0.0 | 9.00 |
@@ -99,7 +98,6 @@
 | 4/22/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/22/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/19/2022 | PDP23266 | SERT breaching iteration training | Passed | 0.0 | 9.00 |
-| 4/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/8/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

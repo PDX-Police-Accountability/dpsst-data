@@ -25,15 +25,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Certification Cards | First Aid and CPR | 1/28/2022 | 1/1/2024 |
-| Certification Cards | First Aid and CPR | 1/28/2022 | 1/1/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 9/6/2002 |  |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 9/6/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/19/2022 | SAG27460 | Bias Hotline / Sanctuary Promise Training | Passed | 0.0 | 1.00 |
 | 11/10/2022 | SAG29613 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |
 | 11/9/2022 | SAG30474 | 2022 Organized Crime Conference | Passed | 0.0 | 0.00 |
 | 11/9/2022 | SAG07519 | 2022 Organized Crime Conference | Passed | 0.0 | 0.00 |
@@ -54,7 +52,7 @@
 | 4/14/2022 | SAG18400 | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 3/10/2022 | SAG06056 | Firearms | Passed | 0.0 | 1.50 |
 | 3/10/2022 | SAG28621 | TASER X26P Annual Recertification | Instructed | 0.0 | 1.50 |
-| 3/10/2022 | 35888 | TASER X26P Annual Recertification | Instructed | 0.0 | 1.50 |
+| 3/10/2022 | SAG27667 | TASER X26P Annual Recertification | Passed | 0.0 | 1.50 |
 | 3/3/2022 | SAG39812 | What Iconic TV Can Teach about Mandatory Reporting | Passed | 0.0 | 1.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

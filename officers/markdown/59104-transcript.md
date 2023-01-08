@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
 | Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 11/5/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 11/5/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 11/4/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +31,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2022 | PDP38563 | 2022-2 In Service ABLE | Passed | 0.0 | 2.00 |
+| 12/28/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 12/28/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 12/28/2022 | PDP21394 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 12/28/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/28/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/28/2022 | PDP19264 | 2022-2 IS MH Crisis Intervention Updates | Passed | 0.0 | 1.00 |
+| 12/28/2022 | PDP13345 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 12/28/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/28/2022 | PDP13531 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 12/28/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 12/28/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 7/21/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/21/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/21/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

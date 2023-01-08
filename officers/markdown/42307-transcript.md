@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/20/2021 | 5/20/2023 |
-| Certification Cards | First Aid and CPR | 5/20/2021 | 5/20/2023 |
-| Code of Ethics | Signed | 9/12/2002 |  |
 | Code of Ethics | Signed | 9/12/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/7/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/25/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/25/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP25259 | 2022 Adv Roadside Impaired Driving Enforcement | Instructed | 0.0 | 16.00 |
@@ -86,7 +85,6 @@
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |
 | 4/22/2022 | PDP09613 | OR DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 24.00 |
 | 4/20/2022 | OSH35174 | DRE Conference | Passed | 0.0 | 8.00 |
-| 4/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/15/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/14/2022 | PDP02322 | Standardized Field Sobriety Test Training | Instructed | 0.0 | 6.00 |
 | 4/6/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |

@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/17/2022
   course: PDP07684
   title: Crisis Negotiation Team Annual Training
@@ -109,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/19/2022
+  course: PDP29000
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/15/2022
   course: PDP41648
   title: Interview and Interrogation
@@ -247,6 +259,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/4/2022
+  course: PDP05287
+  title: WSHNA annual conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 4/21/2022
   course: PDP03288
   title: Advanced Shotgun Operator Training
@@ -2989,14 +3007,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -3004,14 +3014,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/30/2021
   expiration_date: 6/30/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/30/2021
-  expiration_date: 6/30/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/11/2016
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/11/2016

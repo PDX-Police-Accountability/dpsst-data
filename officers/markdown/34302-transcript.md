@@ -28,16 +28,11 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/12/2021 | 1/12/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Code of Ethics | Signed | 8/28/2000 |  |
 | Code of Ethics | Signed | 8/28/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,7 +42,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 1/2/2023 | GSP25014 | 2023 CPR and First Aid | Passed | 0.0 | 6.00 |
 | 12/22/2022 | VND06883 | Pedestrian Safety Enforcement Training | Passed | 0.0 | 3.00 |
+| 12/22/2022 | GSP04652 | Pedestrian Enforcement Training | Passed | 0.0 | 3.00 |
+| 12/15/2022 | GSP43316 | 2022 Ethics In Service | Passed | 0.0 | 1.00 |
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 5/25/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/21/2022 | GSP21415 | Forensic Accident Reconstructionists of Oregon | Passed | 0.0 | 24.00 |

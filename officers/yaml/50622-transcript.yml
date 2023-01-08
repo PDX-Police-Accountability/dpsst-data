@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/31/2022
+  course: OCP12928
+  title: Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
 - date: 12/28/2022
   course: OCP22978
   title: Taser Training
@@ -2282,14 +2288,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -2297,14 +2295,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/31/2021
   expiration_date: 1/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/31/2021
-  expiration_date: 1/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/25/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/25/2009

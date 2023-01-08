@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/1/2022
   course: PDP16933
   title: LEAD Values-centric Leadership
@@ -4538,14 +4544,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/29/2021
-  expiration_date: 6/29/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/29/2021
@@ -4554,14 +4552,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/3/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/3/2005

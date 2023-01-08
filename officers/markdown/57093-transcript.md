@@ -24,16 +24,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 12/30/2022 | 12/30/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 12/30/2022 | 12/30/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 11/30/2022 | 11/30/2022 |
-| Maintenance Requirements | First Aid/CPR Required | 11/30/2022 | 11/30/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 8/16/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 8/16/2019 |  |
-| Code of Ethics | Signed | 3/22/2017 |  |
 | Code of Ethics | Signed | 3/22/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/14/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/14/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/6/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/6/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

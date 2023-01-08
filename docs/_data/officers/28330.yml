@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/5/2023
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/31/2022
   course: PPP35492
   title: Emotional Intelligence
@@ -299,12 +305,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/14/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/14/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
@@ -3911,10 +3911,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -3922,18 +3918,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021

@@ -22,13 +22,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
 | Code of Ethics | Law Enforcement Signed | 11/19/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 11/19/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/13/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/22/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/22/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/10/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |

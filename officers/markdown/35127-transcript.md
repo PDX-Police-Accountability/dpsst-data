@@ -28,13 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/15/2007 |  |
 | Code of Ethics | Signed | 3/15/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,12 +41,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/19/2022 | SAG27460 | Bias Hotline / Sanctuary Promise Training | Passed | 0.0 | 1.00 |
 | 10/18/2022 | SAG38557 | Night / low light shooting courses | Passed | 0.0 | 2.00 |
 | 8/9/2022 | SAG12608 | First Aid / Adult  Infant CPR/ AED | Passed | 0.0 | 4.00 |
 | 5/26/2022 | SAG11522 | Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 2/28/2022 | SAG38963 | Crisis Cops - Law Enforcement Campaign | Passed | 0.0 | 3.00 |
 | 2/17/2022 | SAG18841 | Firearms | Passed | 0.0 | 1.50 |
-| 2/17/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 2/17/2022 | SAG33300 | TASER X26P Annual Recertification | Passed | 0.0 | 1.50 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/18/2022 | SAG38967 | Firearms | Passed | 0.0 | 2.00 |

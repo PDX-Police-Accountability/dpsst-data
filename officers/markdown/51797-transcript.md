@@ -294,6 +294,7 @@
 | 2/13/2019 | PDP17574 | 2019 Det Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 2/5/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 2/5/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
+| 1/29/2019 | PDP02094 | PPB 2019 Sergeants Academy | Passed | 0.0 | 54.00 |
 | 1/23/2019 | PDP28048 | 2.02 for Managers and Supervisors | Passed | 0.0 | 2.00 |
 | 12/20/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/6/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |

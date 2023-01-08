@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/11/2022
+  course: TAP42684
+  title: WLO Oregon Court of Appeals Updates Nov 6 2022
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/10/2022
   course: MFS14792
   title: EVOC pursuits, spikes, arrest tactics
@@ -128,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 10/2/2022
+  course: TAP23191
+  title: WLO Oregon Supreme Court Updates October 2 2022
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/29/2022
   course: TAP27813
   title: Case Law Darius Thompson
@@ -188,6 +200,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 8/16/2022
+  course: TAP09700
+  title: June 23, 2022 Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 8/11/2022
   course: TAP37130
   title: TASER 7 Transition/Annual Certfication
@@ -266,12 +284,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 3/11/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
 - date: 3/11/2022
   course: ADP41485
   title: 2022 ETHOS Program-Ethics
@@ -3325,14 +3337,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 9/28/2022
-  expiration_date: 9/28/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/28/2022
@@ -3341,14 +3345,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/10/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/10/2008

@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/29/2006 |  |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS37740 | Taser Refresher Course | Passed | 0.0 | 1.00 |
 | 11/22/2022 | OCS39690 | Field Training Officer class | Passed | 0.0 | 24.00 |

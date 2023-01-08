@@ -28,7 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 2/3/2011 |  |
-| Code of Ethics | Signed | 2/3/2011 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,6 +36,47 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/18/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP17209 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP16533 | 2020-12 CAO Legal Updates for 12/2020 - Updated | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP15284 | 2021 Online IS Language Access Translation | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP38142 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
+| 12/7/2022 | PDP41909 | 2021 Online In-Service Training Procedural Justice | Passed | 0.0 | 0.75 |
+| 12/7/2022 | PDP35706 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 12/7/2022 | PDP10454 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP01166 | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP17250 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP13052 | 2022 Vocabulary in the LGBTQIA2S+ Queer Comm | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP30192 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP21394 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 12/7/2022 | PDP28038 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP25675 | 2021-1 CAO Legal Updates for 01/2021 | Passed | 0.0 | 0.50 |
+| 12/7/2022 | PDP39896 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP36431 | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP13094 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP21896 | 2021-11 TT Unlawful St Takeovers or Unlawful | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP10897 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP09438 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 12/7/2022 | PDP15318 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 12/7/2022 | PDP11501 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP42710 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP23762 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP15343 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 12/7/2022 | PDP27466 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/7/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP16169 | 2022-11 EO Clarification DIR 1010.00  1015.00 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP19312 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 12/7/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP06303 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
+| 12/7/2022 | PDP40860 | Annual CIU NTR Alarm Response Training Reed | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP13531 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP14912 | DIR 640.38 Interacting w Mmbrs of the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP41652 | DIR 630.15, Foot Pursuits | Passed | 0.0 | 0.50 |
+| 12/7/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP36804 | 2020 Trng Managing Critical Incidents Well Sgts | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP18833 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
 | 11/29/2022 | PDP28492 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

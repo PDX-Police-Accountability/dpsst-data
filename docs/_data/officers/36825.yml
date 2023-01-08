@@ -44,6 +44,180 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/29/2022
+  course: PDP22307
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/29/2022
+  course: PDP13052
+  title: 2022 Vocabulary in the LGBTQIA2S+ Queer Comm
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/29/2022
+  course: PDP09438
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/29/2022
+  course: PDP42710
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/29/2022
+  course: PDP27466
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2022
+  course: PDP21394
+  title: 2022-1 Tips and Techniques Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/23/2022
+  course: PDP39120
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2022
+  course: PDP15343
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/23/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/23/2022
+  course: PDP44367
+  title: City of Portland Bloodborne Pathogens Link
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/23/2022
+  course: PDP13531
+  title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/23/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/17/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/17/2022
+  course: PDP14670
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/16/2022
+  course: PDP30795
+  title: 2022-1- CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2022
+  course: PDP11101
+  title: 2022-2- CAO Legal Updates for 02/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2022
+  course: PDP13345
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2022
+  course: PDP30192
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2022
+  course: PDP15318
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2022
+  course: PDP11501
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP39896
+  title: 2021-10 CAO Legal Updates for 10/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP13094
+  title: 2021-11 CAO Legal Updates for 11/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP21997
+  title: 2021-12 CAO Legal Updates for 12/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP06733
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP23762
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP44436
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/9/2022
+  course: PDP19312
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/9/2022
+  course: PDP26920
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/21/2022
   course: PDP30218
   title: 2021 Training New Pistol Qualification
@@ -3053,26 +3227,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/14/2021
   expiration_date: 6/14/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/14/2021
-  expiration_date: 6/14/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/29/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/29/2010

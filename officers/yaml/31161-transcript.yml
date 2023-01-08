@@ -94,12 +94,6 @@ training_records:
   score: '0.0'
   hours: '0.00'
 - date: 11/12/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: ''
-  score: '0.0'
-  hours: '2.00'
-- date: 11/12/2022
   course: TGP29975
   title: Motivational Ethics
   status: Passed
@@ -111,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/25/2022
+  course: TGP25606
+  title: AELE Level I Internal Affairs Investigator
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 9/19/2022
   course: TGP42147
   title: Fall Firearms Training
@@ -177,12 +177,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 4/6/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: ''
-  score: '0.0'
-  hours: '12.00'
 - date: 4/6/2022
   course: TGP14188
   title: OWLA Spring Conference
@@ -2618,14 +2612,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/10/2022
-  expiration_date: 2/29/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/10/2022
@@ -2634,14 +2620,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/5/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/5/2002

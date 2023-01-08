@@ -36,12 +36,6 @@ certification_records:
   expiration_date: ''
   probation_date: 1/15/2024
 training_records:
-- date: 1/15/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 1/24/2022
   course: PDP30218
   title: 2021 Training New Pistol Qualification

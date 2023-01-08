@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/6/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/28/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -273,12 +285,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/5/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/5/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
@@ -1779,6 +1785,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/31/2019
+  course: PDP02094
+  title: PPB 2019 Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 1/23/2019
   course: PDP28048
   title: 2.02 for Managers and Supervisors
@@ -3480,26 +3492,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/31/2021
   expiration_date: 5/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/31/2021
-  expiration_date: 5/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/12/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/12/2005

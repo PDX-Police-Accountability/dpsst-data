@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/5/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/16/2022
   course: HBS33359
   title: Open Range
@@ -156,12 +162,6 @@ training_records:
   score: '0.0'
   hours: '0.75'
 - date: 8/30/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '7.00'
-- date: 8/30/2022
   course: HBS16128
   title: Slow Clears Controlled Entry with K9
   status: Passed
@@ -191,12 +191,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.50'
-- date: 5/23/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.50'
 - date: 5/23/2022
   course: HBS23543
   title: IFAST In-Service
@@ -2465,21 +2459,9 @@ attribute_records:
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/23/2022
-  expiration_date: 3/23/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/23/2022
@@ -2488,14 +2470,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/11/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/11/2001

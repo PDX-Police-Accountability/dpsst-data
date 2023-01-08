@@ -63,6 +63,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/28/2022
+  course: PDP11332
+  title: 2022 Respiratory Protection Yearly Screening
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/28/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/7/2022
   course: PDP41536
   title: 2022 EAP Addiction Intervention and Resources
@@ -3867,14 +3885,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -3882,14 +3892,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/26/2021
   expiration_date: 5/26/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/6/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/6/2007

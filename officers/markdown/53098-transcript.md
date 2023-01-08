@@ -27,15 +27,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Signed | 11/21/2013 |  |
 | Code of Ethics | Signed | 11/21/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,9 +40,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/26/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 12/9/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/20/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/18/2022 | OCS34332 | Honor Guard Training | Passed | 0.0 | 24.00 |
 | 11/13/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP16498 | ECIT Training | Passed | 0.0 | 36.00 |
 | 11/6/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/19/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
