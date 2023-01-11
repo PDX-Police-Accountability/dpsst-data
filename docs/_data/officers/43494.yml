@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2022
+  course: PDP11766
+  title: FEMA IS-241.C
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/20/2022
+  course: PDP29336
+  title: FEMA IS-244.B
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/13/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

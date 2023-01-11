@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/20/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/15/2022 | PDP34848 | Patrol Procedures Satellite Instructor Training | Passed | 0.0 | 72.00 |
 | 11/23/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/23/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/23/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

@@ -3032,12 +3032,6 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
-- date: 6/10/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '4.00'
 - date: 6/6/2015
   course: 15-0915
   title: Agency Policies / Procedures
@@ -3050,12 +3044,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 5/28/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '28.00'
 - date: 5/13/2015
   course: 15-0940
   title: Wild Land Fire Behavior for Law Enforcement
@@ -3092,12 +3080,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 2/26/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 2/21/2015
   course: 15-0823
   title: Eye Witness Evidence

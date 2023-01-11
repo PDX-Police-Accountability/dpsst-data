@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: PDP34848
+  title: Patrol Procedures Satellite Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 12/2/2022
   course: PDP36927
   title: 2022-5 CAO Legal Updates for 05/2022

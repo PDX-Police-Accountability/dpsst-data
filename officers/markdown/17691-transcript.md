@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | MNS39839 | YCSO Policy Review | Passed | 0.0 | 9.00 |
 | 12/19/2022 | MNS00996 | EVOC Refresher | Instructed | 0.0 | 20.00 |
 | 12/5/2022 | MNS00369 | Firearms Introduction / Qualification Low Light | Passed | 0.0 | 2.00 |
 | 11/9/2022 | MNS17774 | MILO Scenarios | Passed | 0.0 | 0.50 |

@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2022 | PDP11766 | FEMA IS-241.C | Passed | 0.0 | 2.00 |
+| 12/20/2022 | PDP29336 | FEMA IS-244.B | Passed | 0.0 | 4.00 |
 | 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/13/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/13/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

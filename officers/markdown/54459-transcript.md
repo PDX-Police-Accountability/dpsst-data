@@ -244,7 +244,6 @@
 | 9/30/2015 | 15-1176 | Radar / Lidar Online | Passed | 0.0 | 8.00 |
 | 4/19/2015 | 15-1175 | Radar / Lidar - Practical | Passed | 0.0 | 16.00 |
 | 3/21/2015 | 15-1081 | SFST  Drugs That Impair Driving (DID) | Passed | 0.0 | 16.00 |
-| 3/7/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.50 |
 | 3/7/2015 | 15-0268 | Tactical Survival | Passed | 0.0 | 3.50 |
 | 3/7/2015 | 15-1120 | Search  Seizure | Passed | 0.0 | 1.00 |
 | 1/22/2015 | 15-1100 | Courtroom Security | Passed | 0.0 | 2.50 |

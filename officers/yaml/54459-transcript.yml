@@ -1303,12 +1303,6 @@ training_records:
   score: '0.0'
   hours: '16.00'
 - date: 3/7/2015
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.50'
-- date: 3/7/2015
   course: 15-0268
   title: Tactical Survival
   status: Passed

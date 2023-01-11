@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/15/2022
+  course: PDP34848
+  title: Patrol Procedures Satellite Instructor Training
+  status: Instructed
+  score: '0.0'
+  hours: '72.00'
 - date: 11/19/2022
   course: PDP40447
   title: 2022 MCDA Probable Cause Refresher Training

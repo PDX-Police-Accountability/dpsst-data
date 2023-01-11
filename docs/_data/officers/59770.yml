@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: PDP34848
+  title: Patrol Procedures Satellite Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 11/30/2022
   course: PDP01766
   title: 2022 Post Shooting Response

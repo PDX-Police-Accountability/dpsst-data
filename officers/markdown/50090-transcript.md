@@ -533,17 +533,14 @@
 | 6/30/2015 | 15-0140 | Armed While Off Duty | Passed | 0.0 | 2.00 |
 | 6/30/2015 | 15-0249 | Range 3000 | Passed | 0.0 | 2.00 |
 | 6/10/2015 | 15-0174 | SWAT / Sniper Firearms | Instructed | 0.0 | 4.00 |
-| 6/10/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 6/6/2015 | 15-0915 | Agency Policies / Procedures | Passed | 0.0 | 0.50 |
 | 5/28/2015 | 15-0174 | SWAT / Sniper Firearms | Passed | 0.0 | 2.00 |
-| 5/28/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 28.00 |
 | 5/13/2015 | 15-0940 | Wild Land Fire Behavior for Law Enforcement | Passed | 0.0 | 0.50 |
 | 5/6/2015 | 15-1204 | EVOC / PIT | Passed | 0.0 | 2.00 |
 | 5/6/2015 | 15-1250 | Driving - Other | Passed | 0.0 | 2.00 |
 | 4/3/2015 | 15-0904 | DPSST Revocation / Ethics Bulletin Review | Passed | 0.0 | 1.50 |
 | 3/12/2015 | 15-0276 | Use of Force - Other | Passed | 0.0 | 4.00 |
 | 3/10/2015 | 15-0915 | Agency Policies / Procedures | Passed | 0.0 | 3.00 |
-| 2/26/2015 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 2/21/2015 | 15-0823 | Eye Witness Evidence | Passed | 0.0 | 2.00 |
 | 2/3/2015 | 15-0859 | Emergency Preparedness and Response - Other | Passed | 0.0 | 1.00 |
 | 2/3/2015 | 15-1090 | K-9 Introduction | Passed | 0.0 | 2.00 |

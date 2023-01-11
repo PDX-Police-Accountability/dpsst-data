@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/4/2023 | OCP36575 | SFST Refresher Course | Passed | 0.0 | 4.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
 | 12/31/2022 | OCP10967 | 40mm Initial Training | Passed | 0.0 | 1.50 |
 | 12/31/2022 | OCP12928 | Daily Training Bulletins | Passed | 0.0 | 8.50 |

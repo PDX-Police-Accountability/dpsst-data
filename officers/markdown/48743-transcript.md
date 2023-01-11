@@ -199,7 +199,6 @@
 | 3/18/2020 | PDP00208 | 2020 BHR 2.02 | Passed | 0.0 | 1.00 |
 | 3/18/2020 | PDP12740 | 2020 Training Sworn In-Service Ethics  Leadership | Passed | 0.0 | 1.50 |
 | 3/17/2020 | PDP17847 | 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines | Passed | 0.0 | 0.25 |
-| 2/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/10/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/22/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |
 | 1/22/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
