@@ -35,11 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/22/2022 | PDP30625 | SERT Firearms Drills | Instructed | 0.0 | 9.00 |
 | 12/21/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/21/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/21/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/21/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/15/2022 | PDP34848 | Patrol Procedures Satellite Instructor Training | Instructed | 0.0 | 72.00 |
+| 12/1/2022 | PDP00630 | SERT Weapons Drills | Passed | 0.0 | 9.00 |
 | 11/19/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/19/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
@@ -77,6 +79,11 @@
 | 7/30/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/28/2022 | PDP38616 | SERT Firearms Training - Weapon Drills | Passed | 0.0 | 9.00 |
 | 7/21/2022 | PDP37678 | SERT Firearms Training | Passed | 0.0 | 9.00 |
+| 7/21/2022 | PDP16858 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/21/2022 | PDP41814 | 2022-2 Range Qualification AR-15 (20 yd) | Passed | 0.0 | 0.50 |
+| 7/21/2022 | PDP04017 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/21/2022 | PDP41623 | 2022-2 Range Qual Secondary Firearm (50 Round) | Passed | 0.0 | 0.50 |
+| 7/21/2022 | PDP12603 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |
 | 7/7/2022 | PDP08674 | Weapons Drills Handgun and AR 3-50 Yards | Instructed | 0.0 | 9.00 |
 | 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Passed | 0.0 | 9.00 |

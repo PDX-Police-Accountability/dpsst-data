@@ -144,6 +144,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/29/2022
+  course: PDP12047
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/23/2022
+  course: PDP38236
+  title: CEW Training  Certification
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/22/2022
+  course: PDP41476
+  title: Hazmat WMD Response Awareness
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/21/2022
   course: PDP21360
   title: Firearms Training

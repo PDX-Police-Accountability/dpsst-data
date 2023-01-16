@@ -216,7 +216,6 @@
 | 3/20/2020 | PDP09330 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/20/2020 | PDP28252 | 2020 In-Service Mobile Field Force Class Video | Passed | 0.0 | 1.00 |
 | 3/20/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |
-| 2/8/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/8/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/24/2020 | PDP42566 | 2019-11 City Attorney's Office Legal Updates 11/19 | Passed | 0.0 | 0.25 |
 | 1/24/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |

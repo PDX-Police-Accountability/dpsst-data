@@ -37,9 +37,12 @@
 | 12/12/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/12/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/12/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP35088 | EDU Orientation  GPS | Instructed | 0.0 | 9.00 |
 | 12/6/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/1/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 12/1/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/30/2022 | PDP17602 | EDU Weekly Training | Passed | 0.0 | 9.00 |
+| 11/23/2022 | PDP15520 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/3/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/2/2022 | PDP01355 | EDU weekly: Scenario Training | Passed | 0.0 | 9.00 |

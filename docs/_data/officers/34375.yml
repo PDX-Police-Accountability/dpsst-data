@@ -138,6 +138,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/8/2022
+  course: OSA22534
+  title: You Are Never Alone / Understanding PTSD/PTSI
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/8/2022
+  course: OSA11017
+  title: Tired-Lost-Overwhelmed You are at the right place!
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/7/2022
+  course: OSA34918
+  title: 'OSSA De-Escalation Session #1 - Dec 7, 2022'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/7/2022
+  course: OSA24169
+  title: 'OSSA De-Escalation Session #2 - Dec 7, 2022'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/7/2022
+  course: OSA18205
+  title: 'OSSA Use of Force/Legal Updates #1 Dec 7, 2022'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/7/2022
+  course: OSA16044
+  title: 'OSSA Use of Force/Legal Updates #2 Dec 7, 2022'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/5/2022
   course: OSA15918
   title: OSSA Enforcement Command Council - Dec 2022

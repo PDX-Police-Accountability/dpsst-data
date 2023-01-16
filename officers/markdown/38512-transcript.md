@@ -35,12 +35,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2022 | PDP03067 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/12/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/12/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/12/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/12/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP35088 | EDU Orientation  GPS | Instructed | 0.0 | 9.00 |
+| 11/30/2022 | PDP17602 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/29/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/29/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/23/2022 | PDP15520 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/16/2022 | PDP05111 | Weekly EDU: robots, rigging, glass door entry | Passed | 0.0 | 9.00 |
 | 11/14/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP39508 | EDU Weekly: Robot and Rigging Training | Instructed | 0.0 | 9.00 |

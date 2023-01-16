@@ -44,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2022 | ICE08950 | Active Violence Incident Response | Passed | 0.0 | 4.00 |
+| 11/30/2022 | SPP07301 | Calm Training | Passed | 0.0 | 8.00 |
+| 11/7/2022 | SPP32167 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 10/18/2022 | ICE29908 | Truthfulness Polcy | Passed | 0.0 | 1.00 |
 | 9/29/2022 | F6R19836 | Cultivating an Inclusive, Ethical Culture | Passed | 0.0 | 3.50 |
 | 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
 | 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |
@@ -53,7 +57,12 @@
 | 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 8/25/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/25/2022 | ICE43731 | Human Trafficking | Passed | 0.0 | 0.50 |
+| 8/19/2022 | ICE42114 | Ative Violence Incident Response | Passed | 0.0 | 1.00 |
+| 8/19/2022 | SFP38159 | Truthfulness Polcy | Passed | 0.0 | 1.00 |
 | 8/13/2022 | ICE16086 | Patient Evaluation for Law Enforcement-HB 2513 | Passed | 0.0 | 2.00 |
+| 7/13/2022 | ICE39298 | Airway Training | Passed | 0.0 | 2.00 |
+| 7/13/2022 | SPP14878 | Airway Training | Passed | 0.0 | 1.00 |
 | 6/27/2022 | ICE20832 | Firearms-Handgun and Rifle | Passed | 0.0 | 4.00 |
 | 5/31/2022 | ICE24801 | Less Lethal-PepperBall | Passed | 0.0 | 1.00 |
 | 5/19/2022 | ICE01150 | Senate Bill 1510 Update | Passed | 0.0 | 0.50 |

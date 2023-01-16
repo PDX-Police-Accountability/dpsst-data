@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/28/2022 | Parole  Probation Officer | Basic | Required |  |  | 9/28/2023 |
+| 1/12/2023 | Parole  Probation Officer | Basic | App Recd |  |  | 9/28/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -34,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/28/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
+| 1/10/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |
 | 11/10/2022 | MFN32990 | Firearms: Multiple Threats, Movement, Barriers | Passed | 0.0 | 2.50 |
 | 10/28/2022 | 22-0005 | DPSST Basic Parole and Probation | Passed | 0.0 | 200.00 |
 | 9/20/2022 | MFN44035 | OMS/BCP Coaching | Passed | 0.0 | 2.00 |

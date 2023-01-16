@@ -163,7 +163,6 @@
 | 3/29/2021 | PDP21968 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/9/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/9/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
@@ -252,13 +251,10 @@
 | 3/11/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/9/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/9/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 2/11/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 2/3/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/3/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/22/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
-| 1/7/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 1/7/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |
 | 12/30/2019 | PDP19441 | 2019-11 City Attorney's Legal Updates for 11/2019 | Passed | 0.0 | 0.25 |
 | 12/27/2019 | MISCMAIN | 2019 LE Annual Maintenance | Completed | 0.0 | 0.00 |

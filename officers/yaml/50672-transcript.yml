@@ -145,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 9/14/2022
+  course: PDP41051
+  title: HIDTA Critical Thinking for LE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/23/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

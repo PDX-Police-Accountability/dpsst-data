@@ -48,6 +48,7 @@
 | 11/7/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/7/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/5/2022 | PDP01053 | C.O.P.S. Emotional Support in Law Enforcement | Passed | 0.0 | 21.00 |
 | 10/3/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/26/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |

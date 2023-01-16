@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/18/2022
+  course: HBS27211
+  title: OPOA 52nd Law Enforcement Conference
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/17/2022
   course: VND34213
   title: Crisis De-Escalation

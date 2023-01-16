@@ -68,6 +68,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/12/2022
+  course: PDP17554
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/7/2022
+  course: PDP44707
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/6/2022
+  course: PDP13951
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/5/2022
+  course: PDP01145
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/30/2022
   course: PDP16923
   title: Firearms Training

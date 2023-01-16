@@ -207,14 +207,12 @@
 | 5/8/2020 | PDP36368 | 2020 Training Sworn InService Wellness Mindfulness | Passed | 0.0 | 1.00 |
 | 4/16/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
 | 3/14/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/14/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/14/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/14/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/14/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/4/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/4/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/4/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 2/27/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/27/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/14/2020 | PDP41104 | Mobile Identification Device (MIDD) Training | Passed | 0.0 | 0.50 |
 | 1/23/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/18/2022 | VND13034 | Treasure Hidden in Trauma | Passed | 0.0 | 4.00 |
+| 11/18/2022 | HBS27211 | OPOA 52nd Law Enforcement Conference | Passed | 0.0 | 40.00 |
 | 11/17/2022 | VND34213 | Crisis De-Escalation | Passed | 0.0 | 4.00 |
 | 11/17/2022 | VND23364 | Resilience in the Face of Tragedy | Passed | 0.0 | 4.00 |
 | 11/16/2022 | VND08025 | Cold Case/WC Lawfully Owned DNA Project | Passed | 0.0 | 4.00 |

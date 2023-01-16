@@ -78,7 +78,6 @@
 | 4/11/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/1/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/10/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
@@ -245,9 +244,7 @@
 | 3/17/2020 | PDP35084 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/17/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/7/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/5/2020 | F6D28510 | Stress First Aid Train the Trainer | Passed | 0.0 | 16.00 |
 | 3/5/2020 | PDP05290 | Stress First Aid Train-the-Trainer | Passed | 0.0 | 15.00 |
-| 2/5/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/5/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/30/2020 | PDP26146 | ICS-300 Intermediate ICS for Expanding Incidents | Passed | 0.0 | 22.50 |
 | 1/30/2020 | PDP36573 | ICS-300 Intermediate Incident Command System | Passed | 0.0 | 22.50 |

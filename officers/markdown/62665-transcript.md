@@ -47,6 +47,9 @@
 | 12/31/2022 | PDP14670 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 12/31/2022 | PDP44367 | City of Portland Bloodborne Pathogens Link | Passed | 0.0 | 1.00 |
 | 12/31/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP12047 | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 11/23/2022 | PDP38236 | CEW Training  Certification | Passed | 0.0 | 7.00 |
+| 11/22/2022 | PDP41476 | Hazmat WMD Response Awareness | Passed | 0.0 | 3.00 |
 | 11/21/2022 | PDP21360 | Firearms Training | Passed | 0.0 | 6.00 |
 | 10/7/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 9/20/2022 | F6R07270 | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |

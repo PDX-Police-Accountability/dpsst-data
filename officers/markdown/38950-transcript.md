@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
+| 10/9/2023 | BPT25744 | Increasing Resiliency for First Responders | Passed | 0.0 | 6.00 |
 | 11/29/2022 | HBS39105 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |
 | 10/15/2022 | HBS41678 | Civility  Harassment Free Workplace | Instructed | 0.0 | 2.00 |

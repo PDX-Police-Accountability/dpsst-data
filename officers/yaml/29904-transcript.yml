@@ -3,7 +3,7 @@ header_record:
   name: Pearce, Jason B.
   dpsst_identifier: '29904'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Lieutenant
   level: ''
   classification: ''
@@ -12,6 +12,12 @@ employment_records:
 - date: 12/19/2022
   agency: Multnomah County Sheriff's Office
   action: Hired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
+- date: 12/13/2022
+  agency: Portland Police Bureau
+  action: Retired
   rank: Lieutenant
   classification: ''
   assignment: ''

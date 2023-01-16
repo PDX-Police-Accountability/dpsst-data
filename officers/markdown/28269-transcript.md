@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/11/2023 | BNP19990 | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/15/2022 | BNP39082 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |
 | 11/15/2022 | BNP39588 | Mental Health/Wellness | Passed | 0.0 | 0.50 |

@@ -445,7 +445,7 @@
 | Pashley, Gregory R. | 28089 | Portland Police Bureau | Active | Lieutenant | Promotion | 2018-05-03 | [md](../markdown/28089-transcript.md) - [yaml](../yaml/28089-transcript.yml) |
 | Andrew, Rachel K. | 29193 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2022-07-21 | [md](../markdown/29193-transcript.md) - [yaml](../yaml/29193-transcript.yml) |
 | Wheelwright, David C. | 29519 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2020-08-07 | [md](../markdown/29519-transcript.md) - [yaml](../yaml/29519-transcript.yml) |
-| Pearce, Jason B. | 29904 | Portland Police Bureau | Active | Lieutenant | Promotion | 2016-09-08 | [md](../markdown/29904-transcript.md) - [yaml](../yaml/29904-transcript.yml) |
+| Pearce, Jason B. | 29904 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2022-12-13 | [md](../markdown/29904-transcript.md) - [yaml](../yaml/29904-transcript.yml) |
 | Engen, Matthew P. | 29983 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/29983-transcript.md) - [yaml](../yaml/29983-transcript.yml) |
 | Quick, Robert R. | 30665 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Niiya, Jeffrey M. | 30666 | Portland Police Bureau | Inactive | Lieutenant | Resigned | 2021-04-14 | [md](../markdown/30666-transcript.md) - [yaml](../yaml/30666-transcript.yml) |
@@ -601,7 +601,7 @@
 | Christian, Sean L. | 30281 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-01-30 | [md](../markdown/30281-transcript.md) - [yaml](../yaml/30281-transcript.yml) |
 | Wiechmann, Frederick J. | 30431 | Portland Police Bureau | Active | Police Officer | Hired | 1995-02-02 | [md](../markdown/30431-transcript.md) - [yaml](../yaml/30431-transcript.yml) |
 | Shults, Robin A. | 30432 | Portland Police Bureau | Inactive | Police Officer | Resigned | 1995-10-17 | [md](../markdown/30432-transcript.md) - [yaml](../yaml/30432-transcript.yml) |
-| Martinez, Kathleen L. | 30535 | Portland Police Bureau | Active | Police Officer | Hired | 2007-10-18 | [md](../markdown/30535-transcript.md) - [yaml](../yaml/30535-transcript.yml) |
+| Martinez, Kathleen L. | 30535 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-12-30 | [md](../markdown/30535-transcript.md) - [yaml](../yaml/30535-transcript.yml) |
 | Hobbs, Scherise M. | 30864 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-19 | [md](../markdown/30864-transcript.md) - [yaml](../yaml/30864-transcript.yml) |
 | Letter, Joshua M. | 30867 | Portland Police Bureau | Active | Police Officer | Transfered | 2001-11-01 | [md](../markdown/30867-transcript.md) - [yaml](../yaml/30867-transcript.yml) |
 | Dauchy, Aaron M. | 30873 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-02-03 | [md](../markdown/30873-transcript.md) - [yaml](../yaml/30873-transcript.yml) |
@@ -1292,7 +1292,7 @@
 | Freund, Max A. | 62016 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-08 | [md](../markdown/62016-transcript.md) - [yaml](../yaml/62016-transcript.yml) |
 | Johnson, Jennifer J. | 62017 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62017-transcript.md) - [yaml](../yaml/62017-transcript.yml) |
 | Mount, Rory J. | 62018 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62018-transcript.md) - [yaml](../yaml/62018-transcript.yml) |
-| Graham, James R. | 62032 | Portland Police Bureau | Active | Police Officer | Hired | 2021-07-15 | [md](../markdown/62032-transcript.md) - [yaml](../yaml/62032-transcript.yml) |
+| Graham, James R. | 62032 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-12-31 | [md](../markdown/62032-transcript.md) - [yaml](../yaml/62032-transcript.yml) |
 | Kaimuloa, Pono K. | 62229 | Portland Police Bureau | Active | Police Officer | Hired | 2021-09-16 | [md](../markdown/62229-transcript.md) - [yaml](../yaml/62229-transcript.yml) |
 | Schwartz, Matthew B. | 62260 | Portland Police Bureau | Active | Police Officer | Hired | 2021-09-30 | [md](../markdown/62260-transcript.md) - [yaml](../yaml/62260-transcript.yml) |
 | McGloghlon, Donn L. | 62287 | Portland Police Bureau | Active | Police Officer | Hired | 2021-10-16 | [md](../markdown/62287-transcript.md) - [yaml](../yaml/62287-transcript.yml) |

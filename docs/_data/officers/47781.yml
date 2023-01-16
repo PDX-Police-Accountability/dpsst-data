@@ -692,12 +692,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/29/2021
-  course: PDP27594
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/28/2021
   course: PDP41428
   title: 2020 CAO Don't Shoot PDX/Hernandez (resend)

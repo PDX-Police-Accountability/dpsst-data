@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2022
+  course: PDP30625
+  title: SERT Firearms Drills
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/15/2022
+  course: PDP24866
+  title: SERT Iteration Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/12/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

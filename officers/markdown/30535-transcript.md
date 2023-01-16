@@ -4,7 +4,7 @@
 | name | Martinez, Kathleen L. |
 | dpsst_identifier | 30535 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,16 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/30/2022 | Portland Police Bureau | Retired | Police Off |  |  |
 | 10/18/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/17/2007 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
-| 12/1/1997 | Multnomah County Sheriff's Office | Promotion | Dpty Shrf |  |  |
+| 12/1/1997 | Multnomah County Sheriff's Office | Reclassed | Dpty Shrf |  |  |
 | 2/27/1995 | Multnomah County Sheriff's Office | Hired | Civln Emp |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/1/2003 | Police Officer | Advanced | Granted | 12/1/2003 |  |  |
-| 1/3/2000 | Police Officer | Intermediate | Granted | 1/3/2000 |  |  |
-| 1/28/1999 | Police Officer | Basic | Granted | 1/28/1999 |  |  |
+| 12/1/2003 | Police Officer | Advanced | Granted | 12/1/2003 | 3/30/2023 |  |
+| 1/3/2000 | Police Officer | Intermediate | Granted | 1/3/2000 | 3/30/2023 |  |
+| 1/28/1999 | Police Officer | Basic | Granted | 1/28/1999 | 3/30/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

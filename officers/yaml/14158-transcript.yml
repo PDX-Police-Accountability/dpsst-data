@@ -117,12 +117,6 @@ training_records:
   score: '0.0'
   hours: '8.00'
 - date: 6/15/2022
-  course: MKL39637
-  title: CORRECTED - MKL24792
-  status: Instructed
-  score: '0.0'
-  hours: '8.00'
-- date: 6/2/2022
   course: MKL24792
   title: Use of Force / Defensive Tactics
   status: Instructed
@@ -137,12 +131,6 @@ training_records:
 - date: 6/1/2022
   course: MKL12465
   title: Defensive Tactics/Use of Force
-  status: Instructed
-  score: '0.0'
-  hours: '8.00'
-- date: 6/1/2022
-  course: MKL27719
-  title: CORRECTED - MKL12465
   status: Instructed
   score: '0.0'
   hours: '8.00'

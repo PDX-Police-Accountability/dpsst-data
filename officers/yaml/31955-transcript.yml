@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2023
+  course: CAP15716
+  title: Tactical Duty Knife
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/14/2022
   course: CAP05723
   title: Night Shoot

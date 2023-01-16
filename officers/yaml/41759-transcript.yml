@@ -370,6 +370,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/18/2022
+  course: PDP18518
+  title: L962 All Hazards Planning Section Chief
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/11/2022
   course: OCS25176
   title: Line Of Duty Death Response Team Table Top

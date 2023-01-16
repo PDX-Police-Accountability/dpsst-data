@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/22/2022
+  course: PDP30625
+  title: SERT Firearms Drills
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/15/2022
   course: PDP34848
   title: Patrol Procedures Satellite Instructor Training

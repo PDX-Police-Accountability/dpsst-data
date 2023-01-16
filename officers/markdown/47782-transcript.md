@@ -159,7 +159,6 @@
 | 4/12/2021 | PDP25589 | 2021 External Training The Advanced SEND Protocol | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/25/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |
@@ -239,7 +238,6 @@
 | 3/20/2020 | PDP00504 | 2020 InService EAP Dead Frce Incdnt:What Hapns Nxt | Passed | 0.0 | 1.50 |
 | 3/20/2020 | PDP07236 | 2020 Training InService Wellness Stress/Resilience | Passed | 0.0 | 1.50 |
 | 3/20/2020 | PDP28252 | 2020 In-Service Mobile Field Force Class Video | Passed | 0.0 | 1.00 |
-| 3/15/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/15/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/15/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/15/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |

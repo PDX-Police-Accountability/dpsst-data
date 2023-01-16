@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2023 | TAP44709 | Karly's Law / Forensic Interviewing | Passed | 0.0 | 1.00 |
+| 11/9/2023 | TAP08920 | Community Works - Lethality Assessment (LAP) | Passed | 0.0 | 1.00 |
 | 12/21/2022 | TAP39372 | Oregon CIT Newsletter December 2022 | Passed | 0.0 | 0.75 |
 | 12/21/2022 | TAP00243 | How to Survive and Ambush Attack | Passed | 0.0 | 0.75 |
 | 12/1/2022 | JKP10056 | Tazer Recertification | Passed | 0.0 | 2.00 |
@@ -64,6 +66,7 @@
 | 8/16/2022 | TAP17390 | RdyRspndrPhysicalMentalWellbeingAffectPerformance | Passed | 0.0 | 1.25 |
 | 8/16/2022 | TAP09700 | June 23, 2022 Legal Updates | Passed | 0.0 | 0.75 |
 | 8/11/2022 | TAP37130 | TASER 7 Transition/Annual Certfication | Passed | 0.0 | 0.00 |
+| 8/11/2022 | TAP23193 | TASER 7 Transition/Annual Certfication | Passed | 0.0 | 4.00 |
 | 8/9/2022 | TAP42440 | Anti Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/3/2022 | TAP14761 | Anti Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 8/1/2022 | TAP27190 | 3 Ways to Fight the #1 Killer of First Responders | Passed | 0.0 | 1.25 |

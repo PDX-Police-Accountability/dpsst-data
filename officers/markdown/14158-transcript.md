@@ -45,11 +45,9 @@
 | 8/24/2022 | MKL05871 | Resiliency | Passed | 0.0 | 3.00 |
 | 6/23/2022 | MKL06324 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 6/23/2022 | MKL27046 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |
-| 6/15/2022 | MKL39637 | CORRECTED - MKL24792 | Instructed | 0.0 | 8.00 |
-| 6/2/2022 | MKL24792 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 6/15/2022 | MKL24792 | Use of Force / Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 6/1/2022 | MKL09400 | Defensive Tactics/Use of Force | Instructed | 0.0 | 8.00 |
 | 6/1/2022 | MKL12465 | Defensive Tactics/Use of Force | Instructed | 0.0 | 8.00 |
-| 6/1/2022 | MKL27719 | CORRECTED - MKL12465 | Instructed | 0.0 | 8.00 |
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 4/19/2022 | MKL29255 | Metrc RFID Training | Passed | 0.0 | 8.00 |
 | 4/18/2022 | MKL44019 | Advanced Metrc Training | Passed | 0.0 | 8.00 |

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/11/2023 | BNP19990 | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2022 | BNP43278 | Low Light Exertion Range | Passed | 0.0 | 3.00 |
 | 11/17/2022 | BNP09524 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |

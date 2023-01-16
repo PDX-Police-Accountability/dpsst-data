@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/3/2023 | HBP18103 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |
+| 11/30/2022 | HBS02813 | Introductions to Threat Finance Analysis | Passed | 0.0 | 10.00 |
 | 8/17/2022 | HBP19448 | Weapon Retention, DT Refresher, Force Response | Passed | 0.0 | 1.00 |
 | 8/11/2022 | VND40322 | Open Intelligence | Passed | 0.0 | 8.00 |
 | 7/20/2022 | HBP17844 | EVOC | Passed | 0.0 | 1.00 |

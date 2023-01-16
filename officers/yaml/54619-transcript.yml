@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/3/2023
+  course: HBP18103
+  title: Ethics Training and Writing Assignment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2022
+  course: HBS02813
+  title: Introductions to Threat Finance Analysis
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/17/2022
   course: HBP19448
   title: Weapon Retention, DT Refresher, Force Response

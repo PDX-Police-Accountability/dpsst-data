@@ -46,6 +46,7 @@
 | 8/30/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/24/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/16/2022 | PDP12830 | Fundamentals of Human Trafficking | Passed | 0.0 | 6.50 |
+| 8/16/2022 | PDP14595 | OR DOJ Fundamentals of Human Trafficking | Passed | 0.0 | 6.50 |
 | 8/2/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/19/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

@@ -32,6 +32,9 @@
 | 12/8/2022 | PDP34098 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 12/8/2022 | PDP16418 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 12/8/2022 | PDP35120 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 12/7/2022 | PDP44707 | Firearms Training | Passed | 0.0 | 7.00 |
+| 12/6/2022 | PDP13951 | Firearms Training | Passed | 0.0 | 7.00 |
+| 12/5/2022 | PDP01145 | Firearms Training | Passed | 0.0 | 7.00 |
 | 11/29/2022 | PDP00648 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 10/11/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/11/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

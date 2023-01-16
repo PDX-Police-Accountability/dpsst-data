@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/21/2022 | PDP06672 | K9 Unit Training | Instructed | 0.0 | 4.00 |
 | 12/10/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/23/2022 | PDP43118 | Weekly K-9 Training | Passed | 0.0 | 4.50 |
 | 11/16/2022 | PDP27539 | K-9 Training - Searches  Control Work | Passed | 0.0 | 4.00 |

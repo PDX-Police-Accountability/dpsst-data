@@ -4,7 +4,7 @@
 | name | Graham, James R. |
 | dpsst_identifier | 62032 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/31/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/15/2021 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/12/2020 | Out of State Employment | Resigned | Police Off |  |  |
 | 7/21/2008 | Out of State Employment | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/15/2021 | Police Officer | Basic | ReqCertExt |  |  | 1/15/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

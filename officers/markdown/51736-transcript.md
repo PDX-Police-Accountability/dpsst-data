@@ -37,6 +37,8 @@
 | 12/25/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/25/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/25/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP30625 | SERT Firearms Drills | Passed | 0.0 | 9.00 |
+| 12/1/2022 | PDP00630 | SERT Weapons Drills | Passed | 0.0 | 9.00 |
 | 11/23/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/23/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/23/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

@@ -101,6 +101,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/9/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/9/2023
+  course: BPT25744
+  title: Increasing Resiliency for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/29/2022
   course: HBS39105
   title: IFAST In-Service Training

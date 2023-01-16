@@ -330,7 +330,6 @@
 | 2/26/2020 | PDP19703 | 2020 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/13/2020 | PDP12901 | 2020 SERT Training - Scenario | Passed | 0.0 | 9.00 |
 | 2/12/2020 | PDP08256 | 2020 SERT Training - Firearms | Passed | 0.0 | 9.00 |
-| 2/3/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/3/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/30/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 1/30/2020 | PDP06451 | 2020 SERT Training - Firearms | Passed | 0.0 | 9.00 |

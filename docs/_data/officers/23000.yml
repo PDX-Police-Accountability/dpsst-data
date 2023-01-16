@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/31/2022
+  agency: Multnomah County Sheriff's Office
+  action: Retired
+  rank: Sheriff
+  classification: ''
+  assignment: ''
 - date: 8/17/2016
   agency: Multnomah County Sheriff's Office
   action: Promotion
@@ -79,86 +85,44 @@ certification_records:
 - status_date: 8/30/2016
   certificate: Police Officer
   level: Advanced
-  status: Granted
-  certificate_date: 8/30/2016
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/30/2016
-  certificate: Police Officer
-  level: Basic
-  status: Granted
-  certificate_date: 8/30/2016
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/30/2016
-  certificate: Police Officer
-  level: Executive
-  status: Granted
-  certificate_date: 8/30/2016
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/30/2016
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 8/30/2016
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/30/2016
-  certificate: Police Officer
-  level: Management
-  status: Granted
-  certificate_date: 8/30/2016
-  expiration_date: ''
-  probation_date: ''
-- status_date: 8/30/2016
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 8/30/2016
-  expiration_date: ''
-  probation_date: ''
-- status_date: 4/2/2015
-  certificate: Police Officer
-  level: Advanced
-  status: Lapsed
+  status: Reactivate
   certificate_date: 1/4/2011
-  expiration_date: ''
+  expiration_date: 3/31/2023
   probation_date: ''
-- status_date: 4/2/2015
+- status_date: 8/30/2016
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Reactivate
   certificate_date: 12/5/1990
-  expiration_date: ''
+  expiration_date: 3/31/2023
   probation_date: ''
-- status_date: 4/2/2015
+- status_date: 8/30/2016
   certificate: Police Officer
   level: Executive
-  status: Lapsed
+  status: Reactivate
   certificate_date: 1/4/2011
-  expiration_date: ''
+  expiration_date: 3/31/2023
   probation_date: ''
-- status_date: 4/2/2015
+- status_date: 8/30/2016
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Reactivate
   certificate_date: 4/17/1992
-  expiration_date: ''
+  expiration_date: 3/31/2023
   probation_date: ''
-- status_date: 4/2/2015
+- status_date: 8/30/2016
   certificate: Police Officer
   level: Management
-  status: Lapsed
+  status: Reactivate
   certificate_date: 1/4/2011
-  expiration_date: ''
+  expiration_date: 3/31/2023
   probation_date: ''
-- status_date: 4/2/2015
+- status_date: 8/30/2016
   certificate: Police Officer
   level: Supervisory
-  status: Lapsed
+  status: Reactivate
   certificate_date: 1/4/2011
-  expiration_date: ''
+  expiration_date: 3/31/2023
   probation_date: ''
 training_records:
 - date: 11/23/2022

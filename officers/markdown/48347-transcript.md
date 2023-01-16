@@ -330,7 +330,6 @@
 | 4/15/2018 | PDP11752 | RRT In-Service Baton Refresher | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP11269 | RRT In-Service Formation Refresher | Passed | 0.0 | 1.00 |
 | 4/14/2018 | PDP40007 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
-| 4/14/2018 | PDP28689 | Undefined | Passed | 0.0 | 1.00 |
 | 4/14/2018 | PDP28082 | RRT In-Service Command Discussion | Passed | 0.0 | 1.00 |
 | 4/14/2018 | PDP32318 | RRT In-Service Squad Time | Passed | 0.0 | 1.00 |
 | 4/14/2018 | PDP04872 | RRT In-Service Comms | Passed | 0.0 | 1.00 |

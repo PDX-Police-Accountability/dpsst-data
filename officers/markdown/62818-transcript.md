@@ -75,8 +75,12 @@
 | 12/26/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 12/26/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/19/2022 | PDP16779 | Geography | Passed | 0.0 | 2.00 |
+| 12/15/2022 | PDP13883 | Control Tactics Training | Passed | 0.0 | 4.00 |
+| 12/15/2022 | PDP03987 | HAZMAT/WMD Awareness  APR Program | Passed | 0.0 | 3.50 |
+| 12/12/2022 | PDP17554 | Firearms Training | Passed | 0.0 | 7.00 |
+| 12/12/2022 | PDP17554 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 12/9/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 10/13/2022 | REG12045 | INTOX 8000 (w/BP419) | Passed | 0.0 | 6.00 |
-| 8/15/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 8/11/2022 | PDP11019 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 8/11/2022 | PDP38997 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 8/8/2022 | PDP15565 | Policy and Procedure Training | Passed | 0.0 | 7.00 |

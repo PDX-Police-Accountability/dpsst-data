@@ -106,6 +106,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/6/2022
+  course: PDP19233
+  title: Burnout  the LE Exodus Crisis
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/27/2022
   course: PDP01766
   title: 2022 Post Shooting Response

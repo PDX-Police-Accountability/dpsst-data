@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2023
+  course: 23-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '80.00'
 - date: 12/27/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

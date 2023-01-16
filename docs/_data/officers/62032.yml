@@ -3,12 +3,18 @@ header_record:
   name: Graham, James R.
   dpsst_identifier: '62032'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/31/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/15/2021
   agency: Portland Police Bureau
   action: Hired
@@ -27,14 +33,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 7/15/2021
-  certificate: Police Officer
-  level: Basic
-  status: ReqCertExt
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 1/15/2024
+certification_records: []
 training_records:
 - date: 1/24/2022
   course: PDP30218

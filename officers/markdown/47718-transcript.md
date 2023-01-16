@@ -48,7 +48,7 @@
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 11/17/2022 | PDP41896 | 2022 CNT Annual Training | Passed | 0.0 | 18.00 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
-| 11/9/2022 | VND17906 | Advanced Course in Police Discipline |  | 0.0 | 15.00 |
+| 11/9/2022 | VND17906 | Advanced Course in Police Discipline | Passed | 0.0 | 15.00 |
 | 11/2/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/2/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 10/26/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
@@ -181,7 +181,6 @@
 | 3/29/2021 | PDP21968 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/22/2021 | PDP24601 | 2021 Equity Training Series - Preparation | Passed | 0.0 | 0.50 |
 | 3/22/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/22/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
@@ -285,7 +284,6 @@
 | 3/17/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/17/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/11/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
-| 3/9/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/6/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |

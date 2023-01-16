@@ -36,6 +36,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/22/2022
+  course: PDP30625
+  title: SERT Firearms Drills
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/17/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

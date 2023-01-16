@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2022
+  course: PDP30625
+  title: SERT Firearms Drills
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/21/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -66,6 +72,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '72.00'
+- date: 12/1/2022
+  course: PDP00630
+  title: SERT Weapons Drills
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/19/2022
   course: PDP40447
   title: 2022 MCDA Probable Cause Refresher Training
@@ -288,6 +300,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/21/2022
+  course: PDP16858
+  title: 2022-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2022
+  course: PDP41814
+  title: 2022-2 Range Qualification AR-15 (20 yd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2022
+  course: PDP04017
+  title: 2022-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2022
+  course: PDP41623
+  title: 2022-2 Range Qual Secondary Firearm (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/21/2022
+  course: PDP12603
+  title: 2022-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/14/2022
   course: PDP04644
   title: Pedestrian/Vehicle Custody Missions etc.

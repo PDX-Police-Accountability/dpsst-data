@@ -84,7 +84,6 @@
 | 4/14/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/12/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/12/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/12/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/12/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/12/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/12/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
@@ -174,7 +173,6 @@
 | 4/12/2021 | PDP40867 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/16/2021 | PDP14107 | CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 3/15/2021 | PDP02745 | 2021 Interoception and Mindful Movement | Passed | 0.0 | 0.75 |
 | 3/15/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
@@ -274,7 +272,6 @@
 | 3/2/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/2/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/12/2020 | PDP11583 | 2020 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
-| 2/3/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/3/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/27/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/22/2020 | PDP11583 | 2020 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
@@ -404,7 +401,6 @@
 | 4/18/2018 | PDP21255 | 2018 Crisis Negotiaton Team Training | Passed | 0.0 | 6.00 |
 | 4/15/2018 | PDP40007 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP08729 | RRT In-Service Force Reporting | Passed | 0.0 | 1.00 |
-| 4/15/2018 | PDP28689 | Undefined | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP32318 | RRT In-Service Squad Time | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP04872 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP34473 | RRT In-Service Specialty Care | Passed | 0.0 | 1.00 |

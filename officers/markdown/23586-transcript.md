@@ -23,8 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | 22-CVDL3 | 2022 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/15/2022 | PDS21977 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/12/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 11/10/2022 | PDS22022 | ADA Policy | Passed | 0.0 | 1.00 |
@@ -117,7 +118,7 @@
 | 10/9/2017 | F6C18765 | Fall Firearms Qualification - AIT | Passed | 0.0 | 2.00 |
 | 10/9/2017 | F6C35956 | Fall Firearms Training - AIT | Passed | 0.0 | 5.00 |
 | 7/25/2017 | F6M15329 | Mental Health First Aid-AIT | Passed | 0.0 | 8.00 |
-| 6/20/2017 | F6C17379 | OSHa  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
+| 6/20/2017 | F6C17379 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 6/7/2017 | F6C11602 | Narcan Adapt Training | Passed | 0.0 | 1.00 |
 | 6/6/2017 | F6C26794 | MCSO Policy Access and Acknowledgement Training | Passed | 0.0 | 0.50 |
 | 5/11/2017 | F6C12021 | Crisis Intervention | Passed | 0.0 | 1.50 |

@@ -42,6 +42,7 @@
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | OCP02181 | Legislative Updates | Passed | 0.0 | 0.75 |
 | 11/17/2022 | OCP34531 | Firearms/Use of Force | Passed | 0.0 | 1.00 |
+| 11/15/2022 | OCP17958 | Supervising Patrol Critical Incidents | Passed | 0.0 | 16.00 |
 | 10/19/2022 | LOP42495 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 10/19/2022 | LOP43350 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 8/31/2022 | OCP33065 | Unknown Risk Vehicle Stops | Passed | 0.0 | 0.50 |

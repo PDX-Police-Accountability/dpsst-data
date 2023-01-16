@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/23/2022
+  course: PDP10319
+  title: TriTech Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/1/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

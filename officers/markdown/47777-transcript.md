@@ -67,7 +67,6 @@
 | 5/16/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
-| 4/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/5/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/3/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/3/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
@@ -204,12 +203,10 @@
 | 4/6/2020 | PDP00208 | 2020 BHR 2.02 | Passed | 0.0 | 1.00 |
 | 4/6/2020 | PDP07236 | 2020 Training InService Wellness Stress/Resilience | Passed | 0.0 | 1.50 |
 | 4/5/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
-| 3/14/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/14/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/14/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/14/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/6/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/2/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/2/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/24/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/24/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

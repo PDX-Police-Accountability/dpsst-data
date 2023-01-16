@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2022
+  course: BVP43646
+  title: National School Resource Officer Basic Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2022
+  course: BVP33801
+  title: Night Range Low Light Shooting Qual
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/13/2022
   course: HBS32629
   title: MFF APR Qualification
@@ -220,12 +232,6 @@ training_records:
   hours: '0.50'
 - date: 7/20/2021
   course: BVP32311
-  title: Intoxilyzer 8000 Certification Class
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 7/20/2021
-  course: BVP13286
   title: Intoxilyzer 8000 Certification Class
   status: Passed
   score: '0.0'
@@ -585,12 +591,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 3/13/2020
-  course: PDP18400
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/13/2020
   course: PDP09893
   title: 2020 SERT Patrol Armored Vehicle Use Video
   status: Passed
@@ -629,12 +629,6 @@ training_records:
 - date: 3/3/2020
   course: PDP15893
   title: 2020-1 Range Qualification Shotgun Function Check
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/24/2020
-  course: PDP18400
-  title: Undefined
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -1451,12 +1445,6 @@ training_records:
 - date: 4/15/2018
   course: PDP08729
   title: RRT In-Service Force Reporting
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/15/2018
-  course: PDP28689
-  title: Undefined
   status: Passed
   score: '0.0'
   hours: '1.00'

@@ -30,6 +30,12 @@ certification_records:
   expiration_date: 2/8/2027
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: PDP06672
+  title: K9 Unit Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/9/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

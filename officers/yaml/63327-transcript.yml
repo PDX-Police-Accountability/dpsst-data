@@ -54,6 +54,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/7/2022
+  course: PDP44707
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/7/2022
+  course: PDP28517
+  title: Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/6/2022
+  course: PDP13951
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/5/2022
+  course: PDP01145
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/5/2022
   course: PDP21221
   title: DOJ Settlement Agreement

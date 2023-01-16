@@ -69,6 +69,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/28/2022
+  course: PDP26451
+  title: EDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/14/2022
+  course: PDP03067
+  title: EDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/7/2022
+  course: PDP35088
+  title: EDU Orientation  GPS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/5/2022
   course: PDP44436
   title: 2022 Post Shooting Response
@@ -87,6 +105,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/30/2022
+  course: PDP17602
+  title: EDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/23/2022
+  course: PDP15520
+  title: EDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/16/2022
   course: PDP05111
   title: 'Weekly EDU: robots, rigging, glass door entry'

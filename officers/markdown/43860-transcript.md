@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2022 | PDP13052 | 2022 Vocabulary in the LGBTQIA2S+ Queer Comm | Passed | 0.0 | 0.25 |
 | 12/12/2022 | PDP42710 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

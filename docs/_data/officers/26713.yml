@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/28/2022
+  course: HBP35446
+  title: Active Threat Response Drills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/8/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/30/2022
+  course: MNS39830
+  title: 2022 YCSO Ethics Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/19/2022
   course: MNS00996
   title: EVOC Refresher

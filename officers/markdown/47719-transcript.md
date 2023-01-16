@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2022 | BVP43646 | National School Resource Officer Basic Course | Passed | 0.0 | 1.00 |
+| 11/1/2022 | BVP33801 | Night Range Low Light Shooting Qual | Passed | 0.0 | 4.00 |
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |
 | 10/13/2022 | HBS44109 | Mobile Field Force- Drills | Passed | 0.0 | 6.00 |
 | 10/3/2022 | BVP31114 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
@@ -66,7 +68,6 @@
 | 7/21/2021 | BVP14984 | House Bill 3164 TB 21-05 | Passed | 0.0 | 0.50 |
 | 7/21/2021 | BVP26756 | Unlawful Entry Motor Vehicle TB 21-06 | Passed | 0.0 | 0.50 |
 | 7/20/2021 | BVP32311 | Intoxilyzer 8000 Certification Class | Passed | 0.0 | 6.00 |
-| 7/20/2021 | BVP13286 | Intoxilyzer 8000 Certification Class | Passed | 0.0 | 6.00 |
 | 6/15/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2021 | BVP34648 | Legal Updates | Passed | 0.0 | 1.50 |
 | 6/4/2021 | BVP21376 | Firearms Qualifcation | Passed | 0.0 | 3.00 |
@@ -126,7 +127,6 @@
 | 4/24/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
 | 4/1/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/13/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
@@ -134,7 +134,6 @@
 | 3/3/2020 | PDP15134 | 2020-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 3/3/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/3/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 2/24/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/24/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/19/2020 | PDP22597 | NOC Informant Management Training | Passed | 0.0 | 4.00 |
 | 2/6/2020 | PDP00208 | 2020 BHR 2.02 | Passed | 0.0 | 1.00 |
@@ -271,7 +270,6 @@
 | 5/25/2018 | PDP34345 | 2018 Bicycle Theft Summit | Instructed | 0.0 | 7.00 |
 | 4/15/2018 | PDP40007 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP08729 | RRT In-Service Force Reporting | Passed | 0.0 | 1.00 |
-| 4/15/2018 | PDP28689 | Undefined | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP32318 | RRT In-Service Squad Time | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP04872 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP34473 | RRT In-Service Specialty Care | Passed | 0.0 | 1.00 |

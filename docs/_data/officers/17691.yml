@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/30/2022
+  course: MNS39830
+  title: 2022 YCSO Ethics Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/19/2022
   course: MNS00996
   title: EVOC Refresher
@@ -103,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/5/2022
+  course: MNS22800
+  title: Strangulation Investigations Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/26/2022
   course: MNS16260
   title: MILO, Senario Based Training
@@ -112,6 +124,12 @@ training_records:
 - date: 3/23/2022
   course: MNS22423
   title: FIREARMS SKILL BUILDER
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/6/2022
+  course: MNS09907
+  title: OSSA HB 2513 Training Video
   status: Passed
   score: '0.0'
   hours: '2.00'

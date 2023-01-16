@@ -40,7 +40,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/28/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/22/2022 | PDP30625 | SERT Firearms Drills | Instructed | 0.0 | 9.00 |
+| 12/15/2022 | PDP24866 | SERT Iteration Training | Passed | 0.0 | 9.00 |
 | 12/7/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/1/2022 | PDP00630 | SERT Weapons Drills | Instructed | 0.0 | 9.00 |
 | 11/21/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/21/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |

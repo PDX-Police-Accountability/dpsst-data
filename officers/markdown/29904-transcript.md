@@ -4,7 +4,7 @@
 | name | Pearce, Jason B. |
 | dpsst_identifier | 29904 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 12/19/2022 | Multnomah County Sheriff's Office | Hired | Lieutenant |  |  |
+| 12/13/2022 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 9/8/2016 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 7/8/2004 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/8/1994 | Portland Police Bureau | Hired | Police Off |  |  |

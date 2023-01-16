@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: PDP24866
+  title: SERT Iteration Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/1/2022
+  course: PDP00630
+  title: SERT Weapons Drills
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/27/2022
   course: PDP01766
   title: 2022 Post Shooting Response

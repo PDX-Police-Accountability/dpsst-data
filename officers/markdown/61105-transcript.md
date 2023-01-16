@@ -44,7 +44,7 @@
 | 8/30/2022 | F1507039 | HazMat Awareness Level | Passed | 0.0 | 2.00 |
 | 8/26/2022 | NGP16978 | Oregon SFST Refresher | Passed | 0.0 | 4.00 |
 | 8/26/2022 | F1509672 | Anti-Bias Trianing for LE | Passed | 0.0 | 2.00 |
-| 8/25/2022 | NGP44362 | Taser 7 user transition course | Passed | 0.0 | 4.00 |
+| 8/25/2022 | NGP44362 | Taser 7 User Transition Course | Passed | 0.0 | 4.00 |
 | 8/25/2022 | NGP31743 | Handcuffing  Restraints | Passed | 0.0 | 2.00 |
 | 8/25/2022 | NGP21069 | WRAP Restraint | Passed | 0.0 | 1.00 |
 | 8/25/2022 | F1513511 | Interacting with the Mentally Ill | Passed | 0.0 | 1.00 |

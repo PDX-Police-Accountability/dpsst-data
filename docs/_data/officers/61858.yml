@@ -28,18 +28,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/28/2022
+- status_date: 1/12/2023
   certificate: Parole  Probation Officer
   level: Basic
-  status: Required
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 9/28/2023
 training_records:
-- date: 9/28/2023
+- date: 1/10/2023
   course: M31-21A
   title: DPSST Parole and Probation Field Training Manual
-  status: Required
+  status: Completed
   score: '0.0'
   hours: '50.00'
 - date: 11/10/2022

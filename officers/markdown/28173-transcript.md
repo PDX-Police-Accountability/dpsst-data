@@ -48,7 +48,6 @@
 | 7/28/2022 | F6R31555 | Wildfire Smoke Training Requirements | Passed | 0.0 | 1.00 |
 | 6/29/2022 | MKL26688 | First Aid and CPR | Passed | 0.0 | 5.50 |
 | 6/15/2022 | MKL24792 | Use of Force / Defensive Tactics | Passed | 0.0 | 8.00 |
-| 6/15/2022 | MKL39637 | CORRECTED - MKL24792 | Passed | 0.0 | 8.00 |
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 5/5/2022 | MKL28111 | Communication/Customer Service Skills | Passed | 0.0 | 0.50 |
 | 5/4/2022 | MKL12863 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |

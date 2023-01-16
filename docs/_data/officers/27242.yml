@@ -107,6 +107,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2022
+  course: ICE08950
+  title: Active Violence Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2022
+  course: SPP07301
+  title: Calm Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/7/2022
+  course: SPP32167
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/18/2022
+  course: ICE29908
+  title: Truthfulness Polcy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/29/2022
   course: F6R19836
   title: Cultivating an Inclusive, Ethical Culture
@@ -161,12 +185,42 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/25/2022
+  course: ICE43731
+  title: Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/19/2022
+  course: ICE42114
+  title: Ative Violence Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/19/2022
+  course: SFP38159
+  title: Truthfulness Polcy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/13/2022
   course: ICE16086
   title: Patient Evaluation for Law Enforcement-HB 2513
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/13/2022
+  course: ICE39298
+  title: Airway Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/13/2022
+  course: SPP14878
+  title: Airway Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/27/2022
   course: ICE20832
   title: Firearms-Handgun and Rifle

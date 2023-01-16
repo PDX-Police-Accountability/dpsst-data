@@ -124,6 +124,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2023
+  course: LGS05928
+  title: CPR, AED, and Basic First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/27/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -2981,6 +2987,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/9/2023
+  expiration_date: 1/9/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023

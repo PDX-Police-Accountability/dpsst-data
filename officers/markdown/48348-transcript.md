@@ -148,7 +148,6 @@
 | 3/29/2021 | PDP20959 | 2020 Hernandez TRO Don't Shoot Portland v Portland | Passed | 0.0 | 0.50 |
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/24/2021 | PDP41428 | 2020 CAO Don't Shoot PDX/Hernandez (resend) | Passed | 0.0 | 0.25 |
 | 3/24/2021 | PDP36177 | 2020 CAO IPO/McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |
 | 3/24/2021 | PDP19941 | 2020 CAO Newspapers/SimonTRO (resend) | Passed | 0.0 | 0.25 |

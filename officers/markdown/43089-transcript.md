@@ -36,6 +36,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/9/2023 | 1/9/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 5/19/2021 | 5/19/2023 |
@@ -47,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2023 | LGS05928 | CPR, AED, and Basic First Aid | Passed | 0.0 | 2.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/16/2022 | LGS10575 | Rifle night training | Instructed | 0.0 | 3.00 |
 | 10/31/2022 | LGS37032 | Duty To Intercede - PoliceOne Academy #DUTY101 | Passed | 0.0 | 1.00 |

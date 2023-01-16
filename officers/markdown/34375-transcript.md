@@ -50,6 +50,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/31/2022 | STS29887 | Lexipol Daily Training Bulletins | Passed | 0.0 | 11.00 |
 | 12/19/2022 | STS20481 | Firearms/Qualification | Passed | 0.0 | 0.50 |
+| 12/8/2022 | OSA22534 | You Are Never Alone / Understanding PTSD/PTSI | Passed | 0.0 | 4.00 |
+| 12/8/2022 | OSA11017 | Tired-Lost-Overwhelmed You are at the right place! | Passed | 0.0 | 4.00 |
+| 12/7/2022 | OSA34918 | OSSA De-Escalation Session #1 - Dec 7, 2022 | Passed | 0.0 | 1.50 |
+| 12/7/2022 | OSA24169 | OSSA De-Escalation Session #2 - Dec 7, 2022 | Passed | 0.0 | 1.50 |
+| 12/7/2022 | OSA18205 | OSSA Use of Force/Legal Updates #1 Dec 7, 2022 | Passed | 0.0 | 2.00 |
+| 12/7/2022 | OSA16044 | OSSA Use of Force/Legal Updates #2 Dec 7, 2022 | Passed | 0.0 | 2.00 |
 | 12/5/2022 | OSA15918 | OSSA Enforcement Command Council - Dec 2022 | Passed | 0.0 | 3.00 |
 | 12/1/2022 | LCP27290 | Homicide and Crime Scene Investigations | Passed | 0.0 | 20.00 |
 | 9/29/2022 | STS12726 | DPSST Ethics Bulletin Review #201 | Passed | 0.0 | 0.50 |

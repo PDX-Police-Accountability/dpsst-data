@@ -37,14 +37,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/31/2022 | MNS39839 | YCSO Policy Review | Passed | 0.0 | 9.00 |
+| 12/30/2022 | MNS39830 | 2022 YCSO Ethics Review | Passed | 0.0 | 1.00 |
 | 12/19/2022 | MNS00996 | EVOC Refresher | Instructed | 0.0 | 20.00 |
 | 12/5/2022 | MNS00369 | Firearms Introduction / Qualification Low Light | Passed | 0.0 | 2.00 |
 | 11/9/2022 | MNS17774 | MILO Scenarios | Passed | 0.0 | 0.50 |
 | 10/11/2022 | MNS39047 | Firearms Qualification Daylight | Passed | 0.0 | 2.00 |
 | 8/30/2022 | REG04480 | 2022 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 5/31/2022 | MNS32249 | FIREARMS SKILL BUILDER | Passed | 0.0 | 2.00 |
+| 5/5/2022 | MNS22800 | Strangulation Investigations Review | Passed | 0.0 | 1.00 |
 | 3/26/2022 | MNS16260 | MILO, Senario Based Training | Passed | 0.0 | 0.50 |
 | 3/23/2022 | MNS22423 | FIREARMS SKILL BUILDER | Passed | 0.0 | 2.00 |
+| 3/6/2022 | MNS09907 | OSSA HB 2513 Training Video | Passed | 0.0 | 2.00 |
 | 2/2/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2021 | MNS39589 | Cardlock Fueling | Passed | 0.0 | 0.50 |
 | 12/20/2021 | MNS01764 | Taser Recertification | Passed | 0.0 | 1.50 |

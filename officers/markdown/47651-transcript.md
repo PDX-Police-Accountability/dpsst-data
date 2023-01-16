@@ -119,7 +119,6 @@
 | 11/18/2021 | PDP34501 | 2021-4 City Attorney's Legal Updates for 4/2021 | Passed | 0.0 | 0.25 |
 | 11/18/2021 | PDP26000 | 2021-5 City Attorney's Legal Updates for 5/2021 | Passed | 0.0 | 0.25 |
 | 11/18/2021 | PDP38317 | 2021-6 City Attorney's Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
-| 10/28/2021 | F6F04769 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
 | 10/28/2021 | PDP07458 | Increasing Resilience in First Responders | Passed | 0.0 | 6.00 |
 | 10/24/2021 | PDP18806 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/24/2021 | PDP44558 | 2020-12 CAO Legal Updates for 12.2020-Updated | Passed | 0.0 | 0.25 |
@@ -302,7 +301,6 @@
 | 3/18/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/18/2020 | PDP17847 | 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines | Passed | 0.0 | 0.25 |
 | 2/22/2020 | PDP30360 | 2019-1 PSD Force Inspector Updates Q1-SupsCommand | Passed | 0.0 | 0.25 |
-| 2/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/10/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/10/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/8/2020 | PDP42566 | 2019-11 City Attorney's Office Legal Updates 11/19 | Passed | 0.0 | 0.25 |

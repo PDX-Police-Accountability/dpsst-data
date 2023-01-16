@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2023
+  course: BNP10046
+  title: Defensive Tactics - Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/15/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

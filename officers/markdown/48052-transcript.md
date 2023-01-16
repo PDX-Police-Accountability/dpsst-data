@@ -201,7 +201,6 @@
 | 3/23/2020 | PDP07089 | 2019-12 City Attorney's Legal Updates for 12/2019 | Passed | 0.0 | 0.50 |
 | 3/23/2020 | PDP09330 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/23/2020 | PDP35084 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
-| 3/5/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/5/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 3/2/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/2/2020 | PDP15134 | 2020-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |

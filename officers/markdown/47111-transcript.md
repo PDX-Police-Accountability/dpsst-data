@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/20/2022 | BVP43646 | National School Resource Officer Basic Course | Passed | 0.0 | 1.00 |
+| 11/1/2022 | BVP33801 | Night Range Low Light Shooting Qual | Passed | 0.0 | 4.00 |
 | 10/3/2022 | BVP31114 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 6/16/2022 | BVP16514 | ACAP and Duty to Intervene CT Scenarios | Passed | 0.0 | 1.00 |
 | 6/16/2022 | BVP15467 | Handgun and Rifle Qual June IST 2022 | Passed | 0.0 | 4.00 |

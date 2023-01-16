@@ -98,7 +98,6 @@
 | 2/19/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/19/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/19/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 2/5/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/5/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/23/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/14/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |

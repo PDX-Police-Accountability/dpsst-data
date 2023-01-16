@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/31/2022 | Multnomah County Sheriff's Office | Retired | Sheriff |  |  |
 | 8/17/2016 | Multnomah County Sheriff's Office | Promotion | Sheriff |  |  |
 | 7/1/2016 | Multnomah County Sheriff's Office | Hired | Undrsherif |  |  |
 | 1/2/2015 | Portland Police Bureau | Retired | Chief |  |  |
@@ -26,18 +27,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/30/2016 | Police Officer | Advanced | Granted | 8/30/2016 |  |  |
-| 8/30/2016 | Police Officer | Basic | Granted | 8/30/2016 |  |  |
-| 8/30/2016 | Police Officer | Executive | Granted | 8/30/2016 |  |  |
-| 8/30/2016 | Police Officer | Intermediate | Granted | 8/30/2016 |  |  |
-| 8/30/2016 | Police Officer | Management | Granted | 8/30/2016 |  |  |
-| 8/30/2016 | Police Officer | Supervisory | Granted | 8/30/2016 |  |  |
-| 4/2/2015 | Police Officer | Advanced | Lapsed | 1/4/2011 |  |  |
-| 4/2/2015 | Police Officer | Basic | Lapsed | 12/5/1990 |  |  |
-| 4/2/2015 | Police Officer | Executive | Lapsed | 1/4/2011 |  |  |
-| 4/2/2015 | Police Officer | Intermediate | Lapsed | 4/17/1992 |  |  |
-| 4/2/2015 | Police Officer | Management | Lapsed | 1/4/2011 |  |  |
-| 4/2/2015 | Police Officer | Supervisory | Lapsed | 1/4/2011 |  |  |
+| 8/30/2016 | Police Officer | Advanced | Reactivate | 1/4/2011 | 3/31/2023 |  |
+| 8/30/2016 | Police Officer | Basic | Reactivate | 12/5/1990 | 3/31/2023 |  |
+| 8/30/2016 | Police Officer | Executive | Reactivate | 1/4/2011 | 3/31/2023 |  |
+| 8/30/2016 | Police Officer | Intermediate | Reactivate | 4/17/1992 | 3/31/2023 |  |
+| 8/30/2016 | Police Officer | Management | Reactivate | 1/4/2011 | 3/31/2023 |  |
+| 8/30/2016 | Police Officer | Supervisory | Reactivate | 1/4/2011 | 3/31/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '44.00'
+- date: 9/23/2022
+  course: OSH17621
+  title: Defensive Tactics 2nd trimester Taser
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/23/2022
   course: OSH37574
   title: Oregon State Police-Crisis Negotiator Training

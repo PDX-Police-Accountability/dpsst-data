@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2023 | HBP03564 | Firearms Qualification | Passed | 0.0 | 1.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | HBP39455 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |
 | 7/19/2022 | HBP00479 | Range / Force and Tactics | Passed | 0.0 | 10.00 |

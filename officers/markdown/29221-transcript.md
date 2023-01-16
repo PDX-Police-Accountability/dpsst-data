@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2023 | BNP10046 | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | BNP35909 | OC Policy, 40mm Policy and User Qualification | Passed | 0.0 | 1.50 |
 | 12/7/2022 | BNP36870 | BOLA Wrap policy/familiarization | Passed | 0.0 | 0.50 |

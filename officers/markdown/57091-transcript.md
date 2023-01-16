@@ -39,6 +39,10 @@
 | 12/14/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/14/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/14/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/12/2022 | PDP17554 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 12/7/2022 | PDP44707 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 12/6/2022 | PDP13951 | Firearms Training | Instructed | 0.0 | 7.00 |
+| 12/5/2022 | PDP01145 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 11/30/2022 | PDP16923 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 11/29/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/21/2022 | PDP21360 | Firearms Training | Instructed | 0.0 | 6.00 |

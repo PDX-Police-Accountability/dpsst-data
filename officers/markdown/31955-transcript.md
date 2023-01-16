@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2023 | CAP15716 | Tactical Duty Knife | Passed | 0.0 | 2.00 |
 | 12/14/2022 | CAP05723 | Night Shoot | Passed | 0.0 | 3.00 |
 | 11/30/2022 | CAP23455 | Interefering with a Police Officer Refresher | Passed | 0.0 | 0.50 |
 | 10/31/2022 | CAP36835 | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |

@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/26/2022
+  course: PDP25490
+  title: COVA Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.50'
 - date: 10/20/2022
   course: VND16277
   title: 'Search Warrants: Not as Painful as You Think'

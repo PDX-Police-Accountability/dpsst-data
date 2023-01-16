@@ -121,7 +121,7 @@ training_records:
 - date: 11/9/2022
   course: VND17906
   title: Advanced Course in Police Discipline
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '15.00'
 - date: 11/2/2022
@@ -916,12 +916,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/29/2021
-  course: PDP27594
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 3/22/2021
   course: PDP24601
   title: 2021 Equity Training Series - Preparation
@@ -1537,12 +1531,6 @@ training_records:
 - date: 3/11/2020
   course: PDP43925
   title: 2020-1 CHO Force Inspector Updates for Q1
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/9/2020
-  course: PDP18400
-  title: Undefined
   status: Passed
   score: '0.0'
   hours: '0.25'

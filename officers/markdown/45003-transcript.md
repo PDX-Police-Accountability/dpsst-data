@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 12/21/2022 | HBP42091 | Active Threat Response Drills | Passed | 0.0 | 3.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | HBP37449 | MCIR / Active Threat Response - Briefing | Passed | 0.0 | 1.00 |
 | 11/30/2022 | HBP39455 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |

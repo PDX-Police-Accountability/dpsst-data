@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2022 | SPP07301 | Calm Training | Passed | 0.0 | 8.00 |
 | 11/16/2022 | SVP41956 | Firearms Training | Passed | 0.0 | 4.00 |
 | 10/12/2022 | BPT12447 | Building Search / Ballistic Shield | Passed | 0.0 | 4.00 |
 | 9/23/2022 | SYP38011 | Defensive Tactics, Handcuffing | Instructed | 0.0 | 4.00 |

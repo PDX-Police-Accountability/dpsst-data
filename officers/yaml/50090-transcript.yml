@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/21/2022
+  course: PDP06672
+  title: K9 Unit Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/10/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

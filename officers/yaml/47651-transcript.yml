@@ -548,12 +548,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 10/28/2021
-  course: F6F04769
-  title: Increasing Resilience in First Responders
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 10/28/2021
   course: PDP07458
   title: Increasing Resilience in First Responders
   status: Passed
@@ -1642,12 +1636,6 @@ training_records:
 - date: 2/22/2020
   course: PDP30360
   title: 2019-1 PSD Force Inspector Updates Q1-SupsCommand
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/10/2020
-  course: PDP18400
-  title: Undefined
   status: Passed
   score: '0.0'
   hours: '0.25'
