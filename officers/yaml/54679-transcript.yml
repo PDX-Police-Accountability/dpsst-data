@@ -1,2 +1,746 @@
 ---
-missing_transcript: true
+header_record:
+  name: DeLuna, Nigel A.
+  dpsst_identifier: '54679'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/1/2022
+  agency: Molalla Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 6/30/2022
+  agency: Mt. Angel Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 10/14/2019
+  agency: Mt. Angel Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 11/17/2016
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/17/2016
+  agency: Portland Police Bureau
+  action: Reclassed
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 9/22/2014
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 7/27/2020
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 7/27/2020
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 1/5/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/21/2022
+  course: MLP07375
+  title: Maintaining A Drug-Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2022
+  course: MLP44561
+  title: Night Range Firearms November
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/16/2022
+  course: MLP24161
+  title: Defensive Tactics/ OC Spray/ Baton Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/13/2022
+  course: MLP19099
+  title: Firearms Training and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/26/2022
+  course: MLP24586
+  title: Enter
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/26/2022
+  course: MLP29263
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/10/2022
+  course: MAP31419
+  title: Taser Annual Re-Certification Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/6/2022
+  course: MLP40241
+  title: Rifle Qualifications and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/29/2022
+  course: MAP35999
+  title: BUILDING SEARCH TACTICS I
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/15/2022
+  course: MAP34059
+  title: CONSENT TO SEARCH/ EQUIPMENT VEHICLE STOPS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/4/2022
+  course: MAP31626
+  title: HB 2513 AIRWAY  CIRCULATORY CRISIS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/27/2022
+  course: MAP43730
+  title: LE Prevention and Deterrence of Terrorist Acts
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 4/20/2022
+  course: MAP04225
+  title: Handgun Shooting While Moving
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/16/2022
+  course: BPT34763
+  title: Advanced De-Escalation and Escalation Prevention
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/23/2022
+  course: SVP09269
+  title: Domestic Violence/Search  Seizure/Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/23/2022
+  course: SVP16496
+  title: Ofc. Involved Shooting Protocols/MCDA Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/16/2022
+  course: MAP40900
+  title: CPR, 1st Aid, Bleeding Control
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/16/2022
+  course: MAP19360
+  title: First Aid/CPR/AED Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/12/2022
+  course: MAP22480
+  title: Handgun Drills, Movement, Target Transitions
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/21/2021
+  course: MISCMAIN
+  title: 2021 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/20/2021
+  course: MAP32090
+  title: Rifle from vehicle, low-light handgun scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2021
+  course: F6F22990
+  title: Applied De-escalation Tactics
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 9/3/2021
+  course: MAP20502
+  title: Tips for guarding against school shooters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/19/2021
+  course: F6E39251
+  title: DPSST Ethics Bulletin Volumes 202-206
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/19/2021
+  course: F6E19544
+  title: DPSST Ethics Bulletin Volumes 202-206
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/21/2021
+  course: MAP37644
+  title: Firearms  OC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/29/2021
+  course: BPT29843
+  title: Emergency Vehicle Operations - Skill Update
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/28/2021
+  course: MAP20650
+  title: Case Studies- Application of Shooting Center Mass
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/21/2021
+  course: MAP42156
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/7/2021
+  course: MAP30489
+  title: Victim's Rights Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/26/2021
+  course: F6E05512
+  title: Child Abuse Investigation Protocol
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 3/11/2021
+  course: MAP43846
+  title: Carbon Monoxide Awareness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/2/2021
+  course: MAP37597
+  title: 2021 Employee Handbook
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/5/2021
+  course: MAP40496
+  title: National  Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/28/2021
+  course: MAP06199
+  title: NW Natural Gas First Responder Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/28/2021
+  course: MAP27978
+  title: Ballot Measure 110 Dept. Directive/General Order
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/8/2021
+  course: MAP00677
+  title: Pipeline Safety for Emergency Response Officials
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/21/2020
+  course: MAP07339
+  title: Oregon OSHA COVID-19 Temporary Rule Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/9/2020
+  course: MAP19959
+  title: 40mm Launcher Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/9/2020
+  course: MAP19456
+  title: Taser CEW Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/20/2020
+  course: F6D28889
+  title: Fundamentals of Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2020
+  course: F6D12224
+  title: Officer Wellness in 2020 and Beyond
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2020
+  course: F6D20912
+  title: 'Original Policing: Looking Back to the Future of.'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2020
+  course: F6D13377
+  title: HIDTA Program Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2020
+  course: F6D22551
+  title: Leading on Empty
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2020
+  course: F6D38016
+  title: Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/20/2020
+  course: F6D23918
+  title: 'The Other Survival Skill: Mental and Emotional.'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/20/2020
+  course: F6D37241
+  title: Use of Force, Law and Policy Issues
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/11/2020
+  course: F6D32812
+  title: Intoxilyzer 8000 Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/21/2020
+  course: MAP23900
+  title: Low Light Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 8/1/2020
+  course: MAP27954
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/28/2020
+  course: MAP39496
+  title: Ethics Bulletin Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/22/2020
+  course: F6D04824
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 7/14/2020
+  course: MAP35552
+  title: Legislative Police Reform Laws Directive 20-02
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2020
+  course: MAP43709
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/26/2020
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 5/17/2020
+  course: MAP18950
+  title: DPSST Ethics Bulletin 196  197
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/24/2020
+  course: MAP01797
+  title: Oregon Election Security Symposium
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/22/2020
+  course: F6D15188
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2020
+  course: F6D29406
+  title: Covid -19 PPE Donning and Doffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2020
+  course: 20-0009
+  title: DPSST Basic Police COD
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 2/29/2020
+  course: F6D41400
+  title: DUII Refresher and Wetlab
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/28/2020
+  course: F6D28485
+  title: DUII Refresher and Wetlab
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/19/2020
+  course: HUP32950
+  title: OC Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2020
+  course: HUP11989
+  title: OSHA Bloodborne Pathlogens Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2020
+  course: HUP32108
+  title: ASP Baton Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2020
+  course: MAP23038
+  title: DPSST Ethics Bulletin 195
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/7/2020
+  course: F6D18729
+  title: Less Lethal Shotgun Orientation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/6/2020
+  course: F6D11180
+  title: Marion County Domestic Violence Protocol
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 1/25/2020
+  course: F6D37287
+  title: Quarterly Firearms Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/24/2020
+  course: MAP36757
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/14/2020
+  course: F6D17809
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/1/2020
+  course: F6D33344
+  title: Implied Consent Law Changes
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/26/2019
+  course: HUP15835
+  title: Naloxone Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2019
+  course: MAP42936
+  title: Giving  Receiving Feedback
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/6/2019
+  course: F6D35794
+  title: Taser Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2019
+  course: MAP28434
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/16/2019
+  course: F6D25484
+  title: 2019 Marion County Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/9/2016
+  course: 16-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 8/15/2016
+  course: 16-0016
+  title: Weapons of Mass Destruction-Hours incl. in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/11/2016
+  course: 16-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/4/2016
+  course: 16-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 5/10/2016
+  course: F6C10074
+  title: Taser X2 Certification - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/28/2016
+  course: F6B00668
+  title: Radar Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/28/2016
+  course: F6B00669
+  title: Radar/Lidar Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/27/2016
+  course: F6C07215
+  title: Lidar Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/26/2016
+  course: F6C05240
+  title: Gas Mask Fit  Training (APR)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/25/2016
+  course: F6C26850
+  title: Geography
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/14/2016
+  course: F6C14665
+  title: IS-00700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/13/2016
+  course: F6C32777
+  title: IS-00100 Intro to Incident Command
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/12/2016
+  course: F6C35775
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/3/2016
+  course: F6C00023
+  title: Major Crime Scene - Detective Notification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/11/2015
+  course: 15-0683
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 6/9/2015
+  course: 15-0273
+  title: Taser X26 Certification
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/3/2015
+  course: 15-1228
+  title: Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/6/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/1/2015
+  course: 15-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/28/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/19/2015
+  course: 15-0562
+  title: Reserve Academy
+  status: Passed
+  score: '0.0'
+  hours: '292.00'
+- date: 1/27/2015
+  course: 15-0388
+  title: ICS 100 / IS 100 - Introduction to ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/27/2015
+  course: 15-0395
+  title: IS 700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/5/2014
+  course: 14-1072
+  title: DUII Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2014
+  course: 14-1253
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/1/2022
+  expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/16/2022
+  expiration_date: 2/16/2024
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2022
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2021
+  expiration_date: 1/1/1950
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 2/24/2020
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 5/15/2016
+  expiration_date: ''
+education_records: []

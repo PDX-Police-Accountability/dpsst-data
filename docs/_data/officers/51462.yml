@@ -1,2 +1,759 @@
 ---
-missing_transcript: true
+header_record:
+  name: Bender, Robert M.
+  dpsst_identifier: '51462'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Reserve Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/24/2018
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 7/4/2018
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 6/22/2010
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 12/26/2022
+  course: PDS13163
+  title: Gun Dispossession Enforcement  ERPO
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2022
+  course: PDS09552
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/21/2022
+  course: PDS36628
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2022
+  course: PDS14098
+  title: Narcan Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/21/2022
+  course: VND24266
+  title: Domestic Terrorism
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/2/2022
+  course: PDS40603
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/22/2022
+  course: PDS44753
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2022
+  course: PDS28431
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/23/2022
+  course: PDS23113
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/22/2022
+  course: PDS11149
+  title: Airway  Circulatory Crisis Training  Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/9/2022
+  course: LOP19092
+  title: EVOC (Driving, Use of Force)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/10/2022
+  course: PDS05076
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/16/2021
+  course: PDS08708
+  title: Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/13/2021
+  course: PDS21233
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/13/2021
+  course: PDS27610
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/10/2021
+  course: PDS10459
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2021
+  course: PDS24575
+  title: Financial Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/29/2021
+  course: PDS42184
+  title: BOEC Advanced SEND Protocol
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2021
+  course: PDS02599
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2021
+  course: PDS39567
+  title: Legal Update - Measure 110
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/2/2020
+  course: F6D10990
+  title: Traffic Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/14/2020
+  course: F6D23063
+  title: QuickReport Refresher - Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/13/2019
+  course: F6D40610
+  title: Disaster Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/7/2019
+  course: F6D28744
+  title: Person Searches
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2019
+  course: F6D25839
+  title: Stop Stick Use
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/9/2019
+  course: F6D02035
+  title: CPR - First Aid - AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/4/2019
+  course: F6D16903
+  title: Narcan Adapt Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/4/2019
+  course: F6D17929
+  title: OSHA  Bloodborne Pathogens 2019
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/4/2019
+  course: F6D24291
+  title: Firearms Training- Reserves
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 12/18/2018
+  course: F6D35150
+  title: Range Qualification-Reserve
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2018
+  course: F6D40214
+  title: Narcan Adapt Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2018
+  course: F6B39203
+  title: Distracted Driving
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/27/2018
+  course: F6B15594
+  title: DPSST Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/10/2018
+  course: F6D10417
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/26/2018
+  course: F6B14188
+  title: Taser X26P Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/17/2018
+  course: F6B00886
+  title: CPR-First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/14/2018
+  course: F6B13890
+  title: e-citation Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/14/2018
+  course: F6B30261
+  title: Homeless Outreach and Programs Engagement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/14/2018
+  course: F6B25825
+  title: MCSO Less Lethal Refresher Course
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/13/2018
+  course: F6B23754
+  title: 2018 PREA Staff Training, Updates and Reminders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/2/2018
+  course: F6B23525
+  title: 2018 MCSO Taser Re-certification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/21/2018
+  course: F6B09130
+  title: Defensive Tactics - Reserves
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/21/2018
+  course: F6B42297
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/18/2018
+  course: F6B08857
+  title: OC
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 7/14/2018
+  course: F6B27914
+  title: Firearms Training - Reserves
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/14/2018
+  course: F6B03954
+  title: Firearms Qualification - Reserves
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/3/2018
+  course: PDP42272
+  title: IFAK Refresher Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2018
+  course: PDP11353
+  title: 2017-3 Legal Updates for Q3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/26/2018
+  course: F6B15238
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2017
+  course: PPB24791
+  title: Intersection Clearing Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2017
+  course: PPB24792
+  title: Responding to People in Elevated Positions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/31/2017
+  course: PPB24454
+  title: Handgun Qualification - Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/31/2017
+  course: PPB24460
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/30/2017
+  course: PPB24788
+  title: Window of Opportunity
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/1/2017
+  course: F6C17533
+  title: TECC for Reserves
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/1/2017
+  course: PPB24578
+  title: TECC for Reserves
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/28/2017
+  course: F6C13191
+  title: Handgun Qualification-Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2017
+  course: F6C25706
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/4/2016
+  course: PPB24090
+  title: LEDS Recertification - Inquiry Level
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/2/2016
+  course: F6C01637
+  title: Taser X2 Transition in-serivce  2016
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/31/2016
+  course: F6C04096
+  title: Handgun Qualification-Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2016
+  course: F6C08264
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2016
+  course: F6C10895
+  title: Full Body Search-Reserves
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/7/2016
+  course: F6C38736
+  title: High Risk Vehicle Stops - Reserves
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/30/2016
+  course: F6C32309
+  title: Handgun Qualification - Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2016
+  course: F6C20466
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/29/2016
+  course: F6C23868
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/29/2016
+  course: F6C35721
+  title: Handgun Qualification Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/3/2016
+  course: F6C00023
+  title: Major Crime Scene - Detective Notification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/15/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2015
+  course: 15-1228
+  title: Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/6/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/1/2015
+  course: 15-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/6/2015
+  course: 15-0683
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/28/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 11/25/2014
+  course: 14-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/5/2014
+  course: 14-1072
+  title: DUII Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/20/2014
+  course: 14-1253
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2014
+  course: 14-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 9/3/2014
+  course: 14-0684
+  title: Effective Contacts with Mentally Ill Citizens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/3/2014
+  course: 14-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/10/2014
+  course: 14-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/2/2014
+  course: 14-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/5/2014
+  course: 14-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/28/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/19/2013
+  course: 13-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/4/2013
+  course: 13-1198
+  title: Building Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/2/2013
+  course: 13-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/7/2013
+  course: 13-3080
+  title: SFST  Drugs That Impair Driving (DID)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/31/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/27/2013
+  course: 13-1172
+  title: Lidar - Practical
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/23/2013
+  course: 13-1061
+  title: Drug Field Kit Testing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/4/2012
+  course: 12-0253
+  title: Crowd / Riot Control
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 8/8/2011
+  course: 11-0273
+  title: Taser X26 Certification
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/28/2011
+  course: 11-3091
+  title: Radar / Lidar Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/13/2011
+  course: 11-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/13/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/11/2011
+  course: 11-0562
+  title: Reserve Academy
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+attribute_records: []
+education_records: []

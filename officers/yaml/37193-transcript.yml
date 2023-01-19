@@ -1,2 +1,57 @@
 ---
-missing_transcript: true
+header_record:
+  name: Barber, Alan L.
+  dpsst_identifier: '37193'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 6/1/1992
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 4/2/2020
+  course: PLT35354
+  title: 1st Responders, Stress Mgt  Coronavirus
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2008
+  course: '08-0918'
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/23/2008
+  course: '08-0129'
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/19/2008
+  course: '08-0126'
+  title: Firearms Basic
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/11/2007
+  course: 07-1210
+  title: Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/26/2007
+  course: 07-0839
+  title: Radio Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

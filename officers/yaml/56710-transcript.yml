@@ -1,2 +1,1158 @@
 ---
-missing_transcript: true
+header_record:
+  name: Spencer, Lucas S.
+  dpsst_identifier: '56710'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/16/2021
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 6/5/2018
+  agency: Washington County Sheriff's Office
+  action: Return LOA
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 8/7/2017
+  agency: Washington County Sheriff's Office
+  action: LOA
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 10/3/2016
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 5/17/2021
+  certificate: Police Officer
+  level: Intermediate
+  status: Granted
+  certificate_date: 5/17/2021
+  expiration_date: ''
+  probation_date: ''
+- status_date: 6/7/2018
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 6/7/2018
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 12/22/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
+- date: 12/5/2022
+  course: HBS39429
+  title: 40MM Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/1/2022
+  course: VND09645
+  title: Using the Dark Web in Sex Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/21/2022
+  course: HBS44783
+  title: IFAST In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/20/2022
+  course: REG09502
+  title: Weapon Retention Standing/Ground
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/6/2022
+  course: REG00384
+  title: Defending Strikes from the Ground
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/3/2022
+  course: REG06408
+  title: Defending Strikes from the Ground
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2022
+  course: REG01912
+  title: Take Down, Guard Pass
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/16/2022
+  course: REG40540
+  title: In Fight Weapon Access
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/12/2022
+  course: HBS43987
+  title: Civility  Harassment Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/12/2022
+  course: HBS04668
+  title: CONSIM
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/12/2022
+  course: HBS36858
+  title: EVO September 2022 In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/16/2022
+  course: HBS34143
+  title: Rifle Update
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/15/2022
+  course: HBS41983
+  title: Basic Patrol Rifle Operator School
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/14/2022
+  course: HBS31785
+  title: Basic Patrol Rifle Operator School
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/13/2022
+  course: HBS39267
+  title: Basic Patrol Rifle Operator School
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/12/2022
+  course: HBS14886
+  title: Basic Patrol Rifle Operator School
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/16/2022
+  course: REG07375
+  title: DT Arm drag, Weapon Defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2022
+  course: HDA18610
+  title: Criminal Gang Investigations
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/26/2022
+  course: HBS21732
+  title: IFAST In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/26/2022
+  course: HBS31567
+  title: May 2022 Defensive Tactics (vest grabs)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/26/2022
+  course: HBS04070
+  title: Airway Circulation Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/18/2022
+  course: REG05790
+  title: DT controlling base and recovering base
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/14/2022
+  course: REG11755
+  title: Control tactics- Structure control and recovery
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2022
+  course: REG03632
+  title: Grip fighting, 2 officer take down, wrestle up
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2022
+  course: REG13487
+  title: Take down defense and strikes from the ground
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2022
+  course: REG06411
+  title: Ground strike defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/21/2022
+  course: REG34457
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/14/2022
+  course: REG26658
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/3/2022
+  course: REG39891
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2022
+  course: REG37104
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/21/2022
+  course: REG42657
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/10/2022
+  course: REG04498
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2022
+  course: REG44585
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2022
+  course: REG10075
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2022
+  course: MISCMAIN
+  title: 2021 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/11/2022
+  course: HBS35774
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2022
+  course: HBS35498
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/10/2022
+  course: REG43898
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/23/2021
+  course: REG21880
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2021
+  course: HBS20005
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
+- date: 12/21/2021
+  course: HBS18101
+  title: 'Child Sex Trafficking: Suspicion to Disclosure'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/9/2021
+  course: REG38520
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/7/2021
+  course: HBS44088
+  title: EVO PIT Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/2/2021
+  course: HBS28987
+  title: Firearms Update
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/2/2021
+  course: HBS38617
+  title: EVOC Policy Update
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/2/2021
+  course: HBS17748
+  title: Harassment/Civility
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/2/2021
+  course: HBS05954
+  title: Use of Force/Case Law Update
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/10/2021
+  course: HBS29384
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/10/2021
+  course: HBS35667
+  title: Mental Health Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/10/2021
+  course: HBS12629
+  title: Amber Alert
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/10/2021
+  course: HBS36721
+  title: ADA Americans with Disabilities Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/10/2021
+  course: HBS40295
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2021
+  course: HBS36059
+  title: OC, Baton and Taser Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/23/2021
+  course: HBS36720
+  title: May In-Service Firearms Update
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/21/2021
+  course: HBS11391
+  title: EVO Stop Stick Online Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/3/2021
+  course: HBS22299
+  title: WC Human Trafficking Taskforce
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/31/2021
+  course: HBS43578
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/31/2021
+  course: F6E18909
+  title: 2021 Red Cross Adult First Aid/CPR/AED Online
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/31/2020
+  course: 20-CVDL1
+  title: 2020 LE Annual Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 12/11/2020
+  course: HBS13155
+  title: PowerDMS Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2020
+  course: HBS35648
+  title: Firearms - September 2020 IFAST
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/16/2020
+  course: MISCMAIN
+  title: 2020 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/31/2020
+  course: HBS40131
+  title: DUII Implied Consent Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/22/2020
+  course: HBS24809
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/22/2020
+  course: HBS24207
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/22/2020
+  course: HBS30619
+  title: Amber Alert
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2020
+  course: HBS34958
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 1/22/2020
+  course: MISCCIT
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2020
+  course: HBS07389
+  title: Officer Involved
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/13/2019
+  course: HBS40135
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '5.25'
+- date: 11/13/2019
+  course: HBS08212
+  title: 2019 Domestic Violence Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/13/2019
+  course: HBS42584
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2019
+  course: HBS10861
+  title: American with Disabilities Act (ADA)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/8/2019
+  course: HBS14092
+  title: Eliminating Discrimination/Harassment - Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/2/2019
+  course: HBS02871
+  title: CONSIM
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/2/2019
+  course: HBS40005
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/2/2019
+  course: HBS23016
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/24/2019
+  course: MISCMAIN
+  title: 2019 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/23/2019
+  course: HBS32841
+  title: High Throughput Property DNA Analysis
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/24/2019
+  course: HBS03527
+  title: 3SI Bait and Alarm System
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2019
+  course: HBS08348
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '7.25'
+- date: 5/1/2019
+  course: HBS06540
+  title: Surviving Verbal Conflict
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/8/2019
+  course: HBS42235
+  title: DT's  - Mult. Officer Take-Down Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/8/2019
+  course: HBS25107
+  title: Taser Update
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/8/2019
+  course: HBS36530
+  title: Resiliency  Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/20/2019
+  course: HBS33733
+  title: Narcan/Naxolon Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2019
+  course: F6D12453
+  title: 'Child Sex Trafficking: Awareness and Response'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/4/2019
+  course: HBS07931
+  title: CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/4/2019
+  course: HBS31733
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/4/2019
+  course: HBS00437
+  title: Diversity, Equity  Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/4/2019
+  course: HBS42374
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/3/2019
+  course: HBS27936
+  title: DUII Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/9/2018
+  course: HBS18917
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/9/2018
+  course: HBS13233
+  title: 40mm Exact Impact Munition
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/7/2018
+  course: HBS12905
+  title: MRE 7.5 Rollout training
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 9/7/2018
+  course: HBS17794
+  title: CONSIM In-Service Patrol
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 9/7/2018
+  course: HBS40972
+  title: Post Traumatic Stress
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/2/2018
+  course: MISCMAIN
+  title: 2018 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/8/2018
+  course: HBS33950
+  title: IED Awareness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/8/2018
+  course: HBS19708
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '7.25'
+- date: 4/24/2018
+  course: HBS11827
+  title: Search Warrants
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/19/2018
+  course: F6B06684
+  title: RADAR/LIDAR - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/5/2018
+  course: 18T001
+  title: Police Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 3/28/2018
+  course: HBS10979
+  title: Homegrown Violent Extremism/Counter Terrorism
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/22/2018
+  course: HBS10564
+  title: Fentanyl Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/22/2018
+  course: HBS20463
+  title: Rural Law Enforcement/Animal Services
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/22/2018
+  course: HBS16127
+  title: HIN Inspections/Water Emergency Response Info
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/22/2018
+  course: HBS04171
+  title: OC's, Baton, DT's and Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/22/2018
+  course: HBS37766
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/20/2018
+  course: HBS34975
+  title: Tactical Emergency Medical Care Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/30/2018
+  course: F6B29534
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/30/2018
+  course: F6B32640
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/30/2018
+  course: F6B18727
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2018
+  course: F6B05142
+  title: Goal Setting/Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2018
+  course: HBS08893
+  title: InformCOM Mobile Client Update
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/6/2017
+  course: HBS24235
+  title: Child Abuse Investigations Update
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/27/2017
+  course: HBS06747
+  title: Washington County Ordinance Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/15/2017
+  course: F6C20261
+  title: Washington County CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 8/28/2017
+  course: F6C15431
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/28/2017
+  course: F6C22294
+  title: Legal Update 1st, 2nd Amendment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/28/2017
+  course: F6C09871
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/18/2017
+  course: HBS07523
+  title: Cellebrite's UFED Reader
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/18/2017
+  course: HBS42003
+  title: July 2017 RegJIN In-Service Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/18/2017
+  course: F6M42052
+  title: Prison Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/18/2017
+  course: F6C33582
+  title: Verbal Judo
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/13/2017
+  course: HBS18025
+  title: Flag Records for RegJin RMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/8/2017
+  course: HBS31566
+  title: IS 700 Natl Incident Management System (NIMS)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/3/2017
+  course: HBS28559
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 5/3/2017
+  course: HBS36501
+  title: ICS 200 Single Resources  Initial Action Incident
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/3/2017
+  course: HBS06763
+  title: Use of Force Update/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/3/2017
+  course: HBS06309
+  title: Radar Lidar Traffic Safety Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/2/2017
+  course: HBS12630
+  title: ICS 100 Introduction to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/14/2017
+  course: 16-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 3/21/2017
+  course: 16-0016
+  title: Weapons of Mass Destruction-Hours incl. in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/10/2017
+  course: F6A04606
+  title: Intoxilyzer 8000 Cert
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/9/2017
+  course: 16-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/11/2016
+  course: HBS23083
+  title: Cultural Diversity
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/29/2016
+  course: HBS23654
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/4/2016
+  course: HBS00108
+  title: MRE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/2/2016
+  course: HBS29527
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 11/1/2016
+  course: HBS19124
+  title: Con-Sim/Range 3000
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/1/2016
+  course: HBS19427
+  title: Use of Force Database
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2016
+  course: HBS42107
+  title: Firearms Skills Test
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2016
+  course: HBS24804
+  title: Off Duty Armed
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/28/2016
+  course: HBS06863
+  title: Defensive Tactics - Day 5
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/27/2016
+  course: HBS38452
+  title: Defensive Tactics - Day 4
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/26/2016
+  course: HBS01272
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/25/2016
+  course: HBS24844
+  title: Defensive Tactics - Day 3
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/24/2016
+  course: HBS09981
+  title: Defensive Tactics - Day 2
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/21/2016
+  course: HBS02497
+  title: Basic Firearms - Day 5
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/20/2016
+  course: HBS21716
+  title: Basic Firearms - Day 4
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/19/2016
+  course: HBS35622
+  title: Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/18/2016
+  course: HBS11584
+  title: Basic Firearms - Day 3
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/17/2016
+  course: HBS40496
+  title: Basic Firearms - Day 2
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/14/2016
+  course: HBS23579
+  title: Basic Firearms - Day 1
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/13/2016
+  course: HBS11526
+  title: Basic Firearms - Classroom
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/12/2016
+  course: HBS24060
+  title: Defensive Tactics - Day 1
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/11/2016
+  course: HBS28103
+  title: Use of Force Lecture
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/11/2016
+  course: HBS31955
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/10/2016
+  course: HBS33305
+  title: Officer Survival
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/10/2016
+  course: HBS12254
+  title: Verbal Judo
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/7/2016
+  course: F6A02724
+  title: CPR/First Aid/AED Bloodborne
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/6/2016
+  course: HBS11559
+  title: Laserfiche
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2016
+  course: HBS07419
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 10/4/2016
+  course: HBS04811
+  title: Amber Alert
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2016
+  course: HBS22570
+  title: CALEA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2016
+  course: HBS37863
+  title: SO Benefits Orientation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/4/2016
+  course: HBS36285
+  title: Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2016
+  course: HBS17742
+  title: Turberculosis Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2016
+  course: HBS27634
+  title: Wizard Timesheet Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2016
+  course: HBS20915
+  title: Workplace Other - FMLA/OFLA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2016
+  course: HBS21442
+  title: Fire Extinguisher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2016
+  course: HBS33858
+  title: New Hire Orientation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/3/2016
+  course: HBS15369
+  title: Sheriff's Welcome
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/3/2016
+  course: HBS01018
+  title: Email Etiquette
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2016
+  course: HBS18747
+  title: Hazardous Communication
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2016
+  course: HBS02614
+  title: Give Em The Pickle - Customer Service
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2016
+  course: HBS37485
+  title: Workplace/Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 1/11/2022
+  expiration_date: 1/11/2024
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/31/2021
+  expiration_date: 1/31/2023
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2021
+  expiration_date: 12/31/2023
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 10/4/2016
+  expiration_date: ''
+education_records:
+- date: 6/1/2016
+  degree: Bachelor Arts
+  school: George Fox University
+  major: ''
+  hours: '153.0'

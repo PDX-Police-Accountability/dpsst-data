@@ -1,2 +1,39 @@
 ---
-missing_transcript: true
+header_record:
+  name: Herrall, Michael J.
+  dpsst_identifier: '56976'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/10/2017
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 10/1/2019
+  course: BVP16721
+  title: Basic Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/19/2018
+  course: F6B06927
+  title: Ethics Bulletin 171
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/20/2017
+  course: 17-0008
+  title: DPSST Basic Police
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

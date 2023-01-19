@@ -1,2 +1,160 @@
 ---
-missing_transcript: true
+header_record:
+  name: Marquez, Christopher A.
+  dpsst_identifier: '63066'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/7/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 7/7/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 1/7/2024
+training_records:
+- date: 1/23/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Pending
+  score: '0.0'
+  hours: '640.00'
+- date: 12/13/2022
+  course: PDP18151
+  title: 2020 TOD Shots Fired Incident Reporting (SFIR)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/13/2022
+  course: PDP15978
+  title: 2021 Online In-Service Training Chicago Case Study
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2022
+  course: PDP02712
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2022
+  course: PDP42911
+  title: DIR 640.38 Interacting w Members of the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2022
+  course: PDP20949
+  title: 2021 PIO Photos for Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2022
+  course: PDP14035
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/22/2022
+  course: PDP03250
+  title: 2019 CHO SPLC Sovereign Citizen Movement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2022
+  course: PDP13241
+  title: 2020 Sup In-Service Labor and Employment Laws
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/22/2022
+  course: PDP05294
+  title: Annual CIU NTR Alarm Response Trng Reed Reactor
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/15/2022
+  course: PDP33759
+  title: 2019 CHO SPLC The Rise of the Lone Wolf
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/15/2022
+  course: PDP34472
+  title: 2019 Trng Public Safety Support Specialist Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2022
+  course: PDP07786
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2022
+  course: PDP20943
+  title: OSU Modified Duty and Cold Call-Taking Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/2/2022
+  course: PDP04346
+  title: 2019 Chief's Office SPLC Antigovernment Extremists
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/2/2022
+  course: PDP04437
+  title: 2019 Chief's Office SPLC Aryan Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/2/2022
+  course: PDP32811
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/26/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2022
+  course: PDP32896
+  title: 2020 Ethics and Leadership PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/16/2022
+  course: PDP00776
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/16/2022
+  course: PDP38388
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+attribute_records: []
+education_records: []

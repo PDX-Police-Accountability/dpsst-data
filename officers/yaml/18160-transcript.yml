@@ -1,2 +1,1431 @@
 ---
-missing_transcript: true
+header_record:
+  name: Schilling, Joseph A.
+  dpsst_identifier: '18160'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 12/31/2020
+  agency: Portland State University DPS
+  action: Retired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
+- date: 5/6/2019
+  agency: Portland State University DPS
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
+- date: 1/1/2015
+  agency: Portland State University DPS
+  action: Hired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 7/15/2010
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/9/1986
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/1/1985
+  agency: Portland Police Bureau
+  action: Layoff
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/3/1985
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 3/31/2021
+  certificate: Police Officer
+  level: Advanced
+  status: Lapsed
+  certificate_date: 3/9/1992
+  expiration_date: 12/31/2025
+  probation_date: ''
+- status_date: 3/31/2021
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 4/16/1986
+  expiration_date: 12/31/2025
+  probation_date: ''
+- status_date: 3/31/2021
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 3/9/1992
+  expiration_date: 12/31/2025
+  probation_date: ''
+- status_date: 3/31/2021
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 1/15/2016
+  expiration_date: 12/31/2025
+  probation_date: ''
+training_records:
+- date: 5/6/2021
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2020
+  course: 20-CVDLD
+  title: 2020 LE Leadership 3 Year Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 12/26/2020
+  course: PSU42830
+  title: Taser 7 Certification
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/12/2020
+  course: PSU22529
+  title: Glock Handgun - Pre Academy
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/12/2020
+  course: PSU08089
+  title: Glock Handgun - 2020.1112
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/25/2020
+  course: PSU35495
+  title: Racial Microaggressions
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 9/15/2020
+  course: PSU20261
+  title: Glock Handgun - 2020.0915
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/8/2020
+  course: PSU22272
+  title: Oregon Annual Title IX Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/31/2020
+  course: MISCMAIN
+  title: 2020 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 7/31/2020
+  course: PSU34579
+  title: Understanding and Counteracting Bias
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/28/2020
+  course: PSU12512
+  title: Glock Handgun - 2020.0728
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/28/2020
+  course: PSU12512
+  title: Glock Handgun - 2020.0728
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/5/2020
+  course: PSU22333
+  title: Training Officer Liability
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/25/2020
+  course: PSU00410
+  title: Developing Your Leadership Brand/Team Outcomes
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/23/2020
+  course: PSU14058
+  title: Conducted Energy Weapon Re-certification X2
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/23/2020
+  course: PSU05048
+  title: Use of Force Annual Update - 2020
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/9/2020
+  course: PSU35626
+  title: De-escalation Techniques for LE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/28/2020
+  course: PSU26376
+  title: COVID-19 Health Safety/Respirator Fit/Testing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/17/2020
+  course: PSU35861
+  title: Role of Leadership in Achieving POP Success
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/16/2020
+  course: 20-0026
+  title: DPSST Middle Management
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+- date: 3/10/2020
+  course: PSU30386
+  title: 'Communication in LE: Modules 1-3'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/18/2020
+  course: PSU19898
+  title: 21st Century Policing Overview
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/18/2020
+  course: PSU26242
+  title: Fair and Impartial Policing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/14/2020
+  course: PSU24770
+  title: Glock Handgun - PreAcademy
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/2/2020
+  course: PSU29331
+  title: BloodBorne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/20/2019
+  course: PSU17207
+  title: CPR/FA/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/11/2019
+  course: PSU03494
+  title: Reframing Racism-Manager Development
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/24/2019
+  course: PSU10252
+  title: 21st Century Policing Overview
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/20/2019
+  course: PSU00893
+  title: 'Ethics: Insights to Principled Policing'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/13/2019
+  course: PSU00002
+  title: 'Bridging compliance and best practice: Title IX'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/9/2019
+  course: MISCMAIN
+  title: 2019 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/4/2019
+  course: PSU00920
+  title: Glock Handgun - 2019.0904
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/4/2019
+  course: PSU00920
+  title: Glock Handgun - 2019.0904
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/4/2019
+  course: PSU22017
+  title: Glock Handgun - 2019.1017
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/4/2019
+  course: PSU22017
+  title: Glock Handgun - 2019.1017
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/20/2019
+  course: PSU01674
+  title: Trauma-Informed with changing Title IX Regs
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/8/2019
+  course: PSU34792
+  title: Taser Annual Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/3/2019
+  course: PSU19670
+  title: SRVR Program (WRC)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/28/2019
+  course: PSU26831
+  title: AXON - Device Home and Redaction Webinar
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/14/2019
+  course: PSU05397
+  title: BloodBorne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2019
+  course: PSU38825
+  title: Glock Handgun - 2019.0306
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/5/2019
+  course: PSU39818
+  title: Towards More Inclusive Hiring
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/25/2019
+  course: PSU07849
+  title: Fair and Impartial Policing
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/9/2019
+  course: F6D36848
+  title: Public Safety Leadership "Well Disciplined" Org.
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/4/2019
+  course: PSU41005
+  title: Advanced Supervisory Liability - 602LE(18-6A)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/1/2018
+  course: PSU42817
+  title: Officer Well-Being and Mental Health Awareness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/9/2018
+  course: MISCMAIN
+  title: 2018 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/6/2018
+  course: F6W27500
+  title: DPSST CJ Certification Workshop
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/4/2018
+  course: PSU05608
+  title: Supervisory Liability Course - 601LE
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/16/2018
+  course: PSU01394
+  title: Daily Training Bulletins - Policy Manual
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/16/2018
+  course: PSU01394
+  title: Daily Training Bulletins - Policy Manual
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/16/2018
+  course: PSU30664
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/15/2018
+  course: F6B14571
+  title: Defensive Tactics - Handcuffing (2 on 1)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/15/2018
+  course: F6B14571
+  title: Defensive Tactics - Handcuffing (2 on 1)
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/15/2018
+  course: F6B06560
+  title: Glock Handgun - 2018.0315
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/15/2018
+  course: F6B06560
+  title: Glock Handgun - 2018.0315
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/6/2018
+  course: F6B32992
+  title: Managing Police Training Record
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/31/2018
+  course: F6B19556
+  title: Video Examinations for the Police Investigators
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/23/2018
+  course: F6B42418
+  title: Global Diversity and Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/18/2018
+  course: F6B23789
+  title: Glock Handgun
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/15/2018
+  course: PSU17525
+  title: Traffic Stops and Officer Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2017
+  course: MISCMAIN
+  title: 2017 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/14/2017
+  course: F6C02078
+  title: 'Taser: Annual Re-Certification'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2017
+  course: F6C35283
+  title: Mental Illness/Lawful but Awful
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/30/2017
+  course: F6C07799
+  title: Use of Force Legal Trends and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/30/2017
+  course: F6C12605
+  title: Biomechanical Aspects of the Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/30/2017
+  course: F6C08910
+  title: Supervising Body Worn Camera Programs
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/2017
+  course: F6C39412
+  title: Crowd Control and First Ammendment Rights
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/30/2017
+  course: F6C10504
+  title: Supervising Tactical Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/30/2017
+  course: F6C14816
+  title: Supervising Millennials
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2017
+  course: F6C30419
+  title: Supervising Use of Force/OIS Investigations
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/17/2017
+  course: F6C21823
+  title: Adult/Infant CPR/AED First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/2/2017
+  course: F6W10235
+  title: Stress First Aid and Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/2/2017
+  course: F6W37490
+  title: Supervisor Responsibilities-Line of Duty Death
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/1/2017
+  course: F6A09843
+  title: 'Officer Survival: Mindset 360'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/22/2017
+  course: PSU19677
+  title: Glock Handgun - 2019.1017
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/24/2017
+  course: F6C13037
+  title: Verbal De-Escalation Techniques
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/7/2017
+  course: F6M21572
+  title: Glock Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/25/2017
+  course: F6C23389
+  title: Bike Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/25/2017
+  course: F6C03119
+  title: Chemical/Radiation Safety for Patrol Officers
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/25/2017
+  course: F6C04799
+  title: Media Interviews for Patrol Officers
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/25/2017
+  course: F6C16758
+  title: Department Policy/Mission Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/17/2017
+  course: F6C31603
+  title: Field Training Officer/Mentoring Update
+  status: Instructed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/17/2017
+  course: F6C04125
+  title: Glock Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
+- date: 1/26/2017
+  course: F6C36305
+  title: Glock Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/6/2017
+  course: F6C32383
+  title: Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/5/2017
+  course: F6C41636
+  title: Micro-Aggressions in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/5/2017
+  course: F6C21736
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2016
+  course: F6A03165
+  title: Special Needs Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/4/2016
+  course: F6A03187
+  title: Empowering Wellness for LE in the 21st Century
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/3/2016
+  course: F6A03188
+  title: Preparedness  Response for 1st Responders
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2016
+  course: F6A03189
+  title: Navigating the Legalities
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/3/2016
+  course: F6A03190
+  title: 'Ethical Wrecks  Resilience: "Officer A"'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/2/2016
+  course: F6A03191
+  title: Courageous Leadership
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/17/2016
+  course: F6A02728
+  title: Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/8/2016
+  course: F6A02183
+  title: Handgun Training (Pre Academy)
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/5/2016
+  course: F6A02096
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/1/2016
+  course: F6A02075
+  title: 'Cultural Diversity: LBGTA Awareness'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/26/2016
+  course: F6A02010
+  title: Taser X-2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/20/2016
+  course: F6A02070
+  title: FTEP Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 8/16/2016
+  course: F6A02069
+  title: Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/28/2016
+  course: F6A02316
+  title: The Psychopathology of Active Shooter  Verbal
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 6/15/2016
+  course: F6A01022
+  title: Supervision/Management Training of Body Camera
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/15/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 12/2/2015
+  course: 15-0100
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/28/2015
+  course: 15-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 8/14/2015
+  course: 15-0029
+  title: DPSST Supervision
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 8/6/2015
+  course: 15-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/4/2015
+  course: 15-0277
+  title: Taser X2
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/29/2015
+  course: 15-1031
+  title: Sexual Assault - Non-stranger
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 7/9/2015
+  course: 15-0685
+  title: Special Needs Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/8/2015
+  course: 15-1034
+  title: Sexual Assault Victim Services
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/8/2015
+  course: 15-0660
+  title: Culture / Diversity - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 6/10/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/13/2015
+  course: 15T001
+  title: Police Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 4/7/2015
+  course: 15-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 9/10/2013
+  course: 13-1122
+  title: Law  Legal - Other
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 6/17/2010
+  course: 10-0894
+  title: HazMat  Weapons of Mass Destruction
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/17/2010
+  course: 10-0894
+  title: HazMat  Weapons of Mass Destruction
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/27/2010
+  course: 10-1270
+  title: Field Training Officer Update
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/13/2010
+  course: 10-1269
+  title: Field Training  Evaluation Program
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/6/2010
+  course: 10-0920
+  title: New Hire Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/2/2010
+  course: 10-1269
+  title: Field Training  Evaluation Program
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2009
+  course: '09-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/29/2009
+  course: '09-0431'
+  title: Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/21/2009
+  course: '09-0952'
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/14/2009
+  course: '09-0924'
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/14/2009
+  course: '09-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/2/2009
+  course: '09-0920'
+  title: New Hire Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/15/2009
+  course: '09-1195'
+  title: Bicycle Patrol
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 7/24/2009
+  course: '09-0920'
+  title: New Hire Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/10/2009
+  course: '09-0920'
+  title: New Hire Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2009
+  course: '09-0920'
+  title: New Hire Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/23/2009
+  course: '09-0920'
+  title: New Hire Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2008
+  course: '08-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/18/2008
+  course: '08-1269'
+  title: Field Training  Evaluation Program
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/7/2008
+  course: '08-0920'
+  title: New Hire Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/15/2008
+  course: '08-0276'
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/22/2008
+  course: '08-1269'
+  title: Field Training  Evaluation Program
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/17/2008
+  course: '08-1270'
+  title: Field Training Officer Update
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/15/2008
+  course: '08-0952'
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/30/2008
+  course: '08-1272'
+  title: FTO School
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/28/2008
+  course: '08-0830'
+  title: Investigative Interviews
+  status: Passed
+  score: '0.0'
+  hours: '1.80'
+- date: 5/28/2008
+  course: '08-1116'
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2008
+  course: '08-1116'
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/28/2008
+  course: '08-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2008
+  course: '08-0915'
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2008
+  course: '08-0647'
+  title: Community Policing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/5/2008
+  course: '08-1269'
+  title: Field Training  Evaluation Program
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/30/2008
+  course: '08-1270'
+  title: Field Training Officer Update
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 1/15/2008
+  course: '08-0925'
+  title: Use of Force Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2008
+  course: '08-1270'
+  title: Field Training Officer Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2007
+  course: 07-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/5/2007
+  course: 07-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/9/2007
+  course: 07-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '19.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/30/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2007
+  course: 07-0109
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/31/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2007
+  course: 07-0184
+  title: Firearms Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/8/2007
+  course: 07-0713
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/9/2007
+  course: 07-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 1/8/2007
+  course: 07-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/8/2007
+  course: 07-0157
+  title: Glock Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2006
+  course: 06-1348
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '33.00'
+- date: 12/31/2006
+  course: 06-1347
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '44.50'
+- date: 12/20/2006
+  course: 06-0909
+  title: Mountain Bike Training
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
+- date: 12/20/2006
+  course: 06-0909
+  title: Mountain Bike Training
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 8/18/2006
+  course: 06-1932
+  title: FTO (Field Training Officer)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2005
+  course: 05-2977
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '144.30'
+- date: 12/31/2005
+  course: 05-2978
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/22/2005
+  course: 05-2514
+  title: FTEP Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2004
+  course: 04-3581
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/31/2004
+  course: 04-3580
+  title: PPB - Leadership
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/31/2004
+  course: 04-3579
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '56.50'
+- date: 5/14/2004
+  course: 04-0822
+  title: Sergeants Academy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/14/2004
+  course: 04-0822
+  title: Sergeants Academy
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/19/2004
+  course: 04-0461
+  title: Bicycle Mtn Bike Mechanics Class
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/19/2004
+  course: 04-0461
+  title: Bicycle Mtn Bike Mechanics Class
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/25/2003
+  course: 03-0358
+  title: PPB Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 8/5/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '98.00'
+- date: 11/27/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/13/2001
+  course: 01CP182
+  title: Basic Instructor Development II
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/20/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 10/25/2000
+  course: 00P475
+  title: Basic Instructor Developement Part I
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/9/2000
+  course: 00P501
+  title: DPSST Training Manager Update
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/31/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '118.00'
+- date: 9/4/1999
+  course: 99U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
+- date: 8/30/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '68.00'
+- date: 11/19/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '116.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 4/19/1997
+  course: 97P296
+  title: POLICE MOUNTAIN BIKE BASIC OPERATIONS
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 3/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/15/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/14/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/12/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 7/19/1994
+  course: 94K075
+  title: FTO REFRESHER TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/10/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/26/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/26/1993
+  course: 93J010
+  title: INTOXILYZER 5000
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/16/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '105.00'
+- date: 6/11/1992
+  course: 92N022
+  title: '"COP TALK" ART OF TACTICAL VERBAL COMMUN'
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/5/1991
+  course: 91K209
+  title: CHILD ABUSE INV. MULTIDISCIPLINARY TEAM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/26/1990
+  course: '909241'
+  title: POLICE BICYCLE OPERATIONS
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/18/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 5/31/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 3/1/1987
+  course: '879058'
+  title: LEDS MANUAL INTRODUCTORY LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/21/1986
+  course: '869158'
+  title: ADVANCED ACADEMY 86-1
+  status: Passed
+  score: '0.0'
+  hours: '296.00'
+- date: 2/19/1986
+  course: 86M050
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 2/22/1985
+  course: '851118'
+  title: 'BASIC POLICE CLASS #118'
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 2/20/1985
+  course: 85P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/20/1985
+  course: '859099'
+  title: INTOXILYZER MODEL 4011-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/1985
+  course: 85F001
+  title: FIRST AID  CPR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/24/1985
+  course: '859164'
+  title: COPS AND COMPUTERS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 5/13/2015
+  expiration_date: ''
+education_records:
+- date: 3/20/1979
+  degree: No Degree
+  school: Portland State University
+  major: Biological Sciences
+  hours: '14.0'
+- date: 5/23/1976
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: Biological Sciences
+  hours: '193.5'

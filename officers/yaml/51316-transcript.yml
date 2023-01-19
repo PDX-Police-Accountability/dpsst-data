@@ -1,2 +1,519 @@
 ---
-missing_transcript: true
+header_record:
+  name: Wrigley, Brian B.
+  dpsst_identifier: '51316'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Reserve Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/1/2022
+  agency: Multnomah County Sheriff's Office
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 7/24/2018
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 7/4/2018
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 4/1/2010
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 10/9/2021
+  course: PDS22496
+  title: Financial Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/29/2021
+  course: PDS42184
+  title: BOEC Advanced SEND Protocol
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2021
+  course: PDS02599
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2021
+  course: PDS11851
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2021
+  course: PDS40725
+  title: Legal Update - Measure 110
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/2/2020
+  course: F6D10990
+  title: Traffic Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/13/2020
+  course: F6D42673
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/9/2019
+  course: F6D02035
+  title: CPR - First Aid - AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/18/2018
+  course: F6D35150
+  title: Range Qualification-Reserve
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/28/2018
+  course: F6D05805
+  title: Confessions, Search, Seizure and Arrest Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/17/2018
+  course: F6D17351
+  title: Oregon State Marine Board Boater Safety Plan
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2018
+  course: F6B28438
+  title: Taser X26P Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/26/2018
+  course: F6B42492
+  title: 2018 OC Recertification Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/26/2018
+  course: F6B15109
+  title: 2018 MCSO Taser Re-certification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/10/2018
+  course: F6D10417
+  title: ConSim
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/29/2018
+  course: F6B18255
+  title: CPR-First Aid-AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/21/2018
+  course: F6B09130
+  title: Defensive Tactics - Reserves
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/21/2018
+  course: F6B42297
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/14/2018
+  course: F6B03954
+  title: Firearms Qualification - Reserves
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/14/2018
+  course: F6B27914
+  title: Firearms Training - Reserves
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/31/2017
+  course: PPB24454
+  title: Handgun Qualification - Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/31/2017
+  course: PPB24460
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2017
+  course: F6C31871
+  title: Handgun Qualification-Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2017
+  course: F6C11220
+  title: Handgun Qualification-Secondary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2017
+  course: F6C08975
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/2/2016
+  course: F6C01637
+  title: Taser X2 Transition in-serivce  2016
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/31/2016
+  course: F6C04096
+  title: Handgun Qualification-Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2016
+  course: F6C04156
+  title: Handgun Qualification-Secondary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2016
+  course: F6C10895
+  title: Full Body Search-Reserves
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/31/2016
+  course: '41967'
+  title: Handgun Qualification - Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2016
+  course: '04236'
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/27/2016
+  course: F6C07624
+  title: LEDS Recertification Inquiry Level
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2016
+  course: F6C08606
+  title: Handgun Qualification Secondary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/29/2016
+  course: F6C23868
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/29/2016
+  course: F6C35721
+  title: Handgun Qualification Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/3/2016
+  course: F6C00023
+  title: Major Crime Scene - Detective Notification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/31/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/11/2015
+  course: 15-0683
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 6/3/2015
+  course: 15-1228
+  title: Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/6/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/2/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/28/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 11/5/2014
+  course: 14-1072
+  title: DUII Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/20/2014
+  course: 14-1253
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2014
+  course: 14-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/1/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/10/2014
+  course: 14-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/2/2014
+  course: 14-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/5/2014
+  course: 14-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/1/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/4/2013
+  course: 13-1198
+  title: Building Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/2/2013
+  course: 13-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/31/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/31/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/8/2011
+  course: 11-0273
+  title: Taser X26 Certification
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/25/2011
+  course: 11-0699
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/13/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/11/2011
+  course: 11-0562
+  title: Reserve Academy
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 5/5/2010
+  course: 10-0715
+  title: LEDS Inquiry Level
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records: []
+education_records: []

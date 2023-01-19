@@ -1,2 +1,117 @@
 ---
-missing_transcript: true
+header_record:
+  name: Weber, Vicki A.
+  dpsst_identifier: '19961'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 8/31/2018
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 1/21/1988
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 5/3/1987
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 12/11/1986
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2007
+  course: 07-0703
+  title: Data System
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/30/2007
+  course: 07-0809
+  title: Identity Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/16/2007
+  course: 07-0700
+  title: CAD End User Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/23/2007
+  course: 07-1178
+  title: Radar / Lidar Training - Home Agency Approved
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/19/2007
+  course: 07-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/19/2007
+  course: 07-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/1992
+  course: 92K203
+  title: ID/COPING WITH STRESS FOR RECORDS TECH
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/21/1989
+  course: '899056'
+  title: LEDS MANUAL - INTERMEDIATE
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+attribute_records: []
+education_records: []

@@ -1,2 +1,422 @@
 ---
-missing_transcript: true
+header_record:
+  name: Moore, Mdajour A.
+  dpsst_identifier: '63345'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/22/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 9/2/2022
+  agency: Out of State Employment
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/25/2018
+  agency: Out of State Employment
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 9/22/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 3/22/2024
+training_records:
+- date: 3/22/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 12/16/2022
+  course: 22-0009
+  title: DPSST Basic Police COD
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 12/10/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/10/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/8/2022
+  course: REG37300
+  title: INTOX 8000
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/29/2022
+  course: PDP15523
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/13/2022
+  course: PDP01766
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/13/2022
+  course: PDP21461
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2022
+  course: PDP37226
+  title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2022
+  course: PDP21194
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP16370
+  title: 2021 Language Access Utilizing Bilingual Bur Mmbrs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP05665
+  title: 2021 Online In-Service Lang Access - Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP07027
+  title: 2021 Online In-Service Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/23/2022
+  course: PDP10540
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP30456
+  title: 2021-12 TT Requesting an Emergency Ping of a Cell
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP12661
+  title: 2021-6 TT Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP04798
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/23/2022
+  course: PDP36211
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP27649
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP38770
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP19918
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP07693
+  title: 2022 Vocab in the LGBTQIA2S+ / Queer Community
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP42838
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP22831
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP03421
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP11083
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/23/2022
+  course: PDP44715
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP36255
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP18312
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP33137
+  title: 2022-1 TT Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/23/2022
+  course: PDP14393
+  title: Directive 630.15, Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP12800
+  title: DIR 660.10, Property and Evidence Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2022
+  course: PDP39002
+  title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP28741
+  title: Annual CIU NTR Alarm Response Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2022
+  course: PDP28248
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/23/2022
+  course: PDP10530
+  title: DIR 850.22, 850.21, 850.25, 850.20 with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/21/2022
+  course: PDP37441
+  title: 2021-10 CAO Legal Updates for 10/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP23799
+  title: 2021-11 CAO Legal Updates for 11/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP20341
+  title: 2021-12 CAO Legal Updates for 12/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP05482
+  title: 2021-3 CAO Legal Updates for 03/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/21/2022
+  course: PDP15344
+  title: 2021-4 CAO Legal Updates for 04/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP29463
+  title: 2021-5 CAO Legal Updates for 05/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP19323
+  title: 2021-6 CAO Legal Updates for 06/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP23184
+  title: 2021-7 CAO Legal Updates for 07/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP22927
+  title: 2021-8 CAO Legal Updates for 08/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP26856
+  title: 2021-9 CAO Legal Updates for 09/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP28840
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP28611
+  title: 2022-2- CAO Legal Updates for 02/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP03561
+  title: 2022-1 CHO House Bill 2928 EO Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP07649
+  title: 2022-1 CAO Legal Updates for 01/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP35747
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP27396
+  title: 2022-4 CAO Legal Updates for 04/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/21/2022
+  course: PDP16534
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2022
+  course: PDP36363
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2022
+  course: PDP21221
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2022
+  course: PDP44778
+  title: Field Training Eval Program Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/17/2022
+  course: PDP23129
+  title: 'Control Tactics: Handcuffing, etc.'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/11/2022
+  course: PDP28842
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/10/2022
+  course: PDP05658
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/2/2022
+  course: PDP36883
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/30/2022
+  course: PDP37875
+  title: Firearms Training - New Hire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/29/2022
+  course: PDP14717
+  title: Firearms Training - New Hire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/27/2022
+  course: PDP12607
+  title: FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 12/5/2022
+  expiration_date: ''
+education_records: []

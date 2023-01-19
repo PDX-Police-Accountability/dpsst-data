@@ -1,2 +1,92 @@
 ---
-missing_transcript: true
+header_record:
+  name: Leppert, Ryan J.
+  dpsst_identifier: '63018'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/7/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 7/7/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 1/7/2024
+training_records:
+- date: 1/7/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 12/15/2022
+  course: REG06452
+  title: INTOX 8000 - Hours included with Basic
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/10/2022
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Registered
+  score: '0.0'
+  hours: '640.00'
+- date: 10/2/2022
+  course: PDP36883
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/30/2022
+  course: PDP37875
+  title: Firearms Training - New Hire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/29/2022
+  course: PDP14717
+  title: Firearms Training - New Hire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/27/2022
+  course: PDP12607
+  title: FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/8/2022
+  course: PDP39549
+  title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP00776
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/18/2022
+  course: PDP38388
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 10/10/2022
+  expiration_date: ''
+education_records: []

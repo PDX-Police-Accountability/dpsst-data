@@ -1,2 +1,27 @@
 ---
-missing_transcript: true
+header_record:
+  name: McNown, Keaton M.
+  dpsst_identifier: '60564'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 12/18/2019
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 2/17/2020
+  course: M10-19A
+  title: DPSST Basic Police Course
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

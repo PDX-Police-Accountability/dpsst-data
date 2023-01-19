@@ -1,2 +1,141 @@
 ---
-missing_transcript: true
+header_record:
+  name: Marks, Kandi L.
+  dpsst_identifier: '30396'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/12/1995
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 9/24/2021
+  course: PDP28819
+  title: 2021 EAP Bldg  Restoring Resilience
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/2/2018
+  course: PDP14332
+  title: 2018 EAP Spring Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/31/2016
+  course: F6C20300
+  title: RAPID
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/22/2014
+  course: 14-0426
+  title: Critical Incident Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/31/2014
+  course: 14-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/21/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/14/2011
+  course: 11-0446
+  title: Motivating  Empowering Teams / Workgroups
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/5/2010
+  course: 10-0371
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/26/2009
+  course: '09-0709'
+  title: Mobile Data Terminal (MDT)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/28/2008
+  course: '08-0914'
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2008
+  course: '08-0914'
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2008
+  course: '08-0914'
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2004
+  course: 04-3189
+  title: FTM - New Police Officer FTM Review
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/11/2004
+  course: 04-0186
+  title: 3rd Annual Safe Schools Summit
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 1/25/2002
+  course: 02CP147
+  title: Crime Analysis Applications Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 6/16/1995
+  course: 95K115
+  title: BASIC FINGERPRINT CLASS
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+attribute_records: []
+education_records: []

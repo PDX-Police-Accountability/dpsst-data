@@ -1,2 +1,93 @@
 ---
-missing_transcript: true
+header_record:
+  name: Taylor, Deanna L.
+  dpsst_identifier: '31960'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/25/1996
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 3/20/2019
+  course: PDP43537
+  title: What Law Enforcement Professionals Need to Know
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2009
+  course: '09-0702'
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/12/2008
+  course: '08-0708'
+  title: Internet Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2007
+  course: 07-0426
+  title: Critical Incident Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 2/13/2007
+  course: 07-0918
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/26/2006
+  course: 06-2300
+  title: Oregon Open Records Law
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/1/1999
+  course: 99P421
+  title: SPANISH FOR PUBLIS SAFETY EMPL-BEGINNING
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+attribute_records: []
+education_records: []

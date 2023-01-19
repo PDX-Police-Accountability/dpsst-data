@@ -1,2 +1,1004 @@
 ---
-missing_transcript: true
+header_record:
+  name: Hull, Carrie L.
+  dpsst_identifier: '46433'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/1/2017
+  agency: Ashland Police Department
+  action: Resigned
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 1/11/2010
+  agency: Ashland Police Department
+  action: Reclassed
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 1/2/2007
+  agency: Ashland Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 12/27/2006
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/26/2006
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 10/1/2017
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 8/1/2007
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 12/31/2016
+  course: MISCMAIN
+  title: 2016 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/17/2016
+  course: ADP05672
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/16/2016
+  course: ADP36800
+  title: Sexual Harassment in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2016
+  course: ADP22465
+  title: Sexual Harassment In The Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2016
+  course: F6Y00146
+  title: Redemption Ridge - Human Trafficing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2016
+  course: F6Y00147
+  title: On Track - Gateway Program
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/1/2016
+  course: F6C02101
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/1/2016
+  course: F6C41638
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2016
+  course: F6C31172
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/7/2016
+  course: 16-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2015
+  course: 15-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/28/2015
+  course: 15-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/18/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/15/2015
+  course: 15-0167
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/19/2014
+  course: 14-0100
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/19/2014
+  course: 14-0653
+  title: Community - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/19/2014
+  course: 14-0787
+  title: Forensic Interviewing
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/13/2014
+  course: 14-0795
+  title: Domestic Violence Investigations
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/28/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2014
+  course: 14-0804
+  title: Narcotics Investigations
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/26/2014
+  course: 14-1021
+  title: Child Abuse Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/24/2014
+  course: 14-0593
+  title: Conference - Other
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2014
+  course: 14-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 4/4/2014
+  course: 14-0501
+  title: Giving Presentations / Briefings
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 3/21/2014
+  course: 14-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/21/2014
+  course: 14-0149
+  title: Low Light / Night Shooting / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/21/2014
+  course: 14-0971
+  title: Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/21/2014
+  course: 14-0797
+  title: Sex Crimes Response  Investigation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/21/2014
+  course: 14-0609
+  title: Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/13/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2013
+  course: 13-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '36.50'
+- date: 12/31/2013
+  course: MISCMAIN
+  title: 2013 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/30/2013
+  course: 13-0166
+  title: Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/9/2013
+  course: 13-1099
+  title: Restraining Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/9/2013
+  course: 13-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2013
+  course: 13-1136
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/29/2013
+  course: 13-0797
+  title: Sex Crimes Response  Investigation
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/13/2013
+  course: 13-0148
+  title: Less Lethal / Bean Bag
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/13/2013
+  course: 13-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/21/2013
+  course: 13-0787
+  title: Forensic Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/26/2013
+  course: 13-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/28/2013
+  course: 13-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/28/2013
+  course: 13-0634
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/28/2013
+  course: 13-0905
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2013
+  course: 13-0168
+  title: Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/17/2013
+  course: 13-0684
+  title: Effective Contacts with Mentally Ill Citizens
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/23/2013
+  course: 13-0787
+  title: Forensic Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 4/26/2013
+  course: 13-0680
+  title: Autism
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 4/26/2013
+  course: 13-1033
+  title: Sexual Assault Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/25/2013
+  course: 13-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/25/2013
+  course: 13-0963
+  title: First Responder - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/25/2013
+  course: 13-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/7/2013
+  course: 13-0746
+  title: Cell Searches
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/29/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2012
+  course: 12-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '36.50'
+- date: 12/7/2012
+  course: 12-1034
+  title: Sexual Assault Victim Services
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/11/2012
+  course: 12-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/9/2012
+  course: 12-1030
+  title: Sexual Assault
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/3/2012
+  course: 12-0117
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 8/3/2012
+  course: 12-1198
+  title: Building Searches
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/30/2012
+  course: 12-0794
+  title: Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/10/2012
+  course: 12-1030
+  title: Sexual Assault
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/5/2012
+  course: 12-0607
+  title: Seminar - Other
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/28/2012
+  course: 12-0697
+  title: Youth/Juvenile - Other
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/31/2011
+  course: 11-1016
+  title: Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 12/15/2011
+  course: 11-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/9/2011
+  course: 11-0610
+  title: Child Abuse Summit
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/9/2011
+  course: 11-0800
+  title: Death Investigation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/19/2011
+  course: 11-1012
+  title: Child Abuse Interviews
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/17/2011
+  course: 11-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/16/2011
+  course: 11-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/16/2011
+  course: 11-0170
+  title: Shotgun Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/16/2011
+  course: 11-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/13/2011
+  course: 11-1012
+  title: Child Abuse Interviews
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/30/2011
+  course: 11-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 5/16/2011
+  course: 11-0697
+  title: Youth/Juvenile - Other
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/13/2011
+  course: 11-0950
+  title: CPR
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/13/2011
+  course: 11-0139
+  title: Simunititions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/13/2011
+  course: 11-1077
+  title: DUII Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2011
+  course: 11-0794
+  title: Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 4/6/2011
+  course: 11-0607
+  title: Seminar - Other
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/31/2011
+  course: 11-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2010
+  course: 10-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '36.50'
+- date: 11/9/2010
+  course: 10-0914
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2010
+  course: 10-1122
+  title: Law  Legal - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/1/2010
+  course: 10-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/17/2010
+  course: 10-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 9/14/2010
+  course: 10-0791
+  title: Recovery of Human Remains
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 8/27/2010
+  course: 10-1007
+  title: Instructor Course - Other
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 8/27/2010
+  course: 10-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/27/2010
+  course: 10-0112
+  title: Control Holds  Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/27/2010
+  course: 10-1237
+  title: Traffic Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/27/2010
+  course: 10-1211
+  title: Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/27/2010
+  course: 10-1010
+  title: Child / Family Maltreatment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/15/2010
+  course: 10-0822
+  title: Digital Evidence
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/25/2010
+  course: 10-0459
+  title: Preventing Liability
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/25/2010
+  course: 10-1029
+  title: Workplace Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/14/2010
+  course: 10-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/14/2010
+  course: 10-0147
+  title: Firearms - Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/14/2010
+  course: 10-0149
+  title: Low Light / Night Shooting / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/14/2010
+  course: 10-0176
+  title: Tactical Handgun
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/9/2010
+  course: 10-1017
+  title: Multidisciplinary Team Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/8/2010
+  course: 10-0795
+  title: Domestic Violence Investigations
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 6/4/2010
+  course: 10-0794
+  title: Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 5/24/2010
+  course: 10-0797
+  title: Sex Crimes Response  Investigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/30/2010
+  course: 10-0610
+  title: Child Abuse Summit
+  status: Passed
+  score: '0.0'
+  hours: '22.25'
+- date: 3/19/2010
+  course: 10-0972
+  title: Health / Wellness - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/12/2010
+  course: 10-0609
+  title: Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 1/20/2010
+  course: 10-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/31/2009
+  course: '09-0276'
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/31/2009
+  course: '09-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 12/31/2009
+  course: '09-1116'
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/4/2009
+  course: '09-0794'
+  title: Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/6/2009
+  course: '09-0149'
+  title: Low Light / Night Shooting / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2009
+  course: '09-0132'
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2009
+  course: '09-0593'
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 10/13/2009
+  course: '09-1124'
+  title: Search Warrant Procedures
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/29/2009
+  course: '09-0657'
+  title: Cultural Diversity
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/29/2009
+  course: '09-1030'
+  title: Sexual Assault
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2009
+  course: '09-1083'
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/29/2009
+  course: '09-1116'
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/29/2009
+  course: '09-1124'
+  title: Search Warrant Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/17/2009
+  course: '09-0129'
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/30/2009
+  course: '09-0132'
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2009
+  course: '09-1120'
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/14/2009
+  course: '09-1198'
+  title: Building Searches
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/17/2009
+  course: '09-0952'
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/28/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/8/2009
+  course: '09-0683'
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 1/8/2009
+  course: '09-5000'
+  title: Instructor
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/23/2008
+  course: '08-0114'
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/20/2008
+  course: '08-0604'
+  title: Train-The-Trainer Seminar
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/1/2008
+  course: '08-0273'
+  title: Taser X26 Certification
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/1/2008
+  course: '08-0100'
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/7/2008
+  course: '08-0129'
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/29/2007
+  course: 07-0701
+  title: Case Management Software Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/7/2007
+  course: 07-1043
+  title: Reid Interview  Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/28/2007
+  course: 07-0647
+  title: Community Policing
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 8/1/2007
+  course: 07T001
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 8/1/2007
+  course: 07-0389
+  title: ICS 200 / IS 200 - Basic ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/11/2007
+  course: 07-0951
+  title: CPR / AED
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/4/2007
+  course: 07-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2007
+  course: 07-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/4/2007
+  course: 07-0168
+  title: Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/14/2007
+  course: 07-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/7/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2006
+  course: 06-0679
+  title: IS 700
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/1/2006
+  course: 06-0675
+  title: IS 100 Introduction to Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/19/2006
+  course: 06-1973
+  title: Narcotics ID Kit
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/1/2006
+  course: 06-0158
+  title: Radar/Lidar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/30/2006
+  course: 06-0157
+  title: Lidar
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/7/2006
+  course: 06-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
+- date: 4/7/2006
+  course: 06-0016
+  title: Range 3000
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/16/2006
+  course: 06-0076
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2006
+  course: 06-0157
+  title: Lidar
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/22/2006
+  course: 06-0156
+  title: Radar
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/17/2006
+  course: 06-0004
+  title: Intoxilyzer 5000
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 1/31/2006
+  expiration_date: ''
+education_records: []

@@ -1,2 +1,51 @@
 ---
-missing_transcript: true
+header_record:
+  name: Shoen, Paul W.
+  dpsst_identifier: '53473'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Reserve Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/25/2013
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 2/6/2014
+  course: 14-0562
+  title: Reserve Academy
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 1/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/24/2014
+  course: 14-0388
+  title: ICS 100 / IS 100 - Introduction to ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/24/2014
+  course: 14-0395
+  title: IS 700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2013
+  course: 13-0713
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records: []
+education_records: []

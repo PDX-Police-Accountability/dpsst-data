@@ -1,2 +1,281 @@
 ---
-missing_transcript: true
+header_record:
+  name: Gomez, Jonathan M.
+  dpsst_identifier: '58226'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/3/2018
+  agency: Portland Police Bureau
+  action: Prob Dschg
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/4/2018
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 12/3/2018
+  course: PDP11464
+  title: 2018 Advanced Academy Orientation and Expectations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2018
+  course: PDP39601
+  title: 2018 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '66.00'
+- date: 12/3/2018
+  course: PDP31774
+  title: 2018 Advanced Academy Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/3/2018
+  course: PDP22154
+  title: 2018 Advanced Academy Crisis Intervention Tech
+  status: Passed
+  score: '0.0'
+  hours: '17.50'
+- date: 12/3/2018
+  course: PDP02409
+  title: 2018 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '36.25'
+- date: 12/3/2018
+  course: PDP15692
+  title: 2018 Advanced Academy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 12/3/2018
+  course: PDP35348
+  title: 2018 Advanced Academy Professionalism
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/3/2018
+  course: PDP07334
+  title: 2018 Advanced Academy Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 12/3/2018
+  course: PDP29375
+  title: 2018 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '35.75'
+- date: 12/3/2018
+  course: PDP33283
+  title: 2018 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 12/3/2018
+  course: PDP39317
+  title: 2018 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 12/3/2018
+  course: PDP23179
+  title: 2018 Advanced Academy Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/11/2018
+  course: PDP27651
+  title: 2018 ITD MDC Console Replacement Videos-GetacV110
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/13/2018
+  course: PDP26970
+  title: Tips and Techniques Shooting though Barriers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/29/2018
+  course: PDP26441
+  title: RegJIN MRE Tree View Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/21/2018
+  course: PDP15633
+  title: 2018-2 Primary Sidearm Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/3/2018
+  course: PDP39936
+  title: Tips and Tech Hazard Tow vs. Private Request
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/3/2018
+  course: PDP18845
+  title: Disposition of Records Upon Retirement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/2/2018
+  course: PDP11353
+  title: 2017-3 Legal Updates for Q3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/2/2018
+  course: PDP27736
+  title: City Attorneys Office Legal Updates for Q4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/1/2018
+  course: F6B25218
+  title: RADAR/LIDAR - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/30/2018
+  course: PDP22051
+  title: Detectives How to Spot a Skimmer
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/30/2018
+  course: PDP42272
+  title: IFAK Refresher Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/30/2018
+  course: PDP33173
+  title: SSD Stops Application
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/16/2018
+  course: PDP43250
+  title: 2018-2 Additional Sidearm Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2018
+  course: PDP14753
+  title: Basic X2 Operator Class
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 5/30/2018
+  course: PDP03881
+  title: FTEP RADAR/LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/29/2018
+  course: PDP03881
+  title: FTEP RADAR/LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/24/2018
+  course: PDP18252
+  title: New Hire RMS/MRE Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 5/22/2018
+  course: PDP18719
+  title: Basic City of Portland Geography
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/21/2018
+  course: PDP30460
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/17/2018
+  course: PDP25162
+  title: FTEP Orientation Class
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 5/17/2018
+  course: PDP37694
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2018
+  course: 18-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 4/6/2018
+  course: 18-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 4/5/2018
+  course: 18-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/18/2018
+  course: PDP06919
+  title: IS-00100.leb Intro to Incident Command Sys for LE
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/18/2018
+  course: PDP16234
+  title: IS-00700.a National Incident Managment Sys (NIMS)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/16/2018
+  course: PDP35550
+  title: Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/16/2018
+  course: PDP28147
+  title: Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 1/22/2018
+  expiration_date: ''
+education_records:
+- date: 4/20/2012
+  degree: Bachelor of General Studies
+  school: All Other Education Institutes
+  major: ''
+  hours: '124.0'
+- date: 8/6/2004
+  degree: Associate Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '53.0'

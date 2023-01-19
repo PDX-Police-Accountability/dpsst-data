@@ -1,2 +1,129 @@
 ---
-missing_transcript: true
+header_record:
+  name: Nordeen, Veronica L.
+  dpsst_identifier: '38179'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/8/1999
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 10/19/2022
+  course: CQN27132
+  title: MRT Fidelity Call
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2019
+  course: F6D29518
+  title: OACCD - Oregon Association of Community Correc.
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/4/2018
+  course: PDP05409
+  title: 2018 EAP Training Individuals in Crisis CISM
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/2/2018
+  course: PDP14332
+  title: 2018 EAP Spring Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/7/2014
+  course: 14-0686
+  title: Suicide Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/22/2014
+  course: 14-0426
+  title: Critical Incident Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/10/2013
+  course: 13-0918
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/14/2008
+  course: '08-0702'
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2008
+  course: '08-0915'
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/27/2007
+  course: 07-1122
+  title: Law  Legal - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/27/2007
+  course: 07-0391
+  title: ICS 400 - Advanced ICS (Cmplx Incd, Cmd  Gen Stf)
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/25/2007
+  course: 07-0390
+  title: ICS 300 - Intermediate ICS (Expding Incd  Supvrs)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/23/2007
+  course: 07-0389
+  title: ICS 200 / IS 200 - Basic ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/15/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 4/12/2007
+  course: 07-0464
+  title: Employee Discipline
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/30/2005
+  course: 05-2161
+  title: Managing of Publc Records Police
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

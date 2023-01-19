@@ -1,2 +1,255 @@
 ---
-missing_transcript: true
+header_record:
+  name: Shults, Robin A.
+  dpsst_identifier: '30432'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 5/22/2020
+  agency: Multnomah County Sheriff's Office
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 3/21/2001
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/15/2000
+  agency: Multnomah County Adult Community Justice
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 7/1/1997
+  agency: Multnomah County Adult Community Justice
+  action: Reclassed
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 10/30/1996
+  agency: Multnomah County Adult Community Justice
+  action: Hired
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
+- date: 10/17/1995
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 2/2/1995
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 4/24/2020
+  course: F6D40002
+  title: Ethics in Public Safety - 2020
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/17/2019
+  course: F6D43217
+  title: PREA Refresher 2019
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/1/2019
+  course: F6D32211
+  title: Ethics in Public Safety - 2019
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2018
+  course: F6D09169
+  title: Workday Basics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/19/2018
+  course: F6D40035
+  title: Bias  Diversity Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/19/2018
+  course: F6B41784
+  title: Discrimination and Harassment Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/18/2018
+  course: F6B08573
+  title: 2018 PREA Staff Training, Updates and Reminders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/6/2018
+  course: F6B23337
+  title: Fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/8/2018
+  course: F6B43303
+  title: OSHA  Bloodborne Pathogens 2018
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/16/2018
+  course: F6B26816
+  title: Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/29/2018
+  course: F6B35966
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/29/2018
+  course: F6B01422
+  title: Suicide Intervention
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/29/2018
+  course: F6B30311
+  title: Trauma Intervention Program -  Self Care
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/8/2017
+  course: F6C22883
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/9/2017
+  course: F6C14761
+  title: PREA Staff Training-2017
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 6/8/2016
+  course: F6A01064
+  title: Distracted Driving
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/8/2016
+  course: F6A01078
+  title: Transgender Booking Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/23/2014
+  course: 14-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/5/2014
+  course: 14-0686
+  title: Suicide Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2013
+  course: 13-0686
+  title: Suicide Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/16/2008
+  course: '08-0477'
+  title: Personnel Topics - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/16/2008
+  course: '08-0983'
+  title: Crisis Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/16/2008
+  course: '08-1136'
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/27/2007
+  course: 07-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/15/2006
+  course: 06-0735
+  title: Visions of Courage
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/11/2005
+  course: 05-0349
+  title: Meth Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/28/1997
+  course: 97D036
+  title: BASIC PAROLE  PROBATION CLASS NO. 36
+  status: Passed
+  score: '0.0'
+  hours: '160.00'
+- date: 12/31/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/1995
+  course: 95U013
+  title: ADVANCED ACADEMY 95-3
+  status: Passed
+  score: '0.0'
+  hours: '352.00'
+- date: 8/11/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/4/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/31/1995
+  course: 95G191
+  title: 'BASIC POLICE CLASS #191'
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+attribute_records: []
+education_records: []

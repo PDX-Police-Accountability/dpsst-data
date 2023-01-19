@@ -1,2 +1,27 @@
 ---
-missing_transcript: true
+header_record:
+  name: Buker, Marc A.
+  dpsst_identifier: '62439'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/3/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 4/4/2022
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

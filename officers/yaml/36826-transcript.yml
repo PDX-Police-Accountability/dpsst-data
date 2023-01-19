@@ -1,2 +1,189 @@
 ---
-missing_transcript: true
+header_record:
+  name: Cloud, Roger P.
+  dpsst_identifier: '36826'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/21/2019
+  agency: Multnomah County Sheriff's Office
+  action: Inactive
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/19/2000
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 12/28/1999
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/7/1999
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 12/13/2022
+  course: PDS09552
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/16/2022
+  course: PDS36628
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/26/2022
+  course: PDS44753
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2021
+  course: PDS21233
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/8/2021
+  course: PDS27610
+  title: OSHA  Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/7/2021
+  course: PDS10459
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2021
+  course: PDS22843
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/2/2020
+  course: F6D04257
+  title: Ethics in Piblic Safety 2020
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/13/2019
+  course: F6D18199
+  title: PREA Refresher 2019
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/3/2019
+  course: F6D30359
+  title: Ethics in Public Safety 2019
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2018
+  course: F6D09169
+  title: Workday Basics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/13/2018
+  course: F6B36504
+  title: Discrimination and Harassment Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/23/2012
+  course: 12-0955
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/30/2008
+  course: '08-0477'
+  title: Personnel Topics - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2008
+  course: '08-1229'
+  title: Mental Preparation / Mindset
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/30/2008
+  course: '08-1136'
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/5/2007
+  course: 07-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/30/2006
+  course: 06-0112
+  title: Emotional Survival for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/2/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/23/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 7/14/1999
+  course: 99B015
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
+- date: 7/14/1999
+  course: 99P162
+  title: ADVANCED POLICE CURRICULUM
+  status: Passed
+  score: '0.0'
+  hours: '360.00'
+- date: 6/27/1999
+  course: 99B010
+  title: BP/SFST  DRUGS THAT IMPAIR DRIVING
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/23/1999
+  course: 99P115
+  title: INTOXYLIZER 5000 CERTIFICATION
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records: []
+education_records: []

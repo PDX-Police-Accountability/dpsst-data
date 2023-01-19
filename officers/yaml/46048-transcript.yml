@@ -1,2 +1,99 @@
 ---
-missing_transcript: true
+header_record:
+  name: Galbreath, Andrew C.
+  dpsst_identifier: '46048'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 3/28/2005
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 11/9/2021
+  course: BNS03389
+  title: Crisis Negotiation Team Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/9/2018
+  course: F6W21893
+  title: 49th Annual Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 5/19/2017
+  course: F6C20571
+  title: Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2008
+  course: '08-0747'
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 10/30/2007
+  course: 07-0809
+  title: Identity Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/23/2007
+  course: 07-0790
+  title: Forensics - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 7/27/2007
+  course: 07-0699
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/22/2007
+  course: 07-0683
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/14/2007
+  course: 07-0927
+  title: Workplace Security  Violence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

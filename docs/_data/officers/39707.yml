@@ -1,2 +1,117 @@
 ---
-missing_transcript: true
+header_record:
+  name: Pleune, Patricia L.
+  dpsst_identifier: '39707'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/31/2000
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 2/29/2016
+  course: F6C04700
+  title: Emergency Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2011
+  course: 11-0443
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/28/2011
+  course: 11-0492
+  title: Strategic Management / Planning
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2011
+  course: 11-0492
+  title: Strategic Management / Planning
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2010
+  course: 10-0469
+  title: Managing Employee Performance
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/22/2010
+  course: 10-0477
+  title: Personnel Topics - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/20/2010
+  course: 10-1171
+  title: Labor Contract Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/13/2010
+  course: 10-0464
+  title: Employee Discipline
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2008
+  course: '08-0915'
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2007
+  course: 07-0894
+  title: HazMat  Weapons of Mass Destruction
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/20/2007
+  course: 07-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/24/2007
+  course: 07-0888
+  title: Homeland Security Grant Workshop
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

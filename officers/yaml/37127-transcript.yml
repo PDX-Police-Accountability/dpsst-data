@@ -1,2 +1,69 @@
 ---
-missing_transcript: true
+header_record:
+  name: Winder, Shane R.
+  dpsst_identifier: '37127'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/10/2020
+  agency: U.S. Postal Inspection Service
+  action: Active
+  rank: FedOfficer
+  classification: ''
+  assignment: ''
+- date: 5/19/1999
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 2/15/1999
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 1/10/2020
+  course: M-FED17A
+  title: Oregon Arrest Authority for Federal Officers
+  status: Completed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/20/2002
+  course: 02U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '544.00'
+- date: 7/29/2002
+  course: 02U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '415.00'
+- date: 4/24/1999
+  course: 99P115
+  title: INTOXYLIZER 5000 CERTIFICATION
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/3/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '688.00'
+- date: 3/5/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

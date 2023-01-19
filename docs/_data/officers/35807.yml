@@ -1,2 +1,249 @@
 ---
-missing_transcript: true
+header_record:
+  name: Rossetto, Catherine M.
+  dpsst_identifier: '35807'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/6/1998
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 9/28/2022
+  course: PDP30946
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '21.50'
+- date: 3/8/2019
+  course: PDP28274
+  title: Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '17.50'
+- date: 3/8/2019
+  course: F6D31138
+  title: Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 5/23/2018
+  course: PDP40857
+  title: 'Leadership 2018: Law Enforcement Professionals'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/31/2016
+  course: F6C20300
+  title: RAPID
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2016
+  course: F6Z00165
+  title: Web PMP v.2 Software  PMP Process Guidelines
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 1/31/2016
+  course: F6C06689
+  title: eCourts  DV Case Summary Roll Call Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/19/2015
+  course: 15-0827
+  title: Informants
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/12/2015
+  course: 15-1063
+  title: Drug Interdiction
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/6/2015
+  course: 15-0371
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/24/2015
+  course: 15-1068
+  title: Drugs - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2014
+  course: 14-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/10/2013
+  course: 13-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/24/2012
+  course: 12-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/19/2012
+  course: 12-0914
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/28/2011
+  course: 11-0443
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/28/2011
+  course: 11-0492
+  title: Strategic Management / Planning
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2011
+  course: 11-0492
+  title: Strategic Management / Planning
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/22/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/17/2009
+  course: '09-0702'
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/12/2008
+  course: '08-0708'
+  title: Internet Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/30/2008
+  course: '08-0915'
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/7/2008
+  course: '08-0699'
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/13/2007
+  course: 07-0703
+  title: Data System
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/30/2007
+  course: 07-0809
+  title: Identity Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2007
+  course: 07-0894
+  title: HazMat  Weapons of Mass Destruction
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/3/2007
+  course: 07-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/20/2007
+  course: 07-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/30/2007
+  course: 07-0397
+  title: NIMS / ICS course- other leadership topic
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/23/2007
+  course: 07-1178
+  title: Radar / Lidar Training - Home Agency Approved
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/6/2007
+  course: 07-0928
+  title: Workplace - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/21/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/13/2007
+  course: 07-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2001
+  course: 01P050
+  title: 'ICS: Introduction'
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+attribute_records: []
+education_records: []

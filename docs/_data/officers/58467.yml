@@ -1,2 +1,469 @@
 ---
-missing_transcript: true
+header_record:
+  name: Sturtevant, Thomas V.
+  dpsst_identifier: '58467'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/10/2019
+  agency: Portland Police Bureau
+  action: Prob Dschg
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/1/2018
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 6/12/2019
+  course: PDP03202
+  title: 2019-7 UPD TipsTech CAD Study Codes-Track Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/5/2019
+  course: PDP38543
+  title: City Attorney's Office Legal Updates April 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/2/2019
+  course: PDP14360
+  title: PSD Directive 630.61, Stolen Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/28/2019
+  course: PDP17477
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/26/2019
+  course: PDP22335
+  title: 2019-1 PSD Force Inspector Updates for Q1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/26/2019
+  course: PDP27572
+  title: 2019-7 TipsTech CAD Study Codes to Track Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/13/2019
+  course: PDP40036
+  title: 2019 Training Choke and Carotid Awareness Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/13/2019
+  course: PDP30979
+  title: 2019-6 Tips and Techniques Training Roster
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2019
+  course: PDP17498
+  title: 2019-4 Tips  Techniques Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2019
+  course: PDP21682
+  title: 2019-5 Tips  Tech Enforce of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2019
+  course: PDP23426
+  title: City Attorney's Office Legal Updates February 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2019
+  course: PDP37791
+  title: City Attorney's Office Legal Updates March 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/25/2019
+  course: PDP07009
+  title: Control Tactics Open Mat
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/4/2019
+  course: PDP40931
+  title: 2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2019
+  course: PDP23225
+  title: 2018 City Attorney's Office Legal Updates for Q12
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/2/2019
+  course: PDP41799
+  title: 2018-5 TipsTech 100% Collect/Submn Model-UPDATED
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2019
+  course: PDP26559
+  title: 2019-2 Tips  Tech Use of Force/De-escalation QA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2019
+  course: PDP30216
+  title: 2019-1 Range Qualification Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/2/2019
+  course: PDP23421
+  title: 2019-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/2/2019
+  course: PDP33365
+  title: 2019-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2019
+  course: PDP12870
+  title: 2019-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/21/2019
+  course: PDP20004
+  title: 2019 Personnel Hearing Conservation Training OSHA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/2/2019
+  course: PDP12115
+  title: 2019-1 TT Ext Vest Equip Requirements and Recs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/19/2019
+  course: PDP25362
+  title: 2019-1 City Attorney's Legal Updates for Jan 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/9/2019
+  course: PDP11710
+  title: 2018-4 City Attorney's Office Legal Updates for Q4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/9/2019
+  course: PDP17574
+  title: 2019 Det Sexual Assault Kit Tracking System App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/9/2019
+  course: PDP14745
+  title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2018
+  course: PDP09911
+  title: 2018 Annual Hearing Conservation Training for OSHA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2018
+  course: PDP00554
+  title: 2018 100% Collection and Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2018
+  course: PDP02905
+  title: 2018-5 Tips  Tech 100% Collection and Submission
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2018
+  course: PDP09285
+  title: Mandalay Bay Active Shooter Event
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/3/2018
+  course: PDP33283
+  title: 2018 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 12/3/2018
+  course: PDP11464
+  title: 2018 Advanced Academy Orientation and Expectations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/3/2018
+  course: PDP39601
+  title: 2018 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '129.00'
+- date: 12/3/2018
+  course: PDP35348
+  title: 2018 Advanced Academy Professionalism
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
+- date: 12/3/2018
+  course: PDP22154
+  title: 2018 Advanced Academy Crisis Intervention Tech
+  status: Passed
+  score: '0.0'
+  hours: '18.50'
+- date: 12/3/2018
+  course: PDP15692
+  title: 2018 Advanced Academy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 12/3/2018
+  course: PDP31774
+  title: 2018 Advanced Academy Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 12/3/2018
+  course: PDP07334
+  title: 2018 Advanced Academy Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 12/3/2018
+  course: PDP29375
+  title: 2018 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '51.50'
+- date: 12/3/2018
+  course: PDP39317
+  title: 2018 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 12/3/2018
+  course: PDP02409
+  title: 2018 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '47.50'
+- date: 12/3/2018
+  course: PDP23179
+  title: 2018 Advanced Academy Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/9/2018
+  course: PDP21953
+  title: City Attorney's Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/9/2018
+  course: PDP15551
+  title: 'Fentanyl: The Real Deal'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/13/2018
+  course: PDP07419
+  title: Open Mat Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/11/2018
+  course: PDP27651
+  title: 2018 ITD MDC Console Replacement Videos-GetacV110
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/5/2018
+  course: PDP22051
+  title: Detectives How to Spot a Skimmer
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/5/2018
+  course: PDP42272
+  title: IFAK Refresher Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/5/2018
+  course: PDP11353
+  title: 2017-3 Legal Updates for Q3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2018
+  course: PDP27736
+  title: City Attorneys Office Legal Updates for Q4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2018
+  course: PDP33173
+  title: SSD Stops Application
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2018
+  course: PDP39936
+  title: Tips and Tech Hazard Tow vs. Private Request
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/5/2018
+  course: PDP18845
+  title: Disposition of Records Upon Retirement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/5/2018
+  course: PDP26970
+  title: Tips and Techniques Shooting though Barriers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/9/2018
+  course: PDP26441
+  title: RegJIN MRE Tree View Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/31/2018
+  course: PDP18688
+  title: FTEP Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/30/2018
+  course: PDP31433
+  title: High Performance Driving Course
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 7/25/2018
+  course: PDP09681
+  title: New Hire CAD/MRE
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 7/23/2018
+  course: PDP07667
+  title: FTEP Basic City Geography
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/23/2018
+  course: PDP34685
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 7/23/2018
+  course: PDP28460
+  title: FTEP Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 7/18/2018
+  course: PDP42735
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/17/2018
+  course: PDP15633
+  title: 2018-2 Primary Sidearm Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2018
+  course: 18-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 5/31/2018
+  course: 18-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 5/21/2018
+  course: 18-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/15/2018
+  course: PDP06919
+  title: IS-00100.leb Intro to Incident Command Sys for LE
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/15/2018
+  course: PDP16234
+  title: IS-00700.a National Incident Managment Sys (NIMS)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/13/2018
+  course: PDP19121
+  title: FTEP DOJ Directives/Assignment
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/13/2018
+  course: PDP28692
+  title: 2.02 Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/7/2018
+  course: PDP35550
+  title: Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 3/7/2018
+  course: PDP28147
+  title: Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 3/18/2018
+  expiration_date: ''
+education_records: []

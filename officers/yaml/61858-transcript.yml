@@ -1,2 +1,581 @@
 ---
-missing_transcript: true
+header_record:
+  name: Lyon, Aaron M.
+  dpsst_identifier: '61858'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 3/28/2022
+  agency: Jackson County Community Justice
+  action: Hired
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
+- date: 3/9/2022
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 5/13/2021
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 1/12/2023
+  certificate: Parole  Probation Officer
+  level: Basic
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 9/28/2023
+training_records:
+- date: 1/10/2023
+  course: M31-21A
+  title: DPSST Parole and Probation Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 11/10/2022
+  course: MFN32990
+  title: 'Firearms: Multiple Threats, Movement, Barriers'
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/28/2022
+  course: 22-0005
+  title: DPSST Basic Parole and Probation
+  status: Passed
+  score: '0.0'
+  hours: '200.00'
+- date: 9/20/2022
+  course: MFN44035
+  title: OMS/BCP Coaching
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/8/2022
+  course: MFN17312
+  title: 'Firearms: Movement'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/12/2022
+  course: MFN38311
+  title: CPR, AED and First Aid for Adults and Children
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/11/2022
+  course: MFN14301
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/27/2022
+  course: MFN17897
+  title: 'ACJI: 5 Dynamics of Effective Leadership'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/26/2022
+  course: MFN22444
+  title: Leading at Any Level
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/20/2022
+  course: MFN05513
+  title: Teaching CBT'S/Setting Goals, Risks/Strengths
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/15/2022
+  course: MFN20468
+  title: 'Firearms Training: RDS Transition'
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/30/2022
+  course: MFN42864
+  title: Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2022
+  course: MFN40399
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/29/2022
+  course: MFN07118
+  title: LS/CMI
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/28/2022
+  course: MFN25822
+  title: LS/CMI
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/15/2022
+  course: MFN33368
+  title: 'CR2: Creating Regulation and Resilience'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/25/2022
+  course: MFN27240
+  title: Jack Co Mental Health Resources
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/24/2022
+  course: MFN17983
+  title: 'Firearms: Low Light Shooting'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/28/2022
+  course: MFN03564
+  title: 'Sexual Assualt Awareness: Victims  Rape Cult'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2022
+  course: MFN28710
+  title: Women's Risk Needs Assessment
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/15/2022
+  course: MFN17640
+  title: ConSims Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/14/2022
+  course: MFN18043
+  title: Transgender 101
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/13/2022
+  course: MFN22655
+  title: Parole and PPS Morrissey Hearing's Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/7/2022
+  course: MFN28377
+  title: Airway Circulation Anatmoy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/6/2022
+  course: MFN28377
+  title: Airway Circulation Anatmoy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/2/2022
+  course: PDP00898
+  title: 2022-1 Advanced Academy Crisis Intervention Trng
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/17/2022
+  course: MFN27226
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/25/2022
+  course: PDP02637
+  title: '2022-1 Chief''s Office Bill 2928: Crowd Control'
+  status: Passed
+  score: '0.0'
+  hours: '0.15'
+- date: 1/18/2022
+  course: PDP41911
+  title: Radar/LIDAR Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 1/18/2022
+  course: BPT29927
+  title: RADAR-LIDAR Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/13/2022
+  course: PDP34045
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2022
+  course: PDP11483
+  title: Directive 630.15 Foot Pursuits Video Part 1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2022
+  course: PDP14510
+  title: Directive 630.15 Foot Pursuits Video Part 2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2022
+  course: PDP30218
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2022
+  course: PDP04025
+  title: Foot Pursuits (effective 01/14/2022)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/5/2022
+  course: PDP25973
+  title: 2021 Online Crowd Control - CAO Part 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2022
+  course: PDP03989
+  title: 2021 Online Crowd Control - CAO Part 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/4/2022
+  course: PDP33654
+  title: 2021 Online Crowd Control - Force Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.83'
+- date: 1/4/2022
+  course: PDP42279
+  title: 2021 Online Crowd Control - Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '0.42'
+- date: 1/4/2022
+  course: PDP09877
+  title: 2021 Online Crowd Control - Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/4/2022
+  course: PDP17171
+  title: 2021 Online Crowd Control - Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/16/2021
+  course: PDP38796
+  title: WMD/Terrorism Awareness for Emergency Responders
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/14/2021
+  course: PDP44453
+  title: 2021-4 City Attorney's Legal Updates for 4/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2021
+  course: PDP34689
+  title: 2021-5 City Attorney's Legal Updates for 5/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2021
+  course: PDP22486
+  title: 2021-7 City Attorney's Legal Updates for 7/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2021
+  course: PDP03342
+  title: 2021-3 City Attorney's Legal Updates for 3/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/14/2021
+  course: PDP30935
+  title: 2021-6 City Attorney's Legal Updates for 6/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2021
+  course: PDP37605
+  title: 2021 Language Access-Util Bilingual Bureau Members
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/12/2021
+  course: PDP19371
+  title: 2021-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/7/2021
+  course: PDP04708
+  title: 2021 External Training ABLE Training Ethics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/7/2021
+  course: PDP02692
+  title: 2021 External Training ABLE Training Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/1/2021
+  course: PDP30674
+  title: 2021-12 TipsTech Request Emer Ping Cell Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP03535
+  title: '2021 Equity Training Series: Racism Part 2'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP15334
+  title: 2021 Language Access - LanguageLine
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP00308
+  title: 2021 Language Access - LEP Testimonial
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP26391
+  title: 2021 Language Access Introduction
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP05712
+  title: 2021 Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/27/2021
+  course: PDP12630
+  title: 2021 Language Access-Translation  Interpretation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP39944
+  title: 2021 OSHA Heat Illness Prevention Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP28999
+  title: 2021-9 Tips  Tech Dangers of High/Extreme Heat
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP19148
+  title: 2021 Training Response to Calls Involving Youth
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/27/2021
+  course: PDP19421
+  title: Online In-Service Directive 870.25 Holding Rooms
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP18806
+  title: 2020-12 CAO Legal Updates for 12/2020-Updated
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP24543
+  title: 2020-11 City Attorney's Legal Updates for 11/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP27760
+  title: 2021-1 City Attorney's Legal Updates for 1/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/27/2021
+  course: PDP17817
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP44558
+  title: 2020-12 CAO Legal Updates for 12.2020-Updated
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP33847
+  title: 2021 City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/27/2021
+  course: PDP15092
+  title: 2021-10 TipsTech CiteInLieuWarrants Notifications
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP16282
+  title: 2021-11 TipsTech Unlawful Street Takeovers.Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP18114
+  title: 2021-2 City Attorney's Legal Updates for 2/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2021
+  course: PDP21156
+  title: 2021-7 Tips  Tech Bureau Issued Utility Knives
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2021
+  course: PDP34471
+  title: 2021-8 Tips  Tech Ballot Measure 110 - Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/22/2021
+  course: PDP07906
+  title: 2021 FTEP Post Basic Taser
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/19/2021
+  course: PDP11856
+  title: 2021-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/15/2021
+  course: M10-19A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 9/22/2021
+  course: F6F20259
+  title: SFST/ DUII Basic Police 409
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/20/2021
+  course: F6F15776
+  title: Intox 8000 BP409
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 7/4/2021
+  course: PDP10830
+  title: WMD/Terrorism Awareness for Emergency Responders
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/27/2021
+  course: PDP26078
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/27/2021
+  course: PDP12431
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/26/2021
+  course: PDP07044
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/24/2021
+  course: PDP39598
+  title: 2021 FTEP Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/24/2021
+  course: PDP22176
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/20/2021
+  course: PDP29973
+  title: FTEP Pre-DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
+- date: 8/17/2019
+  course: PDP26461
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 9/26/2022
+  expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/12/2022
+  expiration_date: 8/12/2024
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 3/28/2022
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 5/30/2021
+  expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/26/2021
+  expiration_date: 5/26/2023
+education_records:
+- date: 6/13/2020
+  degree: Bachelor Arts
+  school: Southern Oregon University
+  major: Criminal Justice
+  hours: '180.0'

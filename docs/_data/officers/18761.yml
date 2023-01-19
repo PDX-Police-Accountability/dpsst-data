@@ -1,2 +1,3472 @@
 ---
-missing_transcript: true
+header_record:
+  name: Mudrick, Maury J.
+  dpsst_identifier: '18761'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Detective
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 11/27/2017
+  agency: OHSU University Police
+  action: Hired
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
+- date: 11/24/2017
+  agency: Multnomah County District Attorney
+  action: Resigned
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 9/8/2014
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 9/5/2014
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 9/20/2007
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 1/5/1989
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 1/1/1989
+  agency: Cottage Grove Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 8/26/1985
+  agency: Cottage Grove Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 8/5/1986
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 8/5/1986
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 10/17/2022
+  course: HSU32547
+  title: Chief's Ethics Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2022
+  course: HSU33827
+  title: Airway TRN Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2022
+  course: HSU02725
+  title: Active Threat Refresher Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/17/2022
+  course: HSU07156
+  title: Wellness Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2022
+  course: HSU04608
+  title: Firearms Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/16/2022
+  course: HSU13319
+  title: EVO Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2022
+  course: HSU43777
+  title: Defensive Tactics Fall In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/29/2022
+  course: F6R19836
+  title: Cultivating an Inclusive, Ethical Culture
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/29/2022
+  course: F6R36766
+  title: DPSST's Use of Force Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2022
+  course: F6R05708
+  title: New Laws and Reporting Requirements
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 9/29/2022
+  course: F6R04717
+  title: Standards of Student Conduct
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/29/2022
+  course: F6R25371
+  title: Trauma Recovery, Wellness  Resilience
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R38139
+  title: Understanding "Human Error"
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R03555
+  title: The C.A.L.M. Approach
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2022
+  course: F6R43838
+  title: Critical Issue Briefings
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/14/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 4/9/2022
+  course: HSU26856
+  title: Defensive Tactics Spring In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/9/2022
+  course: HSU28325
+  title: Firearms Spring In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/9/2022
+  course: HSU32901
+  title: PVO Spring In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/4/2022
+  course: HSU11147
+  title: CPR Spring In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/4/2022
+  course: HSU11201
+  title: Ethis/ Policy Spring In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/4/2022
+  course: HSU15321
+  title: Fire Response Training Spring In-Service 2022
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/31/2021
+  course: 21-CVDL3
+  title: 2021 LE Basic 3 Year Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 11/23/2021
+  course: MISCMAIN
+  title: 2021 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/22/2021
+  course: HSU00642
+  title: Report Writing Fall In-Service 2021
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/18/2021
+  course: HSU24172
+  title: Report Writing Fall In-Service 2021
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/18/2021
+  course: HSU27804
+  title: Chief's Message Fall In-Service 2021
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2021
+  course: HSU08234
+  title: Firearms Skills/ Fall In-Service 2021
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/17/2021
+  course: HSU36827
+  title: Patrol Tactics/ Clears/ TASER Fall In-Service 2021
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/30/2021
+  course: HSU03224
+  title: Ethics and Policy Update
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/30/2021
+  course: HSU05823
+  title: Vehicle Operations/ Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/30/2021
+  course: HSU10094
+  title: Firearms Skills In-Service Spring 2021
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/30/2021
+  course: HSU44222
+  title: Partol Tactics/ Removal from Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2020
+  course: 20-CVDL1
+  title: 2020 LE Annual Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 11/13/2020
+  course: HSU22201
+  title: Firearms In-Service Fall 2020
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/23/2020
+  course: HSU34401
+  title: Patrol Tactics/ TASER Re-Cert
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/22/2020
+  course: HSU26990
+  title: TASER Re-Cert Classroom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/14/2020
+  course: F6D12866
+  title: Chief to Chief Leadership Wellness Discussion.
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/26/2020
+  course: HSU37882
+  title: Summer In-service Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/18/2019
+  course: MISCMAIN
+  title: 2019 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/27/2019
+  course: HSU09633
+  title: OHSU Active Shooter Drill
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/20/2019
+  course: HSU01743
+  title: Advanced Active Shooter Response
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/11/2019
+  course: HSU15832
+  title: Emergency Services Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/11/2019
+  course: HSU37138
+  title: Active Shooter Incident Management (ASIMS)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/11/2019
+  course: HSU01412
+  title: Policy Update
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/11/2019
+  course: HSU38205
+  title: Advanced Active Shooter Response
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/11/2019
+  course: HSU36342
+  title: Officer Involved Shooting Process and Debrief
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/11/2019
+  course: HSU07938
+  title: Title 9
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/10/2019
+  course: HSU26383
+  title: Firearms - Decision Making/Room Entries
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/10/2019
+  course: HSU22683
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/6/2019
+  course: HSU11304
+  title: Advanced Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/6/2019
+  course: HSU15629
+  title: Confrontational Simulations - Vehicle Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/5/2019
+  course: HSU24062
+  title: Sex Assault and Human Trafficking Investigations
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/27/2019
+  course: HSU27024
+  title: Threat Assessment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2019
+  course: HSU38522
+  title: Legal Update/Admin
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/27/2019
+  course: HSU39443
+  title: NARCAN
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/26/2019
+  course: HSU36562
+  title: Firearms - Vehicle Tactics
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/26/2019
+  course: HSU08075
+  title: Sexual Assault Investigations
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/26/2019
+  course: HSU00675
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/25/2019
+  course: HSU27668
+  title: Advanced Active Shooter Response
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/25/2019
+  course: HSU28614
+  title: Confrontational Simulation - Vehicle Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/5/2019
+  course: HSU15851
+  title: Firearms - PreA2019-3 - 04052019
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/22/2019
+  course: HSU13420
+  title: Tactical Movement
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/14/2018
+  course: MISCMAIN
+  title: 2018 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/14/2018
+  course: HSU22226
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/27/2018
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
+- date: 11/27/2018
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
+- date: 9/18/2018
+  course: HSU42154
+  title: Intro to Tactical Casualty Care - IS20182A
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/18/2018
+  course: HSU27743
+  title: Advanced Active Shooter - IS20182A
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/17/2018
+  course: HSU18906
+  title: Policy/Ethics - IS20182A
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/17/2018
+  course: HSU27423
+  title: Taser Re-Certification - IS20182A
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/17/2018
+  course: HSU36791
+  title: CIT - IS20182A
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/16/2018
+  course: HSU08137
+  title: Defensive Tactics - IS20182A
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 9/16/2018
+  course: HSU41479
+  title: Firearms/Range - IS20182A
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 7/3/2018
+  course: MISCMAIN
+  title: 2018 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/13/2018
+  course: HSU03167
+  title: Patrol Tactics/ TASER Re-Cert
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/25/2018
+  course: HSU00782
+  title: New Manager Leadership Essentials
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 4/27/2018
+  course: F6B27065
+  title: Taser X2 Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/2/2018
+  course: F6B22430
+  title: Critical Incident Response/High Risk Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/2/2018
+  course: F6B24538
+  title: Online Source Information Systems
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/2/2018
+  course: F6B34403
+  title: Policy/Chief's Hour
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/2/2018
+  course: F6B25076
+  title: Unconscious Bias
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/20/2018
+  course: F6B08649
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/20/2018
+  course: F6B29459
+  title: Firearms Courses/Drills
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/19/2018
+  course: F6B10634
+  title: Crisis Communications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/7/2018
+  course: F6B36155
+  title: Basic Firearms I
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/4/2017
+  course: F6W18464
+  title: Homicide and Crime Scene Management
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 4/6/2017
+  course: F6A04885
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/22/2016
+  course: F6A02404
+  title: First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/31/2015
+  course: MISCMAIN
+  title: 2015 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/8/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/24/2015
+  course: 15-0609
+  title: Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 7/31/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/30/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/17/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/16/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/3/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 7/2/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/30/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2014
+  course: 14-0147
+  title: Firearms - Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2014
+  course: 14-0167
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/19/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/5/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/4/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/22/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/21/2014
+  course: 14-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/21/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/21/2014
+  course: 14-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/21/2014
+  course: 14-0263
+  title: Contact  Cover Workshop
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/21/2014
+  course: 14-0268
+  title: Tactical Survival
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/21/2014
+  course: 14-0431
+  title: Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '3.75'
+- date: 5/21/2014
+  course: 14-0720
+  title: Mobile Video
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/21/2014
+  course: 14-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 5/21/2014
+  course: 14-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/21/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/8/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/7/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/24/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/23/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/10/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/9/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/27/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/27/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/20/2014
+  course: 14-0259
+  title: Tactical Entry
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/13/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/13/2014
+  course: 14-1251
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/12/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/11/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/28/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2014
+  course: 14-0167
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2014
+  course: 14-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/13/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/12/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/30/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/29/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/28/2014
+  course: 14-0703
+  title: Data System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/16/2014
+  course: 14-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/15/2014
+  course: 14-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/19/2013
+  course: 13-0159
+  title: M-4 Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/18/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 12/5/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/30/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2013
+  course: 13-0167
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/20/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/18/2013
+  course: 13-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/7/2013
+  course: 13-0159
+  title: M-4 Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/7/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/6/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/31/2013
+  course: 13-0260
+  title: Vehicle Assault / Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/31/2013
+  course: 13-0275
+  title: Use of Deadly Force
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/31/2013
+  course: 13-1250
+  title: Driving - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/31/2013
+  course: 13-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/29/2013
+  course: 13-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/29/2013
+  course: 13-0925
+  title: Use of Force Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 10/29/2013
+  course: 13-0684
+  title: Effective Contacts with Mentally Ill Citizens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2013
+  course: 13-0634
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/29/2013
+  course: 13-1285
+  title: K-9 Tactical
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/24/2013
+  course: 13-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/24/2013
+  course: 13-0159
+  title: M-4 Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/23/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/10/2013
+  course: 13-0259
+  title: Tactical Entry
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/10/2013
+  course: 13-0159
+  title: M-4 Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/9/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/27/2013
+  course: 13-1252
+  title: Tactical Communication
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2013
+  course: 13-0159
+  title: M-4 Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/26/2013
+  course: 13-0882
+  title: Tactical Rappelling
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/26/2013
+  course: 13-0260
+  title: Vehicle Assault / Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/25/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/25/2013
+  course: 13-0267
+  title: Tactical Movement
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/24/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/23/2013
+  course: 13-0175
+  title: Tactical Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/23/2013
+  course: 13-1251
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/23/2013
+  course: 13-0259
+  title: Tactical Entry
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/22/2013
+  course: 13-1251
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/22/2013
+  course: 13-1253
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/12/2013
+  course: 13-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 9/12/2013
+  course: 13-1253
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2013
+  course: 13-0159
+  title: M-4 Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/12/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/31/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2013
+  course: 13-0147
+  title: Firearms - Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2013
+  course: 13-0167
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/23/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/22/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/9/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/9/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/8/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/8/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/11/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/10/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/31/2013
+  course: 13-0147
+  title: Firearms - Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2013
+  course: 13-0167
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/28/2013
+  course: 13-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/28/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/28/2013
+  course: 13-0970
+  title: ORPAT - Physical Fitness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/27/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/13/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/31/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2013
+  course: 13-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2013
+  course: 13-0147
+  title: Firearms - Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2013
+  course: 13-0167
+  title: Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2013
+  course: 13-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/30/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/17/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/16/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/3/2013
+  course: 13-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/2/2013
+  course: 13-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2012
+  course: 12-0476
+  title: Workplace Substance Abuse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2012
+  course: 12-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2012
+  course: 12-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2012
+  course: 12-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2012
+  course: MISCMAIN
+  title: 2012 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/12/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/29/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/28/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/15/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/14/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/8/2012
+  course: 12-0117
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/8/2012
+  course: 12-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/8/2012
+  course: 12-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/8/2012
+  course: 12-0272
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/8/2012
+  course: 12-0707
+  title: Internet for Investigators
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/8/2012
+  course: 12-0905
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/8/2012
+  course: 12-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/8/2012
+  course: 12-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/8/2012
+  course: 12-0971
+  title: Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/8/2012
+  course: 12-1112
+  title: Officer Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/31/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/25/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/24/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/11/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/10/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/30/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/30/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/28/2012
+  course: 12-0175
+  title: Tactical Firearms
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 9/28/2012
+  course: 12-0260
+  title: Vehicle Assault / Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2012
+  course: 12-0259
+  title: Tactical Entry
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
+- date: 9/28/2012
+  course: 12-1251
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 8/31/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/31/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/31/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/21/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/20/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 6/20/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/23/2012
+  course: 12-0253
+  title: Crowd / Riot Control
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/10/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/9/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/26/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/12/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/11/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/29/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/28/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/15/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 3/15/2012
+  course: 12-0260
+  title: Vehicle Assault / Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/15/2012
+  course: 12-1251
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 3/14/2012
+  course: 12-0151
+  title: Tactical Night Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/14/2012
+  course: 12-0259
+  title: Tactical Entry
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/13/2012
+  course: 12-0175
+  title: Tactical Firearms
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 3/1/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/16/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/2/2012
+  course: 12-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/1/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 2/1/2012
+  course: 12-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2011
+  course: 11-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2011
+  course: 11-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 12/31/2011
+  course: 11-0774
+  title: Crime Scene Investigation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/14/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/1/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 11/30/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/30/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/23/2011
+  course: 11-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/23/2011
+  course: 11-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/23/2011
+  course: 11-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/23/2011
+  course: 11-1093
+  title: Civil Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/23/2011
+  course: 11-0774
+  title: Crime Scene Investigation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/23/2011
+  course: 11-0832
+  title: Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/2/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/27/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/26/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/13/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/12/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/5/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2011
+  course: 11-0151
+  title: Tactical Night Shooting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2011
+  course: 11-0175
+  title: Tactical Firearms
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 9/30/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '12.50'
+- date: 9/30/2011
+  course: 11-0260
+  title: Vehicle Assault / Hostage Rescue
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 9/30/2011
+  course: 11-1251
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/30/2011
+  course: 11-1253
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 8/4/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/3/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/20/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/7/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/6/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/23/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 6/22/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/9/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/8/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/26/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
+- date: 5/25/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/12/2011
+  course: 11-0882
+  title: Tactical Rappelling
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/11/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/25/2011
+  course: 11-0699
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/20/2011
+  course: 11-0259
+  title: Tactical Entry
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/14/2011
+  course: 11-0854
+  title: Gas Mask Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/13/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/31/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/30/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/18/2011
+  course: 11-0787
+  title: Forensic Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 3/3/2011
+  course: 11-0882
+  title: Tactical Rappelling
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/2/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/17/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 2/17/2011
+  course: 11-0889
+  title: Response to Suicide Bombings
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/16/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/3/2011
+  course: 11-1251
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/2/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/20/2011
+  course: 11-0882
+  title: Tactical Rappelling
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/19/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/6/2011
+  course: 11-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 1/5/2011
+  course: 11-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2010
+  course: 10-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/14/2010
+  course: 10-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/14/2010
+  course: 10-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/14/2010
+  course: 10-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/29/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/9/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/8/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/2/2010
+  course: 10-0832
+  title: Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/1/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/5/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/4/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/22/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/21/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/20/2010
+  course: 10-0801
+  title: Homicide Investigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/24/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/23/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/22/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/21/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/10/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/9/2010
+  course: 10-1183
+  title: Global Positioning / GPS
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/27/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/27/2010
+  course: 10-1183
+  title: Global Positioning / GPS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/26/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/13/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/12/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/12/2010
+  course: 10-1252
+  title: Tactical Communication
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/29/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/28/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/14/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/18/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/8/2010
+  course: 10-0259
+  title: Tactical Entry
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/9/2010
+  course: 10-0259
+  title: Tactical Entry
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/7/2010
+  course: 10-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/6/2010
+  course: 10-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2009
+  course: '09-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 12/31/2009
+  course: '09-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/16/2009
+  course: '09-0952'
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/4/2009
+  course: '09-0147'
+  title: Firearms - Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/3/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/2/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/30/2009
+  course: '09-0121'
+  title: Patrol Tactics - DT Focus
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2009
+  course: '09-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/5/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/4/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/29/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/28/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/12/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
+- date: 9/9/2009
+  course: '09-0175'
+  title: Tactical Firearms
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 9/8/2009
+  course: '09-1251'
+  title: Tactical Call-Out
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/23/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/22/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/9/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/8/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/24/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/11/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/10/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/28/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/27/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/14/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/13/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/30/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/27/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/16/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/19/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/5/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/4/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/26/2009
+  course: '09-0801'
+  title: Homicide Investigation
+  status: Passed
+  score: '0.0'
+  hours: '20.50'
+- date: 2/19/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/18/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/15/2009
+  course: '09-0709'
+  title: Mobile Data Terminal (MDT)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/5/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/4/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/22/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/21/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/8/2009
+  course: '09-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/7/2009
+  course: '09-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2008
+  course: '08-1274'
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/18/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/17/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/12/2008
+  course: '08-0259'
+  title: Tactical Entry
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/4/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/3/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/20/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/19/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 10/30/2008
+  course: '08-0268'
+  title: Tactical Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/23/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 10/22/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 10/14/2008
+  course: '08-0131'
+  title: LEO Flying Armed
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2008
+  course: '08-0709'
+  title: Mobile Data Terminal (MDT)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/30/2008
+  course: '08-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '43.00'
+- date: 9/10/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/28/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/27/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/31/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 7/30/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 6/19/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/18/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/5/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/4/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/22/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/21/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/8/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/7/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/24/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/23/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/10/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/9/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/27/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/26/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/13/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/12/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/28/2008
+  course: '08-1038'
+  title: Interview  Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/14/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/31/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/30/2008
+  course: '08-0138'
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/22/2008
+  course: '08-0827'
+  title: Informants
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/18/2008
+  course: '08-0554'
+  title: Detectives Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 1/3/2008
+  course: '08-0255'
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2007
+  course: 07-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '3.30'
+- date: 12/10/2007
+  course: 07-0100
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/29/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/27/2007
+  course: 07-0830
+  title: Investigative Interviews
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/20/2007
+  course: 07-0783
+  title: Computer Forensics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/15/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/14/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/1/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/31/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/18/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/17/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/4/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/3/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/28/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
+- date: 7/26/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/25/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/12/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/11/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/30/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/28/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/27/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/14/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/13/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/31/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/30/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/28/2007
+  course: 07-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/21/2007
+  course: 07-0157
+  title: Glock Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/21/2007
+  course: 07-0647
+  title: Community Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/21/2007
+  course: 07-1228
+  title: Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/21/2007
+  course: 07-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/17/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/16/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/3/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/2/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/19/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/18/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/31/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/22/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/21/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/8/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/7/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/22/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/21/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/8/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/7/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/1/2007
+  course: 07-0870
+  title: AWR-160 WMD Awareness Level Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/1/2007
+  course: 07-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/1/2007
+  course: 07-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/1/2007
+  course: 07-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2007
+  course: 07-0109
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/31/2007
+  course: 07-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 1/31/2007
+  course: 07-0854
+  title: Gas Mask Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2007
+  course: 07-1226
+  title: Vehicle / Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/30/2007
+  course: 07-0100
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/30/2007
+  course: 07-0121
+  title: Patrol Tactics - DT Focus
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/30/2007
+  course: 07-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/25/2007
+  course: 07-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/24/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/11/2007
+  course: 07-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/10/2007
+  course: 07-0138
+  title: SERT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2006
+  course: 06-1348
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '492.00'
+- date: 12/31/2006
+  course: 06-1347
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
+- date: 3/17/2006
+  course: 06-0924
+  title: Clan Lab Entry
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/31/2005
+  course: 05-2977
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '53.10'
+- date: 12/31/2005
+  course: 05-2978
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '62.50'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/22/2005
+  course: 05-0544
+  title: OSIN Basic Criminal Intelligence Concepts Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2004
+  course: 04-3581
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2004
+  course: 04-3579
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 5/13/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '73.00'
+- date: 2/15/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/3/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '440.00'
+- date: 11/10/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '31.00'
+- date: 10/1/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '704.00'
+- date: 5/1/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '37.00'
+- date: 9/3/1999
+  course: 99U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/30/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '541.00'
+- date: 12/18/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/31/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/31/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/20/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '120.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/21/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 12/21/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '98.00'
+- date: 9/15/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '219.00'
+- date: 6/1/1995
+  course: 95X088
+  title: LEDS 1995 RECERTIFICATION TEST
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '181.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
+- date: 6/24/1994
+  course: 94K076
+  title: FIELD TRAINING OFFICER SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/19/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '96.00'
+- date: 11/10/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '190.00'
+- date: 6/11/1993
+  course: 93J066
+  title: TACTICAL UPDATE/HIGH RISK ENTRIES
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/26/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '124.00'
+- date: 9/16/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '94.00'
+- date: 8/6/1992
+  course: 92K185
+  title: SEARCH WARRANT PREPARATION FOR POLICE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/12/1990
+  course: '905028'
+  title: MULTI-DISCIPLINARY INVEST CHILD SEXUAL A
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/25/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/23/1989
+  course: '899016'
+  title: ADVANCED ACADEMY 89-1
+  status: Passed
+  score: '0.0'
+  hours: '288.00'
+- date: 7/15/1988
+  course: '889219'
+  title: PR-24 BASIC COURSE
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 5/20/1987
+  course: 87P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/28/1987
+  course: '879130'
+  title: BASIC PR-24 BATON TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 12/31/1986
+  course: '869051'
+  title: LEDS MANUAL--INTRODUCTORY LEVEL CERT
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/1/1986
+  course: 86M050
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 3/17/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '85.00'
+- date: 12/13/1985
+  course: '851123'
+  title: 'BASIC POLICE CLASS #123'
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 12/13/1985
+  course: '859099'
+  title: INTOXILYZER MODEL 4011-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/9/1985
+  course: 85F001
+  title: FIRST AID  CPR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/4/2022
+  expiration_date: 4/8/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2024
+education_records: []

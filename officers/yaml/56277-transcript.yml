@@ -1,2 +1,1073 @@
 ---
-missing_transcript: true
+header_record:
+  name: Lau, Sheung T.
+  dpsst_identifier: '56277'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 8/22/2022
+  agency: Canby Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 10/5/2020
+  agency: Gladstone Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 10/2/2020
+  agency: Mt. Angel Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/12/2018
+  agency: Mt. Angel Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 9/14/2017
+  agency: Portland Police Bureau
+  action: Prob Dschg
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/28/2016
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 4/15/2020
+  certificate: Police Officer
+  level: Intermediate
+  status: Granted
+  certificate_date: 4/15/2020
+  expiration_date: ''
+  probation_date: ''
+- status_date: 6/28/2018
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 6/28/2018
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 12/13/2022
+  course: CAP03923
+  title: Finding the Leader in You
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/8/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/7/2022
+  course: CAP30191
+  title: Night Shoot
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/31/2022
+  course: CAP36835
+  title: Shaping an Ethical Workplace Culture
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2022
+  course: CAP20916
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/21/2022
+  course: CAP05650
+  title: Precision Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/4/2022
+  course: GLP08698
+  title: Qual/Movement/Target Focus Shooting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/12/2022
+  course: GLP21351
+  title: Adult/Child CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/12/2022
+  course: OCS22537
+  title: Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 3/9/2022
+  course: LOP18296
+  title: EVOC (Pursuit Driving, Use of Force)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2021
+  course: 21-CVDL1
+  title: 2021 LE Annual Maint-Not Met COVID19
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 9/9/2021
+  course: F6E31333
+  title: Taser Annual Recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/6/2021
+  course: F6F20454
+  title: Less Lethal Impact Munitions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/2/2021
+  course: F6F05945
+  title: Heat Stress Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/30/2021
+  course: F6F39394
+  title: HB 3164 - Update to Interfering w/a Peace Officer
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/30/2021
+  course: F6F29689
+  title: Community Caretaking Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/7/2021
+  course: F6D28969
+  title: Forcible Entry / Manual Breaching
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/3/2021
+  course: F6D20806
+  title: PREA Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2021
+  course: F6D04980
+  title: Use of Force - Policy or Tactics?
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/23/2021
+  course: BPT12720
+  title: RADAR/LIDAR - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/10/2021
+  course: F6D10351
+  title: Primary/ Off Duty Handgun and Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/13/2021
+  course: F6D37585
+  title: Autism Awareness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/13/2021
+  course: F6D06060
+  title: Verbal De-Escalation Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2020
+  course: F6D03131
+  title: OR Measure 110 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/21/2020
+  course: F6D10570
+  title: OR OSHA Covid-19 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/24/2020
+  course: F6D13751
+  title: Taser 7 Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/4/2020
+  course: F6D08425
+  title: Cyber Threats and Cyber Security
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/22/2020
+  course: F6D11188
+  title: Defesnive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2020
+  course: F6D31970
+  title: Handcuffing/OC/ Baton
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/14/2020
+  course: F6D06588
+  title: Implicit Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/7/2020
+  course: F6D44065
+  title: Tactical Medic/ Combat Lifesaver
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/21/2020
+  course: MISCMAIN
+  title: 2020 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/10/2020
+  course: F6D33297
+  title: Real Warold De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 8/11/2020
+  course: MISCMAIN
+  title: 2020 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/1/2020
+  course: MAP27954
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/28/2020
+  course: MAP39496
+  title: Ethics Bulletin Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/22/2020
+  course: F6D04824
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 7/14/2020
+  course: MAP35552
+  title: Legislative Police Reform Laws Directive 20-02
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2020
+  course: MAP43709
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/16/2020
+  course: MAP18950
+  title: DPSST Ethics Bulletin 196  197
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/24/2020
+  course: MAP01797
+  title: Oregon Election Security Symposium
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/22/2020
+  course: F6D15188
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2020
+  course: F6D29406
+  title: Covid -19 PPE Donning and Doffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2020
+  course: HUP32950
+  title: OC Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2020
+  course: HUP11989
+  title: OSHA Bloodborne Pathlogens Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2020
+  course: HUP32108
+  title: ASP Baton Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2020
+  course: MAP23038
+  title: DPSST Ethics Bulletin 195
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/25/2020
+  course: F6D37287
+  title: Quarterly Firearms Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/24/2020
+  course: MAP36757
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/7/2020
+  course: F6D40687
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/1/2020
+  course: F6D33344
+  title: Implied Consent Law Changes
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2019
+  course: F6D24714
+  title: Emergency Medical Dispatch Cards
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/11/2019
+  course: SVP23113
+  title: Domestic Violence Threat Assessment  Updates
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/3/2019
+  course: HBS42740
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2019
+  course: MAP42936
+  title: Giving  Receiving Feedback
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/24/2019
+  course: F6D03625
+  title: Use of Force/ MILO Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/23/2019
+  course: F6D23342
+  title: US Secret Service  CISA Threat Assesment Workshop
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/16/2019
+  course: F6D25484
+  title: 2019 Marion County Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/7/2019
+  course: F6D09911
+  title: Firearms Training / Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/4/2019
+  course: F6D19282
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/20/2019
+  course: F6D03842
+  title: Evidence Disposal Pursuant to Law
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2019
+  course: F6D29645
+  title: Lexipol Social Media Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/3/2019
+  course: F6D24598
+  title: Natural Gas Information for Public Officials
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/27/2019
+  course: HUP41601
+  title: Missing Person Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/27/2019
+  course: HUP28962
+  title: Death Investigatons
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/27/2019
+  course: OCS29196
+  title: Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/27/2019
+  course: OCS00059
+  title: Missing Person Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/23/2019
+  course: F6D03467
+  title: Use of Force Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 8/12/2019
+  course: MAP28434
+  title: Firearms Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 7/28/2019
+  course: F6D30041
+  title: Oregon School Safety Confrence
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
+- date: 7/10/2019
+  course: F6D19441
+  title: Harassment, Equal Employment  Other Laws
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/26/2019
+  course: F6D13106
+  title: Best Practices for Collection/ Seizure of Mobile
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/17/2019
+  course: MISCMAIN
+  title: 2019 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/8/2019
+  course: F6D32663
+  title: Ethics Bulletin - Volume 187 - May 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/29/2019
+  course: F6D14353
+  title: Ethics Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/29/2019
+  course: F6D18682
+  title: Pursuits - Lexipol Policy 307
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/29/2019
+  course: F6D14058
+  title: Pursuit Decision Making PURSUE by NHTSA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/19/2019
+  course: F6D34950
+  title: Intermediate Carbine
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/15/2019
+  course: BPT25996
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/15/2019
+  course: F6D15606
+  title: Ethics Bulletin , Volume 186 - April 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/12/2019
+  course: F6D13712
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/22/2019
+  course: BPT36378
+  title: RADAR/LIDAR Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/28/2019
+  course: F6D24010
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/21/2019
+  course: F6D24261
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/21/2019
+  course: F6D00992
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/17/2018
+  course: HBS18189
+  title: Tactics In Traffic
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/22/2018
+  course: MISCMAIN
+  title: 2018 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/16/2018
+  course: F6B41474
+  title: Defensive Tactics Krav Maga
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/1/2018
+  course: F6B24599
+  title: Patrol Rifle Qualification Course
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2018
+  course: F6B38447
+  title: 'Pistol/Handgun Qualification Course: PQC 1  2'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/21/2018
+  course: F6W28030
+  title: Threat Assem. Level II Investigations short course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/17/2018
+  course: F6B39200
+  title: Basic SRO Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 8/10/2018
+  course: F6B14914
+  title: 'Ethics Bulletin #177'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/1/2018
+  course: F6D03140
+  title: OSROA School Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 7/18/2018
+  course: F6B35894
+  title: Taser Re-certification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/18/2018
+  course: F6B16590
+  title: 'Ethics Bulletin #176'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2018
+  course: F6B05258
+  title: Firearms Qualification and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 6/25/2018
+  course: F6B14956
+  title: Ethics Bulletin 175
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/4/2018
+  course: 18T001
+  title: Police Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 5/31/2018
+  course: F6B11444
+  title: Marion County Law Enforcement Guide to E-mail
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2018
+  course: F6B29094
+  title: First Aid/CPR/Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/25/2018
+  course: F6B20097
+  title: MAPD Directive 18-01 Drug Testing Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/8/2018
+  course: F6B10013
+  title: 'Ethics Bulletin #174'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/25/2018
+  course: F6B26467
+  title: 'Ethics Bulletin #172'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/18/2018
+  course: F6D33317
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/31/2017
+  course: PDP19938
+  title: Handgun Qualification - Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2017
+  course: PDP22380
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/20/2017
+  course: PDP23931
+  title: SIRN Juvenile Justice Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 4/13/2017
+  course: PDP38362
+  title: Advanced Academy 2017-1 Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '138.00'
+- date: 4/10/2017
+  course: PDP32451
+  title: Advanced Academy 2017-1 Mock Trials
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/4/2017
+  course: PDP41972
+  title: Advanced Academy 2017-1 Communication w/ Purpose
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/2/2017
+  course: PDP39251
+  title: Advanced Academy 2017-1 PVO - Shelton
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 3/30/2017
+  course: PDP13640
+  title: Advanced Academy 2017-1 Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '75.00'
+- date: 3/30/2017
+  course: PDP35977
+  title: Advanced Academy 2017-1 Firearms
+  status: Passed
+  score: '0.0'
+  hours: '63.50'
+- date: 3/30/2017
+  course: PDP02151
+  title: Advanced Academy 2017-1 PVO
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 2/28/2017
+  course: F6C13191
+  title: Handgun Qualification-Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/23/2017
+  course: F6C19990
+  title: Advanced Academy 2017-1 Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/20/2017
+  course: PDP02634
+  title: Advanced Academy 2017-1 TECC
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 2/16/2017
+  course: F6C02794
+  title: Advanced Academy-Personal Communications
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 2/16/2017
+  course: PDP40314
+  title: Advanced Academy 2017-1 Law
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 2/15/2017
+  course: F6C26074
+  title: PVO Simulator Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/2017
+  course: F6C15234
+  title: PVO Simulator Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/2017
+  course: PDP21320
+  title: Advanced Academy 2017-1 Gangs
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/14/2017
+  course: PDP13776
+  title: Advanced Academy 2017-1 CIT
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 2/9/2017
+  course: F6C29433
+  title: Advanced Academy 2017-Use of Force Report
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 2/8/2017
+  course: F6C25331
+  title: Advanced Academy 2017-1 DVRU
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/1/2017
+  course: F6C26815
+  title: Adv Academy 2017-1 Responsible Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/31/2017
+  course: F6C03886
+  title: Advanced Academy 2017-1 Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/31/2017
+  course: F6C00361
+  title: Advanced Academy 2017-1 Suicide Awareness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/26/2017
+  course: F6C12533
+  title: Advanced Academy 2017-1 Discretion
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/26/2017
+  course: F6C15204
+  title: Advanced Academy 2017-1 Crisis Communication
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/25/2017
+  course: F6C15873
+  title: Advanced Academy 2017-Major Crimes OIS  In-Cust
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/24/2017
+  course: F6C41462
+  title: Advanced Academy 2017-1 Get  Prostitution
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 1/23/2017
+  course: F6C03217
+  title: Advanced Academy 2017-1 Equity Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 1/23/2017
+  course: PDP01461
+  title: Advanced Academy 2017-1 OIS
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/19/2017
+  course: F6C36671
+  title: Advanced Academy 2017-1 CNT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/19/2017
+  course: F6C07290
+  title: Adv Academy 2017-1 Investigations:Street Contacts
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/18/2017
+  course: F6C36496
+  title: Advanced Academy 2017-1 EAP- Alcohol Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/18/2017
+  course: F6C17563
+  title: Advanced Academy 2017-1 Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/18/2017
+  course: F6C25098
+  title: Advanced Academy 2017-1 Internal Affiars and IPR
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/18/2017
+  course: F6C08667
+  title: Advanced Academy 2017-1 Introduction to PLPJ
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/16/2017
+  course: F6C12227
+  title: Advanced Academy 2017-1Resources:EIS
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/12/2017
+  course: F6C05463
+  title: Advanced Academy 2017-1 Ethics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/12/2017
+  course: F6C21432
+  title: Advanced Academy 2017-1 Orientation/Expectations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2016
+  course: F6C29746
+  title: Handgun Qualification - Primary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2016
+  course: F6C35393
+  title: Handgun Qualification - Secondary Sidearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2016
+  course: F6C15902
+  title: Roll Call Videos
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/27/2016
+  course: F6C21343
+  title: Basic Police Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/26/2016
+  course: F6C32644
+  title: FTEP Orientation - Post Academy
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/19/2016
+  course: F6C23937
+  title: Defensive Tactics - Post DPSST
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/14/2016
+  course: F6C27518
+  title: Geography
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/9/2016
+  course: 16-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 11/8/2016
+  course: 16-0016
+  title: Weapons of Mass Destruction-Hours incl. in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/28/2016
+  course: 16-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/20/2016
+  course: 16-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/11/2016
+  course: F6C10464
+  title: IS 00700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/11/2016
+  course: PDP16385
+  title: IS-00100 Introduction to Incident Command
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/10/2016
+  course: F6C25391
+  title: Gas Mask Fit  Training (APR)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/9/2016
+  course: F6C14898
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/9/2016
+  course: F6C02320
+  title: 2.2 Workplace Harassment - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/8/2016
+  course: F6C23345
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/8/2016
+  course: F6C40189
+  title: FTEP Policy  Procedure - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/4/2016
+  course: F6C09019
+  title: Firearms - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/12/2022
+  expiration_date: 4/12/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2021
+  expiration_date: 12/31/2023
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 3/5/2018
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 8/14/2016
+  expiration_date: ''
+education_records:
+- date: 3/18/2011
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '202.0'
+- date: 9/15/2007
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '27.0'

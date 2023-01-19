@@ -1,2 +1,258 @@
 ---
-missing_transcript: true
+header_record:
+  name: Saephanh, Justin
+  dpsst_identifier: '57267'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/13/2018
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 5/25/2017
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 7/8/2018
+  course: PDP33173
+  title: SSD Stops Application
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/28/2018
+  course: PDP27736
+  title: City Attorneys Office Legal Updates for Q4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/3/2018
+  course: PDP22051
+  title: Detectives How to Spot a Skimmer
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/1/2018
+  course: PDP27576
+  title: Reducing DA Case Rejects Part 2 of 2
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/30/2018
+  course: PDP15633
+  title: 2018-2 Primary Sidearm Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/30/2018
+  course: PDP41145
+  title: 2018-2 Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/16/2018
+  course: PDP41013
+  title: 2018-1 Advanced Academy Orientation and Expectatio
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/16/2018
+  course: PDP17344
+  title: 2018-1 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '50.75'
+- date: 5/16/2018
+  course: PDP39199
+  title: 2018-1 Advanced Academy Crisis Intervention Traini
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 5/16/2018
+  course: PDP07263
+  title: 2018-1 Advanced Academy Customer Service
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 5/16/2018
+  course: PDP39615
+  title: 2018-1 Advanced Academy Patrol Procedures - Other
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/16/2018
+  course: PDP34455
+  title: 2018-1 Advanced Academy Patrol Procedures
+  status: Passed
+  score: '0.0'
+  hours: '138.50'
+- date: 5/16/2018
+  course: PDP05488
+  title: 2018-1 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '53.50'
+- date: 5/16/2018
+  course: PDP03774
+  title: 2018-1 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 5/16/2018
+  course: PDP06758
+  title: 2018-1 Advanced Academy Police Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 5/16/2018
+  course: PDP08028
+  title: '2018-1 Advanced Academy Professionalism: Ethics'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/16/2018
+  course: PDP02130
+  title: 2018-1 Advanced Academy PVO - Other
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 4/6/2018
+  course: PDP39936
+  title: Tips and Tech Hazard Tow vs. Private Request
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2018
+  course: PDP18845
+  title: Disposition of Records Upon Retirement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2018
+  course: PDP42272
+  title: IFAK Refresher Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2018
+  course: PDP11353
+  title: 2017-3 Legal Updates for Q3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2018
+  course: PDP01076
+  title: BHU Mental Health Template Video Non-ECIT Officers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2017
+  course: PPB24793
+  title: Fentanyl Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2017
+  course: PPB24583
+  title: Basic Police Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2017
+  course: PPB24537
+  title: RegJIN - New Hire Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 10/16/2017
+  course: PPB24513
+  title: Taser X2 Certification - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/12/2017
+  course: PPB24579
+  title: Geography
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/12/2017
+  course: PPB24625
+  title: CPR/First Aid/ AED - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2017
+  course: 17-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 9/1/2017
+  course: F6A09089
+  title: Intoxilyzer 8000
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/31/2017
+  course: 17-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/8/2017
+  course: PPB24562
+  title: IS-00700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/7/2017
+  course: PPB24512
+  title: Firearms - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 5/31/2017
+  course: PPB24486
+  title: 2.2 - Workplace Harrassment - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/31/2017
+  course: PPB24573
+  title: Gas Mask Fit  Training (APR)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/31/2017
+  course: PPB24574
+  title: Bloodborne Pathogens - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2017
+  course: PPB24487
+  title: FTEP Policy  Procedure - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 6/14/2017
+  expiration_date: ''
+education_records:
+- date: 6/12/2016
+  degree: Bachelor Science
+  school: Portland State University
+  major: Criminology
+  hours: '185.0'

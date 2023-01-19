@@ -1,2 +1,1761 @@
 ---
-missing_transcript: true
+header_record:
+  name: Fielsch, SusyAdryanna
+  dpsst_identifier: '22234'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/12/2018
+  agency: Clackamas County Sheriff's Office
+  action: Retired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 6/8/2007
+  agency: Clackamas County Sheriff's Office
+  action: Reclassed
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 11/8/2004
+  agency: Clackamas County Sheriff's Office
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 8/1/1999
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 3/15/1990
+  agency: Portland Police Bureau
+  action: Reclassed
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 12/8/1988
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 4/12/2018
+  certificate: Corrections Officer
+  level: Advanced
+  status: Lapsed
+  certificate_date: 7/23/2014
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/12/2018
+  certificate: Corrections Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 3/26/2008
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/12/2018
+  certificate: Corrections Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 7/23/2014
+  expiration_date: ''
+  probation_date: ''
+- status_date: 11/1/1999
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 2/11/1991
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 1/11/2018
+  course: F6B30712
+  title: Discrimination and Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/11/2018
+  course: F6B20436
+  title: Managing Inmates and Juveniles who require accom.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2017
+  course: F6B32319
+  title: Trigger prep/Bulls-eye walk-back/Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/7/2017
+  course: F6C25970
+  title: Mark 43 Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2017
+  course: F6B18192
+  title: Sight Picture  Trigger Press Required/Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/27/2017
+  course: F6C04248
+  title: Pistol  Shotgun Reload/Pistol Transition
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/22/2017
+  course: F6A09156
+  title: 'Safe Behind Bars: Tactical Verbal De-escalation'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/31/2017
+  course: F6C08486
+  title: Annual Firearms Qualification/MILO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/30/2017
+  course: F6C04059
+  title: Health/Wellness-Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2016
+  course: F6C35278
+  title: Single Hand Manipulation/Shotgun Drill
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/19/2016
+  course: F6C05253
+  title: Managing Risk with Objective Jail Classification
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 9/30/2016
+  course: F6C01298
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/3/2016
+  course: F6C20438
+  title: Inmate Discipline  Grievances
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/3/2016
+  course: F6C36967
+  title: 'Impared Co-Workers: Identification  Management'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/30/2016
+  course: F6C37488
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/6/2016
+  course: F6C42265
+  title: Inmate Offender Training - High Risk Inmates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/6/2016
+  course: F6C36960
+  title: Verbal Communication - Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/1/2016
+  course: F6C30718
+  title: Courtroom Testimony
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/5/2016
+  course: F6C23390
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 7/1/2016
+  course: F6C18418
+  title: Legal Issues in Jail and Prisons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2016
+  course: F6C09897
+  title: Firearms Training Shotgun Manipulation CSAT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/5/2016
+  course: F6C04982
+  title: Courtroom Testimony
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/14/2016
+  course: F6C38191
+  title: Edge Weapon Defense/Control Holds/Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/4/2016
+  course: F6C35017
+  title: Inmate/Offender Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2016
+  course: F6C41821
+  title: Firearms Qualification/MILO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/5/2016
+  course: F6Y00137
+  title: Interpersonal Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/5/2016
+  course: F6Y00177
+  title: Workplace - Bullying on the Job
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/4/2016
+  course: 16-0276
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/4/2016
+  course: 16-0969
+  title: Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/29/2016
+  course: F6Z00030
+  title: CPR/First Aid/AED/Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/19/2016
+  course: 16-0101
+  title: Active Shooter - Tactical Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/4/2016
+  course: 16-0751
+  title: Escape Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 2/4/2016
+  course: 16-0769
+  title: Corrections Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 12/31/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/16/2015
+  course: 15-0734
+  title: Inmate Searches  Contraband Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/28/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2015
+  course: 15-0625
+  title: Interpersonal Communications
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/5/2015
+  course: 15-0912
+  title: Self-Discipline  Emotional Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2015
+  course: 15-0728
+  title: Inmate Classification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2015
+  course: 15-0724
+  title: Handling Aggressive Inmates
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 10/6/2015
+  course: 15-0928
+  title: Workplace - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2015
+  course: 15-0741
+  title: Working with Manipulative Inmates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/1/2015
+  course: 15-0741
+  title: Working with Manipulative Inmates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/3/2015
+  course: 15-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/5/2015
+  course: 15-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/5/2015
+  course: 15-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/25/2015
+  course: 15-0748
+  title: Corrections Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/4/2015
+  course: 15-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/30/2015
+  course: 15-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/27/2015
+  course: 15-0245
+  title: Prisoner Restraint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/18/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/30/2015
+  course: 15-0245
+  title: Prisoner Restraint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/16/2015
+  course: 15-0685
+  title: Special Needs Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 5/16/2015
+  course: 15-0685
+  title: Special Needs Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/6/2015
+  course: 15-0660
+  title: Culture / Diversity - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/6/2015
+  course: 15-0753
+  title: Jail / Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/5/2015
+  course: 15-0728
+  title: Inmate Classification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/13/2015
+  course: 15-0739
+  title: Public Health Issues in Jails/Prisons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2015
+  course: 15-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/6/2015
+  course: 15-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2015
+  course: 15-0728
+  title: Inmate Classification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/7/2015
+  course: 15-0729
+  title: Inmate Discipline  Grievances
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/7/2015
+  course: 15-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/12/2015
+  course: 15-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/12/2015
+  course: 15-0742
+  title: Inmate / Offender Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/31/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/12/2014
+  course: 14-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/12/2014
+  course: 14-1029
+  title: Workplace Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/1/2014
+  course: 14-0905
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/1/2014
+  course: 14-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2014
+  course: 14-0731
+  title: Inmate Medical Care
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2014
+  course: 14-0734
+  title: Inmate Searches  Contraband Control
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/1/2014
+  course: 14-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/1/2014
+  course: 14-0937
+  title: Fire Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/30/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/9/2014
+  course: 14-0741
+  title: Working with Manipulative Inmates
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/3/2014
+  course: 14-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/4/2014
+  course: 14-0731
+  title: Inmate Medical Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/4/2014
+  course: 14-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/4/2014
+  course: 14-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/4/2014
+  course: 14-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/30/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/8/2014
+  course: 14-0731
+  title: Inmate Medical Care
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/8/2014
+  course: 14-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/5/2014
+  course: 14-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/9/2014
+  course: 14-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/9/2014
+  course: 14-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/12/2014
+  course: 14-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/12/2014
+  course: 14-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2014
+  course: 14-0731
+  title: Inmate Medical Care
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 2/7/2014
+  course: 14-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/24/2014
+  course: 14-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/8/2014
+  course: 14-0731
+  title: Inmate Medical Care
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/30/2013
+  course: 13-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/6/2013
+  course: 13-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/6/2013
+  course: 13-0769
+  title: Corrections Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2013
+  course: 13-0974
+  title: Hazardous Materials
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/6/2013
+  course: 13-0905
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/6/2013
+  course: 13-0730
+  title: Inmate Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/3/2013
+  course: 13-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/3/2013
+  course: 13-0937
+  title: Fire Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/6/2013
+  course: 13-0246
+  title: Prisoner / Inmate - Other Use of Force Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/6/2013
+  course: 13-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/7/2013
+  course: 13-0730
+  title: Inmate Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/7/2013
+  course: 13-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/11/2013
+  course: 13-0926
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/3/2013
+  course: 13-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/3/2013
+  course: 13-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/30/2013
+  course: 13-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/21/2013
+  course: 13-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/8/2013
+  course: 13-0731
+  title: Inmate Medical Care
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/8/2013
+  course: 13-0747
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/20/2013
+  course: 13-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/9/2013
+  course: 13-0753
+  title: Jail / Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/2/2013
+  course: 13-0734
+  title: Inmate Searches  Contraband Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2013
+  course: 13-0748
+  title: Corrections Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2013
+  course: 13-0742
+  title: Inmate / Offender Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/2/2013
+  course: 13-0745
+  title: Booking Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2013
+  course: 13-0943
+  title: Fire Safety / Suppression Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2013
+  course: 13-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/31/2013
+  course: 13-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/31/2013
+  course: 13-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/15/2013
+  course: 13-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/11/2013
+  course: 13-0839
+  title: Radio Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/11/2013
+  course: 13-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/5/2013
+  course: 13-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/26/2013
+  course: 13-1062
+  title: Drug Identification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/22/2013
+  course: 13-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2013
+  course: 13-0109
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/2013
+  course: 13-0756
+  title: Officer / Facility Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/2013
+  course: 13-0276
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/1/2013
+  course: 13-0630
+  title: Verbal Communication - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/1/2013
+  course: 13-0981
+  title: Crisis Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/1/2013
+  course: 13-0936
+  title: Fire Extinguisher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2012
+  course: 12-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/10/2012
+  course: 12-0124
+  title: Weapons Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2012
+  course: 12-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/2012
+  course: 12-0727
+  title: In-Custody Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '3.25'
+- date: 11/5/2012
+  course: 12-0124
+  title: Weapons Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2012
+  course: 12-0727
+  title: In-Custody Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/31/2012
+  course: 12-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/9/2012
+  course: 12-0756
+  title: Officer / Facility Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2012
+  course: 12-0756
+  title: Officer / Facility Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/30/2012
+  course: 12-0736
+  title: Offender Management
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/24/2012
+  course: 12-0170
+  title: Shotgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/23/2012
+  course: 12-0111
+  title: Comprehensive Defense Counter Measures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/17/2012
+  course: 12-0839
+  title: Radio Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/13/2012
+  course: 12-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/12/2012
+  course: 12-0756
+  title: Officer / Facility Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2012
+  course: 12-0937
+  title: Fire Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/31/2012
+  course: 12-0630
+  title: Verbal Communication - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/30/2012
+  course: 12-0113
+  title: Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2012
+  course: 12-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/12/2012
+  course: 12-0745
+  title: Booking Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/12/2012
+  course: 12-0766
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2012
+  course: 12-0745
+  title: Booking Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/30/2012
+  course: 12-0756
+  title: Officer / Facility Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 6/29/2012
+  course: 12-0170
+  title: Shotgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/21/2012
+  course: 12-0634
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2012
+  course: 12-0730
+  title: Inmate Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2012
+  course: 12-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2012
+  course: 12-0734
+  title: Inmate Searches  Contraband Control
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/30/2012
+  course: 12-0112
+  title: Control Holds  Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/29/2012
+  course: 12-0748
+  title: Corrections Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/2/2012
+  course: 12-0730
+  title: Inmate Management
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/30/2012
+  course: 12-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/20/2012
+  course: 12-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/31/2012
+  course: 12-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/31/2012
+  course: 12-0684
+  title: Effective Contacts with Mentally Ill Citizens
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/13/2012
+  course: 12-0107
+  title: Baton - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2011
+  course: 11-0751
+  title: Escape Prevention
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/31/2011
+  course: 11-0905
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2011
+  course: 11-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/2011
+  course: 11-0727
+  title: In-Custody Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/30/2011
+  course: 11-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/25/2011
+  course: 11-0756
+  title: Officer / Facility Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/23/2011
+  course: 11-0274
+  title: Taser - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2011
+  course: 11-1062
+  title: Drug Identification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2011
+  course: 11-0739
+  title: Public Health Issues in Jails/Prisons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2011
+  course: 11-0245
+  title: Prisoner Restraint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2011
+  course: 11-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/31/2011
+  course: 11-0132
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/28/2011
+  course: 11-0926
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2011
+  course: 11-0752
+  title: Intake Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2011
+  course: 11-0735
+  title: Inmates w/Personality Disorder-Sup  Managing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2010
+  course: 10-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/18/2010
+  course: 10-0985
+  title: Hostage / Tactical Negotiation Team (HNT/TNT) Trng
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/29/2010
+  course: 10-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/30/2010
+  course: 10-0143
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/28/2010
+  course: 10-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2010
+  course: 10-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/11/2010
+  course: 10-0634
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/31/2010
+  course: 10-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 5/31/2010
+  course: 10-0727
+  title: In-Custody Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/21/2010
+  course: 10-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/15/2010
+  course: 10-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2010
+  course: 10-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/15/2010
+  course: 10-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/7/2010
+  course: 10-0969
+  title: Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/28/2010
+  course: 10-0905
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2010
+  course: 10-0983
+  title: Crisis Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2010
+  course: 10-0954
+  title: CPR / First Aid / AED / Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/29/2010
+  course: 10-0974
+  title: Hazardous Materials
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2009
+  course: '09-0143'
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/2009
+  course: '09-0686'
+  title: Suicide Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/15/2009
+  course: '09-0114'
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/28/2009
+  course: '09-0967'
+  title: Infectious Disease Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/27/2009
+  course: '09-0924'
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2009
+  course: '09-0143'
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/17/2009
+  course: '09-0143'
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2009
+  course: '09-1203'
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/10/2009
+  course: '09-0132'
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/18/2009
+  course: '09-0926'
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/3/2009
+  course: '09-0109'
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/17/2009
+  course: '09-0143'
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/9/2009
+  course: '09-0914'
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/1/2008
+  course: '08-0779'
+  title: Fingerprinting
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2008
+  course: '08-0143'
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/5/2008
+  course: '08-0120'
+  title: KravMaga
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/10/2008
+  course: '08-0687'
+  title: Suicide - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/23/2008
+  course: '08-0766'
+  title: Legal Issues in Jails  Prisons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2008
+  course: '08-1097'
+  title: Consular Notification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/20/2008
+  course: '08-0126'
+  title: Firearms Basic
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/24/2008
+  course: '08-0729'
+  title: Inmate Discipline  Grievances
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/10/2008
+  course: '08-0954'
+  title: CPR / First Aid / AED / Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/10/2008
+  course: '08-0974'
+  title: Hazardous Materials
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/10/2008
+  course: '08-0936'
+  title: Fire Extinguisher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/31/2008
+  course: '08-0240'
+  title: Cell Extraction
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/21/2008
+  course: '08-0132'
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/26/2008
+  course: '08T002'
+  title: Corrections Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 3/11/2008
+  course: '08-0390'
+  title: ICS 300 - Intermediate ICS (Expding Incd  Supvrs)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/1/2008
+  course: '08-0240'
+  title: Cell Extraction
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/18/2008
+  course: '08-0240'
+  title: Cell Extraction
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/2008
+  course: '08-0663'
+  title: Gang Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/10/2007
+  course: 07-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/5/2007
+  course: 07-0724
+  title: Handling Aggressive Inmates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2007
+  course: 07-0742
+  title: Inmate / Offender Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/16/2007
+  course: 07-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/16/2007
+  course: 07-0738
+  title: Prison Rape Elimination Act
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2007
+  course: 07-0900
+  title: WMD Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2007
+  course: 07-0211
+  title: The Bullet Proof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/19/2007
+  course: 07-0001
+  title: DPSST Basic Corrections
+  status: Passed
+  score: '0.0'
+  hours: '200.00'
+- date: 7/27/2007
+  course: 07-0170
+  title: Shotgun Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/26/2007
+  course: 07-0126
+  title: Firearms Basic
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 7/16/2007
+  course: 07-1094
+  title: Civil Liability Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/22/2007
+  course: 07-0388
+  title: ICS 100 / IS 100 - Introduction to ICS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/22/2007
+  course: 07-0395
+  title: IS 700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/26/2007
+  course: 07-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.30'
+- date: 11/16/2006
+  course: 06-0023
+  title: Bullet Proof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/10/2006
+  course: 06-0191
+  title: Fire Extinguishers at Work
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/10/2006
+  course: 06-0138
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/5/2005
+  course: 05-0222
+  title: Gordon Graham Seminar
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/30/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/26/1998
+  course: 98U002
+  title: Approved Out-of-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/30/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/29/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/30/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/12/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/26/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/16/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/12/1991
+  course: 91J068
+  title: METHAMPHETAMINE LABS
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 2/11/1991
+  course: 91T001
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 1/9/1991
+  course: '919010'
+  title: STREET SURVIVAL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/26/1990
+  course: '909211'
+  title: ADVANCED ACADEMY 90
+  status: Passed
+  score: '0.0'
+  hours: '296.00'
+- date: 6/29/1990
+  course: '901157'
+  title: BASIC POLICE CLASS NO. 157
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+- date: 6/4/1990
+  course: '905002'
+  title: INTOXILYZER
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/22/1990
+  course: '905003'
+  title: RADAR CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/8/1990
+  course: '909114'
+  title: FIRST RESPONDER AWARENESS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/3/1990
+  course: 90Q005
+  title: MEDIC FIRST AID
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/28/1989
+  course: '899056'
+  title: LEDS MANUAL - INTERMEDIATE
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 9/24/2007
+  expiration_date: ''
+education_records:
+- date: 6/15/2006
+  degree: No Degree
+  school: Clackamas Community College
+  major: ''
+  hours: '31.0'
+- date: 12/15/1992
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '55.0'

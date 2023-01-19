@@ -1,2 +1,63 @@
 ---
-missing_transcript: true
+header_record:
+  name: Hoodenpyl, Aymie E.
+  dpsst_identifier: '33727'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/17/1996
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 9/5/2018
+  course: F6D15451
+  title: ICISF Suicide Prevention, Intervention,  Postven
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/23/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/17/2000
+  course: 00P299
+  title: BASIC FINGERPRINT CLASS
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+attribute_records: []
+education_records: []

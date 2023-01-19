@@ -1,2 +1,63 @@
 ---
-missing_transcript: true
+header_record:
+  name: Molinari, Mary E.
+  dpsst_identifier: '18742'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 3/1/2019
+  agency: Portland Fire Bureau Investigations
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 2/8/1990
+  agency: Portland Fire Bureau Investigations
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 2/7/1990
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 8/8/1985
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 2/22/2017
+  course: F6C22684
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2015
+  course: 15-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/24/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/9/1988
+  course: 01U003
+  title: Prior Approved Purged Training
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
+attribute_records: []
+education_records: []

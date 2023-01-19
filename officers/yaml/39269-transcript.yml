@@ -1,2 +1,153 @@
 ---
-missing_transcript: true
+header_record:
+  name: LaFong, Mary H.
+  dpsst_identifier: '39269'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 6/8/2017
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 4/27/2000
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 9/16/2022
+  course: PDP24519
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '22.75'
+- date: 1/31/2016
+  course: F6C06689
+  title: eCourts  DV Case Summary Roll Call Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/11/2015
+  course: 15-0715
+  title: LEDS Inquiry Level
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/26/2015
+  course: 15-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2014
+  course: 14-0715
+  title: LEDS Inquiry Level
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/25/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2014
+  course: 14-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/3/2012
+  course: 12-0608
+  title: CJIS Conference
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 10/2/2012
+  course: 12-0711
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/24/2012
+  course: 12-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/25/2011
+  course: 11-0715
+  title: LEDS Inquiry Level
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/27/2010
+  course: 10-0469
+  title: Managing Employee Performance
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/20/2010
+  course: 10-1171
+  title: Labor Contract Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/13/2010
+  course: 10-0464
+  title: Employee Discipline
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2009
+  course: '09-0713'
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/20/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/2/2001
+  course: 01CP409
+  title: LEDS Regional Basic Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+attribute_records: []
+education_records: []

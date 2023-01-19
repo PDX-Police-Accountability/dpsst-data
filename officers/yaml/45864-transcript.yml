@@ -1,2 +1,333 @@
 ---
-missing_transcript: true
+header_record:
+  name: Erspamer, Barbara J.
+  dpsst_identifier: '45864'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 12/2/2004
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 11/4/2021
+  course: PDP27577
+  title: ICS-400 Adv ICS Cmd  Gen Staff-Complex Incdnts
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 1/30/2020
+  course: PDP26146
+  title: ICS-300 Intermediate ICS for Expanding Incidents
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 1/30/2020
+  course: PDP36573
+  title: ICS-300 Intermediate Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 6/27/2018
+  course: PDP07294
+  title: 2018-2 Supv. In-Service Directive 330
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/6/2018
+  course: PDP27673
+  title: 2018-2 Supv. In-Service EIS
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/23/2018
+  course: PDP40857
+  title: 'Leadership 2018: Law Enforcement Professionals'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/3/2017
+  course: F6A04567
+  title: Northwest Leadership Seminar - Navigating Risk
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 1/19/2016
+  course: 16-1276
+  title: Evidence / Property Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/19/2015
+  course: 15-0827
+  title: Informants
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2015
+  course: 15-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/15/2015
+  course: 15-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/21/2015
+  course: 15-0952
+  title: CPR / First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/6/2015
+  course: 15-0371
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/25/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/31/2014
+  course: 14-1274
+  title: Briefing Trg - Multiple Topics,Consolidated Roster
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2013
+  course: 13-0477
+  title: Personnel Topics - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/3/2013
+  course: 13-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/21/2013
+  course: 13-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/8/2013
+  course: 13-0371
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 11/2/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/5/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/28/2011
+  course: 11-0443
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/28/2011
+  course: 11-0492
+  title: Strategic Management / Planning
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2011
+  course: 11-0492
+  title: Strategic Management / Planning
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/19/2011
+  course: 11-0994
+  title: CPR / First Aid Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/11/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/22/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/15/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/26/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/12/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/15/2010
+  course: 10-0994
+  title: CPR / First Aid Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/7/2010
+  course: 10-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/6/2010
+  course: 10-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/29/2010
+  course: 10-0657
+  title: Cultural Diversity
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2010
+  course: 10-0660
+  title: Culture / Diversity - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/22/2010
+  course: 10-0657
+  title: Cultural Diversity
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/11/2010
+  course: 10-1052
+  title: Alcohol Abuse - Other
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/26/2010
+  course: 10-0474
+  title: Performance Management
+  status: Passed
+  score: '0.0'
+  hours: '5.75'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2008
+  course: '08-0918'
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/30/2008
+  course: '08-0915'
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/11/2008
+  course: '08-0426'
+  title: Critical Incident Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 3/7/2008
+  course: '08-0371'
+  title: NW Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 10/11/2007
+  course: 07-1210
+  title: Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/8/2007
+  course: 07-0918
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/24/2007
+  course: 07-0426
+  title: Critical Incident Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 2/26/2007
+  course: 07-0699
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2007
+  course: 07-0918
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+attribute_records: []
+education_records: []

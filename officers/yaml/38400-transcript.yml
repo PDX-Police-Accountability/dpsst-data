@@ -1,2 +1,171 @@
 ---
-missing_transcript: true
+header_record:
+  name: Newton, Derek A.
+  dpsst_identifier: '38400'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 11/11/1999
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 8/30/2019
+  course: PDP00452
+  title: PNWD-IAI/NWAFS Joint Educational Conference
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/10/2019
+  course: PDP39528
+  title: Digital Processing of Evidentiary Photography
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2014
+  course: 14-0780
+  title: Collecting Latent Prints
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/30/2012
+  course: 12-0715
+  title: LEDS Inquiry Level
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/23/2012
+  course: 12-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/25/2011
+  course: 11-1102
+  title: Courtroom Testimony
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/4/2009
+  course: '09-0834'
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/22/2009
+  course: '09-0123'
+  title: Visual Clues to Confrontation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2008
+  course: '08-0779'
+  title: Fingerprinting
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
+- date: 6/29/2008
+  course: '08-0790'
+  title: Forensics - Other
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 5/24/2008
+  course: '08-0790'
+  title: Forensics - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/15/2008
+  course: '08-0747'
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 3/28/2008
+  course: '08-0790'
+  title: Forensics - Other
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/31/2008
+  course: '08-0779'
+  title: Fingerprinting
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 10/9/2007
+  course: 07-0932
+  title: FBI IAFIS (Integrated Auto Fingerprint ID Sys) Trg
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/8/2007
+  course: 07-0918
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/8/2007
+  course: 07-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2007
+  course: 07-0918
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/15/2004
+  course: 04-0921
+  title: Fingerprinting - Basic
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/25/2003
+  course: 03-0358
+  title: PPB Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+attribute_records: []
+education_records: []

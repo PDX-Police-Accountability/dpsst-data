@@ -1,2 +1,69 @@
 ---
-missing_transcript: true
+header_record:
+  name: Wallostrauss, Terri J.
+  dpsst_identifier: '32706'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/11/1996
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 11/19/2015
+  course: 15-0827
+  title: Informants
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/14/2011
+  course: 11-0446
+  title: Motivating  Empowering Teams / Workgroups
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/11/2009
+  course: '09-0983'
+  title: Crisis Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 9/11/2009
+  course: '09-0431'
+  title: Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 4/9/2009
+  course: '09-0619'
+  title: Public Information Officer Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/18/2008
+  course: '08-0618'
+  title: Media Relations
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 5/17/2001
+  course: 01CP521
+  title: Public Relations  Information
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/25/1996
+  course: 96P340
+  title: FACILITATOR TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records: []
+education_records: []

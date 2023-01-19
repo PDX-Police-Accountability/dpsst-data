@@ -1,2 +1,33 @@
 ---
-missing_transcript: true
+header_record:
+  name: Espinoza, Lorena M.
+  dpsst_identifier: '47145'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/25/2020
+  agency: Portland Police Bureau
+  action: Layoff
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/29/2006
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 6/19/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+attribute_records: []
+education_records: []

@@ -1,2 +1,171 @@
 ---
-missing_transcript: true
+header_record:
+  name: Hasslacher, Wendy I.
+  dpsst_identifier: '38709'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 8/24/2017
+  agency: Hillsboro Police Department
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/18/2001
+  agency: Hillsboro Police Department
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/15/2001
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 1/6/2000
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 6/7/2017
+  course: F6A08400
+  title: CJ Certification Workshop
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/15/2017
+  course: F6C40132
+  title: Supervision/Management Training-Other
+  status: Passed
+  score: '0.0'
+  hours: '9.50'
+- date: 9/7/2016
+  course: F6C19804
+  title: Verbal Communication-Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/16/2016
+  course: F6C09082
+  title: Communicating with Hearing Impaired People
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/19/2015
+  course: 15-0464
+  title: Employee Discipline
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/16/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/10/2015
+  course: 15-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/5/2015
+  course: 15-0819
+  title: Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/25/2013
+  course: 13-0911
+  title: Customer Service
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/27/2013
+  course: 13-1116
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2011
+  course: 11-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/1/2010
+  course: 10-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2010
+  course: 10-0926
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/7/2008
+  course: '08-0638'
+  title: Writing Skills
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 1/29/2008
+  course: '08-0378'
+  title: Accreditation Managers Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/5/2006
+  course: 06-0486
+  title: Elder Abuse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/5/2006
+  course: 06-1139
+  title: Cultural Competency
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/4/2006
+  course: 06-1319
+  title: Notary
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/28/2005
+  course: 05-0060
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/15/2003
+  course: 03-0975
+  title: FTEP Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 6/19/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/10/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

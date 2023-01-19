@@ -1,2 +1,104 @@
 ---
-missing_transcript: true
+header_record:
+  name: Sherman-Burton, Wilson L.
+  dpsst_identifier: '60378'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/20/2020
+  agency: Portland Police Bureau
+  action: Prob Dschg
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 10/3/2019
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 10/3/2019
+  certificate: Police Officer
+  level: Basic
+  status: Denied
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 4/3/2021
+training_records:
+- date: 11/29/2020
+  course: PDP26575
+  title: IS-240 Leadership and Influence (IS-00240.b)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/17/2020
+  course: F6D18392
+  title: 'Intoxilyzer 8000 Certification BP Class #396'
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/29/2019
+  course: PDP05742
+  title: IS-241 Decision Making  Problem Solving IS-241b
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/27/2019
+  course: PDP03445
+  title: 2019 FTEP Radar LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 11/26/2019
+  course: BPT00016
+  title: RADAR/LIDAR - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/22/2019
+  course: PDP36692
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2019
+  course: M10-19A
+  title: DPSST Basic Police Course
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
+- date: 10/31/2019
+  course: PDP28941
+  title: ICS-200 Bsc Incident Commnd Systm for Initial Resp
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/31/2019
+  course: PDP07898
+  title: IS-700 Ntnl Incident Mngmnt Systm, An Intro
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/24/2019
+  course: PDP28275
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2019
+  course: PDP04999
+  title: FTEP Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 11/4/2019
+  expiration_date: ''
+education_records: []

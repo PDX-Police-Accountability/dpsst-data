@@ -1,2 +1,1223 @@
 ---
-missing_transcript: true
+header_record:
+  name: Araujo-Garivo, Noe J.
+  dpsst_identifier: '59065'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/27/2021
+  agency: Washington County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 10/5/2020
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 12/4/2019
+  agency: Portland Police Bureau
+  action: Prob Dschg
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 10/8/2018
+  agency: Washington County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 9/12/2018
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 3/3/2021
+  course: DAS05135
+  title: Handgun Training (Precision  Combat Shooting)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/4/2020
+  course: HBS08871
+  title: FTEP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/4/2020
+  course: HBS06688
+  title: MDT/Geography/Radio
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/3/2020
+  course: HBS32309
+  title: CONSIM
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/3/2020
+  course: HBS26833
+  title: Skills Week
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/2/2020
+  course: HBS20457
+  title: CONSIM
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/2/2020
+  course: HBS17275
+  title: Skills Week
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/1/2020
+  course: HBS32694
+  title: DT Physical Skills Test
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/1/2020
+  course: HBS35430
+  title: Patrol  Jail EVOC TEST
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2020
+  course: HBS25254
+  title: IFAST TEST
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2020
+  course: HBS19022
+  title: Use of Force Written Test
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/27/2020
+  course: BPT29285
+  title: RADAR/LIDAR - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/27/2020
+  course: HBS23491
+  title: Radar Lidar
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 11/25/2020
+  course: HBS39650
+  title: Communication/De-escalation Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/25/2020
+  course: HBS24884
+  title: Defensive Tactics CONSIM
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/25/2020
+  course: HBS24253
+  title: 'Patrol  Jail EVOC #7'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/24/2020
+  course: HBS01454
+  title: Communication/De-escalation Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/23/2020
+  course: HBS35107
+  title: Communication/De-escalation Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/23/2020
+  course: HBS03544
+  title: Off Duty Armed
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/23/2020
+  course: HBS00453
+  title: 'Patrol EVOC/PIT #5'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/20/2020
+  course: HBS37880
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/20/2020
+  course: HBS10124
+  title: Defensive Tactics Box Drills Continued
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/19/2020
+  course: HBS19375
+  title: Defensive Tactics Introduction to Box Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/19/2020
+  course: HBS08848
+  title: Evidence/Forensics
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/18/2020
+  course: HBS05725
+  title: ICS 100/ IS 100 An Introduction to ICS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/18/2020
+  course: HBS25477
+  title: ICS 200/ IS 200 Basic ICS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/18/2020
+  course: HBS03728
+  title: IS 700 NIMS An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/18/2020
+  course: HBS12991
+  title: Toughbook Issue/Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/17/2020
+  course: HBS28834
+  title: 40MM
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/17/2020
+  course: HBS07909
+  title: Review Day Physical Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2020
+  course: HBS18841
+  title: MRE/REJGIN
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/13/2020
+  course: HBS19341
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/13/2020
+  course: HBS43654
+  title: Defensive Tactics Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/12/2020
+  course: HBS07870
+  title: 'Patrol EVOC #4'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/12/2020
+  course: HBS16882
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/11/2020
+  course: HBS44240
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 11/11/2020
+  course: HBS41874
+  title: Subpoena Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/11/2020
+  course: HBS38435
+  title: PTSD
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/10/2020
+  course: HBS02202
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/10/2020
+  course: HBS44169
+  title: Patrol Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/9/2020
+  course: HBS21687
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/9/2020
+  course: HBS24206
+  title: Defensive Tactics Review Intro to Box Drills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/6/2020
+  course: HBS30566
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/6/2020
+  course: HBS13865
+  title: Defensive Tactics Review
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2020
+  course: HBS39811
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/5/2020
+  course: HBS22814
+  title: 'Defensive Tactics Block #9'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/4/2020
+  course: HBS28712
+  title: Case Law Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2020
+  course: HBS34773
+  title: 'Defensive Tactics Block #8'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/4/2020
+  course: HBS31246
+  title: 'Patrol  Jail EVOC #3'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/3/2020
+  course: HBS27247
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/3/2020
+  course: HBS24700
+  title: 'Patrol  Jail EVOC #1'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/2/2020
+  course: HBS03554
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/2/2020
+  course: HBS23965
+  title: 'Defensive Tactics Block #7'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2020
+  course: HBS06741
+  title: 'Case Law Lecture #6'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2020
+  course: HBS17182
+  title: Defensive Tactics Review
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/30/2020
+  course: HBS40642
+  title: Basic Firearms Review
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/29/2020
+  course: HBS43673
+  title: 'Case Law Lecture #5'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2020
+  course: HBS11317
+  title: 'Defensive Tactics Block #7'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/29/2020
+  course: HBS43465
+  title: 'Patrol  Jail EVOC #1'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/28/2020
+  course: HBS15167
+  title: Officer Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/28/2020
+  course: HBS03829
+  title: Use of Force Database
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2020
+  course: HBS08237
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/2020
+  course: HBS22146
+  title: 'Case Law Lecture #4'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/27/2020
+  course: HBS26225
+  title: 'Defensive Tactics Block #6'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/26/2020
+  course: HBS27526
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/26/2020
+  course: HBS31880
+  title: 'Case Law Lecture #3'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2020
+  course: HBS41539
+  title: 'Defensive Tactics Block #4'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/23/2020
+  course: HBS08014
+  title: 'DT Block #5: Taser Drills'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/23/2020
+  course: HBS31207
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/22/2020
+  course: HBS31833
+  title: Building Search
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/22/2020
+  course: HBS06901
+  title: 'DT Block #5: Taser PowerPoint'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/22/2020
+  course: HBS13180
+  title: Exposure
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/21/2020
+  course: HBS30603
+  title: Consular Notification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/21/2020
+  course: HBS36978
+  title: JTTF
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/21/2020
+  course: HBS44186
+  title: Officer of the Court
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2020
+  course: HBS16841
+  title: Officer Involved Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/21/2020
+  course: HBS19001
+  title: Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/20/2020
+  course: HBS43829
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/20/2020
+  course: HBS27336
+  title: 'Defensive Tactics Block #2'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2020
+  course: HBS18074
+  title: Radio
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/19/2020
+  course: HBS32793
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2020
+  course: HBS31282
+  title: 'Case Law Lecture #1'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/19/2020
+  course: HBS23483
+  title: 'Defensive Tactics Blocks #2'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2020
+  course: HBS01373
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/16/2020
+  course: HBS18515
+  title: OC/Baton PowerPoint and DT Block 2
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/15/2020
+  course: HBS06516
+  title: Basic Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/15/2020
+  course: HBS25680
+  title: Defensive Tactics Block 1
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/15/2020
+  course: HBS35392
+  title: Health and Fitness
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/14/2020
+  course: HBS41559
+  title: Criminal Law
+  status: Passed
+  score: '0.0'
+  hours: '6.25'
+- date: 10/14/2020
+  course: HBS35362
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/13/2020
+  course: HBS09782
+  title: Crisis Intervention  Mental Health - Day 2
+  status: Passed
+  score: '0.0'
+  hours: '7.25'
+- date: 10/12/2020
+  course: HBS05093
+  title: Crisis Intervention  Mental Health - Day 1
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/9/2020
+  course: HBS35900
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/9/2020
+  course: HBS41380
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 10/8/2020
+  course: HBS07686
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/7/2020
+  course: HBS26982
+  title: Tuberculosis Training and Testing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2020
+  course: HBS40794
+  title: Wizard/Timesheet Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/7/2020
+  course: HBS41651
+  title: Intro to County Computers
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/7/2020
+  course: HBS20516
+  title: Intro to Law Enforcement  Social Media
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2020
+  course: HBS19901
+  title: Amber Alert
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2020
+  course: HBS36025
+  title: CALEA, OJS  Policies
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2020
+  course: HBS06028
+  title: HR Benefits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2020
+  course: HBS05762
+  title: SO Benefit Orientation
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/6/2020
+  course: HBS08960
+  title: PREA and ADA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2020
+  course: HBS37694
+  title: Workplace Other - FMLA/OFLA
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/5/2020
+  course: HBS38494
+  title: Customer Service - Give Em the Pickle
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2020
+  course: HBS06674
+  title: Fire Extinguisher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2020
+  course: HBS42373
+  title: Hazardous Materials
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2020
+  course: HBS40520
+  title: New Hire Orientation
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/5/2020
+  course: HBS28801
+  title: Undersheriff Introduction
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2020
+  course: HBS37923
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/5/2020
+  course: HBS29993
+  title: Sheriff's Welcome
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/5/2020
+  course: HBS26434
+  title: Welcome  Recruit Expectations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2019
+  course: PDP34815
+  title: 2019 MCDA Unavoidable Lull Opinion Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/18/2019
+  course: PDP36636
+  title: 2019 Training Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 11/6/2019
+  course: PDP31997
+  title: 2019 Chief's Office SPLC Aryan Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/4/2019
+  course: PDP19197
+  title: 2019 Chief's Office SPLC Racists Skinheads
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2019
+  course: PDP19532
+  title: 2019-9 City Attorney's Office Legal Updates 9/2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/14/2019
+  course: PDP09647
+  title: 2019-8 City Attorney's Office Legal Updates 8/2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2019
+  course: PDP14274
+  title: 2019 City of Portland PBEM NET Roll Call Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2019
+  course: PDP08945
+  title: 2019-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/8/2019
+  course: PDP16502
+  title: 2019-3 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/8/2019
+  course: PDP23516
+  title: 2019-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/7/2019
+  course: PDP33823
+  title: 2019 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '18.50'
+- date: 10/7/2019
+  course: PDP33266
+  title: 2019 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 10/7/2019
+  course: PDP30892
+  title: 2019 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '51.50'
+- date: 10/7/2019
+  course: PDP04598
+  title: 2019 Advanced Academy Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 10/7/2019
+  course: PDP41002
+  title: 2019 Advanced Academy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 10/7/2019
+  course: PDP00528
+  title: 2019 Advanced Academy Professionalism
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/7/2019
+  course: PDP16015
+  title: 2019 Advanced Academy SERT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/7/2019
+  course: PDP09777
+  title: 2019 Advanced Academy Patrol Procedures (FA/UofF)
+  status: Passed
+  score: '0.0'
+  hours: '368.00'
+- date: 10/7/2019
+  course: PDP43014
+  title: 2019 Advanced Academy Patrol Procedures (Other)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/7/2019
+  course: PDP28546
+  title: 2019 Advanced Academy Police Vehicle Ops (FA/UoF)
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
+- date: 10/7/2019
+  course: PDP33980
+  title: 2019 Advanced Academy Police Vehicle Ops (Other)
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 10/7/2019
+  course: PDP05452
+  title: 2019 Advanced Academy Mindfulness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/7/2019
+  course: PDP07485
+  title: 2019 Advanced Academy Orientation and Expectations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/7/2019
+  course: PDP05369
+  title: 2019 Advanced Academy Critical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/7/2019
+  course: PDP43662
+  title: 2019 Advanced Academy ECW
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/7/2019
+  course: PDP14770
+  title: 2019 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '49.50'
+- date: 10/2/2019
+  course: PDP03093
+  title: 2019 Chief's Office SPLC Antigovernment Extremists
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/1/2019
+  course: PDP08055
+  title: 2019 Chiefs Office SPLC Sovereign Citizen Movement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/16/2019
+  course: PDP01504
+  title: 2019-7 City Attorney's Office Legal Updates 7/2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/12/2019
+  course: PDP13537
+  title: 2019 Training Public Safety Support Specialist Vid
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/9/2019
+  course: PDP40096
+  title: 2019-2 CHO Force Inspector Updates for Q2
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/4/2019
+  course: PDP07809
+  title: 2019 Chief's Office SPLC Hate Crimes
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2019
+  course: PDP12126
+  title: 2019-2 Range Qualification Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 9/3/2019
+  course: PDP36182
+  title: 2019-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/3/2019
+  course: PDP09382
+  title: 2019-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/3/2019
+  course: PDP12797
+  title: 2019-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/2/2019
+  course: PDP24727
+  title: 2019 Chief's Office SPLC The Rise of the Lone Wolf
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/7/2019
+  course: PDP02916
+  title: 2019 CHO SPLC Law Enforce Response to Hate Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2019
+  course: PDP38543
+  title: City Attorney's Office Legal Updates April 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/24/2019
+  course: PDP15828
+  title: City Attorney's Office Legal Updates for May 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/24/2019
+  course: PDP14360
+  title: PSD Directive 630.61, Stolen Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2019
+  course: PDP22335
+  title: 2019-1 PSD Force Inspector Updates for Q1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2019
+  course: PDP27572
+  title: 2019-7 TipsTech CAD Study Codes to Track Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/3/2019
+  course: PDP36637
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/13/2019
+  course: PDP40036
+  title: 2019 Training Choke and Carotid Awareness Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/8/2019
+  course: PDP30979
+  title: 2019-6 Tips and Techniques Training Roster
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2019
+  course: PDP40931
+  title: 2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2019
+  course: PDP17498
+  title: 2019-4 Tips  Techniques Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2019
+  course: PDP21682
+  title: 2019-5 Tips  Tech Enforce of Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2019
+  course: PDP23426
+  title: City Attorney's Office Legal Updates February 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/7/2019
+  course: PDP37791
+  title: City Attorney's Office Legal Updates March 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/6/2019
+  course: PDP26370
+  title: 2019 Annual Hearing Conservation Training for OSHA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/6/2019
+  course: PDP38075
+  title: 2019 Sex Assault Kit Tracking System (SAKTS) Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/6/2019
+  course: PDP26559
+  title: 2019-2 Tips  Tech Use of Force/De-escalation QA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2019
+  course: PDP41799
+  title: 2018-5 TipsTech 100% Collect/Submn Model-UPDATED
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/2/2019
+  course: PDP34838
+  title: 2019-5 TipsTech 100% Collection/Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/1/2019
+  course: PDP18642
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/28/2019
+  course: PDP12115
+  title: 2019-1 TT Ext Vest Equip Requirements and Recs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2019
+  course: PDP16686
+  title: FTEP Post Basic Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/27/2019
+  course: PDP36842
+  title: '2018 DVD Fentanyl: The Real Deal'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2019
+  course: PDP11033
+  title: 2017-4 City Attorney's Legal Updates Q4 - Supp Upd
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2019
+  course: PDP11710
+  title: 2018-4 City Attorney's Office Legal Updates for Q4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/27/2019
+  course: PDP14745
+  title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2019
+  course: PDP25362
+  title: 2019-1 City Attorney's Legal Updates for Jan 2019
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/26/2019
+  course: PDP04679
+  title: CEW X2 Basic Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 3/21/2019
+  course: PDP18755
+  title: New Hire RMS/MRE/CAD Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 3/19/2019
+  course: PDP30216
+  title: 2019-1 Range Qualification Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/19/2019
+  course: PDP23421
+  title: 2019-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/15/2019
+  course: 18-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 2/7/2019
+  course: F6D04090
+  title: SFST/DID BP385 (hours included in basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/28/2019
+  course: F6D19771
+  title: Intoxilyzer 8000 Certification BP Class 385
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/10/2018
+  course: 18-0008
+  title: DPSST Basic Police
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+- date: 10/29/2018
+  course: F6D26218
+  title: RADAR/LIDAR - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/4/2018
+  course: PDP40479
+  title: IS-00100.c Intro to Incident Command Sys (ICS 100)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/4/2018
+  course: PDP19325
+  title: IS-00700.b National Incident Managment Sys (NIMS)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/3/2018
+  course: PDP12147
+  title: RADAR/LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/2/2018
+  course: PDP12147
+  title: RADAR/LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/24/2018
+  course: PDP01599
+  title: FTEP Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 9/17/2018
+  course: PDP38597
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/17/2018
+  course: PDP36021
+  title: FTEP Gas Masks
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/17/2018
+  course: PDP11700
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/13/2018
+  course: PDP26066
+  title: FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 10/5/2020
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 11/4/2018
+  expiration_date: ''
+education_records: []

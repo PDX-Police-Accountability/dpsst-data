@@ -1,2 +1,737 @@
 ---
-missing_transcript: true
+header_record:
+  name: Guerreiro, Stephanie K.
+  dpsst_identifier: '53472'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/11/2019
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 2/20/2018
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 2/13/2014
+  agency: Portland Police Bureau
+  action: Reclassed
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/10/2013
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 5/11/2019
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 9/29/2015
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 6/23/2021
+  course: F6E35610
+  title: Online Investigations for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/9/2021
+  course: F6D10049
+  title: OSHA Part 4 Training Video
+  status: Passed
+  score: '0.0'
+  hours: '0.05'
+- date: 3/20/2019
+  course: F6D18292
+  title: Basic Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/6/2019
+  course: F6D37505
+  title: Online Investigations for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/13/2018
+  course: PDP01076
+  title: BHU Mental Health Template Video Non-ECIT Officers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2017
+  course: PPB24632
+  title: 2017-2 In Service Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2017
+  course: PPB24633
+  title: 2017-2 In-Service Chief's Hour and Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/1/2017
+  course: PPB24635
+  title: 2017-2 In-Service Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/1/2017
+  course: PPB24636
+  title: 2017-2 In-Service Crowd Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2017
+  course: PPB24637
+  title: 2017-2 In-Service Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2017
+  course: PPB24791
+  title: Intersection Clearing Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2017
+  course: PPB24792
+  title: Responding to People in Elevated Positions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2017
+  course: PPB24793
+  title: Fentanyl Safety
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2017
+  course: PPB24475
+  title: Taser - In Service 2017
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2017
+  course: PPB24476
+  title: CPR/First Aid/ AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/26/2017
+  course: PPB24466
+  title: Patrol Tactics - Control/Cover Officer Safety
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/26/2017
+  course: PPB24467
+  title: Crisis Communication - In Service 2017
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/26/2017
+  course: PPB24468
+  title: Bloodborne Pathogens - In Service 2017
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/26/2017
+  course: PPB24469
+  title: Legal Updates - In Service 2017
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/26/2017
+  course: PPB24470
+  title: HRAR 2.02 Workplace Harrassment Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/26/2017
+  course: PPB24471
+  title: Dir 635.20 Filming the Police In Service 2017
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/26/2017
+  course: PPB24473
+  title: Taser Update - In Service 2017
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/17/2017
+  course: PPB24504
+  title: Taser X2 Transition In-Service 2016
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/31/2015
+  course: 15-1262
+  title: Video Training Courses
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/4/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/8/2015
+  course: 15-1083
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/31/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/29/2015
+  course: 15T001
+  title: Police Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 2/28/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/11/2015
+  course: 15-1269
+  title: Field Training  Evaluation Program
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 2/1/2015
+  course: 15-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 1/31/2015
+  course: 15-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2015
+  course: 15-0169
+  title: Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2015
+  course: 15-0253
+  title: Crowd / Riot Control
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/28/2015
+  course: 15-0661
+  title: Gang Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/28/2015
+  course: 15-0685
+  title: Special Needs Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2015
+  course: 15-0805
+  title: Rural Patrol Drug Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/28/2015
+  course: 15-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/27/2015
+  course: 15-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/27/2015
+  course: 15-0971
+  title: Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '28.50'
+- date: 1/27/2015
+  course: 15-1203
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 1/26/2015
+  course: 15-1223
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '117.25'
+- date: 1/21/2015
+  course: 15-0908
+  title: Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/21/2015
+  course: 15-0918
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/21/2015
+  course: 15-0928
+  title: Workplace - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2015
+  course: 15-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/14/2015
+  course: 15-0788
+  title: Forensic Investigation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/14/2015
+  course: 15-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/14/2015
+  course: 15-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '57.00'
+- date: 1/14/2015
+  course: 15-0683
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 1/13/2015
+  course: 15-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '19.00'
+- date: 1/7/2015
+  course: 15-1268
+  title: Aircraft Operations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/6/2015
+  course: 15-0255
+  title: SERT Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2015
+  course: 15-1090
+  title: K-9 Introduction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/4/2015
+  course: 15-1211
+  title: Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2014
+  course: 14-0395
+  title: IS 700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2014
+  course: 14-0715
+  title: LEDS Inquiry Level
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/31/2014
+  course: PDP16511
+  title: 2014 Advanced Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/30/2014
+  course: PDP16511
+  title: 2014 Advanced Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/29/2014
+  course: PDP16511
+  title: 2014 Advanced Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/23/2014
+  course: PDP16511
+  title: 2014 Advanced Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/22/2014
+  course: PDP16511
+  title: 2014 Advanced Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/17/2014
+  course: 14-0630
+  title: Verbal Communication - Other
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 12/15/2014
+  course: 14-0820
+  title: Criminal Intelligence Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/11/2014
+  course: 14-0914
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/9/2014
+  course: 14-1122
+  title: Law  Legal - Other
+  status: Passed
+  score: '0.0'
+  hours: '31.50'
+- date: 12/2/2014
+  course: 14-1094
+  title: Civil Liability Training
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 11/24/2014
+  course: 14-0914
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/18/2014
+  course: 14-0829
+  title: Investigating Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/13/2014
+  course: 14-0905
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/4/2014
+  course: 14-0634
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/4/2014
+  course: 14-1253
+  title: Tactical Emergency Medical Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/30/2014
+  course: 14-0914
+  title: Personal / Professional Development - Other
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/29/2014
+  course: 14-0276
+  title: Use of Force - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/29/2014
+  course: 14-0625
+  title: Interpersonal Communications
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/29/2014
+  course: 14-0834
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2014
+  course: 14-0839
+  title: Radio Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/29/2014
+  course: 14-1278
+  title: Multi-Disciplinary Team Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/28/2014
+  course: 14-0634
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/27/2014
+  course: 14-0925
+  title: Use of Force Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/23/2014
+  course: 14-0657
+  title: Cultural Diversity
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/23/2014
+  course: 14-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/29/2014
+  course: 14-0699
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 7/2/2014
+  course: 14-0634
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2014
+  course: 14-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/30/2014
+  course: 14-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/30/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/30/2014
+  course: 14-1182
+  title: Geography
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/26/2014
+  course: 14-0395
+  title: IS 700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/25/2014
+  course: 14-0273
+  title: Taser X26 Certification
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/24/2014
+  course: 14-1173
+  title: Lidar Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/24/2014
+  course: 14-1175
+  title: Radar / Lidar - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/23/2014
+  course: 14-1179
+  title: Radar Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/17/2014
+  course: 14-0854
+  title: Gas Mask Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/16/2014
+  course: 14-0129
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/13/2014
+  course: 14-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 5/20/2014
+  course: 14-0864
+  title: CBRNE Standardized Awareness Training (SAT-2)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/19/2014
+  course: 14-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/20/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/20/2014
+  course: 14-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/20/2014
+  course: 14-1269
+  title: Field Training  Evaluation Program
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/19/2014
+  course: 14-0126
+  title: Firearms Basic
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 2/6/2014
+  course: 14-0562
+  title: Reserve Academy
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 1/31/2014
+  course: 14-0141
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/24/2014
+  course: 14-0388
+  title: ICS 100 / IS 100 - Introduction to ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/24/2014
+  course: 14-0395
+  title: IS 700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2013
+  course: 13-0713
+  title: LEDS Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/4/2013
+  course: 13-1198
+  title: Building Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 3/10/2014
+  expiration_date: ''
+education_records:
+- date: 6/15/2007
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '12.0'
+- date: 12/31/1999
+  degree: Masters of Education
+  school: All Other Education Institutes
+  major: ''
+  hours: '36.0'
+- date: 5/31/1997
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '124.0'

@@ -1,2 +1,27 @@
 ---
-missing_transcript: true
+header_record:
+  name: McWhorter, Chelsie C.
+  dpsst_identifier: '58332'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/18/2018
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 2/19/2018
+  course: 18-0008
+  title: DPSST Basic Police
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []

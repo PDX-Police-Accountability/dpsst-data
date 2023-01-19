@@ -1,2 +1,63 @@
 ---
-missing_transcript: true
+header_record:
+  name: Linebarger, Debbi J.
+  dpsst_identifier: '45791'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 6/20/2005
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2008
+  course: '08-0639'
+  title: Written Communication - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2007
+  course: 07-0809
+  title: Identity Theft Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/23/2007
+  course: 07-0657
+  title: Cultural Diversity
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/19/2007
+  course: 07-0915
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

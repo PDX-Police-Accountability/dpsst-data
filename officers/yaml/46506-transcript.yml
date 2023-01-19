@@ -1,2 +1,123 @@
 ---
-missing_transcript: true
+header_record:
+  name: Knodel, Jimmie
+  dpsst_identifier: '46506'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 6/1/2003
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 12/31/2019
+  course: F6D18766
+  title: Daily Training Bulletins- Lexipol
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
+- date: 10/31/2019
+  course: F6D18671
+  title: Daily Training Bulletins - Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/31/2018
+  course: F6D11789
+  title: Daily Training Bulletins - Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/30/2017
+  course: F6C14112
+  title: Daily Training Bulletins-Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/31/2017
+  course: F6C38560
+  title: Daily Training Bulletins- Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/31/2017
+  course: F6C01770
+  title: Daily Training Bulletins- Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/30/2017
+  course: F6C31109
+  title: Daily Training Bulletins- Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/31/2017
+  course: F6C23126
+  title: Daily Training Bulletins- Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2017
+  course: F6C33422
+  title: Daily Training Bulletins-Custody
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/31/2017
+  course: F6C36501
+  title: Daily Training Bulletins-Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/28/2017
+  course: F6C22485
+  title: Daily Training Bulletins-Custody Manual
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/22/2009
+  course: '09-0918'
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/28/2008
+  course: '08-0971'
+  title: Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/6/2008
+  course: '08-0918'
+  title: Employee Assistance Program
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/23/2008
+  course: '08-0129'
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/19/2008
+  course: '08-0126'
+  title: Firearms Basic
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/26/2007
+  course: 07-0839
+  title: Radio Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records: []
+education_records: []

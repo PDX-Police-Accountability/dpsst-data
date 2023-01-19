@@ -1,2 +1,1216 @@
 ---
-missing_transcript: true
+header_record:
+  name: Molinari, Joseph C., Jr.
+  dpsst_identifier: '21317'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Dispatcher
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 4/8/2021
+  agency: DPSST Use Only
+  action: Resigned
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
+- date: 2/26/2018
+  agency: DPSST Use Only
+  action: InstrApp
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
+- date: 7/15/2011
+  agency: Washington County Sheriff's Office
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 12/1/2007
+  agency: Washington County Sheriff's Office
+  action: Reclassed
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 10/13/2007
+  agency: Washington County Sheriff's Office
+  action: Promotion
+  rank: Acting Sgt
+  classification: ''
+  assignment: ''
+- date: 5/6/2006
+  agency: Washington County Sheriff's Office
+  action: Reclassed
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 4/8/2006
+  agency: Washington County Sheriff's Office
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 8/1/1996
+  agency: Washington County Sheriff's Office
+  action: Promotion
+  rank: Detective
+  classification: ''
+  assignment: ''
+- date: 12/24/1993
+  agency: Washington County Sheriff's Office
+  action: Promotion
+  rank: Sr Dpty Sh
+  classification: ''
+  assignment: ''
+- date: 7/1/1988
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 6/16/1988
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 2/4/1988
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 4/8/2021
+  certificate: Instructor
+  level: ''
+  status: Expired
+  certificate_date: 3/27/2018
+  expiration_date: ''
+  probation_date: ''
+- status_date: 10/15/2011
+  certificate: Police Officer
+  level: Advanced
+  status: Lapsed
+  certificate_date: 7/30/1994
+  expiration_date: ''
+  probation_date: ''
+- status_date: 10/15/2011
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 6/19/1989
+  expiration_date: ''
+  probation_date: ''
+- status_date: 10/15/2011
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 9/12/1990
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 10/4/2022
+  course: HBS21565
+  title: Civility  Harassment Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/31/2021
+  course: F6E18909
+  title: 2021 Red Cross Adult First Aid/CPR/AED Online
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/14/2020
+  course: HBS13155
+  title: PowerDMS Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/7/2019
+  course: HBS14092
+  title: Eliminating Discrimination/Harassment - Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2019
+  course: HBS23596
+  title: CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/15/2019
+  course: HBS18174
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2019
+  course: HBS00041
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2019
+  course: HBS05787
+  title: Diversity, Equity  Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/12/2018
+  course: F6W42374
+  title: Basic Facilitator Development Course
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 1/17/2018
+  course: F6B14277
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2017
+  course: F6C09888
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.75'
+- date: 11/30/2015
+  course: F6C21660
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/16/2015
+  course: 15-0600
+  title: Versadex Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/17/2014
+  course: 14-0660
+  title: Culture / Diversity - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/23/2014
+  course: 14-0819
+  title: Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2012
+  course: MISCMAIN
+  title: 2012 Police Maintenance Basic
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/29/2012
+  course: 12-0955
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/22/2011
+  course: 11-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/10/2011
+  course: 11-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 3/9/2011
+  course: 11-0893
+  title: Terrorism Trends
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/31/2011
+  course: 11-0951
+  title: CPR / AED
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/31/2010
+  course: 10-0926
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/22/2010
+  course: 10-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/22/2010
+  course: 10-0851
+  title: Explosive Device Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/10/2010
+  course: 10-1211
+  title: Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2010
+  course: 10-0114
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 10/22/2010
+  course: 10-0109
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2010
+  course: 10-0113
+  title: Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/25/2010
+  course: 10-1122
+  title: Law  Legal - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/25/2010
+  course: 10-1093
+  title: Civil Law
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/22/2010
+  course: 10-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/28/2010
+  course: 10-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/14/2010
+  course: 10-0934
+  title: FBI Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/13/2010
+  course: 10-0115
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/13/2010
+  course: 10-0139
+  title: Simunititions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/29/2010
+  course: 10-0952
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/29/2010
+  course: 10-1116
+  title: Legal/Legislative Update
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/22/2009
+  course: '09-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/31/2009
+  course: '09-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/13/2009
+  course: '09-0884'
+  title: Anti-Terrorism Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/30/2009
+  course: '09-0109'
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2009
+  course: '09-0272'
+  title: Taser Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2009
+  course: '09-0114'
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 8/31/2009
+  course: '09-0395'
+  title: IS 700  NIMS, An Introduction
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/30/2009
+  course: '09-0934'
+  title: FBI Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/23/2009
+  course: '09-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/4/2009
+  course: '09-0934'
+  title: FBI Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '21.75'
+- date: 5/21/2009
+  course: '09-0983'
+  title: Crisis Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/18/2009
+  course: '09-0114'
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 4/14/2009
+  course: '09-0492'
+  title: Strategic Management / Planning
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/2/2009
+  course: '09-0886'
+  title: Domestic Terrorism Workshop
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/29/2009
+  course: '09-0953'
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/13/2008
+  course: '08-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/13/2008
+  course: '08-0924'
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2008
+  course: '08-0893'
+  title: Terrorism Trends
+  status: Passed
+  score: '0.0'
+  hours: '18.50'
+- date: 9/5/2008
+  course: '08-0900'
+  title: WMD Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/13/2008
+  course: '08-0587'
+  title: Oregon Anti-Terrorism Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/22/2008
+  course: '08-0774'
+  title: Crime Scene Investigation
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
+- date: 5/15/2008
+  course: '08-0144'
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/7/2008
+  course: '08-0830'
+  title: Investigative Interviews
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/30/2008
+  course: '08-0293'
+  title: Other Use of Force Video
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/10/2007
+  course: 07-1210
+  title: Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/29/2007
+  course: 07-0683
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 11/15/2007
+  course: 07-0211
+  title: The Bullet Proof Mind
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/8/2007
+  course: 07-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/6/2007
+  course: 07-0808
+  title: Fraud Investigations
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
+- date: 8/7/2007
+  course: 07-0249
+  title: Range 3000
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/7/2007
+  course: 07-0109
+  title: Confrontational Simulation
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 7/31/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/17/2007
+  course: 07-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/16/2007
+  course: 07-0388
+  title: ICS 100 / IS 100 - Introduction to ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/16/2007
+  course: 07-0389
+  title: ICS 200 / IS 200 - Basic ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/2/2007
+  course: 07-0798
+  title: Auto Theft Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/22/2007
+  course: 07-0629
+  title: Verbal Judo
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/15/2007
+  course: 07-0605
+  title: Vehicle ID  Theft Seminar
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/14/2006
+  course: 06-2636
+  title: Evo - Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2006
+  course: 06-0185
+  title: Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2006
+  course: 06-0076
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/26/2006
+  course: 06-0220
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/18/2006
+  course: 06-0820
+  title: IFAST Spring 2006
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/21/2006
+  course: 06-0064
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/18/2006
+  course: 06-0451
+  title: Search  Arrest Warrants
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/18/2006
+  course: 06-0451
+  title: Search  Arrest Warrants
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/11/2006
+  course: 06-0271
+  title: Search Warrant Writing
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/4/2006
+  course: 06-0271
+  title: Search Warrant Writing
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/4/2006
+  course: 06-0271
+  title: Search Warrant Writing
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/1/2005
+  course: 05-0702
+  title: IFAST Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/17/2005
+  course: 05-0823
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/23/2005
+  course: 05-1490
+  title: Document Imaging
+  status: Passed
+  score: '0.0'
+  hours: '1.30'
+- date: 5/18/2005
+  course: 05-0637
+  title: Search  Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/5/2005
+  course: 05-0702
+  title: IFAST Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/4/2005
+  course: 05-0637
+  title: Search  Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/26/2005
+  course: 05-0518
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/20/2005
+  course: 05-0637
+  title: Search  Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2005
+  course: 05-0637
+  title: Search  Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/6/2005
+  course: 05-0637
+  title: Search  Seizure
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/6/2005
+  course: 05-0637
+  title: Search  Seizure
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/16/2004
+  course: 04-4350
+  title: IFAST Fall 2004
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/12/2004
+  course: 04-0242
+  title: Sexual Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/20/2004
+  course: 04-4232
+  title: Email Ettiquette Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2004
+  course: 04-3094
+  title: Patrol in Era of Terrorism-Vigilance Video 1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2004
+  course: 04-0081
+  title: CPR/First Aid Recert
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/16/2004
+  course: 04-3051
+  title: Burglar Investigations
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/9/2004
+  course: 04-3051
+  title: Burglar Investigations
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/9/2004
+  course: 04-3051
+  title: Burglar Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/2/2004
+  course: 04-3058
+  title: Use of Force - Database
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2004
+  course: 04-0646
+  title: IFAST Spring 2004
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/19/2004
+  course: 04-0039
+  title: Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/13/2004
+  course: 04-0068
+  title: Customer Service
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/20/2004
+  course: 04-0519
+  title: CALEA Onsite Plan
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/4/2004
+  course: 04-3298
+  title: Investigations Holding Manual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2004
+  course: 04-0818
+  title: Travel Policy Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/22/2003
+  course: 03-0872
+  title: OSIN Basic Criminal Intelligence Concepts Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/9/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/29/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/8/2002
+  course: 02CP729
+  title: Using Criminals as Witnesses
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/7/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '48.00'
+- date: 5/8/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/31/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '12.50'
+- date: 11/15/2000
+  course: 00P447
+  title: Detect Deception
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 5/31/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/14/2000
+  course: 00P387
+  title: Homicide Investigation Course
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 11/30/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/18/1999
+  course: 99P046
+  title: ADVANCED INVESTIGATORS SCHOOL
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 9/23/1999
+  course: 99P643
+  title: GALLATIN SERIAL RAPIST INVESTIGATION  T
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/27/1999
+  course: 99P539
+  title: HOMICIDE-THE RECOVERY OF HUMAN REMAINS
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 5/27/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/12/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/17/1998
+  course: 98P370
+  title: 'HOMICIDE INVESTIGATION: A PRACTICAL APPR'
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/9/1998
+  course: 97P540
+  title: CRIME ANALYSIS APPLICATIONS
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 12/31/1997
+  course: 97P208
+  title: LEDS 1997 RECERTIFICATION TEST
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '49.00'
+- date: 10/29/1997
+  course: 97P407
+  title: 'CRIME SCENE: THE CRITICAL HOURS'
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/19/1997
+  course: 97P465
+  title: FIELD GUIDE TO 1997 NEW LAWS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/9/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 3/20/1997
+  course: 97P148
+  title: ETHNIC CRIMINAL CARTELS  INSURANCE FRAU
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/28/1997
+  course: 97Q001
+  title: DPSST Supervision 97-1
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 1/21/1997
+  course: 97P122
+  title: LAW ENFORCEMENT OFFICERS FLYING ARMED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/11/1996
+  course: 96P378
+  title: IFAST FIREARMS TRAINING FOR NON-UNIFORM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/21/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 5/15/1996
+  course: 96X114
+  title: SPRING 1996 IFAST FIREARMS-NON UNIFORM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/26/1995
+  course: 95X112
+  title: FALL 1995 IFAST FIREARMS TRAINING NON-UN
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/22/1995
+  course: 95K059
+  title: REID METHOD OF CRIMINAL INTERVIEWS/INTER
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 6/27/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '38.00'
+- date: 5/16/1995
+  course: 95J058
+  title: 1995 SPRING IFAST TRAINING-UNIFORMED PAT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/14/1995
+  course: 95X088
+  title: LEDS 1995 RECERTIFICATION TEST
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/1995
+  course: 95K070
+  title: WCSO VEHICLE OPERATIONS REFRESHER COURSE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/11/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/24/1994
+  course: 94J161
+  title: INTER-AGENCY FIREARMS SKILLS TRNG/UNIFOR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/21/1994
+  course: 94X034
+  title: SAFETY BELT TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/2/1994
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '51.00'
+- date: 5/16/1994
+  course: 94J113
+  title: 1994 SPRING FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/9/1994
+  course: 94J043
+  title: VIN LOCATION; PRIMARY/SECONDARY/CONFIDEN
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/23/1993
+  course: 93X030
+  title: LEGAL UPDATE FOR LAW ENFORCEMENT OFFICER
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/27/1993
+  course: 93K146
+  title: FALL 1993 FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '88.00'
+- date: 6/30/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 4/28/1993
+  course: 93K099
+  title: FIREARMS TRAINING SPRING 1993
+  status: Passed
+  score: '0.0'
+  hours: '88.00'
+- date: 3/16/1993
+  course: 93J010
+  title: INTOXILYZER 5000
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/25/1993
+  course: 93K017
+  title: CHILD ABUSE INVESTIGATION MULTIDISCIPLIN
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/1/1992
+  course: 92K183
+  title: FALL 1992 FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/30/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 4/22/1992
+  course: 92K108
+  title: 1992 SPRING OPERATIONS FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/12/1992
+  course: 92J027
+  title: EMERGENCY VEHICLE ANTI-LOCK BRAKING CRS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/17/1991
+  course: 91K189
+  title: FIREARMS TRAINING FALL 1991
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/2/1991
+  course: 91U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/10/1991
+  course: 91K117
+  title: FIREARMS TRAINING SPRING 1991
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/12/1990
+  course: '909048'
+  title: MAJOR CASE INVESTIGATIONS FBI TELECONFER
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/5/1990
+  course: 90P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 11/16/1990
+  course: '909253'
+  title: FIELD TRAINING OFFICER SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/19/1990
+  course: '909114'
+  title: FIRST RESPONDER AWARENESS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/1990
+  course: '909229'
+  title: FALL 1990 FIREARMS TRAINING WASH CO SO
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/25/1990
+  course: '909145'
+  title: SPRING 1990 FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/7/1990
+  course: '905018'
+  title: FATAL ACCIDENT INVESTIGATION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/31/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '326.00'
+- date: 6/12/1989
+  course: 89MO50
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 12/31/1988
+  course: '889057'
+  title: LEDS MANUAL - INTERMEDIATE LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 11/22/1988
+  course: '889016'
+  title: RADAR SPEED MEASUREMENT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/18/1988
+  course: '881143'
+  title: 'BASIC POLICE CLASS #143'
+  status: Passed
+  score: '0.0'
+  hours: '312.00'
+- date: 11/17/1988
+  course: '889050'
+  title: INTOXILYZER
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/11/1988
+  course: 88Q001
+  title: FIRST AID
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/14/1988
+  course: 88Q002
+  title: CARDIOPULMONARY RESUSCITATION
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/31/2021
+  expiration_date: 1/31/2023
+education_records:
+- date: 5/4/1986
+  degree: Bachelor Arts
+  school: University Of Portland
+  major: Fine  Applied Arts
+  hours: '205.0'

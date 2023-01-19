@@ -1,2 +1,314 @@
 ---
-missing_transcript: true
+header_record:
+  name: El Mohamed, Mohamed F.
+  dpsst_identifier: '62958'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 5/17/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 5/17/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 11/17/2023
+training_records:
+- date: 11/17/2023
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 11/10/2022
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/10/2022
+  course: REG24959
+  title: INTOX 8000
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/12/2022
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Registered
+  score: '0.0'
+  hours: '640.00'
+- date: 9/8/2022
+  course: PDP32886
+  title: FTEP Policy  Procedure Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/6/2022
+  course: PDP38929
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/2/2022
+  course: PDP00747
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/1/2022
+  course: PDP33916
+  title: Firearms Training - New Hire
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/18/2022
+  course: PDP14206
+  title: 2022-1 Tips and Techniques Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/18/2022
+  course: PDP05316
+  title: '2022-7 Executive Order: Corrective Action Guide'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/16/2022
+  course: PDP13563
+  title: 2020-11 CAO Legal Updates for 11/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/16/2022
+  course: PDP14900
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/15/2022
+  course: PDP35473
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2022
+  course: PDP31681
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/1/2022
+  course: PDP33107
+  title: 2021 Language Access Utilizing Bilingual Members
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/1/2022
+  course: PDP32564
+  title: 2021 Online In-Service Language Access Translation
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/1/2022
+  course: PDP39385
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/1/2022
+  course: PDP40044
+  title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/28/2022
+  course: PDP17611
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/28/2022
+  course: PDP00958
+  title: 2022 Training 3M N Series Helmet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/28/2022
+  course: PDP26686
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/26/2022
+  course: PDP05995
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2022
+  course: PDP38388
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2018
+  course: PDP26940
+  title: IS-323 Earthquake Mitigation Basics for Staff
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2018
+  course: PDP11808
+  title: IS-393.b Intro to Hazard Mitigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2018
+  course: PDP42212
+  title: IS-240.b Leadership and Influence
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/5/2018
+  course: PDP01595
+  title: IS-322 Flood Mitigation Basics for Staff
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/5/2018
+  course: PDP15643
+  title: IS-632.a Intro to Debris Operations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/3/2018
+  course: PDP29745
+  title: IS-558 Public Works and Disaster Recovery
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/25/2017
+  course: PDP06802
+  title: IS-235.c Emergency Planning
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 5/18/2017
+  course: PDP38341
+  title: IS-706 NIMS Intrastate Mutual Aid and Introduction
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/18/2017
+  course: PDP38600
+  title: IS-775 EOC Management and Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/11/2017
+  course: PDP27358
+  title: IS-201 Forms Used Incident Action Plan
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2017
+  course: PDP07387
+  title: IS-702.a NIMS Public Information Systems
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/11/2017
+  course: PDP43941
+  title: IS-703.a NIMS Resource Management
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/18/2017
+  course: PDP31164
+  title: IS-800.b National Response Framework Introduction
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/12/2017
+  course: PDP38081
+  title: IS-244.b Developing and Managing Volunteers
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/12/2017
+  course: PDP36144
+  title: IS-288.a Role of Voluntary Agencies in Emerg Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/22/2016
+  course: PDP28645
+  title: IS 1.A Emerg Mgr:An Orientation to the position
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/22/2016
+  course: PDP34449
+  title: IS-230.d Fundamentals of Emerg Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/15/2016
+  course: PDP07477
+  title: IS-242.b Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/14/2016
+  course: PDP25438
+  title: IS-42 Social Media in Emergency Management
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/13/2016
+  course: PDP35062
+  title: IS-247.a Integrated Pub. Alert and Warn. Syst.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/27/2016
+  course: PDP09180
+  title: IS-909 Community Prep Implement Activities for All
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/27/2016
+  course: PDP06577
+  title: 'IS-315 CERT Supplemental Training: The ICS'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/12/2016
+  course: PDP31247
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/12/2016
+  course: PDP10447
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 9/12/2022
+  expiration_date: ''
+education_records: []

@@ -1,2 +1,254 @@
 ---
-missing_transcript: true
+header_record:
+  name: Gullberg, Landen T.
+  dpsst_identifier: '62779'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 4/14/2022
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 4/14/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 10/14/2023
+training_records:
+- date: 10/14/2023
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 12/26/2022
+  course: PDP44196
+  title: 2018 TOD 100% Collection  Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP25475
+  title: 2018-5 TT 100% Collection  Submission for FA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP10235
+  title: 2021 Language Access - Utilizing Bilingual Members
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP35706
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/26/2022
+  course: PDP10454
+  title: 2021 Training Crowd Control Vehicles Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP39120
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP22307
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/26/2022
+  course: PDP21394
+  title: 2022-1 Tips and Techniques Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/26/2022
+  course: PDP01020
+  title: 2021 Training Response to Calls Involving Youth
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/26/2022
+  course: PDP10897
+  title: 2021-6 Tips  Techniques Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP44436
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/26/2022
+  course: PDP15343
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/26/2022
+  course: PDP03449
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/26/2022
+  course: PDP13345
+  title: 2022-3 CAO Legal Updates for 03/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP19312
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/26/2022
+  course: PDP36927
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP14670
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/26/2022
+  course: PDP44367
+  title: City of Portland Bloodborne Pathogens Link
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/26/2022
+  course: PDP13531
+  title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP14912
+  title: DIR 640.38 Interacting w Mmbrs of the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP41652
+  title: DIR 630.15, Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/26/2022
+  course: PDP26920
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2022
+  course: PDP10923
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/19/2022
+  course: PDP16779
+  title: Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/15/2022
+  course: PDP13883
+  title: Control Tactics Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/15/2022
+  course: PDP03987
+  title: HAZMAT/WMD Awareness  APR Program
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/12/2022
+  course: PDP17554
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 12/9/2022
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 10/13/2022
+  course: REG12045
+  title: INTOX 8000 (w/BP419)
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/11/2022
+  course: PDP13201
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/11/2022
+  course: PDP32900
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/11/2022
+  course: PDP31574
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/8/2022
+  course: PDP15565
+  title: Policy and Procedure Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 8/3/2022
+  course: PDP33543
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/2/2022
+  course: PDP13212
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/3/2022
+  course: PDP18510
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 8/15/2022
+  expiration_date: ''
+education_records: []

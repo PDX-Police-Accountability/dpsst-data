@@ -1,2 +1,115 @@
 ---
-missing_transcript: true
+header_record:
+  name: Spangler, Brooks A.
+  dpsst_identifier: '51194'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Reserve Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/13/2011
+  agency: Washington County Sheriff's Office
+  action: Prob Dschg
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 2/21/2011
+  agency: Washington County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 1/28/2010
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 10/13/2011
+  course: 11-0113
+  title: Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/13/2011
+  course: 11-0128
+  title: Contact Distance Firing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/13/2011
+  course: 11-0124
+  title: Weapons Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/13/2011
+  course: 11-0795
+  title: Domestic Violence Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/13/2011
+  course: 11-0794
+  title: Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/16/2011
+  course: 11-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 8/19/2011
+  course: 11-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 8/4/2011
+  course: 11-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 6/10/2011
+  course: 11-0144
+  title: IFAST
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 6/10/2011
+  course: 11-0883
+  title: Critical Incident Response
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/6/2011
+  course: 11-0551
+  title: Agency Pre-Basic Academy
+  status: Passed
+  score: '0.0'
+  hours: '257.00'
+- date: 2/23/2011
+  course: 11-0953
+  title: CPR / First Aid / AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/5/2010
+  course: 10-0715
+  title: LEDS Inquiry Level
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 5/23/2011
+  expiration_date: ''
+education_records: []

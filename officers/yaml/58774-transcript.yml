@@ -1,2 +1,193 @@
 ---
-missing_transcript: true
+header_record:
+  name: Axelrod, Austin J.
+  dpsst_identifier: '58774'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/26/2019
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 6/28/2018
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 8/17/2021
+  course: PDP10854
+  title: Individual Critical Incident Management Trng
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 12/9/2018
+  course: PDP25179
+  title: Decision Making Exercises
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2018
+  course: PDP27651
+  title: 2018 ITD MDC Console Replacement Videos-GetacV110
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/3/2018
+  course: PDP21309
+  title: '2018 DVD Fentanyl: The Real Deal'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2018
+  course: PDP38445
+  title: 2018 ITD MDC Console Replacement Videos-GetacV110
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 12/3/2018
+  course: PDP35695
+  title: 2018 SSD Stops Application
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/3/2018
+  course: PDP00554
+  title: 2018 100% Collection and Submission Model Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/3/2018
+  course: PDP02905
+  title: 2018-5 Tips  Tech 100% Collection and Submission
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2018
+  course: PDP09911
+  title: 2018 Annual Hearing Conservation Training for OSHA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2018
+  course: PDP09760
+  title: 2017-4 CAO Legal Updates for Q4 - Supp Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/2/2018
+  course: PDP21179
+  title: 2017-4 City Attorney's Office Legal Updates for Q4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/2/2018
+  course: PDP36702
+  title: Tips and Techniques Shooting Through Barriers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/1/2018
+  course: F6D30669
+  title: RADAR/LIDAR- Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/26/2018
+  course: PDP15664
+  title: FTEP CPR First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/21/2018
+  course: PDP13218
+  title: Property and Evidence Handling
+  status: Passed
+  score: '0.0'
+  hours: '6.25'
+- date: 11/20/2018
+  course: PDP13218
+  title: Property and Evidence Handling
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/15/2018
+  course: PDP18344
+  title: Property and Evidence Handling
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2018
+  course: PDP19843
+  title: CEW X2 User Course
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
+- date: 11/6/2018
+  course: PDP21493
+  title: 2018-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/2/2018
+  course: 18-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 9/10/2018
+  course: F6W22482
+  title: LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/12/2018
+  course: PDP40479
+  title: IS-00100.c Intro to Incident Command Sys (ICS 100)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/12/2018
+  course: PDP19325
+  title: IS-00700.b National Incident Managment Sys (NIMS)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/11/2018
+  course: PDP30615
+  title: FTEP 2.02 Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/11/2018
+  course: PDP39723
+  title: FTEP Blood Borne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/9/2018
+  course: PDP09314
+  title: FTEP Policy and Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.25'
+- date: 6/21/2018
+  course: AMP41579
+  title: 'Ethics Bulletin  Volume #175  June 2018'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/15/2018
+  expiration_date: ''
+education_records: []

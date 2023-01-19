@@ -1,2 +1,770 @@
 ---
-missing_transcript: true
+header_record:
+  name: Moody, Karl A.
+  dpsst_identifier: '34301'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 4/5/2021
+  agency: DOC/Coffee Creek Correctional Facility
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 1/4/2004
+  agency: DOC/Coffee Creek Correctional Facility
+  action: Promotion
+  rank: Corporal
+  classification: ''
+  assignment: ''
+- date: 2/4/2002
+  agency: DOC/Coffee Creek Correctional Facility
+  action: Hired
+  rank: Corr Offcr
+  classification: ''
+  assignment: ''
+- date: 10/13/2000
+  agency: Columbia County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 12/16/1999
+  agency: Columbia County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 12/15/1999
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 7/2/1997
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 9/14/2009
+  certificate: Corrections Officer
+  level: Intermediate
+  status: Granted
+  certificate_date: 9/14/2009
+  expiration_date: ''
+  probation_date: ''
+- status_date: 9/20/2000
+  certificate: Corrections Officer
+  level: Basic
+  status: Granted
+  certificate_date: 9/20/2000
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 3/17/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/3/2022
+  course: MISCMAIN
+  title: 2022 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/17/2022
+  course: TRN20924
+  title: Environmental Wellness for Correction Professional
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2022
+  course: TRN14991
+  title: Leading Change Through a Dynamic Approach v2022
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/17/2022
+  course: TRN11587
+  title: Nasal Naloxone (Narcan) v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2022
+  course: TRN25335
+  title: Safety Update - Earthquake Preparedness v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/17/2022
+  course: TRN44307
+  title: Speak Up Culture-The Oregon Way v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/17/2022
+  course: TRN44051
+  title: Suicide Prevention in Corrections Facilities v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/16/2022
+  course: TRN41016
+  title: 2022 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/16/2022
+  course: TRN30160
+  title: 2022 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/16/2022
+  course: TRN33202
+  title: AICs with Disabilities-Accessibility and Provision
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/16/2022
+  course: TRN05832
+  title: Basic Public Records Training v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/16/2022
+  course: TRN33080
+  title: ICS for Corrections Review v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/16/2022
+  course: TRN31978
+  title: Fire Extinguisher Use and Safety v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/16/2022
+  course: TRN05903
+  title: Physical Wellness for Corrections Professionals
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/16/2022
+  course: TRN39967
+  title: PREA Training Requirement v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/16/2022
+  course: TRN11510
+  title: Social Wellness for Corrections Professionals
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/16/2022
+  course: TRN28857
+  title: Spiritual Wellness for Corrections Professionals
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/16/2022
+  course: TRN13986
+  title: Use of Force Applications - Evolving Caselaw v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/15/2022
+  course: TRN37740
+  title: Annual Firearms Training v2022c
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/15/2022
+  course: TRN12841
+  title: FS - Planned Use of Force v2020c
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/14/2022
+  course: TRN33226
+  title: CPR First Aid v2022c
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/14/2022
+  course: TRN37452
+  title: Duty to Intervene v2022c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/14/2022
+  course: TRN26594
+  title: Threat and Risk Assessment Model v2022c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/12/2022
+  course: TRN15373
+  title: FS - Taser Instructor v22
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/15/2021
+  course: MISCMAIN
+  title: 2021 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/4/2021
+  course: DOC14484
+  title: Use of Force Case Law Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/4/2021
+  course: DOC30242
+  title: The Oregon Way Explainer v2021
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2021
+  course: DOC33993
+  title: History of Norway Corrections v2021
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/4/2021
+  course: DOC13987
+  title: Wellness-Financial v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2021
+  course: DOC29859
+  title: Earthquake Preparedness v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/4/2021
+  course: DOC22418
+  title: Communication - Easy to Do Easy to Blunder v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/3/2021
+  course: DOC13850
+  title: Use of Force for DOC Security v2021
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/3/2021
+  course: DOC16366
+  title: Use of Force Rule Review v2021
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2021
+  course: DOC03183
+  title: Prison Tattoos And Their Meaning v2021
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2021
+  course: DOC32106
+  title: The Oregon Way v2021
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2021
+  course: DOC06037
+  title: HIPAA for EVERYONE v2021
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2021
+  course: DOC35438
+  title: PREA - Annual Requirement Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2021
+  course: DOC03549
+  title: Suicide Detection and Prevention
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2021
+  course: DOC05785
+  title: 2021 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2021
+  course: DOC27229
+  title: Protection from Ambient Heat v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/3/2021
+  course: DOC14648
+  title: Protection from Wildfire Smoke v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/3/2021
+  course: DOC18981
+  title: 2021 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/3/2021
+  course: DOC39230
+  title: Accessibility for AIC's with Disabilities v2021
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2021
+  course: DOC33753
+  title: Humanizing Communication Through CIT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2021
+  course: DOC35715
+  title: How Being Trauma-Informed Improves CJS Responses
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/3/2021
+  course: DOC37713
+  title: Fire Extinguisher Use v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/3/2021
+  course: DOC21363
+  title: Drug Recognition and Interdiction v2021
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/3/2021
+  course: DOC00875
+  title: DPSST Maintenance Training v2021
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2021
+  course: DOC21582
+  title: Criminal Evidence Handling v2017
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/2/2021
+  course: TRN19242
+  title: Annual Firearms Training v2021c
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/1/2021
+  course: TRN18153
+  title: Introduction to PQC1 v2020
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2021
+  course: TRN30806
+  title: G2015 Medic First Aid CPR AED v2017c
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/11/2021
+  course: DOC36642
+  title: DOC - ODOC - Interview Panels v2018
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/22/2020
+  course: DOC08853
+  title: DOC - ODOC - COVID Training and Information v2020
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/1/2020
+  course: DOC09727
+  title: DOC - FS - Taser Instructor v22.2020
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/10/2020
+  course: MISCMAIN
+  title: 2020 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 9/1/2020
+  course: DOC43750
+  title: DOC - FS - Taser User Recertification v21.2019
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/27/2020
+  course: DOC42350
+  title: Bloodborne Pathogens - Protect Yourself
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2020
+  course: DOC16442
+  title: DPSST Maintenance Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC24105
+  title: Earthquake Preparedness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC29824
+  title: DOC - ODOC - Wellness-Financial v2020
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC37768
+  title: DOC - ODOC - Fire Extinguisher Use v2020
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC34901
+  title: ICSC for Non-Institution Staff
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC27540
+  title: Public Records
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/27/2020
+  course: DOC20705
+  title: Suicide Detection and Prevention
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/27/2020
+  course: DOC27538
+  title: Prison Tattoos And Their Meaning
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2020
+  course: DOC22783
+  title: DOC - AT - Tech Tuesday v2020
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC36745
+  title: DOC - ODOC  Wellness-Meals and Exercise v2020
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC00052
+  title: WELLNESS - Mind and Inspiration
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/27/2020
+  course: DOC29592
+  title: DOC - FS - Introduction to PQC1 v2020
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/26/2020
+  course: DOC36922
+  title: DOC - AT - Employee Wellness v2020
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/26/2020
+  course: DOC33854
+  title: DOC - ODOC - Incident Command System for Correctio
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/26/2020
+  course: DOC04278
+  title: DOC - AT - Use of Force Applications v2020
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/25/2020
+  course: DOC08374
+  title: DOC - AT - Drug Recognition and Interdiction v2020
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/25/2020
+  course: DOC39196
+  title: DOC - AT - Humanizing Communication Through Crisis
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/25/2020
+  course: DOC09655
+  title: DOC - AT - PREA Maintaining Professional Boundarie
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/24/2020
+  course: DOC32876
+  title: DOC - ODOC - G2015 Medic First Aid, CPR, AED v2017
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/24/2020
+  course: DOC34855
+  title: DOC - AT - Welcome and the Oregon Way v2020
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/1/2019
+  course: DOC13608
+  title: DOC - ADA Inmates with Disabilities v2019
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/2019
+  course: DOC37083
+  title: BBP - Do You Know the Risks? V2019
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/2019
+  course: DOC09823
+  title: 2019 Prev Harassment in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2019
+  course: DOC21072
+  title: DOC - Fire Extinguisher Use v2019
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2019
+  course: TRN27946
+  title: DOC - FS - Armed Post Qualifications 2.5 (APQ 2.5)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/31/2019
+  course: TRN34785
+  title: DOC - FS - Armed Post Qualifications 1.5 (APQ 1.5)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/31/2019
+  course: DOC19038
+  title: DOC - Acceptable Use of Electronic Systems v2019
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2019
+  course: DOC06335
+  title: DOC - Inmate Access to Healthcare
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2019
+  course: DOC41384
+  title: HIPAA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/31/2019
+  course: DOC39837
+  title: PREA Audit Preparation and Practice
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2019
+  course: DOC06670
+  title: DOC - Suicide Detection and Prevention v2019
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/29/2019
+  course: DOC30882
+  title: DOC -Unclothed Searches-All and Transgender AIC's
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2018
+  course: TRN24812
+  title: DOC - ATCOM - Intermediate CIT v2019 IDC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/10/2018
+  course: F6B09670
+  title: Crisis Hostage Negotiation - Level 1
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/22/2018
+  course: TRN37121
+  title: DOC-ODOC-G2015 Medic First Aid, CPR, AED v2017
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/22/2018
+  course: TRN26274
+  title: Undefined
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/15/2017
+  course: PDP11160
+  title: Malheur Wildlife Refuge Standoff Debrief
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/16/2014
+  course: 14-0593
+  title: Conference - Other
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 8/22/2014
+  course: F6C34391
+  title: Intermediate Crisis Negotiation Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 8/22/2014
+  course: F6C07532
+  title: Untermediate Crisis Negotiation Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/9/2013
+  course: 13-0686
+  title: Suicide Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/11/2008
+  course: '08U001'
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '109.50'
+- date: 12/12/2007
+  course: 07U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 6/6/2007
+  course: 07-0592
+  title: Western States Hostage Negotiators Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/27/2006
+  course: 06U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '96.00'
+- date: 1/27/2006
+  course: 06-1187
+  title: Basic Negotiators Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/20/2005
+  course: 05U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '69.00'
+- date: 9/14/2005
+  course: 05-0662
+  title: True Lies Detecting Deception
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/22/2004
+  course: 04U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '68.00'
+- date: 10/3/2003
+  course: 03U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '101.00'
+- date: 10/9/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '64.25'
+- date: 8/25/2000
+  course: 00T002
+  title: Corrections Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 5/5/2000
+  course: 00B002
+  title: DPSST Basic Corrections
+  status: Passed
+  score: '0.0'
+  hours: '200.00'
+- date: 4/6/2000
+  course: 99P294
+  title: FATS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+attribute_records:
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/14/2022
+  expiration_date: 2/28/2024
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 7/28/2000
+  expiration_date: ''
+education_records:
+- date: 12/15/2007
+  degree: No Degree
+  school: Chemeketa Community College
+  major: ''
+  hours: '21.0'

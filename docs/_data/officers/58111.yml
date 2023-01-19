@@ -1,2 +1,198 @@
 ---
-missing_transcript: true
+header_record:
+  name: Foxworthy, Cody W.
+  dpsst_identifier: '58111'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 6/13/2018
+  agency: Portland Police Bureau
+  action: Prob Dschg
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 11/27/2017
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 7/1/2018
+  course: F6B25218
+  title: RADAR/LIDAR - Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 6/1/2018
+  course: PDP22051
+  title: Detectives How to Spot a Skimmer
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/1/2018
+  course: PDP27736
+  title: City Attorneys Office Legal Updates for Q4
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/30/2018
+  course: PDP03881
+  title: FTEP RADAR/LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/29/2018
+  course: PDP03881
+  title: FTEP RADAR/LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/14/2018
+  course: PDP15633
+  title: 2018-2 Primary Sidearm Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/14/2018
+  course: PDP41145
+  title: 2018-2 Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/1/2018
+  course: PDP24462
+  title: FTEP Police Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/1/2018
+  course: PDP42272
+  title: IFAK Refresher Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2018
+  course: PDP11353
+  title: 2017-3 Legal Updates for Q3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/1/2018
+  course: PDP39936
+  title: Tips and Tech Hazard Tow vs. Private Request
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2018
+  course: PDP18845
+  title: Disposition of Records Upon Retirement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/30/2018
+  course: PDP18148
+  title: FTEP Property and Evidence Handling
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/26/2018
+  course: PDP03393
+  title: New Hire RMS/MRE Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 4/24/2018
+  course: PDP02194
+  title: FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/23/2018
+  course: PDP30460
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/19/2018
+  course: PDP28709
+  title: CEW X2 Basic Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/18/2018
+  course: PDP41689
+  title: FTEP APR Fit Testing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2018
+  course: PDP28147
+  title: Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2018
+  course: PDP31597
+  title: 2018 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '5.75'
+- date: 4/13/2018
+  course: 17-0008
+  title: DPSST Basic Police
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
+- date: 3/9/2018
+  course: 18-0011
+  title: Intoxilyzer 8000-Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/1/2018
+  course: 18-0010
+  title: SFST/DID- Training hours included in Basic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/4/2018
+  course: PDP25178
+  title: FTEP Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/4/2018
+  course: PDP39562
+  title: FTEP Missing Persons
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/7/2017
+  course: PPB24562
+  title: IS-00700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2017
+  course: PPB24487
+  title: FTEP Policy  Procedure - New Hires
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 12/10/2017
+  expiration_date: ''
+education_records:
+- date: 12/10/2015
+  degree: Associate Science
+  school: Clackamas Community College
+  major: Criminal Justice
+  hours: '119.0'

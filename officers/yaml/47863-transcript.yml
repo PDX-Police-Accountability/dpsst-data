@@ -1,2 +1,69 @@
 ---
-missing_transcript: true
+header_record:
+  name: Kittleson, Mary G.
+  dpsst_identifier: '47863'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 7/6/2017
+  agency: Gresham Police Department
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 2/20/2007
+  agency: Gresham Police Department
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 2/7/2007
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 9/25/2006
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 3/26/2015
+  course: 15-0699
+  title: CAD / MDS / MDT System
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 12/12/2012
+  course: 12-0926
+  title: Harassment
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/16/2009
+  course: '09-0711'
+  title: Computer Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/31/2008
+  course: '08-0683'
+  title: Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/27/2007
+  course: 07-0972
+  title: Health / Wellness - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+attribute_records: []
+education_records: []

@@ -1,2 +1,93 @@
 ---
-missing_transcript: true
+header_record:
+  name: Miller, Dale E.
+  dpsst_identifier: '30239'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 1/2/2018
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 11/17/1994
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 8/31/2016
+  course: F6C20300
+  title: RAPID
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/30/2010
+  course: 10-0822
+  title: Digital Evidence
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/4/2009
+  course: '09-0834'
+  title: Investigation Training - Other
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2008
+  course: '08-0964'
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/12/2007
+  course: 07-0832
+  title: Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/8/2007
+  course: 07-0964
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/25/2003
+  course: 03-0358
+  title: PPB Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 3/13/2003
+  course: 03-0627
+  title: Basic Fingerprint Class
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+attribute_records: []
+education_records: []

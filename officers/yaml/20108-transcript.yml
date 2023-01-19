@@ -1,2 +1,39 @@
 ---
-missing_transcript: true
+header_record:
+  name: Coleman, Barbara A.
+  dpsst_identifier: '20108'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 2/19/1987
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/1988
+  course: '889056'
+  title: LEDS MANUAL - GENERAL LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+attribute_records: []
+education_records: []

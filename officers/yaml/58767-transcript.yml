@@ -1,2 +1,45 @@
 ---
-missing_transcript: true
+header_record:
+  name: Quinlivan, Sarah P.
+  dpsst_identifier: '58767'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 5/3/2018
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 8/16/2019
+  course: MNS03664
+  title: 'Ethics Bulletin #187, 188 and 189'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/11/2019
+  course: MNS02882
+  title: 'Ethics Bulletin #185 and 186'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/13/2019
+  course: MNS32109
+  title: 'Ethics Bulletin #183 and 184'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/16/2018
+  course: 18-0008
+  title: DPSST Basic Police
+  status: Cancelled
+  score: '0.0'
+  hours: '0.00'
+attribute_records: []
+education_records: []
