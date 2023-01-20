@@ -90,6 +90,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/17/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/10/2022
   course: PDP21194
   title: 2021 Training New Pistol Qualification
@@ -276,6 +288,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/5/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

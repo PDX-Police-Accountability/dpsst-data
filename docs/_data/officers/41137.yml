@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/28/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/27/2022
   course: PDP37189
   title: Intoxylizer 8000 Certificate Training
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/4/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/22/2022
   course: PDP38569
   title: Intoxilyzer 8000 Class

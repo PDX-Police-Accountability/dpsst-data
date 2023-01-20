@@ -58,6 +58,8 @@
 | 10/17/2022 | PDP42838 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 10/17/2022 | PDP39002 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 10/17/2022 | PDP16534 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 10/17/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/13/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 6/8/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/16/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/16/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

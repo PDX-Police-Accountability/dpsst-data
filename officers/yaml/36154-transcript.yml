@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2023
+  course: MFP18742
+  title: First Aid/Adult  Child CPR/AED/Naloxone Use
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 12/2/2022
   course: MFP25974
   title: TIU Updates  Forefeiture
@@ -5061,6 +5067,10 @@ training_records:
   score: '0.0'
   hours: '555.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/13/2023
+  expiration_date: 1/31/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

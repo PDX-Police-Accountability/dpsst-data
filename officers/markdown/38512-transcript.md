@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/4/2023 | PDP25505 | EDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 12/14/2022 | PDP03067 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/12/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/12/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
@@ -50,6 +51,7 @@
 | 11/9/2022 | PDP39508 | EDU Weekly: Robot and Rigging Training | Instructed | 0.0 | 9.00 |
 | 11/2/2022 | PDP01355 | EDU weekly: Scenario Training | Passed | 0.0 | 9.00 |
 | 10/26/2022 | PDP10937 | EDU Weekly Training: X-Ray  RSP | Passed | 0.0 | 9.00 |
+| 10/26/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP38273 | EDU: Vehicle  Trailer Driving | Instructed | 0.0 | 9.00 |
@@ -63,6 +65,7 @@
 | 9/25/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/25/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Passed | 0.0 | 8.00 |
+| 9/7/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/30/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/30/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |

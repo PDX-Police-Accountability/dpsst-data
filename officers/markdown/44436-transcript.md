@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/4/2023 | PDP25505 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/14/2022 | PDP03067 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/7/2022 | PDP35088 | EDU Orientation  GPS | Passed | 0.0 | 9.00 |
 | 12/6/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
@@ -47,6 +48,9 @@
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP39508 | EDU Weekly: Robot and Rigging Training | Passed | 0.0 | 9.00 |
 | 10/26/2022 | PDP10937 | EDU Weekly Training: X-Ray  RSP | Passed | 0.0 | 9.00 |
+| 10/26/2022 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 10/26/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 10/26/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP38273 | EDU: Vehicle  Trailer Driving | Passed | 0.0 | 9.00 |
 | 10/16/2022 | PDP32158 | 2022 Lead Awareness  Safety Trng for Instructors | Passed | 0.0 | 1.25 |
 | 10/16/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -64,6 +68,7 @@
 | 9/15/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/15/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/14/2022 | PDP24552 | EDU Training: PPE  Remote Rigging | Instructed | 0.0 | 6.00 |
+| 9/8/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Passed | 0.0 | 8.00 |
 | 8/31/2022 | PDP22945 | Tactical rigging, robot/bag attack, bomb suit | Passed | 0.0 | 9.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |

@@ -30,6 +30,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/15/2022
+  course: PDP30452
+  title: 2022-3 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/2/2022
   course: PDP44436
   title: 2022 Post Shooting Response
@@ -78,6 +90,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/12/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/12/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/6/2022
+  course: PDP29706
+  title: 2022-3 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/31/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

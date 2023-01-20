@@ -43,9 +43,13 @@
 | 11/27/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/27/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/23/2022 | PDP43118 | Weekly K-9 Training | Passed | 0.0 | 4.50 |
+| 11/23/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/16/2022 | PDP27539 | K-9 Training - Searches  Control Work | Instructed | 0.0 | 4.00 |
 | 11/15/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP26151 | K-9 Weekly: Policy Review  Training Tracking | Passed | 0.0 | 4.00 |
+| 11/9/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/9/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 11/9/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 11/2/2022 | PDP21315 | K-9 Weekly: Searches, Obedience, De-escalation | Instructed | 0.0 | 3.00 |
 | 11/1/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/26/2022 | PDP03949 | K9 De-escalation  Building Search Training | Instructed | 0.0 | 2.00 |

@@ -88,6 +88,7 @@
 | 4/13/2022 | F6R15850 | Heart Disease #1 Killer of Active  Retired Cops | Passed | 0.0 | 2.00 |
 | 4/13/2022 | F6R11911 | Leading During Unprecedented Times | Passed | 0.0 | 3.00 |
 | 2/10/2022 | BNP38713 | Mindfulness | Passed | 0.0 | 0.50 |
+| 2/10/2022 | BNP25765 | DUII/SFST Refresher | Passed | 0.0 | 4.00 |
 | 2/9/2022 | BNP40597 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
 | 1/14/2022 | F6M11688 | Escalation/De-escalation Trng Policy, Research | Passed | 0.0 | 4.00 |
 | 1/13/2022 | F6M27047 | Finding the Leader in You | Passed | 0.0 | 4.00 |

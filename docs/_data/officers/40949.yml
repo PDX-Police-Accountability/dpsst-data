@@ -93,6 +93,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/26/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/26/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/26/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/22/2022
   course: SAG10709
   title: Oregon DOJ Elder Abuse Conference
@@ -117,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/9/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/4/2022
   course: PDP28840
   title: 2022-3 CAO Legal Updates for 03/2022

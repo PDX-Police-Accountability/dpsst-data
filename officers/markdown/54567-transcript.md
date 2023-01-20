@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/13/2023 | MLP06012 | ORPAT | Instructed | 0.0 | 1.00 |
 | 12/21/2022 | MLP07375 | Maintaining A Drug-Free Workplace | Passed | 0.0 | 1.00 |
 | 12/20/2022 | F6R11172 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |
 | 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |

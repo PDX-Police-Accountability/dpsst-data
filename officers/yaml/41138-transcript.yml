@@ -66,6 +66,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/1/2022
+  course: PDP11588
+  title: 2022-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2022
+  course: PDP29912
+  title: 2022-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/1/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/18/2022
   course: PDP25844
   title: 'SERT Training: Iteration for test applicants'
@@ -156,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/4/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/22/2022
   course: PDP25459
   title: 'SERT: Breaching, HRT, Gas Familiarization'

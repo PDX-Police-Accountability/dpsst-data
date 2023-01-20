@@ -49,6 +49,8 @@
 | 12/23/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/17/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/17/2022 | PDP14670 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 12/17/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 12/17/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/16/2022 | PDP30795 | 2022-1- CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 12/16/2022 | PDP11101 | 2022-2- CAO Legal Updates for 02/2022 | Passed | 0.0 | 0.25 |
 | 12/16/2022 | PDP13345 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -64,6 +66,7 @@
 | 12/9/2022 | PDP19312 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 12/9/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/9/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 10/1/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/21/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/20/2022 | ICE06030 | Online Investigations for Law Enforcement | Passed | 0.0 | 16.00 |
 | 1/13/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

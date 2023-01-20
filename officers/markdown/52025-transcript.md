@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/4/2023 | PDP25505 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/28/2022 | PDP26451 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/26/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/26/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
@@ -60,10 +61,14 @@
 | 9/25/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/25/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 9/21/2022 | PDP16709 | EDU Training: Explosive Operations | Passed | 0.0 | 9.00 |
+| 9/15/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/14/2022 | PDP24552 | EDU Training: PPE  Remote Rigging | Passed | 0.0 | 6.00 |
 | 9/10/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/10/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Instructed | 0.0 | 8.00 |
+| 9/5/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 9/5/2022 | PDP14293 | 2022-3 Range Qualification Secondary FA (50 Rd) | Passed | 0.0 | 0.50 |
+| 9/5/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/31/2022 | PDP22945 | Tactical rigging, robot/bag attack, bomb suit | Instructed | 0.0 | 9.00 |
 | 8/30/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/24/2022 | PDP32535 | EDU Training: Rigging  Robot Operations | Passed | 0.0 | 9.00 |

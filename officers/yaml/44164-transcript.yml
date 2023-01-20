@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/19/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/15/2022
   course: PDP34848
   title: Patrol Procedures Satellite Instructor Training
@@ -111,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/9/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/10/2022
   course: PDP36211
   title: 2022 Crowd Management

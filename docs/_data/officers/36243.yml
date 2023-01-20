@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2023
+  course: ALP23148
+  title: Assisting Individuals   Group Crisis Intervention
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 1/5/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance
@@ -110,6 +116,12 @@ training_records:
 - date: 11/8/2022
   course: HBS43901
   title: IFAST In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/8/2022
+  course: HBS06104
+  title: EVO In-Service
   status: Passed
   score: '0.0'
   hours: '4.50'

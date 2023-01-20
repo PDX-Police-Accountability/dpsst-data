@@ -51,6 +51,7 @@
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |
 | 10/15/2022 | HBS41678 | Civility  Harassment Free Workplace | Instructed | 0.0 | 2.00 |
 | 10/14/2022 | HBS10447 | CONSIM | Passed | 0.0 | 3.00 |
+| 10/14/2022 | HBS09577 | EVO In-Service | Passed | 0.0 | 3.50 |
 | 9/14/2022 | ALP01096 | RITE Professional Workplace for Leaders | Passed | 0.0 | 8.00 |
 | 7/15/2022 | HBS00169 | Genentech scenario | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS41265 | Corporal Leadership Training | Instructed | 0.0 | 0.75 |

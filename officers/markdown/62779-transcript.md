@@ -56,6 +56,7 @@
 | 12/15/2022 | PDP03987 | HAZMAT/WMD Awareness  APR Program | Passed | 0.0 | 3.50 |
 | 12/12/2022 | PDP17554 | Firearms Training | Passed | 0.0 | 7.00 |
 | 12/9/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 11/7/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/13/2022 | REG12045 | INTOX 8000 (w/BP419) | Passed | 0.0 | 6.00 |
 | 8/11/2022 | PDP13201 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/11/2022 | PDP32900 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

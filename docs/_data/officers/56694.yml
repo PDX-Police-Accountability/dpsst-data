@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/17/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/28/2022
   course: PDP31722
   title: 2019 Leadership and Organizational Excellence PPT
@@ -60,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/10/2022
+  course: PDP32488
+  title: Police Jiu Jitsu Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/29/2022
   course: PDP36211
   title: 2022 Crowd Management

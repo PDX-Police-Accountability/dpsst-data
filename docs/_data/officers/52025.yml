@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/4/2023
+  course: PDP25505
+  title: EDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/28/2022
   course: PDP26451
   title: EDU Weekly Training
@@ -200,6 +206,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/15/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/14/2022
   course: PDP24552
   title: 'EDU Training: PPE  Remote Rigging'
@@ -224,6 +236,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 9/5/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/31/2022
   course: PDP22945
   title: Tactical rigging, robot/bag attack, bomb suit

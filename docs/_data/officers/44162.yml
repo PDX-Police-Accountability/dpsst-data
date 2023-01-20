@@ -92,6 +92,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/9/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/19/2022
   course: PDP37617
   title: 2022 CNT Crisis Negotiation Team Annual Training
@@ -164,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 9/20/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/17/2022
   course: PDP02516
   title: Crisis Negotiation Team Training

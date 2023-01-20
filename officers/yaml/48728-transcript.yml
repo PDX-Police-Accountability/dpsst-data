@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/28/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/13/2022
   course: PDP03449
   title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
@@ -82,6 +88,24 @@ training_records:
 - date: 11/29/2022
   course: PDP21461
   title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/29/2022
+  course: PDP29912
+  title: 2022-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/29/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/29/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
   status: Passed
   score: '0.0'
   hours: '0.25'

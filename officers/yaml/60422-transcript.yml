@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/30/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/14/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -126,6 +132,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/21/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/21/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/20/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner

@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/12/2023 | Parole  Probation Officer | Basic | App Recd |  |  | 9/28/2023 |
+| 1/18/2023 | Parole  Probation Officer | Basic | Granted | 1/18/2023 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -91,6 +91,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/27/2022
+  course: PDP11588
+  title: 2022-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/27/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/27/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/26/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/25/2022
   course: PDP38854
   title: 2022-3 CAO Legal Updates for 03/2022

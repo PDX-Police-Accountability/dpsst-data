@@ -156,12 +156,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 11/23/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/22/2022
   course: PDP41476
   title: Hazmat WMD Response Awareness
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/22/2022
+  course: PDP29706
+  title: 2022-3 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/21/2022
   course: PDP21360
   title: Firearms Training
@@ -174,6 +186,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 9/21/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/20/2022
   course: F6R07270
   title: DID-SFST (Hours included in Basic)

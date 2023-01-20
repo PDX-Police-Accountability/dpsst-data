@@ -84,6 +84,7 @@
 | 11/29/2022 | PDP09346 | UDAR Guide - Approving | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP26922 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP42408 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/24/2022 | PDP20341 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP30456 | 2021-12 TT Requesting an Emergency Ping of a Cell | Passed | 0.0 | 0.25 |
 | 10/24/2022 | PDP10134 | 2021-2 CAO Legal Updates for 02/2021 | Passed | 0.0 | 0.25 |

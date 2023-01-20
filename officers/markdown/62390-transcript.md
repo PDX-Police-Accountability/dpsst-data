@@ -35,6 +35,7 @@
 | 12/15/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 12/15/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/7/2022 | PDP29706 | 2022-3 Range Qualification Secondary FA (25 Round) | Passed | 0.0 | 0.50 |
 | 11/1/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -43,6 +44,7 @@
 | 10/31/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP00215 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP32811 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 9/25/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/30/2022 | PDP44383 | 2018 TOD 100% Collection  Submission Model Video | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP17329 | 2018-5 TT 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |

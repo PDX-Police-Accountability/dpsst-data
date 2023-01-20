@@ -177,12 +177,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 10/17/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/13/2022
   course: PDP37749
   title: 'SERT: Weapons Drills'
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 10/13/2022
+  course: PDP11588
+  title: 2022-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/6/2022
   course: PDP28840
   title: 2022-3 CAO Legal Updates for 03/2022
@@ -207,6 +219,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 9/29/2022
+  course: PDP29912
+  title: 2022-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/22/2022
   course: PDP25459
   title: 'SERT: Breaching, HRT, Gas Familiarization'

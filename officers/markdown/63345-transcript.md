@@ -39,6 +39,7 @@
 | 11/13/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/30/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
+| 10/24/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/23/2022 | PDP16370 | 2021 Language Access Utilizing Bilingual Bur Mmbrs | Passed | 0.0 | 0.25 |
 | 10/23/2022 | PDP05665 | 2021 Online In-Service Lang Access - Translation | Passed | 0.0 | 0.25 |
 | 10/23/2022 | PDP07027 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |

@@ -54,6 +54,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 11/17/2022
+  course: PDP30452
+  title: 2022-3 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/17/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/11/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -72,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/28/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/26/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training

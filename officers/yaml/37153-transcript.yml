@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/13/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/12/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -101,6 +107,18 @@ training_records:
 - date: 9/28/2022
   course: PDP39675
   title: DIR 1015.00, Less Lethal Weapons and Tools
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/20/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/20/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
   status: Passed
   score: '0.0'
   hours: '0.25'

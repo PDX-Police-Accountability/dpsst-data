@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/9/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -95,6 +101,24 @@ training_records:
 - date: 11/10/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/10/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/10/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
   status: Passed
   score: '0.0'
   hours: '0.25'

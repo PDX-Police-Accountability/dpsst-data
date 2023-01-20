@@ -96,6 +96,8 @@
 | 10/14/2022 | PDP36363 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 10/14/2022 | PDP28248 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/14/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
+| 10/10/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/23/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 7/14/2022 | F6R17303 | Firearms: Vehicle Close Quarters Battle/40mm | Passed | 0.0 | 3.00 |
 | 6/23/2022 | F6R34771 | Active Threat Response | Passed | 0.0 | 4.00 |
 | 6/19/2022 | F6R15275 | Active Threat Response/Tactical Medicine | Passed | 0.0 | 2.00 |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/4/2023 | PDP25505 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/29/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/29/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/29/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
@@ -52,6 +53,7 @@
 | 11/9/2022 | PDP39508 | EDU Weekly: Robot and Rigging Training | Instructed | 0.0 | 9.00 |
 | 11/2/2022 | PDP01355 | EDU weekly: Scenario Training | Passed | 0.0 | 9.00 |
 | 10/26/2022 | PDP10937 | EDU Weekly Training: X-Ray  RSP | Passed | 0.0 | 9.00 |
+| 10/26/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/25/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/19/2022 | PDP38273 | EDU: Vehicle  Trailer Driving | Passed | 0.0 | 9.00 |
 | 10/17/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -61,6 +63,7 @@
 | 10/5/2022 | PDP20728 | EDU X-Ray Training | Passed | 0.0 | 9.00 |
 | 9/28/2022 | PDP35307 | EDU: Individual Equipment Instruction | Passed | 0.0 | 9.00 |
 | 9/21/2022 | PDP16709 | EDU Training: Explosive Operations | Instructed | 0.0 | 9.00 |
+| 9/20/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/19/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/19/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/19/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |

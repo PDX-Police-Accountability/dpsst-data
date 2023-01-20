@@ -47,6 +47,7 @@
 | 12/1/2022 | PDP00123 | UDAR Guide - Coaches Pay | Passed | 0.0 | 0.25 |
 | 12/1/2022 | PDP14163 | UDAR Guide - Requesting | Passed | 0.0 | 0.25 |
 | 12/1/2022 | PDP21373 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 11/22/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/21/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/21/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/14/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |

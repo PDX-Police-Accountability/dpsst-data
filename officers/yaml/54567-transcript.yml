@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2023
+  course: MLP06012
+  title: ORPAT
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/21/2022
   course: MLP07375
   title: Maintaining A Drug-Free Workplace

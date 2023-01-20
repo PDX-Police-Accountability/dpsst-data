@@ -46,8 +46,13 @@
 | 11/12/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/12/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/12/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/11/2022 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/9/2022 | PDP26151 | K-9 Weekly: Policy Review  Training Tracking | Passed | 0.0 | 1.00 |
+| 11/9/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 11/9/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/9/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/26/2022 | PDP03949 | K9 De-escalation  Building Search Training | Passed | 0.0 | 2.00 |
+| 10/25/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/16/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 10/12/2022 | PDP42677 | K9 Training: Debriefs, De-escalation, Searches | Instructed | 0.0 | 2.00 |
@@ -285,10 +290,8 @@
 | 3/31/2020 | PDP07236 | 2020 Training InService Wellness Stress/Resilience | Passed | 0.0 | 1.50 |
 | 3/30/2020 | PDP07089 | 2019-12 City Attorney's Legal Updates for 12/2019 | Passed | 0.0 | 0.50 |
 | 3/30/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
-| 3/9/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
-| 2/27/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/27/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/27/2020 | PDP42566 | 2019-11 City Attorney's Office Legal Updates 11/19 | Passed | 0.0 | 0.25 |
 | 1/27/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |

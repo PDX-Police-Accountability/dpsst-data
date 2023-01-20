@@ -122,6 +122,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 11/22/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2022
+  course: PDP30452
+  title: 2022-3 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/13/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -164,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/3/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/20/2022
   course: PDP02219
   title: DIR 0850.20 Police Response to MH Crisis

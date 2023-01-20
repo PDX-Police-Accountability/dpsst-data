@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2022
+  course: TAP05357
+  title: LEXIPOL Daily Training Bulletins Jan-Dec 2022
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 12/21/2022
   course: TAP39372
   title: Oregon CIT Newsletter December 2022

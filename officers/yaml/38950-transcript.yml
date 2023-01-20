@@ -137,6 +137,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/14/2022
+  course: HBS09577
+  title: EVO In-Service
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 9/14/2022
   course: ALP01096
   title: RITE Professional Workplace for Leaders

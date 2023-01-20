@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 11/10/2022
+  course: HBS34152
+  title: EVO In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/13/2022
   course: HBS32629
   title: MFF APR Qualification

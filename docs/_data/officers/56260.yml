@@ -397,6 +397,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/10/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/23/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/14/2022
   course: F6R17303
   title: 'Firearms: Vehicle Close Quarters Battle/40mm'

@@ -26,7 +26,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/23/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 1/7/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/23/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 12/13/2022 | PDP18151 | 2020 TOD Shots Fired Incident Reporting (SFIR) | Passed | 0.0 | 0.25 |
 | 12/13/2022 | PDP15978 | 2021 Online In-Service Training Chicago Case Study | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP02712 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

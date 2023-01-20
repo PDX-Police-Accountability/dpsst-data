@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/13/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/13/2023 | MFP18742 | First Aid/Adult  Child CPR/AED/Naloxone Use | Passed | 0.0 | 2.25 |
 | 12/2/2022 | MFP25974 | TIU Updates  Forefeiture | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP40339 | LPR/FLOCK/Vigilant | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP13248 | Airway Circulatory Anatomy  Physiology | Passed | 0.0 | 2.00 |

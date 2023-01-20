@@ -60,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/19/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/11/2022
+  course: PDP29912
+  title: 2022-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/10/2022
   course: PDP33717
   title: 2022 Crowd Management

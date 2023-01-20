@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/4/2023 | PDP25505 | EDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 12/28/2022 | PDP26451 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/25/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/25/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
@@ -44,6 +45,9 @@
 | 11/23/2022 | PDP15520 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/17/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/17/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 11/17/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/17/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 11/16/2022 | PDP05111 | Weekly EDU: robots, rigging, glass door entry | Passed | 0.0 | 9.00 |
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/10/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
@@ -59,6 +63,7 @@
 | 9/15/2022 | PDP35078 | Hazmat/ WMD Awareness  APR Program | Instructed | 0.0 | 3.50 |
 | 9/14/2022 | PDP24552 | EDU Training: PPE  Remote Rigging | Passed | 0.0 | 6.00 |
 | 9/7/2022 | PDP26126 | EDU Training: Spartan, F6B, ICOR, Carbon Fire | Passed | 0.0 | 8.00 |
+| 9/5/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/1/2022 | PDP07595 | Hazmat/WMD Awareness  APR | Instructed | 0.0 | 1.50 |
 | 8/31/2022 | PDP22945 | Tactical rigging, robot/bag attack, bomb suit | Passed | 0.0 | 9.00 |
 | 8/26/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

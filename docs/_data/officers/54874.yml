@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/17/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/10/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -121,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/12/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/15/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories

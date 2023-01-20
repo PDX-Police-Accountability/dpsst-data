@@ -63,6 +63,8 @@
 | 10/15/2022 | HSU11555 | Instructor In Service Firearms | Instructed | 0.0 | 4.00 |
 | 10/11/2022 | PDP28842 | Firearms Training | Instructed | 0.0 | 3.00 |
 | 10/10/2022 | PDP05658 | Firearms Training | Instructed | 0.0 | 3.00 |
+| 10/5/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/3/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/2/2022 | PDP36883 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Instructed | 0.0 | 8.00 |

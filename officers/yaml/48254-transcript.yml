@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/3/2023
+  course: PDP29565
+  title: Alcohol use for personnel Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/3/2023
+  course: PDP44556
+  title: Sleep Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/18/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -66,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/16/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/26/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -96,6 +114,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 9/5/2022
+  course: PDP29912
+  title: 2022-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/22/2022
   course: PDP38585
   title: AXON CEW Annual Update

@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/19/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/12/2022
   course: PDP27396
   title: 2022-4 CAO Legal Updates for 04/2022
@@ -149,6 +155,18 @@ training_records:
 - date: 9/24/2022
   course: PDP32515
   title: DIR 0850.22 Police Response to MH Director Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/19/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/19/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
   status: Passed
   score: '0.0'
   hours: '0.25'

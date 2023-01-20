@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/14/2022
   course: PDP36927
   title: 2022-5 CAO Legal Updates for 05/2022
@@ -126,6 +132,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/12/2022
+  course: PDP29912
+  title: 2022-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/24/2022
   course: PDP38585
   title: AXON CEW Annual Update

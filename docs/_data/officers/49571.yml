@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/22/2022
+  course: PDP11588
+  title: 2022-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/17/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -108,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 9/12/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/27/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

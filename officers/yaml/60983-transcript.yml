@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/4/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/3/2022
   course: PDP10530
   title: DIR 850.22, 850.21, 850.25, 850.20 with KC
@@ -123,6 +129,18 @@ training_records:
 - date: 9/17/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/8/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/8/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -42,6 +42,8 @@
 | 11/16/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/16/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 10/25/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/17/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 10/17/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP37441 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP23799 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
@@ -73,6 +75,8 @@
 | 10/10/2022 | PDP28741 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP36363 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 10/10/2022 | PDP28248 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/5/2022 | PDP14293 | 2022-3 Range Qualification Secondary FA (50 Rd) | Passed | 0.0 | 0.50 |
+| 9/5/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/28/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |

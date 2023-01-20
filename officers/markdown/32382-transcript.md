@@ -47,6 +47,7 @@
 | 11/15/2022 | VND16788 | Ghost Guns/East Freight Case Review | Passed | 0.0 | 4.00 |
 | 11/15/2022 | VND14635 | Reframing Your Narrative/Appeals Process | Passed | 0.0 | 4.00 |
 | 11/10/2022 | HBS44714 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
+| 11/10/2022 | HBS34152 | EVO In-Service | Passed | 0.0 | 4.00 |
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |
 | 10/13/2022 | HBS44109 | Mobile Field Force- Drills | Instructed | 0.0 | 3.00 |
 | 10/12/2022 | HBS22790 | Mobile Field Force - Familiarization | Passed | 0.0 | 6.00 |

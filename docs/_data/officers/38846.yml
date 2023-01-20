@@ -86,6 +86,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/22/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/22/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/18/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -170,6 +182,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/23/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/21/2022
   course: PDP29000
   title: Crisis Negotiation Training

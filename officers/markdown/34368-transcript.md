@@ -65,6 +65,7 @@
 | 4/15/2022 | BNP25122 | Airway and Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 2/10/2022 | BNP15313 | Taser Policy and Transition | Passed | 0.0 | 1.50 |
 | 2/10/2022 | BNP38713 | Mindfulness | Passed | 0.0 | 0.50 |
+| 2/10/2022 | BNP25765 | DUII/SFST Refresher | Passed | 0.0 | 4.00 |
 | 11/30/2021 | BNP41469 | Harassment  Hostile Work Environment | Passed | 0.0 | 1.00 |
 | 11/16/2021 | F6E29888 | Adaptive Leadership | Passed | 0.0 | 0.50 |
 | 11/16/2021 | F6E05230 | Rifle Low Light | Passed | 0.0 | 1.00 |

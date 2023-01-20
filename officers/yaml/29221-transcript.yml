@@ -365,6 +365,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/10/2022
+  course: BNP25765
+  title: DUII/SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/9/2022
   course: BNP40597
   title: Taser Policy and Transition

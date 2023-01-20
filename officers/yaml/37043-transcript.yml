@@ -122,9 +122,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/11/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/6/2022
   course: PDP36211
   title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2022
+  course: PDP14293
+  title: 2022-3 Range Qualification Secondary FA (50 Rd)
   status: Passed
   score: '0.0'
   hours: '0.50'

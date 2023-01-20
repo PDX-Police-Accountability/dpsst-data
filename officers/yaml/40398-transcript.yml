@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/14/2023
+  course: BNS13564
+  title: Defensive Tactics Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/14/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -104,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/27/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/27/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/12/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -128,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 9/8/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/23/2022
   course: PDP38585
   title: AXON CEW Annual Update

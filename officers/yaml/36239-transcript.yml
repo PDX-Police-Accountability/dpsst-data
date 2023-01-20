@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/4/2023
+  course: PDP25505
+  title: EDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/12/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -122,6 +128,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/25/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/25/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/13/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -194,6 +212,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 9/9/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/8/2022
   course: PDP37114
   title: DIR 1010.00, Use of Force (effective 11/15/2022)

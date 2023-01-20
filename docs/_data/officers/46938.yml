@@ -67,6 +67,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/30/2022
+  course: PDP11588
+  title: 2022-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2022
+  course: PDP25823
+  title: 2022-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2022
+  course: PDP42069
+  title: 2022-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/16/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -103,6 +121,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/5/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/13/2022
   course: OCS39395
   title: Interview and Interrogation
@@ -259,12 +283,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/16/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/16/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP

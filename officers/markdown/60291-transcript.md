@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/8/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/5/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 11/5/2022 | PDP10129 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -60,6 +61,8 @@
 | 9/7/2022 | PDP40718 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 9/7/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 9/7/2022 | PDP02010 | DIR 640.38, Interacting w Members of the LGBTQ | Passed | 0.0 | 0.25 |
+| 9/2/2022 | PDP29706 | 2022-3 Range Qualification Secondary FA (25 Round) | Passed | 0.0 | 0.50 |
+| 9/2/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 1/26/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/26/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |

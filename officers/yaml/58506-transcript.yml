@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/4/2023
+  course: PDP11588
+  title: 2022-3 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/4/2023
+  course: PDP29912
+  title: 2022-3 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/18/2022
   course: PDP25844
   title: 'SERT Training: Iteration for test applicants'
@@ -78,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 9/8/2022
+  course: PDP11045
+  title: 2022-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/21/2022
   course: PDP37678
   title: SERT Firearms Training
