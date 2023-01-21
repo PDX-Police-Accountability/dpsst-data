@@ -87,6 +87,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/12/2023
+  course: EGP25860
+  title: PSRT/Health  Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/12/2023
+  course: EGP07612
+  title: Telephonic Search Warrants/Cell Phone Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/12/2023
+  course: EGP21672
+  title: Chief Briefing
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/12/2023
+  course: EGP13709
+  title: Homeless Strategy Update
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/12/2023
+  course: EGP17194
+  title: Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/12/2023
+  course: EGP03502
+  title: Respectful Work Environment
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/5/2022
   course: EGP31133
   title: Taser Recertification Course

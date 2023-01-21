@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/17/2023
+  course: MLP14431
+  title: Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/13/2023
   course: MLP06012
   title: ORPAT
@@ -204,6 +210,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 11/4/2021
+  course: MLP18309
+  title: ORPAT 2021
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/29/2021
   course: REG13223
   title: Handgun Instructor Development

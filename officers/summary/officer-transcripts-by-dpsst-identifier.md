@@ -1630,3 +1630,14 @@
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |
 | Milton, Llissel G. | 63598 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
 | Epton, Jason A. | 63601 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63601-transcript.md) - [yaml](../yaml/63601-transcript.yml) |
+| Vega Garduno, Adolfo | 63655 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63655-transcript.md) - [yaml](../yaml/63655-transcript.yml) |
+| Ricks, Adam W. | 63656 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63656-transcript.md) - [yaml](../yaml/63656-transcript.yml) |
+| Jenkins, Jacob A. | 63659 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63659-transcript.md) - [yaml](../yaml/63659-transcript.yml) |
+| Dahlgren, Angela D. | 63660 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63660-transcript.md) - [yaml](../yaml/63660-transcript.yml) |
+| Baker, Keenan R. | 63669 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63669-transcript.md) - [yaml](../yaml/63669-transcript.yml) |
+| Chong, Nicholas J. | 63677 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63677-transcript.md) - [yaml](../yaml/63677-transcript.yml) |
+| Buckingham, Alexander J. | 63678 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63678-transcript.md) - [yaml](../yaml/63678-transcript.yml) |
+| Buck, Daniel L. | 63719 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63719-transcript.md) - [yaml](../yaml/63719-transcript.yml) |
+| Contois, Matthew P. | 63722 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-16 | [md](../markdown/63722-transcript.md) - [yaml](../yaml/63722-transcript.yml) |
+| Kill, Nicholas W. | 63725 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63725-transcript.md) - [yaml](../yaml/63725-transcript.yml) |
+| Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |

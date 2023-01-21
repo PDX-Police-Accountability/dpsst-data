@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/3/2023 | PDP29565 | Alcohol use for personnel Training | Passed | 0.0 | 0.50 |
 | 1/3/2023 | PDP44556 | Sleep Training | Passed | 0.0 | 1.00 |
+| 1/3/2023 | PDP38753 | SFST Refresher Training | Passed | 0.0 | 2.25 |
 | 11/27/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/17/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

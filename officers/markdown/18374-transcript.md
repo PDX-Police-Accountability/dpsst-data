@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/17/2023 | BPT15402 | Behavioral Health APT In-Service Training | Passed | 0.0 | 7.00 |
 | 9/13/2019 | F6D09352 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 9/13/2019 | F6D26072 | Scenario Evaluator Instructor Development Course | Passed | 0.0 | 6.00 |
 | 7/25/2019 | F6D36380 | DPSST Behavior Health Instructor In-Service | Passed | 0.0 | 7.00 |

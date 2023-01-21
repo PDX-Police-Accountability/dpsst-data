@@ -41,7 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | LOP08258 | Threat of Harm vs Behavioral Safety Assessment | Passed | 0.0 | 0.50 |
 | 12/16/2022 | LOP13198 | Con-Sim training | Passed | 0.0 | 1.50 |
+| 12/14/2022 | LOP30035 | Legislative Update -SB1510 | Passed | 0.0 | 0.50 |
 | 12/1/2022 | LOP15466 | 40mm Less-Lethal Recertification | Passed | 0.0 | 4.00 |
 | 11/15/2022 | LOP10693 | CCDA Interfering with a Police Officer updates | Passed | 0.0 | 0.75 |
 | 11/6/2022 | LOP03609 | First Aid | Passed | 0.0 | 2.00 |

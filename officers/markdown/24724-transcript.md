@@ -46,6 +46,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 1/3/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2022 | FGP23575 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/22/2022 | FGP04006 | Active Shooter Refresher-PPT Only(0800-0900hrs) | Passed | 0.0 | 1.00 |
 | 12/22/2022 | FGP11503 | Firearms Training Drills and Qualifications | Passed | 0.0 | 2.25 |
 | 12/22/2022 | HBS39606 | Active Threat | Passed | 0.0 | 9.00 |

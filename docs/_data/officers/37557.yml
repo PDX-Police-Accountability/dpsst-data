@@ -75,12 +75,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2022
+  course: LOP08258
+  title: Threat of Harm vs Behavioral Safety Assessment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/16/2022
   course: LOP13198
   title: Con-Sim training
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/14/2022
+  course: LOP30035
+  title: Legislative Update -SB1510
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/1/2022
   course: LOP15466
   title: 40mm Less-Lethal Recertification

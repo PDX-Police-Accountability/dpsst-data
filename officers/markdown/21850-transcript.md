@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2022 | LOP30035 | Legislative Update -SB1510 | Passed | 0.0 | 0.50 |
 | 11/30/2022 | LOP11762 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 11/30/2022 | LOP03609 | First Aid | Passed | 0.0 | 2.00 |
 | 11/30/2022 | LOP10693 | CCDA Interfering with a Police Officer updates | Passed | 0.0 | 0.75 |

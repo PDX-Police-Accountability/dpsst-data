@@ -37,6 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2023 | EGP17194 | Internal Affairs | Passed | 0.0 | 2.00 |
+| 1/12/2023 | EGP25860 | PSRT/Health  Wellness | Passed | 0.0 | 2.00 |
+| 1/12/2023 | EGP03502 | Respectful Work Environment | Passed | 0.0 | 1.50 |
+| 1/12/2023 | EGP07612 | Telephonic Search Warrants/Cell Phone Case Law | Passed | 0.0 | 1.50 |
+| 1/12/2023 | EGP13709 | Homeless Strategy Update | Passed | 0.0 | 1.50 |
 | 12/15/2022 | EGP19742 | PVS-14 Overview/Scenarios - Firerms Skills | Passed | 0.0 | 15.00 |
 | 10/27/2022 | EGP31826 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 7.00 |
 | 10/27/2022 | EGP26840 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 8.00 |

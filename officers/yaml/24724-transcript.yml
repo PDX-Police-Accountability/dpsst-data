@@ -106,6 +106,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/31/2022
+  course: FGP23575
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/22/2022
   course: FGP04006
   title: Active Shooter Refresher-PPT Only(0800-0900hrs)

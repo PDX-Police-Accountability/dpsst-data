@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/17/2023 | BPT15402 | Behavioral Health APT In-Service Training | Passed | 0.0 | 7.00 |
 | 1/22/2020 | F6D36023 | Basic Failitator Development Course | Passed | 0.0 | 10.00 |
 | 1/22/2020 | F6D03104 | Basic Facilitator Development Course | Passed | 0.0 | 10.00 |
 | 12/14/2016 | PDP21724 | 2016 Crisis Negotiaton Team Training | Passed | 0.0 | 6.00 |

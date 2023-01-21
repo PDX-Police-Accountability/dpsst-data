@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/3/2023 | PDP29565 | Alcohol use for personnel Training | Passed | 0.0 | 0.50 |
 | 1/3/2023 | PDP44556 | Sleep Training | Passed | 0.0 | 1.00 |
+| 1/3/2023 | PDP38753 | SFST Refresher Training | Passed | 0.0 | 2.25 |
 | 12/28/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 12/28/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/16/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

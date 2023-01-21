@@ -42,6 +42,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2023 | EGP25860 | PSRT/Health  Wellness | Passed | 0.0 | 2.00 |
+| 1/12/2023 | EGP07612 | Telephonic Search Warrants/Cell Phone Case Law | Passed | 0.0 | 1.50 |
+| 1/12/2023 | EGP21672 | Chief Briefing | Passed | 0.0 | 0.50 |
+| 1/12/2023 | EGP13709 | Homeless Strategy Update | Passed | 0.0 | 1.50 |
+| 1/12/2023 | EGP17194 | Internal Affairs | Passed | 0.0 | 2.00 |
+| 1/12/2023 | EGP03502 | Respectful Work Environment | Passed | 0.0 | 1.50 |
 | 12/5/2022 | EGP31133 | Taser Recertification Course | Passed | 0.0 | 3.00 |
 | 11/11/2022 | EGP01973 | 2022 Sergeant Academy Training | Passed | 0.0 | 1.50 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

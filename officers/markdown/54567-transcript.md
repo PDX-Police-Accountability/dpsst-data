@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/17/2023 | MLP14431 | Handgun Qualification | Instructed | 0.0 | 4.00 |
 | 1/13/2023 | MLP06012 | ORPAT | Instructed | 0.0 | 1.00 |
 | 12/21/2022 | MLP07375 | Maintaining A Drug-Free Workplace | Passed | 0.0 | 1.00 |
 | 12/20/2022 | F6R11172 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |
@@ -60,6 +61,7 @@
 | 2/15/2022 | F6R42951 | Adult/Infant First Aid  CPR | Passed | 0.0 | 3.00 |
 | 2/1/2022 | MLP10358 | Firearms Quals | Passed | 0.0 | 2.00 |
 | 2/1/2022 | MLP10358 | Firearms Quals | Instructed | 0.0 | 2.00 |
+| 11/4/2021 | MLP18309 | ORPAT 2021 | Passed | 0.0 | 1.00 |
 | 10/29/2021 | REG13223 | Handgun Instructor Development | Passed | 0.0 | 40.00 |
 | 7/28/2021 | LOP25336 | Pursuit Intervention Technique Certification | Passed | 0.0 | 5.50 |
 | 5/27/2021 | MLP34298 | Pistol/Rifle Reloads | Passed | 0.0 | 4.00 |

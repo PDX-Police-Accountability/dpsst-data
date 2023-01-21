@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2023
+  course: GSP02168
+  title: 2022 NW Regional ICAC Conference
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/19/2023
   course: GSP19639
   title: CPR and First Aid
@@ -93,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/8/2022
+  course: GSP12057
+  title: Monthly MDT presentation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/16/2022
   course: SAG15279
   title: ICAC 101
@@ -141,6 +153,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 6/30/2022
+  course: GSP42471
+  title: Red Dot Instructor's Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 6/27/2022
   course: GSP08384
   title: 2022 Spring Rifle In Service
@@ -177,6 +195,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/20/2022
+  course: GSP37292
+  title: Interview and Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/12/2022
   course: GSP24622
   title: Airway Circulatory In Service

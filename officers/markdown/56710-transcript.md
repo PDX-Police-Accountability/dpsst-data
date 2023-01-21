@@ -40,6 +40,7 @@
 | 12/5/2022 | HBS39429 | 40MM Operators Course | Passed | 0.0 | 3.00 |
 | 12/1/2022 | VND09645 | Using the Dark Web in Sex Trafficking | Passed | 0.0 | 24.00 |
 | 11/21/2022 | HBS44783 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
+| 11/21/2022 | HBS38401 | EVO In-Service | Passed | 0.0 | 4.50 |
 | 10/20/2022 | REG09502 | Weapon Retention Standing/Ground | Passed | 0.0 | 1.00 |
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/6/2022 | REG00384 | Defending Strikes from the Ground | Passed | 0.0 | 1.00 |

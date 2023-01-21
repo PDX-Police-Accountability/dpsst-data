@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/3/2023 | PDP29565 | Alcohol use for personnel Training | Passed | 0.0 | 0.50 |
 | 1/3/2023 | PDP44556 | Sleep Training | Passed | 0.0 | 1.00 |
+| 1/3/2023 | PDP38753 | SFST Refresher Training | Passed | 0.0 | 2.25 |
 | 12/30/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |
 | 11/22/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

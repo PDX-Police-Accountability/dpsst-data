@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2022 | LOP13198 | Con-Sim training | Passed | 0.0 | 1.50 |
+| 12/13/2022 | LOP30035 | Legislative Update -SB1510 | Passed | 0.0 | 0.50 |
 | 12/1/2022 | LOP15466 | 40mm Less-Lethal Recertification | Passed | 0.0 | 4.00 |
 | 11/15/2022 | LOP10693 | CCDA Interfering with a Police Officer updates | Passed | 0.0 | 0.75 |
 | 11/14/2022 | SAG41241 | New Trends in Obtaining  Mapping Location Data | Passed | 0.0 | 8.00 |

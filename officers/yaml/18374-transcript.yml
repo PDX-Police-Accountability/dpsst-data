@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/17/2023
+  course: BPT15402
+  title: Behavioral Health APT In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 9/13/2019
   course: F6D09352
   title: Adult Learning Core

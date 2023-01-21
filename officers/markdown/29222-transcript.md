@@ -42,10 +42,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2023 | GSP02168 | 2022 NW Regional ICAC Conference | Passed | 0.0 | 40.00 |
 | 1/19/2023 | GSP19639 | CPR and First Aid | Passed | 0.0 | 8.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/2/2023 | GSP25014 | 2023 CPR and First Aid | Passed | 0.0 | 6.00 |
 | 12/15/2022 | GSP43316 | 2022 Ethics In Service | Passed | 0.0 | 1.00 |
+| 12/8/2022 | GSP12057 | Monthly MDT presentation | Passed | 0.0 | 1.50 |
 | 11/16/2022 | SAG15279 | ICAC 101 | Passed | 0.0 | 8.00 |
 | 11/3/2022 | GSP34382 | Officer Decision Making: Qualified Immunity | Passed | 0.0 | 1.50 |
 | 9/16/2022 | GSP27130 | The Internet: Investigations and Intelligence | Passed | 0.0 | 16.00 |
@@ -54,12 +56,14 @@
 | 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
 | 7/16/2022 | GSP08463 | 2022 Basic Rifle | Instructed | 0.0 | 10.00 |
+| 6/30/2022 | GSP42471 | Red Dot Instructor's Course | Passed | 0.0 | 30.00 |
 | 6/27/2022 | GSP08384 | 2022 Spring Rifle In Service | Instructed | 0.0 | 5.00 |
 | 6/24/2022 | GSP26062 | OneNote: Digital Case Management | Passed | 0.0 | 16.00 |
 | 6/20/2022 | GSP44643 | 2022 Spring Instructor Rifle In Service | Passed | 0.0 | 10.00 |
 | 5/23/2022 | GSP39138 | Karly's Law Training | Passed | 0.0 | 0.50 |
 | 5/4/2022 | GSP36533 | Surveillance  Technology | Passed | 0.0 | 4.00 |
 | 5/2/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
+| 4/20/2022 | GSP37292 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 4/12/2022 | GSP24622 | Airway Circulatory In Service | Passed | 0.0 | 2.00 |
 | 3/22/2022 | GSP17501 | TikTok for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/10/2022 | GSP09814 | Interview  Interrogation | Passed | 0.0 | 24.00 |

@@ -33,6 +33,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/3/2023 | PDP29565 | Alcohol use for personnel Training | Passed | 0.0 | 0.50 |
 | 1/3/2023 | PDP44556 | Sleep Training | Passed | 0.0 | 1.00 |
+| 1/3/2023 | PDP38753 | SFST Refresher Training | Passed | 0.0 | 2.25 |
 | 12/12/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/12/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/24/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
