@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/17/2023 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 9/20/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 2/20/2019 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 7/5/2012 | Portland Police Bureau | Promotion | Sergeant |  |  |
