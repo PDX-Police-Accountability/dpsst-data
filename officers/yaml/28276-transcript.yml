@@ -123,6 +123,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/19/2023
+  course: SVP14065
+  title: Axon Body Camera Training Power Point
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/28/2022
+  course: SVP08370
+  title: Active Shooter (Con Sim) Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/30/2022
   course: SVP08365
   title: Firearms Training

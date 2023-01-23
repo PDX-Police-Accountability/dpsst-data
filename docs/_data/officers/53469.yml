@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/21/2022
+  course: IFE44607
+  title: Responder Life - Quarterly Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/30/2022
   course: OCS15169
   title: Target zone transitions, marksmanship

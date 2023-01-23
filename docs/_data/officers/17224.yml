@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/16/2023
+  course: HSU30895
+  title: Red Dot Sight Course
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 12/7/2022
   course: 22-0028
   title: DPSST Middle Management F22 Equivalency

@@ -44,6 +44,9 @@
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |
 | 10/13/2022 | HBS44109 | Mobile Field Force- Drills | Passed | 0.0 | 6.00 |
 | 10/3/2022 | BVP31114 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 9/10/2022 | BVP22405 | Active Threat Response | Passed | 0.0 | 2.50 |
+| 9/10/2022 | BVP37092 | EVOC | Passed | 0.0 | 4.00 |
+| 9/10/2022 | BVP22172 | Weapon Retention and Access | Passed | 0.0 | 2.00 |
 | 6/16/2022 | BVP16514 | ACAP and Duty to Intervene CT Scenarios | Passed | 0.0 | 1.00 |
 | 6/16/2022 | BVP15467 | Handgun and Rifle Qual June IST 2022 | Passed | 0.0 | 4.00 |
 | 6/16/2022 | BVP28630 | Control Tactics June IST | Passed | 0.0 | 2.00 |

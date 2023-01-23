@@ -156,6 +156,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/21/2022
+  course: HSU40890
+  title: Serving While Hurting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/14/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

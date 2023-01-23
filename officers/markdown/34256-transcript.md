@@ -50,6 +50,10 @@
 | 12/20/2022 | BVP00434 | Ethics in Police Training | Passed | 0.0 | 1.00 |
 | 11/1/2022 | BVP33801 | Night Range Low Light Shooting Qual | Passed | 0.0 | 4.00 |
 | 10/3/2022 | BVP31114 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 9/12/2022 | BVP23296 | EVOC PIT Recert | Passed | 0.0 | 1.00 |
+| 9/10/2022 | BVP22405 | Active Threat Response | Passed | 0.0 | 2.50 |
+| 9/10/2022 | BVP37092 | EVOC | Passed | 0.0 | 4.00 |
+| 9/10/2022 | BVP22172 | Weapon Retention and Access | Passed | 0.0 | 2.00 |
 | 6/20/2022 | BVP16514 | ACAP and Duty to Intervene CT Scenarios | Passed | 0.0 | 1.00 |
 | 6/20/2022 | BVP15467 | Handgun and Rifle Qual June IST 2022 | Passed | 0.0 | 4.00 |
 | 6/20/2022 | BVP28630 | Control Tactics June IST | Passed | 0.0 | 2.00 |

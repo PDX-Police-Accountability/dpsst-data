@@ -79,6 +79,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/10/2022
+  course: BVP22405
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/10/2022
+  course: BVP37092
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/10/2022
+  course: BVP22172
+  title: Weapon Retention and Access
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/16/2022
   course: BVP16514
   title: ACAP and Duty to Intervene CT Scenarios

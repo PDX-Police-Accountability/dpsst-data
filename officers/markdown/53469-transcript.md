@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
+| 12/21/2022 | IFE44607 | Responder Life - Quarterly Training | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/7/2022 | OCS25794 | Less Lethal- 40 mm bean bag cert | Passed | 0.0 | 2.00 |
 | 10/24/2022 | OCS07603 | Domestic Violence Investigations | Passed | 0.0 | 0.50 |

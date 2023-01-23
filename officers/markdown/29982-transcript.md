@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/19/2023 | SVP14065 | Axon Body Camera Training Power Point | Passed | 0.0 | 1.00 |
+| 12/28/2022 | SVP08370 | Active Shooter (Con Sim) Training | Instructed | 0.0 | 4.00 |
 | 11/29/2022 | SPP07301 | Calm Training | Passed | 0.0 | 8.00 |
 | 11/16/2022 | SVP41956 | Firearms Training | Passed | 0.0 | 4.00 |
 | 10/12/2022 | BPT12447 | Building Search / Ballistic Shield | Passed | 0.0 | 4.00 |

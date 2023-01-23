@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/19/2023 | 2/1/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/19/2023 | RMP30458 | CPR and First AIDE | Passed | 0.0 | 6.00 |
 | 12/20/2022 | RMP35799 | Personal Wellness / Mental Health | Passed | 0.0 | 0.00 |
 | 12/19/2022 | RMP40854 | Mental Health  Peer Support | Passed | 0.0 | 1.00 |
 | 12/2/2022 | RMP18238 | Ground Defense Jiu Jitsu | Passed | 0.0 | 4.00 |

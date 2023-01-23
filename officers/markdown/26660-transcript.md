@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2023 | HSU30895 | Red Dot Sight Course | Instructed | 0.0 | 30.00 |
 | 11/19/2022 | HSU24957 | November 2022 Supplemental Range | Instructed | 0.0 | 4.00 |
 | 11/3/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/22/2022 | HSU04608 | Firearms Fall In-Service 2022 | Instructed | 0.0 | 5.00 |

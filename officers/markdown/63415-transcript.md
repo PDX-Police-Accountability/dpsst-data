@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Abbate, Heather D. |
+| name | Worthington, Heather D. |
 | dpsst_identifier | 63415 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/19/2023
+  course: RMP30458
+  title: CPR and First AIDE
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/20/2022
   course: RMP35799
   title: Personal Wellness / Mental Health
@@ -1135,6 +1141,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/19/2023
+  expiration_date: 2/1/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023

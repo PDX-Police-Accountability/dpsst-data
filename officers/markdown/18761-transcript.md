@@ -51,6 +51,7 @@
 | 9/28/2022 | F6R38139 | Understanding "Human Error" | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 9/28/2022 | F6R43838 | Critical Issue Briefings | Passed | 0.0 | 2.00 |
+| 4/21/2022 | HSU40890 | Serving While Hurting | Passed | 0.0 | 1.00 |
 | 4/14/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/9/2022 | HSU26856 | Defensive Tactics Spring In-Service 2022 | Passed | 0.0 | 2.50 |
 | 4/9/2022 | HSU28325 | Firearms Spring In-Service 2022 | Passed | 0.0 | 4.00 |
