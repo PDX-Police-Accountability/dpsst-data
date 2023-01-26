@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/23/2023 | NGP31772 | WRAP restraint / Pinning | Passed | 0.0 | 1.00 |
 | 12/15/2022 | NGP42688 | Hazmat (Police One Academy) | Passed | 0.0 | 2.00 |
 | 12/2/2022 | NGP14935 | SFST Refresher with Wet Lab | Passed | 0.0 | 3.50 |
 | 11/30/2022 | NGP36484 | Emotional Survival for Law Enforcement | Passed | 0.0 | 2.00 |
@@ -202,7 +203,7 @@
 | 3/9/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/5/2021 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 2/12/2021 | F6D21895 | SFST-DID (BP 404) | Passed | 0.0 | 0.00 |
-| 2/8/2021 | F6D05752 | Intoxilyzer 8000 Certification BP Class #BP404 | Passed | 0.0 | 0.00 |
+| 2/8/2021 | F6D05752 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 11/27/2020 | PDP13315 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 10/22/2020 | PDP27348 | ICS-100 Intro to the Incident Cmmnd Systm | Passed | 0.0 | 3.00 |
 | 10/22/2020 | PDP03163 | ICS-200 Bsc Incident Commnd Systm for Initial Resp | Passed | 0.0 | 3.00 |

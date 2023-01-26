@@ -30,7 +30,7 @@
 | 10/14/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/12/2022 | PDP17554 | Firearms Training | Passed | 0.0 | 7.00 |
 | 12/9/2022 | M10-22A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
-| 10/13/2022 | REG12045 | INTOX 8000 (w/BP419) | Passed | 0.0 | 6.00 |
+| 10/13/2022 | REG12045 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
 | 8/11/2022 | PDP05152 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/11/2022 | PDP11019 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 8/11/2022 | PDP38997 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

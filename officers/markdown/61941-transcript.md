@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/27/2021 | Police Officer | Basic | ReqCertExt |  |  | 11/27/2023 |
+| 1/24/2023 | Police Officer | Basic | App Recd |  |  | 11/27/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 8/16/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -27,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/27/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/23/2023 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 12/9/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/9/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
@@ -114,7 +115,7 @@
 | 3/21/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
 | 3/21/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 3/17/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 1/13/2022 | REG06674 | INTOX 8000 (hours included in Basic) | Passed | 0.0 | 8.00 |
+| 1/13/2022 | REG06674 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 8.00 |
 | 12/27/2021 | PDP27111 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 12/22/2021 | M10-21A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/29/2021 | PDP32847 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

@@ -29,15 +29,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 3/30/2022 | 3/30/2024 |
 | Certification Cards | First Aid and CPR | 3/30/2022 | 3/30/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/11/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/11/2021 |  |
 | Code of Ethics | Telecommunication Signed | 7/28/2019 |  |
-| Code of Ethics | Telecommunication Signed | 7/28/2019 |  |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -103,7 +97,7 @@
 | 4/30/2021 | OCS01197 | June Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/29/2021 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/6/2021 | F6D13699 | SFST-DID BP 406 | Passed | 0.0 | 0.00 |
-| 4/5/2021 | F6D23965 | Intoxilyzer (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 4/5/2021 | F6D23965 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 2/1/2021 | OCS31237 | Harassment training | Passed | 0.0 | 0.50 |
 | 1/20/2021 | OCS15621 | Ethics | Passed | 0.0 | 2.00 |
 | 12/30/2020 | OCS07314 | December firearms | Passed | 0.0 | 1.00 |

@@ -263,7 +263,7 @@
 | 11/20/2017 | PPB24741 | Radar Operator Course | Passed | 0.0 | 8.00 |
 | 10/31/2017 | PPB24791 | Intersection Clearing Refresher | Passed | 0.0 | 0.25 |
 | 10/27/2017 | PPB24725 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 6.00 |
-| 10/27/2017 | F6D36756 | Intoxilyzer 8000-BP384 (hours included in basic) | Passed | 0.0 | 0.00 |
+| 10/27/2017 | F6D36756 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 10/19/2017 | 17-0010 | SFST/DID- Training hours included in Basic | Passed | 0.0 | 0.00 |
 | 8/9/2017 | PPB24512 | Firearms - New Hires | Passed | 0.0 | 24.00 |
 | 8/3/2017 | PPB24562 | IS-00700 National Incident Management System | Passed | 0.0 | 3.00 |

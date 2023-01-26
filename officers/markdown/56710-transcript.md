@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2023 | REG41083 | Take Downs/Open Guard | Passed | 0.0 | 1.00 |
 | 12/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
 | 12/5/2022 | HBS39429 | 40MM Operators Course | Passed | 0.0 | 3.00 |
 | 12/1/2022 | VND09645 | Using the Dark Web in Sex Trafficking | Passed | 0.0 | 24.00 |

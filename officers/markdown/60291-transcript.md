@@ -217,7 +217,7 @@
 | 3/17/2020 | PDP17847 | 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines | Passed | 0.0 | 0.25 |
 | 3/16/2020 | PDP02471 | 2020 FTEP Post-DPSST Firearms | Passed | 0.0 | 6.00 |
 | 3/13/2020 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 2/17/2020 | F6D18392 | Intoxilyzer 8000 Certification BP Class #396 | Passed | 0.0 | 0.00 |
+| 2/17/2020 | F6D18392 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 2/17/2020 | PDP10933 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 11/29/2019 | PDP05742 | IS-241 Decision Making  Problem Solving IS-241b | Passed | 0.0 | 2.00 |
 | 11/27/2019 | PDP03445 | 2019 FTEP Radar LIDAR | Passed | 0.0 | 14.00 |

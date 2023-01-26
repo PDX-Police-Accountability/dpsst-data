@@ -326,7 +326,7 @@
 | 11/6/2018 | PDP21493 | 2018-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/2/2018 | 18-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
 | 9/19/2018 | F6W32272 | SFST/DID | Passed | 0.0 | 24.00 |
-| 9/17/2018 | F6W26467 | Intoxilyzer 8000 Certification BP Class #382 | Passed | 0.0 | 6.00 |
+| 9/17/2018 | F6W26467 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
 | 7/12/2018 | PDP40479 | IS-00100.c Intro to Incident Command Sys (ICS 100) | Passed | 0.0 | 3.00 |
 | 7/12/2018 | PDP19325 | IS-00700.b National Incident Managment Sys (NIMS) | Passed | 0.0 | 3.00 |
 | 7/11/2018 | PDP30615 | FTEP 2.02 Training | Passed | 0.0 | 2.00 |

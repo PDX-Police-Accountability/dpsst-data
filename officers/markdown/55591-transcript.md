@@ -310,7 +310,7 @@
 | 11/21/2018 | PDP13218 | Property and Evidence Handling | Passed | 0.0 | 6.25 |
 | 11/20/2018 | PDP13218 | Property and Evidence Handling | Passed | 0.0 | 6.00 |
 | 10/16/2018 | F6W40025 | SFST/DID | Passed | 0.0 | 24.00 |
-| 10/15/2018 | F6W29068 | Intoxilyzer 8000 Certification BP383 | Passed | 0.0 | 6.00 |
+| 10/15/2018 | F6W29068 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
 | 8/9/2018 | PDP40479 | IS-00100.c Intro to Incident Command Sys (ICS 100) | Passed | 0.0 | 3.00 |
 | 8/9/2018 | PDP19325 | IS-00700.b National Incident Managment Sys (NIMS) | Passed | 0.0 | 3.00 |
 | 7/31/2018 | PDP12795 | FTEP Policy and Procedure | Passed | 0.0 | 7.00 |

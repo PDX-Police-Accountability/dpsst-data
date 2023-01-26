@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | First Aid/CPR Required | 12/30/2022 | 12/30/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 12/30/2022 | 12/30/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Code of Ethics | Signed | 1/23/2006 |  |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -128,7 +123,7 @@
 | 8/18/2020 | F6D11452 | IS -700.b | Passed | 0.0 | 2.00 |
 | 8/14/2020 | F6D06547 | 2nd Trimester 2020 | Passed | 0.0 | 4.00 |
 | 7/31/2020 | F6D11013 | Bolo Wrap Familiarization | Passed | 0.0 | 0.50 |
-| 7/17/2020 | F6D23980 | Intox 800 / Implied Consent Update 7-1-20 | Passed | 0.0 | 1.00 |
+| 7/17/2020 | F6D23980 | Intox 8000 / Implied Consent Update | Passed | 0.0 | 1.00 |
 | 7/15/2020 | F6D04570 | Ethics Sworn Trn | Passed | 0.0 | 1.00 |
 | 7/1/2020 | F6D41380 | Contact and Cover - Get Real | Passed | 0.0 | 1.00 |
 | 5/31/2020 | F6D35702 | Get Real - Stop  Stick | Passed | 0.0 | 1.00 |

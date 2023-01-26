@@ -1049,4 +1049,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 3/18/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 9/15/2018
+  degree: No Degree
+  school: Chemeketa Community College
+  major: ''
+  hours: '21.0'
+- date: 9/15/2014
+  degree: No Degree
+  school: Clackamas Community College
+  major: ''
+  hours: '41.0'

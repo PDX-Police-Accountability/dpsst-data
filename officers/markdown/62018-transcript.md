@@ -138,7 +138,7 @@
 | 12/22/2021 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 11/17/2021 | BPT21848 | SFST/DID BP410 | Passed | 0.0 | 24.00 |
-| 10/28/2021 | F6F38551 | Intox 8000 Bp 410 | Passed | 0.0 | 0.00 |
+| 10/28/2021 | F6F38551 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 7/29/2021 | PDP40956 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 7/27/2021 | PDP21030 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/26/2021 | PDP42411 | 2021 FTEP Pre-DPSST Firearms | Passed | 0.0 | 19.00 |

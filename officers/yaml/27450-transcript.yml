@@ -1,2 +1,153 @@
 ---
-missing_transcript: true
+header_record:
+  name: Prouse, Lisa M.
+  dpsst_identifier: '27450'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 8/20/1992
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 6/8/2022
+  course: PDP21753
+  title: Peer Support Role in Member Serious Injury/LODD
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/9/2021
+  course: F6D10049
+  title: OSHA Part 4 Training Video
+  status: Passed
+  score: '0.0'
+  hours: '0.05'
+- date: 6/27/2018
+  course: PDP07308
+  title: Ofc Resiliency  Wellness - Healthy Career in LE
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/22/2018
+  course: PDP23751
+  title: 'Police Sergeants Academy: Disability Packets FLMA'
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/2/2018
+  course: PDP14332
+  title: 2018 EAP Spring Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/22/2014
+  course: 14-0426
+  title: Critical Incident Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2013
+  course: 13-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2010
+  course: 10-0438
+  title: Effective Mentoring
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/13/2009
+  course: '09-0702'
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/4/2009
+  course: '09-1116'
+  title: Legal/Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/30/2008
+  course: '08-0915'
+  title: Agency Policies / Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/5/2007
+  course: 07-0971
+  title: Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/3/2007
+  course: 07-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/20/2007
+  course: 07-0859
+  title: Emergency Preparedness and Response - Other
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/11/2007
+  course: 07-0949
+  title: AED
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/8/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/26/2006
+  course: 06-2300
+  title: Oregon Open Records Law
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/10/1993
+  course: 93K048
+  title: LEDS GENERAL LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+attribute_records: []
+education_records: []

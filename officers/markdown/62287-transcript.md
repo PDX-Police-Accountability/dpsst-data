@@ -99,7 +99,7 @@
 | 7/19/2022 | PDP30803 | General Firearms Training | Passed | 0.0 | 3.00 |
 | 7/18/2022 | PDP25507 | Post DPSST Firearms Training | Passed | 0.0 | 6.00 |
 | 7/14/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 5/19/2022 | BPT03405 | INTOX 8000  Hours included with Basic | Passed | 0.0 | 8.00 |
+| 5/19/2022 | BPT03405 | Intox 8000 - Hours included in Basic | Passed | 0.0 | 8.00 |
 | 3/17/2022 | PDP25043 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 3/17/2022 | PDP27509 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 3/17/2022 | PDP17881 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |

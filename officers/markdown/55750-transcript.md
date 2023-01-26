@@ -318,7 +318,7 @@
 | 3/19/2019 | PDP23421 | 2019-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/15/2019 | 18-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
 | 1/31/2019 | F6D25544 | SFID/DID BP385 | Passed | 0.0 | 0.00 |
-| 1/28/2019 | F6D19771 | Intoxilyzer 8000 Certification BP Class 385 | Passed | 0.0 | 0.00 |
+| 1/28/2019 | F6D19771 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 12/1/2018 | F6D30669 | RADAR/LIDAR- Practical | Passed | 0.0 | 16.00 |
 | 11/21/2018 | PDP13218 | Property and Evidence Handling | Passed | 0.0 | 6.25 |
 | 11/20/2018 | PDP13218 | Property and Evidence Handling | Passed | 0.0 | 6.00 |

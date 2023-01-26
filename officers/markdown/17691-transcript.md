@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2023 |
-| Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 1/15/2021 | 1/15/2023 |
-| Certification Cards | First Aid and CPR | 1/15/2021 | 1/15/2023 |
-| Code of Ethics | Signed | 3/29/2006 |  |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/20/2023 | MNS26072 | CPR Recertification | Passed | 0.0 | 4.00 |
 | 12/31/2022 | MNS39839 | YCSO Policy Review | Passed | 0.0 | 9.00 |
 | 12/30/2022 | MNS39830 | 2022 YCSO Ethics Review | Passed | 0.0 | 1.00 |
 | 12/19/2022 | MNS00996 | EVOC Refresher | Instructed | 0.0 | 20.00 |

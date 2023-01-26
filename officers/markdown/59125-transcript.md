@@ -317,7 +317,7 @@
 | 3/19/2019 | PDP23421 | 2019-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/15/2019 | 18-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
 | 1/31/2019 | F6D25544 | SFID/DID BP385 | Passed | 0.0 | 0.00 |
-| 1/28/2019 | F6D19771 | Intoxilyzer 8000 Certification BP Class 385 | Passed | 0.0 | 0.00 |
+| 1/28/2019 | F6D19771 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 10/29/2018 | F6D26218 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 10/4/2018 | PDP40479 | IS-00100.c Intro to Incident Command Sys (ICS 100) | Passed | 0.0 | 3.00 |
 | 10/4/2018 | PDP19325 | IS-00700.b National Incident Managment Sys (NIMS) | Passed | 0.0 | 3.00 |

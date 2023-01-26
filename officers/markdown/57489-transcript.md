@@ -333,7 +333,7 @@
 | 1/23/2018 | F6B29510 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 12/18/2017 | F6B34200 | Force on Force | Passed | 0.0 | 0.75 |
 | 12/8/2017 | 17-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
-| 10/27/2017 | F6D36756 | Intoxilyzer 8000-BP384 (hours included in basic) | Passed | 0.0 | 0.00 |
+| 10/27/2017 | F6D36756 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 10/11/2017 | F6C02396 | LIDAR Operator Course | Passed | 0.0 | 2.00 |
 | 9/25/2017 | F6A09808 | Radar Operator Course-Classroom Only | Passed | 0.0 | 6.00 |
 | 9/12/2017 | F6A09215 | Autism Training For LE | Passed | 0.0 | 0.50 |

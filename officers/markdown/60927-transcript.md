@@ -205,7 +205,7 @@
 | 1/8/2021 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 12/9/2020 | F6D19823 | DID BP402 | Passed | 0.0 | 0.00 |
 | 12/4/2020 | F6D35607 | SFST DID BP 402 | Passed | 0.0 | 0.00 |
-| 11/30/2020 | F6D37562 | Intoxilyzer 8000 - BP402 | Passed | 0.0 | 0.00 |
+| 11/30/2020 | F6D37562 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 11/27/2020 | PDP13315 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 9/17/2020 | F6D27654 | Firearms Fundamentals Training | Passed | 0.0 | 2.00 |
 | 8/26/2020 | PDP28941 | ICS-200 Bsc Incident Commnd Systm for Initial Resp | Passed | 0.0 | 3.00 |

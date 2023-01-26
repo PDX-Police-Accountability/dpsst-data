@@ -344,13 +344,13 @@ training_records:
   hours: '0.00'
 - date: 7/1/2022
   course: BPT36653
-  title: SFST/DID -Hours included with Basic
+  title: SFST/DID - Hours Included in Basic
   status: Passed
   score: '0.0'
   hours: '24.00'
 - date: 6/16/2022
   course: F6R07258
-  title: INTOX 8000 - Hours included in Basic
+  title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
   hours: '6.00'

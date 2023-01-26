@@ -32,6 +32,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 9/15/2018 | No Degree | Chemeketa Community College |  | 21.0 |
+| 9/15/2014 | No Degree | Clackamas Community College |  | 41.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

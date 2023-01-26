@@ -111,7 +111,7 @@
 | 10/19/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/15/2021 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 9/22/2021 | F6F20259 | SFST/ DUII Basic Police 409 | Passed | 0.0 | 24.00 |
-| 9/20/2021 | F6F15776 | Intox 8000 BP409 | Passed | 0.0 | 6.00 |
+| 9/20/2021 | F6F15776 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
 | 7/4/2021 | PDP10830 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 5/27/2021 | PDP26078 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
 | 5/27/2021 | PDP12431 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

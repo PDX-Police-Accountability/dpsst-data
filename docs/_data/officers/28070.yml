@@ -67,6 +67,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/20/2023
+  course: MNS26072
+  title: CPR Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/13/2023
+  course: TGP34570
+  title: 2022 July Patrol Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '7.25'
 - date: 1/5/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance
@@ -930,14 +942,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/20/2023
-  expiration_date: 1/20/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/20/2023
@@ -946,14 +950,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/21/2022
-  expiration_date: 2/29/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/21/2022
@@ -962,14 +958,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/16/2016
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/16/2016

@@ -28,7 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/23/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 12/15/2022 | REG06452 | INTOX 8000 - Hours included with Basic | Passed | 0.0 | 6.00 |
+| 12/15/2022 | REG06452 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
 | 10/10/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/2/2022 | PDP36883 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |

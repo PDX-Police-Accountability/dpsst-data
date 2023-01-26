@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/30/2023
+  agency: Hillsboro Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/23/2020
   agency: Portland Police Bureau
   action: Resigned
@@ -21,8 +27,21 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 1/30/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 7/30/2024
 training_records:
+- date: 6/12/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Pending
+  score: '0.0'
+  hours: '640.00'
 - date: 4/28/2020
   course: PDP03131
   title: DOJ Settlement Agreement

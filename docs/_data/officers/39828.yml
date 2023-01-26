@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 1/3/2023
+  course: PDP26948
+  title: DOJ Legal Updates for DUIIs Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/22/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -3966,14 +3972,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/24/2021
-  expiration_date: 5/24/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/24/2021
@@ -3982,14 +3980,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/12/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/12/2005

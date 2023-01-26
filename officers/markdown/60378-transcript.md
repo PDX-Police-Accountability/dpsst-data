@@ -29,7 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/29/2020 | PDP26575 | IS-240 Leadership and Influence (IS-00240.b) | Passed | 0.0 | 3.00 |
-| 2/17/2020 | F6D18392 | Intoxilyzer 8000 Certification BP Class #396 | Passed | 0.0 | 0.00 |
+| 2/17/2020 | F6D18392 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 11/29/2019 | PDP05742 | IS-241 Decision Making  Problem Solving IS-241b | Passed | 0.0 | 2.00 |
 | 11/27/2019 | PDP03445 | 2019 FTEP Radar LIDAR | Passed | 0.0 | 14.00 |
 | 11/26/2019 | BPT00016 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |

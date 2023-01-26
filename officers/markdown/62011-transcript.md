@@ -90,7 +90,7 @@
 | 3/21/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 3/17/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/1/2022 | F6R31745 | DID/SFST Hours Included in Basic | Passed | 0.0 | 24.00 |
-| 1/13/2022 | REG06674 | INTOX 8000 (hours included in Basic) | Passed | 0.0 | 8.00 |
+| 1/13/2022 | REG06674 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 8.00 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 11/14/2021 | PDP11991 | 2020-12 CAO Legal Updates for 12/2020-Updated | Passed | 0.0 | 0.25 |
 | 10/15/2021 | PDP24543 | 2020-11 City Attorney's Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |

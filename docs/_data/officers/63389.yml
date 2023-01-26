@@ -49,4 +49,9 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records: []
-education_records: []
+education_records:
+- date: 12/19/2022
+  degree: Masters Science
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '36.0'

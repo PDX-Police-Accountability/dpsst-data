@@ -199,7 +199,7 @@
 | 3/5/2021 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 2/12/2021 | F6D21895 | SFST-DID (BP 404) | Passed | 0.0 | 0.00 |
 | 2/9/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
-| 2/8/2021 | F6D05752 | Intoxilyzer 8000 Certification BP Class #BP404 | Passed | 0.0 | 0.00 |
+| 2/8/2021 | F6D05752 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 11/26/2020 | PDP13315 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 10/22/2020 | PDP27348 | ICS-100 Intro to the Incident Cmmnd Systm | Passed | 0.0 | 3.00 |
 | 10/22/2020 | PDP03163 | ICS-200 Bsc Incident Commnd Systm for Initial Resp | Passed | 0.0 | 3.00 |
