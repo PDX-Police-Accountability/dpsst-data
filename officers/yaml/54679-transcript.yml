@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2023
+  course: MLP10158
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/13/2023
   course: MLP06012
   title: ORPAT

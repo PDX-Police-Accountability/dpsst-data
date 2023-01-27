@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/13/2023
+  course: FGP27951
+  title: Advantages to Patrol Led Model - Drone Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/27/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

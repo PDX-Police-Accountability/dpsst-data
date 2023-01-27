@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/1/2022
+- status_date: 1/25/2023
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 1/25/2023
   expiration_date: ''
-  probation_date: 11/27/2023
+  probation_date: ''
 training_records:
 - date: 12/26/2022
   course: PDP11332
@@ -721,6 +721,14 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/7/2022

@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
 | 12/27/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 12/27/2022 | PDP42710 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 12/26/2022 | PDP44196 | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |

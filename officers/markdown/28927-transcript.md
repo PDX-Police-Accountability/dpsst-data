@@ -19,6 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 1/25/2023 | Regulatory Specialist | Supervisory | App Recd |  |  |  |
 | 2/15/2020 | Police Officer | Basic | Expired | 10/12/1994 |  |  |
 | 3/25/2019 | Regulatory Specialist | Basic | Granted | 3/25/2019 |  |  |
 ## Attributes

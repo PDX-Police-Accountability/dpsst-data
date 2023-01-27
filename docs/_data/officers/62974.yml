@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/29/2022
+  course: PDP03615
+  title: RADAR/ LiDAR Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 12/15/2022
   course: REG06452
   title: Intox 8000 - Hours Included in Basic

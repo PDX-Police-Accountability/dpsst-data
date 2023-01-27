@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/24/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 10/19/2021 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 10/1/2014 | Union County Sheriff's Office | Reclassed | Dpty Shrf |  |  |
 | 1/1/2014 | DPSST Use Only | InstrApp |  |  | AcadTrng |

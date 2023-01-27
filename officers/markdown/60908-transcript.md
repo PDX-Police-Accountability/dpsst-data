@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 7/12/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
+| 7/12/2022 | Gresham Police Department | Resigned | Police Off |  |  |
 | 4/13/2022 | Gresham Police Department | Hired | Police Off |  |  |
 | 12/7/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/23/2020 | Portland Police Bureau | Hired | Police Off |  |  |

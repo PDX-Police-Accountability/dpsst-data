@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/13/2023 | FGP27951 | Advantages to Patrol Led Model - Drone Operations | Passed | 0.0 | 1.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/21/2022 | FGP04780 | Use of Force Review | Passed | 0.0 | 0.75 |
 | 12/20/2022 | FGP41257 | Ethics Refresher | Passed | 0.0 | 1.00 |

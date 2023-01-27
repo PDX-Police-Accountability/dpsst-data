@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2023
+  course: MLP10158
+  title: Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/17/2023
   course: MLP14431
   title: Handgun Qualification

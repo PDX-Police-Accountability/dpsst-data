@@ -35,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/19/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
+| 1/19/2023 | RMP38527 | CPR and First AIDE | Passed | 0.0 | 4.00 |
+| 1/19/2023 | RMP09903 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 12/20/2022 | RMP35799 | Personal Wellness / Mental Health | Passed | 0.0 | 0.00 |
 | 12/19/2022 | RMP40854 | Mental Health  Peer Support | Passed | 0.0 | 1.00 |
 | 12/2/2022 | RMP18238 | Ground Defense Jiu Jitsu | Passed | 0.0 | 4.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/29/2022
+  course: PDP03615
+  title: RADAR/ LiDAR Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 12/26/2022
   course: PDP44196
   title: 2018 TOD 100% Collection  Submission Model

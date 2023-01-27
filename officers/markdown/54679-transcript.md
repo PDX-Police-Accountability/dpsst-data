@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | MLP10158 | Handgun Qualification | Passed | 0.0 | 1.00 |
 | 1/13/2023 | MLP06012 | ORPAT | Passed | 0.0 | 1.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/21/2022 | MLP07375 | Maintaining A Drug-Free Workplace | Passed | 0.0 | 1.00 |

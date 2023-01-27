@@ -34,6 +34,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 1/25/2023
+  certificate: Regulatory Specialist
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/15/2020
   certificate: Police Officer
   level: Basic

@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/14/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
 | 12/26/2022 | PDP44196 | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 12/26/2022 | PDP25475 | 2018-5 TT 100% Collection  Submission for FA | Passed | 0.0 | 0.25 |
 | 12/26/2022 | PDP10235 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |

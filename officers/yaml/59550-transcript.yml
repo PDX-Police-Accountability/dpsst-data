@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/19/2023
+  course: RMP38527
+  title: CPR and First AIDE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/19/2023
+  course: RMP09903
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/20/2022
   course: RMP35799
   title: Personal Wellness / Mental Health
