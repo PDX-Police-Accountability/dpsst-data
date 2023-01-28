@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | STP10888 | Night Shooting Qualification and Training | Passed | 0.0 | 4.00 |
+| 1/24/2023 | STP27924 | Reducing Lead Exposure From Firearms Training | Passed | 0.0 | 0.50 |
 | 12/8/2022 | STP10082 | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 12/6/2022 | STP42959 | Use of Force Training | Instructed | 0.0 | 8.00 |
 | 11/15/2022 | VND16788 | Ghost Guns/East Freight Case Review | Passed | 0.0 | 4.00 |

@@ -43,7 +43,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/21/2022 | OCS27159 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
+| 12/21/2022 | OCS24292 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
 | 12/20/2022 | OCS01142 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 12/20/2022 | OCS35939 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 12/19/2022 | OCS16646 | K9 Firearms - Marksmanship/Target Transitions | Instructed | 0.0 | 2.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/29/2022 | OCS30026 | Marksmanship, Target Zone Transitions | Instructed | 0.0 | 2.00 |
 | 11/29/2022 | OCS09948 | Marksmanship, Target Zone Transitions | Instructed | 0.0 | 2.00 |

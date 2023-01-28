@@ -2103,12 +2103,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 4/15/2018
-  course: PDP28689
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/15/2018
   course: PDP32318
   title: RRT In-Service Squad Time
   status: Passed

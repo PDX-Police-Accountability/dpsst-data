@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/24/2023
+- status_date: 1/26/2023
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 1/26/2023
   expiration_date: ''
-  probation_date: 11/27/2023
+  probation_date: ''
 training_records:
 - date: 1/23/2023
   course: E11PDP19
@@ -615,4 +615,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/2/2021
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/27/2021
+  expiration_date: 7/27/2023
 education_records: []

@@ -147,7 +147,6 @@
 | 7/1/2021 | PDP13164 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/29/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/27/2021 | PDP17071 | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 6/27/2021 | PDP12828 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/21/2021 | PDP35487 | 2021 Training Open Mat CTs | Passed | 0.0 | 1.00 |
 | 6/7/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 5/31/2021 | PDP13551 | 2021 Equity Training Series Racism Part 2 | Passed | 0.0 | 0.25 |
@@ -164,7 +163,6 @@
 | 4/13/2021 | PDP40867 | 2021 Hernandez Opinion/Order Don't Shoot PDX v PDX | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/30/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
-| 3/30/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP15120 | 2021-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 3/25/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/25/2021 | PDP13400 | 2021-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
@@ -233,7 +231,6 @@
 | 3/17/2020 | PDP30186 | 2020 InService Patrol Proc-Emergency Entry Class | Passed | 0.0 | 2.00 |
 | 3/16/2020 | PDP02471 | 2020 FTEP Post-DPSST Firearms | Instructed | 0.0 | 6.00 |
 | 3/10/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/10/2020 | PDP03147 | 2020 Sworn InService CTs-Clinch and Grappling | Passed | 0.0 | 2.00 |
@@ -241,7 +238,6 @@
 | 3/9/2020 | PDP18141 | Control Tactics Open Mat | Passed | 0.0 | 1.00 |
 | 3/9/2020 | PDP15195 | 2020 Sworn InService CTs-Thumb Pectoral Index | Passed | 0.0 | 2.00 |
 | 3/2/2020 | PDP15920 | Control Tactics Open Mat | Passed | 0.0 | 1.00 |
-| 2/27/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/27/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/27/2020 | PDP00208 | 2020 BHR 2.02 | Passed | 0.0 | 1.00 |
 | 2/27/2020 | PDP20622 | 2020 City Attorney InService LegalUpdate/PubRecord | Passed | 0.0 | 1.50 |

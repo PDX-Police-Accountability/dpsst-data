@@ -284,11 +284,9 @@
 | 3/25/2020 | PDP33088 | 2020 Training All Sworn In-Service Firearms-Day 1 | Passed | 0.0 | 2.00 |
 | 3/25/2020 | PDP37467 | 2020 Training All Sworn In-Service Firearms-Day 2 | Passed | 0.0 | 2.00 |
 | 3/9/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/9/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 2/19/2020 | PDP29197 | 2020 InService PVO - Stop Sticks | Passed | 0.0 | 2.00 |
 | 2/13/2020 | PDP09430 | Ethics Train-The-Trainer | Passed | 0.0 | 28.00 |
-| 2/3/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/3/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/22/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/13/2020 | PDP12740 | 2020 Training Sworn In-Service Ethics  Leadership | Passed | 0.0 | 1.00 |

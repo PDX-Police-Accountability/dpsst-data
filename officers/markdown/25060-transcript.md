@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | WBP01826 | Photo Enforcement Program/Technology Training | Passed | 0.0 | 1.00 |
 | 12/29/2022 | WBP23768 | Fourth Quarter Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 12/28/2022 | WBP31573 | Firearms Training - Rifle and Pistol | Instructed | 0.0 | 4.00 |
 | 12/15/2022 | WBP17233 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |

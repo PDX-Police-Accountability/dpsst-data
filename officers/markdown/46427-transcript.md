@@ -377,7 +377,6 @@
 | 5/15/2018 | PDP41145 | 2018-2 Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 4/15/2018 | PDP40007 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP08729 | RRT In-Service Force Reporting | Passed | 0.0 | 1.00 |
-| 4/15/2018 | PDP28689 | Undefined | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP32318 | RRT In-Service Squad Time | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP04872 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP34473 | RRT In-Service Specialty Care | Passed | 0.0 | 1.00 |

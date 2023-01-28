@@ -716,12 +716,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
-- date: 6/27/2021
-  course: PDP12828
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '1.75'
 - date: 6/21/2021
   course: PDP35487
   title: 2021 Training Open Mat CTs
@@ -815,12 +809,6 @@ training_records:
 - date: 3/30/2021
   course: PDP13849
   title: 2021-6 Tips  Techniques Crowd Control Vehicles
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/30/2021
-  course: PDP27594
-  title: Undefined
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -1233,12 +1221,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 3/10/2020
-  course: PDP18400
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/10/2020
   course: PDP09893
   title: 2020 SERT Patrol Armored Vehicle Use Video
   status: Passed
@@ -1280,12 +1262,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/27/2020
-  course: PDP18400
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
 - date: 2/27/2020
   course: PDP24494
   title: 2020 Chief's Office Uniform Guide Video

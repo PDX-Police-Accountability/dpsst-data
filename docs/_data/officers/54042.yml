@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/21/2022
+  agency: Clackamas County Sheriff's Office
+  action: LOA
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 5/3/2021
   agency: Clackamas County Sheriff's Office
   action: Hired

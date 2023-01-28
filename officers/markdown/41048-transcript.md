@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/23/2023 | West Linn Police Department | Hired | Sergeant |  |  |
 | 1/21/2021 | Portland Police Bureau | Resigned | Lieutenant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 9/27/2012 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -21,11 +22,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/21/2021 | Police Officer | Advanced | Lapsed | 9/4/2008 | 1/21/2026 |  |
-| 4/21/2021 | Police Officer | Basic | Lapsed | 7/29/2002 | 1/21/2026 |  |
-| 4/21/2021 | Police Officer | Intermediate | Lapsed | 7/29/2002 | 1/21/2026 |  |
-| 4/21/2021 | Police Officer | Management | Lapsed | 10/2/2020 | 1/21/2026 |  |
-| 4/21/2021 | Police Officer | Supervisory | Lapsed | 2/13/2014 | 1/21/2026 |  |
+| 1/23/2023 | Police Officer | Basic | Required |  |  | 7/23/2024 |
+| 4/21/2021 | Police Officer | Advanced | Lapsed | 9/4/2008 |  |  |
+| 4/21/2021 | Police Officer | Basic | Lapsed | 7/29/2002 |  |  |
+| 4/21/2021 | Police Officer | Intermediate | Lapsed | 7/29/2002 |  |  |
+| 4/21/2021 | Police Officer | Management | Lapsed | 10/2/2020 |  |  |
+| 4/21/2021 | Police Officer | Supervisory | Lapsed | 2/13/2014 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

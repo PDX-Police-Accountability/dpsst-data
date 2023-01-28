@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2023
+  course: WBP01826
+  title: Photo Enforcement Program/Technology Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/29/2022
   course: WBP23768
   title: Fourth Quarter Firearms Qualifications

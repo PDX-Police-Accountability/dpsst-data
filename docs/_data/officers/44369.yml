@@ -112,6 +112,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2023
+  course: STP10888
+  title: Night Shooting Qualification and Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/24/2023
+  course: STP27924
+  title: Reducing Lead Exposure From Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/8/2022
   course: STP10082
   title: Defensive Tactics

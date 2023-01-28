@@ -16,12 +16,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/24/2023 | Police Officer | Basic | App Recd |  |  | 11/27/2023 |
+| 1/26/2023 | Police Officer | Basic | Granted | 1/26/2023 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 8/16/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
+| Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
