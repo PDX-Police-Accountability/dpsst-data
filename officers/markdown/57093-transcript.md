@@ -24,9 +24,14 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | First Aid/CPR Required | 11/30/2022 | 11/30/2022 |
 | Maintenance Requirements | First Aid/CPR Required | 11/30/2022 | 11/30/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 8/16/2019 |  |
+| Code of Ethics | Law Enforcement Signed | 8/16/2019 |  |
+| Code of Ethics | Signed | 3/22/2017 |  |
 | Code of Ethics | Signed | 3/22/2017 |  |
 ## Education
 | date | degree | school | major | hours |
