@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 11/10/2022 | 11/30/2024 |
 | Certification Cards | First Aid | 11/10/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 10/27/2005 |  |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,7 +40,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2022 | LOP13198 | Con-Sim training | Passed | 0.0 | 1.50 |
 | 12/13/2022 | LOP30035 | Legislative Update -SB1510 | Passed | 0.0 | 0.50 |
+| 12/9/2022 | LOP42330 | Cellebrite Recertifications | Passed | 0.0 | 5.00 |
+| 12/8/2022 | LOP14674 | Best Practives in Mobile Device Investigations | Passed | 0.0 | 1.00 |
 | 12/1/2022 | LOP15466 | 40mm Less-Lethal Recertification | Passed | 0.0 | 4.00 |
+| 11/30/2022 | LOP22731 | Disaster Plan Training | Passed | 0.0 | 0.50 |
 | 11/15/2022 | LOP10693 | CCDA Interfering with a Police Officer updates | Passed | 0.0 | 0.75 |
 | 11/14/2022 | SAG41241 | New Trends in Obtaining  Mapping Location Data | Passed | 0.0 | 8.00 |
 | 11/10/2022 | LOP03609 | First Aid | Passed | 0.0 | 2.00 |
@@ -72,6 +70,7 @@
 | 1/7/2022 | LOP15769 | Introduction to Phone Repair | Passed | 0.0 | 36.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2021 | LOP33173 | Prison Rape Elimination Act (PREA) | Passed | 0.0 | 0.50 |
+| 12/31/2021 | LOP11930 | Annual Disaster Plan Training | Passed | 0.0 | 0.50 |
 | 12/22/2021 | LOP18537 | DTs Handcuffing Review | Passed | 0.0 | 0.75 |
 | 12/20/2021 | LOP25237 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
 | 12/16/2021 | LOP08051 | 40mm Less Lethal | Passed | 0.0 | 3.50 |

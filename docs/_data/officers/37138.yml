@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2023
+  course: REG44213
+  title: Adult Learning Core w/ Coaching Trailer
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 10/24/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training
@@ -4547,26 +4553,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/1/2021
   expiration_date: 7/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/1/2021
-  expiration_date: 7/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/16/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/16/2008

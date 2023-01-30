@@ -26,16 +26,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
-| Certification Cards | First Aid and CPR | 1/28/2022 | 1/1/2024 |
 | Certification Cards | First Aid and CPR | 1/28/2022 | 1/1/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Code of Ethics | Signed | 9/6/2002 |  |
 | Code of Ethics | Signed | 9/6/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/23/2023 | SAG06305 | Firearms training | Passed | 0.0 | 3.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2022 | SAG27460 | Bias Hotline / Sanctuary Promise Training | Passed | 0.0 | 1.00 |
 | 11/10/2022 | SAG29613 | 2022 Organized Crime Conference | Passed | 0.0 | 4.00 |

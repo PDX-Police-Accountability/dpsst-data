@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2023
+  course: CAP31130
+  title: Handgun Qualifications / Basic Shield Use
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/13/2022
   course: CAP03923
   title: Finding the Leader in You
@@ -1044,14 +1050,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/12/2022
-  expiration_date: 4/12/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/12/2022
@@ -1060,21 +1058,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/5/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/5/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/14/2016
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

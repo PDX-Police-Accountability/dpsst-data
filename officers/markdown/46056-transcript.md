@@ -25,11 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/12/2021 | 5/12/2023 |
-| Certification Cards | First Aid and CPR | 5/12/2021 | 5/12/2023 |
-| Code of Ethics | Signed | 12/14/2005 |  |
 | Code of Ethics | Signed | 12/14/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -226,7 +222,6 @@
 | 3/26/2020 | PDP07236 | 2020 Training InService Wellness Stress/Resilience | Passed | 0.0 | 1.50 |
 | 3/12/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/10/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/10/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 2/19/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |

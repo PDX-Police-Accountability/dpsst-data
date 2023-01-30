@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/30/2007 |  |
 | Code of Ethics | Signed | 8/30/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -81,7 +77,6 @@
 | 4/11/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
@@ -214,7 +209,6 @@
 | 4/4/2020 | PDP35084 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 4/4/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/8/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/8/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/8/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/25/2020 | PDP23987 | 2020 Threat Assess/Referral Program (TARP) App | Passed | 0.0 | 0.25 |
 | 1/25/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
@@ -360,7 +354,6 @@
 | 4/24/2018 | PDP18845 | Disposition of Records Upon Retirement | Passed | 0.0 | 0.25 |
 | 4/15/2018 | PDP40007 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP08729 | RRT In-Service Force Reporting | Passed | 0.0 | 1.00 |
-| 4/15/2018 | PDP28689 | Undefined | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP32318 | RRT In-Service Squad Time | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP04872 | RRT In-Service Comms | Passed | 0.0 | 1.00 |
 | 4/15/2018 | PDP34473 | RRT In-Service Specialty Care | Passed | 0.0 | 1.00 |

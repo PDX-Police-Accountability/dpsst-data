@@ -34,12 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Code of Ethics | Signed | 9/6/2011 |  |
 | Code of Ethics | Signed | 9/6/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
 | 1/10/2023 | CAP15716 | Tactical Duty Knife | Passed | 0.0 | 2.00 |
 | 12/14/2022 | CAP05723 | Night Shoot | Passed | 0.0 | 3.00 |
 | 11/30/2022 | CAP23455 | Interefering with a Police Officer Refresher | Passed | 0.0 | 0.50 |

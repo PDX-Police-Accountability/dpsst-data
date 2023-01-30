@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2022 | LOP22731 | Disaster Plan Training | Passed | 0.0 | 0.50 |
 | 10/12/2021 | LOP31272 | Karly's Law, Age Appropriate Interviewing | Passed | 0.0 | 1.00 |
 | 5/5/2021 | F6D27996 | Northwest Leadership Seminar | Passed | 0.0 | 4.00 |
 | 9/19/2020 | F6D28211 | Increasing Resiliency in Police and Emergency Per. | Passed | 0.0 | 6.00 |

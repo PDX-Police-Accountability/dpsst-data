@@ -2552,10 +2552,6 @@ attribute_records:
   value: Signed
   effective_date: 2/3/2011
   expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/3/2011
-  expiration_date: ''
 education_records:
 - date: 8/16/2008
   degree: Bachelor Science
