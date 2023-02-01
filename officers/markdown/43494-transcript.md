@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | HDA34164 | Excel for Public Safety | Passed | 0.0 | 16.00 |
 | 12/20/2022 | PDP11766 | FEMA IS-241.C | Passed | 0.0 | 2.00 |
 | 12/20/2022 | PDP29336 | FEMA IS-244.B | Passed | 0.0 | 4.00 |
 | 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |

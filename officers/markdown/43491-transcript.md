@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | HDA34164 | Excel for Public Safety | Passed | 0.0 | 16.00 |
 | 1/3/2023 | PDP29565 | Alcohol use for personnel Training | Passed | 0.0 | 0.50 |
 | 1/3/2023 | PDP44556 | Sleep Training | Passed | 0.0 | 1.00 |
 | 1/3/2023 | PDP38753 | SFST Refresher Training | Passed | 0.0 | 2.25 |

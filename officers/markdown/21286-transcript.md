@@ -42,8 +42,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2022 | BBP38345 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |
+| 12/30/2022 | BBP17426 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |
+| 11/30/2022 | BBP03258 | Domestic Violence/Lethality Assessment | Passed | 0.0 | 4.00 |
+| 10/30/2022 | BBP34683 | Dealing with the Mentally Ill | Passed | 0.0 | 2.00 |
+| 10/30/2022 | BBP36073 | Sexual Harassment | Passed | 0.0 | 1.00 |
 | 10/3/2022 | BNS36733 | Taser Instructor Course/Instructor Certification | Passed | 0.0 | 12.00 |
 | 9/30/2022 | BNS16975 | Understanding Implicit Bias | Passed | 0.0 | 0.50 |
+| 9/30/2022 | BBP29378 | Ethics | Passed | 0.0 | 1.00 |
+| 9/30/2022 | BBP31623 | Dealing with the Mentally Ill | Passed | 0.0 | 2.00 |
 | 6/7/2022 | BNS29465 | DUII / SFST Refresher | Passed | 0.0 | 4.00 |
 | 5/31/2022 | BBP06033 | Emergency Vehicle Operations | Passed | 0.0 | 3.00 |
 | 4/30/2022 | BBP44102 | Narcan and Opioid Exposure | Passed | 0.0 | 2.00 |

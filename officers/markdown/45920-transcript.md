@@ -82,7 +82,6 @@
 | 4/11/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/11/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/11/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/5/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/4/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
@@ -253,7 +252,6 @@
 | 3/27/2020 | PDP17847 | 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines | Passed | 0.0 | 0.25 |
 | 3/26/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/13/2020 | PDP30506 | Sergeant Mentorship Training | Passed | 0.0 | 18.00 |
-| 3/12/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/12/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/11/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
 | 3/11/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
@@ -485,11 +483,9 @@
 | 4/13/2017 | PPB24471 | Dir 635.20 Filming the Police In Service 2017 | Passed | 0.0 | 0.50 |
 | 4/13/2017 | PPB24473 | Taser Update - In Service 2017 | Passed | 0.0 | 1.50 |
 | 3/31/2017 | PPB24474 | Firearms - In Service 2017 | Instructed | 0.0 | 2.00 |
-| 3/21/2017 | PPB24474 | Firearms - In Service 2017 | Instructed | 0.0 | 2.00 |
 | 3/20/2017 | F6C26360 | Firearms-Post Academy | Instructed | 0.0 | 8.00 |
 | 3/20/2017 | PPB24576 | Firearms - Post Academy | Instructed | 0.0 | 8.00 |
 | 3/15/2017 | F6C22979 | CEW Instructor Course | Passed | 0.0 | 20.00 |
-| 3/15/2017 | PPB24580 | CEW Instructor Course | Passed | 0.0 | 20.00 |
 | 2/28/2017 | F6C41336 | Handgun Qualification-Secondary Sidearm | Passed | 0.0 | 0.50 |
 | 2/2/2017 | F6C18004 | Defending Against Lone Actor Extremist Events | Passed | 0.0 | 8.00 |
 | 1/31/2017 | F6C33183 | Handgun Qualification-Primary Sidearm | Passed | 0.0 | 0.50 |

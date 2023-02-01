@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2023
+  course: HDA34164
+  title: Excel for Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/8/2022
   course: PDP44436
   title: 2022 Post Shooting Response

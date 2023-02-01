@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | HDA34164 | Excel for Public Safety | Passed | 0.0 | 16.00 |
 | 11/30/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/30/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 11/28/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

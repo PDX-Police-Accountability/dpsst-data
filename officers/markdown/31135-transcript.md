@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | HDA34164 | Excel for Public Safety | Passed | 0.0 | 16.00 |
 | 1/30/2020 | PDP26146 | ICS-300 Intermediate ICS for Expanding Incidents | Passed | 0.0 | 22.50 |
 | 1/30/2020 | PDP36573 | ICS-300 Intermediate Incident Command System | Passed | 0.0 | 22.50 |
 | 12/7/2018 | PDP12580 | Transforming Trauma: How to work and sustain | Passed | 0.0 | 4.00 |

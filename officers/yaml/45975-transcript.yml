@@ -375,12 +375,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/4/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 4/4/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
   status: Passed
@@ -899,12 +893,6 @@ training_records:
 - date: 3/30/2021
   course: PDP13849
   title: 2021-6 Tips  Techniques Crowd Control Vehicles
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 3/30/2021
-  course: PDP27594
-  title: Undefined
   status: Passed
   score: '0.0'
   hours: '0.25'

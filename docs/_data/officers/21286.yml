@@ -87,6 +87,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2022
+  course: BBP38345
+  title: Suspects in Medical Distress
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/30/2022
+  course: BBP17426
+  title: Suspects in Medical Distress
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2022
+  course: BBP03258
+  title: Domestic Violence/Lethality Assessment
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2022
+  course: BBP34683
+  title: Dealing with the Mentally Ill
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/30/2022
+  course: BBP36073
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/3/2022
   course: BNS36733
   title: Taser Instructor Course/Instructor Certification
@@ -99,6 +129,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/30/2022
+  course: BBP29378
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2022
+  course: BBP31623
+  title: Dealing with the Mentally Ill
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/7/2022
   course: BNS29465
   title: DUII / SFST Refresher

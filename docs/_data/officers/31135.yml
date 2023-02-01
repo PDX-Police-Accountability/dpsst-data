@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/24/2023
+  course: HDA34164
+  title: Excel for Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/30/2020
   course: PDP26146
   title: ICS-300 Intermediate ICS for Expanding Incidents
