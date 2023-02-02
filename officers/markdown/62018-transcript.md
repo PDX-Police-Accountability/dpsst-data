@@ -91,7 +91,6 @@
 | 5/12/2022 | PDP38478 | 2022-1 Advanced Academy Firearms | Passed | 0.0 | 51.50 |
 | 5/12/2022 | PDP08215 | 2022-1 Advanced Academy Fitness | Passed | 0.0 | 5.00 |
 | 4/7/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
-| 4/7/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/7/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/17/2022 | PDP17341 | 2022-1 Adv Academy Active Bystandership for LE | Passed | 0.0 | 9.00 |

@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/18/2021 | 6/18/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 12/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
 | Code of Ethics | Telecommunication Signed | 1/13/2019 |  |
@@ -75,7 +74,6 @@
 | 4/28/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/28/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/28/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/15/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/7/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/20/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

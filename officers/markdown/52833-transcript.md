@@ -83,7 +83,6 @@
 | 4/14/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/7/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/6/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/4/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 3/11/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

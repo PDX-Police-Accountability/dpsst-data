@@ -102,12 +102,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 10/9/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 10/9/2023
   course: BPT25744
   title: Increasing Resiliency for First Responders
   status: Passed
@@ -2924,10 +2918,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/31/2021
-  expiration_date: 1/31/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/15/2002

@@ -65,6 +65,8 @@
 | 8/31/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
 | 8/18/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/10/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
 | 8/10/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/10/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
@@ -95,7 +97,6 @@
 | 4/27/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/27/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/27/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/9/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/9/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/9/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/1/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |

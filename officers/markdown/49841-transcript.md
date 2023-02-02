@@ -74,6 +74,7 @@
 | 8/16/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/9/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
 | 8/9/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 8/2/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 8/2/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 8/2/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
@@ -98,7 +99,6 @@
 | 4/15/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP44374 | SERT Weekly Inner Perimeter | Passed | 0.0 | 0.00 |
 | 4/10/2022 | PDP18510 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
-| 4/10/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/10/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/10/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/8/2022 | BNS36224 | Vehicle Assaults/Night Vision/SWAT | Passed | 0.0 | 8.00 |

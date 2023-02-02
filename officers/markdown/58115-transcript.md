@@ -80,7 +80,6 @@
 | 4/17/2022 | PDP19930 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 4/15/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/15/2022 | PDP04786 | 2021-9 CAO Legal Updates for September 2021 | Passed | 0.0 | 0.25 |
-| 4/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/15/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 4/15/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 4/15/2022 | PDP04117 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

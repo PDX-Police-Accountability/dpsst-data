@@ -272,6 +272,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/3/2022
+  course: PDP27561
+  title: K-9 Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/2/2022
   course: PDP38585
   title: AXON CEW Annual Update

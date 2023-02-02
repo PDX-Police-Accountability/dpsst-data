@@ -150,12 +150,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 5/19/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 5/4/2022
   course: F6R00500
   title: EVOC and PIT
@@ -171,12 +165,6 @@ training_records:
 - date: 4/30/2022
   course: OCS31075
   title: Weapons Disarm
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/30/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

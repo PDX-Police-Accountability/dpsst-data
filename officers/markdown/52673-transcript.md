@@ -76,7 +76,6 @@
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Instructed | 0.0 | 18.00 |
 | 5/26/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |
 | 5/11/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
-| 4/18/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/18/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/18/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/12/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

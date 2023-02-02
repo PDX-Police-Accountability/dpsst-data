@@ -65,7 +65,6 @@
 | 5/23/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/6/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/23/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
-| 4/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/16/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/1/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

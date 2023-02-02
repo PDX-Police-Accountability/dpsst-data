@@ -73,6 +73,7 @@
 | 8/7/2022 | PDP02670 | UDAR Guide - Requesting | Passed | 0.0 | 0.08 |
 | 8/3/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/3/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/3/2022 | PDP27561 | K-9 Weekly Training | Instructed | 0.0 | 3.00 |
 | 8/2/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 7/31/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/31/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/28/2023
+  course: MLP10091
+  title: OSHA slips trips and falls
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/24/2023
   course: MLP10158
   title: Handgun Qualification
@@ -510,6 +516,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/26/2020
+  course: F1535519
+  title: 'Pursuits: Legal Liability  Best Pract.'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/25/2020
   course: F6D37287
   title: Quarterly Firearms Refresher Training

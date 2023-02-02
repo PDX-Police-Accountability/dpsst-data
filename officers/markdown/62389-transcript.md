@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/20/2022 | Police Officer | Basic | Required |  |  | 7/20/2023 |
+| 1/20/2022 | Police Officer | Basic | ReqCertExt |  |  | 7/20/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -27,7 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/20/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/27/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 11/27/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/27/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

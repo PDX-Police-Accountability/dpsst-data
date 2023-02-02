@@ -59,7 +59,6 @@
 | 5/26/2022 | PDP15870 | 2022 In-Service Patrol Proc. Mental Hlth Scenarios | Passed | 0.0 | 0.50 |
 | 5/26/2022 | PDP38760 | 2022 In-Service Patrol Procedures - Principles | Passed | 0.0 | 1.50 |
 | 5/26/2022 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
-| 5/11/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 5/11/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 5/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/26/2023
+  course: MFN06674
+  title: 'Firearms: Fundamentals Review'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/10/2023
   course: M31-21A
   title: DPSST Parole and Probation Field Training Manual

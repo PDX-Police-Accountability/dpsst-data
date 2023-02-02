@@ -222,6 +222,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/11/2022
+  course: PDP44121
+  title: SERT Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/11/2022
+  course: PDP12824
+  title: SERT Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/10/2022
   course: PDP35733
   title: 2022 ABLE Performance Reviews for Supervisors Swrn
@@ -402,12 +414,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/9/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/9/2022
   course: PDP03522
   title: 2022 Queer Policy Pronouns

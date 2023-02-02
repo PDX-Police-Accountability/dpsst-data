@@ -71,11 +71,14 @@
 | 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
 | 9/15/2022 | PDP40505 | SERT: HRT Iterations | Passed | 0.0 | 9.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/6/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/6/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 8/6/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/6/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/6/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/28/2022 | PDP38616 | SERT Firearms Training - Weapon Drills | Passed | 0.0 | 9.00 |
 | 7/21/2022 | PDP37678 | SERT Firearms Training | Passed | 0.0 | 9.00 |
 | 7/16/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
@@ -97,7 +100,6 @@
 | 5/8/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/17/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/17/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/17/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/17/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/17/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/17/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |

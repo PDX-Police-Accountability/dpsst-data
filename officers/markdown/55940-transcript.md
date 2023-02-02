@@ -71,6 +71,9 @@
 | 9/2/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/28/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/29/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/24/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 7/24/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
@@ -94,7 +97,6 @@
 | 4/14/2022 | PDP44374 | SERT Weekly Inner Perimeter | Passed | 0.0 | 0.00 |
 | 4/9/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/9/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/9/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/9/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/9/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/9/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |

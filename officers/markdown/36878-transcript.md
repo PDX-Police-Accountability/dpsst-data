@@ -39,7 +39,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |
-| 12/20/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/20/2022 | BVP00434 | Ethics in Police Training | Passed | 0.0 | 1.00 |
 | 10/3/2022 | BVP31114 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 9/12/2022 | BVP23296 | EVOC PIT Recert | Passed | 0.0 | 1.00 |

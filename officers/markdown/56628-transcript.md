@@ -94,7 +94,6 @@
 | 5/11/2022 | PDP32959 | 2021-7 CAO Legal Updates for July 2021 | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP23227 | 2021-8 CAO Legal Updates for - August 2021 | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP04786 | 2021-9 CAO Legal Updates for September 2021 | Passed | 0.0 | 0.25 |
-| 5/11/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

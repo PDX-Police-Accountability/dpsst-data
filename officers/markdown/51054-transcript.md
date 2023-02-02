@@ -71,10 +71,13 @@
 | 9/16/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/5/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/9/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 8/9/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/9/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/9/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/28/2022 | PDP38616 | SERT Firearms Training - Weapon Drills | Passed | 0.0 | 9.00 |
 | 7/25/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/25/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
@@ -98,7 +101,6 @@
 | 4/29/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/29/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/19/2022 | PDP23266 | SERT breaching iteration training | Passed | 0.0 | 9.00 |
-| 4/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/31/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
 | 3/19/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

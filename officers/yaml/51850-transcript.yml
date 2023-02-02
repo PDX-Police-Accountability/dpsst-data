@@ -229,12 +229,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 6/25/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 6/25/2022
   course: PDP19930
   title: Annual CIU NTR Alarm Response Training
   status: Passed

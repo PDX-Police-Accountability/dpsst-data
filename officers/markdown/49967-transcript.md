@@ -29,10 +29,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/3/2023 | MNP10907 | Ethics training 2022 | Passed | 0.0 | 1.00 |
+| 1/3/2023 | MNP13259 | NAMI November 2022 | Passed | 0.0 | 0.50 |
 | 11/18/2022 | MNP43650 | Firearms Night Qualifications | Passed | 0.0 | 4.00 |
 | 11/18/2022 | MNP22038 | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 10/19/2022 | MNP00803 | NAMI October 2022 | Passed | 0.0 | 0.50 |
+| 10/19/2022 | MNP44591 | NAMI July 2022 | Passed | 0.0 | 0.50 |
+| 10/19/2022 | MNP13030 | NAMI September 2022 | Passed | 0.0 | 0.50 |
+| 10/19/2022 | MNP00132 | NAMI August 2022 | Passed | 0.0 | 0.50 |
+| 10/19/2022 | MNP24536 | NAMI June 2022 | Passed | 0.0 | 0.50 |
+| 5/6/2022 | MNP06124 | NAMI May 2022 | Passed | 0.0 | 0.50 |
 | 5/3/2022 | MNP24260 | S.T.O.P. data refresher training | Passed | 0.0 | 0.50 |
 | 4/22/2022 | MNP32496 | Trauma First Aid | Passed | 0.0 | 1.00 |
+| 4/20/2022 | MNP24654 | NAMI February 2022 | Passed | 0.0 | 0.50 |
+| 4/20/2022 | MNP32738 | NAMI April 2022 | Passed | 0.0 | 0.50 |
 | 4/15/2022 | MNP18880 | Airway and Circulatory Crisis Training | Passed | 0.0 | 2.00 |
 | 4/15/2022 | MNP18911 | First Aid / CPR Refresher | Passed | 0.0 | 1.00 |
 | 4/15/2022 | MNP01732 | Firearms training and qual handgun and long gun | Passed | 0.0 | 4.00 |

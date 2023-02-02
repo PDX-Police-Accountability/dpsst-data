@@ -276,6 +276,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/4/2022
+  course: PDP36541
+  title: SERT Weekly Training - Classroom
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/2/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -420,12 +426,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/10/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/10/2022
   course: PDP03522
   title: 2022 Queer Policy Pronouns

@@ -23,7 +23,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/3/2021 | 7/3/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 8/10/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 ## Education
@@ -71,7 +70,6 @@
 | 5/18/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 5/18/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 5/18/2022 | PDP21199 | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |
-| 4/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/15/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/9/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 4/1/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |

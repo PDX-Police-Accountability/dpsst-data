@@ -241,12 +241,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 5/5/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '18.00'
-- date: 5/5/2022
   course: PDP38948
   title: Advanced Shotgun Operator
   status: Passed
@@ -258,12 +252,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/17/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/17/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP

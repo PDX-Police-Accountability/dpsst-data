@@ -64,6 +64,7 @@
 | 9/15/2022 | PDP40505 | SERT: HRT Iterations | Passed | 0.0 | 9.00 |
 | 8/17/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/18/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/18/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/18/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |

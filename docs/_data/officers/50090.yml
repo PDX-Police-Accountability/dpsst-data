@@ -296,6 +296,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/3/2022
+  course: PDP27561
+  title: K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/30/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner

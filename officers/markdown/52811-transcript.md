@@ -45,7 +45,6 @@
 | 12/9/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 12/6/2022 | PDS31596 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/28/2022 | PDS16345 | Defensive Tactics | Instructed | 0.0 | 8.00 |
-| 11/28/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 11/21/2022 | PDS24055 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/21/2022 | PDS14257 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 11/15/2022 | PDS25191 | Defensive Tactics | Instructed | 0.0 | 8.00 |

@@ -26,7 +26,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 10/29/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -78,7 +77,6 @@
 | 4/21/2022 | PDP18311 | Emotional Survival for Female Enforcers | Passed | 0.0 | 8.00 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |

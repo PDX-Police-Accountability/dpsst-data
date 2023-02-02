@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/27/2023 | LOP44264 | SQLite Forensics with Belkasoft | Passed | 0.0 | 3.00 |
+| 1/20/2023 | LOP34640 | Firearms | Passed | 0.0 | 4.00 |
 | 12/16/2022 | LOP13198 | Con-Sim training | Passed | 0.0 | 1.50 |
 | 12/13/2022 | LOP30035 | Legislative Update -SB1510 | Passed | 0.0 | 0.50 |
 | 12/9/2022 | LOP42330 | Cellebrite Recertifications | Passed | 0.0 | 5.00 |

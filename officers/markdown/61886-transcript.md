@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/27/2023 | Police Officer | Basic | App Recd |  |  | 11/13/2023 |
+| 1/30/2023 | Police Officer | Basic | App InProc |  |  | 11/13/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -85,7 +85,6 @@
 | 4/30/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/30/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/30/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/17/2022 | PDP17341 | 2022-1 Adv Academy Active Bystandership for LE | Passed | 0.0 | 9.00 |
 | 3/14/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

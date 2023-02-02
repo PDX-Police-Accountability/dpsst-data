@@ -77,7 +77,6 @@
 | 4/3/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/2/2022 | PDP40258 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 4/1/2022 | PDP20628 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
-| 4/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/1/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/17/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/17/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

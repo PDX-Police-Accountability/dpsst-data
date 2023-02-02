@@ -58,6 +58,9 @@
 | 8/13/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/13/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/13/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 8/2/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/28/2022 | PDP38616 | SERT Firearms Training - Weapon Drills | Passed | 0.0 | 9.00 |
 | 7/21/2022 | PDP37678 | SERT Firearms Training | Passed | 0.0 | 9.00 |
@@ -78,7 +81,6 @@
 | 5/7/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/7/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 5/7/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/25/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/25/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/4/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/4/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

@@ -29,7 +29,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 10/19/2022 | 10/19/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/9/2021 | 7/9/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
@@ -48,7 +47,6 @@
 | 12/19/2022 | SAG27460 | Bias Hotline / Sanctuary Promise Training | Passed | 0.0 | 1.00 |
 | 12/7/2022 | SAG07247 | ICAC 101 | Passed | 0.0 | 8.00 |
 | 11/17/2022 | SAG34789 | Firearms training | Passed | 0.0 | 2.00 |
-| 11/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 11/16/2022 | SAG15279 | ICAC 101 | Passed | 0.0 | 8.00 |
 | 10/19/2022 | SAG13289 | CPR,AED,Basic First AID | Passed | 0.0 | 4.00 |
 | 10/18/2022 | SAG38557 | Night / low light shooting courses | Passed | 0.0 | 2.00 |
@@ -72,7 +70,6 @@
 | 5/5/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/5/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/21/2022 | PDP26141 | Extreme Close Quarters Concepts | Passed | 0.0 | 30.00 |
-| 4/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/23/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/23/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

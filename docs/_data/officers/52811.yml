@@ -99,12 +99,6 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
-- date: 11/28/2022
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '8.00'
 - date: 11/21/2022
   course: PDS24055
   title: Defensive Tactics

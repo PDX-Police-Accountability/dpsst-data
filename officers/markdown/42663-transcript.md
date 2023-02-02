@@ -76,6 +76,9 @@
 | 8/29/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
 | 8/16/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/24/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/24/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/24/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

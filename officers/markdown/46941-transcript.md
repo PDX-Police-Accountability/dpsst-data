@@ -66,6 +66,7 @@
 | 8/23/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/23/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/18/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 8/3/2022 | PDP27561 | K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 7/27/2022 | PDP35512 | K9 Weekly Training: Searches, obedience, OPCA | Instructed | 0.0 | 3.00 |
 | 7/27/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/27/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/30/2021 | Police Officer | Basic | Required |  |  | 3/30/2023 |
+| 9/30/2021 | Police Officer | Basic | ReqCertExt |  |  | 3/30/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -27,7 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/30/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/14/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/14/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/8/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
@@ -62,7 +62,6 @@
 | 6/29/2022 | PDP10330 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 6/29/2022 | PDP25991 | 2021 Language Access - Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP12532 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
-| 6/29/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 6/29/2022 | PDP00588 | Dir 660.10, Property and Evidence Procedures | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 6/28/2022 | PDP15251 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

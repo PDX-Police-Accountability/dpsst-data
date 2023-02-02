@@ -61,8 +61,11 @@
 | 9/18/2022 | PDP28363 | SERT: Emergency Medical Training Refresher | Passed | 0.0 | 1.50 |
 | 9/15/2022 | PDP40505 | SERT: HRT Iterations | Passed | 0.0 | 9.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/7/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/7/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/30/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/30/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/30/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
@@ -83,7 +86,6 @@
 | 6/5/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP06860 | OR Tactical Officer Assoc. Basic SWAT School | Passed | 0.0 | 40.00 |
 | 5/27/2022 | VND03045 | OTOA Basic SWAT Course | Passed | 0.0 | 40.00 |
-| 4/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/15/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/8/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/8/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

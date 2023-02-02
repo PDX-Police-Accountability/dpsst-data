@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/20/2023 | LOP34640 | Firearms | Passed | 0.0 | 4.00 |
 | 12/31/2022 | LOP08258 | Threat of Harm vs Behavioral Safety Assessment | Passed | 0.0 | 0.50 |
 | 12/16/2022 | LOP13198 | Con-Sim training | Passed | 0.0 | 1.50 |
 | 12/14/2022 | LOP30035 | Legislative Update -SB1510 | Passed | 0.0 | 0.50 |

@@ -32,7 +32,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/17/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 7.00 |
 | 1/17/2023 | BPT25732 | Behavioral Health APT In-Service Training | Passed | 0.0 | 7.00 |
 | 1/22/2020 | F6D36023 | Basic Failitator Development Course | Passed | 0.0 | 10.00 |
 | 1/22/2020 | F6D03104 | Basic Facilitator Development Course | Passed | 0.0 | 10.00 |

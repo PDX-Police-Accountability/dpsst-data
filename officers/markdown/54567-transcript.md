@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |
 | 1/24/2023 | MLP10158 | Handgun Qualification | Instructed | 0.0 | 3.00 |
 | 1/17/2023 | MLP14431 | Handgun Qualification | Instructed | 0.0 | 4.00 |
 | 1/13/2023 | MLP06012 | ORPAT | Instructed | 0.0 | 1.00 |
@@ -113,6 +114,7 @@
 | 2/19/2020 | HUP11989 | OSHA Bloodborne Pathlogens Training | Passed | 0.0 | 1.00 |
 | 2/19/2020 | HUP32108 | ASP Baton Training | Passed | 0.0 | 1.00 |
 | 2/10/2020 | MAP23038 | DPSST Ethics Bulletin 195 | Passed | 0.0 | 0.25 |
+| 1/26/2020 | F1535519 | Pursuits: Legal Liability  Best Pract. | Passed | 0.0 | 2.00 |
 | 1/25/2020 | F6D37287 | Quarterly Firearms Refresher Training | Passed | 0.0 | 4.00 |
 | 1/14/2020 | F6D17809 | Legal Updates | Passed | 0.0 | 1.25 |
 | 1/1/2020 | F6D33344 | Implied Consent Law Changes | Passed | 0.0 | 0.50 |

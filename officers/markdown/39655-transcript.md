@@ -73,6 +73,8 @@
 | 8/12/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/12/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/12/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/1/2022 | PDP28903 | Legal Updates | Instructed | 0.0 | 1.00 |
 | 7/25/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 7/25/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |

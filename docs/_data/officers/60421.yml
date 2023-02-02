@@ -99,12 +99,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 11/16/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 11/16/2022
   course: SAG15279
   title: ICAC 101
   status: Passed
@@ -242,12 +236,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
-- date: 4/13/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/13/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
@@ -1373,10 +1361,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 10/19/2022
   expiration_date: 10/19/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/9/2021

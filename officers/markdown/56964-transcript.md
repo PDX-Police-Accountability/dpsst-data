@@ -83,7 +83,6 @@
 | 4/5/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/5/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/1/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
-| 4/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/1/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/22/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/22/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

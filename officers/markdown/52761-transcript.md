@@ -58,7 +58,6 @@
 | 9/29/2022 | PDP25389 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
-| 9/28/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
 | 9/28/2022 | HDA23700 | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 24.00 |
 | 9/28/2022 | PDP31785 | Mobile Vehicle  Foot Surveillance Training | Passed | 0.0 | 24.00 |
 | 9/15/2022 | PDP16136 | Interview  Interrogation Training | Passed | 0.0 | 24.00 |

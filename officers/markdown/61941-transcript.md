@@ -67,7 +67,6 @@
 | 4/13/2022 | PDP18946 | 2021 Online In-Service Legal Updates | Passed | 0.0 | 0.75 |
 | 4/13/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/31/2022 | PDP19016 | FTEP Geography Training | Passed | 0.0 | 3.00 |
@@ -116,7 +115,7 @@
 | 3/21/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |
 | 3/21/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 3/17/2022 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 1/13/2022 | REG06674 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 8.00 |
+| 1/13/2022 | REG06674 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 12/27/2021 | PDP27111 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
 | 12/22/2021 | M10-21A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/29/2021 | PDP32847 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

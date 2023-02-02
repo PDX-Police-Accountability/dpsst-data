@@ -108,12 +108,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 12/20/2022
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/20/2022
   course: BVP00434
   title: Ethics in Police Training
   status: Passed

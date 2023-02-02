@@ -65,6 +65,8 @@
 | 8/17/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/9/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 8/9/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 8/9/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
@@ -85,7 +87,6 @@
 | 4/13/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/13/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/9/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/9/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/8/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/8/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

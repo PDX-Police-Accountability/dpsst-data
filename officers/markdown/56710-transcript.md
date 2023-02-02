@@ -26,7 +26,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
@@ -37,7 +36,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/12/2023 | REG41083 | Take Downs/Open Guard | Passed | 0.0 | 1.00 |
-| 12/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 9.50 |
 | 12/5/2022 | HBS39429 | 40MM Operators Course | Passed | 0.0 | 3.00 |
 | 12/1/2022 | VND09645 | Using the Dark Web in Sex Trafficking | Passed | 0.0 | 24.00 |
 | 11/21/2022 | HBS44783 | IFAST In-Service Training | Passed | 0.0 | 4.50 |

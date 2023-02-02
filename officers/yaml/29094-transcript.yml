@@ -309,6 +309,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/3/2022
+  course: PDP27561
+  title: K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/2/2022
   course: PDP11268
   title: IS-800 National Response Framework

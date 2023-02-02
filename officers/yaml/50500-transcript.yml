@@ -218,6 +218,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/4/2022
+  course: PDP36541
+  title: SERT Weekly Training - Classroom
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/18/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories

@@ -43,7 +43,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2022 | BBP38345 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |
-| 12/30/2022 | BBP17426 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |
 | 11/30/2022 | BBP03258 | Domestic Violence/Lethality Assessment | Passed | 0.0 | 4.00 |
 | 10/30/2022 | BBP34683 | Dealing with the Mentally Ill | Passed | 0.0 | 2.00 |
 | 10/30/2022 | BBP36073 | Sexual Harassment | Passed | 0.0 | 1.00 |

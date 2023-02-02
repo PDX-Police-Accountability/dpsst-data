@@ -34,7 +34,6 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

@@ -75,7 +75,6 @@
 | 4/23/2022 | PDP00300 | Dir 640.38, Intrctng w Members of the Queer Comm | Passed | 0.0 | 0.25 |
 | 4/22/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/18/2022 | PDP04117 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
-| 4/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/16/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/15/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 4/15/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

@@ -29,7 +29,6 @@
 | Code of Ethics | Law Enforcement Signed | 7/1/2022 |  |
 | Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
 | Code of Ethics | Signed | 5/15/2016 |  |
 ## Education
@@ -39,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |
 | 1/24/2023 | MLP10158 | Handgun Qualification | Passed | 0.0 | 1.00 |
 | 1/13/2023 | MLP06012 | ORPAT | Passed | 0.0 | 1.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

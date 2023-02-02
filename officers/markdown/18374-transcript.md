@@ -40,7 +40,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/17/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 7.00 |
 | 1/17/2023 | BPT25732 | Behavioral Health APT In-Service Training | Passed | 0.0 | 7.00 |
 | 9/13/2019 | F6D09352 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 9/13/2019 | F6D26072 | Scenario Evaluator Instructor Development Course | Passed | 0.0 | 6.00 |

@@ -74,8 +74,11 @@
 | 8/23/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/23/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/18/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/7/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/7/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/14/2022 | PDP04644 | Pedestrian/Vehicle Custody Missions etc. | Passed | 0.0 | 9.00 |
 | 7/13/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/13/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
@@ -103,7 +106,6 @@
 | 4/19/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/19/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/19/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/13/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/23/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/23/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

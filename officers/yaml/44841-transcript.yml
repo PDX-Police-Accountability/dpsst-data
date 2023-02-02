@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2023
+  course: LOP44264
+  title: SQLite Forensics with Belkasoft
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/20/2023
+  course: LOP34640
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/16/2022
   course: LOP13198
   title: Con-Sim training

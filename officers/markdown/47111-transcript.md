@@ -26,7 +26,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 2/22/2022 | 2/14/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 1/1/1950 |
 | Code of Ethics | Signed | 3/4/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,7 +36,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |
-| 12/20/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/20/2022 | BVP00434 | Ethics in Police Training | Passed | 0.0 | 1.00 |
 | 11/1/2022 | BVP33801 | Night Range Low Light Shooting Qual | Passed | 0.0 | 4.00 |
 | 10/3/2022 | BVP31114 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

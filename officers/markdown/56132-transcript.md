@@ -23,7 +23,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/15/2021 | 7/15/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Signed | 10/12/2017 |  |
 | Code of Ethics | Signed | 1/13/2017 |  |
 ## Education
@@ -70,6 +69,9 @@
 | 9/15/2022 | PDP40505 | SERT: HRT Iterations | Passed | 0.0 | 9.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
 | 8/16/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 7/28/2022 | PDP38616 | SERT Firearms Training - Weapon Drills | Passed | 0.0 | 9.00 |
 | 7/24/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/24/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
@@ -100,7 +102,6 @@
 | 4/24/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/24/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP44374 | SERT Weekly Inner Perimeter | Passed | 0.0 | 0.00 |
-| 4/14/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/14/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/6/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

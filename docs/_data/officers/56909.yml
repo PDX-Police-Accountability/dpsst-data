@@ -200,12 +200,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 7/22/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '40.00'
-- date: 7/22/2022
   course: HBS27202
   title: Practical Shooting Incident Reconstruction
   status: Passed

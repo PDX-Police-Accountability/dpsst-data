@@ -60,6 +60,9 @@
 | 9/14/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/14/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Passed | 0.0 | 9.00 |
 | 8/3/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 8/3/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/3/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
@@ -85,7 +88,6 @@
 | 4/26/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/26/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP44374 | SERT Weekly Inner Perimeter | Passed | 0.0 | 0.00 |
-| 4/8/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/8/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/1/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 3/8/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |

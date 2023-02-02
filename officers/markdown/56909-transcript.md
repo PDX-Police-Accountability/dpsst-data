@@ -60,7 +60,6 @@
 | 8/12/2022 | PDP08227 | Scientific Basics of Fingerprints | Passed | 0.0 | 25.50 |
 | 8/2/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/2/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
-| 7/22/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 7/22/2022 | HBS27202 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 7/22/2022 | PDP10537 | Practical Shooting Incident Reconstruction | Passed | 0.0 | 40.00 |
 | 7/13/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |

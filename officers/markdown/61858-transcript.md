@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2023 | MFN06674 | Firearms: Fundamentals Review | Passed | 0.0 | 3.00 |
 | 1/10/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |
 | 11/10/2022 | MFN32990 | Firearms: Multiple Threats, Movement, Barriers | Passed | 0.0 | 2.50 |
 | 10/28/2022 | 22-0005 | DPSST Basic Parole and Probation | Passed | 0.0 | 200.00 |

@@ -73,12 +73,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 8/1/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 8/1/2022
   course: OCS20390
   title: Ethics- online
   status: Passed
@@ -123,12 +117,6 @@ training_records:
 - date: 4/30/2022
   course: OCS31075
   title: Weapons Disarm
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 4/30/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '1.00'

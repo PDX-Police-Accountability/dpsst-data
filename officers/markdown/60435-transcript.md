@@ -67,10 +67,8 @@
 | 5/21/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/21/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/21/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
-| 5/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 18.00 |
 | 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Passed | 0.0 | 18.00 |
 | 5/3/2022 | PDP21199 | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |
-| 4/17/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/17/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/14/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/14/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

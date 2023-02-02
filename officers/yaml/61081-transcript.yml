@@ -247,12 +247,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/3/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 4/3/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
   status: Passed
@@ -1087,10 +1081,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 9/2/2021
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/12/2021
-  expiration_date: 1/12/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/31/2020

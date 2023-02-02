@@ -38,7 +38,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |
-| 12/20/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 12/20/2022 | BVP00434 | Ethics in Police Training | Passed | 0.0 | 1.00 |
 | 11/1/2022 | BVP33801 | Night Range Low Light Shooting Qual | Passed | 0.0 | 4.00 |
 | 10/13/2022 | HBS32629 | MFF APR Qualification | Passed | 0.0 | 0.75 |

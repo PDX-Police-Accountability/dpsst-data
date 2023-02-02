@@ -76,7 +76,6 @@
 | 5/6/2022 | PDP07172 | New Hire (pre DPSST) Firearms Training | Passed | 0.0 | 7.00 |
 | 5/5/2022 | PDP05994 | Pre Academy Firearms Training | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDP39381 | FTEP Pre-DPSST Firearms Training | Passed | 0.0 | 5.00 |
-| 4/20/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/20/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/19/2022 | PDP10330 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 4/19/2022 | PDP01050 | 2020-12 CAO Legal Updates for Dec 2020 - Updated | Passed | 0.0 | 0.25 |

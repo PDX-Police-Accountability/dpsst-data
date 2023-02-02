@@ -28,7 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,7 +42,6 @@
 | 9/16/2022 | HBS22182 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 9/16/2022 | HBS18311 | CONSIM | Passed | 0.0 | 3.00 |
 | 9/16/2022 | HBS22474 | EVO September 2022 In-Service | Passed | 0.0 | 4.00 |
-| 5/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 5/6/2022 | HBS21853 | IFAST In-Service | Passed | 0.0 | 4.00 |
 | 5/6/2022 | HBS40162 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
 | 5/6/2022 | HBS33685 | Airway Circulation Training | Passed | 0.0 | 2.00 |
@@ -53,7 +51,6 @@
 | 1/28/2022 | HBS44401 | Use of Force Updates | Passed | 0.0 | 1.50 |
 | 1/28/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/28/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
-| 1/27/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/27/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
 | 11/12/2021 | HBS07114 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/12/2021 | HBS34451 | Harassment/Civility | Passed | 0.0 | 1.50 |

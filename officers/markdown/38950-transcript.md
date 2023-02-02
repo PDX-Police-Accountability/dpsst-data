@@ -34,7 +34,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 1/31/2021 | 1/31/2023 |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,7 +44,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/9/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 10/9/2023 | BPT25744 | Increasing Resiliency for First Responders | Passed | 0.0 | 6.00 |
 | 11/29/2022 | HBS39105 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |

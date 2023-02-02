@@ -40,7 +40,6 @@
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/20/2022 | OCS20366 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
-| 8/1/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 8/1/2022 | OCS20390 | Ethics- online | Passed | 0.0 | 2.00 |
 | 8/1/2022 | OCS19556 | Ethics- online | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
@@ -49,7 +48,6 @@
 | 5/30/2022 | OCS17591 | Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
-| 4/30/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Passed | 0.0 | 32.00 |
 | 4/15/2022 | OCS02039 | Axon bodycam training | Passed | 0.0 | 2.00 |
 | 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |

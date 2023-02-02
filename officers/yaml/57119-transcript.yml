@@ -313,12 +313,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/6/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 4/6/2022
   course: PDP03522
   title: 2022 Queer Policy Pronouns
   status: Passed

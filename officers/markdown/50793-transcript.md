@@ -103,7 +103,6 @@
 | 4/6/2022 | PDP43299 | OR Police K9 Assoc.- Spring Seminar | Passed | 0.0 | 24.00 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
-| 4/6/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 3/16/2022 | PDP05402 | 2022-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

@@ -37,12 +37,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 1/19/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 1/19/2023
   course: RMP38527
   title: CPR and First AIDE
   status: Passed

@@ -278,6 +278,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/11/2022
+  course: PDP44121
+  title: SERT Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/11/2022
+  course: PDP12824
+  title: SERT Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/7/2022
   course: PDP16854
   title: 2022-2 Range Qualification Primary Firearm
@@ -290,6 +302,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/4/2022
+  course: PDP36541
+  title: SERT Weekly Training - Classroom
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/14/2022
   course: PDP04644
   title: Pedestrian/Vehicle Custody Missions etc.
@@ -452,12 +470,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/13/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/13/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP

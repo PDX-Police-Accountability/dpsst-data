@@ -78,6 +78,7 @@
 | 8/3/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/3/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/3/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/3/2022 | PDP27561 | K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 8/2/2022 | PDP11268 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 8/2/2022 | PDP10693 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 7/1/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |

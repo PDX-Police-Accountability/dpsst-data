@@ -219,6 +219,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/3/2022
+  course: PDP27561
+  title: K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/27/2022
   course: PDP35512
   title: 'K9 Weekly Training: Searches, obedience, OPCA'

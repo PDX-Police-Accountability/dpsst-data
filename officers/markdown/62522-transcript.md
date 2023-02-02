@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/20/2022 | Police Officer | Basic | Required |  |  | 7/20/2023 |
+| 1/20/2022 | Police Officer | Basic | ReqCertExt |  |  | 7/20/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -27,7 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/20/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/20/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/20/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/20/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

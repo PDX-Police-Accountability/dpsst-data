@@ -43,6 +43,9 @@
 | 8/26/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/26/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
+| 8/11/2022 | PDP44121 | SERT Weekly Training | Instructed | 0.0 | 9.00 |
+| 8/11/2022 | PDP12824 | SERT Weekly Training | Instructed | 0.0 | 9.00 |
+| 8/4/2022 | PDP36541 | SERT Weekly Training - Classroom | Instructed | 0.0 | 9.00 |
 | 8/2/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

@@ -183,12 +183,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 9/28/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
-- date: 9/28/2022
   course: HDA23700
   title: Mobile Vehicle and Foot Surveillance Training
   status: Passed

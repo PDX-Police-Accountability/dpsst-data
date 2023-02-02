@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/16/2021 | Police Officer | Basic | Required |  |  | 4/16/2023 |
+| 10/16/2021 | Police Officer | Basic | ReqCertExt |  |  | 4/16/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -27,7 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/16/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/29/2022 | PDP10601 | Getac S410 Docking Video | Passed | 0.0 | 0.25 |
 | 12/15/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/11/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

@@ -265,12 +265,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 4/9/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 4/9/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
   status: Passed
@@ -1409,10 +1403,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/7/2021
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/27/2020
@@ -1421,4 +1411,24 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/21/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/15/2010
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '98.0'
+- date: 12/15/2005
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '12.0'
+- date: 6/15/2005
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '38.0'
+- date: 6/15/2003
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '38.0'

@@ -69,7 +69,6 @@
 | 5/12/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/12/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
-| 5/5/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 18.00 |
 | 5/5/2022 | PDP38948 | Advanced Shotgun Operator | Passed | 0.0 | 18.00 |
 | 4/6/2022 | PDP00396 | 2022 Advanced Shotgun Operator PowerPoint | Passed | 0.0 | 0.75 |
 | 4/6/2022 | PDP21199 | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |

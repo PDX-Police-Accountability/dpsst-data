@@ -211,12 +211,6 @@ training_records:
   score: '0.0'
   hours: '3.00'
 - date: 2/11/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 2/11/2022
   course: BNP10798
   title: Taser Policy and Transition
   status: Passed

@@ -77,7 +77,6 @@
 | 4/28/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/28/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/28/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
-| 4/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 4/15/2022 | PDP44125 | 2022 HB 2513 Airways - ACAP | Passed | 0.0 | 2.00 |
 | 4/13/2022 | PDP00396 | 2022 Advanced Shotgun Operator PowerPoint | Passed | 0.0 | 0.75 |
 | 4/13/2022 | PDP21199 | 2022 Adv Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |

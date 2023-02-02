@@ -19,12 +19,12 @@ certification_records:
 - status_date: 9/30/2021
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: ReqCertExt
   certificate_date: ''
   expiration_date: ''
-  probation_date: 3/30/2023
+  probation_date: 3/30/2024
 training_records:
-- date: 3/30/2023
+- date: 3/30/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
   status: Required
@@ -234,12 +234,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
-- date: 6/29/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 6/29/2022
   course: PDP00588
   title: Dir 660.10, Property and Evidence Procedures

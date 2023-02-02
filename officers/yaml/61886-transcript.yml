@@ -16,10 +16,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/27/2023
+- status_date: 1/30/2023
   certificate: Police Officer
   level: Basic
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: 11/13/2023
@@ -360,12 +360,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 4/13/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/13/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP

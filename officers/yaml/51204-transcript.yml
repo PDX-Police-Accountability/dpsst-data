@@ -204,6 +204,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/11/2022
+  course: PDP12824
+  title: SERT Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/11/2022
+  course: PDP44121
+  title: SERT Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/7/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner
@@ -216,6 +228,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/4/2022
+  course: PDP36541
+  title: SERT Weekly Training - Classroom
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/30/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -336,12 +354,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
-- date: 4/15/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 4/15/2022
   course: PDP44125
   title: 2022 HB 2513 Airways - ACAP
