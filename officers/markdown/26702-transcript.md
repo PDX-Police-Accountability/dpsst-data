@@ -37,8 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/25/2023 | HBP07719 | Firearms and Use of Force | Passed | 0.0 | 5.00 |
-| 1/12/2023 | HBP03564 | Firearms Qualification | Passed | 0.0 | 1.00 |
+| 1/25/2023 | HBP07719 | Firearms and Use of Force | Passed | 0.0 | 0.00 |
+| 1/12/2023 | HBP03564 | Firearms Qualification | Passed | 0.0 | 0.00 |
+| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Completed | 0.0 | 6.00 |
 | 11/30/2022 | HBP39455 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

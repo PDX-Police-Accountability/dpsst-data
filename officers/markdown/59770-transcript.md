@@ -66,7 +66,6 @@
 | 8/17/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/11/2022 | PDP12824 | SERT Weekly Training | Passed | 0.0 | 9.00 |
-| 8/11/2022 | PDP44121 | SERT Weekly Training | Passed | 0.0 | 9.00 |
 | 8/9/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 8/9/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 8/9/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |

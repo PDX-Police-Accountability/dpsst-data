@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2023
+  course: WLP38420
+  title: Taser 7 New User Certification Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/27/2021
   course: MISCMAIN
   title: 2021 LE Leadership 3 Year Maintenance

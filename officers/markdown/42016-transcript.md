@@ -68,7 +68,6 @@
 | 9/15/2022 | PDP40505 | SERT: HRT Iterations | Instructed | 0.0 | 9.00 |
 | 8/31/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PDP13877 | SERT QRT Training | Passed | 0.0 | 9.00 |
-| 8/11/2022 | PDP44121 | SERT Weekly Training | Instructed | 0.0 | 9.00 |
 | 8/11/2022 | PDP12824 | SERT Weekly Training | Instructed | 0.0 | 9.00 |
 | 8/5/2022 | PDP39567 | NW Gang Invest. Association Training Conference | Passed | 0.0 | 20.00 |
 | 7/21/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |

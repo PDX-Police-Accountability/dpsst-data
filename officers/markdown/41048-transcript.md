@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2023 | WLP38420 | Taser 7 New User Certification Training | Passed | 0.0 | 4.00 |
 | 1/27/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 12/3/2020 | PDP37950 | 2020-7 City Attorney's Office Legal Updates 7/2020 | Passed | 0.0 | 0.72 |

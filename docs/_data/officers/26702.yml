@@ -67,13 +67,19 @@ training_records:
   title: Firearms and Use of Force
   status: Passed
   score: '0.0'
-  hours: '5.00'
+  hours: '0.00'
 - date: 1/12/2023
   course: HBP03564
   title: Firearms Qualification
   status: Passed
   score: '0.0'
-  hours: '1.00'
+  hours: '0.00'
+- date: 12/31/2022
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Completed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/30/2022
   course: HBP39455
   title: Ethics Training and Writing Assignment

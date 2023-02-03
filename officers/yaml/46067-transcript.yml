@@ -302,12 +302,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 8/11/2022
-  course: PDP44121
-  title: SERT Weekly Training
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 8/5/2022
   course: PDP09900
   title: NW Gang Invest. Training Symposium

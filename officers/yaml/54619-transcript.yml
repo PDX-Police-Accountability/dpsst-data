@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/31/2022
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Completed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/30/2022
   course: HBS02813
   title: Introductions to Threat Finance Analysis
@@ -1083,6 +1095,10 @@ training_records:
   hours: '3.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
@@ -1090,10 +1106,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/16/2022
   expiration_date: 3/16/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/11/2016
