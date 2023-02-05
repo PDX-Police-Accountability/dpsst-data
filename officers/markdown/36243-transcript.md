@@ -33,6 +33,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Certification Cards | CPR | 1/28/2023 | 1/31/2025 |
+| Certification Cards | CPR | 1/28/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |

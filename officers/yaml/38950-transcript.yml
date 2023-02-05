@@ -2910,6 +2910,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 1/31/2023
+  expiration_date: 1/31/2025
+- topic: Certification Cards
+  value: CPR
+  effective_date: 1/31/2023
+  expiration_date: 1/31/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

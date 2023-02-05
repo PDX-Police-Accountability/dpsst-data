@@ -22,7 +22,11 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 9/3/2021 |  |
+| Code of Ethics | Law Enforcement Signed | 9/3/2021 |  |
+| Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 ## Education
 | date | degree | school | major | hours |
