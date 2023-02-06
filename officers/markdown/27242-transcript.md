@@ -34,12 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 10/10/2007 |  |
 | Code of Ethics | Signed | 10/10/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +48,14 @@
 | 11/30/2022 | SPP07301 | Calm Training | Passed | 0.0 | 8.00 |
 | 11/7/2022 | SPP32167 | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 10/18/2022 | ICE29908 | Truthfulness Polcy | Passed | 0.0 | 1.00 |
+| 10/18/2022 | F1535596 | Employment Law Update | Passed | 0.0 | 1.25 |
+| 10/18/2022 | F1543821 | Evaulating, Leading and Fizing | Passed | 0.0 | 1.00 |
+| 10/18/2022 | F1540041 | Internal Affairs | Passed | 0.0 | 1.25 |
+| 10/18/2022 | F1514152 | Law Enforcement Responses | Passed | 0.0 | 1.25 |
+| 10/18/2022 | F1532061 | Mastering Internal Communication | Passed | 0.0 | 1.00 |
+| 10/18/2022 | F1508379 | Role of Police Leaders | Passed | 0.0 | 1.00 |
+| 10/18/2022 | F1528646 | The Chief's Circle | Passed | 0.0 | 1.25 |
+| 10/18/2022 | F1532334 | Using the Oath of Honor to Guide | Passed | 0.0 | 1.00 |
 | 9/29/2022 | F6R19836 | Cultivating an Inclusive, Ethical Culture | Passed | 0.0 | 3.50 |
 | 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
 | 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |
@@ -213,7 +217,7 @@
 | 1/17/2019 | F6D13603 | Policing with an Outward Mindset | Passed | 0.0 | 4.00 |
 | 1/17/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/17/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
-| 1/16/2019 | F6D41373 | "Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
+| 1/16/2019 | F6D41373 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
 | 12/3/2018 | PDP21493 | 2018-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/3/2018 | PDP02546 | 2018-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/3/2018 | PDP29426 | 2018-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

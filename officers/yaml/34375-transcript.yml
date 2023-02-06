@@ -830,7 +830,7 @@ training_records:
   hours: '4.00'
 - date: 1/16/2019
   course: F6D41373
-  title: "\"Leadership for a Lifetime: How the Past Prepares"
+  title: 'Leadership for a Lifetime: How the Past Prepares'
   status: Passed
   score: '0.0'
   hours: '3.50'
@@ -2381,18 +2381,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/18/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/18/2022
-  expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
@@ -2405,14 +2393,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/3/2021
   expiration_date: 2/3/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/3/2021
-  expiration_date: 2/3/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/24/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/24/2002

@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/7/2022 | 4/7/2024 |
-| Certification Cards | First Aid and CPR | 4/7/2022 | 4/7/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -379,7 +375,7 @@
 | 2/22/1993 | 93J010 | INTOXILYZER 5000 | Passed | 0.0 | 2.00 |
 | 12/7/1992 | 92J100 | GANG ID/DOCUMENTATION FOR STREET OFFICER | Passed | 0.0 | 3.00 |
 | 8/11/1992 | 92K144 | LEDS MANUAL-INTRODUCTORY LEVEL | Passed | 0.0 | 10.00 |
-| 6/11/1992 | 92N022 | "COP TALK" ART OF TACTICAL VERBAL COMMUN | Passed | 0.0 | 7.00 |
+| 6/11/1992 | 92N022 | COP TALK ART OF TACTICAL VERBAL COMMUN | Passed | 0.0 | 7.00 |
 | 4/29/1992 | 92H009 | INSTRUCTOR DEVELPMT/SAFETY BELT ENFORMT | Passed | 0.0 | 4.00 |
 | 2/20/1992 | 92N002 | STREET DRUGS:  ID, PACKAGING, USE/INFLUE | Passed | 0.0 | 8.00 |
 | 2/19/1992 | 92U001 | Approved In-State Training | Passed | 0.0 | 21.00 |

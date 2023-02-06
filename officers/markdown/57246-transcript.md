@@ -25,15 +25,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
-| Code of Ethics | Signed | 6/14/2017 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -56,7 +50,7 @@
 | 10/27/2022 | HBN12924 | Search and Seizure Course - 4 | Passed | 0.0 | 6.00 |
 | 10/19/2022 | HBN28748 | Ethics and Personal Decision Making | Passed | 0.0 | 2.00 |
 | 10/4/2022 | HBN07766 | Suicide Prevention and Intervention | Passed | 0.0 | 1.00 |
-| 9/27/2022 | HBN03095 | "988 and the Future of Crisis Response" | Passed | 0.0 | 1.00 |
+| 9/27/2022 | HBN03095 | 988 and the Future of Crisis Response | Passed | 0.0 | 1.00 |
 | 9/5/2022 | HBN10767 | Airway Circulatory Anatomy and Physiology (ACAP) | Passed | 0.0 | 2.00 |
 | 7/14/2022 | HBN26855 | Survival Skills - Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/29/2022 | HBN32368 | Officer Safety / Field Work Training and Scenarios | Passed | 0.0 | 6.00 |

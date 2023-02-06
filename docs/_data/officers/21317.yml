@@ -111,6 +111,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/11/2023
+  course: HBS06622
+  title: DEI Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2023
+  course: HBS04569
+  title: De-Escalation Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/4/2022
   course: HBS21565
   title: Civility  Harassment Free Workplace

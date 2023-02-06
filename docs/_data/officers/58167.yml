@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/14/2022
+  course: PDP23611
+  title: Interview  Interrogation Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 11/28/2022
   course: PDP15523
   title: 2022-5 CAO Legal Updates for 05/2022
@@ -78,6 +84,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/27/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/27/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/27/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/27/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/27/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/19/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -2007,18 +2043,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/15/2021
-  expiration_date: 6/15/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/15/2021
@@ -2026,14 +2050,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/30/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/30/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/22/2018
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

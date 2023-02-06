@@ -4,7 +4,7 @@
 | name | Albert, Steven G. |
 | dpsst_identifier | 29707 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/16/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/12/1999 | Oregon State Police | Resigned | Dispatcher |  |  |
 | 2/14/1994 | Oregon State Police | Hired | Dispatcher |  |  |
@@ -20,12 +21,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/8/2001 | Police Officer | Advanced | Granted | 3/8/2001 |  |  |
-| 3/8/2001 | Police Officer | Intermediate | Granted | 3/8/2001 |  |  |
-| 3/13/2000 | Police Officer | Basic | Granted | 3/13/2000 |  |  |
-| 2/12/2000 | Telecommunicator | Advanced | Lapsed | 4/4/1997 |  |  |
-| 2/12/2000 | Telecommunicator | Basic | Lapsed | 12/9/1994 |  |  |
-| 2/12/2000 | Telecommunicator | Intermediate | Lapsed | 5/19/1995 |  |  |
+| 2/15/2020 | Telecommunicator | Advanced | Expired | 4/4/1997 |  |  |
+| 2/15/2020 | Telecommunicator | Basic | Expired | 12/9/1994 |  |  |
+| 2/15/2020 | Telecommunicator | Intermediate | Expired | 5/19/1995 |  |  |
+| 3/8/2001 | Police Officer | Advanced | Granted | 3/8/2001 | 4/16/2023 |  |
+| 3/8/2001 | Police Officer | Intermediate | Granted | 3/8/2001 | 4/16/2023 |  |
+| 3/13/2000 | Police Officer | Basic | Granted | 3/13/2000 | 4/16/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -49,6 +50,11 @@
 | 11/16/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/7/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/24/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/20/2022 | PDP01374 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 10/20/2022 | PDP07952 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 10/20/2022 | PDP03645 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.00 |
+| 10/20/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 10/20/2022 | PDP38421 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
 | 10/17/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/5/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 10/5/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

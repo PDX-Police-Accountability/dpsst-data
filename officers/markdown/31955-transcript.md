@@ -34,14 +34,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/1/2023 | 2/1/2025 |
-| Certification Cards | First Aid and CPR | 2/1/2023 | 2/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
-| Code of Ethics | Signed | 9/6/2011 |  |
 | Code of Ethics | Signed | 9/6/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
 | 1/10/2023 | CAP15716 | Tactical Duty Knife | Passed | 0.0 | 2.00 |
 | 12/14/2022 | CAP05723 | Night Shoot | Passed | 0.0 | 3.00 |
@@ -180,7 +176,7 @@
 | 1/18/2019 | F6D34315 | Predicting the Future by Creating It | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D03932 | BuildingSustaining an Officer Wellness Program | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D13603 | Policing with an Outward Mindset | Passed | 0.0 | 4.00 |
-| 1/16/2019 | F6D41373 | "Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
+| 1/16/2019 | F6D41373 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
 | 1/16/2019 | F6D06812 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 4.00 |
 | 12/18/2018 | PDP28385 | 2018-3 In-Service CEW Skills | Passed | 0.0 | 2.00 |
 | 12/18/2018 | PDP24157 | 2018-3 In-Service Control Tactics | Passed | 0.0 | 2.00 |

@@ -33,12 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/19/2007 |  |
 | Code of Ethics | Signed | 7/19/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -138,7 +134,7 @@
 | 1/31/2019 | F6D14891 | Sabre Red OC Recertification | Passed | 0.0 | 0.50 |
 | 1/17/2019 | F6D03932 | BuildingSustaining an Officer Wellness Program | Passed | 0.0 | 3.00 |
 | 1/17/2019 | F6D13603 | Policing with an Outward Mindset | Passed | 0.0 | 4.00 |
-| 1/16/2019 | F6D41373 | "Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
+| 1/16/2019 | F6D41373 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
 | 12/7/2018 | F6D31382 | Leadership-Suicide Prevention for Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/7/2018 | F6D29592 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 12/4/2018 | HBS06561 | Grant Writing Workshop | Passed | 0.0 | 14.00 |

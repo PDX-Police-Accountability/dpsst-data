@@ -3,12 +3,18 @@ header_record:
   name: Resch, Jami L.
   dpsst_identifier: '37142'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Assistant Chief
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/13/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Asst Chief
+  classification: ''
+  assignment: ''
 - date: 8/4/2020
   agency: Portland Police Bureau
   action: Promotion
@@ -69,42 +75,42 @@ certification_records:
   level: Executive
   status: Granted
   certificate_date: 10/4/2022
-  expiration_date: ''
+  expiration_date: 4/13/2023
   probation_date: ''
 - status_date: 4/21/2020
   certificate: Police Officer
   level: Management
   status: Granted
   certificate_date: 4/21/2020
-  expiration_date: ''
+  expiration_date: 4/13/2023
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 4/13/2023
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 4/13/2023
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: ''
+  expiration_date: 4/13/2023
   probation_date: ''
 - status_date: 2/8/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/8/2000
-  expiration_date: ''
+  expiration_date: 4/13/2023
   probation_date: ''
 training_records:
 - date: 12/9/2022
@@ -143,6 +149,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/26/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/26/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/26/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/19/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/18/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -203,6 +239,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/18/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/12/2022
   course: PDP19841
   title: IS-800 National Response Framework

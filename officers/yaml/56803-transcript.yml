@@ -168,6 +168,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/17/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/13/2022
   course: PDP37749
   title: 'SERT: Weapons Drills'
@@ -249,6 +279,12 @@ training_records:
 - date: 8/25/2022
   course: PDP13877
   title: SERT QRT Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/18/2022
+  course: PDP36620
+  title: 2022 SERT Training - Firearms
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -2699,14 +2735,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/27/2021
-  expiration_date: 6/27/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/27/2021
@@ -2715,21 +2743,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/11/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/11/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/21/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

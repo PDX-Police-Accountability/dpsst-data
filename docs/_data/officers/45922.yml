@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/20/2023
+  course: VND39577
+  title: EMDR for Paraprofessionals
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/23/2022
   course: BPT09123
   title: Mental Health First Aid
@@ -576,10 +582,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/15/2021
-  expiration_date: 6/15/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/15/2021

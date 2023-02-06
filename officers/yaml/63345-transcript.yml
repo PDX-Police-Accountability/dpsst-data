@@ -96,6 +96,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/7/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/30/2022
   course: PDP21194
   title: 2021 Training New Pistol Qualification

@@ -3,12 +3,18 @@ header_record:
   name: Holthausen, Richard J.
   dpsst_identifier: '32146'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/18/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/19/1998
   agency: Portland Police Bureau
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 3/23/2010
-  expiration_date: ''
+  expiration_date: 4/18/2023
   probation_date: ''
 - status_date: 3/23/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/23/2010
-  expiration_date: ''
+  expiration_date: 4/18/2023
   probation_date: ''
 - status_date: 12/29/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 12/29/1998
-  expiration_date: ''
+  expiration_date: 4/18/2023
   probation_date: ''
 training_records:
 - date: 12/8/2022

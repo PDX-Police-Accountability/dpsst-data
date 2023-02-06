@@ -28,19 +28,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/8/2019
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 8/8/2019
-  expiration_date: 1/27/2023
-  probation_date: ''
-- status_date: 6/12/1995
+- status_date: 1/27/2023
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 6/12/1995
-  expiration_date: 1/27/2023
+  expiration_date: 10/27/2027
+  probation_date: ''
+- status_date: 1/27/2023
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 8/8/2019
+  expiration_date: 10/27/2027
   probation_date: ''
 training_records:
 - date: 9/27/2022

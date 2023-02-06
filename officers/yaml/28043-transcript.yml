@@ -196,19 +196,19 @@ training_records:
   hours: '4.00'
 - date: 4/5/2018
   course: F6B32671
-  title: '"Get Real" Patrol Tactics'
+  title: Get Real Patrol Tactics
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 4/1/2018
   course: F6B40460
-  title: '"Get Real" Patrol Tactics'
+  title: Get Real Patrol Tactics
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 3/19/2018
   course: F6B32213
-  title: '"Get Real" NBPS'
+  title: Get Real NBPS
   status: Passed
   score: '0.0'
   hours: '1.00'

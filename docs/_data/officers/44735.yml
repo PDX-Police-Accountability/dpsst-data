@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/20/2023
+  course: VND39577
+  title: EMDR for Paraprofessionals
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 12/12/2022
   course: PDP03449
   title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
@@ -135,6 +141,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/11/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/8/2022
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm
@@ -201,6 +213,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 8/30/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/30/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/30/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/30/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/24/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv
@@ -4140,26 +4176,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/15/2021
   expiration_date: 6/15/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/15/2021
-  expiration_date: 6/15/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/18/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/18/2004

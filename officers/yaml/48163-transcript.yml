@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/20/2023
+  course: VND39577
+  title: EMDR for Paraprofessionals
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 12/18/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -98,6 +104,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/11/2022
+  course: PDP18587
+  title: 2022 Supervisor In-Service 2.02
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/11/2022
+  course: PDP24839
+  title: 2022 Supervisor In-Service Critical Incdt. Mngmt
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 11/11/2022
+  course: PDP23438
+  title: 2022 Supervisor In-Service PIO
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/11/2022
+  course: PDP12643
+  title: 2022 Supervisor In-Service PSD/IA
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/11/2022
+  course: PDP14548
+  title: 2022 Supervisor In-Service After Action Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/23/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training
@@ -110,6 +146,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/6/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/6/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/6/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/1/2022
   course: PDP25823
   title: 2022-3 Range Qualification CEW
@@ -4027,14 +4093,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
@@ -4043,14 +4101,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/20/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/20/2007

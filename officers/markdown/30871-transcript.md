@@ -33,12 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/17/2022 | 2/28/2024 |
-| Certification Cards | First Aid and CPR | 2/17/2022 | 2/28/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 6/10/2002 |  |
 | Code of Ethics | Signed | 6/10/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -352,7 +348,7 @@
 | 6/17/2016 | F6C28454 | SWAT/SNIPER Firearms | Passed | 0.0 | 40.00 |
 | 6/10/2016 | F6C36007 | Patrol Tactics "Get Real" Stop Stick Deployment | Passed | 0.0 | 0.50 |
 | 5/14/2016 | F6C34070 | Patrol Tactics "Get Real" High Risk Traffic Stops | Passed | 0.0 | 0.50 |
-| 5/14/2016 | F6D14623 | "Get Real" Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 5/14/2016 | F6D14623 | Get Real Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 5/12/2016 | F6C21039 | OSP SWAT Firearms - Sniper | Passed | 0.0 | 8.00 |
 | 5/11/2016 | F6A00111 | Hostage Scenario Training | Passed | 0.0 | 6.00 |
 | 5/11/2016 | F6C42111 | OSP SWAT Firearms - Sniper | Passed | 0.0 | 8.00 |

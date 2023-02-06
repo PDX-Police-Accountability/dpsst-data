@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/11/2023 | HBS06622 | DEI Training | Passed | 0.0 | 0.50 |
+| 1/11/2023 | HBS04569 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 10/4/2022 | HBS21565 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 1/31/2021 | F6E18909 | 2021 Red Cross Adult First Aid/CPR/AED Online | Passed | 0.0 | 2.50 |
 | 12/14/2020 | HBS13155 | PowerDMS Ethics Training | Passed | 0.0 | 1.00 |

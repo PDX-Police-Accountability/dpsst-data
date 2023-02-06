@@ -36,12 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/15/2023
+  course: BNP27464
+  title: SB 418- Interviewing Juveniles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/12/2023
   course: BNP29320
   title: Defensive Tactics - Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/30/2022
+  course: BNP12936
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/8/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -1137,18 +1149,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/10/2021
-  expiration_date: 2/10/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/10/2021
@@ -1156,14 +1156,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/20/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/20/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/14/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

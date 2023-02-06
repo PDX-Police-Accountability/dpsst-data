@@ -25,6 +25,12 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/15/2022 | No Degree | All Other Education Institutes |  | 12.0 |
+| 8/14/2021 | Bachelor Science | Portland State University | Social Sciences | 46.0 |
+| 12/15/2018 | No Degree | All Other Education Institutes |  | 31.0 |
+| 8/11/2010 | Associate Arts | All Other Education Institutes |  | 63.0 |
+| 9/15/2009 | No Degree | All Other Education Institutes |  | 9.0 |
+| 6/15/2007 | No Degree | All Other Education Institutes | Law Enforcement | 59.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

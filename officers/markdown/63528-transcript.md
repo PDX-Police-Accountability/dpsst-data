@@ -26,6 +26,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/20/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 11/27/2022 | PDP44637 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 11/27/2022 | PDP06165 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

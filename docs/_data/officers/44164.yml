@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/20/2023
+  course: VND39577
+  title: EMDR for Paraprofessionals
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/5/2023
   course: MISCMAIN
   title: 2023 LE Leadership 3 Year Maintenance
@@ -75,6 +81,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '72.00'
+- date: 12/9/2022
+  course: PDP12643
+  title: 2022 Supervisor In-Service PSD/IA
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/9/2022
+  course: PDP23438
+  title: 2022 Supervisor In-Service PIO
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/9/2022
+  course: PDP18587
+  title: 2022 Supervisor In-Service 2.02
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 12/7/2022
   course: PDP16169
   title: 2022-11 EO Clarification DIR 1010.00  1015.00
@@ -123,6 +147,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/2/2022
+  course: PDP00931
+  title: 2022 Supervisor In-Service Critical Incdt. Mngmt
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 11/2/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/10/2022
   course: PDP36211
   title: 2022 Crowd Management
@@ -189,6 +225,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/18/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/18/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/18/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/18/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/17/2022
   course: PDP02516
   title: Crisis Negotiation Team Training
@@ -3957,14 +4017,6 @@ attribute_records:
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
 - topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
@@ -3972,14 +4024,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/24/2021
   expiration_date: 6/24/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/24/2021
-  expiration_date: 6/24/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/7/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 5/7/2004

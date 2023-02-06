@@ -33,16 +33,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/23/2022 | 2/14/2024 |
-| Certification Cards | First Aid and CPR | 2/23/2022 | 2/14/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid | 2/1/2021 | 2/1/2023 |
 | Certification Cards | CPR | 2/1/2021 | 2/1/2023 |
-| Certification Cards | First Aid | 2/1/2021 | 2/1/2023 |
-| Certification Cards | CPR | 2/1/2021 | 2/1/2023 |
-| Code of Ethics | Signed | 2/27/2003 |  |
 | Code of Ethics | Signed | 2/27/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -152,7 +146,7 @@
 | 1/18/2019 | F6D34315 | Predicting the Future by Creating It | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D03932 | BuildingSustaining an Officer Wellness Program | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D13603 | Policing with an Outward Mindset | Passed | 0.0 | 4.00 |
-| 1/16/2019 | F6D41373 | "Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
+| 1/16/2019 | F6D41373 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
 | 12/31/2018 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2018 | BVP15348 | PREA Refresher Training 2018 | Passed | 0.0 | 0.50 |
 | 10/31/2018 | BVP17517 | Tactical Scenarios with EVOC | Passed | 0.0 | 3.00 |

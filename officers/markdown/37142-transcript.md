@@ -4,7 +4,7 @@
 | name | Resch, Jami L. |
 | dpsst_identifier | 37142 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Assistant Chief |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/13/2023 | Portland Police Bureau | Retired | Asst Chief |  |  |
 | 8/4/2020 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 6/11/2020 | Portland Police Bureau | Demotn Vol | Captain |  |  |
 | 12/31/2019 | Portland Police Bureau | Promotion | Chief |  |  |
@@ -24,12 +25,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/4/2022 | Police Officer | Executive | Granted | 10/4/2022 |  |  |
-| 4/21/2020 | Police Officer | Management | Granted | 4/21/2020 |  |  |
-| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 |  |  |
-| 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 |  |  |
-| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 |  |  |
-| 2/8/2000 | Police Officer | Basic | Granted | 2/8/2000 |  |  |
+| 10/4/2022 | Police Officer | Executive | Granted | 10/4/2022 | 4/13/2023 |  |
+| 4/21/2020 | Police Officer | Management | Granted | 4/21/2020 | 4/13/2023 |  |
+| 2/15/2012 | Police Officer | Advanced | Granted | 2/15/2012 | 4/13/2023 |  |
+| 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 | 4/13/2023 |  |
+| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 | 4/13/2023 |  |
+| 2/8/2000 | Police Officer | Basic | Granted | 2/8/2000 | 4/13/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -50,6 +51,11 @@
 | 11/15/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/15/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/6/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/26/2022 | PDP03645 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.00 |
+| 10/26/2022 | PDP38421 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 10/26/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 10/19/2022 | PDP01374 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 10/19/2022 | PDP07952 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 10/18/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/18/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/18/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
@@ -60,6 +66,7 @@
 | 9/21/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/21/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/8/2022 | PDP43328 | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 9.00 |
+| 8/18/2022 | PDP01374 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
 | 8/12/2022 | PDP19841 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 8/11/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
 | 8/4/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |

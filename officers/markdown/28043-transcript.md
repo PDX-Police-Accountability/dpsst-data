@@ -56,9 +56,9 @@
 | 7/9/2018 | F6B29821 | Breach Point for Police Officers | Passed | 0.0 | 4.00 |
 | 6/26/2018 | F6W35324 | Developing Metrics for Leadership | Passed | 0.0 | 16.00 |
 | 6/18/2018 | F6B37625 | First Aid DPSST Re-certification | Passed | 0.0 | 4.00 |
-| 4/5/2018 | F6B32671 | "Get Real" Patrol Tactics | Passed | 0.0 | 1.00 |
-| 4/1/2018 | F6B40460 | "Get Real" Patrol Tactics | Passed | 0.0 | 1.00 |
-| 3/19/2018 | F6B32213 | "Get Real" NBPS | Passed | 0.0 | 1.00 |
+| 4/5/2018 | F6B32671 | Get Real Patrol Tactics | Passed | 0.0 | 1.00 |
+| 4/1/2018 | F6B40460 | Get Real Patrol Tactics | Passed | 0.0 | 1.00 |
+| 3/19/2018 | F6B32213 | Get Real NBPS | Passed | 0.0 | 1.00 |
 | 2/21/2018 | F6B06522 | AHA BLS CPR with AED | Passed | 0.0 | 4.00 |
 | 2/13/2018 | F6B09630 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 2/12/2018 | 18-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |

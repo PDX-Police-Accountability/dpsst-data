@@ -3,12 +3,18 @@ header_record:
   name: Schull, Wayne D.
   dpsst_identifier: '47433'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/16/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 11/16/2006
   agency: Portland Police Bureau
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/6/2007
-  expiration_date: ''
+  expiration_date: 4/16/2023
   probation_date: ''
 - status_date: 12/6/2007
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 12/6/2007
-  expiration_date: ''
+  expiration_date: 4/16/2023
   probation_date: ''
 - status_date: 10/15/2007
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 10/15/2007
-  expiration_date: ''
+  expiration_date: 4/16/2023
   probation_date: ''
 training_records:
 - date: 12/1/2022

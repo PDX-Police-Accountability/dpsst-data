@@ -131,6 +131,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/18/2022
+  course: F1535596
+  title: Employment Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/18/2022
+  course: F1543821
+  title: Evaulating, Leading and Fizing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2022
+  course: F1540041
+  title: Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/18/2022
+  course: F1514152
+  title: Law Enforcement Responses
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/18/2022
+  course: F1532061
+  title: Mastering Internal Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2022
+  course: F1508379
+  title: Role of Police Leaders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2022
+  course: F1528646
+  title: The Chief's Circle
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/18/2022
+  course: F1532334
+  title: Using the Oath of Honor to Guide
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/29/2022
   course: F6R19836
   title: Cultivating an Inclusive, Ethical Culture
@@ -1099,7 +1147,7 @@ training_records:
   hours: '0.25'
 - date: 1/16/2019
   course: F6D41373
-  title: "\"Leadership for a Lifetime: How the Past Prepares"
+  title: 'Leadership for a Lifetime: How the Past Prepares'
   status: Passed
   score: '0.0'
   hours: '3.50'
@@ -5807,14 +5855,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -5822,14 +5862,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 7/1/2021
   expiration_date: 7/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/1/2021
-  expiration_date: 7/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/10/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/10/2007

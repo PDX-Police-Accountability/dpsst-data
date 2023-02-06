@@ -4,7 +4,7 @@
 | name | Holthausen, Richard J. |
 | dpsst_identifier | 32146 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/18/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 3/19/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 | 3/18/1998 | Portland Police Bureau | Resigned | Civln Emp |  |  |
 | 3/7/1996 | Portland Police Bureau | Hired | Civln Emp |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 |  |  |
-| 3/23/2010 | Police Officer | Intermediate | Granted | 3/23/2010 |  |  |
-| 12/29/1998 | Police Officer | Basic | Granted | 12/29/1998 |  |  |
+| 3/23/2010 | Police Officer | Advanced | Granted | 3/23/2010 | 4/18/2023 |  |
+| 3/23/2010 | Police Officer | Intermediate | Granted | 3/23/2010 | 4/18/2023 |  |
+| 12/29/1998 | Police Officer | Basic | Granted | 12/29/1998 | 4/18/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

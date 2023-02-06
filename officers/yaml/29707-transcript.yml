@@ -3,12 +3,18 @@ header_record:
   name: Albert, Steven G.
   dpsst_identifier: '29707'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/16/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/15/1999
   agency: Portland Police Bureau
   action: Hired
@@ -40,47 +46,47 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 2/15/2020
+  certificate: Telecommunicator
+  level: Advanced
+  status: Expired
+  certificate_date: 4/4/1997
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Telecommunicator
+  level: Basic
+  status: Expired
+  certificate_date: 12/9/1994
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Telecommunicator
+  level: Intermediate
+  status: Expired
+  certificate_date: 5/19/1995
+  expiration_date: ''
+  probation_date: ''
 - status_date: 3/8/2001
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 3/8/2001
-  expiration_date: ''
+  expiration_date: 4/16/2023
   probation_date: ''
 - status_date: 3/8/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/8/2001
-  expiration_date: ''
+  expiration_date: 4/16/2023
   probation_date: ''
 - status_date: 3/13/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/13/2000
-  expiration_date: ''
-  probation_date: ''
-- status_date: 2/12/2000
-  certificate: Telecommunicator
-  level: Advanced
-  status: Lapsed
-  certificate_date: 4/4/1997
-  expiration_date: ''
-  probation_date: ''
-- status_date: 2/12/2000
-  certificate: Telecommunicator
-  level: Basic
-  status: Lapsed
-  certificate_date: 12/9/1994
-  expiration_date: ''
-  probation_date: ''
-- status_date: 2/12/2000
-  certificate: Telecommunicator
-  level: Intermediate
-  status: Lapsed
-  certificate_date: 5/19/1995
-  expiration_date: ''
+  expiration_date: 4/16/2023
   probation_date: ''
 training_records:
 - date: 12/1/2022
@@ -119,6 +125,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/20/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/17/2022
   course: PDP36211
   title: 2022 Crowd Management

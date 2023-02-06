@@ -2087,7 +2087,7 @@ training_records:
   hours: '10.00'
 - date: 6/11/1992
   course: 92N022
-  title: '"COP TALK" ART OF TACTICAL VERBAL COMMUN'
+  title: COP TALK ART OF TACTICAL VERBAL COMMUN
   status: Passed
   score: '0.0'
   hours: '7.00'
@@ -2264,14 +2264,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/7/2022
   expiration_date: 4/7/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/7/2022
-  expiration_date: 4/7/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
@@ -2280,14 +2272,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/8/2021
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/8/2021
-  expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2021

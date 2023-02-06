@@ -55,7 +55,7 @@
 | 1/18/2019 | F6D34315 | Predicting the Future by Creating It | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D13603 | Policing with an Outward Mindset | Passed | 0.0 | 4.00 |
 | 1/17/2019 | F6D03932 | BuildingSustaining an Officer Wellness Program | Passed | 0.0 | 4.00 |
-| 1/16/2019 | F6D41373 | "Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
+| 1/16/2019 | F6D41373 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
 | 12/31/2018 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2018 | F6D30858 | Firearms Training-Low Light | Passed | 0.0 | 3.00 |
 | 10/24/2018 | F6B18843 | Fire Extinguisher Training | Passed | 0.0 | 0.50 |

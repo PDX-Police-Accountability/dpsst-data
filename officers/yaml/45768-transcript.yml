@@ -80,6 +80,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/3/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/3/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/3/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/25/2022
   course: PDP03421
   title: 2022 MCDA Probable Cause Refresher Training
@@ -1245,12 +1275,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 2/11/2020
-  course: PDP18400
-  title: Undefined
-  status: Passed
-  score: '0.0'
-  hours: '0.25'
-- date: 2/11/2020
   course: PDP24494
   title: 2020 Chief's Office Uniform Guide Video
   status: Passed
@@ -1619,12 +1643,6 @@ training_records:
 - date: 2/8/2019
   course: HBS42226
   title: Female Enforcers
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 2/8/2019
-  course: PDP20504
-  title: Female Enforcer
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -3197,26 +3215,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/20/2021
   expiration_date: 7/20/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/20/2021
-  expiration_date: 7/20/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/12/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/12/2005

@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +48,7 @@
 | 12/8/2022 | GSP12057 | Monthly MDT presentation | Passed | 0.0 | 1.50 |
 | 11/16/2022 | SAG15279 | ICAC 101 | Passed | 0.0 | 8.00 |
 | 11/3/2022 | GSP34382 | Officer Decision Making: Qualified Immunity | Passed | 0.0 | 1.50 |
+| 9/26/2022 | GSP26844 | 2022 40MM Recertification | Passed | 0.0 | 1.00 |
 | 9/16/2022 | GSP27130 | The Internet: Investigations and Intelligence | Passed | 0.0 | 16.00 |
 | 9/14/2022 | GSP03764 | NW Regional Human Trafficking Workshop | Passed | 0.0 | 8.00 |
 | 8/11/2022 | GSP21949 | 2022 Crimes Against Children Conference | Passed | 0.0 | 16.25 |

@@ -48,6 +48,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/13/2022
+  course: PDP14548
+  title: 2022 Supervisor In-Service After Action Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/13/2022
+  course: PDP24839
+  title: 2022 Supervisor In-Service Critical Incdt. Mngmt
+  status: Passed
+  score: '0.0'
+  hours: '2.75'
+- date: 12/13/2022
+  course: PDP12643
+  title: 2022 Supervisor In-Service PSD/IA
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/13/2022
+  course: PDP23438
+  title: 2022 Supervisor In-Service PIO
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/13/2022
+  course: PDP18587
+  title: 2022 Supervisor In-Service 2.02
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 11/28/2022
   course: PDP15523
   title: 2022-5 CAO Legal Updates for 05/2022
@@ -96,6 +126,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/25/2022
+  course: PDP01374
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2022
+  course: PDP07952
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2022
+  course: PDP03645
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2022
+  course: PDP38421
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/25/2022
+  course: PDP37066
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/18/2022
   course: PDP28840
   title: 2022-3 CAO Legal Updates for 03/2022
@@ -3329,14 +3389,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/27/2021
-  expiration_date: 5/27/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/27/2021
@@ -3345,21 +3397,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/23/2012
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2023
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/25/2023
   course: CAP31130
   title: Handgun Qualifications / Basic Shield Use
@@ -878,7 +884,7 @@ training_records:
   hours: '4.00'
 - date: 1/16/2019
   course: F6D41373
-  title: "\"Leadership for a Lifetime: How the Past Prepares"
+  title: 'Leadership for a Lifetime: How the Past Prepares'
   status: Passed
   score: '0.0'
   hours: '3.50'
@@ -4271,14 +4277,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/1/2023
   expiration_date: 2/1/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/1/2023
-  expiration_date: 2/1/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4287,22 +4285,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/1/2021
   expiration_date: 2/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/1/2021
-  expiration_date: 2/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/6/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/6/2011

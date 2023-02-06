@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Certification Cards | First Aid and CPR | 2/3/2021 | 2/3/2023 |
-| Code of Ethics | Signed | 4/24/2002 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -170,7 +165,7 @@
 | 1/24/2019 | F6D08047 | Taser Refresher Training | Passed | 0.0 | 2.00 |
 | 1/22/2019 | F6D24724 | CPR  First Aid | Passed | 0.0 | 3.00 |
 | 1/17/2019 | F6D03932 | BuildingSustaining an Officer Wellness Program | Passed | 0.0 | 4.00 |
-| 1/16/2019 | F6D41373 | "Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
+| 1/16/2019 | F6D41373 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 3.50 |
 | 1/16/2019 | F6D06812 | Leadership for a Lifetime: How the Past Prepares | Passed | 0.0 | 4.00 |
 | 12/17/2018 | MISCMAIN | 2018 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2018 | MISCMAIN | 2018 LE Annual Maintenance Met | Completed | 0.0 | 0.00 |

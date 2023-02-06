@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 7/20/2007 |  |
 | Code of Ethics | Signed | 7/20/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 | 1/2/2023 | GSP25014 | 2023 CPR and First Aid | Passed | 0.0 | 6.00 |
 | 12/15/2022 | GSP43316 | 2022 Ethics In Service | Passed | 0.0 | 1.00 |
 | 10/20/2022 | GSP05930 | UAS Team Training | Passed | 0.0 | 10.00 |
+| 9/26/2022 | GSP26844 | 2022 40MM Recertification | Passed | 0.0 | 1.00 |
 | 9/13/2022 | GSP38285 | Leadership: Action and Strategic Planning | Passed | 0.0 | 12.00 |
 | 8/23/2022 | GSP06837 | UAS Team Training | Passed | 0.0 | 10.00 |
 | 5/20/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |

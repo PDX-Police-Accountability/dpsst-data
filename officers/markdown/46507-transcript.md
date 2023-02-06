@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/20/2023 | VND39577 | EMDR for Paraprofessionals | Instructed | 0.0 | 40.00 |
 | 4/25/2011 | 11-0699 | CAD / MDS / MDT System | Passed | 0.0 | 8.00 |
 | 3/19/2008 | 08-0126 | Firearms Basic | Passed | 0.0 | 4.00 |
 | 9/26/2007 | 07-0839 | Radio Procedures | Passed | 0.0 | 2.00 |

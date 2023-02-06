@@ -40,16 +40,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
 | Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Signed | 10/12/2000 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -131,7 +125,7 @@
 | 1/30/2019 | F6D24196 | Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 1/24/2019 | F6D36421 | EMS In-Service | Passed | 0.0 | 9.00 |
 | 1/23/2019 | F6D36421 | EMS In-Service | Passed | 0.0 | 9.00 |
-| 1/22/2019 | F6D42789 | "Get Real" Patrol Tactics | Passed | 0.0 | 9.00 |
+| 1/22/2019 | F6D42789 | Get Real Patrol Tactics | Passed | 0.0 | 9.00 |
 | 1/21/2019 | F6D36421 | EMS In-Service | Passed | 0.0 | 4.00 |
 | 1/10/2019 | F6D41298 | Standardized Field Sobriety Testing Refresher | Instructed | 0.0 | 4.00 |
 | 1/8/2019 | F6D35815 | Standarized Field Sobriety Testing Refresher | Instructed | 0.0 | 4.00 |

@@ -760,19 +760,19 @@ training_records:
   hours: '9.00'
 - date: 4/5/2018
   course: F6B32671
-  title: '"Get Real" Patrol Tactics'
+  title: Get Real Patrol Tactics
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 4/1/2018
   course: F6B40460
-  title: '"Get Real" Patrol Tactics'
+  title: Get Real Patrol Tactics
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 3/19/2018
   course: F6B32213
-  title: '"Get Real" NBPS'
+  title: Get Real NBPS
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -2317,14 +2317,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 9/12/2022
-  expiration_date: 9/12/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/12/2022
@@ -2333,14 +2325,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/23/2006
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/23/2006

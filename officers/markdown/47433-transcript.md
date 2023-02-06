@@ -4,7 +4,7 @@
 | name | Schull, Wayne D. |
 | dpsst_identifier | 47433 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/16/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/16/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 11/5/2006 | Out of State Employment | Resigned | Sergeant |  |  |
 | 12/6/1991 | Out of State Employment | Hired | Sergeant |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/6/2007 | Police Officer | Advanced | Granted | 12/6/2007 |  |  |
-| 12/6/2007 | Police Officer | Intermediate | Granted | 12/6/2007 |  |  |
-| 10/15/2007 | Police Officer | Basic | Granted | 10/15/2007 |  |  |
+| 12/6/2007 | Police Officer | Advanced | Granted | 12/6/2007 | 4/16/2023 |  |
+| 12/6/2007 | Police Officer | Intermediate | Granted | 12/6/2007 | 4/16/2023 |  |
+| 10/15/2007 | Police Officer | Basic | Granted | 10/15/2007 | 4/16/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -38,14 +38,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/9/2023 | 1/9/2025 |
-| Certification Cards | First Aid and CPR | 1/9/2023 | 1/9/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 5/19/2021 | 5/19/2023 |
-| Certification Cards | First Aid and CPR | 5/19/2021 | 5/19/2023 |
-| Code of Ethics | Signed | 2/21/2006 |  |
 | Code of Ethics | Signed | 2/21/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/27/2023 | LGS35736 | Night/lowlight qualification/training | Instructed | 0.0 | 2.00 |
 | 1/9/2023 | LGS05928 | CPR, AED, and Basic First Aid | Passed | 0.0 | 2.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/16/2022 | LGS10575 | Rifle night training | Instructed | 0.0 | 3.00 |

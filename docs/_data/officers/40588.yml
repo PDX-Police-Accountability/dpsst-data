@@ -2673,14 +2673,6 @@ attribute_records:
   expiration_date: 12/30/2022
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
-  effective_date: 12/30/2022
-  expiration_date: 12/30/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 11/30/2022
-  expiration_date: 11/30/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
   effective_date: 11/30/2022
   expiration_date: 11/30/2022
 - topic: Maintenance Requirements
@@ -2689,20 +2681,8 @@ attribute_records:
   expiration_date: 10/11/2022
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
-  effective_date: 10/11/2022
-  expiration_date: 10/11/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
   effective_date: 9/8/2022
   expiration_date: 9/8/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 9/8/2022
-  expiration_date: 9/8/2022
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 7/6/2022
-  expiration_date: 7/6/2022
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
   effective_date: 7/6/2022
@@ -2715,18 +2695,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/27/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/27/2001

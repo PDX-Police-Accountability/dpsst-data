@@ -32,14 +32,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | CPR | 1/28/2023 | 1/31/2025 |
 | Certification Cards | CPR | 1/28/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
-| Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
-| Code of Ethics | Signed | 5/11/2001 |  |
 | Code of Ethics | Signed | 5/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/28/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
+| 1/28/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |
+| 1/28/2023 | HBS24638 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/13/2023 | ALP23148 | Assisting Individuals   Group Crisis Intervention | Passed | 0.0 | 24.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2022 | HBS33359 | Open Range | Passed | 0.0 | 1.00 |

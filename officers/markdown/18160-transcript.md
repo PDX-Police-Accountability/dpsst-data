@@ -246,7 +246,7 @@
 | 4/26/1993 | 93U001 | Approved In-State Training | Passed | 0.0 | 4.00 |
 | 2/26/1993 | 93J010 | INTOXILYZER 5000 | Passed | 0.0 | 2.00 |
 | 9/16/1992 | 92U001 | Approved In-State Training | Passed | 0.0 | 105.00 |
-| 6/11/1992 | 92N022 | "COP TALK" ART OF TACTICAL VERBAL COMMUN | Passed | 0.0 | 7.00 |
+| 6/11/1992 | 92N022 | COP TALK ART OF TACTICAL VERBAL COMMUN | Passed | 0.0 | 7.00 |
 | 5/29/1992 | 92K008 | FIRST CARE | Passed | 0.0 | 4.00 |
 | 12/5/1991 | 91K209 | CHILD ABUSE INV. MULTIDISCIPLINARY TEAM | Passed | 0.0 | 8.00 |
 | 10/26/1990 | 909241 | POLICE BICYCLE OPERATIONS | Passed | 0.0 | 24.00 |

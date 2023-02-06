@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
 | Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 1/23/2006 |  |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -157,9 +153,9 @@
 | 7/9/2018 | F6B23564 | Breach Point for Police Officers | Passed | 0.0 | 4.00 |
 | 6/18/2018 | F6B37625 | First Aid DPSST Re-certification | Passed | 0.0 | 4.00 |
 | 5/9/2018 | F6B36201 | 2nd Trimester Firearms - Rifle | Passed | 0.0 | 9.00 |
-| 4/5/2018 | F6B32671 | "Get Real" Patrol Tactics | Passed | 0.0 | 1.00 |
-| 4/1/2018 | F6B40460 | "Get Real" Patrol Tactics | Passed | 0.0 | 1.00 |
-| 3/19/2018 | F6B32213 | "Get Real" NBPS | Passed | 0.0 | 1.00 |
+| 4/5/2018 | F6B32671 | Get Real Patrol Tactics | Passed | 0.0 | 1.00 |
+| 4/1/2018 | F6B40460 | Get Real Patrol Tactics | Passed | 0.0 | 1.00 |
+| 3/19/2018 | F6B32213 | Get Real NBPS | Passed | 0.0 | 1.00 |
 | 3/13/2018 | F6B19526 | Defensive Tactics 1st Trimester | Passed | 0.0 | 4.00 |
 | 2/26/2018 | F6B24560 | AHA BLS CPR with AED | Passed | 0.0 | 4.00 |
 | 12/31/2017 | MISCMAIN | 2017 Police Maintenance Basic | Completed | 0.0 | 0.00 |

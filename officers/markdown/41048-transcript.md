@@ -32,8 +32,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/2/2023 | 2/2/2025 |
-| Certification Cards | First Aid and CPR | 2/2/2023 | 2/2/2025 |
-| Code of Ethics | Signed | 12/11/2001 |  |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2023 | WLP08967 | Adult / Child CPR/AED First Aid | Passed | 0.0 | 6.00 |
 | 1/31/2023 | WLP38420 | Taser 7 New User Certification Training | Passed | 0.0 | 4.00 |
 | 1/27/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/3/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |

@@ -55,4 +55,34 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records: []
-education_records: []
+education_records:
+- date: 12/15/2022
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '12.0'
+- date: 8/14/2021
+  degree: Bachelor Science
+  school: Portland State University
+  major: Social Sciences
+  hours: '46.0'
+- date: 12/15/2018
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '31.0'
+- date: 8/11/2010
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '63.0'
+- date: 9/15/2009
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '9.0'
+- date: 6/15/2007
+  degree: No Degree
+  school: All Other Education Institutes
+  major: Law Enforcement
+  hours: '59.0'

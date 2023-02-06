@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/20/2023
+  course: VND39577
+  title: EMDR for Paraprofessionals
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/25/2011
   course: 11-0699
   title: CAD / MDS / MDT System

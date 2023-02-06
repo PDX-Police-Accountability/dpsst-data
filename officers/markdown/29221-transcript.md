@@ -36,12 +36,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/11/2021 | 2/11/2023 |
-| Certification Cards | First Aid and CPR | 2/11/2021 | 2/11/2023 |
-| Code of Ethics | Signed | 8/6/2001 |  |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,7 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2023 | BNP27464 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
 | 1/10/2023 | BNP10046 | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
+| 12/30/2022 | BNP12936 | Legal Updates | Passed | 0.0 | 4.00 |
 | 12/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | BNP35909 | OC Policy, 40mm Policy and User Qualification | Passed | 0.0 | 1.50 |
 | 12/7/2022 | BNP36870 | BOLA Wrap policy/familiarization | Passed | 0.0 | 0.50 |
