@@ -30,6 +30,7 @@
 | 4/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/29/2022 | PDP10601 | Getac S410 Docking Video | Passed | 0.0 | 0.25 |
 | 12/15/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/28/2022 | PDP08667 | 2022-2 Advanced Academy Wellness | Passed | 0.0 | 11.00 |
 | 11/11/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/11/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/9/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
@@ -38,6 +39,16 @@
 | 10/12/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/12/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/12/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
+| 10/4/2022 | PDP25816 | 2022-2 Advanced Academy Firearms | Passed | 0.0 | 33.75 |
+| 10/4/2022 | PDP42366 | 2022-2 Advanced Academy PVO (Other) | Passed | 0.0 | 24.75 |
+| 10/3/2022 | PDP07108 | 2022-2 Advanced Academy Public Order | Passed | 0.0 | 2.25 |
+| 9/29/2022 | PDP25086 | 2022-2 Advanced Academy Community Engagement | Passed | 0.0 | 20.00 |
+| 9/28/2022 | PDP15858 | 2022-2 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 4.50 |
+| 9/27/2022 | PDP18150 | 2022-2 Advanced Academy Patrol Procedures (UoF) | Passed | 0.0 | 22.00 |
+| 9/27/2022 | PDP25742 | 2022-2 Advanced Academy Control Tactics | Passed | 0.0 | 13.50 |
+| 9/21/2022 | PDP43264 | 2022-2 Advanced Academy Procedural Justice | Passed | 0.0 | 2.25 |
+| 9/15/2022 | PDP13830 | 2022-2 Advanced Academy Professionalism | Passed | 0.0 | 4.00 |
+| 9/15/2022 | PDP38280 | 2022-2 Advanced Academy Orientation | Passed | 0.0 | 0.50 |
 | 8/22/2022 | PDP33107 | 2021 Language Access Utilizing Bilingual Members | Passed | 0.0 | 0.25 |
 | 8/22/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/20/2022 | PDP13563 | 2020-11 CAO Legal Updates for 11/2020 | Passed | 0.0 | 0.25 |

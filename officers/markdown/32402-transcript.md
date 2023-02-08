@@ -38,9 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2023 | HBS25733 | PREA  ADA Jail | Passed | 0.0 | 1.00 |
 | 1/16/2023 | HBS06622 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/16/2023 | HBS04891 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/16/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |
+| 1/16/2023 | HBS35775 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
+| 1/16/2023 | HBS41113 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 11/14/2022 | HBS18349 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 11/14/2022 | HBS14002 | EVO In-Service | Passed | 0.0 | 4.50 |
 | 10/18/2022 | HBS15748 | OSMOSISCON 2022 | Passed | 0.0 | 16.00 |

@@ -47,6 +47,8 @@
 | 1/28/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/28/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/28/2023 | HBS24638 | De-Escalation Training | Passed | 0.0 | 1.50 |
+| 1/28/2023 | HBS25244 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
+| 1/28/2023 | HBS40786 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
 | 1/13/2023 | ALP23148 | Assisting Individuals   Group Crisis Intervention | Passed | 0.0 | 24.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2022 | HBS33359 | Open Range | Passed | 0.0 | 1.00 |

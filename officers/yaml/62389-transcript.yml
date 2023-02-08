@@ -36,6 +36,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/7/2022
+  course: PDP35805
+  title: 2022-2 Advanced Academy Bike Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/4/2022
+  course: PDP42366
+  title: 2022-2 Advanced Academy PVO (Other)
+  status: Passed
+  score: '0.0'
+  hours: '54.75'
+- date: 11/29/2022
+  course: PDP00725
+  title: 2022-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 11/29/2022
+  course: PDP25742
+  title: 2022-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '65.00'
+- date: 11/28/2022
+  course: PDP25816
+  title: 2022-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '71.50'
+- date: 11/28/2022
+  course: PDP08667
+  title: 2022-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 11/27/2022
   course: PDP40447
   title: 2022 MCDA Probable Cause Refresher Training
@@ -60,12 +96,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/23/2022
+  course: PDP18150
+  title: 2022-2 Advanced Academy Patrol Procedures (UoF)
+  status: Passed
+  score: '0.0'
+  hours: '91.00'
 - date: 11/22/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/22/2022
+  course: PDP07108
+  title: 2022-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '9.25'
+- date: 11/17/2022
+  course: PDP03504
+  title: 2022-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/10/2022
+  course: PDP15940
+  title: 2022-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/8/2022
+  course: PDP07650
+  title: 2022-2 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/7/2022
   course: PDP33717
   title: 2022 Crowd Management
@@ -90,12 +156,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/31/2022
+  course: PDP15858
+  title: 2022-2 Advanced Academy Crisis Intervention Trng
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 10/27/2022
+  course: PDP31286
+  title: 2022-2 Advanced Academy ECST
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/25/2022
   course: PDP10530
   title: DIR 850.22, 850.21, 850.25, 850.20 with KC
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/24/2022
+  course: PDP41156
+  title: 2022-2 Advanced Academy Patrol Procedures (Other)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/18/2022
+  course: PDP33281
+  title: 2022-2 Advanced Academy PVO (UoF)
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 10/6/2022
+  course: PDP13830
+  title: 2022-2 Advanced Academy Professionalism
+  status: Passed
+  score: '0.0'
+  hours: '26.25'
+- date: 9/29/2022
+  course: PDP25086
+  title: 2022-2 Advanced Academy Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 9/21/2022
+  course: PDP43264
+  title: 2022-2 Advanced Academy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/15/2022
+  course: PDP38280
+  title: 2022-2 Advanced Academy Orientation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/5/2022
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm

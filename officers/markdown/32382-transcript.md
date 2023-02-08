@@ -42,6 +42,8 @@
 | 1/17/2023 | HBS06622 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/17/2023 | HBS27173 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/17/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |
+| 1/17/2023 | HBS35775 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
+| 1/17/2023 | HBS25455 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 11/18/2022 | VND13034 | Treasure Hidden in Trauma | Passed | 0.0 | 4.00 |
 | 11/18/2022 | HBS27211 | OPOA 52nd Law Enforcement Conference | Passed | 0.0 | 40.00 |
 | 11/17/2022 | VND34213 | Crisis De-Escalation | Passed | 0.0 | 4.00 |

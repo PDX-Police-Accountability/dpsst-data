@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2023
+  course: HBS25733
+  title: PREA  ADA Jail
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/16/2023
   course: HBS06622
   title: DEI Training
@@ -80,6 +86,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/16/2023
+  course: HBS35775
+  title: PREA  ADA Patrol
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/16/2023
+  course: HBS41113
+  title: Blood Borne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/14/2022
   course: HBS18349
   title: IFAST In-Service Training

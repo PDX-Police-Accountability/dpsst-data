@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 2/1/2023 | CAP27534 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
 | 1/10/2023 | CAP15716 | Tactical Duty Knife | Passed | 0.0 | 2.00 |
 | 12/14/2022 | CAP05723 | Night Shoot | Passed | 0.0 | 3.00 |

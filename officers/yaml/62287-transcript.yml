@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/28/2022
+  course: PDP08667
+  title: 2022-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 11/11/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -90,6 +96,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/4/2022
+  course: PDP25816
+  title: 2022-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '33.75'
+- date: 10/4/2022
+  course: PDP42366
+  title: 2022-2 Advanced Academy PVO (Other)
+  status: Passed
+  score: '0.0'
+  hours: '24.75'
+- date: 10/3/2022
+  course: PDP07108
+  title: 2022-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/29/2022
+  course: PDP25086
+  title: 2022-2 Advanced Academy Community Engagement
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 9/28/2022
+  course: PDP15858
+  title: 2022-2 Advanced Academy Crisis Intervention Trng
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 9/27/2022
+  course: PDP18150
+  title: 2022-2 Advanced Academy Patrol Procedures (UoF)
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
+- date: 9/27/2022
+  course: PDP25742
+  title: 2022-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 9/21/2022
+  course: PDP43264
+  title: 2022-2 Advanced Academy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/15/2022
+  course: PDP13830
+  title: 2022-2 Advanced Academy Professionalism
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/15/2022
+  course: PDP38280
+  title: 2022-2 Advanced Academy Orientation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/22/2022
   course: PDP33107
   title: 2021 Language Access Utilizing Bilingual Members

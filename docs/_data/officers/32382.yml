@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/17/2023
+  course: HBS35775
+  title: PREA  ADA Patrol
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/17/2023
+  course: HBS25455
+  title: Blood Borne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/18/2022
   course: VND13034
   title: Treasure Hidden in Trauma

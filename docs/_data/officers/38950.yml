@@ -125,6 +125,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/31/2023
+  course: HBS12241
+  title: Blood Borne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2023
+  course: HBS44850
+  title: PREA  ADA Patrol
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/29/2022
   course: HBS39105
   title: IFAST In-Service Training

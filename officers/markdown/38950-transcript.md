@@ -49,6 +49,8 @@
 | 1/31/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/31/2023 | HBS28334 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/31/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |
+| 1/31/2023 | HBS12241 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
+| 1/31/2023 | HBS44850 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
 | 11/29/2022 | HBS39105 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 11/22/2022 | HBS41262 | Undefined | Passed | 0.0 | 1.50 |
 | 10/15/2022 | HBS41678 | Civility  Harassment Free Workplace | Instructed | 0.0 | 2.00 |

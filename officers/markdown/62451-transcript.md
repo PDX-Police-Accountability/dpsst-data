@@ -31,22 +31,41 @@
 | 12/21/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/21/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/21/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP35805 | 2022-2 Advanced Academy Bike Training | Passed | 0.0 | 40.00 |
+| 12/4/2022 | PDP42366 | 2022-2 Advanced Academy PVO (Other) | Passed | 0.0 | 54.75 |
 | 11/29/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/29/2022 | PDP25742 | 2022-2 Advanced Academy Control Tactics | Passed | 0.0 | 62.75 |
+| 11/29/2022 | PDP00725 | 2022-2 Advanced Academy Law | Passed | 0.0 | 28.00 |
+| 11/28/2022 | PDP25816 | 2022-2 Advanced Academy Firearms | Passed | 0.0 | 69.25 |
+| 11/28/2022 | PDP08667 | 2022-2 Advanced Academy Wellness | Passed | 0.0 | 11.00 |
+| 11/23/2022 | PDP18150 | 2022-2 Advanced Academy Patrol Procedures (UoF) | Passed | 0.0 | 91.00 |
+| 11/22/2022 | PDP07108 | 2022-2 Advanced Academy Public Order | Passed | 0.0 | 9.25 |
+| 11/17/2022 | PDP03504 | 2022-2 Advanced Academy Fitness | Passed | 0.0 | 3.00 |
 | 11/14/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/14/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/14/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP15940 | 2022-2 Advanced Academy Ethics | Passed | 0.0 | 3.00 |
+| 11/8/2022 | PDP07650 | 2022-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 11/7/2022 | PDP29706 | 2022-3 Range Qualification Secondary FA (25 Round) | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/31/2022 | PDP15858 | 2022-2 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 16.50 |
 | 10/27/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/27/2022 | PDP31286 | 2022-2 Advanced Academy ECST | Passed | 0.0 | 4.00 |
+| 10/24/2022 | PDP41156 | 2022-2 Advanced Academy Patrol Procedures (Other) | Passed | 0.0 | 8.00 |
+| 10/18/2022 | PDP33281 | 2022-2 Advanced Academy PVO (UoF) | Passed | 0.0 | 2.25 |
+| 10/5/2022 | PDP13830 | 2022-2 Advanced Academy Professionalism | Passed | 0.0 | 26.25 |
+| 9/29/2022 | PDP25086 | 2022-2 Advanced Academy Community Engagement | Passed | 0.0 | 20.00 |
 | 9/28/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP25389 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/28/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 9/21/2022 | PDP43264 | 2022-2 Advanced Academy Procedural Justice | Passed | 0.0 | 2.25 |
+| 9/15/2022 | PDP38280 | 2022-2 Advanced Academy Orientation | Passed | 0.0 | 0.50 |
 | 8/31/2022 | PDP42210 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 8/30/2022 | PDP05774 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP10514 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |

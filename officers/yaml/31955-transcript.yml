@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/1/2023
+  course: CAP27534
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/25/2023
   course: CAP31130
   title: Handgun Qualifications / Basic Shield Use

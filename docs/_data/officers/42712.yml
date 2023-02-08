@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/8/2023
+  course: HBS43843
+  title: PREA  ADA Jail
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/7/2023
   course: HBS26156
   title: DEI Training

@@ -39,6 +39,8 @@
 | 1/23/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/23/2023 | HBS43909 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/23/2023 | HBS15406 | De-Escalation Training | Passed | 0.0 | 1.50 |
+| 1/23/2023 | HBS22423 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
+| 1/23/2023 | HBS15940 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 1/12/2023 | REG41083 | Take Downs/Open Guard | Passed | 0.0 | 1.00 |
 | 12/5/2022 | HBS39429 | 40MM Operators Course | Passed | 0.0 | 3.00 |
 | 12/1/2022 | VND09645 | Using the Dark Web in Sex Trafficking | Passed | 0.0 | 24.00 |

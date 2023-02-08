@@ -32,16 +32,35 @@
 | 12/20/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/20/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/16/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
+| 12/7/2022 | PDP35805 | 2022-2 Advanced Academy Bike Training | Passed | 0.0 | 40.00 |
+| 12/4/2022 | PDP42366 | 2022-2 Advanced Academy PVO (Other) | Passed | 0.0 | 54.75 |
+| 11/29/2022 | PDP00725 | 2022-2 Advanced Academy Law | Passed | 0.0 | 28.00 |
+| 11/29/2022 | PDP25742 | 2022-2 Advanced Academy Control Tactics | Passed | 0.0 | 65.00 |
+| 11/28/2022 | PDP25816 | 2022-2 Advanced Academy Firearms | Passed | 0.0 | 71.50 |
+| 11/28/2022 | PDP08667 | 2022-2 Advanced Academy Wellness | Passed | 0.0 | 11.00 |
+| 11/23/2022 | PDP18150 | 2022-2 Advanced Academy Patrol Procedures (UoF) | Passed | 0.0 | 91.00 |
+| 11/22/2022 | PDP07108 | 2022-2 Advanced Academy Public Order | Passed | 0.0 | 9.25 |
+| 11/17/2022 | PDP03504 | 2022-2 Advanced Academy Fitness | Passed | 0.0 | 3.00 |
 | 11/14/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/14/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/14/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/10/2022 | PDP15940 | 2022-2 Advanced Academy Ethics | Passed | 0.0 | 3.00 |
+| 11/8/2022 | PDP07650 | 2022-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/31/2022 | PDP15858 | 2022-2 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 21.00 |
+| 10/27/2022 | PDP31286 | 2022-2 Advanced Academy ECST | Passed | 0.0 | 4.00 |
+| 10/24/2022 | PDP41156 | 2022-2 Advanced Academy Patrol Procedures (Other) | Passed | 0.0 | 8.00 |
 | 10/23/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/20/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/20/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
+| 10/18/2022 | PDP33281 | 2022-2 Advanced Academy PVO (UoF) | Passed | 0.0 | 2.25 |
+| 10/5/2022 | PDP13830 | 2022-2 Advanced Academy Professionalism | Passed | 0.0 | 26.25 |
+| 9/29/2022 | PDP25086 | 2022-2 Advanced Academy Community Engagement | Passed | 0.0 | 20.00 |
+| 9/21/2022 | PDP43264 | 2022-2 Advanced Academy Procedural Justice | Passed | 0.0 | 2.25 |
+| 9/15/2022 | PDP38280 | 2022-2 Advanced Academy Orientation | Passed | 0.0 | 0.50 |
 | 9/5/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/30/2022 | PDP31681 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
