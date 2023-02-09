@@ -376,6 +376,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/6/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/14/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

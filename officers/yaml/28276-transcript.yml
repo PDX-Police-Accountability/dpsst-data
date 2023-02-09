@@ -123,6 +123,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2023
+  course: SVP36953
+  title: Halogen Training with SFD
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/1/2023
+  course: SVP12293
+  title: Axon Body Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2023
+  course: SVP13662
+  title: Taser Annual Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/19/2023
   course: SVP14065
   title: Axon Body Camera Training Power Point

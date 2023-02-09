@@ -48,6 +48,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2023 | SVP36953 | Halogen Training with SFD | Passed | 0.0 | 2.00 |
+| 2/1/2023 | SVP12293 | Axon Body Camera Training | Passed | 0.0 | 0.50 |
+| 1/29/2023 | SVP13662 | Taser Annual Recertification | Passed | 0.0 | 1.00 |
 | 1/19/2023 | SVP14065 | Axon Body Camera Training Power Point | Passed | 0.0 | 1.00 |
 | 12/28/2022 | SVP08370 | Active Shooter (Con Sim) Training | Passed | 0.0 | 4.00 |
 | 11/30/2022 | SVP08365 | Firearms Training | Instructed | 0.0 | 4.00 |

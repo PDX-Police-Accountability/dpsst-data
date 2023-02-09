@@ -38,7 +38,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | BNP27464 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
-| 1/21/2023 | BNP20261 | Hostage Rescue / Building Clearing |  | 0.0 | 1.00 |
+| 2/5/2023 | BNP20650 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
+| 1/21/2023 | BNP20261 | Hostage Rescue / Building Clearing | Passed | 0.0 | 1.00 |
 | 1/12/2023 | BNP29320 | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/30/2022 | BNP12936 | Legal Updates | Passed | 0.0 | 4.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

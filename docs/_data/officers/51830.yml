@@ -205,6 +205,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/5/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/4/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories

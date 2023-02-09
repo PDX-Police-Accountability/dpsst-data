@@ -119,6 +119,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/13/2023
+  course: F6R35238
+  title: Violent Extremism in America
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/13/2023
+  course: F6R29896
+  title: Managing Personal Energy for Balance/Productivity
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/12/2023
+  course: F6R31032
+  title: Crisis Communications for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/11/2023
+  course: F6R17124
+  title: 2020's Portland, Oregon Protests  Civil Disorder
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/5/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

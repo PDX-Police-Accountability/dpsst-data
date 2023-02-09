@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 12/9/2022
+  course: PDP05930
+  title: FBI Regional Crisis Negotiation Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 11/17/2022
   course: PDP07684
   title: Crisis Negotiation Team Annual Training

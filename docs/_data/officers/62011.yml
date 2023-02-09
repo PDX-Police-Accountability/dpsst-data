@@ -151,12 +151,6 @@ training_records:
   score: '0.0'
   hours: '0.50'
 - date: 10/31/2022
-  course: PDP33717
-  title: 2022 Crowd Management
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 10/31/2022
   course: PDP15858
   title: 2022-2 Advanced Academy Crisis Intervention Trng
   status: Passed

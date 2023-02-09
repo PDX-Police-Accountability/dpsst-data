@@ -30,18 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/19/2023
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 11/10/2022
   course: REG24959
   title: Intox 8000
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 9/12/2022
-  course: M10-22A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '640.00'
 - date: 9/8/2022
   course: PDP32886
   title: FTEP Policy  Procedure Training

@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/26/2023
+  course: BPT43048
+  title: RADAR/LIDAR Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/23/2023
+  course: BPT40820
+  title: Instructor Core
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/31/2022
   course: TAP05357
   title: LEXIPOL Daily Training Bulletins Jan-Dec 2022

@@ -149,6 +149,7 @@
 | 9/16/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/16/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 9/9/2021 | PDP40070 | Interview and Interrogation | Passed | 0.0 | 24.00 |
+| 9/9/2021 | OCS37409 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 9/2/2021 | PDP12539 | Child Sex Trafficking From Suspicion to Disclosure | Passed | 0.0 | 7.00 |
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |

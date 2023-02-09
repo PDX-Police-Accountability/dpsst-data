@@ -277,6 +277,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/11/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/23/2022
   course: PDP11139
   title: 2022-2 Range Qualification 40mm Less Lethal

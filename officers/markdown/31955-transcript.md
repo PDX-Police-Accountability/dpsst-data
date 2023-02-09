@@ -50,6 +50,9 @@
 | 2/1/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/1/2023 | CAP27534 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
+| 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
+| 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 4.00 |
+| 1/11/2023 | F6R17124 | 2020's Portland, Oregon Protests  Civil Disorder | Passed | 0.0 | 4.00 |
 | 1/10/2023 | CAP15716 | Tactical Duty Knife | Passed | 0.0 | 2.00 |
 | 12/14/2022 | CAP05723 | Night Shoot | Passed | 0.0 | 3.00 |
 | 11/30/2022 | CAP23455 | Interefering with a Police Officer Refresher | Passed | 0.0 | 0.50 |

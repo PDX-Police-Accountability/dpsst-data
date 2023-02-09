@@ -39,6 +39,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/18/2023 | SDP22034 | CPR, AED, Children, Infants, Adults, First Aid | Passed | 0.0 | 5.00 |
+| 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
+| 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
+| 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 4.00 |
+| 1/11/2023 | F6R17124 | 2020's Portland, Oregon Protests  Civil Disorder | Passed | 0.0 | 4.00 |
 | 12/22/2022 | HBS39606 | Active Threat | Passed | 0.0 | 9.00 |
 | 12/15/2022 | REG41163 | Guard Bottom - sweeps, reversals | Passed | 0.0 | 1.00 |
 | 12/14/2022 | SDP18151 | Handgun Qualification/Table Top Scenarios | Passed | 0.0 | 5.00 |

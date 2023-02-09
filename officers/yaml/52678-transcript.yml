@@ -253,6 +253,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/1/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/30/2022
   course: PDP35733
   title: 2022 ABLE Performance Reviews for Supervisors Swrn

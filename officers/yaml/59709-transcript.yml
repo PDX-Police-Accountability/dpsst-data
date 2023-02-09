@@ -42,10 +42,16 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/5/2023
+  course: BNP20650
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/21/2023
   course: BNP20261
   title: Hostage Rescue / Building Clearing
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 1/12/2023

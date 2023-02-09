@@ -252,6 +252,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/27/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/17/2022
   course: PDP30324
   title: 2022-1 CAO Legal Updates for 01/2022

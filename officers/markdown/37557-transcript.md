@@ -42,11 +42,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/20/2023 | LOP34640 | Firearms | Passed | 0.0 | 4.00 |
+| 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
+| 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
+| 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 4.00 |
+| 1/11/2023 | F6R17124 | 2020's Portland, Oregon Protests  Civil Disorder | Passed | 0.0 | 4.00 |
 | 12/31/2022 | LOP08258 | Threat of Harm vs Behavioral Safety Assessment | Passed | 0.0 | 0.50 |
 | 12/16/2022 | LOP13198 | Con-Sim training | Passed | 0.0 | 1.50 |
 | 12/14/2022 | LOP30035 | Legislative Update -SB1510 | Passed | 0.0 | 0.50 |
 | 12/1/2022 | LOP15466 | 40mm Less-Lethal Recertification | Passed | 0.0 | 4.00 |
 | 11/15/2022 | LOP10693 | CCDA Interfering with a Police Officer updates | Passed | 0.0 | 0.75 |
+| 11/7/2022 | LOP02645 | Disaster Plan Review | Passed | 0.0 | 0.50 |
 | 11/6/2022 | LOP03609 | First Aid | Passed | 0.0 | 2.00 |
 | 10/30/2022 | LOP11762 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 10/25/2022 | LOP16443 | Taser X26P Recertification Training | Passed | 0.0 | 4.00 |

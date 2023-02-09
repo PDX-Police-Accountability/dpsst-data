@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2023 | OSH27011 | OIS Investigations - Lane County IDFIT Training | Passed | 0.0 | 4.00 |
 | 11/18/2022 | BSP04855 | Death Investigation | Passed | 0.0 | 4.00 |
 | 11/1/2022 | OSH25060 | 2022 Ethics Training | Passed | 0.0 | 1.00 |
 | 10/28/2022 | OSH34559 | 2022 OSP Detective Academy | Passed | 0.0 | 44.00 |

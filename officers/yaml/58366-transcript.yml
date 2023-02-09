@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/2/2023
+  course: OSH27011
+  title: OIS Investigations - Lane County IDFIT Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/18/2022
   course: BSP04855
   title: Death Investigation

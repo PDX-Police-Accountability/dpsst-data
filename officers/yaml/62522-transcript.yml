@@ -151,12 +151,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 10/31/2022
-  course: PDP33717
-  title: 2022 Crowd Management
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 10/31/2022
   course: PDP40447
   title: 2022 MCDA Probable Cause Refresher Training
   status: Passed

@@ -48,7 +48,6 @@
 | 11/8/2022 | PDP07650 | 2022-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
-| 10/31/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP15858 | 2022-2 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 21.00 |
 | 10/27/2022 | PDP31286 | 2022-2 Advanced Academy ECST | Passed | 0.0 | 4.00 |

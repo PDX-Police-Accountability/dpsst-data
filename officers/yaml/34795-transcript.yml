@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/17/2023
+  course: OCS11089
+  title: Concealed Carry/Shoot-No Shoot Pistol and Rifle
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/30/2022
   course: OCS15169
   title: Target zone transitions, marksmanship

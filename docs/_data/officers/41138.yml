@@ -396,6 +396,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/9/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/2/2022
   course: PDP18361
   title: Slow Clears  Search Warrant Entry Training

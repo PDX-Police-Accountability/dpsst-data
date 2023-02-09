@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/24/2023 | HDA34164 | Excel for Public Safety | Passed | 0.0 | 16.00 |
+| 12/21/2022 | PDP03323 | Conflict at the Fence: Tools | Passed | 0.0 | 1.00 |
 | 12/20/2022 | PDP11766 | FEMA IS-241.C | Passed | 0.0 | 2.00 |
 | 12/20/2022 | PDP29336 | FEMA IS-244.B | Passed | 0.0 | 4.00 |
 | 12/15/2022 | PDP14548 | 2022 Supervisor In-Service After Action Reporting | Passed | 0.0 | 1.25 |

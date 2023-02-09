@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/3/2023
+  course: WLP33701
+  title: New Hire Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/2/2023
   course: WLP08967
   title: Adult / Child CPR/AED First Aid

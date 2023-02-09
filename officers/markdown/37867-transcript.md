@@ -88,6 +88,7 @@
 | 6/29/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
 | 6/29/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/29/2022 | PDP39583 | 2022-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 6/29/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
 | 6/24/2022 | PDP31246 | Large Caliber Rifle Instructor Course | Passed | 0.0 | 45.00 |
 | 6/16/2022 | PDP37828 | Range Training Inner Perimeter  Weapon Drills | Passed | 0.0 | 9.00 |
 | 6/5/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

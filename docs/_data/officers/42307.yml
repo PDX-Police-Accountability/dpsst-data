@@ -320,6 +320,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 7/1/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/23/2022
   course: PDP09581
   title: Standardized Field Sobriety Refersher Training

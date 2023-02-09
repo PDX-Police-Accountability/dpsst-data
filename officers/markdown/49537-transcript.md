@@ -148,6 +148,7 @@
 | 9/16/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 9/16/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
 | 9/9/2021 | PDP40070 | Interview and Interrogation | Passed | 0.0 | 24.00 |
+| 9/9/2021 | OCS37409 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 8/30/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 8/30/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/17/2021 | PDP21561 | 2021 CNT Annual Training | Passed | 0.0 | 9.00 |

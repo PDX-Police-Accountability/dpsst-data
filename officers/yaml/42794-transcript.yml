@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/2/2023
+  course: OCS43944
+  title: Honor Guard Revolver Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/28/2022
   course: OCS33699
   title: Marksmanship/Problem Solving

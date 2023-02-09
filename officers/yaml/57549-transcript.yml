@@ -216,6 +216,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/1/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/27/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

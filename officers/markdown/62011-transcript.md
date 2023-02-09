@@ -48,7 +48,6 @@
 | 11/9/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/8/2022 | PDP07650 | 2022-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 10/31/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
-| 10/31/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/31/2022 | PDP15858 | 2022-2 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 21.00 |
 | 10/27/2022 | PDP31286 | 2022-2 Advanced Academy ECST | Passed | 0.0 | 4.00 |
 | 10/26/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

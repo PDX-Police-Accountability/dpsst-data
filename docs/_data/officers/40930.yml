@@ -381,6 +381,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/31/2022
+  course: PDP33640
+  title: 2022 Range Qualification AR-15 Qualification 100yd
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/16/2022
   course: PDP29974
   title: SharePoint Lesson Plan Training
