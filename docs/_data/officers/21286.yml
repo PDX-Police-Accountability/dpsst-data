@@ -2260,6 +2260,18 @@ training_records:
   score: '0.0'
   hours: '280.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/7/2022
+  expiration_date: 4/7/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/7/2022
@@ -2267,11 +2279,23 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2022
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/8/2021
   expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 1/8/2021
+  expiration_date: ''
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2021
+  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2021
