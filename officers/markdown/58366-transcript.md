@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/2/2023 | OSH27011 | OIS Investigations - Lane County IDFIT Training | Passed | 0.0 | 4.00 |
 | 11/18/2022 | BSP04855 | Death Investigation | Passed | 0.0 | 4.00 |
 | 11/1/2022 | OSH25060 | 2022 Ethics Training | Passed | 0.0 | 1.00 |

@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2023
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 1/20/2023
   course: MNS26072
   title: CPR Recertification
@@ -2700,14 +2706,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/20/2023
   expiration_date: 1/20/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/20/2023
-  expiration_date: 1/20/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -2720,18 +2718,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/29/2006
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/29/2006

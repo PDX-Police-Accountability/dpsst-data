@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 10/13/2022 | 10/13/2024 |
 | Certification Cards | First Aid and CPR | 10/13/2022 | 10/13/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 6/19/2003 |  |
 | Code of Ethics | Signed | 6/19/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,7 @@
 | 12/15/2022 | GSP43316 | 2022 Ethics In Service | Passed | 0.0 | 1.00 |
 | 12/7/2022 | GSP11722 | Red Dot Transition | Instructed | 0.0 | 30.00 |
 | 12/1/2022 | LCP27290 | Homicide and Crime Scene Investigations | Passed | 0.0 | 20.00 |
+| 10/19/2022 | GSP14088 | Red Dot Transition | Instructed | 0.0 | 30.00 |
 | 10/13/2022 | GSP17921 | CPR and First Aid | Passed | 0.0 | 2.50 |
 | 6/30/2022 | GSP27508 | Pistol Mounted Optics Instructor Course | Passed | 0.0 | 24.00 |
 | 6/27/2022 | GSP08384 | 2022 Spring Rifle In Service | Instructed | 0.0 | 10.00 |

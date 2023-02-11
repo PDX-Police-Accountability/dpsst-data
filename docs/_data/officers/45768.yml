@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2023
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/14/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -3212,18 +3218,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -3235,14 +3229,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 7/20/2021
   expiration_date: 7/20/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/20/2021
-  expiration_date: 7/20/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/12/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/12/2005

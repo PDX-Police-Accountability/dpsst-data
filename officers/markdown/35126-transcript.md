@@ -4,7 +4,7 @@
 | name | McIntyre, Bradley E. |
 | dpsst_identifier | 35126 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Criminalist |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/31/2023 | Portland Police Bureau | Retired | Criminalst |  |  |
 | 2/26/2021 | Portland Police Bureau | LOA | Criminalst |  |  |
 | 12/22/2015 | Portland Police Bureau | Return LOA | Criminalst |  |  |
 | 2/11/2015 | Portland Police Bureau | LOA | Criminalst |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/10/2012 | Police Officer | Advanced | Granted-UR | 2/10/2012 |  |  |
-| 2/10/2012 | Police Officer | Intermediate | Granted-UR | 2/10/2012 |  |  |
-| 11/3/1998 | Police Officer | Basic | Granted-UR | 11/3/1998 |  |  |
+| 2/10/2012 | Police Officer | Advanced | Granted-UR | 2/10/2012 | 5/1/2023 |  |
+| 2/10/2012 | Police Officer | Intermediate | Granted-UR | 2/10/2012 | 5/1/2023 |  |
+| 11/3/1998 | Police Officer | Basic | Granted-UR | 11/3/1998 | 5/1/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

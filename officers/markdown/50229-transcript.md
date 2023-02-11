@@ -26,13 +26,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
 | Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
 | Certification Cards | First Aid and CPR | 5/3/2021 | 5/31/2023 |
-| Certification Cards | First Aid and CPR | 5/3/2021 | 5/31/2023 |
-| Code of Ethics | Signed | 2/27/2009 |  |
 | Code of Ethics | Signed | 2/27/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/9/2022 | TRN36598 | P25 Radio Operator Training Course VPT2022 | Passed | 0.0 | 1.00 |
 | 11/12/2022 | TRN20456 | Airway and Circulatory Anatomy Training (ACAP) | Passed | 0.0 | 2.00 |
 | 11/11/2022 | TRN20486 | Basic Public Records Training v2022 | Passed | 0.0 | 2.00 |
 | 11/11/2022 | TRN40851 | ICS for Corrections Review v2022 | Passed | 0.0 | 1.00 |

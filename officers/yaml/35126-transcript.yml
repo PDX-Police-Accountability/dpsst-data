@@ -3,12 +3,18 @@ header_record:
   name: McIntyre, Bradley E.
   dpsst_identifier: '35126'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/31/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 2/26/2021
   agency: Portland Police Bureau
   action: LOA
@@ -45,21 +51,21 @@ certification_records:
   level: Advanced
   status: Granted-UR
   certificate_date: 2/10/2012
-  expiration_date: ''
+  expiration_date: 5/1/2023
   probation_date: ''
 - status_date: 2/10/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted-UR
   certificate_date: 2/10/2012
-  expiration_date: ''
+  expiration_date: 5/1/2023
   probation_date: ''
 - status_date: 11/3/1998
   certificate: Police Officer
   level: Basic
   status: Granted-UR
   certificate_date: 11/3/1998
-  expiration_date: ''
+  expiration_date: 5/1/2023
   probation_date: ''
 training_records:
 - date: 12/31/2021

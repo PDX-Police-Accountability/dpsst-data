@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
 | Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 | 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |
 | 1/24/2023 | MLP10158 | Handgun Qualification | Instructed | 0.0 | 3.00 |
 | 1/17/2023 | MLP14431 | Handgun Qualification | Instructed | 0.0 | 4.00 |
+| 1/17/2023 | MLP21301 | Pistol Qualification | Instructed | 0.0 | 1.00 |
 | 1/13/2023 | MLP06012 | ORPAT | Instructed | 0.0 | 1.00 |
 | 12/21/2022 | MLP07375 | Maintaining A Drug-Free Workplace | Passed | 0.0 | 1.00 |
 | 12/20/2022 | F6R11172 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |

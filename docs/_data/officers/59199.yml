@@ -43,6 +43,24 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 2/8/2023
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/8/2023
+  course: ALS24773
+  title: Annual Anti-Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/7/2023
+  course: ALS44225
+  title: Taser Certification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/11/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

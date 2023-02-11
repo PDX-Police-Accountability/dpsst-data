@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
 | Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Code of Ethics | Signed | 12/16/2016 |  |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,6 +50,7 @@
 | 9/16/2022 | TGP42147 | Fall Firearms Training | Passed | 0.0 | 8.00 |
 | 9/14/2022 | HBS11812 | Preparing for Advancement A Seminar for Candidates | Passed | 0.0 | 8.00 |
 | 8/18/2022 | TGP03346 | Respiratory Protection | Passed | 0.0 | 0.50 |
+| 7/15/2022 | TGP10790 | Pacing for Speed Enforcement  Window Tint Meters | Passed | 0.0 | 0.50 |
 | 6/27/2022 | BPT02401 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/3/2022 | TGP10075 | Firearms | Passed | 0.0 | 8.00 |
 | 5/9/2022 | TGP02126 | 2022 MHRT Update | Passed | 0.0 | 1.00 |
