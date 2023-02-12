@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/1/2023 | SVP36953 | Halogen Training with SFD | Passed | 0.0 | 2.00 |
 | 2/1/2023 | SVP12293 | Axon Body Camera Training | Passed | 0.0 | 0.50 |
 | 1/29/2023 | SVP13662 | Taser Annual Recertification | Passed | 0.0 | 1.00 |

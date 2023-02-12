@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2023 | SDP17889 | Bloodborne Pathogens and Hazardous Materials | Passed | 0.0 | 2.00 |
 | 1/18/2023 | SDP22034 | CPR, AED, Children, Infants, Adults, First Aid | Passed | 0.0 | 5.00 |
+| 1/18/2023 | SDP20047 | CPR, AED, Children, Infants, Adults, First Aid | Passed | 0.0 | 5.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
 | 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 4.00 |

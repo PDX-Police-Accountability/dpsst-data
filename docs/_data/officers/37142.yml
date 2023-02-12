@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/17/2023
+  agency: Springfield Police Department
+  action: Hired
+  rank: Dpty Chief
+  classification: ''
+  assignment: ''
 - date: 1/13/2023
   agency: Portland Police Bureau
   action: Retired
@@ -75,42 +81,42 @@ certification_records:
   level: Executive
   status: Granted
   certificate_date: 10/4/2022
-  expiration_date: 4/13/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 4/21/2020
   certificate: Police Officer
   level: Management
   status: Granted
   certificate_date: 4/21/2020
-  expiration_date: 4/13/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: 4/13/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: 4/13/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: 4/13/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 2/8/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/8/2000
-  expiration_date: 4/13/2023
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/9/2022

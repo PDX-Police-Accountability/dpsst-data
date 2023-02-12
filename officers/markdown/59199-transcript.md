@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/1/2023 | Linn County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 4/23/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 4/22/2020 | DOC/Oregon State Penitentiary | Resigned | Corr Offcr |  |  |
 | 10/1/2018 | DOC/Oregon State Penitentiary | Hired | Corr Offcr |  |  |
@@ -23,9 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 2/8/2023 | 2/8/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/24/2019 |  |
@@ -35,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2023 | ALS40572 | Annual NARCAN Administration Training | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/8/2023 | ALS24773 | Annual Anti-Harassment Training | Passed | 0.0 | 2.00 |
 | 2/7/2023 | ALS44225 | Taser Certification | Passed | 0.0 | 8.00 |

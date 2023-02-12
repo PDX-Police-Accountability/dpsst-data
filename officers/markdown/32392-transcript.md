@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/23/2022 | TGP33128 | Motivational Ethics | Passed | 0.0 | 2.00 |
 | 10/18/2022 | TGP21919 | ROVT Operator Training | Instructed | 0.0 | 1.50 |
