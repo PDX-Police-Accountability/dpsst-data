@@ -41,6 +41,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/13/2023
+  course: PDS44545
+  title: Power DMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/30/2022
   course: PDS08867
   title: Gun Dispossession Enforcement  ERPO

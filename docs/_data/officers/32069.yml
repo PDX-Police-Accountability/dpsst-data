@@ -56,18 +56,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2023
+  course: SDP13145
+  title: Behavioral Health Incident Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/8/2023
+  course: SDP14119
+  title: LEDS 20/20 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/8/2023
+  course: SDP39678
+  title: Active Shooter Building Clearing Training
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/3/2023
   course: SDP17889
   title: Bloodborne Pathogens and Hazardous Materials
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 1/18/2023
-  course: SDP22034
-  title: CPR, AED, Children, Infants, Adults, First Aid
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 1/18/2023
   course: SDP20047
   title: CPR, AED, Children, Infants, Adults, First Aid
@@ -3876,7 +3888,7 @@ attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/18/2023
-  expiration_date: 3/31/2023
+  expiration_date: 3/31/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3889,10 +3901,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/2/2021
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/6/2021
-  expiration_date: 5/6/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/15/2008

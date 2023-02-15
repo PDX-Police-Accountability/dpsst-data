@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
+| 1/30/2023 | PDS23369 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/27/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/27/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 12/1/2022 | PDS16690 | Firearms Training | Passed | 0.0 | 3.00 |

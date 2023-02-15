@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2023 | PDS27455 | Rifle Qualifications | Passed | 0.0 | 4.00 |
+| 1/18/2023 | PDS26103 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 1/11/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/11/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/11/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

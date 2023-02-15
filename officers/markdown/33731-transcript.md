@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2023 | PDN22435 | Mental Health Interventions for Law Enforcement | Passed | 0.0 | 3.00 |
 | 2/7/2023 | PDN18747 | Defensive Tactics-Basic Handcuffing | Passed | 0.0 | 1.50 |
 | 12/15/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2022 | PDN05703 | Field Applications-Tactical Medicine | Passed | 0.0 | 1.50 |

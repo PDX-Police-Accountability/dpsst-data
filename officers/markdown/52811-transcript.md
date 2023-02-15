@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2023 | PDS21044 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
+| 2/3/2023 | PDS27455 | Rifle Qualifications | Passed | 0.0 | 4.00 |
+| 1/30/2023 | PDS23369 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 1/16/2023 | PDS33713 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 1/12/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
+| 1/9/2023 | PDS07189 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 1/3/2023 | PDS08755 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/15/2022 | PDS41241 | SWAT | Passed | 0.0 | 8.00 |
 | 12/14/2022 | PDS15045 | SWAT | Passed | 0.0 | 8.00 |
 | 12/12/2022 | PDS22837 | Defensive Tactics | Instructed | 0.0 | 8.00 |

@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/11/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/13/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 11/16/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |

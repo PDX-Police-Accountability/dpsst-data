@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/16/2023 | PDS08295 | Court Services Courtroom Security | Passed | 0.0 | 3.50 |
+| 1/16/2023 | PDS10213 | Court Services Radio Communication | Passed | 0.0 | 3.50 |
+| 1/10/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/21/2022 | PDS22735 | Distracted Driving | Passed | 0.0 | 0.50 |
 | 12/13/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/9/2022 | PDS32981 | Defensive Tactics | Passed | 0.0 | 8.00 |

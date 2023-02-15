@@ -25,11 +25,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2023 |
+| Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2023 | SDP13145 | Behavioral Health Incident Training | Passed | 0.0 | 1.00 |
+| 2/8/2023 | SDP14119 | LEDS 20/20 Training | Passed | 0.0 | 1.00 |
+| 2/8/2023 | SDP39678 | Active Shooter Building Clearing Training | Instructed | 0.0 | 3.00 |
 | 2/3/2023 | SDP17889 | Bloodborne Pathogens and Hazardous Materials | Passed | 0.0 | 2.00 |
-| 1/18/2023 | SDP22034 | CPR, AED, Children, Infants, Adults, First Aid | Passed | 0.0 | 5.00 |
 | 1/18/2023 | SDP20047 | CPR, AED, Children, Infants, Adults, First Aid | Passed | 0.0 | 5.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |

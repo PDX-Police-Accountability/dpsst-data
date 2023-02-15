@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/14/2023 | Multnomah County District Attorney | Hired | Investigtr |  |  |
 | 9/26/2019 | Portland Police Bureau | Resigned | Detective |  |  |
 | 9/28/2017 | Portland Police Bureau | Hired | Detective |  |  |
 | 9/27/2017 | Portland Police Bureau | Retired | Detective |  |  |
@@ -23,6 +24,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/14/2023 | Police Officer | Basic | Required |  |  | 9/14/2024 |
 | 12/26/2019 | Police Officer | Advanced | Lapsed | 10/20/1994 |  |  |
 | 12/26/2019 | Police Officer | Basic | Lapsed | 7/30/1987 |  |  |
 | 12/26/2019 | Police Officer | Intermediate | Lapsed | 2/11/1992 |  |  |
@@ -37,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2023 | 23-0009 | DPSST Basic Police COD | Pending | 0.0 | 80.00 |
 | 8/26/2019 | PDP02916 | 2019 CHO SPLC Law Enforce Response to Hate Events | Passed | 0.0 | 0.25 |
 | 7/1/2019 | PDP14297 | 2019-7 UPDATED Tips  Tech CAD Study Codes Updated | Passed | 0.0 | 0.25 |
 | 7/1/2019 | PDP27613 | 2019-5 City Attorney's Office Legal Updates 5/2019 | Passed | 0.0 | 0.25 |

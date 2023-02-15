@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2023 | STP35963 | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 1/24/2023 | STP10888 | Night Shooting Qualification and Training | Passed | 0.0 | 4.00 |
 | 1/24/2023 | STP27924 | Reducing Lead Exposure From Firearms Training | Passed | 0.0 | 0.50 |
 | 12/8/2022 | STP10082 | Defensive Tactics | Instructed | 0.0 | 4.00 |

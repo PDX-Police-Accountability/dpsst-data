@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/1/2022
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
 - date: 1/10/2020
   agency: U.S. Postal Inspection Service
   action: Active
@@ -27,8 +33,21 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 8/1/2022
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/1/2024
 training_records:
+- date: 4/10/2023
+  course: 23-0009
+  title: DPSST Basic Police COD
+  status: Pending
+  score: '0.0'
+  hours: '80.00'
 - date: 1/10/2020
   course: M-FED17A
   title: Oregon Arrest Authority for Federal Officers

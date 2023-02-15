@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/10/2023
+  course: PDN22435
+  title: Mental Health Interventions for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/7/2023
   course: PDN18747
   title: Defensive Tactics-Basic Handcuffing

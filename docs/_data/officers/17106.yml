@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/14/2023
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
 - date: 9/26/2019
   agency: Portland Police Bureau
   action: Resigned
@@ -58,6 +64,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/14/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 9/14/2024
 - status_date: 12/26/2019
   certificate: Police Officer
   level: Advanced
@@ -80,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2023
+  course: 23-0009
+  title: DPSST Basic Police COD
+  status: Pending
+  score: '0.0'
+  hours: '80.00'
 - date: 8/26/2019
   course: PDP02916
   title: 2019 CHO SPLC Law Enforce Response to Hate Events

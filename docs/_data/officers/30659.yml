@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2023
+  course: PDS44545
+  title: Power DMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2022
   course: 22-CVDL3
   title: 2022 LE Basic 3 Year Maint-Not Met COVID19

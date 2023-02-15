@@ -48,12 +48,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2023
+  course: PDS01115
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/26/2023
+  course: PDS30531
+  title: Mind Set
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/2/2023
+  course: PDS07070
+  title: Benchmark Analytics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/2/2023
+  course: PDS23366
+  title: TacMed
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/16/2023
+  course: PDS33713
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/12/2023
+  course: PDS09593
+  title: Use of Force Update for Supervisors
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/12/2023
+  course: PDS13561
+  title: DEI for Leaders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/12/2023
+  course: PDS27188
+  title: Report Writing for Supervisors
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/9/2023
+  course: PDS44545
+  title: Power DMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2023
+  course: PDS09395
+  title: Crisis Communications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/30/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/29/2022
+  course: PDS26680
+  title: Command Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/28/2022
   course: PDS42655
   title: Airway  Circulatory Crisis Training  Response

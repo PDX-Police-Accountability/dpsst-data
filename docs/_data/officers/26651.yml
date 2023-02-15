@@ -81,6 +81,24 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 2/8/2023
+  course: PDS11492
+  title: Benchmark Analytics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/26/2023
+  course: PDS39083
+  title: Benchmark
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/12/2023
+  course: PDS27188
+  title: Report Writing for Supervisors
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/21/2022
   course: PDS35577
   title: Use of Force Report Reviews

@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2023
+  course: PDS23369
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/10/2023
+  course: PDS44545
+  title: Power DMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/13/2022
   course: PDS09552
   title: OSHA

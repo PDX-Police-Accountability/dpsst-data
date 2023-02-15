@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/3/2023 | PDS27455 | Rifle Qualifications | Passed | 0.0 | 4.00 |
+| 1/23/2023 | PDS35120 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 1/16/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/14/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/14/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 11/14/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |

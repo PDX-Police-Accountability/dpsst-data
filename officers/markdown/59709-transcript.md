@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 2/10/2021 | 2/10/2023 |
@@ -38,6 +39,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | BNP27464 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
+| 2/7/2023 | BNP08089 | First Aid / CPR | Passed | 0.0 | 2.00 |
+| 2/7/2023 | BNP11603 | Mental Health | Passed | 0.0 | 0.50 |
+| 2/7/2023 | BNP15388 | Ethos Leadership Academy | Passed | 0.0 | 3.00 |
+| 2/7/2023 | BNP36803 | Legal Update | Passed | 0.0 | 1.00 |
+| 2/7/2023 | BNP44596 | Taser Recertification | Passed | 0.0 | 3.00 |
+| 2/7/2023 | BNP19132 | Water Rescue | Passed | 0.0 | 0.50 |
 | 2/5/2023 | BNP20650 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 1/21/2023 | BNP20261 | Hostage Rescue / Building Clearing | Passed | 0.0 | 1.00 |
 | 1/12/2023 | BNP29320 | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |

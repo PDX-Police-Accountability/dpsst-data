@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/29/2023
+  course: MNS32980
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/20/2023
   course: MNS26072
   title: CPR Recertification

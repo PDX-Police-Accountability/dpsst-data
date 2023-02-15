@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2023 | PDS11492 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
+| 1/26/2023 | PDS39083 | Benchmark | Instructed | 0.0 | 4.00 |
+| 1/12/2023 | PDS27188 | Report Writing for Supervisors | Passed | 0.0 | 2.00 |
 | 12/21/2022 | PDS35577 | Use of Force Report Reviews | Instructed | 0.0 | 4.00 |
 | 12/14/2022 | PDS23082 | Use of Force | Instructed | 0.0 | 4.00 |
 | 8/10/2022 | PDS40603 | Fentanyl | Passed | 0.0 | 1.50 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/31/2022 | 22-CVDL3 | 2022 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/15/2022 | PDS21977 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/12/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |

@@ -12,12 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/1/2022 | Multnomah County District Attorney | Hired | Investigtr |  |  |
 | 1/10/2020 | U.S. Postal Inspection Service | Active | FedOfficer |  |  |
 | 5/19/1999 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 8/1/2022 | Police Officer | Basic | Required |  |  | 2/1/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -27,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2023 | 23-0009 | DPSST Basic Police COD | Pending | 0.0 | 80.00 |
 | 1/10/2020 | M-FED17A | Oregon Arrest Authority for Federal Officers | Completed | 0.0 | 2.00 |
 | 9/20/2002 | 02U002 | Approved Out-of-State Training | Passed | 0.0 | 544.00 |
 | 7/29/2002 | 02U002 | Approved Out-of-State Training | Passed | 0.0 | 415.00 |

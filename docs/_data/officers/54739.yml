@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/5/2023
+  course: PDS10966
+  title: Gun Dispossession and Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/11/2022
   course: PDS09552
   title: OSHA

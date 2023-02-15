@@ -57,6 +57,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2023
+  course: PDS21044
+  title: Sergeant Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/3/2023
+  course: PDS27455
+  title: Rifle Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/30/2023
+  course: PDS23369
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/16/2023
+  course: PDS33713
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/12/2023
+  course: PDS44545
+  title: Power DMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2023
+  course: PDS07189
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/3/2023
+  course: PDS08755
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/15/2022
   course: PDS41241
   title: SWAT

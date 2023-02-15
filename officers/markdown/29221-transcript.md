@@ -35,6 +35,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/11/2021 | 2/11/2023 |
@@ -48,6 +49,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | BNP27464 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
+| 2/7/2023 | BNP08089 | First Aid / CPR | Passed | 0.0 | 2.00 |
+| 2/7/2023 | BNP15388 | Ethos Leadership Academy | Passed | 0.0 | 3.00 |
+| 2/7/2023 | BNP11603 | Mental Health | Passed | 0.0 | 0.50 |
+| 2/7/2023 | BNP36803 | Legal Update | Passed | 0.0 | 1.00 |
+| 2/7/2023 | BNP44596 | Taser Recertification | Passed | 0.0 | 3.00 |
+| 2/7/2023 | BNP19132 | Water Rescue | Passed | 0.0 | 0.50 |
 | 1/10/2023 | BNP10046 | Defensive Tactics - Ground Control | Passed | 0.0 | 1.00 |
 | 12/30/2022 | BNP12936 | Legal Updates | Passed | 0.0 | 4.00 |
 | 12/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

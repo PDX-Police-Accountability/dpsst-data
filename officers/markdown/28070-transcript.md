@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 1/29/2023 | MNS32980 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 1/20/2023 | MNS26072 | CPR Recertification | Passed | 0.0 | 4.00 |
 | 1/13/2023 | TGP34570 | 2022 July Patrol Briefing Training | Passed | 0.0 | 7.25 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

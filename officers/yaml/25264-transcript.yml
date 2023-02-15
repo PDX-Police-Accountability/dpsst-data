@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/14/2023
+  course: PDS44545
+  title: Power DMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/6/2023
+  course: PDS37167
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/27/2022
+  course: PDS34614
+  title: MDT/MRE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/20/2022
   course: BPT33250
   title: Intoxilyzer 8000 Certification Course

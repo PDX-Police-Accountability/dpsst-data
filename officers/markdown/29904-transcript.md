@@ -34,7 +34,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2023 | PDS01115 | Taser | Passed | 0.0 | 8.00 |
+| 12/26/2023 | PDS30531 | Mind Set | Passed | 0.0 | 4.00 |
+| 2/2/2023 | PDS07070 | Benchmark Analytics | Passed | 0.0 | 4.00 |
+| 2/2/2023 | PDS23366 | TacMed | Passed | 0.0 | 4.00 |
+| 1/16/2023 | PDS33713 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 1/12/2023 | PDS09593 | Use of Force Update for Supervisors | Passed | 0.0 | 4.00 |
+| 1/12/2023 | PDS13561 | DEI for Leaders | Passed | 0.0 | 1.00 |
+| 1/12/2023 | PDS27188 | Report Writing for Supervisors | Passed | 0.0 | 2.00 |
+| 1/9/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
+| 1/2/2023 | PDS09395 | Crisis Communications | Passed | 0.0 | 8.00 |
 | 12/30/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/29/2022 | PDS26680 | Command Training | Passed | 0.0 | 1.50 |
 | 12/28/2022 | PDS42655 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 12/28/2022 | PDS06206 | Civil Process | Passed | 0.0 | 1.00 |
 | 12/28/2022 | PDS41247 | Fentanyl | Passed | 0.0 | 1.50 |
