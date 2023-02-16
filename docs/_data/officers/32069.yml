@@ -80,6 +80,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/30/2023
+  course: REG01940
+  title: Body Lock Takedown
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/26/2023
+  course: REG04813
+  title: Strike Defense, Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2023
+  course: REG34890
+  title: Takedown/Guard Passes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/18/2023
   course: SDP20047
   title: CPR, AED, Children, Infants, Adults, First Aid
@@ -110,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/9/2023
+  course: REG14410
+  title: Bottom Sweeps/Reversals, Single-Leg Takedown
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/22/2022
   course: HBS39606
   title: Active Threat

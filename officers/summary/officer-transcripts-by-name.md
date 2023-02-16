@@ -1500,7 +1500,7 @@
 | Trummer, Daniel Y. | 55317 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55317-transcript.md) - [yaml](../yaml/55317-transcript.yml) |
 | Trump, Robert D. | 23580 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1992-12-23 | [md](../markdown/23580-transcript.md) - [yaml](../yaml/23580-transcript.yml) |
 | Truong, Robby T. | 39642 | Portland Police Bureau | Active | Police Officer | Return LOA | 2017-02-23 | [md](../markdown/39642-transcript.md) - [yaml](../yaml/39642-transcript.yml) |
-| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
+| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-02-07 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Tucholsky, Daniel R. | 49967 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2008-10-13 | [md](../markdown/49967-transcript.md) - [yaml](../yaml/49967-transcript.yml) |
 | Tully, Kevin F. | 45976 | Portland Police Bureau | Active | Police Officer | Hired | 2005-09-01 | [md](../markdown/45976-transcript.md) - [yaml](../yaml/45976-transcript.yml) |
 | Tuma, Christina J. | 47651 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/47651-transcript.md) - [yaml](../yaml/47651-transcript.yml) |

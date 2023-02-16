@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2023 | HUP34986 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2022 | SAG27460 | Bias Hotline / Sanctuary Promise Training | Passed | 0.0 | 1.00 |
 | 12/14/2022 | HUP07629 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |

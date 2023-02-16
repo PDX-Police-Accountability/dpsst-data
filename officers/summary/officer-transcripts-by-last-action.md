@@ -748,7 +748,6 @@
 | Hansen, Robb C. | 31459 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/31459-transcript.md) - [yaml](../yaml/31459-transcript.yml) |
 | McGuire, Brendan P. | 31951 | Portland Police Bureau | Active | Detective | Promotion | 2008-01-24 | [md](../markdown/31951-transcript.md) - [yaml](../yaml/31951-transcript.yml) |
 | Hubbard, Brian D. | 32024 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/32024-transcript.md) - [yaml](../yaml/32024-transcript.yml) |
-| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Edwards, John M. | 32391 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/32391-transcript.md) - [yaml](../yaml/32391-transcript.yml) |
 | Klundt, Karl J. | 32398 | Portland Police Bureau | Active | Police Officer | Promotion | 1999-02-15 | [md](../markdown/32398-transcript.md) - [yaml](../yaml/32398-transcript.yml) |
 | Weldon, Carl T. | 32413 | Portland Police Bureau | Active | Sergeant | Promotion | 2011-01-20 | [md](../markdown/32413-transcript.md) - [yaml](../yaml/32413-transcript.yml) |
@@ -1537,6 +1536,7 @@
 | Chamberlin, Tracy R. | 32087 | Portland Police Bureau | Inactive | Detective | Retired | 2022-07-05 | [md](../markdown/32087-transcript.md) - [yaml](../yaml/32087-transcript.yml) |
 | McMurray, D. James | 32106 | Portland Police Bureau | Inactive | Sergeant | Retired | 2021-08-09 | [md](../markdown/32106-transcript.md) - [yaml](../yaml/32106-transcript.yml) |
 | Holthausen, Richard J. | 32146 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-01-18 | [md](../markdown/32146-transcript.md) - [yaml](../yaml/32146-transcript.yml) |
+| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-02-07 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Darby, James P. | 32384 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-09-20 | [md](../markdown/32384-transcript.md) - [yaml](../yaml/32384-transcript.yml) |
 | Hern, Paul W. | 32396 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32396-transcript.md) - [yaml](../yaml/32396-transcript.yml) |
 | Blair, John C. | 32401 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-04-01 | [md](../markdown/32401-transcript.md) - [yaml](../yaml/32401-transcript.yml) |

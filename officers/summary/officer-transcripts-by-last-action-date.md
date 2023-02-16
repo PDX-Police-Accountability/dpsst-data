@@ -901,7 +901,6 @@
 | Baydala, Oleksiy P. | 56575 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/56575-transcript.md) - [yaml](../yaml/56575-transcript.yml) |
 | Arneson, Alexandra M. | 57246 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-05 | [md](../markdown/57246-transcript.md) - [yaml](../yaml/57246-transcript.yml) |
 | Saephanh, Justin | 57267 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-13 | [md](../markdown/57267-transcript.md) - [yaml](../yaml/57267-transcript.yml) |
-| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Budry, Richard J. | 37043 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/37043-transcript.md) - [yaml](../yaml/37043-transcript.yml) |
 | Buxman, Ian M. | 55591 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/55591-transcript.md) - [yaml](../yaml/55591-transcript.yml) |
 | Barron, Francisco J. | 58873 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58873-transcript.md) - [yaml](../yaml/58873-transcript.yml) |
@@ -1640,4 +1639,5 @@
 | Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |
 | Salem, Salem A. | 62818 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-20 | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
+| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-02-07 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Contois, Matthew P. | 63722 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-16 | [md](../markdown/63722-transcript.md) - [yaml](../yaml/63722-transcript.yml) |

@@ -41,11 +41,15 @@
 | 2/8/2023 | SDP14119 | LEDS 20/20 Training | Passed | 0.0 | 1.00 |
 | 2/8/2023 | SDP39678 | Active Shooter Building Clearing Training | Instructed | 0.0 | 3.00 |
 | 2/3/2023 | SDP17889 | Bloodborne Pathogens and Hazardous Materials | Passed | 0.0 | 2.00 |
+| 1/30/2023 | REG01940 | Body Lock Takedown | Passed | 0.0 | 1.00 |
+| 1/26/2023 | REG04813 | Strike Defense, Ground Control | Passed | 0.0 | 1.00 |
+| 1/23/2023 | REG34890 | Takedown/Guard Passes | Passed | 0.0 | 1.00 |
 | 1/18/2023 | SDP20047 | CPR, AED, Children, Infants, Adults, First Aid | Passed | 0.0 | 5.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
 | 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 4.00 |
 | 1/11/2023 | F6R17124 | 2020's Portland, Oregon Protests  Civil Disorder | Passed | 0.0 | 4.00 |
+| 1/9/2023 | REG14410 | Bottom Sweeps/Reversals, Single-Leg Takedown | Passed | 0.0 | 1.00 |
 | 12/22/2022 | HBS39606 | Active Threat | Passed | 0.0 | 9.00 |
 | 12/15/2022 | REG41163 | Guard Bottom - sweeps, reversals | Passed | 0.0 | 1.00 |
 | 12/14/2022 | SDP18151 | Handgun Qualification/Table Top Scenarios | Passed | 0.0 | 5.00 |

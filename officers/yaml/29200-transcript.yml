@@ -70,6 +70,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/10/2023
+  course: PDS14136
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/10/2023
+  course: PDS19680
+  title: TacMed
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/31/2023
   course: PDS44545
   title: Power DMS

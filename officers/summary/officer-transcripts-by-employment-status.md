@@ -152,7 +152,6 @@
 | Taylor, Deanna L. | 31960 | Portland Police Bureau | Active | Civilian Employee | Hired | 1996-01-25 | [md](../markdown/31960-transcript.md) - [yaml](../yaml/31960-transcript.yml) |
 | Hubbard, Brian D. | 32024 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/32024-transcript.md) - [yaml](../yaml/32024-transcript.yml) |
 | Weber, Eric S. | 32070 | Portland Police Bureau | Active | Police Officer | Hired | 1996-02-29 | [md](../markdown/32070-transcript.md) - [yaml](../yaml/32070-transcript.yml) |
-| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Hughes, Heather R. | 32358 | Portland Police Bureau | Active | Police Officer | Hired | 1997-10-24 | [md](../markdown/32358-transcript.md) - [yaml](../yaml/32358-transcript.yml) |
 | Derry, Ryan W. | 32366 | Portland Police Bureau | Active | Police Officer | Hired | 1997-03-14 | [md](../markdown/32366-transcript.md) - [yaml](../yaml/32366-transcript.yml) |
 | Edwards, John M. | 32391 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/32391-transcript.md) - [yaml](../yaml/32391-transcript.yml) |
@@ -1311,6 +1310,7 @@
 | McMurray, D. James | 32106 | Portland Police Bureau | Inactive | Sergeant | Retired | 2021-08-09 | [md](../markdown/32106-transcript.md) - [yaml](../yaml/32106-transcript.yml) |
 | Silva, Robert B. | 32114 | Portland Police Bureau | Inactive | Civilian Employee | Layoff | 2019-01-28 | [md](../markdown/32114-transcript.md) - [yaml](../yaml/32114-transcript.yml) |
 | Holthausen, Richard J. | 32146 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-01-18 | [md](../markdown/32146-transcript.md) - [yaml](../yaml/32146-transcript.yml) |
+| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-02-07 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Brown, Thomas M. | 32382 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-06-30 | [md](../markdown/32382-transcript.md) - [yaml](../yaml/32382-transcript.yml) |
 | Darby, James P. | 32384 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-09-20 | [md](../markdown/32384-transcript.md) - [yaml](../yaml/32384-transcript.yml) |
 | Wallace, Roger P. | 32387 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-09-14 | [md](../markdown/32387-transcript.md) - [yaml](../yaml/32387-transcript.yml) |

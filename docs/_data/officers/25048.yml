@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2023
+  course: HUP34986
+  title: Marion County Leadership Monthly Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/6/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

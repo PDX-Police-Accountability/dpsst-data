@@ -4,7 +4,7 @@
 | name | Tsukimura, Lance H. |
 | dpsst_identifier | 32308 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Criminalist |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/7/2023 | Portland Police Bureau | Retired | Criminalst |  |  |
 | 7/26/2018 | Portland Police Bureau | Promotion | Criminalst |  |  |
 | 4/25/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/11/2011 | Police Officer | Advanced | Granted | 1/11/2011 |  |  |
-| 1/11/2011 | Police Officer | Intermediate | Granted | 1/11/2011 |  |  |
-| 4/16/1997 | Police Officer | Basic | Granted | 4/16/1997 |  |  |
+| 1/11/2011 | Police Officer | Advanced | Granted | 1/11/2011 | 5/7/2023 |  |
+| 1/11/2011 | Police Officer | Intermediate | Granted | 1/11/2011 | 5/7/2023 |  |
+| 4/16/1997 | Police Officer | Basic | Granted | 4/16/1997 | 5/7/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

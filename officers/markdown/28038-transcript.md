@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |
+| 2/10/2023 | PDS19680 | TacMed | Passed | 0.0 | 4.00 |
 | 1/6/2023 | PDS37167 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/27/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 11/17/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |

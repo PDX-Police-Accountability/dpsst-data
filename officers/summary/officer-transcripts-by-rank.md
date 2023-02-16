@@ -277,7 +277,7 @@
 | McMurray, Shawnda L. | 24747 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2019-09-27 | [md](../markdown/24747-transcript.md) - [yaml](../yaml/24747-transcript.yml) |
 | Outhaythip, Navarath | 24990 | Portland Police Bureau | Active | Criminalist | Promotion | 2007-11-15 | [md](../markdown/24990-transcript.md) - [yaml](../yaml/24990-transcript.yml) |
 | Shearer, Jeffrey G. | 29992 | Portland Police Bureau | Active | Criminalist | Promotion | 2001-08-30 | [md](../markdown/29992-transcript.md) - [yaml](../yaml/29992-transcript.yml) |
-| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
+| Tsukimura, Lance H. | 32308 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-02-07 | [md](../markdown/32308-transcript.md) - [yaml](../yaml/32308-transcript.yml) |
 | Powell, Heather C. | 33027 | Portland Police Bureau | Active | Criminalist | Promotion | 2003-07-31 | [md](../markdown/33027-transcript.md) - [yaml](../yaml/33027-transcript.yml) |
 | Greaves, Wade P. | 34586 | Portland Police Bureau | Active | Criminalist | Promotion | 2014-01-09 | [md](../markdown/34586-transcript.md) - [yaml](../yaml/34586-transcript.yml) |
 | McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
