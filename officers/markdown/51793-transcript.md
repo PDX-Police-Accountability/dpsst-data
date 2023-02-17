@@ -25,8 +25,13 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
+| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
+| Code of Ethics | Signed | 3/29/2011 |  |
 | Code of Ethics | Signed | 3/29/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -77,6 +82,8 @@
 | 7/6/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/2/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 7/2/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
+| 6/29/2022 | PDP22356 | Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/5/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/5/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

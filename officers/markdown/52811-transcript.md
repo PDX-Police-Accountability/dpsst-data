@@ -27,7 +27,11 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
+| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
+| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +45,7 @@
 | 2/8/2023 | PDS21044 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
 | 2/3/2023 | PDS27455 | Rifle Qualifications | Passed | 0.0 | 4.00 |
 | 1/30/2023 | PDS23369 | Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 1/27/2023 | REG06778 | C4C/PJJ/IFWA | Passed | 0.0 | 6.00 |
 | 1/16/2023 | PDS33713 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/12/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/9/2023 | PDS07189 | Defensive Tactics | Passed | 0.0 | 8.00 |

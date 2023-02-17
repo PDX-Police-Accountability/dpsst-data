@@ -4,7 +4,7 @@
 | name | Surla, Harley L. |
 | dpsst_identifier | 59199 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 2/1/2023 | Linn County Sheriff's Office | Hired | Dpty Shrf |  |  |
+| 1/30/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/23/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 | 4/22/2020 | DOC/Oregon State Penitentiary | Resigned | Corr Offcr |  |  |
 | 10/1/2018 | DOC/Oregon State Penitentiary | Hired | Corr Offcr |  |  |

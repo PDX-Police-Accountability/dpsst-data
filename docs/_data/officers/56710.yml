@@ -49,6 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/9/2023
+  course: REG00823
+  title: Sweeps from Ground Bottom
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/26/2023
+  course: REG04813
+  title: Strike Defense, Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/23/2023
   course: HBS21268
   title: DEI Training
@@ -82,6 +94,12 @@ training_records:
 - date: 1/12/2023
   course: REG41083
   title: Take Downs/Open Guard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/5/2023
+  course: REG26000
+  title: Control Tactics - Pinning Techniques
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1170,6 +1188,14 @@ attribute_records:
   value: CPR
   effective_date: 1/23/2023
   expiration_date: 1/31/2025
+- topic: Certification Cards
+  value: CPR
+  effective_date: 1/23/2023
+  expiration_date: 1/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -1178,10 +1204,22 @@ attribute_records:
   value: First Aid
   effective_date: 1/11/2022
   expiration_date: 1/11/2024
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 1/11/2022
+  expiration_date: 1/11/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2021
+  expiration_date: 12/31/2023
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 10/4/2016
+  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/4/2016

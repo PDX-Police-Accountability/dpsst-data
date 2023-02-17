@@ -25,9 +25,14 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
+| Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
+| Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Code of Ethics | Signed | 10/4/2016 |  |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,12 +41,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2023 | REG00823 | Sweeps from Ground Bottom | Passed | 0.0 | 1.00 |
+| 1/26/2023 | REG04813 | Strike Defense, Ground Control | Passed | 0.0 | 1.00 |
 | 1/23/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/23/2023 | HBS43909 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/23/2023 | HBS15406 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | HBS22423 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
 | 1/23/2023 | HBS15940 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 1/12/2023 | REG41083 | Take Downs/Open Guard | Passed | 0.0 | 1.00 |
+| 1/5/2023 | REG26000 | Control Tactics - Pinning Techniques | Passed | 0.0 | 1.00 |
 | 12/5/2022 | HBS39429 | 40MM Operators Course | Passed | 0.0 | 3.00 |
 | 12/1/2022 | VND09645 | Using the Dark Web in Sex Trafficking | Passed | 0.0 | 24.00 |
 | 11/21/2022 | HBS44783 | IFAST In-Service Training | Passed | 0.0 | 4.50 |

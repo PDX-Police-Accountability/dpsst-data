@@ -52,10 +52,38 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/23/2023
+- status_date: 2/14/2023
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 7/23/2024
+- status_date: 2/14/2023
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 7/23/2024
+- status_date: 2/14/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 7/23/2024
+- status_date: 2/14/2023
+  certificate: Police Officer
+  level: Management
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 7/23/2024
+- status_date: 2/14/2023
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 7/23/2024
@@ -3322,6 +3350,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/2/2023
   expiration_date: 2/2/2025
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/2/2023
+  expiration_date: 2/2/2025
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 12/11/2001
+  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/11/2001

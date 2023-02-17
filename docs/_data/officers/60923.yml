@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/11/2023
+  course: PDP06474
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/16/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -1237,14 +1243,14 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/11/2023
+  expiration_date: 1/11/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 10/11/2022
-  expiration_date: 10/11/2022
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2022

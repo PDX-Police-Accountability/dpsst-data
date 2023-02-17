@@ -75,6 +75,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 1/27/2023
+  course: REG06778
+  title: C4C/PJJ/IFWA
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 1/16/2023
   course: PDS33713
   title: Defensive Tactics
@@ -1932,10 +1938,26 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/6/2021
   expiration_date: 12/6/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/6/2021
+  expiration_date: 12/6/2023
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 10/15/2012
+  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2012
