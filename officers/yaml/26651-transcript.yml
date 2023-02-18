@@ -81,6 +81,12 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 2/13/2023
+  course: PDS22205
+  title: Benchmark Analytics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/10/2023
   course: PDS14136
   title: Use of Force

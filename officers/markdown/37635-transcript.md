@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/27/2001 |  |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +43,7 @@
 | 1/12/2023 | EGP07612 | Telephonic Search Warrants/Cell Phone Case Law | Passed | 0.0 | 1.50 |
 | 1/12/2023 | EGP13709 | Homeless Strategy Update | Passed | 0.0 | 1.50 |
 | 12/15/2022 | EGP19742 | PVS-14 Overview/Scenarios - Firerms Skills | Passed | 0.0 | 15.00 |
+| 12/5/2022 | EGP31133 | Taser Recertification Course | Passed | 0.0 | 3.00 |
 | 10/27/2022 | EGP31826 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 7.00 |
 | 10/27/2022 | EGP26840 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 8.00 |
 | 10/26/2022 | EGP21546 | ETHOS:  Ethics | Passed | 0.0 | 3.00 |

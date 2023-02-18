@@ -21,21 +21,16 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 12/22/2021 | Police Officer | Advanced | Granted | 12/22/2021 |  |  |
+| 2/15/2020 | Corrections Officer | Basic | Expired | 3/30/2005 |  |  |
 | 12/20/2010 | Police Officer | Intermediate | Granted | 12/20/2010 |  |  |
 | 5/3/2007 | Police Officer | Basic | Granted | 5/3/2007 |  |  |
-| 4/4/2006 | Corrections Officer | Basic | Lapsed | 3/30/2005 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/5/2021 | 7/5/2023 |
-| Certification Cards | First Aid and CPR | 7/5/2021 | 7/5/2023 |
-| Code of Ethics | Signed | 11/18/2004 |  |
 | Code of Ethics | Signed | 11/18/2004 |  |
 ## Education
 | date | degree | school | major | hours |

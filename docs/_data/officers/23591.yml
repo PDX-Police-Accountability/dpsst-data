@@ -3314,8 +3314,4 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/4/2021
   expiration_date: 6/4/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/4/2021
-  expiration_date: 6/4/2023
 education_records: []

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2023 | ALS17369 | WRAP Restraint System Hands On | Passed | 0.0 | 0.50 |
 | 2/9/2023 | ALS40572 | Annual NARCAN Administration Training | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/8/2023 | ALS24773 | Annual Anti-Harassment Training | Passed | 0.0 | 2.00 |

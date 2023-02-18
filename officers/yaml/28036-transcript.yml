@@ -56,6 +56,12 @@ certification_records:
   expiration_date: 1/21/2026
   probation_date: ''
 training_records:
+- date: 2/6/2023
+  course: PDS20684
+  title: Adult Protective Services Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/17/2022
   course: PDS36628
   title: PREA

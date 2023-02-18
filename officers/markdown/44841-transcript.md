@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 11/10/2022 | 11/30/2024 |
 | Certification Cards | First Aid | 11/10/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 10/27/2005 |  |
 | Code of Ethics | Signed | 10/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2023 | LOP22102 | Crime Scene Response for patrol | Passed | 0.0 | 0.50 |
 | 1/27/2023 | LOP44264 | SQLite Forensics with Belkasoft | Passed | 0.0 | 3.00 |
 | 1/20/2023 | LOP34640 | Firearms | Passed | 0.0 | 4.00 |
 | 12/16/2022 | LOP13198 | Con-Sim training | Passed | 0.0 | 1.50 |

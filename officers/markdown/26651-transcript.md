@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2023 | PDS22205 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS11492 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 1/26/2023 | PDS39083 | Benchmark | Instructed | 0.0 | 4.00 |

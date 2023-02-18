@@ -35,6 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/6/2023
+  course: PDS20684
+  title: Adult Protective Services Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/11/2023
   course: PDS44545
   title: Power DMS

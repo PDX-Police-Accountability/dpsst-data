@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 2/15/2023
+  course: ALS17369
+  title: WRAP Restraint System Hands On
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/9/2023
   course: ALS40572
   title: Annual NARCAN Administration Training

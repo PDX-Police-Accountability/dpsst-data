@@ -82,6 +82,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/10/2023
+  course: PDS20684
+  title: Adult Protective Services Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2023
   course: PDS44545
   title: Power DMS
@@ -4289,20 +4295,8 @@ attribute_records:
   expiration_date: 7/23/2024
 - topic: Certification Cards
   value: First Aid and CPR
-  effective_date: 7/27/2022
-  expiration_date: 7/23/2024
-- topic: Certification Cards
-  value: First Aid and CPR
   effective_date: 5/10/2021
   expiration_date: 5/10/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/10/2021
-  expiration_date: 5/10/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/10/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/10/2008
