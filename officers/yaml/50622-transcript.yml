@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 1/31/2023
+  course: OCP09155
+  title: First Aid  Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/12/2023
   course: F6R31032
   title: Crisis Communications for Law Enforcement
@@ -2299,6 +2305,10 @@ attribute_records:
   value: First Aid/CPR Required
   effective_date: 2/8/2023
   expiration_date: 2/8/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/31/2023
+  expiration_date: 1/31/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

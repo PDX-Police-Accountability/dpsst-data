@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/16/2023 | REG16149 | Take downs, wall work, ground control | Passed | 0.0 | 1.00 |
+| 2/15/2023 | HBS24117 | Shooting within a Vehicle | Passed | 0.0 | 3.00 |
 | 2/9/2023 | REG00823 | Sweeps from Ground Bottom | Passed | 0.0 | 1.00 |
 | 1/26/2023 | REG04813 | Strike Defense, Ground Control | Passed | 0.0 | 1.00 |
 | 1/23/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
@@ -65,6 +67,7 @@
 | 6/12/2022 | HBS14886 | Basic Patrol Rifle Operator School | Passed | 0.0 | 9.00 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
 | 5/13/2022 | HDA18610 | Criminal Gang Investigations | Passed | 0.0 | 24.00 |
+| 5/13/2022 | HBS34507 | Criminal Gang Investigations | Passed | 0.0 | 24.00 |
 | 4/26/2022 | HBS21732 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 4/26/2022 | HBS31567 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
 | 4/26/2022 | HBS04070 | Airway Circulation Training | Passed | 0.0 | 2.00 |

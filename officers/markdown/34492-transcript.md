@@ -4,7 +4,7 @@
 | name | Tobey, Matthew S. |
 | dpsst_identifier | 34492 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/15/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 3/5/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/24/2006 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/24/1997 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,10 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/28/2010 | Police Officer | Advanced | Granted | 12/28/2010 |  |  |
-| 12/28/2010 | Police Officer | Basic | Granted | 12/28/2010 |  |  |
-| 12/28/2010 | Police Officer | Intermediate | Granted | 12/28/2010 |  |  |
-| 4/24/2006 | Police Officer | Basic | Lapsed | 2/2/1999 |  |  |
+| 12/28/2010 | Police Officer | Advanced | Granted | 12/28/2010 | 5/15/2023 |  |
+| 12/28/2010 | Police Officer | Basic | Reactivate | 2/2/1999 | 5/15/2023 |  |
+| 12/28/2010 | Police Officer | Intermediate | Granted | 12/28/2010 | 5/15/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

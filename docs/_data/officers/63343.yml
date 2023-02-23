@@ -29,6 +29,12 @@ training_records:
   status: Cancelled
   score: '0.0'
   hours: '0.00'
+- date: 1/11/2023
+  course: PDP02685
+  title: Pre Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/17/2022
   course: PDP21194
   title: 2021 Training New Pistol Qualification

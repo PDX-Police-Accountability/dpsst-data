@@ -87,6 +87,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/21/2022
+  course: OCS21856
+  title: Meth from the lab to the pipe
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/21/2022
+  course: OCS14608
+  title: OD Homicide Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/20/2022
+  course: OCS02637
+  title: Anatomy of an Ambush
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/20/2022
+  course: OCS16406
+  title: Updates on Outlaw MC gangs
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/19/2022
+  course: OCS24519
+  title: America and Hope in the time of fentanyl
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/1/2022
   course: OCS34643
   title: Axon BWC

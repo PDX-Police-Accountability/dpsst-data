@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 1/27/2023
+  course: OCS00581
+  title: January 2023 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/28/2022
   course: OCS33699
   title: Marksmanship/Problem Solving

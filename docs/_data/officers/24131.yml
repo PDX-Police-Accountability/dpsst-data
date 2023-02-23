@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2023
+  course: WLP44307
+  title: Duty to Intervene/Control Techniques
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/20/2022
   course: WLP26381
   title: Quarterly Firearms Training

@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/16/2023 | GPN36477 | De-Escalation | Passed | 0.0 | 8.00 |
+| 2/15/2023 | MFN04635 | Fentanyl Overview | Passed | 0.0 | 2.00 |
 | 1/26/2023 | MFN06674 | Firearms: Fundamentals Review | Passed | 0.0 | 3.00 |
 | 1/10/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |
 | 11/10/2022 | MFN32990 | Firearms: Multiple Threats, Movement, Barriers | Passed | 0.0 | 2.50 |

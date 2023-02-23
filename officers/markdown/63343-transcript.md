@@ -27,5 +27,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
+| 1/11/2023 | PDP02685 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 10/17/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 10/4/2022 | PDP21221 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

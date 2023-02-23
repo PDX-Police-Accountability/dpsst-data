@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |
 | 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |
 | 1/24/2023 | MLP10158 | Handgun Qualification | Instructed | 0.0 | 3.00 |
 | 1/17/2023 | MLP14431 | Handgun Qualification | Instructed | 0.0 | 4.00 |

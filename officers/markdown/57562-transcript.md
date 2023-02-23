@@ -26,6 +26,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | First Aid/CPR Required | 2/8/2023 | 2/8/2023 |
+| Certification Cards | First Aid and CPR | 1/31/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 9/12/2021 |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2023 | OCP09155 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
 | 12/31/2022 | OCP12928 | Daily Training Bulletins | Passed | 0.0 | 8.50 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -92,6 +92,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/11/2022
+  course: PPP23151
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/30/2022
   course: PPP19987
   title: Duty to Intervene

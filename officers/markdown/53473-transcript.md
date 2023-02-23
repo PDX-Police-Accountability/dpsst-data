@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/10/2023 | TRN26223 | Krav Maga Instructor Certification Series 1,3  4 | Passed | 0.0 | 40.00 |
 | 2/6/2014 | 14-0562 | Reserve Academy | Passed | 0.0 | 280.00 |
 | 1/31/2014 | 14-0141 | Handgun Qualification | Passed | 0.0 | 0.50 |
 | 1/24/2014 | 14-0388 | ICS 100 / IS 100 - Introduction to ICS | Passed | 0.0 | 3.00 |

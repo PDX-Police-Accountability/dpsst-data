@@ -36,6 +36,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 1/11/2023
+  course: PDP02685
+  title: Pre Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/10/2023
+  course: PDP37324
+  title: Pre Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/3/2023
   course: PDP39940
   title: ICS-100 Intro to the Incident Cmmnd System

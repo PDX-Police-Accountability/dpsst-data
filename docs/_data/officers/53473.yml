@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/10/2023
+  course: TRN26223
+  title: Krav Maga Instructor Certification Series 1,3  4
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/6/2014
   course: 14-0562
   title: Reserve Academy

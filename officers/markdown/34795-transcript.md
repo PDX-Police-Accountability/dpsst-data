@@ -44,6 +44,11 @@
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/29/2022 | OCS30026 | Marksmanship, Target Zone Transitions | Passed | 0.0 | 2.00 |
 | 11/29/2022 | OCS09948 | Marksmanship, Target Zone Transitions | Passed | 0.0 | 2.00 |
+| 11/21/2022 | OCS21856 | Meth from the lab to the pipe | Passed | 0.0 | 4.00 |
+| 11/21/2022 | OCS14608 | OD Homicide Investigations | Passed | 0.0 | 4.00 |
+| 11/20/2022 | OCS02637 | Anatomy of an Ambush | Passed | 0.0 | 4.00 |
+| 11/20/2022 | OCS16406 | Updates on Outlaw MC gangs | Passed | 0.0 | 4.00 |
+| 11/19/2022 | OCS24519 | America and Hope in the time of fentanyl | Passed | 0.0 | 4.00 |
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |
 | 10/20/2022 | OCS26785 | Monthly Defensive Tactics overview | Passed | 0.0 | 5.00 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |

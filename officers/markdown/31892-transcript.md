@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2023 | OCS39166 | Building Better Shooters | Passed | 0.0 | 24.00 |
 | 12/13/2020 | F6D11265 | Rescue Task Force Training | Passed | 0.0 | 1.50 |
 | 6/27/2018 | PDP07308 | Ofc Resiliency  Wellness - Healthy Career in LE | Passed | 0.0 | 7.00 |
 | 5/2/2018 | PDP14332 | 2018 EAP Spring Training | Passed | 0.0 | 8.00 |

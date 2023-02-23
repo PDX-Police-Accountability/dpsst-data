@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2023 | WLP44307 | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |
 | 2/3/2023 | WLP33701 | New Hire Firearms Training | Passed | 0.0 | 6.00 |
 | 2/2/2023 | WLP08967 | Adult / Child CPR/AED First Aid | Passed | 0.0 | 6.00 |
 | 1/31/2023 | WLP38420 | Taser 7 New User Certification Training | Passed | 0.0 | 4.00 |

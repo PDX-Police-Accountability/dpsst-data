@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/16/2023 | VND40759 | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 2/1/2023 | SVP36953 | Halogen Training with SFD | Passed | 0.0 | 2.00 |
 | 2/1/2023 | SVP12293 | Axon Body Camera Training | Passed | 0.0 | 0.50 |
 | 1/29/2023 | SVP13662 | Taser Annual Recertification | Passed | 0.0 | 1.00 |

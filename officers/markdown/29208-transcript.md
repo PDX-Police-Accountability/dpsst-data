@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/16/2023 | VND40759 | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 9/29/2020 | TGP12510 | Microsoft Teams Training | Passed | 0.0 | 2.00 |
 | 3/20/2019 | F6D18292 | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 11/29/2018 | F6D02849 | Background Investigations | Passed | 0.0 | 4.00 |

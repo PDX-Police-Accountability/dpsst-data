@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/26/2023
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/7/2022
   course: M10-22A
   title: DPSST Basic Police Course

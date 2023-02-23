@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2023 | WLP44307 | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |
 | 12/20/2022 | WLP26381 | Quarterly Firearms Training | Passed | 0.0 | 2.50 |
 | 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |

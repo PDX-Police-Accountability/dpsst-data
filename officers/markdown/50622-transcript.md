@@ -28,6 +28,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | First Aid/CPR Required | 2/8/2023 | 2/8/2023 |
+| Certification Cards | First Aid and CPR | 1/31/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 6/25/2009 |  |
@@ -40,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 1/31/2023 | OCP09155 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 3.50 |
 | 1/11/2023 | F6R17124 | 2020's Portland, Oregon Protests  Civil Disorder | Passed | 0.0 | 4.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2023 | WLP44307 | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |
 | 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |
 | 7/27/2022 | WLP10437 | Active Threat (Shooter) Response | Passed | 0.0 | 8.00 |

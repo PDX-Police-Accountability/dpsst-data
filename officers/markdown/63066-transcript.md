@@ -29,6 +29,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/7/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 1/19/2023 | PDP27971 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 1/19/2023 | PDP11663 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
+| 1/19/2023 | PDP00961 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
+| 1/19/2023 | PDP05850 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 1/11/2023 | PDP02685 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |
+| 1/10/2023 | PDP37324 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 12/13/2022 | PDP18151 | 2020 TOD Shots Fired Incident Reporting (SFIR) | Passed | 0.0 | 0.25 |
 | 12/13/2022 | PDP15978 | 2021 Online In-Service Training Chicago Case Study | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP02712 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |

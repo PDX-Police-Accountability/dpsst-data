@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/11/2023
+  course: PDP02685
+  title: Pre Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/10/2023
+  course: PDP37324
+  title: Pre Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/15/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

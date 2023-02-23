@@ -47,6 +47,7 @@
 | 9/30/2022 | PPP19987 | Duty to Intervene | Passed | 0.0 | 1.00 |
 | 9/30/2022 | PPP18308 | Legal Update from MCDA Office | Passed | 0.0 | 2.00 |
 | 9/27/2022 | PPP23869 | Narcan Naloxone Spray Training | Passed | 0.0 | 0.50 |
+| 8/22/2022 | PPP23151 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2022 | PPP37086 | Emotional  Psychological Disorders 1 | Passed | 0.0 | 0.45 |
 | 7/31/2022 | PPP02029 | Reality Training Series | Passed | 0.0 | 0.45 |
 | 6/30/2022 | PPP30349 | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |

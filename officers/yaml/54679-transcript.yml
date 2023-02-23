@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/15/2023
+  course: MLP02604
+  title: Fire Extinguisher and Response Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/28/2023
   course: MLP10091
   title: OSHA slips trips and falls

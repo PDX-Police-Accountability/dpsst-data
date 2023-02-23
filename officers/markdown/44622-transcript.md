@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/17/2023 | OSH44015 | Firearms 1st Tri | Instructed | 0.0 | 4.00 |
+| 2/17/2023 | OSH02708 | Firearms 1st Tri | Instructed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | OSH39135 | Survival Skills PT/DT | Instructed | 0.0 | 4.00 |

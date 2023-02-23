@@ -44,6 +44,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/11/2023
+  course: PDP02685
+  title: Pre Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
+- date: 1/10/2023
+  course: PDP37324
+  title: Pre Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/29/2022
   course: PDP11588
   title: 2022-3 Range Qualification AR-15 Qual (20 Yard)

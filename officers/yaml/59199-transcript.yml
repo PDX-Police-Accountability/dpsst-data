@@ -55,6 +55,24 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 2/16/2023
+  course: ALS28253
+  title: New Hire Handgun/Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/16/2023
+  course: ALS29343
+  title: Red Dot Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/16/2023
+  course: ALS41704
+  title: CPR, First Aid and AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/15/2023
   course: ALS17369
   title: WRAP Restraint System Hands On
@@ -1148,6 +1166,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/16/2023
+  expiration_date: 2/16/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

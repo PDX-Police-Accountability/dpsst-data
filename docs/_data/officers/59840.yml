@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/4/2023
+  course: OCP00776
+  title: First Aid  Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/4/2023
   course: OCP36575
   title: SFST Refresher Course
@@ -955,6 +961,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/4/2023
+  expiration_date: 2/4/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

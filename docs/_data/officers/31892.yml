@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/9/2023
+  course: OCS39166
+  title: Building Better Shooters
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 12/13/2020
   course: F6D11265
   title: Rescue Task Force Training

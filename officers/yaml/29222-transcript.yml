@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 2/14/2023
+  course: GSP29386
+  title: 'Mental Wellness Visits: What They Are  How...'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/25/2023
   course: GSP04946
   title: Using Body Camera Video to Transform Training

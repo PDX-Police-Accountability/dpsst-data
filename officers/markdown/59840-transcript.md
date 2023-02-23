@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/4/2023 | 2/4/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/14/2021 | 10/14/2023 |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/4/2023 | OCP00776 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/4/2023 | OCP36575 | SFST Refresher Course | Passed | 0.0 | 4.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
 | 12/31/2022 | OCP10967 | 40mm Initial Training | Passed | 0.0 | 1.50 |
