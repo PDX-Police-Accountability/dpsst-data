@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2022
+  course: PDP35777
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/18/2022
   course: PDP03449
   title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
@@ -2578,6 +2584,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/21/2022
+  expiration_date: 12/21/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/3/2011

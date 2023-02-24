@@ -430,6 +430,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/1/2022
+  course: PDP07813
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/25/2022
   course: PDP36959
   title: 2022 In-Service Firearms - Scenarios
@@ -748,6 +754,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 8/24/2021
+  course: PDP16727
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/18/2021
   course: PDP23514
   title: 2021 Training Response to Calls Involving Youth
@@ -756,6 +768,12 @@ training_records:
   hours: '0.75'
 - date: 7/27/2021
   course: PDP09395
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/27/2021
+  course: PDP09632
   title: CPR/First Aid
   status: Instructed
   score: '0.0'

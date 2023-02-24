@@ -100,6 +100,7 @@
 | 2/9/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |
 | 2/9/2022 | PDP23946 | 2021-9 City Attorney's Legal Update for Sept. 2021 | Passed | 0.0 | 0.25 |
 | 2/9/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 2/1/2022 | PDP07813 | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 1/25/2022 | PDP36959 | 2022 In-Service Firearms - Scenarios | Passed | 0.0 | 1.00 |
 | 1/25/2022 | PDP08649 | 2022 In-Service Firearms - Range | Passed | 0.0 | 3.00 |
 | 1/25/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |
@@ -153,8 +154,10 @@
 | 9/1/2021 | PDP42579 | 2021 Crowd Control Training Procedural Justice | Passed | 0.0 | 0.75 |
 | 9/1/2021 | PDP42053 | 2021 Training All Sworn Crowd Control Training | Passed | 0.0 | 6.00 |
 | 8/24/2021 | PDP10893 | CPR/First Aid | Instructed | 0.0 | 2.00 |
+| 8/24/2021 | PDP16727 | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 8/18/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 7/27/2021 | PDP09395 | CPR/First Aid | Instructed | 0.0 | 2.00 |
+| 7/27/2021 | PDP09632 | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 7/23/2021 | PDP22491 | 2021-8 Tips  Tech Ballot Measure 110 - Update | Passed | 0.0 | 0.25 |
 | 7/22/2021 | PDP42519 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/21/2021 | PDP07900 | CPR/First Aid | Instructed | 0.0 | 1.75 |
