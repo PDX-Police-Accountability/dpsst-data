@@ -930,6 +930,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/24/2021
+  course: PDP16727
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/23/2021
   course: PDP03571
   title: 2021 FTEP Policy and Procedure
@@ -953,4 +959,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 10/25/2021
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/24/2021
+  expiration_date: 8/24/2023
 education_records: []

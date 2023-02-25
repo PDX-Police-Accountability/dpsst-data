@@ -690,6 +690,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/27/2021
+  course: PDP09632
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/26/2021
   course: PDP42411
   title: 2021 FTEP Pre-DPSST Firearms
