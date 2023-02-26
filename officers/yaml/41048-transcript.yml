@@ -3356,6 +3356,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/2/2023
   expiration_date: 2/2/2025
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/2/2023
+  expiration_date: 2/2/2025
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 12/11/2001
+  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/11/2001
