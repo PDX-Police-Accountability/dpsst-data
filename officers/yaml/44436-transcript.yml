@@ -57,6 +57,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/11/2023
+  course: PDP27005
+  title: MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/4/2023
   course: PDP25505
   title: EDU Weekly Training
@@ -5182,20 +5188,8 @@ attribute_records:
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/17/2021
-  expiration_date: 6/17/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/17/2021
@@ -5204,14 +5198,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/4/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/4/2004

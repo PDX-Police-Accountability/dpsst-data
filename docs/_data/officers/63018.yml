@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/21/2023
+  course: PDP11304
+  title: Post Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/20/2023
+  course: PDP04875
+  title: Post Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/27/2023
   course: REG18683
   title: SFST/DID

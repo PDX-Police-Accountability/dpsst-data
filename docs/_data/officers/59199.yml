@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 2/21/2023
+  course: ALS10344
+  title: In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/16/2023
   course: ALS28253
   title: New Hire Handgun/Rifle Training
@@ -1170,14 +1176,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/16/2023
   expiration_date: 2/16/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/16/2023
-  expiration_date: 2/16/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -1186,21 +1184,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/31/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/31/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/24/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

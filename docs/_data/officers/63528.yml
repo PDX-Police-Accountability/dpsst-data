@@ -36,6 +36,30 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 2/16/2023
+  course: PDP00201
+  title: Pre DPSST Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 2/13/2023
+  course: PDP26388
+  title: FTEP Policy  Procedure Training - Wellness Intro
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/13/2023
+  course: PDP36184
+  title: FTEP Policy  Procedure Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 2/7/2023
+  course: PDP06127
+  title: Pre DPSST Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/27/2022
   course: PDP44637
   title: 2021 Training New Pistol Qualification

@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 1/12/2023
+  course: PDP32121
+  title: Pre Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/11/2023
   course: PDP02685
   title: Pre Academy Firearms Training

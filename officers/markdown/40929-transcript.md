@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Code of Ethics | Signed | 1/17/2003 |  |
 | Code of Ethics | Signed | 1/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2023 | PDP11304 | Post Academy Firearms Training | Instructed | 0.0 | 3.00 |
+| 2/20/2023 | PDP04875 | Post Academy Firearms Training | Instructed | 0.0 | 8.00 |
+| 2/9/2023 | PDP06735 | Pre Dpsst Academy Firearms Training | Instructed | 0.0 | 7.00 |
+| 2/8/2023 | PDP00676 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |
+| 2/7/2023 | PDP06127 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |
+| 1/24/2023 | PDP09910 | Post Academy Firearms Training | Instructed | 0.0 | 1.50 |
+| 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/11/2023 | PDP02685 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/10/2023 | PDP37324 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 12/15/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |

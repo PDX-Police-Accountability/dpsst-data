@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/16/2023 | 2/16/2025 |
-| Certification Cards | First Aid and CPR | 2/16/2023 | 2/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 4/24/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 4/24/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2023 | ALS10344 | In-Service Legal Updates | Passed | 0.0 | 4.00 |
 | 2/16/2023 | ALS28253 | New Hire Handgun/Rifle Training | Passed | 0.0 | 2.00 |
 | 2/16/2023 | ALS29343 | Red Dot Training | Passed | 0.0 | 4.00 |
 | 2/16/2023 | ALS41704 | CPR, First Aid and AED | Passed | 0.0 | 4.00 |

@@ -23,16 +23,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/19/2023 | 2/1/2025 |
-| Certification Cards | First Aid and CPR | 1/19/2023 | 2/1/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
 | Certification Cards | First Aid and CPR | 6/5/2021 | 6/5/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2023 | RMP14736 | Bias Police Reporting | Passed | 0.0 | 1.00 |
 | 1/19/2023 | RMP38527 | CPR and First AIDE | Passed | 0.0 | 4.00 |
 | 1/19/2023 | RMP09903 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 12/20/2022 | RMP35799 | Personal Wellness / Mental Health | Passed | 0.0 | 0.00 |

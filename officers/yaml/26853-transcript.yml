@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/27/2023
+  course: BPT04355
+  title: Pistol Mounted Optic Instructor
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/2/2022
   course: BPT36283
   title: Annual LEOSA HR-218 Qualification (9mm)
@@ -3185,10 +3191,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/17/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/17/2005

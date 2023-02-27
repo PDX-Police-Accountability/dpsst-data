@@ -29,6 +29,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 2/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 2/13/2023 | PDP26388 | FTEP Policy  Procedure Training - Wellness Intro | Passed | 0.0 | 1.50 |
+| 2/13/2023 | PDP36184 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
+| 2/9/2023 | PDP06735 | Pre Dpsst Academy Firearms Training | Passed | 0.0 | 7.00 |
+| 2/8/2023 | PDP00676 | Pre DPSST Academy Firearms Training | Passed | 0.0 | 7.00 |
+| 2/7/2023 | PDP06127 | Pre DPSST Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 1/3/2023 | PDP29413 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 12/29/2022 | PDP39940 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 12/29/2022 | PDP12699 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

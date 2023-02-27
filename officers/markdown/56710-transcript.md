@@ -26,17 +26,10 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
 | Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
-| Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
-| Code of Ethics | Signed | 10/4/2016 |  |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/16/2023 | REG16149 | Take downs, wall work, ground control | Passed | 0.0 | 1.00 |
 | 2/15/2023 | HBS24117 | Shooting within a Vehicle | Passed | 0.0 | 3.00 |
 | 2/9/2023 | REG00823 | Sweeps from Ground Bottom | Passed | 0.0 | 1.00 |
@@ -54,6 +48,7 @@
 | 1/23/2023 | HBS15406 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | HBS22423 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
 | 1/23/2023 | HBS15940 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
+| 1/23/2023 | HBS26919 | Defensive Tools Update | Passed | 0.0 | 1.00 |
 | 1/12/2023 | REG41083 | Take Downs/Open Guard | Passed | 0.0 | 1.00 |
 | 1/5/2023 | REG26000 | Control Tactics - Pinning Techniques | Passed | 0.0 | 1.00 |
 | 12/5/2022 | HBS39429 | 40MM Operators Course | Passed | 0.0 | 3.00 |

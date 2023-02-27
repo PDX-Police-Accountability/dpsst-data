@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Code of Ethics | Signed | 3/22/2010 |  |
 | Code of Ethics | Signed | 3/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/27/2023 | BPT04355 | Pistol Mounted Optic Instructor | Passed | 0.0 | 16.00 |
 | 7/20/2022 | BPT27663 | Single Hand Pistol Manipulations | Passed | 0.0 | 4.00 |
 | 9/15/2021 | PDP19172 | 2021 SERT Training - Iteration | Passed | 0.0 | 3.00 |
 | 9/14/2021 | PDP17062 | 2021 SERT Training - Scenario | Passed | 0.0 | 8.50 |

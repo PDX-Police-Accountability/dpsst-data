@@ -28,7 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 6/17/2005 |  |
-| Code of Ethics | Signed | 6/17/2005 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/27/2023 | BPT04355 | Pistol Mounted Optic Instructor | Passed | 0.0 | 16.00 |
 | 11/2/2022 | BPT36283 | Annual LEOSA HR-218 Qualification (9mm) | Passed | 0.0 | 0.25 |
 | 2/1/2022 | BPT23898 | Firearms Training | Passed | 0.0 | 4.00 |
 | 10/19/2021 | REG11746 | Coaching  Feedback IDC | Passed | 0.0 | 2.00 |

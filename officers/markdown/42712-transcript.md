@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/9/2022 | 1/9/2024 |
 | Certification Cards | First Aid and CPR | 1/9/2022 | 1/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 12/10/2007 |  |
 | Code of Ethics | Signed | 12/10/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 | 1/8/2023 | HBS11601 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 1/8/2023 | HBS29714 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/8/2023 | HBS43843 | PREA  ADA Jail | Passed | 0.0 | 1.00 |
+| 1/8/2023 | HBS25321 | Defensive Tools Update | Passed | 0.0 | 1.00 |
 | 1/7/2023 | HBS26156 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/3/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2022 | HBS38676 | Restraint Chair Update | Passed | 0.0 | 0.50 |

@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
+| 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/19/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/10/2022 | REG24959 | Intox 8000 | Passed | 0.0 | 6.00 |
 | 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |

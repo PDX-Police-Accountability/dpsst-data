@@ -36,6 +36,36 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 2/13/2023
+  course: PDP26388
+  title: FTEP Policy  Procedure Training - Wellness Intro
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/13/2023
+  course: PDP36184
+  title: FTEP Policy  Procedure Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 2/9/2023
+  course: PDP06735
+  title: Pre Dpsst Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 2/8/2023
+  course: PDP00676
+  title: Pre DPSST Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 2/7/2023
+  course: PDP06127
+  title: Pre DPSST Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/3/2023
   course: PDP29413
   title: IS-700 National Incident Management System
