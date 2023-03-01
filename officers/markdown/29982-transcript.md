@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/23/2023 | SVP44567 | FEMA ICS 400 Advanced ICS | Passed | 0.0 | 15.00 |
+| 2/20/2023 | SVP20878 | FEMA ICS 300 - Intermediate ICS | Passed | 0.0 | 21.00 |
 | 2/16/2023 | VND40759 | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 2/1/2023 | SVP36953 | Halogen Training with SFD | Passed | 0.0 | 2.00 |
 | 2/1/2023 | SVP12293 | Axon Body Camera Training | Passed | 0.0 | 0.50 |

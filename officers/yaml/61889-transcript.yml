@@ -689,7 +689,7 @@ training_records:
   title: SFST/DID BP410
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 11/2/2021
   course: F6F22952
   title: Intox 8000 - Hours Included in Basic

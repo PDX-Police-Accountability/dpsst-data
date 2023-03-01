@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/23/2023
+  course: SVP44567
+  title: FEMA ICS 400 Advanced ICS
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 2/20/2023
+  course: SVP20878
+  title: FEMA ICS 300 - Intermediate ICS
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 2/16/2023
   course: VND40759
   title: Basic Background Investigations

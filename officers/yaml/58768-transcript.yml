@@ -1145,13 +1145,13 @@ training_records:
   title: SFST/DID
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 9/17/2018
   course: F6W26467
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 7/12/2018
   course: PDP40479
   title: IS-00100.c Intro to Incident Command Sys (ICS 100)

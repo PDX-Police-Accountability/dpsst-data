@@ -126,7 +126,7 @@
 | 1/5/2022 | PDP14317 | 2022 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 12/22/2021 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
-| 11/17/2021 | BPT21848 | SFST/DID BP410 | Passed | 0.0 | 24.00 |
+| 11/17/2021 | BPT21848 | SFST/DID BP410 | Passed | 0.0 | 0.00 |
 | 11/2/2021 | F6F22952 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 8/9/2021 | PDP41627 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/29/2021 | PDP32847 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

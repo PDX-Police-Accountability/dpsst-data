@@ -76,8 +76,8 @@
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Passed | 0.0 | 7.00 |
 | 8/12/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/22/2022 | BPT18041 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
-| 7/1/2022 | BPT36653 | SFST/DID - Hours Included in Basic | Passed | 0.0 | 24.00 |
-| 6/16/2022 | F6R07258 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
+| 7/1/2022 | BPT36653 | SFST/DID - Hours Included in Basic | Passed | 0.0 | 0.00 |
+| 6/16/2022 | F6R07258 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 4/14/2022 | PDP00502 | FTEP Pre-DPSST firearms | Passed | 0.0 | 5.00 |
 | 4/13/2022 | PDP03211 | LEDS certfication class | Passed | 0.0 | 5.00 |
 | 4/12/2022 | PDP07499 | ICS 100 | Passed | 0.0 | 3.00 |

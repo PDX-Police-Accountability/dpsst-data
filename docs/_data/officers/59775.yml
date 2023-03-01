@@ -1583,7 +1583,7 @@ training_records:
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 5/9/2019
   course: PDP14687
   title: IS-00100.c Incident Command System (ICS 100)
