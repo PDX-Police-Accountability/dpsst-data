@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/18/2022
+  course: PDP10861
+  title: Southeastern Homicide Investigators Conference
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/9/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -3875,10 +3881,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/30/2021

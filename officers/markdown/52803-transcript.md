@@ -23,7 +23,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 3/10/2014 |  |
@@ -40,6 +39,7 @@
 | 1/3/2023 | PDP44556 | Sleep Training | Passed | 0.0 | 1.00 |
 | 1/3/2023 | PDP38753 | SFST Refresher Training | Instructed | 0.0 | 2.25 |
 | 1/3/2023 | PDP26948 | DOJ Legal Updates for DUIIs Training | Passed | 0.0 | 1.00 |
+| 1/3/2023 | PDP09727 | Bosch CDR Technician Training | Passed | 0.0 | 24.00 |
 | 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/13/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/13/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |

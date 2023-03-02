@@ -24,7 +24,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 1/18/2013 |  |
@@ -80,7 +79,6 @@
 | 8/5/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
 | 7/31/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
-| 6/29/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 88.75 |
 | 6/18/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/18/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/30/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

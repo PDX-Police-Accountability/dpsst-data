@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/14/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/6/2023 | PDS37167 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 12/31/2022 | PDS37218 | Stops and Searches | Passed | 0.0 | 0.50 |
 | 12/27/2022 | PDS34614 | MDT/MRE | Passed | 0.0 | 4.00 |
 | 12/20/2022 | BPT33250 | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 12/17/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |

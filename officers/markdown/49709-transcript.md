@@ -33,7 +33,6 @@
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/29/2022 | 3/29/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 6/16/2008 |  |
 ## Education
 | date | degree | school | major | hours |

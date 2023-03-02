@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/27/2023 | 2/27/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2023 | TRN38602 | HSI Adult 1st Aid/Adult, Child  Infant CPR w/AED | Passed | 0.0 | 8.00 |
 | 2/22/2023 | SAG03351 | Simplifying Financial Investigations | Passed | 0.0 | 6.00 |
 | 1/23/2023 | SAG06305 | Firearms training | Passed | 0.0 | 2.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

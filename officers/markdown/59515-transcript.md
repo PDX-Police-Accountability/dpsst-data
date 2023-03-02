@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 12/29/2022 | PDP34680 | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 12/22/2022 | PDP30625 | SERT Firearms Drills | Passed | 0.0 | 9.00 |
 | 12/15/2022 | PDP24866 | SERT Iteration Training | Passed | 0.0 | 9.00 |

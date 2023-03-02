@@ -86,6 +86,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.50'
+- date: 1/23/2023
+  course: PDP06046
+  title: Post Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/12/2023
   course: PDP32121
   title: Pre Academy Firearms Training

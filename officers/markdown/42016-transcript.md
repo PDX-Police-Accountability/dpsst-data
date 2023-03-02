@@ -26,7 +26,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/26/2021 | 6/26/2023 |
 | Code of Ethics | Signed | 4/5/2002 |  |
 ## Education
@@ -38,6 +37,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/2/2023 | PDP44682 | Weapons Drills | Passed | 0.0 | 9.00 |
+| 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
+| 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 12/29/2022 | PDP34680 | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 12/15/2022 | PDP24866 | SERT Iteration Training | Passed | 0.0 | 9.00 |
 | 12/1/2022 | PDP00630 | SERT Weapons Drills | Passed | 0.0 | 9.00 |

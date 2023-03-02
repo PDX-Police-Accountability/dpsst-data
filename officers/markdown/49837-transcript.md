@@ -41,6 +41,7 @@
 | 2/9/2023 | VND14472 | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 2/8/2023 | VND14472 | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 2/7/2023 | VND14472 | NW Peer Support Conference | Passed | 0.0 | 7.00 |
+| 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 12/22/2022 | PDP30625 | SERT Firearms Drills | Instructed | 0.0 | 9.00 |
 | 12/21/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/21/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

@@ -41,6 +41,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/18/2023
+  course: PDS00756
+  title: TacMed
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/8/2023
   course: PDS20684
   title: Adult Protective Services Overview

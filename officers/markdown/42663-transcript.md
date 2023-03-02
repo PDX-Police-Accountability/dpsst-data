@@ -26,7 +26,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/23/2021 | 7/23/2023 |
 | Code of Ethics | Signed | 2/26/2004 |  |
 ## Education
@@ -38,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 12/29/2022 | PDP34680 | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 12/22/2022 | PDP30625 | SERT Firearms Drills | Passed | 0.0 | 9.00 |
 | 12/22/2022 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |

@@ -24,7 +24,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
 | Code of Ethics | Signed | 1/18/2013 |  |
 | Code of Ethics | Signed | 7/23/2012 |  |
@@ -36,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/2/2023 | PDP44682 | Weapons Drills | Passed | 0.0 | 9.00 |
+| 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
 | 1/20/2023 | VND39577 | EMDR for Paraprofessionals | Instructed | 0.0 | 40.00 |
 | 12/15/2022 | PDP24866 | SERT Iteration Training | Passed | 0.0 | 9.00 |
 | 12/14/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |

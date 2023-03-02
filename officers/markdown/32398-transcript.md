@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/13/2023 | PDP36184 | FTEP Policy  Procedure Training | Instructed | 0.0 | 7.00 |
+| 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 12/12/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/12/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/12/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

@@ -23,7 +23,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
 | Code of Ethics | Signed | 9/2/2008 |  |
 ## Education
@@ -36,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 12/29/2022 | PDP34680 | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 12/22/2022 | PDP30625 | SERT Firearms Drills | Instructed | 0.0 | 9.00 |
 | 12/17/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
@@ -95,7 +95,6 @@
 | 7/28/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
 | 7/28/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
-| 6/29/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 88.75 |
 | 6/17/2022 | PDP28947 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 6/17/2022 | PDP06025 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Passed | 0.0 | 9.00 |

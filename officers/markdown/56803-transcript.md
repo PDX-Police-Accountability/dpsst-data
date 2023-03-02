@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/27/2021 | 6/27/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/11/2018 |  |
@@ -35,6 +34,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/2/2023 | PDP44682 | Weapons Drills | Instructed | 0.0 | 9.00 |
+| 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
+| 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 12/29/2022 | PDP34680 | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 12/22/2022 | PDP30625 | SERT Firearms Drills | Passed | 0.0 | 9.00 |
 | 12/15/2022 | PDP34848 | Patrol Procedures Satellite Instructor Training | Passed | 0.0 | 72.00 |

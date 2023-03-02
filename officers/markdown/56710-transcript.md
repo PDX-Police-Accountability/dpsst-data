@@ -27,9 +27,7 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -71,7 +69,6 @@
 | 6/12/2022 | HBS14886 | Basic Patrol Rifle Operator School | Passed | 0.0 | 9.00 |
 | 5/16/2022 | REG07375 | DT Arm drag, Weapon Defense | Passed | 0.0 | 1.00 |
 | 5/13/2022 | HDA18610 | Criminal Gang Investigations | Passed | 0.0 | 24.00 |
-| 5/13/2022 | HBS34507 | Criminal Gang Investigations | Passed | 0.0 | 24.00 |
 | 4/26/2022 | HBS21732 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 4/26/2022 | HBS31567 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
 | 4/26/2022 | HBS04070 | Airway Circulation Training | Passed | 0.0 | 2.00 |

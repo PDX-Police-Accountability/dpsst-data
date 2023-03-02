@@ -50,6 +50,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/19/2023
+  course: PDP44394
+  title: SERT Training Scenario
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/18/2022
   course: PDP25844
   title: 'SERT Training: Iteration for test applicants'
@@ -5339,10 +5345,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021

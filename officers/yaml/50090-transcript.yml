@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/26/2023
+  course: PDP03900
+  title: SERT Training - Clearing
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/21/2022
   course: PDP06672
   title: K9 Unit Training

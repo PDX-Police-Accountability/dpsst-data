@@ -27,7 +27,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
 | Code of Ethics | Signed | 1/31/2006 |  |
 ## Education
@@ -43,6 +42,7 @@
 | 2/8/2023 | PDP00676 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 2/7/2023 | PDP06127 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Instructed | 0.0 | 1.50 |
+| 1/23/2023 | PDP06046 | Post Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/11/2023 | PDP02685 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/10/2023 | PDP37324 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |

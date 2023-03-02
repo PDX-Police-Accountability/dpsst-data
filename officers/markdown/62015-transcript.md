@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/15/2021 | Police Officer | Basic | ReqCertExt |  |  | 1/15/2024 |
+| 2/28/2023 | Police Officer | Basic | App Recd |  |  | 1/15/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 9/8/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2021 |  |
 | Certification Cards | First Aid and CPR | 8/24/2021 | 8/24/2023 |
 ## Education
@@ -28,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/27/2023 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 12/21/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/21/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/21/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

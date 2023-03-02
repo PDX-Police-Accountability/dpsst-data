@@ -68,12 +68,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 1/29/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 1/29/2023
   course: MNS32980
   title: SFST Refresher
   status: Passed

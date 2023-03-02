@@ -46,7 +46,10 @@
 | 10/31/2022 | CAP36835 | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |
 | 10/26/2022 | CAP20916 | High Risk Vehicle Stops | Passed | 0.0 | 3.00 |
 | 9/21/2022 | CAP05650 | Precision Rifle Training | Passed | 0.0 | 3.00 |
+| 8/2/2022 | GLP27057 | Active Shooters  Mass Assaults | Passed | 0.0 | 2.00 |
 | 5/4/2022 | GLP08698 | Qual/Movement/Target Focus Shooting | Passed | 0.0 | 3.00 |
+| 4/30/2022 | GLP38296 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
+| 4/27/2022 | GLP12370 | Diversity, Equity,  Inclusion | Passed | 0.0 | 2.00 |
 | 4/12/2022 | GLP21351 | Adult/Child CPR/First Aid | Passed | 0.0 | 2.00 |
 | 4/12/2022 | OCS22537 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 3/9/2022 | LOP18296 | EVOC (Pursuit Driving, Use of Force) | Passed | 0.0 | 10.00 |

@@ -36,7 +36,6 @@
 | Certification Cards | First Aid and CPR | 2/1/2023 | 2/1/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 2/1/2021 | 2/1/2023 |
 | Code of Ethics | Signed | 9/6/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,7 +46,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/1/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/1/2023 | CAP27534 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |

@@ -28,7 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 1/26/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
+| 2/20/2023 | BPT31690 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 1/26/2023 | REG17417 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 11/7/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 11/5/2022 | PDP10589 | Firearms Training | Passed | 0.0 | 7.00 |

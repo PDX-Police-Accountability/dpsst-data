@@ -102,8 +102,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 10/9/2023
-  course: BPT25744
-  title: Increasing Resiliency for First Responders
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '6.00'

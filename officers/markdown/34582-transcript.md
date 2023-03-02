@@ -25,7 +25,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Signed | 10/1/2010 |  |
 ## Education
@@ -40,6 +39,7 @@
 | 12/1/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 12/1/2022 | PDP26920 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/28/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 11/18/2022 | PDP10861 | Southeastern Homicide Investigators Conference | Passed | 0.0 | 40.00 |
 | 11/9/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/2/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/28/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

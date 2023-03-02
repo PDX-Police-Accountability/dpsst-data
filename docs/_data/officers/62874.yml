@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/23/2023
+  course: PDP06046
+  title: Post Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/19/2023
   course: M10-22A
   title: DPSST Basic Police Course
@@ -54,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 12/12/2022
+  course: BPT40870
+  title: Statistical Transparency of Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/12/2022
+  course: BPT11358
+  title: Statistical Transparency of Policing Training
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/10/2022
   course: REG24959
   title: Intox 8000

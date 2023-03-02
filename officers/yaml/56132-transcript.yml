@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/2/2023
+  course: PDP44682
+  title: Weapons Drills
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/12/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance
@@ -2799,10 +2805,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2021

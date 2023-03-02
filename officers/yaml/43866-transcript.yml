@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2023
+  course: VND10045
+  title: How to Catch A Predator
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/29/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

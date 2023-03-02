@@ -23,7 +23,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 6/23/2021 | 6/23/2023 |
 | Code of Ethics | Signed | 9/2/2008 |  |
 ## Education
@@ -35,6 +34,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/2/2023 | PDP44682 | Weapons Drills | Passed | 0.0 | 9.00 |
+| 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP10051 | SERT Training: Entry  HRT | Passed | 0.0 | 9.00 |
 | 11/16/2022 | PDP02231 | SERT Training - Firearms | Passed | 0.0 | 9.00 |
@@ -91,7 +92,6 @@
 | 6/30/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Passed | 0.0 | 9.00 |
 | 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
-| 6/29/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 88.75 |
 | 6/9/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/9/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

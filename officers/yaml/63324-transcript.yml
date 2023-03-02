@@ -54,6 +54,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/17/2023
+  course: PDP27229
+  title: Intro to Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/16/2023
+  course: PDP29340
+  title: FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/12/2023
   course: PDP32121
   title: Pre Academy Firearms Training

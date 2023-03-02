@@ -81,6 +81,24 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 12/16/2023
+  course: PDS04298
+  title: Benchmark Analytics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/22/2023
+  course: PDS33295
+  title: Benchmark Analytics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/20/2023
+  course: PDS19365
+  title: TacMed
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/13/2023
   course: PDS22205
   title: Benchmark Analytics

@@ -31,6 +31,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2023 | PDP44682 | Weapons Drills | Passed | 0.0 | 9.00 |
+| 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
+| 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 1/4/2023 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 1/4/2023 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |

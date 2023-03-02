@@ -252,12 +252,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '88.75'
-- date: 6/29/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '88.75'
 - date: 6/11/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

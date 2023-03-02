@@ -27,6 +27,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
+| 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
+| 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 1/11/2023 | PDP02685 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 10/17/2022 | PDP21194 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2023 | PDS04298 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
+| 2/22/2023 | PDS33295 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
+| 2/20/2023 | PDS19365 | TacMed | Instructed | 0.0 | 4.00 |
 | 2/13/2023 | PDS22205 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS11492 | Benchmark Analytics | Instructed | 0.0 | 4.00 |

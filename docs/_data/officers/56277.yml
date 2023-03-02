@@ -103,12 +103,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/2/2022
+  course: GLP27057
+  title: Active Shooters  Mass Assaults
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/4/2022
   course: GLP08698
   title: Qual/Movement/Target Focus Shooting
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/30/2022
+  course: GLP38296
+  title: Airway  Circulatory Crisis Training  Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/27/2022
+  course: GLP12370
+  title: Diversity, Equity,  Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/12/2022
   course: GLP21351
   title: Adult/Child CPR/First Aid

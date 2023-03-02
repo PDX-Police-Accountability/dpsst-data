@@ -42,6 +42,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2022
+  course: DAS44847
+  title: 'Policy 615 Review: Restraint Chair and The Wrap'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: DAS10787
+  title: Jail Inmate Manual Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: DAS25979
+  title: 'Policy 1003 Review: Inmate Mail'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: DAS26765
+  title: 'Policy 400 Review: Admission and Booking'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: DAS21643
+  title: 'Policy 500 Review: Inmate Classification'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: DAS41066
+  title: 'Policy 503 Review: Restrictive Housing'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: DAS03988
+  title: 'SO Policy 300 Review: Use of Force'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2016
   course: MISCMAIN
   title: 2016 Police Maintenance Basic

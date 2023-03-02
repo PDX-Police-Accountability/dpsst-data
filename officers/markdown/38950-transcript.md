@@ -45,7 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/9/2023 | BPT25744 | Increasing Resiliency for First Responders | Passed | 0.0 | 6.00 |
+| 10/9/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 1/31/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/31/2023 | HBS28334 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/31/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |

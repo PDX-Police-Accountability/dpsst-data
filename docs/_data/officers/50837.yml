@@ -312,12 +312,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '88.75'
-- date: 6/29/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '88.75'
 - date: 5/29/2022
   course: PDP16854
   title: 2022-2 Range Qualification Primary Firearm
@@ -3255,10 +3249,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/1/2021

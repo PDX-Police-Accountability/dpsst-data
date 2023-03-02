@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 1/19/2023
+  course: PDP44394
+  title: SERT Training Scenario
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/22/2022
   course: PDP30625
   title: SERT Firearms Drills

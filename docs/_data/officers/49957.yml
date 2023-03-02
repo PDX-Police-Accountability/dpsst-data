@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 2/28/2023
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/15/2012
   certificate: Police Officer
   level: Intermediate
@@ -3550,10 +3557,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/27/2021

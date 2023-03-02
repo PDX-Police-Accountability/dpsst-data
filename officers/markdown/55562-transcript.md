@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2023 | PDS12800 | TacMed | Passed | 0.0 | 4.00 |
+| 2/20/2023 | PDS19365 | TacMed | Passed | 0.0 | 4.00 |
 | 1/16/2023 | PDS08295 | Court Services Courtroom Security | Passed | 0.0 | 3.50 |
 | 1/16/2023 | PDS10213 | Court Services Radio Communication | Passed | 0.0 | 3.50 |
 | 1/10/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |

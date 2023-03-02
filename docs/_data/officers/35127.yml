@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/27/2023
+  course: TRN38602
+  title: HSI Adult 1st Aid/Adult, Child  Infant CPR w/AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/22/2023
   course: SAG03351
   title: Simplifying Financial Investigations
@@ -1432,6 +1438,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/27/2023
+  expiration_date: 2/27/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

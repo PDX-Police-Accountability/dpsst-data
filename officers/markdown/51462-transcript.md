@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/3/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 1/13/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
+| 12/31/2022 | PDS37218 | Stops and Searches | Passed | 0.0 | 0.50 |
 | 12/26/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 12/12/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 11/21/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |

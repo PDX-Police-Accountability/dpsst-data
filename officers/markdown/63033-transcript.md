@@ -31,6 +31,7 @@
 | 2/21/2023 | PDP11304 | Post Academy Firearms Training | Passed | 0.0 | 3.00 |
 | 2/20/2023 | PDP04875 | Post Academy Firearms Training | Passed | 0.0 | 8.00 |
 | 1/27/2023 | REG18683 | SFST/DID | Passed | 0.0 | 24.00 |
+| 1/23/2023 | BPT08559 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 12/15/2022 | REG06452 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
 | 10/10/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/2/2022 | PDP36883 | Firearms Training | Passed | 0.0 | 7.00 |

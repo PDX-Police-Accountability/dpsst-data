@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/28/2023 | Police Officer | Advanced | App Recd |  |  |  |
 | 2/15/2012 | Police Officer | Intermediate | Granted | 2/15/2012 |  |  |
 | 12/21/2009 | Police Officer | Basic | Granted | 12/21/2009 |  |  |
 ## Attributes
@@ -23,7 +24,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
 | Code of Ethics | Signed | 10/24/2008 |  |
 ## Education

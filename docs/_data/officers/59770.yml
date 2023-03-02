@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/19/2023
+  course: PDP44394
+  title: SERT Training Scenario
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/29/2022
   course: PDP34680
   title: SERT Scenario Training
@@ -1881,10 +1887,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/30/2021
