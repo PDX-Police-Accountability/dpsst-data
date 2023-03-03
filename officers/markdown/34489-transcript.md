@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | OCS04927 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
+| 2/23/2023 | OCS26305 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
 | 1/26/2023 | VND18695 | CVSA Annual Truck Inspection Refresher | Passed | 0.0 | 4.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/5/2022 | OCS07603 | Domestic Violence Investigations | Passed | 0.0 | 0.50 |

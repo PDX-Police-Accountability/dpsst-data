@@ -87,6 +87,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 2/27/2023
+  course: PDS40063
+  title: Benchmark Analytics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/22/2023
   course: PDS33295
   title: Benchmark Analytics

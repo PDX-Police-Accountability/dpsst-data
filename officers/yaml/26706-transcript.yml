@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/24/2023
+  course: PDS38124
+  title: Emergency Drill Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/8/2023
   course: PDS20684
   title: Adult Protective Services Overview
