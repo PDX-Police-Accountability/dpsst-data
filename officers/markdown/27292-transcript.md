@@ -46,9 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/16/2023 | PDS04298 | Benchmark Analytics | Passed | 0.0 | 4.00 |
-| 12/16/2023 | PDS35140 | TacMed | Passed | 0.0 | 4.00 |
+| 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 12/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 2/16/2023 | PDS41564 | TacMed | Passed | 0.0 | 4.00 |
 | 2/5/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
+| 1/16/2023 | PDS25412 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 1/10/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/31/2022 | 22-CVDLD | 2022 LE Leadership 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2023 | HBS42167 | Defensive Tools Update | Passed | 0.0 | 1.00 |
 | 1/8/2023 | HBS11601 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 1/8/2023 | HBS29714 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/8/2023 | HBS43843 | PREA  ADA Jail | Passed | 0.0 | 1.00 |

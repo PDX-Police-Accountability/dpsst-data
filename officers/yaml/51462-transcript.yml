@@ -29,6 +29,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/26/2023
+  course: PDS03063
+  title: Benchmark Analytics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/26/2023
+  course: PDS23959
+  title: TacMed
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/3/2023
   course: PDS20684
   title: Adult Protective Services Overview

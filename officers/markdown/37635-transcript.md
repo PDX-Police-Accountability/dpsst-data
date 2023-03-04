@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2023 | EGP12358 | Belonging Training - Module 1 | Passed | 0.0 | 3.00 |
+| 2/9/2023 | EGP00975 | Legal Updates | Passed | 0.0 | 2.00 |
 | 1/12/2023 | EGP17194 | Internal Affairs | Passed | 0.0 | 2.00 |
 | 1/12/2023 | EGP25860 | PSRT/Health  Wellness | Passed | 0.0 | 2.00 |
 | 1/12/2023 | EGP03502 | Respectful Work Environment | Passed | 0.0 | 1.50 |

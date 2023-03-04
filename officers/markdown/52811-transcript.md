@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2023 | PDS13997 | Firearms Instructor Development Course | Passed | 0.0 | 5.00 |
+| 2/22/2023 | PDS44317 | SWAT Firearms | Passed | 0.0 | 8.00 |
 | 2/13/2023 | PDS22205 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/13/2023 | PDS33308 | TacMed | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS21044 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
@@ -45,6 +47,7 @@
 | 2/3/2023 | PDS27455 | Rifle Qualifications | Passed | 0.0 | 4.00 |
 | 1/30/2023 | PDS23369 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 1/27/2023 | REG06778 | C4C/PJJ/IFWA | Passed | 0.0 | 6.00 |
+| 1/19/2023 | PDS29975 | SWAT Practical Training | Passed | 0.0 | 8.00 |
 | 1/16/2023 | PDS33713 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/12/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/9/2023 | PDS07189 | Defensive Tactics | Passed | 0.0 | 8.00 |

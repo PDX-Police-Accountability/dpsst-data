@@ -34,7 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2023 | RMP34417 | BRIEFING TRAINING: LEGAL UPDATE | Passed | 0.0 | 0.50 |
 | 1/24/2023 | RMP14736 | Bias Police Reporting | Passed | 0.0 | 1.00 |
+| 1/24/2023 | RMP23064 | BRIEFING TRAINING: OREGON BIAS/HATE CRIMES | Passed | 0.0 | 1.00 |
 | 1/19/2023 | RMP38527 | CPR and First AIDE | Passed | 0.0 | 4.00 |
 | 1/19/2023 | RMP09903 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 12/20/2022 | RMP35799 | Personal Wellness / Mental Health | Passed | 0.0 | 0.00 |

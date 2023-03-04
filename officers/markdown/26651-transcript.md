@@ -38,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/16/2023 | PDS04298 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
+| 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 2/27/2023 | PDS40063 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 2/22/2023 | PDS33295 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 2/20/2023 | PDS19365 | TacMed | Instructed | 0.0 | 4.00 |
@@ -46,6 +46,7 @@
 | 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS11492 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 1/26/2023 | PDS39083 | Benchmark | Instructed | 0.0 | 4.00 |
+| 1/16/2023 | PDS25412 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 1/12/2023 | PDS27188 | Report Writing for Supervisors | Passed | 0.0 | 2.00 |
 | 12/21/2022 | PDS35577 | Use of Force Report Reviews | Instructed | 0.0 | 4.00 |
 | 12/14/2022 | PDS23082 | Use of Force | Instructed | 0.0 | 4.00 |

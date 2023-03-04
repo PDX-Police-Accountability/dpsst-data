@@ -56,6 +56,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '40.00'
+- date: 1/20/2023
+  course: PDP41765
+  title: Traumatic Stress Relief for Peer Supporters
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 12/18/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

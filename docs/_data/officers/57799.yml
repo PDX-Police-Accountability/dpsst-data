@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/6/2022
+  course: PDP11288
+  title: Investigative Statement Analysis
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/17/2022
   course: PDP07684
   title: Crisis Negotiation Team Annual Training

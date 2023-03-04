@@ -82,8 +82,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 12/16/2023
-  course: PDS04298
-  title: Benchmark Analytics
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '4.00'
@@ -126,6 +126,12 @@ training_records:
 - date: 1/26/2023
   course: PDS39083
   title: Benchmark
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/16/2023
+  course: PDS25412
+  title: Benchmark Analytics
   status: Instructed
   score: '0.0'
   hours: '4.00'

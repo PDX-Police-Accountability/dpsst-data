@@ -36,9 +36,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/24/2023
+  course: RMP34417
+  title: 'BRIEFING TRAINING: LEGAL UPDATE'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/24/2023
   course: RMP14736
   title: Bias Police Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/24/2023
+  course: RMP23064
+  title: 'BRIEFING TRAINING: OREGON BIAS/HATE CRIMES'
   status: Passed
   score: '0.0'
   hours: '1.00'

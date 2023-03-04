@@ -48,6 +48,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '40.00'
+- date: 1/20/2023
+  course: PDP41765
+  title: Traumatic Stress Relief for Peer Supporters
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/5/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance

@@ -107,13 +107,19 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 12/16/2023
-  course: PDS04298
-  title: Benchmark Analytics
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 12/16/2023
-  course: PDS35140
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/16/2023
+  course: PDS41564
   title: TacMed
   status: Passed
   score: '0.0'
@@ -124,6 +130,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/16/2023
+  course: PDS25412
+  title: Benchmark Analytics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/10/2023
   course: PDS44545
   title: Power DMS
