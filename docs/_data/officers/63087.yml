@@ -33,9 +33,9 @@ training_records:
 - date: 4/17/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Cancelled
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 - date: 12/22/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

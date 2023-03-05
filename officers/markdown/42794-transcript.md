@@ -42,9 +42,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/2/2023 | OCS43944 | Honor Guard Revolver Marksmanship | Instructed | 0.0 | 3.00 |
+| 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 1/27/2023 | OCS00581 | January 2023 New Hire Firearms | Instructed | 0.0 | 16.00 |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
+| 12/23/2022 | OCS26095 | Use of Force Update | Passed | 0.0 | 1.00 |
 | 12/21/2022 | OCS27159 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
+| 12/21/2022 | OCS00041 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
 | 12/20/2022 | OCS01142 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 12/19/2022 | OCS16646 | K9 Firearms - Marksmanship/Target Transitions | Instructed | 0.0 | 2.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |

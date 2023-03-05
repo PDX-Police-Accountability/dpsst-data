@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2023
+  course: OCS43888
+  title: Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2023
+  course: OCS01116
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/17/2023
   course: OCS11089
   title: Concealed Carry/Shoot-No Shoot Pistol and Rifle

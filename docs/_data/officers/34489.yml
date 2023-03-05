@@ -68,6 +68,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '24.00'
+- date: 1/31/2023
+  course: OCS43888
+  title: Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2023
+  course: OCS01116
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/26/2023
   course: VND18695
   title: CVSA Annual Truck Inspection Refresher

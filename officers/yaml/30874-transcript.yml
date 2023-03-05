@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/2/2023
+  course: FGP01633
+  title: Human Trafficking Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2023
   course: FGP02433
   title: Officer In Charge

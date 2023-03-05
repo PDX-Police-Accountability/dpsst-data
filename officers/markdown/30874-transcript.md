@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2023 | FGP01633 | Human Trafficking Refresher | Passed | 0.0 | 0.50 |
 | 2/5/2023 | FGP02433 | Officer In Charge | Passed | 0.0 | 10.00 |
 | 1/13/2023 | FGP27951 | Advantages to Patrol Led Model - Drone Operations | Passed | 0.0 | 1.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

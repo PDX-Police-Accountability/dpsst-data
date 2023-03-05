@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
+| 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 1/17/2023 | OCS11089 | Concealed Carry/Shoot-No Shoot Pistol and Rifle | Passed | 0.0 | 3.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
 | 11/29/2022 | OCS30026 | Marksmanship, Target Zone Transitions | Passed | 0.0 | 2.00 |

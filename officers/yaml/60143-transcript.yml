@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/16/2022
+  course: F6R04748
+  title: Collaborative Approach to Child Abuse Intervention
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/27/2022
   course: PDP37189
   title: Intoxylizer 8000 Certificate Training

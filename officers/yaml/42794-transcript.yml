@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 1/30/2023
+  course: OCS01116
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/27/2023
   course: OCS00581
   title: January 2023 New Hire Firearms
@@ -104,8 +110,20 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/23/2022
+  course: OCS26095
+  title: Use of Force Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/21/2022
   course: OCS27159
+  title: Marksmanship, Shoot/No-Shoot Decision Making
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/21/2022
+  course: OCS00041
   title: Marksmanship, Shoot/No-Shoot Decision Making
   status: Instructed
   score: '0.0'

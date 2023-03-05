@@ -36,9 +36,27 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2023
+  course: OCS43888
+  title: Counter Assaults
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/30/2023
+  course: OCS01116
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/28/2022
   course: OCS33699
   title: Marksmanship/Problem Solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/23/2022
+  course: OCS26095
+  title: Use of Force Update
   status: Passed
   score: '0.0'
   hours: '1.00'
