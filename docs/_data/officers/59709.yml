@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/4/2023
+  course: BNP02810
+  title: Stop Stick Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/16/2023
   course: BNP13349
   title: UAS Monthly Training

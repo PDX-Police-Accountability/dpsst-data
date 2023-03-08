@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 2/28/2023
+  course: HRS38986
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/2/2023
   course: HRS10045
   title: CIS Fall Supervisor Training

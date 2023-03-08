@@ -21,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/3/2023 | Police Officer | Intermediate | App Recd |  |  |  |
+| 3/6/2023 | Police Officer | Intermediate | App InProc |  |  |  |
 | 8/8/2017 | Police Officer | Basic | Granted | 8/8/2017 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | HRS09538 | Legal Updates | Passed | 0.0 | 1.00 |
 | 12/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/24/2022 | HRS38193 | Fall Firearms Range | Passed | 0.0 | 4.00 |
 | 10/10/2022 | HRS39418 | CPR/First Aid | Passed | 0.0 | 2.00 |

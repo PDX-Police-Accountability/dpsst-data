@@ -30,9 +30,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,10 +44,10 @@
 | 2/2/2023 | OCS43944 | Honor Guard Revolver Marksmanship | Instructed | 0.0 | 3.00 |
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 1/27/2023 | OCS00581 | January 2023 New Hire Firearms | Instructed | 0.0 | 16.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Basic 3-Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/23/2022 | OCS26095 | Use of Force Update | Passed | 0.0 | 1.00 |
 | 12/21/2022 | OCS27159 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
-| 12/21/2022 | OCS00041 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
 | 12/20/2022 | OCS01142 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 12/19/2022 | OCS16646 | K9 Firearms - Marksmanship/Target Transitions | Instructed | 0.0 | 2.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
@@ -60,6 +60,7 @@
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |
 | 11/1/2022 | OCS27440 | Axon VR demo | Passed | 0.0 | 6.00 |
 | 10/31/2022 | OCS22224 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
+| 10/30/2022 | OCS15929 | ACAP | Passed | 0.0 | 2.00 |
 | 10/20/2022 | OCS38596 | Milo De-Escalation and problem solving | Instructed | 0.0 | 61.00 |
 | 10/20/2022 | OCS42905 | Target zone transitions, marksmanship | Instructed | 0.0 | 68.00 |
 | 10/18/2022 | OCS24937 | Intro to Pistol Red Dot Systems | Instructed | 0.0 | 1.00 |

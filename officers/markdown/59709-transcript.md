@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | BNP27464 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
+| 3/4/2023 | BNP02810 | Stop Stick Training | Passed | 0.0 | 0.50 |
 | 2/16/2023 | BNP13349 | UAS Monthly Training | Passed | 0.0 | 4.00 |
 | 2/7/2023 | BNP08089 | First Aid / CPR | Passed | 0.0 | 2.00 |
 | 2/7/2023 | BNP11603 | Mental Health | Passed | 0.0 | 0.50 |

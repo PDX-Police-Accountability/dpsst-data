@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/1/2023
+  course: STS33390
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/30/2019
   course: OCP27583
   title: Briefing training - multiple topics

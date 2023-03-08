@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | STS33390 | Firearms Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2019 | OCP27583 | Briefing training - multiple topics | Passed | 0.0 | 0.50 |
 | 6/9/2019 | OCP35095 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 4/12/2019 | OCP07550 | Handgun training and qualification | Passed | 0.0 | 3.00 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2023 | HRS38986 | Legal Updates | Passed | 0.0 | 1.00 |
 | 2/2/2023 | HRS10045 | CIS Fall Supervisor Training | Passed | 0.0 | 5.00 |
 | 11/1/2022 | HRS00932 | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/31/2022 | HRS38193 | Fall Firearms Range | Passed | 0.0 | 4.00 |
