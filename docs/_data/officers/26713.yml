@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2023
+  course: HBP08993
+  title: Tactical De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/28/2022
   course: HBP35446
   title: Active Threat Response Drills
