@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2023 | MKL35654 | Use of Forcet/Defensive Tactics | Instructed | 0.0 | 8.00 |
+| 2/28/2023 | MKL39207 | DT/Use of Force | Passed | 0.0 | 8.00 |
 | 10/19/2022 | MKL31883 | DT/Use of Force, Fall 2022 | Instructed | 0.0 | 8.00 |
 | 10/13/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/4/2022 | REG39689 | Ethics | Passed | 0.0 | 2.00 |

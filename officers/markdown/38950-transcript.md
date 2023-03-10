@@ -33,6 +33,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 1/31/2023 | 1/31/2025 |
+| Certification Cards | First Aid | 2/28/2022 | 2/28/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 4/15/2002 |  |
@@ -58,16 +59,19 @@
 | 10/14/2022 | HBS10447 | CONSIM | Passed | 0.0 | 3.00 |
 | 10/14/2022 | HBS09577 | EVO In-Service | Passed | 0.0 | 3.50 |
 | 9/14/2022 | ALP01096 | RITE Professional Workplace for Leaders | Passed | 0.0 | 8.00 |
+| 9/1/2022 | HBS05749 | Civility  Harassment  - Train the Trainer | Passed | 0.0 | 1.50 |
 | 7/15/2022 | HBS00169 | Genentech scenario | Passed | 0.0 | 8.00 |
 | 6/15/2022 | HBS41265 | Corporal Leadership Training | Instructed | 0.0 | 0.75 |
 | 5/24/2022 | HBS23273 | IFAST In-Service | Passed | 0.0 | 4.50 |
 | 5/24/2022 | HBS03956 | May 2022 Defensive Tactics (vest grabs) | Passed | 0.0 | 2.50 |
 | 5/24/2022 | HBS27702 | Airway Circulation Training | Passed | 0.0 | 2.00 |
+| 2/28/2022 | HBS27602 | First Aid | Passed | 0.0 | 1.50 |
 | 2/4/2022 | HBS06256 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/4/2022 | HBS10118 | Use of Force Updates | Passed | 0.0 | 1.50 |
 | 2/4/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 2/4/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 2/2/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
+| 2/2/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 11/22/2021 | HBS23539 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/22/2021 | HBS25381 | EVOC Policy Update | Passed | 0.0 | 1.50 |

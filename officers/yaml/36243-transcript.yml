@@ -341,6 +341,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/17/2022
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/7/2021
   course: HBS44088
   title: EVO PIT Refresher Training

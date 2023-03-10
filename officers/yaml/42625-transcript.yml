@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/25/2023
+  course: PDP06859
+  title: CEW Basic Training  Certification
+  status: Instructed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/17/2023
   course: PDP27229
   title: Intro to Handcuffing

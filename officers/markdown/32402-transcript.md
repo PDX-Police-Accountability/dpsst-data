@@ -67,6 +67,7 @@
 | 1/26/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/26/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
 | 1/26/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
+| 1/26/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 11/8/2021 | HBS28583 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/8/2021 | HBS27794 | EVOC Policy Update | Passed | 0.0 | 1.50 |
 | 11/8/2021 | HBS23160 | Harassment/Civility | Passed | 0.0 | 1.50 |

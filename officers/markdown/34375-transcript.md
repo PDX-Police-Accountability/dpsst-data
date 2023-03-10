@@ -36,6 +36,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/7/2023 | 3/7/2025 |
 | Maintenance Requirements | First Aid/CPR Required | 3/6/2023 | 3/6/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
@@ -48,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2023 | STS31356 | First Aid  CPR - Adult  Child | Passed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2022 | STS29887 | Lexipol Daily Training Bulletins | Passed | 0.0 | 11.00 |
 | 12/19/2022 | STS20481 | Firearms/Qualification | Passed | 0.0 | 0.50 |

@@ -86,6 +86,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/15/2023
+  course: HBP15447
+  title: Mental Health Response Team (MHRT) Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/15/2023
+  course: HBP25483
+  title: Safety Compass - Commercial Sexual Exploitation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/15/2023
+  course: HBP11255
+  title: Tactical De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/21/2022
   course: HBP42091
   title: Active Threat Response Drills

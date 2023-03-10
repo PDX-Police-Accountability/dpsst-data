@@ -62,14 +62,20 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 2/17/2023
-  course: OSH44015
-  title: Firearms 1st Tri
+- date: 3/3/2023
+  course: OSH42689
+  title: 1st Tri Firearms
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/3/2023
+  course: OSH08737
+  title: Shotguns
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/17/2023
-  course: OSH02708
+  course: OSH44015
   title: Firearms 1st Tri
   status: Instructed
   score: '0.0'
@@ -106,12 +112,6 @@ training_records:
   hours: '8.00'
 - date: 11/18/2022
   course: OSH29418
-  title: Survival Skills PT/DT
-  status: Instructed
-  score: '0.0'
-  hours: '4.00'
-- date: 11/18/2022
-  course: OSH26850
   title: Survival Skills PT/DT
   status: Instructed
   score: '0.0'
@@ -2330,6 +2330,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 1/7/1983
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year

@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2023 | KZP19463 | Intoxilyzer 8000 | Passed | 0.0 | 6.00 |
 | 1/3/2023 | MNP10907 | Ethics training 2022 | Passed | 0.0 | 1.00 |
 | 1/3/2023 | MNP13259 | NAMI November 2022 | Passed | 0.0 | 0.50 |
 | 11/18/2022 | MNP43650 | Firearms Night Qualifications | Passed | 0.0 | 4.00 |

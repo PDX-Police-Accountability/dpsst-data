@@ -25,8 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 3/6/2023 | 3/6/2023 |
-| Maintenance Requirements | First Aid/CPR Required | 2/8/2023 | 2/8/2023 |
+| Certification Cards | First Aid and CPR | 2/27/2023 | 2/27/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Signed | 9/2/2008 |  |
@@ -39,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2023 | HBP41495 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
+| 2/22/2023 | HBP39892 | Mental Health Response Team (MHRT) Training | Passed | 0.0 | 3.00 |
+| 2/22/2023 | HBP03196 | Safety Compass - Commercial Sexual Exploitation | Passed | 0.0 | 1.00 |
+| 2/22/2023 | HBP08993 | Tactical De-escalation | Passed | 0.0 | 6.00 |
 | 12/28/2022 | HBP35446 | Active Threat Response Drills | Passed | 0.0 | 3.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | HBP37449 | MCIR / Active Threat Response - Briefing | Passed | 0.0 | 1.00 |

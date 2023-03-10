@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2023 | MKL39207 | DT/Use of Force | Passed | 0.0 | 8.00 |
 | 12/28/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/28/2022 | MKL04258 | Serving Humanity with Dignity in Equity | Passed | 0.0 | 1.00 |
 | 12/22/2022 | MKL02496 | Mental Health in times of racialized violence | Passed | 0.0 | 1.50 |

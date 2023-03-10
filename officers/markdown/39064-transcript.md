@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2023 | TDP40476 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 12/30/2022 | TDP31501 | Harassment in the workplace 2022 | Passed | 0.0 | 1.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/16/2022 | SAG15279 | ICAC 101 | Passed | 0.0 | 8.00 |

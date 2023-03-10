@@ -272,6 +272,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 1/4/2022
+  course: HBS21594
+  title: Employee Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/3/2021
   course: HBS06570
   title: Firearms Update

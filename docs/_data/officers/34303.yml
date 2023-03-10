@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/29/2022
+  course: HBP40958
+  title: K9 Maintenance Training - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/19/2022
   course: HBP18055
   title: CARES NW Training
@@ -105,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/19/2022
+  course: HBP43375
+  title: K9 Maintenance Training - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/28/2022
   course: HBP26736
   title: DIRECT TO CONTACT
@@ -141,6 +153,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 6/29/2022
+  course: HBP27441
+  title: K9 Maintenance Training - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/8/2022
   course: HBP34760
   title: Range / Force and Tactics
@@ -177,6 +195,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/30/2022
+  course: HBP31127
+  title: K9 Maintenance Training - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/16/2022
   course: HBP41457
   title: CPR, First Aid, AED

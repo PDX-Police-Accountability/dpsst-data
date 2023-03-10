@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/4/2023
+  course: KZP19463
+  title: Intoxilyzer 8000
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 1/3/2023
   course: MNP10907
   title: Ethics training 2022

@@ -111,6 +111,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/8/2023
+  course: PDP16551
+  title: Weekly K9 Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/30/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

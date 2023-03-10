@@ -42,7 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/15/2023 | BNP27464 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
+| 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 2/7/2023 | BNP08089 | First Aid / CPR | Passed | 0.0 | 2.00 |
 | 2/7/2023 | BNP15388 | Ethos Leadership Academy | Passed | 0.0 | 3.00 |
 | 2/7/2023 | BNP11603 | Mental Health | Passed | 0.0 | 0.50 |

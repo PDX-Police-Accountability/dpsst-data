@@ -55,6 +55,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/27/2023
+  course: HBP41495
+  title: CPR, First Aid, AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/22/2023
+  course: HBP39892
+  title: Mental Health Response Team (MHRT) Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/22/2023
+  course: HBP03196
+  title: Safety Compass - Commercial Sexual Exploitation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/22/2023
+  course: HBP08993
+  title: Tactical De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/28/2022
   course: HBP35446
   title: Active Threat Response Drills
@@ -2468,14 +2492,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 3/6/2023
-  expiration_date: 3/6/2023
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 2/8/2023
-  expiration_date: 2/8/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/27/2023
+  expiration_date: 2/27/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023

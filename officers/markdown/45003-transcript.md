@@ -42,6 +42,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 2/15/2023 | HBP15447 | Mental Health Response Team (MHRT) Training | Passed | 0.0 | 3.00 |
+| 2/15/2023 | HBP25483 | Safety Compass - Commercial Sexual Exploitation | Passed | 0.0 | 1.00 |
+| 2/15/2023 | HBP11255 | Tactical De-escalation | Passed | 0.0 | 6.00 |
 | 12/21/2022 | HBP42091 | Active Threat Response Drills | Passed | 0.0 | 3.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | HBP37449 | MCIR / Active Threat Response - Briefing | Passed | 0.0 | 1.00 |

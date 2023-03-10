@@ -74,6 +74,7 @@
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/4/2022 | HBS25004 | Bloodborne Pathogens | Passed | 0.0 | 2.50 |
 | 1/4/2022 | HBS32523 | First Aid | Passed | 0.0 | 2.50 |
+| 1/4/2022 | HBS21594 | Employee Wellness | Passed | 0.0 | 2.00 |
 | 12/3/2021 | HBS06570 | Firearms Update | Passed | 0.0 | 4.00 |
 | 12/3/2021 | HBS15658 | EVOC Policy Update | Passed | 0.0 | 1.50 |
 | 12/3/2021 | HBS23911 | Harassment/Civility | Passed | 0.0 | 1.50 |

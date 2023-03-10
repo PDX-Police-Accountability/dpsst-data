@@ -55,6 +55,7 @@
 | 12/14/2022 | CAP05723 | Night Shoot | Passed | 0.0 | 3.00 |
 | 11/30/2022 | CAP23455 | Interefering with a Police Officer Refresher | Passed | 0.0 | 0.50 |
 | 10/31/2022 | CAP36835 | Shaping an Ethical Workplace Culture | Passed | 0.0 | 1.00 |
+| 10/31/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 10/26/2022 | CAP20916 | High Risk Vehicle Stops | Passed | 0.0 | 3.00 |
 | 10/13/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |

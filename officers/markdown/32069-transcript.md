@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/29/2023 | Sherwood Police Department | Promotion | Sergeant |  |  |
 | 7/1/2021 | Sherwood Police Department | Hired | Police Off |  |  |
 | 6/30/2021 | Portland Police Bureau | Retired | Detective |  |  |
 | 1/25/2007 | Portland Police Bureau | Promotion | Detective |  |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 2/8/2023 | SDP13145 | Behavioral Health Incident Training | Passed | 0.0 | 1.00 |
 | 2/8/2023 | SDP14119 | LEDS 20/20 Training | Passed | 0.0 | 1.00 |
 | 2/8/2023 | SDP39678 | Active Shooter Building Clearing Training | Instructed | 0.0 | 3.00 |

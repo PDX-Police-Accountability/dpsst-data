@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/30/2023
+  course: PDP02928
+  title: 'SERT: Firearms Training'
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
 - date: 1/19/2023
   course: PDP44394
   title: SERT Training Scenario

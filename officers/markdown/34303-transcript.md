@@ -42,22 +42,26 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | HBP36791 | Tactical De-escalation | Passed | 0.0 | 6.00 |
 | 2/8/2023 | HBP17868 | Safety Compass - Commercial Sexual Exploitation | Passed | 0.0 | 1.00 |
+| 12/29/2022 | HBP40958 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |
 | 12/19/2022 | HBP18055 | CARES NW Training | Passed | 0.0 | 7.00 |
 | 12/14/2022 | HBP22890 | MCIR / Active Threat Response - Briefing | Passed | 0.0 | 1.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | HBP39455 | Ethics Training and Writing Assignment | Passed | 0.0 | 1.00 |
+| 10/19/2022 | HBP43375 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |
 | 9/28/2022 | HBP26736 | DIRECT TO CONTACT | Passed | 0.0 | 1.00 |
 | 9/7/2022 | HBP16643 | ACAP - Airways Training | Passed | 0.0 | 3.00 |
 | 9/7/2022 | HBP22379 | DV Update and Warrant Writing | Passed | 0.0 | 7.00 |
 | 8/29/2022 | F6R25341 | LIDAR Agency Practical | Passed | 0.0 | 6.00 |
 | 8/17/2022 | HBP19448 | Weapon Retention, DT Refresher, Force Response | Passed | 0.0 | 1.00 |
 | 7/6/2022 | HBP35698 | K9 Maintenance Training - Patrol | Passed | 0.0 | 5.00 |
+| 6/29/2022 | HBP27441 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |
 | 6/8/2022 | HBP34760 | Range / Force and Tactics | Passed | 0.0 | 7.00 |
 | 4/26/2022 | BPT03227 | RADAR/LIDAR Operator Course | Passed | 0.0 | 8.00 |
 | 4/20/2022 | HBP11624 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |
 | 4/13/2022 | HBP36178 | Officer Rescue | Passed | 0.0 | 5.00 |
 | 4/13/2022 | HBP03908 | OIS Investigations | Passed | 0.0 | 4.00 |
 | 3/30/2022 | HBP15013 | ARREST AND CONTROL | Passed | 0.0 | 1.00 |
+| 3/30/2022 | HBP31127 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |
 | 3/16/2022 | HBP41457 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 3/2/2022 | HBP22801 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |
 | 2/16/2022 | HBP10741 | K9 Maintenance Training - Patrol | Passed | 0.0 | 10.00 |

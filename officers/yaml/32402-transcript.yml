@@ -236,6 +236,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/26/2022
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/8/2021
   course: HBS28583
   title: Firearms Update

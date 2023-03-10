@@ -37,15 +37,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2023 | OSH42689 | 1st Tri Firearms | Instructed | 0.0 | 4.00 |
+| 3/3/2023 | OSH08737 | Shotguns | Instructed | 0.0 | 1.00 |
 | 2/17/2023 | OSH44015 | Firearms 1st Tri | Instructed | 0.0 | 4.00 |
-| 2/17/2023 | OSH02708 | Firearms 1st Tri | Instructed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2022 | OSH39135 | Survival Skills PT/DT | Instructed | 0.0 | 4.00 |
 | 11/30/2022 | OSH19877 | Survival Skills | Instructed | 0.0 | 4.00 |
 | 11/20/2022 | OSH17443 | Active Shooter Response | Instructed | 0.0 | 8.00 |
 | 11/18/2022 | OSH29418 | Survival Skills PT/DT | Instructed | 0.0 | 4.00 |
-| 11/18/2022 | OSH26850 | Survival Skills PT/DT | Instructed | 0.0 | 4.00 |
 | 11/2/2022 | OSH21256 | 3rd Tri Firearms Low Light | Instructed | 0.0 | 4.00 |
 | 11/1/2022 | OSH25060 | 2022 Ethics Training | Passed | 0.0 | 1.00 |
 | 10/21/2022 | OSH01793 | 3rd Tri Low Light Firearms | Instructed | 0.0 | 4.00 |
@@ -415,3 +415,4 @@
 | 11/16/2004 | 04-0216 | Radar Operators Course | Passed | 0.0 | 8.00 |
 | 1/1/2004 | F6C03109 | Basic Police Mtn. Bike | Passed | 0.0 | 32.00 |
 | 1/1/2004 | CVP30851 | PLS 2021 Lesson 21 Ethics | Passed | 0.0 | 32.00 |
+| 1/7/1983 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 1.00 |
