@@ -163,6 +163,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/27/2022
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/12/2021
   course: HBS07114
   title: Firearms Update
@@ -1050,6 +1056,14 @@ attribute_records:
   value: First Aid
   effective_date: 1/28/2022
   expiration_date: 1/28/2024
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 1/28/2022
+  expiration_date: 1/28/2024
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 7/8/2019
+  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/8/2019

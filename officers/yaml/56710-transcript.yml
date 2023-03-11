@@ -361,6 +361,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 1/11/2022
+  course: HBS41758
+  title: Employee Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/10/2022
   course: REG43898
   title: Defensive Tactics
@@ -1216,6 +1222,18 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: CPR
+  effective_date: 1/23/2023
+  expiration_date: 1/31/2025
 - topic: Certification Cards
   value: CPR
   effective_date: 1/23/2023
@@ -1224,6 +1242,14 @@ attribute_records:
   value: First Aid
   effective_date: 1/11/2022
   expiration_date: 1/11/2024
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 1/11/2022
+  expiration_date: 1/11/2024
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 10/4/2016
+  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/4/2016

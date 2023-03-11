@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
+| 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 1/19/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

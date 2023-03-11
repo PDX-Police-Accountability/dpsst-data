@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 1/25/2023
+  course: PDP06859
+  title: CEW Basic Training  Certification
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/24/2023
   course: PDP09910
   title: Post Academy Firearms Training

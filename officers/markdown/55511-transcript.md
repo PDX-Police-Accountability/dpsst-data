@@ -28,6 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
+| Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
+| Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +54,7 @@
 | 1/28/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/28/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 1/27/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
+| 1/27/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 11/12/2021 | HBS07114 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/12/2021 | HBS34451 | Harassment/Civility | Passed | 0.0 | 1.50 |
 | 11/12/2021 | HBS25457 | Use of Force/Case Law Update | Passed | 0.0 | 2.00 |

@@ -324,6 +324,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.15'
+- date: 1/26/2022
+  course: PDP04614
+  title: NFPA Hazmat Operations Mission Specific Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 1/10/2022
   course: PDP31806
   title: 2022-1 Range Qualification Shotgun Function Check
@@ -2399,6 +2405,14 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/11/2021
+  expiration_date: 5/11/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/11/2021
@@ -2407,9 +2421,21 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2020
+  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/21/2016
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 12/21/2016
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 11/7/2016
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

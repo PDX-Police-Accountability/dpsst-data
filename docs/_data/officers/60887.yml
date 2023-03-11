@@ -48,6 +48,30 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 2/27/2023
+  course: HBP41495
+  title: CPR, First Aid, AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/15/2023
+  course: HBP15447
+  title: Mental Health Response Team (MHRT) Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/15/2023
+  course: HBP25483
+  title: Safety Compass - Commercial Sexual Exploitation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/15/2023
+  course: HBP11255
+  title: Tactical De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/28/2020
   course: PDP03131
   title: DOJ Settlement Agreement
@@ -60,7 +84,11 @@ training_records:
   status: Cancelled
   score: '0.0'
   hours: '0.00'
-attribute_records: []
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/27/2023
+  expiration_date: 2/27/2025
 education_records:
 - date: 12/15/2022
   degree: No Degree

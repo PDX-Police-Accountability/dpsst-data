@@ -65,6 +65,7 @@
 | 1/27/2022 | HBS13011 | First Aid | Passed | 0.0 | 2.50 |
 | 1/26/2022 | HBS14727 | Use of Force Updates | Passed | 0.0 | 1.50 |
 | 1/26/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
+| 1/26/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 1/12/2022 | HBS04916 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/12/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/12/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
