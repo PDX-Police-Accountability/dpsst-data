@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
 | Certification Cards | First Aid and CPR | 2/15/2022 | 2/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,8 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2023 | F1538918 | Mastering the Promotional Process | Passed | 0.0 | 3.00 |
 | 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |
 | 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |
+| 1/26/2023 | F1535519 | Pursuits: Legal Liability  Best Pract. | Passed | 0.0 | 2.00 |
 | 1/24/2023 | MLP10158 | Handgun Qualification | Instructed | 0.0 | 3.00 |
 | 1/17/2023 | MLP14431 | Handgun Qualification | Instructed | 0.0 | 4.00 |
 | 1/17/2023 | MLP21301 | Pistol Qualification | Instructed | 0.0 | 1.00 |
@@ -121,7 +119,6 @@
 | 2/19/2020 | HUP11989 | OSHA Bloodborne Pathlogens Training | Passed | 0.0 | 1.00 |
 | 2/19/2020 | HUP32108 | ASP Baton Training | Passed | 0.0 | 1.00 |
 | 2/10/2020 | MAP23038 | DPSST Ethics Bulletin 195 | Passed | 0.0 | 0.25 |
-| 1/26/2020 | F1535519 | Pursuits: Legal Liability  Best Pract. | Passed | 0.0 | 2.00 |
 | 1/25/2020 | F6D37287 | Quarterly Firearms Refresher Training | Passed | 0.0 | 4.00 |
 | 1/14/2020 | F6D17809 | Legal Updates | Passed | 0.0 | 1.25 |
 | 1/1/2020 | F6D33344 | Implied Consent Law Changes | Passed | 0.0 | 0.50 |

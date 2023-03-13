@@ -3,7 +3,7 @@ header_record:
   name: Srisongkham, Kenny
   dpsst_identifier: '60813'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
@@ -13,6 +13,12 @@ employment_records:
   agency: Oregon State Police
   action: Hired
   rank: Trooper
+  classification: ''
+  assignment: ''
+- date: 3/3/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
   classification: ''
   assignment: ''
 - date: 3/26/2020

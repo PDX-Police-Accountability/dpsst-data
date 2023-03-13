@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 2/14/2022 | 2/28/2024 |
-| Certification Cards | First Aid and CPR | 2/14/2022 | 2/28/2024 |
-| Code of Ethics | Signed | 7/28/2000 |  |
 | Code of Ethics | Signed | 7/28/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/18/2023 | TRN37526 | DOC - Fire Alarm Panel Monitoring v2023a | Passed | 0.0 | 1.00 |
+| 2/17/2023 | TRN34402 | 2023 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 2/17/2023 | TRN10220 | AICs with Disabilities-Access and Provisions v2022 | Passed | 0.0 | 1.00 |
+| 2/17/2023 | TRN00705 | DOC - Bloodborne Pathogens in the Workplace v2023 | Passed | 0.0 | 1.00 |
+| 2/17/2023 | TRN43887 | DOC - Do the Right Thing v2023 | Passed | 0.0 | 2.00 |
+| 2/17/2023 | TRN23917 | DOC - HIPAA for Everyone v2023 | Passed | 0.0 | 2.00 |
+| 2/17/2023 | TRN23620 | DOC - Fire Extinguisher Use and Safety v2023 | Passed | 0.0 | 0.50 |
+| 2/17/2023 | TRN24777 | DOC - Preventing and Reducing Stigma v2023 | Passed | 0.0 | 3.00 |
+| 2/17/2023 | TRN40251 | DOC - Suicide Detection and Prevention v2023 | Passed | 0.0 | 2.00 |
+| 2/17/2023 | TRN28720 | Emotional Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
+| 2/17/2023 | TRN30986 | Equity Diversity Inclusion  Belonging v2023 | Passed | 0.0 | 1.50 |
+| 2/17/2023 | TRN29167 | Financial Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
+| 2/17/2023 | TRN30766 | Incident Command System for Corrections v2023 | Passed | 0.0 | 1.00 |
+| 2/17/2023 | TRN43898 | Intellectual Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
+| 2/17/2023 | TRN38447 | Occupational Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
 | 12/29/2022 | TRN07778 | TRANSPORT - Escorting AICs in the Community v2019R | Passed | 0.0 | 8.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

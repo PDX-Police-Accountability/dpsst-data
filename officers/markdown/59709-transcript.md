@@ -55,6 +55,7 @@
 | 11/17/2022 | BNP18175 | Ethos Ethics | Passed | 0.0 | 3.00 |
 | 11/17/2022 | BNP19114 | Mental Health/Wellness | Passed | 0.0 | 0.50 |
 | 11/17/2022 | BNP24932 | Low Light Range | Passed | 0.0 | 4.00 |
+| 11/15/2022 | BNP11861 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
 | 11/10/2022 | BNP10495 | UAS Indoor Flight Training | Passed | 0.0 | 4.00 |
 | 10/20/2022 | BNP40235 | UAS - Mapping and evidence collection | Passed | 0.0 | 4.00 |
 | 10/12/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |

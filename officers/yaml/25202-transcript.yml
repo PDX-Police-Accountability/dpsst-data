@@ -41,6 +41,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/8/2023
+  course: PDS11734
+  title: Policy Update / Use of Force Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/18/2023
   course: PDS00756
   title: TacMed

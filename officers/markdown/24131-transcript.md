@@ -32,10 +32,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | WLP31427 | Safety Compass - Human Trafficking Awareness | Passed | 0.0 | 1.00 |
 | 2/7/2023 | WLP44307 | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |
 | 12/20/2022 | WLP26381 | Quarterly Firearms Training | Passed | 0.0 | 2.50 |
 | 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |

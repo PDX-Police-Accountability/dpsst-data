@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/23/2023 | PSU39116 | MILO 3000 / Scenario Training | Instructed | 0.0 | 2.00 |
 | 1/13/2023 | PSU43381 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 12/9/2022 | PSU08349 | Taser 7 Basic Operator Course | Instructed | 0.0 | 8.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2023
+  course: MFN27384
+  title: Airway Circulatory Anatomy and Physiology Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/23/2023
   course: MFN35659
   title: Pro-Criminal Attitude

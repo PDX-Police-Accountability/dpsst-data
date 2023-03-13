@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
 | Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Code of Ethics | Signed | 12/16/2016 |  |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2023 | MNS18173 | Taser 7 Introduction and Certification | Passed | 0.0 | 4.00 |
 | 1/29/2023 | MNS32980 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 1/20/2023 | MNS26072 | CPR Recertification | Passed | 0.0 | 4.00 |
 | 1/13/2023 | TGP34570 | 2022 July Patrol Briefing Training | Passed | 0.0 | 7.25 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2023 | NGP12885 | Taser recertification | Passed | 0.0 | 2.00 |
 | 1/23/2023 | NGP31772 | WRAP restraint / Pinning | Passed | 0.0 | 1.00 |
 | 12/15/2022 | NGP42688 | Hazmat (Police One Academy) | Passed | 0.0 | 2.00 |
 | 12/2/2022 | NGP14935 | SFST Refresher with Wet Lab | Passed | 0.0 | 3.50 |

@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 5/28/2003 |  |
 | Code of Ethics | Signed | 5/28/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -59,6 +55,7 @@
 | 12/16/2022 | BNP43278 | Low Light Exertion Range | Passed | 0.0 | 3.00 |
 | 11/17/2022 | BNP09524 | Bias Crimes Investigations | Passed | 0.0 | 1.00 |
 | 11/17/2022 | BNP18175 | Ethos Ethics | Passed | 0.0 | 3.00 |
+| 11/15/2022 | BNP11861 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
 | 10/18/2022 | BNP13691 | IACP Conf.-Misc. Presentations/Breakout Groups | Passed | 0.0 | 19.50 |
 | 10/11/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 10/5/2022 | BNP28489 | Lexipol Connect - Online Leadership Conference | Passed | 0.0 | 2.25 |

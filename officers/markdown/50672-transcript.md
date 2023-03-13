@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
 | Certification Cards | First Aid and CPR | 5/27/2021 | 5/27/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 8/14/2009 |  |
 | Code of Ethics | Signed | 8/14/2009 |  |
 ## Education
 | date | degree | school | major | hours |

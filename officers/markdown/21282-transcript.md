@@ -33,10 +33,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | WLP31427 | Safety Compass - Human Trafficking Awareness | Passed | 0.0 | 1.00 |
 | 2/7/2023 | WLP44307 | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |
 | 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |

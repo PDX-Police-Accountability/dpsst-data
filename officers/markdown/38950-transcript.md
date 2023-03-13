@@ -33,16 +33,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 1/31/2023 | 1/31/2025 |
-| Certification Cards | CPR | 1/31/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 2/28/2022 | 2/28/2024 |
 | Certification Cards | First Aid | 2/28/2022 | 2/28/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
+| 3/9/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/31/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/31/2023 | HBS28334 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/31/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |

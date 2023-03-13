@@ -26,16 +26,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
-| Code of Ethics | Signed | 3/10/2014 |  |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,8 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
+| 1/18/2023 | OCS07031 | DUII- SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/23/2022 | OCS26095 | Use of Force Update | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |

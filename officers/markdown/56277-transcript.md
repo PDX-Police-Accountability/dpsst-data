@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 8/22/2022 | Canby Police Department | Hired | Police Off |  |  |
+| 8/19/2022 | Gladstone Police Department | Resigned | Police Off |  |  |
 | 10/5/2020 | Gladstone Police Department | Hired | Police Off |  |  |
 | 10/2/2020 | Mt. Angel Police Department | Resigned | Police Off |  |  |
 | 3/12/2018 | Mt. Angel Police Department | Hired | Police Off |  |  |
@@ -27,16 +28,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 4/12/2022 | 4/12/2024 |
-| Certification Cards | First Aid and CPR | 4/12/2022 | 4/12/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 3/5/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 3/5/2018 |  |
-| Code of Ethics | Signed | 8/14/2016 |  |
 | Code of Ethics | Signed | 8/14/2016 |  |
 ## Education
 | date | degree | school | major | hours |

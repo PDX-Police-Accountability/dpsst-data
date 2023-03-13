@@ -4,7 +4,7 @@
 | name | Srisongkham, Kenny |
 | dpsst_identifier | 60813 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 3/6/2023 | Oregon State Police | Hired | Trooper |  |  |
+| 3/3/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/26/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

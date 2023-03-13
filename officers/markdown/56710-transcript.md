@@ -4,7 +4,7 @@
 | name | Spencer, Lucas S. |
 | dpsst_identifier | 56710 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 9/16/2021 | Portland Police Bureau | Hired | Police Off |  |  |
+| 9/16/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/5/2018 | Washington County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 8/7/2017 | Washington County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 10/3/2016 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
@@ -26,13 +26,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
 | Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
-| Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
-| Code of Ethics | Signed | 10/4/2016 |  |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -34,14 +34,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/8/2023 | 3/8/2025 |
-| Certification Cards | First Aid and CPR | 3/8/2023 | 3/8/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 10/10/2007 |  |
 | Code of Ethics | Signed | 10/10/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -50,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2023 | SPP25625 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
 | 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 4.00 |

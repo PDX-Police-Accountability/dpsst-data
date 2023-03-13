@@ -144,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/15/2022
+  course: BNP11861
+  title: SB 418- Interviewing Juveniles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/10/2022
   course: BNP10495
   title: UAS Indoor Flight Training

@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/9/2022 | 7/9/2024 |
 | Certification Cards | First Aid and CPR | 7/9/2022 | 7/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/15/2008 |  |
 | Code of Ethics | Signed | 7/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2023 | CIF02299 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |
 | 1/12/2023 | TDS37827 | Mental health first aid for Law Enforcement | Passed | 0.0 | 8.00 |
 | 12/1/2022 | CIF05172 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |
 | 11/30/2022 | CIF25369 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |

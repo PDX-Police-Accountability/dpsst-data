@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/8/2023
+  course: F1538918
+  title: Mastering the Promotional Process
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/15/2023
   course: MLP02604
   title: Fire Extinguisher and Response Training
@@ -73,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/26/2023
+  course: F1535519
+  title: 'Pursuits: Legal Liability  Best Pract.'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/24/2023
   course: MLP10158
   title: Handgun Qualification
@@ -535,12 +547,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 1/26/2020
-  course: F1535519
-  title: 'Pursuits: Legal Liability  Best Pract.'
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 1/25/2020
   course: F6D37287
   title: Quarterly Firearms Refresher Training
@@ -1074,14 +1080,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/15/2022
-  expiration_date: 2/15/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/15/2022
@@ -1090,14 +1088,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/18/2018
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/18/2018

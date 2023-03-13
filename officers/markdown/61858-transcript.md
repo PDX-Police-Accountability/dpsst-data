@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | MFN27384 | Airway Circulatory Anatomy and Physiology Training | Passed | 0.0 | 2.00 |
 | 2/23/2023 | MFN35659 | Pro-Criminal Attitude | Passed | 0.0 | 2.00 |
 | 2/16/2023 | GPN36477 | De-Escalation | Passed | 0.0 | 8.00 |
 | 2/15/2023 | MFN04635 | Fentanyl Overview | Passed | 0.0 | 2.00 |

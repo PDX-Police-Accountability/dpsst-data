@@ -36,12 +36,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 8/6/2001 |  |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -68,6 +64,7 @@
 | 11/15/2022 | BNP39588 | Mental Health/Wellness | Passed | 0.0 | 0.50 |
 | 11/15/2022 | BNP42004 | Low Light Range | Passed | 0.0 | 4.00 |
 | 11/15/2022 | BNP40592 | Ethos Ethics | Passed | 0.0 | 3.00 |
+| 11/15/2022 | BNP11861 | SB 418- Interviewing Juveniles | Passed | 0.0 | 0.50 |
 | 10/10/2022 | BNP11973 | Skid Car | Passed | 0.0 | 0.30 |
 | 5/18/2022 | BNP39812 | Airway and Circulatory Anatomy training | Passed | 0.0 | 2.00 |
 | 4/29/2022 | VND34312 | Officer Involved Shooting | Passed | 0.0 | 2.00 |

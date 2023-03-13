@@ -67,6 +67,96 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/18/2023
+  course: TRN37526
+  title: DOC - Fire Alarm Panel Monitoring v2023a
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/17/2023
+  course: TRN34402
+  title: 2023 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/17/2023
+  course: TRN10220
+  title: AICs with Disabilities-Access and Provisions v2022
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/17/2023
+  course: TRN00705
+  title: DOC - Bloodborne Pathogens in the Workplace v2023
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/17/2023
+  course: TRN43887
+  title: DOC - Do the Right Thing v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/17/2023
+  course: TRN23917
+  title: DOC - HIPAA for Everyone v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/17/2023
+  course: TRN23620
+  title: DOC - Fire Extinguisher Use and Safety v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2023
+  course: TRN24777
+  title: DOC - Preventing and Reducing Stigma v2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/17/2023
+  course: TRN40251
+  title: DOC - Suicide Detection and Prevention v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/17/2023
+  course: TRN28720
+  title: Emotional Wellness for Corr Professionals v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2023
+  course: TRN30986
+  title: Equity Diversity Inclusion  Belonging v2023
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/17/2023
+  course: TRN29167
+  title: Financial Wellness for Corr Professionals v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2023
+  course: TRN30766
+  title: Incident Command System for Corrections v2023
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/17/2023
+  course: TRN43898
+  title: Intellectual Wellness for Corr Professionals v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2023
+  course: TRN38447
+  title: Occupational Wellness for Corr Professionals v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/29/2022
   course: TRN07778
   title: TRANSPORT - Escorting AICs in the Community v2019R
@@ -760,26 +850,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/14/2022
   expiration_date: 2/28/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/14/2022
-  expiration_date: 2/28/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/28/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/28/2000
