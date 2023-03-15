@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2023
+  course: WBP21933
+  title: 'Combative Firearms: Developing Speed and Accuracy'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 2/6/2023
   course: WBP20848
   title: LEDS - Inquiry Level Recertification

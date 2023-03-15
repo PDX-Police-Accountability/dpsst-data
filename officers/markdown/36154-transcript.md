@@ -40,6 +40,7 @@
 | 12/2/2022 | MFP25974 | TIU Updates  Forefeiture | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP40339 | LPR/FLOCK/Vigilant | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP13248 | Airway Circulatory Anatomy  Physiology | Passed | 0.0 | 2.00 |
+| 11/22/2022 | MFP07551 | Equip. Fam.  Dallas School Shooting Brief | Passed | 0.0 | 1.75 |
 | 10/31/2022 | MFP15610 | High Elevation Crisis Negotiation  De-escalation | Passed | 0.0 | 4.00 |
 | 10/14/2022 | MFP08261 | 2022 ETHOS Leadership Development Program | Passed | 0.0 | 3.50 |
 | 8/5/2022 | MFP38130 | CNT and SWAT Hostage Scenario | Passed | 0.0 | 7.00 |

@@ -3,15 +3,15 @@ header_record:
   name: Hunzeker, Brian D.
   dpsst_identifier: '39600'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
-- date: 3/1/2022
+- date: 2/2/2023
   agency: Portland Police Bureau
-  action: Discharged
+  action: Return LOA
   rank: Police Off
   classification: ''
   assignment: ''
@@ -28,26 +28,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/1/2022
+- status_date: 2/13/2012
   certificate: Police Officer
   level: Advanced
-  status: Lapsed-UR
+  status: Granted-UR
   certificate_date: 2/13/2012
-  expiration_date: 3/1/2027
+  expiration_date: ''
   probation_date: ''
-- status_date: 6/1/2022
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed-UR
-  certificate_date: 10/11/2001
-  expiration_date: 3/1/2027
-  probation_date: ''
-- status_date: 6/1/2022
+- status_date: 2/13/2012
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed-UR
+  status: Granted-UR
   certificate_date: 2/13/2012
-  expiration_date: 3/1/2027
+  expiration_date: ''
+  probation_date: ''
+- status_date: 10/11/2001
+  certificate: Police Officer
+  level: Basic
+  status: Granted-UR
+  certificate_date: 10/11/2001
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/31/2021
@@ -3873,6 +3873,14 @@ training_records:
   score: '0.0'
   hours: '837.50'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2022
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021

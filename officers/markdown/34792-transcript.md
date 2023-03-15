@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/17/2023 | ADP29249 | Defensive Tactics Training | Passed | 0.0 | 3.00 |
 | 1/26/2023 | BPT43048 | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 1/23/2023 | BPT40820 | Instructor Core | Passed | 0.0 | 2.00 |
 | 12/31/2022 | TAP05357 | LEXIPOL Daily Training Bulletins Jan-Dec 2022 | Passed | 0.0 | 11.00 |

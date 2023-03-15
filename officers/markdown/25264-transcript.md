@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2023 | PDS32117 | Adult Protective Services | Passed | 0.0 | 1.00 |
 | 1/14/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/6/2023 | PDS37167 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/31/2022 | PDS37218 | Stops and Searches | Passed | 0.0 | 0.50 |

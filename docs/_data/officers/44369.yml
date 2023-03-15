@@ -112,6 +112,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/6/2023
+  course: STP31849
+  title: Attitude Empowerment
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 3/6/2023
+  course: STP40982
+  title: Public Corruption
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/7/2023
   course: STP35963
   title: Defensive Tactics

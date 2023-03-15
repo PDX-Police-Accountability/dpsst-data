@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/22/2022
+  course: MFP07551
+  title: Equip. Fam.  Dallas School Shooting Brief
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 10/31/2022
   course: MFP15610
   title: High Elevation Crisis Negotiation  De-escalation

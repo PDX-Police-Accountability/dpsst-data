@@ -4,7 +4,7 @@
 | name | Hunzeker, Brian D. |
 | dpsst_identifier | 39600 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,18 +12,20 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 3/1/2022 | Portland Police Bureau | Discharged | Police Off |  |  |
+| 2/2/2023 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 5/26/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 7/20/2000 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/1/2022 | Police Officer | Advanced | Lapsed-UR | 2/13/2012 | 3/1/2027 |  |
-| 6/1/2022 | Police Officer | Basic | Lapsed-UR | 10/11/2001 | 3/1/2027 |  |
-| 6/1/2022 | Police Officer | Intermediate | Lapsed-UR | 2/13/2012 | 3/1/2027 |  |
+| 2/13/2012 | Police Officer | Advanced | Granted-UR | 2/13/2012 |  |  |
+| 2/13/2012 | Police Officer | Intermediate | Granted-UR | 2/13/2012 |  |  |
+| 10/11/2001 | Police Officer | Basic | Granted-UR | 10/11/2001 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 | Code of Ethics | Signed | 12/13/2000 |  |
 ## Education

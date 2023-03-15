@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2023 | PDS04049 | TacMed | Passed | 0.0 | 4.00 |
+| 3/7/2023 | PDS15017 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/7/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 1/9/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/31/2022 | 22-CVDL3 | 2022 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |

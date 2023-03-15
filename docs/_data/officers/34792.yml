@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/17/2023
+  course: ADP29249
+  title: Defensive Tactics Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/26/2023
   course: BPT43048
   title: RADAR/LIDAR Instructor Development Course

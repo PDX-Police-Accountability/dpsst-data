@@ -36,6 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2023 | PDS01115 | Taser | Passed | 0.0 | 8.00 |
 | 12/26/2023 | PDS30531 | Mind Set | Passed | 0.0 | 4.00 |
+| 2/20/2023 | PDS32117 | Adult Protective Services | Passed | 0.0 | 1.00 |
 | 2/2/2023 | PDS07070 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/2/2023 | PDS23366 | TacMed | Passed | 0.0 | 4.00 |
 | 1/16/2023 | PDS33713 | Defensive Tactics | Passed | 0.0 | 8.00 |

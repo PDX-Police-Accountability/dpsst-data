@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | WBP21933 | Combative Firearms: Developing Speed and Accuracy | Passed | 0.0 | 24.00 |
 | 2/6/2023 | WBP20848 | LEDS - Inquiry Level Recertification | Passed | 0.0 | 1.00 |
 | 1/24/2023 | WBP01826 | Photo Enforcement Program/Technology Training | Passed | 0.0 | 1.00 |
 | 12/29/2022 | WBP23768 | Fourth Quarter Firearms Qualifications | Passed | 0.0 | 0.50 |

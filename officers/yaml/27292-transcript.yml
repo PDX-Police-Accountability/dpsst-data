@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/7/2023
+  course: PDS12736
+  title: Crisis Negotiation Team Training
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/16/2023
   course: PDS41564
   title: TacMed

@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/7/2023
+  course: PDS04049
+  title: TacMed
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/7/2023
+  course: PDS15017
+  title: Benchmark Analytics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/7/2023
   course: PDS20684
   title: Adult Protective Services Overview

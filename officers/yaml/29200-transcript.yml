@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2023
+  course: PDS18431
+  title: Civil Process
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/10/2023
   course: PDS14136
   title: Use of Force

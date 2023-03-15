@@ -49,6 +49,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 3/9/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 3/6/2023 | STP31849 | Attitude Empowerment | Passed | 0.0 | 7.00 |
+| 3/6/2023 | STP40982 | Public Corruption | Passed | 0.0 | 1.00 |
 | 1/31/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/31/2023 | HBS28334 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/31/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |

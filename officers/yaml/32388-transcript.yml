@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2023
+  course: WBP21933
+  title: 'Combative Firearms: Developing Speed and Accuracy'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 1/25/2023
   course: GSP18222
   title: Red Dot Transition

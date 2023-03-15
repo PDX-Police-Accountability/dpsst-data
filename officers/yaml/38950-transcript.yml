@@ -113,6 +113,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/6/2023
+  course: STP31849
+  title: Attitude Empowerment
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 3/6/2023
+  course: STP40982
+  title: Public Corruption
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2023
   course: HBS21268
   title: DEI Training

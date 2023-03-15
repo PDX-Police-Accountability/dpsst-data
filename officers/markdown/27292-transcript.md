@@ -48,6 +48,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 12/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 3/7/2023 | PDS12736 | Crisis Negotiation Team Training | Instructed | 0.0 | 16.00 |
 | 2/16/2023 | PDS41564 | TacMed | Passed | 0.0 | 4.00 |
 | 2/5/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 1/16/2023 | PDS25412 | Benchmark Analytics | Passed | 0.0 | 4.00 |
