@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 2/22/2023 | VND10045 | How to Catch A Predator | Passed | 0.0 | 8.00 |
 | 12/29/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/29/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

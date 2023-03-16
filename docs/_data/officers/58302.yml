@@ -162,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/23/2022
+  course: PDP22231
+  title: Less Lethal Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 9/13/2022
   course: OCS39395
   title: Interview and Interrogation
@@ -216,6 +222,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/27/2022
+  course: PDP33374
+  title: AR-15 Training (In Service)
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/23/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories

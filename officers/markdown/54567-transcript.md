@@ -21,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/6/2023 | Police Officer | Intermediate | App InProc |  |  |  |
+| 3/14/2023 | Police Officer | Intermediate | Granted | 3/14/2023 |  |  |
 | 3/19/2019 | Police Officer | Basic | Granted | 3/19/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/8/2023 | F1538918 | Mastering the Promotional Process | Passed | 0.0 | 3.00 |
+| 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |
 | 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |
 | 1/26/2023 | F1535519 | Pursuits: Legal Liability  Best Pract. | Passed | 0.0 | 2.00 |

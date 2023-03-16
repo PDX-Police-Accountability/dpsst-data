@@ -124,6 +124,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/3/2023
+  course: STP35659
+  title: 2023 Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '17.50'
 - date: 2/7/2023
   course: STP35963
   title: Defensive Tactics

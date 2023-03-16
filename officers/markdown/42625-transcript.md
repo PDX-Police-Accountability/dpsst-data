@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Instructed | 0.0 | 7.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Instructed | 0.0 | 1.00 |

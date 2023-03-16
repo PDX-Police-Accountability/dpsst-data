@@ -25,6 +25,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | PDP22623 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/28/2023 | PDP39581 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/27/2023 | PDP08572 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 1/11/2023 | PDP29951 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 11/17/2022 | PDP41896 | 2022 CNT Annual Training | Passed | 0.0 | 18.00 |

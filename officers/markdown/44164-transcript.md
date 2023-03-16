@@ -35,8 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | PDP22623 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/28/2023 | PDP39581 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/27/2023 | PDP08572 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/20/2023 | VND39577 | EMDR for Paraprofessionals | Instructed | 0.0 | 40.00 |
+| 1/11/2023 | PDP29951 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/19/2022 | PDP14293 | 2022-3 Range Qualification Secondary FA (50 Rd) | Passed | 0.0 | 0.50 |

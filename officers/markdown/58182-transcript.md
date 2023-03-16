@@ -4,7 +4,7 @@
 | name | Cherevan, Andriy |
 | dpsst_identifier | 58182 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 2/8/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 1/4/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/8/2022 | Police Officer | Basic | Lapsed | 1/8/2019 | 2/8/2027 |  |
+| 1/8/2019 | Police Officer | Basic | Granted | 1/8/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 12/27/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
 ## Education

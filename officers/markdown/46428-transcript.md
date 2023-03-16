@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 2/9/2023 | VND14472 | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 2/9/2023 | PDP14078 | NW Peer Support Conference | Passed | 0.0 | 20.50 |
 | 2/8/2023 | VND14472 | NW Peer Support Conference | Passed | 0.0 | 8.00 |

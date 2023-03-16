@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2023
+  course: PPP42986
+  title: Redefining Adversity
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/9/2023
   course: VND14472
   title: NW Peer Support Conference

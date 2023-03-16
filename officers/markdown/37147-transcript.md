@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/11/2023 | PDP29951 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/30/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP07684 | Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |

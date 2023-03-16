@@ -101,6 +101,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/17/2023
+  course: HBS32256
+  title: Winter Rifle Updates
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/28/2023
   course: HBS21268
   title: DEI Training

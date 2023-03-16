@@ -39,6 +39,7 @@
 | 2/24/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/16/2023 | REG16149 | Take downs, wall work, ground control | Passed | 0.0 | 1.00 |
 | 2/15/2023 | HBS24117 | Shooting within a Vehicle | Passed | 0.0 | 3.00 |
+| 2/13/2023 | HBS38362 | Winter Rifle Updates | Passed | 0.0 | 9.00 |
 | 2/9/2023 | REG00823 | Sweeps from Ground Bottom | Passed | 0.0 | 1.00 |
 | 1/26/2023 | REG04813 | Strike Defense, Ground Control | Passed | 0.0 | 1.00 |
 | 1/23/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |

@@ -3,15 +3,21 @@ header_record:
   name: Moore, Nathan A.
   dpsst_identifier: '42576'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/13/2022
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 7/14/2022
   agency: Portland Police Bureau
-  action: Resigned
+  action: LOA
   rank: Detective
   classification: ''
   assignment: ''
@@ -52,26 +58,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/14/2022
+- status_date: 9/25/2020
   certificate: Police Officer
   level: Advanced
-  status: Lapsed
+  status: Granted
   certificate_date: 9/25/2020
-  expiration_date: 7/14/2027
+  expiration_date: ''
   probation_date: ''
-- status_date: 10/14/2022
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 10/27/2008
-  expiration_date: 7/14/2027
-  probation_date: ''
-- status_date: 10/14/2022
+- status_date: 6/29/2017
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Granted
   certificate_date: 6/29/2017
-  expiration_date: 7/14/2027
+  expiration_date: ''
+  probation_date: ''
+- status_date: 10/27/2008
+  certificate: Police Officer
+  level: Basic
+  status: Granted
+  certificate_date: 10/27/2008
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/19/2022
@@ -3609,6 +3615,14 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2022
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/8/2021

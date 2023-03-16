@@ -46,11 +46,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/6/2023
+- status_date: 3/14/2023
   certificate: Police Officer
   level: Intermediate
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 3/14/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 3/19/2019
@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/5/2023
+  course: MLP13120
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/15/2023
   course: MLP02604
   title: Fire Extinguisher and Response Training

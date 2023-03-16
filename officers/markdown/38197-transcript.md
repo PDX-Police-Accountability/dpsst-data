@@ -41,7 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | PDP22623 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/28/2023 | PDP39581 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/27/2023 | PDP08572 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/11/2023 | PDP29951 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 11/29/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/29/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |

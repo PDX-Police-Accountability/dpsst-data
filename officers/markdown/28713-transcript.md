@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 9/24/2021 | PDP28819 | 2021 EAP Bldg  Restoring Resilience | Passed | 0.0 | 7.00 |
 | 6/23/2021 | F6E35610 | Online Investigations for Law Enforcement | Passed | 0.0 | 8.00 |
 | 2/11/2021 | F6D34467 | Basic Background Investigations | Passed | 0.0 | 16.00 |

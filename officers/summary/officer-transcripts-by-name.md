@@ -303,7 +303,7 @@
 | Chapman, Michael A. | 43481 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-04-11 | [md](../markdown/43481-transcript.md) - [yaml](../yaml/43481-transcript.yml) |
 | Chastain, Daniel C. | 36610 | Portland Police Bureau | Inactive | Police Officer | Discharged | 2017-08-01 | [md](../markdown/36610-transcript.md) - [yaml](../yaml/36610-transcript.yml) |
 | Chen, Jacob Y. | 63180 | Portland Police Bureau | Active | Police Officer | Hired | 2022-08-18 | [md](../markdown/63180-transcript.md) - [yaml](../yaml/63180-transcript.yml) |
-| Cherevan, Andriy | 58182 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-02-08 | [md](../markdown/58182-transcript.md) - [yaml](../yaml/58182-transcript.yml) |
+| Cherevan, Andriy | 58182 | Portland Police Bureau | Active | Police Officer | Hired | 2018-01-04 | [md](../markdown/58182-transcript.md) - [yaml](../yaml/58182-transcript.yml) |
 | Chinn, Curtis A. | 27250 | Portland Police Bureau | Active | Police Officer | Hired | 2022-05-15 | [md](../markdown/27250-transcript.md) - [yaml](../yaml/27250-transcript.yml) |
 | Chinn, Maki M. | 36716 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-12-17 | [md](../markdown/36716-transcript.md) - [yaml](../yaml/36716-transcript.yml) |
 | Chong, Nicholas J. | 63677 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63677-transcript.md) - [yaml](../yaml/63677-transcript.yml) |
@@ -735,7 +735,7 @@
 | Hunt, Thomas A. | 23932 | Portland Police Bureau | Inactive | Captain | Retired | 2017-06-30 | [md](../markdown/23932-transcript.md) - [yaml](../yaml/23932-transcript.yml) |
 | Hunter, Charles W. | 15710 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-09-01 | [md](../markdown/15710-transcript.md) - [yaml](../yaml/15710-transcript.yml) |
 | Huntinghouse, Kenneth H. | 52689 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/52689-transcript.md) - [yaml](../yaml/52689-transcript.yml) |
-| Hunzeker, Brian D. | 39600 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-02-02 | [md](../markdown/39600-transcript.md) - [yaml](../yaml/39600-transcript.yml) |
+| Hunzeker, Brian D. | 39600 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-02-22 | [md](../markdown/39600-transcript.md) - [yaml](../yaml/39600-transcript.yml) |
 | Huq, Amadeo M. | 63084 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63084-transcript.md) - [yaml](../yaml/63084-transcript.yml) |
 | Hurley, Erica L. | 29900 | Portland Police Bureau | Active | Commander | Promotion | 2020-05-28 | [md](../markdown/29900-transcript.md) - [yaml](../yaml/29900-transcript.yml) |
 | Hurley, James A. | 24796 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2016-04-21 | [md](../markdown/24796-transcript.md) - [yaml](../yaml/24796-transcript.yml) |
@@ -1061,7 +1061,7 @@
 | Moore, Gary D. | 15650 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/15650-transcript.md) - [yaml](../yaml/15650-transcript.yml) |
 | Moore, Gregory M. | 51791 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/51791-transcript.md) - [yaml](../yaml/51791-transcript.yml) |
 | Moore, Mdajour A. | 63345 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/63345-transcript.md) - [yaml](../yaml/63345-transcript.yml) |
-| Moore, Nathan A. | 42576 | Portland Police Bureau | Inactive | Detective | Resigned | 2022-07-14 | [md](../markdown/42576-transcript.md) - [yaml](../yaml/42576-transcript.yml) |
+| Moore, Nathan A. | 42576 | Portland Police Bureau | Active | Detective | Return LOA | 2022-10-13 | [md](../markdown/42576-transcript.md) - [yaml](../yaml/42576-transcript.yml) |
 | Mora, Anthony R. | 59317 | Portland Police Bureau | Active | Police Officer | Hired | 2019-01-03 | [md](../markdown/59317-transcript.md) - [yaml](../yaml/59317-transcript.yml) |
 | Morales, Dionisio, III | 46313 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2015-06-04 | [md](../markdown/46313-transcript.md) - [yaml](../yaml/46313-transcript.yml) |
 | Morales, Evalyn D. | 48015 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-02-22 | [md](../markdown/48015-transcript.md) - [yaml](../yaml/48015-transcript.yml) |

@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2023 | PDP22623 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/28/2023 | PDP39581 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
+| 2/27/2023 | PDP08572 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/27/2022 | PDP06352 | 2022 Lead Awareness and Safety Training for FA | Passed | 0.0 | 1.25 |
 | 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |

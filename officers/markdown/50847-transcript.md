@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 8/17/2022 | PDP31730 | Critical Incident Stress Management | Passed | 0.0 | 27.00 |
 | 9/30/2017 | PPB24634 | 2017-2 In-Servce Evaluations/Training Debrief | No Show | 0.0 | 0.00 |
 | 9/30/2017 | PPB24639 | 2017-2 In-Service Firearms | No Show | 0.0 | 0.00 |

@@ -391,7 +391,7 @@
 | Forland, Steven J. | 41761 | Portland Police Bureau | Active | Detective | Promotion | 2014-08-28 | [md](../markdown/41761-transcript.md) - [yaml](../yaml/41761-transcript.yml) |
 | Corona, Joseph R. | 41783 | Portland Police Bureau | Active | Detective | Promotion | 2018-02-08 | [md](../markdown/41783-transcript.md) - [yaml](../yaml/41783-transcript.yml) |
 | Dickinson, Douglas J. | 41829 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/41829-transcript.md) - [yaml](../yaml/41829-transcript.yml) |
-| Moore, Nathan A. | 42576 | Portland Police Bureau | Inactive | Detective | Resigned | 2022-07-14 | [md](../markdown/42576-transcript.md) - [yaml](../yaml/42576-transcript.yml) |
+| Moore, Nathan A. | 42576 | Portland Police Bureau | Active | Detective | Return LOA | 2022-10-13 | [md](../markdown/42576-transcript.md) - [yaml](../yaml/42576-transcript.yml) |
 | Law, Travis W. | 42652 | Portland Police Bureau | Active | Detective | Promotion | 2017-09-21 | [md](../markdown/42652-transcript.md) - [yaml](../yaml/42652-transcript.yml) |
 | Griggs, Andrew J. | 43320 | Portland Police Bureau | Inactive | Detective | Resigned | 2019-12-31 | [md](../markdown/43320-transcript.md) - [yaml](../yaml/43320-transcript.yml) |
 | Dunn, Stacy J. | 43482 | Portland Police Bureau | Inactive | Detective | Layoff | 2017-05-01 | [md](../markdown/43482-transcript.md) - [yaml](../yaml/43482-transcript.yml) |
@@ -717,7 +717,7 @@
 | Hertzler, Gabri B. | 39513 | Portland Police Bureau | Active | Police Officer | Hired | 2004-03-11 | [md](../markdown/39513-transcript.md) - [yaml](../yaml/39513-transcript.yml) |
 | Kemple, David F. | 39589 | Portland Police Bureau | Active | Police Officer | Hired | 2001-11-29 | [md](../markdown/39589-transcript.md) - [yaml](../yaml/39589-transcript.yml) |
 | McGarry, David J. | 39599 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2017-01-19 | [md](../markdown/39599-transcript.md) - [yaml](../yaml/39599-transcript.yml) |
-| Hunzeker, Brian D. | 39600 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-02-02 | [md](../markdown/39600-transcript.md) - [yaml](../yaml/39600-transcript.yml) |
+| Hunzeker, Brian D. | 39600 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-02-22 | [md](../markdown/39600-transcript.md) - [yaml](../yaml/39600-transcript.yml) |
 | Stroh, Delton K. | 39607 | Portland Police Bureau | Active | Police Officer | Hired | 2000-07-27 | [md](../markdown/39607-transcript.md) - [yaml](../yaml/39607-transcript.yml) |
 | Nagy, Patrick J. | 39612 | Portland Police Bureau | Active | Police Officer | Hired | 2000-07-20 | [md](../markdown/39612-transcript.md) - [yaml](../yaml/39612-transcript.yml) |
 | Truong, Robby T. | 39642 | Portland Police Bureau | Active | Police Officer | Return LOA | 2017-02-23 | [md](../markdown/39642-transcript.md) - [yaml](../yaml/39642-transcript.yml) |
@@ -1124,7 +1124,7 @@
 | Shiferaw, Robel | 58167 | Portland Police Bureau | Active | Police Officer | Hired | 2018-01-04 | [md](../markdown/58167-transcript.md) - [yaml](../yaml/58167-transcript.yml) |
 | Brittingham, Brandyn L. | 58168 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-05-22 | [md](../markdown/58168-transcript.md) - [yaml](../yaml/58168-transcript.yml) |
 | Frear, Laura R. | 58169 | Portland Police Bureau | Active | Police Officer | Hired | 2018-01-04 | [md](../markdown/58169-transcript.md) - [yaml](../yaml/58169-transcript.yml) |
-| Cherevan, Andriy | 58182 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-02-08 | [md](../markdown/58182-transcript.md) - [yaml](../yaml/58182-transcript.yml) |
+| Cherevan, Andriy | 58182 | Portland Police Bureau | Active | Police Officer | Hired | 2018-01-04 | [md](../markdown/58182-transcript.md) - [yaml](../yaml/58182-transcript.yml) |
 | Terrett, Michael J. | 58225 | Portland Police Bureau | Active | Police Officer | Hired | 2018-01-04 | [md](../markdown/58225-transcript.md) - [yaml](../yaml/58225-transcript.yml) |
 | Gomez, Jonathan M. | 58226 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2018-10-03 | [md](../markdown/58226-transcript.md) - [yaml](../yaml/58226-transcript.yml) |
 | Mujovic, Sehad | 58234 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-04-09 | [md](../markdown/58234-transcript.md) - [yaml](../yaml/58234-transcript.yml) |

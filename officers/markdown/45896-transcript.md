@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 1/20/2023 | VND39577 | EMDR for Paraprofessionals | Instructed | 0.0 | 40.00 |
 | 1/20/2023 | PDP41765 | Traumatic Stress Relief for Peer Supporters | Passed | 0.0 | 36.00 |
 | 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |

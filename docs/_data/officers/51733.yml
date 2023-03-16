@@ -37,12 +37,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/1/2023
+  course: PDP22623
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 2/28/2023
+  course: PDP39581
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 2/27/2023
+  course: PDP08572
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/11/2023
+  course: PDP29951
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/26/2022
   course: PDP36927
   title: 2022-5 CAO Legal Updates for 05/2022
