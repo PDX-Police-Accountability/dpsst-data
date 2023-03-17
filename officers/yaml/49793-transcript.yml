@@ -92,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/7/2023
+  course: CIF23279
+  title: Law Enforcement Personnel Standards
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/12/2023
   course: TDS37827
   title: Mental health first aid for Law Enforcement

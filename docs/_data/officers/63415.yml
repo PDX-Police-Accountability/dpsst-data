@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/26/2023
+  course: PDP26373
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/23/2023
   course: M10-23A
   title: DPSST Basic Police Course

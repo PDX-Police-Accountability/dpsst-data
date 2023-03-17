@@ -45,6 +45,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/8/2023 | CIF02299 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |
+| 3/7/2023 | CIF23279 | Law Enforcement Personnel Standards | Passed | 0.0 | 1.00 |
 | 1/12/2023 | TDS37827 | Mental health first aid for Law Enforcement | Passed | 0.0 | 8.00 |
 | 12/1/2022 | CIF05172 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |
 | 11/30/2022 | CIF25369 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |

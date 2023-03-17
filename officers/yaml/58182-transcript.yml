@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2023
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/21/2022
   course: PDP06672
   title: K9 Unit Training
@@ -1959,8 +1965,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2022
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -1973,6 +1983,10 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/22/2018
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 3/15/2023
 education_records:
 - date: 1/15/2017
   degree: No Degree
