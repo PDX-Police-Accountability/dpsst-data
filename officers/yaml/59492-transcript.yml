@@ -1278,6 +1278,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/6/2019
+  course: PDP22744
+  title: 2019 Advanced Academy PVO (UoF)
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 10/2/2019
   course: PDP03093
   title: 2019 Chief's Office SPLC Antigovernment Extremists
@@ -1290,12 +1296,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/2/2019
+  course: PDP14800
+  title: 2019 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '18.50'
+- date: 10/1/2019
+  course: PDP08425
+  title: 2019 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '51.50'
+- date: 10/1/2019
+  course: PDP28144
+  title: 2019 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '49.50'
+- date: 10/1/2019
+  course: PDP02286
+  title: 2019 Advanced Academy Patrol Procedures (UoF)
+  status: Passed
+  score: '0.0'
+  hours: '124.00'
 - date: 9/17/2019
   course: PDP01504
   title: 2019-7 City Attorney's Office Legal Updates 7/2019
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/16/2019
+  course: PDP36559
+  title: 2019 Advanced Academy Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 9/16/2019
+  course: PDP15854
+  title: 2019 Advanced Academy Patrol Procedures (Other)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/11/2019
   course: PDP07809
   title: 2019 Chief's Office SPLC Hate Crimes
@@ -1314,12 +1356,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/11/2019
+  course: PDP23130
+  title: 2019 Advanced Academy Critical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/11/2019
+  course: PDP01402
+  title: 2019 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
+- date: 9/11/2019
+  course: PDP36331
+  title: 2019 Advanced Academy SERT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/9/2019
   course: PDP40096
   title: 2019-2 CHO Force Inspector Updates for Q2
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/9/2019
+  course: PDP26669
+  title: 2019 Advanced Academy ECW
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/3/2019
   course: PDP12126
   title: 2019-2 Range Qualification Firearms Training
@@ -1344,12 +1410,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/27/2019
+  course: PDP07680
+  title: 2019 Advanced Academy Professionalism
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/23/2019
+  course: PDP14757
+  title: 2019 Advanced Academy Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 8/21/2019
+  course: PDP12855
+  title: 2019 Advanced Academy Mindfulness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/17/2019
   course: PDP02916
   title: 2019 CHO SPLC Law Enforce Response to Hate Events
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/6/2019
+  course: PDP31384
+  title: 2019 Advanced Academy PVO (Other)
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 7/25/2019
+  course: PDP13526
+  title: 2019 Advanced Academy Orientation and Expectations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/13/2019
   course: PDP30115
   title: 2019-3 City Attorney's Office Legal Updates 3/2019

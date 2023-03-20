@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Code of Ethics | Signed | 12/4/2007 |  |
 | Code of Ethics | Signed | 12/4/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2023 | WBP07738 | Briefing Training - Hancuffing Techniques | Passed | 0.0 | 0.50 |
 | 3/9/2023 | WBP21933 | Combative Firearms: Developing Speed and Accuracy | Passed | 0.0 | 24.00 |
 | 2/6/2023 | WBP20848 | LEDS - Inquiry Level Recertification | Passed | 0.0 | 1.00 |
 | 1/24/2023 | WBP01826 | Photo Enforcement Program/Technology Training | Passed | 0.0 | 1.00 |

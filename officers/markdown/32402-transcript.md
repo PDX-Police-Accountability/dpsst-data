@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 1/16/2023 | 1/31/2025 |
-| Certification Cards | CPR | 1/16/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
-| Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/17/2002 |  |
 | Code of Ethics | Signed | 10/17/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -58,7 +53,8 @@
 | 8/25/2022 | HBS34146 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 8/25/2022 | HBS16554 | EVO Fall 2022 In-Service | Passed | 0.0 | 4.00 |
 | 8/25/2022 | HBS29122 | DT CONSIM Instructor Updates | Passed | 0.0 | 3.00 |
-| 7/19/2022 | HBS26558 | Detective building search / Warrant planning | Passed | 0.0 | 8.00 |
+| 7/19/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 7/19/2022 | HBS35838 | Detective Building Search/Warrant Planning | Passed | 0.0 | 8.00 |
 | 7/13/2022 | HBS37414 | Cryptocurrency Training | Passed | 0.0 | 2.00 |
 | 7/12/2022 | HBS41060 | Detective Building Search/Warrants | Passed | 0.0 | 8.00 |
 | 4/13/2022 | HBS10219 | IFAST Instructor Updates | Passed | 0.0 | 4.50 |

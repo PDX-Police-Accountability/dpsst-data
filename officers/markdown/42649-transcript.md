@@ -5,13 +5,14 @@
 | dpsst_identifier | 42649 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/27/2022 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 3/27/2003 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/28/2003 | Police Corps Academy-Participant | Resigned | Cadet |  |  |
 | 9/16/2002 | Police Corps Academy-Participant | Hired | Cadet |  |  |
@@ -25,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/19/2021 | 5/19/2023 |
 | Certification Cards | First Aid and CPR | 5/19/2021 | 5/19/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 10/8/2004 |  |
 | Code of Ethics | Signed | 10/8/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/20/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
-| Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
-| Code of Ethics | Signed | 10/23/2001 |  |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2023 | PDN16325 | Field Applications-Radio Usage | Passed | 0.0 | 1.00 |
 | 2/10/2023 | PDN22435 | Mental Health Interventions for Law Enforcement | Passed | 0.0 | 3.00 |
 | 2/7/2023 | PDN18747 | Defensive Tactics-Basic Handcuffing | Passed | 0.0 | 1.50 |
 | 12/15/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

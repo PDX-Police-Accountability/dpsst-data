@@ -87,6 +87,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/12/2023
+  course: PDS13576
+  title: Benchmark Analytics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/9/2023
   course: PDS09262
   title: Leadership Training

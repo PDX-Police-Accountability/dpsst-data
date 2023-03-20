@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2023
+  course: WBP07738
+  title: Briefing Training - Hancuffing Techniques
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/9/2023
   course: WBP21933
   title: 'Combative Firearms: Developing Speed and Accuracy'
@@ -3027,14 +3033,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 9/14/2022
   expiration_date: 9/14/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 9/14/2022
-  expiration_date: 9/14/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/4/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/4/2007

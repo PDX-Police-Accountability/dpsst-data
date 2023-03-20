@@ -153,8 +153,14 @@ training_records:
   score: '0.0'
   hours: '3.00'
 - date: 7/19/2022
-  course: HBS26558
-  title: Detective building search / Warrant planning
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/19/2022
+  course: HBS35838
+  title: Detective Building Search/Warrant Planning
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -3025,14 +3031,6 @@ attribute_records:
   value: CPR
   effective_date: 1/16/2023
   expiration_date: 1/31/2025
-- topic: Certification Cards
-  value: CPR
-  effective_date: 1/16/2023
-  expiration_date: 1/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3041,22 +3039,10 @@ attribute_records:
   value: First Aid
   effective_date: 1/26/2022
   expiration_date: 1/26/2024
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 1/26/2022
-  expiration_date: 1/26/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2002

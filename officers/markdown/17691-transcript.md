@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
-| Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/29/2006 |  |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,10 @@
 | 1/20/2023 | MNS26072 | CPR Recertification | Passed | 0.0 | 4.00 |
 | 12/31/2022 | MNS39839 | YCSO Policy Review | Passed | 0.0 | 9.00 |
 | 12/30/2022 | MNS39830 | 2022 YCSO Ethics Review | Passed | 0.0 | 1.00 |
+| 12/28/2022 | MNS30577 | Bloodborne Pathogens - General Awareness |  | 0.0 | 0.50 |
+| 12/22/2022 | MNS11955 | Anti-Harassment Training for Employees- Oregon |  | 0.0 | 1.00 |
+| 12/22/2022 | MNS08736 | Fire Extinguisher Safety |  | 0.0 | 0.50 |
+| 12/20/2022 | MNS22807 | Hazardous Communication Awareness |  | 0.0 | 0.50 |
 | 12/19/2022 | MNS00996 | EVOC Refresher | Instructed | 0.0 | 20.00 |
 | 12/5/2022 | MNS00369 | Firearms Introduction / Qualification Low Light | Passed | 0.0 | 2.00 |
 | 11/9/2022 | MNS17774 | MILO Scenarios | Passed | 0.0 | 0.50 |

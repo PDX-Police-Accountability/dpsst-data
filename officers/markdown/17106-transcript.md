@@ -32,7 +32,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 3/30/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 3/30/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -40,7 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/10/2023 | 23-0009 | DPSST Basic Police COD | Pending | 0.0 | 80.00 |
+| 9/14/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/10/2023 | 23-0009 | DPSST Basic Police COD | Registered | 0.0 | 80.00 |
 | 8/26/2019 | PDP02916 | 2019 CHO SPLC Law Enforce Response to Hate Events | Passed | 0.0 | 0.25 |
 | 7/1/2019 | PDP14297 | 2019-7 UPDATED Tips  Tech CAD Study Codes Updated | Passed | 0.0 | 0.25 |
 | 7/1/2019 | PDP27613 | 2019-5 City Attorney's Office Legal Updates 5/2019 | Passed | 0.0 | 0.25 |

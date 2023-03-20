@@ -240,18 +240,34 @@
 | 11/5/2019 | PDP19532 | 2019-9 City Attorney's Office Legal Updates 9/2019 | Passed | 0.0 | 0.25 |
 | 10/22/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |
 | 10/22/2019 | PDP09647 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |
+| 10/6/2019 | PDP22744 | 2019 Advanced Academy PVO (UoF) | Passed | 0.0 | 22.00 |
 | 10/2/2019 | PDP03093 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
 | 10/2/2019 | PDP08055 | 2019 Chiefs Office SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |
+| 10/2/2019 | PDP14800 | 2019 Advanced Academy Fitness | Passed | 0.0 | 18.50 |
+| 10/1/2019 | PDP08425 | 2019 Advanced Academy Control Tactics | Passed | 0.0 | 51.50 |
+| 10/1/2019 | PDP28144 | 2019 Advanced Academy Firearms | Passed | 0.0 | 49.50 |
+| 10/1/2019 | PDP02286 | 2019 Advanced Academy Patrol Procedures (UoF) | Passed | 0.0 | 124.00 |
 | 9/17/2019 | PDP01504 | 2019-7 City Attorney's Office Legal Updates 7/2019 | Passed | 0.0 | 0.25 |
+| 9/16/2019 | PDP36559 | 2019 Advanced Academy Crisis Intervention Training | Passed | 0.0 | 18.00 |
+| 9/16/2019 | PDP15854 | 2019 Advanced Academy Patrol Procedures (Other) | Passed | 0.0 | 8.00 |
 | 9/11/2019 | PDP07809 | 2019 Chief's Office SPLC Hate Crimes | Passed | 0.0 | 0.25 |
 | 9/11/2019 | PDP24727 | 2019 Chief's Office SPLC The Rise of the Lone Wolf | Passed | 0.0 | 0.25 |
 | 9/11/2019 | PDP13537 | 2019 Training Public Safety Support Specialist Vid | Passed | 0.0 | 0.25 |
+| 9/11/2019 | PDP23130 | 2019 Advanced Academy Critical Decision Making | Passed | 0.0 | 2.00 |
+| 9/11/2019 | PDP01402 | 2019 Advanced Academy Law | Passed | 0.0 | 29.00 |
+| 9/11/2019 | PDP36331 | 2019 Advanced Academy SERT | Passed | 0.0 | 1.00 |
 | 9/9/2019 | PDP40096 | 2019-2 CHO Force Inspector Updates for Q2 | Passed | 0.0 | 0.25 |
+| 9/9/2019 | PDP26669 | 2019 Advanced Academy ECW | Passed | 0.0 | 1.50 |
 | 9/3/2019 | PDP12126 | 2019-2 Range Qualification Firearms Training | Passed | 0.0 | 0.75 |
 | 9/3/2019 | PDP36182 | 2019-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 9/3/2019 | PDP09382 | 2019-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/3/2019 | PDP12797 | 2019-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 8/27/2019 | PDP07680 | 2019 Advanced Academy Professionalism | Passed | 0.0 | 4.00 |
+| 8/23/2019 | PDP14757 | 2019 Advanced Academy Procedural Justice | Passed | 0.0 | 6.50 |
+| 8/21/2019 | PDP12855 | 2019 Advanced Academy Mindfulness | Passed | 0.0 | 1.50 |
 | 8/17/2019 | PDP02916 | 2019 CHO SPLC Law Enforce Response to Hate Events | Passed | 0.0 | 0.25 |
+| 8/6/2019 | PDP31384 | 2019 Advanced Academy PVO (Other) | Passed | 0.0 | 13.50 |
+| 7/25/2019 | PDP13526 | 2019 Advanced Academy Orientation and Expectations | Passed | 0.0 | 2.00 |
 | 7/13/2019 | PDP30115 | 2019-3 City Attorney's Office Legal Updates 3/2019 | Passed | 0.0 | 0.25 |
 | 7/13/2019 | PDP20256 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 7/13/2019 | PDP13478 | 2019-2 City Attorney Office Legal Updates Feb 2019 | Passed | 0.0 | 0.25 |

@@ -109,6 +109,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/28/2022
+  course: MNS30577
+  title: Bloodborne Pathogens - General Awareness
+  status: ''
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2022
+  course: MNS08736
+  title: Fire Extinguisher Safety
+  status: ''
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2022
+  course: MNS11955
+  title: Anti-Harassment Training for Employees- Oregon
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 12/20/2022
+  course: MNS22807
+  title: Hazardous Communication Awareness
+  status: ''
+  score: '0.0'
+  hours: '0.50'
 - date: 12/19/2022
   course: MNS00996
   title: EVOC Refresher
@@ -960,14 +984,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/20/2023
-  expiration_date: 1/20/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/20/2023
@@ -976,14 +992,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/16/2016
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/16/2016
