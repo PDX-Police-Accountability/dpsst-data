@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2023
+  course: OSH37919
+  title: Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/17/2023
+  course: OSH38968
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 3/17/2023
+  course: OSH28073
+  title: Naloxone/ Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -1183,6 +1201,14 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 3/17/2023
+  expiration_date: 3/31/2025
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 3/17/2023
+  expiration_date: 3/31/2025
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
   effective_date: 2/8/2023

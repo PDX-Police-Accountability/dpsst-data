@@ -22,6 +22,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 3/17/2023 | 3/31/2025 |
+| Certification Cards | First Aid | 3/17/2023 | 3/31/2025 |
 | Maintenance Requirements | First Aid/CPR Required | 2/8/2023 | 2/8/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -33,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2023 | OSH37919 | Adult/Child CPR | Passed | 0.0 | 4.00 |
+| 3/17/2023 | OSH38968 | First Aid | Passed | 0.0 | 3.50 |
+| 3/17/2023 | OSH28073 | Naloxone/ Narcan | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/11/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

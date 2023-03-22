@@ -45,10 +45,10 @@
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2022 | MNS39839 | YCSO Policy Review | Passed | 0.0 | 9.00 |
 | 12/30/2022 | MNS39830 | 2022 YCSO Ethics Review | Passed | 0.0 | 1.00 |
-| 12/28/2022 | MNS30577 | Bloodborne Pathogens - General Awareness |  | 0.0 | 0.50 |
-| 12/22/2022 | MNS08736 | Fire Extinguisher Safety |  | 0.0 | 0.50 |
-| 12/22/2022 | MNS11955 | Anti-Harassment Training for Employees- Oregon |  | 0.0 | 1.00 |
-| 12/20/2022 | MNS22807 | Hazardous Communication Awareness |  | 0.0 | 0.50 |
+| 12/28/2022 | MNS30577 | Bloodborne Pathogens - General Awareness | Passed | 0.0 | 0.50 |
+| 12/22/2022 | MNS08736 | Fire Extinguisher Safety | Passed | 0.0 | 0.50 |
+| 12/22/2022 | MNS11955 | Anti-Harassment Training for Employees- Oregon | Passed | 0.0 | 1.00 |
+| 12/20/2022 | MNS22807 | Hazardous Communication Awareness | Passed | 0.0 | 0.50 |
 | 12/19/2022 | MNS00996 | EVOC Refresher | Passed | 0.0 | 4.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2022 | TGP29975 | Motivational Ethics | Passed | 0.0 | 2.00 |

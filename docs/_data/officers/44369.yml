@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/16/2023
+  course: STP09151
+  title: Taser X26P Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/6/2023
   course: STP31849
   title: Attitude Empowerment

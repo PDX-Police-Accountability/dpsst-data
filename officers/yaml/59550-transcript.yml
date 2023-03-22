@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2023
+  course: RMP03429
+  title: 'BRIEFING TRAINING: PURSUIT POLICY'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/24/2023
   course: RMP34417
   title: 'BRIEFING TRAINING: LEGAL UPDATE'

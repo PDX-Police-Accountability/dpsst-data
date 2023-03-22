@@ -72,8 +72,8 @@
 | 9/28/2022 | F6R03555 | The C.A.L.M. Approach | Passed | 0.0 | 2.00 |
 | 8/25/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/25/2022 | ICE43731 | Human Trafficking | Passed | 0.0 | 0.50 |
-| 8/19/2022 | ICE42114 | Ative Violence Incident Response | Passed | 0.0 | 1.00 |
-| 8/19/2022 | SFP38159 | Truthfulness Polcy | Passed | 0.0 | 1.00 |
+| 8/19/2022 | ICE42114 | Active Violence Incident Response | Passed | 0.0 | 1.00 |
+| 8/19/2022 | SFP38159 | Truthfulness Policy | Passed | 0.0 | 1.00 |
 | 8/13/2022 | ICE16086 | Patient Evaluation for Law Enforcement-HB 2513 | Passed | 0.0 | 2.00 |
 | 7/13/2022 | ICE39298 | Airway Training | Passed | 0.0 | 2.00 |
 | 7/13/2022 | SPP14878 | Airway Training | Passed | 0.0 | 1.00 |

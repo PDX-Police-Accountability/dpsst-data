@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2023 | STP09151 | Taser X26P Recertification | Passed | 0.0 | 2.00 |
 | 3/6/2023 | STP31849 | Attitude Empowerment | Passed | 0.0 | 7.00 |
 | 3/6/2023 | STP40982 | Public Corruption | Passed | 0.0 | 1.00 |
 | 3/3/2023 | STP35659 | 2023 Northwest Leadership Seminar | Passed | 0.0 | 17.50 |

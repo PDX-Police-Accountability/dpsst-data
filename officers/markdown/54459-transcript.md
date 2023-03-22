@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2023 | HRS30334 | Officer Safety Refresher | Passed | 0.0 | 1.00 |
+| 3/16/2023 | HRS38070 | Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 3/1/2023 | HRS09538 | Legal Updates | Passed | 0.0 | 1.00 |
 | 12/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/24/2022 | HRS38193 | Fall Firearms Range | Passed | 0.0 | 4.00 |

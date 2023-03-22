@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2023 | HRS21669 | Use of Force Refresher | Passed | 0.0 | 1.00 |
+| 3/13/2023 | HRS37498 | Officer Safety Refresher | Passed | 0.0 | 1.00 |
 | 2/28/2023 | HRS38986 | Legal Updates | Passed | 0.0 | 1.00 |
 | 2/17/2023 | OSH34999 | ARIDE | Passed | 0.0 | 16.00 |
 | 2/2/2023 | HRS10045 | CIS Fall Supervisor Training | Passed | 0.0 | 5.00 |

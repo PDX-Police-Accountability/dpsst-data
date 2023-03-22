@@ -61,6 +61,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/16/2023
+  course: HRS30334
+  title: Officer Safety Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/16/2023
+  course: HRS38070
+  title: Use of Force Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/1/2023
   course: HRS09538
   title: Legal Updates

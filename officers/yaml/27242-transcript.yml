@@ -271,13 +271,13 @@ training_records:
   hours: '0.50'
 - date: 8/19/2022
   course: ICE42114
-  title: Ative Violence Incident Response
+  title: Active Violence Incident Response
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/19/2022
   course: SFP38159
-  title: Truthfulness Polcy
+  title: Truthfulness Policy
   status: Passed
   score: '0.0'
   hours: '1.00'
