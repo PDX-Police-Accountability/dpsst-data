@@ -68,6 +68,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 3/20/2023
+  course: REG38314
+  title: Control from Mount
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2023
+  course: REG08744
+  title: Guard Pass from Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/6/2023
+  course: REG30130
+  title: Body Lock Takedown
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/27/2023
+  course: REG41682
+  title: Take Down Defense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/8/2023
   course: SDP13145
   title: Behavioral Health Incident Training

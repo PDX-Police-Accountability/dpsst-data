@@ -39,6 +39,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 3/20/2023 | REG38314 | Control from Mount | Passed | 0.0 | 1.00 |
+| 3/13/2023 | REG08744 | Guard Pass from Ground Control | Passed | 0.0 | 1.00 |
+| 3/6/2023 | REG30130 | Body Lock Takedown | Passed | 0.0 | 1.00 |
+| 2/27/2023 | REG41682 | Take Down Defense | Passed | 0.0 | 1.00 |
 | 2/8/2023 | SDP13145 | Behavioral Health Incident Training | Passed | 0.0 | 1.00 |
 | 2/8/2023 | SDP14119 | LEDS 20/20 Training | Passed | 0.0 | 1.00 |
 | 2/8/2023 | SDP39678 | Active Shooter Building Clearing Training | Instructed | 0.0 | 3.00 |

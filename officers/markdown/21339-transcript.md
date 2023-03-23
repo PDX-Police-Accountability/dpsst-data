@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2023 | VND11390 | NWCG S-230 Single Resource Boss | Passed | 0.0 | 26.00 |
 | 9/30/2019 | F6D19310 | Emergency Vehicle Operation Course (EVOC) | Passed | 0.0 | 4.00 |
 | 6/18/2019 | PDP03202 | 2019-7 UPD TipsTech CAD Study Codes-Track Pursuit | Passed | 0.0 | 0.25 |
 | 6/18/2019 | PDP38543 | City Attorney's Office Legal Updates April 2019 | Passed | 0.0 | 0.50 |

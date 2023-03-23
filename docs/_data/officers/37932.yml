@@ -260,6 +260,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/27/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/11/2022
   course: PDP36163
   title: 2022-2- CAO Legal Updates 02/2022

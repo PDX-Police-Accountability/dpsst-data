@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2023 | HBS16591 | Hostage Rescue ConSim | Passed | 0.0 | 9.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/17/2023 | HBS32256 | Winter Rifle Updates | Passed | 0.0 | 9.00 |
 | 1/28/2023 | HBS21268 | DEI Training | Passed | 0.0 | 0.50 |

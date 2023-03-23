@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/12/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -122,6 +128,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/14/2022
+  course: PDP36535
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2022
+  course: PDP30358
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/10/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -5224,13 +5242,13 @@ training_records:
   hours: '345.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
