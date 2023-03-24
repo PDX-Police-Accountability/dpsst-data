@@ -72,6 +72,7 @@
 | 8/4/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/4/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 8/1/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/26/2022 | PDP15933 | Control Tactics Handcuffing | Instructed | 0.0 | 4.00 |
 | 7/25/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/25/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |

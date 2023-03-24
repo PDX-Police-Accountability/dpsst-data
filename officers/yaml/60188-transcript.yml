@@ -150,6 +150,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/1/2022
+  course: PDP43345
+  title: 2022 Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/25/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

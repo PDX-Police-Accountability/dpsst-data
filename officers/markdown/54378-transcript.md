@@ -19,8 +19,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/17/2023 | Police Officer | Advanced | App Recd |  |  |  |
-| 3/17/2023 | Police Officer | Intermediate | App Recd |  |  |  |
+| 3/22/2023 | Police Officer | Advanced | Granted | 3/22/2023 |  |  |
+| 3/22/2023 | Police Officer | Intermediate | Granted | 3/22/2023 |  |  |
 | 12/11/2015 | Police Officer | Basic | Granted | 12/11/2015 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -50,6 +50,7 @@
 | 11/22/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/15/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/26/2022 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 10/26/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 10/20/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/17/2022 | PDP01374 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |

@@ -52,7 +52,9 @@
 | 10/1/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/1/2022 | PDP30452 | 2022-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 10/1/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 9/23/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
+| 9/1/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/29/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/29/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/29/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |

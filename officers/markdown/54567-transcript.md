@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2023 | MLP26360 | Immediate action drills with handgun and rifles | Instructed | 0.0 | 3.00 |
 | 3/8/2023 | F1538918 | Mastering the Promotional Process | Passed | 0.0 | 3.00 |
 | 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |

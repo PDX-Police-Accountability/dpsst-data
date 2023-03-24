@@ -21,6 +21,42 @@ employment_records:
   rank: FedOfficer
   classification: ''
   assignment: ''
+- date: 12/8/2019
+  agency: Out of State Employment
+  action: Resigned
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 7/18/2010
+  agency: Out of State Employment
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 7/16/2010
+  agency: Out of State Employment
+  action: Resigned
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 6/27/2004
+  agency: Out of State Employment
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 6/26/2004
+  agency: Out of State Employment
+  action: Resigned
+  rank: Spec Agent
+  classification: ''
+  assignment: ''
+- date: 4/7/2002
+  agency: Out of State Employment
+  action: Hired
+  rank: Spec Agent
+  classification: ''
+  assignment: ''
 - date: 5/19/1999
   agency: Portland Police Bureau
   action: Resigned
@@ -42,10 +78,16 @@ certification_records:
   expiration_date: ''
   probation_date: 2/1/2024
 training_records:
+- date: 2/1/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
 - date: 4/10/2023
   course: 23-0009
   title: DPSST Basic Police COD
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '80.00'
 - date: 1/10/2020

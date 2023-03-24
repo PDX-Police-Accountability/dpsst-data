@@ -156,6 +156,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/23/2022
+  course: PDP03203
+  title: 2022 Less Lethal 40mm New Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 9/5/2022
   course: PDP39675
   title: DIR 1015.00, Less Lethal Weapons and Tools

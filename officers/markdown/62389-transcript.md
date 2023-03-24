@@ -82,7 +82,7 @@
 | 8/16/2022 | PDP25074 | Post DPSST Firearms Training | Passed | 0.0 | 4.00 |
 | 8/16/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/15/2022 | PDP10686 | Post DPSST Firearms Training | Passed | 0.0 | 7.00 |
-| 8/12/2022 | M10-22A | DPSST Basic Police Course | Incomplete | 0.0 | 640.00 |
+| 8/12/2022 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/22/2022 | BPT18041 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 7/1/2022 | BPT36653 | SFST/DID - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 6/16/2022 | F6R07258 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |

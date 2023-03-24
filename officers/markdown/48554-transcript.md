@@ -76,6 +76,7 @@
 | 7/12/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/11/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/6/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 6/6/2022 | PDP10467 | 2022-1 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 6/2/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/2/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/2/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -272,6 +272,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/5/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/14/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

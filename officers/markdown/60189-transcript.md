@@ -59,6 +59,7 @@
 | 9/7/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/7/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/7/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/16/2022 | PDP12830 | Fundamentals of Human Trafficking | Passed | 0.0 | 6.50 |
 | 8/16/2022 | PDP14595 | OR DOJ Fundamentals of Human Trafficking | Passed | 0.0 | 6.50 |
 | 8/9/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |

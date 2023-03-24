@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/13/2023 | MFP18742 | First Aid/Adult  Child CPR/AED/Naloxone Use | Passed | 0.0 | 2.25 |
+| 1/13/2023 | MFP09917 | 2023 Annual Ethics Training | Passed | 0.0 | 3.00 |
 | 12/2/2022 | MFP25974 | TIU Updates  Forefeiture | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP40339 | LPR/FLOCK/Vigilant | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP13248 | Airway Circulatory Anatomy  Physiology | Passed | 0.0 | 2.00 |

@@ -72,6 +72,7 @@
 | 8/1/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
 | 7/11/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 7/11/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/23/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/9/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

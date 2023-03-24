@@ -63,12 +63,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 9/20/2025
-  course: PDP03489
-  title: 'Extreme Ownership: Leadership'
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -357,6 +351,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/30/2022
+  course: PDP10467
+  title: 2022-1 AR-15 Instructor In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/29/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

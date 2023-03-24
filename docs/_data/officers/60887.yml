@@ -48,6 +48,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 3/17/2023
+  course: HBP26484
+  title: SFST/ DID
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 2/27/2023
   course: HBP41495
   title: CPR, First Aid, AED

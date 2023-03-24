@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2023
+  course: WBP02380
+  title: Defensive Tactics (arrest from vehicle)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/15/2023
   course: WBP07738
   title: Briefing Training - Hancuffing Techniques

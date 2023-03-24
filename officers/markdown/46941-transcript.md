@@ -79,6 +79,7 @@
 | 8/18/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/3/2022 | PDP27561 | K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 8/1/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 8/1/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/27/2022 | PDP35512 | K9 Weekly Training: Searches, obedience, OPCA | Instructed | 0.0 | 3.00 |
 | 7/27/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/27/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

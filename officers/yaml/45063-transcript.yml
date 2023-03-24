@@ -266,6 +266,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/27/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/19/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories

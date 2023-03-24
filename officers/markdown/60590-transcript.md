@@ -53,6 +53,7 @@
 | 9/4/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/4/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/4/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
+| 8/30/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/15/2022 | PDP20168 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 8/8/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP04624 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

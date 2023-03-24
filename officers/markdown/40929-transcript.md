@@ -24,8 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
 | Code of Ethics | Signed | 1/17/2003 |  |
 ## Education
@@ -46,6 +46,7 @@
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/11/2023 | PDP02685 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/10/2023 | PDP37324 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/15/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/15/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
@@ -54,6 +55,8 @@
 | 12/6/2022 | PDP13951 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 12/5/2022 | PDP01145 | Firearms Training | Instructed | 0.0 | 7.00 |
 | 11/15/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/14/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 11/14/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 11/8/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/8/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/8/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

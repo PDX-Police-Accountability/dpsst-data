@@ -51,6 +51,7 @@
 | 10/6/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/1/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/20/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 9/20/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/15/2022 | PDP14521 | Interview  Interrogation Training | Passed | 0.0 | 24.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 9/6/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |

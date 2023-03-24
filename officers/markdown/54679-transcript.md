@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2023 | MLP26360 | Immediate action drills with handgun and rifles | Passed | 0.0 | 3.00 |
 | 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |
 | 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |

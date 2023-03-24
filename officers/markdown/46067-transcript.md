@@ -108,6 +108,7 @@
 | 6/6/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/6/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Passed | 0.0 | 18.00 |
+| 6/2/2022 | PDP13950 | 2022 Control Tactics (CT) Instructor Course | Passed | 0.0 | 18.00 |
 | 5/27/2022 | PDP37938 | Basic SWAT School | Passed | 0.0 | 40.00 |
 | 5/4/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 5/4/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

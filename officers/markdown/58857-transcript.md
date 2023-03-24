@@ -48,6 +48,7 @@
 | 10/7/2022 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 10/7/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 10/7/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 9/20/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/16/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/16/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/11/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
@@ -67,6 +68,7 @@
 | 7/7/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/10/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/8/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 6/8/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 5/27/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/27/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/7/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |

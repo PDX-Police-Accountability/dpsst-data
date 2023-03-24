@@ -49,6 +49,7 @@
 | 10/26/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/16/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
+| 9/1/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/29/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/29/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/29/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |

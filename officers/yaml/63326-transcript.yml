@@ -33,9 +33,9 @@ training_records:
 - date: 1/23/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Failed
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 - date: 1/17/2023
   course: PDP27229
   title: Intro to Handcuffing

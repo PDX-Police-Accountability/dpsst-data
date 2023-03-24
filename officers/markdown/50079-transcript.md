@@ -19,14 +19,14 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/17/2023 | Police Officer | Advanced | App Recd |  |  |  |
+| 3/22/2023 | Police Officer | Advanced | Granted | 3/22/2023 |  |  |
 | 2/1/2012 | Police Officer | Intermediate | Granted | 2/1/2012 |  |  |
 | 5/4/2011 | Police Officer | Basic | Granted | 5/4/2011 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/25/2021 | 5/25/2023 |
 | Code of Ethics | Signed | 11/20/2008 |  |
 ## Education
@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/24/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/10/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/30/2022 | PDP18587 | 2022 Supervisor In-Service 2.02 | Passed | 0.0 | 1.25 |
@@ -45,6 +46,11 @@
 | 11/30/2022 | PDP12643 | 2022 Supervisor In-Service PSD/IA | Passed | 0.0 | 2.50 |
 | 11/20/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/20/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/16/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/16/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 11/16/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/16/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 11/16/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 11/13/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/6/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/17/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
@@ -68,6 +74,7 @@
 | 8/1/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/12/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 7/12/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/11/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/11/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/11/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |

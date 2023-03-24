@@ -255,6 +255,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/1/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/18/2022
   course: PDP35733
   title: 2022 ABLE Performance Reviews for Supervisors Swrn

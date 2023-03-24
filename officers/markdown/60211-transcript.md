@@ -51,6 +51,7 @@
 | 9/11/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/28/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/28/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
+| 8/23/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/13/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 7/24/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/24/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |

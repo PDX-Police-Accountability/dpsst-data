@@ -59,6 +59,7 @@
 | 9/11/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/11/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/30/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/23/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/16/2022 | PDP12830 | Fundamentals of Human Trafficking | Passed | 0.0 | 6.50 |
 | 8/16/2022 | PDP14595 | OR DOJ Fundamentals of Human Trafficking | Passed | 0.0 | 6.50 |
 | 8/10/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

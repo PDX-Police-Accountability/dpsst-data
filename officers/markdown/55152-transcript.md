@@ -54,6 +54,7 @@
 | 9/21/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
 | 9/21/2022 | PDP38421 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
 | 9/20/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 9/20/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 9/7/2022 | PDP30452 | 2022-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/7/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/9/2023
+  course: EGP22870
+  title: ETHOS Academy "Ethics"
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/12/2023
   course: EGP25860
   title: PSRT/Health  Wellness

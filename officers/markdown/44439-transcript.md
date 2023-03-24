@@ -87,6 +87,7 @@
 | 8/14/2022 | PDP05774 | 2021-12 CAO Legal Updates for 12/2021 | Passed | 0.0 | 0.25 |
 | 8/5/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 8/5/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 8/5/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 8/3/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/3/2022 | PDP30440 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
 | 8/3/2022 | PDP35473 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

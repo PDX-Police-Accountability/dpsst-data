@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 1/13/2023
+  course: MFP09917
+  title: 2023 Annual Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/2/2022
   course: MFP25974
   title: TIU Updates  Forefeiture

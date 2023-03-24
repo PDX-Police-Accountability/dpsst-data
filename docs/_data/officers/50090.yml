@@ -50,12 +50,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 9/20/2025
-  course: PDP03489
-  title: 'Extreme Ownership: Leadership'
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 2/8/2023
   course: PDP16551
   title: Weekly K9 Training
@@ -68,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/21/2022
   course: PDP06672
   title: K9 Unit Training
@@ -116,6 +116,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/14/2022
+  course: PDP30358
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2022
+  course: PDP44688
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/14/2022
+  course: PDP42208
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2022
+  course: PDP01677
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2022
+  course: PDP36535
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/12/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -332,6 +362,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/27/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/23/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -4372,13 +4408,13 @@ training_records:
   hours: '0.50'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/16/2021

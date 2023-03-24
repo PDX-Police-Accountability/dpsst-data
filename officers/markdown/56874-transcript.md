@@ -54,6 +54,7 @@
 | 10/14/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/14/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 10/6/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 9/20/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/18/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/18/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/18/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
@@ -74,6 +75,7 @@
 | 6/4/2022 | PDP39583 | 2022-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/4/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Passed | 0.0 | 18.00 |
+| 6/2/2022 | PDP13950 | 2022 Control Tactics (CT) Instructor Course | Passed | 0.0 | 18.00 |
 | 5/21/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 4/24/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/24/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |

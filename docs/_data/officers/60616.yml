@@ -210,6 +210,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 8/30/2022
+  course: PDP43345
+  title: 2022 Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/28/2022
   course: PDP39675
   title: DIR 1015.00, Less Lethal Weapons and Tools

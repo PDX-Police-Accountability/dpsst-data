@@ -54,6 +54,7 @@
 | 9/24/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/24/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 9/20/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 9/20/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/6/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/6/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/2/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |

@@ -84,6 +84,7 @@
 | 7/6/2022 | PDP12004 | Motor Officer Training at PIR | Instructed | 0.0 | 6.00 |
 | 7/5/2022 | PDP44234 | Motor Officer Training at PIR | Instructed | 0.0 | 6.00 |
 | 7/1/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 7/1/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/23/2022 | PDP09581 | Standardized Field Sobriety Refersher Training | Instructed | 0.0 | 7.00 |
 | 6/7/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/7/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

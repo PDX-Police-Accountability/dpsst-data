@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/22/2022
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm
@@ -48,6 +54,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/14/2022
+  course: PDP30358
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2022
+  course: PDP01677
+  title: 2022-2 In-Service Mental Health/CIT Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2022
+  course: PDP44688
+  title: 2022-2 In-Service Legal Updates/Directive 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/14/2022
+  course: PDP36535
+  title: 2022-2 In-Service ABLE/Active Bystandarship for LE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/14/2022
+  course: PDP42208
+  title: 2022-2 In-Service Patrol Procedures/Drills
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/9/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -1977,8 +2013,8 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/5/2021

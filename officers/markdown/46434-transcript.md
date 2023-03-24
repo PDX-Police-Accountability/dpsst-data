@@ -88,6 +88,7 @@
 | 6/15/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Passed | 0.0 | 18.00 |
+| 6/2/2022 | PDP13950 | 2022 Control Tactics (CT) Instructor Course | Passed | 0.0 | 18.00 |
 | 5/26/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |
 | 5/11/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/11/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

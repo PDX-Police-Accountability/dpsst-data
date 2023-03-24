@@ -51,6 +51,7 @@
 | 9/21/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/10/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/10/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 9/1/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/29/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
 | 8/1/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

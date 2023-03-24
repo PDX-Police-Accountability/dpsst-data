@@ -27,8 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/28/2021 | 5/28/2023 |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 2/22/2023 | VND10045 | How to Catch A Predator | Passed | 0.0 | 8.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/29/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/29/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
@@ -58,6 +59,11 @@
 | 11/18/2022 | PDP23438 | 2022 Supervisor In-Service PIO | Passed | 0.0 | 1.25 |
 | 11/18/2022 | PDP24839 | 2022 Supervisor In-Service Critical Incdt. Mngmt | Passed | 0.0 | 2.75 |
 | 11/18/2022 | PDP12643 | 2022 Supervisor In-Service PSD/IA | Passed | 0.0 | 2.50 |
+| 11/16/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/16/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 11/16/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/16/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 11/16/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 10/26/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/19/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/14/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |

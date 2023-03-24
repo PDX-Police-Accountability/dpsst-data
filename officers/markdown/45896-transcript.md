@@ -25,8 +25,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 10/20/2021 | 10/20/2023 |
 | Code of Ethics | Signed | 9/13/2005 |  |
 ## Education
@@ -43,6 +43,7 @@
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 1/20/2023 | VND39577 | EMDR for Paraprofessionals | Instructed | 0.0 | 40.00 |
 | 1/20/2023 | PDP41765 | Traumatic Stress Relief for Peer Supporters | Passed | 0.0 | 36.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | PDP41536 | 2022 EAP Addiction Intervention and Resources | Passed | 0.0 | 8.00 |
 | 12/6/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 12/6/2022 | PDP16169 | 2022-11 EO Clarification DIR 1010.00  1015.00 | Passed | 0.0 | 0.25 |
@@ -51,6 +52,11 @@
 | 11/22/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/22/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/22/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 11/16/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 11/16/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/16/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 11/16/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/16/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 10/25/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/25/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/5/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

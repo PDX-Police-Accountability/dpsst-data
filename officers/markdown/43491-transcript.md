@@ -98,6 +98,7 @@
 | 6/9/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/9/2022 | PDP05146 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/30/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 5/30/2022 | PDP10467 | 2022-1 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/24/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/24/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/24/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

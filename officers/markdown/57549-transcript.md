@@ -20,8 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/12/2021 | 6/12/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/13/2018 |  |
 | Code of Ethics | Signed | 8/17/2017 |  |
@@ -32,12 +32,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2022 | PDP34848 | Patrol Procedures Satellite Instructor Training | Passed | 0.0 | 72.00 |
 | 12/12/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/4/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/20/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/20/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/17/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 11/14/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 11/14/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/14/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 11/14/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/14/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
 | 11/11/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP03421 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/31/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
@@ -65,6 +71,7 @@
 | 7/12/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 7/12/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
 | 7/1/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 7/1/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/27/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/24/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/24/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

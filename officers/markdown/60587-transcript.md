@@ -48,6 +48,7 @@
 | 9/29/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/8/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/8/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 9/1/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/26/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 8/26/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/25/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |

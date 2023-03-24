@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/1/2022
+  agency: Multnomah County Sheriff's Office
+  action: LOA
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 5/25/2021
   agency: Multnomah County Sheriff's Office
   action: Return LOA

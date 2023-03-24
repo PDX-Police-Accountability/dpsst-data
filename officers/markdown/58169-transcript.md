@@ -54,6 +54,7 @@
 | 9/25/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
 | 9/25/2022 | PDP25389 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 9/23/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 9/23/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/5/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/5/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/5/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

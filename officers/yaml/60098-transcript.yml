@@ -169,12 +169,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/20/2022
+  course: PDP03203
+  title: 2022 Less Lethal 40mm New Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 9/13/2022
   course: OCS39395
   title: Interview and Interrogation
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 8/30/2022
+  course: PDP43345
+  title: 2022 Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/4/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories

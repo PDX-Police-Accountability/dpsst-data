@@ -468,6 +468,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/6/2022
+  course: PDP10467
+  title: 2022-1 AR-15 Instructor In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/2/2022
   course: PDP18361
   title: Slow Clears  Search Warrant Entry Training

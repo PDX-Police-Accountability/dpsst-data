@@ -43,6 +43,7 @@
 | 11/10/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/7/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/26/2022 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 10/26/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 10/19/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/19/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/19/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |

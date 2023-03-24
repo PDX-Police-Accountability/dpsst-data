@@ -56,6 +56,7 @@
 | 9/5/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/5/2022 | PDP30452 | 2022-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/5/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 8/25/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/16/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/5/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 7/31/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |

@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/12/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 3/17/2023 | HBP26484 | SFST/ DID | Passed | 0.0 | 30.00 |
 | 2/27/2023 | HBP41495 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 2/15/2023 | HBP15447 | Mental Health Response Team (MHRT) Training | Passed | 0.0 | 3.00 |
 | 2/15/2023 | HBP25483 | Safety Compass - Commercial Sexual Exploitation | Passed | 0.0 | 1.00 |

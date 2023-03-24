@@ -37,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/9/2023 | EGP35347 | Firearms Training | Passed | 0.0 | 3.75 |
 | 2/9/2023 | EGP12358 | Belonging Training - Module 1 | Passed | 0.0 | 3.00 |
 | 2/9/2023 | EGP00975 | Legal Updates | Passed | 0.0 | 2.00 |
+| 2/9/2023 | EGP22870 | ETHOS Academy "Ethics" | Passed | 0.0 | 3.00 |
 | 1/12/2023 | EGP17194 | Internal Affairs | Passed | 0.0 | 2.00 |
 | 1/12/2023 | EGP25860 | PSRT/Health  Wellness | Passed | 0.0 | 2.00 |
 | 1/12/2023 | EGP03502 | Respectful Work Environment | Passed | 0.0 | 1.50 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/1/2022 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 5/25/2021 | Multnomah County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 8/14/2020 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 9/22/2008 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |

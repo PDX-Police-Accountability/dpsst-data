@@ -289,6 +289,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/6/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/29/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

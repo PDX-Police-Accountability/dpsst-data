@@ -68,7 +68,7 @@
 | 8/6/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/6/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 7/27/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
-| 7/27/2022 | PDP33374 | AR-15 Training (In Service) | Passed | 0.0 | 9.00 |
+| 7/27/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/23/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/23/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/23/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
@@ -80,6 +80,7 @@
 | 6/15/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/15/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/2/2022 | PDP30380 | Control Tactics Instructor Course | Passed | 0.0 | 18.00 |
+| 6/2/2022 | PDP13950 | 2022 Control Tactics (CT) Instructor Course | Passed | 0.0 | 18.00 |
 | 5/25/2022 | ALP42345 | The C.A.L.M. Approach | Passed | 0.0 | 8.00 |
 | 5/25/2022 | PDP44096 | C.A.L.M. Approach De-escalation | Passed | 0.0 | 7.00 |
 | 5/14/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

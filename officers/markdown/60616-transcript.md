@@ -61,6 +61,7 @@
 | 9/25/2022 | PDP18838 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 9/25/2022 | PDP32515 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 9/16/2022 | PDP03894 | Basic Motor School | Passed | 0.0 | 80.00 |
+| 8/30/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/28/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/8/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

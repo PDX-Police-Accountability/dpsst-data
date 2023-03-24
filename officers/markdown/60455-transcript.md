@@ -21,7 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/15/2021 | 6/15/2023 |
 | Code of Ethics | Law Enforcement Signed | 2/23/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
@@ -32,6 +32,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/20/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/20/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/15/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
@@ -41,6 +42,11 @@
 | 11/16/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/16/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 11/16/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
+| 11/15/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 11/15/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/15/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/15/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 11/15/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
 | 11/10/2022 | PDP16498 | ECIT Training | Passed | 0.0 | 36.00 |
 | 10/26/2022 | PDP25490 | COVA Conference | Passed | 0.0 | 20.50 |
 | 10/19/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -54,6 +60,7 @@
 | 9/13/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 9/13/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/6/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/30/2022 | PDP43345 | 2022 Active Threat Training | Passed | 0.0 | 20.00 |
 | 8/22/2022 | PDP14206 | 2022-1 Tips and Techniques Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 8/22/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 8/22/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

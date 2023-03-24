@@ -261,6 +261,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/1/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/29/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner

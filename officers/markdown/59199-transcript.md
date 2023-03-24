@@ -63,6 +63,7 @@
 | 9/28/2022 | PDP38421 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
 | 9/28/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
 | 9/27/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 9/23/2022 | PDP03203 | 2022 Less Lethal 40mm New Operator Training | Passed | 0.0 | 18.00 |
 | 9/17/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/17/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/15/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

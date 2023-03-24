@@ -26,7 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 10/11/2000 |  |
@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/17/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/2/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/1/2022 | PDP14293 | 2022-3 Range Qualification Secondary FA (50 Rd) | Passed | 0.0 | 0.50 |
@@ -52,6 +53,11 @@
 | 11/16/2022 | PDP40447 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 11/16/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/16/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/15/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 11/15/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/15/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 11/15/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/15/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
 | 11/11/2022 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/2/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/21/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -72,6 +78,7 @@
 | 8/6/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/6/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/22/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 7/22/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/15/2022 | PDP44470 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 7/15/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |
 | 7/15/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |

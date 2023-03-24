@@ -89,6 +89,7 @@
 | 6/9/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/9/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 6/7/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/2/2022 | PDP18361 | Slow Clears  Search Warrant Entry Training | Passed | 0.0 | 9.00 |
 | 5/24/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 5/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

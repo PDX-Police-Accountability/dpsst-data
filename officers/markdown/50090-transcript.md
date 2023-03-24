@@ -24,8 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 7/16/2021 | 7/16/2023 |
 | Code of Ethics | Signed | 11/20/2008 |  |
 ## Education
@@ -36,9 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/20/2025 | PDP03489 | Extreme Ownership: Leadership | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDP16551 | Weekly K9 Training | Passed | 0.0 | 4.00 |
 | 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/21/2022 | PDP06672 | K9 Unit Training | Passed | 0.0 | 4.00 |
 | 12/10/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/10/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
@@ -47,6 +47,11 @@
 | 11/23/2022 | PDP43118 | Weekly K-9 Training | Passed | 0.0 | 4.50 |
 | 11/16/2022 | PDP27539 | K-9 Training - Searches  Control Work | Passed | 0.0 | 4.00 |
 | 11/15/2022 | PDP38856 | SERT Training - Scenarios | Passed | 0.0 | 9.00 |
+| 11/14/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 11/14/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/14/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 11/14/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/14/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
 | 11/12/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/12/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/12/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
@@ -83,6 +88,7 @@
 | 7/30/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/30/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/27/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 7/27/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/23/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/23/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/23/2022 | PDP30324 | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |

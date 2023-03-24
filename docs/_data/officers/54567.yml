@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/14/2023
+  course: MLP26360
+  title: Immediate action drills with handgun and rifles
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/8/2023
   course: F1538918
   title: Mastering the Promotional Process

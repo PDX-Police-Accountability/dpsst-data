@@ -362,6 +362,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/2/2022
+  course: PDP13950
+  title: 2022 Control Tactics (CT) Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 5/26/2022
   course: PDP37784
   title: 2022 In-Service Legal Updates

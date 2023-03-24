@@ -210,6 +210,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/30/2022
+  course: PDP43345
+  title: 2022 Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/20/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner

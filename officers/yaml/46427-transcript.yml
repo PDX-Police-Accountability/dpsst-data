@@ -272,6 +272,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/5/2022
+  course: PDP02259
+  title: 2022 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/3/2022
   course: PDP11567
   title: 2022 DIR 835.20 Managing Public Spaces

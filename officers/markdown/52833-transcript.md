@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2023 | SPP25732 | IPTM - At Scene Traffic Crash/Homicide Inv. | Passed | 0.0 | 80.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/3/2023 | PDP29565 | Alcohol use for personnel Training | Passed | 0.0 | 0.50 |
@@ -75,6 +76,7 @@
 | 7/14/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 7/13/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/6/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
+| 7/6/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/5/2022 | PDP44234 | Motor Officer Training at PIR | Passed | 0.0 | 6.00 |
 | 7/1/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/1/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |

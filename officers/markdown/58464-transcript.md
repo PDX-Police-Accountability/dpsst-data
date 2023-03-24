@@ -20,8 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 5/15/2021 | 5/15/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/12/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
@@ -31,11 +31,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/18/2022 | PDP18587 | 2022 Supervisor In-Service 2.02 | Passed | 0.0 | 1.25 |
 | 11/18/2022 | PDP23438 | 2022 Supervisor In-Service PIO | Passed | 0.0 | 1.25 |
 | 11/18/2022 | PDP12643 | 2022 Supervisor In-Service PSD/IA | Passed | 0.0 | 2.50 |
+| 11/14/2022 | PDP30358 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 11/14/2022 | PDP01677 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
+| 11/14/2022 | PDP44688 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.50 |
+| 11/14/2022 | PDP36535 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
+| 11/14/2022 | PDP42208 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
 | 11/11/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/11/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/4/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

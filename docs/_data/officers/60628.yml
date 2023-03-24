@@ -168,6 +168,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/23/2022
+  course: PDP43345
+  title: 2022 Active Threat Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/15/2022
   course: PDP26686
   title: Amended DOJ Settlement Agreement

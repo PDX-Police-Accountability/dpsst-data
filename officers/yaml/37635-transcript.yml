@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2023
+  course: EGP35347
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.75'
 - date: 2/9/2023
   course: EGP12358
   title: Belonging Training - Module 1
@@ -75,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/9/2023
+  course: EGP22870
+  title: ETHOS Academy "Ethics"
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/12/2023
   course: EGP17194
   title: Internal Affairs
