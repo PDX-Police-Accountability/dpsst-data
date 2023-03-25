@@ -972,6 +972,9 @@
 | Contois, Matthew P. | 63722 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-16 | [md](../markdown/63722-transcript.md) - [yaml](../yaml/63722-transcript.yml) |
 | Kill, Nicholas W. | 63725 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63725-transcript.md) - [yaml](../yaml/63725-transcript.yml) |
 | Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |
+| Rubin, Adam N. | 63779 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63779-transcript.md) - [yaml](../yaml/63779-transcript.yml) |
+| Ely, Michael A. | 63780 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63780-transcript.md) - [yaml](../yaml/63780-transcript.yml) |
+| Underwood-Zylak, Zachary J. | 63793 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-23 | [md](../markdown/63793-transcript.md) - [yaml](../yaml/63793-transcript.yml) |
 | Smith, Stephen J. | 10762 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2007-01-05 | [md](../markdown/10762-transcript.md) - [yaml](../yaml/10762-transcript.yml) |
 | McGranahan, Thomas T., Jr. | 10949 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2012-06-06 | [md](../markdown/10949-transcript.md) - [yaml](../yaml/10949-transcript.yml) |
 | Bottcher, Steven L. | 11274 | Portland Police Bureau | Inactive | Sergeant | Retired | 2007-08-22 | [md](../markdown/11274-transcript.md) - [yaml](../yaml/11274-transcript.yml) |

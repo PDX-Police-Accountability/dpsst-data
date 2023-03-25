@@ -1631,6 +1631,8 @@
 | Buck, Daniel L. | 63719 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63719-transcript.md) - [yaml](../yaml/63719-transcript.yml) |
 | Kill, Nicholas W. | 63725 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63725-transcript.md) - [yaml](../yaml/63725-transcript.yml) |
 | Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |
+| Rubin, Adam N. | 63779 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63779-transcript.md) - [yaml](../yaml/63779-transcript.yml) |
+| Ely, Michael A. | 63780 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63780-transcript.md) - [yaml](../yaml/63780-transcript.yml) |
 | Salem, Salem A. | 62818 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-20 | [md](../markdown/62818-transcript.md) - [yaml](../yaml/62818-transcript.yml) |
 | Surla, Harley L. | 59199 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-30 | [md](../markdown/59199-transcript.md) - [yaml](../yaml/59199-transcript.yml) |
 | McIntyre, Bradley E. | 35126 | Portland Police Bureau | Inactive | Criminalist | Retired | 2023-01-31 | [md](../markdown/35126-transcript.md) - [yaml](../yaml/35126-transcript.yml) |
@@ -1639,5 +1641,6 @@
 | Contois, Matthew P. | 63722 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-16 | [md](../markdown/63722-transcript.md) - [yaml](../yaml/63722-transcript.yml) |
 | Hunzeker, Brian D. | 39600 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-02-22 | [md](../markdown/39600-transcript.md) - [yaml](../yaml/39600-transcript.yml) |
 | Jaime, Zachary H. | 63087 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-02-22 | [md](../markdown/63087-transcript.md) - [yaml](../yaml/63087-transcript.yml) |
+| Underwood-Zylak, Zachary J. | 63793 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-23 | [md](../markdown/63793-transcript.md) - [yaml](../yaml/63793-transcript.yml) |
 | Srisongkham, Kenny | 60813 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/60813-transcript.md) - [yaml](../yaml/60813-transcript.yml) |
 | Brown, Michael R. | 63531 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/63531-transcript.md) - [yaml](../yaml/63531-transcript.yml) |
