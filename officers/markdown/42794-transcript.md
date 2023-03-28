@@ -32,11 +32,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2023 | OCS38811 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 2/20/2023 | OCS19321 | Fundamentals of Marksmanship | Instructed | 0.0 | 65.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/2/2023 | OCS43944 | Honor Guard Revolver Marksmanship | Instructed | 0.0 | 3.00 |

@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/27/2001 |  |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/9/2023 | EGP35347 | Firearms Training | Passed | 0.0 | 3.75 |
+| 3/9/2023 | EGP16165 | Critical Skills Training: Bldg Search/HR Events | Passed | 0.0 | 3.75 |
 | 2/9/2023 | EGP12358 | Belonging Training - Module 1 | Passed | 0.0 | 3.00 |
 | 2/9/2023 | EGP00975 | Legal Updates | Passed | 0.0 | 2.00 |
 | 2/9/2023 | EGP22870 | ETHOS Academy "Ethics" | Passed | 0.0 | 3.00 |
@@ -58,6 +55,7 @@
 | 10/26/2022 | EGP19375 | ETHOS:  Leadership | Passed | 0.0 | 3.00 |
 | 10/19/2022 | EGP13229 | Vehicle Use of Force - Decision Making | Passed | 0.0 | 3.50 |
 | 10/19/2022 | EGP21433 | Firearms Qualification | Passed | 0.0 | 3.50 |
+| 10/19/2022 | EGP12313 | Chief Briefing:  Leadership | Passed | 0.0 | 0.50 |
 | 9/29/2022 | EGP42439 | AVI Searching  - Shield Searching-Firearms Skills | Passed | 0.0 | 16.00 |
 | 7/31/2022 | EGP27956 | Briefing:  Oregon OSHA - Heat Prevention Training | Passed | 0.0 | 0.50 |
 | 6/30/2022 | EGP00110 | Briefing:  OSHA Wildlife Smoke Exposure | Passed | 0.0 | 0.50 |

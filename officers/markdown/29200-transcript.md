@@ -28,10 +28,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
-| Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Certification Cards | First Aid and CPR | 5/10/2021 | 5/10/2023 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2023 | PDS18431 | Civil Process | Passed | 0.0 | 1.00 |
+| 2/28/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |
 | 2/10/2023 | PDS19680 | TacMed | Passed | 0.0 | 4.00 |
 | 2/10/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |

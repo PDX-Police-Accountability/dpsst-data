@@ -29,11 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
-| Code of Ethics | Signed | 3/16/2001 |  |
 | Code of Ethics | Signed | 3/16/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,7 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2023 | PDS11640 | Benchmark Analytics | Passed | 0.0 | 4.00 |
+| 3/20/2023 | PDS03091 | TacMed | Passed | 0.0 | 4.00 |
 | 2/27/2023 | PDS32117 | Adult Protective Services | Passed | 0.0 | 1.00 |
+| 2/27/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 1/14/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/6/2023 | PDS37167 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/31/2022 | PDS37218 | Stops and Searches | Passed | 0.0 | 0.50 |

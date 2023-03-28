@@ -22,14 +22,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | First Aid/CPR Required | 3/6/2023 | 3/6/2023 |
-| Maintenance Requirements | First Aid/CPR Required | 3/6/2023 | 3/6/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 1/11/2016 |  |
-| Code of Ethics | Signed | 1/11/2016 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 3/15/2023 |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 3/15/2023 |
 ## Education
 | date | degree | school | major | hours |

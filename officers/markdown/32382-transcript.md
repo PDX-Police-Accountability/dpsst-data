@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 1/17/2023 | 1/31/2025 |
-| Certification Cards | CPR | 1/17/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
-| Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,12 +39,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/17/2023 | HBS06622 | DEI Training | Passed | 0.0 | 0.50 |
+| 1/17/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/17/2023 | HBS27173 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/17/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/17/2023 | HBS35775 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
 | 1/17/2023 | HBS25455 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 1/17/2023 | HBS04340 | Defensive Tools Update | Passed | 0.0 | 1.00 |
+| 1/17/2023 | HBS32239 | DEI Training | Passed | 0.0 | 0.50 |
 | 11/18/2022 | VND13034 | Treasure Hidden in Trauma | Passed | 0.0 | 4.00 |
 | 11/18/2022 | HBS27211 | OPOA 52nd Law Enforcement Conference | Passed | 0.0 | 40.00 |
 | 11/17/2022 | VND34213 | Crisis De-Escalation | Passed | 0.0 | 4.00 |

@@ -15,6 +15,12 @@ employment_records:
   rank: Investigtr
   classification: ''
   assignment: ''
+- date: 7/22/2022
+  agency: U.S. Postal Inspection Service
+  action: Inactive
+  rank: FedOfficer
+  classification: ''
+  assignment: ''
 - date: 1/10/2020
   agency: U.S. Postal Inspection Service
   action: Active

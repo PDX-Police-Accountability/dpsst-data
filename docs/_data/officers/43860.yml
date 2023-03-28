@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '43860'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Sergeant
+  rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/27/2022
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 9/25/2014
   agency: Portland Police Bureau
   action: Promotion
@@ -63,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2023
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 3/20/2023
   course: 23-0026
   title: DPSST Middle Management
@@ -4178,14 +4190,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/6/2021
-  expiration_date: 5/6/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/6/2021
@@ -4194,14 +4198,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/12/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/12/2004

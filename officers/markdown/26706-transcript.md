@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Code of Ethics | Signed | 8/19/2003 |  |
 | Code of Ethics | Signed | 8/19/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,8 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2023 | PDS23874 | Benchmark Analytics | Passed | 0.0 | 4.00 |
+| 3/13/2023 | PDS28135 | TacMed | Passed | 0.0 | 4.00 |
 | 2/24/2023 | PDS38124 | Emergency Drill Training | Passed | 0.0 | 0.50 |
 | 2/8/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
+| 2/8/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 1/18/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/31/2022 | 22-CVDL3 | 2022 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/15/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |

@@ -5,13 +5,14 @@
 | dpsst_identifier | 43860 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/27/2022 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 9/25/2014 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 6/14/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 | 6/14/2007 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
@@ -27,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
-| Code of Ethics | Signed | 2/12/2004 |  |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2022 | PDP13052 | 2022 Vocabulary in the LGBTQIA2S+ Queer Comm | Passed | 0.0 | 0.25 |

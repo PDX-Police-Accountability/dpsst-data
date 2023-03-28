@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 | 3/7/2023 | PDS04049 | TacMed | Passed | 0.0 | 4.00 |
 | 3/7/2023 | PDS15017 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/7/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
+| 2/7/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 1/9/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/31/2022 | 22-CVDL3 | 2022 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/15/2022 | PDS21977 | Defensive Tactics | Passed | 0.0 | 8.00 |

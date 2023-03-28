@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/21/2010 |  |
 | Code of Ethics | Signed | 12/21/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |
 | 2/10/2023 | PDS19680 | TacMed | Passed | 0.0 | 4.00 |
+| 2/7/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 1/6/2023 | PDS37167 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/27/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 11/17/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |

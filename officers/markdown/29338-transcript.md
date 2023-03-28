@@ -30,14 +30,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/7/2011 |  |
 | Code of Ethics | Signed | 12/7/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2023 | PDS11640 | Benchmark Analytics | Passed | 0.0 | 4.00 |
+| 3/20/2023 | PDS03091 | TacMed | Passed | 0.0 | 4.00 |
+| 3/15/2023 | PDS04555 | Firearms Training | Passed | 0.0 | 5.00 |
 | 2/3/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 1/23/2023 | PDS35120 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/23/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |

@@ -105,7 +105,13 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 1/7/2023
-  course: HBS26156
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/7/2023
+  course: HBS17290
   title: DEI Training
   status: Passed
   score: '0.0'
@@ -2593,14 +2599,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/9/2022
-  expiration_date: 1/9/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/9/2022
@@ -2609,14 +2607,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/10/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/10/2007

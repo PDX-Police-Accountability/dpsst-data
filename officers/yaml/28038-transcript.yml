@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/7/2023
+  course: PDS04930
+  title: DPSST Certification Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/6/2023
   course: PDS37167
   title: Defensive Tactics
@@ -3583,14 +3589,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/16/2022
-  expiration_date: 2/16/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/16/2022
@@ -3599,22 +3597,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/2/2021
   expiration_date: 6/2/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/2/2021
-  expiration_date: 6/2/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/21/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/21/2010

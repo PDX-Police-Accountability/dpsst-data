@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 4/7/2022 | 4/7/2024 |
 | Certification Cards | First Aid and CPR | 4/7/2022 | 4/7/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2023 | BBP02130 | Firearms Training/Qualification | Passed | 0.0 | 1.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2022 | BBP38345 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |
 | 11/30/2022 | BBP03258 | Domestic Violence/Lethality Assessment | Passed | 0.0 | 4.00 |

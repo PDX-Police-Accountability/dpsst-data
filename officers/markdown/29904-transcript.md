@@ -25,10 +25,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -39,7 +36,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2023 | PDS01115 | Taser | Passed | 0.0 | 8.00 |
 | 12/26/2023 | PDS30531 | Mind Set | Passed | 0.0 | 4.00 |
+| 3/15/2023 | PDS23972 | Leadership Workshop | Passed | 0.0 | 2.00 |
 | 2/20/2023 | PDS32117 | Adult Protective Services | Passed | 0.0 | 1.00 |
+| 2/20/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 2/2/2023 | PDS07070 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/2/2023 | PDS23366 | TacMed | Passed | 0.0 | 4.00 |
 | 1/16/2023 | PDS33713 | Defensive Tactics | Passed | 0.0 | 8.00 |

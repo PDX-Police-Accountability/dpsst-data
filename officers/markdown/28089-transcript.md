@@ -33,12 +33,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 10/31/2011 |  |
 | Code of Ethics | Signed | 10/31/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -183,7 +179,6 @@
 | 3/29/2021 | PDP34407 | 2021 Training Crowd Control Vehicles Video | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP13849 | 2021-6 Tips  Techniques Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/29/2021 | PDP22216 | 2021 Chicago Case Study | Passed | 0.0 | 0.25 |
-| 3/29/2021 | PDP27594 | Undefined | Passed | 0.0 | 0.25 |
 | 2/22/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 2/22/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 2/22/2021 | PDP00435 | 2021-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
@@ -248,12 +243,10 @@
 | 3/23/2020 | PDP35084 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/23/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/9/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 2/12/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/12/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/12/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 2/5/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/5/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/30/2020 | PDP00208 | 2020 BHR 2.02 | Passed | 0.0 | 1.00 |
 | 1/30/2020 | PDP20622 | 2020 City Attorney InService LegalUpdate/PubRecord | Passed | 0.0 | 1.50 |

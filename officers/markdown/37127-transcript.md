@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 8/1/2022 | Multnomah County District Attorney | Hired | Investigtr |  |  |
+| 7/22/2022 | U.S. Postal Inspection Service | Inactive | FedOfficer |  |  |
 | 1/10/2020 | U.S. Postal Inspection Service | Active | FedOfficer |  |  |
 | 12/8/2019 | Out of State Employment | Resigned | Investigtr |  |  |
 | 7/18/2010 | Out of State Employment | Hired | Investigtr |  |  |

@@ -60,12 +60,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/15/2023
+  course: PDS23972
+  title: Leadership Workshop
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/20/2023
   course: PDS32117
   title: Adult Protective Services
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/20/2023
+  course: PDS04930
+  title: DPSST Certification Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/2/2023
   course: PDS07070
   title: Benchmark Analytics
@@ -4260,21 +4272,9 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/1/2021

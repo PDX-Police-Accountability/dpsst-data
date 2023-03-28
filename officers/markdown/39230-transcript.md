@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/29/2003 |  |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -60,6 +56,7 @@
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/19/2022 | EGP13229 | Vehicle Use of Force - Decision Making | Passed | 0.0 | 3.50 |
 | 10/19/2022 | EGP21433 | Firearms Qualification | Passed | 0.0 | 3.50 |
+| 10/19/2022 | EGP12313 | Chief Briefing:  Leadership | Passed | 0.0 | 0.50 |
 | 9/21/2022 | EGP22702 | ETHOS:  Leadership | Passed | 0.0 | 3.00 |
 | 6/30/2022 | EGP00110 | Briefing:  OSHA Wildlife Smoke Exposure | Passed | 0.0 | 0.50 |
 | 6/7/2022 | EGP19480 | Being Resilent in First Responder Work | Passed | 0.0 | 6.00 |

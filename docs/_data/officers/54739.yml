@@ -41,6 +41,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/17/2023
+  course: PDS39504
+  title: PowerDMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/5/2023
   course: PDS10966
   title: Gun Dispossession and Enforcement

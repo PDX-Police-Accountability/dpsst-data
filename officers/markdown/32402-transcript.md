@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 1/16/2023 | 1/31/2025 |
-| Certification Cards | CPR | 1/16/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
-| Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/17/2002 |  |
 | Code of Ethics | Signed | 10/17/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,12 +39,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/30/2023 | HBS25733 | PREA  ADA Jail | Passed | 0.0 | 1.00 |
-| 1/16/2023 | HBS06622 | DEI Training | Passed | 0.0 | 0.50 |
+| 1/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/16/2023 | HBS04891 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/16/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/16/2023 | HBS35775 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
 | 1/16/2023 | HBS41113 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 1/16/2023 | HBS08760 | Defensive Tools Update | Passed | 0.0 | 1.00 |
+| 1/16/2023 | HBS32239 | DEI Training | Passed | 0.0 | 0.50 |
 | 11/14/2022 | HBS18349 | IFAST In-Service Training | Passed | 0.0 | 4.50 |
 | 11/14/2022 | HBS14002 | EVO In-Service | Passed | 0.0 | 4.50 |
 | 10/18/2022 | HBS15748 | OSMOSISCON 2022 | Passed | 0.0 | 16.00 |

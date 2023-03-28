@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2023 | OSH11990 | VERBAL JUDO LATERAL -TACTICAL COMMUNICATION COURSE | Passed | 0.0 | 24.00 |
 | 3/17/2023 | OSH37919 | Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 3/17/2023 | OSH38968 | First Aid | Passed | 0.0 | 3.50 |
 | 3/17/2023 | OSH28073 | Naloxone/ Narcan | Passed | 0.0 | 0.50 |

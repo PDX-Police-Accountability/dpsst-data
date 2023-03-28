@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/7/2023
+  course: PDS04930
+  title: DPSST Certification Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/16/2023
   course: PDS08295
   title: Court Services Courtroom Security
@@ -864,21 +870,9 @@ attribute_records:
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
 - topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/28/2021
-  expiration_date: 10/28/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/28/2021
@@ -887,14 +881,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 9/20/2020
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/20/2020

@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2023
+  course: PDS23874
+  title: Benchmark Analytics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/13/2023
+  course: PDS28135
+  title: TacMed
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/24/2023
   course: PDS38124
   title: Emergency Drill Training
@@ -62,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/8/2023
+  course: PDS04930
+  title: DPSST Certification Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/18/2023
   course: PDS44545
   title: Power DMS
@@ -1829,26 +1847,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/30/2021
   expiration_date: 10/28/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/30/2021
-  expiration_date: 10/28/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/19/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/19/2003

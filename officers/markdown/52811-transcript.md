@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,11 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2023 | PDS04555 | Firearms Training | Instructed | 0.0 | 5.00 |
 | 2/28/2023 | PDS13997 | Firearms Instructor Development Course | Passed | 0.0 | 5.00 |
 | 2/22/2023 | PDS44317 | SWAT Firearms | Passed | 0.0 | 8.00 |
 | 2/13/2023 | PDS22205 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/13/2023 | PDS33308 | TacMed | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS21044 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
+| 2/8/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 2/4/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 2/3/2023 | PDS27455 | Rifle Qualifications | Passed | 0.0 | 4.00 |
 | 1/30/2023 | PDS23369 | Defensive Tactics | Instructed | 0.0 | 8.00 |

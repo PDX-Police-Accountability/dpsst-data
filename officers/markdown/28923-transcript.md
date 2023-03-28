@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/3/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 8/3/2021 |  |
-| Code of Ethics | Signed | 11/29/2010 |  |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2023 | HSU13222 | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
+| 2/25/2023 | HSU04459 | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
+| 2/24/2023 | HSU37694 | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
 | 10/22/2022 | HSU13319 | EVO Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/22/2022 | HSU43777 | Defensive Tactics Fall In-Service 2022 | Passed | 0.0 | 3.00 |
 | 10/22/2022 | HSU04608 | Firearms Fall In-Service 2022 | Passed | 0.0 | 5.00 |
