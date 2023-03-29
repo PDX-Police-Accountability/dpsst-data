@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/23/2023
+  course: CAP41884
+  title: Unmasking Facial Expressions
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 3/15/2023
   course: CAP15436
   title: Patrol Rifle Qualification / Reloads and Movement

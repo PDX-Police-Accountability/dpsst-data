@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/23/2023 | CAP41884 | Unmasking Facial Expressions | Passed | 0.0 | 6.50 |
 | 3/15/2023 | CAP15436 | Patrol Rifle Qualification / Reloads and Movement | Passed | 0.0 | 5.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
 | 12/13/2022 | CAP03923 | Finding the Leader in You | Passed | 0.0 | 6.00 |

@@ -40,6 +40,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 3/20/2023 | REG38314 | Control from Mount | Passed | 0.0 | 1.00 |
+| 3/15/2023 | SDP14204 | Firearms / Malfunction Drills | Instructed | 0.0 | 3.00 |
+| 3/15/2023 | SDP12279 | Pat Down / Field Search Refresher | Instructed | 0.0 | 0.50 |
+| 3/15/2023 | SDP15677 | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 3/13/2023 | REG08744 | Guard Pass from Ground Control | Passed | 0.0 | 1.00 |
 | 3/6/2023 | REG30130 | Body Lock Takedown | Passed | 0.0 | 1.00 |
 | 2/27/2023 | REG41682 | Take Down Defense | Passed | 0.0 | 1.00 |

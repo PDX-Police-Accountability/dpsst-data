@@ -199,6 +199,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/10/2022
+  course: TDP35377
+  title: Tactical Training-Vehicle Assaults
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 3/31/2022
   course: HRS25974
   title: 2022 Airways Training Video - Patient Evaluation

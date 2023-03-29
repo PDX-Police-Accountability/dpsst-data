@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2023
+  course: WLP15706
+  title: Quarterly Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/1/2023
   course: WLP31427
   title: Safety Compass - Human Trafficking Awareness

@@ -34,19 +34,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/17/2023
+- status_date: 3/27/2023
   certificate: Police Officer
   level: Advanced
-  status: App Recd
+  status: App Incmpl
   certificate_date: ''
-  expiration_date: ''
+  expiration_date: 5/27/2023
   probation_date: ''
-- status_date: 3/17/2023
+- status_date: 3/27/2023
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
+  status: App Incmpl
   certificate_date: ''
-  expiration_date: ''
+  expiration_date: 5/27/2023
   probation_date: ''
 - status_date: 3/21/2017
   certificate: Police Officer

@@ -63,6 +63,7 @@
 | 5/1/2022 | HRS28518 | Firearms Qualification | Passed | 0.0 | 4.00 |
 | 4/26/2022 | HRS04075 | Basic First Aid/CPR  AED for Adult/Child/Infant | Passed | 0.0 | 4.00 |
 | 4/14/2022 | REG43884 | Field Training and Evluation Program | Passed | 0.0 | 24.00 |
+| 4/10/2022 | TDP35377 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
 | 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |
 | 11/23/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/4/2021 | F6F07601 | Officer Safety | Passed | 0.0 | 1.00 |

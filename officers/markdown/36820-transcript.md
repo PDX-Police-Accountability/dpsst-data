@@ -5,13 +5,14 @@
 | dpsst_identifier | 36820 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Commander |
+| rank | Assistant Chief |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/19/2023 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 7/1/2021 | Portland Police Bureau | Return LOA | Commander |  |  |
 | 3/27/2021 | Portland Police Bureau | LOA | Commander |  |  |
 | 5/30/2019 | Portland Police Bureau | Promotion | Commander |  |  |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/19/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/24/2023 | HDA34164 | Excel for Public Safety | Passed | 0.0 | 16.00 |
 | 11/30/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
