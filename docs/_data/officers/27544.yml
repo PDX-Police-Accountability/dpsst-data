@@ -3415,6 +3415,10 @@ attribute_records:
   value: Signed
   effective_date: 1/12/2011
   expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 1/12/2011
+  expiration_date: ''
 education_records:
 - date: 9/15/1992
   degree: No Degree
