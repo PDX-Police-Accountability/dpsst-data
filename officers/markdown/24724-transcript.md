@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Certification Cards | First Aid and CPR | 3/31/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/22/2008 |  |
 | Code of Ethics | Signed | 9/22/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 3/17/2023 | FGP14694 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |
 | 3/8/2023 | FGP17234 | Quarterly Firearms Training-Handgun Proficiency | Passed | 0.0 | 1.00 |
 | 3/2/2023 | FGP01633 | Human Trafficking Refresher | Passed | 0.0 | 0.50 |
 | 1/26/2023 | FGP19578 | Lead, Follow, Or Get Out Of The Way | Passed | 0.0 | 1.25 |

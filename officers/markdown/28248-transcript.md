@@ -5,13 +5,14 @@
 | dpsst_identifier | 28248 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/27/2023 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/19/2017 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/6/2017 | West Linn Police Department | Resigned | Sergeant |  |  |
 | 8/25/2014 | West Linn Police Department | Promotion | Sergeant |  |  |
@@ -27,18 +28,13 @@
 | 7/5/2017 | Police Officer | Supervisory | Granted | 7/5/2017 |  |  |
 | 5/23/2012 | Police Officer | Advanced | Granted | 5/23/2012 |  |  |
 | 2/1/2010 | Police Officer | Intermediate | Granted | 2/1/2010 |  |  |
-| 1/12/2010 | Police Officer | Basic | Granted | 1/12/2010 |  |  |
-| 1/13/2001 | Police Officer | Basic | Lapsed | 7/27/1998 |  |  |
+| 1/12/2010 | Police Officer | Basic | Reactivate | 7/27/1998 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 6/25/2009 |  |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
 | date | degree | school | major | hours |

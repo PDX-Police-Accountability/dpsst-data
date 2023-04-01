@@ -4,7 +4,7 @@
 | name | Brennan, Thomas J. |
 | dpsst_identifier | 33125 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/29/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 5/3/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/7/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/14/2001 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -22,19 +23,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/20/2011 | Police Officer | Advanced | Granted | 6/20/2011 |  |  |
-| 2/8/1999 | Police Officer | Intermediate | Granted | 2/8/1999 |  |  |
-| 12/17/1997 | Police Officer | Basic | Granted | 12/17/1997 |  |  |
+| 6/20/2011 | Police Officer | Advanced | Granted | 6/20/2011 | 6/29/2023 |  |
+| 2/8/1999 | Police Officer | Intermediate | Granted | 2/8/1999 | 6/29/2023 |  |
+| 12/17/1997 | Police Officer | Basic | Granted | 12/17/1997 | 6/29/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 | Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Code of Ethics | Signed | 6/20/2011 |  |
 | Code of Ethics | Signed | 6/20/2011 |  |
 ## Education
 | date | degree | school | major | hours |

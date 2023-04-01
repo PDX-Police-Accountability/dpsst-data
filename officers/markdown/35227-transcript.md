@@ -4,7 +4,7 @@
 | name | Merrill, Anthony J. |
 | dpsst_identifier | 35227 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,24 +12,21 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/22/2023 | Portland Police Bureau | Retired | Detective |  |  |
 | 4/5/2007 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/19/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/21/2009 | Police Officer | Advanced | Granted | 12/21/2009 |  |  |
-| 12/21/2009 | Police Officer | Intermediate | Granted | 12/21/2009 |  |  |
-| 12/29/1998 | Police Officer | Basic | Granted | 12/29/1998 |  |  |
+| 12/21/2009 | Police Officer | Advanced | Granted | 12/21/2009 | 6/22/2023 |  |
+| 12/21/2009 | Police Officer | Intermediate | Granted | 12/21/2009 | 6/22/2023 |  |
+| 12/29/1998 | Police Officer | Basic | Granted | 12/29/1998 | 6/22/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
-| Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
-| Code of Ethics | Signed | 12/21/2009 |  |
 | Code of Ethics | Signed | 12/21/2009 |  |
 ## Education
 | date | degree | school | major | hours |

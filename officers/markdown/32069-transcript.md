@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
-| Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +43,7 @@
 | 3/15/2023 | SDP14204 | Firearms / Malfunction Drills | Instructed | 0.0 | 3.00 |
 | 3/15/2023 | SDP12279 | Pat Down / Field Search Refresher | Instructed | 0.0 | 0.50 |
 | 3/15/2023 | SDP15677 | Defensive Tactics | Passed | 0.0 | 2.50 |
+| 3/15/2023 | SDP27433 | Airway Circulatory Anatomy Physiology Training | Passed | 0.0 | 2.00 |
 | 3/13/2023 | REG08744 | Guard Pass from Ground Control | Passed | 0.0 | 1.00 |
 | 3/6/2023 | REG30130 | Body Lock Takedown | Passed | 0.0 | 1.00 |
 | 2/27/2023 | REG41682 | Take Down Defense | Passed | 0.0 | 1.00 |

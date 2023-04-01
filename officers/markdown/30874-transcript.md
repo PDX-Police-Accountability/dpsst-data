@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/17/2021 | 9/17/2023 |
-| Certification Cards | First Aid and CPR | 9/17/2021 | 9/17/2023 |
-| Code of Ethics | Signed | 11/29/2010 |  |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2023 | FGP14694 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |
 | 3/8/2023 | FGP17234 | Quarterly Firearms Training-Handgun Proficiency | Passed | 0.0 | 1.00 |
 | 3/2/2023 | FGP01633 | Human Trafficking Refresher | Passed | 0.0 | 0.50 |
 | 2/5/2023 | FGP02433 | Officer In Charge | Passed | 0.0 | 10.00 |

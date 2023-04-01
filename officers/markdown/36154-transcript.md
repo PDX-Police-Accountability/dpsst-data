@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/13/2023 | 1/31/2025 |
-| Certification Cards | First Aid and CPR | 1/13/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
-| Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
-| Code of Ethics | Signed | 7/25/2002 |  |
 | Code of Ethics | Signed | 7/25/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/13/2023 | MFP18742 | First Aid/Adult  Child CPR/AED/Naloxone Use | Passed | 0.0 | 2.25 |
 | 1/13/2023 | MFP09917 | 2023 Annual Ethics Training | Passed | 0.0 | 3.00 |
+| 12/22/2022 | MFP26560 | MPD In-House II/-Profess. Development  Retirement | Instructed | 0.0 | 1.00 |
+| 12/14/2022 | MFP35295 | MPD In-House Academy II: Livability Team | Instructed | 0.0 | 1.50 |
 | 12/2/2022 | MFP25974 | TIU Updates  Forefeiture | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP40339 | LPR/FLOCK/Vigilant | Passed | 0.0 | 2.00 |
 | 12/2/2022 | MFP13248 | Airway Circulatory Anatomy  Physiology | Passed | 0.0 | 2.00 |

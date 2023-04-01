@@ -22,6 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/30/2023 | Police Officer | Supervisory | App Recd |  |  |  |
 | 4/13/2001 | Police Officer | Advanced | Granted | 4/13/2001 |  |  |
 | 2/22/1996 | Police Officer | Intermediate | Granted | 2/22/1996 |  |  |
 | 10/24/1994 | Police Officer | Basic | Granted | 10/24/1994 |  |  |
@@ -29,14 +30,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 4/13/2022 | 4/13/2024 |
 | Certification Cards | First Aid and CPR | 4/13/2022 | 4/13/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
-| Code of Ethics | Signed | 4/10/2001 |  |
 | Code of Ethics | Signed | 4/10/2001 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2022 | MFP22282 | OC User Course for City of Medford Employees | Passed | 0.0 | 1.00 |
 | 4/22/2020 | HBS11354 | Emotional Survival | Instructed | 0.0 | 2.00 |
 | 3/12/2020 | HBS37486 | Division Operations  Connections | Instructed | 0.0 | 3.00 |
 | 2/25/2020 | HBS35915 | Public Safety Levy Speaker Training | Passed | 0.0 | 1.00 |

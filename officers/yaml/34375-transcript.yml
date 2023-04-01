@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2023
+  course: STS08773
+  title: Handgun Training and Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/7/2023
   course: STS31356
   title: First Aid  CPR - Adult  Child
@@ -138,6 +144,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/26/2023
+  course: OSH15820
+  title: Medicolegal Death Investigator In-Service
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/31/2022
   course: STS29887
   title: Lexipol Daily Training Bulletins
@@ -2393,14 +2405,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/7/2023
   expiration_date: 3/7/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/7/2023
-  expiration_date: 3/7/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -2409,22 +2413,10 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/18/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/18/2022
-  expiration_date: ''
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/24/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/24/2002

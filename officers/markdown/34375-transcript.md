@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/7/2023 | 3/7/2025 |
-| Certification Cards | First Aid and CPR | 3/7/2023 | 3/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 4/24/2002 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -53,8 +48,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2023 | STS08773 | Handgun Training and Qualification | Passed | 0.0 | 4.00 |
 | 3/7/2023 | STS31356 | First Aid  CPR - Adult  Child | Passed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/26/2023 | OSH15820 | Medicolegal Death Investigator In-Service | Passed | 0.0 | 1.50 |
 | 12/31/2022 | STS29887 | Lexipol Daily Training Bulletins | Passed | 0.0 | 11.00 |
 | 12/19/2022 | STS20481 | Firearms/Qualification | Passed | 0.0 | 0.50 |
 | 12/8/2022 | OSA22534 | You Are Never Alone / Understanding PTSD/PTSI | Passed | 0.0 | 4.00 |

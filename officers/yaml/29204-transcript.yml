@@ -107,6 +107,12 @@ certification_records:
   expiration_date: 8/21/2025
   probation_date: ''
 training_records:
+- date: 11/8/2022
+  course: MFP22282
+  title: OC User Course for City of Medford Employees
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/22/2020
   course: HBS11354
   title: Emotional Survival
