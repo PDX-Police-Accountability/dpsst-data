@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/24/2023
+  course: RMP21867
+  title: EVOC / Armor Veh Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/24/2023
+  course: RMP32878
+  title: DUII Refresher
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/24/2023
+  course: RMP34658
+  title: DUII Wet Lab
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/19/2023
   course: RMP03429
   title: 'BRIEFING TRAINING: PURSUIT POLICY'

@@ -22,13 +22,14 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/15/2022 | 4/15/2024 |
-| Certification Cards | First Aid and CPR | 4/15/2022 | 4/15/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2023 | MNP06808 | EVOC in-service | Passed | 0.0 | 4.50 |
+| 3/5/2023 | MNP40300 | Building Search in-service | Passed | 0.0 | 4.50 |
 | 3/4/2023 | KZP19463 | Intoxilyzer 8000 | Passed | 0.0 | 6.00 |
 | 1/3/2023 | MNP10907 | Ethics training 2022 | Passed | 0.0 | 1.00 |
 | 1/3/2023 | MNP13259 | NAMI November 2022 | Passed | 0.0 | 0.50 |

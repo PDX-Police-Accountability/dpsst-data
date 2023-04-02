@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2023 | HBN44988 | DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION | Passed | 0.0 | 6.00 |
 | 10/14/2022 | BPT25310 | Oregon Case Management Network | Passed | 0.0 | 8.00 |
 | 10/13/2022 | BPT06935 | Oregon Case Management Network - Gender Cohort) | Passed | 0.0 | 3.50 |
 | 11/30/2021 | F6K04474 | Third Trimester Firearms | Passed | 0.0 | 4.00 |

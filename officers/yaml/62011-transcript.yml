@@ -509,13 +509,13 @@ training_records:
   title: DID/SFST Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 1/13/2022
   course: REG06674
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '8.00'
+  hours: '0.00'
 - date: 11/26/2021
   course: PDP14553
   title: WMD/Terrorism Awareness for Emergency Responders

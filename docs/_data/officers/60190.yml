@@ -82,7 +82,7 @@ training_records:
   title: DID/SFST Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 2/1/2022
   course: BPT37233
   title: In Our Own Voice
@@ -106,7 +106,7 @@ training_records:
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '8.00'
+  hours: '0.00'
 - date: 12/21/2021
   course: OCS25818
   title: Ethics Training

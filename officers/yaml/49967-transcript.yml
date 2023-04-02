@@ -29,6 +29,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/5/2023
+  course: MNP06808
+  title: EVOC in-service
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/5/2023
+  course: MNP40300
+  title: Building Search in-service
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/4/2023
   course: KZP19463
   title: Intoxilyzer 8000
@@ -918,10 +930,6 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/15/2022
-  expiration_date: 4/15/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/15/2022

@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2023 | HBN40700 | DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION | Passed | 0.0 | 6.00 |
+| 2/2/2023 | HBN16403 | Creating Culture of Trust on Team and Org | Passed | 0.0 | 1.25 |
+| 1/12/2023 | HBN18743 | Drug Recognition | Passed | 0.0 | 1.00 |
 | 12/15/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | VND44046 | Parole Board Overview/ Q and A | Passed | 0.0 | 4.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

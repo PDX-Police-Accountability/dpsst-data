@@ -69,6 +69,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 3/2/2023
+  course: VND39701
+  title: 2023 Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

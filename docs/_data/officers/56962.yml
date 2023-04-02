@@ -34,10 +34,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/19/2022
+- status_date: 3/30/2023
   certificate: Parole  Probation Officer
   level: Basic
-  status: Required
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 9/19/2023
@@ -49,12 +49,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 9/19/2023
+- date: 3/22/2023
   course: M31-21A
   title: DPSST Parole and Probation Field Training Manual
-  status: Required
+  status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 3/20/2023
+  course: HBN11403
+  title: Adult and Pediatric First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/22/2023
+  course: HBN44988
+  title: 'DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/12/2023
+  course: HBN18743
+  title: Drug Recognition
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/9/2023
+  course: HBN05681
+  title: Developing the Individual and Organizational Ethic
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2022
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/7/2022
   course: VND44046
   title: Parole Board Overview/ Q and A

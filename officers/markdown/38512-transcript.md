@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/22/2023 | PDP00714 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/8/2023 | PDP01096 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 1/11/2023 | PDP27005 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 1/4/2023 | PDP25505 | EDU Weekly Training | Instructed | 0.0 | 9.00 |

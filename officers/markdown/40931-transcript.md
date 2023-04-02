@@ -5,13 +5,14 @@
 | dpsst_identifier | 40931 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Lieutenant |
+| rank | Captain |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/13/2022 | Portland Police Bureau | Promotion | Captain |  |  |
 | 4/18/2019 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 10/4/2016 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 11/21/2015 | Portland Police Bureau | LOA | Sergeant |  |  |
@@ -32,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 5/21/2021 | 5/21/2023 |
-| Certification Cards | First Aid and CPR | 5/21/2021 | 5/21/2023 |
-| Code of Ethics | Signed | 10/21/2002 |  |
 | Code of Ethics | Signed | 10/21/2002 |  |
 ## Education
 | date | degree | school | major | hours |

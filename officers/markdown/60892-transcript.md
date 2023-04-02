@@ -4,7 +4,7 @@
 | name | Yamanoi, Richard T. |
 | dpsst_identifier | 60892 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/26/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 3/26/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/21/2021 | Police Officer | Basic | Granted | 7/21/2021 |  |  |
+| 7/21/2021 | Police Officer | Basic | Granted | 7/21/2021 | 6/26/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

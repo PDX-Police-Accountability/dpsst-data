@@ -19,7 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/19/2022 | Parole  Probation Officer | Basic | Required |  |  | 9/19/2023 |
+| 3/30/2023 | Parole  Probation Officer | Basic | App Recd |  |  | 9/19/2023 |
 | 6/7/2019 | Corrections Officer | Basic | Granted | 6/7/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -40,7 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/19/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
+| 3/22/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |
+| 3/20/2023 | HBN11403 | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 6.00 |
+| 2/22/2023 | HBN44988 | DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION | Passed | 0.0 | 6.00 |
+| 1/12/2023 | HBN18743 | Drug Recognition | Passed | 0.0 | 1.00 |
+| 1/9/2023 | HBN05681 | Developing the Individual and Organizational Ethic | Passed | 0.0 | 0.00 |
+| 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | VND44046 | Parole Board Overview/ Q and A | Passed | 0.0 | 4.00 |
 | 11/18/2022 | HBN01213 | BCP Fundamentals | Passed | 0.0 | 2.00 |
 | 11/16/2022 | HBN02293 | Trauma Informed Practices | Passed | 0.0 | 2.00 |

@@ -35,12 +35,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 9/9/2020 | 9/9/2024 |
-| Certification Cards | First Aid and CPR | 9/9/2020 | 9/9/2024 |
-| Code of Ethics | Signed | 10/12/2006 |  |
 | Code of Ethics | Signed | 10/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,9 +47,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2023 | STP09151 | Taser X26P Recertification | Passed | 0.0 | 2.00 |
+| 3/15/2023 | STP23746 | Crime Scene Management | Passed | 0.0 | 3.00 |
 | 3/6/2023 | STP31849 | Attitude Empowerment | Passed | 0.0 | 7.00 |
 | 3/6/2023 | STP40982 | Public Corruption | Passed | 0.0 | 1.00 |
 | 3/3/2023 | STP35659 | 2023 Northwest Leadership Seminar | Passed | 0.0 | 17.50 |
+| 3/2/2023 | VND39701 | 2023 Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/7/2023 | STP35963 | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 1/24/2023 | STP10888 | Night Shooting Qualification and Training | Passed | 0.0 | 4.00 |
 | 1/24/2023 | STP27924 | Reducing Lead Exposure From Firearms Training | Passed | 0.0 | 0.50 |

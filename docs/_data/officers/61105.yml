@@ -36,12 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/16/2023
+  course: NGP28180
+  title: Taser scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/3/2023
   course: NGP12885
   title: Taser recertification
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/1/2023
+  course: NGP29100
+  title: Protecting First Responders from Opioid Exposure
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/23/2023
   course: NGP31772
   title: WRAP restraint / Pinning

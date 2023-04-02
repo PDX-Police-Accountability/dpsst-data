@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2023
+  course: HBN40700
+  title: 'DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 2/2/2023
+  course: HBN16403
+  title: Creating Culture of Trust on Team and Org
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/12/2023
+  course: HBN18743
+  title: Drug Recognition
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/15/2022
   course: MISCMAIN
   title: 2022 LE Basic 3 Year Maintenance

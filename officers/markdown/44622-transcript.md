@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
-| Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
-| Code of Ethics | Signed | 1/23/2006 |  |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/3/2023 | OSH42689 | 1st Tri Firearms | Instructed | 0.0 | 4.00 |
+| 3/3/2023 | OSH42689 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/3/2023 | OSH08737 | Shotguns | Instructed | 0.0 | 1.00 |
 | 2/17/2023 | OSH44015 | Firearms 1st Tri | Instructed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -111,7 +107,7 @@
 | 5/21/2021 | F6D13244 | OSP ATV Operations | Passed | 0.0 | 4.00 |
 | 5/13/2021 | F6D13776 | Firearms In Service | Passed | 0.0 | 24.00 |
 | 5/7/2021 | F6R28606 | 2021 Oregon State Marine Board LE Academy | Passed | 0.0 | 72.00 |
-| 4/2/2021 | F6D37229 | 1st Trimester Firerms | Instructed | 0.0 | 4.00 |
+| 4/2/2021 | F6D37229 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/5/2021 | F6D13172 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/5/2021 | F6D06067 | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 1/31/2021 | F6D19385 | Ballistic Shield Hands-On 2020 | Passed | 0.0 | 1.50 |
