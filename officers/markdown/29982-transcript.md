@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/16/2023 | VND34914 | OEDI Annual Session #34 - Leadership | Passed | 0.0 | 34.50 |
+| 3/15/2023 | SVP32728 | Firearms  Patrol Vehicle Defense Tactics | Passed | 0.0 | 4.00 |
 | 2/23/2023 | SVP44567 | FEMA ICS 400 Advanced ICS | Passed | 0.0 | 15.00 |
 | 2/20/2023 | SVP20878 | FEMA ICS 300 - Intermediate ICS | Passed | 0.0 | 21.00 |
 | 2/16/2023 | VND40759 | Basic Background Investigations | Passed | 0.0 | 16.00 |

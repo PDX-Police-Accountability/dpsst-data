@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2023 | PDP41483 | Blue to Gold Criminal Investigations | Passed | 0.0 | 3.00 |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/16/2023 | PDP06454 | Caring for Caretakers: Organizational Wellness | Passed | 0.0 | 6.00 |

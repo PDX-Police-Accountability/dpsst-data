@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/28/2023
+  course: PDP18950
+  title: 2019 Leadership  Organizational Excellence LP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/28/2023
+  course: PDP44327
+  title: 2020 Ethics and Leadership PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

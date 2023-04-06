@@ -112,6 +112,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/30/2023
+  course: PDP42463
+  title: 2021 Training New Pistol Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/27/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

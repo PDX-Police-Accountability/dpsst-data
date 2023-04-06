@@ -36,6 +36,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/12/2023
+  course: PDP15969
+  title: 2021 PIO Photos for Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP37869
+  title: 2021 PIO Twitter Basics
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/10/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

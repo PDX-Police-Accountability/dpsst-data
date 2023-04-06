@@ -30,6 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/6/2023
+  course: PDP26182
+  title: 2019-4 TT Emailing Security Reports
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2023
+  course: PDP43532
+  title: 2021 OSHA Heat Illness Prevention Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2023
+  course: PDP13113
+  title: 2021 Training Response to Calls Involving Youth
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 2/6/2023
+  course: PDP39297
+  title: 2021-1 CAO Legal Updates for 01/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/6/2023
+  course: PDP25517
+  title: 2021-2 CAO Legal Updates for 2/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/6/2023
+  course: PDP18633
+  title: 2021-6 CAO Legal Updates for 6/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/31/2023
   course: PDP22591
   title: FTEP Orientation

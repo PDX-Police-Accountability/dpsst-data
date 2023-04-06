@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2023 | RMP39745 | BRIEFING TRAINING: Cedar Hills Stabilization CTR | Passed | 0.0 | 0.50 |
 | 3/24/2023 | RMP21867 | EVOC / Armor Veh Familiarization | Passed | 0.0 | 4.00 |
 | 3/24/2023 | RMP32878 | DUII Refresher | Passed | 0.0 | 3.00 |
 | 3/24/2023 | RMP34658 | DUII Wet Lab | Passed | 0.0 | 3.00 |

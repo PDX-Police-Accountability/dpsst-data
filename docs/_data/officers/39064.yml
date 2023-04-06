@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/25/2023
+  course: TDP02621
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/30/2022
   course: TDP31501
   title: Harassment in the workplace 2022

@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/1/2023 | PDP44405 | 2020 Managing Critical Incidents Well Sgts Role | Passed | 0.0 | 0.25 |
 | 12/22/2022 | PDP05863 | 2020 Managing Critical Incidents Well Sgts Role | Passed | 0.0 | 0.25 |
 | 12/22/2022 | PDP42302 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
 | 12/22/2022 | PDP18902 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

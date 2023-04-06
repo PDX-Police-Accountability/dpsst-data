@@ -48,6 +48,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/29/2023 | SVP32728 | Firearms  Patrol Vehicle Defense Tactics | Instructed | 0.0 | 4.00 |
+| 3/22/2023 | SVP32728 | Firearms  Patrol Vehicle Defense Tactics | Passed | 0.0 | 4.00 |
+| 3/16/2023 | VND34914 | OEDI Annual Session #34 - Leadership | Passed | 0.0 | 34.50 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/23/2023 | SVP44567 | FEMA ICS 400 Advanced ICS | Passed | 0.0 | 15.00 |
 | 2/20/2023 | SVP20878 | FEMA ICS 300 - Intermediate ICS | Passed | 0.0 | 21.00 |

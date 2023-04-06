@@ -123,6 +123,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/29/2023
+  course: SVP32728
+  title: Firearms  Patrol Vehicle Defense Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/22/2023
+  course: SVP32728
+  title: Firearms  Patrol Vehicle Defense Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/16/2023
+  course: VND34914
+  title: 'OEDI Annual Session #34 - Leadership'
+  status: Passed
+  score: '0.0'
+  hours: '34.50'
 - date: 2/28/2023
   course: BPT13195
   title: Police Traffic Safety Conference

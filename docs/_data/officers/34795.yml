@@ -63,9 +63,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2023
+  course: OCS34493
+  title: FBI/LEEDA SLI
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/2/2023
   course: OCS30261
   title: Sergeant Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/22/2023
+  course: OCS22377
+  title: Employee  Labor Relations training
   status: Passed
   score: '0.0'
   hours: '2.00'

@@ -40,7 +40,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/6/2023 | HBS12525 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 1/30/2023 | HBS25733 | PREA  ADA Jail | Passed | 0.0 | 1.00 |
-| 1/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/16/2023 | HBS04891 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/16/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/16/2023 | HBS35775 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |
@@ -55,7 +54,6 @@
 | 8/25/2022 | HBS34146 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 8/25/2022 | HBS16554 | EVO Fall 2022 In-Service | Passed | 0.0 | 4.00 |
 | 8/25/2022 | HBS29122 | DT CONSIM Instructor Updates | Passed | 0.0 | 3.00 |
-| 7/19/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 7/19/2022 | HBS35838 | Detective Building Search/Warrant Planning | Passed | 0.0 | 8.00 |
 | 7/13/2022 | HBS37414 | Cryptocurrency Training | Passed | 0.0 | 2.00 |
 | 7/12/2022 | HBS41060 | Detective Building Search/Warrants | Passed | 0.0 | 8.00 |
@@ -70,7 +68,6 @@
 | 1/26/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/26/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
 | 1/26/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
-| 1/26/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 11/8/2021 | HBS28583 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/8/2021 | HBS27794 | EVOC Policy Update | Passed | 0.0 | 1.50 |
 | 11/8/2021 | HBS23160 | Harassment/Civility | Passed | 0.0 | 1.50 |

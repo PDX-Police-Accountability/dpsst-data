@@ -50,6 +50,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/1/2023
+  course: PDP44405
+  title: 2020 Managing Critical Incidents Well Sgts Role
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/22/2022
   course: PDP05863
   title: 2020 Managing Critical Incidents Well Sgts Role

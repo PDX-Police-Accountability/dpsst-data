@@ -28,6 +28,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/6/2023 | PDP26182 | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP43532 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP13113 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
+| 2/6/2023 | PDP39297 | 2021-1 CAO Legal Updates for 01/2021 | Passed | 0.0 | 0.50 |
+| 2/6/2023 | PDP25517 | 2021-2 CAO Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP18633 | 2021-6 CAO Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |

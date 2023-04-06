@@ -168,12 +168,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 10/31/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 10/26/2022
   course: CAP20916
   title: High Risk Vehicle Stops

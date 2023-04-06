@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/16/2023
+  course: VND34914
+  title: 'OEDI Annual Session #34 - Leadership'
+  status: Passed
+  score: '0.0'
+  hours: '34.50'
+- date: 3/15/2023
+  course: SVP32728
+  title: Firearms  Patrol Vehicle Defense Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/23/2023
   course: SVP44567
   title: FEMA ICS 400 Advanced ICS

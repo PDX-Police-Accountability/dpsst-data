@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/28/2023
+  course: PPP27442
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/23/2023
+  course: PPP36554
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/24/2023
   course: PPP31877
   title: Annual Firearms Qualifications and Training

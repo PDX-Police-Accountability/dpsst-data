@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2023
+  course: RMP39745
+  title: 'BRIEFING TRAINING: Cedar Hills Stabilization CTR'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/24/2023
   course: RMP21867
   title: EVOC / Armor Veh Familiarization

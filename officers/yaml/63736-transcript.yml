@@ -36,5 +36,215 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 3/29/2023
+  course: PDP19748
+  title: 2021 Online Crowd Control - CAO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/29/2023
+  course: PDP30182
+  title: 2020 CAO Don't Shoot PDX/Hernandez TRO (resend)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/29/2023
+  course: PDP25919
+  title: 2021 Online Crowd Control - Force Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.83'
+- date: 3/29/2023
+  course: PDP41254
+  title: 2021 Online In-Service Crime Victims' Rights
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/24/2023
+  course: PDP29998
+  title: 2021 Judge Hernandez Don't Shoot Portland v. City
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/24/2023
+  course: PDP41612
+  title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/24/2023
+  course: PDP28705
+  title: 2020 Judge Hernandez TRO Don't Shoot PDX 6/2009
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/24/2023
+  course: PDP00296
+  title: 2021 Online Crowd Control - Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '0.42'
+- date: 3/24/2023
+  course: PDP05557
+  title: 2021 Online Crowd Control - Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/22/2023
+  course: PDP24350
+  title: 2021 Online Crowd Control - Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/22/2023
+  course: PDP02218
+  title: 2021 Online In-Service DIR 870.25 Holding Rooms
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/22/2023
+  course: PDP37388
+  title: 2021 Online IS Language Access - LanguageLine
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/22/2023
+  course: PDP43115
+  title: 2021 Online IS Language Access - LEP Testimonial
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/22/2023
+  course: PDP22112
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/17/2023
+  course: PDP30049
+  title: 2018-3 TT Shooting Through Barriers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP41920
+  title: 2021 The Advanced SEND Protocol Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP42023
+  title: 2019 External Training HQPT Introduction
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP41261
+  title: 2019 Training Public Safety Support Specialist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP28316
+  title: 2019-2 TT Use of Force/De-escalation QA
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP16492
+  title: 2020 TOD Shots Fired Incident Reporting (SFIR)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP21975
+  title: 2021 Online IS Training Equity Trng - Preparation
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/17/2023
+  course: PDP11031
+  title: 2021 Online In-Service Training Mental Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 3/15/2023
+  course: PDP32725
+  title: 2019 Chief's Office SPLC Antigovernment Extremists
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP01694
+  title: 2019 Chief's Office SPLC Aryan Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP39320
+  title: 2019 Chief's Office SPLC Hate Crimes
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP07638
+  title: 2019 Chief's Office SPLC Racists Skinheads
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP14689
+  title: 2019 Chief's Office SPLC The Rise of the Lone Wolf
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP18950
+  title: 2019 Leadership  Organizational Excellence LP
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP00284
+  title: 2019-1 TT External Vest Equipment Requirements
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP05336
+  title: 2020 BHU Roles and Responsibilities on MH Calls
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/15/2023
+  course: PDP36833
+  title: 2020 Supervisor In-Service Crime Scene Management
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/14/2023
+  course: PDP37674
+  title: 2019-1 PSD Force Inspector Updates for Q1
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/23/2023
+  course: PDP07079
+  title: 2017-3 CAO Legal Updates for Q3 08/2017
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/23/2023
+  course: PDP34750
+  title: 2017-3 CAO Legal Updates for Q3 7/2017
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/23/2023
+  course: PDP16519
+  title: 2017-3 Legal Updates for Q3
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 attribute_records: []
 education_records: []

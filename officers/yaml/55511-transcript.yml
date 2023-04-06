@@ -163,12 +163,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 1/27/2022
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 11/12/2021
   course: HBS07114
   title: Firearms Update
@@ -505,6 +499,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/21/2019
+  course: PDP21925
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/21/2019
+  course: PDP06547
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/21/2019
+  course: PDP25309
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/20/2019
   course: HBS40579
   title: Jail Driving

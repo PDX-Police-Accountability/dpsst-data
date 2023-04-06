@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2023
+  course: PDP41483
+  title: Blue to Gold Criminal Investigations
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/9/2023
   course: PPP42986
   title: Redefining Adversity

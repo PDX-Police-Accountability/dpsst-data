@@ -63,6 +63,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 3/17/2023
+  course: OCS34493
+  title: FBI/LEEDA SLI
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/28/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

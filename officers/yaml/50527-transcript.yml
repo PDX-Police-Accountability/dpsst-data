@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2023
+  course: PDP44405
+  title: 2020 Managing Critical Incidents Well Sgts Role
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/31/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

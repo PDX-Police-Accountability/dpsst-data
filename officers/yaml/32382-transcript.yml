@@ -68,9 +68,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
-- date: 1/17/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
+- date: 2/21/2023
+  course: HBS03039
+  title: On-Duty PIT Refresher Training
   status: Passed
   score: '0.0'
   hours: '0.50'

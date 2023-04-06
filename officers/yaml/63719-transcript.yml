@@ -36,5 +36,89 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 3/22/2023
+  course: PDP30049
+  title: 2018-3 TT Shooting Through Barriers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP24350
+  title: 2021 Online Crowd Control - Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP21485
+  title: 2019 Training PPB Wellness Program Introduction
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP41612
+  title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP41254
+  title: 2021 Online In-Service Crime Victims' Rights
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP37388
+  title: 2021 Online IS Language Access - LanguageLine
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/17/2023
+  course: PDP44521
+  title: 2021 Online In-Service Training Chicago Case Study
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP01694
+  title: 2019 Chief's Office SPLC Aryan Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP39320
+  title: 2019 Chief's Office SPLC Hate Crimes
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP29889
+  title: 2019 CHO SPLC LE Response to Hate Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP07638
+  title: 2019 Chief's Office SPLC Racists Skinheads
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP30034
+  title: 2019 CHO SPLC Sovereign Citizen Movement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP14689
+  title: 2019 Chief's Office SPLC The Rise of the Lone Wolf
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/15/2023
+  course: PDP25621
+  title: 2020 City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 attribute_records: []
 education_records: []

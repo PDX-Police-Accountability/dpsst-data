@@ -48,7 +48,6 @@
 | 3/8/2023 | HBS16591 | Hostage Rescue ConSim | Passed | 0.0 | 9.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/17/2023 | HBS32256 | Winter Rifle Updates | Passed | 0.0 | 9.00 |
-| 1/28/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/28/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/28/2023 | HBS24638 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/28/2023 | HBS25244 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
@@ -89,7 +88,6 @@
 | 1/17/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/17/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 1/17/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
-| 1/17/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 12/7/2021 | HBS44088 | EVO PIT Refresher Training | Passed | 0.0 | 0.50 |
 | 11/4/2021 | HBS25412 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/4/2021 | HBS09105 | EVOC Policy Update | Passed | 0.0 | 1.50 |

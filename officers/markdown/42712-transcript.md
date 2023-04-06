@@ -45,7 +45,6 @@
 | 1/8/2023 | HBS29714 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/8/2023 | HBS43843 | PREA  ADA Jail | Passed | 0.0 | 1.00 |
 | 1/8/2023 | HBS25321 | Defensive Tools Update | Passed | 0.0 | 1.00 |
-| 1/7/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/7/2023 | HBS17290 | DEI Training | Passed | 0.0 | 0.50 |
 | 1/3/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/23/2022 | HBS38676 | Restraint Chair Update | Passed | 0.0 | 0.50 |

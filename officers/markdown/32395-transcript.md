@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2023 | PPP27442 | Firearms Qualification | Passed | 0.0 | 1.00 |
+| 3/23/2023 | PPP36554 | Range | Passed | 0.0 | 2.00 |
 | 1/24/2023 | PPP31877 | Annual Firearms Qualifications and Training | Passed | 0.0 | 4.00 |
 | 12/31/2022 | PPP35492 | Emotional Intelligence | Passed | 0.0 | 2.00 |
 | 10/31/2022 | PPP25478 | Active Shooter Phases and Prevention | Passed | 0.0 | 1.00 |

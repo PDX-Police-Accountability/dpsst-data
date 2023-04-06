@@ -53,7 +53,6 @@
 | 1/28/2022 | HBS33522 | Undefined | Passed | 0.0 | 1.50 |
 | 1/28/2022 | HBS14809 | Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 1/27/2022 | HBS35085 | Employee Wellness | Passed | 0.0 | 2.00 |
-| 1/27/2022 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 11/12/2021 | HBS07114 | Firearms Update | Passed | 0.0 | 4.50 |
 | 11/12/2021 | HBS34451 | Harassment/Civility | Passed | 0.0 | 1.50 |
 | 11/12/2021 | HBS25457 | Use of Force/Case Law Update | Passed | 0.0 | 2.00 |
@@ -110,6 +109,9 @@
 | 5/21/2019 | HBS36132 | IS 700 - NIMS, An Introduction | Passed | 0.0 | 4.00 |
 | 5/21/2019 | HBS34560 | ICS 100/ IS 100 Introduction to ICS | Passed | 0.0 | 3.00 |
 | 5/21/2019 | HBS38939 | ICS 200/ IS 200 - Basic ICS | Passed | 0.0 | 3.00 |
+| 5/21/2019 | PDP21925 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 5/21/2019 | PDP06547 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
+| 5/21/2019 | PDP25309 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/20/2019 | HBS40579 | Jail Driving | Passed | 0.0 | 8.00 |
 | 5/17/2019 | HBS05556 | Skills Test  Box Drills | Passed | 0.0 | 8.00 |
 | 5/16/2019 | HBS10482 | Traffic Stops/Contact Cover | Passed | 0.0 | 8.00 |

@@ -17,8 +17,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/27/2023 | Police Officer | Advanced | App Incmpl |  | 5/27/2023 |  |
-| 3/27/2023 | Police Officer | Intermediate | App Incmpl |  | 5/27/2023 |  |
+| 4/3/2023 | Police Officer | Advanced | Granted | 4/3/2023 |  |  |
+| 4/3/2023 | Police Officer | Intermediate | Granted | 4/3/2023 |  |  |
 | 10/29/2021 | Police Officer | Supervisory | Granted | 10/29/2021 |  |  |
 | 10/5/2010 | Police Officer | Basic | Granted | 10/5/2010 |  |  |
 ## Attributes
@@ -35,7 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/12/2023 | PDP19748 | 2021 Online Crowd Control - CAO | Passed | 0.0 | 2.00 |
+| 2/12/2023 | PDP25919 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
+| 2/12/2023 | PDP00296 | 2021 Online Crowd Control - Mobile Field Force | Passed | 0.0 | 0.42 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/5/2023 | PDP24350 | 2021 Online Crowd Control - Chief's Message | Passed | 0.0 | 0.25 |
+| 2/5/2023 | PDP05557 | 2021 Online Crowd Control - Procedural Justice | Passed | 0.0 | 0.00 |
 | 12/29/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/29/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/19/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |

@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 3/15/2023
+  course: PDP06124
+  title: 2018 SSD Stops Application Manual
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/20/2022
   course: PDP28038
   title: 2021 Training New Pistol Qualification

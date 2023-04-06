@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 3/23/2023
+  course: TDP44535
+  title: Tactical Training-Vehicle Assaults
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 3/13/2023
   course: HRS21669
   title: Use of Force Refresher
@@ -200,8 +206,8 @@ training_records:
   score: '0.0'
   hours: '24.00'
 - date: 4/10/2022
-  course: TDP35377
-  title: Tactical Training-Vehicle Assaults
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '3.50'

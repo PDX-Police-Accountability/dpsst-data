@@ -40,7 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2023 | HBS28746 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
-| 1/17/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 2/21/2023 | HBS03039 | On-Duty PIT Refresher Training | Passed | 0.0 | 0.50 |
 | 1/17/2023 | HBS27173 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/17/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/17/2023 | HBS35775 | PREA  ADA Patrol | Passed | 0.0 | 1.00 |

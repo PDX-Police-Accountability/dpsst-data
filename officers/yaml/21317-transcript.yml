@@ -112,12 +112,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 1/11/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
-- date: 1/11/2023
   course: HBS04569
   title: De-Escalation Training
   status: Passed

@@ -41,7 +41,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/11/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 1/11/2023 | HBS04569 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/11/2023 | HBS32239 | DEI Training | Passed | 0.0 | 0.50 |
 | 10/4/2022 | HBS21565 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |

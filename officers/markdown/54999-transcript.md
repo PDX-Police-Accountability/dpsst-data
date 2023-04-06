@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/23/2023 | TDP44535 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
 | 3/13/2023 | HRS21669 | Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 3/13/2023 | HRS37498 | Officer Safety Refresher | Passed | 0.0 | 1.00 |
 | 2/28/2023 | HRS38986 | Legal Updates | Passed | 0.0 | 1.00 |
@@ -63,7 +64,7 @@
 | 5/1/2022 | HRS28518 | Firearms Qualification | Passed | 0.0 | 4.00 |
 | 4/26/2022 | HRS04075 | Basic First Aid/CPR  AED for Adult/Child/Infant | Passed | 0.0 | 4.00 |
 | 4/14/2022 | REG43884 | Field Training and Evluation Program | Passed | 0.0 | 24.00 |
-| 4/10/2022 | TDP35377 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
+| 4/10/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.50 |
 | 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |
 | 11/23/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/4/2021 | F6F07601 | Officer Safety | Passed | 0.0 | 1.00 |

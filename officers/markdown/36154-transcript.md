@@ -27,7 +27,6 @@
 | Certification Cards | First Aid and CPR | 1/13/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 4/2/2021 | 4/2/2023 |
 | Code of Ethics | Signed | 7/25/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/23/2023 | MFP39429 | MPD In-House III: Retirement Investment | Instructed | 0.0 | 1.00 |
 | 1/13/2023 | MFP18742 | First Aid/Adult  Child CPR/AED/Naloxone Use | Passed | 0.0 | 2.25 |
 | 1/13/2023 | MFP09917 | 2023 Annual Ethics Training | Passed | 0.0 | 3.00 |
 | 12/22/2022 | MFP26560 | MPD In-House II/-Profess. Development  Retirement | Instructed | 0.0 | 1.00 |

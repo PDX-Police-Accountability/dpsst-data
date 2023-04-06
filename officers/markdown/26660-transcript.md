@@ -22,7 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/30/2023 | Police Officer | Supervisory | App Recd |  |  |  |
+| 4/4/2023 | Police Officer | Supervisory | App InProc |  |  |  |
 | 4/13/2001 | Police Officer | Advanced | Granted | 4/13/2001 |  |  |
 | 2/22/1996 | Police Officer | Intermediate | Granted | 2/22/1996 |  |  |
 | 10/24/1994 | Police Officer | Basic | Granted | 10/24/1994 |  |  |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2023
+  course: OCS34493
+  title: FBI/LEEDA SLI
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
