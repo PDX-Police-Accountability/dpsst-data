@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/4/2023
+  course: BNP18548
+  title: On Duty Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/22/2023
   course: BNP23295
   title: Firearms/Handgun Course
@@ -4006,14 +4012,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/7/2023
   expiration_date: 2/7/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/7/2023
-  expiration_date: 2/7/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4022,14 +4020,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/6/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/6/2001

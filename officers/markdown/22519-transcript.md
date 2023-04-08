@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/1/2023 | Gresham Police Department | Retired | Sergeant |  |  |
 | 12/4/2017 | Gresham Police Department | Hired | Sergeant |  |  |
 | 11/20/2017 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 11/15/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -25,18 +26,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/1/2017 | Police Officer | Advanced | Granted | 11/1/2017 |  |  |
-| 11/1/2017 | Police Officer | Intermediate | Granted | 11/1/2017 |  |  |
-| 1/16/1993 | Police Officer | Basic | Granted | 1/16/1993 |  |  |
+| 4/1/2023 | Police Officer | Advanced | Lapsed | 11/1/2017 | 1/1/2028 |  |
+| 4/1/2023 | Police Officer | Basic | Lapsed | 1/16/1993 | 1/1/2028 |  |
+| 4/1/2023 | Police Officer | Intermediate | Lapsed | 11/1/2017 | 1/1/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | First Aid/CPR Required | 2/8/2023 | 2/8/2023 |
-| Maintenance Requirements | First Aid/CPR Required | 2/8/2023 | 2/8/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

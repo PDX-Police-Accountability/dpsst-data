@@ -24,12 +24,72 @@ certification_records:
   expiration_date: ''
   probation_date: 3/16/2023
 training_records:
+- date: 3/27/2023
+  course: PDP43677
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/20/2023
+  course: PDP00872
+  title: 2023 Microsoft Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/16/2023
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/13/2023
+  course: PDP14165
+  title: 2023 Microsoft Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/10/2023
+  course: PDP33827
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2023
+  course: PDP06854
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/15/2023
+  course: PDP09073
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/9/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/23/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/19/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/4/2023
+  course: PDP33753
+  title: 2022-3 TT Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/21/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

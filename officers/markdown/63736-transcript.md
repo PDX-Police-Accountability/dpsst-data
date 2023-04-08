@@ -32,6 +32,7 @@
 | 3/29/2023 | PDP30182 | 2020 CAO Don't Shoot PDX/Hernandez TRO (resend) | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP25919 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
 | 3/29/2023 | PDP41254 | 2021 Online In-Service Crime Victims' Rights | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP29998 | 2021 Judge Hernandez Don't Shoot Portland v. City | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP41612 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP28705 | 2020 Judge Hernandez TRO Don't Shoot PDX 6/2009 | Passed | 0.0 | 0.50 |
@@ -42,6 +43,7 @@
 | 3/22/2023 | PDP37388 | 2021 Online IS Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 3/22/2023 | PDP43115 | 2021 Online IS Language Access - LEP Testimonial | Passed | 0.0 | 0.25 |
 | 3/22/2023 | PDP22112 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 3/22/2023 | PDP14875 | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP30049 | 2018-3 TT Shooting Through Barriers | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP41920 | 2021 The Advanced SEND Protocol Video | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP42023 | 2019 External Training HQPT Introduction | Passed | 0.0 | 0.25 |
@@ -50,6 +52,12 @@
 | 3/17/2023 | PDP16492 | 2020 TOD Shots Fired Incident Reporting (SFIR) | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP21975 | 2021 Online IS Training Equity Trng - Preparation | Passed | 0.0 | 0.50 |
 | 3/17/2023 | PDP11031 | 2021 Online In-Service Training Mental Wellness | Passed | 0.0 | 1.25 |
+| 3/17/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 3/17/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 3/17/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 3/17/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 3/17/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 3/17/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP32725 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP01694 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP39320 | 2019 Chief's Office SPLC Hate Crimes | Passed | 0.0 | 0.25 |
@@ -59,7 +67,9 @@
 | 3/15/2023 | PDP00284 | 2019-1 TT External Vest Equipment Requirements | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP05336 | 2020 BHU Roles and Responsibilities on MH Calls | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDP36833 | 2020 Supervisor In-Service Crime Scene Management | Passed | 0.0 | 1.50 |
+| 3/15/2023 | PDP11082 | 2021-7 TT Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 3/14/2023 | PDP37674 | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
+| 3/14/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 2/23/2023 | PDP07079 | 2017-3 CAO Legal Updates for Q3 08/2017 | Passed | 0.0 | 0.25 |
 | 2/23/2023 | PDP34750 | 2017-3 CAO Legal Updates for Q3 7/2017 | Passed | 0.0 | 0.25 |
 | 2/23/2023 | PDP16519 | 2017-3 Legal Updates for Q3 | Passed | 0.0 | 0.50 |

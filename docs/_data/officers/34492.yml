@@ -74,6 +74,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/17/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/17/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/17/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/12/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

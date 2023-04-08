@@ -24,6 +24,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/29/2023
+  course: PDP00872
+  title: 2023 Microsoft Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/11/2023
+  course: PDP06854
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/3/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/3/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/3/2023
+  course: PDP09073
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/28/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/13/2023
+  course: PDP33827
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/9/2023
   course: PDP02039
   title: 'SERT: Iteration Control Tactics'
@@ -48,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/9/2023
+  course: PDP44838
+  title: 2022-2 In Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 1/4/2023
   course: PDP11588
   title: 2022-3 Range Qualification AR-15 Qual (20 Yard)
@@ -60,6 +108,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/4/2023
+  course: PDP06073
+  title: 2022-2 In Service ABLE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/4/2023
+  course: PDP37987
+  title: 2022-2 IS MH Crisis / Intervention Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/4/2023
+  course: PDP42506
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/2/2023
+  course: PDP36622
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP17613
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP26221
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP28174
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2023
+  course: PDP12602
+  title: 2022 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/2/2023
+  course: PDP26192
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2023
+  course: PDP37654
+  title: 2022-11 EO Clarification DIR 1010.00  1015.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP33753
+  title: 2022-3 TT Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/2/2023
+  course: PDP29729
+  title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/2/2023
+  course: PDP31352
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/18/2022
   course: PDP25844
   title: 'SERT Training: Iteration for test applicants'

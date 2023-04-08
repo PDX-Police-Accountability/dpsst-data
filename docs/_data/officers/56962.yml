@@ -34,13 +34,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/4/2023
+- status_date: 4/5/2023
   certificate: Parole  Probation Officer
   level: Basic
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 4/5/2023
   expiration_date: ''
-  probation_date: 9/19/2023
+  probation_date: ''
 - status_date: 6/7/2019
   certificate: Corrections Officer
   level: Basic

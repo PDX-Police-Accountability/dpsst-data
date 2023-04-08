@@ -24,12 +24,108 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/28/2023
+  course: PDP38486
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/24/2023
+  course: PDP04838
+  title: 2023 Microsoft Cloud Storage w/ OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2023
+  course: PDP14165
+  title: 2023 Microsoft Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2023
+  course: PDP23023
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/24/2023
+  course: PDP29122
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/24/2023
+  course: PDP40514
+  title: 2023 Microsoft Outlook Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2023
+  course: PDP38288
+  title: 2023 Microsoft PowerPoint Online Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2023
+  course: PDP40178
+  title: 2023 Microsoft Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2023
+  course: PDP00872
+  title: 2023 Microsoft Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/5/2023
+  course: PDP33827
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2023
+  course: PDP06854
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/10/2023
+  course: PDP09073
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/2/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/2/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/6/2023
+  course: PDP42753
+  title: '2022 Respiratory Protection: Yearly Screening'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/15/2022
   course: PDP03449
   title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)

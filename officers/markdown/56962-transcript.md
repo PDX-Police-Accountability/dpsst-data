@@ -19,7 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/4/2023 | Parole  Probation Officer | Basic | App InProc |  |  | 9/19/2023 |
+| 4/5/2023 | Parole  Probation Officer | Basic | Granted | 4/5/2023 |  |  |
 | 6/7/2019 | Corrections Officer | Basic | Granted | 6/7/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

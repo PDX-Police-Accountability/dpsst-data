@@ -36,6 +36,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 2/27/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/27/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/3/2023
   course: PDP42463
   title: 2021 Training New Pistol Qualification

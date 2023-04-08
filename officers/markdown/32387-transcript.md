@@ -21,10 +21,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/20/2023 | Corrections Officer | Advanced | Expired | 11/3/2004 |  |  |
+| 3/20/2023 | Corrections Officer | Basic | Expired | 1/8/1999 |  |  |
+| 3/20/2023 | Corrections Officer | Intermediate | Expired | 1/15/2002 |  |  |
 | 6/30/2021 | Instructor |  | Expired | 6/11/2018 |  |  |
-| 6/20/2018 | Corrections Officer | Advanced | Lapsed | 11/3/2004 | 3/20/2023 |  |
-| 6/20/2018 | Corrections Officer | Basic | Lapsed | 1/8/1999 | 3/20/2023 |  |
-| 6/20/2018 | Corrections Officer | Intermediate | Lapsed | 1/15/2002 | 3/20/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -34,6 +34,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/5/2023
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/5/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 1/2/2014
   certificate: Police Officer
   level: Basic
@@ -48,12 +62,78 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/15/2023
+  course: PDP33827
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/14/2023
+  course: PDP06854
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/14/2023
+  course: PDP09073
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/1/2023
+  course: PDP13406
+  title: 2022 EAP-Crisis Planning
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/1/2023
+  course: PDP32607
+  title: 2022 Vocabulary in the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/1/2023
+  course: PDP34725
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/1/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/1/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/11/2023
+  course: PDP42753
+  title: '2022 Respiratory Protection: Yearly Screening'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/11/2023
+  course: PDP33753
+  title: 2022-3 TT Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/13/2022
   course: PDP14548
   title: 2022 Supervisor In-Service After Action Reporting
@@ -3413,14 +3493,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/27/2021
-  expiration_date: 5/27/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/27/2021
@@ -3429,21 +3501,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/23/2012
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

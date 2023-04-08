@@ -12,13 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/28/2023 | Hillsboro Police Department | Resigned | Police Off |  |  |
 | 1/30/2023 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 7/23/2020 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/23/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/30/2023 | Police Officer | Basic | Required |  |  | 7/30/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

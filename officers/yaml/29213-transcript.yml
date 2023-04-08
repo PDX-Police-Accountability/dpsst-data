@@ -56,6 +56,36 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/30/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/30/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/30/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP42753
+  title: '2022 Respiratory Protection: Yearly Screening'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP33753
+  title: 2022-3 TT Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/8/2022
   course: PDP44436
   title: 2022 Post Shooting Response
@@ -3422,14 +3452,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -3437,14 +3459,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/31/2021
   expiration_date: 5/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/31/2021
-  expiration_date: 5/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/16/2014
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/16/2014

@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/2/2023 | PDP37800 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
 | 12/27/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 12/27/2022 | PDP42710 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

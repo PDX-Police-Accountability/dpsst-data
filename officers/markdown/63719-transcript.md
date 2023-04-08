@@ -35,6 +35,10 @@
 | 3/17/2023 | PDP41254 | 2021 Online In-Service Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP37388 | 2021 Online IS Language Access - LanguageLine | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP44521 | 2021 Online In-Service Training Chicago Case Study | Passed | 0.0 | 0.25 |
+| 3/17/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 3/17/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 3/17/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 3/17/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP01694 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP39320 | 2019 Chief's Office SPLC Hate Crimes | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP29889 | 2019 CHO SPLC LE Response to Hate Events | Passed | 0.0 | 0.25 |
@@ -42,3 +46,9 @@
 | 3/15/2023 | PDP30034 | 2019 CHO SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP14689 | 2019 Chief's Office SPLC The Rise of the Lone Wolf | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP25621 | 2020 City of Portland Bloodborne Pathogens | Passed | 0.0 | 0.75 |
+| 3/15/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 3/15/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 3/15/2023 | PDP34390 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 3/15/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 3/15/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 3/7/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

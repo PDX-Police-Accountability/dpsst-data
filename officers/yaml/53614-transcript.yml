@@ -54,6 +54,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/29/2023
+  course: PDP12472
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2023
+  course: PDP43677
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/10/2023
+  course: PDP14165
+  title: 2023 Microsoft Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -2495,14 +2513,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/16/2021
-  expiration_date: 8/16/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/16/2021
@@ -2511,14 +2521,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/10/2014
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/10/2014

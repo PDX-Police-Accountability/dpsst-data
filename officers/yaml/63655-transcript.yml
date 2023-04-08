@@ -36,6 +36,36 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 3/27/2023
+  course: PDP43677
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/27/2023
+  course: PDP23023
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2023
+  course: PDP29122
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2023
+  course: PDP12472
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/20/2023
+  course: PDP04838
+  title: 2023 Microsoft Cloud Storage w/ OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/3/2023
   course: PDP42463
   title: 2021 Training New Pistol Qualification

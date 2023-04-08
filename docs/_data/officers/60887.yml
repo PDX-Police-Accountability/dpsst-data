@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/28/2023
+  agency: Hillsboro Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/30/2023
   agency: Hillsboro Police Department
   action: Hired
@@ -27,14 +33,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 1/30/2023
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 7/30/2024
+certification_records: []
 training_records:
 - date: 6/12/2023
   course: M10-23A

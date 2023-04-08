@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/4/2023
+  course: BNP18548
+  title: On Duty Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/4/2023
   course: BNP02810
   title: Stop Stick Training

@@ -36,6 +36,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/8/2023
+  course: PDP42753
+  title: '2022 Respiratory Protection: Yearly Screening'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/8/2023
+  course: PDP33753
+  title: 2022-3 TT Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/23/2022
   course: PDP36927
   title: 2022-5 CAO Legal Updates for 05/2022

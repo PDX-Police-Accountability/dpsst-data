@@ -36,6 +36,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/14/2023
+  course: PDP38288
+  title: 2023 Microsoft PowerPoint Online Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/8/2023
+  course: PDP14165
+  title: 2023 Microsoft Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/8/2023
+  course: PDP00872
+  title: 2023 Microsoft Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/7/2023
+  course: PDP40514
+  title: 2023 Microsoft Outlook Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/21/2023
+  course: PDP06854
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/17/2023
+  course: PDP33827
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/10/2023
+  course: PDP09073
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -48,6 +90,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/31/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/31/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/31/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/26/2023
   course: PDP03900
   title: SERT Training - Clearing
@@ -3807,18 +3867,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/1/2021
@@ -3826,14 +3874,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/23/2012
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

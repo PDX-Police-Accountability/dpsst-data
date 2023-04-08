@@ -30,6 +30,96 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/25/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP06764
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP32607
+  title: 2022 Vocabulary in the LGBTQIA2S+
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP34390
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP22442
+  title: 2022 Queer Policy Pronouns
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP15595
+  title: 2022 Queer Policy - Policy Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP28991
+  title: 2022-1 TT Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/25/2023
+  course: PDP29729
+  title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/25/2023
+  course: PDP09073
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/20/2023
+  course: PDP36622
+  title: 2022 DIR 835.20 Managing Public Spaces
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/20/2023
+  course: PDP17613
+  title: 2022 MCDA Probable Cause Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/20/2023
+  course: PDP26221
+  title: 2022 Voice Record Pro App
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/20/2023
+  course: PDP28174
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/20/2023
+  course: PDP06854
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/19/2023
   course: PDP17039
   title: 2021 Online In-Service Procedural Justice
@@ -42,12 +132,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/19/2023
+  course: PDP34725
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/19/2023
+  course: PDP14875
+  title: 2021-6 TT Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/18/2023
   course: PDP15755
   title: 2021 Online IS Language Access - Translation
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/18/2023
+  course: PDP26192
+  title: 2022 Post Shooting Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/6/2023
   course: PDP26182
   title: 2019-4 TT Emailing Security Reports
@@ -60,9 +168,63 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/6/2023
+  course: PDP21833
+  title: 2021-10 CAO Legal Updates for 10/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2023
+  course: PDP44972
+  title: 2021-11 CAO Legal Updates for 11/2021
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2023
+  course: PDP02850
+  title: 2022-1- CAO Legal Updates for 1/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2023
+  course: PDP02624
+  title: 2022-2 CAO Legal Updates for 2/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2023
+  course: PDP11914
+  title: 2022-3 CAO Legal Updates for 3/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2023
+  course: PDP33753
+  title: 2022-3 TT Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/6/2023
+  course: PDP21366
+  title: 2022-4 CAO Legal Updates for 4/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/6/2023
+  course: PDP31260
+  title: 2022-5 CAO Legal Updates for 5/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/2/2023
   course: PDP36446
   title: 2020-10 CAO Legal Updates for 10/2020
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/28/2023
+  course: PDP33827
+  title: 2022-12 CAO Case Law Updates for 12/2022
   status: Passed
   score: '0.0'
   hours: '0.25'

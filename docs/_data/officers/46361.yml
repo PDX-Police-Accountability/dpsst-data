@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/4/2023
+  course: PDP27317
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/8/2022
   course: PDP42892
   title: CPR/First Aid

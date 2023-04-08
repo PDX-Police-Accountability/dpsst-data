@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/2/2023
+  course: PDP37800
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/29/2022
   course: PDP03615
   title: RADAR/ LiDAR Operator Training

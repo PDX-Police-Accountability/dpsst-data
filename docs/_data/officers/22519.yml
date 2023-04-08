@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/1/2023
+  agency: Gresham Police Department
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 12/4/2017
   agency: Gresham Police Department
   action: Hired
@@ -70,26 +76,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 11/1/2017
+- status_date: 4/1/2023
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 11/1/2017
-  expiration_date: ''
+  expiration_date: 1/1/2028
   probation_date: ''
-- status_date: 11/1/2017
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 11/1/2017
-  expiration_date: ''
-  probation_date: ''
-- status_date: 1/16/1993
+- status_date: 4/1/2023
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 1/16/1993
-  expiration_date: ''
+  expiration_date: 1/1/2028
+  probation_date: ''
+- status_date: 4/1/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 11/1/2017
+  expiration_date: 1/1/2028
   probation_date: ''
 training_records:
 - date: 7/1/2022
@@ -3014,29 +3020,5 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '280.00'
-attribute_records:
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 2/8/2023
-  expiration_date: 2/8/2023
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 2/8/2023
-  expiration_date: 2/8/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+attribute_records: []
 education_records: []

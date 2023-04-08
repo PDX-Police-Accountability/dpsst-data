@@ -49,6 +49,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 2/23/2023
+  course: PSU27983
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/13/2023
   course: PSU43381
   title: Defensive Tactics

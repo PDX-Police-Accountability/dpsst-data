@@ -36,12 +36,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 8/6/2001 |  |
 | Code of Ethics | Signed | 8/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 4/4/2023 | BNP18548 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/22/2023 | BNP23295 | Firearms/Handgun Course | Passed | 0.0 | 1.00 |
 | 3/7/2023 | BNP14734 | Vehicle Placement | Passed | 0.0 | 0.30 |
 | 2/7/2023 | BNP08089 | First Aid / CPR | Passed | 0.0 | 2.00 |

@@ -42,6 +42,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/18/2023
+  course: PDP43677
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/18/2023
+  course: PDP14165
+  title: 2023 Microsoft Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/18/2023
+  course: PDP23023
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2023
+  course: PDP29122
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/18/2023
+  course: PDP40178
+  title: 2023 Microsoft Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/18/2023
+  course: PDP12472
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -54,6 +90,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 1/13/2023
+  course: PDP35372
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2023
+  course: PDP27304
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP42753
+  title: '2022 Respiratory Protection: Yearly Screening'
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP30154
+  title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/22/2022
   course: PDP03449
   title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
@@ -3912,14 +3972,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -3927,14 +3979,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/4/2021
   expiration_date: 6/4/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/4/2021
-  expiration_date: 6/4/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 8/30/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 8/30/2007

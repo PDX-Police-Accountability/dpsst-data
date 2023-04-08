@@ -28,12 +28,31 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/14/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 3/14/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
+| 3/9/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 3/6/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
+| 3/6/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
+| 3/6/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 2/6/2023 | PDP26182 | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP43532 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP13113 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |
 | 2/6/2023 | PDP39297 | 2021-1 CAO Legal Updates for 01/2021 | Passed | 0.0 | 0.50 |
 | 2/6/2023 | PDP25517 | 2021-2 CAO Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP18633 | 2021-6 CAO Legal Updates for 6/2021 | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP37800 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 2/6/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 2/6/2023 | PDP26115 | 2021-11 TT Unlawful Street Takeovers or Staging | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 2/6/2023 | PDP11914 | 2022-3 CAO Legal Updates for 3/2022 | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
+| 2/6/2023 | PDP21366 | 2022-4 CAO Legal Updates for 4/2022 | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |

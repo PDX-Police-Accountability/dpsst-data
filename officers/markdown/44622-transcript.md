@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
-| Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
-| Code of Ethics | Signed | 1/23/2006 |  |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2023 | OSH21606 | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 3/3/2023 | OSH42689 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/3/2023 | OSH08737 | Shotguns | Instructed | 0.0 | 1.00 |
 | 2/17/2023 | OSH44015 | Firearms 1st Tri | Instructed | 0.0 | 4.00 |

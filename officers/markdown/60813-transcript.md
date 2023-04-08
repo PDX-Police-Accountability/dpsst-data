@@ -36,11 +36,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2023 | OSH28127 | First Aid | Passed | 0.0 | 5.50 |
+| 4/4/2023 | OSH41082 | Naloxone/ Narcan | Passed | 0.0 | 0.50 |
+| 4/4/2023 | OSH32262 | Adult/Child CPR | Passed | 0.0 | 6.00 |
 | 3/21/2023 | OSH11990 | VERBAL JUDO LATERAL -TACTICAL COMMUNICATION COURSE | Passed | 0.0 | 24.00 |
 | 3/17/2023 | OSH37919 | Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 3/17/2023 | OSH38968 | First Aid | Passed | 0.0 | 3.50 |
 | 3/17/2023 | OSH28073 | Naloxone/ Narcan | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 1/20/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 1/20/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
+| 1/20/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 12/11/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/11/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/11/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

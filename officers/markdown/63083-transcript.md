@@ -32,9 +32,30 @@
 | 3/30/2023 | PDP30204 | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP26182 | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP22112 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 3/30/2023 | PDP14875 | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 3/30/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP44989 | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP15755 | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP06764 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 3/29/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP44972 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP12602 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 3/29/2023 | PDP34390 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP02850 | 2022-1- CAO Legal Updates for 1/2022 | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP02624 | 2022-2 CAO Legal Updates for 2/2022 | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP11914 | 2022-3 CAO Legal Updates for 3/2022 | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP21366 | 2022-4 CAO Legal Updates for 4/2022 | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
+| 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 3/29/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 3/2/2023 | REG00018 | DID/SFST | Passed | 0.0 | 24.00 |
 | 2/20/2023 | BPT31690 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 1/26/2023 | REG17417 | INTOX 8000 | Passed | 0.0 | 6.00 |
