@@ -38,6 +38,7 @@
 | 3/23/2023 | MFP39429 | MPD In-House III: Retirement Investment | Instructed | 0.0 | 1.00 |
 | 1/13/2023 | MFP18742 | First Aid/Adult  Child CPR/AED/Naloxone Use | Passed | 0.0 | 2.25 |
 | 1/13/2023 | MFP09917 | 2023 Annual Ethics Training | Passed | 0.0 | 3.00 |
+| 12/31/2022 | MFP03773 | Lexipol Daily Training Bulletins: May-Dec. 2022 | Passed | 0.0 | 16.00 |
 | 12/22/2022 | MFP26560 | MPD In-House II/-Profess. Development  Retirement | Instructed | 0.0 | 1.00 |
 | 12/14/2022 | MFP35295 | MPD In-House Academy II: Livability Team | Instructed | 0.0 | 1.50 |
 | 12/2/2022 | MFP25974 | TIU Updates  Forefeiture | Passed | 0.0 | 2.00 |

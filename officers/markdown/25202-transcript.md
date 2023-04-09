@@ -31,6 +31,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/8/2023 | PDS11734 | Policy Update / Use of Force Review | Passed | 0.0 | 2.00 |
 | 2/18/2023 | PDS00756 | TacMed | Passed | 0.0 | 4.00 |
+| 2/18/2023 | PDS09543 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 1/13/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/30/2022 | PDS08867 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |

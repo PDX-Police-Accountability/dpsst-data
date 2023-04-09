@@ -42,6 +42,9 @@
 | 3/30/2023 | PDP21366 | 2022-4 CAO Legal Updates for 4/2022 | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP42869 | DIR 660.10 Property  Evidence Proc/2018-5 TT | Passed | 0.0 | 0.50 |
+| 3/30/2023 | PDP28137 | DIR 0910.00 Use of Force Reporting, Review | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP15755 | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP17039 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 3/29/2023 | PDP22112 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
@@ -56,10 +59,16 @@
 | 3/29/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/27/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 3/24/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP22442 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |

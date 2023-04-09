@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/29/2023
+  course: PDP00863
+  title: OSU SOP009 Appendix A. Modified Duty Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/20/2023
   course: 23-0026
   title: DPSST Middle Management

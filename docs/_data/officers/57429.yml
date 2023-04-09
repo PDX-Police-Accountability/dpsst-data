@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/25/2023
+  course: PDP34377
+  title: DIR 640.38  Interacting w/ Members of the LGBTQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/18/2023
   course: PDP13406
   title: 2022 EAP-Crisis Planning

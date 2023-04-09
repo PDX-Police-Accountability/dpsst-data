@@ -19,8 +19,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/5/2023 | Police Officer | Advanced | App Recd |  |  |  |
-| 4/5/2023 | Police Officer | Intermediate | App Recd |  |  |  |
+| 4/7/2023 | Police Officer | Advanced | App InProc |  |  |  |
+| 4/7/2023 | Police Officer | Intermediate | App InProc |  |  |  |
 | 1/2/2014 | Police Officer | Basic | Granted | 1/2/2014 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -48,8 +48,10 @@
 | 2/1/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/1/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/1/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/16/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/11/2023 | PDP42753 | 2022 Respiratory Protection: Yearly Screening | Passed | 0.0 | 0.25 |
 | 1/11/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
+| 1/11/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/13/2022 | PDP14548 | 2022 Supervisor In-Service After Action Reporting | Passed | 0.0 | 1.25 |
 | 12/13/2022 | PDP24839 | 2022 Supervisor In-Service Critical Incdt. Mngmt | Passed | 0.0 | 2.75 |
 | 12/13/2022 | PDP12643 | 2022 Supervisor In-Service PSD/IA | Passed | 0.0 | 2.50 |

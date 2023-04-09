@@ -98,6 +98,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/14/2023
+  course: PDP28137
+  title: DIR 0910.00 Use of Force Reporting, Review
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/14/2023
+  course: PDP11408
+  title: DIR 1010.00 Use of Force (effective 11/15/2022)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/14/2023
+  course: PDP40925
+  title: DIR 015.00 Less Lethal Weapons  Tools
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/13/2023
   course: PDP37800
   title: 2022 HB 2513 Airways
@@ -125,6 +143,24 @@ training_records:
 - date: 3/13/2023
   course: PDP30154
   title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/13/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/13/2023
+  course: PDP00704
+  title: City of Portland Bloodborne Pathogen
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -179,6 +215,36 @@ training_records:
 - date: 3/8/2023
   course: PDP29729
   title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/8/2023
+  course: PDP23944
+  title: DIR 0850.20 Police Response to MH Crisis
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/8/2023
+  course: PDP15388
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/8/2023
+  course: PDP15132
+  title: DIR 0850.21 Peace Officer Custody (Civil)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/8/2023
+  course: PDP15039
+  title: DIR 0850.22 Police Response to MH Director Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/8/2023
+  course: PDP11246
+  title: DIR 0850.25 Police Response to MH Facilities
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -251,6 +317,12 @@ training_records:
 - date: 3/7/2023
   course: PDP27304
   title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/7/2023
+  course: PDP32925
+  title: OIS Supervisor Checklist
   status: Passed
   score: '0.0'
   hours: '0.25'

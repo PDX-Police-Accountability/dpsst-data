@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/27/2023
+  course: EGP42322
+  title: Police Motorcycle Trng, Braking / Cornering
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/9/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -125,6 +131,12 @@ training_records:
 - date: 1/13/2023
   course: PDP30154
   title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/13/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -39,6 +39,7 @@
 | 3/17/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/17/2023 | PDP20870 | OSU Modified Duty  Cold Call-Taking Trng | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP01694 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP39320 | 2019 Chief's Office SPLC Hate Crimes | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP29889 | 2019 CHO SPLC LE Response to Hate Events | Passed | 0.0 | 0.25 |
@@ -51,4 +52,5 @@
 | 3/15/2023 | PDP34390 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 3/8/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

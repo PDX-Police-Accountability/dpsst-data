@@ -38,6 +38,10 @@
 | 3/30/2023 | PDP29729 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/30/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP42869 | DIR 660.10 Property  Evidence Proc/2018-5 TT | Passed | 0.0 | 0.50 |
+| 3/30/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP26182 | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP44989 | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP15755 | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
@@ -53,6 +57,8 @@
 | 3/29/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP00704 | City of Portland Bloodborne Pathogen | Passed | 0.0 | 1.00 |
+| 3/29/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |

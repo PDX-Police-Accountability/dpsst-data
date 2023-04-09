@@ -46,6 +46,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/29/2022 | PDS20641 | In our own voice for law enforcement | Passed | 0.0 | 1.50 |
+| 11/29/2022 | PDS12425 | In our own voice for law enforcement | Passed | 0.0 | 1.50 |
 | 11/23/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 11/23/2022 | PDS36628 | PREA | Passed | 0.0 | 1.00 |
 | 8/4/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |

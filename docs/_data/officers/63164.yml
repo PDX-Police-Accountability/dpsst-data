@@ -54,6 +54,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/30/2023
+  course: PDP42869
+  title: DIR 660.10 Property  Evidence Proc/2018-5 TT
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/30/2023
+  course: PDP28137
+  title: DIR 0910.00 Use of Force Reporting, Review
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/30/2023
+  course: PDP11408
+  title: DIR 1010.00 Use of Force (effective 11/15/2022)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/29/2023
   course: PDP26182
   title: 2019-4 TT Emailing Security Reports
@@ -180,6 +198,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/29/2023
+  course: PDP11246
+  title: DIR 0850.25 Police Response to MH Facilities
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/29/2023
+  course: PDP00704
+  title: City of Portland Bloodborne Pathogen
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/29/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/29/2023
+  course: PDP23944
+  title: DIR 0850.20 Police Response to MH Crisis
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/29/2023
+  course: PDP15132
+  title: DIR 0850.21 Peace Officer Custody (Civil)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/29/2023
+  course: PDP15039
+  title: DIR 0850.22 Police Response to MH Director Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/29/2023
+  course: PDP40925
+  title: DIR 015.00 Less Lethal Weapons  Tools
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/29/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/27/2023
   course: PDP15755
   title: 2021 Online IS Language Access - Translation
@@ -204,6 +270,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/25/2023
+  course: PDP32925
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/24/2023
   course: PDP36446
   title: 2020-10 CAO Legal Updates for 10/2020
@@ -276,6 +348,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/24/2023
+  course: PDP15388
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/10/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

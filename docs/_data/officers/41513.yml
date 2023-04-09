@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/18/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/11/2023
   course: PDP29951
   title: 2023 CNT Crisis Negotiation Team Annual Training

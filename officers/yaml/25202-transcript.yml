@@ -53,6 +53,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/18/2023
+  course: PDS09543
+  title: Benchmark Analytics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/8/2023
   course: PDS20684
   title: Adult Protective Services Overview

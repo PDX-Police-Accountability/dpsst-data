@@ -114,6 +114,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/16/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/13/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -1235,10 +1241,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/4/2023
   expiration_date: 4/4/2025
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 2/8/2023
-  expiration_date: 2/8/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

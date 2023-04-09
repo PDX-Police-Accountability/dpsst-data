@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/30/2023 | PDP11408 | DIR 1010.00 Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP26182 | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP44989 | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
@@ -50,6 +51,12 @@
 | 3/29/2023 | PDP29729 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP00704 | City of Portland Bloodborne Pathogen | Passed | 0.0 | 1.00 |
+| 3/29/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP02850 | 2022-1- CAO Legal Updates for 1/2022 | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 3/25/2023 | PDP44972 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
@@ -60,6 +67,7 @@
 | 3/25/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 3/25/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP22442 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
+| 3/24/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 3/23/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

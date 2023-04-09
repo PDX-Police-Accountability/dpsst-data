@@ -39,6 +39,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/27/2023 | PDP44405 | 2020 Managing Critical Incidents Well Sgts Role | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP37060 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 3/27/2023 | PDP41950 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 3/27/2023 | PDP43648 | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.25 |
+| 3/27/2023 | PDP37104 | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.25 |
+| 3/27/2023 | PDP09671 | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.25 |
 | 3/16/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/16/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/16/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
@@ -55,6 +59,7 @@
 | 1/16/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/16/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/16/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/11/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/13/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/13/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

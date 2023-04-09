@@ -152,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/1/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/20/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -182,6 +188,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/4/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/31/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

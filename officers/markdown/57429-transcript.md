@@ -40,6 +40,7 @@
 | 1/25/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/25/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/25/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/25/2023 | PDP34377 | DIR 640.38  Interacting w/ Members of the LGBTQ | Passed | 0.0 | 0.25 |
 | 1/18/2023 | PDP13406 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 1/18/2023 | PDP32607 | 2022 Vocabulary in the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
 | 1/9/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

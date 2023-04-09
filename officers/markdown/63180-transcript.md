@@ -41,6 +41,7 @@
 | 3/30/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 3/30/2023 | PDP42869 | DIR 660.10 Property  Evidence Proc/2018-5 TT | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP34390 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP22442 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
@@ -51,6 +52,7 @@
 | 3/27/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 3/27/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 3/2/2023 | REG00018 | DID/SFST | Passed | 0.0 | 24.00 |
 | 2/20/2023 | BPT31690 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 2/18/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

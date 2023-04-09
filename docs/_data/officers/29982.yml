@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/3/2023
+  agency: Silverton Police Department
+  action: Promotion
+  rank: Captain
+  classification: ''
+  assignment: ''
 - date: 9/20/2021
   agency: Silverton Police Department
   action: Hired
@@ -63,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2024
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 3/16/2023
   course: VND34914
   title: 'OEDI Annual Session #34 - Leadership'

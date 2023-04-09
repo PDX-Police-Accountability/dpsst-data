@@ -54,6 +54,8 @@
 | 2/21/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/21/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/21/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 2/21/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 2/21/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP13406 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP32607 | 2022 Vocabulary in the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
@@ -64,6 +66,15 @@
 | 2/20/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 2/20/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP28137 | DIR 0910.00 Use of Force Reporting, Review | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP11408 | DIR 1010.00 Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 5/13/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/13/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/13/2022 | PDP39583 | 2022-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

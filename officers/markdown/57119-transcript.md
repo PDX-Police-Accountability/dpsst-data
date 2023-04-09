@@ -48,6 +48,7 @@
 | 1/21/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/21/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/21/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/12/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 12/21/2022 | PDP05863 | 2020 Managing Critical Incidents Well Sgts Role | Passed | 0.0 | 0.25 |
 | 12/21/2022 | PDP42302 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
 | 12/21/2022 | PDP18902 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |

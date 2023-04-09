@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2023 | TAP15718 | Evidence HTPC Procedures and Submittals | Passed | 0.0 | 1.00 |
+| 2/22/2023 | TAP17890 | JacksonCountyMHEarlyAssessmentandSupportAlliance | Passed | 0.0 | 1.00 |
 | 2/17/2023 | ADP29249 | Defensive Tactics Training | Passed | 0.0 | 3.00 |
 | 1/26/2023 | BPT43048 | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 1/23/2023 | BPT40820 | Instructor Core | Passed | 0.0 | 2.00 |

@@ -59,6 +59,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/3/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/26/2023
   course: PDP17039
   title: 2021 Online In-Service Procedural Justice
@@ -248,6 +254,48 @@ training_records:
 - date: 2/25/2023
   course: PDP30154
   title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/25/2023
+  course: PDP00704
+  title: City of Portland Bloodborne Pathogen
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2023
+  course: PDP23944
+  title: DIR 0850.20 Police Response to MH Crisis
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/25/2023
+  course: PDP15388
+  title: AXON CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/25/2023
+  course: PDP15132
+  title: DIR 0850.21 Peace Officer Custody (Civil)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/25/2023
+  course: PDP15039
+  title: DIR 0850.22 Police Response to MH Director Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/25/2023
+  course: PDP11246
+  title: DIR 0850.25 Police Response to MH Facilities
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/25/2023
+  course: PDP32925
+  title: OIS Supervisor Checklist
   status: Passed
   score: '0.0'
   hours: '0.25'

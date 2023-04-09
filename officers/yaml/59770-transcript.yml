@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/17/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/3/2023
   course: PDP42753
   title: '2022 Respiratory Protection: Yearly Screening'
@@ -114,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/3/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/29/2022
   course: PDP34680
   title: SERT Scenario Training

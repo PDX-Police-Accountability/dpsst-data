@@ -145,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/12/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/11/2023
   course: PDP09073
   title: 2023 Terminator Tire Deflation Device

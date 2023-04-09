@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2023
+  course: BBP03226
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/28/2023
   course: BBP02130
   title: Firearms Training/Qualification

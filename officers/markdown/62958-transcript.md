@@ -53,6 +53,13 @@
 | 2/6/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |

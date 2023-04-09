@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/18/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/22/2022
   course: PDP30625
   title: SERT Firearms Drills

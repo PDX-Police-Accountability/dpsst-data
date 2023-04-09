@@ -54,6 +54,8 @@
 | 1/17/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/3/2023 | PDP42753 | 2022 Respiratory Protection: Yearly Screening | Passed | 0.0 | 0.25 |
 | 1/3/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
+| 1/3/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 1/3/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/13/2022 | PDP14548 | 2022 Supervisor In-Service After Action Reporting | Passed | 0.0 | 1.25 |
 | 12/13/2022 | PDP24839 | 2022 Supervisor In-Service Critical Incdt. Mngmt | Passed | 0.0 | 2.75 |
 | 12/13/2022 | PDP12643 | 2022 Supervisor In-Service PSD/IA | Passed | 0.0 | 2.50 |

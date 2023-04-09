@@ -132,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/8/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/18/2022
   course: PDP10923
   title: Oregon Ballot Measure 114
@@ -1283,10 +1289,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/4/2023
   expiration_date: 4/4/2025
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 2/8/2023
-  expiration_date: 2/8/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

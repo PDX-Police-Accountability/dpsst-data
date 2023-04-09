@@ -38,8 +38,12 @@
 | 2/7/2023 | PDP28174 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 2/7/2023 | PDP26221 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 2/6/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 1/31/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 1/28/2023 | PDP28137 | DIR 0910.00 Use of Force Reporting, Review | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP36622 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 1/24/2023 | PDP42869 | DIR 660.10 Property  Evidence Proc/2018-5 TT | Passed | 0.0 | 0.50 |
 | 1/22/2023 | PDP12355 | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 1/22/2023 | PDP30204 | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 1/22/2023 | PDP22112 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
@@ -47,10 +51,18 @@
 | 1/22/2023 | PDP28991 | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 1/22/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
 | 1/22/2023 | PDP29729 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 1/22/2023 | PDP34377 | DIR 640.38  Interacting w/ Members of the LGBTQ | Passed | 0.0 | 0.25 |
+| 1/22/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP22442 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/7/2023 | PDP15755 | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
+| 1/7/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
+| 1/7/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
+| 1/7/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
+| 1/7/2023 | PDP11408 | DIR 1010.00 Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 1/7/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 1/7/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
 | 1/4/2023 | PDP13406 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 1/4/2023 | PDP06764 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 1/4/2023 | PDP32607 | 2022 Vocabulary in the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
@@ -93,6 +105,8 @@
 | 12/31/2022 | PDP21366 | 2022-4 CAO Legal Updates for 4/2022 | Passed | 0.0 | 0.25 |
 | 12/31/2022 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
 | 12/31/2022 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 12/31/2022 | PDP00704 | City of Portland Bloodborne Pathogen | Passed | 0.0 | 1.00 |
+| 12/31/2022 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/29/2022 | PDP12047 | FTEP Orientation | Passed | 0.0 | 6.00 |
 | 11/23/2022 | PDP38236 | CEW Training  Certification | Passed | 0.0 | 7.00 |
 | 11/23/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

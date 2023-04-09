@@ -122,6 +122,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/14/2023
+  course: PDP41950
+  title: HR Rule 2.02 Prohibition Against Wrkplc Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/14/2023
+  course: PDP43648
+  title: UDAR Guide - Approving (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/14/2023
+  course: PDP37104
+  title: UDAR Guide - Coaches Pay (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/14/2023
+  course: PDP09671
+  title: UDAR Guide - Requesting (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/26/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

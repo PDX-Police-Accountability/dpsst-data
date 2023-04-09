@@ -49,7 +49,13 @@
 | 2/2/2023 | PDP44405 | 2020 Managing Critical Incidents Well Sgts Role | Passed | 0.0 | 0.25 |
 | 2/2/2023 | PDP13960 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
 | 2/2/2023 | PDP37060 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP41950 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 2/2/2023 | PDP43648 | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.25 |
+| 2/2/2023 | PDP37104 | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.25 |
+| 2/2/2023 | PDP09671 | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.25 |
+| 1/14/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/8/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
+| 1/8/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/29/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/7/2022 | PDP36927 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 12/5/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

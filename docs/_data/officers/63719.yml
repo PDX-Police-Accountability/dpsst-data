@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/17/2023
+  course: PDP20870
+  title: OSU Modified Duty  Cold Call-Taking Trng
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/15/2023
   course: PDP01694
   title: 2019 Chief's Office SPLC Aryan Prison Gangs
@@ -174,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/8/2023
+  course: PDP07695
+  title: DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/7/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording

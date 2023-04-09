@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2023 | PDS00726 | SWAT Firearms Training | Passed | 0.0 | 8.00 |
+| 3/23/2023 | PDS38367 | SWAT practical training | Passed | 0.0 | 4.00 |
 | 3/15/2023 | PDS04555 | Firearms Training | Instructed | 0.0 | 5.00 |
 | 2/28/2023 | PDS13997 | Firearms Instructor Development Course | Passed | 0.0 | 5.00 |
 | 2/22/2023 | PDS44317 | SWAT Firearms | Passed | 0.0 | 8.00 |

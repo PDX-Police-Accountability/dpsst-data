@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/17/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/1/2022
   course: PDP38585
   title: AXON CEW Annual Update

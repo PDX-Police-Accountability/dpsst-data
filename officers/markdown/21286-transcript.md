@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2023 | BBP03226 | Firearms Qualification | Passed | 0.0 | 1.00 |
 | 2/28/2023 | BBP02130 | Firearms Training/Qualification | Passed | 0.0 | 1.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2022 | BBP38345 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |

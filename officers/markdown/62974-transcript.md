@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/26/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 3/25/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 3/25/2023 | PDP06764 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 3/25/2023 | PDP32607 | 2022 Vocabulary in the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
@@ -49,6 +50,8 @@
 | 3/19/2023 | PDP14875 | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |
 | 3/18/2023 | PDP15755 | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 3/18/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 3/18/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 3/18/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 3/6/2023 | PDP26182 | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 3/6/2023 | PDP44989 | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 3/6/2023 | PDP21833 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |
@@ -59,6 +62,9 @@
 | 3/6/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
 | 3/6/2023 | PDP21366 | 2022-4 CAO Legal Updates for 4/2022 | Passed | 0.0 | 0.25 |
 | 3/6/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
+| 3/6/2023 | PDP11408 | DIR 1010.00 Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
+| 3/6/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
+| 3/6/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 3/2/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 2/28/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/21/2023 | PDP11304 | Post Academy Firearms Training | Passed | 0.0 | 3.00 |

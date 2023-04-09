@@ -131,6 +131,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/29/2022
+  course: PDS12425
+  title: In our own voice for law enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/23/2022
   course: PDS22981
   title: Naloxone Training

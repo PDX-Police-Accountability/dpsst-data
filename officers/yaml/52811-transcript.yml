@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2023
+  course: PDS00726
+  title: SWAT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/23/2023
+  course: PDS38367
+  title: SWAT practical training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/15/2023
   course: PDS04555
   title: Firearms Training

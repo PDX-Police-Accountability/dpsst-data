@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2023
+  course: EGP42322
+  title: Police Motorcycle Trng, Braking / Cornering
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/19/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -209,6 +215,54 @@ training_records:
 - date: 1/12/2023
   course: PDP30154
   title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP11246
+  title: DIR 0850.25 Police Response to MH Facilities
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP28137
+  title: DIR 0910.00 Use of Force Reporting, Review
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP23944
+  title: DIR 0850.20 Police Response to MH Crisis
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP15132
+  title: DIR 0850.21 Peace Officer Custody (Civil)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP15039
+  title: DIR 0850.22 Police Response to MH Director Holds
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP32925
+  title: OIS Supervisor Checklist
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/12/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
   status: Passed
   score: '0.0'
   hours: '0.25'

@@ -33,6 +33,7 @@
 | 3/29/2023 | PDP25919 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
 | 3/29/2023 | PDP41254 | 2021 Online In-Service Crime Victims' Rights | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP20870 | OSU Modified Duty  Cold Call-Taking Trng | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP29998 | 2021 Judge Hernandez Don't Shoot Portland v. City | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP41612 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP28705 | 2020 Judge Hernandez TRO Don't Shoot PDX 6/2009 | Passed | 0.0 | 0.50 |
@@ -70,6 +71,8 @@
 | 3/15/2023 | PDP11082 | 2021-7 TT Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 3/14/2023 | PDP37674 | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/14/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
+| 3/14/2023 | PDP10076 | Ops Branch SOP 12 - Shots Fired Incident Reporting | Passed | 0.0 | 0.25 |
+| 3/8/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 2/23/2023 | PDP07079 | 2017-3 CAO Legal Updates for Q3 08/2017 | Passed | 0.0 | 0.25 |
 | 2/23/2023 | PDP34750 | 2017-3 CAO Legal Updates for Q3 7/2017 | Passed | 0.0 | 0.25 |
 | 2/23/2023 | PDP16519 | 2017-3 Legal Updates for Q3 | Passed | 0.0 | 0.50 |

@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2023
+  course: LOP28849
+  title: Forcible Entry Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/20/2023
   course: LOP34640
   title: Firearms

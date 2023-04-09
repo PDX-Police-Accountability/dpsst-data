@@ -142,6 +142,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2023
+  course: ETS26777
+  title: Active Shooter Preparation  Response for Schools
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/17/2023
+  course: ETS28415
+  title: 'Active Shooter: Phases and Prevention'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/16/2023
   course: ETS43407
   title: Driving While Distracted

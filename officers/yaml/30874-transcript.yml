@@ -176,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 1/28/2022
+  course: FGP11303
+  title: FAA Part 107 Drone Pilot Certification
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 1/26/2022
   course: FGP01150
   title: High Throughput Property Crime DNA Analysis

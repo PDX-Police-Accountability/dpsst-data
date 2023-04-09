@@ -62,6 +62,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/27/2023
+  course: PDP41950
+  title: HR Rule 2.02 Prohibition Against Wrkplc Harassment
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2023
+  course: PDP43648
+  title: UDAR Guide - Approving (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2023
+  course: PDP37104
+  title: UDAR Guide - Coaches Pay (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 3/27/2023
+  course: PDP09671
+  title: UDAR Guide - Requesting (10/04/2018)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/16/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -155,6 +179,12 @@ training_records:
 - date: 1/16/2023
   course: PDP30154
   title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/11/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
   status: Passed
   score: '0.0'
   hours: '0.25'

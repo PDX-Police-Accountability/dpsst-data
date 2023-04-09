@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/3/2023 | Silverton Police Department | Promotion | Captain |  |  |
 | 9/20/2021 | Silverton Police Department | Hired | Sergeant |  |  |
 | 9/16/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/26/2017 | DPSST Use Only | InstrApp |  |  | AcadTrng |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 3/16/2023 | VND34914 | OEDI Annual Session #34 - Leadership | Passed | 0.0 | 34.50 |
 | 3/15/2023 | SVP32728 | Firearms  Patrol Vehicle Defense Tactics | Passed | 0.0 | 4.00 |
 | 2/23/2023 | SVP44567 | FEMA ICS 400 Advanced ICS | Passed | 0.0 | 15.00 |

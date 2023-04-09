@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/3/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/25/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -81,6 +87,12 @@ training_records:
 - date: 2/25/2023
   course: PDP27304
   title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/25/2023
+  course: PDP33178
+  title: Oregon Ballot Measure 114
   status: Passed
   score: '0.0'
   hours: '0.25'

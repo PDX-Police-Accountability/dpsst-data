@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2023 | PDS27964 | Firearms Training | Passed | 0.0 | 5.00 |
 | 2/8/2023 | PDS27744 | TacMed | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS11492 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/8/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |

@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/8/2023 | PDS11734 | Policy Update / Use of Force Review | Passed | 0.0 | 2.00 |
 | 2/18/2023 | PDS00756 | TacMed | Passed | 0.0 | 4.00 |
+| 2/18/2023 | PDS09543 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/17/2023 | PDS39504 | PowerDMS | Passed | 0.0 | 0.50 |
 | 1/5/2023 | PDS10966 | Gun Dispossession and Enforcement | Passed | 0.0 | 1.00 |
 | 12/11/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |

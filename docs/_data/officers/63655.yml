@@ -1,6 +1,6 @@
 ---
 header_record:
-  name: Vega Garduno, Adolfo
+  name: Vega-Garduno, Adolfo
   dpsst_identifier: '63655'
   agency: Portland Police Bureau
   employment_status: Active
@@ -63,6 +63,12 @@ training_records:
 - date: 3/20/2023
   course: PDP04838
   title: 2023 Microsoft Cloud Storage w/ OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/4/2023
+  course: PDP07695
+  title: DOJ Settlement Agreement
   status: Passed
   score: '0.0'
   hours: '1.00'

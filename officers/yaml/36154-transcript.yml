@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/31/2022
+  course: MFP03773
+  title: 'Lexipol Daily Training Bulletins: May-Dec. 2022'
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/22/2022
   course: MFP26560
   title: MPD In-House II/-Profess. Development  Retirement

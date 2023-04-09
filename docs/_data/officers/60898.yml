@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/6/2023
+  course: PDP19397
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/31/2023
   course: PDP40178
   title: 2023 Microsoft Teams Recorded Training
@@ -93,6 +99,12 @@ training_records:
 - date: 1/29/2023
   course: PDP30154
   title: Annual CIU NTR Alarm Response Trng Reed Research
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/8/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -1183,10 +1195,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 2/8/2023
-  expiration_date: 2/8/2023
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/6/2023
+  expiration_date: 4/6/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

@@ -164,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/2/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/18/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

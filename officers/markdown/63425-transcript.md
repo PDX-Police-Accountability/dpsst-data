@@ -31,6 +31,7 @@
 | 3/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 2/27/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/27/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
+| 1/10/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 1/3/2023 | PDP42463 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 10/27/2020 | PDP25309 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 12/17/2019 | PDP21925 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

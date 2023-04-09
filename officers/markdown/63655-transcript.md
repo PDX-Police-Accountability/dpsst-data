@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Vega Garduno, Adolfo |
+| name | Vega-Garduno, Adolfo |
 | dpsst_identifier | 63655 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
@@ -33,4 +33,5 @@
 | 3/27/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/20/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
+| 1/4/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 1/3/2023 | PDP42463 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |

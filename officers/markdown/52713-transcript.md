@@ -46,6 +46,10 @@
 | 1/14/2023 | PDP13960 | Acting Sergeant Orientation and Training | Passed | 0.0 | 1.25 |
 | 1/14/2023 | PDP37060 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 1/14/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/14/2023 | PDP41950 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |
+| 1/14/2023 | PDP43648 | UDAR Guide - Approving (10/04/2018) | Passed | 0.0 | 0.25 |
+| 1/14/2023 | PDP37104 | UDAR Guide - Coaches Pay (10/04/2018) | Passed | 0.0 | 0.25 |
+| 1/14/2023 | PDP09671 | UDAR Guide - Requesting (10/04/2018) | Passed | 0.0 | 0.25 |
 | 12/26/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/26/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/26/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

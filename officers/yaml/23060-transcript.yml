@@ -141,6 +141,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/9/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/15/2022
   course: PDP14548
   title: 2022 Supervisor In-Service After Action Reporting

@@ -32,6 +32,7 @@
 | 3/3/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
 | 3/3/2023 | PDP29729 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 3/3/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 3/3/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 2/26/2023 | PDP17039 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 2/26/2023 | PDP22112 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 2/26/2023 | PDP36622 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
@@ -64,6 +65,13 @@
 | 2/25/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 2/25/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/25/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 2/25/2023 | PDP00704 | City of Portland Bloodborne Pathogen | Passed | 0.0 | 1.00 |
+| 2/25/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
+| 2/25/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 2/25/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
+| 2/25/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
+| 2/25/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
+| 2/25/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 2/13/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 12/22/2022 | PDP28038 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 12/22/2022 | PDP43065 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

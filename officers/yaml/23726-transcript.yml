@@ -158,6 +158,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/6/2023
+  course: PDP16862
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/28/2022
   course: PDP03449
   title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
