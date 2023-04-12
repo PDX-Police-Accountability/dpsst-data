@@ -156,6 +156,12 @@ certification_records:
   expiration_date: 3/1/2026
   probation_date: ''
 training_records:
+- date: 4/4/2023
+  course: HUP35767
+  title: OACP Annual Conference General Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/11/2023
   course: HUP30728
   title: OACP ELTS Conference General Board Meeting

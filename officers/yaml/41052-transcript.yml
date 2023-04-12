@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/29/2022
+  course: PDP22666
+  title: Increasing resilience in first responders
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/22/2022
   course: PDP38569
   title: Intoxilyzer 8000 Class

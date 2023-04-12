@@ -1958,6 +1958,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/11/2019
+  course: PDP00303
+  title: 2019 Idaho Threat Assessment Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 6/3/2019
   course: PDP14360
   title: PSD Directive 630.61, Stolen Vehicles

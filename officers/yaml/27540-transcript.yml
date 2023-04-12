@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/4/2023
+  course: HUP35767
+  title: OACP Annual Conference General Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/1/2023
   course: WLP31427
   title: Safety Compass - Human Trafficking Awareness

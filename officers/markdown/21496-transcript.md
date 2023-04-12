@@ -55,6 +55,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/17/2023 | ETS26777 | Active Shooter Preparation  Response for Schools | Passed | 0.0 | 1.00 |
 | 3/17/2023 | ETS28415 | Active Shooter: Phases and Prevention | Passed | 0.0 | 1.00 |
+| 3/9/2023 | ETS11975 | Technology Crimes for First Responders | Passed | 0.0 | 2.00 |
 | 2/16/2023 | ETS43407 | Driving While Distracted | Passed | 0.0 | 2.00 |
 | 2/4/2023 | ETS10082 | Driving Safety for First Responders PTRL102 | Passed | 0.0 | 1.00 |
 | 12/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

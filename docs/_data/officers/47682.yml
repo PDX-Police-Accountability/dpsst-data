@@ -386,6 +386,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/25/2022
+  course: PDP24875
+  title: Group Crisis Intervention CISM
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
 - date: 6/19/2022
   course: PDP08041
   title: City of Portland Bloodborne Pathogens

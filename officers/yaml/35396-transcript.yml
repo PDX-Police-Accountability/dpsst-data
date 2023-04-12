@@ -88,7 +88,7 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
-- date: 10/9/2023
+- date: 10/23/2023
   course: 23-0026
   title: DPSST Middle Management
   status: Registered

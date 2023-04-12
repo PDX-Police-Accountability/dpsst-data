@@ -92,6 +92,7 @@
 | 7/21/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/21/2022 | PDP25814 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 7/2/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
+| 6/25/2022 | PDP24875 | Group Crisis Intervention CISM | Passed | 0.0 | 17.00 |
 | 6/19/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/29/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/29/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

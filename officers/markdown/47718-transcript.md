@@ -373,6 +373,7 @@
 | 6/19/2019 | PDP05769 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/18/2019 | PDP02562 | CPR/First Aid | Passed | 0.0 | 1.50 |
 | 6/14/2019 | PDP03202 | 2019-7 UPD TipsTech CAD Study Codes-Track Pursuit | Passed | 0.0 | 0.25 |
+| 6/11/2019 | PDP00303 | 2019 Idaho Threat Assessment Conference | Passed | 0.0 | 14.00 |
 | 6/6/2019 | PDP38543 | City Attorney's Office Legal Updates April 2019 | Passed | 0.0 | 0.50 |
 | 6/3/2019 | PDP14360 | PSD Directive 630.61, Stolen Vehicles | Passed | 0.0 | 0.25 |
 | 5/29/2019 | PDP02716 | 2019-1 PSD Force Inspector Updates Q1-SupsCommand | Passed | 0.0 | 0.25 |

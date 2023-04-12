@@ -355,6 +355,7 @@
 | 7/1/2019 | PDP27423 | Why Do People Die By Suicide | Passed | 0.0 | 6.50 |
 | 6/13/2019 | PDP03202 | 2019-7 UPD TipsTech CAD Study Codes-Track Pursuit | Passed | 0.0 | 0.25 |
 | 6/13/2019 | PDP38543 | City Attorney's Office Legal Updates April 2019 | Passed | 0.0 | 0.50 |
+| 6/11/2019 | PDP00303 | 2019 Idaho Threat Assessment Conference | Passed | 0.0 | 14.00 |
 | 6/3/2019 | PDP14360 | PSD Directive 630.61, Stolen Vehicles | Passed | 0.0 | 0.25 |
 | 5/23/2019 | PDP22335 | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 5/23/2019 | PDP27572 | 2019-7 TipsTech CAD Study Codes to Track Pursuits | Passed | 0.0 | 0.25 |

@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2023 | HBS28746 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
+| 3/16/2023 | HBS15004 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 2/21/2023 | HBS03039 | On-Duty PIT Refresher Training | Passed | 0.0 | 0.50 |
 | 1/17/2023 | HBS27173 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/17/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |

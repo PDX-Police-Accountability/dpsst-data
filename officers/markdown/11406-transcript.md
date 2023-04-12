@@ -52,6 +52,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2023 | HUP35767 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 1/11/2023 | HUP30728 | OACP ELTS Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 4/15/2022 | F6R19465 | Meeting Demands of Reform | Passed | 0.0 | 1.00 |
 | 4/14/2022 | F6R28550 | How to Survive  Thrive in a Public Safety Career | Passed | 0.0 | 2.00 |

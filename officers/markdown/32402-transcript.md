@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/6/2023 | HBS12525 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
+| 3/6/2023 | HBS15745 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 1/30/2023 | HBS25733 | PREA  ADA Jail | Passed | 0.0 | 1.00 |
 | 1/16/2023 | HBS04891 | De-Escalation Training | Passed | 0.0 | 1.50 |
 | 1/16/2023 | HBS22914 | 2023 Online CPR | Passed | 0.0 | 3.00 |

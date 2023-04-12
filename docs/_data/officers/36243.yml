@@ -101,6 +101,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 3/13/2023
+  course: HBS38246
+  title: Emotionally Surviving a Critical Incident
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/8/2023
   course: HBS16591
   title: Hostage Rescue ConSim

@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/8/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/29/2022 | PDP22666 | Increasing resilience in first responders | Passed | 0.0 | 6.00 |
 | 9/22/2022 | PDP38569 | Intoxilyzer 8000 Class | Passed | 0.0 | 6.00 |
 | 9/22/2022 | PDP43256 | 2022 Traffic Intoxylizer 8000 Certification | Passed | 0.0 | 6.00 |
 | 9/21/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

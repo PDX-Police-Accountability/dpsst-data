@@ -278,6 +278,7 @@
 | 12/2/2019 | PDP16502 | 2019-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 12/2/2019 | PDP23516 | 2019-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 11/26/2019 | PDP29462 | CNOA annual training institute | Passed | 0.0 | 25.50 |
+| 11/26/2019 | PDP36336 | CNOA Annual Training Institute | Passed | 0.0 | 25.50 |
 | 11/19/2019 | PDP34815 | 2019 MCDA Unavoidable Lull Opinion Update | Passed | 0.0 | 0.25 |
 | 11/14/2019 | PDP31997 | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
 | 11/14/2019 | PDP19197 | 2019 Chief's Office SPLC Racists Skinheads | Passed | 0.0 | 0.25 |

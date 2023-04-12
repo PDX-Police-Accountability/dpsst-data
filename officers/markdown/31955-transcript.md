@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2023 | HUP35767 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 3/15/2023 | CAP15436 | Patrol Rifle Qualification / Reloads and Movement | Passed | 0.0 | 2.50 |
 | 2/1/2023 | CAP27534 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |

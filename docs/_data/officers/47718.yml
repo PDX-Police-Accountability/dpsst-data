@@ -2068,6 +2068,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/11/2019
+  course: PDP00303
+  title: 2019 Idaho Threat Assessment Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 6/6/2019
   course: PDP38543
   title: City Attorney's Office Legal Updates April 2019

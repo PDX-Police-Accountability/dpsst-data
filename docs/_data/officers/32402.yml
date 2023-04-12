@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 3/6/2023
+  course: HBS15745
+  title: Emotionally Surviving a Critical Incident
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/30/2023
   course: HBS25733
   title: PREA  ADA Jail

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 3/16/2023
+  course: HBS15004
+  title: Emotionally Surviving a Critical Incident
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/21/2023
   course: HBS03039
   title: On-Duty PIT Refresher Training

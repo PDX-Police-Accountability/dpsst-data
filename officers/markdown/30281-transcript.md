@@ -82,6 +82,7 @@
 | 6/12/2019 | PDP27572 | 2019-7 TipsTech CAD Study Codes to Track Pursuits | Passed | 0.0 | 0.25 |
 | 6/12/2019 | PDP38543 | City Attorney's Office Legal Updates April 2019 | Passed | 0.0 | 0.50 |
 | 6/12/2019 | PDP14360 | PSD Directive 630.61, Stolen Vehicles | Passed | 0.0 | 0.25 |
+| 6/11/2019 | PDP00303 | 2019 Idaho Threat Assessment Conference | Passed | 0.0 | 14.00 |
 | 5/21/2019 | PDP40036 | 2019 Training Choke and Carotid Awareness Video | Passed | 0.0 | 0.25 |
 | 5/21/2019 | PDP17498 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 5/21/2019 | PDP21682 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |

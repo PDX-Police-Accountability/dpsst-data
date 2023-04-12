@@ -297,6 +297,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '22.50'
+- date: 3/31/2022
+  course: PDP36740
+  title: L960 ICS All-Hazards Position Specific
+  status: Passed
+  score: '0.0'
+  hours: '22.50'
 - date: 3/20/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021

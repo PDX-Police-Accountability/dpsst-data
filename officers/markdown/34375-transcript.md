@@ -49,6 +49,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/20/2023 | STS08773 | Handgun Training and Qualification | Passed | 0.0 | 4.00 |
+| 3/20/2023 | STS26662 | Firearms Training | Passed | 0.0 | 4.00 |
 | 3/7/2023 | STS31356 | First Aid  CPR - Adult  Child | Passed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2023 | OSH15820 | Medicolegal Death Investigator In-Service | Passed | 0.0 | 1.50 |

@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/18/2023 | HBS15120 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
+| 3/18/2023 | HBS34913 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 2/20/2023 | HBS42167 | Defensive Tools Update | Passed | 0.0 | 1.00 |
 | 1/8/2023 | HBS11601 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 1/8/2023 | HBS29714 | De-Escalation Training | Passed | 0.0 | 1.50 |
