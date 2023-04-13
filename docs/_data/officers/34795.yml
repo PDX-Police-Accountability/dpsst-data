@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2023
+  course: CAP19868
+  title: VCQB / High Risk Vehicle Stop Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/17/2023
   course: OCS34493
   title: FBI/LEEDA SLI

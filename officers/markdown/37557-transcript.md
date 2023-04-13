@@ -42,6 +42,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2023 | LOP28849 | Forcible Entry Training | Passed | 0.0 | 1.00 |
+| 3/29/2023 | LOP20623 | Ethics and Leadership | Passed | 0.0 | 3.00 |
+| 3/29/2023 | LOP03234 | Ethics and Leadership | Passed | 0.0 | 15.00 |
 | 1/20/2023 | LOP34640 | Firearms | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |

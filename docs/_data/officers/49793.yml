@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2023
+  course: CIF03488
+  title: Criminal Jurisdiction in Indian Country Seminar
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/21/2023
   course: BPT40023
   title: Resilience

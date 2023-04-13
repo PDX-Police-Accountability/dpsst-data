@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2023 | CAP19868 | VCQB / High Risk Vehicle Stop Firearms | Passed | 0.0 | 3.00 |
 | 3/17/2023 | OCS34493 | FBI/LEEDA SLI | Passed | 0.0 | 28.00 |
 | 3/2/2023 | OCS30261 | Sergeant Meeting | Passed | 0.0 | 2.00 |
 | 2/22/2023 | OCS22377 | Employee  Labor Relations training | Passed | 0.0 | 2.00 |

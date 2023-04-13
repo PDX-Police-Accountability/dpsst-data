@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2023 | NGP35952 | Firearms Qualifications | Passed | 0.0 | 3.00 |
 | 3/16/2023 | NGP28180 | Taser scenarios | Passed | 0.0 | 1.00 |
 | 3/3/2023 | NGP12885 | Taser recertification | Passed | 0.0 | 2.00 |
 | 3/1/2023 | NGP29100 | Protecting First Responders from Opioid Exposure | Passed | 0.0 | 1.00 |

@@ -391,6 +391,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '88.75'
+- date: 6/29/2022
+  course: PDP15669
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 5/26/2022
   course: PDP30549
   title: IS-800 National Response Framework

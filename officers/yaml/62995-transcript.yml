@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/6/2023
+  course: PDP40744
+  title: CEW Taser Training  Certification
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/5/2023
   course: PDP12355
   title: 2018 TOD 100% Collection  Submission Model

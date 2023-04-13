@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2023
+  course: TGP15038
+  title: Oregon LE and Fire PIO Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 3/23/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording

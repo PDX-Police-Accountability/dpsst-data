@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/6/2023
+  course: NGP35952
+  title: Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/16/2023
   course: NGP28180
   title: Taser scenarios
