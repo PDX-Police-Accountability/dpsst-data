@@ -2066,9 +2066,25 @@ training_records:
   hours: '1.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 4/12/2023
+  expiration_date: 4/12/2023
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 4/12/2023
+  expiration_date: 4/12/2023
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -2079,8 +2095,20 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
+  effective_date: 12/27/2018
+  expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
   effective_date: 1/22/2018
   expiration_date: ''
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 1/22/2018
+  expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 3/15/2023
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
   effective_date: 1/1/1900
