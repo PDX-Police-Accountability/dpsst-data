@@ -30,12 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/30/2022 | 3/30/2024 |
-| Certification Cards | First Aid and CPR | 3/30/2022 | 3/30/2024 |
-| Code of Ethics | Signed | 8/15/2006 |  |
 | Code of Ethics | Signed | 8/15/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 3/15/2023 | HBP38729 | Respectful Workplace - Sprvsr Course (Equity) | Passed | 0.0 | 1.25 |
+| 3/15/2023 | HBP07262 | Respectful Workplace - Sprvsr Course (Leadership) | Passed | 0.0 | 0.75 |
 | 3/9/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/15/2023 | HBP15447 | Mental Health Response Team (MHRT) Training | Passed | 0.0 | 3.00 |
 | 2/15/2023 | HBP25483 | Safety Compass - Commercial Sexual Exploitation | Passed | 0.0 | 1.00 |

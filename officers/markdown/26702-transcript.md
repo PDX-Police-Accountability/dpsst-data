@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2023 | HBP43238 | Respectful Workplace - Employee Course (Equity) | Passed | 0.0 | 1.25 |
 | 1/25/2023 | HBP07719 | Firearms and Use of Force | Passed | 0.0 | 0.00 |
 | 1/12/2023 | HBP03564 | Firearms Qualification | Passed | 0.0 | 0.00 |
 | 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Completed | 0.0 | 6.00 |

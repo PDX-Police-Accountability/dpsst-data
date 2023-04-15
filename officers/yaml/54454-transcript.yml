@@ -446,6 +446,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/16/2022
+  course: PDP08642
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/8/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -2971,14 +2977,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/7/2021
-  expiration_date: 4/7/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/7/2021
@@ -2987,14 +2985,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2020
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2020
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/16/2015
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/16/2015

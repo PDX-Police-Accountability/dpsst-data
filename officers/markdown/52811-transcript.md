@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2023 | PDS04777 | YOGA for First Responders | Passed | 0.0 | 1.00 |
+| 4/11/2023 | PDS21907 | NAMI training | Passed | 0.0 | 2.00 |
+| 4/11/2023 | PDS30615 | Peer Support Training | Passed | 0.0 | 1.00 |
+| 4/7/2023 | PDS36306 | 0 | Instructed | 0.0 | 8.00 |
 | 4/5/2023 | PDS00726 | SWAT Firearms Training | Passed | 0.0 | 8.00 |
 | 3/23/2023 | PDS38367 | SWAT practical training | Passed | 0.0 | 4.00 |
 | 3/15/2023 | PDS04555 | Firearms Training | Instructed | 0.0 | 5.00 |

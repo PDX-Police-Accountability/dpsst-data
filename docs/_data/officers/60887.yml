@@ -47,6 +47,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 3/15/2023
+  course: HBP43238
+  title: Respectful Workplace - Employee Course (Equity)
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 2/27/2023
   course: HBP41495
   title: CPR, First Aid, AED

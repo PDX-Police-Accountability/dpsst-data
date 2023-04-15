@@ -31,12 +31,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
 | Certification Cards | First Aid and CPR | 7/6/2021 | 7/6/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2019 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2019 | 12/31/2022 |
-| Code of Ethics | Signed | 2/19/2009 |  |
 | Code of Ethics | Signed | 2/19/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -108,6 +104,7 @@
 | 4/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/5/2022 | PDP03522 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/5/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
+| 3/24/2022 | PDP08642 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/15/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/11/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 3/11/2022 | PDP25308 | 2022 Vocabulary in LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |

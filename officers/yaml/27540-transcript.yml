@@ -101,6 +101,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2023
+  course: OAC15420
+  title: Harnessing Leadership Series
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/6/2023
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/5/2023
+  course: OAC24572
+  title: Preventive Behavioral Threat Assessment/Management
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/4/2023
   course: HUP35767
   title: OACP Annual Conference General Board Meeting
@@ -3856,14 +3874,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/15/2022
-  expiration_date: 7/15/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022
@@ -3872,14 +3882,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/19/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/19/2007

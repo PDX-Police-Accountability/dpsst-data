@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
-| Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 4/5/2023 | SDP05875 | Preventing Discrimination and Harassment Training | Passed | 0.0 | 1.00 |
+| 4/5/2023 | SDP12033 | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 1.00 |
+| 4/5/2023 | SDP35671 | The Wrap- Restraints Training Refresher | Passed | 0.0 | 1.00 |
 | 3/20/2023 | REG38314 | Control from Mount | Passed | 0.0 | 1.00 |
 | 3/15/2023 | SDP14204 | Firearms / Malfunction Drills | Instructed | 0.0 | 3.00 |
 | 3/15/2023 | SDP12279 | Pat Down / Field Search Refresher | Instructed | 0.0 | 0.50 |

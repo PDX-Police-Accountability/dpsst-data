@@ -16,13 +16,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/30/2021 | Police Officer | Basic | ReqCertExt |  |  | 3/30/2024 |
+| 4/13/2023 | Police Officer | Basic | App Recd |  |  | 3/30/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 2/14/2023 |  |
 | Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Certification Cards | First Aid and CPR | 2/1/2022 | 2/1/2024 |
 | Certification Cards | First Aid and CPR | 2/1/2022 | 2/1/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -30,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/13/2023 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 3/19/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/19/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/19/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

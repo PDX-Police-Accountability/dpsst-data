@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/10/2023
+  course: PDP35943
+  title: NTOA SWAT Decision Making  Leadership
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -6342,26 +6348,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/14/2021
   expiration_date: 6/14/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/14/2021
-  expiration_date: 6/14/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/29/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

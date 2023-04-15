@@ -453,6 +453,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/24/2022
+  course: PDP08642
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/15/2022
   course: PDP12489
   title: 2022-1 Range Qualification Primary Firearm
@@ -3800,14 +3806,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/6/2021
-  expiration_date: 7/6/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/6/2021
@@ -3816,14 +3814,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2019
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2019
-  expiration_date: 12/31/2022
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/19/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/19/2009

@@ -18,15 +18,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/13/2021 | Police Officer | Basic | Required |  |  | 3/13/2023 |
+| 4/12/2023 | Police Officer | Basic | App Recd |  |  | 3/13/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
-| Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -34,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2023 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 10/22/2022 | HSU13319 | EVO Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/22/2022 | HSU43777 | Defensive Tactics Fall In-Service 2022 | Passed | 0.0 | 3.00 |
 | 10/22/2022 | HSU04608 | Firearms Fall In-Service 2022 | Passed | 0.0 | 5.00 |

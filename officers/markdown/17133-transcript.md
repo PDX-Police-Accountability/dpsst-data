@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/7/2023 | OAC15420 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
+| 4/6/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 4/5/2023 | OAC24572 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |
 | 4/21/2021 | F6D01937 | Basic Background Training | Passed | 0.0 | 16.00 |
 | 3/8/2021 | SMP36130 | Avoid Pitfalls to Maximize Your Ability to Lead | Passed | 0.0 | 4.00 |
 | 3/1/2021 | SMP08451 | FBI Emerging Issues  Tactical Consideration Trg | Passed | 0.0 | 1.00 |

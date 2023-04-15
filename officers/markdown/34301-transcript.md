@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/13/2023 | 2/28/2025 |
-| Certification Cards | First Aid and CPR | 2/13/2023 | 2/28/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 2/14/2022 | 2/28/2024 |
-| Certification Cards | First Aid and CPR | 2/14/2022 | 2/28/2024 |
-| Code of Ethics | Signed | 7/28/2000 |  |
 | Code of Ethics | Signed | 7/28/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -59,6 +54,11 @@
 | 2/17/2023 | TRN30766 | Incident Command System for Corrections v2023 | Passed | 0.0 | 1.00 |
 | 2/17/2023 | TRN43898 | Intellectual Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
 | 2/17/2023 | TRN38447 | Occupational Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
+| 2/15/2023 | TRN28045 | DOC - Annual Firearms Training v2023 | Passed | 0.0 | 8.00 |
+| 2/14/2023 | TRN37840 | Critical Incidents and Trauma Informed Care v2023 | Passed | 0.0 | 1.00 |
+| 2/14/2023 | TRN11019 | DOC - Krav Maga Def Tactics v2022c | Passed | 0.0 | 2.00 |
+| 2/14/2023 | TRN01347 | DOC - Use of Force Emergency Protocols v2023 | Passed | 0.0 | 2.00 |
+| 2/13/2023 | TRN41307 | First Aid Adult Child Infant CPR AED v2023 | Passed | 0.0 | 8.00 |
 | 12/29/2022 | TRN07778 | TRANSPORT - Escorting AICs in the Community v2019R | Passed | 0.0 | 8.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

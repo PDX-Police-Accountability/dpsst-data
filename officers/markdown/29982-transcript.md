@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
-| Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Signed | 5/4/2001 |  |
 | Code of Ethics | Signed | 5/4/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +40,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 4/7/2023 | OAC23627 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
+| 4/7/2023 | OAC43392 | Radically  Ethically Motivated Violent Extremists | Passed | 0.0 | 1.50 |
+| 4/6/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 4/5/2023 | OAC24572 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |
 | 3/16/2023 | VND34914 | OEDI Annual Session #34 - Leadership | Passed | 0.0 | 34.50 |
 | 3/15/2023 | SVP32728 | Firearms  Patrol Vehicle Defense Tactics | Passed | 0.0 | 4.00 |
 | 2/23/2023 | SVP44567 | FEMA ICS 400 Advanced ICS | Passed | 0.0 | 15.00 |

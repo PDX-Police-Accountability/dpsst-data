@@ -131,6 +131,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2023
+  course: OAC12827
+  title: Radically  Ethically Motivated Violent Extremists
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/7/2023
+  course: OAC23627
+  title: Harnessing Leadership Series
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/6/2023
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/5/2023
+  course: OAC21346
+  title: Preventive Behavioral Threat Assessment/Management
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 1/13/2023
   course: F6R29896
   title: Managing Personal Energy for Balance/Productivity
@@ -2500,14 +2524,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 11/30/2022
-  expiration_date: 11/30/2024
 - topic: Certification Cards
   value: First Aid
   effective_date: 11/30/2022
@@ -2516,22 +2532,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/16/2021
   expiration_date: 12/16/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/16/2021
-  expiration_date: 12/16/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/7/2012
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/7/2012

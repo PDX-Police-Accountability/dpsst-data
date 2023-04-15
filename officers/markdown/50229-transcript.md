@@ -26,13 +26,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
 | Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
 | Certification Cards | First Aid and CPR | 5/3/2021 | 5/31/2023 |
-| Certification Cards | First Aid and CPR | 5/3/2021 | 5/31/2023 |
-| Code of Ethics | Signed | 2/27/2009 |  |
 | Code of Ethics | Signed | 2/27/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2023 | TRN02070 | AICs with Disabilities-Access and Provisions v2023 | Passed | 0.0 | 1.00 |
+| 3/21/2023 | TRN22446 | Airway and Circulatory Anatomy Training (ACAP) | Passed | 0.0 | 2.00 |
+| 3/21/2023 | TRN13747 | DOC - Use of Force Overview of Rules v2023 | Passed | 0.0 | 2.00 |
+| 3/20/2023 | TRN07976 | 2023 Information Security Training Foundations | Passed | 0.0 | 0.50 |
+| 3/20/2023 | TRN33630 | DOC - CRCI Fire Suppression Training v2023a | Passed | 0.0 | 1.00 |
+| 3/20/2023 | TRN05296 | DOC - PREA Refresher v2023 | Passed | 0.0 | 1.00 |
+| 3/20/2023 | TRN34551 | DOC - Protection from Ambient Heat v2023 | Passed | 0.0 | 0.50 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2022 | TRN36598 | P25 Radio Operator Training Course VPT2022 | Passed | 0.0 | 1.00 |
 | 11/12/2022 | TRN20456 | Airway and Circulatory Anatomy Training (ACAP) | Passed | 0.0 | 2.00 |
