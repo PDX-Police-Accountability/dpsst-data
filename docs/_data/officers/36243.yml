@@ -119,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/28/2023
+  course: HBS16475
+  title: On-Duty PIT Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/17/2023
   course: HBS32256
   title: Winter Rifle Updates

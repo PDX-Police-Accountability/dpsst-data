@@ -51,6 +51,7 @@
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
 | * MISSING | 45977 |  |  |  |  |  | [md](../markdown/45977-transcript.md) - [yaml](../yaml/45977-transcript.yml) |
 | * MISSING | 46083 |  |  |  |  |  | [md](../markdown/46083-transcript.md) - [yaml](../yaml/46083-transcript.yml) |
+| * MISSING | 47315 |  |  |  |  |  | [md](../markdown/47315-transcript.md) - [yaml](../yaml/47315-transcript.yml) |
 | * MISSING | 48107 |  |  |  |  |  | [md](../markdown/48107-transcript.md) - [yaml](../yaml/48107-transcript.yml) |
 | * MISSING | 48404 |  |  |  |  |  | [md](../markdown/48404-transcript.md) - [yaml](../yaml/48404-transcript.yml) |
 | * MISSING | 48505 |  |  |  |  |  | [md](../markdown/48505-transcript.md) - [yaml](../yaml/48505-transcript.yml) |
@@ -1584,7 +1585,6 @@
 | Burton, Bret A. | 43860 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-27 | [md](../markdown/43860-transcript.md) - [yaml](../yaml/43860-transcript.yml) |
 | Kenney, Zachary J. | 44439 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/44439-transcript.md) - [yaml](../yaml/44439-transcript.yml) |
 | Mendoza, Jorge R. | 46431 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/46431-transcript.md) - [yaml](../yaml/46431-transcript.yml) |
-| Wells, Cassandra M. | 47315 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/47315-transcript.md) - [yaml](../yaml/47315-transcript.yml) |
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |
 | Ibrahim, Khalid N. | 55066 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/55066-transcript.md) - [yaml](../yaml/55066-transcript.yml) |
 | Wang, Yixin | 63389 | Portland Police Bureau | Active | Police Officer | Hired | 2022-10-27 | [md](../markdown/63389-transcript.md) - [yaml](../yaml/63389-transcript.yml) |

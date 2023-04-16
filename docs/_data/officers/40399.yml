@@ -495,6 +495,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/10/2022
+  course: PDP06177
+  title: Crisis Cops - BHU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/21/2022
   course: PDP17743
   title: 2021-8 City Attorney's Legal Updates - Aug. 2021

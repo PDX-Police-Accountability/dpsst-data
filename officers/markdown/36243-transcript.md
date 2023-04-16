@@ -48,6 +48,7 @@
 | 3/13/2023 | HBS38246 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 3/8/2023 | HBS16591 | Hostage Rescue ConSim | Passed | 0.0 | 9.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
+| 2/28/2023 | HBS16475 | On-Duty PIT Refresher Training | Passed | 0.0 | 0.50 |
 | 2/17/2023 | HBS32256 | Winter Rifle Updates | Passed | 0.0 | 9.00 |
 | 1/28/2023 | HBS42729 | 2023 Online CPR | Passed | 0.0 | 3.00 |
 | 1/28/2023 | HBS24638 | De-Escalation Training | Passed | 0.0 | 1.50 |

@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2023 | ETS04374 | "Not in Our Town" - Human Trafficking Prevention | Passed | 0.0 | 4.00 |
 | 3/17/2023 | ETS26777 | Active Shooter Preparation  Response for Schools | Passed | 0.0 | 1.00 |
 | 3/17/2023 | ETS28415 | Active Shooter: Phases and Prevention | Passed | 0.0 | 1.00 |
 | 3/9/2023 | ETS11975 | Technology Crimes for First Responders | Passed | 0.0 | 2.00 |

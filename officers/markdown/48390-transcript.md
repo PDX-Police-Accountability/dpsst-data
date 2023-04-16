@@ -40,6 +40,7 @@
 | 6/23/2022 | PDP10363 | Crisis Negotiation Training | Passed | 0.0 | 18.00 |
 | 6/9/2022 | PDP38472 | SharePoint Lesson Plan Training | Passed | 0.0 | 1.50 |
 | 4/6/2022 | PDP32165 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
+| 3/10/2022 | PDP06177 | Crisis Cops - BHU | Passed | 0.0 | 2.00 |
 | 3/9/2022 | PDP01777 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 2/24/2022 | PDP24753 | Crisis Negotiation Team Training | Passed | 0.0 | 27.00 |
 | 11/16/2021 | PDP34940 | 2021 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

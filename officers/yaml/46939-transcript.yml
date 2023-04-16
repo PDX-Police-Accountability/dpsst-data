@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/20/2023
+  course: PDP44199
+  title: IACP/JHU Public Health  Policing Symposium
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 1/2/2023
   course: PDP42753
   title: '2022 Respiratory Protection: Yearly Screening'

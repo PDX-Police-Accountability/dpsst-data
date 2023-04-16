@@ -142,6 +142,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/13/2023
+  course: ETS04374
+  title: '"Not in Our Town" - Human Trafficking Prevention'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/17/2023
   course: ETS26777
   title: Active Shooter Preparation  Response for Schools

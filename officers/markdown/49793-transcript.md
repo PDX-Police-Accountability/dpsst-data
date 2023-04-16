@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2023 | CIF31971 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 8.00 |
 | 3/31/2023 | CIF03488 | Criminal Jurisdiction in Indian Country Seminar | Passed | 0.0 | 18.00 |
 | 3/21/2023 | BPT40023 | Resilience | Passed | 0.0 | 6.00 |
 | 3/8/2023 | CIF02299 | Heart Saver First Aid / CPR / AED | Instructed | 0.0 | 4.00 |

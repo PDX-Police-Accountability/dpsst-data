@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/12/2023
+  course: PDP05545
+  title: EVAWI Comprehensive Victim Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 1/2/2023
   course: PDP42753
   title: '2022 Respiratory Protection: Yearly Screening'

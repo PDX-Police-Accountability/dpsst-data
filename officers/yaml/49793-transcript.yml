@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2023
+  course: CIF31971
+  title: Heart Saver First Aid / CPR / AED
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/31/2023
   course: CIF03488
   title: Criminal Jurisdiction in Indian Country Seminar

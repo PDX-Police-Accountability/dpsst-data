@@ -560,6 +560,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/10/2022
+  course: PDP06177
+  title: Crisis Cops - BHU
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/8/2022
   course: PDP10575
   title: 2022 EAP-Crisis Planning

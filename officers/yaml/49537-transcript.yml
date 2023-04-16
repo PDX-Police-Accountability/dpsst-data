@@ -540,6 +540,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/10/2022
+  course: PDP06177
+  title: Crisis Cops - BHU
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/9/2022
   course: PDP01777
   title: Crisis Negotiation Team Training

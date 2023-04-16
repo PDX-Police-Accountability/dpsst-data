@@ -28,8 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 5/6/2021 | 5/6/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 12/31/2022 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2020 | 1/1/1950 |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/14/2023 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/28/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |

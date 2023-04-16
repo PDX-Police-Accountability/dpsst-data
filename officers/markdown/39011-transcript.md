@@ -52,6 +52,7 @@
 | 2/6/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/12/2023 | PDP05545 | EVAWI Comprehensive Victim Interviewing | Passed | 0.0 | 14.00 |
 | 1/2/2023 | PDP42753 | 2022 Respiratory Protection: Yearly Screening | Passed | 0.0 | 0.25 |
 | 1/2/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
 | 1/2/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |

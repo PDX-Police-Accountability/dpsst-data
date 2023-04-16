@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/14/2023
+  course: MISCMAIN
+  title: 2022 LE Leadership 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 3/28/2023
   course: PDP04838
   title: 2023 Microsoft Cloud Storage w/ OD and SP
@@ -4298,6 +4304,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/6/2021
@@ -4305,7 +4315,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2020
-  expiration_date: 12/31/2022
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/12/2004
