@@ -4,7 +4,7 @@
 | name | Weir, Jill D. |
 | dpsst_identifier | 62015 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/4/2023 | Portland Police Bureau | Prob Dschg | Police Off |  |  |
 | 7/15/2021 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/3/2023 | Police Officer | Basic | Granted | 3/3/2023 |  |  |
+| 3/3/2023 | Police Officer | Basic | Granted | 3/3/2023 | 7/4/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

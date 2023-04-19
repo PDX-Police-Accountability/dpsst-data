@@ -66,6 +66,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/26/2023
+  course: PDP21335
+  title: Human Trafficking Task Force Summit
+  status: Passed
+  score: '0.0'
+  hours: '14.25'
 - date: 1/17/2023
   course: PDP35372
   title: 2022 Naxolone Administration

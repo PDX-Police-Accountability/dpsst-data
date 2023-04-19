@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/30/2023
+  course: PDP20556
+  title: EMT NCCR Recertification
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/21/2023
   course: PDP28141
   title: CPR/First Aid

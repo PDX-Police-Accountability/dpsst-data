@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2023 | PDP07055 | NW Leadership Seminar | Passed | 0.0 | 20.00 |
 | 4/10/2018 | PDP06494 | Western State Information Network (WSIN) | Passed | 0.0 | 2.00 |
 | 9/20/2017 | F6A09224 | 28CFR-Part23; RISSIntel/RISSafe/De-confliction | Passed | 0.0 | 2.00 |
 | 2/28/2017 | F6A04348 | 28CFR-Part23L; RISSIntel/RISSafe/De-confliction | Passed | 0.0 | 1.50 |

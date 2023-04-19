@@ -93,6 +93,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/18/2023
+  course: PDS34199
+  title: PowerDMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/12/2023
   course: PDS13576
   title: Benchmark Analytics

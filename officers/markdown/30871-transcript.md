@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2023 | OSH27412 | 1st Tri Firearms | Passed | 0.0 | 4.00 |
 | 3/21/2023 | OSH11990 | VERBAL JUDO LATERAL -TACTICAL COMMUNICATION COURSE | Instructed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/12/2023 | OSH02001 | VERBAL JUDO-TACTICAL COMMUNICATION | Instructed | 0.0 | 16.00 |

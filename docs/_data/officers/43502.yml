@@ -135,6 +135,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/8/2023
+  course: PDP28909
+  title: ODOT Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 1/24/2023
   course: PDP12893
   title: Excel for Public Safety

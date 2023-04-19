@@ -92,6 +92,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/8/2023
+  course: PDP28909
+  title: ODOT Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 1/19/2023
   course: PDP16862
   title: DIR 0635.10 PPB Response to Public Order Events

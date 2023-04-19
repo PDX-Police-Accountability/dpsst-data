@@ -43,6 +43,7 @@
 | 4/11/2023 | PDS30615 | Peer Support Training | Passed | 0.0 | 1.00 |
 | 4/7/2023 | PDS36306 | 0 | Instructed | 0.0 | 8.00 |
 | 4/5/2023 | PDS00726 | SWAT Firearms Training | Passed | 0.0 | 8.00 |
+| 4/5/2023 | PDS08108 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
 | 3/23/2023 | PDS38367 | SWAT practical training | Passed | 0.0 | 4.00 |
 | 3/15/2023 | PDS04555 | Firearms Training | Instructed | 0.0 | 5.00 |
 | 2/28/2023 | PDS13997 | Firearms Instructor Development Course | Passed | 0.0 | 5.00 |

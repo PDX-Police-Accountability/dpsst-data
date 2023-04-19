@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/28/2023
+  course: PDS34199
+  title: PowerDMS
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/27/2023
   course: PDS05565
   title: Adult Protective Services

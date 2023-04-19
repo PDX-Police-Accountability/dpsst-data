@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/25/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/17/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 3/10/2006 | Salem Police Department | Resigned | Police Off |  |  |
 | 9/3/2002 | Salem Police Department | Hired | Police Off |  |  |
