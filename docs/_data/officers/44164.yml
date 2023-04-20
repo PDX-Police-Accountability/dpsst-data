@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/5/2023
+  course: PDP02750
+  title: IACP Officer Safety and Wellness Symposium
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/1/2023
   course: PDP22623
   title: 2023 CNT Crisis Negotiation Team Annual Training

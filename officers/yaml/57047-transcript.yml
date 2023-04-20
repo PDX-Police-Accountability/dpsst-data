@@ -193,6 +193,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/9/2022
+  course: PDP12523
+  title: Latent Print Search and Comparison Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/18/2022
+  course: PDP41392
+  title: Crime Scene Investigation Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/9/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015
@@ -241,6 +253,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/5/2022
+  course: PDP06077
+  title: Palm Print Comparison Techniques Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/28/2022
   course: PDP01374
   title: 2022-2 In-Service ABLE/Active Bystandarship for LE

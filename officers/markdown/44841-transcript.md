@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2023 | LOP36386 | Impact of 5G on Lawful Interception | Passed | 0.0 | 0.50 |
+| 3/28/2023 | LOP06591 | Connected Vehicles for Law Enforcement | Passed | 0.0 | 1.50 |
 | 2/8/2023 | LOP22102 | Crime Scene Response for patrol | Passed | 0.0 | 0.50 |
 | 1/27/2023 | LOP44264 | SQLite Forensics with Belkasoft | Passed | 0.0 | 3.00 |
 | 1/20/2023 | LOP34640 | Firearms | Passed | 0.0 | 4.00 |

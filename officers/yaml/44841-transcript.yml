@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/13/2023
+  course: LOP36386
+  title: Impact of 5G on Lawful Interception
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/28/2023
+  course: LOP06591
+  title: Connected Vehicles for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/8/2023
   course: LOP22102
   title: Crime Scene Response for patrol

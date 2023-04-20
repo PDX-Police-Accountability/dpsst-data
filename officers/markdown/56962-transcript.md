@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2023 | HBN11206 | Behavior Change Plan Workshop - Spring 2023 | Passed | 0.0 | 1.00 |
 | 3/22/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |
 | 3/20/2023 | HBN11403 | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 2/22/2023 | HBN44988 | DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION | Passed | 0.0 | 6.00 |

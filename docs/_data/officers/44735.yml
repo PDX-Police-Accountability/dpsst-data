@@ -123,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/5/2023
+  course: PDP02750
+  title: IACP Officer Safety and Wellness Symposium
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/1/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording

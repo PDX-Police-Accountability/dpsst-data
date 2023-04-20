@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2023
+  course: NGP01767
+  title: Achieve Peak Performance in Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/6/2023
   course: NGP35952
   title: Firearms Qualifications

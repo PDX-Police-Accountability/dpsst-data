@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/9/2023
+  course: PDP06481
+  title: K-9 Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/25/2023
   course: PDP09073
   title: 2023 Terminator Tire Deflation Device

@@ -175,6 +175,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/9/2022
+  course: PDP12523
+  title: Latent Print Search and Comparison Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/24/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -199,6 +205,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/18/2022
+  course: PDP41392
+  title: Crime Scene Investigation Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/28/2022
   course: PDP25823
   title: 2022-3 Range Qualification CEW
@@ -265,6 +277,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/5/2022
+  course: PDP06077
+  title: Palm Print Comparison Techniques Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/22/2022
   course: PDP38854
   title: 2022-3 CAO Legal Updates for 03/2022

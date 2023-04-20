@@ -113,6 +113,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/6/2023
+  course: OAC35257
+  title: Trauma and Post-Tramatic Stress
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/5/2023
   course: OAC24572
   title: Preventive Behavioral Threat Assessment/Management

@@ -52,6 +52,7 @@
 | 4/7/2023 | OAC12827 | Radically  Ethically Motivated Violent Extremists | Passed | 0.0 | 1.50 |
 | 4/7/2023 | OAC23627 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/6/2023 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 4/6/2023 | OAC27385 | Trauma and Post-Tramatic Stress | Passed | 0.0 | 4.00 |
 | 4/5/2023 | OAC21346 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 5.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |

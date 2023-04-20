@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/9/2023
+  course: TAP26427
+  title: OSP Forensic Lab submissions for drugs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2022
   course: TAP05357
   title: LEXIPOL Daily Training Bulletins Jan-Dec 2022

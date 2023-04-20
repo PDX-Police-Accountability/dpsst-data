@@ -57,10 +57,12 @@
 | 12/19/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/19/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/19/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/9/2022 | PDP12523 | Latent Print Search and Comparison Training | Passed | 0.0 | 40.00 |
 | 11/24/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/24/2022 | PDP37226 | 2022-11 EO Clarification Regarding DIR 1010  1015 | Passed | 0.0 | 0.25 |
 | 11/24/2022 | PDP15523 | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 11/24/2022 | PDP21461 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 11/18/2022 | PDP41392 | Crime Scene Investigation Training | Passed | 0.0 | 40.00 |
 | 10/28/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/28/2022 | PDP29706 | 2022-3 Range Qualification Secondary FA (25 Round) | Passed | 0.0 | 0.50 |
 | 10/28/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
@@ -72,6 +74,7 @@
 | 10/19/2022 | PDP03645 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.00 |
 | 10/19/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
 | 10/19/2022 | PDP38421 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
+| 10/5/2022 | PDP06077 | Palm Print Comparison Techniques Training | Passed | 0.0 | 24.00 |
 | 9/22/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |

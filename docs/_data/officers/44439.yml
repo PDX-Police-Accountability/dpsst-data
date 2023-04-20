@@ -80,12 +80,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/3/2023
-  course: PDP07055
-  title: NW Leadership Seminar
-  status: Passed
-  score: '0.0'
-  hours: '20.00'
 - date: 3/2/2023
   course: VND39701
   title: 2023 Northwest Leadership Seminar

@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2023
+  course: MKL44085
+  title: "#REF!"
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/19/2023
   course: MKL28335
   title: LEDS Certification

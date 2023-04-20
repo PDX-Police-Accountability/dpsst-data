@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2023
+  course: MKL44085
+  title: "#REF!"
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/7/2023
   course: MKL35654
   title: Use of Forcet/Defensive Tactics

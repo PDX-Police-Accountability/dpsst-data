@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/24/2023
+  course: RMP22930
+  title: 40 Taser Wrap Less Lethal Application
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/19/2023
   course: RMP03429
   title: 'BRIEFING TRAINING: PURSUIT POLICY'

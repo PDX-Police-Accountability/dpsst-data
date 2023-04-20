@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2023 | MKL44085 | #REF! | Instructed | 0.0 | 8.00 |
 | 3/7/2023 | MKL35654 | Use of Forcet/Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 2/28/2023 | MKL39207 | DT/Use of Force | Passed | 0.0 | 8.00 |
 | 10/19/2022 | MKL31883 | DT/Use of Force, Fall 2022 | Instructed | 0.0 | 8.00 |
