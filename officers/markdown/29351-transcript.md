@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/1/2022 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 3/9/2015 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 10/7/2014 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 11/16/2005 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -26,9 +27,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 ## Education
 | date | degree | school | major | hours |
