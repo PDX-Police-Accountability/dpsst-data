@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/15/2023 | Portland Police Bureau | LOA | Detective |  |  |
 | 1/10/2013 | Portland Police Bureau | Promotion | Detective |  |  |
 | 1/7/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification

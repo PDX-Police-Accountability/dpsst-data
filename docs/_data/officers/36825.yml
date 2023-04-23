@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/15/2023
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 1/10/2013
   agency: Portland Police Bureau
   action: Promotion

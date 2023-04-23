@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/3/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 6/30/2017 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 1/12/2017 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/10/2017 | Newberg-Dundee Police Department | Resigned | Police Off |  |  |

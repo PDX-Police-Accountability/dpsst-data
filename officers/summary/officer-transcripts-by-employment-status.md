@@ -239,7 +239,7 @@
 | Tobey, Nathan A. | 36819 | Portland Police Bureau | Active | Detective | Promotion | 2012-07-05 | [md](../markdown/36819-transcript.md) - [yaml](../yaml/36819-transcript.yml) |
 | Nakamura, Arthur J. | 36820 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2023-01-19 | [md](../markdown/36820-transcript.md) - [yaml](../yaml/36820-transcript.yml) |
 | Kenagy, Christopher J. | 36821 | Portland Police Bureau | Active | Sergeant | LOA | 2020-06-26 | [md](../markdown/36821-transcript.md) - [yaml](../yaml/36821-transcript.yml) |
-| Hollan, Angela E. | 36825 | Portland Police Bureau | Active | Detective | Promotion | 2013-01-10 | [md](../markdown/36825-transcript.md) - [yaml](../yaml/36825-transcript.yml) |
+| Hollan, Angela E. | 36825 | Portland Police Bureau | Active | Detective | LOA | 2023-02-15 | [md](../markdown/36825-transcript.md) - [yaml](../yaml/36825-transcript.yml) |
 | Whitcanack, Ryan J. | 36879 | Portland Police Bureau | Active | Police Officer | Hired | 1999-01-21 | [md](../markdown/36879-transcript.md) - [yaml](../yaml/36879-transcript.yml) |
 | Sheldon, Spencer K. | 36880 | Portland Police Bureau | Active | Police Officer | Hired | 1999-01-21 | [md](../markdown/36880-transcript.md) - [yaml](../yaml/36880-transcript.yml) |
 | Beniga, Rico T. | 36906 | Portland Police Bureau | Active | Detective | Promotion | 2004-03-25 | [md](../markdown/36906-transcript.md) - [yaml](../yaml/36906-transcript.yml) |
@@ -430,7 +430,7 @@
 | Wesson-Mitchell, Deanna L. | 43868 | Portland Police Bureau | Active | Police Officer | Hired | 2016-11-18 | [md](../markdown/43868-transcript.md) - [yaml](../yaml/43868-transcript.yml) |
 | Hertzler, Jennifer L. | 43872 | Portland Police Bureau | Active | Detective | Promotion | 2018-02-08 | [md](../markdown/43872-transcript.md) - [yaml](../yaml/43872-transcript.yml) |
 | Stevens, Michael C. | 43873 | Portland Police Bureau | Active | Police Officer | Hired | 2004-01-08 | [md](../markdown/43873-transcript.md) - [yaml](../yaml/43873-transcript.yml) |
-| Miller, Huntley J. | 43999 | Portland Police Bureau | Active | Police Officer | Hired | 2017-01-12 | [md](../markdown/43999-transcript.md) - [yaml](../yaml/43999-transcript.yml) |
+| Miller, Huntley J. | 43999 | Portland Police Bureau | Active | Police Officer | LOA | 2022-02-03 | [md](../markdown/43999-transcript.md) - [yaml](../yaml/43999-transcript.yml) |
 | Wuthrich, Steven M. | 44055 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-05-04 | [md](../markdown/44055-transcript.md) - [yaml](../yaml/44055-transcript.yml) |
 | Richardson, Jonathan E. | 44124 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/44124-transcript.md) - [yaml](../yaml/44124-transcript.yml) |
 | Billard, John P. | 44160 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/44160-transcript.md) - [yaml](../yaml/44160-transcript.yml) |
@@ -570,7 +570,7 @@
 | Ockunzzi, Joel M. | 49841 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/49841-transcript.md) - [yaml](../yaml/49841-transcript.yml) |
 | Brainard, Jessica K. | 49847 | Portland Police Bureau | Active | Police Officer | Hired | 2008-08-14 | [md](../markdown/49847-transcript.md) - [yaml](../yaml/49847-transcript.yml) |
 | Townley, James M. | 49848 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
-| Vergara, Michele R. | 49920 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-03-26 | [md](../markdown/49920-transcript.md) - [yaml](../yaml/49920-transcript.yml) |
+| Vergara, Michele R. | 49920 | Portland Police Bureau | Active | Police Officer | LOA | 2022-09-30 | [md](../markdown/49920-transcript.md) - [yaml](../yaml/49920-transcript.yml) |
 | Parry, Louis D. | 49957 | Portland Police Bureau | Active | Police Officer | Hired | 2008-09-11 | [md](../markdown/49957-transcript.md) - [yaml](../yaml/49957-transcript.yml) |
 | Spiegel, Daniel A. | 49997 | Portland Police Bureau | Active | Sergeant | Promotion | 2018-05-03 | [md](../markdown/49997-transcript.md) - [yaml](../yaml/49997-transcript.yml) |
 | Tyler, Trevor J. | 50003 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/50003-transcript.md) - [yaml](../yaml/50003-transcript.yml) |
@@ -616,7 +616,7 @@
 | Winter, Justin M. | 51228 | Portland Police Bureau | Active | Police Officer | Hired | 2010-04-01 | [md](../markdown/51228-transcript.md) - [yaml](../yaml/51228-transcript.yml) |
 | Hoerauf, Timothy N. | 51230 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51230-transcript.md) - [yaml](../yaml/51230-transcript.yml) |
 | Budey, Grigoriy I. | 51248 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51248-transcript.md) - [yaml](../yaml/51248-transcript.yml) |
-| Taylor, Brent M. | 51250 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51250-transcript.md) - [yaml](../yaml/51250-transcript.yml) |
+| Taylor, Brent M. | 51250 | Portland Police Bureau | Active | Police Officer | LOA | 2022-05-05 | [md](../markdown/51250-transcript.md) - [yaml](../yaml/51250-transcript.yml) |
 | Harrison, Jimmy L., Jr. | 51269 | Portland Police Bureau | Active | Police Officer | Hired | 2011-01-20 | [md](../markdown/51269-transcript.md) - [yaml](../yaml/51269-transcript.yml) |
 | Povey, Nicholas B. | 51553 | Portland Police Bureau | Active | Reserve Officer | Hired | 2010-08-18 | [md](../markdown/51553-transcript.md) - [yaml](../yaml/51553-transcript.yml) |
 | Jackson, Jakhary J. | 51727 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-08 | [md](../markdown/51727-transcript.md) - [yaml](../yaml/51727-transcript.yml) |
@@ -771,7 +771,7 @@
 | Le, Stephen T. | 57670 | Portland Police Bureau | Active | Police Officer | Hired | 2017-08-23 | [md](../markdown/57670-transcript.md) - [yaml](../yaml/57670-transcript.yml) |
 | Jeitani, Rawad J. | 57718 | Portland Police Bureau | Active | Police Officer | Hired | 2017-08-23 | [md](../markdown/57718-transcript.md) - [yaml](../yaml/57718-transcript.yml) |
 | Ionesi, Samuel | 57727 | Portland Police Bureau | Active | Police Officer | Hired | 2017-08-23 | [md](../markdown/57727-transcript.md) - [yaml](../yaml/57727-transcript.yml) |
-| Roush, Kyle D. | 57758 | Portland Police Bureau | Active | Police Officer | Hired | 2017-08-23 | [md](../markdown/57758-transcript.md) - [yaml](../yaml/57758-transcript.yml) |
+| Roush, Kyle D. | 57758 | Portland Police Bureau | Active | Police Officer | LOA | 2022-07-25 | [md](../markdown/57758-transcript.md) - [yaml](../yaml/57758-transcript.yml) |
 | McDonald, Rachel A. | 57760 | Portland Police Bureau | Active | Police Officer | Hired | 2017-08-23 | [md](../markdown/57760-transcript.md) - [yaml](../yaml/57760-transcript.yml) |
 | Woods, Taylor S. | 57787 | Portland Police Bureau | Active | Police Officer | Hired | 2017-09-21 | [md](../markdown/57787-transcript.md) - [yaml](../yaml/57787-transcript.yml) |
 | Ford, Kristin N. | 57799 | Portland Police Bureau | Active | Police Officer | Hired | 2017-09-21 | [md](../markdown/57799-transcript.md) - [yaml](../yaml/57799-transcript.yml) |
@@ -817,7 +817,7 @@
 | Bledsoe, Joshua M. | 59515 | Portland Police Bureau | Active | Police Officer | Mil-LOA | 2020-12-09 | [md](../markdown/59515-transcript.md) - [yaml](../yaml/59515-transcript.yml) |
 | Bauer, Kurt D. | 59626 | Portland Police Bureau | Active | Police Officer | Hired | 2019-02-07 | [md](../markdown/59626-transcript.md) - [yaml](../yaml/59626-transcript.yml) |
 | Postula, Kayla H. | 59627 | Portland Police Bureau | Active | Police Officer | Hired | 2019-02-07 | [md](../markdown/59627-transcript.md) - [yaml](../yaml/59627-transcript.yml) |
-| Aroonsuck, Krute | 59732 | Portland Police Bureau | Active | Police Officer | Hired | 2019-03-28 | [md](../markdown/59732-transcript.md) - [yaml](../yaml/59732-transcript.yml) |
+| Aroonsuck, Krute | 59732 | Portland Police Bureau | Active | Police Officer | LOA | 2021-11-25 | [md](../markdown/59732-transcript.md) - [yaml](../yaml/59732-transcript.yml) |
 | Anderson, Whitney B. | 59770 | Portland Police Bureau | Active | Police Officer | Hired | 2019-04-18 | [md](../markdown/59770-transcript.md) - [yaml](../yaml/59770-transcript.yml) |
 | Hernandez, Ryan H. | 59775 | Portland Police Bureau | Active | Police Officer | Hired | 2019-04-18 | [md](../markdown/59775-transcript.md) - [yaml](../yaml/59775-transcript.yml) |
 | Fenske, McKay H. | 59776 | Portland Police Bureau | Active | Police Officer | Hired | 2019-04-18 | [md](../markdown/59776-transcript.md) - [yaml](../yaml/59776-transcript.yml) |
@@ -831,7 +831,7 @@
 | Caramucci, Katherine L. | 60133 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60133-transcript.md) - [yaml](../yaml/60133-transcript.yml) |
 | Kuiper, Karly H. | 60143 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60143-transcript.md) - [yaml](../yaml/60143-transcript.yml) |
 | Fuller, Kyle M. | 60144 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60144-transcript.md) - [yaml](../yaml/60144-transcript.yml) |
-| Lorenz, Jonathan G. | 60153 | Portland Police Bureau | Active | Police Officer | Hired | 2019-09-19 | [md](../markdown/60153-transcript.md) - [yaml](../yaml/60153-transcript.yml) |
+| Lorenz, Jonathan G. | 60153 | Portland Police Bureau | Active | Police Officer | Mil-LOA | 2021-10-03 | [md](../markdown/60153-transcript.md) - [yaml](../yaml/60153-transcript.yml) |
 | Pedro-Lopez, Felipe | 60154 | Portland Police Bureau | Active | Police Officer | Hired | 2019-09-19 | [md](../markdown/60154-transcript.md) - [yaml](../yaml/60154-transcript.yml) |
 | Interian-Pacho, David I. | 60155 | Portland Police Bureau | Active | Police Officer | Hired | 2019-09-19 | [md](../markdown/60155-transcript.md) - [yaml](../yaml/60155-transcript.yml) |
 | Soler-Gonzalez, Gerbis D. | 60156 | Portland Police Bureau | Active | Police Officer | Hired | 2019-09-19 | [md](../markdown/60156-transcript.md) - [yaml](../yaml/60156-transcript.yml) |

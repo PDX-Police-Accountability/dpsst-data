@@ -95,4 +95,18 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 12/12/2022
   expiration_date: ''
-education_records: []
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 12/12/2022
+  expiration_date: ''
+education_records:
+- date: 7/29/2022
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '36.0'
+- date: 12/12/2016
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '136.0'

@@ -21,9 +21,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
+| Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 7/29/2022 | Masters Arts | All Other Education Institutes |  | 36.0 |
+| 12/12/2016 | Bachelor Arts | All Other Education Institutes | Criminal Justice | 136.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
