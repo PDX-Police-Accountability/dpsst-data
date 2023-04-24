@@ -21,15 +21,13 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 2/21/2023 |  |
-| Code of Ethics | Law Enforcement Signed | 2/21/2023 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 2/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 2/20/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
 | 2/16/2023 | PDP00201 | Pre DPSST Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 2/13/2023 | PDP26388 | FTEP Policy  Procedure Training - Wellness Intro | Passed | 0.0 | 1.50 |
 | 2/13/2023 | PDP36184 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |

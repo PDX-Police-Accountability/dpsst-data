@@ -93,6 +93,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/19/2023
+  course: '43618'
+  title: Adult Learning Core/Coaching  Feedback
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/19/2023
+  course: BPT32644
+  title: Adult Learning Core/Coaching  Feedback
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/29/2023
   course: PDP04838
   title: 2023 Microsoft Cloud Storage w/ OD and SP
@@ -3894,26 +3906,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/7/2021
   expiration_date: 6/7/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/7/2021
-  expiration_date: 6/7/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/23/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/23/2010

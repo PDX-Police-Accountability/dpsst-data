@@ -27,13 +27,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
-| Code of Ethics | Signed | 4/6/2007 |  |
 | Code of Ethics | Signed | 4/6/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/10/2023 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 3/22/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/22/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
@@ -73,6 +69,9 @@
 | 10/18/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
 | 9/22/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 9/22/2022 | PDP27523 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 9/22/2022 | PDP10847 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/22/2022 | PDP43193 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 9/20/2022 | PDP38370 | Emergency Operations Center/ICS Interface | Passed | 0.0 | 8.50 |
 | 9/19/2022 | PDP01374 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
 | 9/19/2022 | PDP07952 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |

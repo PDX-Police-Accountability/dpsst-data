@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
-| Certification Cards | First Aid and CPR | 8/4/2021 | 8/4/2023 |
-| Code of Ethics | Signed | 2/7/2017 |  |
 | Code of Ethics | Signed | 2/7/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,7 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/12/2023 | MKL44085 | #REF! | Instructed | 0.0 | 8.00 |
+| 4/13/2023 | MKL28247 | Tableau Training | Passed | 0.0 | 1.00 |
+| 4/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
+| 4/12/2023 | MKL17384 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 3/7/2023 | MKL35654 | Use of Forcet/Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 2/28/2023 | MKL39207 | DT/Use of Force | Passed | 0.0 | 8.00 |
 | 10/19/2022 | MKL31883 | DT/Use of Force, Fall 2022 | Instructed | 0.0 | 8.00 |

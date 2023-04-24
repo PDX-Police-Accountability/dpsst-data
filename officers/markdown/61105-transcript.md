@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | First Aid/CPR Required | 4/12/2023 | 4/12/2023 |
-| Maintenance Requirements | First Aid/CPR Required | 4/12/2023 | 4/12/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,7 @@
 | 3/3/2023 | NGP12885 | Taser recertification | Passed | 0.0 | 2.00 |
 | 3/1/2023 | NGP29100 | Protecting First Responders from Opioid Exposure | Passed | 0.0 | 1.00 |
 | 1/23/2023 | NGP31772 | WRAP restraint / Pinning | Passed | 0.0 | 1.00 |
+| 12/31/2022 | NGP37822 | Roll Call Training Consolidated Roster | Passed | 0.0 | 6.67 |
 | 12/15/2022 | NGP42688 | Hazmat (Police One Academy) | Passed | 0.0 | 2.00 |
 | 12/2/2022 | NGP14935 | SFST Refresher with Wet Lab | Passed | 0.0 | 3.50 |
 | 11/30/2022 | NGP36484 | Emotional Survival for Law Enforcement | Passed | 0.0 | 2.00 |

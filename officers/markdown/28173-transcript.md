@@ -25,13 +25,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 6/29/2022 | 6/30/2024 |
 | Certification Cards | First Aid and CPR | 6/29/2022 | 6/30/2024 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 4/15/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 8/10/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2023 | MKL28247 | Tableau Training | Passed | 0.0 | 1.00 |
 | 2/28/2023 | MKL39207 | DT/Use of Force | Passed | 0.0 | 8.00 |
 | 12/28/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/28/2022 | MKL04258 | Serving Humanity with Dignity in Equity | Passed | 0.0 | 1.00 |

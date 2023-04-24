@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/20/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 4/20/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 4/19/2023 | BNP16748 | Firearms Range Training | Passed | 0.0 | 1.00 |
 | 4/4/2023 | BNP18548 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/4/2023 | BNP02810 | Stop Stick Training | Passed | 0.0 | 0.50 |
 | 2/16/2023 | BNP13349 | UAS Monthly Training | Passed | 0.0 | 4.00 |

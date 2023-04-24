@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2023 | VND26638 | Foundations of Forensic Interviewing | Passed | 0.0 | 16.00 |
 | 11/14/2019 | F6D27803 | Oregon Peace Officers Association Annual Conf. | Passed | 0.0 | 24.00 |
 | 5/10/2019 | F6D28509 | Emergency Vehicle Operation In-Service | Passed | 0.0 | 24.00 |
 | 5/7/2019 | F6D13446 | 2nd Trimester Firearms | Passed | 0.0 | 9.00 |

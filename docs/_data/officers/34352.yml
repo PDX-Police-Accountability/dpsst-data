@@ -272,6 +272,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/7/2022
+  course: PDP26428
+  title: NW ICAC Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/25/2022
   course: PDP38585
   title: AXON CEW Annual Update
@@ -3920,21 +3926,9 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/24/2021
-  expiration_date: 6/24/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/24/2021

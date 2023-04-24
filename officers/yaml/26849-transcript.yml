@@ -3,12 +3,18 @@ header_record:
   name: Wingfield, Larry L.
   dpsst_identifier: '26849'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/20/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/16/2021
   agency: Portland Police Bureau
   action: Return LOA
@@ -33,7 +39,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 1/16/1993
-  expiration_date: ''
+  expiration_date: 7/20/2023
   probation_date: ''
 training_records:
 - date: 3/29/2023

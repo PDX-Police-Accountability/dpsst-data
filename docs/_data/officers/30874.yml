@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/13/2023
+  course: FGP35296
+  title: CPR / First Aid bi-annual refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/21/2023
+  course: FGP04399
+  title: Investigations Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/17/2023
   course: FGP14694
   title: Tactical Combat Casualty Care (TCCC)
@@ -4405,14 +4417,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/13/2023
   expiration_date: 4/13/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/13/2023
-  expiration_date: 4/13/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4421,22 +4425,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/17/2021
   expiration_date: 9/17/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 9/17/2021
-  expiration_date: 9/17/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/29/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/29/2010

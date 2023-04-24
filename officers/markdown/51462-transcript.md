@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | PDS08325 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 3/8/2023 | PDS11734 | Policy Update / Use of Force Review | Passed | 0.0 | 2.00 |
 | 2/26/2023 | PDS03063 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/26/2023 | PDS23959 | TacMed | Passed | 0.0 | 4.00 |

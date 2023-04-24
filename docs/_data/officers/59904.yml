@@ -775,14 +775,6 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 7/20/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/15/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 7/15/2019
   expiration_date: ''
 education_records: []

@@ -32,12 +32,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 5/18/2021 | 5/18/2023 |
 | Certification Cards | First Aid and CPR | 5/18/2021 | 5/18/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 4/7/2009 |  |
 | Code of Ethics | Signed | 4/7/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -64,6 +60,7 @@
 | 8/8/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/8/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 8/8/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 7/26/2022 | PDP25685 | 2022-2 Range Primary Firearm Qualification | Passed | 0.0 | 0.50 |
 | 7/25/2022 | PDP01613 | 2022 ABLE Performance Reviews for Supervisors NR | Passed | 0.0 | 0.25 |
 | 7/25/2022 | PDP13658 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.25 |
 | 7/25/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |

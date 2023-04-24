@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
-| Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/21/2021 | 6/22/2023 |
-| Certification Cards | First Aid and CPR | 6/21/2021 | 6/22/2023 |
-| Code of Ethics | Signed | 12/12/2000 |  |
 | Code of Ethics | Signed | 12/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | PDP33193 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/23/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/23/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
@@ -60,6 +56,7 @@
 | 3/23/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/23/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/17/2023 | OCS34493 | FBI/LEEDA SLI | Passed | 0.0 | 28.00 |
+| 3/17/2023 | PDP00168 | FBI LEEDA Supervisor Institute | Passed | 0.0 | 28.00 |
 | 2/27/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/22/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/14/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |

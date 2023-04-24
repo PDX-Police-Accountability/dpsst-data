@@ -92,6 +92,12 @@ certification_records:
   expiration_date: 11/30/2024
   probation_date: ''
 training_records:
+- date: 4/13/2023
+  course: VND26638
+  title: Foundations of Forensic Interviewing
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/14/2019
   course: F6D27803
   title: Oregon Peace Officers Association Annual Conf.

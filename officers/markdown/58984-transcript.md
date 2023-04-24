@@ -25,20 +25,12 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
-| Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
-| Certification Cards | First Aid and CPR | 4/18/2023 | 4/18/2025 |
 | Certification Cards | First Aid and CPR | 4/18/2023 | 4/18/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/24/2021 | 5/24/2023 |
 | Certification Cards | First Aid and CPR | 5/24/2021 | 5/24/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 8/16/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/16/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 3/26/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 3/26/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | PDP33193 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/18/2023 | PDP12729 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/15/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/15/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

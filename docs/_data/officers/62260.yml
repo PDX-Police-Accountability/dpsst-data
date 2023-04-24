@@ -16,10 +16,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/13/2023
+- status_date: 4/21/2023
   certificate: Police Officer
   level: Basic
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: 3/30/2024
@@ -883,20 +883,8 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 2/14/2023
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 2/21/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/21/2022
-  expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/1/2022
-  expiration_date: 2/1/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/1/2022

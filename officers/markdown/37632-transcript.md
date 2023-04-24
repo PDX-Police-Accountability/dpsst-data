@@ -33,11 +33,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/7/2021 | 6/7/2023 |
-| Certification Cards | First Aid and CPR | 6/7/2021 | 6/7/2023 |
-| Code of Ethics | Signed | 3/23/2010 |  |
 | Code of Ethics | Signed | 3/23/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | 43618 | Adult Learning Core/Coaching  Feedback | Passed | 0.0 | 6.00 |
+| 4/19/2023 | BPT32644 | Adult Learning Core/Coaching  Feedback | Passed | 0.0 | 6.00 |
 | 3/29/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

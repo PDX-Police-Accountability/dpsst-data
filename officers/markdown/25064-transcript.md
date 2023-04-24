@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/27/2021 | 10/27/2023 |
-| Certification Cards | First Aid and CPR | 10/27/2021 | 10/27/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Signed | 1/24/2013 |  |
 | Code of Ethics | Signed | 1/24/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,7 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/12/2023 | MKL44085 | #REF! | Passed | 0.0 | 8.00 |
+| 4/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 4/12/2023 | MKL17384 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/19/2023 | MKL28335 | LEDS Certification | Passed | 0.0 | 10.00 |
 | 11/4/2022 | MKL22194 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

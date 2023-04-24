@@ -41,6 +41,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 4/19/2023
+  course: PDS08325
+  title: Reserve Deputy Unit Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/8/2023
   course: PDS11734
   title: Policy Update / Use of Force Review

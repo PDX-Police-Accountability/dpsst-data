@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
-| Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
-| Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2023 | TGP25079 | Path of the Guardian 2023Q1 | Passed | 0.0 | 2.00 |
 | 3/26/2023 | TGP33817 | Drone Use for Patrol and Investigations | Passed | 0.0 | 1.00 |
 | 3/20/2023 | TGP13399 | K-9 Training | Passed | 0.0 | 1.00 |
 | 1/13/2023 | TGP34570 | 2022 July Patrol Briefing Training | Passed | 0.0 | 0.75 |
@@ -70,7 +67,7 @@
 | 11/9/2021 | TGP37894 | De-Escalation, Intervention and Force Mitigation | Passed | 0.0 | 3.00 |
 | 10/18/2021 | TGP23494 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/29/2021 | TGP42230 | 2021 Oregon STOP Training | Passed | 0.0 | 0.50 |
-| 9/28/2021 | TGP20238 | Drone Use for Patrol and Investigations | Passed | 0.0 | 1.00 |
+| 9/28/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 9/27/2021 | TGP21506 | Drone Use for Patrol and Investigations | Passed | 0.0 | 0.50 |
 | 9/22/2021 | TGP24194 | 2021 Half-Day Firearms Training | Passed | 0.0 | 5.00 |
 | 9/12/2021 | TGP41185 | Measure 110 and Its Impact on Drug Prosecution | Passed | 0.0 | 1.00 |
