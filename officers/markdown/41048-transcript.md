@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/19/2023 | West Linn Police Department | Discharged | Sergeant |  |  |
 | 1/23/2023 | West Linn Police Department | Hired | Sergeant |  |  |
 | 1/21/2021 | Portland Police Bureau | Resigned | Lieutenant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -22,11 +23,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/1/2023 | Police Officer | Advanced | ReactiveUR | 9/4/2008 |  |  |
-| 3/1/2023 | Police Officer | Basic | ReactiveUR | 7/29/2002 |  |  |
-| 3/1/2023 | Police Officer | Intermediate | ReactiveUR | 7/29/2002 |  |  |
-| 3/1/2023 | Police Officer | Management | ReactiveUR | 10/2/2020 |  |  |
-| 3/1/2023 | Police Officer | Supervisory | ReactiveUR | 2/13/2014 |  |  |
+| 3/1/2023 | Police Officer | Advanced | ReactiveUR | 9/4/2008 | 7/19/2023 |  |
+| 3/1/2023 | Police Officer | Basic | ReactiveUR | 7/29/2002 | 7/19/2023 |  |
+| 3/1/2023 | Police Officer | Intermediate | ReactiveUR | 7/29/2002 | 7/19/2023 |  |
+| 3/1/2023 | Police Officer | Management | ReactiveUR | 10/2/2020 | 7/19/2023 |  |
+| 3/1/2023 | Police Officer | Supervisory | ReactiveUR | 2/13/2014 | 7/19/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

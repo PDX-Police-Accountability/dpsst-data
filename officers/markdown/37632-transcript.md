@@ -45,7 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/19/2023 | 43618 | Adult Learning Core/Coaching  Feedback | Passed | 0.0 | 6.00 |
+| 4/19/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 4/19/2023 | BPT32644 | Adult Learning Core/Coaching  Feedback | Passed | 0.0 | 6.00 |
 | 3/29/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/19/2023
+  agency: West Linn Police Department
+  action: Discharged
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/23/2023
   agency: West Linn Police Department
   action: Hired
@@ -57,35 +63,35 @@ certification_records:
   level: Advanced
   status: ReactiveUR
   certificate_date: 9/4/2008
-  expiration_date: ''
+  expiration_date: 7/19/2023
   probation_date: ''
 - status_date: 3/1/2023
   certificate: Police Officer
   level: Basic
   status: ReactiveUR
   certificate_date: 7/29/2002
-  expiration_date: ''
+  expiration_date: 7/19/2023
   probation_date: ''
 - status_date: 3/1/2023
   certificate: Police Officer
   level: Intermediate
   status: ReactiveUR
   certificate_date: 7/29/2002
-  expiration_date: ''
+  expiration_date: 7/19/2023
   probation_date: ''
 - status_date: 3/1/2023
   certificate: Police Officer
   level: Management
   status: ReactiveUR
   certificate_date: 10/2/2020
-  expiration_date: ''
+  expiration_date: 7/19/2023
   probation_date: ''
 - status_date: 3/1/2023
   certificate: Police Officer
   level: Supervisory
   status: ReactiveUR
   certificate_date: 2/13/2014
-  expiration_date: ''
+  expiration_date: 7/19/2023
   probation_date: ''
 training_records:
 - date: 2/7/2023

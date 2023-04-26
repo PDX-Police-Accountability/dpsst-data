@@ -3,26 +3,25 @@ header_record:
   name: Pegoski, Billy R.
   dpsst_identifier: '63528'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/13/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/27/2022
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 10/27/2022
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 4/27/2024
+certification_records: []
 training_records:
 - date: 2/20/2023
   course: M10-23A
