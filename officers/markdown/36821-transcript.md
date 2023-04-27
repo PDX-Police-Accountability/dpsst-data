@@ -27,6 +27,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Code of Ethics | Signed | 2/23/2011 |  |
 | Code of Ethics | Signed | 2/23/2011 |  |
 ## Education
 | date | degree | school | major | hours |
