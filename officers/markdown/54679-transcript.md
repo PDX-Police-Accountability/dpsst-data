@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | MLP22573 | Safety Compass Human Trafficing | Passed | 0.0 | 1.00 |
 | 3/21/2023 | MLP26360 | Immediate action drills with handgun and rifles | Passed | 0.0 | 3.00 |
 | 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |

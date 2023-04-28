@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/27/2001 |  |
 | Code of Ethics | Signed | 7/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | EGP19277 | Firearms Skills/Vehicle Tactics/Vehicle Arrests | Passed | 0.0 | 9.00 |
+| 4/13/2023 | EGP06450 | Pistol Qualification | Passed | 0.0 | 4.00 |
 | 3/9/2023 | EGP35347 | Firearms Training | Passed | 0.0 | 3.75 |
 | 3/9/2023 | EGP16165 | Critical Skills Training: Bldg Search/HR Events | Passed | 0.0 | 3.75 |
 | 2/9/2023 | EGP12358 | Belonging Training - Module 1 | Passed | 0.0 | 3.00 |

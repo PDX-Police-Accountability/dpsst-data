@@ -69,12 +69,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2023
+  course: F1513162
+  title: Bloodborne Pathogens for LE
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/10/2023
+  course: F1508800
+  title: Drug-Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/10/2023
+  course: F1537198
+  title: Harassment Prevention - Employees
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2023
+  course: F1511790
+  title: Hazard Communication
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2023
+  course: F1535860
+  title: LEDS Inqiury Level Certification
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/10/2023
+  course: F1510297
+  title: New Employee Safety Orientation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2023
+  course: WBP35225
+  title: Redflex Program Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/31/2023
   course: WBP32501
   title: WPD Quarter 1 Firearms Qualifications
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/31/2023
+  course: F1523311
+  title: Woodburn PD Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/27/2023
   course: BPT04355
   title: Pistol Mounted Optic Instructor
@@ -6740,14 +6788,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/19/2021
   expiration_date: 6/19/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/19/2021
-  expiration_date: 6/19/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/22/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/22/2010

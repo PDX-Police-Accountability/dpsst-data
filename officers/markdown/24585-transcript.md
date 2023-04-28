@@ -30,9 +30,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/18/2022 | 5/18/2024 |
-| Certification Cards | First Aid and CPR | 5/18/2022 | 5/18/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 ## Education
@@ -42,6 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2023 | PSU12438 | Ethics In Law Enforcement | Passed | 0.0 | 0.00 |
+| 4/25/2023 | PSU28152 | Legal aspects - Use of force | Passed | 0.0 | 0.00 |
+| 4/24/2023 | PSU34264 | Marksmanship/Shooting  Moving/Target Transitions | Passed | 0.0 | 0.00 |
+| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 3.00 |
+| 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
 | 12/16/2022 | 22-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 7/27/2022 | PSU33623 | NOBLE Training Confrence 2022 | Passed | 0.0 | 32.00 |
 | 6/30/2022 | PSU27944 | IACLEA 2022 Conference | Passed | 0.0 | 24.00 |

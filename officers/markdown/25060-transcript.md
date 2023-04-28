@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
-| Code of Ethics | Signed | 12/4/2007 |  |
 | Code of Ethics | Signed | 12/4/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2023 | WBP35225 | Redflex Program Training | Instructed | 0.0 | 1.50 |
 | 3/31/2023 | WBP32501 | WPD Quarter 1 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 3/31/2023 | WBP32501 | WPD Quarter 1 Firearms Qualifications | Instructed | 0.0 | 0.50 |
 | 3/21/2023 | WBP02380 | Defensive Tactics (arrest from vehicle) | Passed | 0.0 | 3.00 |

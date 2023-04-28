@@ -75,8 +75,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 2/9/2023
-  course: OSU14481
-  title: ICS300  Intermediate Expanding Events
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '21.00'

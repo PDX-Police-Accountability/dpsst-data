@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/14/2021 | 7/14/2023 |
-| Certification Cards | First Aid and CPR | 7/14/2021 | 7/14/2023 |
-| Code of Ethics | Signed | 4/15/2002 |  |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/10/2023 | TDP19925 | De-Escalation 2023 | Passed | 0.0 | 2.00 |
 | 2/25/2023 | TDP40476 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/25/2023 | TDP02621 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 12/30/2022 | TDP31501 | Harassment in the workplace 2022 | Passed | 0.0 | 1.00 |

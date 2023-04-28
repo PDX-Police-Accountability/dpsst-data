@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 12/1/2021 | 12/1/2023 |
-| Certification Cards | First Aid and CPR | 12/1/2021 | 12/1/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 3/8/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/8/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2023 | MKL17027 | Tableau Training | Passed | 0.0 | 1.25 |
+| 4/19/2023 | MKL30293 | Defensive  Tactics | Passed | 0.0 | 8.00 |
 | 12/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2022 | MKL22815 | Understanding Oregon's Ethics Laws | Passed | 0.0 | 1.50 |
 | 10/27/2022 | MKL24393 | Defensive  Tactics | Passed | 0.0 | 4.00 |

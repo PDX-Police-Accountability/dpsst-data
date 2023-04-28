@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2023
+  course: PSU14564
+  title: MILO 3000 / Shoot Don't Shoot Scenarios
+  status: Instructed
+  score: '0.0'
+  hours: '1.25'
 - date: 2/23/2023
   course: PSU39116
   title: MILO 3000 / Scenario Training

@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Code of Ethics | Signed | 3/22/2010 |  |
 | Code of Ethics | Signed | 3/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,7 +37,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2023 | F1513162 | Bloodborne Pathogens for LE | Passed | 0.0 | 0.75 |
+| 4/10/2023 | F1508800 | Drug-Free Workplace | Passed | 0.0 | 0.75 |
+| 4/10/2023 | F1537198 | Harassment Prevention - Employees | Passed | 0.0 | 1.00 |
+| 4/10/2023 | F1511790 | Hazard Communication | Passed | 0.0 | 1.00 |
+| 4/10/2023 | F1535860 | LEDS Inqiury Level Certification | Passed | 0.0 | 6.00 |
+| 4/10/2023 | F1510297 | New Employee Safety Orientation | Passed | 0.0 | 1.00 |
+| 4/4/2023 | WBP35225 | Redflex Program Training | Passed | 0.0 | 1.50 |
 | 3/31/2023 | WBP32501 | WPD Quarter 1 Firearms Qualifications | Passed | 0.0 | 0.50 |
+| 3/31/2023 | F1523311 | Woodburn PD Policy Review | Passed | 0.0 | 2.00 |
 | 1/27/2023 | BPT04355 | Pistol Mounted Optic Instructor | Passed | 0.0 | 16.00 |
 | 7/20/2022 | BPT27663 | Single Hand Pistol Manipulations | Passed | 0.0 | 4.00 |
 | 9/15/2021 | PDP19172 | 2021 SERT Training - Iteration | Passed | 0.0 | 3.00 |

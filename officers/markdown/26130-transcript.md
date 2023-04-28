@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/9/2023 | OSU14481 | ICS300  Intermediate Expanding Events | Passed | 0.0 | 21.00 |
+| 2/9/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 21.00 |
 | 4/21/2021 | F6D01937 | Basic Background Training | Passed | 0.0 | 16.00 |
 | 9/29/2020 | TGP12510 | Microsoft Teams Training | Passed | 0.0 | 2.00 |
 | 7/2/2019 | F6D04721 | Corrections Legal Update In-Service | Passed | 0.0 | 8.00 |

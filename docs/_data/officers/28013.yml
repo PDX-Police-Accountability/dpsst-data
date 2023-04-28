@@ -56,6 +56,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/25/2023
+  course: PSU12438
+  title: Ethics In Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 4/25/2023
+  course: PSU28152
+  title: Legal aspects - Use of force
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 4/24/2023
+  course: PSU34264
+  title: Marksmanship/Shooting  Moving/Target Transitions
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/31/2022
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 12/31/2022
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/2/2022
   course: 22-0029
   title: DPSST Supervision
@@ -1495,18 +1525,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/19/2022
   expiration_date: 5/19/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/19/2022
-  expiration_date: 5/19/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

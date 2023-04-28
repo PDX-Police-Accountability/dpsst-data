@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2023 | PSU14564 | MILO 3000 / Shoot Don't Shoot Scenarios | Instructed | 0.0 | 1.25 |
 | 2/23/2023 | PSU39116 | MILO 3000 / Scenario Training | Instructed | 0.0 | 2.00 |
 | 2/23/2023 | PSU27983 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/13/2023 | PSU43381 | Defensive Tactics | Passed | 0.0 | 2.00 |
