@@ -2109,4 +2109,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/4/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 9/5/2010
+  degree: Associate Science
+  school: Portland Community College
+  major: ''
+  hours: '178.0'

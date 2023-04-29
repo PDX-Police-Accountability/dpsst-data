@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/19/2023
+  course: SMP03607
+  title: IABTI - Oregon Spring Regional Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/22/2023
   course: PDP00714
   title: MEDU Weekly Training

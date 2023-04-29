@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | SMP03607 | IABTI - Oregon Spring Regional Training | Passed | 0.0 | 8.00 |
 | 3/22/2023 | PDP00714 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/6/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/5/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2023
+  course: SAG01096
+  title: Simplifying Financial Records Investigations
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/30/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles

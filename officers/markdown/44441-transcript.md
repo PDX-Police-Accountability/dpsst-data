@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | OSH17315 | 2023 OPCA Spring Conference - Detection | Passed | 0.0 | 24.00 |
 | 3/17/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/17/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

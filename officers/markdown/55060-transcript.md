@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | SMP03607 | IABTI - Oregon Spring Regional Training | Passed | 0.0 | 8.00 |
 | 3/28/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

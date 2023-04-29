@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | SMP03607 | IABTI - Oregon Spring Regional Training | Instructed | 0.0 | 8.00 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/25/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/25/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2023 | SAG01096 | Simplifying Financial Records Investigations | Passed | 0.0 | 15.00 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/16/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/16/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

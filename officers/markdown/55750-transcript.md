@@ -31,6 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 9/5/2010 | Associate Science | Portland Community College |  | 178.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
