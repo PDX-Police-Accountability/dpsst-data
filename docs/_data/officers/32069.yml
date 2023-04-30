@@ -68,6 +68,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/24/2023
+  course: REG20435
+  title: Standing  Ground Back Control Escapes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2023
+  course: REG24087
+  title: Guard Pass - Pressure Pass
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/5/2023
   course: SDP05875
   title: Preventing Discrimination and Harassment Training
@@ -83,6 +95,12 @@ training_records:
 - date: 4/5/2023
   course: SDP35671
   title: The Wrap- Restraints Training Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/27/2023
+  course: REG04015
+  title: Mount Control Top
   status: Passed
   score: '0.0'
   hours: '1.00'

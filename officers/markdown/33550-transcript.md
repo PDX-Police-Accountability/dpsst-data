@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/24/2022 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 7/11/2019 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/5/2006 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/4/2006 | Beaverton Police Department | Resigned | Police Off |  |  |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/23/2022 | Portland Police Bureau | LOA | Detective |  |  |
 | 11/3/2016 | Portland Police Bureau | Promotion | Detective |  |  |
 | 5/23/2002 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/10/2002 | Police Corps Academy-Participant | Resigned | Cadet |  |  |

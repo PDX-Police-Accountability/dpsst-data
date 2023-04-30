@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2023 | TDP16094 | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 3/10/2023 | TDP19925 | De-Escalation 2023 | Passed | 0.0 | 2.00 |
 | 2/25/2023 | TDP40476 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/25/2023 | TDP02621 | Defensive Tactics | Passed | 0.0 | 2.00 |

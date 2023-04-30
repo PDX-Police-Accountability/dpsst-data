@@ -39,9 +39,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 4/24/2023 | REG20435 | Standing  Ground Back Control Escapes | Passed | 0.0 | 1.00 |
+| 4/10/2023 | REG24087 | Guard Pass - Pressure Pass | Passed | 0.0 | 1.00 |
 | 4/5/2023 | SDP05875 | Preventing Discrimination and Harassment Training | Passed | 0.0 | 1.00 |
 | 4/5/2023 | SDP12033 | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 1.00 |
 | 4/5/2023 | SDP35671 | The Wrap- Restraints Training Refresher | Passed | 0.0 | 1.00 |
+| 3/27/2023 | REG04015 | Mount Control Top | Passed | 0.0 | 1.00 |
 | 3/20/2023 | REG38314 | Control from Mount | Passed | 0.0 | 1.00 |
 | 3/15/2023 | SDP14204 | Firearms / Malfunction Drills | Instructed | 0.0 | 3.00 |
 | 3/15/2023 | SDP12279 | Pat Down / Field Search Refresher | Instructed | 0.0 | 0.50 |

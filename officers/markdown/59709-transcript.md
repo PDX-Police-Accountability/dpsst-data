@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 4/20/2023 | BNP12161 | UAS Monthly Training | Passed | 0.0 | 4.00 |
 | 4/19/2023 | BNP16748 | Firearms Range Training | Passed | 0.0 | 1.00 |
 | 4/4/2023 | BNP18548 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/4/2023 | BNP02810 | Stop Stick Training | Passed | 0.0 | 0.50 |

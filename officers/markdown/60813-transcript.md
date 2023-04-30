@@ -37,6 +37,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/14/2023 | OSH44693 | Intoxilyzer 8000 | Passed | 0.0 | 6.00 |
+| 4/14/2023 | OSH11826 | Academy SFST | Passed | 0.0 | 4.00 |
+| 4/14/2023 | OSH21065 | Academy Taser | Passed | 0.0 | 4.00 |
+| 4/14/2023 | OSH43781 | Academy Crash | Passed | 0.0 | 16.00 |
+| 4/14/2023 | OSH09949 | Academy Defensive Tactics | Passed | 0.0 | 40.00 |
+| 4/14/2023 | OSH43615 | Academy General | Passed | 0.0 | 52.00 |
+| 4/14/2023 | OSH00738 | Academy MRT | Passed | 0.0 | 8.00 |
+| 4/14/2023 | OSH22762 | Academy Firearms | Passed | 0.0 | 40.00 |
+| 4/14/2023 | OSH05797 | Academy Force on Force | Passed | 0.0 | 4.00 |
+| 4/14/2023 | OSH09504 | Academy Patrol Tactics | Passed | 0.0 | 40.00 |
+| 4/14/2023 | OSH26838 | Academy OPS | Passed | 0.0 | 4.00 |
+| 4/14/2023 | OSH39707 | Academy People in Crisis | Passed | 0.0 | 16.00 |
+| 4/14/2023 | OSH14076 | Academy Medical Scenarios | Passed | 0.0 | 8.00 |
+| 4/14/2023 | OSH42109 | Academy EVOC | Passed | 0.0 | 7.00 |
 | 4/4/2023 | OSH28127 | First Aid | Passed | 0.0 | 5.50 |
 | 4/4/2023 | OSH41082 | Naloxone/ Narcan | Passed | 0.0 | 0.50 |
 | 4/4/2023 | OSH32262 | Adult/Child CPR | Passed | 0.0 | 6.00 |

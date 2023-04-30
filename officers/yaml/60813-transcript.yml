@@ -42,6 +42,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/14/2023
+  course: OSH11826
+  title: Academy SFST
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/14/2023
+  course: OSH21065
+  title: Academy Taser
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/14/2023
+  course: OSH43781
+  title: Academy Crash
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/14/2023
+  course: OSH09949
+  title: Academy Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/14/2023
+  course: OSH43615
+  title: Academy General
+  status: Passed
+  score: '0.0'
+  hours: '52.00'
+- date: 4/14/2023
+  course: OSH00738
+  title: Academy MRT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/14/2023
+  course: OSH22762
+  title: Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/14/2023
+  course: OSH05797
+  title: Academy Force on Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/14/2023
+  course: OSH09504
+  title: Academy Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/14/2023
+  course: OSH26838
+  title: Academy OPS
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/14/2023
+  course: OSH39707
+  title: Academy People in Crisis
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/14/2023
+  course: OSH14076
+  title: Academy Medical Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/14/2023
+  course: OSH42109
+  title: Academy EVOC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/4/2023
   course: OSH28127
   title: First Aid

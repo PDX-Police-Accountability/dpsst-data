@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2023 | HBS26801 | Building Search | Passed | 0.0 | 4.00 |
+| 3/30/2023 | REG23696 | Standing Guard Pass | Passed | 0.0 | 1.00 |
 | 3/16/2023 | REG17353 | Guard Pass from Ground Control | Passed | 0.0 | 1.00 |
 | 2/24/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/21/2023 | HBS03039 | On-Duty PIT Refresher Training | Passed | 0.0 | 0.50 |

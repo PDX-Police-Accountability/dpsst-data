@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2023 | HBS39888 | Building Search | Passed | 0.0 | 4.00 |
 | 3/13/2023 | HBS29958 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/13/2023 | HBS38246 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 3/8/2023 | HBS16591 | Hostage Rescue ConSim | Passed | 0.0 | 9.00 |

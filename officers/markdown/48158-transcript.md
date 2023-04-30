@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2023 | PDP35875 | Future of Work | Passed | 0.0 | 3.00 |
 | 4/4/2023 | PDP27317 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2023 | PDP41483 | Blue to Gold Criminal Investigations | Passed | 0.0 | 3.00 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

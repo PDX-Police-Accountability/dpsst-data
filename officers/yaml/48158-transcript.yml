@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2023
+  course: PDP35875
+  title: Future of Work
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/4/2023
   course: PDP27317
   title: CPR/First Aid
