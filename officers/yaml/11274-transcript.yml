@@ -488,10 +488,6 @@ attribute_records:
   value: Signed
   effective_date: 6/27/2007
   expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/27/2007
-  expiration_date: ''
 education_records:
 - date: 5/17/1975
   degree: Bachelor Arts

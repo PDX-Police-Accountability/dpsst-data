@@ -15,6 +15,18 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 8/13/2022
+  agency: Military Service
+  action: Resigned
+  rank: Miltry Pol
+  classification: ''
+  assignment: ''
+- date: 8/14/2017
+  agency: Military Service
+  action: Hired
+  rank: Miltry Pol
+  classification: ''
+  assignment: ''
 certification_records:
 - status_date: 9/22/2022
   certificate: Police Officer
@@ -91,10 +103,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/12/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/12/2022

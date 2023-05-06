@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/16/2023 | Columbia River Inter-Tribal Police Dept. | Hired | Police Off |  |  |
 | 1/20/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/15/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/16/2023 | Police Officer | Basic | Required |  |  | 11/16/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

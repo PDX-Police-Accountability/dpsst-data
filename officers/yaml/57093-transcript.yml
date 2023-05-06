@@ -2070,18 +2070,6 @@ attribute_records:
   effective_date: 4/28/2023
   expiration_date: 4/28/2023
 - topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 4/28/2023
-  expiration_date: 4/28/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
@@ -2092,14 +2080,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/16/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/16/2019
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/22/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

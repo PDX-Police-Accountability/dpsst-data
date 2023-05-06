@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/16/2023
+  agency: Columbia River Inter-Tribal Police Dept.
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/20/2023
   agency: Portland Police Bureau
   action: Resigned
@@ -21,7 +27,14 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 5/16/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 11/16/2024
 training_records:
 - date: 1/2/2023
   course: PDP37800

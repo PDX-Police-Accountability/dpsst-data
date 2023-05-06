@@ -13,6 +13,8 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 9/22/2022 | Portland Police Bureau | Hired | Police Off |  |  |
+| 8/13/2022 | Military Service | Resigned | Miltry Pol |  |  |
+| 8/14/2017 | Military Service | Hired | Miltry Pol |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
@@ -20,7 +22,6 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
 ## Education
 | date | degree | school | major | hours |

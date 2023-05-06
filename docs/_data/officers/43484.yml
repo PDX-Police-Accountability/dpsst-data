@@ -22,12 +22,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/19/2023
+- status_date: 5/1/2023
   certificate: Police Officer
   level: Advanced
-  status: App Recd
+  status: App Incmpl
   certificate_date: ''
-  expiration_date: ''
+  expiration_date: 7/1/2023
   probation_date: ''
 - status_date: 8/1/2019
   certificate: Police Officer
@@ -3966,26 +3966,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/1/2021
   expiration_date: 6/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/29/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

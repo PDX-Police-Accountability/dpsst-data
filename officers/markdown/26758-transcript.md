@@ -4,7 +4,7 @@
 | name | Nichols, Michael J. |
 | dpsst_identifier | 26758 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/28/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/8/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 8/25/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 2/27/1992 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/7/1992 | Police Officer | Basic | Granted | 12/7/1992 |  |  |
+| 12/7/1992 | Police Officer | Basic | Granted | 12/7/1992 | 7/28/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

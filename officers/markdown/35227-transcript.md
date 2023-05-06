@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/17/2023 | Multnomah County District Attorney | Hired | Investigtr |  |  |
 | 3/22/2023 | Portland Police Bureau | Retired | Detective |  |  |
 | 4/5/2007 | Portland Police Bureau | Promotion | Detective |  |  |
 | 3/19/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/21/2009 | Police Officer | Advanced | Granted | 12/21/2009 | 6/22/2023 |  |
-| 12/21/2009 | Police Officer | Intermediate | Granted | 12/21/2009 | 6/22/2023 |  |
-| 12/29/1998 | Police Officer | Basic | Granted | 12/29/1998 | 6/22/2023 |  |
+| 12/21/2009 | Police Officer | Advanced | Granted | 12/21/2009 |  |  |
+| 12/21/2009 | Police Officer | Intermediate | Granted | 12/21/2009 |  |  |
+| 12/29/1998 | Police Officer | Basic | Granted | 12/29/1998 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

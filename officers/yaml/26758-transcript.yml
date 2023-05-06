@@ -3,12 +3,18 @@ header_record:
   name: Nichols, Michael J.
   dpsst_identifier: '26758'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/28/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/8/2021
   agency: Portland Police Bureau
   action: Return LOA
@@ -33,7 +39,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 12/7/1992
-  expiration_date: ''
+  expiration_date: 7/28/2023
   probation_date: ''
 training_records:
 - date: 12/31/2021

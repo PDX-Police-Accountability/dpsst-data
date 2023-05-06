@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/31/2023 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 12/8/1997 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 12/11/1996 | Portland Police Bureau | Prob Dschg | Reserve |  |  |
 | 4/4/1995 | Portland Police Bureau | Hired | Reserve |  |  |
@@ -26,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/22/2021 | 10/28/2023 |
-| Certification Cards | First Aid and CPR | 11/22/2021 | 10/28/2023 |
-| Code of Ethics | Signed | 12/14/2001 |  |
 | Code of Ethics | Signed | 12/14/2001 |  |
 ## Education
 | date | degree | school | major | hours |

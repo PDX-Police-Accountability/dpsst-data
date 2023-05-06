@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/17/2023
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
 - date: 3/22/2023
   agency: Portland Police Bureau
   action: Retired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/21/2009
-  expiration_date: 6/22/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 12/21/2009
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 12/21/2009
-  expiration_date: 6/22/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 12/29/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 12/29/1998
-  expiration_date: 6/22/2023
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 3/11/2023
