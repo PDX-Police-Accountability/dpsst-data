@@ -68,6 +68,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/26/2023
+  course: SDP29316
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 4/24/2023
   course: REG20435
   title: Standing  Ground Back Control Escapes

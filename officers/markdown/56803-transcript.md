@@ -42,6 +42,11 @@
 | 3/31/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/24/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
+| 3/16/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 3/16/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 3/16/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/16/2023 | PDP15461 | 2023-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 3/16/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 3/12/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/10/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/8/2023 | HBS16591 | Hostage Rescue ConSim | Passed | 0.0 | 9.00 |
@@ -152,6 +157,7 @@
 | 2/25/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/25/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/25/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/25/2022 | PDP23052 | 2023-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/1/2022 | PDP41670 | 2021 City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/26/2022 | PDP13897 | 2020-12 City Attorney's Legal Updates Dec. 2020 | Passed | 0.0 | 0.25 |
 | 1/26/2022 | PDP25973 | 2021 Online Crowd Control - CAO Part 1 | Passed | 0.0 | 1.00 |

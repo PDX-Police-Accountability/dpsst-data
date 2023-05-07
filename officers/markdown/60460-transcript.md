@@ -39,6 +39,8 @@
 | 2/10/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/27/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/26/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/26/2023 | PDP15461 | 2023-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
@@ -104,6 +106,7 @@
 | 3/7/2022 | PDP04336 | CIU NTR Alarm Resp. Reed Research Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 3/7/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 2/24/2022 | PDP13603 | 2022 Advanced Shotgun Operator Course Training | Passed | 0.0 | 18.00 |
+| 2/24/2022 | PDP23052 | 2023-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/22/2022 | PDP36959 | 2022 In-Service Firearms - Scenarios | Passed | 0.0 | 1.00 |
 | 2/22/2022 | PDP08649 | 2022 In-Service Firearms - Range | Passed | 0.0 | 3.00 |
 | 2/22/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |

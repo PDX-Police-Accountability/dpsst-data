@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/4/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/3/2023
   course: PDP02820
   title: 2020-2 TT New DUI Cite in Lieu Guidelines

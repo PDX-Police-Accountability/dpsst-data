@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/28/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/28/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/6/2023
   course: PDP00872
   title: 2023 Microsoft Word Online Recording

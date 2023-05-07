@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2023
+  course: CVS16845
+  title: 'USFA O305: All Hazard IMT Type 3 Course'
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -177,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/16/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

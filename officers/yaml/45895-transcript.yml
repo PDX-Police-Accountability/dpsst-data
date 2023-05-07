@@ -38,6 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/3/2023
+  course: PDP36097
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/2/2023
+  course: PDP00999
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/21/2023
+  course: PDP22701
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/18/2023
   course: PDP12729
   title: CPR/First Aid
@@ -110,6 +128,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/21/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/21/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/14/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

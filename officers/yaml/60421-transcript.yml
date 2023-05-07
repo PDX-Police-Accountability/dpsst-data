@@ -80,6 +80,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 4/20/2023
+  course: SAG17561
+  title: Firearms range training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/17/2023
   course: SAG30752
   title: Firearms Qualification Training

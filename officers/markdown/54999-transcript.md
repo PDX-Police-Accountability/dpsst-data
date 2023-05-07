@@ -41,12 +41,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 3/23/2023 | TDP44535 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
+| 3/23/2023 | HRS44984 | Tactical Training-Building Search | Passed | 0.0 | 3.50 |
 | 3/13/2023 | HRS21669 | Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 3/13/2023 | HRS37498 | Officer Safety Refresher | Passed | 0.0 | 1.00 |
+| 3/9/2023 | HRS00295 | Tactical Training-Building Search | Passed | 0.0 | 3.50 |
 | 2/28/2023 | HRS38986 | Legal Updates | Passed | 0.0 | 1.00 |
 | 2/17/2023 | OSH34999 | ARIDE | Passed | 0.0 | 16.00 |
+| 2/9/2023 | HRS36443 | Tactical Training-Critical Incident Debrief | Passed | 0.0 | 2.00 |
 | 2/2/2023 | HRS10045 | CIS Fall Supervisor Training | Passed | 0.0 | 5.00 |
+| 1/26/2023 | HRS26525 | Tactical Training-Surround and Call Out | Passed | 0.0 | 2.00 |
+| 1/26/2023 | HRS08944 | Tactical Training-Building Search | Passed | 0.0 | 2.00 |
+| 1/12/2023 | HRS35065 | Tactical Training-Officer Rescue Drills | Passed | 0.0 | 1.00 |
+| 1/12/2023 | HRS27330 | Tactical Training-Room Clearing | Passed | 0.0 | 2.00 |
 | 11/1/2022 | HRS00932 | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/31/2022 | HRS38193 | Fall Firearms Range | Passed | 0.0 | 4.00 |
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -64,7 +72,6 @@
 | 5/1/2022 | HRS28518 | Firearms Qualification | Passed | 0.0 | 4.00 |
 | 4/26/2022 | HRS04075 | Basic First Aid/CPR  AED for Adult/Child/Infant | Passed | 0.0 | 4.00 |
 | 4/14/2022 | REG43884 | Field Training and Evluation Program | Passed | 0.0 | 24.00 |
-| 4/10/2022 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.50 |
 | 3/31/2022 | HRS25974 | 2022 Airways Training Video - Patient Evaluation | Passed | 0.0 | 2.00 |
 | 11/23/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/4/2021 | F6F07601 | Officer Safety | Passed | 0.0 | 1.00 |

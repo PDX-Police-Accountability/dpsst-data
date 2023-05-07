@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/2/2023 | PDP40040 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 5/2/2023 | PDP07433 | 2022-2 In-Service Legal Updates 1010.00 | Passed | 0.0 | 1.50 |
 | 3/17/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/17/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/17/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
@@ -52,12 +54,12 @@
 | 2/21/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/21/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 2/21/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
-| 2/21/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 2/21/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 0.00 |
 | 2/20/2023 | PDP13406 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
-| 2/20/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 2/20/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.00 |
 | 2/20/2023 | PDP12602 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 2/20/2023 | PDP32607 | 2022 Vocabulary in the LGBTQIA2S+ | Passed | 0.0 | 0.25 |
-| 2/20/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 2/20/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.00 |
 | 2/20/2023 | PDP28991 | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 2/20/2023 | PDP02850 | 2022-1- CAO Legal Updates for 1/2022 | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP02624 | 2022-2 CAO Legal Updates for 2/2022 | Passed | 0.0 | 0.25 |
@@ -67,16 +69,18 @@
 | 2/20/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP29729 | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
-| 2/20/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
-| 2/20/2023 | PDP28137 | DIR 0910.00 Use of Force Reporting, Review | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 0.00 |
+| 2/20/2023 | PDP28137 | DIR 0910.00 Use of Force Reporting, Review | Passed | 0.0 | 0.00 |
 | 2/20/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
-| 2/20/2023 | PDP11408 | DIR 1010.00 Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
-| 2/20/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
+| 2/20/2023 | PDP11408 | DIR 1010.00 Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.00 |
+| 2/20/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.00 |
 | 2/20/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 4.75 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/26/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 5/26/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 5/14/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |

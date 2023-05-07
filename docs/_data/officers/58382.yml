@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/21/2023
+  course: SMS44198
+  title: Basic Tactical Operations School
+  status: Passed
+  score: '0.0'
+  hours: '54.50'
 - date: 2/13/2023
   course: OCS33440
   title: Impact Weapon Defense and Strike

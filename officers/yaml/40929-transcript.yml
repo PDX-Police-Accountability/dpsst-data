@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2023
+  course: HSU43962
+  title: Spring In-Service 2023 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/16/2023
+  course: HSU43962
+  title: Spring In-Service 2023 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/27/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording
@@ -68,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/20/2023
+  course: PDP12688
+  title: Post Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/11/2023
+  course: PDP07729
+  title: Pre Academy Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/10/2023
   course: PDP41410
   title: Arson Investigators Firearms Training
@@ -116,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/15/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/9/2023
   course: PDP06735
   title: Pre Dpsst Academy Firearms Training

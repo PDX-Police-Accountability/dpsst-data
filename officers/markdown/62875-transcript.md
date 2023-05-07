@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/6/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
@@ -78,6 +79,7 @@
 | 1/30/2023 | PDP02850 | 2022-1- CAO Legal Updates for 1/2022 | Passed | 0.0 | 0.25 |
 | 1/30/2023 | PDP02624 | 2022-2 CAO Legal Updates for 2/2022 | Passed | 0.0 | 0.25 |
 | 1/30/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 1/30/2023 | PDP07542 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 1/29/2023 | PDP17905 | 2021-9 CAO Legal Updates for 11/2021 1.0 | Passed | 0.0 | 0.25 |
 | 1/29/2023 | PDP44972 | 2021-11 CAO Legal Updates for 11/2021 | Passed | 0.0 | 0.25 |
 | 1/29/2023 | PDP21833 | 2021-10 CAO Legal Updates for 10/2021 | Passed | 0.0 | 0.25 |

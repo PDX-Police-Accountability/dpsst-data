@@ -38,6 +38,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 5/3/2023 | BNP37276 | 2nd Quart. Inservice - HG, Rifle  Off duty skills | Passed | 0.0 | 0.50 |
+| 5/3/2023 | BNP34720 | Emotional Intelligence / Mental Health | Passed | 0.0 | 0.50 |
+| 5/3/2023 | BNP19911 | 2nd Quart. In service 40mm policy/training/qual | Passed | 0.0 | 0.50 |
 | 4/20/2023 | BNP12161 | UAS Monthly Training | Passed | 0.0 | 4.00 |
 | 4/19/2023 | BNP16748 | Firearms Range Training | Passed | 0.0 | 1.00 |
 | 4/4/2023 | BNP18548 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |

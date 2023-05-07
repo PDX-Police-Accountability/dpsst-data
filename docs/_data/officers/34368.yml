@@ -100,6 +100,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/3/2023
+  course: BNP19911
+  title: 2nd Quart. In service 40mm policy/training/qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/3/2023
+  course: BNP37276
+  title: 2nd Quart. Inservice - HG, Rifle  Off duty skills
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/3/2023
+  course: BNP34720
+  title: Emotional Intelligence / Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/4/2023
   course: BNP18548
   title: On Duty Defensive Tactics
@@ -109,6 +127,12 @@ training_records:
 - date: 3/22/2023
   course: BNP23295
   title: Firearms/Handgun Course
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/22/2023
+  course: BNP11078
+  title: Extracting Suspects from vehicles
   status: Passed
   score: '0.0'
   hours: '1.00'

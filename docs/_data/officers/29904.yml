@@ -516,6 +516,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/10/2022
+  course: PDP23052
+  title: 2023-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/7/2022
   course: PDP41369
   title: 2022 Advanced Shotgun Operator Pre-Test Guide

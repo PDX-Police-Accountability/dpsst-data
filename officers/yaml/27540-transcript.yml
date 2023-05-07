@@ -108,12 +108,6 @@ training_records:
   score: '0.0'
   hours: '6.00'
 - date: 4/6/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 4/6/2023
   course: OAC35257
   title: Trauma and Post-Tramatic Stress
   status: Passed

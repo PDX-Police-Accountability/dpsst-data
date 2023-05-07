@@ -35,7 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2023 | STS14890 | Arrests of Foreign Nationals Policy Review | Passed | 0.0 | 0.50 |
 | 3/22/2023 | STS31890 | Taser X26P New User | Passed | 0.0 | 6.00 |
+| 3/20/2023 | STS32800 | Immigration Violations - Policy 411 Review | Passed | 0.0 | 0.50 |
 | 3/1/2023 | STS33390 | Firearms Qualification | Passed | 0.0 | 0.50 |
 | 6/30/2019 | OCP27583 | Briefing training - multiple topics | Passed | 0.0 | 0.50 |
 | 6/9/2019 | OCP35095 | Blood Borne Pathogens | Passed | 0.0 | 1.00 |

@@ -125,6 +125,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/2/2023
+  course: BNP44893
+  title: 2nd Quart. inservice - HG, Rifle  Off Duty skills
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/2/2023
+  course: BNP29119
+  title: 40 MM Policy training and qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/2/2023
+  course: BNP03977
+  title: Emotional Intelligence/ Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/7/2023
   course: OAC12827
   title: Radically  Ethically Motivated Violent Extremists
@@ -137,12 +155,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 4/6/2023
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 4/6/2023
   course: OAC27385
   title: Trauma and Post-Tramatic Stress

@@ -93,7 +93,13 @@ training_records:
   score: '0.0'
   hours: '30.00'
 - date: 10/19/2022
-  course: GSP14088
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
+- date: 10/19/2022
+  course: GSP17903
   title: Red Dot Transition
   status: Instructed
   score: '0.0'

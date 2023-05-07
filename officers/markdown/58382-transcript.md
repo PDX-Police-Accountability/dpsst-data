@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 2/13/2023 | OCS33440 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS27792 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |

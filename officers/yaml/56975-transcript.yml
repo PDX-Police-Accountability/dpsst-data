@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/10/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/23/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -436,6 +442,12 @@ training_records:
 - date: 2/26/2022
   course: PDP04336
   title: CIU NTR Alarm Resp. Reed Research Nuclear Reactor
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/15/2022
+  course: PDP23052
+  title: 2023-1 Range Qualification Shotgun
   status: Passed
   score: '0.0'
   hours: '0.25'

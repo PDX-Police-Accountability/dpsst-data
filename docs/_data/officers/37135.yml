@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/22/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording
@@ -128,6 +134,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/14/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/14/2023
+  course: PDP33199
+  title: 2023-1 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/14/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/7/2023
   course: PDP09073
   title: 2023 Terminator Tire Deflation Device

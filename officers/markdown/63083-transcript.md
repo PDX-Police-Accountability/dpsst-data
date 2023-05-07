@@ -63,7 +63,12 @@
 | 3/29/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP00704 | City of Portland Bloodborne Pathogen | Passed | 0.0 | 1.00 |
+| 3/29/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 3/28/2023 | PDP21342 | FTEP Oreintation | Passed | 0.0 | 9.00 |
 | 3/23/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 3/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/20/2023 | PDP12688 | Post Academy Firearms Training | Passed | 0.0 | 9.00 |
+| 3/7/2023 | PDP11356 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 3/2/2023 | REG00018 | DID/SFST | Passed | 0.0 | 24.00 |
 | 2/20/2023 | BPT31690 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 1/26/2023 | REG17417 | INTOX 8000 | Passed | 0.0 | 6.00 |

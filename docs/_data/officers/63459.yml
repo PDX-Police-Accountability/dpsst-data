@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/11/2023
+  course: PDP07729
+  title: Pre Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/6/2022
   course: PDP28038
   title: 2021 Training New Pistol Qualification

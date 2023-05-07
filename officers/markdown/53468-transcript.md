@@ -69,6 +69,8 @@
 | 1/28/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 1/28/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 1/10/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 1/9/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/9/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 12/19/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 11/4/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/25/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

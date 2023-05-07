@@ -96,6 +96,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/11/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/11/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/5/2023
   course: PDP33753
   title: 2022-3 TT Oregon Ballot Measure 114

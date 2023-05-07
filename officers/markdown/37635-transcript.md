@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/19/2023 | EGP19277 | Firearms Skills/Vehicle Tactics/Vehicle Arrests | Passed | 0.0 | 9.00 |
 | 4/13/2023 | EGP06450 | Pistol Qualification | Passed | 0.0 | 4.00 |
+| 4/13/2023 | EGP39649 | Taser Re-Certification | Passed | 0.0 | 4.00 |
 | 3/9/2023 | EGP35347 | Firearms Training | Passed | 0.0 | 3.75 |
 | 3/9/2023 | EGP16165 | Critical Skills Training: Bldg Search/HR Events | Passed | 0.0 | 3.75 |
 | 2/9/2023 | EGP12358 | Belonging Training - Module 1 | Passed | 0.0 | 3.00 |

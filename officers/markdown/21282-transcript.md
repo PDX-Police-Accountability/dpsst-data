@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2023 | WLP34960 | Stop Stick Refresher Training | Passed | 0.0 | 1.00 |
 | 3/22/2023 | WLP15706 | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 3/1/2023 | WLP31427 | Safety Compass - Human Trafficking Awareness | Passed | 0.0 | 1.00 |
 | 2/7/2023 | WLP44307 | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |

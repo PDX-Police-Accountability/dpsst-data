@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2023 | BPT10509 | I.C.I.S.F. Course | Passed | 0.0 | 27.00 |
 | 9/26/2022 | PSU12472 | Officer Wellness / Mental Health | Passed | 0.0 | 2.00 |
 | 9/5/2022 | PSU22819 | Campus Based Training: Clery Act | Passed | 0.0 | 2.00 |
 | 9/5/2022 | PSU01586 | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |

@@ -159,6 +159,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.00'
+- date: 1/30/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/30/2023
+  course: PDP43962
+  title: 2023-1 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/30/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/17/2023
   course: PDP35372
   title: 2022 Naxolone Administration

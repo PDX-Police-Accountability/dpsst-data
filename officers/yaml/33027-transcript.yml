@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/8/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/1/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions

@@ -48,9 +48,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 5/2/2023 | BNP44893 | 2nd Quart. inservice - HG, Rifle  Off Duty skills | Passed | 0.0 | 6.00 |
+| 5/2/2023 | BNP29119 | 40 MM Policy training and qualification | Passed | 0.0 | 0.50 |
+| 5/2/2023 | BNP03977 | Emotional Intelligence/ Mental Health | Passed | 0.0 | 0.50 |
 | 4/7/2023 | OAC12827 | Radically  Ethically Motivated Violent Extremists | Passed | 0.0 | 1.50 |
 | 4/7/2023 | OAC23627 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
-| 4/6/2023 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 4/6/2023 | OAC27385 | Trauma and Post-Tramatic Stress | Passed | 0.0 | 4.00 |
 | 4/5/2023 | OAC21346 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |
 | 4/4/2023 | BNP18548 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |

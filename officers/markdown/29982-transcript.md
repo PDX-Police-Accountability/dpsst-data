@@ -42,7 +42,6 @@
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 4/7/2023 | OAC23627 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/7/2023 | OAC43392 | Radically  Ethically Motivated Violent Extremists | Passed | 0.0 | 1.50 |
-| 4/6/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 4/6/2023 | OAC35257 | Trauma and Post-Tramatic Stress | Passed | 0.0 | 4.00 |
 | 4/5/2023 | OAC24572 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |
 | 3/16/2023 | VND34914 | OEDI Annual Session #34 - Leadership | Passed | 0.0 | 34.50 |

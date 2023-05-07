@@ -47,7 +47,10 @@
 | 2/14/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/9/2023 | PDP02039 | SERT: Iteration Control Tactics | Passed | 0.0 | 9.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/3/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 1.00 |
 | 2/2/2023 | PDP44682 | Weapons Drills | Passed | 0.0 | 9.00 |
+| 2/2/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 1/12/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2022 | PDP34848 | Patrol Procedures Satellite Instructor Training | Passed | 0.0 | 72.00 |
 | 12/7/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -508,3 +511,4 @@
 | 6/9/2016 | PPB24104 | IS-00700 National Incident Management System | Passed | 0.0 | 3.00 |
 | 6/1/2016 | F6C19419 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 6/1/2016 | F6C25179 | LEDS Inquiry Level | Passed | 0.0 | 4.00 |
+| 1/1/1900 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

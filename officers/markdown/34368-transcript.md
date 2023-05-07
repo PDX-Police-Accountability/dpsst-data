@@ -43,8 +43,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 5/3/2023 | BNP19911 | 2nd Quart. In service 40mm policy/training/qual | Passed | 0.0 | 0.50 |
+| 5/3/2023 | BNP37276 | 2nd Quart. Inservice - HG, Rifle  Off duty skills | Passed | 0.0 | 0.50 |
+| 5/3/2023 | BNP34720 | Emotional Intelligence / Mental Health | Passed | 0.0 | 0.50 |
 | 4/4/2023 | BNP18548 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/22/2023 | BNP23295 | Firearms/Handgun Course | Passed | 0.0 | 1.00 |
+| 3/22/2023 | BNP11078 | Extracting Suspects from vehicles | Passed | 0.0 | 1.00 |
 | 3/7/2023 | BNP14734 | Vehicle Placement | Passed | 0.0 | 0.30 |
 | 2/7/2023 | BNP08089 | First Aid / CPR | Passed | 0.0 | 2.00 |
 | 2/7/2023 | BNP15388 | Ethos Leadership Academy | Passed | 0.0 | 3.00 |

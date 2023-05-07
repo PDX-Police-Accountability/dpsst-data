@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/29/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/24/2023
   course: PDP00872
   title: 2023 Microsoft Word Online Recording
@@ -522,6 +528,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/6/2022
+  course: PDP27269
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/2/2022
   course: PDP36883
   title: Firearms Training
@@ -546,6 +558,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 6/8/2018
+  course: PDP11528
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/7/2018
+  course: PDP00791
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

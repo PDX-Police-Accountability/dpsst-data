@@ -259,6 +259,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/9/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/19/2022
   course: PDP29912
   title: 2022-3 Range Qualification 40mm Less Lethal

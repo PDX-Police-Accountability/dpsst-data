@@ -54,6 +54,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/15/2023
+  course: PDP20381
+  title: 2023-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/15/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/15/2023
+  course: PDP43962
+  title: 2023-1 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

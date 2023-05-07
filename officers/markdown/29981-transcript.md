@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2023 | WLP34960 | Stop Stick Refresher Training | Passed | 0.0 | 1.00 |
 | 3/21/2023 | WLP15706 | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 3/1/2023 | WLP31427 | Safety Compass - Human Trafficking Awareness | Passed | 0.0 | 1.00 |
 | 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |

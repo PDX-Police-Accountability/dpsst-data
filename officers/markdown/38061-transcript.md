@@ -48,6 +48,8 @@
 | 2/8/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/8/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/8/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/25/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/25/2023 | PDP15461 | 2023-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 1/6/2023 | PDP42753 | 2022 Respiratory Protection: Yearly Screening | Passed | 0.0 | 0.25 |
 | 1/6/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
 | 1/6/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
@@ -108,6 +110,7 @@
 | 2/14/2022 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
 | 2/8/2022 | PDP27667 | Advanced Shotgun Operator Course Training | Passed | 0.0 | 18.00 |
 | 2/8/2022 | PDP15880 | 2022-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 2/8/2022 | PDP23052 | 2023-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/3/2022 | PDP41369 | 2022 Advanced Shotgun Operator Pre-Test Guide | Passed | 0.0 | 0.25 |
 | 1/28/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 1/28/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

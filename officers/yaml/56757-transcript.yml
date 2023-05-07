@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2023
+  course: BPT10509
+  title: I.C.I.S.F. Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 9/26/2022
   course: PSU12472
   title: Officer Wellness / Mental Health

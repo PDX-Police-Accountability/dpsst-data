@@ -105,6 +105,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/2/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/2/2023
+  course: PDP20381
+  title: 2023-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/2/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/2/2023
+  course: PDP33199
+  title: 2023-1 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/30/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -741,6 +765,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/25/2022
+  course: PDP23052
+  title: 2023-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/22/2022
   course: PDP17743
   title: 2021-8 City Attorney's Legal Updates - Aug. 2021

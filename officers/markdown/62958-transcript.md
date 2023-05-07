@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 3/14/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/14/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/9/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
@@ -61,6 +62,7 @@
 | 2/6/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
+| 1/30/2023 | PDP07542 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |

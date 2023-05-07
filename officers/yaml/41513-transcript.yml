@@ -50,6 +50,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/29/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/29/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/10/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

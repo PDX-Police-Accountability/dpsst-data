@@ -67,7 +67,6 @@
 | 11/9/2021 | TGP37894 | De-Escalation, Intervention and Force Mitigation | Passed | 0.0 | 3.00 |
 | 10/18/2021 | TGP23494 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 9/29/2021 | TGP42230 | 2021 Oregon STOP Training | Passed | 0.0 | 0.50 |
-| 9/28/2021 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 9/27/2021 | TGP21506 | Drone Use for Patrol and Investigations | Passed | 0.0 | 0.50 |
 | 9/22/2021 | TGP24194 | 2021 Half-Day Firearms Training | Passed | 0.0 | 5.00 |
 | 9/12/2021 | TGP41185 | Measure 110 and Its Impact on Drug Prosecution | Passed | 0.0 | 1.00 |

@@ -36,9 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |
+| 4/16/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |
 | 3/27/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 3/20/2023 | PDP12688 | Post Academy Firearms Training | Instructed | 0.0 | 9.00 |
+| 3/11/2023 | PDP07729 | Pre Academy Firearms Training | Instructed | 0.0 | 9.00 |
 | 3/10/2023 | PDP41410 | Arson Investigators Firearms Training | Instructed | 0.0 | 5.00 |
 | 3/3/2023 | HSU13222 | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 3/3/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
@@ -47,6 +51,7 @@
 | 2/21/2023 | PDP11304 | Post Academy Firearms Training | Instructed | 0.0 | 3.00 |
 | 2/20/2023 | PDP04875 | Post Academy Firearms Training | Instructed | 0.0 | 8.00 |
 | 2/15/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 2/15/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/9/2023 | PDP06735 | Pre Dpsst Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 2/8/2023 | PDP00676 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 2/7/2023 | PDP06127 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |

@@ -31,12 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2023
+  course: PDP21254
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/30/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/29/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/16/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -133,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/15/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/20/2023
+  course: REG32421
+  title: INTOX 8000 (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/28/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording

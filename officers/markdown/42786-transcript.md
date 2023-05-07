@@ -47,6 +47,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |
+| 4/24/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |
+| 4/21/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |
+| 4/21/2023 | HSU30108 | Perspectives of Social Work | Passed | 0.0 | 3.00 |
+| 4/21/2023 | HSU02975 | Chief's Message | Instructed | 0.0 | 2.00 |
+| 4/21/2023 | HSU43524 | Unmasking Facial Expressions and Body Language | Passed | 0.0 | 2.00 |
+| 4/21/2023 | HSU36861 | TCCC | Passed | 0.0 | 2.00 |
+| 4/16/2023 | HSU43962 | Spring In-Service 2023 Firearms | Passed | 0.0 | 5.00 |
 | 10/9/2022 | HSU14560 | Patrol Rifle Course | Instructed | 0.0 | 10.00 |
 | 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/29/2022 | F6R19836 | Cultivating an Inclusive, Ethical Culture | Passed | 0.0 | 3.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/6/2023
+  course: PDP43962
+  title: 2023-1 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/31/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording
@@ -78,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/9/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/8/2023
   course: PDP33753
   title: 2022-3 TT Oregon Ballot Measure 114

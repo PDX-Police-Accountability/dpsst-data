@@ -86,6 +86,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2023
+  course: HSU19975
+  title: Spring In-Service 2023 EVOC
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/21/2023
+  course: HSU15395
+  title: After Action Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/21/2023
+  course: HSU43524
+  title: Unmasking Facial Expressions and Body Language
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/21/2023
+  course: HSU02975
+  title: Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/21/2023
+  course: HSU30108
+  title: Perspectives of Social Work
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/21/2023
+  course: HSU36861
+  title: TCCC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/16/2023
+  course: HSU19975
+  title: Spring In-Service 2023 EVOC
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/3/2023
   course: HSU13222
   title: Red Dot Sight Operator Course

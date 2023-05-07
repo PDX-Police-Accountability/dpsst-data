@@ -68,13 +68,20 @@
 | 3/6/2023 | PDP40744 | CEW Taser Training  Certification | Passed | 0.0 | 7.00 |
 | 3/2/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 2/28/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 2/28/2023 | PDP18897 | FTEP Orientation | Passed | 0.0 | 6.00 |
+| 2/27/2023 | PDP22423 | Geography Training | Passed | 0.0 | 2.50 |
+| 2/27/2023 | PDP18907 | Hazmat/WMD Awareness APR Program | Passed | 0.0 | 3.00 |
 | 2/21/2023 | PDP11304 | Post Academy Firearms Training | Passed | 0.0 | 3.00 |
+| 2/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/20/2023 | PDP04875 | Post Academy Firearms Training | Passed | 0.0 | 8.00 |
 | 1/27/2023 | REG18683 | SFST/DID | Passed | 0.0 | 24.00 |
 | 1/23/2023 | BPT08559 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
 | 12/15/2022 | REG06452 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
 | 10/10/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 10/6/2022 | PDP11528 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
+| 10/6/2022 | PDP27269 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 10/6/2022 | PDP00791 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 10/2/2022 | PDP36883 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |

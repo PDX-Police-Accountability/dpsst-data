@@ -54,6 +54,8 @@
 | 1/24/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/11/2023 | PDP27005 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 1/10/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 1/10/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 1/4/2023 | PDP25505 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/28/2022 | PDP26451 | EDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/26/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

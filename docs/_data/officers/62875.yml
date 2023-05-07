@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/29/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/6/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -330,6 +336,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/30/2023
+  course: PDP07542
+  title: Control Tactics Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/29/2023
   course: PDP17905
   title: 2021-9 CAO Legal Updates for 11/2021 1.0

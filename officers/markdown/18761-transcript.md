@@ -36,6 +36,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2023 | HSU02975 | Chief's Message | Passed | 0.0 | 2.00 |
+| 4/17/2023 | HSU30108 | Perspectives of Social Work | Passed | 0.0 | 3.00 |
+| 4/17/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |
+| 4/17/2023 | HSU43524 | Unmasking Facial Expressions and Body Language | Passed | 0.0 | 2.00 |
+| 4/17/2023 | HSU36861 | TCCC | Passed | 0.0 | 2.00 |
+| 4/16/2023 | HSU43962 | Spring In-Service 2023 Firearms | Passed | 0.0 | 5.00 |
+| 4/16/2023 | HSU04368 | Spring In-Service 2023 Defensive Tactics | Passed | 0.0 | 2.00 |
+| 4/16/2023 | HSU19975 | Spring In-Service 2023 EVOC | Passed | 0.0 | 3.00 |
 | 10/17/2022 | HSU32547 | Chief's Ethics Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU33827 | Airway TRN Fall In-Service 2022 | Passed | 0.0 | 2.00 |
 | 10/17/2022 | HSU02725 | Active Threat Refresher Fall In-Service 2022 | Passed | 0.0 | 3.00 |

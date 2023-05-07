@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2023
+  course: PDP13561
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/29/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles
@@ -97,6 +103,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/13/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -157,6 +169,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2022
+  course: MAINTMUH
+  title: Maintenance Makeup Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/26/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

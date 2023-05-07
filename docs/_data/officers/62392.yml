@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/7/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/29/2022
   course: PDP03615
   title: RADAR/ LiDAR Operator Training

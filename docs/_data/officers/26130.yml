@@ -74,12 +74,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 2/9/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '21.00'
 - date: 4/21/2021
   course: F6D01937
   title: Basic Background Training

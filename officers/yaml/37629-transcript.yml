@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/21/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/16/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -110,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/27/2023
+  course: PDP22423
+  title: Geography Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
 - date: 2/15/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

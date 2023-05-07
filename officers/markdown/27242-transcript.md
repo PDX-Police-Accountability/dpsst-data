@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2023 | F1533463 | Lessons in Defensive Management | Passed | 0.0 | 2.00 |
 | 4/7/2023 | OAC15420 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/5/2023 | OAC24572 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |
 | 3/8/2023 | SPP25625 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |

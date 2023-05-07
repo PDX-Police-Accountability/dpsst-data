@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/30/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/29/2023
+  course: PDP20381
+  title: 2023-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/25/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -1490,6 +1502,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/9/2019
+  course: F6D14087
+  title: Radar Operator Course Classroom Only
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/4/2019
   course: F6D30741
   title: Protecting Transportation Systems

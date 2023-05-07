@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -75,6 +76,7 @@
 | 2/2/2023 | PDP44989 | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 2/2/2023 | PDP31352 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
+| 1/30/2023 | PDP07542 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 1/29/2023 | PDP15755 | 2021 Online IS Language Access - Translation | Passed | 0.0 | 0.25 |
 | 1/29/2023 | PDP17039 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 1/29/2023 | PDP22112 | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |

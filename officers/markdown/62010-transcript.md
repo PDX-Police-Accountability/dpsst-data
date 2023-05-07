@@ -64,6 +64,8 @@
 | 3/29/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP15039 | DIR 0850.22 Police Response to MH Director Holds | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 3/28/2023 | PDP21342 | FTEP Oreintation | Passed | 0.0 | 9.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -73,6 +75,9 @@
 | 3/24/2023 | PDP22442 | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP31260 | 2022-5 CAO Legal Updates for 5/2022 | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
+| 3/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/20/2023 | PDP12688 | Post Academy Firearms Training | Passed | 0.0 | 9.00 |
+| 3/7/2023 | PDP11356 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 3/2/2023 | REG00018 | DID/SFST | Passed | 0.0 | 24.00 |
 | 2/20/2023 | BPT31690 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 2/2/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

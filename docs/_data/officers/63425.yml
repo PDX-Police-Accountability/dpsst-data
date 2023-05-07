@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 3/11/2023
+  course: PDP07729
+  title: Pre Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/27/2023
   course: PDP35372
   title: 2022 Naxolone Administration

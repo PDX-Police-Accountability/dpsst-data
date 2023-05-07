@@ -49,8 +49,11 @@
 | 2/10/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/10/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/10/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
-| 2/2/2023 | PDP44838 | 2022-2 In Service Legal Updates | Passed | 0.0 | 2.50 |
+| 2/6/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP44838 | 2022-2 In Service Legal Updates | Passed | 0.0 | 0.50 |
 | 1/3/2023 | PDP42506 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
+| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 2.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | PDP38563 | 2022-2 In Service ABLE | Passed | 0.0 | 2.00 |
 | 12/28/2022 | PDP39120 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 12/28/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

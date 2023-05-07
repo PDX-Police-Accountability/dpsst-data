@@ -37,7 +37,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/13/2023 | MKL28247 | Tableau Training | Passed | 0.0 | 1.00 |
-| 4/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
 | 4/12/2023 | MKL17384 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 3/7/2023 | MKL35654 | Use of Forcet/Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 2/28/2023 | MKL39207 | DT/Use of Force | Passed | 0.0 | 8.00 |

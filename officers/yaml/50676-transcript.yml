@@ -36,6 +36,24 @@ certification_records:
   expiration_date: 6/26/2025
   probation_date: ''
 training_records:
+- date: 4/25/2023
+  course: PDP13110
+  title: 2023-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/12/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/12/2023
+  course: PDP43962
+  title: 2023-1 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/27/2020
   course: PDP18308
   title: 2020-3 TipsTech Using Online Report for Addl Prop

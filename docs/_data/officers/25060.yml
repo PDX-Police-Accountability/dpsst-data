@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2023
+  course: EGN33597
+  title: Glock Armorer Class
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/4/2023
   course: WBP35225
   title: Redflex Program Training

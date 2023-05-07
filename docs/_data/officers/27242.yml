@@ -107,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2023
+  course: F1533463
+  title: Lessons in Defensive Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/7/2023
   course: OAC15420
   title: Harnessing Leadership Series

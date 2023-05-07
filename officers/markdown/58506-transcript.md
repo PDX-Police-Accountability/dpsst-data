@@ -40,12 +40,16 @@
 | 2/13/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/9/2023 | PDP02039 | SERT: Iteration Control Tactics | Passed | 0.0 | 9.00 |
 | 2/2/2023 | PDP44682 | Weapons Drills | Passed | 0.0 | 9.00 |
+| 2/2/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
 | 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 1/9/2023 | PDP44838 | 2022-2 In Service Legal Updates | Passed | 0.0 | 2.50 |
 | 1/4/2023 | PDP11588 | 2022-3 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 1/4/2023 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
-| 1/4/2023 | PDP06073 | 2022-2 In Service ABLE | Passed | 0.0 | 2.00 |
+| 1/4/2023 | PDP06073 | 2022-2 In Service ABLE | Passed | 0.0 | 1.00 |
 | 1/4/2023 | PDP37987 | 2022-2 IS MH Crisis / Intervention Updates | Passed | 0.0 | 1.00 |
 | 1/4/2023 | PDP42506 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 1/2/2023 | PDP36622 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
@@ -69,6 +73,8 @@
 | 1/2/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
 | 1/2/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 1/2/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 1.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/18/2022 | PDP25844 | SERT Training: Iteration for test applicants | Passed | 0.0 | 9.00 |
 | 11/17/2022 | PDP10051 | SERT Training: Entry  HRT | Passed | 0.0 | 9.00 |
 | 11/16/2022 | PDP02231 | SERT Training - Firearms | Passed | 0.0 | 9.00 |

@@ -38,7 +38,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/13/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 3/21/2023 | FGP04399 | Investigations Refresher | Passed | 0.0 | 1.00 |
 | 3/17/2023 | FGP14694 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |
 | 3/8/2023 | FGP17234 | Quarterly Firearms Training-Handgun Proficiency | Passed | 0.0 | 1.00 |

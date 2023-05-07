@@ -98,12 +98,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/15/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/15/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/15/2023
+  course: PDP20381
+  title: 2023-1 Range Qualification AR-15 Qual (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/7/2023
   course: PDP00872
   title: 2023 Microsoft Word Online Recording
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/7/2023
+  course: PDP11356
+  title: Control Tactics Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/15/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -164,6 +188,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/30/2023
+  course: PDP07542
+  title: Control Tactics Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/12/2023
   course: PDP32121
   title: Pre Academy Firearms Training

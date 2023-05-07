@@ -36,6 +36,60 @@ certification_records:
   expiration_date: ''
   probation_date: 3/13/2023
 training_records:
+- date: 5/2/2023
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
+- date: 4/17/2023
+  course: HSU30108
+  title: Perspectives of Social Work
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/17/2023
+  course: HSU15395
+  title: After Action Reporting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2023
+  course: HSU02975
+  title: Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/17/2023
+  course: HSU43524
+  title: Unmasking Facial Expressions and Body Language
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/17/2023
+  course: HSU36861
+  title: TCCC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/16/2023
+  course: HSU43962
+  title: Spring In-Service 2023 Firearms
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/16/2023
+  course: HSU04368
+  title: Spring In-Service 2023 Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/16/2023
+  course: HSU19975
+  title: Spring In-Service 2023 EVOC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/17/2022
   course: HSU32547
   title: Chief's Ethics Fall In-Service 2022

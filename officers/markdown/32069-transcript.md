@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 4/26/2023 | SDP29316 | Defensive Tactics | Passed | 0.0 | 3.50 |
 | 4/24/2023 | REG20435 | Standing  Ground Back Control Escapes | Passed | 0.0 | 1.00 |
 | 4/10/2023 | REG24087 | Guard Pass - Pressure Pass | Passed | 0.0 | 1.00 |
 | 4/5/2023 | SDP05875 | Preventing Discrimination and Harassment Training | Passed | 0.0 | 1.00 |

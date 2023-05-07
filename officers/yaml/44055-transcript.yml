@@ -141,6 +141,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/27/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/18/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -579,6 +597,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 2/8/2022
+  course: PDP23052
+  title: 2023-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/29/2022
   course: PDP41369
   title: 2022 Advanced Shotgun Operator Pre-Test Guide

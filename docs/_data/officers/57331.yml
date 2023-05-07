@@ -126,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/10/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/6/2023
   course: PDP16862
   title: DIR 0635.10 PPB Response to Public Order Events

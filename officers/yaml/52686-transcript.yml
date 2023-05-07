@@ -49,6 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/3/2023
+  course: PDP36097
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/2/2023
+  course: PDP00999
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/16/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording
@@ -67,6 +79,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/2/2023
+  course: PDP21637
+  title: 2023-1 Range Qualification 40mm Less Lethal Qual
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/2/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/1/2023
   course: PDP00872
   title: 2023 Microsoft Word Online Recording

@@ -44,6 +44,8 @@
 | 5/2/2023 | PDP03189 | ICS-400 Adv ICS Cmd  General Staff-Complex Incdts | Passed | 0.0 | 14.00 |
 | 3/31/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
+| 3/30/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 3/29/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/25/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/25/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/25/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -276,6 +278,7 @@
 | 6/15/2019 | PPP36478 | EVOC | Passed | 0.0 | 4.00 |
 | 6/7/2019 | 19-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
 | 4/15/2019 | F6D42309 | LIDAR Operator Course | Passed | 0.0 | 2.00 |
+| 4/9/2019 | F6D14087 | Radar Operator Course Classroom Only | Passed | 0.0 | 6.00 |
 | 3/4/2019 | F6D30741 | Protecting Transportation Systems | Passed | 0.0 | 1.00 |
 | 2/28/2019 | F6D32081 | LE Airport Security Coordinator Notifications | Passed | 0.0 | 0.50 |
 | 2/14/2019 | F6D07048 | Basic Patrol Rifle Course | Passed | 0.0 | 20.00 |

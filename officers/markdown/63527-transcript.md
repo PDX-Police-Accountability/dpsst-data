@@ -33,3 +33,4 @@
 | 3/16/2023 | PDP12023 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 3/16/2023 | PDP06547 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 3/16/2023 | PDP25309 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 3/11/2023 | PDP07729 | Pre Academy Firearms Training | Passed | 0.0 | 9.00 |

@@ -39,7 +39,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/20/2023 | MKL17027 | Tableau Training | Passed | 0.0 | 1.25 |
-| 4/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 4/12/2023 | MKL17384 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/19/2023 | MKL28335 | LEDS Certification | Passed | 0.0 | 10.00 |
 | 11/4/2022 | MKL22194 | Defensive Tactics | Passed | 0.0 | 8.00 |

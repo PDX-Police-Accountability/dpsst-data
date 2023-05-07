@@ -139,6 +139,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/27/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/27/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/15/2023
   course: PDP42753
   title: '2022 Respiratory Protection: Yearly Screening'
@@ -535,6 +547,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/27/2022
+  course: PDP23052
+  title: 2023-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/20/2022
   course: PDP34045
   title: 2022 Training 3M N Series Helmet

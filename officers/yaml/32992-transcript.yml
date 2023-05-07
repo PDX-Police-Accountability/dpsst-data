@@ -66,6 +66,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/3/2023
+  course: PDP36097
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/13/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -84,6 +90,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/28/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2023
+  course: PDP33199
+  title: 2023-1 Range Qualification Secondary FA (50 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/15/2023
   course: PDP35372
   title: 2022 Naxolone Administration

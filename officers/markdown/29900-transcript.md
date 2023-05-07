@@ -52,7 +52,10 @@
 | 2/8/2023 | VND14472 | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/17/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 1/17/2023 | PDP23944 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | BPT31740 | Stolen Vehicle Operation | Passed | 0.0 | 2.50 |
+| 12/8/2022 | PDP24289 | Critical Incident Leadership - Crisis Negotiations | Passed | 0.0 | 45.00 |
+| 12/8/2022 | PDP35518 | Seminar In Managing the Law Enforcement Image | Passed | 0.0 | 45.00 |
 | 9/14/2022 | PDP00431 | Suicide Prevention/Intervention Training | Passed | 0.0 | 7.00 |
 | 8/23/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/23/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

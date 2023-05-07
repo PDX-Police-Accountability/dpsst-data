@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2023 | PDP43640 | Firearms Training | Passed | 0.0 | 7.00 |
 | 2/20/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
 | 2/16/2023 | PDP00201 | Pre DPSST Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 2/13/2023 | PDP26388 | FTEP Policy  Procedure Training - Wellness Intro | Passed | 0.0 | 1.50 |

@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2023
+  course: PDP40040
+  title: 2022-2 In-Service HRAR 2.02 Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/2/2023
+  course: PDP07433
+  title: 2022-2 In-Service Legal Updates 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/17/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -137,7 +149,7 @@ training_records:
   title: AXON CEW Annual Update
   status: Passed
   score: '0.0'
-  hours: '1.00'
+  hours: '0.00'
 - date: 2/20/2023
   course: PDP13406
   title: 2022 EAP-Crisis Planning
@@ -149,7 +161,7 @@ training_records:
   title: 2022 Crowd Management
   status: Passed
   score: '0.0'
-  hours: '0.50'
+  hours: '0.00'
 - date: 2/20/2023
   course: PDP12602
   title: 2022 OSHA Heat Illness Prevention with CityLearner
@@ -167,7 +179,7 @@ training_records:
   title: 2022 Post Shooting Response
   status: Passed
   score: '0.0'
-  hours: '0.50'
+  hours: '0.00'
 - date: 2/20/2023
   course: PDP28991
   title: 2022-1 TT Corrective Action Guide
@@ -227,13 +239,13 @@ training_records:
   title: Amended DOJ Settlement Agreement
   status: Passed
   score: '0.0'
-  hours: '1.00'
+  hours: '0.00'
 - date: 2/20/2023
   course: PDP28137
   title: DIR 0910.00 Use of Force Reporting, Review
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.00'
 - date: 2/20/2023
   course: PDP23944
   title: DIR 0850.20 Police Response to MH Crisis
@@ -257,13 +269,13 @@ training_records:
   title: DIR 1010.00 Use of Force (effective 11/15/2022)
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.00'
 - date: 2/20/2023
   course: PDP40925
   title: DIR 015.00 Less Lethal Weapons  Tools
   status: Passed
   score: '0.0'
-  hours: '0.25'
+  hours: '0.00'
 - date: 2/20/2023
   course: PDP11246
   title: DIR 0850.25 Police Response to MH Facilities
@@ -282,6 +294,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2022
+  course: MAINTMUF
+  title: Maintenance Makeup Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.75'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/26/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters

@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2023
+  course: PDP00999
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/28/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording
@@ -127,6 +133,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/16/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/11/2023
   course: PDP29951
   title: 2023 CNT Crisis Negotiation Team Annual Training

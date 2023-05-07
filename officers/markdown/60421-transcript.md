@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Passed | 0.0 | 8.00 |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Instructed | 0.0 | 8.00 |
+| 4/20/2023 | SAG17561 | Firearms range training | Passed | 0.0 | 3.00 |
 | 2/17/2023 | SAG30752 | Firearms Qualification Training | Passed | 0.0 | 4.00 |
 | 1/23/2023 | SAG06305 | Firearms training | Passed | 0.0 | 4.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

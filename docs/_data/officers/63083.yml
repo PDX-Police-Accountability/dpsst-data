@@ -240,12 +240,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/29/2023
+  course: PDP13110
+  title: 2023-1 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/28/2023
+  course: PDP21342
+  title: FTEP Oreintation
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/23/2023
   course: PDP07695
   title: DOJ Settlement Agreement
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/21/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/20/2023
+  course: PDP12688
+  title: Post Academy Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/7/2023
+  course: PDP11356
+  title: Control Tactics Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/2/2023
   course: REG00018
   title: DID/SFST

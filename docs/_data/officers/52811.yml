@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2023
+  course: PDS19831
+  title: SWAT Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/19/2023
+  course: PDS00482
+  title: SWAT Range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/11/2023
   course: PDS04777
   title: YOGA for First Responders
@@ -76,8 +88,8 @@ training_records:
   score: '0.0'
   hours: '1.00'
 - date: 4/7/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
+  course: PDS25163
+  title: Defensive Tactics
   status: Instructed
   score: '0.0'
   hours: '8.00'

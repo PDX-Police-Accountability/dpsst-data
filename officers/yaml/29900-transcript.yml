@@ -155,12 +155,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/29/2022
   course: BPT31740
   title: Stolen Vehicle Operation
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 12/8/2022
+  course: PDP24289
+  title: Critical Incident Leadership - Crisis Negotiations
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
+- date: 12/8/2022
+  course: PDP35518
+  title: Seminar In Managing the Law Enforcement Image
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
 - date: 9/14/2022
   course: PDP00431
   title: Suicide Prevention/Intervention Training

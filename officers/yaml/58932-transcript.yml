@@ -84,6 +84,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/28/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/28/2023
+  course: PDP43962
+  title: 2023-1 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/13/2023
   course: PDP30154
   title: Annual CIU NTR Alarm Response Trng Reed Research

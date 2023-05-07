@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/13/2023 | EGP06450 | Pistol Qualification | Passed | 0.0 | 4.00 |
+| 4/13/2023 | EGP39649 | Taser Re-Certification | Passed | 0.0 | 4.00 |
 | 2/9/2023 | EGP12358 | Belonging Training - Module 1 | Passed | 0.0 | 3.00 |
 | 2/9/2023 | EGP00975 | Legal Updates | Passed | 0.0 | 2.00 |
 | 2/9/2023 | EGP22870 | ETHOS Academy "Ethics" | Passed | 0.0 | 3.00 |

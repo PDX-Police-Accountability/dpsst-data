@@ -152,6 +152,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/13/2023
+  course: PDP36377
+  title: 2023-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/13/2023
+  course: PDP43962
+  title: 2023-1 Range Qualification Secondary FA (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/13/2023
+  course: PDP15461
+  title: 2023-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/1/2023
   course: PDP44405
   title: 2020 Managing Critical Incidents Well Sgts Role
@@ -551,6 +569,12 @@ training_records:
 - date: 2/16/2022
   course: PDP41369
   title: 2022 Advanced Shotgun Operator Pre-Test Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/15/2022
+  course: PDP23052
+  title: 2023-1 Range Qualification Shotgun
   status: Passed
   score: '0.0'
   hours: '0.25'

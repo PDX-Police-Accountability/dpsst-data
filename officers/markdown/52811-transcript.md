@@ -38,10 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2023 | PDS19831 | SWAT Training | Passed | 0.0 | 8.00 |
+| 4/19/2023 | PDS00482 | SWAT Range | Passed | 0.0 | 8.00 |
 | 4/11/2023 | PDS04777 | YOGA for First Responders | Passed | 0.0 | 1.00 |
 | 4/11/2023 | PDS21907 | NAMI training | Passed | 0.0 | 2.00 |
 | 4/11/2023 | PDS30615 | Peer Support Training | Passed | 0.0 | 1.00 |
-| 4/7/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 8.00 |
+| 4/7/2023 | PDS25163 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 4/5/2023 | PDS00726 | SWAT Firearms Training | Passed | 0.0 | 8.00 |
 | 4/5/2023 | PDS08108 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
 | 3/23/2023 | PDS38367 | SWAT practical training | Passed | 0.0 | 4.00 |

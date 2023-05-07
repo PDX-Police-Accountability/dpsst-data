@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2023
+  course: BPT10509
+  title: I.C.I.S.F. Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 4/23/2023
   course: PSU14564
   title: MILO 3000 / Shoot Don't Shoot Scenarios

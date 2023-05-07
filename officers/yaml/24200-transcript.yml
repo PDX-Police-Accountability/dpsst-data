@@ -68,12 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2023
+  course: STS14890
+  title: Arrests of Foreign Nationals Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/22/2023
   course: STS31890
   title: Taser X26P New User
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 3/20/2023
+  course: STS32800
+  title: Immigration Violations - Policy 411 Review
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/1/2023
   course: STS33390
   title: Firearms Qualification

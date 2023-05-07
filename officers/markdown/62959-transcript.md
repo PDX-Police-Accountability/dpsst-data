@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/21/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/21/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -94,6 +95,7 @@
 | 2/2/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/2/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
+| 1/30/2023 | PDP07542 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |

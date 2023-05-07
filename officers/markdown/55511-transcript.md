@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 3/11/2023 | PDP07729 | Pre Academy Firearms Training | Passed | 0.0 | 9.00 |
 | 1/31/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/16/2022 | HBS22182 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2023
+  course: SAG17561
+  title: Firearms range training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/23/2023
   course: SAG06305
   title: Firearms training

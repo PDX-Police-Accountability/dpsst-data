@@ -54,6 +54,8 @@
 | 2/20/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/8/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 1.00 |
+| 2/8/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 1/12/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 1/12/2023 | PDP17905 | 2021-9 CAO Legal Updates for 11/2021 1.0 | Passed | 0.0 | 0.25 |
 | 1/12/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

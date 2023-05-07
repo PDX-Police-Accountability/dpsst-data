@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/13/2023
+  course: EGP39649
+  title: Taser Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/9/2023
   course: EGP35347
   title: Firearms Training

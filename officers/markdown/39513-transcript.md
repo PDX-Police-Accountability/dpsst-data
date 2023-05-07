@@ -47,6 +47,9 @@
 | 2/9/2023 | PDP02039 | SERT: Iteration Control Tactics | Passed | 0.0 | 9.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/2/2023 | PDP44682 | Weapons Drills | Passed | 0.0 | 9.00 |
+| 2/2/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
+| 2/2/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/26/2023 | PDP03900 | SERT Training - Clearing | Instructed | 0.0 | 9.00 |
 | 1/25/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/25/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
