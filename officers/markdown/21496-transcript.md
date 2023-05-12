@@ -40,16 +40,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
 | Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Signed | 10/12/2000 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -59,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/13/2023 | ETS04374 | "Not in Our Town" - Human Trafficking Prevention | Passed | 0.0 | 4.00 |
 | 3/17/2023 | ETS26777 | Active Shooter Preparation  Response for Schools | Passed | 0.0 | 1.00 |
 | 3/17/2023 | ETS28415 | Active Shooter: Phases and Prevention | Passed | 0.0 | 1.00 |

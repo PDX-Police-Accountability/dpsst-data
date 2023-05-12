@@ -34,19 +34,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/27/2023
+- status_date: 5/9/2023
   certificate: Police Officer
   level: Advanced
-  status: App Incmpl
-  certificate_date: ''
-  expiration_date: 5/27/2023
+  status: Granted
+  certificate_date: 5/9/2023
+  expiration_date: ''
   probation_date: ''
-- status_date: 3/27/2023
+- status_date: 5/9/2023
   certificate: Police Officer
   level: Intermediate
-  status: App Incmpl
-  certificate_date: ''
-  expiration_date: 5/27/2023
+  status: Granted
+  certificate_date: 5/9/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 3/21/2017
   certificate: Police Officer
@@ -3215,18 +3215,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/26/2021
-  expiration_date: 5/26/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/26/2021
@@ -3235,8 +3223,9 @@ attribute_records:
   value: Signed
   effective_date: 3/29/2011
   expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/29/2011
-  expiration_date: ''
-education_records: []
+education_records:
+- date: 6/15/2010
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '127.0'

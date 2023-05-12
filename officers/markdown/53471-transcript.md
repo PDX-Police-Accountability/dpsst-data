@@ -4,7 +4,7 @@
 | name | Paisley, Brianne N. |
 | dpsst_identifier | 53471 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/25/2023 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/27/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/8/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 2/13/2014 | Portland Police Bureau | Reclassed | Police Off |  |  |
@@ -19,11 +20,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/25/2023 | Police Officer | Basic | Required |  |  | 11/25/2024 |
 | 4/27/2022 | Police Officer | Basic | Lapsed | 9/29/2015 | 1/27/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Code of Ethics | Signed | 3/10/2014 |  |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
 | date | degree | school | major | hours |

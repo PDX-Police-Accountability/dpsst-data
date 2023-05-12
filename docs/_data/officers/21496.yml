@@ -142,6 +142,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2023
+  course: REG10403
+  title: 2023 DUII Multi-Disciplinary Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 4/13/2023
   course: ETS04374
   title: '"Not in Our Town" - Human Trafficking Prevention'
@@ -3387,22 +3393,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/13/2022
   expiration_date: 5/13/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/13/2022
-  expiration_date: 5/13/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -3413,19 +3407,7 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 4/9/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 6/21/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 6/21/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/12/2000
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

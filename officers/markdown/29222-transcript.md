@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Certification Cards | First Aid and CPR | 1/2/2023 | 1/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/7/2023 | GSP02168 | 2022 NW Regional ICAC Conference | Passed | 0.0 | 40.00 |
+| 3/23/2023 | GSP16179 | Advanced LEOVision Tradecraft | Passed | 0.0 | 32.00 |
 | 2/14/2023 | GSP29386 | Mental Wellness Visits: What They Are  How... | Passed | 0.0 | 1.00 |
 | 1/25/2023 | GSP04946 | Using Body Camera Video to Transform Training | Passed | 0.0 | 1.00 |
 | 1/19/2023 | GSP19639 | CPR and First Aid | Passed | 0.0 | 8.00 |

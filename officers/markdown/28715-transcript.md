@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 5/15/2012 |  |
 | Code of Ethics | Signed | 5/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2023 | HBP21449 | DV Update, Strangulation, and Death Investigation | Passed | 0.0 | 1.00 |
+| 4/12/2023 | HBP03833 | Karly's Law, Jessica's Law, Juvenile Update | Passed | 0.0 | 2.00 |
+| 4/12/2023 | HBP01732 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 7.00 |
 | 3/15/2023 | HBP38729 | Respectful Workplace - Sprvsr Course (Equity) | Passed | 0.0 | 1.25 |
 | 3/15/2023 | HBP07262 | Respectful Workplace - Sprvsr Course (Leadership) | Passed | 0.0 | 0.75 |
 | 2/8/2023 | HBP37382 | Mental Health Response Team (MHRT) Training | Passed | 0.0 | 3.00 |

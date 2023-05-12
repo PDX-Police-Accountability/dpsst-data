@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/27/2023 | 2/27/2025 |
-| Certification Cards | First Aid and CPR | 2/27/2023 | 2/27/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Code of Ethics | Signed | 9/2/2008 |  |
 | Code of Ethics | Signed | 9/2/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2023 | HBP28684 | DV Update, Strangulation, and Death Investigation | Passed | 0.0 | 1.00 |
+| 4/26/2023 | HBP10095 | Karly's Law, Jessica's Law, Juvenile Update | Passed | 0.0 | 2.00 |
+| 4/26/2023 | HBP29327 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 7.00 |
 | 3/15/2023 | HBP43238 | Respectful Workplace - Employee Course (Equity) | Passed | 0.0 | 1.25 |
 | 2/27/2023 | HBP41495 | CPR, First Aid, AED | Passed | 0.0 | 2.00 |
 | 2/22/2023 | HBP39892 | Mental Health Response Team (MHRT) Training | Passed | 0.0 | 3.00 |

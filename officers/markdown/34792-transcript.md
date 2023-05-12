@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2023 | TAP16250 | Frazier Bags training | Passed | 0.0 | 1.00 |
+| 5/3/2023 | TAP24971 | Stop the Bleed Kit(s) Training | Passed | 0.0 | 0.50 |
 | 4/14/2023 | ADP34474 | Ethos Ethics | Passed | 0.0 | 3.00 |
 | 4/14/2023 | ADP17666 | Sex Trafficking 101 | Passed | 0.0 | 1.50 |
 | 2/22/2023 | TAP15718 | Evidence HTPC Procedures and Submittals | Passed | 0.0 | 1.00 |

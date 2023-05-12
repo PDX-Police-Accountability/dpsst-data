@@ -75,6 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/12/2023
+  course: HBP21449
+  title: DV Update, Strangulation, and Death Investigation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/12/2023
+  course: HBP03833
+  title: Karly's Law, Jessica's Law, Juvenile Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/12/2023
+  course: HBP01732
+  title: Range, Firearms Qual, Ballistic Shield
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 2/8/2023
   course: HBP36791
   title: Tactical De-escalation
@@ -2594,14 +2612,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/16/2022
-  expiration_date: 3/16/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/16/2022
@@ -2610,14 +2620,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/15/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/15/2002

@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2023
+  course: HBP10095
+  title: Karly's Law, Jessica's Law, Juvenile Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/26/2023
+  course: HBP29327
+  title: Range, Firearms Qual, Ballistic Shield
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 3/15/2023
   course: HBP43238
   title: Respectful Workplace - Employee Course (Equity)
@@ -85,7 +97,13 @@ training_records:
   title: Maintenance Makeup Firearms/Use of Force
   status: Completed
   score: '0.0'
-  hours: '6.00'
+  hours: '8.00'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 11/30/2022
   course: HBP39455
   title: Ethics Training and Writing Assignment
@@ -2785,14 +2803,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/16/2022
-  expiration_date: 3/16/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/16/2022
@@ -2801,14 +2811,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/15/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/15/2002

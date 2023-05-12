@@ -42,12 +42,6 @@ certification_records:
   expiration_date: ''
   probation_date: 1/18/2022
 training_records:
-- date: 1/18/2022
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 3/14/2021
   course: PDP32331
   title: 2021 Mental Wellness
@@ -772,14 +766,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/20/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/20/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 7/15/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

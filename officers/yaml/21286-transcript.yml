@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2023
+  course: REG10403
+  title: 2023 DUII Multi-Disciplinary Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/31/2023
   course: BBP03226
   title: Firearms Qualification
@@ -2282,14 +2288,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/7/2022
-  expiration_date: 4/7/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/7/2022
@@ -2298,14 +2296,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/8/2021
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/8/2021
-  expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2021

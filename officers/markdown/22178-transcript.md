@@ -19,8 +19,8 @@
 | 4/24/2004 | Portland Police Bureau | Demotion | Police Off |  |  |
 | 7/31/2003 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 8/9/1990 | Portland Police Bureau | Hired | Police Off |  |  |
-| 8/8/1990 | Portland Police Bureau | Resigned | Civln Emp |  |  |
-| 11/17/1988 | Portland Police Bureau | Hired | Civln Emp |  |  |
+| 8/8/1990 | Portland Police Bureau | Resigned | Dispatcher |  |  |
+| 11/17/1988 | Portland Police Bureau | Hired | Dispatcher |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
@@ -31,10 +31,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 5/14/2021 | 5/14/2023 |
 | Certification Cards | First Aid and CPR | 5/14/2021 | 5/14/2023 |
 ## Education
 | date | degree | school | major | hours |

@@ -4,7 +4,7 @@
 | name | Worthington, Heather D. |
 | dpsst_identifier | 63415 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/1/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/22/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/22/2022 | Police Officer | Basic | Required |  |  | 3/22/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Code of Ethics | Law Enforcement Signed | 1/23/2023 |  |
 | Code of Ethics | Law Enforcement Signed | 1/23/2023 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -28,7 +27,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/23/2023 | REG24193 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 2/26/2023 | PDP26373 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |

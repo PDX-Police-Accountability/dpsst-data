@@ -26,13 +26,8 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 2/25/2022 | 2/14/2024 |
 | Certification Cards | First Aid and CPR | 2/25/2022 | 2/14/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/21/2023 | BVP19724 | SAAM Sexual Assault Investigations and Proccedures | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |
 | 12/20/2022 | HBS08071 | Active Threat | Passed | 0.0 | 9.00 |

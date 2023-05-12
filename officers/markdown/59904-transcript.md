@@ -24,8 +24,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 7/20/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 7/20/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -33,7 +31,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/18/2022 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/14/2021 | PDP32331 | 2021 Mental Wellness | Passed | 0.0 | 1.25 |
 | 3/3/2021 | PDP03228 | Annual CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
 | 1/20/2021 | PDP29132 | 2020-10 City Attorney's Legal Updates 10/2020 | Passed | 0.0 | 0.25 |
