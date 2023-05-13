@@ -42,6 +42,7 @@
 | 5/3/2023 | TAP24971 | Stop the Bleed Kit(s) Training | Passed | 0.0 | 0.50 |
 | 4/14/2023 | ADP34474 | Ethos Ethics | Passed | 0.0 | 3.00 |
 | 4/14/2023 | ADP17666 | Sex Trafficking 101 | Passed | 0.0 | 1.50 |
+| 4/14/2023 | MFS34663 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 2/22/2023 | TAP15718 | Evidence HTPC Procedures and Submittals | Passed | 0.0 | 1.00 |
 | 2/22/2023 | TAP17890 | JacksonCountyMHEarlyAssessmentandSupportAlliance | Passed | 0.0 | 1.00 |
 | 2/17/2023 | ADP29249 | Defensive Tactics Training | Passed | 0.0 | 3.00 |

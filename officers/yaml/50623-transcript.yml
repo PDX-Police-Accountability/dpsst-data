@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/23/2023
+  course: PDP34483
+  title: 2023 Advanced Digital Data Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/15/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording

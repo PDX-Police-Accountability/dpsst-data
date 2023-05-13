@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2023 | BVP10108 | Air Support Briefing Training | Passed | 0.0 | 1.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |
 | 12/20/2022 | BVP00434 | Ethics in Police Training | Passed | 0.0 | 1.00 |

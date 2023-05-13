@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2023
+  course: BVP10108
+  title: Air Support Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

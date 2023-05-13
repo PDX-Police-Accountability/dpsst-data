@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2023 | PDP36458 | 2023-1 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 60.00 |
+| 5/5/2023 | PDP05784 | 2023-1 Range Qualification AR-15 Qual (20yd) | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP16665 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 3/30/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

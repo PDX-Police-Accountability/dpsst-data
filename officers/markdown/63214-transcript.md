@@ -30,6 +30,7 @@
 | 2/18/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/23/2023 | REG09627 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 12/12/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 12/8/2022 | PDP34098 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 12/8/2022 | PDP16418 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

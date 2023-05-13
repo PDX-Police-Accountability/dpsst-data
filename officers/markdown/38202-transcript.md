@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/14/2023 | PDS13663 | Peer Support Training | Passed | 0.0 | 1.00 |
+| 4/14/2023 | PDS14046 | NAMI Training | Passed | 0.0 | 2.00 |
+| 4/14/2023 | PDS44290 | Yoga For First Responders | Passed | 0.0 | 1.00 |
 | 4/5/2023 | PDS08108 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
 | 3/20/2023 | PDS27964 | Firearms Training | Passed | 0.0 | 5.00 |
 | 2/8/2023 | PDS27744 | TacMed | Passed | 0.0 | 4.00 |

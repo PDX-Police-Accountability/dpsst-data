@@ -24,8 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Certification Cards | First Aid and CPR | 6/7/2021 | 6/7/2023 |
 | Code of Ethics | Signed | 3/11/2010 |  |
 ## Education
@@ -39,7 +39,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/18/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.00 |
-| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 0.50 |
+| 4/17/2023 | PDP26319 | 2022-2 In-Service 1010.00 Policy Update | Passed | 0.0 | 0.00 |
+| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 3.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2022 | PDP33717 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/29/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

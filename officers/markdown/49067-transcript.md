@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | OCS04927 | FARO Scanner Certification | Passed | 0.0 | 24.00 |
+| 4/19/2023 | OCS26825 | FTO meeting april | Passed | 0.0 | 2.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/13/2023 | OCS33440 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

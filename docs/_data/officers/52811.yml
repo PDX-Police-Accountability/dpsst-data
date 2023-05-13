@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/13/2023
+  course: PDS34812
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 4/11/2023
   course: PDS04777
   title: YOGA for First Responders
@@ -84,6 +90,24 @@ training_records:
 - date: 4/11/2023
   course: PDS30615
   title: Peer Support Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2023
+  course: PDS24738
+  title: NAMI training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/11/2023
+  course: PDS11273
+  title: Peer Support Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2023
+  course: PDS20740
+  title: YOGA for First Responders
   status: Passed
   score: '0.0'
   hours: '1.00'

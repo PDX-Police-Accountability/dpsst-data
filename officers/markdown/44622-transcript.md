@@ -39,6 +39,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/28/2023 | OSH26274 | 1st Tri Firearms | Instructed | 0.0 | 4.00 |
 | 4/28/2023 | OSH44417 | Shotgun Training | Passed | 0.0 | 1.00 |
+| 4/26/2023 | OSH27563 | Leadership / Patrol Tactics Instructor In-Service | Passed | 0.0 | 12.00 |
+| 4/26/2023 | OSH27563 | Leadership / Patrol Tactics Instructor In-Service | Instructed | 0.0 | 4.00 |
 | 4/10/2023 | OSH24482 | DT 23 Defensive Tactics 1st Trimester | Passed | 0.0 | 4.00 |
 | 4/2/2023 | OSH21606 | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 3/9/2023 | OSH03931 | Vehicle Based Problem Solving | Passed | 0.0 | 8.00 |

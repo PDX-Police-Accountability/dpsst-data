@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2023 | MLP42764 | Rifle Qualification | Passed | 0.0 | 2.00 |
+| 5/9/2023 | MLP42764 | Rifle Qualification | Instructed | 0.0 | 1.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/19/2023 | MLP22573 | Safety Compass Human Trafficing | Passed | 0.0 | 1.00 |
 | 3/14/2023 | MLP26360 | Immediate action drills with handgun and rifles | Instructed | 0.0 | 3.00 |

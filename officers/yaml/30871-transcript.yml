@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2023
+  course: OSH27563
+  title: Leadership / Patrol Tactics Instructor In-Service
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/4/2023
   course: OSH27412
   title: 1st Tri Firearms

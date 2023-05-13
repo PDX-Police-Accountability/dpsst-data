@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2023 | SMS36387 | Tactical Med for First Responders (TCCC) | Passed | 0.0 | 8.00 |
 | 4/27/2023 | EGN33597 | Glock Armorer Class | Passed | 0.0 | 8.00 |
 | 4/4/2023 | WBP35225 | Redflex Program Training | Instructed | 0.0 | 1.50 |
 | 3/31/2023 | WBP32501 | WPD Quarter 1 Firearms Qualifications | Passed | 0.0 | 0.50 |

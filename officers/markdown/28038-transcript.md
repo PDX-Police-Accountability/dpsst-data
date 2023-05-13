@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2023 | PDS15002 | Firearms Training | Passed | 0.0 | 5.00 |
 | 3/28/2023 | PDS34199 | PowerDMS | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDS05565 | Adult Protective Services | Passed | 0.0 | 1.00 |
 | 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |

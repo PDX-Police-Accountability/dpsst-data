@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2023 | OCS20700 | ICS 200 | Passed | 0.0 | 3.00 |
+| 4/17/2023 | OCS17761 | ICS 700 | Passed | 0.0 | 3.00 |
 | 2/13/2023 | OCS33440 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

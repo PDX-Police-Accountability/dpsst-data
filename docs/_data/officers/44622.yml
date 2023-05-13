@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/26/2023
+  course: OSH27563
+  title: Leadership / Patrol Tactics Instructor In-Service
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 4/26/2023
+  course: OSH27563
+  title: Leadership / Patrol Tactics Instructor In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/10/2023
   course: OSH24482
   title: DT 23 Defensive Tactics 1st Trimester

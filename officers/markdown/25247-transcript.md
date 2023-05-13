@@ -16,8 +16,8 @@
 | 9/21/2006 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 4/19/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 | 4/12/2001 | Douglas County Sheriff's Office | Resigned | Dpty Shrf |  |  |
+| 3/26/1993 | Central Point Police Department | Resigned | Reserve |  |  |
 | 3/16/1993 | Douglas County Sheriff's Office | Hired | Dpty Shrf |  |  |
-| 3/15/1993 | Central Point Police Department | Resigned | Reserve |  |  |
 | 10/28/1992 | Central Point Police Department | Hired | Reserve |  |  |
 | 12/26/1991 | Phoenix Police Department | Resigned | Reserve |  |  |
 | 6/25/1991 | Phoenix Police Department | Hired | Reserve |  |  |

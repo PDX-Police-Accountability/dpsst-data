@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/4/2023 | HRS05010 | Tactical Training-Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 3/23/2023 | TDP44535 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
 | 3/23/2023 | HRS44984 | Tactical Training-Building Search | Passed | 0.0 | 3.50 |
@@ -55,6 +56,7 @@
 | 1/26/2023 | HRS08944 | Tactical Training-Building Search | Passed | 0.0 | 2.00 |
 | 1/12/2023 | HRS35065 | Tactical Training-Officer Rescue Drills | Passed | 0.0 | 1.00 |
 | 1/12/2023 | HRS27330 | Tactical Training-Room Clearing | Passed | 0.0 | 2.00 |
+| 1/12/2023 | HRS24882 | Tactical Training-Robot Familiarization | Passed | 0.0 | 1.00 |
 | 11/1/2022 | HRS00932 | Taser Recertification | Passed | 0.0 | 2.00 |
 | 10/31/2022 | HRS38193 | Fall Firearms Range | Passed | 0.0 | 4.00 |
 | 10/6/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -64,6 +64,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 5/11/2023
+  certificate: Instructor
+  level: ''
+  status: Granted
+  certificate_date: 5/11/2023
+  expiration_date: ''
+  probation_date: ''
 - status_date: 9/28/2021
   certificate: Police Officer
   level: Supervisory

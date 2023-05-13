@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2023
+  course: OCS28332
+  title: Crisis Intervention Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/13/2023
   course: OCS18313
   title: Fundamentals of Marksmanship

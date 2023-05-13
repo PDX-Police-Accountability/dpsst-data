@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2023 | PDS15002 | Firearms Training | Passed | 0.0 | 5.00 |
 | 3/20/2023 | PDS11640 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 3/20/2023 | PDS03091 | TacMed | Passed | 0.0 | 4.00 |
 | 2/27/2023 | PDS32117 | Adult Protective Services | Passed | 0.0 | 1.00 |

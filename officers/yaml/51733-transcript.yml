@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/23/2023
+  course: PDP34483
+  title: 2023 Advanced Digital Data Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/7/2023
   course: PDP00872
   title: 2023 Microsoft Word Online Recording

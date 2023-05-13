@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | OCS26825 | FTO meeting april | Passed | 0.0 | 2.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |

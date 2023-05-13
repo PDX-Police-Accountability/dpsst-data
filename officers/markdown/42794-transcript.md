@@ -41,7 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2023 | OCS00948 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
 | 3/13/2023 | OCS38811 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 3/10/2023 | OCS02865 | Long Distance Marksmanship / OIS Debrief | Instructed | 0.0 | 4.00 |
 | 2/20/2023 | OCS19321 | Fundamentals of Marksmanship | Instructed | 0.0 | 65.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2023
+  course: SMS26984
+  title: Tactical Med for First Responders (TCCC)
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/23/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording

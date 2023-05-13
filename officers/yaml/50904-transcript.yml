@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2023
+  course: OCS20700
+  title: ICS 200
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/17/2023
+  course: OCS17761
+  title: ICS 700
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/13/2023
   course: OCS33440
   title: Impact Weapon Defense and Strike

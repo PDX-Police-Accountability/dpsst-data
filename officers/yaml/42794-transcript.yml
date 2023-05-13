@@ -86,9 +86,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/4/2023
+  course: OCS00948
+  title: Marksmanship / Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/13/2023
   course: OCS38811
   title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/10/2023
+  course: OCS02865
+  title: Long Distance Marksmanship / OIS Debrief
   status: Instructed
   score: '0.0'
   hours: '4.00'

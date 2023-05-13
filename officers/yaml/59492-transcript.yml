@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2023
+  course: PDP36458
+  title: 2023-1 AR-15 Patrol Rifle Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
+- date: 5/5/2023
+  course: PDP05784
+  title: 2023-1 Range Qualification AR-15 Qual (20yd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/24/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

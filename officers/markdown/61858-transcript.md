@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | MFN31291 | LSCMI/Refresher/4-19.23-4.20.23 | Passed | 0.0 | 11.00 |
 | 3/9/2023 | MFN27384 | Airway Circulatory Anatomy and Physiology Training | Passed | 0.0 | 2.00 |
 | 2/23/2023 | MFN35659 | Pro-Criminal Attitude | Passed | 0.0 | 2.00 |
 | 2/16/2023 | GPN36477 | De-Escalation | Passed | 0.0 | 8.00 |

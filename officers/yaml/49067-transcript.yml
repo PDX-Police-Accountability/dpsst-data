@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/19/2023
+  course: OCS26825
+  title: FTO meeting april
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/28/2023
   course: BPT13195
   title: Police Traffic Safety Conference

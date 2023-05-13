@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 5/4/2023
+  course: HRS05010
+  title: Tactical Training-Critical Incident Debrief
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/21/2023
   course: SMS44198
   title: Basic Tactical Operations School
@@ -151,6 +157,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/12/2023
+  course: HRS24882
+  title: Tactical Training-Robot Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/1/2022
   course: HRS00932
   title: Taser Recertification
