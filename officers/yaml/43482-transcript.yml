@@ -42,6 +42,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2023
+  course: DAS16675
+  title: CIT for Correctional Facilities
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2023
+  course: DAS11485
+  title: Naloxone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 3/31/2023
+  course: DAS14929
+  title: Pre-Trial No Contact Orders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2023
+  course: DAS08020
+  title: Managing Inmate Special Populations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2023
+  course: DAS21128
+  title: 'Policy 600 Review: Security and Control'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/31/2023
+  course: DAS30778
+  title: 'Policy 200 Review: Operational Procedures'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2022
   course: DAS44847
   title: 'Policy 615 Review: Restraint Chair and The Wrap'

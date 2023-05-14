@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2023 | PDS11600 | Range Training | Passed | 0.0 | 5.00 |
 | 3/21/2023 | PDS18727 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 3/21/2023 | PDS39278 | TacMed | Passed | 0.0 | 4.00 |
 | 2/6/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |

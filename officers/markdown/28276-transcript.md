@@ -48,12 +48,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2023 | BPT19183 | MILO / Range 3000 IDC | Passed | 0.0 | 7.00 |
 | 4/27/2023 | SVP02912 | ZOLL AED Training | Passed | 0.0 | 0.50 |
 | 4/27/2023 | SVP02890 | TAC Medic Kit Familiarization | Passed | 0.0 | 0.50 |
 | 4/27/2023 | SVP05146 | Traffic Stops Refresher (Con Sims) | Passed | 0.0 | 2.50 |
 | 4/12/2023 | SVP25887 | Handgun Qualification and Training | Instructed | 0.0 | 5.00 |
 | 4/12/2023 | SVP14297 | Les Lethal Shotgun Qualification Training | Instructed | 0.0 | 1.00 |
 | 4/12/2023 | SVP28805 | Carbine Riffle Qualification Training | Instructed | 0.0 | 2.00 |
+| 4/10/2023 | SVP17080 | PoliceOne Academy Ethics in Law Enfrocement | Passed | 0.0 | 1.00 |
 | 3/29/2023 | SVP32728 | Firearms  Patrol Vehicle Defense Tactics | Instructed | 0.0 | 4.00 |
 | 3/22/2023 | SVP32728 | Firearms  Patrol Vehicle Defense Tactics | Passed | 0.0 | 4.00 |
 | 3/16/2023 | VND34914 | OEDI Annual Session #34 - Leadership | Passed | 0.0 | 34.50 |

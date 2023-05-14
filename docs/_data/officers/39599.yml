@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2023
+  course: PDS11600
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 3/21/2023
   course: PDS18727
   title: Benchmark Analytics

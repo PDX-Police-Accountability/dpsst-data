@@ -44,11 +44,23 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 4/27/2023
-  course: '08350'
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/27/2023
+  course: TRN36649
   title: Pathways to Change
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/20/2023
+  course: HBN03940
+  title: BCP Workshop Spring 2023
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/7/2023
   course: HBN40700
   title: 'DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION'

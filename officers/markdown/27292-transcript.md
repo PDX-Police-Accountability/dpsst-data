@@ -48,6 +48,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 12/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 4/26/2023 | PDS15367 | Yoga for First Responders | Passed | 0.0 | 1.00 |
+| 4/26/2023 | PDS35743 | NAMI Training | Passed | 0.0 | 2.00 |
+| 4/26/2023 | PDS02180 | Peer Support | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDS12736 | Crisis Negotiation Team Training | Instructed | 0.0 | 16.00 |
 | 2/16/2023 | PDS41564 | TacMed | Passed | 0.0 | 4.00 |
 | 2/6/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |

@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/10/2023
+  course: BPT19183
+  title: MILO / Range 3000 IDC
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/27/2023
   course: SVP02912
   title: ZOLL AED Training
@@ -159,6 +165,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 4/10/2023
+  course: SVP17080
+  title: PoliceOne Academy Ethics in Law Enfrocement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/29/2023
   course: SVP32728
   title: Firearms  Patrol Vehicle Defense Tactics

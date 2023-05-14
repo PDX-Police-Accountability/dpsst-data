@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2023 | PDS18783 | NAMI Training | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDS13534 | Yoga For First Responders | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDS35518 | Peer Support | Passed | 0.0 | 1.00 |
 | 3/13/2023 | PDS23874 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 3/13/2023 | PDS28135 | TacMed | Passed | 0.0 | 4.00 |
 | 2/24/2023 | PDS38124 | Emergency Drill Training | Passed | 0.0 | 0.50 |

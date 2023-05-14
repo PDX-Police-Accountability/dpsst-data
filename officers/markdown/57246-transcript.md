@@ -38,7 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/27/2023 | 08350 | Pathways to Change | Passed | 0.0 | 24.00 |
+| 4/27/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 24.00 |
+| 4/27/2023 | TRN36649 | Pathways to Change | Passed | 0.0 | 24.00 |
+| 4/20/2023 | HBN03940 | BCP Workshop Spring 2023 | Passed | 0.0 | 1.00 |
 | 2/7/2023 | HBN40700 | DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION | Passed | 0.0 | 6.00 |
 | 2/2/2023 | HBN16403 | Creating Culture of Trust on Team and Org | Passed | 0.0 | 1.25 |
 | 1/12/2023 | HBN18743 | Drug Recognition | Passed | 0.0 | 1.00 |

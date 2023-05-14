@@ -38,8 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2023 | PDS11600 | Range Training | Instructed | 0.0 | 5.00 |
 | 4/20/2023 | PDS19831 | SWAT Training | Passed | 0.0 | 8.00 |
 | 4/19/2023 | PDS00482 | SWAT Range | Passed | 0.0 | 8.00 |
+| 4/19/2023 | PDS43172 | Firearms Training | Instructed | 0.0 | 5.00 |
+| 4/19/2023 | PDS18810 | Firearms Training | Instructed | 0.0 | 5.00 |
+| 4/17/2023 | PDS25753 | Firearms Training | Instructed | 0.0 | 5.00 |
 | 4/13/2023 | PDS34812 | Firearms Training | Instructed | 0.0 | 5.00 |
 | 4/11/2023 | PDS04777 | YOGA for First Responders | Passed | 0.0 | 1.00 |
 | 4/11/2023 | PDS21907 | NAMI training | Passed | 0.0 | 2.00 |

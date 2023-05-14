@@ -80,6 +80,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2023
+  course: PDS09818
+  title: Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2023
+  course: PDS35906
+  title: Yoga for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/23/2023
   course: PDS16386
   title: DPSST Certification

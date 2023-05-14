@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2023 | PDS09818 | Peer Support | Passed | 0.0 | 1.00 |
+| 4/30/2023 | PDS35906 | Yoga for First Responders | Passed | 0.0 | 1.00 |
 | 3/23/2023 | PDS16386 | DPSST Certification | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDS11640 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 3/20/2023 | PDS03091 | TacMed | Passed | 0.0 | 4.00 |

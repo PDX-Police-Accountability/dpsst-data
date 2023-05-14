@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2023 | PDS09288 | Yoga for First Responders | Passed | 0.0 | 1.00 |
+| 5/6/2023 | PDS13075 | Peer Support | Passed | 0.0 | 1.00 |
+| 4/26/2023 | PDS11600 | Range Training | Passed | 0.0 | 5.00 |
 | 2/28/2023 | PDS18431 | Civil Process | Passed | 0.0 | 1.00 |
 | 2/28/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
 | 2/10/2023 | PDS14136 | Use of Force | Passed | 0.0 | 4.00 |

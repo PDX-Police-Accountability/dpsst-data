@@ -31,6 +31,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2023 | DAS16675 | CIT for Correctional Facilities | Passed | 0.0 | 1.00 |
+| 3/31/2023 | DAS11485 | Naloxone Administration | Passed | 0.0 | 0.75 |
+| 3/31/2023 | DAS14929 | Pre-Trial No Contact Orders | Passed | 0.0 | 1.00 |
+| 3/31/2023 | DAS08020 | Managing Inmate Special Populations | Passed | 0.0 | 1.00 |
+| 3/31/2023 | DAS21128 | Policy 600 Review: Security and Control | Passed | 0.0 | 0.50 |
+| 3/31/2023 | DAS30778 | Policy 200 Review: Operational Procedures | Passed | 0.0 | 0.50 |
 | 12/31/2022 | DAS44847 | Policy 615 Review: Restraint Chair and The Wrap | Passed | 0.0 | 1.00 |
 | 12/31/2022 | DAS10787 | Jail Inmate Manual Review | Passed | 0.0 | 1.00 |
 | 12/31/2022 | DAS25979 | Policy 1003 Review: Inmate Mail | Passed | 0.0 | 1.00 |

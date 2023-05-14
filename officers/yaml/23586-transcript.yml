@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2023
+  course: PDS17789
+  title: Yoga For First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/28/2023
+  course: PDS42006
+  title: NAMI Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/28/2023
+  course: PDS27667
+  title: Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/7/2023
   course: PDS04049
   title: TacMed

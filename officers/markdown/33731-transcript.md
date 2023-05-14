@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/4/2023 | PDN12758 | Confrontational Simulation-Legal Issues | Passed | 0.0 | 2.00 |
+| 4/26/2023 | PDN23616 | Victim and Survivor Training for ASD | Passed | 0.0 | 1.50 |
 | 4/18/2023 | PDN43935 | Defensive Tactics-Pre-Assault Indicator Response | Passed | 0.0 | 1.50 |
 | 3/15/2023 | PDN16325 | Field Applications-Radio Usage | Passed | 0.0 | 1.00 |
 | 2/10/2023 | PDN22435 | Mental Health Interventions for Law Enforcement | Passed | 0.0 | 3.00 |

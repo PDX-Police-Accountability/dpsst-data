@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 4/10/2023 | SVP17080 | PoliceOne Academy Ethics in Law Enfrocement | Passed | 0.0 | 1.00 |
 | 4/7/2023 | OAC23627 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/7/2023 | OAC43392 | Radically  Ethically Motivated Violent Extremists | Passed | 0.0 | 1.50 |
 | 4/6/2023 | OAC35257 | Trauma and Post-Tramatic Stress | Passed | 0.0 | 4.00 |
