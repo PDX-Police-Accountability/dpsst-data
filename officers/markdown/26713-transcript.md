@@ -14,28 +14,24 @@
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 6/1/2001 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 5/31/2001 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
+| 11/1/1999 | West Linn Police Department | Resigned | Reserve |  |  |
 | 3/8/1999 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
-| 3/7/1999 | West Linn Police Department | Resigned | Reserve |  |  |
 | 1/5/1999 | West Linn Police Department | Hired | Reserve |  |  |
 | 8/21/1995 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 2/13/1992 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/15/2020 | Corrections Officer | Basic | Expired | 12/16/1999 |  |  |
 | 11/10/2014 | Police Officer | Advanced | Granted | 11/10/2014 |  |  |
 | 11/1/2010 | Police Officer | Intermediate | Granted | 11/1/2010 |  |  |
 | 6/5/2002 | Police Officer | Basic | Granted | 6/5/2002 |  |  |
-| 8/31/2001 | Corrections Officer | Basic | Lapsed | 12/16/1999 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |

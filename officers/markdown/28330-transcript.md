@@ -34,11 +34,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2023 | PPP0174A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 1/24/2023 | PPP31877 | Annual Firearms Qualifications and Training | Passed | 0.0 | 8.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |

@@ -24,17 +24,10 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Certification Cards | First Aid and CPR | 8/12/2022 | 8/12/2024 |
-| Certification Cards | First Aid and CPR | 8/12/2022 | 8/12/2024 |
-| Code of Ethics | Law Enforcement Signed | 3/28/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 3/28/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 5/30/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 5/30/2021 |  |
-| Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 | Certification Cards | First Aid and CPR | 5/26/2021 | 5/26/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2023 | MFN2061A | Real Colors | Passed | 0.0 | 7.00 |
 | 4/19/2023 | MFN31291 | LSCMI/Refresher/4-19.23-4.20.23 | Passed | 0.0 | 11.00 |
 | 3/9/2023 | MFN27384 | Airway Circulatory Anatomy and Physiology Training | Passed | 0.0 | 2.00 |
 | 2/23/2023 | MFN35659 | Pro-Criminal Attitude | Passed | 0.0 | 2.00 |

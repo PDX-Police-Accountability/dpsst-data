@@ -51,6 +51,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2023
+  course: PDP1379A
+  title: Psychology of Terrorism  Counter Terrorism
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/13/2023
+  course: PDP4009A
+  title: Team Rubicon Emergency Management
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/27/2023
   course: PDP35875
   title: Future of Work
@@ -4166,14 +4178,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/4/2023
   expiration_date: 4/4/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/4/2023
-  expiration_date: 4/4/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4182,22 +4186,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/11/2021
   expiration_date: 5/11/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/11/2021
-  expiration_date: 5/11/2023
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/20/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/20/2007

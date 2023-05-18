@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/29/2010 |  |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/1/2023 | WLP34960 | Stop Stick Refresher Training | Passed | 0.0 | 1.00 |
 | 3/21/2023 | WLP15706 | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
+| 3/14/2023 | WLP4415A | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |
 | 3/1/2023 | WLP31427 | Safety Compass - Human Trafficking Awareness | Passed | 0.0 | 1.00 |
 | 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |

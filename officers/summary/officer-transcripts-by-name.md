@@ -55,7 +55,6 @@
 | * MISSING | 48404 |  |  |  |  |  | [md](../markdown/48404-transcript.md) - [yaml](../yaml/48404-transcript.yml) |
 | * MISSING | 48505 |  |  |  |  |  | [md](../markdown/48505-transcript.md) - [yaml](../yaml/48505-transcript.yml) |
 | * MISSING | 48578 |  |  |  |  |  | [md](../markdown/48578-transcript.md) - [yaml](../yaml/48578-transcript.yml) |
-| * MISSING | 49848 |  |  |  |  |  | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
 | * MISSING | 50436 |  |  |  |  |  | [md](../markdown/50436-transcript.md) - [yaml](../yaml/50436-transcript.yml) |
 | * MISSING | 50649 |  |  |  |  |  | [md](../markdown/50649-transcript.md) - [yaml](../yaml/50649-transcript.yml) |
 | * MISSING | 50999 |  |  |  |  |  | [md](../markdown/50999-transcript.md) - [yaml](../yaml/50999-transcript.yml) |
@@ -1501,6 +1500,7 @@
 | Toops, Mary A. | 34882 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-24 | [md](../markdown/34882-transcript.md) - [yaml](../yaml/34882-transcript.yml) |
 | Torres, Jeobany J. | 60735 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60735-transcript.md) - [yaml](../yaml/60735-transcript.yml) |
 | Towle, Cordes K. | 13923 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-07-23 | [md](../markdown/13923-transcript.md) - [yaml](../yaml/13923-transcript.yml) |
+| Townley, James M. | 49848 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
 | Tran, Danny K. | 63983 | Portland Police Bureau | Active | Police Officer | Hired | 2023-03-16 | [md](../markdown/63983-transcript.md) - [yaml](../yaml/63983-transcript.yml) |
 | Tran, Huan | 61864 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-13 | [md](../markdown/61864-transcript.md) - [yaml](../yaml/61864-transcript.yml) |
 | Trapp, Todd D. | 56260 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/56260-transcript.md) - [yaml](../yaml/56260-transcript.yml) |

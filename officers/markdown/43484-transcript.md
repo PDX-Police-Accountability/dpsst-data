@@ -17,7 +17,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/1/2023 | Police Officer | Advanced | App Incmpl |  | 7/1/2023 |  |
+| 5/16/2023 | Police Officer | Advanced | Granted | 5/16/2023 |  |  |
 | 8/1/2019 | Police Officer | Supervisory | Granted | 8/1/2019 |  |  |
 | 12/20/2010 | Police Officer | Intermediate | Granted | 12/20/2010 |  |  |
 | 3/21/2005 | Police Officer | Basic | Granted | 3/21/2005 |  |  |
@@ -26,16 +26,12 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 9/29/2003 |  |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2003 | No Degree | Portland Community College |  | 110.0 |
+| 3/26/2017 | Associate Arts | Portland Community College |  | 120.0 |
 | 12/15/1991 | No Degree | Warner Pacific College |  | 13.5 |
 | 6/15/1991 | No Degree | Clackamas Community College |  | 19.1 |
 ## Training

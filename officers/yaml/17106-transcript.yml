@@ -105,6 +105,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '80.00'
+- date: 2/2/2022
+  course: PDA2036A
+  title: Basic First Aid and Basic Life Support
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/26/2019
   course: PDP02916
   title: 2019 CHO SPLC Law Enforce Response to Hate Events
@@ -2614,14 +2620,6 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 4/10/2023
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/30/2022
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 3/30/2022
   expiration_date: ''
 - topic: Certification Cards
@@ -2630,8 +2628,8 @@ attribute_records:
   expiration_date: 2/5/2024
 - topic: Certification Cards
   value: First Aid and CPR
-  effective_date: 2/5/2022
-  expiration_date: 2/5/2024
+  effective_date: 2/2/2022
+  expiration_date: 2/5/2023
 education_records:
 - date: 6/20/1985
   degree: Associate Science

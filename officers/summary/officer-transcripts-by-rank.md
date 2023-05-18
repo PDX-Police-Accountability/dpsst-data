@@ -55,7 +55,6 @@
 | * MISSING | 48404 |  |  |  |  |  | [md](../markdown/48404-transcript.md) - [yaml](../yaml/48404-transcript.yml) |
 | * MISSING | 48505 |  |  |  |  |  | [md](../markdown/48505-transcript.md) - [yaml](../yaml/48505-transcript.yml) |
 | * MISSING | 48578 |  |  |  |  |  | [md](../markdown/48578-transcript.md) - [yaml](../yaml/48578-transcript.yml) |
-| * MISSING | 49848 |  |  |  |  |  | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
 | * MISSING | 50436 |  |  |  |  |  | [md](../markdown/50436-transcript.md) - [yaml](../yaml/50436-transcript.yml) |
 | * MISSING | 50649 |  |  |  |  |  | [md](../markdown/50649-transcript.md) - [yaml](../yaml/50649-transcript.yml) |
 | * MISSING | 50999 |  |  |  |  |  | [md](../markdown/50999-transcript.md) - [yaml](../yaml/50999-transcript.yml) |
@@ -1623,6 +1622,7 @@
 | Barnard, Daniel F. | 49119 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/49119-transcript.md) - [yaml](../yaml/49119-transcript.yml) |
 | Britt, Garry A. | 49588 | Portland Police Bureau | Active | Sergeant | Return LOA | 2021-05-03 | [md](../markdown/49588-transcript.md) - [yaml](../yaml/49588-transcript.yml) |
 | Ockunzzi, Joel M. | 49841 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/49841-transcript.md) - [yaml](../yaml/49841-transcript.yml) |
+| Townley, James M. | 49848 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
 | Spiegel, Daniel A. | 49997 | Portland Police Bureau | Active | Sergeant | Promotion | 2018-05-03 | [md](../markdown/49997-transcript.md) - [yaml](../yaml/49997-transcript.yml) |
 | Tyler, Trevor J. | 50003 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/50003-transcript.md) - [yaml](../yaml/50003-transcript.yml) |
 | McGuffey, C. David | 50079 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/50079-transcript.md) - [yaml](../yaml/50079-transcript.yml) |

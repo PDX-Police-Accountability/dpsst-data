@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/11/2023
+  course: BPT0629A
+  title: 'Active Shooter: Dispatching in the Line of Fire'
+  status: ''
+  score: '0.0'
+  hours: '1.00'
 - date: 4/17/2023
   course: M10-23A
   title: DPSST Basic Police Course
@@ -103,10 +109,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/18/2023
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/18/2023

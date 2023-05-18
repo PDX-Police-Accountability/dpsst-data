@@ -55,7 +55,6 @@
 | * MISSING | 48404 |  |  |  |  |  | [md](../markdown/48404-transcript.md) - [yaml](../yaml/48404-transcript.yml) |
 | * MISSING | 48505 |  |  |  |  |  | [md](../markdown/48505-transcript.md) - [yaml](../yaml/48505-transcript.yml) |
 | * MISSING | 48578 |  |  |  |  |  | [md](../markdown/48578-transcript.md) - [yaml](../yaml/48578-transcript.yml) |
-| * MISSING | 49848 |  |  |  |  |  | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
 | * MISSING | 50436 |  |  |  |  |  | [md](../markdown/50436-transcript.md) - [yaml](../yaml/50436-transcript.yml) |
 | * MISSING | 50649 |  |  |  |  |  | [md](../markdown/50649-transcript.md) - [yaml](../yaml/50649-transcript.yml) |
 | * MISSING | 50999 |  |  |  |  |  | [md](../markdown/50999-transcript.md) - [yaml](../yaml/50999-transcript.yml) |
@@ -1397,6 +1396,7 @@
 | Meyer, Marti L. | 29128 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2021-10-18 | [md](../markdown/29128-transcript.md) - [yaml](../yaml/29128-transcript.yml) |
 | McInnis, Roxanne E. | 48565 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2021-10-20 | [md](../markdown/48565-transcript.md) - [yaml](../yaml/48565-transcript.yml) |
 | McCarthy, David R. | 49067 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-10-20 | [md](../markdown/49067-transcript.md) - [yaml](../yaml/49067-transcript.yml) |
+| Townley, James M. | 49848 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/49848-transcript.md) - [yaml](../yaml/49848-transcript.yml) |
 | Ceaser, Madison C., Jr. | 50696 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/50696-transcript.md) - [yaml](../yaml/50696-transcript.yml) |
 | Jacobsen, Matthew B. | 50933 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/50933-transcript.md) - [yaml](../yaml/50933-transcript.yml) |
 | Sapper, John L. | 50821 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2021-11-03 | [md](../markdown/50821-transcript.md) - [yaml](../yaml/50821-transcript.yml) |
