@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/15/2023
+  course: PDP0627
+  title: TEEX WMD/Terrorism Awareness for Emergency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/30/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

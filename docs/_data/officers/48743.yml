@@ -3,13 +3,19 @@ header_record:
   name: Carlson, Allison J.
   dpsst_identifier: '48743'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
-- date: 5/13/2022
+- date: 5/13/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 4/4/2022
   agency: Portland Police Bureau
   action: LOA
   rank: Police Off
@@ -45,14 +51,14 @@ certification_records:
   level: Intermediate
   status: Granted
   certificate_date: 5/9/2011
-  expiration_date: ''
+  expiration_date: 8/13/2023
   probation_date: ''
 - status_date: 3/5/2009
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/5/2009
-  expiration_date: ''
+  expiration_date: 8/13/2023
   probation_date: ''
 training_records:
 - date: 1/9/2022

@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -223,7 +219,7 @@
 | 10/12/2018 | F6D01873 | SWAT Training | Passed | 0.0 | 40.00 |
 | 9/13/2018 | F6B36504 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
 | 8/22/2018 | F6D06232 | Search  Rescue Patrol Response | Passed | 0.0 | 1.00 |
-| 8/15/2018 | F6B09587 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/15/2018 | F6B09587 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/15/2018 | F6B35235 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/15/2018 | F6B43366 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |
 | 8/15/2018 | F6B36426 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |

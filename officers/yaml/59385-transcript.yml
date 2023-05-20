@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2023
+  course: PSU1814
+  title: MILO 3000 / Shoot Don't Shoot Scenarios
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/11/2023
+  course: PSU1001
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2023
+  course: PSU0064
+  title: Low Light/Shooting  Moving/Transitions/ Qual
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 4/27/2023
   course: BPT10509
   title: I.C.I.S.F. Course

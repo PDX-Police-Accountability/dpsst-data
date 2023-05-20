@@ -288,7 +288,7 @@
 | 9/25/2018 | F6B02639 | Firearms Training | Passed | 0.0 | 5.00 |
 | 9/16/2018 | F6B09312 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
 | 9/16/2018 | F6B06304 | Radio Communications and BOEC Familiarization | Passed | 0.0 | 0.50 |
-| 8/14/2018 | F6B25442 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/14/2018 | F6B25442 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/14/2018 | F6B11204 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
 | 7/14/2018 | F6B30482 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/13/2018 | F6B08320 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |

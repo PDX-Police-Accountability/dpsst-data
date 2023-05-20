@@ -30,12 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/12/2022 | 1/12/2024 |
 | Certification Cards | First Aid and CPR | 1/12/2022 | 1/12/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/25/2000 |  |
 | Code of Ethics | Signed | 10/25/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -131,7 +127,7 @@
 | 8/14/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/14/2018 | F6B13890 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/12/2018 | F6B27312 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
-| 8/10/2018 | F6B06725 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/10/2018 | F6B06725 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 7/31/2018 | F6B09014 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 7/31/2018 | F6B06795 | Fentanyl | Passed | 0.0 | 1.50 |
 | 6/22/2018 | F6B09994 | Use of Force | Passed | 0.0 | 2.00 |

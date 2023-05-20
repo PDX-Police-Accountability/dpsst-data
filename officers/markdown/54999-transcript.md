@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2023 | HRS4113A | Internal Affairs Investigations | Passed | 0.0 | 7.00 |
 | 5/4/2023 | HRS05010 | Tactical Training-Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 3/23/2023 | TDP44535 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
@@ -168,7 +169,7 @@
 | 9/26/2018 | F6B38050 | Radio Communications and BOEC Familiarization | Passed | 0.0 | 0.50 |
 | 9/24/2018 | F6B25421 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
 | 9/7/2018 | F6B28929 | Fentanyl | Passed | 0.0 | 1.50 |
-| 8/20/2018 | F6B35462 | 2018 PREA staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/20/2018 | F6B35462 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/18/2018 | F6B18683 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
 | 7/31/2018 | F6B09014 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 7/30/2018 | F6B17072 | OSHA  Bloodborne Pathogens 2018 | Passed | 0.0 | 2.00 |

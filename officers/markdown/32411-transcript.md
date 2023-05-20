@@ -28,11 +28,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/28/2018 | F6B27000 | 2018 OC recertification Course | Passed | 0.0 | 1.00 |
+| 8/28/2018 | F6B27000 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |
 | 8/15/2018 | F6B35235 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/15/2018 | F6B36426 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
 | 8/15/2018 | F6B43366 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |
-| 8/14/2018 | F6B25442 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/14/2018 | F6B25442 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/12/2018 | F6B40680 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 7/21/2018 | F6B09130 | Defensive Tactics - Reserves | Passed | 0.0 | 4.00 |
 | 7/21/2018 | F6B42297 | Use of Force | Passed | 0.0 | 4.00 |

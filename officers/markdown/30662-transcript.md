@@ -61,7 +61,7 @@
 | 9/23/2018 | F6B10043 | Radio Communications and BOEC Familiarization | Passed | 0.0 | 0.50 |
 | 9/20/2018 | F6B27347 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
 | 9/15/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 8/11/2018 | F6B29238 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/11/2018 | F6B29238 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/11/2018 | F6B22089 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
 | 7/17/2018 | F6B01786 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 7/16/2018 | F6B21426 | Fentanyl | Passed | 0.0 | 1.50 |

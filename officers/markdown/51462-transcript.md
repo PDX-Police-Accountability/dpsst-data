@@ -73,7 +73,7 @@
 | 8/14/2018 | F6B13890 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/14/2018 | F6B30261 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
 | 8/14/2018 | F6B25825 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |
-| 8/13/2018 | F6B23754 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/13/2018 | F6B23754 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/2/2018 | F6B23525 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 7/21/2018 | F6B09130 | Defensive Tactics - Reserves | Passed | 0.0 | 4.00 |
 | 7/21/2018 | F6B42297 | Use of Force | Passed | 0.0 | 4.00 |

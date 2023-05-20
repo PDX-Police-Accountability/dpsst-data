@@ -2620,28 +2620,12 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 4/10/2023
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 3/30/2022
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 3/30/2022
   expiration_date: ''
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/5/2022
   expiration_date: 2/5/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/5/2022
-  expiration_date: 2/5/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/2/2022
-  expiration_date: 2/5/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/2/2022

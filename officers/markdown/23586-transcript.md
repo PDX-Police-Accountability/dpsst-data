@@ -24,11 +24,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Code of Ethics | Signed | 10/11/2000 |  |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -104,7 +100,7 @@
 | 9/15/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2018 | F6B21821 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
 | 9/15/2018 | F6B05396 | Radio Communications and BOEC Familiarization | Passed | 0.0 | 0.50 |
-| 8/17/2018 | F6B05463 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/17/2018 | F6B05463 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/10/2018 | F6B11593 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
 | 7/30/2018 | F6B06246 | Narcan Adapt Training | Passed | 0.0 | 1.00 |
 | 7/30/2018 | F6B42423 | House Bill 2776 | Passed | 0.0 | 0.50 |

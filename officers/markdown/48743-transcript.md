@@ -4,7 +4,7 @@
 | name | Carlson, Allison J. |
 | dpsst_identifier | 48743 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,7 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 5/13/2022 | Portland Police Bureau | LOA | Police Off |  |  |
+| 5/13/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
+| 4/4/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 5/22/2014 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 3/6/2013 | Portland Police Bureau | LOA | Police Off |  |  |
 | 12/20/2007 | Portland Police Bureau | Reclassed | Police Off |  |  |
@@ -20,8 +21,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/9/2011 | Police Officer | Intermediate | Granted | 5/9/2011 |  |  |
-| 3/5/2009 | Police Officer | Basic | Granted | 3/5/2009 |  |  |
+| 5/9/2011 | Police Officer | Intermediate | Granted | 5/9/2011 | 8/13/2023 |  |
+| 3/5/2009 | Police Officer | Basic | Granted | 3/5/2009 | 8/13/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

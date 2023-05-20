@@ -32,11 +32,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,8 +42,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/4/2023 | OCS00948 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
+| 3/30/2023 | OCS1754 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
+| 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
+| 3/17/2023 | OCS1749 | Marksmanship / Shoot-No Shoot decisions | Instructed | 0.0 | 4.00 |
 | 3/13/2023 | OCS38811 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 3/10/2023 | OCS02865 | Long Distance Marksmanship / OIS Debrief | Instructed | 0.0 | 4.00 |
+| 3/10/2023 | OCS0286 | Long Distance Marksmanship / OIS Debrief | Instructed | 0.0 | 4.00 |
 | 2/20/2023 | OCS19321 | Fundamentals of Marksmanship | Instructed | 0.0 | 65.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

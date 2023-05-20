@@ -46,7 +46,7 @@
 | 9/10/2018 | F6D10417 | ConSim | Passed | 0.0 | 3.00 |
 | 8/31/2018 | F6B16034 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 8/31/2018 | F6B30545 | Narcan Adapt Training | Passed | 0.0 | 1.00 |
-| 8/28/2018 | F6B27000 | 2018 OC recertification Course | Passed | 0.0 | 1.00 |
+| 8/28/2018 | F6B27000 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |
 | 8/26/2018 | F6B14188 | Taser X26P Transition Course | Passed | 0.0 | 0.50 |
 | 8/23/2018 | F6B11559 | Use of Force | Passed | 0.0 | 2.00 |
 | 7/21/2018 | F6B09130 | Defensive Tactics - Reserves | Passed | 0.0 | 4.00 |

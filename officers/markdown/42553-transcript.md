@@ -46,12 +46,12 @@
 | 8/31/2018 | F6B16034 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 8/31/2018 | F6B23695 | PREA Staff Training - 2017 | Passed | 0.0 | 2.50 |
 | 8/29/2018 | F6B18255 | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
-| 8/28/2018 | F6B27000 | 2018 OC recertification Course | Passed | 0.0 | 1.00 |
+| 8/28/2018 | F6B27000 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |
 | 8/26/2018 | F6B14188 | Taser X26P Transition Course | Passed | 0.0 | 0.50 |
 | 8/21/2018 | F6B05894 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/21/2018 | F6B27339 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
 | 8/20/2018 | F6B02695 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |
-| 8/18/2018 | F6B08573 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/18/2018 | F6B08573 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 7/21/2018 | F6B09130 | Defensive Tactics - Reserves | Passed | 0.0 | 4.00 |
 | 7/21/2018 | F6B42297 | Use of Force | Passed | 0.0 | 4.00 |
 | 7/20/2018 | F6D37548 | Reserve Range | Passed | 0.0 | 1.00 |

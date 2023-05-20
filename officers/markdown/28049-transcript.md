@@ -88,7 +88,7 @@
 | 11/30/2018 | F6D22466 | Confessions,Search,Seizure and Arrest Guide | Passed | 0.0 | 0.50 |
 | 11/7/2018 | F6D18736 | Firearms Training | Passed | 0.0 | 7.00 |
 | 11/7/2018 | F6D09545 | Range Qualification | Passed | 0.0 | 2.00 |
-| 10/30/2018 | F6D33768 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 10/30/2018 | F6D33768 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/31/2018 | F6B23695 | PREA Staff Training - 2017 | Passed | 0.0 | 2.50 |
 | 8/30/2018 | F6B35020 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/30/2018 | F6B38894 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |

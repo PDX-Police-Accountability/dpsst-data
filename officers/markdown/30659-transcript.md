@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/15/2023 | Multnomah County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 1/31/2023 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 12/8/1997 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 12/11/1996 | Portland Police Bureau | Prob Dschg | Reserve |  |  |
@@ -27,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/22/2021 | 10/28/2023 |
-| Certification Cards | First Aid and CPR | 11/22/2021 | 10/28/2023 |
-| Code of Ethics | Signed | 12/14/2001 |  |
 | Code of Ethics | Signed | 12/14/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -97,7 +94,7 @@
 | 10/23/2018 | F6D04923 | Bias  Diversity Training | Passed | 0.0 | 7.00 |
 | 9/18/2018 | F6B14228 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
 | 9/18/2018 | F6B14027 | Radio Communications and BOEC Familiarization | Passed | 0.0 | 0.50 |
-| 8/11/2018 | F6B29238 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/11/2018 | F6B29238 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/11/2018 | F6B22089 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
 | 8/9/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/6/2018 | F6B22516 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
@@ -127,7 +124,7 @@
 | 10/4/2016 | F6C02858 | Corrections Health Overview | Passed | 0.0 | 0.50 |
 | 9/10/2016 | F6C11249 | Transender  Cross Gender Searches | Passed | 0.0 | 0.50 |
 | 6/19/2016 | F6A01097 | Restraint Chair Application | Passed | 0.0 | 0.50 |
-| 6/18/2016 | F6A01102 | 2015 - TASER Recertification | Passed | 0.0 | 3.00 |
+| 6/18/2016 | F6A01102 | 2015 - Taser Recertification | Passed | 0.0 | 3.00 |
 | 6/18/2016 | F6C29633 | OSHA  Bloodborne Pathogens | Passed | 0.0 | 2.00 |
 | 4/16/2016 | F6C00065 | Distracted Driving | Passed | 0.0 | 0.50 |
 | 4/16/2016 | F6C00085 | Transgender Booking Policy | Passed | 0.0 | 1.00 |

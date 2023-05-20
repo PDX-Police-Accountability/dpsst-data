@@ -48,6 +48,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2023
+  course: PSU1814
+  title: MILO 3000 / Shoot Don't Shoot Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/11/2023
+  course: PSU1001
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2023
+  course: PSU0064
+  title: Low Light/Shooting  Moving/Transitions/ Qual
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 10/4/2022
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm
@@ -3279,18 +3297,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2022
   expiration_date: 12/31/2022
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/8/2021
-  expiration_date: 6/8/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/8/2021

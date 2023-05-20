@@ -2606,25 +2606,25 @@ training_records:
   hours: '2.00'
 - date: 6/3/2010
   course: F6A08274
-  title: 10-0388-ISO0100 Introduction to Incident Command
+  title: Introduction to Incident Command
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 6/3/2010
   course: F6A08275
-  title: 10-0395 - IS00700 National Incident Management Sys
+  title: National Incident Management System
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 6/3/2010
   course: F6A08276
-  title: 10-0388-ISO0100 Introduction to Incident Command
+  title: Introduction to Incident Command
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 6/3/2010
   course: F6A08277
-  title: 10-0395-IS00700 National Incident Management Sys
+  title: National Incident Management System
   status: Passed
   score: '0.0'
   hours: '3.00'

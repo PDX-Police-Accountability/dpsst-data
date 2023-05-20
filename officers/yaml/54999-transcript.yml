@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 5/16/2023
+  course: HRS4113A
+  title: Internal Affairs Investigations
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/4/2023
   course: HRS05010
   title: Tactical Training-Critical Incident Debrief
@@ -831,7 +837,7 @@ training_records:
   hours: '1.50'
 - date: 8/20/2018
   course: F6B35462
-  title: 2018 PREA staff Training, Updates and Reminders
+  title: 2018 PREA Staff Training Updates  Reminders
   status: Passed
   score: '0.0'
   hours: '1.00'

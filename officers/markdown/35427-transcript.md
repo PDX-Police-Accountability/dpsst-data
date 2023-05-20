@@ -78,7 +78,7 @@
 | 9/13/2018 | F6B36504 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
 | 8/15/2018 | F6B35235 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/15/2018 | F6B36426 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
-| 8/14/2018 | F6B25442 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/14/2018 | F6B25442 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 7/13/2018 | F6B08320 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 7/12/2018 | F6B19486 | Fentanyl | Passed | 0.0 | 1.50 |
 | 6/22/2018 | F6B42286 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |

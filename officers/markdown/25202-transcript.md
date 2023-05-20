@@ -72,14 +72,14 @@
 | 12/15/2018 | F6D37466 | Confessions, Search, Seizure and Arrest Guide | Passed | 0.0 | 0.50 |
 | 11/27/2018 | F6D03792 | Use of Force | Passed | 0.0 | 2.00 |
 | 9/10/2018 | F6D10417 | ConSim | Passed | 0.0 | 3.00 |
-| 8/28/2018 | F6B27000 | 2018 OC recertification Course | Passed | 0.0 | 1.00 |
+| 8/28/2018 | F6B27000 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |
 | 8/26/2018 | F6B14188 | Taser X26P Transition Course | Passed | 0.0 | 0.50 |
 | 8/17/2018 | F6B00886 | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 8/13/2018 | F6B13431 | PREA Staff Training | Passed | 0.0 | 2.50 |
 | 8/12/2018 | F6B40680 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 8/12/2018 | F6B09290 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/12/2018 | F6B27312 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
-| 8/11/2018 | F6B29238 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/11/2018 | F6B29238 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/11/2018 | F6B36165 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |
 | 7/21/2018 | F6B09130 | Defensive Tactics - Reserves | Passed | 0.0 | 4.00 |
 | 7/21/2018 | F6B42297 | Use of Force | Passed | 0.0 | 4.00 |

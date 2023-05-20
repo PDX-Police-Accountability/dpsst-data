@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 5/11/2023
+  course: PDP0627
+  title: TEEX WMD/Terrorism Awareness for Emergency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/21/2022
   course: PDP28038
   title: 2021 Training New Pistol Qualification
@@ -48,5 +54,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-attribute_records: []
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 5/15/2023
+  expiration_date: ''
 education_records: []

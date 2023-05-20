@@ -37,7 +37,7 @@
 | 12/3/2018 | F6D09169 | Workday Basics | Passed | 0.0 | 0.50 |
 | 11/19/2018 | F6D40035 | Bias  Diversity Training | Passed | 0.0 | 7.00 |
 | 9/19/2018 | F6B41784 | Discrimination and Harassment Free Workplace | Passed | 0.0 | 0.50 |
-| 8/18/2018 | F6B08573 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/18/2018 | F6B08573 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 7/6/2018 | F6B23337 | Fentanyl | Passed | 0.0 | 1.50 |
 | 6/8/2018 | F6B43303 | OSHA  Bloodborne Pathogens 2018 | Passed | 0.0 | 2.00 |
 | 5/16/2018 | F6B26816 | Trauma Informed Care | Passed | 0.0 | 3.00 |

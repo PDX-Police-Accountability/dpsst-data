@@ -174,7 +174,7 @@
 | 4/8/2019 | HBS06818 | Sheriff's Welcome | Passed | 0.0 | 2.50 |
 | 12/18/2018 | F6D35150 | Range Qualification-Reserve | Passed | 0.0 | 4.00 |
 | 8/31/2018 | F6B30545 | Narcan Adapt Training | Passed | 0.0 | 1.00 |
-| 8/28/2018 | F6B27000 | 2018 OC recertification Course | Passed | 0.0 | 1.00 |
+| 8/28/2018 | F6B27000 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |
 | 8/26/2018 | F6B14188 | Taser X26P Transition Course | Passed | 0.0 | 0.50 |
 | 8/15/2018 | F6B35235 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/15/2018 | F6B43366 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |

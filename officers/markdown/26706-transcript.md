@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Certification Cards | First Aid and CPR | 11/30/2021 | 10/28/2023 |
-| Code of Ethics | Signed | 8/19/2003 |  |
 | Code of Ethics | Signed | 8/19/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -104,7 +100,7 @@
 | 10/30/2018 | F6D18063 | Radio Communications and BOEC Familiarization | Passed | 0.0 | 0.50 |
 | 10/24/2018 | F6D16807 | MCSO Policy Access and Acknowledgement Training | Passed | 0.0 | 0.50 |
 | 10/18/2018 | F6D29861 | Discrimination and Harassment-Free Workplace | Passed | 0.0 | 0.50 |
-| 8/10/2018 | F6B06725 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/10/2018 | F6B06725 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/10/2018 | F6B11593 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
 | 7/5/2018 | F6B30506 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 7/5/2018 | F6B10596 | Fentanyl | Passed | 0.0 | 1.50 |

@@ -89,7 +89,7 @@
 | 9/22/2018 | F6B31908 | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/15/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/6/2018 | F6B12141 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
-| 9/5/2018 | F6B21117 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 9/5/2018 | F6B21117 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 6/29/2018 | F6B03928 | OSHA  Bloodborne Pathogens 2018 | Passed | 0.0 | 2.00 |
 | 6/22/2018 | F6B42286 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |
 | 6/21/2018 | F6B10069 | Decision Making for Corrections | Passed | 0.0 | 1.00 |

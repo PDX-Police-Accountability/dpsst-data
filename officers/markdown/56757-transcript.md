@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 5/16/2023 | PSU0064 | Low Light/Shooting  Moving/Transitions/ Qual | Passed | 0.0 | 2.50 |
+| 5/16/2023 | PSU1814 | MILO 3000 / Shoot Don't Shoot Scenarios | Passed | 0.0 | 1.50 |
 | 4/27/2023 | BPT10509 | I.C.I.S.F. Course | Passed | 0.0 | 27.00 |
 | 9/26/2022 | PSU12472 | Officer Wellness / Mental Health | Passed | 0.0 | 2.00 |
 | 9/5/2022 | PSU22819 | Campus Based Training: Clery Act | Passed | 0.0 | 2.00 |

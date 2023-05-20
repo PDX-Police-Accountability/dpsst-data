@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 5/17/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 1/12/2022
   certificate: Police Officer
   level: Basic
@@ -36,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2023
+  course: NGP1404A
+  title: First Aid CPR
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 4/18/2023
   course: NGP01767
   title: Achieve Peak Performance in Emotional Survival
@@ -1141,6 +1154,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/15/2023
+  expiration_date: 5/15/2025
 - topic: Maintenance Requirements
   value: First Aid/CPR Required
   effective_date: 4/12/2023

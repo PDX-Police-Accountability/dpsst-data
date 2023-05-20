@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/15/2023
+  agency: Multnomah County Sheriff's Office
+  action: Return LOA
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 1/31/2023
   agency: Multnomah County Sheriff's Office
   action: LOA
@@ -394,7 +400,7 @@ training_records:
   hours: '0.50'
 - date: 8/11/2018
   course: F6B29238
-  title: 2018 PREA Staff Training, Updates and Reminders
+  title: 2018 PREA Staff Training Updates  Reminders
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -574,7 +580,7 @@ training_records:
   hours: '0.50'
 - date: 6/18/2016
   course: F6A01102
-  title: 2015 - TASER Recertification
+  title: 2015 - Taser Recertification
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -1367,26 +1373,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/22/2021
   expiration_date: 10/28/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/22/2021
-  expiration_date: 10/28/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/14/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/14/2001

@@ -351,10 +351,10 @@
 | 10/23/2018 | PDP29133 | FTEP Blood Borne Pathogens | Passed | 0.0 | 1.00 |
 | 10/23/2018 | PDP01137 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 8/31/2018 | F6B30545 | Narcan Adapt Training | Passed | 0.0 | 1.00 |
-| 8/28/2018 | F6B27000 | 2018 OC recertification Course | Passed | 0.0 | 1.00 |
+| 8/28/2018 | F6B27000 | 2018 OC Recertification Course | Passed | 0.0 | 1.00 |
 | 8/26/2018 | F6B14188 | Taser X26P Transition Course | Passed | 0.0 | 0.50 |
 | 8/15/2018 | F6B43366 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |
-| 8/14/2018 | F6B25442 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/14/2018 | F6B25442 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/12/2018 | F6B40680 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |
 | 8/12/2018 | F6B09290 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/12/2018 | F6B27312 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |

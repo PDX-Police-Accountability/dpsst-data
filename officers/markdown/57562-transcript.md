@@ -204,7 +204,7 @@
 | 11/14/2018 | F6D22668 | Bias  Diversity Training | Passed | 0.0 | 7.00 |
 | 9/20/2018 | F6B12356 | Firearms Training | Passed | 0.0 | 5.00 |
 | 9/20/2018 | F6B41087 | Range Qualification | Passed | 0.0 | 2.00 |
-| 8/12/2018 | F6B06007 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 8/12/2018 | F6B06007 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/11/2018 | F6B22089 | Misconduct Report Writing Review | Passed | 0.0 | 1.00 |
 | 7/14/2018 | F6B30482 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/13/2018 | F6B08320 | 2018 MCSO Taser Re-certification | Passed | 0.0 | 1.50 |

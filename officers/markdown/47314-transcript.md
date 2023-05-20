@@ -29,12 +29,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
 | Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
-| Code of Ethics | Signed | 10/24/2008 |  |
 | Code of Ethics | Signed | 10/24/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -101,7 +97,7 @@
 | 11/14/2018 | F6D37078 | Range Qualification | Passed | 0.0 | 2.00 |
 | 10/14/2018 | F6D11939 | Discrimination and Harassment-Free Workplace | Passed | 0.0 | 0.50 |
 | 9/30/2018 | F6B08453 | MCSO Less Lethal Refresher Course | Passed | 0.0 | 2.00 |
-| 9/11/2018 | F6B36376 | 2018 PREA Staff Training, Updates and Reminders | Passed | 0.0 | 1.00 |
+| 9/11/2018 | F6B36376 | 2018 PREA Staff Training Updates  Reminders | Passed | 0.0 | 1.00 |
 | 8/21/2018 | F6B05894 | e-citation Procedures | Passed | 0.0 | 0.50 |
 | 8/21/2018 | F6B27339 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
 | 8/14/2018 | MISCMAIN | 2018 LE Annual Maintenance | Completed | 0.0 | 0.00 |
