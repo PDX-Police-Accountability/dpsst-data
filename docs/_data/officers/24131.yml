@@ -99,6 +99,12 @@ certification_records:
   expiration_date: 8/1/2023
   probation_date: ''
 training_records:
+- date: 4/26/2023
+  course: OCA0275A
+  title: High Risk Vehicle Stops and Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/21/2023
   course: WLP15706
   title: Quarterly Firearms Training
@@ -141,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/20/2022
+  course: OCA0859A
+  title: Missing Persons and NAMUS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2022
   course: WLP10437
   title: Active Threat (Shooter) Response
@@ -195,6 +207,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/29/2022
+  course: OCA0794A
+  title: Officer Involved Critical Incidents
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/11/2022
   course: VND24646
   title: Advanced Strangulation Training

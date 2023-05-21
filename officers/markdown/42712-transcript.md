@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 5/13/2023 | 5/13/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 1/9/2022 | 1/9/2024 |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2023 | HBS0612A | Adult, Child and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 3/18/2023 | HBS15120 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/18/2023 | HBS34913 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 2/20/2023 | HBS42167 | Defensive Tools Update | Passed | 0.0 | 1.00 |

@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/6/2023
+  course: PDP2266
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/31/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording

@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2023
+  course: HBS1517A
+  title: Adult, Child and Infant CPR AED
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2023
+  course: HBS0037A
+  title: 2023 National Cyber Crime Conference
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/6/2023
   course: HBS12525
   title: March 2023 In-Service DT/EVO
@@ -3027,6 +3039,10 @@ training_records:
   score: '0.0'
   hours: '345.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 5/2/2023
+  expiration_date: 5/2/2025
 - topic: Certification Cards
   value: CPR
   effective_date: 1/16/2023

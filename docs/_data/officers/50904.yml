@@ -266,6 +266,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.15'
+- date: 1/21/2022
+  course: OCS0303A
+  title: 1st Quarter Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/20/2022
   course: OCS34045
   title: Use of Force Decision making/problem solving

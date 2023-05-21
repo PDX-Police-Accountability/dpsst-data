@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/20/2022
+  course: OCA0859A
+  title: Missing Persons and NAMUS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2022
   course: WLP10437
   title: Active Threat (Shooter) Response

@@ -2154,6 +2154,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/18/2018
+  course: PDP1572
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/16/2018
   course: PDP35550
   title: Policy and Procedure
@@ -2166,6 +2172,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/21/2014
+  course: PDP2266
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual

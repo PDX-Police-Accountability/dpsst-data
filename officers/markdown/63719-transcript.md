@@ -55,3 +55,6 @@
 | 3/15/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 3/8/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
+| 6/3/2017 | PDP2648 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
+| 6/3/2017 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |
+| 6/3/2017 | PDP3526 | IS-700 National Incident Management System | Passed | 0.0 | 3.00 |

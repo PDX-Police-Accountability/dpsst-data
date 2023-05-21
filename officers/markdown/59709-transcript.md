@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 5/16/2023 | BNP4217 | UAV Drone Indoor/Outdoor team flights Air Boss 911 | Passed | 0.0 | 4.00 |
 | 5/3/2023 | BNP37276 | 2nd Quart. Inservice - HG, Rifle  Off duty skills | Passed | 0.0 | 0.50 |
 | 5/3/2023 | BNP34720 | Emotional Intelligence / Mental Health | Passed | 0.0 | 0.50 |
 | 5/3/2023 | BNP19911 | 2nd Quart. In service 40mm policy/training/qual | Passed | 0.0 | 0.50 |

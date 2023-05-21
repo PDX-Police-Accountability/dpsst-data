@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/29/2023
+  course: PDP1785
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/15/2023
   course: M10-23A
   title: DPSST Basic Police Course
@@ -54,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/29/2017
+  course: PDP1886
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

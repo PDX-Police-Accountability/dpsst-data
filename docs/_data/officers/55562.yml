@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/30/2023
+  course: PDS0772A
+  title: NAMI Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/20/2023
   course: PDS12800
   title: TacMed

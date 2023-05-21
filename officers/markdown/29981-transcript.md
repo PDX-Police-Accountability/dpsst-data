@@ -45,6 +45,7 @@
 | 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |
 | 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |
+| 10/20/2022 | OCA0859A | Missing Persons and NAMUS | Passed | 0.0 | 2.00 |
 | 7/25/2022 | WLP10437 | Active Threat (Shooter) Response | Passed | 0.0 | 8.00 |
 | 7/15/2022 | WLP36075 | Firt Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 7/13/2022 | WLP32007 | Quarterly Firearms Training (Pistol/Carbine) | Passed | 0.0 | 4.00 |

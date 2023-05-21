@@ -67,6 +67,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2023
+  course: CAP3827
+  title: Handgun Assessments 40mm Deployment
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/3/2023
+  course: CAP3202A
+  title: Blood Borne Pathogens for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2023
+  course: CAP0500
+  title: Union Pacific RR Hazmat Management Railroading 101
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/23/2023
   course: CAP41884
   title: Unmasking Facial Expressions

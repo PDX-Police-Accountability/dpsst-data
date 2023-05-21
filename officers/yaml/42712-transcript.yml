@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2023
+  course: HBS0612A
+  title: Adult, Child and Infant CPR AED
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/18/2023
   course: HBS15120
   title: March 2023 In-Service DT/EVO
@@ -2607,6 +2613,10 @@ training_records:
   score: '0.0'
   hours: '269.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 5/13/2023
+  expiration_date: 5/13/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023

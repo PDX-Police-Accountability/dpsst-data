@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2022 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/29/2016 | F6C04700 | Emergency Protection Orders | Passed | 0.0 | 0.25 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 12/11/2014 | 14-0924 | Sexual Harassment | Passed | 0.0 | 1.00 |

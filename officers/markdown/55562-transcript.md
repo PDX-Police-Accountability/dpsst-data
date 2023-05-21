@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/30/2023 | PDS09818 | Peer Support | Passed | 0.0 | 1.00 |
 | 4/30/2023 | PDS35906 | Yoga for First Responders | Passed | 0.0 | 1.00 |
+| 4/30/2023 | PDS0772A | NAMI Training | Passed | 0.0 | 2.00 |
 | 2/20/2023 | PDS12800 | TacMed | Passed | 0.0 | 4.00 |
 | 2/20/2023 | PDS19365 | TacMed | Passed | 0.0 | 4.00 |
 | 2/7/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |

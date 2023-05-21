@@ -28,7 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 5/11/2023 | BPT0629A | Active Shooter: Dispatching in the Line of Fire |  | 0.0 | 1.00 |
+| 5/11/2023 | BPT0629A | Active Shooter: Dispatching in the Line of Fire | Passed | 0.0 | 1.00 |
 | 4/17/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 4/13/2023 | PDP37726 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 4/13/2023 | PDP30174 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

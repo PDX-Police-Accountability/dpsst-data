@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2023
+  course: OCA0275A
+  title: High Risk Vehicle Stops and Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/16/2023
   course: LOP37987
   title: Detective Range
@@ -164,6 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/20/2022
+  course: OCA0859A
+  title: Missing Persons and NAMUS
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/4/2022
   course: LOP04764
   title: Hazardous Materials 2022
@@ -224,6 +236,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/29/2022
+  course: OCA0794A
+  title: Officer Involved Critical Incidents
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/22/2022
   course: LOP31533
   title: OACP/OSSA Airway  Circulatory Crisis

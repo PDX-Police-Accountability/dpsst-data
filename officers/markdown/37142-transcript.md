@@ -49,7 +49,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/16/2023 | SPP0356A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/8/2023 | SPP25625 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |
+| 2/28/2023 | F1534986 | Mobile Field Force | Passed | 0.0 | 10.00 |
+| 2/27/2023 | F1534986 | Mobile Field Force | Passed | 0.0 | 10.00 |
 | 2/24/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/1/2023 | F1523324 | Body Worn Camera | Passed | 0.0 | 2.00 |
+| 1/23/2023 | F1516316 | Control Tactics/Taser | Passed | 0.0 | 8.00 |
+| 1/20/2023 | F1535686 | Range | Passed | 0.0 | 4.00 |
+| 1/19/2023 | F1535686 | Range | Passed | 0.0 | 8.00 |
 | 12/9/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 12/9/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 11/15/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

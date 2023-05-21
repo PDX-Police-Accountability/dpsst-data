@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/17/2023 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 12/1/2022 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
 | 5/25/2021 | Multnomah County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 8/14/2020 | Multnomah County Sheriff's Office | LOA | Dpty Shrf |  |  |
@@ -22,9 +23,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/22/2014 | Police Officer | Advanced | Granted | 9/22/2014 |  |  |
-| 9/29/2010 | Police Officer | Intermediate | Granted | 9/29/2010 |  |  |
-| 8/25/2009 | Police Officer | Basic | Granted | 8/25/2009 |  |  |
+| 9/22/2014 | Police Officer | Advanced | Granted | 9/22/2014 | 8/17/2023 |  |
+| 9/29/2010 | Police Officer | Intermediate | Granted | 9/29/2010 | 8/17/2023 |  |
+| 8/25/2009 | Police Officer | Basic | Granted | 8/25/2009 | 8/17/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

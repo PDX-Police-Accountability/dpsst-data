@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/16/2023
+  course: BNP4217
+  title: UAV Drone Indoor/Outdoor team flights Air Boss 911
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/3/2023
   course: BNP37276
   title: 2nd Quart. Inservice - HG, Rifle  Off duty skills

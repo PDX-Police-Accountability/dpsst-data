@@ -386,5 +386,7 @@
 | 4/6/2018 | 18-0011 | Intoxilyzer 8000-Training hours included in Basic | Passed | 0.0 | 0.00 |
 | 3/29/2018 | 18-0010 | SFST/DID- Training hours included in Basic | Passed | 0.0 | 0.00 |
 | 1/18/2018 | PDP06919 | IS-00100.leb Intro to Incident Command Sys for LE | Passed | 0.0 | 3.00 |
+| 1/18/2018 | PDP1572 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 1/16/2018 | PDP35550 | Policy and Procedure | Passed | 0.0 | 8.00 |
 | 1/16/2018 | PDP28147 | Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
+| 3/21/2014 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |

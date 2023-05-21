@@ -131,12 +131,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/28/2023
+  course: F1534986
+  title: Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/27/2023
+  course: F1534986
+  title: Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 2/24/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/1/2023
+  course: F1523324
+  title: Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/23/2023
+  course: F1516316
+  title: Control Tactics/Taser
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/20/2023
+  course: F1535686
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/19/2023
+  course: F1535686
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/9/2022
   course: PDP25823
   title: 2022-3 Range Qualification CEW

@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/19/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/15/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 5/8/2023 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 3/29/2023 | PDP19748 | 2021 Online Crowd Control - CAO | Passed | 0.0 | 2.00 |
 | 3/29/2023 | PDP30182 | 2020 CAO Don't Shoot PDX/Hernandez TRO (resend) | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP25919 | 2021 Online Crowd Control - Force Reporting | Passed | 0.0 | 1.83 |
@@ -77,3 +78,5 @@
 | 2/23/2023 | PDP07079 | 2017-3 CAO Legal Updates for Q3 08/2017 | Passed | 0.0 | 0.25 |
 | 2/23/2023 | PDP34750 | 2017-3 CAO Legal Updates for Q3 7/2017 | Passed | 0.0 | 0.25 |
 | 2/23/2023 | PDP16519 | 2017-3 Legal Updates for Q3 | Passed | 0.0 | 0.50 |
+| 5/27/2020 | PDP2648 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
+| 5/27/2020 | PDP3526 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

@@ -36,3 +36,6 @@
 | 3/16/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
+| 12/27/2022 | PDP2648 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
+| 12/27/2022 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 12/27/2022 | PDP3526 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

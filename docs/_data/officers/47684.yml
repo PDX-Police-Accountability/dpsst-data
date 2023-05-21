@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2023
+  course: PDP2266
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/30/2023
   course: PDP40178
   title: 2023 Microsoft Teams Recorded Training
@@ -3059,6 +3065,12 @@ training_records:
 - date: 9/20/2011
   course: 11-0388
   title: ICS 100 / IS 100 - Introduction to ICS
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/15/2011
+  course: PDP1572
+  title: ICS-100 Intro to the Incident Cmmnd System
   status: Passed
   score: '0.0'
   hours: '3.00'

@@ -37,6 +37,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/18/2023
+  course: PDP2266
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/18/2023
+  course: PDP1768
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/16/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2023 | PDS3342A | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2022 | PDP40615 | 2022-2 All Sworn In-Service Legal Updates 1010.00 | Passed | 0.0 | 2.00 |
 | 11/16/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |

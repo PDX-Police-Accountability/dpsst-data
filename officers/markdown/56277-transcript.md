@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2023 | CAP3827 | Handgun Assessments 40mm Deployment | Instructed | 0.0 | 6.00 |
+| 4/3/2023 | CAP3202A | Blood Borne Pathogens for First Responders | Passed | 0.0 | 1.00 |
+| 4/3/2023 | CAP0500 | Union Pacific RR Hazmat Management Railroading 101 | Passed | 0.0 | 1.50 |
 | 3/23/2023 | CAP41884 | Unmasking Facial Expressions | Passed | 0.0 | 6.50 |
 | 3/15/2023 | CAP15436 | Patrol Rifle Qualification / Reloads and Movement | Passed | 0.0 | 5.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |

@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 5/2/2023 | 5/2/2025 |
 | Certification Cards | CPR | 1/16/2023 | 1/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
@@ -38,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/2/2023 | HBS1517A | Adult, Child and Infant CPR AED | Passed | 0.0 | 1.00 |
+| 4/27/2023 | HBS0037A | 2023 National Cyber Crime Conference | Passed | 0.0 | 18.00 |
 | 3/6/2023 | HBS12525 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/6/2023 | HBS15745 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 1/30/2023 | HBS25733 | PREA  ADA Jail | Passed | 0.0 | 1.00 |

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2023 | OCA0275A | High Risk Vehicle Stops and Tactics | Passed | 0.0 | 2.00 |
 | 3/21/2023 | WLP15706 | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 3/1/2023 | WLP31427 | Safety Compass - Human Trafficking Awareness | Passed | 0.0 | 1.00 |
 | 2/7/2023 | WLP44307 | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |
@@ -49,6 +50,7 @@
 | 12/15/2022 | SMP09331 | Sex Offenders: What Every MDT Member Should Know | Passed | 0.0 | 8.00 |
 | 12/1/2022 | WLP34295 | Bias Based Policy Annual Policy Review | Passed | 0.0 | 0.25 |
 | 11/11/2022 | WLP33367 | Emergency Operations Plan Annual Training | Passed | 0.0 | 0.25 |
+| 10/20/2022 | OCA0859A | Missing Persons and NAMUS | Passed | 0.0 | 2.00 |
 | 7/25/2022 | WLP10437 | Active Threat (Shooter) Response | Passed | 0.0 | 8.00 |
 | 7/15/2022 | WLP36075 | Firt Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 7/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -58,6 +60,7 @@
 | 4/26/2022 | WLP36820 | Domestic Violence Training | Passed | 0.0 | 4.00 |
 | 4/21/2022 | WLP09760 | 2022 Airways Training Video | Passed | 0.0 | 2.00 |
 | 4/18/2022 | WLP32038 | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 3/29/2022 | OCA0794A | Officer Involved Critical Incidents | Passed | 0.0 | 2.00 |
 | 3/11/2022 | VND24646 | Advanced Strangulation Training | Passed | 0.0 | 30.25 |
 | 3/11/2022 | VND25222 | Expert Witnesses Training | Passed | 0.0 | 3.50 |
 | 2/28/2022 | LOP21003 | EVOC (Pursuit driving, use of force) | Passed | 0.0 | 10.00 |

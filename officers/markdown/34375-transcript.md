@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2023 | STS0453A | Karly's Law | Passed | 0.0 | 2.00 |
 | 4/27/2023 | STS19680 | Active Shooter Training: Driving Force and Search | Passed | 0.0 | 4.00 |
 | 3/20/2023 | STS08773 | Handgun Training and Qualification | Passed | 0.0 | 4.00 |
 | 3/20/2023 | STS26662 | Firearms Training | Passed | 0.0 | 4.00 |

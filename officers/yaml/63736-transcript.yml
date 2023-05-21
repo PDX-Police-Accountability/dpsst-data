@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 5/8/2023
+  course: PDP0786
+  title: ICS-200 Basic Incident Cmmnd Systm for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/29/2023
   course: PDP19748
   title: 2021 Online Crowd Control - CAO
@@ -324,6 +330,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/27/2020
+  course: PDP2648
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/27/2020
+  course: PDP3526
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

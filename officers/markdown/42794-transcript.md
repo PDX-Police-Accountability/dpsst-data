@@ -129,6 +129,7 @@
 | 2/11/2022 | OCS24041 | Balancing Speed/Marksmanship, Qualification | Instructed | 0.0 | 2.00 |
 | 2/10/2022 | OCS34682 | Honor Guard Revolver 2022 | Instructed | 0.0 | 2.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
+| 1/21/2022 | OCS0303A | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
 | 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
 | 1/20/2022 | OCS10098 | Use of Force decision making/problem solving | Instructed | 0.0 | 29.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |

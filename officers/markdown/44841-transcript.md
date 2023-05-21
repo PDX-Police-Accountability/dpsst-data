@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2023 | OCA0275A | High Risk Vehicle Stops and Tactics | Passed | 0.0 | 2.00 |
 | 4/16/2023 | LOP37987 | Detective Range | Passed | 0.0 | 2.00 |
 | 4/13/2023 | LOP36386 | Impact of 5G on Lawful Interception | Passed | 0.0 | 0.50 |
 | 3/28/2023 | LOP06591 | Connected Vehicles for Law Enforcement | Passed | 0.0 | 1.50 |
@@ -57,6 +58,7 @@
 | 10/29/2022 | LOP11762 | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 10/27/2022 | LOP02209 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
 | 10/25/2022 | LOP16443 | Taser X26P Recertification Training | Passed | 0.0 | 4.00 |
+| 10/20/2022 | OCA0859A | Missing Persons and NAMUS | Passed | 0.0 | 2.00 |
 | 10/4/2022 | LOP04764 | Hazardous Materials 2022 | Passed | 0.0 | 4.00 |
 | 9/22/2022 | LOP14394 | Cognitive Disorder | Passed | 0.0 | 1.00 |
 | 9/15/2022 | LOP06103 | Fire Extinguisher Training | Passed | 0.0 | 0.33 |
@@ -67,6 +69,7 @@
 | 4/25/2022 | LOP35972 | Defensive Tactics OC | Passed | 0.0 | 3.00 |
 | 4/21/2022 | LOP07568 | Creating Cellular Analysis Report | Passed | 0.0 | 1.00 |
 | 3/30/2022 | LOP01809 | Legislative Update HB4008 Crowd Management | Passed | 0.0 | 0.50 |
+| 3/29/2022 | OCA0794A | Officer Involved Critical Incidents | Passed | 0.0 | 2.00 |
 | 3/22/2022 | LOP31533 | OACP/OSSA Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 3/17/2022 | LOP15638 | Defensive Tactics High Risk Handcuffing | Passed | 0.0 | 2.00 |
 | 3/3/2022 | LOP21522 | EVOC (Pursuit driving, Use of Force) | Passed | 0.0 | 10.00 |
