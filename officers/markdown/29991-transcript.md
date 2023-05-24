@@ -146,7 +146,7 @@
 | 7/22/2019 | PDP32348 | 2019-5 TipsTech Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 7/22/2019 | PDP22596 | 2019-6 Tips and Techniques Training Roster | Passed | 0.0 | 0.25 |
 | 7/22/2019 | PDP14360 | PSD Directive 630.61, Stolen Vehicles | Passed | 0.0 | 0.25 |
-| 7/17/2019 | PDP20150 | 2018-5 UPDATED Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
+| 7/17/2019 | PDP20150 | 2018-5 Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
 | 7/17/2019 | PDP35773 | 2019 Training Choke and Carotid Awareness Video | Passed | 0.0 | 0.25 |
 | 7/17/2019 | PDP03055 | 2019 Dets Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 7/17/2019 | PDP18061 | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |

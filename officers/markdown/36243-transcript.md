@@ -32,8 +32,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | CPR | 1/28/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
 | Code of Ethics | Signed | 5/11/2001 |  |
 ## Education
@@ -44,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/10/2023 | HBS39888 | Building Search | Passed | 0.0 | 4.00 |
 | 3/13/2023 | HBS29958 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/13/2023 | HBS38246 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
@@ -257,7 +259,7 @@
 | 7/27/2016 | F6C38686 | Crash Investigations | Passed | 0.0 | 3.00 |
 | 7/2/2016 | HBS09460 | Tactical Emergency Casualty Care | Passed | 0.0 | 4.00 |
 | 7/2/2016 | HBS26626 | Crisis Entry Techniques Tactical Emergency Care | Passed | 0.0 | 4.00 |
-| 6/16/2016 | HBS00455 | 40 mm Less Lethal Update | Passed | 0.0 | 2.00 |
+| 6/16/2016 | HBS00455 | 40 MM Less Lethal Update | Passed | 0.0 | 2.00 |
 | 6/15/2016 | F6C07840 | Motor Officer School | Passed | 0.0 | 8.00 |
 | 6/7/2016 | F6C36984 | Quetel/Evidence Training | Passed | 0.0 | 0.50 |
 | 6/6/2016 | F6C30039 | IFAST | Passed | 0.0 | 5.00 |

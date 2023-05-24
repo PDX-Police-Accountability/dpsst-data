@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | CPR | 1/17/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 1/4/2022 | 1/4/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/11/2000 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/16/2023 | HBS28746 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/16/2023 | HBS15004 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 2/21/2023 | HBS03039 | On-Duty PIT Refresher Training | Passed | 0.0 | 0.50 |
@@ -199,7 +201,7 @@
 | 11/15/2017 | F6C20261 | Washington County CIT Training | Passed | 0.0 | 40.00 |
 | 11/14/2017 | HBS24028 | 40MM Less Lethal | Instructed | 0.0 | 2.00 |
 | 11/13/2017 | HBS30359 | 40MM Less Lethal | Instructed | 0.0 | 2.00 |
-| 11/12/2017 | HBS39227 | 40 M Less Lethal | Instructed | 0.0 | 2.00 |
+| 11/12/2017 | HBS39227 | 40 MM Less Lethal | Instructed | 0.0 | 2.00 |
 | 11/10/2017 | HBS24763 | 40MM Less Lethal | Instructed | 0.0 | 2.00 |
 | 11/7/2017 | HBS41267 | 40MM Less Lethal | Instructed | 0.0 | 2.00 |
 | 11/6/2017 | HBS00317 | 40MM Less Lethal | Instructed | 0.0 | 2.00 |
@@ -237,7 +239,7 @@
 | 10/5/2016 | F6C29086 | Confrontational Simulation | Passed | 0.0 | 3.25 |
 | 10/5/2016 | F6C17967 | Use of Force - other | Passed | 0.0 | 2.50 |
 | 7/27/2016 | F6C40038 | Search and Seizure | Passed | 0.0 | 4.00 |
-| 6/16/2016 | HBS01628 | 40 mm Less Lethal Update | Instructed | 0.0 | 2.00 |
+| 6/16/2016 | HBS01628 | 40 MM Less Lethal Update | Instructed | 0.0 | 2.00 |
 | 6/7/2016 | F6C36984 | Quetel/Evidence Training | Passed | 0.0 | 0.50 |
 | 6/6/2016 | F6C30039 | IFAST | Passed | 0.0 | 5.00 |
 | 5/3/2016 | F6C33084 | Defensive Tools:  Baton | Passed | 0.0 | 0.50 |

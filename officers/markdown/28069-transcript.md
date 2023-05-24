@@ -66,7 +66,7 @@
 | 8/14/2019 | PDP29493 | 2019-7 Tips  Tech CAD Study Codes/Track Pursuits | Passed | 0.0 | 0.25 |
 | 8/14/2019 | PDP14360 | PSD Directive 630.61, Stolen Vehicles | Passed | 0.0 | 0.25 |
 | 8/13/2019 | PDP42727 | CPR/First Aid | Passed | 0.0 | 1.50 |
-| 8/12/2019 | PDP20150 | 2018-5 UPDATED Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
+| 8/12/2019 | PDP20150 | 2018-5 Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
 | 8/12/2019 | PDP03055 | 2019 Dets Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 1/21/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/21/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |

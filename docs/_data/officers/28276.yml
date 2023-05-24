@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/10/2023
   course: BPT19183
   title: MILO / Range 3000 IDC
@@ -1409,7 +1415,7 @@ training_records:
   hours: '1.00'
 - date: 8/2/2019
   course: PDP20150
-  title: 2018-5 UPDATED Tips  Techniques 100% Collection
+  title: 2018-5 Tips  Techniques 100% Collection
   status: Passed
   score: '0.0'
   hours: '0.25'
@@ -4218,8 +4224,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

@@ -54,13 +54,13 @@
 | 11/30/2022 | OSH19877 | Survival Skills | Instructed | 0.0 | 4.00 |
 | 11/20/2022 | OSH17443 | Active Shooter Response | Instructed | 0.0 | 8.00 |
 | 11/18/2022 | OSH29418 | Survival Skills PT/DT | Instructed | 0.0 | 4.00 |
-| 11/2/2022 | OSH21256 | 3rd Tri Firearms Low Light | Instructed | 0.0 | 4.00 |
+| 11/2/2022 | OSH21256 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 11/1/2022 | OSH25060 | 2022 Ethics Training | Passed | 0.0 | 1.00 |
-| 10/21/2022 | OSH01793 | 3rd Tri Low Light Firearms | Instructed | 0.0 | 4.00 |
-| 10/19/2022 | OSH13477 | 3rd Tri Low Light Firearms | Instructed | 0.0 | 4.00 |
+| 10/21/2022 | OSH01793 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
+| 10/19/2022 | OSH13477 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 10/19/2022 | OSH07163 | Active Shooter Response | Instructed | 0.0 | 8.00 |
-| 10/14/2022 | OSH42347 | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
-| 10/13/2022 | OSH08653 | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
+| 10/14/2022 | OSH42347 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
+| 10/13/2022 | OSH08653 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 9/16/2022 | OSH37404 | 2nd Trimester DT / Taser Recertification | Instructed | 0.0 | 4.00 |
 | 9/12/2022 | OSH24823 | Adult/Child CPR | Passed | 0.0 | 4.00 |
 | 9/12/2022 | OSH01878 | Naloxone/Narcan | Passed | 0.0 | 0.50 |
@@ -96,10 +96,10 @@
 | 11/19/2021 | F6K03342 | Survival Skills - OSP 3rd Tri | Instructed | 0.0 | 4.00 |
 | 11/19/2021 | F6K40214 | Survival Skills - OSP 3rd Tri | Instructed | 0.0 | 4.00 |
 | 11/15/2021 | F6E06930 | Ethics Training 2021 | Passed | 0.0 | 1.00 |
-| 11/12/2021 | F6E05641 | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |
-| 11/11/2021 | F6E30253 | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |
+| 11/12/2021 | F6E05641 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
+| 11/11/2021 | F6E30253 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 11/4/2021 | F6K11714 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
-| 11/3/2021 | F6K39269 | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |
+| 11/3/2021 | F6K39269 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 10/22/2021 | F6F31253 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 4.00 |
 | 10/7/2021 | F6F05504 | Defensive Tactics / Taser 2nd Trimester | Passed | 0.0 | 4.00 |
 | 9/17/2021 | F6F19237 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
@@ -107,7 +107,7 @@
 | 7/2/2021 | REG39469 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 7/2/2021 | REG23533 | Handgun Instructor Development | Passed | 0.0 | 38.00 |
 | 6/30/2021 | F6E41353 | Get Real Hasty Response | Passed | 0.0 | 1.00 |
-| 6/25/2021 | F6E10489 | 2nd Trimester Fireworks-Rifle | Instructed | 0.0 | 8.00 |
+| 6/25/2021 | F6E10489 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 6/14/2021 | F6E26188 | Fish and Wildlife 101 | Passed | 0.0 | 24.00 |
 | 6/11/2021 | F6E01796 | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 6/7/2021 | F6E30849 | Lines for life Mental Health | Passed | 0.0 | 1.50 |

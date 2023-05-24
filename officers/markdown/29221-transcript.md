@@ -135,7 +135,7 @@
 | 1/13/2021 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/9/2020 | F6D18931 | DPSST Ethics Bulletin Review | Passed | 0.0 | 0.50 |
 | 12/7/2020 | F6D07989 | Hazard Materials/ Blood Borne Pathogens | Passed | 0.0 | 0.50 |
-| 12/7/2020 | F6D10314 | 3RD Qtr. -2020 In-Service | Passed | 0.0 | 5.50 |
+| 12/7/2020 | F6D10314 | 3rd Quarter - 2020 In-Service | Passed | 0.0 | 5.50 |
 | 11/25/2020 | F6D11693 | Duty to Intercede Training | Passed | 0.0 | 0.50 |
 | 11/17/2020 | F6D10199 | Patrol Crowd Control Techniques | Passed | 0.0 | 3.00 |
 | 11/17/2020 | F6D18826 | Active Threat Response | Passed | 0.0 | 3.00 |

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 3/16/2023
   course: HBS28746
   title: March 2023 In-Service DT/EVO
@@ -1024,7 +1030,7 @@ training_records:
   hours: '2.00'
 - date: 11/12/2017
   course: HBS39227
-  title: 40 M Less Lethal
+  title: 40 MM Less Lethal
   status: Instructed
   score: '0.0'
   hours: '2.00'
@@ -1252,7 +1258,7 @@ training_records:
   hours: '4.00'
 - date: 6/16/2016
   course: HBS01628
-  title: 40 mm Less Lethal Update
+  title: 40 MM Less Lethal Update
   status: Instructed
   score: '0.0'
   hours: '2.00'
@@ -3645,6 +3651,10 @@ training_records:
   score: '0.0'
   hours: '600.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: CPR
   effective_date: 1/17/2023
@@ -3652,7 +3662,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/4/2022

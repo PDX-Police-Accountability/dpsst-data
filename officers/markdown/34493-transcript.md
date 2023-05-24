@@ -109,7 +109,7 @@
 | 10/28/2019 | PDP23047 | 2019 Sworn In-Service-Functional Mvmt Stretch | Passed | 0.0 | 1.00 |
 | 10/28/2019 | PDP04820 | 2019 Training Sworn InService-Leadership:Org Excel | Passed | 0.0 | 1.00 |
 | 8/8/2019 | PDP40407 | 2019-3 Tips and Tech ECIT Dispatch Criteria  BOEC | Passed | 0.0 | 0.25 |
-| 8/8/2019 | PDP20150 | 2018-5 UPDATED Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
+| 8/8/2019 | PDP20150 | 2018-5 Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
 | 8/8/2019 | PDP02916 | 2019 CHO SPLC Law Enforce Response to Hate Events | Passed | 0.0 | 0.25 |
 | 8/8/2019 | PDP35773 | 2019 Training Choke and Carotid Awareness Video | Passed | 0.0 | 0.25 |
 | 8/8/2019 | PDP10438 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |

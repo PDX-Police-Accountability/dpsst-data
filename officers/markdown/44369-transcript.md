@@ -106,7 +106,7 @@
 | 4/6/2020 | MISCMAIN | 2020 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2019 | MISCMAIN | 2019 LE Annual Required Maintenance | Completed | 0.0 | 0.00 |
 | 11/12/2019 | F6D30806 | Firearms Qualification | Passed | 0.0 | 5.00 |
-| 7/8/2019 | F6D35417 | 40 mm Less Lethal User Certification | Passed | 0.0 | 2.50 |
+| 7/8/2019 | F6D35417 | 40 MM Less Lethal User Certification | Passed | 0.0 | 2.50 |
 | 7/8/2019 | F6D14686 | Taser X26/X26P Re-certification (user) | Passed | 0.0 | 2.50 |
 | 7/2/2019 | F6D41304 | Firearms-Patrol Rifle | Passed | 0.0 | 1.50 |
 | 6/30/2019 | F6D36531 | Building Searches / Active Shooter | Passed | 0.0 | 8.00 |

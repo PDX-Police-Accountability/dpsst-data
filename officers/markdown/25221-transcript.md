@@ -95,7 +95,7 @@
 | 7/13/2019 | PDP30115 | 2019-3 City Attorney's Office Legal Updates 3/2019 | Passed | 0.0 | 0.25 |
 | 7/13/2019 | PDP40407 | 2019-3 Tips and Tech ECIT Dispatch Criteria  BOEC | Passed | 0.0 | 0.25 |
 | 7/13/2019 | PDP39480 | 2018-2 City Attorney's Legal Updates for Q12 | Passed | 0.0 | 1.00 |
-| 7/13/2019 | PDP20150 | 2018-5 UPDATED Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
+| 7/13/2019 | PDP20150 | 2018-5 Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
 | 7/13/2019 | PDP42723 | 2017-4 City Atny Legal Updates for Q4 - Sup Update | Passed | 0.0 | 0.25 |
 | 7/13/2019 | PDP31676 | 2018 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
 | 7/13/2019 | PDP43395 | 2018 DVD Fentanyl: The Real Deal | Passed | 0.0 | 0.25 |

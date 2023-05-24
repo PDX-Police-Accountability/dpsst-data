@@ -36,7 +36,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
@@ -48,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/10/2023 | BPT19183 | MILO / Range 3000 IDC | Passed | 0.0 | 7.00 |
 | 4/27/2023 | SVP02912 | ZOLL AED Training | Passed | 0.0 | 0.50 |
 | 4/27/2023 | SVP02890 | TAC Medic Kit Familiarization | Passed | 0.0 | 0.50 |
@@ -262,7 +264,7 @@
 | 8/7/2019 | PDP02916 | 2019 CHO SPLC Law Enforce Response to Hate Events | Passed | 0.0 | 0.25 |
 | 8/2/2019 | PDP40407 | 2019-3 Tips and Tech ECIT Dispatch Criteria  BOEC | Passed | 0.0 | 0.25 |
 | 8/2/2019 | PDP39480 | 2018-2 City Attorney's Legal Updates for Q12 | Passed | 0.0 | 1.00 |
-| 8/2/2019 | PDP20150 | 2018-5 UPDATED Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
+| 8/2/2019 | PDP20150 | 2018-5 Tips  Techniques 100% Collection | Passed | 0.0 | 0.25 |
 | 8/2/2019 | PDP10438 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 8/2/2019 | PDP03055 | 2019 Dets Sexual Assault Kit Tracking System App | Passed | 0.0 | 0.25 |
 | 8/2/2019 | PDP13478 | 2019-2 City Attorney Office Legal Updates Feb 2019 | Passed | 0.0 | 0.25 |

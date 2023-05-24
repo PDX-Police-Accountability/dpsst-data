@@ -71,7 +71,7 @@
 | 11/30/2017 | F6C13523 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 5.00 |
 | 11/28/2017 | F6C27829 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 5.00 |
 | 11/27/2017 | F6C30135 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 5.00 |
-| 11/17/2017 | F6C11001 | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 5.00 |
+| 11/17/2017 | F6C11001 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 5.00 |
 | 11/13/2017 | F6C37906 | 3rd Trimester Firearms - Low Light | Instructed | 0.0 | 5.00 |
 | 11/2/2017 | F6W10235 | Stress First Aid and Emotional Survival | Passed | 0.0 | 4.00 |
 | 11/2/2017 | F6W37490 | Supervisor Responsibilities-Line of Duty Death | Passed | 0.0 | 4.00 |
