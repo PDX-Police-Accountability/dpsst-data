@@ -59,7 +59,7 @@ training_records:
 - date: 3/20/2023
   course: PDS03091
   title: TacMed
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 2/7/2023

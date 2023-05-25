@@ -64,7 +64,7 @@
 | 2/17/2021 | HBS43653 | IS 700 - NIMS, An Introduction | Passed | 0.0 | 2.00 |
 | 2/17/2021 | HBS40018 | Jail Specific LEDS | Passed | 0.0 | 1.75 |
 | 2/16/2021 | HBS26298 | Surviving Verbal Conflict | Passed | 0.0 | 4.00 |
-| 2/16/2021 | HBS21641 | 40MM | Passed | 0.0 | 4.00 |
+| 2/16/2021 | HBS21641 | 40 MM | Passed | 0.0 | 4.00 |
 | 2/15/2021 | HBS10992 | Gangs | Passed | 0.0 | 2.00 |
 | 2/12/2021 | HBS20529 | Basic Firearms Review (A/B) | Passed | 0.0 | 4.00 |
 | 2/12/2021 | HBS42869 | Defensive Tactics Review | Passed | 0.0 | 4.00 |

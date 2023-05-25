@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/19/2023
+  course: MKL0808
+  title: 'Mental Health Awareness:  Managing Stress/Anxiety'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/28/2023
   course: REG10403
   title: 2023 DUII Multi-Disciplinary Training Conference

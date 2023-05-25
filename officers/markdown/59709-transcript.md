@@ -121,7 +121,7 @@
 | 12/9/2020 | F6D20852 | Force Pamphlet and Test, Taser Case Law, OC/Baton | Passed | 0.0 | 6.00 |
 | 12/8/2020 | F6D14034 | Taser Training (X2 and/or Annual Update) | Passed | 0.0 | 1.00 |
 | 12/7/2020 | F6D19177 | High Through Put DNA Collection | Passed | 0.0 | 1.00 |
-| 12/7/2020 | F6D10314 | 3RD Qtr. -2020 In-Service | Passed | 0.0 | 5.50 |
+| 12/7/2020 | F6D10314 | 3rd Quarter - 2020 In-Service | Passed | 0.0 | 5.50 |
 | 12/7/2020 | F6D07989 | Hazard Materials/ Blood Borne Pathogens | Passed | 0.0 | 0.50 |
 | 12/3/2020 | F6D15099 | Karly's Law Online Module | Passed | 0.0 | 0.50 |
 | 11/10/2020 | F6D40242 | Vehicle Backing Training | Passed | 0.0 | 0.50 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2023 | MKL0808 | Mental Health Awareness:  Managing Stress/Anxiety | Passed | 0.0 | 1.00 |
 | 4/20/2023 | MKL17027 | Tableau Training | Passed | 0.0 | 1.25 |
 | 4/19/2023 | MKL30293 | Defensive  Tactics | Passed | 0.0 | 8.00 |
 | 12/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

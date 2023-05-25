@@ -49,6 +49,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/21/2023
+  course: OSA4123
+  title: In-Custody Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2023
+  course: OSA2765
+  title: Deputy Wellness - Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/20/2023
+  course: OSA3509
+  title: Corrections Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/20/2023
+  course: OSA1259
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/20/2023
+  course: OSA4442
+  title: Officer - Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2023
+  course: OSA0338
+  title: Search and Seizure Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/19/2023
+  course: OSA2846A
+  title: 1st Amendment / Managing Protests
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 4/19/2023
+  course: OSA0695
+  title: Incident Command  Tactical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/19/2023
+  course: OSA2521
+  title: Managing 2nd Amendment Activities
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/19/2023
+  course: OSA1040
+  title: Tactical Combat Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/18/2023
+  course: OSA0773
+  title: Firearms Range Training - Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/17/2023
+  course: OSA3750
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '11.50'
+- date: 4/17/2023
+  course: OSA2267
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/20/2023
   course: OCS1390A
   title: Long Gun Retention and Strikes

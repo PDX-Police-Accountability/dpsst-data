@@ -59,7 +59,7 @@
 | 11/18/2020 | HBS25477 | ICS 200/ IS 200 Basic ICS | Passed | 0.0 | 2.00 |
 | 11/18/2020 | HBS03728 | IS 700 NIMS An Introduction | Passed | 0.0 | 2.00 |
 | 11/18/2020 | HBS12991 | Toughbook Issue/Training | Passed | 0.0 | 1.00 |
-| 11/17/2020 | HBS28834 | 40MM | Passed | 0.0 | 4.00 |
+| 11/17/2020 | HBS28834 | 40 MM | Passed | 0.0 | 4.00 |
 | 11/17/2020 | HBS07909 | Review Day Physical Skills | Passed | 0.0 | 4.00 |
 | 11/16/2020 | HBS18841 | MRE/REJGIN | Passed | 0.0 | 7.00 |
 | 11/13/2020 | HBS19341 | Basic Firearms | Passed | 0.0 | 3.50 |

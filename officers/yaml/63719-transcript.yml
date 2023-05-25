@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 5/10/2023
+  course: PDP4184
+  title: TEEX WMD/Terrorism Awareness for Emergency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/22/2023
   course: PDP30049
   title: 2018-3 TT Shooting Through Barriers

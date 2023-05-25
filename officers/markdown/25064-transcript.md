@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2023 | MKL0808 | Mental Health Awareness:  Managing Stress/Anxiety | Passed | 0.0 | 1.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/20/2023 | MKL17027 | Tableau Training | Passed | 0.0 | 1.25 |
 | 4/12/2023 | MKL17384 | Defensive Tactics | Passed | 0.0 | 8.00 |

@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/19/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/15/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 5/10/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 3/22/2023 | PDP30049 | 2018-3 TT Shooting Through Barriers | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP24350 | 2021 Online Crowd Control - Chief's Message | Passed | 0.0 | 0.25 |
 | 3/17/2023 | PDP21485 | 2019 Training PPB Wellness Program Introduction | Passed | 0.0 | 0.25 |

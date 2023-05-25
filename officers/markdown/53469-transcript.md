@@ -35,6 +35,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
+| 4/21/2023 | OSA4123 | In-Custody Suicide Prevention | Passed | 0.0 | 1.00 |
+| 4/20/2023 | OSA2765 | Deputy Wellness - Stress Management | Passed | 0.0 | 2.00 |
+| 4/20/2023 | OSA3509 | Corrections Legal Updates | Passed | 0.0 | 2.00 |
+| 4/20/2023 | OSA1259 | De-Escalation | Passed | 0.0 | 2.00 |
+| 4/20/2023 | OSA4442 | Officer - Involved Shootings | Passed | 0.0 | 1.00 |
+| 4/20/2023 | OSA0338 | Search and Seizure Update | Passed | 0.0 | 2.00 |
+| 4/19/2023 | OSA2846A | 1st Amendment / Managing Protests |  | 0.0 | 1.00 |
+| 4/19/2023 | OSA0695 | Incident Command  Tactical Decision Making | Passed | 0.0 | 2.00 |
+| 4/19/2023 | OSA2521 | Managing 2nd Amendment Activities | Passed | 0.0 | 1.00 |
+| 4/19/2023 | OSA1040 | Tactical Combat Casualty Care | Passed | 0.0 | 3.00 |
+| 4/18/2023 | OSA0773 | Firearms Range Training - Survival Skills | Passed | 0.0 | 7.00 |
+| 4/17/2023 | OSA3750 | Leadership | Passed | 0.0 | 11.50 |
+| 4/17/2023 | OSA2267 | Use of Force | Passed | 0.0 | 4.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 3/17/2023 | OCS34493 | FBI/LEEDA SLI | Passed | 0.0 | 28.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

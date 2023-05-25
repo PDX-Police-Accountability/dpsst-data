@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/19/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/15/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 5/11/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/8/2023 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 3/29/2023 | PDP19748 | 2021 Online Crowd Control - CAO | Passed | 0.0 | 2.00 |
 | 3/29/2023 | PDP30182 | 2020 CAO Don't Shoot PDX/Hernandez TRO (resend) | Passed | 0.0 | 0.25 |

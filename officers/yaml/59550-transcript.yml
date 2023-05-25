@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2023
+  course: RMP4318
+  title: Incident Command System/Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/15/2023
+  course: RMP0259
+  title: Vehicle Immobilzation Pinching
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: RMP2851
+  title: Patrol Scenario Based Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/20/2023
   course: RMP07928
   title: ETHICS

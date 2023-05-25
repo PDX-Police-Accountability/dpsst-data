@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/15/2023 | PDP0627 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
+| 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 3/23/2023 | REG24193 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 1/23/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 1/19/2023 | PDP27971 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
