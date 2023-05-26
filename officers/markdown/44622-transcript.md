@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2023 | OSH3451A | Firearms FA2- Rifle | Instructed | 0.0 | 8.00 |
 | 5/10/2023 | OSH17016 | 2023 Active Threat IDC | Passed | 0.0 | 16.00 |
 | 4/28/2023 | OSH26274 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 4/28/2023 | OSH44417 | Shotgun Training | Passed | 0.0 | 1.00 |

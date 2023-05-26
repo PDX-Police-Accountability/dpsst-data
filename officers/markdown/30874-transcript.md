@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2023 | FGP4078A | Advanced Drone Operation | Passed | 0.0 | 4.00 |
+| 4/13/2023 | FGP2557A | CPR / First Aid bi-annual refresher | Passed | 0.0 | 2.00 |
 | 3/21/2023 | FGP04399 | Investigations Refresher | Passed | 0.0 | 1.00 |
 | 3/17/2023 | FGP14694 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |
 | 3/8/2023 | FGP17234 | Quarterly Firearms Training-Handgun Proficiency | Passed | 0.0 | 1.00 |

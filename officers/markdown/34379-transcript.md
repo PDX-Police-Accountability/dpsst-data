@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2023 | PDS1050 | Mobile Surveillance | Passed | 0.0 | 4.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 1/24/2023 | PPP31877 | Annual Firearms Qualifications and Training | Passed | 0.0 | 4.00 |
 | 12/31/2022 | PPP35492 | Emotional Intelligence | Passed | 0.0 | 2.00 |

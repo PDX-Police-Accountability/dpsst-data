@@ -57,6 +57,7 @@
 | 4/17/2023 | HSU43524 | Unmasking Facial Expressions and Body Language | Passed | 0.0 | 2.00 |
 | 4/17/2023 | HSU36861 | TCCC | Passed | 0.0 | 2.00 |
 | 4/16/2023 | HSU19975 | Spring In-Service 2023 EVOC | Instructed | 0.0 | 6.00 |
+| 4/8/2023 | HSU0298 | Spring 2023 In Service Firearms- Instructors | Passed | 0.0 | 5.00 |
 | 3/3/2023 | HSU13222 | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 2/25/2023 | HSU04459 | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 2/24/2023 | HSU37694 | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |

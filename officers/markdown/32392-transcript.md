@@ -39,6 +39,7 @@
 | 4/6/2023 | HBS11510 | ARIDE | Passed | 0.0 | 16.00 |
 | 3/1/2023 | HBS41629 | Crash Scene Photography Update | Passed | 0.0 | 2.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
+| 1/18/2023 | LOP3089 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
 | 12/1/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/23/2022 | TGP33128 | Motivational Ethics | Passed | 0.0 | 2.00 |
 | 10/18/2022 | TGP21919 | ROVT Operator Training | Instructed | 0.0 | 1.50 |

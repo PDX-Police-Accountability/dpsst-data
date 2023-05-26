@@ -80,8 +80,20 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/22/2023
+  course: MMP3588
+  title: Law Updates/Dept Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/9/2023
   course: MMP04255
+  title: Anti-Bias Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/9/2023
+  course: MMP0425
   title: Anti-Bias Training for LE
   status: Passed
   score: '0.0'

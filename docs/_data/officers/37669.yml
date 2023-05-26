@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2023
+  course: PDP1249
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/25/2023
   course: PDP23023
   title: 2023 Microsoft Office Teams Usage Policy

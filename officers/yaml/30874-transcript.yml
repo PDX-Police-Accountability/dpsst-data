@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/13/2023
+  course: FGP2557A
+  title: CPR / First Aid bi-annual refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/21/2023
   course: FGP04399
   title: Investigations Refresher

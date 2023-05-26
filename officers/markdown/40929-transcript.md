@@ -39,6 +39,7 @@
 | 5/14/2023 | HSU3510 | RDS Prep Course | Instructed | 0.0 | 2.00 |
 | 4/22/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |
 | 4/16/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |
+| 4/8/2023 | HSU0298 | Spring 2023 In Service Firearms- Instructors | Instructed | 0.0 | 5.00 |
 | 3/27/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

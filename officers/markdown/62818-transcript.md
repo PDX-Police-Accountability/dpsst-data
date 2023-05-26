@@ -29,6 +29,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2023 | CIF1003 | Cultural Training for Law Enforcement | Passed | 0.0 | 2.00 |
+| 5/23/2023 | CIF1441 | Intro ot CRITFC - Treaty Rights | Passed | 0.0 | 2.00 |
+| 5/22/2023 | CIF2431 | Tribal Codes | Passed | 0.0 | 3.00 |
+| 5/22/2023 | CIF4225 | Firearms | Passed | 0.0 | 2.00 |
+| 5/17/2023 | CIF4008 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 1/2/2023 | PDP37800 | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
 | 12/27/2022 | PDP22307 | 2022 Crowd Management | Passed | 0.0 | 0.50 |

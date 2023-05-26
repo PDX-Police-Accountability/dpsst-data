@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2023
+  course: PDS1050
+  title: Mobile Surveillance
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/30/2023
   course: PPP3551A
   title: Cultural Awareness and Diversity Overview

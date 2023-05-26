@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 4/20/2023
+  course: PDP1249
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/31/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording
