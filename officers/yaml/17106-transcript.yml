@@ -2638,14 +2638,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/5/2022
   expiration_date: 2/5/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/2/2022
-  expiration_date: 2/5/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/2/2022
-  expiration_date: 2/5/2023
 education_records:
 - date: 6/20/1985
   degree: Associate Science

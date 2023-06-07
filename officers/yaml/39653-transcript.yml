@@ -3573,6 +3573,14 @@ training_records:
   score: '0.0'
   hours: '24.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/5/2023
+  expiration_date: 5/5/2025
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/5/2023
+  expiration_date: 5/5/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
