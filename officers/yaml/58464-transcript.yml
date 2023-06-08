@@ -2193,6 +2193,14 @@ training_records:
 attribute_records:
 - topic: Certification Cards
   value: First Aid and CPR
+  effective_date: 5/10/2023
+  expiration_date: 5/10/2025
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/10/2023
+  expiration_date: 5/10/2025
+- topic: Certification Cards
+  value: First Aid and CPR
   effective_date: 5/5/2023
   expiration_date: 5/5/2025
 - topic: Certification Cards

@@ -4502,6 +4502,10 @@ attribute_records:
   value: Signed
   effective_date: 9/29/2003
   expiration_date: ''
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 9/29/2003
+  expiration_date: ''
 education_records:
 - date: 5/15/2002
   degree: Masters Arts
