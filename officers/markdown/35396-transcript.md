@@ -30,12 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/9/2023 | 5/9/2025 |
-| Certification Cards | First Aid and CPR | 5/9/2023 | 5/9/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/27/1998 |  |
 | Code of Ethics | Signed | 7/27/1998 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/2/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 10/23/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
+| 5/9/2023 | PDP2105A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/27/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/20/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

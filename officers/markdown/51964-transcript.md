@@ -22,14 +22,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Code of Ethics | Signed | 5/23/2011 |  |
 | Code of Ethics | Signed | 5/23/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/23/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

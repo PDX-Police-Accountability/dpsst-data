@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/9/2023 | 5/9/2025 |
-| Certification Cards | First Aid and CPR | 5/9/2023 | 5/9/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/5/2021 | 7/5/2023 |
-| Certification Cards | First Aid and CPR | 7/5/2021 | 7/5/2023 |
-| Code of Ethics | Signed | 11/18/2004 |  |
 | Code of Ethics | Signed | 11/18/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2023 | PDP2105A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/22/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 1.00 |
 | 3/16/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 2/20/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

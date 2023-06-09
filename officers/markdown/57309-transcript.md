@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 6/14/2017 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,7 +38,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
+| 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
+| 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
+| 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |

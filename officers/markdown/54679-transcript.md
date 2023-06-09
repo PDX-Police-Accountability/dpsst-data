@@ -27,16 +27,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/1/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 7/1/2022 |  |
-| Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
-| Code of Ethics | Signed | 5/15/2016 |  |
 | Code of Ethics | Signed | 5/15/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/30/2023 | MLP0917 | Rifle Qualification | Passed | 0.0 | 3.00 |
 | 4/19/2023 | MLP22573 | Safety Compass Human Trafficing | Passed | 0.0 | 1.00 |
 | 3/21/2023 | MLP26360 | Immediate action drills with handgun and rifles | Passed | 0.0 | 3.00 |
 | 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |

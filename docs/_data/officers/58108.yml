@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2023
+  course: PDP1689A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/7/2023
   course: PDP36458
   title: 2023-1 AR-15 Patrol Rifle Operators Course
@@ -2201,14 +2207,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/16/2023
   expiration_date: 5/16/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/16/2023
-  expiration_date: 5/16/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -2217,21 +2215,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/13/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 11/13/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 11/8/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

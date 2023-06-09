@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 9/15/2022 | 9/15/2023 |
 | Certification Cards | First Aid and CPR | 9/15/2022 | 9/15/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/12/2000 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/14/2023 | PDS13663 | Peer Support Training | Passed | 0.0 | 1.00 |
 | 4/14/2023 | PDS14046 | NAMI Training | Passed | 0.0 | 2.00 |
 | 4/14/2023 | PDS44290 | Yoga For First Responders | Passed | 0.0 | 1.00 |

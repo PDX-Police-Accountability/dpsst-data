@@ -31,14 +31,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
-| Code of Ethics | Signed | 11/22/2010 |  |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,10 +42,26 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/25/2023 | PDP1329A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/24/2023 | PDP4062A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/23/2023 | PDP2999A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/22/2023 | PDP3536A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/19/2023 | PDP0150A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/17/2023 | PDP1904A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/17/2023 | PDP3627A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/16/2023 | PDP0371A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/16/2023 | PDP1689A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/13/2023 | PDP2146A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/4/2023 | PDP30251 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/3/2023 | PDP01021 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/3/2023 | PDP4452 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/2/2023 | PDP00999 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/2/2023 | PDP4462A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/1/2023 | PDP03117 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/1/2023 | PDP4333A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 4/20/2023 | PDP0178A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/13/2023 | PDP00974 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 3/31/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
@@ -117,6 +128,7 @@
 | 4/14/2022 | PDP42419 | 2021-10 CAO Legal Updates for October 2021 | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP26350 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |
 | 4/14/2022 | PDP07364 | 2022 Vocab in the LGBTQIA2S+ / Queer Community | Passed | 0.0 | 0.25 |
+| 4/5/2022 | PDP4359A | CPR-First Aid | Instructed | 0.0 | 2.00 |
 | 3/24/2022 | PDP09335 | 2022-1 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/24/2022 | PDP31806 | 2022-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 3/24/2022 | PDP12489 | 2022-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

@@ -5,13 +5,14 @@
 | dpsst_identifier | 53098 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/11/2023 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 3/22/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 9/21/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/4/2018 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -26,18 +27,11 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 12/24/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
-| Code of Ethics | Signed | 11/21/2013 |  |
 | Code of Ethics | Signed | 11/21/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/1/2023 | PDP13561 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 0.75 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

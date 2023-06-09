@@ -5,13 +5,14 @@
 | dpsst_identifier | 52713 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/11/2023 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/28/2016 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/20/2016 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 7/30/2012 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
@@ -19,18 +20,14 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 3/27/2023 | Police Officer | Intermediate | App Incmpl |  | 6/27/2023 |  |
+| 1/20/2021 | Corrections Officer | Basic | Expired | 8/28/2013 |  |  |
 | 1/18/2017 | Police Officer | Basic | Granted | 1/18/2017 |  |  |
-| 4/20/2016 | Corrections Officer | Basic | Lapsed | 8/28/2013 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Code of Ethics | Signed | 2/20/2013 |  |
 | Code of Ethics | Signed | 2/20/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,7 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 5/2/2023 | PDP00999 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/27/2023 | PDP2174A | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 4/6/2023 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 3/31/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

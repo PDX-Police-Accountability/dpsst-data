@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/18/2023 | 4/18/2025 |
-| Certification Cards | First Aid and CPR | 4/18/2023 | 4/18/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/25/2014 |  |
 | Code of Ethics | Signed | 9/25/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -346,7 +342,7 @@
 | 12/7/2018 | PDP12580 | Transforming Trauma: How to work and sustain | Passed | 0.0 | 4.00 |
 | 12/6/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/6/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
-| 12/6/2018 | PDP39394 | Advanced Roadside Impairment Driving (ARIDE) | Passed | 0.0 | 16.00 |
+| 12/6/2018 | PDP39394 | Advanced Roadside Impaired Driving (ARIDE) | Passed | 0.0 | 16.00 |
 | 11/29/2018 | PDP19470 | Informant Management Class | Passed | 0.0 | 4.00 |
 | 11/12/2018 | PDP21493 | 2018-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/12/2018 | PDP02546 | 2018-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

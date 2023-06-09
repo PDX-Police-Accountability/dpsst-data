@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 1/30/2002 |  |
 | Code of Ethics | Signed | 1/30/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 5/10/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 5/10/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
+| 5/3/2023 | PDP1232A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

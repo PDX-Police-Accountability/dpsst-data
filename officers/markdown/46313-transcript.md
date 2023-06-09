@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
-| Certification Cards | First Aid and CPR | 11/8/2021 | 11/8/2023 |
-| Code of Ethics | Signed | 1/12/2006 |  |
 | Code of Ethics | Signed | 1/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,12 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | PPP2006A | Range | Passed | 0.0 | 4.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 1/24/2023 | PPP31877 | Annual Firearms Qualifications and Training | Passed | 0.0 | 4.00 |
 | 12/31/2022 | PPP35492 | Emotional Intelligence | Passed | 0.0 | 2.00 |
 | 12/30/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2022 | PPP14515 | How to Help a Cop In Immediate Crisis | Passed | 0.0 | 2.00 |
 | 10/31/2022 | PPP25478 | Active Shooter Phases and Prevention | Passed | 0.0 | 1.00 |
+| 10/31/2022 | PPP4265A | Use of Force Situations | Passed | 0.0 | 1.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/6/2022 | PPP31987 | Peer Support Training | Passed | 0.0 | 3.00 |
 | 9/30/2022 | PPP19987 | Duty to Intervene | Passed | 0.0 | 1.00 |

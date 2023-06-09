@@ -49,14 +49,80 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2023
+  course: PDP2999A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/19/2023
+  course: PDP0150A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/18/2023
+  course: PDP3706A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/16/2023
+  course: PDP1689A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/11/2023
+  course: PDP1919A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/10/2023
+  course: PDP1627A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/9/2023
+  course: PDP2105A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/5/2023
+  course: PDP0557
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/4/2023
+  course: PDP4469
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/3/2023
   course: PDP36097
   title: CPR/First Aid
   status: Instructed
   score: '0.0'
   hours: '1.75'
+- date: 5/3/2023
+  course: PDP4452
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/2/2023
   course: PDP00999
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/20/2023
+  course: PDP0178A
   title: CPR/First Aid
   status: Instructed
   score: '0.0'
@@ -3354,18 +3420,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/4/2023
   expiration_date: 5/4/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/4/2023
-  expiration_date: 5/4/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
@@ -3378,21 +3432,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/14/2021
   expiration_date: 6/14/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/14/2021
-  expiration_date: 6/14/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/18/2013
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/23/2012
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

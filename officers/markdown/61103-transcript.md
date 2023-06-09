@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/22/2023 | 5/22/2025 |
-| Certification Cards | First Aid and CPR | 5/22/2023 | 5/22/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 10/29/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 10/29/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2023 | PDP3619A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/9/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 5/7/2023 | PDP36458 | 2023-1 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 60.00 |
 | 5/5/2023 | PDP05784 | 2023-1 Range Qualification AR-15 Qual (20yd) | Passed | 0.0 | 0.50 |
 | 3/24/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

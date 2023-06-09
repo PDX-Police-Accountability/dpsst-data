@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2023
+  course: PDP4498A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/22/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm
@@ -342,6 +348,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/12/2022
+  course: PDP3513A
+  title: 2023 External Training Threat Mgmnt Conference
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 8/3/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -3953,14 +3965,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/1/2023
   expiration_date: 6/1/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2023
-  expiration_date: 6/1/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3969,22 +3973,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/2/2021
   expiration_date: 6/2/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/2/2021
-  expiration_date: 6/2/2023
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/6/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/6/2007

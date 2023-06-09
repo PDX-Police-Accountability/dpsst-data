@@ -24,14 +24,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2023 | NGP2392A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/15/2023 | NGP1404A | First Aid CPR | Passed | 0.0 | 5.00 |
 | 4/18/2023 | NGP01767 | Achieve Peak Performance in Emotional Survival | Passed | 0.0 | 1.50 |
 | 4/6/2023 | NGP35952 | Firearms Qualifications | Passed | 0.0 | 3.00 |

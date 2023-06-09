@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 2/13/2023 | 2/28/2025 |
 | Certification Cards | First Aid and CPR | 2/13/2023 | 2/28/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 2/14/2022 | 2/28/2024 |
-| Certification Cards | First Aid and CPR | 2/14/2022 | 2/28/2024 |
-| Code of Ethics | Signed | 7/28/2000 |  |
 | Code of Ethics | Signed | 7/28/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2023 | TRN2374A | 2023 Information Security Training Foundations | Passed | 0.0 | 0.50 |
+| 5/28/2023 | TRN2653A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 5/28/2023 | TRN1317A | Bloodborne Pathogens - Protect Yourself v2021 | Passed | 0.0 | 1.00 |
+| 5/28/2023 | TRN3017A | CCCF Fire Suppression Training v2023a | Passed | 0.0 | 1.00 |
+| 5/28/2023 | TRN0532A | Equity Informed Restorative Justice | Passed | 0.0 | 1.00 |
+| 5/28/2023 | TRN1555A | PREA Refresher v2023 | Passed | 0.0 | 1.00 |
+| 5/28/2023 | TRN2520A | Use of Force Documentation and Reviews v2022 | Passed | 0.0 | 2.00 |
+| 5/28/2023 | TRN2933A | Protection from Ambient Heat v2023 | Passed | 0.0 | 0.50 |
+| 5/28/2023 | TRN1465A | Use of Force Overview of Rules v2023 | Passed | 0.0 | 2.00 |
+| 5/28/2023 | TRN2360A | Wellness-Mind and Inspiration v2021 | Passed | 0.0 | 0.50 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/18/2023 | TRN37526 | DOC - Fire Alarm Panel Monitoring v2023a | Passed | 0.0 | 1.00 |
 | 2/17/2023 | TRN34402 | 2023 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |

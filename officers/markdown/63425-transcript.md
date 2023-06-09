@@ -29,8 +29,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/8/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 3/11/2023 | PDP07729 | Pre Academy Firearms Training | Passed | 0.0 | 9.00 |
+| 3/8/2023 | PDP3136A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 18.00 |
 | 2/27/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/27/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/10/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

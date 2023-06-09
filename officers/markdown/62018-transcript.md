@@ -21,16 +21,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/6/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 9/6/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
-| Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 | Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +32,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/23/2023 | PDP4037 | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
+| 5/9/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 5/3/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 18.00 |
 | 4/20/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 4/20/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |

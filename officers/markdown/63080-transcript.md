@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 11/7/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 11/7/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -75,15 +74,16 @@
 | 3/23/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/22/2023 | PDP1608A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 7.00 |
 | 3/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP12688 | Post Academy Firearms Training | Passed | 0.0 | 9.00 |
+| 3/17/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/7/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDP11356 | Control Tactics Training | Passed | 0.0 | 4.00 |
 | 3/6/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/2/2023 | REG00018 | DID/SFST | Passed | 0.0 | 24.00 |
 | 1/26/2023 | REG17417 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |
-| 11/7/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 11/5/2022 | PDP10589 | Firearms Training | Passed | 0.0 | 7.00 |
 | 11/4/2022 | PDP26684 | Firearms Training | Passed | 0.0 | 7.00 |
 | 11/3/2022 | PDP13295 | Firearms Training | Passed | 0.0 | 7.00 |

@@ -57,6 +57,12 @@ certification_records:
   expiration_date: 8/13/2025
   probation_date: ''
 training_records:
+- date: 5/5/2023
+  course: BNS1394A
+  title: Chainsaw Orientation and Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/27/2021
   course: BNS13970
   title: Legal Update, section number 001

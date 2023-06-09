@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
-| Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
-| Code of Ethics | Signed | 9/15/2008 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 77.00 |
 | 4/26/2023 | SDP29316 | Defensive Tactics | Passed | 0.0 | 3.50 |
 | 4/24/2023 | REG20435 | Standing  Ground Back Control Escapes | Passed | 0.0 | 1.00 |
 | 4/10/2023 | REG24087 | Guard Pass - Pressure Pass | Passed | 0.0 | 1.00 |

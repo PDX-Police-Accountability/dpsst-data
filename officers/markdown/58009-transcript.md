@@ -21,16 +21,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
 | Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 12/11/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 11/8/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

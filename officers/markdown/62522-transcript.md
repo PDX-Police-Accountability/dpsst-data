@@ -21,10 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 | Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -33,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/16/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/16/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/16/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
@@ -131,4 +129,5 @@
 | 4/8/2022 | PDP23369 | FTEP Pre-DPSST Firearms training | Passed | 0.0 | 7.00 |
 | 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 4/5/2022 | PDP28507 | FTEP pre-DPSST firearms | Passed | 0.0 | 7.00 |
+| 4/5/2022 | PDP4359A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 2/15/2022 | PDP22752 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

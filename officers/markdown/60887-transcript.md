@@ -42,5 +42,6 @@
 | 2/15/2023 | HBP15447 | Mental Health Response Team (MHRT) Training | Passed | 0.0 | 3.00 |
 | 2/15/2023 | HBP25483 | Safety Compass - Commercial Sexual Exploitation | Passed | 0.0 | 1.00 |
 | 2/15/2023 | HBP11255 | Tactical De-escalation | Passed | 0.0 | 6.00 |
+| 1/31/2023 | HBP1097A | Body-Worn Camera Training | Passed | 0.0 | 1.00 |
 | 4/28/2020 | PDP03131 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 12/31/1901 | M10-19A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |

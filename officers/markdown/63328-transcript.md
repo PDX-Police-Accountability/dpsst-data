@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/23/2023 |  |
-| Code of Ethics | Law Enforcement Signed | 1/23/2023 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -30,7 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/18/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 5/15/2023 | PDP4396 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
+| 5/15/2023 | PDP1608A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
 | 4/25/2023 | REG22883 | LIDAR | Passed | 0.0 | 2.00 |
 | 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 3/23/2023 | REG24193 | INTOX 8000 | Passed | 0.0 | 6.00 |

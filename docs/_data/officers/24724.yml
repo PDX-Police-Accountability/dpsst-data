@@ -94,10 +94,16 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 3/20/2023
+- date: 6/6/2023
+  course: FGP0327A
+  title: Wildfire Smoke / Extreme Heat Precaution Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/28/2023
   course: 23-0026
   title: DPSST Middle Management
-  status: Registered
+  status: Passed
   score: '0.0'
   hours: '80.00'
 - date: 3/17/2023
@@ -4341,14 +4347,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/31/2022
-  expiration_date: 3/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/31/2022
@@ -4357,14 +4355,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/22/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/22/2008

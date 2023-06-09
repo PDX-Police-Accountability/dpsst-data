@@ -27,10 +27,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Code of Ethics | Signed | 4/24/2014 |  |
 | Code of Ethics | Signed | 4/24/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/24/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/23/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

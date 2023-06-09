@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
 | Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/24/2021 | 6/24/2023 |
-| Certification Cards | First Aid and CPR | 6/24/2021 | 6/24/2023 |
-| Code of Ethics | Signed | 5/7/2004 |  |
 | Code of Ethics | Signed | 5/7/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/25/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/25/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

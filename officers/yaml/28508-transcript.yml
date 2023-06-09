@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/25/2023
+  course: PDP1329A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/11/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -3481,18 +3487,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/25/2023
   expiration_date: 5/25/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/25/2023
-  expiration_date: 5/25/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
@@ -3505,14 +3499,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 7/7/2021
   expiration_date: 7/7/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/7/2021
-  expiration_date: 7/7/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/25/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/25/2002

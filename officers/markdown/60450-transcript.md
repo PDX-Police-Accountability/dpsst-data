@@ -4,7 +4,7 @@
 | name | Daley, Derrick D. |
 | dpsst_identifier | 60450 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/19/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/19/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/9/2021 | Police Officer | Basic | Granted | 4/9/2021 |  |  |
+| 4/19/2023 | Police Officer | Basic | Lapsed | 4/9/2021 | 1/19/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

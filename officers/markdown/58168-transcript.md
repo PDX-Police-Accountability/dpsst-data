@@ -23,16 +23,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 7/15/2021 | 7/15/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2021 | 7/15/2023 |
 | Code of Ethics | Law Enforcement Signed | 1/24/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 1/24/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 1/22/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/2/2023 | PDP40040 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 5/2/2023 | PDP07433 | 2022-2 In-Service Legal Updates 1010.00 | Passed | 0.0 | 1.50 |
+| 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/17/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/17/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/17/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

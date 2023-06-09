@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/2/2021 | 7/2/2023 |
-| Certification Cards | First Aid and CPR | 7/2/2021 | 7/2/2023 |
-| Code of Ethics | Signed | 12/11/2001 |  |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/24/2023 | PDP4062A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/23/2023 | PDP2999A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/16/2023 | PDP1689A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/11/2023 | PDP1919A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/9/2023 | PDP2105A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/5/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/7/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 3/7/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

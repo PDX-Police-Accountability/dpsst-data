@@ -26,16 +26,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
 | Code of Ethics | Law Enforcement Signed | 11/27/2017 |  |
-| Code of Ethics | Law Enforcement Signed | 11/27/2017 |  |
-| Code of Ethics | Signed | 8/14/2016 |  |
 | Code of Ethics | Signed | 8/14/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/20/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 2/27/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

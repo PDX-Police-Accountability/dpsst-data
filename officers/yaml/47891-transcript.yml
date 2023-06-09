@@ -63,6 +63,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/20/2023
+  course: PDP0178A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/10/2023
   course: 22-0028
   title: DPSST Middle Management F22 Equivalency
@@ -4016,10 +4022,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/20/2023
   expiration_date: 4/20/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/20/2023
-  expiration_date: 4/20/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2023
@@ -4028,18 +4030,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/6/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/6/2007

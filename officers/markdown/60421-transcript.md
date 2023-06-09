@@ -28,18 +28,11 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 10/19/2022 | 10/19/2024 |
 | Certification Cards | First Aid and CPR | 10/19/2022 | 10/19/2024 |
 | Certification Cards | First Aid and CPR | 7/9/2021 | 7/9/2023 |
-| Certification Cards | First Aid and CPR | 7/9/2021 | 7/9/2023 |
-| Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 1/8/2021 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/30/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 7/30/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Passed | 0.0 | 8.00 |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Instructed | 0.0 | 8.00 |
 | 4/20/2023 | SAG17561 | Firearms range training | Passed | 0.0 | 3.00 |

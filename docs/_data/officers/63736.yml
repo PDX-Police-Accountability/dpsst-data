@@ -48,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/4/2023
+  course: PDP0094A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 5/1/2023
+  course: PDP0678A
+  title: 2023 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/29/2023
   course: PDP19748
   title: 2021 Online Crowd Control - CAO

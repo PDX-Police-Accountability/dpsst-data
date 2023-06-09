@@ -22,14 +22,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/21/2021 | 6/22/2023 |
-| Certification Cards | First Aid and CPR | 6/21/2021 | 6/22/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/4/2004 |  |
 | Code of Ethics | Signed | 8/4/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/19/2023 | OSH17315 | 2023 OPCA Spring Conference - Detection | Passed | 0.0 | 24.00 |
 | 3/23/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |

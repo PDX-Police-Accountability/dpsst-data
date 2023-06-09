@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/2/2023
+  agency: DPSST Use Only
+  action: InstrApp
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 2/1/2021
   agency: Oregon City Police Department
   action: Hired
@@ -1336,7 +1342,7 @@ training_records:
   hours: '0.25'
 - date: 12/6/2018
   course: PDP39394
-  title: Advanced Roadside Impairment Driving (ARIDE)
+  title: Advanced Roadside Impaired Driving (ARIDE)
   status: Instructed
   score: '0.0'
   hours: '16.00'
@@ -3143,26 +3149,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2022
   expiration_date: 1/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/31/2022
-  expiration_date: 1/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 11/18/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/18/2009

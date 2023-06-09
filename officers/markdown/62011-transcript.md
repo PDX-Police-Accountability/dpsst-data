@@ -16,17 +16,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/15/2021 | Police Officer | Basic | ReqCertExt |  |  | 1/15/2024 |
+| 6/7/2023 | Police Officer | Basic | App InProc |  |  | 1/15/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 5/29/2023 |  |
-| Code of Ethics | Law Enforcement Signed | 5/29/2023 |  |
-| Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
 | Code of Ethics | Law Enforcement Signed | 10/25/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 10/25/2021 |  |
-| Certification Cards | First Aid and CPR | 8/24/2021 | 8/24/2023 |
 | Certification Cards | First Aid and CPR | 8/24/2021 | 8/24/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -34,7 +30,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/30/2023 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
+| 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/20/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/20/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

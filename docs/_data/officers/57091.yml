@@ -50,6 +50,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/18/2023
+  course: PDP4268A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
+- date: 5/10/2023
+  course: PDP0094A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '27.00'
+- date: 5/4/2023
+  course: PDP0094A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '27.00'
+- date: 4/25/2023
+  course: PDP0812A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/20/2023
+  course: PDP4268A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
+- date: 4/7/2023
+  course: PDP0094A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/27/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -146,6 +182,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.00'
+- date: 3/8/2023
+  course: PDP0094A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/7/2023
   course: PDP11356
   title: Control Tactics Training
@@ -3163,14 +3205,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/25/2023
   expiration_date: 4/25/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/25/2023
-  expiration_date: 4/25/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3179,22 +3213,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/30/2021
   expiration_date: 6/30/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/30/2021
-  expiration_date: 6/30/2023
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/12/2017
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/12/2017

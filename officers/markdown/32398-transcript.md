@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/27/2005 |  |
 | Code of Ethics | Signed | 9/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Instructed | 0.0 | 36.00 |
+| 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Instructed | 0.0 | 6.00 |
+| 4/6/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Instructed | 0.0 | 5.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -45,6 +45,7 @@
 | 3/27/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 3/8/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/8/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/8/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

@@ -31,14 +31,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/18/2021 | 6/18/2023 |
-| Certification Cards | First Aid and CPR | 6/18/2021 | 6/18/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/17/2000 |  |
 | Code of Ethics | Signed | 8/17/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/4/2023 | PDP4469 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

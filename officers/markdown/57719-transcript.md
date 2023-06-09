@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2023 | BNS1394A | Chainsaw Orientation and Safety Training | Passed | 0.0 | 4.00 |
+| 5/5/2023 | VND0329A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 8.00 |
 | 5/7/2022 | VND02238 | Oregon State Marine Board PWC Operations Course | Passed | 0.0 | 72.00 |
 | 4/14/2022 | VND17038 | ATV Laws  Rules Classroom  Field Excercises | Passed | 0.0 | 20.00 |
 | 4/1/2022 | BNS06192 | Intro to K9 | Passed | 0.0 | 2.00 |

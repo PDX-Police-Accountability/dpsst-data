@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
-| Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
-| Code of Ethics | Signed | 8/15/2013 |  |
 | Code of Ethics | Signed | 8/15/2013 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2023 | PDP2936A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/14/2023 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/28/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

@@ -21,12 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 7/20/2007 |  |
 | Code of Ethics | Signed | 7/20/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -35,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/26/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/26/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/20/2023
+  agency: Multnomah County Sheriff's Office
+  action: Retired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 5/14/1998
   agency: Multnomah County Sheriff's Office
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 6/25/2004
-  expiration_date: ''
+  expiration_date: 8/20/2023
   probation_date: ''
 - status_date: 7/17/2000
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/17/2000
-  expiration_date: ''
+  expiration_date: 8/20/2023
   probation_date: ''
 - status_date: 9/8/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 9/8/1999
-  expiration_date: ''
+  expiration_date: 8/20/2023
   probation_date: ''
 training_records:
 - date: 3/20/2023

@@ -33,15 +33,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | CPR | 5/22/2023 | 5/22/2025 |
 | Certification Cards | CPR | 5/22/2023 | 5/22/2025 |
 | Certification Cards | CPR | 1/28/2023 | 1/31/2025 |
-| Certification Cards | CPR | 1/28/2023 | 1/31/2025 |
 | Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
-| Certification Cards | First Aid and CPR | 3/23/2022 | 3/23/2024 |
-| Code of Ethics | Signed | 5/11/2001 |  |
 | Code of Ethics | Signed | 5/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,7 +45,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | HBS1664A | SFST Refresher--4 hr | Passed | 0.0 | 4.00 |
+| 5/31/2023 | HBS1987A | SFST Refresher --4hr | Passed | 0.0 | 4.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 5/22/2023 | HBS0809 | May 2023 EVO In-Service | Passed | 0.0 | 3.50 |
+| 5/22/2023 | HBS3654 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 4/10/2023 | HBS39888 | Building Search | Passed | 0.0 | 4.00 |
 | 3/13/2023 | HBS29958 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/13/2023 | HBS38246 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |

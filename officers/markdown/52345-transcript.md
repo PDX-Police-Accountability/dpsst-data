@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/3/2021 | 6/3/2023 |
-| Certification Cards | First Aid and CPR | 6/3/2021 | 6/3/2023 |
-| Code of Ethics | Signed | 1/3/2012 |  |
 | Code of Ethics | Signed | 1/3/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | BPT1465A | Northwest Regional CIT Conference-Day 2 | Passed | 0.0 | 6.50 |
+| 5/23/2023 | BPT2275A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
+| 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -61,6 +59,7 @@
 | 1/30/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/20/2023 | VND39577 | EMDR for Paraprofessionals | Instructed | 0.0 | 40.00 |
 | 1/20/2023 | PDP41765 | Traumatic Stress Relief for Peer Supporters | Passed | 0.0 | 36.00 |
+| 1/9/2023 | PDP3975A | Juvenile Subjects in the Planning Stages | Passed | 0.0 | 5.00 |
 | 1/5/2023 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/28/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/14/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

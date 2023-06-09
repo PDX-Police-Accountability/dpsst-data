@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Certification Cards | First Aid and CPR | 1/28/2022 | 1/1/2024 |
-| Certification Cards | First Aid and CPR | 1/28/2022 | 1/1/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/6/2002 |  |
 | Code of Ethics | Signed | 9/6/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 4/20/2023 | SAG17561 | Firearms range training | Passed | 0.0 | 3.00 |
 | 1/23/2023 | SAG06305 | Firearms training | Passed | 0.0 | 3.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

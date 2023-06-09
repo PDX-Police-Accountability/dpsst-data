@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Code of Ethics | Signed | 2/12/2004 |  |
 | Code of Ethics | Signed | 2/12/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,10 +41,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/27/2023 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 5/2/2023 | PDP00999 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/28/2023 | 23-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 4/14/2023 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/28/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
-| 3/20/2023 | 23-0026 | DPSST Middle Management | Registered | 0.0 | 80.00 |
 | 3/16/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/15/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

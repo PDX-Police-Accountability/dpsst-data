@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/25/2023 | 4/25/2025 |
-| Certification Cards | First Aid and CPR | 4/25/2023 | 4/25/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 | Code of Ethics | Law Enforcement Signed | 12/12/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 18.00 |
+| 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 27.00 |
+| 5/4/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 27.00 |
+| 4/25/2023 | PDP0812A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/20/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 12.00 |
+| 4/7/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 28.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
@@ -58,6 +59,7 @@
 | 3/15/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 3/11/2023 | PDP07729 | Pre Academy Firearms Training | Instructed | 0.0 | 9.00 |
 | 3/10/2023 | PDP41410 | Arson Investigators Firearms Training | Instructed | 0.0 | 5.00 |
+| 3/8/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 18.00 |
 | 3/7/2023 | PDP11356 | Control Tactics Training | Instructed | 0.0 | 4.00 |
 | 2/28/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/25/2023 | PDP43640 | Firearms Training | Instructed | 0.0 | 7.00 |

@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
-| Code of Ethics | Signed | 2/8/2007 |  |
 | Code of Ethics | Signed | 2/8/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2023 | PDP0205A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
+| 4/20/2023 | PDP0178A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 2/28/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/20/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |

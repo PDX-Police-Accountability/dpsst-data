@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/23/2021 | 6/23/2023 |
-| Certification Cards | First Aid and CPR | 6/23/2021 | 6/23/2023 |
-| Code of Ethics | Signed | 10/21/2009 |  |
 | Code of Ethics | Signed | 10/21/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2023 | BPT2275A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
+| 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/20/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/20/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
@@ -62,6 +59,7 @@
 | 1/30/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/30/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/30/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/9/2023 | PDP3975A | Juvenile Subjects in the Planning Stages | Passed | 0.0 | 5.00 |
 | 12/19/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/19/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/19/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
@@ -94,6 +92,7 @@
 | 8/18/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
 | 8/17/2022 | PDP02516 | Crisis Negotiation Team Training | Passed | 0.0 | 9.00 |
 | 8/15/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 8/12/2022 | PDP3513A | 2023 External Training Threat Mgmnt Conference | Passed | 0.0 | 28.00 |
 | 8/2/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/1/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/20/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |

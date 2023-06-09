@@ -32,6 +32,8 @@
 | 4/13/2023 | PDP37726 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 4/13/2023 | PDP30174 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 4/13/2023 | PDP42092 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 4/7/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 28.00 |
+| 4/6/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 5.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

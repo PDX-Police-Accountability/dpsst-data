@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/1/2023 | 5/1/2025 |
-| Certification Cards | First Aid and CPR | 5/1/2023 | 5/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 3/10/2014 |  |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2023 | PDP4333A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

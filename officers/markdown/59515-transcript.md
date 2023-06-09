@@ -30,16 +30,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | First Aid/CPR Required | 4/28/2023 | 4/28/2023 |
 | Maintenance Requirements | First Aid/CPR Required | 4/28/2023 | 4/28/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 7/2/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,6 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/11/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 5/4/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/2/2023 | PDP03189 | ICS-400 Adv ICS Cmd  General Staff-Complex Incdts | Passed | 0.0 | 14.00 |
 | 4/20/2023 | PDP1249 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 3/31/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

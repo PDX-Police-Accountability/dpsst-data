@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/13/2023 | 4/13/2025 |
-| Certification Cards | First Aid and CPR | 4/13/2023 | 4/13/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/17/2021 | 9/17/2023 |
-| Certification Cards | First Aid and CPR | 9/17/2021 | 9/17/2023 |
-| Code of Ethics | Signed | 11/29/2010 |  |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2023 | FGP0327A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 5/21/2023 | FGP4078A | Advanced Drone Operation | Passed | 0.0 | 4.00 |
 | 4/13/2023 | FGP2557A | CPR / First Aid bi-annual refresher | Passed | 0.0 | 2.00 |
 | 3/21/2023 | FGP04399 | Investigations Refresher | Passed | 0.0 | 1.00 |

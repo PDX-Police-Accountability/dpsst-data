@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/31/2023
+  agency: Hillsboro Police Department
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/1/2001
   agency: Hillsboro Police Department
   action: Hired
@@ -64,21 +70,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/10/2014
-  expiration_date: ''
+  expiration_date: 8/31/2023
   probation_date: ''
 - status_date: 11/1/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/1/2010
-  expiration_date: ''
+  expiration_date: 8/31/2023
   probation_date: ''
 - status_date: 6/5/2002
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/5/2002
-  expiration_date: ''
+  expiration_date: 8/31/2023
   probation_date: ''
 training_records:
 - date: 4/12/2023

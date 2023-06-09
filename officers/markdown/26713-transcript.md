@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/31/2023 | Hillsboro Police Department | Retired | Police Off |  |  |
 | 6/1/2001 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 5/31/2001 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 11/1/1999 | West Linn Police Department | Resigned | Reserve |  |  |
@@ -23,9 +24,9 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 2/15/2020 | Corrections Officer | Basic | Expired | 12/16/1999 |  |  |
-| 11/10/2014 | Police Officer | Advanced | Granted | 11/10/2014 |  |  |
-| 11/1/2010 | Police Officer | Intermediate | Granted | 11/1/2010 |  |  |
-| 6/5/2002 | Police Officer | Basic | Granted | 6/5/2002 |  |  |
+| 11/10/2014 | Police Officer | Advanced | Granted | 11/10/2014 | 8/31/2023 |  |
+| 11/1/2010 | Police Officer | Intermediate | Granted | 11/1/2010 | 8/31/2023 |  |
+| 6/5/2002 | Police Officer | Basic | Granted | 6/5/2002 | 8/31/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

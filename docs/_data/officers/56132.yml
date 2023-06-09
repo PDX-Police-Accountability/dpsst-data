@@ -30,6 +30,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/13/2023
+  course: PDP2146A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/11/2023
+  course: PDP2652
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/27/2023
   course: PDP0829
   title: 2023 SERT Training - FIREARMS
@@ -2933,14 +2945,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/13/2023
-  expiration_date: 5/13/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/13/2023
@@ -2949,14 +2953,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/15/2021
-  expiration_date: 7/15/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2021
@@ -2964,14 +2960,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/12/2017
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/12/2017
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/13/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/5/2023 | BNS1394A | Chainsaw Orientation and Safety Training | Passed | 0.0 | 4.00 |
 | 10/27/2021 | BNS13970 | Legal Update, section number 001 | Passed | 0.0 | 0.50 |
 | 10/20/2021 | BNS23655 | 2021 Bloodborne Pathogens | Passed | 0.0 | 0.50 |
 | 8/16/2021 | BNS28780 | 2021 OSHA Wildfire Smoke Safety | Passed | 0.0 | 0.50 |

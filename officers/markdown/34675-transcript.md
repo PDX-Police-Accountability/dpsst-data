@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 8/17/2000 |  |
 | Code of Ethics | Signed | 8/17/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2023 | PDP0178A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/11/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/11/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 3/21/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

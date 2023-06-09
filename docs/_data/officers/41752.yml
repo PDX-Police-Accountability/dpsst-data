@@ -123,12 +123,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 3/28/2022
-  course: GPP29836
-  title: Airway Circulatory Anatomy and Physiology
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 2/13/2022
   course: GPP16611
   title: Advanced Roadside Impaired Driving Enforcement

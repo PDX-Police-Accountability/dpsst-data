@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/18/2023
+  course: LOP1720
+  title: National Computer Forensics Institute
+  status: Passed
+  score: '0.0'
+  hours: '112.00'
 - date: 4/26/2023
   course: OCA0275A
   title: High Risk Vehicle Stops and Tactics
@@ -2749,14 +2755,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 11/10/2022
-  expiration_date: 11/30/2024
 - topic: Certification Cards
   value: First Aid
   effective_date: 11/10/2022
@@ -2765,22 +2763,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/23/2021
   expiration_date: 11/30/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/23/2021
-  expiration_date: 11/30/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/27/2005
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/27/2005

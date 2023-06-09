@@ -327,6 +327,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/12/2022
+  course: PDP3513A
+  title: 2023 External Training Threat Mgmnt Conference
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 7/21/2022
   course: PDP35393
   title: 2022-2 Range Qualification Secondary Firearm 50rd
@@ -3968,14 +3974,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/18/2023
   expiration_date: 4/18/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/18/2023
-  expiration_date: 4/18/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3984,22 +3982,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/15/2021
   expiration_date: 6/15/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/15/2021
-  expiration_date: 6/15/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/27/2001
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/27/2001

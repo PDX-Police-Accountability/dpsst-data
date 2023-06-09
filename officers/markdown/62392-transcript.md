@@ -21,8 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 | Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -153,5 +151,6 @@
 | 4/8/2022 | PDP23369 | FTEP Pre-DPSST Firearms training | Passed | 0.0 | 7.00 |
 | 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 4/5/2022 | PDP28507 | FTEP pre-DPSST firearms | Passed | 0.0 | 7.00 |
+| 4/5/2022 | PDP4359A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 2/7/2022 | PDP30218 | 2021 Training New Pistol Qualification | Passed | 0.0 | 0.25 |
 | 1/16/2022 | PDP22752 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

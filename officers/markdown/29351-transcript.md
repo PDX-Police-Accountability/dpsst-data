@@ -26,12 +26,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
-| Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | PDP1329A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 5/27/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2023
+  course: LOP0809
+  title: Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/3/2023
   course: LOP28849
   title: Forcible Entry Training
@@ -2540,14 +2546,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 11/6/2022
-  expiration_date: 11/30/2024
 - topic: Certification Cards
   value: First Aid
   effective_date: 11/6/2022
@@ -2556,22 +2554,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: CPR
   effective_date: 11/22/2021
   expiration_date: 11/30/2023
-- topic: Certification Cards
-  value: CPR
-  effective_date: 11/22/2021
-  expiration_date: 11/30/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/20/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/20/2002

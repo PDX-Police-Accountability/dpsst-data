@@ -21,16 +21,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 10/7/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 10/7/2021 |  |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 9/27/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/2/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 2/1/2021 | Oregon City Police Department | Hired | Police Off |  |  |
 | 1/29/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/29/2009 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -26,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 1/31/2022 | 1/31/2024 |
-| Certification Cards | First Aid and CPR | 1/31/2022 | 1/31/2024 |
-| Code of Ethics | Signed | 11/18/2009 |  |
 | Code of Ethics | Signed | 11/18/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -254,7 +251,7 @@
 | 12/17/2018 | F6D28897 | Intoxilyzer 8000 Instructor Course | Passed | 0.0 | 4.00 |
 | 12/7/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/7/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
-| 12/6/2018 | PDP39394 | Advanced Roadside Impairment Driving (ARIDE) | Instructed | 0.0 | 16.00 |
+| 12/6/2018 | PDP39394 | Advanced Roadside Impaired Driving (ARIDE) | Instructed | 0.0 | 16.00 |
 | 12/3/2018 | PDP12831 | Intoxylizer 8000 Instructor Certification | Passed | 0.0 | 6.00 |
 | 11/10/2018 | PDP09911 | 2018 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
 | 10/27/2018 | PDP21953 | City Attorney's Legal Updates | Passed | 0.0 | 0.25 |

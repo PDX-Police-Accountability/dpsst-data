@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/28/2023
+  course: PDP0561A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/31/2023
   course: PDP38288
   title: 2023 Microsoft PowerPoint Online Recorded Training
@@ -3169,14 +3175,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/28/2023
   expiration_date: 4/28/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/28/2023
-  expiration_date: 4/28/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3185,22 +3183,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/22/2021
   expiration_date: 6/22/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/22/2021
-  expiration_date: 6/22/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/11/2011
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/11/2011

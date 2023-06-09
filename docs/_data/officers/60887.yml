@@ -77,6 +77,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/31/2023
+  course: HBP1097A
+  title: Body-Worn Camera Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/28/2020
   course: PDP03131
   title: DOJ Settlement Agreement

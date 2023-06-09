@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2023
+  course: VND2228A
+  title: Basic Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/10/2023
   course: F1513162
   title: Bloodborne Pathogens for LE
@@ -6788,14 +6794,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/19/2021
   expiration_date: 6/19/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/19/2021
-  expiration_date: 6/19/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/22/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/22/2010

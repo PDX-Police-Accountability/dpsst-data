@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2023
+  course: NGP2392A
+  title: Anti-Bias Training for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/15/2023
   course: NGP1404A
   title: First Aid CPR
@@ -1158,14 +1164,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/15/2023
   expiration_date: 5/15/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/15/2023
-  expiration_date: 5/15/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -1174,22 +1172,10 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/5/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/5/2022
-  expiration_date: ''
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 10/25/2020
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/25/2020

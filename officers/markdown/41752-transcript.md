@@ -45,7 +45,6 @@
 | 4/19/2022 | GPP38935 | Scenario Training | Passed | 0.0 | 2.00 |
 | 4/14/2022 | GPP44217 | Bias-Based Policing | Passed | 0.0 | 0.50 |
 | 3/28/2022 | GPP39725 | First Aid-CPR-AED | Passed | 0.0 | 2.00 |
-| 3/28/2022 | GPP29836 | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 2/13/2022 | GPP16611 | Advanced Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 1/19/2022 | REG33922 | Pursuit Management for Supervisors | Passed | 0.0 | 3.50 |
 | 1/18/2022 | GPP06614 | Low light shooting / Flashlight tactics | Passed | 0.0 | 2.00 |

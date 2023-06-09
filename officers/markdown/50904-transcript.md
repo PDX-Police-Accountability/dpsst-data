@@ -28,11 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Code of Ethics | Signed | 3/11/2010 |  |
 | Code of Ethics | Signed | 3/11/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,9 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
+| 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
 | 4/17/2023 | OCS20700 | ICS 200 | Passed | 0.0 | 3.00 |
 | 4/17/2023 | OCS17761 | ICS 700 | Passed | 0.0 | 3.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
+| 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33440 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
@@ -76,6 +75,7 @@
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/21/2022 | OCS0303A | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
+| 1/21/2022 | OCS0303 | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
 | 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
 | 12/30/2021 | OCS33256 | Taser 7 | Passed | 0.0 | 1.00 |

@@ -51,6 +51,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/24/2023
+  course: BPT1465A
+  title: Northwest Regional CIT Conference-Day 2
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 5/23/2023
+  course: BPT2275A
+  title: Northwest Regional CIT Conference-Day 1
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 5/11/2023
+  course: PDP1919A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -171,6 +189,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/9/2023
+  course: PDP3975A
+  title: Juvenile Subjects in the Planning Stages
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 1/5/2023
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm
@@ -3500,14 +3524,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/11/2023
   expiration_date: 5/11/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/11/2023
-  expiration_date: 5/11/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3516,22 +3532,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/3/2021
   expiration_date: 6/3/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/3/2021
-  expiration_date: 6/3/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/3/2012
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/3/2012

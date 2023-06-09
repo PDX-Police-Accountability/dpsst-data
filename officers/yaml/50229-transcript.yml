@@ -49,6 +49,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2023
+  course: TRN0799A
+  title: Critical Incidents-TIC
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2023
+  course: TRN1467A
+  title: Krav Maga Def Tactics v2022c
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/11/2023
+  course: TRN3824A
+  title: Use of Force Report Writing v2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/11/2023
+  course: TRN3361A
+  title: Use of Force Emergency Protocols v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/21/2023
   course: TRN02070
   title: AICs with Disabilities-Access and Provisions v2023
@@ -1006,26 +1030,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 10/31/2022
   expiration_date: 10/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 10/31/2022
-  expiration_date: 10/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/27/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/27/2009

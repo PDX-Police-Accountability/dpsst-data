@@ -57,6 +57,12 @@ certification_records:
   expiration_date: 1/4/2027
   probation_date: ''
 training_records:
+- date: 5/16/2023
+  course: PDP1689A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/16/2023
   course: PDP38288
   title: 2023 Microsoft PowerPoint Online Recorded Training

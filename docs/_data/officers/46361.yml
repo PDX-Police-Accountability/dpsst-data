@@ -17,6 +17,36 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/31/2023
+  course: PDP1548A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/25/2023
+  course: PDP1329A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/22/2023
+  course: PDP3619A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/8/2023
+  course: PDP2708A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/19/2023
+  course: PDP2936A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/4/2023
   course: PDP27317
   title: CPR/First Aid

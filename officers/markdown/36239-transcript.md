@@ -24,14 +24,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 12/13/2011 |  |
 | Code of Ethics | Signed | 12/13/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,7 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
+| 5/24/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/10/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/3/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/19/2023 | SMP03607 | IABTI - Oregon Spring Regional Training | Passed | 0.0 | 8.00 |
+| 4/19/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/23/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

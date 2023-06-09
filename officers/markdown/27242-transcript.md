@@ -34,14 +34,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/8/2023 | 3/8/2025 |
-| Certification Cards | First Aid and CPR | 3/8/2023 | 3/8/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 10/10/2007 |  |
 | Code of Ethics | Signed | 10/10/2007 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -51,7 +46,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/16/2023 | SPP0356A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
+| 5/8/2023 | SPP4185A | EVOC - Annual PIT  Control Tactics | Passed | 0.0 | 2.00 |
+| 5/1/2023 | SPP3954A | Prison Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 4/27/2023 | F1533463 | Lessons in Defensive Management | Passed | 0.0 | 2.00 |
+| 4/27/2023 | F1521282 | Real Life Lessons in Defensive Mgmt | Passed | 0.0 | 2.00 |
 | 4/7/2023 | OAC15420 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/5/2023 | OAC24572 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |
 | 3/8/2023 | SPP25625 | First Aid/CPR/AED | Passed | 0.0 | 4.00 |

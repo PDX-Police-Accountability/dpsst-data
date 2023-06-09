@@ -21,12 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
-| Certification Cards | First Aid and CPR | 4/19/2023 | 4/19/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 7/15/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -34,6 +30,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2023 | PDP2174A | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
+| 4/19/2023 | PDP2936A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/14/2023 | PDP1768 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 4/13/2023 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 4/12/2023 | PDP3133 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

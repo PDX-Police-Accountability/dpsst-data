@@ -22,14 +22,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/10/2023 | 5/10/2025 |
-| Certification Cards | First Aid and CPR | 5/10/2023 | 5/10/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/17/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 8/17/2018 |  |
-| Code of Ethics | Signed | 8/17/2017 |  |
 | Code of Ethics | Signed | 8/17/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2023 | PDP1627A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/16/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/5/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/1/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

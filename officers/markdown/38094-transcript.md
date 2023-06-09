@@ -5,13 +5,14 @@
 | dpsst_identifier | 38094 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Sergeant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/11/2023 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 7/26/2003 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
 | 1/13/2003 | Portland Police Bureau | Mil-LOA | Police Off |  |  |
 | 1/9/2003 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,22 +21,17 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/15/2020 | Corrections Officer | Basic | Expired | 7/12/2000 |  |  |
 | 2/13/2012 | Police Officer | Advanced | Granted | 2/13/2012 |  |  |
 | 2/13/2012 | Police Officer | Intermediate | Granted | 2/13/2012 |  |  |
 | 9/14/2004 | Police Officer | Basic | Granted | 9/14/2004 |  |  |
-| 4/8/2003 | Corrections Officer | Basic | Lapsed | 7/12/2000 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/9/2021 | 6/9/2023 |
-| Certification Cards | First Aid and CPR | 6/9/2021 | 6/9/2023 |
-| Code of Ethics | Signed | 9/29/2003 |  |
 | Code of Ethics | Signed | 9/29/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

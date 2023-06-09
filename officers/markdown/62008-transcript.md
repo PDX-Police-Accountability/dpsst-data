@@ -21,16 +21,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/20/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 9/20/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
-| Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 | Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/26/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/24/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/24/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

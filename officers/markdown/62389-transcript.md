@@ -21,10 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/2/2023 | 6/2/2025 |
-| Certification Cards | First Aid and CPR | 6/2/2023 | 6/2/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 | Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -33,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/2/2023 | PDP3365A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/14/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/14/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/25/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -109,6 +107,7 @@
 | 4/8/2022 | PDP23369 | FTEP Pre-DPSST Firearms training | Passed | 0.0 | 7.00 |
 | 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 4/5/2022 | PDP28507 | FTEP pre-DPSST firearms | Passed | 0.0 | 7.00 |
+| 4/5/2022 | PDP4359A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 3/23/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/23/2022 | PDP18543 | 2021-4 City Attorney's Legal Updates April 2021 | Passed | 0.0 | 0.25 |
 | 3/23/2022 | PDP33002 | 2021-6 City Attorney's Legal Updates for June 2021 | Passed | 0.0 | 0.25 |

@@ -32,11 +32,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
-| Code of Ethics | Signed | 10/17/2003 |  |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,10 +41,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2023 | OCS0322 | May 2023 New Hire Firearms | Instructed | 0.0 | 20.00 |
+| 5/12/2023 | OCS3604 | Positional/Long Distance Multiple Target Shooting | Instructed | 0.0 | 5.00 |
+| 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
+| 4/20/2023 | OCS1278 | Annual Qualifications | Instructed | 0.0 | 84.00 |
 | 4/4/2023 | OCS00948 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
 | 3/30/2023 | OCS1754 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
+| 3/30/2023 | OCS1995 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
+| 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
+| 3/20/2023 | OCS1800 | Fundamentals of Marksmanship | Instructed | 0.0 | 52.00 |
 | 3/17/2023 | OCS1749 | Marksmanship / Shoot-No Shoot decisions | Instructed | 0.0 | 4.00 |
+| 3/17/2023 | OCS2368 | Marksmanship / Shoot-No Shoot decisions | Instructed | 0.0 | 4.00 |
 | 3/13/2023 | OCS38811 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 3/10/2023 | OCS02865 | Long Distance Marksmanship / OIS Debrief | Instructed | 0.0 | 4.00 |
 | 3/10/2023 | OCS0286 | Long Distance Marksmanship / OIS Debrief | Instructed | 0.0 | 4.00 |
@@ -134,6 +138,7 @@
 | 2/10/2022 | OCS34682 | Honor Guard Revolver 2022 | Instructed | 0.0 | 2.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/21/2022 | OCS0303A | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
+| 1/21/2022 | OCS0303 | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
 | 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
 | 1/20/2022 | OCS10098 | Use of Force decision making/problem solving | Instructed | 0.0 | 29.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |

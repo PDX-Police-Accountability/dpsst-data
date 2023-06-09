@@ -42,18 +42,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/31/2023
+  course: PDP1548A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/25/2023
   course: PDP13110
   title: 2023-1 Range Qualification CEW
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/24/2023
+  course: PDP3352A
+  title: 2023 FTEP Control Tactics Post Basic
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/20/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/20/2023
+  course: PDP4268A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 3/24/2023
   course: REG0348A
   title: DID/SFST (Hours included in Basic)
@@ -131,14 +149,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/31/2023
   expiration_date: 5/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/31/2023
-  expiration_date: 5/31/2025
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/12/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/12/2022

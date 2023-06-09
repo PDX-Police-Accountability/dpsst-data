@@ -36,12 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 3/13/2023
+  course: PDP0678A
+  title: 2023 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/11/2023
   course: PDP07729
   title: Pre Academy Firearms Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/8/2023
+  course: PDP3136A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 10/9/2011
   course: PDP06547
   title: ICS-100 Intro to the Incident Cmmnd System

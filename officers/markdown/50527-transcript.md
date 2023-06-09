@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/8/2023 | 4/8/2025 |
-| Certification Cards | First Aid and CPR | 4/8/2023 | 4/8/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/9/2021 | 6/9/2023 |
-| Certification Cards | First Aid and CPR | 6/9/2021 | 6/9/2023 |
-| Code of Ethics | Signed | 12/11/2009 |  |
 | Code of Ethics | Signed | 12/11/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2023 | PDP0171A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/27/2023 | PDP44405 | 2020 Managing Critical Incidents Well Sgts Role | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP37060 | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP41950 | HR Rule 2.02 Prohibition Against Wrkplc Harassment | Passed | 0.0 | 0.25 |

@@ -21,16 +21,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
 | Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
 | Certification Cards | First Aid and CPR | 6/4/2021 | 6/4/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/13/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 3/13/2019 |  |
-| Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/18/2018 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +34,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/18/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/4/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 4/20/2023 | PDP1249 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 4/13/2023 | PDP3754 | 2023 SERT Training - CLASSROOM | Passed | 0.0 | 4.00 |
 | 3/29/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

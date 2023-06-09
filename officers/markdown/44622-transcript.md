@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
-| Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
-| Code of Ethics | Signed | 1/23/2006 |  |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,8 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | OSH3440 | FA2- Rifle | Instructed | 0.0 | 8.00 |
 | 5/22/2023 | OSH3451A | Firearms FA2- Rifle | Instructed | 0.0 | 8.00 |
 | 5/10/2023 | OSH17016 | 2023 Active Threat IDC | Passed | 0.0 | 16.00 |
+| 5/3/2023 | OSH1647 | Firearms In-Service | Passed | 0.0 | 20.00 |
 | 4/28/2023 | OSH26274 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 4/28/2023 | OSH44417 | Shotgun Training | Passed | 0.0 | 1.00 |
 | 4/26/2023 | OSH27563 | Leadership / Patrol Tactics Instructor In-Service | Passed | 0.0 | 12.00 |

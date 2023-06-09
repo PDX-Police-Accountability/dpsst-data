@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | CPR | 5/26/2023 | 5/26/2025 |
-| Certification Cards | CPR | 5/26/2023 | 5/26/2025 |
-| Code of Ethics | Law Enforcement Signed | 3/4/2023 |  |
 | Code of Ethics | Law Enforcement Signed | 3/4/2023 |  |
 | Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
-| Certification Cards | First Aid | 1/28/2022 | 1/28/2024 |
-| Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/8/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,8 +39,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/26/2023 | HBS1763 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 3/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 3/11/2023 | PDP07729 | Pre Academy Firearms Training | Passed | 0.0 | 9.00 |
+| 3/8/2023 | PDP3136A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 18.00 |
 | 1/31/2023 | PDP07695 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/7/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/16/2022 | HBS22182 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |

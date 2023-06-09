@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
-| Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
-| Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2023 | WLP3706 | Patrol Tactics | Passed | 0.0 | 8.00 |
 | 4/17/2023 | OCS28332 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 4/1/2023 | WLP34960 | Stop Stick Refresher Training | Passed | 0.0 | 1.00 |
 | 3/1/2023 | WLP31427 | Safety Compass - Human Trafficking Awareness | Passed | 0.0 | 1.00 |

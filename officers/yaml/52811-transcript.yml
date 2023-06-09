@@ -57,12 +57,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/14/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/14/2023
+  course: PDS0194A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/19/2023
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/19/2023
+  course: PDS1979A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/18/2023
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/18/2023
+  course: PDS2430A
+  title: SWAT Practical
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/17/2023
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/17/2023
+  course: PDS2742A
+  title: SWAT Range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/26/2023
   course: PDS11600
   title: Range Training
   status: Instructed
   score: '0.0'
   hours: '5.00'
+- date: 4/21/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/21/2023
+  course: PDS1554A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/20/2023
   course: PDS19831
   title: SWAT Training
@@ -153,6 +213,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/24/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/24/2023
+  course: PDS0529A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/23/2023
   course: PDS38367
   title: SWAT practical training
@@ -171,6 +243,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 2/24/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/24/2023
+  course: PDS0457A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 2/22/2023
   course: PDS44317
   title: SWAT Firearms
@@ -225,6 +309,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/20/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/20/2023
+  course: PDS3154A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/19/2023
   course: PDS29975
   title: SWAT Practical Training
@@ -261,6 +357,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/16/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/16/2022
+  course: PDS1983A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/15/2022
   course: PDS41241
   title: SWAT
@@ -399,6 +507,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/23/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/23/2022
+  course: PDS2837A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/20/2022
   course: PDS37453
   title: Firearms Training
@@ -435,6 +555,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/19/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/19/2022
+  course: PDS4066A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/28/2022
   course: MISCMAIN
   title: 2022 LE Leadership 3 Year Maintenance
@@ -465,6 +597,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/15/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/15/2022
+  course: PDS4045A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/17/2022
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/17/2022
+  course: PDS4268A
+  title: SWAT Sniper Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/20/2022
   course: PDS37106
   title: 2022 Basic Sniper School
@@ -2094,26 +2250,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/6/2021
   expiration_date: 12/6/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/6/2021
-  expiration_date: 12/6/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/15/2012
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2012

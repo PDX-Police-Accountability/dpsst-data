@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
-| Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Signed | 4/12/2006 |  |
 | Code of Ethics | Signed | 4/12/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -53,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | SVP0825 | Basic Baton Training | Instructed | 0.0 | 1.50 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/10/2023 | BPT19183 | MILO / Range 3000 IDC | Passed | 0.0 | 7.00 |
 | 4/27/2023 | SVP02912 | ZOLL AED Training | Passed | 0.0 | 0.50 |

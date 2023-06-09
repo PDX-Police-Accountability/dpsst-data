@@ -21,8 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/30/2023 | 5/30/2025 |
-| Certification Cards | First Aid and CPR | 5/30/2023 | 5/30/2025 |
-| Code of Ethics | Law Enforcement Signed | 9/12/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 9/12/2022 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -31,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/30/2023 | PDP2370A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/6/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

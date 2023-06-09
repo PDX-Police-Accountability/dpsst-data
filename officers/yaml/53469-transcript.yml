@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/24/2023
+  course: OCS2909
+  title: Body Worn Cameras
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/21/2023
   course: OSA4123
   title: In-Custody Suicide Prevention
@@ -85,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/20/2023
+  course: OCS2647
+  title: Annual Qualifiation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/19/2023
   course: OSA2846A
   title: 1st Amendment / Managing Protests
@@ -130,6 +142,12 @@ training_records:
 - date: 3/20/2023
   course: OCS1390A
   title: Long Gun Retention and Strikes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/2023
+  course: OCS2503
+  title: Fundamentals of Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1800,14 +1818,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022
@@ -1816,14 +1826,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/22/2014
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/22/2014

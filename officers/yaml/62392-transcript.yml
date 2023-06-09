@@ -762,6 +762,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 4/5/2022
+  course: PDP4359A
+  title: CPR-First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/7/2022
   course: PDP30218
   title: 2021 Training New Pistol Qualification
@@ -779,14 +785,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/18/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/18/2022
-  expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/5/2022
-  expiration_date: 4/5/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/5/2022

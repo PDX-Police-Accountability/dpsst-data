@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/2/2023
+  course: PDP3365A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/14/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -486,6 +492,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 4/5/2022
+  course: PDP4359A
+  title: CPR-First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/23/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021
@@ -635,22 +647,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/2/2023
   expiration_date: 6/2/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/2/2023
-  expiration_date: 6/2/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/18/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/18/2022
-  expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/5/2022
-  expiration_date: 4/5/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/5/2022

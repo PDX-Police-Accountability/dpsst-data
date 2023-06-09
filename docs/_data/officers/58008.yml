@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/28/2023
+  course: GSP4238
+  title: UAS Ground School
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 3/30/2023
   course: PDP21637
   title: 2023-1 Range Qualification 40mm Less Lethal Qual
@@ -2058,14 +2064,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -2073,21 +2071,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/2/2021
   expiration_date: 6/2/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/2/2021
-  expiration_date: 6/2/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/30/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 10/30/2018
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 11/8/2017
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

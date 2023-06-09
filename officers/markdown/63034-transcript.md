@@ -21,8 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/5/2023 | 5/5/2025 |
-| Certification Cards | First Aid and CPR | 5/5/2023 | 5/5/2025 |
-| Code of Ethics | Law Enforcement Signed | 10/10/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 10/10/2022 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -31,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/7/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/5/2023 | PDP0557 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2023 | PDP40178 | 2023 Microsoft Teams Recorded Training | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
@@ -99,11 +98,11 @@
 | 2/21/2023 | PDP11304 | Post Academy Firearms Training | Passed | 0.0 | 3.00 |
 | 2/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/20/2023 | PDP04875 | Post Academy Firearms Training | Passed | 0.0 | 8.00 |
+| 2/17/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 2/10/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 1/27/2023 | REG18683 | SFST/DID | Passed | 0.0 | 24.00 |
 | 1/23/2023 | BPT08559 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 12/15/2022 | REG06452 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
-| 10/10/2022 | M10-22A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/5/2022 | PDP11528 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 10/5/2022 | PDP27269 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 10/5/2022 | PDP00791 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

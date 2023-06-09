@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Certification Cards | First Aid and CPR | 6/19/2021 | 6/19/2023 |
-| Code of Ethics | Signed | 3/22/2010 |  |
 | Code of Ethics | Signed | 3/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | VND2228A | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 4/10/2023 | F1513162 | Bloodborne Pathogens for LE | Passed | 0.0 | 0.75 |
 | 4/10/2023 | F1508800 | Drug-Free Workplace | Passed | 0.0 | 0.75 |
 | 4/10/2023 | F1537198 | Harassment Prevention - Employees | Passed | 0.0 | 1.00 |

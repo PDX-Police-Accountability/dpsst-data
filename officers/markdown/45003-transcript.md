@@ -30,12 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 3/30/2022 | 3/30/2024 |
-| Certification Cards | First Aid and CPR | 3/30/2022 | 3/30/2024 |
-| Code of Ethics | Signed | 8/15/2006 |  |
 | Code of Ethics | Signed | 8/15/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 4/19/2023 | HBP18467 | DV Update, Strangulation, and Death Investigation | Instructed | 0.0 | 2.00 |
 | 4/19/2023 | HBP37844 | Karly's Law, Jessica's Law, Juvenile Update | Passed | 0.0 | 2.00 |

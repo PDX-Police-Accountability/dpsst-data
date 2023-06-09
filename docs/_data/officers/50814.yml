@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2023
+  course: BPT2275A
+  title: Northwest Regional CIT Conference-Day 1
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 5/11/2023
+  course: PDP1919A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/20/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -158,6 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/9/2023
+  course: PDP3975A
+  title: Juvenile Subjects in the Planning Stages
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 12/19/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -350,6 +368,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 8/12/2022
+  course: PDP3513A
+  title: 2023 External Training Threat Mgmnt Conference
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 8/2/2022
   course: PDP38585
   title: AXON CEW Annual Update
@@ -4111,18 +4135,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/11/2023
   expiration_date: 5/11/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/11/2023
-  expiration_date: 5/11/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
@@ -4135,14 +4147,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/23/2021
   expiration_date: 6/23/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/23/2021
-  expiration_date: 6/23/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/21/2009
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/21/2009

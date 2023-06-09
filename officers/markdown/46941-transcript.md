@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
-| Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
-| Code of Ethics | Signed | 8/15/2006 |  |
 | Code of Ethics | Signed | 8/15/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 5/10/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 5/3/2023 | PDP1232A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/19/2023 | GSP30972 | 2023 OPCA Spring Conference - Patrol | Passed | 0.0 | 24.00 |
 | 4/14/2023 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/21/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

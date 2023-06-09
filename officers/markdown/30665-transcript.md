@@ -22,6 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/7/2023 | Police Officer | Management | App InProc |  |  |  |
 | 12/9/2015 | Police Officer | Supervisory | Granted | 12/9/2015 |  |  |
 | 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
 | 8/4/1999 | Police Officer | Intermediate | Granted | 8/4/1999 |  |  |
@@ -30,14 +31,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/16/2021 | 6/16/2023 |
-| Certification Cards | First Aid and CPR | 6/16/2021 | 6/16/2023 |
-| Code of Ethics | Signed | 11/22/2010 |  |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2023 | CVS16845 | USFA O305: All Hazard IMT Type 3 Course | Passed | 0.0 | 40.00 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

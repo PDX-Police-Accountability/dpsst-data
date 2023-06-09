@@ -28,4 +28,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 4/17/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 4/17/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
+| 4/7/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 28.00 |
+| 4/6/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 5.00 |

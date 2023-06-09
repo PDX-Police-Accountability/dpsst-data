@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
 | Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
-| Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
-| Code of Ethics | Signed | 12/20/2002 |  |
 | Code of Ethics | Signed | 12/20/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2023 | LOP0809 | Protection Orders | Passed | 0.0 | 0.25 |
 | 4/3/2023 | LOP28849 | Forcible Entry Training | Passed | 0.0 | 1.00 |
 | 3/29/2023 | LOP20623 | Ethics and Leadership | Passed | 0.0 | 3.00 |
 | 3/29/2023 | LOP03234 | Ethics and Leadership | Passed | 0.0 | 15.00 |

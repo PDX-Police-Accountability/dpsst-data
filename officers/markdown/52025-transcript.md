@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/31/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 8/4/2011 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
@@ -23,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
-| Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 8/25/2011 |  |
 | Code of Ethics | Signed | 8/25/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,7 +34,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
+| 5/24/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/17/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/10/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/3/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/3/2023 | PDP4452 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/26/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/19/2023 | SMP03607 | IABTI - Oregon Spring Regional Training | Instructed | 0.0 | 8.00 |
+| 4/19/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/25/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/25/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 10/8/2001 |  |
 | Code of Ethics | Signed | 10/8/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2023 | PDP2655A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/31/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
@@ -400,7 +396,7 @@
 | 1/7/2019 | PDP15018 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 1/3/2019 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2018 | PDP09911 | 2018 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
-| 12/6/2018 | PDP39394 | Advanced Roadside Impairment Driving (ARIDE) | Instructed | 0.0 | 16.00 |
+| 12/6/2018 | PDP39394 | Advanced Roadside Impaired Driving (ARIDE) | Instructed | 0.0 | 16.00 |
 | 12/3/2018 | PDP12831 | Intoxylizer 8000 Instructor Certification | Passed | 0.0 | 6.00 |
 | 11/29/2018 | PDP28385 | 2018-3 In-Service CEW Skills | Passed | 0.0 | 2.00 |
 | 11/29/2018 | PDP24157 | 2018-3 In-Service Control Tactics | Passed | 0.0 | 2.00 |

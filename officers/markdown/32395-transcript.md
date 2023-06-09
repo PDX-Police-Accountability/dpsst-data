@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/9/2022 | 5/9/2024 |
 | Certification Cards | First Aid and CPR | 5/9/2022 | 5/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 7/3/2002 |  |
 | Code of Ethics | Signed | 7/3/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,12 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | PPP2006A | Range | Passed | 0.0 | 4.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PPP27442 | Firearms Qualification | Passed | 0.0 | 1.00 |
 | 3/23/2023 | PPP36554 | Range | Passed | 0.0 | 2.00 |
 | 1/24/2023 | PPP31877 | Annual Firearms Qualifications and Training | Passed | 0.0 | 4.00 |
 | 12/31/2022 | PPP35492 | Emotional Intelligence | Passed | 0.0 | 2.00 |
 | 10/31/2022 | PPP25478 | Active Shooter Phases and Prevention | Passed | 0.0 | 1.00 |
+| 10/31/2022 | PPP4265A | Use of Force Situations | Passed | 0.0 | 1.00 |
 | 10/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/11/2022 | PPP23151 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 9/30/2022 | PPP19987 | Duty to Intervene | Passed | 0.0 | 1.00 |

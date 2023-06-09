@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
-| Code of Ethics | Signed | 10/15/2012 |  |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,7 +38,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/14/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 10/14/2023 | PDS0194A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 5/19/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 5/19/2023 | PDS1979A | SWAT Sniper Training | Passed | 0.0 | 8.00 |
+| 5/18/2023 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 5/18/2023 | PDS2430A | SWAT Practical | Passed | 0.0 | 8.00 |
+| 5/17/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 5/17/2023 | PDS2742A | SWAT Range | Passed | 0.0 | 8.00 |
 | 4/26/2023 | PDS11600 | Range Training | Instructed | 0.0 | 5.00 |
+| 4/21/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 4/21/2023 | PDS1554A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 4/20/2023 | PDS19831 | SWAT Training | Passed | 0.0 | 8.00 |
 | 4/19/2023 | PDS00482 | SWAT Range | Passed | 0.0 | 8.00 |
 | 4/19/2023 | PDS43172 | Firearms Training | Instructed | 0.0 | 5.00 |
@@ -58,9 +64,13 @@
 | 4/7/2023 | PDS25163 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 4/5/2023 | PDS00726 | SWAT Firearms Training | Passed | 0.0 | 8.00 |
 | 4/5/2023 | PDS08108 | Sergeant Leadership Training | Passed | 0.0 | 4.00 |
+| 3/24/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 3/24/2023 | PDS0529A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 3/23/2023 | PDS38367 | SWAT practical training | Passed | 0.0 | 4.00 |
 | 3/15/2023 | PDS04555 | Firearms Training | Instructed | 0.0 | 5.00 |
 | 2/28/2023 | PDS13997 | Firearms Instructor Development Course | Passed | 0.0 | 5.00 |
+| 2/24/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 2/24/2023 | PDS0457A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 2/22/2023 | PDS44317 | SWAT Firearms | Passed | 0.0 | 8.00 |
 | 2/13/2023 | PDS22205 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/13/2023 | PDS33308 | TacMed | Passed | 0.0 | 4.00 |
@@ -70,12 +80,16 @@
 | 2/3/2023 | PDS27455 | Rifle Qualifications | Passed | 0.0 | 4.00 |
 | 1/30/2023 | PDS23369 | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 1/27/2023 | REG06778 | C4C/PJJ/IFWA | Passed | 0.0 | 6.00 |
+| 1/20/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 1/20/2023 | PDS3154A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 1/19/2023 | PDS29975 | SWAT Practical Training | Passed | 0.0 | 8.00 |
 | 1/16/2023 | PDS33713 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/12/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/9/2023 | PDS07189 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/3/2023 | PDS08755 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 12/31/2022 | PDS37218 | Stops and Searches | Passed | 0.0 | 0.50 |
+| 12/16/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 12/16/2022 | PDS1983A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 12/15/2022 | PDS41241 | SWAT | Passed | 0.0 | 8.00 |
 | 12/14/2022 | PDS15045 | SWAT | Passed | 0.0 | 8.00 |
 | 12/12/2022 | PDS22837 | Defensive Tactics | Instructed | 0.0 | 8.00 |
@@ -99,17 +113,25 @@
 | 10/3/2022 | PDS32844 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 10/3/2022 | PDS31090 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/23/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 9/23/2022 | PDS2837A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 9/20/2022 | PDS37453 | Firearms Training | Instructed | 0.0 | 3.00 |
 | 9/20/2022 | PDS16719 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 9/6/2022 | PDS28173 | Range Qualification | Instructed | 0.0 | 2.00 |
 | 9/6/2022 | PDS09283 | Firearms Training | Instructed | 0.0 | 6.00 |
 | 8/31/2022 | PDS13390 | Firearms IDC | Passed | 0.0 | 6.00 |
 | 8/31/2022 | PDS19956 | Range Qualification | Passed | 0.0 | 2.00 |
+| 8/19/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 8/19/2022 | PDS4066A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 7/28/2022 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 7/28/2022 | SMS22986 | IALEFI- Master Instructor Development Program | Passed | 0.0 | 24.00 |
 | 7/22/2022 | PDS03881 | Fentanyl | Passed | 0.0 | 1.50 |
 | 7/22/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 7/20/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
+| 7/15/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 7/15/2022 | PDS4045A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 6/17/2022 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
+| 6/17/2022 | PDS4268A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 5/20/2022 | PDS37106 | 2022 Basic Sniper School | Passed | 0.0 | 40.00 |
 | 5/5/2022 | PDS03966 | Use of Force for Supervisors | Passed | 0.0 | 4.00 |
 | 5/3/2022 | PDS17154 | CIT | Passed | 0.0 | 4.00 |

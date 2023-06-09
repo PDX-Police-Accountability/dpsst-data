@@ -67,6 +67,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/28/2023
+  course: TRN2374A
+  title: 2023 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/28/2023
+  course: TRN2653A
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/28/2023
+  course: TRN1317A
+  title: Bloodborne Pathogens - Protect Yourself v2021
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2023
+  course: TRN3017A
+  title: CCCF Fire Suppression Training v2023a
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2023
+  course: TRN0532A
+  title: Equity Informed Restorative Justice
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2023
+  course: TRN1555A
+  title: PREA Refresher v2023
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/28/2023
+  course: TRN2520A
+  title: Use of Force Documentation and Reviews v2022
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/28/2023
+  course: TRN2933A
+  title: Protection from Ambient Heat v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/28/2023
+  course: TRN1465A
+  title: Use of Force Overview of Rules v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/28/2023
+  course: TRN2360A
+  title: Wellness-Mind and Inspiration v2021
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -882,14 +942,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/13/2023
-  expiration_date: 2/28/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/13/2023
@@ -898,22 +950,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/14/2022
   expiration_date: 2/28/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/14/2022
-  expiration_date: 2/28/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 7/28/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/28/2000

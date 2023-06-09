@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/12/2023 | 5/12/2025 |
-| Certification Cards | First Aid and CPR | 5/12/2023 | 5/12/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/21/2021 | 6/22/2023 |
-| Certification Cards | First Aid and CPR | 6/21/2021 | 6/22/2023 |
-| Code of Ethics | Signed | 1/31/2001 |  |
 | Code of Ethics | Signed | 1/31/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | HDA0288 | Tri-State Narcotics Supervisors/Commanders Summit | Passed | 0.0 | 16.00 |
+| 5/12/2023 | PDP0866A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/26/2023 | PDP1321A | 2023 External Training WSNIA Training Summit | Passed | 0.0 | 16.00 |
 | 3/28/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

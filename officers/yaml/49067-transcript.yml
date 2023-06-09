@@ -62,6 +62,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/24/2023
+  course: OCS2909
+  title: Body Worn Cameras
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/20/2023
+  course: OCS2647
+  title: Annual Qualifiation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/19/2023
   course: OCS26825
   title: FTO meeting april
@@ -71,6 +83,12 @@ training_records:
 - date: 3/20/2023
   course: OCS1390A
   title: Long Gun Retention and Strikes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/2023
+  course: OCS2503
+  title: Fundamentals of Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1636,7 +1654,7 @@ training_records:
   hours: '4.00'
 - date: 12/6/2018
   course: PDP39394
-  title: Advanced Roadside Impairment Driving (ARIDE)
+  title: Advanced Roadside Impaired Driving (ARIDE)
   status: Instructed
   score: '0.0'
   hours: '16.00'
@@ -3577,14 +3595,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022
@@ -3593,14 +3603,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 3/6/2008
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/6/2008

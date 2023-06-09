@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/28/2023
+  course: 23-0026
+  title: DPSST Middle Management
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 4/14/2023
   course: MISCMAIN
   title: 2022 LE Leadership 3 Year Maintenance
@@ -99,12 +105,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/20/2023
-  course: 23-0026
-  title: DPSST Middle Management
-  status: Registered
-  score: '0.0'
-  hours: '80.00'
 - date: 3/16/2023
   course: PDP12472
   title: 2023 Police SharePoint Governance
@@ -4316,10 +4316,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/2/2023
   expiration_date: 5/2/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/2/2023
-  expiration_date: 5/2/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4328,18 +4324,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/12/2004
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/12/2004

@@ -24,16 +24,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
-| Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
 | Certification Cards | First Aid and CPR | 6/28/2021 | 6/28/2023 |
 | Code of Ethics | Signed | 4/24/2014 |  |
-| Code of Ethics | Signed | 4/24/2014 |  |
-| Code of Ethics | Signed | 11/13/2012 |  |
 | Code of Ethics | Signed | 11/13/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,8 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | PDP4037 | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 5/7/2023 | PDP36458 | 2023-1 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 60.00 |
 | 5/5/2023 | PDP05784 | 2023-1 Range Qualification AR-15 Qual (20yd) | Passed | 0.0 | 0.50 |
+| 4/7/2023 | PDP0863A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2023 | PDP16665 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 3/30/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

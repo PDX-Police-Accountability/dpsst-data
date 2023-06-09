@@ -26,11 +26,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
-| Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
-| Code of Ethics | Signed | 2/27/2009 |  |
 | Code of Ethics | Signed | 2/27/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2023 | TRN0799A | Critical Incidents-TIC | Passed | 0.0 | 1.00 |
+| 4/11/2023 | TRN1467A | Krav Maga Def Tactics v2022c | Passed | 0.0 | 2.00 |
+| 4/11/2023 | TRN3824A | Use of Force Report Writing v2023 | Passed | 0.0 | 3.00 |
+| 4/11/2023 | TRN3361A | Use of Force Emergency Protocols v2023 | Passed | 0.0 | 2.00 |
 | 3/21/2023 | TRN02070 | AICs with Disabilities-Access and Provisions v2023 | Passed | 0.0 | 1.00 |
 | 3/21/2023 | TRN22446 | Airway and Circulatory Anatomy Training (ACAP) | Passed | 0.0 | 2.00 |
 | 3/21/2023 | TRN13747 | DOC - Use of Force Overview of Rules v2023 | Passed | 0.0 | 2.00 |

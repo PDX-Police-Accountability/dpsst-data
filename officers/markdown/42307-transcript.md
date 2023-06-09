@@ -23,12 +23,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/12/2002 |  |
 | Code of Ethics | Signed | 9/12/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2023 | PDP2655A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/27/2023 | EGP42322 | Police Motorcycle Trng, Braking / Cornering | Instructed | 0.0 | 6.00 |
 | 3/16/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/16/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
@@ -401,7 +398,7 @@
 | 1/6/2019 | PDP42201 | 2019 Training Range Qualification System Update | Passed | 0.0 | 0.25 |
 | 12/26/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/26/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
-| 12/6/2018 | PDP39394 | Advanced Roadside Impairment Driving (ARIDE) | Instructed | 0.0 | 16.00 |
+| 12/6/2018 | PDP39394 | Advanced Roadside Impaired Driving (ARIDE) | Instructed | 0.0 | 16.00 |
 | 12/3/2018 | PDP12831 | Intoxylizer 8000 Instructor Certification | Passed | 0.0 | 6.00 |
 | 11/27/2018 | PDP28385 | 2018-3 In-Service CEW Skills | Passed | 0.0 | 2.00 |
 | 11/27/2018 | PDP24157 | 2018-3 In-Service Control Tactics | Passed | 0.0 | 2.00 |

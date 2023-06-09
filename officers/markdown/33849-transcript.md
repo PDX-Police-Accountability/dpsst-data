@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Certification Cards | First Aid and CPR | 6/2/2021 | 6/2/2023 |
-| Code of Ethics | Signed | 6/11/2003 |  |
 | Code of Ethics | Signed | 6/11/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
+| 4/20/2023 | PDP0178A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
@@ -361,7 +358,7 @@
 | 12/12/2018 | PDP01810 | 2018-3 In-Service Procedural Justice | Passed | 0.0 | 4.00 |
 | 12/7/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/7/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
-| 12/6/2018 | PDP39394 | Advanced Roadside Impairment Driving (ARIDE) | Instructed | 0.0 | 16.00 |
+| 12/6/2018 | PDP39394 | Advanced Roadside Impaired Driving (ARIDE) | Instructed | 0.0 | 16.00 |
 | 11/7/2018 | PDP09911 | 2018 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
 | 10/16/2018 | PDP21493 | 2018-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/16/2018 | PDP02546 | 2018-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

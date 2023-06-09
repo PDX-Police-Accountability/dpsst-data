@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/31/2023
+  course: PDP1548A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/18/2023
   course: PDP26192
   title: 2022 Post Shooting Response
@@ -438,6 +444,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/17/2023
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 2/9/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -462,12 +474,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 10/10/2022
-  course: M10-22A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '640.00'
 - date: 10/6/2022
   course: PDP11528
   title: ICS-100 Intro to the Incident Cmmnd System
@@ -533,14 +539,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/31/2023
   expiration_date: 5/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/31/2023
-  expiration_date: 5/31/2025
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 10/10/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/10/2022

@@ -63,6 +63,60 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/30/2023
+  course: PDP2370A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/26/2023
+  course: PDP3879A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/23/2023
+  course: PDP2999A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/22/2023
+  course: PDP3536A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/19/2023
+  course: PDP0150A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/18/2023
+  course: PDP3706A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/17/2023
+  course: PDP3627A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/15/2023
+  course: PDP2655A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 5/2/2023
+  course: PDP4462A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/16/2023
   course: PDP30621
   title: CPR/First Aid
@@ -3626,14 +3680,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/2/2023
   expiration_date: 5/2/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/2/2023
-  expiration_date: 5/2/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -3642,22 +3688,10 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/1/2021
   expiration_date: 6/1/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 1/15/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/15/2002

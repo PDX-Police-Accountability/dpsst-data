@@ -24,14 +24,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
-| Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
-| Code of Ethics | Signed | 1/15/2002 |  |
 | Code of Ethics | Signed | 1/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP15461 | 2023-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

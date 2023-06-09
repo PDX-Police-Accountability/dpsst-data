@@ -21,12 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Code of Ethics | Law Enforcement Signed | 9/7/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 9/7/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
-| Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 | Certification Cards | First Aid and CPR | 7/27/2021 | 7/27/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -34,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/12/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/12/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

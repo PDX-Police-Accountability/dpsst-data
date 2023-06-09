@@ -36,12 +36,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/24/2023
+  course: PDP3352A
+  title: 2023 FTEP Control Tactics Post Basic
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/20/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/20/2023
+  course: PDP4268A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 3/26/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording
@@ -139,10 +151,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/12/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/12/2022

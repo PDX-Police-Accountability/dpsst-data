@@ -24,15 +24,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
 | Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
 | Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/13/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/6/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/6/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2023 | WGP1788 | Use of Force Bulletin | Passed | 0.0 | 1.00 |
 | 5/2/2023 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 4/17/2023 | HSU30108 | Perspectives of Social Work | Passed | 0.0 | 3.00 |
 | 4/17/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |

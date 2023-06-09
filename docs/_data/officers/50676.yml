@@ -36,6 +36,12 @@ certification_records:
   expiration_date: 6/26/2025
   probation_date: ''
 training_records:
+- date: 5/13/2023
+  course: PDP2146A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/25/2023
   course: PDP13110
   title: 2023-1 Range Qualification CEW

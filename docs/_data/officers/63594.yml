@@ -60,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/7/2023
+  course: PDP0094A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 4/6/2023
+  course: PDP0678A
+  title: 2023 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 3/16/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

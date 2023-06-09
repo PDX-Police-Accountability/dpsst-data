@@ -30,8 +30,10 @@
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/15/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 5/11/2023 | PDP0627 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
+| 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 27.00 |
 | 5/2/2023 | PDP2648 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 5/2/2023 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

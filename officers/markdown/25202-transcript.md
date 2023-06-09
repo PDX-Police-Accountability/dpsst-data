@@ -30,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/17/2023 | PDS1250 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
+| 5/17/2023 | PDS0051A | Reserve Deputy Unit Training | Passed | 0.0 | 2.00 |
 | 4/19/2023 | PDS08325 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 3/8/2023 | PDS11734 | Policy Update / Use of Force Review | Passed | 0.0 | 2.00 |
 | 2/18/2023 | PDS00756 | TacMed | Passed | 0.0 | 4.00 |

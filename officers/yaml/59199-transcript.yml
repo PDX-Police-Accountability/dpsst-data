@@ -55,6 +55,84 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 5/16/2023
+  course: ALS1189A
+  title: K-9 Operations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: ALS3861A
+  title: Active Shooter 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: ALS3253A
+  title: Active Shooter 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: ALS3825A
+  title: Active Shooter 3
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: ALS2496A
+  title: Active Shooter 4
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: ALS3133A
+  title: Controlling the Situation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/10/2023
+  course: ALS1933A
+  title: Current Drug Trends
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/10/2023
+  course: ALS3195A
+  title: Gangs 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/10/2023
+  course: ALS3351A
+  title: Gangs 3
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/9/2023
+  course: ALS1212A
+  title: Gangs 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/9/2023
+  course: ALS3258A
+  title: ICS-800
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/9/2023
+  course: ALS4282A
+  title: Missing and Exploited Children
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/25/2023
+  course: ALS2485
+  title: Range Day Handgun Duty
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/21/2023
   course: ALS10344
   title: In-Service Legal Updates
@@ -1194,14 +1272,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/16/2023
   expiration_date: 2/16/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/16/2023
-  expiration_date: 2/16/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -1210,21 +1280,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/31/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/31/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/24/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

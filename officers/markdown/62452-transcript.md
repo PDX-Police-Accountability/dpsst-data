@@ -21,10 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
-| Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
-| Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 | Certification Cards | First Aid and CPR | 4/5/2022 | 4/5/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -33,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/7/2023 | PDP0863A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/22/2023 | PDP40178 | 2023 Microsoft Teams Recorded Training | Passed | 0.0 | 1.00 |
@@ -112,6 +110,7 @@
 | 4/7/2022 | PDP07839 | FTEP Policy and Procedure | Passed | 0.0 | 7.00 |
 | 4/5/2022 | PDP28507 | FTEP pre-DPSST firearms | Passed | 0.0 | 7.00 |
 | 4/5/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 4/5/2022 | PDP4359A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 4/3/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/3/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/3/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |

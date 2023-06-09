@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 9/6/2000 |  |
 | Code of Ethics | Signed | 9/6/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
+| 5/24/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/17/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/10/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/3/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 4/26/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 4/19/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/30/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/30/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -116,6 +119,7 @@
 | 7/19/2022 | PDP05316 | 2022-7 Executive Order: Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 7/6/2022 | PDP38709 | EDU Weekly-Robot Support for SERT | Instructed | 0.0 | 9.00 |
 | 6/29/2022 | PDP03292 | EDU weekly pipe bombs, RSP, ICOR Breaching, etc. | Instructed | 0.0 | 9.00 |
+| 6/17/2022 | SMP1624 | Bomb Squad Monthly Training | Instructed | 0.0 | 20.00 |
 | 6/15/2022 | PDP00617 | EDU Weekly- Maritime Operations for Bomb Techs | Instructed | 0.0 | 9.00 |
 | 6/10/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/8/2022 | PDP40534 | Weekly EDU Training-JCEM Course | Passed | 0.0 | 9.00 |

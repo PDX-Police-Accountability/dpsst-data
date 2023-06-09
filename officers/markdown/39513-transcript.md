@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/24/2023 | 5/24/2025 |
-| Certification Cards | First Aid and CPR | 5/24/2023 | 5/24/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/26/2021 | 6/26/2023 |
-| Certification Cards | First Aid and CPR | 6/26/2021 | 6/26/2023 |
-| Code of Ethics | Signed | 2/3/2005 |  |
 | Code of Ethics | Signed | 2/3/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2023 | PDP4062A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/4/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 4/27/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 4/20/2023 | PDP1249 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 3/18/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

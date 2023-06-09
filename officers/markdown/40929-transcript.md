@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Certification Cards | First Aid and CPR | 7/21/2021 | 7/21/2023 |
-| Code of Ethics | Signed | 1/17/2003 |  |
 | Code of Ethics | Signed | 1/17/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,8 +37,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 18.00 |
+| 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/14/2023 | HSU3510 | RDS Prep Course | Instructed | 0.0 | 2.00 |
+| 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 18.00 |
+| 5/4/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 27.00 |
 | 4/22/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |
+| 4/20/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 12.00 |
 | 4/16/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |
 | 4/8/2023 | HSU0298 | Spring 2023 In Service Firearms- Instructors | Instructed | 0.0 | 5.00 |
 | 3/27/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

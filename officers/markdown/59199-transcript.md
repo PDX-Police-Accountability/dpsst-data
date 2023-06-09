@@ -26,14 +26,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/16/2023 | 2/16/2025 |
-| Certification Cards | First Aid and CPR | 2/16/2023 | 2/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 4/24/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 4/24/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2023 | ALS1189A | K-9 Operations | Passed | 0.0 | 1.00 |
+| 5/15/2023 | ALS3861A | Active Shooter 1 | Passed | 0.0 | 1.00 |
+| 5/15/2023 | ALS3253A | Active Shooter 2 | Passed | 0.0 | 1.00 |
+| 5/15/2023 | ALS3825A | Active Shooter 3 | Passed | 0.0 | 1.00 |
+| 5/15/2023 | ALS2496A | Active Shooter 4 | Passed | 0.0 | 1.00 |
+| 5/15/2023 | ALS3133A | Controlling the Situation | Passed | 0.0 | 1.00 |
+| 5/10/2023 | ALS1933A | Current Drug Trends | Passed | 0.0 | 2.00 |
+| 5/10/2023 | ALS3195A | Gangs 2 | Passed | 0.0 | 1.00 |
+| 5/10/2023 | ALS3351A | Gangs 3 | Passed | 0.0 | 1.00 |
+| 5/9/2023 | ALS1212A | Gangs 1 | Passed | 0.0 | 1.00 |
+| 5/9/2023 | ALS3258A | ICS-800 | Passed | 0.0 | 3.00 |
+| 5/9/2023 | ALS4282A | Missing and Exploited Children | Passed | 0.0 | 4.00 |
+| 4/25/2023 | ALS2485 | Range Day Handgun Duty | Passed | 0.0 | 0.50 |
 | 2/21/2023 | ALS10344 | In-Service Legal Updates | Passed | 0.0 | 4.00 |
 | 2/16/2023 | ALS28253 | New Hire Handgun/Rifle Training | Passed | 0.0 | 2.00 |
 | 2/16/2023 | ALS29343 | Red Dot Training | Passed | 0.0 | 4.00 |

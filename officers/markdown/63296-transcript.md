@@ -21,7 +21,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -30,7 +29,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 4/24/2023 | PDP3352A | 2023 FTEP Control Tactics Post Basic | Passed | 0.0 | 2.00 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/20/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 12.00 |
 | 3/26/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/24/2023 | REG0348A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 3/21/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

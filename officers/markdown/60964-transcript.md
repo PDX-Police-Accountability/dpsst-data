@@ -23,16 +23,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Law Enforcement Signed | 2/3/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 2/3/2021 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/8/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 12/8/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | PDP3564A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
+| 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/5/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/5/2023 | PDP15461 | 2023-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 4/5/2023 | PDP23052 | 2023-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

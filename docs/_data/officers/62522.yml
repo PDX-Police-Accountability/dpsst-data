@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/19/2023
+  course: PDP0150A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/16/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -618,6 +624,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 4/5/2022
+  course: PDP4359A
+  title: CPR-First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/15/2022
   course: PDP22752
   title: DOJ Settlement Agreement
@@ -629,22 +641,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/19/2023
   expiration_date: 5/19/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/19/2023
-  expiration_date: 5/19/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/18/2022
   expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/18/2022
-  expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/5/2022
-  expiration_date: 4/5/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/5/2022

@@ -25,12 +25,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/29/2006 |  |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,8 +38,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
+| 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
+| 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
 | 4/19/2023 | OCS26825 | FTO meeting april | Passed | 0.0 | 2.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
+| 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
@@ -81,6 +80,7 @@
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/21/2022 | OCS0303A | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
+| 1/21/2022 | OCS0303 | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
 | 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
 | 12/30/2021 | OCS33256 | Taser 7 | Passed | 0.0 | 1.00 |
@@ -285,7 +285,7 @@
 | 12/17/2018 | PDP36060 | 2018-3 In-Service Legal Updates | Passed | 0.0 | 1.00 |
 | 12/17/2018 | PDP01810 | 2018-3 In-Service Procedural Justice | Passed | 0.0 | 4.00 |
 | 12/7/2018 | PDP12580 | Transforming Trauma: How to work and sustain | Passed | 0.0 | 4.00 |
-| 12/6/2018 | PDP39394 | Advanced Roadside Impairment Driving (ARIDE) | Passed | 0.0 | 16.00 |
+| 12/6/2018 | PDP39394 | Advanced Roadside Impaired Driving (ARIDE) | Passed | 0.0 | 16.00 |
 | 12/3/2018 | PDP12831 | Intoxylizer 8000 Instructor Certification | Passed | 0.0 | 6.00 |
 | 12/1/2018 | PDP09911 | 2018 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
 | 12/1/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |

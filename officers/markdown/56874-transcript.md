@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 7/9/2021 | 7/9/2023 |
-| Certification Cards | First Aid and CPR | 7/9/2021 | 7/9/2023 |
-| Code of Ethics | Signed | 2/21/2017 |  |
 | Code of Ethics | Signed | 2/21/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 5/7/2023 | PDP36458 | 2023-1 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 60.00 |
 | 5/5/2023 | PDP05784 | 2023-1 Range Qualification AR-15 Qual (20yd) | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

@@ -21,14 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/12/2018 |  |
-| Code of Ethics | Law Enforcement Signed | 3/12/2018 |  |
-| Code of Ethics | Signed | 2/21/2017 |  |
 | Code of Ethics | Signed | 2/21/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2023 | PDP4037 | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
+| 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
@@ -354,7 +351,7 @@
 | 1/24/2019 | PDP11710 | 2018-4 City Attorney's Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 1/24/2019 | PDP14745 | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
 | 1/3/2019 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
-| 12/6/2018 | PDP39394 | Advanced Roadside Impairment Driving (ARIDE) | Passed | 0.0 | 16.00 |
+| 12/6/2018 | PDP39394 | Advanced Roadside Impaired Driving (ARIDE) | Passed | 0.0 | 16.00 |
 | 12/2/2018 | PDP00554 | 2018 100% Collection and Submission Model Video | Passed | 0.0 | 0.25 |
 | 12/2/2018 | PDP02905 | 2018-5 Tips  Tech 100% Collection and Submission | Passed | 0.0 | 0.25 |
 | 11/10/2018 | PDP28385 | 2018-3 In-Service CEW Skills | Passed | 0.0 | 2.00 |

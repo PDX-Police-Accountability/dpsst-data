@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/26/2023 | 5/26/2025 |
-| Certification Cards | First Aid and CPR | 5/26/2023 | 5/26/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
-| Certification Cards | First Aid and CPR | 6/22/2021 | 6/22/2023 |
-| Code of Ethics | Signed | 1/31/2001 |  |
 | Code of Ethics | Signed | 1/31/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2023 | PDP3879A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/24/2023 | HDA0288 | Tri-State Narcotics Supervisors/Commanders Summit | Passed | 0.0 | 16.00 |
 | 4/19/2023 | OSH17315 | 2023 OPCA Spring Conference - Detection | Passed | 0.0 | 24.00 |
 | 3/23/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |

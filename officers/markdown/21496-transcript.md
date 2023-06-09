@@ -40,16 +40,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
 | Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
-| Code of Ethics | Signed | 10/12/2000 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -222,7 +216,7 @@
 | 4/15/2016 | F6B00635 | Patrol Tactics - "Get Real" The Pullover | Passed | 0.0 | 0.50 |
 | 4/13/2016 | 16-0041 | SFST Instructor Update | Passed | 0.0 | 6.00 |
 | 4/8/2016 | F6A00178 | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
-| 4/7/2016 | F6A00540 | Advanced Roadside Impared Driving Enforcement | Instructed | 0.0 | 16.00 |
+| 4/7/2016 | F6A00540 | Advanced Roadside Impaired Driving Enforcement | Instructed | 0.0 | 16.00 |
 | 3/31/2016 | 16-0114 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/18/2016 | 16-0951 | CPR / AED | Instructed | 0.0 | 4.00 |
 | 3/15/2016 | 16-1223 | Patrol Tactics | Passed | 0.0 | 0.50 |

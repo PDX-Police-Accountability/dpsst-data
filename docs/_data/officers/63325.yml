@@ -30,9 +30,21 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/18/2023
+  course: PDP4268A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 5/15/2023
   course: PDP0627
   title: TEEX WMD/Terrorism Awareness for Emergency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/15/2023
+  course: PDP1608A
+  title: 2023 FTEP Post Basic CEW Taser
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -103,10 +115,6 @@ training_records:
   score: '0.0'
   hours: '7.00'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/23/2023
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/23/2023

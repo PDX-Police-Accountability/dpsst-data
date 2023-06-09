@@ -21,16 +21,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 7/3/2021 | 7/3/2023 |
 | Certification Cards | First Aid and CPR | 7/3/2021 | 7/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/10/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 8/10/2020 |  |
-| Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 2/17/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/17/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/17/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |

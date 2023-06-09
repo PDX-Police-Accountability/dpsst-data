@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
-| Certification Cards | First Aid and CPR | 6/17/2021 | 6/17/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 8/4/2004 |  |
 | Code of Ethics | Signed | 8/4/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,7 +36,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
+| 5/24/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/17/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/10/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/3/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 4/26/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/19/2023 | SMP03607 | IABTI - Oregon Spring Regional Training | Passed | 0.0 | 8.00 |
+| 4/19/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/22/2023 | PDP00714 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/22/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 3/22/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -1122,7 +1122,7 @@ training_records:
   hours: '4.00'
 - date: 4/7/2016
   course: F6A00540
-  title: Advanced Roadside Impared Driving Enforcement
+  title: Advanced Roadside Impaired Driving Enforcement
   status: Instructed
   score: '0.0'
   hours: '16.00'
@@ -3393,22 +3393,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/13/2022
   expiration_date: 5/13/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/13/2022
-  expiration_date: 5/13/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -3419,19 +3407,7 @@ attribute_records:
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
-  effective_date: 4/9/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
   effective_date: 6/21/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 6/21/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/12/2000
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

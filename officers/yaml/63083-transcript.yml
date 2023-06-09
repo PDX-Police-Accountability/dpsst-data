@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/31/2023
+  course: PDP1548A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/30/2023
   course: PDP12355
   title: 2018 TOD 100% Collection  Submission Model
@@ -258,6 +264,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/22/2023
+  course: PDP1608A
+  title: 2023 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/21/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm
@@ -270,6 +282,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/17/2023
+  course: M10-22A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 3/7/2023
   course: PDP11356
   title: Control Tactics Training
@@ -294,12 +312,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 11/7/2022
-  course: M10-22A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '640.00'
 - date: 11/3/2022
   course: PDP22867
   title: ICS-100 Intro to the Incident Cmmnd System
@@ -341,14 +353,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/31/2023
   expiration_date: 5/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/31/2023
-  expiration_date: 5/31/2025
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 11/7/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 11/7/2022

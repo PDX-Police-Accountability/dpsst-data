@@ -37,6 +37,18 @@ certification_records:
   expiration_date: 5/5/2026
   probation_date: ''
 training_records:
+- date: 5/5/2023
+  course: BNS1394A
+  title: Chainsaw Orientation and Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/5/2023
+  course: VND0329A
+  title: OSMB Marine Law Enforcement Academy
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/7/2022
   course: VND02238
   title: Oregon State Marine Board PWC Operations Course

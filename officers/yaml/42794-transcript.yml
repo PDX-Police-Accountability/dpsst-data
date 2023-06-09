@@ -86,6 +86,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2023
+  course: OCS0322
+  title: May 2023 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
+- date: 5/12/2023
+  course: OCS3604
+  title: Positional/Long Distance Multiple Target Shooting
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/20/2023
+  course: OCS2647
+  title: Annual Qualifiation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2023
+  course: OCS1278
+  title: Annual Qualifications
+  status: Instructed
+  score: '0.0'
+  hours: '84.00'
 - date: 4/4/2023
   course: OCS00948
   title: Marksmanship / Handgun Qualification
@@ -98,14 +122,38 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 3/30/2023
+  course: OCS1995
+  title: Marksmanship / Handgun Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/20/2023
   course: OCS1390A
   title: Long Gun Retention and Strikes
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/20/2023
+  course: OCS2503
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/20/2023
+  course: OCS1800
+  title: Fundamentals of Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '52.00'
 - date: 3/17/2023
   course: OCS1749
+  title: Marksmanship / Shoot-No Shoot decisions
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/17/2023
+  course: OCS2368
   title: Marksmanship / Shoot-No Shoot decisions
   status: Instructed
   score: '0.0'
@@ -616,6 +664,12 @@ training_records:
   hours: '0.15'
 - date: 1/21/2022
   course: OCS0303A
+  title: 1st Quarter Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/21/2022
+  course: OCS0303
   title: 1st Quarter Shotgun
   status: Passed
   score: '0.0'
@@ -3461,26 +3515,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022
   expiration_date: 3/25/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/25/2022
-  expiration_date: 3/25/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2003
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2003

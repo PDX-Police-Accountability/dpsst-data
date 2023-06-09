@@ -25,9 +25,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Code of Ethics | Signed | 4/2/2001 |  |
 | Code of Ethics | Signed | 4/2/2001 |  |
 ## Education
 | date | degree | school | major | hours |

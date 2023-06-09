@@ -27,11 +27,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
-| Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
-| Code of Ethics | Signed | 10/23/2001 |  |
 | Code of Ethics | Signed | 10/23/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2023 | PDN2999A | Defensive Tactics-Stand Up Defenses | Passed | 0.0 | 1.50 |
 | 5/4/2023 | PDN12758 | Confrontational Simulation-Legal Issues | Passed | 0.0 | 2.00 |
 | 4/26/2023 | PDN23616 | Victim and Survivor Training for ASD | Passed | 0.0 | 1.50 |
 | 4/18/2023 | PDN43935 | Defensive Tactics-Pre-Assault Indicator Response | Passed | 0.0 | 1.50 |

@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/18/2023 | 4/18/2025 |
-| Certification Cards | First Aid and CPR | 4/18/2023 | 4/18/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/15/2021 | 6/15/2023 |
-| Certification Cards | First Aid and CPR | 6/15/2021 | 6/15/2023 |
-| Code of Ethics | Signed | 4/27/2001 |  |
 | Code of Ethics | Signed | 4/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -87,6 +82,7 @@
 | 8/25/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 8/25/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 8/16/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
+| 8/12/2022 | PDP3513A | 2023 External Training Threat Mgmnt Conference | Passed | 0.0 | 28.00 |
 | 7/21/2022 | PDP35393 | 2022-2 Range Qualification Secondary Firearm 50rd | Passed | 0.0 | 0.50 |
 | 7/21/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/21/2022 | PDP35733 | 2022 ABLE Performance Reviews for Supervisors Swrn | Passed | 0.0 | 0.25 |

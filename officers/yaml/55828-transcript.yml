@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '55828'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/11/2023
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 3/31/2016
   agency: Portland Police Bureau
   action: Hired
@@ -31,6 +37,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/11/2024
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
+- date: 5/2/2023
+  course: PDP4462A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 4/27/2023
+  course: PDP2174A
+  title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 4/15/2023
   course: PDP0097
   title: IS-700 National Incident Management System
@@ -2688,14 +2712,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/2/2023
   expiration_date: 5/2/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/2/2023
-  expiration_date: 5/2/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -2704,14 +2720,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2021
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 4/22/2016
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/22/2016

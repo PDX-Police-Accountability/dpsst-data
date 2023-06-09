@@ -28,8 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
-| Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
-| Code of Ethics | Signed | 1/10/2008 |  |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/6/2023 | PDS09288 | Yoga for First Responders | Passed | 0.0 | 1.00 |
 | 5/6/2023 | PDS13075 | Peer Support | Passed | 0.0 | 1.00 |
+| 5/6/2023 | PDS0248A | NAMI Training | Passed | 0.0 | 2.00 |
 | 4/26/2023 | PDS11600 | Range Training | Passed | 0.0 | 5.00 |
 | 2/28/2023 | PDS18431 | Civil Process | Passed | 0.0 | 1.00 |
 | 2/28/2023 | PDS04930 | DPSST Certification Overview | Passed | 0.0 | 0.50 |
