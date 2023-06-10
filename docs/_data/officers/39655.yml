@@ -44,12 +44,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2023
+  course: PDP0987A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/8/2023
   course: PDP2708A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/4/2023
+  course: PDP2223A
+  title: 2023 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/27/2023
   course: PDP2174A
   title: ICS-300 Intm Incdt Cmd System for Expanding Incdts

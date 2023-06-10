@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 5/7/2023 | PDP36458 | 2023-1 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 60.00 |

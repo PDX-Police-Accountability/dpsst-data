@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | PPP3444A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 5/15/2023 | PPP0174A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 5/8/2023 | PPP1389 | Range | Passed | 0.0 | 8.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2023
+  course: PDP3992A
+  title: 2023-1 Shotgun Operators In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/1/2023
   course: PDP4498A
   title: CPR/First Aid

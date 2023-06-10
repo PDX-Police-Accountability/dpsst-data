@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
 | 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |

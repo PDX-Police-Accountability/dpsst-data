@@ -206,6 +206,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '17.00'
+- date: 1/18/2023
+  course: PDP4048A
+  title: 2023 Training Red Dot Optic Transition
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 12/22/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

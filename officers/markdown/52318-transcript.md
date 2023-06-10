@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/12/2023 | PDP2937A | MGT-314 Enhanced All-Hazards Incident Management | Passed | 0.0 | 28.00 |
 | 3/31/2023 | PDP16665 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

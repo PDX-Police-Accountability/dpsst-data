@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP28141 | CPR/First Aid | Passed | 0.0 | 1.75 |

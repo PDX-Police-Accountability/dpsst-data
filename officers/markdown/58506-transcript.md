@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 5/25/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/18/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |

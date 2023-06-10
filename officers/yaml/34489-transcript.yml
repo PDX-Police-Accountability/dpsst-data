@@ -62,6 +62,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '24.00'
+- date: 5/21/2023
+  course: OCS1318A
+  title: Resiliency training by Dr. Conn
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/20/2023
   course: OCS2647
   title: Annual Qualifiation

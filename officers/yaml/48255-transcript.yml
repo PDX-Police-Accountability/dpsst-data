@@ -31,9 +31,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2023
+  course: PDP0987A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/11/2023
   course: PDP2652
   title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/4/2023
+  course: PDP2223A
+  title: 2023 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'

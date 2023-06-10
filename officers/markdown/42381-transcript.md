@@ -46,6 +46,7 @@
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/2/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/2/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 1/18/2023 | PDP4048A | 2023 Training Red Dot Optic Transition | Passed | 0.0 | 27.00 |
 | 1/13/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |

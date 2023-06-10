@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 5/3/2023 | PDP4452 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/15/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

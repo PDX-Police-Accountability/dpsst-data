@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2023
+  course: PPP3444A
+  title: Wellness and Nutrition
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/15/2023
   course: PPP0174A
   title: CPR/First Aid/AED

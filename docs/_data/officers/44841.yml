@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/19/2023
+  course: LOP3247A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/18/2023
   course: LOP1720
   title: National Computer Forensics Institute

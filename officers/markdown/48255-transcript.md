@@ -33,7 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP0987A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/11/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 5/4/2023 | PDP2223A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/27/2023 | PDP2174A | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 4/20/2023 | PDP1249 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 4/13/2023 | PDP3754 | 2023 SERT Training - CLASSROOM | Passed | 0.0 | 4.00 |

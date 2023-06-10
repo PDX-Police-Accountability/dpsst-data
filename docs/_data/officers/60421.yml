@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/6/2023
+  course: SMP3590A
+  title: Taser Instructor Recertification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/24/2023
   course: SAG0671
   title: Firearms Training

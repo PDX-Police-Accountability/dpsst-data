@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 5.00 |
 | 5/13/2023 | PDP2146A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/12/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

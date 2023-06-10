@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
+| 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/12/2023 | OCS0322 | May 2023 New Hire Firearms | Instructed | 0.0 | 20.00 |
 | 5/12/2023 | OCS3604 | Positional/Long Distance Multiple Target Shooting | Instructed | 0.0 | 5.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |

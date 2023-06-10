@@ -24,7 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
 | Code of Ethics | Signed | 2/27/2009 |  |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/11/2023 | TRN0799A | Critical Incidents-TIC | Passed | 0.0 | 1.00 |
 | 4/11/2023 | TRN1467A | Krav Maga Def Tactics v2022c | Passed | 0.0 | 2.00 |
 | 4/11/2023 | TRN3824A | Use of Force Report Writing v2023 | Passed | 0.0 | 3.00 |

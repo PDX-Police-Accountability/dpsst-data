@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/18/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/11/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/9/2023 | PDP2105A | CPR/First Aid | Passed | 0.0 | 1.75 |
@@ -60,6 +61,7 @@
 | 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |
 | 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 1/18/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 1/18/2023 | PDP4048A | 2023 Training Red Dot Optic Transition | Passed | 0.0 | 27.00 |
 | 12/22/2022 | PDP30625 | SERT Firearms Drills | Passed | 0.0 | 9.00 |
 | 12/15/2022 | PDP34848 | Patrol Procedures Satellite Instructor Training | Passed | 0.0 | 72.00 |
 | 12/9/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |

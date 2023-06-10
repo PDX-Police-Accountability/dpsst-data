@@ -81,6 +81,12 @@ certification_records:
   expiration_date: 7/29/2027
   probation_date: ''
 training_records:
+- date: 5/21/2023
+  course: OCS1318A
+  title: Resiliency training by Dr. Conn
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/19/2022
   course: OCS43683
   title: FBI LEEDA- Internal Affairs

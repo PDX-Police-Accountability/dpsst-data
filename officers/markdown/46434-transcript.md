@@ -64,6 +64,7 @@
 | 1/30/2023 | PDP07542 | Control Tactics Training | Instructed | 0.0 | 4.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Instructed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Instructed | 0.0 | 7.00 |
+| 1/18/2023 | PDP4048A | 2023 Training Red Dot Optic Transition | Passed | 0.0 | 27.00 |
 | 1/13/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |

@@ -63,6 +63,7 @@
 | 2/1/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/1/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/25/2023 | PDP35860 | PERF ICAT Conference | Passed | 0.0 | 17.00 |
+| 1/18/2023 | PDP4048A | 2023 Training Red Dot Optic Transition | Passed | 0.0 | 27.00 |
 | 12/22/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/22/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/22/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

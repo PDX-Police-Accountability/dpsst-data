@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/4/2023 | PDP4469 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/7/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 3/27/2023 | EGP42322 | Police Motorcycle Trng, Braking / Cornering | Instructed | 0.0 | 6.00 |

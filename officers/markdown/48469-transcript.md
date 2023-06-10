@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/1/2023 | PDP4333A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/24/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/24/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

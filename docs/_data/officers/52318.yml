@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/12/2023
+  course: PDP2937A
+  title: MGT-314 Enhanced All-Hazards Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/31/2023
   course: PDP16665
   title: CPR/First Aid

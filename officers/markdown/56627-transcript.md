@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 3/25/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

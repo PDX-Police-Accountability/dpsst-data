@@ -242,6 +242,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 1/18/2023
+  course: PDP4048A
+  title: 2023 Training Red Dot Optic Transition
+  status: Instructed
+  score: '0.0'
+  hours: '27.00'
 - date: 1/12/2023
   course: PDP32121
   title: Pre Academy Firearms Training

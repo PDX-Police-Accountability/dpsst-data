@@ -57,6 +57,7 @@
 | 2/1/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/1/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/1/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/26/2023 | PDP3311A | 2023 BHU P2P Meth | Passed | 0.0 | 1.00 |
 | 1/20/2023 | VND39577 | EMDR for Paraprofessionals | Instructed | 0.0 | 40.00 |
 | 1/20/2023 | PDP41765 | Traumatic Stress Relief for Peer Supporters | Passed | 0.0 | 28.00 |
 | 12/14/2022 | F6R28547 | 2022 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

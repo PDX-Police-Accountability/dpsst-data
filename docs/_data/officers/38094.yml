@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 6/1/2023
+  course: PDP3992A
+  title: 2023-1 Shotgun Operators In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/28/2023
   course: REG10403
   title: 2023 DUII Multi-Disciplinary Training Conference

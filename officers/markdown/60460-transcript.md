@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/24/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/16/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

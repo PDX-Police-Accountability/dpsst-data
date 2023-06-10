@@ -63,12 +63,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2023
+  course: OCS4327A
+  title: Shoot/No Shoot Targets, Marksmanship, Cover
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/24/2023
   course: HDA0288
   title: Tri-State Narcotics Supervisors/Commanders Summit
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/21/2023
+  course: OCS1318A
+  title: Resiliency training by Dr. Conn
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/3/2023
   course: CAP19868
   title: VCQB / High Risk Vehicle Stop Firearms

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | PPP3444A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 5/24/2023 | PPP2006A | Range | Passed | 0.0 | 4.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
 | 1/24/2023 | PPP31877 | Annual Firearms Qualifications and Training | Passed | 0.0 | 4.00 |

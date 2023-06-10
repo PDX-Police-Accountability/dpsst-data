@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 5/15/2023 | PDP1608A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 8.00 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/22/2023 | HSU04368 | Spring In-Service 2023 Defensive Tactics | Passed | 0.0 | 6.00 |

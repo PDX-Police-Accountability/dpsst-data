@@ -34,7 +34,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 9/9/2020 | 9/9/2024 |
 | Code of Ethics | Signed | 10/12/2006 |  |
@@ -46,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2023 | STP3859A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 3/31/2023 | STP14107 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 3/16/2023 | STP09151 | Taser X26P Recertification | Passed | 0.0 | 2.00 |

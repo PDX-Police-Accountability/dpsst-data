@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

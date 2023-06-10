@@ -126,6 +126,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/26/2023
+  course: PDP3311A
+  title: 2023 BHU P2P Meth
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/16/2023
   course: PDP35372
   title: 2022 Naxolone Administration

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2023 | SMP3590A | Taser Instructor Recertification | Passed | 0.0 | 8.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Passed | 0.0 | 8.00 |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Instructed | 0.0 | 8.00 |

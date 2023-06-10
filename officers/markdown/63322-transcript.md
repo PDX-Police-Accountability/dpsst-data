@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/24/2023 | PDP3352A | 2023 FTEP Control Tactics Post Basic | Passed | 0.0 | 2.00 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

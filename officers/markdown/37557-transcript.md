@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/2/2023 | LOP3247A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 4/18/2023 | LOP0809 | Protection Orders | Passed | 0.0 | 0.25 |
 | 4/3/2023 | LOP28849 | Forcible Entry Training | Passed | 0.0 | 1.00 |
 | 3/29/2023 | LOP20623 | Ethics and Leadership | Passed | 0.0 | 3.00 |

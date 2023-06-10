@@ -51,6 +51,7 @@
 | 1/23/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/23/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/23/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 1/18/2023 | PDP4048A | 2023 Training Red Dot Optic Transition | Passed | 0.0 | 27.00 |
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/11/2023 | PDP02685 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/10/2023 | PDP37324 | Pre Academy Firearms Training | Instructed | 0.0 | 7.00 |

@@ -19,11 +19,13 @@
 | * MISSING | 19500 |  |  |  |  |  | [md](../markdown/19500-transcript.md) - [yaml](../yaml/19500-transcript.yml) |
 | * MISSING | 19527 |  |  |  |  |  | [md](../markdown/19527-transcript.md) - [yaml](../yaml/19527-transcript.yml) |
 | * MISSING | 19833 |  |  |  |  |  | [md](../markdown/19833-transcript.md) - [yaml](../yaml/19833-transcript.yml) |
+| * MISSING | 20110 |  |  |  |  |  | [md](../markdown/20110-transcript.md) - [yaml](../yaml/20110-transcript.yml) |
 | * MISSING | 20228 |  |  |  |  |  | [md](../markdown/20228-transcript.md) - [yaml](../yaml/20228-transcript.yml) |
 | * MISSING | 20844 |  |  |  |  |  | [md](../markdown/20844-transcript.md) - [yaml](../yaml/20844-transcript.yml) |
 | * MISSING | 21089 |  |  |  |  |  | [md](../markdown/21089-transcript.md) - [yaml](../yaml/21089-transcript.yml) |
 | * MISSING | 21331 |  |  |  |  |  | [md](../markdown/21331-transcript.md) - [yaml](../yaml/21331-transcript.yml) |
 | * MISSING | 21775 |  |  |  |  |  | [md](../markdown/21775-transcript.md) - [yaml](../yaml/21775-transcript.yml) |
+| * MISSING | 21850 |  |  |  |  |  | [md](../markdown/21850-transcript.md) - [yaml](../yaml/21850-transcript.yml) |
 | * MISSING | 22520 |  |  |  |  |  | [md](../markdown/22520-transcript.md) - [yaml](../yaml/22520-transcript.yml) |
 | * MISSING | 23191 |  |  |  |  |  | [md](../markdown/23191-transcript.md) - [yaml](../yaml/23191-transcript.yml) |
 | * MISSING | 23579 |  |  |  |  |  | [md](../markdown/23579-transcript.md) - [yaml](../yaml/23579-transcript.yml) |
@@ -40,13 +42,19 @@
 | * MISSING | 28800 |  |  |  |  |  | [md](../markdown/28800-transcript.md) - [yaml](../yaml/28800-transcript.yml) |
 | * MISSING | 29350 |  |  |  |  |  | [md](../markdown/29350-transcript.md) - [yaml](../yaml/29350-transcript.yml) |
 | * MISSING | 29353 |  |  |  |  |  | [md](../markdown/29353-transcript.md) - [yaml](../yaml/29353-transcript.yml) |
+| * MISSING | 30600 |  |  |  |  |  | [md](../markdown/30600-transcript.md) - [yaml](../yaml/30600-transcript.yml) |
 | * MISSING | 30651 |  |  |  |  |  | [md](../markdown/30651-transcript.md) - [yaml](../yaml/30651-transcript.yml) |
 | * MISSING | 30869 |  |  |  |  |  | [md](../markdown/30869-transcript.md) - [yaml](../yaml/30869-transcript.yml) |
 | * MISSING | 31017 |  |  |  |  |  | [md](../markdown/31017-transcript.md) - [yaml](../yaml/31017-transcript.yml) |
 | * MISSING | 32393 |  |  |  |  |  | [md](../markdown/32393-transcript.md) - [yaml](../yaml/32393-transcript.yml) |
 | * MISSING | 34055 |  |  |  |  |  | [md](../markdown/34055-transcript.md) - [yaml](../yaml/34055-transcript.yml) |
 | * MISSING | 37130 |  |  |  |  |  | [md](../markdown/37130-transcript.md) - [yaml](../yaml/37130-transcript.yml) |
+| * MISSING | 37137 |  |  |  |  |  | [md](../markdown/37137-transcript.md) - [yaml](../yaml/37137-transcript.yml) |
 | * MISSING | 37150 |  |  |  |  |  | [md](../markdown/37150-transcript.md) - [yaml](../yaml/37150-transcript.yml) |
+| * MISSING | 37241 |  |  |  |  |  | [md](../markdown/37241-transcript.md) - [yaml](../yaml/37241-transcript.yml) |
+| * MISSING | 39064 |  |  |  |  |  | [md](../markdown/39064-transcript.md) - [yaml](../yaml/39064-transcript.yml) |
+| * MISSING | 40787 |  |  |  |  |  | [md](../markdown/40787-transcript.md) - [yaml](../yaml/40787-transcript.yml) |
+| * MISSING | 40932 |  |  |  |  |  | [md](../markdown/40932-transcript.md) - [yaml](../yaml/40932-transcript.yml) |
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
 | * MISSING | 45977 |  |  |  |  |  | [md](../markdown/45977-transcript.md) - [yaml](../yaml/45977-transcript.yml) |
@@ -59,8 +67,14 @@
 | * MISSING | 50649 |  |  |  |  |  | [md](../markdown/50649-transcript.md) - [yaml](../yaml/50649-transcript.yml) |
 | * MISSING | 50999 |  |  |  |  |  | [md](../markdown/50999-transcript.md) - [yaml](../yaml/50999-transcript.yml) |
 | * MISSING | 52344 |  |  |  |  |  | [md](../markdown/52344-transcript.md) - [yaml](../yaml/52344-transcript.yml) |
+| * MISSING | 52678 |  |  |  |  |  | [md](../markdown/52678-transcript.md) - [yaml](../yaml/52678-transcript.yml) |
 | * MISSING | 55708 |  |  |  |  |  | [md](../markdown/55708-transcript.md) - [yaml](../yaml/55708-transcript.yml) |
+| * MISSING | 56217 |  |  |  |  |  | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
 | * MISSING | 56551 |  |  |  |  |  | [md](../markdown/56551-transcript.md) - [yaml](../yaml/56551-transcript.yml) |
+| * MISSING | 57276 |  |  |  |  |  | [md](../markdown/57276-transcript.md) - [yaml](../yaml/57276-transcript.yml) |
+| * MISSING | 59093 |  |  |  |  |  | [md](../markdown/59093-transcript.md) - [yaml](../yaml/59093-transcript.yml) |
+| * MISSING | 60118 |  |  |  |  |  | [md](../markdown/60118-transcript.md) - [yaml](../yaml/60118-transcript.yml) |
+| * MISSING | 60707 |  |  |  |  |  | [md](../markdown/60707-transcript.md) - [yaml](../yaml/60707-transcript.yml) |
 | Smith, Bret J. | 14157 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-01-16 | [md](../markdown/14157-transcript.md) - [yaml](../yaml/14157-transcript.yml) |
 | Eckhart, John C. | 14495 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-07-29 | [md](../markdown/14495-transcript.md) - [yaml](../yaml/14495-transcript.yml) |
 | Modica, Kevin L. | 15909 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2017-06-30 | [md](../markdown/15909-transcript.md) - [yaml](../yaml/15909-transcript.yml) |
@@ -147,7 +161,6 @@
 | Miller, Dale E. | 30239 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2018-01-02 | [md](../markdown/30239-transcript.md) - [yaml](../yaml/30239-transcript.yml) |
 | Marks, Kandi L. | 30396 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-01-12 | [md](../markdown/30396-transcript.md) - [yaml](../yaml/30396-transcript.yml) |
 | Winstanley, Mary E. | 30397 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2021-06-30 | [md](../markdown/30397-transcript.md) - [yaml](../yaml/30397-transcript.yml) |
-| Garner, David W. | 30600 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-03-09 | [md](../markdown/30600-transcript.md) - [yaml](../yaml/30600-transcript.yml) |
 | Brant, Kristi R. | 31135 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-07-10 | [md](../markdown/31135-transcript.md) - [yaml](../yaml/31135-transcript.yml) |
 | Tuquero, Teresita S. | 31787 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-06-02 | [md](../markdown/31787-transcript.md) - [yaml](../yaml/31787-transcript.yml) |
 | Gates, Kimberly J. | 31892 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-12-12 | [md](../markdown/31892-transcript.md) - [yaml](../yaml/31892-transcript.yml) |
@@ -207,7 +220,6 @@
 | Paille, Christopher T. | 38838 | Portland Police Bureau | Active | Civilian Employee | Hired | 1999-09-02 | [md](../markdown/38838-transcript.md) - [yaml](../yaml/38838-transcript.yml) |
 | Rees, Ryan C. | 38874 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-01-20 | [md](../markdown/38874-transcript.md) - [yaml](../yaml/38874-transcript.yml) |
 | Sage, Jamie L. | 38875 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-02-03 | [md](../markdown/38875-transcript.md) - [yaml](../yaml/38875-transcript.yml) |
-| Rue, Steven T. | 39064 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2002-02-27 | [md](../markdown/39064-transcript.md) - [yaml](../yaml/39064-transcript.yml) |
 | Haman, Diane R. | 39117 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-03-27 | [md](../markdown/39117-transcript.md) - [yaml](../yaml/39117-transcript.yml) |
 | Harding, Cheryl A. | 39268 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-05-01 | [md](../markdown/39268-transcript.md) - [yaml](../yaml/39268-transcript.yml) |
 | LaFong, Mary H. | 39269 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2017-06-08 | [md](../markdown/39269-transcript.md) - [yaml](../yaml/39269-transcript.yml) |
@@ -260,7 +272,6 @@
 | Jarmer, Vincent L. | 15654 | Portland Police Bureau | Inactive | Commander | Retired | 2011-09-12 | [md](../markdown/15654-transcript.md) - [yaml](../yaml/15654-transcript.yml) |
 | Sheffer, Kelli D. | 19192 | Portland Police Bureau | Inactive | Commander | Retired | 2018-06-22 | [md](../markdown/19192-transcript.md) - [yaml](../yaml/19192-transcript.yml) |
 | King, Robert J. | 21075 | Portland Police Bureau | Inactive | Commander | Retired | 2018-01-03 | [md](../markdown/21075-transcript.md) - [yaml](../yaml/21075-transcript.yml) |
-| Burke, George A. | 21850 | Portland Police Bureau | Inactive | Commander | Resigned | 2016-12-27 | [md](../markdown/21850-transcript.md) - [yaml](../yaml/21850-transcript.yml) |
 | Hager, Tashia A. | 22213 | Portland Police Bureau | Inactive | Commander | Retired | 2020-08-12 | [md](../markdown/22213-transcript.md) - [yaml](../yaml/22213-transcript.yml) |
 | Jones, Steven J. | 23649 | Portland Police Bureau | Inactive | Commander | Resigned | 2019-05-03 | [md](../markdown/23649-transcript.md) - [yaml](../yaml/23649-transcript.yml) |
 | Uehara, Chris T. | 23999 | Portland Police Bureau | Inactive | Commander | Retired | 2019-01-21 | [md](../markdown/23999-transcript.md) - [yaml](../yaml/23999-transcript.yml) |
@@ -289,7 +300,6 @@
 | Stoner, Chad M. | 35816 | Portland Police Bureau | Active | Criminalist | Promotion | 2019-10-17 | [md](../markdown/35816-transcript.md) - [yaml](../yaml/35816-transcript.yml) |
 | Schleich, Alison L. | 36817 | Portland Police Bureau | Active | Criminalist | Promotion | 2005-10-20 | [md](../markdown/36817-transcript.md) - [yaml](../yaml/36817-transcript.yml) |
 | Budry, Richard J. | 37043 | Portland Police Bureau | Active | Criminalist | Promotion | 2018-07-26 | [md](../markdown/37043-transcript.md) - [yaml](../yaml/37043-transcript.yml) |
-| Ware, Paul D. | 37137 | Portland Police Bureau | Inactive | Criminalist | Retired | 2020-08-10 | [md](../markdown/37137-transcript.md) - [yaml](../yaml/37137-transcript.yml) |
 | Nebling, Vance A. | 37144 | Portland Police Bureau | Active | Criminalist | Promotion | 2004-07-08 | [md](../markdown/37144-transcript.md) - [yaml](../yaml/37144-transcript.yml) |
 | Berg, Walker R. | 43499 | Portland Police Bureau | Active | Criminalist | Promotion | 2016-01-11 | [md](../markdown/43499-transcript.md) - [yaml](../yaml/43499-transcript.yml) |
 | Jakubauskas, Gedemynas J. | 46056 | Portland Police Bureau | Active | Criminalist | Promotion | 2020-09-15 | [md](../markdown/46056-transcript.md) - [yaml](../yaml/46056-transcript.yml) |
@@ -688,7 +698,6 @@
 | Daniels, Erik D. | 37138 | Portland Police Bureau | Active | Police Officer | Hired | 1999-02-04 | [md](../markdown/37138-transcript.md) - [yaml](../yaml/37138-transcript.yml) |
 | Jacquot, Steven R. | 37153 | Portland Police Bureau | Active | Police Officer | Hired | 1999-02-04 | [md](../markdown/37153-transcript.md) - [yaml](../yaml/37153-transcript.yml) |
 | Goodrich, Joseph R. | 37240 | Portland Police Bureau | Active | Police Officer | Hired | 1999-03-25 | [md](../markdown/37240-transcript.md) - [yaml](../yaml/37240-transcript.yml) |
-| Jackson, Robert H. | 37241 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-11 | [md](../markdown/37241-transcript.md) - [yaml](../yaml/37241-transcript.yml) |
 | Manzella, Timothy J. | 37242 | Portland Police Bureau | Active | Police Officer | Hired | 1999-03-25 | [md](../markdown/37242-transcript.md) - [yaml](../yaml/37242-transcript.yml) |
 | Alexander, Gail D. | 37248 | Portland Police Bureau | Active | Police Officer | LOA | 2023-02-01 | [md](../markdown/37248-transcript.md) - [yaml](../yaml/37248-transcript.yml) |
 | Blazer, Jack V. | 37413 | Portland Police Bureau | Inactive | Police Officer | Deceased | 2020-01-30 | [md](../markdown/37413-transcript.md) - [yaml](../yaml/37413-transcript.yml) |
@@ -996,7 +1005,6 @@
 | Emmons, Brett W. | 56132 | Portland Police Bureau | Active | Police Officer | Hired | 2016-05-26 | [md](../markdown/56132-transcript.md) - [yaml](../yaml/56132-transcript.yml) |
 | Whitmore, Anthony J. | 56159 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-22 | [md](../markdown/56159-transcript.md) - [yaml](../yaml/56159-transcript.yml) |
 | Huffman, Andrew M. | 56186 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2017-08-17 | [md](../markdown/56186-transcript.md) - [yaml](../yaml/56186-transcript.yml) |
-| Ivarsson, Emmy M. | 56217 | Portland Police Bureau | Active | Police Officer | Return LOA | 2019-02-20 | [md](../markdown/56217-transcript.md) - [yaml](../yaml/56217-transcript.yml) |
 | Madden, Rian P. | 56256 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2017-07-10 | [md](../markdown/56256-transcript.md) - [yaml](../yaml/56256-transcript.yml) |
 | Trapp, Todd D. | 56260 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/56260-transcript.md) - [yaml](../yaml/56260-transcript.yml) |
 | Lau, Sheung T. | 56277 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2017-09-14 | [md](../markdown/56277-transcript.md) - [yaml](../yaml/56277-transcript.yml) |
@@ -1043,7 +1051,6 @@
 | Smith, Cameron A. | 57152 | Portland Police Bureau | Active | Police Officer | Hired | 2017-03-30 | [md](../markdown/57152-transcript.md) - [yaml](../yaml/57152-transcript.yml) |
 | Arneson, Alexandra M. | 57246 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-05 | [md](../markdown/57246-transcript.md) - [yaml](../yaml/57246-transcript.yml) |
 | Saephanh, Justin | 57267 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-07-13 | [md](../markdown/57267-transcript.md) - [yaml](../yaml/57267-transcript.yml) |
-| Mayer, Mathew M. | 57276 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2018-08-29 | [md](../markdown/57276-transcript.md) - [yaml](../yaml/57276-transcript.yml) |
 | Young, Andrew K. | 57282 | Portland Police Bureau | Active | Police Officer | Hired | 2017-05-25 | [md](../markdown/57282-transcript.md) - [yaml](../yaml/57282-transcript.yml) |
 | Wilson, Aaron M. | 57303 | Portland Police Bureau | Active | Police Officer | Hired | 2017-05-25 | [md](../markdown/57303-transcript.md) - [yaml](../yaml/57303-transcript.yml) |
 | Arnold, Eli D. | 57306 | Portland Police Bureau | Active | Police Officer | Hired | 2017-05-25 | [md](../markdown/57306-transcript.md) - [yaml](../yaml/57306-transcript.yml) |
@@ -1139,7 +1146,6 @@
 | Miron, Elena R. | 59009 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-19 | [md](../markdown/59009-transcript.md) - [yaml](../yaml/59009-transcript.yml) |
 | Hoffman, Michael T. | 59046 | Portland Police Bureau | Active | Police Officer | Hired | 2018-08-22 | [md](../markdown/59046-transcript.md) - [yaml](../yaml/59046-transcript.yml) |
 | Araujo-Garivo, Noe J. | 59065 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2019-12-04 | [md](../markdown/59065-transcript.md) - [yaml](../yaml/59065-transcript.yml) |
-| Scannell, Colin C. | 59093 | Portland Police Bureau | Active | Police Officer | Hired | 2019-10-17 | [md](../markdown/59093-transcript.md) - [yaml](../yaml/59093-transcript.yml) |
 | Cavalli-Singer, Gelsomina M. | 59104 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-12 | [md](../markdown/59104-transcript.md) - [yaml](../yaml/59104-transcript.yml) |
 | Scolari, Sydni D. | 59124 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2019-12-25 | [md](../markdown/59124-transcript.md) - [yaml](../yaml/59124-transcript.yml) |
 | Fultz, Troyler D. | 59125 | Portland Police Bureau | Active | Police Officer | Hired | 2018-09-22 | [md](../markdown/59125-transcript.md) - [yaml](../yaml/59125-transcript.yml) |
@@ -1174,7 +1180,6 @@
 | Faust, Robert | 59979 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-11-23 | [md](../markdown/59979-transcript.md) - [yaml](../yaml/59979-transcript.yml) |
 | Moreland, Jarl C. | 60098 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60098-transcript.md) - [yaml](../yaml/60098-transcript.yml) |
 | Wolfer, Paul D. | 60101 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-04-21 | [md](../markdown/60101-transcript.md) - [yaml](../yaml/60101-transcript.yml) |
-| DeHart, David L. | 60118 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60118-transcript.md) - [yaml](../yaml/60118-transcript.yml) |
 | Suboh, Fahmy J. | 60125 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60125-transcript.md) - [yaml](../yaml/60125-transcript.yml) |
 | Caramucci, Katherine L. | 60133 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60133-transcript.md) - [yaml](../yaml/60133-transcript.yml) |
 | Kuiper, Karly H. | 60143 | Portland Police Bureau | Active | Police Officer | Hired | 2019-08-22 | [md](../markdown/60143-transcript.md) - [yaml](../yaml/60143-transcript.yml) |
@@ -1222,7 +1227,6 @@
 | DeLong, Spenser M. | 60604 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-12-06 | [md](../markdown/60604-transcript.md) - [yaml](../yaml/60604-transcript.yml) |
 | Brewer, James M. | 60616 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60616-transcript.md) - [yaml](../yaml/60616-transcript.yml) |
 | Precup, Sebastian I. | 60628 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60628-transcript.md) - [yaml](../yaml/60628-transcript.yml) |
-| Manipol, Jesse J. | 60707 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-10 | [md](../markdown/60707-transcript.md) - [yaml](../yaml/60707-transcript.yml) |
 | Torres, Jeobany J. | 60735 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60735-transcript.md) - [yaml](../yaml/60735-transcript.yml) |
 | Mathew, Donald L. | 60812 | Portland Police Bureau | Active | Police Officer | Hired | 2020-03-26 | [md](../markdown/60812-transcript.md) - [yaml](../yaml/60812-transcript.yml) |
 | Srisongkham, Kenny | 60813 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/60813-transcript.md) - [yaml](../yaml/60813-transcript.yml) |
@@ -1439,7 +1443,6 @@
 | Magnus, Gregory S. | 39230 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2003-09-17 | [md](../markdown/39230-transcript.md) - [yaml](../yaml/39230-transcript.yml) |
 | Farrell, Bryan M. | 39235 | Portland Police Bureau | Active | Reserve Officer | Hired | 2000-04-25 | [md](../markdown/39235-transcript.md) - [yaml](../yaml/39235-transcript.yml) |
 | Fleury, Philip A. | 40786 | Portland Police Bureau | Active | Reserve Officer | Hired | 2001-05-29 | [md](../markdown/40786-transcript.md) - [yaml](../yaml/40786-transcript.yml) |
-| Duddington, Walter L. | 40787 | Portland Police Bureau | Active | Reserve Officer | Hired | 2001-05-29 | [md](../markdown/40787-transcript.md) - [yaml](../yaml/40787-transcript.yml) |
 | Bailey, Timothy R. | 42553 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/42553-transcript.md) - [yaml](../yaml/42553-transcript.yml) |
 | Cunningham, Matthew R. | 42712 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2003-08-06 | [md](../markdown/42712-transcript.md) - [yaml](../yaml/42712-transcript.yml) |
 | Sieng, Patrick K. | 42725 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/42725-transcript.md) - [yaml](../yaml/42725-transcript.yml) |
@@ -1477,7 +1480,6 @@
 | Slauson, Daniel J. | 17699 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2012-08-08 | [md](../markdown/17699-transcript.md) - [yaml](../yaml/17699-transcript.yml) |
 | Anderson, David P. | 18154 | Portland Police Bureau | Inactive | Sergeant | Retired | 2013-06-28 | [md](../markdown/18154-transcript.md) - [yaml](../yaml/18154-transcript.yml) |
 | McCormick, Robert C. | 18374 | Portland Police Bureau | Inactive | Sergeant | Retired | 2016-10-12 | [md](../markdown/18374-transcript.md) - [yaml](../yaml/18374-transcript.yml) |
-| Musgrave, Timothy I. | 20110 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2019-08-01 | [md](../markdown/20110-transcript.md) - [yaml](../yaml/20110-transcript.yml) |
 | Kelly, James P. | 20672 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2018-11-26 | [md](../markdown/20672-transcript.md) - [yaml](../yaml/20672-transcript.yml) |
 | Perkins, Thomas M. | 21046 | Portland Police Bureau | Inactive | Sergeant | Retired | 2020-08-29 | [md](../markdown/21046-transcript.md) - [yaml](../yaml/21046-transcript.yml) |
 | Edgecomb, Andrew E. | 21339 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2019-07-30 | [md](../markdown/21339-transcript.md) - [yaml](../yaml/21339-transcript.yml) |
@@ -1574,7 +1576,6 @@
 | Wolf, Kevin J. | 40799 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-07-25 | [md](../markdown/40799-transcript.md) - [yaml](../yaml/40799-transcript.yml) |
 | Kofoed, Andrew R. | 40928 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/40928-transcript.md) - [yaml](../yaml/40928-transcript.yml) |
 | Maxey, Brent S. | 40930 | Portland Police Bureau | Active | Sergeant | Promotion | 2018-12-13 | [md](../markdown/40930-transcript.md) - [yaml](../yaml/40930-transcript.yml) |
-| Russell, Alicia L. | 40932 | Portland Police Bureau | Active | Sergeant | Promotion | 2018-05-03 | [md](../markdown/40932-transcript.md) - [yaml](../yaml/40932-transcript.yml) |
 | Searle, Robert A., Jr. | 40949 | Portland Police Bureau | Active | Sergeant | Promotion | 2018-06-14 | [md](../markdown/40949-transcript.md) - [yaml](../yaml/40949-transcript.yml) |
 | Nett, James C. | 41052 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2022-10-14 | [md](../markdown/41052-transcript.md) - [yaml](../yaml/41052-transcript.yml) |
 | Ismail, Hythum A. | 41302 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/41302-transcript.md) - [yaml](../yaml/41302-transcript.yml) |
@@ -1647,7 +1648,6 @@
 | Duong, Quyen L. | 52318 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/52318-transcript.md) - [yaml](../yaml/52318-transcript.yml) |
 | Westerlund, London A. | 52338 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/52338-transcript.md) - [yaml](../yaml/52338-transcript.yml) |
 | Robert, Onest | 52367 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/52367-transcript.md) - [yaml](../yaml/52367-transcript.yml) |
-| Lloyd, Bryan E. | 52678 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-03-17 | [md](../markdown/52678-transcript.md) - [yaml](../yaml/52678-transcript.yml) |
 | Huntinghouse, Kenneth H. | 52689 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/52689-transcript.md) - [yaml](../yaml/52689-transcript.yml) |
 | Miller, Nicole J. | 52693 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/52693-transcript.md) - [yaml](../yaml/52693-transcript.yml) |
 | Anderson, Bryan J. | 52713 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/52713-transcript.md) - [yaml](../yaml/52713-transcript.yml) |

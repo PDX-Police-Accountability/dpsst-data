@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2023 | HBS2592A | On-Duty Firearms | Passed | 0.0 | 1.25 |
 | 5/23/2023 | HBS4316 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 4/5/2023 | HBS26801 | Building Search | Passed | 0.0 | 4.00 |
 | 3/30/2023 | REG23696 | Standing Guard Pass | Passed | 0.0 | 1.00 |

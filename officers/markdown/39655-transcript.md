@@ -35,7 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP0987A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/8/2023 | PDP2708A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/4/2023 | PDP2223A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/27/2023 | PDP2174A | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 4/23/2023 | PDP1768 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 4/22/2023 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

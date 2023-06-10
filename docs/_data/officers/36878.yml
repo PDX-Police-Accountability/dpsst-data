@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2023
+  course: OCS3130A
+  title: FBI/LEEDA
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/8/2023
   course: BVP10108
   title: Air Support Briefing Training

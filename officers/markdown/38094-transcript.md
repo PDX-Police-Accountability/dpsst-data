@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/11/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/1/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
