@@ -1,2 +1,105 @@
 ---
-missing_transcript: true
+header_record:
+  name: Duddington, Walter L.
+  dpsst_identifier: '40787'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Reserve Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 5/29/2001
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 11/10/2009
+  course: '09-0952'
+  title: CPR / First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/26/2008
+  course: '08-0709'
+  title: Mobile Data Terminal (MDT)
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/24/2008
+  course: '08-0129'
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/31/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/31/2007
+  course: 07-0133
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/19/2003
+  course: 03-0254
+  title: Oregon State Police Intoxilizer 5000
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 8/16/2003
+  course: 03-0422
+  title: SFST  Drugs that Impair Driving
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 3/28/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 11/14/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/9/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '164.50'
+- date: 3/3/2001
+  course: 01CP167
+  title: Radar Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+attribute_records: []
+education_records: []

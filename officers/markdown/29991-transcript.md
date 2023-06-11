@@ -50,7 +50,6 @@
 | 3/16/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/11/2020 | PDP03034 | Traffic Division Motors Monthly Refresher Training | Passed | 0.0 | 6.00 |
 | 3/9/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 3/9/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/9/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/5/2020 | PDP00208 | 2020 BHR 2.02 | Passed | 0.0 | 1.00 |
@@ -76,7 +75,6 @@
 | 2/9/2020 | PDP22529 | 2020-1 Range Qualification Colt AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 2/9/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 2/9/2020 | PDP15893 | 2020-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
-| 2/4/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/4/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 1/28/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/8/2020 | PDP10352 | Traffic Division Annual Refresher Training | Passed | 0.0 | 8.00 |

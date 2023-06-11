@@ -125,4 +125,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/20/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/11/2022
+  degree: Bachelor Science
+  school: Western Oregon University
+  major: Criminal Justice
+  hours: '181.0'

@@ -249,7 +249,6 @@
 | 3/27/2020 | PDP35084 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/27/2020 | PDP33428 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/11/2020 | PDP09165 | 2019-12 City Attorney's Office Legal Updates 12/19 | Passed | 0.0 | 0.50 |
-| 2/11/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/11/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/7/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 2/7/2020 | PDP16258 | 2020-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

@@ -165,7 +165,6 @@
 | 7/6/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 7/6/2021 | PDP13149 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/2/2021 | PDP18776 | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 7/2/2021 | PDP15440 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/1/2021 | PDP27907 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/30/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/11/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |

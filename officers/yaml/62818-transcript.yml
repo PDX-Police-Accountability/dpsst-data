@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: 11/16/2024
 training_records:
+- date: 6/7/2023
+  course: CIF4267A
+  title: Mobile Command Center Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/1/2023
   course: CIF3609
   title: Public Law 280 in Oregon
