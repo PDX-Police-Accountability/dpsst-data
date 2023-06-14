@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/9/2023
+  course: PDP3957A
+  title: FBI-LEEDA Command Leadership Insitute
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/15/2023
   course: PDP1379A
   title: Psychology of Terrorism  Counter Terrorism

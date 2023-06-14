@@ -47,6 +47,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/17/2023
+  course: PDS3380A
+  title: LE Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/19/2023
   course: PDS08325
   title: Reserve Deputy Unit Monthly Training

@@ -41,6 +41,8 @@
 | 5/24/2023 | PDS4436A | Yoga For First Responders | Passed | 0.0 | 1.00 |
 | 5/24/2023 | PDS2934A | NAMI Training | Passed | 0.0 | 2.00 |
 | 5/24/2023 | PDS1648A | Peer Support | Passed | 0.0 | 1.00 |
+| 5/12/2023 | PDS1609A | DPSST Certification Requirements | Passed | 0.0 | 0.50 |
+| 5/12/2023 | PDS2622A | Adult Protective Services | Passed | 0.0 | 1.00 |
 | 1/10/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/31/2022 | 22-CVDL3 | 2022 LE Basic 3 Year Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/9/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |

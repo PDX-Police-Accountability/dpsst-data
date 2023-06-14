@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/9/2023
+  course: BVP1383A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

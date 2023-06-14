@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2023 | HUP3953A | Human Strategy Overview | Passed | 0.0 | 0.50 |
 | 5/25/2023 | LOP3247A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 5/23/2023 | LOP3572A | Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 5/11/2023 | LOP0560A | Defensive Tactics - Takedowns | Passed | 0.0 | 1.00 |

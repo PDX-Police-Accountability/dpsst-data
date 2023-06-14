@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |

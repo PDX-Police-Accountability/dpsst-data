@@ -30,6 +30,7 @@
 | 5/17/2023 | PDS1250 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 5/17/2023 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 5/17/2023 | PDS0051A | Reserve Deputy Unit Training | Passed | 0.0 | 2.00 |
+| 5/12/2023 | PDS3380A | LE Property and Evidence | Passed | 0.0 | 0.50 |
 | 4/19/2023 | PDS08325 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 3/8/2023 | PDS11734 | Policy Update / Use of Force Review | Passed | 0.0 | 2.00 |
 | 2/26/2023 | PDS03063 | Benchmark Analytics | Passed | 0.0 | 4.00 |

@@ -1247,7 +1247,7 @@
 | Arden, Gabriel K. | 60989 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-07-27 | [md](../markdown/60989-transcript.md) - [yaml](../yaml/60989-transcript.yml) |
 | Parker, Jared A. | 61008 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-30 | [md](../markdown/61008-transcript.md) - [yaml](../yaml/61008-transcript.yml) |
 | Taira, Matthew T. | 61048 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-12-07 | [md](../markdown/61048-transcript.md) - [yaml](../yaml/61048-transcript.yml) |
-| Schultz, Alec R. | 61081 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
+| Schultz, Alec R. | 61081 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-26 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Kaneda, Sambi | 61083 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/61083-transcript.md) - [yaml](../yaml/61083-transcript.yml) |
 | Medina, Gabriel F. | 61098 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-28 | [md](../markdown/61098-transcript.md) - [yaml](../yaml/61098-transcript.yml) |
 | Robles, Karina P. | 61099 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-28 | [md](../markdown/61099-transcript.md) - [yaml](../yaml/61099-transcript.yml) |

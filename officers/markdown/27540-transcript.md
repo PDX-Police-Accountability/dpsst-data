@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2023 | HUP3953A | Human Strategy Overview | Passed | 0.0 | 0.50 |
 | 4/7/2023 | OAC15420 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/6/2023 | OAC35257 | Trauma and Post-Tramatic Stress | Passed | 0.0 | 4.00 |
 | 4/5/2023 | OAC24572 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |

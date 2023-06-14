@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/12/2023
+  course: VND1420A
+  title: Oregon Child Forensic Interview Training (OCFIT)
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 5/3/2023
   course: BNP37276
   title: 2nd Quart. Inservice - HG, Rifle  Off duty skills

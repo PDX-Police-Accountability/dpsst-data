@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/8/2023
+  course: HUP3953A
+  title: Human Strategy Overview
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/25/2023
   course: LOP3247A
   title: Bloodborne Pathogens

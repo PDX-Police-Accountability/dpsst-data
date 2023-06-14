@@ -68,6 +68,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/17/2023
+  course: SDP1039A
+  title: DUII Warrant writing and Precessing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/2023
+  course: SDP1669A
+  title: Amber Alert Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/2023
+  course: SDP0686A
+  title: Legal Updates and Discussion Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/2023
+  course: SDP3580A
+  title: Evidence Handling and Precessing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/2023
+  course: SDP3219A
+  title: Prison Rape Elimination Act Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/12/2023
   course: LOP2596A
   title: Metro Area Sergeants Academy

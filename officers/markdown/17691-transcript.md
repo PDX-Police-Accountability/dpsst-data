@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2023 | MNS3494A | Firearms Skill Builder | Passed | 0.0 | 2.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/31/2023 | MNS18173 | Taser 7 Introduction and Certification | Passed | 0.0 | 4.00 |

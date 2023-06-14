@@ -4,7 +4,7 @@
 | name | Schultz, Alec R. |
 | dpsst_identifier | 61081 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/26/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/21/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/15/2021 | Police Officer | Basic | Granted | 9/15/2021 |  |  |
+| 9/15/2021 | Police Officer | Basic | Granted | 9/15/2021 | 8/26/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

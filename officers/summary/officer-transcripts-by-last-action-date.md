@@ -1123,7 +1123,6 @@
 | Gill, Charles S. | 57050 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-14 | [md](../markdown/57050-transcript.md) - [yaml](../yaml/57050-transcript.yml) |
 | Perry, Charles D. | 60923 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-14 | [md](../markdown/60923-transcript.md) - [yaml](../yaml/60923-transcript.yml) |
 | Hughes, Paige J. | 57456 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/57456-transcript.md) - [yaml](../yaml/57456-transcript.yml) |
-| Schultz, Alec R. | 61081 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Kaneda, Sambi | 61083 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/61083-transcript.md) - [yaml](../yaml/61083-transcript.yml) |
 | Stewart, Rylee A. | 61148 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/61148-transcript.md) - [yaml](../yaml/61148-transcript.yml) |
 | Owens, Joyce I. | 18677 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2020-05-28 | [md](../markdown/18677-transcript.md) - [yaml](../yaml/18677-transcript.yml) |
@@ -1659,4 +1658,5 @@
 | Stillwell, Spencer J. | 64166 | Portland Police Bureau | Active | Police Officer | Hired | 2023-05-11 | [md](../markdown/64166-transcript.md) - [yaml](../yaml/64166-transcript.yml) |
 | Carlson, Allison J. | 48743 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-13 | [md](../markdown/48743-transcript.md) - [yaml](../yaml/48743-transcript.yml) |
 | Paisley, Brianne N. | 53471 | Portland Police Bureau | Active | Police Officer | Hired | 2023-05-25 | [md](../markdown/53471-transcript.md) - [yaml](../yaml/53471-transcript.yml) |
+| Schultz, Alec R. | 61081 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-26 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Francis, Michael R. | 28248 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-10-27 | [md](../markdown/28248-transcript.md) - [yaml](../yaml/28248-transcript.yml) |

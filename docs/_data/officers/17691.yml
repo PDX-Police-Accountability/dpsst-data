@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2023
+  course: MNS3494A
+  title: Firearms Skill Builder
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/28/2023
   course: BPT13195
   title: Police Traffic Safety Conference

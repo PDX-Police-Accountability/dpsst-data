@@ -1350,7 +1350,7 @@
 | Schroeder, Shawn R. | 58932 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58932-transcript.md) - [yaml](../yaml/58932-transcript.yml) |
 | Schull, Broden R. | 63052 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63052-transcript.md) - [yaml](../yaml/63052-transcript.yml) |
 | Schull, Wayne D. | 47433 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-16 | [md](../markdown/47433-transcript.md) - [yaml](../yaml/47433-transcript.yml) |
-| Schultz, Alec R. | 61081 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
+| Schultz, Alec R. | 61081 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-26 | [md](../markdown/61081-transcript.md) - [yaml](../yaml/61081-transcript.yml) |
 | Schultz, Bradley S. | 63344 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/63344-transcript.md) - [yaml](../yaml/63344-transcript.yml) |
 | Schurter, Tina M. | 18743 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2021-06-28 | [md](../markdown/18743-transcript.md) - [yaml](../yaml/18743-transcript.yml) |
 | Schwartz, Matthew B. | 62260 | Portland Police Bureau | Active | Police Officer | Hired | 2021-09-30 | [md](../markdown/62260-transcript.md) - [yaml](../yaml/62260-transcript.yml) |

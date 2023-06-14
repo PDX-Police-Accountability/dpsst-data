@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/9/2023 | PDP3957A | FBI-LEEDA Command Leadership Insitute | Passed | 0.0 | 40.00 |
 | 5/15/2023 | PDP1379A | Psychology of Terrorism  Counter Terrorism | Passed | 0.0 | 7.00 |
 | 5/13/2023 | PDP4009A | Team Rubicon Emergency Management | Passed | 0.0 | 7.00 |
 | 4/27/2023 | PDP35875 | Future of Work | Passed | 0.0 | 3.00 |

@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2023
+  course: PDS3380A
+  title: LE Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/26/2023
   course: PDS11600
   title: Range Training

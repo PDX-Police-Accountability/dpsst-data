@@ -46,6 +46,7 @@
 | 5/18/2023 | PDS2430A | SWAT Practical | Passed | 0.0 | 8.00 |
 | 5/17/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 5/17/2023 | PDS2742A | SWAT Range | Passed | 0.0 | 8.00 |
+| 5/8/2023 | PDS3380A | LE Property and Evidence | Passed | 0.0 | 0.50 |
 | 4/26/2023 | PDS11600 | Range Training | Instructed | 0.0 | 5.00 |
 | 4/21/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 4/21/2023 | PDS1554A | SWAT Sniper Training | Passed | 0.0 | 10.00 |

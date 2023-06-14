@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2023 | PDS3380A | LE Property and Evidence | Passed | 0.0 | 0.50 |
 | 4/26/2023 | PDS11600 | Range Training | Passed | 0.0 | 5.00 |
 | 3/21/2023 | PDS18727 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 3/21/2023 | PDS39278 | TacMed | Passed | 0.0 | 4.00 |

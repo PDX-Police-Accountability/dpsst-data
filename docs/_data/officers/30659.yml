@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/12/2023
+  course: PDS1609A
+  title: DPSST Certification Requirements
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/12/2023
+  course: PDS2622A
+  title: Adult Protective Services
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/10/2023
   course: PDS44545
   title: Power DMS
