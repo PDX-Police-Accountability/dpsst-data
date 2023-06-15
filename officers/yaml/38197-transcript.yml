@@ -231,6 +231,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/18/2022
+  course: PDP4351A
+  title: 2022 External Training VirTra Adv Trainer Cert
+  status: Passed
+  score: '0.0'
+  hours: '34.50'
 - date: 11/16/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015

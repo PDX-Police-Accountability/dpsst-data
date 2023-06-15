@@ -48,6 +48,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 6/2/2023 | BNP2344A | Extreme Risk Protection Orders | Passed | 0.0 | 1.00 |
+| 6/2/2023 | BNP2555A | Excited Delirium | Passed | 0.0 | 0.50 |
+| 6/2/2023 | BNP3574A | Lethality Assessment Program | Passed | 0.0 | 1.00 |
+| 6/2/2023 | BNP0813A | HAZMAT | Passed | 0.0 | 1.00 |
+| 6/2/2023 | BNP0296A | Narcaan deployment | Passed | 0.0 | 1.00 |
+| 6/1/2023 | BNP0846A | Legal Updates | Passed | 0.0 | 4.00 |
 | 5/2/2023 | BNP44893 | 2nd Quart. inservice - HG, Rifle  Off Duty skills | Passed | 0.0 | 6.00 |
 | 5/2/2023 | BNP29119 | 40 MM Policy training and qualification | Passed | 0.0 | 0.50 |
 | 5/2/2023 | BNP03977 | Emotional Intelligence/ Mental Health | Passed | 0.0 | 0.50 |

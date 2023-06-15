@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 4/17/2023
+  course: PDP0224A
+  title: 2023 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/24/2023
   course: REG0348A
   title: DID/SFST (Hours included in Basic)

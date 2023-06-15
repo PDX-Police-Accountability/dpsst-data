@@ -92,6 +92,7 @@
 | 1/28/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/27/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 1/27/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 1/26/2023 | PDP3930A | 2023 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.50 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |

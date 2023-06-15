@@ -123,6 +123,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2023
+  course: SVP1067A
+  title: Handgun Training/Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/26/2023
+  course: SVP3387A
+  title: Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/25/2023
   course: SVP0825
   title: Basic Baton Training
@@ -135,6 +147,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/15/2023
+  course: SVP0235A
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/10/2023
   course: BPT19183
   title: MILO / Range 3000 IDC

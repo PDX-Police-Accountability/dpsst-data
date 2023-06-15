@@ -171,6 +171,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/16/2022
+  course: PDP2072A
+  title: 2022 DHS Public Order Public Safety Instr Dvlpmnt
+  status: Passed
+  score: '0.0'
+  hours: '120.00'
 - date: 12/9/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

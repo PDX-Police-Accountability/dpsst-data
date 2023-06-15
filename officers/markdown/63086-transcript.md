@@ -73,6 +73,7 @@
 | 3/30/2023 | PDP40925 | DIR 015.00 Less Lethal Weapons  Tools | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP42869 | DIR 660.10 Property  Evidence Proc/2018-5 TT | Passed | 0.0 | 0.50 |
 | 3/30/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP1455A | 2023 Training RegJIN RMS/MRE Training | Passed | 0.0 | 18.00 |
 | 3/29/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP15388 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

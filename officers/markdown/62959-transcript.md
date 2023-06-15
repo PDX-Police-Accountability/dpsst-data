@@ -98,12 +98,13 @@
 | 2/2/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 1/30/2023 | PDP07542 | Control Tactics Training | Passed | 0.0 | 4.00 |
+| 1/26/2023 | PDP3930A | 2023 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.50 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 1/23/2023 | PDP28174 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 1/23/2023 | PDP26221 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
-| 1/19/2023 | M10-22A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 1/19/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 12/12/2022 | BPT40870 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 12/12/2022 | BPT11358 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 11/10/2022 | REG24959 | Intox 8000 | Passed | 0.0 | 6.00 |

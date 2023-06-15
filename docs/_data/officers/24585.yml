@@ -82,6 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/24/2023
+  course: PSU1225A
+  title: MILO 3000 / Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/16/2023
   course: PSU3259
   title: Low Light/Shooting  Moving/Transitions/ Qual
@@ -117,13 +123,19 @@ training_records:
   title: Maintenance Makeup Firearms/Use of Force
   status: Passed
   score: '0.0'
-  hours: '6.50'
+  hours: '8.00'
 - date: 12/31/2022
   course: MAINTMUH
   title: Maintenance Makeup Ethics
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/31/2022
+  course: MISCMAIN
+  title: 2022 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/16/2022
   course: 22-0026
   title: DPSST Middle Management
@@ -1949,10 +1961,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 education_records:
 - date: 8/15/1998
   degree: Bachelor Science

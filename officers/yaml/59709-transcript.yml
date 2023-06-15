@@ -42,6 +42,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/2/2023
+  course: BNP2344A
+  title: Extreme Risk Protection Orders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/2/2023
+  course: BNP0813A
+  title: HAZMAT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/2/2023
+  course: BNP2555A
+  title: Excited Delirium
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/2/2023
+  course: BNP3574A
+  title: Lethality Assessment Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/2/2023
+  course: BNP0296A
+  title: Narcaan deployment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2023
+  course: BNP0846A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/16/2023
   course: BNP4217
   title: UAV Drone Indoor/Outdoor team flights Air Boss 911

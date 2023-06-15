@@ -37,6 +37,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/22/2023 | TDP0412A | CPR/First Aid | Passed | 0.0 | 4.00 |
+| 4/28/2023 | PLA0008A | A Person's a Person, No Matter How Small | Passed | 0.0 | 1.00 |
+| 4/28/2023 | PLA3221A | Child Fatality Investigations | Passed | 0.0 | 1.00 |
+| 4/28/2023 | PLA4157A | Internet Crimes Against Children | Passed | 0.0 | 2.50 |
+| 4/27/2023 | PLA3739A | The ABC's of Child Abuse Investigation | Passed | 0.0 | 2.00 |
+| 4/27/2023 | PLA4214A | Investigator's Guide to Interviewing Suspects | Passed | 0.0 | 2.00 |
+| 4/27/2023 | PLA3351A | Impact of Working With Child Victims | Passed | 0.0 | 1.00 |
+| 4/27/2023 | PLA1237A | Overview of Shaken Baby Syndrome | Passed | 0.0 | 1.50 |
 | 4/26/2023 | TDP16094 | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 4/24/2023 | HRP09612 | BIAS Presentation | Passed | 0.0 | 6.00 |
 | 3/10/2023 | TDP19925 | De-Escalation 2023 | Passed | 0.0 | 2.00 |

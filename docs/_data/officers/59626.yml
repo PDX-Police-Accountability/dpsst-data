@@ -1757,4 +1757,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/14/2019
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 6/13/2023
 education_records: []

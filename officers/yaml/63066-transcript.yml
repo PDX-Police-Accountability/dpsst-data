@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/23/2023
+  course: PDP0116A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
 - date: 5/18/2023
   course: PDP4268A
   title: 2023 FTEP Post DPSST Firearms

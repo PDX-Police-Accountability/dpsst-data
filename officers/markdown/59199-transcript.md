@@ -58,6 +58,7 @@
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/8/2023 | ALS24773 | Annual Anti-Harassment Training | Passed | 0.0 | 2.00 |
 | 2/7/2023 | ALS44225 | Taser Certification | Passed | 0.0 | 8.00 |
+| 1/13/2023 | ALS4062A | Know Be For Trainings | Passed | 0.0 | 1.00 |
 | 1/2/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
 | 1/2/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/11/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |

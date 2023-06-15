@@ -87,6 +87,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 5/15/2023
+  course: SVP0235A
+  title: Duty to Intercede
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/10/2023
   course: SVP17080
   title: PoliceOne Academy Ethics in Law Enfrocement

@@ -120,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/30/2023
+  course: PDP1455A
+  title: 2023 Training RegJIN RMS/MRE Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 3/29/2023
   course: PDP26182
   title: 2019-4 TT Emailing Security Reports

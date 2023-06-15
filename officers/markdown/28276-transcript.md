@@ -48,8 +48,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2023 | SVP1067A | Handgun Training/Qualification | Instructed | 0.0 | 4.00 |
+| 5/26/2023 | SVP3387A | Handgun Training | Instructed | 0.0 | 4.00 |
 | 5/25/2023 | SVP0825 | Basic Baton Training | Instructed | 0.0 | 1.50 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 5/15/2023 | SVP0235A | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 5/10/2023 | BPT19183 | MILO / Range 3000 IDC | Passed | 0.0 | 7.00 |
 | 4/27/2023 | SVP02912 | ZOLL AED Training | Passed | 0.0 | 0.50 |
 | 4/27/2023 | SVP02890 | TAC Medic Kit Familiarization | Passed | 0.0 | 0.50 |

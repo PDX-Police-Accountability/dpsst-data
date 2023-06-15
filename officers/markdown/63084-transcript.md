@@ -43,6 +43,7 @@
 | 3/30/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 3/30/2023 | PDP1455A | 2023 Training RegJIN RMS/MRE Training | Passed | 0.0 | 18.00 |
 | 3/29/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP11914 | 2022-3 CAO Legal Updates for 3/2022 | Passed | 0.0 | 0.25 |

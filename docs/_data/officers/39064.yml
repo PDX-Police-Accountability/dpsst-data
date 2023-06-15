@@ -56,6 +56,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/28/2023
+  course: PLA0008A
+  title: A Person's a Person, No Matter How Small
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/28/2023
+  course: PLA3221A
+  title: Child Fatality Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/28/2023
+  course: PLA4157A
+  title: Internet Crimes Against Children
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/27/2023
+  course: PLA3739A
+  title: The ABC's of Child Abuse Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/27/2023
+  course: PLA4214A
+  title: Investigator's Guide to Interviewing Suspects
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/27/2023
+  course: PLA3351A
+  title: Impact of Working With Child Victims
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2023
+  course: PLA1237A
+  title: Overview of Shaken Baby Syndrome
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/26/2023
   course: TDP16094
   title: Spring Firearms Qualification and Training

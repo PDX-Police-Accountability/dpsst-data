@@ -187,6 +187,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/13/2023
+  course: ALS4062A
+  title: Know Be For Trainings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/2/2023
   course: PDP33753
   title: 2022-3 TT Oregon Ballot Measure 114

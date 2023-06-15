@@ -42,6 +42,7 @@
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 5/24/2023 | SVP0142A | Defensive Tactics Refresher | Instructed | 0.0 | 4.00 |
 | 5/24/2023 | SVP3602A | Oleoresin Cpsicum Training (OC Spray) | Instructed | 0.0 | 3.00 |
+| 5/15/2023 | SVP0235A | Duty to Intercede | Passed | 0.0 | 1.00 |
 | 4/10/2023 | SVP17080 | PoliceOne Academy Ethics in Law Enfrocement | Passed | 0.0 | 1.00 |
 | 4/7/2023 | OAC23627 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/7/2023 | OAC43392 | Radically  Ethically Motivated Violent Extremists | Passed | 0.0 | 1.50 |

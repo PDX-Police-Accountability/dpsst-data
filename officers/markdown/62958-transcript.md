@@ -65,6 +65,7 @@
 | 2/6/2023 | PDP33178 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP22591 | FTEP Orientation | Passed | 0.0 | 6.50 |
 | 1/30/2023 | PDP07542 | Control Tactics Training | Passed | 0.0 | 4.00 |
+| 1/26/2023 | PDP3930A | 2023 FTEP Introduction to Property and Evidence | Passed | 0.0 | 2.50 |
 | 1/25/2023 | PDP06859 | CEW Basic Training  Certification | Passed | 0.0 | 7.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |

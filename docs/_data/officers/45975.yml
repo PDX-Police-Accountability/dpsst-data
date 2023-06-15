@@ -386,6 +386,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/31/2022
+  course: PDP3688A
+  title: 2022 External Training CIT Intl Conference 083122
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/18/2022
   course: PDP11656
   title: G0191 Emergency Operations Center/ICS Interface

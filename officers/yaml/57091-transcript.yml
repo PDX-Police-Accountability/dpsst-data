@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2023
+  course: PDP0116A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '13.00'
 - date: 5/18/2023
   course: PDP4268A
   title: 2023 FTEP Post DPSST Firearms
@@ -410,6 +416,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 11/18/2022
+  course: PDP4351A
+  title: 2022 External Training VirTra Adv Trainer Cert
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 11/14/2022
   course: PDP37226
   title: 2022-11 EO Clarification Regarding DIR 1010  1015

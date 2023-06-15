@@ -44,6 +44,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/6/2023 | SMP3590A | Taser Instructor Recertification | Passed | 0.0 | 8.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 4.00 |
+| 4/28/2023 | PLA0008A | A Person's a Person, No Matter How Small | Passed | 0.0 | 1.00 |
+| 4/28/2023 | PLA2442A | The B's of Child Abuse | Passed | 0.0 | 3.00 |
+| 4/27/2023 | PLA3739A | The ABC's of Child Abuse Investigation | Passed | 0.0 | 2.00 |
+| 4/27/2023 | PLA4214A | Investigator's Guide to Interviewing Suspects | Passed | 0.0 | 2.00 |
+| 4/27/2023 | PLA3351A | Impact of Working With Child Victims | Passed | 0.0 | 1.00 |
+| 4/27/2023 | PLA1237A | Overview of Shaken Baby Syndrome | Passed | 0.0 | 1.50 |
+| 4/27/2023 | PLA1878A | Search Warrants | Passed | 0.0 | 1.00 |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Passed | 0.0 | 8.00 |
 | 4/26/2023 | PLT03315 | Internet Crimes Against Children | Instructed | 0.0 | 8.00 |
 | 4/20/2023 | SAG17561 | Firearms range training | Passed | 0.0 | 3.00 |

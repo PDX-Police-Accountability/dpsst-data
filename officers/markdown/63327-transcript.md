@@ -38,6 +38,7 @@
 | 4/24/2023 | PDP3352A | 2023 FTEP Control Tactics Post Basic | Passed | 0.0 | 2.00 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 12.00 |
+| 4/17/2023 | PDP0224A | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
 | 3/24/2023 | REG0348A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 2/23/2023 | REG09627 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 12/29/2022 | PDP03615 | RADAR/ LiDAR Operator Training | Passed | 0.0 | 14.00 |

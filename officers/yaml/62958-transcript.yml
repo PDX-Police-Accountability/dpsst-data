@@ -246,6 +246,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/26/2023
+  course: PDP3930A
+  title: 2023 FTEP Introduction to Property and Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 1/25/2023
   course: PDP06859
   title: CEW Basic Training  Certification
