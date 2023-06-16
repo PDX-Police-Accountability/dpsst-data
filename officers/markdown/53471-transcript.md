@@ -26,6 +26,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Signed | 3/10/2014 |  |
+| Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
