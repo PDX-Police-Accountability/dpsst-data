@@ -4269,6 +4269,14 @@ training_records:
   score: '0.0'
   hours: '80.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/7/2023
+  expiration_date: 6/7/2025
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/7/2023
+  expiration_date: 6/7/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4293,14 +4301,6 @@ attribute_records:
   value: Signed
   effective_date: 7/10/2001
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 6/13/2023
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 6/13/2023
 education_records:
 - date: 12/15/1996
   degree: No Degree
