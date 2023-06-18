@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 11/18/2009 |  |
 | Code of Ethics | Signed | 11/18/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -615,6 +610,7 @@
 | 11/14/2011 | 11-0905 | Ethics | Passed | 0.0 | 8.00 |
 | 10/31/2011 | 11-1016 | Daily Training Bulletins | Passed | 0.0 | 5.00 |
 | 9/30/2011 | 11-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 5.50 |
+| 9/25/2011 | PDP0538A | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 9/22/2011 | 11-0396 | IS 800 National Response Plan (NRP), An Intro | Passed | 0.0 | 3.00 |
 | 8/26/2011 | 11-0805 | Rural Patrol Drug Investigations | Passed | 0.0 | 24.00 |
 | 4/13/2011 | 11-0653 | Community - Other | Passed | 0.0 | 1.00 |

@@ -21,12 +21,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/13/2023 | 5/13/2025 |
-| Certification Cards | First Aid and CPR | 5/13/2023 | 5/13/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +32,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/13/2023 | PDP2146A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/19/2023 | GSP30972 | 2023 OPCA Spring Conference - Patrol | Passed | 0.0 | 24.00 |
+| 4/19/2023 | PDP0894A | 2023 Oregon Police Canine Association Spring | Passed | 0.0 | 21.00 |
 | 3/24/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/24/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/24/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

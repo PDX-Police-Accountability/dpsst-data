@@ -961,18 +961,6 @@ attribute_records:
   expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 1/1/1950
 - topic: Maintenance Requirements
@@ -983,14 +971,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/4/2022
   expiration_date: 4/8/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/4/2022
-  expiration_date: 4/8/2024
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 9/13/2021
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/13/2021
@@ -998,14 +978,6 @@ attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 8/6/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 8/6/2020
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 5/13/2019
   expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed

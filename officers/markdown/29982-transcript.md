@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
-| Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
-| Code of Ethics | Signed | 5/4/2001 |  |
 | Code of Ethics | Signed | 5/4/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 6/14/2023 | HUP1470 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 5/24/2023 | SVP0142A | Defensive Tactics Refresher | Instructed | 0.0 | 4.00 |
 | 5/24/2023 | SVP3602A | Oleoresin Cpsicum Training (OC Spray) | Instructed | 0.0 | 3.00 |
 | 5/15/2023 | SVP0235A | Duty to Intercede | Passed | 0.0 | 1.00 |

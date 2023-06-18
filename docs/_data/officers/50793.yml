@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2023
+  course: PDP0889
+  title: 2023 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/24/2023
   course: PDP2249A
   title: 2023 K-9 (K9) Weekly Training
@@ -73,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/19/2023
+  course: PDP0894A
+  title: 2023 Oregon Police Canine Association Spring
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 4/12/2023
   course: PDP3878A
   title: 2023-1 Basic Police K-9 School
@@ -4176,14 +4188,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/17/2023
   expiration_date: 5/17/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/17/2023
-  expiration_date: 5/17/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4192,22 +4196,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/17/2021
   expiration_date: 6/17/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/17/2021
-  expiration_date: 6/17/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 6/22/2010
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 6/22/2010

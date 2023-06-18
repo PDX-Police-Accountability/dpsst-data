@@ -26,15 +26,9 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | CPR | 5/23/2023 | 5/23/2025 |
 | Certification Cards | CPR | 5/23/2023 | 5/23/2025 |
 | Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
-| Certification Cards | CPR | 1/23/2023 | 1/31/2025 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
-| Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
-| Code of Ethics | Signed | 10/4/2016 |  |
 | Code of Ethics | Signed | 10/4/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/6/2023 | HBS2592A | On-Duty Firearms | Passed | 0.0 | 1.25 |
 | 5/23/2023 | HBS4316 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
+| 5/23/2023 | HBS1533A | May 2023 EVO In-Service | Passed | 0.0 | 3.50 |
 | 4/5/2023 | HBS26801 | Building Search | Passed | 0.0 | 4.00 |
 | 3/30/2023 | REG23696 | Standing Guard Pass | Passed | 0.0 | 1.00 |
 | 3/16/2023 | REG17353 | Guard Pass from Ground Control | Passed | 0.0 | 1.00 |

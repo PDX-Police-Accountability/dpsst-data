@@ -27,16 +27,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | CPR | 5/2/2023 | 5/2/2025 |
 | Certification Cards | CPR | 5/2/2023 | 5/2/2025 |
 | Certification Cards | CPR | 1/16/2023 | 1/31/2025 |
-| Certification Cards | CPR | 1/16/2023 | 1/31/2025 |
-| Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Certification Cards | First Aid | 1/26/2022 | 1/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/17/2002 |  |
 | Code of Ethics | Signed | 10/17/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -45,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2023 | HBS2473A | Washington County Elder Abuse Symposium | Instructed | 0.0 | 1.50 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/2/2023 | HBS1517A | Adult, Child and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 4/27/2023 | HBS0037A | 2023 National Cyber Crime Conference | Passed | 0.0 | 18.00 |

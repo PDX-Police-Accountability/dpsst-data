@@ -1641,7 +1641,7 @@
 | Worthington, Heather D. | 63415 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-05-01 | [md](../markdown/63415-transcript.md) - [yaml](../yaml/63415-transcript.yml) |
 | Close, Michael A., Jr. | 38094 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/38094-transcript.md) - [yaml](../yaml/38094-transcript.yml) |
 | Harris, Leo J. | 39655 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/39655-transcript.md) - [yaml](../yaml/39655-transcript.yml) |
-| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
+| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Detective | Reclassed | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
 | Fox, Kenneth S. | 47852 | Portland Police Bureau | Active | Criminalist | Promotion | 2023-05-11 | [md](../markdown/47852-transcript.md) - [yaml](../yaml/47852-transcript.yml) |
 | Payton, Sarah J. | 50738 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/50738-transcript.md) - [yaml](../yaml/50738-transcript.yml) |
 | Kamphuis, Kendall D. | 50822 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/50822-transcript.md) - [yaml](../yaml/50822-transcript.yml) |

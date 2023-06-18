@@ -27,12 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 10/29/2010 |  |
 | Code of Ethics | Signed | 10/29/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | HUP1470 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/10/2023 | HUP0650A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 4/12/2023 | HUP41232 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |

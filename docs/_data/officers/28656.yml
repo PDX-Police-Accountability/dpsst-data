@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2023
+  course: TGP0194A
+  title: Legally Justified but Was It Avoidable?
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/17/2023
   course: TGP25079
   title: Path of the Guardian 2023Q1
@@ -83,6 +89,12 @@ training_records:
 - date: 3/20/2023
   course: TGP13399
   title: K-9 Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2023
+  course: TGP1188A
+  title: First Aid/CPR/AED/TCCC/Naloxone
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -2437,14 +2449,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2026
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/28/2023
-  expiration_date: 2/28/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/28/2023
@@ -2453,22 +2457,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/23/2022
   expiration_date: 2/29/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/23/2022
-  expiration_date: 2/29/2024
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/20/2021
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/20/2021

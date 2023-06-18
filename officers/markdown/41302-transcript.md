@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Certification Cards | First Aid and CPR | 6/1/2021 | 6/1/2023 |
-| Code of Ethics | Signed | 1/15/2002 |  |
 | Code of Ethics | Signed | 1/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2023 | PDP0732 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/30/2023 | PDP2370A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/26/2023 | PDP3879A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Instructed | 0.0 | 1.75 |

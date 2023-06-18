@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/12/2023 | 5/12/2025 |
-| Certification Cards | First Aid and CPR | 5/12/2023 | 5/12/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 8/3/2004 |  |
 | Code of Ethics | Signed | 8/3/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,7 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/12/2023 | PDS3342A | CPR/First Aid | Passed | 0.0 | 2.50 |
+| 5/12/2023 | PDS3692 | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2022 | PDP40615 | 2022-2 All Sworn In-Service Legal Updates 1010.00 | Passed | 0.0 | 2.00 |
 | 11/16/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |

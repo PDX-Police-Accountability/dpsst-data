@@ -12,7 +12,9 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/10/2023 | Portland State University DPS | Hired | Police Off |  |  |
 | 10/27/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
+| 5/25/2022 | Portland State University DPS | Resigned | Police Off |  |  |
 | 5/15/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/10/2021 | Portland State University DPS | Hired | Police Off |  |  |
 | 8/9/2021 | Portland Police Bureau | Retired | Police Off |  |  |
@@ -20,11 +22,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/26/1993 | Police Officer | Basic | Granted | 4/26/1993 |  |  |
+| 5/10/2023 | Police Officer | Basic | Required |  |  | 11/10/2024 |
+| 1/27/2023 | Police Officer | Basic | Lapsed | 4/26/1993 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 | Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
 ## Education
 | date | degree | school | major | hours |
@@ -32,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2023 | PSU1273A | MKW De-escalation Training | Passed | 0.0 | 4.00 |
 | 5/16/2023 | PSU1814 | MILO 3000 / Shoot Don't Shoot Scenarios | Passed | 0.0 | 1.50 |
 | 5/11/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/11/2023 | PSU0064 | Low Light/Shooting  Moving/Transitions/ Qual | Passed | 0.0 | 2.50 |

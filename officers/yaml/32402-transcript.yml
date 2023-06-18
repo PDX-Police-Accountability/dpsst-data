@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/8/2023
+  course: HBS2473A
+  title: Washington County Elder Abuse Symposium
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -3049,14 +3055,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: CPR
-  effective_date: 5/2/2023
-  expiration_date: 5/2/2025
 - topic: Certification Cards
   value: CPR
   effective_date: 5/2/2023
@@ -3066,14 +3064,6 @@ attribute_records:
   effective_date: 1/16/2023
   expiration_date: 1/31/2025
 - topic: Certification Cards
-  value: CPR
-  effective_date: 1/16/2023
-  expiration_date: 1/31/2025
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 1/26/2022
-  expiration_date: 1/26/2024
-- topic: Certification Cards
   value: First Aid
   effective_date: 1/26/2022
   expiration_date: 1/26/2024
@@ -3081,14 +3071,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 10/17/2002
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/17/2002

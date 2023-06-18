@@ -1651,7 +1651,7 @@
 | Young, Joseph D. | 33646 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2019-07-19 | [md](../markdown/33646-transcript.md) - [yaml](../yaml/33646-transcript.yml) |
 | Youngberg, Amy M. | 52345 | Portland Police Bureau | Active | Police Officer | Hired | 2011-12-08 | [md](../markdown/52345-transcript.md) - [yaml](../yaml/52345-transcript.yml) |
 | Yrizarry, Christopher | 28656 | Portland Police Bureau | Inactive | Detective | Retired | 2020-08-28 | [md](../markdown/28656-transcript.md) - [yaml](../yaml/28656-transcript.yml) |
-| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
+| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Detective | Reclassed | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
 | Zajac, Eric J. | 37883 | Portland Police Bureau | Active | Police Officer | Hired | 1999-08-12 | [md](../markdown/37883-transcript.md) - [yaml](../yaml/37883-transcript.yml) |
 | Zajac, Scott J. | 62995 | Portland Police Bureau | Active | Police Officer | Hired | 2022-06-23 | [md](../markdown/62995-transcript.md) - [yaml](../yaml/62995-transcript.yml) |
 | Zanetti, Anthony R. | 40588 | Portland Police Bureau | Active | Police Officer | LOA | 2020-01-01 | [md](../markdown/40588-transcript.md) - [yaml](../yaml/40588-transcript.yml) |

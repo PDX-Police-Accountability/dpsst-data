@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/13/2023
+  course: PDP3734A
+  title: 2023 FTEP Control Tactics CT Post Basic Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/25/2023
   course: REG0412A
   title: DID/SFST (Hours included in Basic)
@@ -121,10 +127,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 2/20/2023
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 2/20/2023

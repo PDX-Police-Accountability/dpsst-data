@@ -33,14 +33,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Certification Cards | First Aid and CPR | 7/1/2021 | 7/1/2023 |
-| Code of Ethics | Signed | 6/25/2009 |  |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -55,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/4/2023 | PDP3434 | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 3/17/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/17/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/17/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

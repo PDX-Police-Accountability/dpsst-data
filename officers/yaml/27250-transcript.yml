@@ -9,8 +9,20 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/10/2023
+  agency: Portland State University DPS
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/27/2022
   agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 5/25/2022
+  agency: Portland State University DPS
   action: Resigned
   rank: Police Off
   classification: ''
@@ -40,14 +52,27 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/26/1993
+- status_date: 5/10/2023
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 11/10/2024
+- status_date: 1/27/2023
+  certificate: Police Officer
+  level: Basic
+  status: Lapsed
   certificate_date: 4/26/1993
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2023
+  course: PSU1273A
+  title: MKW De-escalation Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/16/2023
   course: PSU1814
   title: MILO 3000 / Shoot Don't Shoot Scenarios
@@ -3289,10 +3314,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/8/2021
-  expiration_date: 6/8/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/8/2021

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 5/16/2023
   course: PDP0522A
   title: 2023 FTEP Post Basic CEW Taser
@@ -3031,14 +3037,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2024
-  expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/21/2023
-  expiration_date: 3/21/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/21/2023
@@ -3048,21 +3046,9 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 1/1/1950
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2025
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 9/20/2000
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/20/2000

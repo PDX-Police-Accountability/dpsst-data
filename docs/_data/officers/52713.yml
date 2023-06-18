@@ -34,12 +34,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/27/2023
+- status_date: 6/15/2023
   certificate: Police Officer
   level: Intermediate
-  status: App Incmpl
+  status: App InProc
   certificate_date: ''
-  expiration_date: 7/12/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 1/20/2021
   certificate: Corrections Officer
@@ -3283,10 +3283,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/2/2023
   expiration_date: 5/2/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/2/2023
-  expiration_date: 5/2/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
@@ -3295,18 +3291,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 2/20/2013
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/20/2013

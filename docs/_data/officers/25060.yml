@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2023
+  course: WBP3768A
+  title: Mental Health Basics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/28/2023
   course: SMS36387
   title: Tactical Med for First Responders (TCCC)
@@ -3069,14 +3075,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 9/14/2022
   expiration_date: 9/14/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 9/14/2022
-  expiration_date: 9/14/2024
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 12/4/2007
-  expiration_date: ''
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/4/2007

@@ -25,14 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 3/21/2023 | 3/21/2025 |
 | Certification Cards | First Aid and CPR | 3/21/2023 | 3/21/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
-| Code of Ethics | Signed | 9/20/2000 |  |
 | Code of Ethics | Signed | 9/20/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

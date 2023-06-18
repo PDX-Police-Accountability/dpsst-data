@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
-| Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
-| Code of Ethics | Signed | 3/10/2014 |  |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
+| 5/24/2023 | PDP3703A | 2023 External Training WATAI Spring Conference | Passed | 0.0 | 12.00 |
 | 4/20/2023 | PDP0178A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

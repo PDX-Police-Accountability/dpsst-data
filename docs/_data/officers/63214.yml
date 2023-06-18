@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 4/18/2023
+  course: PDP1471A
+  title: 2023 FTEP HAZMAT/WMD Awareness/APR Fitting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/17/2023
   course: PDP0224A
   title: 2023 FTEP Orientation
@@ -239,14 +245,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/31/2023
   expiration_date: 5/31/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/31/2023
-  expiration_date: 5/31/2025
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 12/12/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/12/2022

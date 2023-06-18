@@ -450,6 +450,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 1/26/2023
+  course: PDP1471A
+  title: 2023 FTEP HAZMAT/WMD Awareness/APR Fitting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/25/2023
   course: PDP06859
   title: CEW Basic Training  Certification
@@ -563,14 +569,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/16/2023
   expiration_date: 5/16/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/16/2023
-  expiration_date: 5/16/2025
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 9/12/2022
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/12/2022

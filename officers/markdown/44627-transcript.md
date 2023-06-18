@@ -27,14 +27,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/6/2023 | 6/6/2025 |
-| Certification Cards | First Aid and CPR | 6/6/2023 | 6/6/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
-| Certification Cards | First Aid and CPR | 7/7/2021 | 7/7/2023 |
-| Code of Ethics | Signed | 2/6/2006 |  |
 | Code of Ethics | Signed | 2/6/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2023 | PDP2663 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.25 |
 | 1/19/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 1/19/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |

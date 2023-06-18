@@ -22,14 +22,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Signed | 1/2/2017 |  |
-| Code of Ethics | Signed | 1/2/2017 |  |
-| Code of Ethics | Signed | 11/7/2016 |  |
 | Code of Ethics | Signed | 11/7/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 5/25/2023 | PDP3564A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 5/23/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 5/18/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |

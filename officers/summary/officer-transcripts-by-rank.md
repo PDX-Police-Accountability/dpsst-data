@@ -398,6 +398,7 @@
 | Forland, Steven J. | 41761 | Portland Police Bureau | Active | Detective | Promotion | 2014-08-28 | [md](../markdown/41761-transcript.md) - [yaml](../yaml/41761-transcript.yml) |
 | Corona, Joseph R. | 41783 | Portland Police Bureau | Active | Detective | Promotion | 2018-02-08 | [md](../markdown/41783-transcript.md) - [yaml](../yaml/41783-transcript.yml) |
 | Dickinson, Douglas J. | 41829 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/41829-transcript.md) - [yaml](../yaml/41829-transcript.yml) |
+| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Detective | Reclassed | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
 | Moore, Nathan A. | 42576 | Portland Police Bureau | Active | Detective | Return LOA | 2022-10-13 | [md](../markdown/42576-transcript.md) - [yaml](../yaml/42576-transcript.yml) |
 | Law, Travis W. | 42652 | Portland Police Bureau | Active | Detective | Promotion | 2017-09-21 | [md](../markdown/42652-transcript.md) - [yaml](../yaml/42652-transcript.yml) |
 | Griggs, Andrew J. | 43320 | Portland Police Bureau | Inactive | Detective | Resigned | 2019-12-31 | [md](../markdown/43320-transcript.md) - [yaml](../yaml/43320-transcript.yml) |
@@ -1578,7 +1579,6 @@
 | Searle, Robert A., Jr. | 40949 | Portland Police Bureau | Active | Sergeant | Promotion | 2018-06-14 | [md](../markdown/40949-transcript.md) - [yaml](../yaml/40949-transcript.yml) |
 | Nett, James C. | 41052 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2022-10-14 | [md](../markdown/41052-transcript.md) - [yaml](../yaml/41052-transcript.yml) |
 | Ismail, Hythum A. | 41302 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/41302-transcript.md) - [yaml](../yaml/41302-transcript.yml) |
-| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
 | Wullbrandt, Robert M. | 42649 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/42649-transcript.md) - [yaml](../yaml/42649-transcript.yml) |
 | Sharp, Steven M. | 42660 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/42660-transcript.md) - [yaml](../yaml/42660-transcript.yml) |
 | Kula, Heath E. | 42786 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2013-11-26 | [md](../markdown/42786-transcript.md) - [yaml](../yaml/42786-transcript.yml) |

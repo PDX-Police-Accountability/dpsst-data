@@ -29,14 +29,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 4/25/2023 | 4/25/2025 |
-| Certification Cards | First Aid and CPR | 4/25/2023 | 4/25/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Certification Cards | First Aid and CPR | 6/29/2021 | 6/29/2023 |
-| Code of Ethics | Signed | 2/2/2009 |  |
 | Code of Ethics | Signed | 2/2/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -55,6 +50,7 @@
 | 2/20/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/20/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/8/2023 | PDP0121A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 1/31/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 1/24/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

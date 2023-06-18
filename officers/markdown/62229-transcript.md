@@ -21,10 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/7/2023 | 6/7/2025 |
-| Certification Cards | First Aid and CPR | 6/7/2023 | 6/7/2025 |
 | Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 2/21/2022 |  |
-| Certification Cards | First Aid and CPR | 2/1/2022 | 2/1/2024 |
 | Certification Cards | First Aid and CPR | 2/1/2022 | 2/1/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -32,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2023 | PDP0732 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/16/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |

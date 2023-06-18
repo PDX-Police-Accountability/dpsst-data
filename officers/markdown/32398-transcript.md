@@ -24,12 +24,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 9/27/2005 |  |
 | Code of Ethics | Signed | 9/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP2100 | 2023 FTEP Geography | Instructed | 0.0 | 2.00 |
+| 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Instructed | 0.0 | 7.00 |
 | 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Instructed | 0.0 | 36.00 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Instructed | 0.0 | 6.00 |

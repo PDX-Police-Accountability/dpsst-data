@@ -32,17 +32,14 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Certification Cards | First Aid and CPR | 6/14/2021 | 6/14/2023 |
-| Code of Ethics | Signed | 2/15/2012 |  |
 | Code of Ethics | Signed | 2/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 | 9/1/2000 | No Degree | Chemeketa Community College |  | 6.0 |
+| 12/15/1989 | No Degree | Oregon State University |  | 15.0 |
 | 6/20/1989 | No Degree | Umpqua Community College | Liberal Arts/distributed Study | 69.0 |
 ## Training
 | date | course | title | status | score | hours |

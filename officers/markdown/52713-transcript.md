@@ -19,19 +19,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/27/2023 | Police Officer | Intermediate | App Incmpl |  | 7/12/2023 |  |
+| 6/15/2023 | Police Officer | Intermediate | App InProc |  |  |  |
 | 1/20/2021 | Corrections Officer | Basic | Expired | 8/28/2013 |  |  |
 | 1/18/2017 | Police Officer | Basic | Granted | 1/18/2017 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Code of Ethics | Signed | 2/20/2013 |  |
 | Code of Ethics | Signed | 2/20/2013 |  |
 ## Education
 | date | degree | school | major | hours |

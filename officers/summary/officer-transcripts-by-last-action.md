@@ -846,7 +846,6 @@
 | Corona, Joseph R. | 41783 | Portland Police Bureau | Active | Detective | Promotion | 2018-02-08 | [md](../markdown/41783-transcript.md) - [yaml](../yaml/41783-transcript.yml) |
 | Dickinson, Douglas J. | 41829 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/41829-transcript.md) - [yaml](../yaml/41829-transcript.yml) |
 | Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
-| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
 | Wullbrandt, Robert M. | 42649 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/42649-transcript.md) - [yaml](../yaml/42649-transcript.yml) |
 | Law, Travis W. | 42652 | Portland Police Bureau | Active | Detective | Promotion | 2017-09-21 | [md](../markdown/42652-transcript.md) - [yaml](../yaml/42652-transcript.yml) |
 | Sharp, Steven M. | 42660 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/42660-transcript.md) - [yaml](../yaml/42660-transcript.yml) |
@@ -966,6 +965,7 @@
 | Geiger, Bert L. | 21285 | Portland Police Bureau | Active | Civilian Employee | Reclassed | 2005-03-01 | [md](../markdown/21285-transcript.md) - [yaml](../yaml/21285-transcript.yml) |
 | Lewton, Ryan S. | 34674 | Portland Police Bureau | Active | Police Officer | Reclassed | 2001-08-16 | [md](../markdown/34674-transcript.md) - [yaml](../yaml/34674-transcript.yml) |
 | Labasan, Benjamin A. | 39828 | Portland Police Bureau | Active | Police Officer | Reclassed | 2007-12-20 | [md](../markdown/39828-transcript.md) - [yaml](../yaml/39828-transcript.yml) |
+| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Detective | Reclassed | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
 | Burn, Gregory D. | 42554 | Portland Police Bureau | Active | Police Officer | Reclassed | 2004-02-26 | [md](../markdown/42554-transcript.md) - [yaml](../yaml/42554-transcript.yml) |
 | Ciri, Jeffrey T. | 45002 | Portland Police Bureau | Active | Police Officer | Reclassed | 2009-10-29 | [md](../markdown/45002-transcript.md) - [yaml](../yaml/45002-transcript.yml) |
 | Espana, Ryan L. | 48728 | Portland Police Bureau | Active | Police Officer | Reclassed | 2007-12-20 | [md](../markdown/48728-transcript.md) - [yaml](../yaml/48728-transcript.yml) |

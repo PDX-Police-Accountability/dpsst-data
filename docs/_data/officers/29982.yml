@@ -75,6 +75,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/14/2023
+  course: HUP1470
+  title: Marion County Leadership Monthly Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/24/2023
   course: SVP0142A
   title: Defensive Tactics Refresher
@@ -3837,14 +3843,6 @@ attribute_records:
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
 - topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
@@ -3852,21 +3850,9 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 11/3/2021
   expiration_date: 11/3/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/3/2021
-  expiration_date: 11/3/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/21/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 9/21/2021
-  expiration_date: ''
-- topic: Code of Ethics
-  value: Signed
-  effective_date: 5/4/2001
   expiration_date: ''
 - topic: Code of Ethics
   value: Signed

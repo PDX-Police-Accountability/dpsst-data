@@ -21,10 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/5/2023 | 6/5/2025 |
-| Certification Cards | First Aid and CPR | 6/5/2023 | 6/5/2025 |
 | Certification Cards | First Aid and CPR | 5/31/2023 | 5/31/2025 |
-| Certification Cards | First Aid and CPR | 5/31/2023 | 5/31/2025 |
-| Code of Ethics | Law Enforcement Signed | 10/10/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 10/10/2022 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -33,6 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/7/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/5/2023 | PDP1138 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/18/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 3/18/2023 | PDP32925 | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |

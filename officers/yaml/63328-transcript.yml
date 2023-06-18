@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/1/2023
+  course: PDP2100
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/1/2023
+  course: PDP1471A
+  title: 2023 FTEP HAZMAT/WMD Awareness/APR Fitting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/31/2023
+  course: PDP0679
+  title: 2023 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/30/2023
+  course: PDP3896A
+  title: 2023 FTEP Radar Lidar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/23/2023
   course: PDP0116A
   title: 2023 FTEP Post DPSST Firearms
@@ -157,10 +181,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 1/23/2023
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/23/2023

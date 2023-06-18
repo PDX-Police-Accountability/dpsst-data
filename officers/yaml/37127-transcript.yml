@@ -96,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 5/12/2023
+  course: PDS3692
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 4/10/2023
   course: 23-0009
   title: DPSST Basic Police COD
@@ -143,14 +149,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/12/2023
   expiration_date: 5/12/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/12/2023
-  expiration_date: 5/12/2025
-- topic: Code of Ethics
-  value: Law Enforcement Signed
-  effective_date: 4/10/2023
-  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/10/2023

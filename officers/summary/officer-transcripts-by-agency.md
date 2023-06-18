@@ -834,7 +834,7 @@
 | Cass, Christopher L. | 42307 | Portland Police Bureau | Active | Police Officer | Hired | 2002-06-27 | [md](../markdown/42307-transcript.md) - [yaml](../yaml/42307-transcript.yml) |
 | Hensey, Jason R. | 42309 | Portland Police Bureau | Active | Police Officer | Demotion | 2016-10-01 | [md](../markdown/42309-transcript.md) - [yaml](../yaml/42309-transcript.yml) |
 | Hastings, Michael R. | 42381 | Portland Police Bureau | Active | Police Officer | Hired | 2005-08-25 | [md](../markdown/42381-transcript.md) - [yaml](../yaml/42381-transcript.yml) |
-| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
+| Zaitz, Jordan S. | 42391 | Portland Police Bureau | Active | Detective | Reclassed | 2023-05-11 | [md](../markdown/42391-transcript.md) - [yaml](../yaml/42391-transcript.yml) |
 | Romanowski, Daniel J. | 42427 | Portland Police Bureau | Active | Police Officer | Return LOA | 2010-10-27 | [md](../markdown/42427-transcript.md) - [yaml](../yaml/42427-transcript.yml) |
 | Brown, Robert C. | 42549 | Portland Police Bureau | Active | Police Officer | Hired | 2002-09-12 | [md](../markdown/42549-transcript.md) - [yaml](../yaml/42549-transcript.yml) |
 | Bailey, Timothy R. | 42553 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/42553-transcript.md) - [yaml](../yaml/42553-transcript.yml) |

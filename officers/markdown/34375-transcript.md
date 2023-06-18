@@ -37,14 +37,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 3/7/2023 | 3/7/2025 |
-| Certification Cards | First Aid and CPR | 3/7/2023 | 3/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
-| Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 4/24/2002 |  |
 | Code of Ethics | Signed | 4/24/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -54,6 +49,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/1/2023 | STS0453A | Karly's Law | Passed | 0.0 | 2.00 |
+| 6/14/2023 | STS0211A | Meridian Anti Vehicle Barriers | Passed | 0.0 | 1.00 |
 | 5/22/2023 | STS0642 | Rifle Training / Qualification | Passed | 0.0 | 1.00 |
 | 5/5/2023 | VND0329A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 32.00 |
 | 4/27/2023 | STS19680 | Active Shooter Training: Driving Force and Search | Passed | 0.0 | 4.00 |

@@ -28,12 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
 | Certification Cards | First Aid and CPR | 1/20/2023 | 1/20/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Code of Ethics | Signed | 12/16/2016 |  |
 | Code of Ethics | Signed | 12/16/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/21/2023 | MNS3494A | Firearms Skill Builder | Passed | 0.0 | 2.00 |
 | 2/23/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 2/23/2023 | MNS3744A | Low Light Qualification | Passed | 0.0 | 2.00 |
 | 1/31/2023 | MNS18173 | Taser 7 Introduction and Certification | Passed | 0.0 | 4.00 |
 | 1/29/2023 | MNS32980 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 1/20/2023 | MNS26072 | CPR Recertification | Passed | 0.0 | 4.00 |

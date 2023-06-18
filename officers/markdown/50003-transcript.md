@@ -17,21 +17,16 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/13/2023 | Police Officer | Advanced | App InProc |  |  |  |
+| 6/14/2023 | Police Officer | Advanced | Granted | 6/14/2023 |  |  |
 | 5/15/2012 | Police Officer | Intermediate | Granted | 5/15/2012 |  |  |
 | 2/2/2010 | Police Officer | Basic | Granted | 2/2/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/3/2021 | 7/3/2023 |
-| Certification Cards | First Aid and CPR | 7/3/2021 | 7/3/2023 |
-| Code of Ethics | Signed | 10/24/2008 |  |
 | Code of Ethics | Signed | 10/24/2008 |  |
 ## Education
 | date | degree | school | major | hours |

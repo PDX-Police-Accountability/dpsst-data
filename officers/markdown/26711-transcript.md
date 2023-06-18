@@ -34,12 +34,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 3/2/2001 |  |
 | Code of Ethics | Signed | 3/2/2001 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -52,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | HBP0382 | FEMA 2023 earhtquake event | Passed | 0.0 | 5.00 |
 | 3/15/2023 | HBP38729 | Respectful Workplace - Sprvsr Course (Equity) | Passed | 0.0 | 1.25 |
 | 3/15/2023 | HBP07262 | Respectful Workplace - Sprvsr Course (Leadership) | Passed | 0.0 | 0.75 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

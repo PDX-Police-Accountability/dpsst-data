@@ -28,14 +28,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Certification Cards | First Aid and CPR | 2/28/2023 | 2/28/2025 |
 | Certification Cards | First Aid and CPR | 2/28/2023 | 2/28/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
-| Certification Cards | First Aid and CPR | 2/23/2022 | 2/29/2024 |
-| Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 1/20/2021 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -44,9 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | TGP0194A | Legally Justified but Was It Avoidable? | Passed | 0.0 | 1.50 |
 | 4/17/2023 | TGP25079 | Path of the Guardian 2023Q1 | Passed | 0.0 | 2.00 |
 | 3/26/2023 | TGP33817 | Drone Use for Patrol and Investigations | Passed | 0.0 | 1.00 |
 | 3/20/2023 | TGP13399 | K-9 Training | Passed | 0.0 | 1.00 |
+| 2/28/2023 | TGP1188A | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.00 |
 | 1/13/2023 | TGP34570 | 2022 July Patrol Briefing Training | Passed | 0.0 | 0.75 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/6/2022 | TGP38544 | Taser Training Update | Passed | 0.0 | 1.00 |

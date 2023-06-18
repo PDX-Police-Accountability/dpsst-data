@@ -23,14 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 6/24/2021 | 6/24/2023 |
-| Certification Cards | First Aid and CPR | 6/24/2021 | 6/24/2023 |
-| Code of Ethics | Signed | 7/16/2015 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,10 +34,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Instructed | 0.0 | 3.00 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/26/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/19/2023 | SMP03607 | IABTI - Oregon Spring Regional Training | Passed | 0.0 | 8.00 |
 | 4/19/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 4/18/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Instructed | 0.0 | 3.00 |
 | 3/28/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
@@ -62,6 +59,7 @@
 | 2/10/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/8/2023 | PDP01096 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 1/26/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Instructed | 0.0 | 3.00 |
 | 1/24/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
