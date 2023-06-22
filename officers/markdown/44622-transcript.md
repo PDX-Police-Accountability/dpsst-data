@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2023 | OSH3000A | Active Threat Instructor Development Course | Instructed | 0.0 | 16.00 |
 | 6/5/2023 | OSH0955A | Vehicle Extraction | Passed | 0.0 | 4.00 |
 | 5/24/2023 | OSH3440 | FA2- Rifle | Instructed | 0.0 | 8.00 |
 | 5/22/2023 | OSH3451A | Firearms FA2- Rifle | Instructed | 0.0 | 8.00 |

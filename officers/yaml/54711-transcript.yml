@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2023
+  course: KFS4438A
+  title: DT Instructor Work Shop
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/9/2023
   course: PDP2105A
   title: CPR/First Aid

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2023 | KFS4438A | DT Instructor Work Shop | Passed | 0.0 | 24.00 |
 | 5/9/2023 | PDP2105A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/28/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

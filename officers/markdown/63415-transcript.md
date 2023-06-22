@@ -29,7 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/23/2023 | REG24193 | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 2/26/2023 | PDP26373 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
-| 1/23/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
+| 1/23/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
 | 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |

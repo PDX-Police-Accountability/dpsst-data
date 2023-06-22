@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2023
+  course: REG1637A
+  title: Emergency Vehicle Operations - Skill Update
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
 - date: 11/21/2022
   course: BPT01449
   title: Firearms Training and Qualifications

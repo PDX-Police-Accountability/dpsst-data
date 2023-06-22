@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/13/2023 | WBP3768A | Mental Health Basics | Passed | 0.0 | 1.50 |
+| 6/1/2023 | WBP2669A | Pistol Mounted Optics Course | Instructed | 0.0 | 8.00 |
 | 4/28/2023 | SMS36387 | Tactical Med for First Responders (TCCC) | Passed | 0.0 | 8.00 |
 | 4/27/2023 | EGN33597 | Glock Armorer Class | Passed | 0.0 | 8.00 |
 | 4/4/2023 | WBP35225 | Redflex Program Training | Instructed | 0.0 | 1.50 |

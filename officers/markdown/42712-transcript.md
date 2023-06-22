@@ -43,6 +43,7 @@
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/13/2023 | HBS0612A | Adult, Child and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 5/13/2023 | HBS1294 | May 2023 EVO In-Service | Passed | 0.0 | 3.50 |
+| 5/13/2023 | HBS4165A | 2023 May In-Service IFAST | Passed | 0.0 | 4.50 |
 | 3/18/2023 | HBS15120 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/18/2023 | HBS34913 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |
 | 2/20/2023 | HBS42167 | Defensive Tools Update | Passed | 0.0 | 1.00 |

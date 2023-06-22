@@ -56,12 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/25/2023
+  course: OCP4027A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/28/2023
   course: REG10403
   title: 2023 DUII Multi-Disciplinary Training Conference
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 3/23/2023
+  course: OCP3085A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/28/2023
   course: BPT13195
   title: Police Traffic Safety Conference

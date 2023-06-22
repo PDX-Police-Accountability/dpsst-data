@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | OCP4027A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/9/2023 | BPT17282 | Basic DT Trainer Workshop | Passed | 0.0 | 8.00 |
 | 1/31/2023 | OCP09155 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |

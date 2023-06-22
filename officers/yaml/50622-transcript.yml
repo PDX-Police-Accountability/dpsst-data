@@ -74,12 +74,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/25/2023
+  course: OCP4027A
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '12.00'
+- date: 5/25/2023
+  course: OCP4027A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/12/2023
   course: LOP2596A
   title: Metro Area Sergeants Academy
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 3/23/2023
+  course: OCP3085A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/23/2023
+  course: OCP3085A
+  title: '0'
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 2/17/2023
   course: OCP22019
   title: Peer Support Team Training

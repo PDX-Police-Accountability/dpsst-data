@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2023 | PDS1706A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 5/17/2023 | PDS1250 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 5/17/2023 | PDS0051A | Reserve Deputy Unit Training | Passed | 0.0 | 2.00 |
 | 4/19/2023 | PDS08325 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |

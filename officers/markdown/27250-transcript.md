@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | PSU1027A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 6/14/2023 | PSU1325A | Shooting  Moving / Target Discrimination | Passed | 0.0 | 2.00 |
+| 6/14/2023 | PSU2314A | MILO 3000 - Scenario Training | Passed | 0.0 | 1.50 |
 | 6/13/2023 | PSU1273A | MKW De-escalation Training | Passed | 0.0 | 4.00 |
 | 5/16/2023 | PSU1814 | MILO 3000 / Shoot Don't Shoot Scenarios | Passed | 0.0 | 1.50 |
 | 5/11/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |

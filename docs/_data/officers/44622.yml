@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2023
+  course: OSH3000A
+  title: Active Threat Instructor Development Course
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/5/2023
   course: OSH0955A
   title: Vehicle Extraction

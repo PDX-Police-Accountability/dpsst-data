@@ -67,6 +67,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2023
+  course: PSU1027A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/14/2023
+  course: PSU1325A
+  title: Shooting  Moving / Target Discrimination
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/14/2023
+  course: PSU2314A
+  title: MILO 3000 - Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/13/2023
   course: PSU1273A
   title: MKW De-escalation Training

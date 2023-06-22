@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/23/2023
+  course: OCP3085A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/4/2023
   course: OCP00776
   title: First Aid  Adult/Child CPR

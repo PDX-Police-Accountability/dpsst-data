@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 5/13/2023
+  course: HBS4165A
+  title: 2023 May In-Service IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/18/2023
   course: HBS15120
   title: March 2023 In-Service DT/EVO
