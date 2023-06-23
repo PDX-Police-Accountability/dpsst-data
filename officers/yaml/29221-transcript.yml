@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/19/2023
+  course: BNP4266A
+  title: June 2023 On Duty Control Tactics - Takedowns
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/2/2023
   course: BNP2344A
   title: Extreme Risk Protection Orders

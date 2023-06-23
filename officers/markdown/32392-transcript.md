@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2023 | TGP0105A | Nike IPR Training | Passed | 0.0 | 1.00 |
 | 4/6/2023 | HBS11510 | ARIDE | Passed | 0.0 | 16.00 |
 | 3/1/2023 | HBS41629 | Crash Scene Photography Update | Passed | 0.0 | 2.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |

@@ -49,6 +49,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/6/2023 | BKP1987A | MERRTT / D.O.E. Secure Transport | Passed | 0.0 | 16.00 |
+| 5/23/2023 | REG4142A | Patrol Rifle IDC | Instructed | 0.0 | 30.00 |
 | 5/5/2023 | VND0329A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 8.00 |
 | 3/29/2023 | LGS40316 | Patrol Firearms | Instructed | 0.0 | 4.00 |
 | 3/22/2023 | LGS35901 | Case Law Review | Passed | 0.0 | 1.00 |

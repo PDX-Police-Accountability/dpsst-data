@@ -136,6 +136,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/23/2023
+  course: REG4142A
+  title: Patrol Rifle IDC
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 5/5/2023
   course: VND0329A
   title: OSMB Marine Law Enforcement Academy

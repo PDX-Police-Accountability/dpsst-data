@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2023
+  course: REG0041A
+  title: Weapon Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2023
   course: HBS2592A
   title: On-Duty Firearms

@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2023
+  course: CAP0211A
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/24/2023
   course: ALP32849
   title: Taser 7 Instructor Certification

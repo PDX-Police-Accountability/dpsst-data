@@ -68,6 +68,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/14/2023
+  course: SDP3981A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/14/2023
+  course: SDP3839A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/12/2023
+  course: REG1299A
+  title: Guard Recovery
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/5/2023
+  course: REG2870A
+  title: Grip Control/Take Down/Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/17/2023
   course: SDP1039A
   title: DUII Warrant writing and Precessing Training
@@ -95,6 +119,12 @@ training_records:
 - date: 5/17/2023
   course: SDP3219A
   title: Prison Rape Elimination Act Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/15/2023
+  course: REG1371A
+  title: Ground Control
   status: Passed
   score: '0.0'
   hours: '1.00'

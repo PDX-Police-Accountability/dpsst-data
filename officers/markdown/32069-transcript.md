@@ -39,11 +39,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 6/14/2023 | SDP3981A | Firearms Training | Passed | 0.0 | 4.00 |
+| 6/14/2023 | SDP3839A | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 6/12/2023 | REG1299A | Guard Recovery | Passed | 0.0 | 1.00 |
+| 6/5/2023 | REG2870A | Grip Control/Take Down/Ground Control | Passed | 0.0 | 1.00 |
 | 5/17/2023 | SDP1039A | DUII Warrant writing and Precessing Training | Passed | 0.0 | 1.00 |
 | 5/17/2023 | SDP1669A | Amber Alert Training | Passed | 0.0 | 1.00 |
 | 5/17/2023 | SDP0686A | Legal Updates and Discussion Training | Passed | 0.0 | 1.00 |
 | 5/17/2023 | SDP3580A | Evidence Handling and Precessing Training | Passed | 0.0 | 1.00 |
 | 5/17/2023 | SDP3219A | Prison Rape Elimination Act Training | Passed | 0.0 | 1.00 |
+| 5/15/2023 | REG1371A | Ground Control | Passed | 0.0 | 1.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 77.00 |
 | 4/26/2023 | SDP29316 | Defensive Tactics | Passed | 0.0 | 3.50 |
 | 4/24/2023 | REG20435 | Standing  Ground Back Control Escapes | Passed | 0.0 | 1.00 |

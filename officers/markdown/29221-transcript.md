@@ -48,6 +48,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 6/19/2023 | BNP4266A | June 2023 On Duty Control Tactics - Takedowns | Passed | 0.0 | 1.00 |
 | 6/2/2023 | BNP2344A | Extreme Risk Protection Orders | Passed | 0.0 | 1.00 |
 | 6/2/2023 | BNP2555A | Excited Delirium | Passed | 0.0 | 0.50 |
 | 6/2/2023 | BNP3574A | Lethality Assessment Program | Passed | 0.0 | 1.00 |

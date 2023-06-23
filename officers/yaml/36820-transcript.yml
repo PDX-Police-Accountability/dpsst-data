@@ -479,6 +479,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/28/2022
+  course: PDP1259A
+  title: Senior Management Institute for Police
+  status: Passed
+  score: '0.0'
+  hours: '105.00'
 - date: 7/20/2022
   course: PDP11567
   title: 2022 DIR 835.20 Managing Public Spaces

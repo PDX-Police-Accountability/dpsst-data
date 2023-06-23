@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | CAP0211A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 5/17/2023 | CAP3827 | Handgun Assessments 40mm Deployment | Instructed | 0.0 | 6.00 |
 | 4/3/2023 | CAP3202A | Blood Borne Pathogens for First Responders | Passed | 0.0 | 1.00 |
 | 4/3/2023 | CAP0500 | Union Pacific RR Hazmat Management Railroading 101 | Passed | 0.0 | 1.50 |

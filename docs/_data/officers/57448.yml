@@ -1,17 +1,23 @@
 ---
 header_record:
-  name: Lopez, Carlos
+  name: Lopez, Carlos, Jr.
   dpsst_identifier: '57448'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/8/2023
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/8/2021
   agency: Portland Police Bureau
-  action: Resigned
+  action: LOA
   rank: Police Off
   classification: ''
   assignment: ''
@@ -22,12 +28,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/8/2022
+- status_date: 8/27/2018
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Granted
   certificate_date: 8/27/2018
-  expiration_date: 12/8/2026
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 1/9/2022
@@ -1477,6 +1483,14 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2023
+  expiration_date: 12/31/2023
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2022
+  expiration_date: 12/31/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 6/7/2021

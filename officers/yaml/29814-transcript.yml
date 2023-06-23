@@ -825,6 +825,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.75'
+- date: 8/19/2021
+  course: PDP1112A
+  title: Senior Management Institute for Police
+  status: Passed
+  score: '0.0'
+  hours: '105.00'
 - date: 7/30/2021
   course: PDP39968
   title: 2021-2 Range Qualification Primary Firearm

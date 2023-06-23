@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | CAP0211A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 4/24/2023 | ALP32849 | Taser 7 Instructor Certification | Passed | 0.0 | 16.00 |
 | 4/5/2023 | OAC21346 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |
 | 4/4/2023 | HUP35767 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
