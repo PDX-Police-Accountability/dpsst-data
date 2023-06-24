@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/13/2023
+  course: PDP1723A
+  title: 2023-1 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/26/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording

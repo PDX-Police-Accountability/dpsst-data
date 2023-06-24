@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2023
+  course: HBN0821A
+  title: Home Visits/Scenarios + Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/11/2023
   course: HBN11206
   title: Behavior Change Plan Workshop - Spring 2023

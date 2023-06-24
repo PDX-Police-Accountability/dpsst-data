@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2023 | HSU1817A | Firearms June Supplemental Range | Passed | 0.0 | 3.00 |
 | 5/14/2023 | HSU3510 | RDS Prep Course | Instructed | 0.0 | 2.00 |
 | 4/25/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |
 | 4/24/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |

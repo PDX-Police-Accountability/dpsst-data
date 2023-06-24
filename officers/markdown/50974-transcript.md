@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2023 | LOP0868A | West Metro Monthly Motor Training 06/21/2023 | Passed | 0.0 | 5.00 |
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/23/2023 | OCP3085A | 0 | Passed | 0.0 | 4.00 |

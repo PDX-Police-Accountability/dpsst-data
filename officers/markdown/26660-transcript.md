@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2023 | HSU1817A | Firearms June Supplemental Range | Passed | 0.0 | 3.00 |
 | 4/22/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |
 | 4/21/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |
 | 4/21/2023 | HSU30108 | Perspectives of Social Work | Passed | 0.0 | 3.00 |

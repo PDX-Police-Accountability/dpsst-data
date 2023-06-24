@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/15/2023 | EGP1571A | Live Fire Drills | Passed | 0.0 | 4.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/11/2023 | EGP0073 | K9 Presentation | Passed | 0.0 | 2.00 |
 | 5/11/2023 | EGP1916 | Medical Training | Passed | 0.0 | 2.00 |

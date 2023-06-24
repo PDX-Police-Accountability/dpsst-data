@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/17/2023
+  course: PDP1293A
+  title: 2023 External Training ABLE Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/27/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles

@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/13/2023 | PDP1723A | 2023-1 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 3/26/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/20/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 2/27/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

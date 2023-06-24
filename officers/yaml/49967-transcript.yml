@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 6/10/2023
+  course: MNP2761A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/5/2023
   course: MNP06808
   title: EVOC in-service

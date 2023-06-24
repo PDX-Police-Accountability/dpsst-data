@@ -41,6 +41,7 @@
 | 6/6/2023 | HBS2592A | On-Duty Firearms | Passed | 0.0 | 1.25 |
 | 5/23/2023 | HBS4316 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 5/23/2023 | HBS1533A | May 2023 EVO In-Service | Passed | 0.0 | 3.50 |
+| 5/23/2023 | HBS4402A | 2023 May In-Service IFAST | Passed | 0.0 | 4.50 |
 | 4/5/2023 | HBS26801 | Building Search | Passed | 0.0 | 4.00 |
 | 3/30/2023 | REG23696 | Standing Guard Pass | Passed | 0.0 | 1.00 |
 | 3/16/2023 | REG17353 | Guard Pass from Ground Control | Passed | 0.0 | 1.00 |

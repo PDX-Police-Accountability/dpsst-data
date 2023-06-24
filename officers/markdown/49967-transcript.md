@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2023 | MNP2761A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 3/5/2023 | MNP06808 | EVOC in-service | Passed | 0.0 | 4.50 |
 | 3/5/2023 | MNP40300 | Building Search in-service | Passed | 0.0 | 4.50 |
 | 3/4/2023 | KZP19463 | Intoxilyzer 8000 | Passed | 0.0 | 6.00 |

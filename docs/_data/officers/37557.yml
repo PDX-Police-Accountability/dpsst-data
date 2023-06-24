@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2023
+  course: LOP2153A
+  title: EVOC/HR Stops/Box-In
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/2/2023
   course: LOP3247A
   title: Bloodborne Pathogens

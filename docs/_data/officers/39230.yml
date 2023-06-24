@@ -99,6 +99,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/15/2023
+  course: EGP0803A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

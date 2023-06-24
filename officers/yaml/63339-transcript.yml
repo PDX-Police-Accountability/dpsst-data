@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/30/2023
+  course: REG2153A
+  title: RADAR/LIDAR Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/23/2023
   course: PDP0116A
   title: 2023 FTEP Post DPSST Firearms

@@ -40,6 +40,7 @@
 | 6/15/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 4/17/2023 | PDP1293A | 2023 External Training ABLE Training | Passed | 0.0 | 9.00 |
 | 3/27/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP28141 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/16/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

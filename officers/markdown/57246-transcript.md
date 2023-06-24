@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/18/2023 | HBN3988A | Home Visits/Scenarios + Mental Health First Aid | Passed | 0.0 | 6.00 |
 | 4/27/2023 | TRN36649 | Pathways to Change | Passed | 0.0 | 24.00 |
 | 4/20/2023 | HBN03940 | BCP Workshop Spring 2023 | Passed | 0.0 | 1.00 |
 | 2/7/2023 | HBN40700 | DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION | Passed | 0.0 | 6.00 |

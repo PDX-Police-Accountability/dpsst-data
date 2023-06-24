@@ -30,17 +30,37 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/26/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/30/2023 | PDP2370A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/7/2023 | PDP1664A | 2023-1 Advanced Academy  PVO | Passed | 0.0 | 45.50 |
+| 5/5/2023 | PDP1194A | 2023-1 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
+| 5/1/2023 | PDP1843A | 2023-1 Advanced Academy Community Engagement | Passed | 0.0 | 41.50 |
+| 4/24/2023 | PDP4019A | 2023-1 Advanced Academy Wellnesss | Passed | 0.0 | 9.50 |
+| 4/24/2023 | PDP2501A | 2023-1 Advanced Academy Law | Passed | 0.0 | 29.00 |
+| 4/24/2023 | PDP3466A | 2023-1 Advanced Academy Control Tactics | Passed | 0.0 | 60.00 |
+| 4/20/2023 | PDP0444A | 2023-1 Advanced Academy Firearms | Passed | 0.0 | 46.75 |
+| 4/18/2023 | PDP4428A | 2023-1 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 97.75 |
+| 4/13/2023 | PDP1723A | 2023-1 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 4/11/2023 | PDP1182A | 2023-1 Advanced Academy Public Order | Passed | 0.0 | 10.50 |
+| 4/11/2023 | PDP1080A | 2023-1 Advanced Academy Air Suport Unit | Passed | 0.0 | 1.00 |
+| 4/11/2023 | PDP0431A | 2023-1 Advanced Academy Crime Scene Investigations | Passed | 0.0 | 1.00 |
+| 4/11/2023 | PDP1432A | 2023-1 Advanced Academy Human Trafficking | Passed | 0.0 | 1.00 |
+| 4/4/2023 | PDP2462A | 2023-1 Advanced Academy Fitness | Passed | 0.0 | 3.25 |
+| 4/3/2023 | PDP1147A | 2023-1 Advanced Academy Ethics | Passed | 0.0 | 5.00 |
+| 4/3/2023 | PDP4281A | 2023-1 Advanced Academy Ethics | Passed | 0.0 | 5.00 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 3/27/2023 | PDP0348A | 2023-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 13.50 |
+| 3/23/2023 | PDP3856A | 2023-1 Advanced Academy Cares | Passed | 0.0 | 1.50 |
 | 3/6/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/6/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
+| 2/22/2023 | PDP2211A | 2023-1 Advanced Academy PLPJ | Passed | 0.0 | 2.25 |
 | 2/20/2023 | PDP28174 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 2/20/2023 | PDP26221 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP28137 | DIR 0910.00 Use of Force Reporting, Review | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP00704 | City of Portland Bloodborne Pathogen | Passed | 0.0 | 1.00 |
 | 2/20/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 2/20/2023 | PDP34377 | DIR 640.38  Interacting w/ Members of the LGBTQ | Passed | 0.0 | 0.25 |
+| 2/16/2023 | PDP1769A | 2023-1 Advanced Academy Patrol Procecures (Other) | Passed | 0.0 | 6.50 |
 | 2/14/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/9/2023 | PDP17613 | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 2/9/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |

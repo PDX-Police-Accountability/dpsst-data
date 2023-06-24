@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 5/23/2023
+  course: HBS4402A
+  title: 2023 May In-Service IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 4/5/2023
   course: HBS26801
   title: Building Search

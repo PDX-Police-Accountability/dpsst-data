@@ -42,6 +42,7 @@
 | 6/8/2023 | HBS2473A | Washington County Elder Abuse Symposium | Instructed | 0.0 | 1.50 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/2/2023 | HBS1517A | Adult, Child and Infant CPR AED | Passed | 0.0 | 1.00 |
+| 5/2/2023 | HBS3245A | 2023 May In-Service IFAST | Passed | 0.0 | 4.50 |
 | 4/27/2023 | HBS0037A | 2023 National Cyber Crime Conference | Passed | 0.0 | 18.00 |
 | 3/6/2023 | HBS12525 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/6/2023 | HBS15745 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |

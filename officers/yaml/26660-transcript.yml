@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2023
+  course: HSU1817A
+  title: Firearms June Supplemental Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/22/2023
   course: HSU43962
   title: Spring In-Service 2023 Firearms

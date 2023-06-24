@@ -53,6 +53,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2023 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/13/2023 | ETS04374 | Not in Our Town - Human Trafficking Prevention | Passed | 0.0 | 4.00 |
 | 3/17/2023 | ETS26777 | Active Shooter Preparation  Response for Schools | Passed | 0.0 | 1.00 |
