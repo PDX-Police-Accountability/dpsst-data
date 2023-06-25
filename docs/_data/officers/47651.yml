@@ -319,6 +319,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/6/2022
+  course: PDP3131A
+  title: 2022 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/17/2022
   course: PDP31730
   title: Critical Incident Stress Management

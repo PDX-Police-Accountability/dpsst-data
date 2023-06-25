@@ -96,12 +96,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/17/2023
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 3/10/2023
   course: PDP00872
   title: 2023 Microsoft Word Online Recording
@@ -552,6 +546,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/11/2022
+  course: 23-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/29/2022
   course: PDP44069
   title: Sergeant's Academy

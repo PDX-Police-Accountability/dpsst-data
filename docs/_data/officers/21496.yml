@@ -148,6 +148,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 5/19/2023
+  course: F6R1974A
+  title: 40 Hour CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/28/2023
   course: REG10403
   title: 2023 DUII Multi-Disciplinary Training Conference

@@ -72,12 +72,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/17/2023
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 2/20/2023
   course: PDP21637
   title: 2023-1 Range Qualification 40mm Less Lethal Qual
@@ -276,6 +270,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 9/6/2022
+  course: PDP3131A
+  title: 2022 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/5/2022
   course: PDP25823
   title: 2022-3 Range Qualification CEW
@@ -348,6 +348,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/11/2022
+  course: 23-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/11/2022
   course: PDP13658
   title: 2022 DIR 650.00 Search, Seizures, and Inventories
@@ -498,6 +504,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/15/2022
+  course: PDP0291A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/14/2022
+  course: PDP4221A
+  title: ICS-100 Intro to the Incident Cmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/17/2022
   course: PDP08649
   title: 2022 In-Service Firearms - Range

@@ -259,6 +259,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/6/2022
+  course: PDP3131A
+  title: 2022 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 8/25/2022
   course: PDP37114
   title: DIR 1010.00, Use of Force (effective 11/15/2022)

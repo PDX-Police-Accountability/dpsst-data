@@ -56,12 +56,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/27/2023
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 4/11/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm
@@ -428,6 +422,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/11/2022
+  course: 23-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/10/2022
   course: PDP43052
   title: 2022-2 Range Qualification AR-15 (20 Yard)

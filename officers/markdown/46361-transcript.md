@@ -28,6 +28,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2023 | PDP1138 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/31/2023 | PDP4439A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/25/2023 | PDP1329A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/22/2023 | PDP3619A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/8/2023 | PDP2708A | CPR/First Aid | Instructed | 0.0 | 1.75 |

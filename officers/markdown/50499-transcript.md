@@ -83,6 +83,7 @@
 | 9/22/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
+| 9/6/2022 | PDP3131A | 2022 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 8/24/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 8/5/2022 | PDP28401 | NW Gang Invest Assoc Training Symposium | Passed | 0.0 | 36.00 |
 | 7/29/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |

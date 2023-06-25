@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2023 | LOP3781A | Policy review-Vehicle Pursuits and Vehicle Use | Passed | 0.0 | 0.50 |
 | 6/16/2023 | LOP2153A | EVOC/HR Stops/Box-In | Passed | 0.0 | 2.00 |
 | 5/2/2023 | LOP3247A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 4/18/2023 | LOP0809 | Protection Orders | Passed | 0.0 | 0.25 |

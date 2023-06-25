@@ -30,12 +30,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/27/2023
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 5/13/2023
   course: PDP2146A
   title: CPR/First Aid
@@ -372,6 +366,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/11/2022
+  course: 23-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 7/3/2022
   course: PDP36911
   title: AAR SharePoint Transition

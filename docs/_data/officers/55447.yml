@@ -234,6 +234,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/6/2022
+  course: PDP3131A
+  title: 2022 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/5/2022
   course: PDP25823
   title: 2022-3 Range Qualification CEW
