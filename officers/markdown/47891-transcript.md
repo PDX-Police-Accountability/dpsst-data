@@ -41,7 +41,7 @@
 | 5/12/2023 | PDP1802A | 2023 CSM Crisis Hostage Negotiation Lvl 1 | Passed | 0.0 | 40.00 |
 | 4/20/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2023 | PDP0178A | CPR/First Aid | Passed | 0.0 | 1.75 |
-| 4/10/2023 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
+| 4/10/2023 | 23-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 3/22/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/22/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/22/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

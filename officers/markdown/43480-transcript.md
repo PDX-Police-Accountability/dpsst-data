@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/15/2023 | 22-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
+| 6/15/2023 | 23-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

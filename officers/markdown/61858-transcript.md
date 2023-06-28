@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | MFN0561A | Defensive Tactics: Handcuffing and Spit Hoods | Passed | 0.0 | 3.00 |
+| 5/31/2023 | MFN4053A | Firearms: Low Light | Passed | 0.0 | 4.00 |
 | 5/10/2023 | MFN0392 | Radio Training | Passed | 0.0 | 1.00 |
 | 5/3/2023 | MFN2061A | Real Colors | Passed | 0.0 | 7.00 |
 | 4/19/2023 | MFN31291 | LSCMI/Refresher/4-19.23-4.20.23 | Passed | 0.0 | 11.00 |

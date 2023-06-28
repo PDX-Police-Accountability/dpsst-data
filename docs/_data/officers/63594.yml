@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/16/2023
+  course: REG0912A
+  title: INTOX 8000 (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/11/2023
   course: BPT0629A
   title: 'Active Shooter: Dispatching in the Line of Fire'

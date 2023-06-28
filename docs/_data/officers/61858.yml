@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2023
+  course: MFN0561A
+  title: 'Defensive Tactics: Handcuffing and Spit Hoods'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/31/2023
+  course: MFN4053A
+  title: 'Firearms: Low Light'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/10/2023
   course: MFN0392
   title: Radio Training
