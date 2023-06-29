@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/23/2023 | OCP3085A | 0 | Passed | 0.0 | 4.00 |
+| 3/23/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/4/2023 | OCP00776 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/4/2023 | OCP36575 | SFST Refresher Course | Passed | 0.0 | 4.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |

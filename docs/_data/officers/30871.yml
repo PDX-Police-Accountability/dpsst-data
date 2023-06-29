@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2023
+  course: OSH1216A
+  title: Taser 7 Instructor Certification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/26/2023
   course: OSH27563
   title: Leadership / Patrol Tactics Instructor In-Service

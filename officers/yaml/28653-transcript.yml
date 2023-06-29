@@ -69,12 +69,120 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2023
+  course: F1527963
+  title: Minimun Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2023
+  course: F1524376
+  title: 'Coaching Circles: Promoting Equity'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/15/2023
+  course: F1511547
+  title: Trauma, Healing  Identity
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/8/2023
+  course: F1503551
+  title: 'Coaching Circles: Building Relation.'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/7/2023
+  course: F1519130
+  title: Supervisor Incident Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/6/2023
+  course: F1540504
+  title: National Security Executive Board
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/2/2023
+  course: F1532199
+  title: Intern. Counterterrorism Conference
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/1/2023
+  course: F1532199
+  title: Intern. Counterterrorism Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/31/2023
+  course: F1532199
+  title: Intern. Counterterrorism Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/25/2023
+  course: F1543433
+  title: 'Coaching Circles: Self Awareness'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/23/2023
+  course: F1535382
+  title: Building Alliances
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 5/12/2023
   course: PDS3692
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 5/11/2023
+  course: F1520894
+  title: 'Coaching Circles: Communication'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2023
+  course: F1515908
+  title: Executive Leadership Series
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/12/2023
+  course: F1537303
+  title: How to Build  Sus. Officer Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2023
+  course: F1531288
+  title: Digital Accessibilty Basics - Part 1
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/23/2023
+  course: F1502392
+  title: Policy Review for County Employees
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/10/2023
+  course: F1517641
+  title: Policy Review for PII-0
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2023
+  course: F1532917
+  title: Policy Review for PII-1
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/27/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -99,12 +207,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/25/2022
+  course: F1530983
+  title: 'Privacy  Security: Safeguarding'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/25/2022
+  course: F1541275
+  title: 'Privacy  Security: Safeguarding'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/13/2022
   course: ICE01456
   title: 'Ethics: Insights to Principled Policing'
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/18/2022
+  course: F1520044
+  title: Ethics in Public Service
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/13/2022
+  course: F1540022
+  title: Maintaining a Harrassment Free WP
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/16/2022
   course: PDS24124
   title: Officer Involved Shootings Investigations

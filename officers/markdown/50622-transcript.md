@@ -43,8 +43,8 @@
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Instructed | 0.0 | 12.00 |
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
-| 3/23/2023 | OCP3085A | 0 | Passed | 0.0 | 4.00 |
-| 3/23/2023 | OCP3085A | 0 | Instructed | 0.0 | 20.00 |
+| 3/23/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 3/23/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 20.00 |
 | 2/17/2023 | OCP22019 | Peer Support Team Training | Passed | 0.0 | 4.00 |
 | 1/31/2023 | OCP09155 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 3.50 |

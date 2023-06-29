@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | OSH1216A | Taser 7 Instructor Certification | Instructed | 0.0 | 4.00 |
 | 4/26/2023 | OSH27563 | Leadership / Patrol Tactics Instructor In-Service | Passed | 0.0 | 16.00 |
 | 4/4/2023 | OSH27412 | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 3/21/2023 | OSH11990 | VERBAL JUDO LATERAL -TACTICAL COMMUNICATION COURSE | Instructed | 0.0 | 4.00 |

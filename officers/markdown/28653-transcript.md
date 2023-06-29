@@ -38,12 +38,34 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2023 | F1527963 | Minimun Qualifications | Passed | 0.0 | 0.25 |
+| 6/22/2023 | F1524376 | Coaching Circles: Promoting Equity | Passed | 0.0 | 1.00 |
+| 6/15/2023 | F1511547 | Trauma, Healing  Identity | Passed | 0.0 | 1.50 |
+| 6/8/2023 | F1503551 | Coaching Circles: Building Relation. | Passed | 0.0 | 1.00 |
+| 6/7/2023 | F1519130 | Supervisor Incident Reporting | Passed | 0.0 | 0.25 |
+| 6/6/2023 | F1540504 | National Security Executive Board | Passed | 0.0 | 2.00 |
+| 6/2/2023 | F1532199 | Intern. Counterterrorism Conference | Passed | 0.0 | 6.00 |
+| 6/1/2023 | F1532199 | Intern. Counterterrorism Conference | Passed | 0.0 | 8.00 |
+| 5/31/2023 | F1532199 | Intern. Counterterrorism Conference | Passed | 0.0 | 8.00 |
+| 5/25/2023 | F1543433 | Coaching Circles: Self Awareness | Passed | 0.0 | 1.00 |
+| 5/23/2023 | F1535382 | Building Alliances | Passed | 0.0 | 1.25 |
 | 5/12/2023 | PDS3692 | CPR/First Aid | Passed | 0.0 | 2.50 |
+| 5/11/2023 | F1520894 | Coaching Circles: Communication | Passed | 0.0 | 1.00 |
+| 4/18/2023 | F1515908 | Executive Leadership Series | Passed | 0.0 | 2.00 |
+| 4/12/2023 | F1537303 | How to Build  Sus. Officer Wellness | Passed | 0.0 | 1.00 |
+| 4/11/2023 | F1531288 | Digital Accessibilty Basics - Part 1 | Passed | 0.0 | 1.50 |
+| 1/23/2023 | F1502392 | Policy Review for County Employees | Passed | 0.0 | 2.00 |
+| 1/10/2023 | F1517641 | Policy Review for PII-0 | Passed | 0.0 | 0.50 |
+| 1/10/2023 | F1532917 | Policy Review for PII-1 | Passed | 0.0 | 0.50 |
 | 12/27/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2022 | PDP40615 | 2022-2 All Sworn In-Service Legal Updates 1010.00 | Passed | 0.0 | 2.00 |
 | 11/16/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |
 | 11/15/2022 | F1534570 | Threat Assessment Conference | Passed | 0.0 | 4.00 |
+| 10/25/2022 | F1530983 | Privacy  Security: Safeguarding | Passed | 0.0 | 0.50 |
+| 10/25/2022 | F1541275 | Privacy  Security: Safeguarding | Passed | 0.0 | 0.50 |
 | 10/13/2022 | ICE01456 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
+| 7/18/2022 | F1520044 | Ethics in Public Service | Passed | 0.0 | 0.50 |
+| 7/13/2022 | F1540022 | Maintaining a Harrassment Free WP | Passed | 0.0 | 0.75 |
 | 6/16/2022 | PDS24124 | Officer Involved Shootings Investigations | Instructed | 0.0 | 16.00 |
 | 6/1/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
 | 6/1/2022 | PDP23522 | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |

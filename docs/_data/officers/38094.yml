@@ -75,10 +75,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/11/2024
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
+- date: 6/8/2023
+  course: 23-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 6/1/2023

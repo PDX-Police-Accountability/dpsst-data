@@ -93,14 +93,14 @@ training_records:
   score: '0.0'
   hours: '80.00'
 - date: 3/23/2023
-  course: OCP3085A
-  title: '0'
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 3/23/2023
-  course: OCP3085A
-  title: '0'
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Instructed
   score: '0.0'
   hours: '20.00'

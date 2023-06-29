@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/8/2023
+  course: 23-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 4/27/2023
   course: PDP2174A
   title: ICS-300 Intm Incdt Cmd System for Expanding Incdts
