@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/14/2023
+  course: EGP3987A
+  title: Supervisory Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

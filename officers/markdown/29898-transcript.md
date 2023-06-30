@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2023 | PDS3313A | Intoxilyzer 8000 Course | Passed | 0.0 | 4.00 |
 | 5/9/2023 | PDS3380A | LE Property and Evidence | Passed | 0.0 | 0.50 |
 | 4/17/2023 | PDS25753 | Firearms Training | Passed | 0.0 | 5.00 |
 | 3/20/2023 | PDS11640 | Benchmark Analytics | Passed | 0.0 | 4.00 |

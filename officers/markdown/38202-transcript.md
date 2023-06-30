@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2023 | PDS4065A | Intoxilyzer 8000 Course | Passed | 0.0 | 4.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/14/2023 | PDS13663 | Peer Support Training | Passed | 0.0 | 1.00 |
 | 4/14/2023 | PDS14046 | NAMI Training | Passed | 0.0 | 2.00 |

@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2023
+  course: PDS3313A
+  title: Intoxilyzer 8000 Course
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/9/2023
   course: PDS3380A
   title: LE Property and Evidence

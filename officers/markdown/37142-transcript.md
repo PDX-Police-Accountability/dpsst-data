@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | SPP4463A | HIPAA Essentials | Passed | 0.0 | 1.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/16/2023 | SPP0356A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/8/2023 | SPP4185A | EVOC - Annual PIT  Control Tactics | Passed | 0.0 | 4.00 |

@@ -47,6 +47,7 @@
 | 4/26/2023 | TDP16094 | Spring Firearms Qualification and Training | Passed | 0.0 | 4.00 |
 | 4/24/2023 | HRP09612 | BIAS Presentation | Passed | 0.0 | 6.00 |
 | 3/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
+| 3/16/2023 | TDS2777A | Deputy Medical Examiner Course | Passed | 0.0 | 8.00 |
 | 3/10/2023 | TDP19925 | De-Escalation 2023 | Passed | 0.0 | 2.00 |
 | 2/25/2023 | TDP40476 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/25/2023 | TDP02621 | Defensive Tactics | Passed | 0.0 | 2.00 |

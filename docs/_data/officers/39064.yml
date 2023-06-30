@@ -116,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/16/2023
+  course: TDS2777A
+  title: Deputy Medical Examiner Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/10/2023
   course: TDP19925
   title: De-Escalation 2023

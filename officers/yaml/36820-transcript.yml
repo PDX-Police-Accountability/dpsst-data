@@ -197,6 +197,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/10/2023
+  course: PDP2409A
+  title: 2023 ATAP Winter Conference
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

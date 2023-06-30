@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 6/15/2023 | EGP0803A | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 6/14/2023 | EGP3987A | Supervisory Leadership Meeting | Passed | 0.0 | 4.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/11/2023 | EGP0073 | K9 Presentation | Passed | 0.0 | 2.00 |
 | 5/11/2023 | EGP1916 | Medical Training | Passed | 0.0 | 2.00 |

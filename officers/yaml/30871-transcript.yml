@@ -106,6 +106,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 6/20/2023
+  course: OSH2240A
+  title: Taser 7 New Instructor Certification
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/26/2023
   course: OSH27563
   title: Leadership / Patrol Tactics Instructor In-Service

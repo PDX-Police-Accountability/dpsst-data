@@ -36,6 +36,7 @@
 | 5/23/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 13.00 |
 | 5/18/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 5/15/2023 | PDP1608A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
+| 5/15/2023 | PDP1597A | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/12/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 3/23/2023 | REG24193 | INTOX 8000 | Passed | 0.0 | 6.00 |

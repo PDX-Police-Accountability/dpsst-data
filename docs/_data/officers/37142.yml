@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2023
+  course: SPP4463A
+  title: HIPAA Essentials
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

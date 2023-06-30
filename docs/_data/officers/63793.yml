@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 6/8/2023
+  course: PDP1597A
+  title: TEEX WMD/Terrorism Awareness for Emergency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/7/2023
   course: PDP3213
   title: 2023 FTEP Pre-DPSST Firearms
