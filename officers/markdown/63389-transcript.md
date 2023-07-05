@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/20/2023 | PDP1498A | 2023 FTEP HAZMAT/WMD Awareness/APR | Passed | 0.0 | 4.00 |
 | 6/13/2023 | PDP3734A | 2023 FTEP Control Tactics CT Post Basic Academy | Passed | 0.0 | 4.00 |
 | 5/25/2023 | REG0412A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 4/20/2023 | REG32421 | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

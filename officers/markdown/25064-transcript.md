@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2023 | MKL2829A | Alcohol Compliance - Updates and Refresher | Passed | 0.0 | 2.00 |
 | 5/19/2023 | MKL0808 | Mental Health Awareness:  Managing Stress/Anxiety | Passed | 0.0 | 1.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/20/2023 | MKL17027 | Tableau Training | Passed | 0.0 | 1.25 |

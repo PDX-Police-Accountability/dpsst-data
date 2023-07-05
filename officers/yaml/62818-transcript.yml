@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/1/2023
+  course: CIF1483A
+  title: Lexipol Policy
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/31/2023
   course: CIF1987A
   title: Tactical 1st Aid / EVOC / Tribal Law Differences

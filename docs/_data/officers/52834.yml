@@ -75,6 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/15/2023
+  course: OCS1888A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2023
+  course: OCS4133A
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/28/2023
+  course: OCS0348A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2023
   course: OCS2909
   title: Body Worn Cameras

@@ -58,11 +58,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/27/2023
+- status_date: 6/29/2023
   certificate: Police Officer
   level: Supervisory
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 6/29/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 11/22/2010
@@ -4536,10 +4536,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/24/2021
-  expiration_date: 6/24/2023
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021

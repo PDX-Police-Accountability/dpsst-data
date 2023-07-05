@@ -53,6 +53,7 @@
 | 3/16/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/8/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/3/2023 | F6R11628 | 2023 Prosecuting the Drugged Driver (PDD) | Instructed | 0.0 | 4.00 |
+| 3/3/2023 | PDP3048A | 2023 Prosecuting the Drugged Driver Conference | Passed | 0.0 | 25.50 |
 | 3/2/2023 | F6R00324 | 2023 Prosecuting the Drugged Driver (PDD) | Passed | 0.0 | 8.00 |
 | 3/1/2023 | F6R23282 | 2023 Prosecuting the Drugged Driver (PDD) | Passed | 0.0 | 8.00 |
 | 2/28/2023 | SAG35448 | 2023 Prosecuting the Drugged Driver (PDD) | Passed | 0.0 | 8.00 |

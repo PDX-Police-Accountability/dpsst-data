@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2023
+  course: PDP3853A
+  title: 2023 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/8/2023
+  course: PDP0661A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 6/8/2023
+  course: PDP0661A
+  title: 2023 SERT Training - FIREARMS
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 6/1/2023
   course: PDP2907A
   title: 2023 SERT Training - ITERATION
@@ -3931,10 +3949,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/18/2013

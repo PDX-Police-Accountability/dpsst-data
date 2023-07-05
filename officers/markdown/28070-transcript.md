@@ -40,7 +40,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/18/2023 | MNS1075A | Axon BWC Refresher | Passed | 0.0 | 1.00 |
 | 3/21/2023 | MNS3494A | Firearms Skill Builder | Passed | 0.0 | 2.00 |
-| 2/23/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 2/23/2023 | MNS3744A | Low Light Qualification | Passed | 0.0 | 2.00 |
 | 1/31/2023 | MNS18173 | Taser 7 Introduction and Certification | Passed | 0.0 | 4.00 |
 | 1/29/2023 | MNS32980 | SFST Refresher | Passed | 0.0 | 4.00 |

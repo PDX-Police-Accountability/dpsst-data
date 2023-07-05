@@ -40,12 +40,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/26/2023
+- status_date: 6/30/2023
   certificate: Police Officer
   level: Management
-  status: App Recd
+  status: App InProc
   certificate_date: ''
-  expiration_date: ''
+  expiration_date: 8/30/2023
   probation_date: ''
 - status_date: 8/1/2019
   certificate: Police Officer
@@ -3827,10 +3827,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/30/2002

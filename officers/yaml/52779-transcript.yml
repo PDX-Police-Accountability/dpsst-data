@@ -152,6 +152,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 3/3/2023
+  course: PDP3048A
+  title: 2023 Prosecuting the Drugged Driver Conference
+  status: Passed
+  score: '0.0'
+  hours: '25.50'
 - date: 3/2/2023
   course: F6R00324
   title: 2023 Prosecuting the Drugged Driver (PDD)

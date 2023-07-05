@@ -68,12 +68,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/28/2023
+  course: OCS0348A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2023
   course: OCS2909
   title: Body Worn Cameras
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/23/2023
+  course: OCS1691A
+  title: CSAR Academy
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/22/2023
+  course: OCS1699A
+  title: CSAR Academy
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/20/2023
   course: OCS2647
   title: Annual Qualifiation
@@ -92,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/25/2023
+  course: OCS2942A
+  title: CSAR Academy
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/20/2023
   course: OCS1390A
   title: Long Gun Retention and Strikes
@@ -113,18 +137,6 @@ training_records:
 - date: 2/13/2023
   course: OCS18313
   title: Fundamentals of Marksmanship
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 2/13/2023
-  course: OCS33027
-  title: Fundamentals of Marksmanship
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 2/13/2023
-  course: OCS27792
-  title: Impact Weapon Defense and Strike
   status: Passed
   score: '0.0'
   hours: '1.00'

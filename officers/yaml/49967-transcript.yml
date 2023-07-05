@@ -35,6 +35,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/10/2023
+  course: MNP3268A
+  title: Firearms qualifications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/10/2023
+  course: MNP1683A
+  title: 40mm refresher training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/5/2023
   course: MNP06808
   title: EVOC in-service

@@ -22,10 +22,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/27/2023
+- status_date: 6/30/2023
   certificate: Police Officer
   level: Advanced
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: ''

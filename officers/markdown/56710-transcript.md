@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/28/2023 | REG0041A | Weapon Retention | Passed | 0.0 | 1.00 |
+| 6/23/2023 | HBS4107A | 2023 Advanced Rifle School | Passed | 0.0 | 40.00 |
 | 6/6/2023 | HBS2592A | On-Duty Firearms | Passed | 0.0 | 1.25 |
 | 5/23/2023 | HBS4316 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 5/23/2023 | HBS1533A | May 2023 EVO In-Service | Passed | 0.0 | 3.50 |

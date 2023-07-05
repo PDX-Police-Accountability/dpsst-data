@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/21/2023
+  course: MKL2829A
+  title: Alcohol Compliance - Updates and Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/19/2023
   course: MKL0808
   title: 'Mental Health Awareness:  Managing Stress/Anxiety'

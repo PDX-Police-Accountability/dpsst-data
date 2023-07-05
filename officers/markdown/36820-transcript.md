@@ -23,8 +23,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/26/2023 | Police Officer | Executive | App Recd |  | 11/19/2022 |  |
-| 6/26/2023 | Police Officer | Management | App Recd |  | 11/19/2022 |  |
+| 6/30/2023 | Police Officer | Executive | App InProc |  |  |  |
+| 6/30/2023 | Police Officer | Management | App InProc |  |  |  |
 | 10/31/2011 | Police Officer | Advanced | Granted | 10/31/2011 |  |  |
 | 10/31/2011 | Police Officer | Intermediate | Granted | 10/31/2011 |  |  |
 | 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 |  |  |
@@ -44,7 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/19/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 5/30/2023 | 23-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

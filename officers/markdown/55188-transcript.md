@@ -17,7 +17,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/26/2023 | Police Officer | Advanced | App Recd |  |  |  |
+| 6/30/2023 | Police Officer | Advanced | App InProc |  |  |  |
 | 7/19/2022 | Police Officer | Intermediate | Granted | 7/19/2022 |  |  |
 | 10/12/2016 | Police Officer | Basic | Granted | 10/12/2016 |  |  |
 ## Attributes
@@ -27,7 +27,6 @@
 | Certification Cards | First Aid and CPR | 4/8/2023 | 4/8/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 6/30/2021 | 6/30/2023 |
 | Code of Ethics | Signed | 1/11/2016 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 5/19/2023 | PDP0150A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/14/2023 | PDP1603A | CPR/First Aid | Instructed | 0.0 | 1.75 |

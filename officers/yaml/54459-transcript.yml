@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2023
+  course: HRS2683A
+  title: Spring Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/16/2023
   course: HRS30334
   title: Officer Safety Refresher

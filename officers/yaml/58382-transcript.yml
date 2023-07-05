@@ -42,9 +42,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/28/2023
+  course: OCS0348A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2023
   course: OCS2909
   title: Body Worn Cameras
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2023
+  course: OCS3161A
+  title: Fundamentals of Marksmanship/Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2023
+  course: OCS3262A
+  title: Fundamentals of Marksmanship/Qualification
   status: Passed
   score: '0.0'
   hours: '2.00'

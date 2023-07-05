@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/1/2023
+  course: OCS4133A
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2023
   course: OCS3318A
   title: Ground Fighting
@@ -54,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/19/2023
+  course: OCS0833A
+  title: April 2023 New Rifle Carrier
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 4/19/2023
+  course: OCS3736A
+  title: April 2023 New Rifle Carrier
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/20/2023
   course: OCS2503
   title: Fundamentals of Marksmanship

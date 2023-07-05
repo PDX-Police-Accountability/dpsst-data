@@ -23,15 +23,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/20/2011 | Police Officer | Advanced | Granted | 6/20/2011 | 6/29/2023 |  |
-| 2/8/1999 | Police Officer | Intermediate | Granted | 2/8/1999 | 6/29/2023 |  |
-| 12/17/1997 | Police Officer | Basic | Granted | 12/17/1997 | 6/29/2023 |  |
+| 6/29/2023 | Police Officer | Advanced | Lapsed | 6/20/2011 | 3/29/2028 |  |
+| 6/29/2023 | Police Officer | Basic | Lapsed | 12/17/1997 | 3/29/2028 |  |
+| 6/29/2023 | Police Officer | Intermediate | Lapsed | 2/8/1999 | 3/29/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Certification Cards | First Aid and CPR | 6/8/2021 | 6/8/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2019 | 12/31/2022 |
 | Code of Ethics | Signed | 6/20/2011 |  |
 ## Education
 | date | degree | school | major | hours |

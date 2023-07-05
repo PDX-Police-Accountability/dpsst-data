@@ -31,6 +31,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/7/2023 | CIF4267A | Mobile Command Center Training | Passed | 0.0 | 1.00 |
 | 6/1/2023 | CIF3609 | Public Law 280 in Oregon | Passed | 0.0 | 2.00 |
+| 6/1/2023 | CIF1483A | Lexipol Policy | Passed | 0.0 | 10.00 |
 | 5/31/2023 | CIF1987A | Tactical 1st Aid / EVOC / Tribal Law Differences | Passed | 0.0 | 5.50 |
 | 5/23/2023 | CIF1003 | Cultural Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 5/23/2023 | CIF1441 | Intro ot CRITFC - Treaty Rights | Passed | 0.0 | 2.00 |

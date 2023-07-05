@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/15/2023
+  course: OCS1888A
+  title: Ground Fighting
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/12/2023
   course: OCS0322
   title: May 2023 New Hire Firearms
@@ -110,6 +116,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.00'
+- date: 5/1/2023
+  course: OCS4133A
+  title: Use of Force Decisions/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/24/2023
+  course: OCS3161A
+  title: Fundamentals of Marksmanship/Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/24/2023
+  course: OCS3262A
+  title: Fundamentals of Marksmanship/Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/20/2023
   course: OCS2647
   title: Annual Qualifiation
@@ -122,6 +146,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '84.00'
+- date: 4/19/2023
+  course: OCS3736A
+  title: April 2023 New Rifle Carrier
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/19/2023
+  course: OCS0833A
+  title: April 2023 New Rifle Carrier
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/4/2023
   course: OCS00948
   title: Marksmanship / Handgun Qualification

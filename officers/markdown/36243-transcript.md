@@ -46,7 +46,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/31/2023 | HBS1664A | SFST Refresher--4 hr | Passed | 0.0 | 4.00 |
-| 5/31/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/22/2023 | HBS0809 | May 2023 EVO In-Service | Passed | 0.0 | 3.50 |
 | 5/22/2023 | HBS3654 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |

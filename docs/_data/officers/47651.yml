@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/9/2023
+  course: PDP2991A
+  title: 2023 NIMS ICS All-Hazards Resource Unit Ldr
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 3/7/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

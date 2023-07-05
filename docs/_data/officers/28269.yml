@@ -131,6 +131,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/27/2023
+  course: HUP2655A
+  title: OACP Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/2/2023
   course: BNP2344A
   title: Extreme Risk Protection Orders

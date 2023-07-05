@@ -43,10 +43,16 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
 | 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/12/2023 | OCS0322 | May 2023 New Hire Firearms | Instructed | 0.0 | 20.00 |
 | 5/12/2023 | OCS3604 | Positional/Long Distance Multiple Target Shooting | Instructed | 0.0 | 5.00 |
+| 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
+| 4/24/2023 | OCS3161A | Fundamentals of Marksmanship/Qualification | Instructed | 0.0 | 2.00 |
+| 4/24/2023 | OCS3262A | Fundamentals of Marksmanship/Qualification | Instructed | 0.0 | 2.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
 | 4/20/2023 | OCS1278 | Annual Qualifications | Instructed | 0.0 | 84.00 |
+| 4/19/2023 | OCS3736A | April 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
+| 4/19/2023 | OCS0833A | April 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/4/2023 | OCS00948 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
 | 3/30/2023 | OCS1754 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
 | 3/30/2023 | OCS1995 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |

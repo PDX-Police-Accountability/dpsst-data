@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
+| 6/26/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
 | 3/31/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

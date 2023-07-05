@@ -3,12 +3,18 @@ header_record:
   name: Jones, Kristina M.
   dpsst_identifier: '41759'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Commander
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/28/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Commander
+  classification: ''
+  assignment: ''
 - date: 9/2/2021
   agency: Portland Police Bureau
   action: Promotion
@@ -45,35 +51,35 @@ certification_records:
   level: Management
   status: Granted
   certificate_date: 9/25/2020
-  expiration_date: ''
+  expiration_date: 9/28/2023
   probation_date: ''
 - status_date: 6/25/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 6/25/2010
-  expiration_date: ''
+  expiration_date: 9/28/2023
   probation_date: ''
 - status_date: 6/25/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/25/2010
-  expiration_date: ''
+  expiration_date: 9/28/2023
   probation_date: ''
 - status_date: 6/25/2010
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 6/25/2010
-  expiration_date: ''
+  expiration_date: 9/28/2023
   probation_date: ''
 - status_date: 4/14/2003
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 4/14/2003
-  expiration_date: ''
+  expiration_date: 9/28/2023
   probation_date: ''
 training_records:
 - date: 5/11/2023

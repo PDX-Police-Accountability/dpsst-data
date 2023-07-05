@@ -70,32 +70,14 @@ training_records:
   score: '0.0'
   hours: '10.00'
 - date: 5/19/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 5/19/2023
   course: PDS1979A
   title: SWAT Sniper Training
   status: Passed
   score: '0.0'
   hours: '8.00'
 - date: 5/18/2023
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 5/18/2023
   course: PDS2430A
   title: SWAT Practical
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 5/17/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -117,12 +99,6 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.00'
-- date: 4/21/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 4/21/2023
   course: PDS1554A
   title: SWAT Sniper Training
@@ -220,12 +196,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 3/24/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 3/24/2023
   course: PDS0529A
   title: SWAT Sniper Training
   status: Passed
@@ -249,12 +219,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
-- date: 2/24/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 2/24/2023
   course: PDS0457A
   title: SWAT Sniper Training
@@ -316,12 +280,6 @@ training_records:
   score: '0.0'
   hours: '6.00'
 - date: 1/20/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 1/20/2023
   course: PDS3154A
   title: SWAT Sniper Training
   status: Passed
@@ -363,12 +321,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
-- date: 12/16/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
 - date: 12/16/2022
   course: PDS1983A
   title: SWAT Sniper Training
@@ -514,12 +466,6 @@ training_records:
   score: '0.0'
   hours: '0.00'
 - date: 9/23/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 9/23/2022
   course: PDS2837A
   title: SWAT Sniper Training
   status: Passed
@@ -562,12 +508,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 8/19/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 8/19/2022
   course: PDS4066A
   title: SWAT Sniper Training
   status: Passed
@@ -604,20 +544,8 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 7/15/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 7/15/2022
   course: PDS4045A
   title: SWAT Sniper Training
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 6/17/2022
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '10.00'

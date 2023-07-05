@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | HRS3603A | Spring Firearms Range | Passed | 0.0 | 4.00 |
 | 5/16/2023 | HRS4113A | Internal Affairs Investigations | Passed | 0.0 | 7.00 |
 | 5/4/2023 | HRS05010 | Tactical Training-Critical Incident Debrief | Passed | 0.0 | 1.50 |
 | 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |

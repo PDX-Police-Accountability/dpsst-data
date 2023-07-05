@@ -58,19 +58,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/26/2023
+- status_date: 6/30/2023
   certificate: Police Officer
   level: Executive
-  status: App Recd
+  status: App InProc
   certificate_date: ''
-  expiration_date: 11/19/2022
+  expiration_date: ''
   probation_date: ''
-- status_date: 6/26/2023
+- status_date: 6/30/2023
   certificate: Police Officer
   level: Management
-  status: App Recd
+  status: App InProc
   certificate_date: ''
-  expiration_date: 11/19/2022
+  expiration_date: ''
   probation_date: ''
 - status_date: 10/31/2011
   certificate: Police Officer
@@ -101,10 +101,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/19/2024
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
+- date: 5/30/2023
+  course: 23-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 5/2/2023

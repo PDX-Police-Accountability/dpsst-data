@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/7/2023
+  course: PDP1272A
+  title: 2023 Behavioral Threat Assessment Seminar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/27/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -3994,10 +4000,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2023
   expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 6/1/2021
-  expiration_date: 6/1/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

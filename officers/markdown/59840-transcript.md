@@ -35,7 +35,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/23/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/4/2023 | OCP00776 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/4/2023 | OCP36575 | SFST Refresher Course | Passed | 0.0 | 4.00 |

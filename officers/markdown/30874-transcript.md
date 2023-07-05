@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2023 | FGP3809A | Summer Outdoor Range Quals and Drills | Passed | 0.0 | 10.00 |
 | 6/6/2023 | FGP0327A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 5/21/2023 | FGP4078A | Advanced Drone Operation | Passed | 0.0 | 4.00 |
 | 4/13/2023 | FGP2557A | CPR / First Aid bi-annual refresher | Passed | 0.0 | 2.00 |

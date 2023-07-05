@@ -42,12 +42,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 5/17/2023
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 5/17/2023
   course: PDS0051A
   title: Reserve Deputy Unit Training
   status: Passed

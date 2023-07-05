@@ -23,7 +23,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/27/2023 | Police Officer | Supervisory | App InProc |  |  |  |
+| 6/29/2023 | Police Officer | Supervisory | Granted | 6/29/2023 |  |  |
 | 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
 | 1/11/2007 | Police Officer | Intermediate | Granted | 1/11/2007 |  |  |
 | 9/14/2005 | Police Officer | Basic | Granted | 9/14/2005 |  |  |
@@ -32,7 +32,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 6/24/2021 | 6/24/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 8/19/2005 |  |
 ## Education

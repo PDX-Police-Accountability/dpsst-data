@@ -4,7 +4,7 @@
 | name | Jones, Kristina M. |
 | dpsst_identifier | 41759 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Commander |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/28/2023 | Portland Police Bureau | Resigned | Commander |  |  |
 | 9/2/2021 | Portland Police Bureau | Promotion | Commander |  |  |
 | 8/4/2020 | Portland Police Bureau | Promotion | Captain |  |  |
 | 7/6/2017 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -20,11 +21,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2020 | Police Officer | Management | Granted | 9/25/2020 |  |  |
-| 6/25/2010 | Police Officer | Advanced | Granted | 6/25/2010 |  |  |
-| 6/25/2010 | Police Officer | Intermediate | Granted | 6/25/2010 |  |  |
-| 6/25/2010 | Police Officer | Supervisory | Granted | 6/25/2010 |  |  |
-| 4/14/2003 | Police Officer | Basic | Granted | 4/14/2003 |  |  |
+| 9/25/2020 | Police Officer | Management | Granted | 9/25/2020 | 9/28/2023 |  |
+| 6/25/2010 | Police Officer | Advanced | Granted | 6/25/2010 | 9/28/2023 |  |
+| 6/25/2010 | Police Officer | Intermediate | Granted | 6/25/2010 | 9/28/2023 |  |
+| 6/25/2010 | Police Officer | Supervisory | Granted | 6/25/2010 | 9/28/2023 |  |
+| 4/14/2003 | Police Officer | Basic | Granted | 4/14/2003 | 9/28/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

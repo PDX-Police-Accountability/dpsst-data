@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2023 | FGP3809A | Summer Outdoor Range Quals and Drills | Passed | 0.0 | 10.00 |
 | 6/6/2023 | FGP0327A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 4/28/2023 | 23-0026 | DPSST Middle Management | Passed | 0.0 | 80.00 |
 | 3/17/2023 | FGP14694 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |
