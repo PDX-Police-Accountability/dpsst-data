@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/30/2023
+  course: PDP1334A
+  title: 2023 RISS Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/22/2023
   course: PDP00872
   title: 2023 Microsoft Word Online Recording

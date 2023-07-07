@@ -95,6 +95,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 4/18/2023
+  course: PDP4006A
+  title: 2023 IACP National Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/31/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2023 | PDP3299A | 2023 External Training Crowd Psychology | Passed | 0.0 | 16.00 |
+| 4/18/2023 | PDP4006A | 2023 IACP National Leadership Institute | Passed | 0.0 | 16.00 |
 | 3/31/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/31/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

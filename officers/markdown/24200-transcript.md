@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | STS0016A | CPR (Adult/Child/Infant)/First Aid/AED | Passed | 0.0 | 4.00 |
 | 5/1/2023 | STS14890 | Arrests of Foreign Nationals Policy Review | Passed | 0.0 | 0.50 |
 | 3/30/2023 | STS4018A | Oregon Public Employee Campaign Laws | Passed | 0.0 | 0.50 |
 | 3/22/2023 | STS31890 | Taser X26P New User | Passed | 0.0 | 6.00 |

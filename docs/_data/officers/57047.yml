@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/7/2023
+  course: PDP2365A
+  title: 2023 Bloodstain Pattern Analysis I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/31/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles

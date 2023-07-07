@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | HBS1553A | 34th Annual ACFE Global Fraud Conference | Passed | 0.0 | 20.00 |
 | 6/8/2023 | HBS2473A | Washington County Elder Abuse Symposium | Instructed | 0.0 | 1.50 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/2/2023 | HBS1517A | Adult, Child and Infant CPR AED | Passed | 0.0 | 1.00 |

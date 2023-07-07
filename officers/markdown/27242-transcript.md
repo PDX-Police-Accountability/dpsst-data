@@ -45,6 +45,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2023 | SPP0085A | Blood Borne Pathogens | Passed | 0.0 | 0.25 |
+| 6/29/2023 | SPP2891A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
+| 6/29/2023 | SPP1716A | Taser | Passed | 0.0 | 1.50 |
 | 5/16/2023 | SPP0356A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 5/8/2023 | SPP4185A | EVOC - Annual PIT  Control Tactics | Passed | 0.0 | 2.00 |
 | 5/1/2023 | SPP3954A | Prison Rape Elimination Act | Passed | 0.0 | 1.00 |

@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2023
+  course: PDP1420A
+  title: 2023-1 Shotgun Operators In-Service Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/28/2023
+  course: PDP1420A
+  title: 2023-1 Shotgun Operators In-Service Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/27/2023
   course: PDP2232A
   title: 2023-1 Shotgun Operators In-Service Training

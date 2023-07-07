@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/13/2023
+  course: PDP2086A
+  title: 2023 EVAWI Conf Sex Asslt, DV, Fighting for Chng
+  status: Passed
+  score: '0.0'
+  hours: '30.25'
 - date: 3/29/2023
   course: PDP23023
   title: 2023 Microsoft Office Teams Usage Policy

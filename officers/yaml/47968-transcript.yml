@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/14/2023
+  course: PDP1086A
+  title: 2023 NAWLEE Conference
+  status: Passed
+  score: '0.0'
+  hours: '17.50'
 - date: 3/31/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

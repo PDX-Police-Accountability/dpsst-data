@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/25/2023 | PDP0812A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/5/2023 | PDP36598 | OR Law Enforcement  Fire PIO Conference | Passed | 0.0 | 16.00 |
+| 4/5/2023 | PDP3340A | 2023 OR LE  Fire PIO Conference | Passed | 0.0 | 13.00 |
 | 3/23/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/22/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/22/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

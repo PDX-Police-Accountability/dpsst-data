@@ -36,6 +36,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/14/2023 | MFN0561A | Defensive Tactics: Handcuffing and Spit Hoods | Passed | 0.0 | 3.00 |
+| 6/8/2023 | BPT0209A | OCMN: MHSN | Passed | 0.0 | 3.50 |
+| 6/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 6/7/2023 | BPT3070A | Adult Learning Core | Passed | 0.0 | 6.00 |
 | 5/31/2023 | MFN4053A | Firearms: Low Light | Passed | 0.0 | 4.00 |
 | 5/10/2023 | MFN0392 | Radio Training | Passed | 0.0 | 1.00 |
 | 5/3/2023 | MFN2061A | Real Colors | Passed | 0.0 | 7.00 |

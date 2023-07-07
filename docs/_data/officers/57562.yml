@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 5/31/2023
+  course: OCP0483A
+  title: DPSST Use of Force Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/25/2023
   course: OCP4027A
   title: Firearms/Use of Force

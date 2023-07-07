@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/4/2023
+  course: PDP4075A
+  title: 2023 IACC Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '19.25'
 - date: 3/26/2023
   course: PDP38288
   title: 2023 Microsoft PowerPoint Online Recorded Training

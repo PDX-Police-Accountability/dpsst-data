@@ -36,6 +36,7 @@
 | 5/26/2023 | PDP3879A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/24/2023 | HDA0288 | Tri-State Narcotics Supervisors/Commanders Summit | Passed | 0.0 | 16.00 |
 | 4/19/2023 | OSH17315 | 2023 OPCA Spring Conference - Detection | Passed | 0.0 | 24.00 |
+| 4/19/2023 | PDP2866A | 2023 OPCA Spring Seminar | Passed | 0.0 | 21.00 |
 | 3/23/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 3/8/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

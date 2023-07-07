@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 4/5/2023
+  course: PDP3340A
+  title: 2023 OR LE  Fire PIO Conference
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
 - date: 3/23/2023
   course: PDP38288
   title: 2023 Microsoft PowerPoint Online Recorded Training

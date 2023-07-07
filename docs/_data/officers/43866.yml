@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/30/2023
+  course: PDP1334A
+  title: 2023 RISS Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

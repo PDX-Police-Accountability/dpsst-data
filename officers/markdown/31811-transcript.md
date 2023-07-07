@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/29/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
+| 6/28/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 6/27/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 6/26/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
