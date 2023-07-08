@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/3/2023
+  course: PDP0654A
+  title: 2023 Practical Answers to Questions in Crtrm
+  status: Passed
+  score: '0.0'
+  hours: '19.50'
 - date: 4/7/2023
   course: PDP2365A
   title: 2023 Bloodstain Pattern Analysis I

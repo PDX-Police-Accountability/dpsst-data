@@ -58,18 +58,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/30/2023
+- status_date: 7/6/2023
   certificate: Police Officer
   level: Executive
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 7/6/2023
   expiration_date: ''
   probation_date: ''
-- status_date: 6/30/2023
+- status_date: 7/6/2023
   certificate: Police Officer
   level: Management
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 7/6/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 10/31/2011

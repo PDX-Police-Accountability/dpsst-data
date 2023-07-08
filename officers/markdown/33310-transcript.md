@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | MMP0024A | Mental Health / CIT - P1A | Passed | 0.0 | 3.00 |
 | 5/23/2023 | MMP0982 | Airway Training and Patient Care | Passed | 0.0 | 1.00 |
 | 4/24/2023 | MMP2238 | Consim Scenario Training | Passed | 0.0 | 4.00 |
 | 4/24/2023 | MMP2247 | Qualification / Training | Passed | 0.0 | 4.00 |

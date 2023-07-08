@@ -74,6 +74,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/29/2023
+  course: OCP0271A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/28/2023
+  course: OCP4427A
+  title: Older Adults and Aging
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 5/31/2023
   course: OCP0483A
   title: DPSST Use of Force Bulletin
@@ -98,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 4/26/2023
+  course: OCP2255A
+  title: The Rise of Anti-Semitism
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/29/2023
+  course: OCP3185A
+  title: Juveniles in Crises
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/23/2023
   course: OCP4203A
   title: Firearms/Use of Force
@@ -122,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/31/2023
+  course: OCP4095A
+  title: Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/12/2023
   course: F6R31032
   title: Crisis Communications for Law Enforcement

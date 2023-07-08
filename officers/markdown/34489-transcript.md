@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | OCS04927 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
+| 6/1/2023 | OCS2174A | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
 | 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |

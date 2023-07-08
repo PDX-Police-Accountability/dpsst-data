@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2023 | PDP0654A | 2023 Practical Answers to Questions in Crtrm | Passed | 0.0 | 19.50 |
 | 4/7/2023 | PDP2365A | 2023 Bloodstain Pattern Analysis I | Passed | 0.0 | 40.00 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/31/2023 | PDP16665 | CPR/First Aid | Passed | 0.0 | 1.75 |

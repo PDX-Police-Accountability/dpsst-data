@@ -40,14 +40,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
+| 6/28/2023 | OCP4427A | Older Adults and Aging | Passed | 0.0 | 0.75 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Instructed | 0.0 | 12.00 |
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
+| 4/26/2023 | OCP2255A | The Rise of Anti-Semitism | Passed | 0.0 | 1.00 |
+| 3/29/2023 | OCP3185A | Juveniles in Crises | Passed | 0.0 | 0.75 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
 | 2/17/2023 | OCP22019 | Peer Support Team Training | Passed | 0.0 | 4.00 |
 | 1/31/2023 | OCP09155 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
+| 1/31/2023 | OCP4095A | Legislative Update | Passed | 0.0 | 0.50 |
 | 1/12/2023 | F6R31032 | Crisis Communications for Law Enforcement | Passed | 0.0 | 3.50 |
 | 1/11/2023 | F6R17124 | 2020's Portland, Oregon Protests  Civil Disorder | Passed | 0.0 | 4.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |

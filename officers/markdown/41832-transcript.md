@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/25/2023 | PDP1329A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/5/2023 | PDP2934A | 2023 Constitutional Policing Conference | Passed | 0.0 | 4.00 |
 | 4/20/2023 | PDP0100A | 2023 External Training Crowd Psychology | Passed | 0.0 | 16.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

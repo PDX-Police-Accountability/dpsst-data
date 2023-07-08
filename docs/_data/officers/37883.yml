@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/24/2023
+  course: NGP2169A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/30/2023
   course: PDP04838
   title: 2023 Microsoft Cloud Storage w/ OD and SP

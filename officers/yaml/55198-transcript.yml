@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/28/2023
+  course: PDP3321A
+  title: 2023 Oregon DUII Multi-Disciplinary Conference
+  status: Passed
+  score: '0.0'
+  hours: '13.25'
 - date: 3/22/2023
   course: MISCMAIN
   title: 2022 LE Basic 3 Year Maintenance

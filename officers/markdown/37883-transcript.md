@@ -35,6 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2023 | NGP2392A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/25/2023 | PDP0812A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/24/2023 | NGP2169A | Defensive Tactics | Passed | 0.0 | 1.50 |
 | 3/30/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

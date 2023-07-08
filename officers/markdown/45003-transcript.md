@@ -41,8 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/5/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
-| 5/9/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 4/19/2023 | HBP18467 | DV Update, Strangulation, and Death Investigation | Instructed | 0.0 | 2.00 |
 | 4/19/2023 | HBP37844 | Karly's Law, Jessica's Law, Juvenile Update | Passed | 0.0 | 2.00 |
 | 4/19/2023 | HBP16776 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 7.00 |

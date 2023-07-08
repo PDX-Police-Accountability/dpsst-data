@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/12/2023
+  course: NGP1056A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/5/2023
   course: NGP2392A
   title: Anti-Bias Training for Law Enforcement
@@ -73,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/24/2023
+  course: NGP2169A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/18/2023
   course: NGP01767
   title: Achieve Peak Performance in Emotional Survival

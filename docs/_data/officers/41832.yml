@@ -76,6 +76,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/5/2023
+  course: PDP2934A
+  title: 2023 Constitutional Policing Conference
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/20/2023
   course: PDP0100A
   title: 2023 External Training Crowd Psychology

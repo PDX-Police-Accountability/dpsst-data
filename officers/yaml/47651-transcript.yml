@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/25/2023
+  course: PDP0565A
+  title: 2023 Conference on Crimes Against Women
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 5/11/2023
   course: PDP1919A
   title: CPR/First Aid

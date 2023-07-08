@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2023
+  course: MMP0024A
+  title: Mental Health / CIT - P1A
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/23/2023
   course: MMP0982
   title: Airway Training and Patient Care

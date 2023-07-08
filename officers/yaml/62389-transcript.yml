@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 7/20/2024
 training_records:
-- date: 7/20/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 6/2/2023
   course: PDP3365A
   title: CPR/First Aid
@@ -651,8 +645,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/18/2022
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/5/2022
-  expiration_date: 4/5/2024
 education_records: []

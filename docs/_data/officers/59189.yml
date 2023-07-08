@@ -16,11 +16,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/27/2023
+- status_date: 7/6/2023
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 7/6/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 11/25/2019
@@ -1822,4 +1822,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/4/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/18/2014
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Criminology
+  hours: '135.0'

@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 5/25/2023
+  course: PDP0565A
+  title: 2023 Conference on Crimes Against Women
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 5/9/2023
   course: PDP2105A
   title: CPR/First Aid

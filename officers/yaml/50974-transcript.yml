@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2023
+  course: OCP0271A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/21/2023
   course: LOP0868A
   title: West Metro Monthly Motor Training 06/21/2023
@@ -92,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 1/31/2023
+  course: OCP4095A
+  title: Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/18/2023
   course: LOP3089
   title: West Metro Monthly Motor Training

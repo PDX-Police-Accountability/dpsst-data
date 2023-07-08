@@ -37,10 +37,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2023 | NGP4417A | Adult/Child/Infant CPR AED | Passed | 0.0 | 3.00 |
+| 6/12/2023 | NGP1056A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 6/5/2023 | NGP2392A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/2/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 6/1/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 18.00 |
 | 5/15/2023 | NGP1404A | First Aid CPR | Passed | 0.0 | 5.00 |
+| 4/24/2023 | NGP2169A | Defensive Tactics | Passed | 0.0 | 1.50 |
 | 4/18/2023 | NGP01767 | Achieve Peak Performance in Emotional Survival | Passed | 0.0 | 1.50 |
 | 4/6/2023 | NGP35952 | Firearms Qualifications | Passed | 0.0 | 3.00 |
 | 3/16/2023 | NGP28180 | Taser scenarios | Passed | 0.0 | 1.00 |

@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 6/29/2023
+  course: OCP0271A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2023
   course: OCP0483A
   title: DPSST Use of Force Bulletin
@@ -79,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/31/2023
+  course: OCP4095A
+  title: Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2022
   course: OCP44240
   title: Ethics
