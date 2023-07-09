@@ -51,6 +51,7 @@
 | 3/14/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/14/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 3/6/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/1/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 2/28/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

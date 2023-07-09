@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/9/2023
+  course: PDP4035A
+  title: 2023 EAP Redefining Adversity
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/11/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions

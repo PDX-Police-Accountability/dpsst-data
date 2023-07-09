@@ -26,6 +26,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 9/14/2022 | PDP00431 | Suicide Prevention/Intervention Training | Passed | 0.0 | 7.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 3/28/2022 | PDP03333 | EAP Peer Support role in critical incidents | Passed | 0.0 | 8.00 |

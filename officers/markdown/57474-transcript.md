@@ -49,6 +49,7 @@
 | 3/21/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/14/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 2/28/2023 | PDP18950 | 2019 Leadership  Organizational Excellence LP | Passed | 0.0 | 0.25 |
 | 2/28/2023 | PDP44327 | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
 | 2/28/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 5/23/2023 | BPT2275A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/20/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 6/1/2023 | PDP4498A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |

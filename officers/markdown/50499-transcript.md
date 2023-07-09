@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 5/25/2023 | PDP0565A | 2023 Conference on Crimes Against Women | Passed | 0.0 | 26.00 |
 | 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/8/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

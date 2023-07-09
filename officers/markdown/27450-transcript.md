@@ -26,6 +26,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 2/9/2021 | F6D10049 | OSHA Part 4 Training Video | Passed | 0.0 | 0.05 |
 | 6/27/2018 | PDP07308 | Ofc Resiliency  Wellness - Healthy Career in LE | Passed | 0.0 | 7.00 |

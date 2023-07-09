@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/16/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 3/5/2023 | PDP02750 | IACP Officer Safety and Wellness Symposium | Passed | 0.0 | 24.00 |
 | 2/14/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 2/14/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |

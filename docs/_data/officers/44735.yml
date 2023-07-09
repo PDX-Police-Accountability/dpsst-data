@@ -129,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/9/2023
+  course: PDP4035A
+  title: 2023 EAP Redefining Adversity
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/7/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording

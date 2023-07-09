@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 5/12/2023 | PDP1802A | 2023 CSM Crisis Hostage Negotiation Lvl 1 | Passed | 0.0 | 40.00 |
 | 4/20/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2023 | PDP0178A | CPR/First Aid | Passed | 0.0 | 1.75 |

@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/9/2023
+  course: PDP4035A
+  title: 2023 EAP Redefining Adversity
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/28/2023
   course: PDP18950
   title: 2019 Leadership  Organizational Excellence LP

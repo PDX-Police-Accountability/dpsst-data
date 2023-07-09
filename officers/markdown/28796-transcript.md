@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 5/12/2023 | PDP0866A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/24/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/24/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |

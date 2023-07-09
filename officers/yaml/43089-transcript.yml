@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2023
+  course: LGS1957A
+  title: Pistol Qual/Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2023
   course: BKP1987A
   title: MERRTT / D.O.E. Secure Transport

@@ -49,6 +49,7 @@
 | 3/20/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/20/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/20/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 3/7/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/5/2023 | PDP02750 | IACP Officer Safety and Wellness Symposium | Passed | 0.0 | 16.00 |
 | 3/1/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

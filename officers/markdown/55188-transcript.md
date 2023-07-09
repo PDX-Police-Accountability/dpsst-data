@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/26/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 5/19/2023 | PDP0150A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/14/2023 | PDP1603A | CPR/First Aid | Instructed | 0.0 | 1.75 |

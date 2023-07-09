@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/24/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

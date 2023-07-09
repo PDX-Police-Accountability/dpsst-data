@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 7/1/2023
+  course: NPS0938
+  title: OSHA Heat Illness
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/4/2022
   course: M10-22A
   title: DPSST Basic Police Course

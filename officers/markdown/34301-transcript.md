@@ -49,6 +49,7 @@
 | 5/28/2023 | TRN2933A | Protection from Ambient Heat v2023 | Passed | 0.0 | 0.50 |
 | 5/28/2023 | TRN1465A | Use of Force Overview of Rules v2023 | Passed | 0.0 | 2.00 |
 | 5/28/2023 | TRN2360A | Wellness-Mind and Inspiration v2021 | Passed | 0.0 | 0.50 |
+| 5/28/2023 | TRN3544 | MDT Training CCCF v2022 | Passed | 0.0 | 4.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/18/2023 | TRN37526 | DOC - Fire Alarm Panel Monitoring v2023a | Passed | 0.0 | 1.00 |
 | 2/17/2023 | TRN34402 | 2023 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |

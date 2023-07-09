@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Instructed | 0.0 | 7.00 |
 | 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Instructed | 0.0 | 36.00 |

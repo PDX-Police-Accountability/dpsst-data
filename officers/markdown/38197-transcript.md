@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 4/25/2023 | PDP0812A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/5/2023 | PDP36598 | OR Law Enforcement  Fire PIO Conference | Passed | 0.0 | 16.00 |
 | 4/5/2023 | PDP3340A | 2023 OR LE  Fire PIO Conference | Passed | 0.0 | 13.00 |

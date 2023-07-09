@@ -49,6 +49,7 @@
 | 3/29/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 3/2/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/2/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 3/2/2023 | PDP23052 | 2023-1 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

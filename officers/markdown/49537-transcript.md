@@ -52,6 +52,7 @@
 | 3/28/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
 | 3/1/2023 | PDP22623 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
 | 2/28/2023 | PDP39581 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
 | 2/27/2023 | PDP08572 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |

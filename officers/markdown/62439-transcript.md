@@ -25,4 +25,5 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2023 | NPS0938 | OSHA Heat Illness | Passed | 0.0 | 0.75 |
 | 4/4/2022 | M10-22A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
