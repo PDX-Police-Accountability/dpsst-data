@@ -41,7 +41,7 @@
 | 2/1/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/12/2023 | PDS3342A | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 5/12/2023 | PDS3692 | CPR/First Aid | Passed | 0.0 | 2.50 |
-| 4/10/2023 | 23-0009 | DPSST Basic Police COD | Registered | 0.0 | 80.00 |
+| 4/21/2023 | 23-0009 | DPSST Basic Police COD | Passed | 0.0 | 80.00 |
 | 1/10/2020 | M-FED17A | Oregon Arrest Authority for Federal Officers | Completed | 0.0 | 2.00 |
 | 9/20/2002 | 02U002 | Approved Out-of-State Training | Passed | 0.0 | 544.00 |
 | 7/29/2002 | 02U002 | Approved Out-of-State Training | Passed | 0.0 | 415.00 |

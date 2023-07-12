@@ -4,7 +4,7 @@
 | name | Nagy, Patrick J. |
 | dpsst_identifier | 39612 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/26/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 7/20/2000 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/11/2010 | Police Officer | Advanced | Granted | 2/11/2010 |  |  |
-| 2/11/2010 | Police Officer | Intermediate | Granted | 2/11/2010 |  |  |
-| 10/11/2001 | Police Officer | Basic | Granted | 10/11/2001 |  |  |
+| 2/11/2010 | Police Officer | Advanced | Granted | 2/11/2010 | 9/26/2023 |  |
+| 2/11/2010 | Police Officer | Intermediate | Granted | 2/11/2010 | 9/26/2023 |  |
+| 10/11/2001 | Police Officer | Basic | Granted | 10/11/2001 | 9/26/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

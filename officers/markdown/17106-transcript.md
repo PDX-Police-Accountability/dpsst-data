@@ -42,7 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/14/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 4/10/2023 | 23-0009 | DPSST Basic Police COD | Registered | 0.0 | 80.00 |
+| 4/21/2023 | 23-0009 | DPSST Basic Police COD | Passed | 0.0 | 80.00 |
 | 2/2/2022 | PDA2036A | Basic First Aid and Basic Life Support | Passed | 0.0 | 8.00 |
 | 8/26/2019 | PDP02916 | 2019 CHO SPLC Law Enforce Response to Hate Events | Passed | 0.0 | 0.25 |
 | 7/1/2019 | PDP14297 | 2019-7 UPDATED Tips  Tech CAD Study Codes Updated | Passed | 0.0 | 0.25 |

@@ -99,10 +99,10 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 4/10/2023
+- date: 4/21/2023
   course: 23-0009
   title: DPSST Basic Police COD
-  status: Registered
+  status: Passed
   score: '0.0'
   hours: '80.00'
 - date: 2/2/2022

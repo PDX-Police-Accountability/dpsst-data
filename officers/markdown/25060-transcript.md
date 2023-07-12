@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/30/2023 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 3/20/2019 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/1/2014 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 10/20/2005 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -19,11 +20,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/20/2019 | Police Officer | Advanced | Lapsed | 5/25/1999 |  |  |
-| 6/20/2019 | Police Officer | Basic | Lapsed | 2/11/1992 |  |  |
-| 6/20/2019 | Police Officer | Intermediate | Lapsed | 5/25/1999 |  |  |
-| 6/20/2019 | Police Officer | Supervisory | Lapsed | 1/8/2008 |  |  |
-| 1/1/2014 | Instructor |  | Granted | 1/1/2014 |  |  |
+| 6/30/2023 | Instructor |  | Expired | 1/1/2014 |  |  |
+| 6/20/2019 | Police Officer | Advanced | Lapsed | 5/25/1999 | 3/20/2024 |  |
+| 6/20/2019 | Police Officer | Basic | Lapsed | 2/11/1992 | 3/20/2024 |  |
+| 6/20/2019 | Police Officer | Intermediate | Lapsed | 5/25/1999 | 3/20/2024 |  |
+| 6/20/2019 | Police Officer | Supervisory | Lapsed | 1/8/2008 | 3/20/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

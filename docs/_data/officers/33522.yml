@@ -3,12 +3,18 @@ header_record:
   name: Walters, Jason L.
   dpsst_identifier: '33522'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/21/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 3/14/1997
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 9/21/2023
   probation_date: ''
 - status_date: 11/23/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/23/2010
-  expiration_date: ''
+  expiration_date: 9/21/2023
   probation_date: ''
 - status_date: 1/13/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/13/1998
-  expiration_date: ''
+  expiration_date: 9/21/2023
   probation_date: ''
 training_records:
 - date: 5/3/2023

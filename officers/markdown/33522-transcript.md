@@ -4,7 +4,7 @@
 | name | Walters, Jason L. |
 | dpsst_identifier | 33522 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/21/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 3/14/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 |  |  |
-| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 |  |  |
-| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 |  |  |
+| 11/23/2010 | Police Officer | Advanced | Granted | 11/23/2010 | 9/21/2023 |  |
+| 11/23/2010 | Police Officer | Intermediate | Granted | 11/23/2010 | 9/21/2023 |  |
+| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 | 9/21/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

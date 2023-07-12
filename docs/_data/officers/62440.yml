@@ -3,26 +3,25 @@ header_record:
   name: Houston, Maurice A.
   dpsst_identifier: '62440'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/3/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/9/2021
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 12/9/2021
-  certificate: Police Officer
-  level: Basic
-  status: ReqCertExt
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 6/9/2024
+certification_records: []
 training_records:
 - date: 5/9/2023
   course: PDP2105A

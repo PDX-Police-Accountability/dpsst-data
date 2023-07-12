@@ -3,12 +3,18 @@ header_record:
   name: Morris, James J.
   dpsst_identifier: '29314'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/5/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 11/18/2020
   agency: Portland Police Bureau
   action: Return LOA
@@ -63,28 +69,28 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/23/2009
-  expiration_date: ''
+  expiration_date: 10/5/2023
   probation_date: ''
 - status_date: 2/23/2009
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/23/2009
-  expiration_date: ''
+  expiration_date: 10/5/2023
   probation_date: ''
 - status_date: 2/23/2009
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 2/23/2009
-  expiration_date: ''
+  expiration_date: 10/5/2023
   probation_date: ''
 - status_date: 11/3/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 11/3/1998
-  expiration_date: ''
+  expiration_date: 10/5/2023
   probation_date: ''
 training_records:
 - date: 4/14/2023

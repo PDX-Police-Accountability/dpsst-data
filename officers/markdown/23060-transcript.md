@@ -4,7 +4,7 @@
 | name | Michaelson, David K. |
 | dpsst_identifier | 23060 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/28/2023 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 4/18/2019 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 5/12/2015 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 12/10/2014 | Portland Police Bureau | LOA | Sergeant |  |  |
@@ -22,10 +23,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/26/2007 | Police Officer | Supervisory | Granted | 11/26/2007 |  |  |
-| 9/10/2007 | Police Officer | Advanced | Granted | 9/10/2007 |  |  |
-| 9/10/2007 | Police Officer | Intermediate | Granted | 9/10/2007 |  |  |
-| 2/1/2000 | Police Officer | Basic | Granted | 2/1/2000 |  |  |
+| 11/26/2007 | Police Officer | Supervisory | Granted | 11/26/2007 | 9/28/2023 |  |
+| 9/10/2007 | Police Officer | Advanced | Granted | 9/10/2007 | 9/28/2023 |  |
+| 9/10/2007 | Police Officer | Intermediate | Granted | 9/10/2007 | 9/28/2023 |  |
+| 2/1/2000 | Police Officer | Basic | Granted | 2/1/2000 | 9/28/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

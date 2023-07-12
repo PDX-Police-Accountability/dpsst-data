@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/26/2023 | Police Officer | Intermediate | App Recd |  |  |  |
+| 7/10/2023 | Police Officer | Intermediate | Granted | 7/10/2023 |  |  |
 | 7/10/2020 | Police Officer | Basic | Granted | 7/10/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -29,6 +29,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/9/2017 | Bachelor Science | Western Oregon University | Criminal Justice | 120.0 |
+| 3/29/2015 | No Degree | All Other Education Institutes |  | 113.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

@@ -31,6 +31,7 @@
 | 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/20/2023 | PDP1498A | 2023 FTEP HAZMAT/WMD Awareness/APR | Passed | 0.0 | 4.00 |
 | 6/13/2023 | PDP3734A | 2023 FTEP Control Tactics CT Post Basic Academy | Passed | 0.0 | 4.00 |
+| 6/9/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/25/2023 | REG0412A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 4/20/2023 | REG32421 | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 3/28/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
@@ -38,7 +39,6 @@
 | 3/20/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/20/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/20/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
-| 2/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 2/13/2023 | PDP26388 | FTEP Policy  Procedure Training - Wellness Intro | Passed | 0.0 | 1.50 |
 | 2/13/2023 | PDP36184 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 2/9/2023 | PDP06735 | Pre Dpsst Academy Firearms Training | Passed | 0.0 | 7.00 |

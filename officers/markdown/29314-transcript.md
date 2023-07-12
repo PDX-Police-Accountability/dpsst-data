@@ -4,7 +4,7 @@
 | name | Morris, James J. |
 | dpsst_identifier | 29314 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/5/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 11/18/2020 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 5/21/2020 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 2/5/2019 | Portland Police Bureau | Return LOA | Sergeant |  |  |
@@ -23,10 +24,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/23/2009 | Police Officer | Advanced | Granted | 2/23/2009 |  |  |
-| 2/23/2009 | Police Officer | Intermediate | Granted | 2/23/2009 |  |  |
-| 2/23/2009 | Police Officer | Supervisory | Granted | 2/23/2009 |  |  |
-| 11/3/1998 | Police Officer | Basic | Granted | 11/3/1998 |  |  |
+| 2/23/2009 | Police Officer | Advanced | Granted | 2/23/2009 | 10/5/2023 |  |
+| 2/23/2009 | Police Officer | Intermediate | Granted | 2/23/2009 | 10/5/2023 |  |
+| 2/23/2009 | Police Officer | Supervisory | Granted | 2/23/2009 | 10/5/2023 |  |
+| 11/3/1998 | Police Officer | Basic | Granted | 11/3/1998 | 10/5/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

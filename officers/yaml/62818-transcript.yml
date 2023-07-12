@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.50'
+- date: 5/24/2023
+  course: CIF4220A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/23/2023
   course: CIF1003
   title: Cultural Training for Law Enforcement
