@@ -30,12 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/27/2023
+  course: PDP4444A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 6/20/2023
   course: PDP1498A
   title: 2023 FTEP HAZMAT/WMD Awareness/APR
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/20/2023
+  course: PDP2602A
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/14/2023
+  course: PDP1265A
+  title: 2023 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/13/2023
   course: PDP3734A
   title: 2023 FTEP Control Tactics CT Post Basic Academy

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 5/31/2023 | PDP0889 | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/24/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |

@@ -71,8 +71,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 6/5/2023
-  course: OCS3130A
-  title: FBI/LEEDA
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '40.00'

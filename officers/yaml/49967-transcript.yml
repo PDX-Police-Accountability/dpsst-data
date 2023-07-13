@@ -892,7 +892,7 @@ training_records:
   title: SFST  Drugs That Impair Driving
   status: Passed
   score: '0.0'
-  hours: '4.00'
+  hours: '24.00'
 - date: 1/4/2018
   course: F6B29247
   title: Criminal Investigations

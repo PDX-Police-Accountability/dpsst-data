@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/2/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 6/23/2023 | FGP3809A | Summer Outdoor Range Quals and Drills | Passed | 0.0 | 10.00 |
 | 6/6/2023 | FGP0327A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 5/21/2023 | FGP4078A | Advanced Drone Operation | Passed | 0.0 | 4.00 |
