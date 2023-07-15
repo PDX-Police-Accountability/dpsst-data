@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |
+| 5/23/2023 | LCP1173 | Interview  Interrogation | Passed | 0.0 | 24.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/4/2023 | OCP00776 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/31/2023 | OCP4095A | Legislative Update | Passed | 0.0 | 0.50 |

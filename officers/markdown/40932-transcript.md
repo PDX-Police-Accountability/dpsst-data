@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/14/2023 | PDP3441A | ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc | Passed | 0.0 | 18.00 |
 | 6/5/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
+| 6/5/2023 | OCS2433 | FBI/LEEDA CLI | Passed | 0.0 | 28.50 |
 | 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/20/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/20/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/2/2023 | Forest Grove Police Department | Promotion | Sergeant |  |  |
 | 9/8/2021 | Forest Grove Police Department | Hired | Police Off |  |  |
 | 8/16/2021 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/1/1996 | Portland Police Bureau | Hired | Police Off |  |  |

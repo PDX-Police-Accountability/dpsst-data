@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2023
+  course: DAS2802A
+  title: Polk County Crisis Intervention Team 40-Hour
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/16/2023
   course: PSU1814
   title: MILO 3000 / Shoot Don't Shoot Scenarios

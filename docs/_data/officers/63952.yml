@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 7/5/2023
+  course: PDP0225A
+  title: ICS-100 Intro to the Incident Cmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records: []
 education_records: []

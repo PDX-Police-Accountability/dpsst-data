@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/12/2023
+  course: TGP0181
+  title: Patrol Rifle School
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/6/2023
   course: HBS11510
   title: ARIDE

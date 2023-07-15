@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 6/5/2023
+  course: OCS2433
+  title: FBI/LEEDA CLI
+  status: Passed
+  score: '0.0'
+  hours: '28.50'
 - date: 5/18/2023
   course: PDP3706A
   title: CPR/First Aid

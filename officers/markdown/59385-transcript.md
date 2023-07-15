@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | DAS2802A | Polk County Crisis Intervention Team 40-Hour | Passed | 0.0 | 40.00 |
 | 5/16/2023 | PSU1814 | MILO 3000 / Shoot Don't Shoot Scenarios | Instructed | 0.0 | 1.50 |
 | 5/11/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/11/2023 | PSU0064 | Low Light/Shooting  Moving/Transitions/ Qual | Passed | 0.0 | 2.50 |

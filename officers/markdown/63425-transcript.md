@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/8/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
 | 5/18/2023 | REG1282 | INTOX 8000  (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/20/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
