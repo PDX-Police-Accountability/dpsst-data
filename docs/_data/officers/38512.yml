@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/7/2023
+  course: PDP2417A
+  title: External Training Bureau ATFE CES
+  status: Passed
+  score: '0.0'
+  hours: '37.50'
 - date: 3/30/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

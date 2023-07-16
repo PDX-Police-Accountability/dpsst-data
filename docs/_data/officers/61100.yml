@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/21/2023
+  course: PDP2814A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/31/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles

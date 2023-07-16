@@ -21,8 +21,21 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 7/14/2023
+  certificate: Police Officer
+  level: Basic
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 training_records:
+- date: 7/12/2023
+  course: E11PDP19
+  title: FTM Equivalency Review (Portland Police Bureau)
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
 - date: 5/9/2023
   course: PDP2105A
   title: CPR/First Aid
@@ -666,6 +679,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 5/22/2023
+  expiration_date: ''
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/9/2023

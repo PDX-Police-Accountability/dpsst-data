@@ -42,6 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2023 | PDP0186A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/21/2023 | PDP2814A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/20/2023 | PDP2175A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/11/2023 | PDP19042 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 3/19/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

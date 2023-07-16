@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/6/2023 | PDP3330A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 7/3/2023 | PDP3545A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/15/2023 | PDP2655A | CPR/First Aid | Instructed | 0.0 | 1.75 |

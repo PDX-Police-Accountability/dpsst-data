@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/11/2023
+  course: PDP1131A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 6/29/2023
   course: PDP1420A
   title: 2023-1 Shotgun Operators In-Service Training
@@ -4935,6 +4941,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/11/2023
+  expiration_date: 7/11/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4947,10 +4957,6 @@ attribute_records:
   value: Signed
   effective_date: 12/20/2010
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 6/13/2023
 education_records:
 - date: 12/15/1995
   degree: No Degree

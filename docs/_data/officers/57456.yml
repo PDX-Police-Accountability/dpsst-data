@@ -50,6 +50,12 @@ certification_records:
   expiration_date: 5/16/2025
   probation_date: ''
 training_records:
+- date: 6/21/2023
+  course: PDP2814A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/24/2023
   course: PDP4037
   title: 2023-1 Shotgun Operators In-Service Training
@@ -1449,6 +1455,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/21/2023
+  expiration_date: 6/21/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

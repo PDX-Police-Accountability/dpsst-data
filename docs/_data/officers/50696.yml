@@ -73,6 +73,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2023
+  course: PDP0186A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 6/21/2023
+  course: PDP2814A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
+- date: 6/20/2023
+  course: PDP2175A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/19/2023
   course: PDP0150A
   title: CPR/First Aid

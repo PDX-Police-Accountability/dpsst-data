@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/22/2023
+  course: PDP2111A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/31/2023
   course: PDP1548A
   title: CPR/First Aid
@@ -241,6 +247,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/22/2023
+  expiration_date: 6/22/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/31/2023

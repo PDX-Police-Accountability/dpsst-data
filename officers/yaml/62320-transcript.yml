@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/9/2021
+- status_date: 7/14/2023
   certificate: Police Officer
   level: Basic
-  status: ReqCertExt
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 6/9/2024
 training_records:
-- date: 6/9/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
+- date: 7/12/2023
+  course: E11PDP19
+  title: FTM Equivalency Review (Portland Police Bureau)
+  status: Completed
   score: '0.0'
   hours: '50.00'
 - date: 4/19/2023
@@ -755,6 +755,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/19/2023
   expiration_date: 4/19/2025
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 4/13/2023
+  expiration_date: ''
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/22/2022

@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/22/2023
+  course: PDP2111A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 3/28/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles
@@ -2270,6 +2276,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/22/2023
+  expiration_date: 6/22/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -2286,10 +2296,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/8/2017
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 6/13/2023
 education_records:
 - date: 12/18/2015
   degree: Bachelor Science
