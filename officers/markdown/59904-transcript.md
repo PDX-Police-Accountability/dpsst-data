@@ -4,7 +4,7 @@
 | name | Matlock, Dustyn K. |
 | dpsst_identifier | 59904 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/4/2023 | Portland Police Bureau | Discharged | Police Off |  |  |
 | 3/7/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/20/2020 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/17/2019 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -19,7 +20,6 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/18/2019 | Police Officer | Basic | ReqCertExt |  |  | 1/18/2022 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

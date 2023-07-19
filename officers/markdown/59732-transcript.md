@@ -4,7 +4,7 @@
 | name | Aroonsuck, Krute |
 | dpsst_identifier | 59732 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/10/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/25/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/28/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 | 3/20/2019 | Out of State Employment | Resigned | Police Off |  |  |
@@ -19,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/3/2020 | Police Officer | Basic | Granted | 1/3/2020 |  |  |
+| 1/3/2020 | Police Officer | Basic | Granted | 1/3/2020 | 10/10/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

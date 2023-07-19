@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2023
+  course: PDS3501A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/30/2023
   course: PDS09818
   title: Peer Support

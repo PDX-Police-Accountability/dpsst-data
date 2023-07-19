@@ -35,6 +35,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2023 | PDS01115 | Taser | Passed | 0.0 | 8.00 |
 | 12/26/2023 | PDS30531 | Mind Set | Passed | 0.0 | 4.00 |
+| 6/6/2023 | PDS3355A | Yoga for First Responders | Passed | 0.0 | 1.00 |
+| 6/6/2023 | PDS0306A | Peer Support | Passed | 0.0 | 1.00 |
+| 6/6/2023 | PDS2890A | NAMI Training | Passed | 0.0 | 2.00 |
 | 4/18/2023 | PDS35180 | TacMed | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDS23972 | Leadership Workshop | Passed | 0.0 | 2.00 |
 | 2/20/2023 | PDS32117 | Adult Protective Services | Passed | 0.0 | 1.00 |

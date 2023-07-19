@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2023 | MOS1620A | Advanced AR15 Range | Passed | 0.0 | 3.50 |
+| 7/11/2023 | HRS1288A | Contempt of Cop: Ethical Decision Making | Passed | 0.0 | 1.00 |
 | 5/25/2023 | HRS3603A | Spring Firearms Range | Passed | 0.0 | 4.00 |
 | 5/16/2023 | HRS4113A | Internal Affairs Investigations | Passed | 0.0 | 7.00 |
 | 5/4/2023 | HRS05010 | Tactical Training-Critical Incident Debrief | Passed | 0.0 | 1.50 |

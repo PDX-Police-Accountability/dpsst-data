@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2023 | PDS3355A | Yoga for First Responders | Passed | 0.0 | 1.00 |
+| 6/6/2023 | PDS0306A | Peer Support | Passed | 0.0 | 1.00 |
+| 6/6/2023 | PDS2890A | NAMI Training | Passed | 0.0 | 2.00 |
 | 4/10/2023 | PDS15002 | Firearms Training | Passed | 0.0 | 5.00 |
 | 3/28/2023 | PDS34199 | PowerDMS | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDS05565 | Adult Protective Services | Passed | 0.0 | 1.00 |

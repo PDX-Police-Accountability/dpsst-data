@@ -3,12 +3,18 @@ header_record:
   name: Aroonsuck, Krute
   dpsst_identifier: '59732'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/10/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 11/25/2021
   agency: Portland Police Bureau
   action: LOA
@@ -39,7 +45,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 1/3/2020
-  expiration_date: ''
+  expiration_date: 10/10/2023
   probation_date: ''
 training_records:
 - date: 5/22/2022

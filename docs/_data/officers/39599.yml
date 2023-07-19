@@ -80,6 +80,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2023
+  course: PDS2230A
+  title: Yoga For First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/14/2023
+  course: PDS3576A
+  title: NAMI Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/14/2023
+  course: PDS0605A
+  title: Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/15/2023
   course: PDS3380A
   title: LE Property and Evidence

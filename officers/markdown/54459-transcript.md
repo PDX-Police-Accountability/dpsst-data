@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2023 | HRS1288A | Contempt of Cop: Ethical Decision Making | Passed | 0.0 | 1.00 |
 | 6/22/2023 | HRS2683A | Spring Firearms Range | Passed | 0.0 | 4.00 |
 | 3/16/2023 | HRS30334 | Officer Safety Refresher | Passed | 0.0 | 1.00 |
 | 3/16/2023 | HRS38070 | Use of Force Refresher | Passed | 0.0 | 1.00 |

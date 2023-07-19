@@ -67,6 +67,18 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 7/14/2023
+  course: MOS1620A
+  title: Advanced AR15 Range
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 7/11/2023
+  course: HRS1288A
+  title: 'Contempt of Cop: Ethical Decision Making'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/25/2023
   course: HRS3603A
   title: Spring Firearms Range

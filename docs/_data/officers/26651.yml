@@ -87,6 +87,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 6/21/2023
+  course: PDS2414A
+  title: Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/10/2023
   course: PDS15850
   title: Use of Force Report Writing

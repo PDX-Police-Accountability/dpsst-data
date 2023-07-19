@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2023
+  course: HBS3878A
+  title: WIN Cautious Clears/Vehicle Takedowns
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/15/2023
   course: HBP43238
   title: Respectful Workplace - Employee Course (Equity)

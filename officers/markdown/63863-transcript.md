@@ -34,3 +34,7 @@
 | 3/29/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP42709 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 3/15/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 4/1/2020 | PDP3855A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
+| 4/1/2020 | PDP0880A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 4/1/2020 | PDP0917A | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
+| 10/20/2019 | PDP3050A | ICS-100 Intro to the Incident Cmnd System | Passed | 0.0 | 2.00 |

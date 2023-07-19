@@ -72,5 +72,29 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/1/2020
+  course: PDP3855A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/1/2020
+  course: PDP0880A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/1/2020
+  course: PDP0917A
+  title: IS-800 National Response Framework
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/20/2019
+  course: PDP3050A
+  title: ICS-100 Intro to the Incident Cmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records: []
 education_records: []
