@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/12/2023
+  course: PDP1542A
+  title: TEEX WMD/Terrorism Awareness for Emergency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/9/2023
   course: M10-23A
   title: DPSST Basic Police Course

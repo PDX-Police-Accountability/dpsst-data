@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 6/30/2023
+  course: PDP1542A
+  title: TEEX WMD/Terrorism Awareness for Emergency
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 attribute_records: []
 education_records: []

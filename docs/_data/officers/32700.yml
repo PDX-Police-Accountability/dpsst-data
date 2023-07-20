@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/20/2023
+  course: PDP4079A
+  title: Exercise Conduct, Eval  Improving Planning
+  status: Passed
+  score: '0.0'
+  hours: '29.50'
 - date: 3/31/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording

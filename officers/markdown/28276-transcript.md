@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2023 | SVP0222A | MILO Training/Use of Force Decision Making | Instructed | 0.0 | 3.00 |
 | 6/24/2023 | SVP1083A | Active Shooter Recognition  Response | Passed | 0.0 | 1.00 |
 | 5/31/2023 | SVP1067A | Handgun Training/Qualification | Instructed | 0.0 | 4.00 |
 | 5/26/2023 | SVP3387A | Handgun Training | Instructed | 0.0 | 4.00 |

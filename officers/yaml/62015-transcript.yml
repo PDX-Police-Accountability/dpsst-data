@@ -22,12 +22,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/3/2023
+- status_date: 7/4/2023
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 3/3/2023
-  expiration_date: 7/4/2023
+  expiration_date: 4/4/2028
   probation_date: ''
 training_records:
 - date: 3/31/2023
@@ -1063,14 +1063,6 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/8/2022

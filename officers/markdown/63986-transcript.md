@@ -28,3 +28,4 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/14/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 6/30/2023 | PDP1542A | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |

@@ -142,6 +142,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2023
+  course: OSH0662A
+  title: Drug Certification Training
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/19/2023
   course: F6R1974A
   title: 40 Hour CIT Training

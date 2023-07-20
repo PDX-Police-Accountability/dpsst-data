@@ -41,6 +41,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 7/12/2023
+  course: PDS4148A
+  title: Reserve Deputy Unit Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/7/2023
   course: PDS1706A
   title: Reserve Deputy Unit Monthly Training

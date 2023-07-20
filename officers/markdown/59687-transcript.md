@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 7/18/2023 | Police Officer | Intermediate | App Recd |  |  |  |
 | 11/30/2021 | Police Officer | Basic | Reactivate | 5/27/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

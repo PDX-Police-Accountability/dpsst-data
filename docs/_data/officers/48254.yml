@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/10/2023
+  course: OSH0662A
+  title: Drug Certification Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/23/2023
   course: PDP2999A
   title: CPR/First Aid

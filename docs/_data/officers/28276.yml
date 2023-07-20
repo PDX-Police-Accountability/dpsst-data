@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2023
+  course: SVP0222A
+  title: MILO Training/Use of Force Decision Making
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/24/2023
   course: SVP1083A
   title: Active Shooter Recognition  Response

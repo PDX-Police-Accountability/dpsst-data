@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/4/2023
+  course: PDP3951A
+  title: Canine Program Management Course
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 4/12/2023
   course: PDP3679A
   title: 2023 NYPD High Rise Tactics

@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/2/2037 | PDP33795 | 2017-2 In-Service TECC | Passed | 0.0 | 1.00 |
 | 6/1/2023 | VND2228A | Basic Background Investigations | Passed | 0.0 | 16.00 |
+| 6/1/2023 | PDP2268A | Basic Background Inves OR Peace Officers Assoc | Passed | 0.0 | 16.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 12/12/2019 | F6D31957 | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 1/1/2019 | PDP37796 | Decision Making Exercises | Passed | 0.0 | 0.50 |

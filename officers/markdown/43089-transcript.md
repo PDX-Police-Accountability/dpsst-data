@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2023 | REG2133A | Handgun IDC | Instructed | 0.0 | 10.00 |
 | 6/23/2023 | LGS1957A | Pistol Qual/Training | Passed | 0.0 | 1.00 |
 | 6/6/2023 | BKP1987A | MERRTT / D.O.E. Secure Transport | Passed | 0.0 | 16.00 |
 | 5/23/2023 | REG4142A | Patrol Rifle IDC | Instructed | 0.0 | 30.00 |

@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 6/1/2023
+  course: PDP2268A
+  title: Basic Background Inves OR Peace Officers Assoc
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/13/2022
   course: OCS39395
   title: Interview and Interrogation
