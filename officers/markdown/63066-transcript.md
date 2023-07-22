@@ -31,6 +31,7 @@
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Passed | 0.0 | 3.00 |
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
+| 5/31/2023 | PDP0023A | 2020 BHU ECIT Update Section 1 | Passed | 0.0 | 0.25 |
 | 5/30/2023 | PDP3896A | 2023 FTEP Radar Lidar | Passed | 0.0 | 16.00 |
 | 5/30/2023 | REG2153A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 5/23/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 13.00 |

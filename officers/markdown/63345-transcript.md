@@ -32,6 +32,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 5/20/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 5/12/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/12/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/7/2023 | PDP1664A | 2023-1 Advanced Academy  PVO | Passed | 0.0 | 45.50 |
 | 5/5/2023 | PDP1194A | 2023-1 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
 | 5/1/2023 | PDP1843A | 2023-1 Advanced Academy Community Engagement | Passed | 0.0 | 41.50 |

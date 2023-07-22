@@ -36,8 +36,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/9/2023 | PDP3957A | FBI-LEEDA Command Leadership Insitute | Passed | 0.0 | 40.00 |
+| 5/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 5/21/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/21/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/15/2023 | PDP1379A | Psychology of Terrorism  Counter Terrorism | Passed | 0.0 | 7.00 |
 | 5/13/2023 | PDP4009A | Team Rubicon Emergency Management | Passed | 0.0 | 7.00 |
+| 5/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/27/2023 | PDP35875 | Future of Work | Passed | 0.0 | 3.00 |
 | 4/4/2023 | PDP27317 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2023 | PDP41483 | Blue to Gold Criminal Investigations | Passed | 0.0 | 3.00 |

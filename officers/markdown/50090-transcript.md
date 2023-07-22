@@ -38,9 +38,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/28/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
+| 6/3/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP0889 | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/24/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/13/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/13/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 5/13/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/10/2023 | PDP2249A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 5/3/2023 | PDP1232A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 4/20/2023 | PDP1249 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |

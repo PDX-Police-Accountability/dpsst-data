@@ -30,6 +30,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/12/2023 | PDP4214 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/10/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 6/10/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 6/10/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 5/20/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/7/2023 | PDP1664A | 2023-1 Advanced Academy  PVO | Passed | 0.0 | 45.50 |
 | 5/5/2023 | PDP1194A | 2023-1 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
 | 5/1/2023 | PDP1843A | 2023-1 Advanced Academy Community Engagement | Passed | 0.0 | 41.50 |
@@ -46,6 +50,7 @@
 | 4/4/2023 | PDP2462A | 2023-1 Advanced Academy Fitness | Passed | 0.0 | 3.25 |
 | 4/3/2023 | PDP1147A | 2023-1 Advanced Academy Ethics | Passed | 0.0 | 5.00 |
 | 4/3/2023 | PDP4281A | 2023-1 Advanced Academy Ethics | Passed | 0.0 | 5.00 |
+| 4/3/2023 | PDP0751A | 2018 ITD MDC Console Replacement - Getac S410 | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP0348A | 2023-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 13.50 |
 | 3/23/2023 | PDP3856A | 2023-1 Advanced Academy Cares | Passed | 0.0 | 1.50 |

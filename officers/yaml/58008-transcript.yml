@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/12/2023
+  course: PDP0396A
+  title: External Training NWGIA Symposium 051223
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 3/30/2023
   course: PDP21637
   title: 2023-1 Range Qualification 40mm Less Lethal Qual

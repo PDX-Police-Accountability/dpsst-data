@@ -63,12 +63,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2023
+  course: HDA3708A
+  title: Federal and State Civil Forfeiture
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/12/2023
+  course: HDA0101A
+  title: Len Bias Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/11/2023
+  course: HDA2270A
+  title: ONEA Training Institute - General Session
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/6/2023
+  course: OCS4279A
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/1/2023
   course: OCS4327A
   title: Shoot/No Shoot Targets, Marksmanship, Cover
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/1/2023
+  course: OCS3320A
+  title: Shoot/No Shoot targets, Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/24/2023
   course: HDA0288
   title: Tri-State Narcotics Supervisors/Commanders Summit

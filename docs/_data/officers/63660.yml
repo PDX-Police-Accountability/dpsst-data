@@ -66,6 +66,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/26/2023
+  course: PDP3608A
+  title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2023
+  course: PDP3951A
+  title: Canine Program Management Course
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2023
+  course: PDP2717A
+  title: 2019-7 TT CAD Study Codes to Track Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2023
+  course: PDP1531A
+  title: 2021 Equity Training Series Introduction Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/3/2023
+  course: PDP4184A
+  title: 2019-1 TT External Vest Equipment Requirements
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

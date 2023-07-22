@@ -37,12 +37,15 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/26/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
+| 6/20/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/19/2023 | PDP0150A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/14/2023 | PDP1603A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/12/2023 | PDP0866A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/10/2023 | PDP1627A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/10/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/10/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/9/2023 | PDP2105A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/8/2023 | PDP2708A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/8/2023 | PDP2708A | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -50,6 +53,7 @@
 | 5/4/2023 | PDP4469 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/3/2023 | PDP4452 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/2/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/25/2023 | PDP0812A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/20/2023 | PDP0178A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/8/2023 | PDP0171A | CPR/First Aid | Passed | 0.0 | 1.75 |

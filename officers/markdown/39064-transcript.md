@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2023 | TDP4058A | AIRWAY CIRCULATORY CRISIS TRAINING 2023 |  | 0.0 | 2.00 |
 | 5/22/2023 | TDP0412A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 4/28/2023 | PLA0008A | A Person's a Person, No Matter How Small | Passed | 0.0 | 1.00 |
 | 4/28/2023 | PLA3221A | Child Fatality Investigations | Passed | 0.0 | 1.00 |

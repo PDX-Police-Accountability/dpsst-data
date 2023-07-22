@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/3/2023 | Eugene Police Department | Hired | Police Off |  |  |
 | 6/13/2023 | Linn County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 2/1/2023 | Linn County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/30/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -21,7 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/25/2022 | Police Officer | Basic | Granted | 2/25/2022 | 9/13/2023 |  |
+| 2/25/2022 | Police Officer | Basic | Granted | 2/25/2022 |  |  |
 | 7/22/2020 | Corrections Officer | Basic | Lapsed | 10/25/2019 | 4/22/2025 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

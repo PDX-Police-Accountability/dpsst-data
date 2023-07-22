@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/14/2023
+  course: OCS3296A
+  title: Handgun retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/17/2023
   course: M10-23A
   title: DPSST Basic Police Course

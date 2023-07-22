@@ -35,6 +35,29 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/25/2023 | PDP1329A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/25/2023 | PDP2534A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 5/25/2023 | PDP0326A | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
+| 5/25/2023 | PDP2510A | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 5/23/2023 | PDP2328A | 2022 Lead Awareness  Safety Training for Arms | Passed | 0.0 | 1.25 |
+| 5/23/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 5/23/2023 | PDP0933A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 5/18/2023 | PDP0019A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 5/18/2023 | PDP1278A | 2022 ABLE Performance Reviews for Supervisors | Passed | 0.0 | 0.25 |
+| 5/18/2023 | PDP1755A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 5/18/2023 | PDP3894A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 5/18/2023 | PDP2338A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP2464A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP2369A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP0189A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 5/17/2023 | PDP4169A | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 5/16/2023 | PDP1858A | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |
 | 6/8/2022 | PDP21753 | Peer Support Role in Member Serious Injury/LODD | Passed | 0.0 | 8.00 |
 | 5/27/2022 | PDP05147 | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

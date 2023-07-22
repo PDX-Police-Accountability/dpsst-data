@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2023
+  course: OCS3320A
+  title: Shoot/No Shoot targets, Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2023
+  course: OCS3771A
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2023
   course: OCS0824A
   title: Child Abduction Table Top Exercise

@@ -34,6 +34,11 @@
 | 5/2/2023 | PDP2648 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 5/2/2023 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
+| 4/26/2023 | PDP3608A | 2019 Training Seat Belt Video | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP3951A | Canine Program Management Course | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP2717A | 2019-7 TT CAD Study Codes to Track Pursuits | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP1531A | 2021 Equity Training Series Introduction Video | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP4184A | 2019-1 TT External Vest Equipment Requirements | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

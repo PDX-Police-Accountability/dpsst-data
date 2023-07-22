@@ -30,6 +30,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/14/2023
+  course: PDP2848A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/14/2023
+  course: PDP0226A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/13/2023
+  course: PDP2465A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/28/2023
   course: PDP38288
   title: 2023 Microsoft PowerPoint Online Recorded Training

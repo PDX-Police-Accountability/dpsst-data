@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/6/2023 | PDP2663 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/28/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.25 |
 | 1/19/2023 | PDP34725 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 1/19/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |

@@ -76,12 +76,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/18/2023
+  course: PDP2848A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/18/2023
+  course: PDP2465A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/5/2023
   course: PDP2934A
   title: 2023 Constitutional Policing Conference
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/28/2023
+  course: PDP0226A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/20/2023
   course: PDP0100A
   title: 2023 External Training Crowd Psychology

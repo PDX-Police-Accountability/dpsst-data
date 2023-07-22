@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2023
+  course: TDP4058A
+  title: AIRWAY CIRCULATORY CRISIS TRAINING 2023
+  status: ''
+  score: '0.0'
+  hours: '2.00'
 - date: 5/22/2023
   course: TDP0412A
   title: CPR/First Aid

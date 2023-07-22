@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 6/9/2023
+  course: PDP0933A
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 attribute_records: []
 education_records: []

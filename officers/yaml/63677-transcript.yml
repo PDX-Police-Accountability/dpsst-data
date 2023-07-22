@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 4/10/2023
+  course: PDP3386A
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

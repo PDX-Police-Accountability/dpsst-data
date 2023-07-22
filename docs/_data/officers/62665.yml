@@ -30,12 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/26/2023
+  course: PDP0133A
+  title: 2018-2 TT Disposition of Records Upon Retirement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/9/2023
+  course: PDP1390A
+  title: 2021-9 TT  Protecting Workers from the Dangers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/1/2023
   course: PDP4498A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/17/2023
+  course: PDP2848A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/17/2023
+  course: PDP2465A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/17/2023
+  course: PDP0226A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/7/2023
   course: PDP1664A
   title: 2023-1 Advanced Academy  PVO

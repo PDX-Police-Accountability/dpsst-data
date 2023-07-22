@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/11/2023
+  course: F6K2081A
+  title: CPR First Aid Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/17/2023
   course: BPT25732
   title: Behavioral Health APT In-Service Training

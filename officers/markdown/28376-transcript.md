@@ -41,8 +41,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/21/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/12/2023 | PDP4214 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/6/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 6/6/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP4498A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/1/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP1329A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/24/2023 | PDP4062A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -53,6 +57,7 @@
 | 5/16/2023 | PDP0371A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/13/2023 | PDP2146A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 5/12/2023 | PDP0396A | External Training NWGIA Symposium 051223 | Passed | 0.0 | 36.00 |
 | 5/4/2023 | PDP30251 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/3/2023 | PDP01021 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/3/2023 | PDP4452 | CPR/First Aid | Instructed | 0.0 | 1.75 |

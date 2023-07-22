@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2023 | F6K2081A | CPR First Aid Training | Passed | 0.0 | 3.00 |
 | 1/17/2023 | BPT25732 | Behavioral Health APT In-Service Training | Instructed | 0.0 | 7.00 |
 | 12/29/2022 | BPT31740 | Stolen Vehicle Operation | Passed | 0.0 | 2.50 |
 | 11/22/2022 | OCS39690 | Field Training Officer class | Instructed | 0.0 | 24.00 |

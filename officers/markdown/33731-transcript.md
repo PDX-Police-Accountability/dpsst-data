@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2023 | PDN2456A | Case Management: What Works? | Passed | 0.0 | 1.00 |
 | 7/14/2023 | PDN0407A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/6/2023 | PDN2999A | Defensive Tactics-Stand Up Defenses | Passed | 0.0 | 1.50 |
 | 5/4/2023 | PDN12758 | Confrontational Simulation-Legal Issues | Passed | 0.0 | 2.00 |

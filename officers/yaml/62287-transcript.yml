@@ -36,6 +36,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 6/10/2023
+  course: PDP1390A
+  title: 2021-9 TT  Protecting Workers from the Dangers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/10/2023
+  course: PDP2848A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/10/2023
+  course: PDP2465A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/20/2023
+  course: PDP0226A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/7/2023
   course: PDP1664A
   title: 2023-1 Advanced Academy  PVO
@@ -132,6 +156,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/3/2023
+  course: PDP0751A
+  title: 2018 ITD MDC Console Replacement - Getac S410
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/29/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

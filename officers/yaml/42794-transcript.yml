@@ -86,12 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2023
+  course: OCS3363A
+  title: Shoot/No Shoot targets, marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '93.00'
 - date: 6/1/2023
   course: OCS4327A
   title: Shoot/No Shoot Targets, Marksmanship, Cover
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 6/1/2023
+  course: OCS3320A
+  title: Shoot/No Shoot targets, Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/21/2023
   course: OCS1318A
   title: Resiliency training by Dr. Conn

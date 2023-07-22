@@ -31,11 +31,39 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/10/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 6/10/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/30/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 5.00 |
+| 5/16/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/13/2023 | PDP2146A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 4/19/2023 | PDP2464A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 4/19/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
+| 4/19/2023 | PDP1344A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 4/19/2023 | PDP3829A | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
+| 4/19/2023 | PDP1587A | 2022-2 CAO Legal Updates for 02/2022 | Passed | 0.0 | 0.25 |
+| 4/19/2023 | PDP4169A | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 4/19/2023 | PDP3894A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 4/12/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/12/2023 | PDP43962 | 2023-1 Range Qualification Secondary FA (25 Round) | Passed | 0.0 | 0.50 |
+| 4/12/2023 | PDP2534A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 4/12/2023 | PDP2510A | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
+| 4/12/2023 | PDP1278A | 2022 ABLE Performance Reviews for Supervisors | Passed | 0.0 | 0.25 |
+| 4/12/2023 | PDP0770A | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
+| 4/12/2023 | PDP0189A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 4/12/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 4/7/2023 | PDP0019A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 4/7/2023 | PDP0933A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 4/7/2023 | PDP2755A | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 4/7/2023 | PDP2369A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 4/7/2023 | PDP1755A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 4/7/2023 | PDP1858A | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 4/7/2023 | PDP2338A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 4/6/2023 | PDP4433A | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 4/6/2023 | PDP1200A | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 4/6/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 4/6/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 4/27/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
 | 4/13/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
 | 3/22/2020 | PDP17847 | 2020-2 Tips  Tech New DUI Cite in Lieu Guidelines | Passed | 0.0 | 0.25 |

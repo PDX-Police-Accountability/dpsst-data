@@ -40,6 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/13/2023 | HDA3494A | Informant Management | Passed | 0.0 | 4.00 |
+| 7/12/2023 | HDA4231A | Fentanyl DTO Investigations | Passed | 0.0 | 4.00 |
+| 7/12/2023 | HDA2926A | Advanced Internet Profiling and Research | Passed | 0.0 | 4.00 |
+| 7/11/2023 | HDA2270A | ONEA Training Institute - General Session | Passed | 0.0 | 8.00 |
 | 6/22/2023 | HBS3878A | WIN Cautious Clears/Vehicle Takedowns | Passed | 0.0 | 8.00 |
 | 3/15/2023 | HBP43238 | Respectful Workplace - Employee Course (Equity) | Passed | 0.0 | 1.25 |
 | 2/24/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

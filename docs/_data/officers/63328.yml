@@ -84,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/13/2023
+  course: PDP3608A
+  title: 2019 Training Seat Belt Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/12/2023
   course: M10-23A
   title: DPSST Basic Police Course
