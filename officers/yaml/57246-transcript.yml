@@ -820,6 +820,10 @@ attribute_records:
   value: Signed
   effective_date: 6/14/2017
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 7/24/2023
 education_records:
 - date: 6/12/2016
   degree: Masters Science

@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/14/2023 | Police Officer | Intermediate | App Recd |  |  |  |
+| 7/24/2023 | Police Officer | Intermediate | App InProc |  |  |  |
 | 7/12/2018 | Police Officer | Basic | Granted | 7/12/2018 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -29,6 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 4/28/2023 | Bachelor Arts | George Fox University |  | 123.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

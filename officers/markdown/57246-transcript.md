@@ -28,6 +28,7 @@
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
+| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/24/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
