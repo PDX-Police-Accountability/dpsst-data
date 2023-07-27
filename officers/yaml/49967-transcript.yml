@@ -893,6 +893,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 1/6/2018
+  course: REG1285A
+  title: SFST  Drugd that Impair Driving
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 1/4/2018
   course: F6B29247
   title: Criminal Investigations

@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/31/2023
+  course: MLP1757A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2023
   course: MLP26360
   title: Immediate action drills with handgun and rifles
@@ -124,6 +130,12 @@ training_records:
 - date: 12/21/2022
   course: MLP07375
   title: Maintaining A Drug-Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/11/2022
+  course: MLP1835A
+  title: CIT Mentally Ill/ De-escalation
   status: Passed
   score: '0.0'
   hours: '1.00'

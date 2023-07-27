@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 5/16/2023
+  course: HBS0767A
+  title: On-Duty Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/10/2023
   course: HBS39888
   title: Building Search

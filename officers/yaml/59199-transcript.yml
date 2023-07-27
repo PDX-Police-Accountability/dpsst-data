@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 7/14/2023
+  course: EGP0719A
+  title: 'Pre-Academy: Radio Procedures'
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/16/2023
   course: ALS1189A
   title: K-9 Operations

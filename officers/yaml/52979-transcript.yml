@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/30/2023
+  course: PDP1346A
+  title: Ext Training Human Trafficking Summit 7242023
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 3/21/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2023 | STS0658A | ALERRT - Active Shooter Response Training | Passed | 0.0 | 20.00 |
 | 7/1/2023 | STS0453A | Karly's Law | Passed | 0.0 | 2.00 |
 | 6/14/2023 | STS0211A | Meridian Anti Vehicle Barriers | Passed | 0.0 | 1.00 |
 | 5/22/2023 | STS0642 | Rifle Training / Qualification | Passed | 0.0 | 1.00 |

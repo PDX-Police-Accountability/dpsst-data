@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 7/20/2023 | SDP0181A | LEDS Re-Certification / Certification | Passed | 0.0 | 1.00 |
 | 6/14/2023 | SDP3981A | Firearms Training | Passed | 0.0 | 4.00 |
 | 6/14/2023 | SDP3839A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 6/12/2023 | REG1299A | Guard Recovery | Passed | 0.0 | 1.00 |

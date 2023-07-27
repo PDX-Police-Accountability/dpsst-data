@@ -50,6 +50,7 @@
 | 5/22/2023 | HBS0809 | May 2023 EVO In-Service | Passed | 0.0 | 3.50 |
 | 5/22/2023 | HBS3654 | Adult, Child, and Infant CPR AED | Passed | 0.0 | 1.00 |
 | 5/22/2023 | HBS1395A | 2023 May In-Service IFAST | Passed | 0.0 | 4.50 |
+| 5/16/2023 | HBS0767A | On-Duty Firearms | Passed | 0.0 | 3.00 |
 | 4/10/2023 | HBS39888 | Building Search | Passed | 0.0 | 4.00 |
 | 3/13/2023 | HBS29958 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |
 | 3/13/2023 | HBS38246 | Emotionally Surviving a Critical Incident | Passed | 0.0 | 2.00 |

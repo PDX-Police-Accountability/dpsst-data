@@ -90,6 +90,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/2/2023
+  course: BPT2653A
+  title: Use of Force Scenario Orientation - Agency Loans
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/8/2023
   course: PDP42753
   title: '2022 Respiratory Protection: Yearly Screening'

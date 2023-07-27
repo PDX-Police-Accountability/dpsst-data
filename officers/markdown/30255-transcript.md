@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2023 | REG0074A | Advanced Driver Diagnostics and Behaviors | Instructed | 0.0 | 40.00 |
 | 6/15/2023 | REG1637A | Emergency Vehicle Operations - Skill Update | Instructed | 0.0 | 12.00 |
 | 11/21/2022 | BPT01449 | Firearms Training and Qualifications | Passed | 0.0 | 3.50 |
 | 9/26/2022 | BPT39755 | Adult Learning Core | Passed | 0.0 | 6.00 |

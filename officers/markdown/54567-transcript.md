@@ -42,6 +42,7 @@
 | 5/9/2023 | MLP42764 | Rifle Qualification | Instructed | 0.0 | 1.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/19/2023 | MLP22573 | Safety Compass Human Trafficing | Passed | 0.0 | 1.00 |
+| 3/31/2023 | MLP1757A | PREA | Passed | 0.0 | 1.00 |
 | 3/14/2023 | MLP26360 | Immediate action drills with handgun and rifles | Instructed | 0.0 | 3.00 |
 | 3/8/2023 | F1538918 | Mastering the Promotional Process | Passed | 0.0 | 3.00 |
 | 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |
@@ -54,6 +55,7 @@
 | 1/13/2023 | MLP06012 | ORPAT | Instructed | 0.0 | 1.00 |
 | 12/21/2022 | MLP07375 | Maintaining A Drug-Free Workplace | Passed | 0.0 | 1.00 |
 | 12/20/2022 | F6R11172 | Developing Your Leadership Brand | Passed | 0.0 | 16.00 |
+| 11/11/2022 | MLP1835A | CIT Mentally Ill/ De-escalation | Passed | 0.0 | 1.00 |
 | 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 10/5/2022 | HDA44776 | Snapchat Inveatigations Course | Passed | 0.0 | 4.00 |
 | 9/27/2022 | MLP19099 | Firearms Training and Qualification | Instructed | 0.0 | 4.00 |

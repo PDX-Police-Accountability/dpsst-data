@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | PDP1553A | 2023 External Training Intro to Comm Tech 052523 | Passed | 0.0 | 4.00 |
 | 5/27/2016 | F6A00845 | Suicide Intervention Training | Passed | 0.0 | 12.50 |
 | 2/29/2016 | F6C04700 | Emergency Protection Orders | Passed | 0.0 | 0.25 |
 | 9/22/2015 | 15-0928 | Workplace - Other | Passed | 0.0 | 6.00 |

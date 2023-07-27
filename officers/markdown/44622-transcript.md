@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/18/2023 | OSH0916A | DT 2nd Defensive Tactics / Taser 2nd Trimester | Passed | 0.0 | 4.00 |
 | 6/23/2023 | OSH0945A | FA2-Rifle | Instructed | 0.0 | 8.00 |
 | 6/12/2023 | OSH3150A | FA2-Rifle | Instructed | 0.0 | 8.00 |
 | 6/11/2023 | OSH3000A | Active Threat Instructor Development Course | Instructed | 0.0 | 16.00 |

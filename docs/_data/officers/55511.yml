@@ -73,6 +73,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/19/2023
+  course: PDP3143A
+  title: 2023 CEW Post Basic Course
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/23/2023
   course: F6R3512A
   title: DID/SFST (Hours Included in Basic)

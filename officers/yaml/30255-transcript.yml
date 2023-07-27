@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/21/2023
+  course: REG0074A
+  title: Advanced Driver Diagnostics and Behaviors
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/15/2023
   course: REG1637A
   title: Emergency Vehicle Operations - Skill Update

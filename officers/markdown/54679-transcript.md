@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/30/2023 | MLP0917 | Rifle Qualification | Passed | 0.0 | 3.00 |
 | 4/19/2023 | MLP22573 | Safety Compass Human Trafficing | Passed | 0.0 | 1.00 |
+| 3/31/2023 | MLP1757A | PREA | Passed | 0.0 | 1.00 |
 | 3/21/2023 | MLP26360 | Immediate action drills with handgun and rifles | Passed | 0.0 | 3.00 |
 | 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |
@@ -50,6 +51,7 @@
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Passed | 0.0 | 0.00 |
 | 12/21/2022 | MLP07375 | Maintaining A Drug-Free Workplace | Passed | 0.0 | 1.00 |
+| 11/11/2022 | MLP1835A | CIT Mentally Ill/ De-escalation | Passed | 0.0 | 1.00 |
 | 11/1/2022 | MLP44561 | Night Range Firearms November | Passed | 0.0 | 4.00 |
 | 10/16/2022 | MLP24161 | Defensive Tactics/ OC Spray/ Baton Training | Passed | 0.0 | 2.00 |
 | 9/13/2022 | MLP19099 | Firearms Training and Qualification | Passed | 0.0 | 4.00 |

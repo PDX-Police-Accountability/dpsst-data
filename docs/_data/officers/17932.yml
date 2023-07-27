@@ -41,6 +41,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/25/2023
+  course: PDP1553A
+  title: 2023 External Training Intro to Comm Tech 052523
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/27/2016
   course: F6A00845
   title: Suicide Intervention Training

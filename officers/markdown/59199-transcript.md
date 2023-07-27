@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/14/2023 | EGP0719A | Pre-Academy: Radio Procedures | Passed | 0.0 | 16.00 |
 | 5/16/2023 | ALS1189A | K-9 Operations | Passed | 0.0 | 1.00 |
 | 5/15/2023 | ALS3861A | Active Shooter 1 | Passed | 0.0 | 1.00 |
 | 5/15/2023 | ALS3253A | Active Shooter 2 | Passed | 0.0 | 1.00 |

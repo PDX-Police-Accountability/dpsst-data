@@ -48,6 +48,7 @@
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/21/2023 | PDP22701 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/18/2023 | PDP12729 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 4/13/2023 | PDP3127A | Ext Train End Viol Against Women Intl Conf 041323 | Passed | 0.0 | 24.25 |
 | 3/30/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP40178 | 2023 Microsoft Teams Recorded Training | Passed | 0.0 | 1.00 |

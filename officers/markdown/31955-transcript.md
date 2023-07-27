@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/19/2023 | CAP2739A | Handgun/Rifle Malfunctions - Injured Shooter | Passed | 0.0 | 0.00 |
 | 6/14/2023 | CAP0211A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 4/24/2023 | ALP32849 | Taser 7 Instructor Certification | Passed | 0.0 | 16.00 |
 | 4/5/2023 | OAC21346 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |

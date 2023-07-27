@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2023 | PDP4406A | Crime Reduction: Enforce and Prevention Strategies | Passed | 0.0 | 4.00 |
 | 6/9/2023 | PDP3957A | FBI-LEEDA Command Leadership Insitute | Passed | 0.0 | 40.00 |
 | 5/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/21/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
