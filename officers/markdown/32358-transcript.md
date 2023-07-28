@@ -51,6 +51,7 @@
 | 5/2/2023 | PDP4462A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/21/2023 | PDP22701 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/18/2023 | PDP12729 | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 4/13/2023 | PDP0694A | Conf on Sex Assault, Dom.Violence  Fight Change | Passed | 0.0 | 24.25 |
 | 4/4/2023 | PDP27317 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 3/22/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/22/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

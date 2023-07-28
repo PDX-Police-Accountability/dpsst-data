@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/11/2023
+  agency: Columbia River Inter-Tribal Police Dept.
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 5/16/2023
   agency: Columbia River Inter-Tribal Police Dept.
   action: Hired
@@ -27,14 +33,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 5/16/2023
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 11/16/2024
+certification_records: []
 training_records:
 - date: 6/7/2023
   course: CIF4267A

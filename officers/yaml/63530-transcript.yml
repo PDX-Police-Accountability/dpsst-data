@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/14/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 6/23/2023
   course: F6R3512A
   title: DID/SFST (Hours Included in Basic)
@@ -48,12 +54,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 3/20/2023
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '640.00'
 - date: 3/14/2023
   course: PDP3672A
   title: 2023 Training Introduction to Wellness

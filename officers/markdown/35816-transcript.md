@@ -4,22 +4,23 @@
 | name | Stoner, Chad M. |
 | dpsst_identifier | 35816 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
-| rank | Criminalist |
+| employment_status | Inactive |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/17/2023 | Portland Police Bureau | Retired | Detective |  |  |
 | 10/17/2019 | Portland Police Bureau | Promotion | Criminalst |  |  |
 | 7/23/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
-| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 |  |  |
-| 5/5/1999 | Police Officer | Basic | Granted | 5/5/1999 |  |  |
+| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 | 10/17/2023 |  |
+| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 | 10/17/2023 |  |
+| 5/5/1999 | Police Officer | Basic | Granted | 5/5/1999 | 10/17/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

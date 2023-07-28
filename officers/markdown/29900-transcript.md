@@ -4,7 +4,7 @@
 | name | Hurley, Erica L. |
 | dpsst_identifier | 29900 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Commander |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/17/2023 | Portland Police Bureau | Resigned | Commander |  |  |
 | 5/28/2020 | Portland Police Bureau | Promotion | Commander |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Captain |  |  |
 | 7/30/2015 | Portland Police Bureau | Promotion | Lieutenant |  |  |
@@ -22,12 +23,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/18/2021 | Police Officer | Executive | Granted | 2/18/2021 |  |  |
-| 2/18/2021 | Police Officer | Management | Granted | 2/18/2021 |  |  |
-| 8/21/2019 | Police Officer | Supervisory | Granted | 8/21/2019 |  |  |
-| 4/7/2009 | Police Officer | Advanced | Granted | 4/7/2009 |  |  |
-| 4/7/2009 | Police Officer | Basic | Reactivate | 6/16/1995 |  |  |
-| 4/7/2009 | Police Officer | Intermediate | Granted | 4/7/2009 |  |  |
+| 2/18/2021 | Police Officer | Executive | Granted | 2/18/2021 | 10/17/2023 |  |
+| 2/18/2021 | Police Officer | Management | Granted | 2/18/2021 | 10/17/2023 |  |
+| 8/21/2019 | Police Officer | Supervisory | Granted | 8/21/2019 | 10/17/2023 |  |
+| 4/7/2009 | Police Officer | Advanced | Granted | 4/7/2009 | 10/17/2023 |  |
+| 4/7/2009 | Police Officer | Basic | Reactivate | 6/16/1995 | 10/17/2023 |  |
+| 4/7/2009 | Police Officer | Intermediate | Granted | 4/7/2009 | 10/17/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/25/2023 | TAP4484A | Airways Training Patient Eval for LE | Passed | 0.0 | 2.00 |
+| 6/16/2023 | ADP3920A | Firearms-Combat Efficiency and Speed | Passed | 0.0 | 4.00 |
 | 6/8/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/3/2023 | TAP16250 | Frazier Bags training | Passed | 0.0 | 1.00 |
 | 5/3/2023 | TAP24971 | Stop the Bleed Kit(s) Training | Passed | 0.0 | 0.50 |

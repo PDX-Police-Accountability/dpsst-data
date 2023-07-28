@@ -37,6 +37,7 @@
 | 5/31/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/30/2023 | PDP3896A | 2023 FTEP Radar Lidar | Instructed | 0.0 | 16.00 |
 | 5/26/2023 | SPP2386A | Crash Reconstruction | Passed | 0.0 | 80.00 |
+| 5/26/2023 | PDP4228A | Traffic Crash Reconstruction | Passed | 0.0 | 80.00 |
 | 5/9/2023 | PDP2105A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/5/2023 | SPP1532A | Advanced Traffic Crash Investigation | Passed | 0.0 | 80.00 |
 | 3/17/2023 | SPP25732 | IPTM - At Scene Traffic Crash/Homicide Inv. | Passed | 0.0 | 80.00 |

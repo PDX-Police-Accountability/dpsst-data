@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2023 | PDP4101A | Fundamentals of Tenprint Examination | Passed | 0.0 | 40.00 |
 | 7/28/2022 | PDP13942 | Palm Prints Searching Smart | Passed | 0.0 | 40.00 |
 | 5/6/2021 | NBP33691 | The River Delta: Risk Management, Problem-solv. | Passed | 0.0 | 0.50 |
 | 10/11/2017 | F6A10139 | Courtroom Testimony Techniques - Success | Passed | 0.0 | 8.00 |

@@ -146,6 +146,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.75'
+- date: 4/13/2023
+  course: PDP0694A
+  title: Conf on Sex Assault, Dom.Violence  Fight Change
+  status: Passed
+  score: '0.0'
+  hours: '24.25'
 - date: 4/4/2023
   course: PDP27317
   title: CPR/First Aid

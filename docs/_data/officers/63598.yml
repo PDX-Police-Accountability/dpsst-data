@@ -36,22 +36,34 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/20/2023
+  course: REG2860A
+  title: INTOX 8000
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 7/14/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Incomplete
+  score: '0.0'
+  hours: '0.00'
 - date: 7/14/2023
   course: OCS3296A
   title: Handgun retention
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/28/2023
+  course: REG4060A
+  title: DID/SFST (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/17/2023
   course: M10-23A
   title: DPSST Basic Police Course
   status: Registered
-  score: '0.0'
-  hours: '640.00'
-- date: 3/20/2023
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Withdrew
   score: '0.0'
   hours: '640.00'
 - date: 3/14/2023
