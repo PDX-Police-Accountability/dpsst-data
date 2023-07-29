@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2023
+  course: PDP0997A
+  title: External Training Hexagon HxGN Live Global 2023
+  status: Passed
+  score: '0.0'
+  hours: '20.50'
 - date: 5/27/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

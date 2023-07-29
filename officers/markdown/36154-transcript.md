@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/27/2023 | Medford Police Department | LOA | Police Off |  |  |
 | 1/11/1999 | Medford Police Department | Hired | Police Off |  |  |
 | 1/10/1999 | Portland Police Bureau | Resigned | Civln Emp |  |  |
 | 6/15/1998 | Portland Police Bureau | Hired | Civln Emp |  |  |

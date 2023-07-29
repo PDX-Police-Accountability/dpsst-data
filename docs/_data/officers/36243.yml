@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2023
+  course: HBS1665A
+  title: 'Respiratory Protection: Develop  Administration'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/31/2023
   course: HBS1664A
   title: SFST Refresher--4 hr

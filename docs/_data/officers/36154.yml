@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/27/2023
+  agency: Medford Police Department
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/11/1999
   agency: Medford Police Department
   action: Hired
