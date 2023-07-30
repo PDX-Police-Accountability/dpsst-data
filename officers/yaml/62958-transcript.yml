@@ -426,6 +426,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 1/11/2023
+  course: REG3491A
+  title: SFST-DID (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 12/29/2022
   course: PDP03615
   title: RADAR/ LiDAR Operator Training

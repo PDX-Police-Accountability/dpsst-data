@@ -1316,4 +1316,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/24/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/15/2017
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '11.0'

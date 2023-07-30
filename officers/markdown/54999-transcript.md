@@ -27,7 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 10/3/2022 | 10/3/2024 |
 | Certification Cards | First Aid and CPR | 4/26/2022 | 4/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/27/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/14/2023 | MOS1620A | Advanced AR15 Range | Passed | 0.0 | 3.50 |
 | 7/11/2023 | HRS1288A | Contempt of Cop: Ethical Decision Making | Passed | 0.0 | 1.00 |
 | 5/25/2023 | HRS3603A | Spring Firearms Range | Passed | 0.0 | 4.00 |

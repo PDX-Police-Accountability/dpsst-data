@@ -123,6 +123,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/13/2023
+  course: PDP2339A
+  title: Conf on Sex Asst. Dom. Viol.  Fighting Change
+  status: Passed
+  score: '0.0'
+  hours: '34.50'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

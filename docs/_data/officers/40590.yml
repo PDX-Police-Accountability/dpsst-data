@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '11.50'
+- date: 3/8/2023
+  course: PDP4066A
+  title: Crash Reconstruction with Drones
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/6/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions

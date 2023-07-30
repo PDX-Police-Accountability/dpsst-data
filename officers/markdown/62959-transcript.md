@@ -130,6 +130,7 @@
 | 1/23/2023 | PDP28174 | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 1/23/2023 | PDP26221 | 2022 Voice Record Pro App | Passed | 0.0 | 0.25 |
 | 1/19/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 1/11/2023 | REG3491A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 12/12/2022 | BPT40870 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 12/12/2022 | BPT11358 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 11/10/2022 | REG24959 | Intox 8000 | Passed | 0.0 | 6.00 |

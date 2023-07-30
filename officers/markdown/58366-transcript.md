@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/1/2023 | Oregon State Police | Promotion | Sergeant |  |  |
 | 2/21/2020 | Oregon State Police | Hired | Trooper |  |  |
 | 11/25/2019 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 2/1/2018 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/2/2023 | OSH27011 | OIS Investigations - Lane County IDFIT Training | Passed | 0.0 | 4.00 |
 | 11/18/2022 | BSP04855 | Death Investigation | Passed | 0.0 | 4.00 |

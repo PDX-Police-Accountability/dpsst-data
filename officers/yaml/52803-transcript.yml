@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2023
+  course: PDP1710A
+  title: Crash Data Retrieval Data Analyst Series
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/28/2023
   course: GSP4238
   title: UAS Ground School

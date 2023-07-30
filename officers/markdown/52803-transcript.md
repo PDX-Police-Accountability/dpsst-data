@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/16/2023 | PDP1710A | Crash Data Retrieval Data Analyst Series | Passed | 0.0 | 40.00 |
 | 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
 | 5/24/2023 | PDP3703A | 2023 External Training WATAI Spring Conference | Passed | 0.0 | 12.00 |
 | 5/23/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

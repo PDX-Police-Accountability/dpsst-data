@@ -129,6 +129,7 @@
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 1/19/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 1/11/2023 | REG3491A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 12/27/2022 | PDP11803 | 2021 Online In-Service Training Mental Wellness | Passed | 0.0 | 1.25 |
 | 12/12/2022 | BPT40870 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 12/12/2022 | BPT11358 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
