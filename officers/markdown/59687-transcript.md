@@ -33,7 +33,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/21/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 6/21/2023 | WLP1743A | 16 Hour Pistol Mounted Optic Transition Course | Passed | 0.0 | 16.00 |
 | 5/29/2023 | WLP3706 | Patrol Tactics | Passed | 0.0 | 8.00 |
 | 4/17/2023 | OCS28332 | Crisis Intervention Training | Passed | 0.0 | 40.00 |

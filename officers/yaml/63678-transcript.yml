@@ -37,12 +37,6 @@ training_records:
   score: '0.0'
   hours: '2.00'
 - date: 7/20/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 7/20/2023
   course: REG2860A
   title: INTOX 8000
   status: Passed

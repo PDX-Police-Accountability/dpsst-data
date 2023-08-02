@@ -5,13 +5,14 @@
 | dpsst_identifier | 40931 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Captain |
+| rank | Commander |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/20/2023 | Portland Police Bureau | Promotion | Commander |  |  |
 | 10/13/2022 | Portland Police Bureau | Promotion | Captain |  |  |
 | 4/18/2019 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 10/4/2016 | Portland Police Bureau | Return LOA | Sergeant |  |  |

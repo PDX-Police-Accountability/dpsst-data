@@ -38,7 +38,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/5/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 6/5/2023 | OCS2433 | FBI/LEEDA CLI | Passed | 0.0 | 28.50 |
 | 5/8/2023 | BVP10108 | Air Support Briefing Training | Passed | 0.0 | 1.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

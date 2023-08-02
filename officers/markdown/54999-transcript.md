@@ -28,7 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 10/3/2022 | 10/3/2024 |
 | Certification Cards | First Aid and CPR | 4/26/2022 | 4/26/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
@@ -51,6 +50,7 @@
 | 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 3/23/2023 | TDP44535 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
 | 3/23/2023 | HRS44984 | Tactical Training-Building Search | Passed | 0.0 | 3.50 |
+| 3/15/2023 | HRS1256A | Intro to Active Shooter Response | Passed | 0.0 | 3.00 |
 | 3/13/2023 | HRS21669 | Use of Force Refresher | Passed | 0.0 | 1.00 |
 | 3/13/2023 | HRS37498 | Officer Safety Refresher | Passed | 0.0 | 1.00 |
 | 3/9/2023 | HRS00295 | Tactical Training-Building Search | Passed | 0.0 | 3.50 |

@@ -165,12 +165,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 - date: 1/4/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Instructed
-  score: '0.0'
-  hours: '4.00'
-- date: 1/4/2023
   course: OCP1570A
   title: Firearms/Use of Force
   status: Passed

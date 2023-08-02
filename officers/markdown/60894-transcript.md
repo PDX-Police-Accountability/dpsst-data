@@ -22,7 +22,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/2/2022 |  |
-| Certification Cards | First Aid and CPR | 7/15/2021 | 7/15/2023 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 ## Education
 | date | degree | school | major | hours |

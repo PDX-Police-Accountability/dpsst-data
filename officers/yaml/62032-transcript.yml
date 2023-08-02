@@ -503,9 +503,5 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
-attribute_records:
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/27/2021
-  expiration_date: 7/27/2023
+attribute_records: []
 education_records: []

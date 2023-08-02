@@ -121,6 +121,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 3/15/2023
+  course: HRS1256A
+  title: Intro to Active Shooter Response
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/13/2023
   course: HRS21669
   title: Use of Force Refresher
@@ -1206,10 +1212,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 10/3/2022

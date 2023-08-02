@@ -234,6 +234,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/15/2020
+  course: PDP1938A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/27/2020
   course: PDP18308
   title: 2020-3 TipsTech Using Online Report for Addl Prop

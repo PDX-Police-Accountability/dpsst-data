@@ -5952,10 +5952,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 7/1/2021
-  expiration_date: 7/1/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/10/2007
