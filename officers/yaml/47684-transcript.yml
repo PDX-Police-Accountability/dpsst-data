@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/5/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/30/2023
   course: PDP40178
   title: 2023 Microsoft Teams Recorded Training

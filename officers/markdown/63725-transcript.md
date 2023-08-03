@@ -36,3 +36,9 @@
 | 6/6/2023 | PDP1735 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 6/2/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 9.00 |
 | 5/30/2023 | PDP1860 | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
+| 4/4/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 4/4/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 4/4/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 4/4/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
+| 4/4/2023 | PDP1023A | 2023 Microsoft_Teams Recorded Training | Passed | 0.0 | 1.00 |
+| 4/4/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

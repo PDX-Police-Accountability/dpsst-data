@@ -32,6 +32,7 @@
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/3/2023 | PDP2216A | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
 | 4/3/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP12355 | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP30204 | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP36446 | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |

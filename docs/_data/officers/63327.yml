@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/22/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2023
   course: PDP1548A
   title: CPR/First Aid
@@ -222,6 +228,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/1/2023
+  course: PDP3479A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/1/2023
+  course: PDP3866A
+  title: 2023 Microsoft_Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2023
+  course: PDP1386A
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/30/2023
   course: PDP1344A
   title: 2020-10 CAO Legal Updates for 10/2020
@@ -231,6 +261,12 @@ training_records:
 - date: 4/30/2023
   course: PDP3894A
   title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2023
+  course: PDP0022A
+  title: City of Portland Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -270,6 +306,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 4/17/2023
+  course: PDP4280A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/17/2023
+  course: PDP3730A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2023
+  course: PDP1104A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/14/2023
   course: M10-22A
   title: DPSST Basic Police Course

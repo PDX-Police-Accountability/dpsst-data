@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/5/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/5/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/4/2023
   course: PDP4075A
   title: 2023 IACC Annual Conference

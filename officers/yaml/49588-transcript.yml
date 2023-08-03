@@ -74,6 +74,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/18/2023
+  course: PDP0418A
+  title: 2023 Criminal Justice Certifications Workshop
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/29/2023
+  course: PDP2248A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/29/2023
+  course: PDP0078A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/14/2023
   course: PDP3441A
   title: ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc
@@ -92,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/8/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/8/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/23/2023
   course: PDP2999A
   title: CPR/First Aid
@@ -116,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/10/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/30/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles

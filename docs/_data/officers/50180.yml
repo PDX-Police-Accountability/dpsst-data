@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/26/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2023
   course: PDP2146A
   title: CPR/First Aid

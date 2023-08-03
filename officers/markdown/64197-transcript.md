@@ -28,8 +28,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/25/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/16/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 6/27/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 6/27/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 6/27/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/14/2023 | PDP3142A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 6/14/2023 | PDP0239A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 6/13/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/2/2023 | PDP2534A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 6/2/2023 | PDP3027A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 6/2/2023 | PDP1200A | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |
@@ -40,10 +44,13 @@
 | 6/2/2023 | PDP0770A | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 6/2/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 6/2/2023 | PDP2369A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 6/2/2023 | PDP3479A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 6/1/2023 | PDP1755A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 6/1/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP2338A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 5/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 5/22/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/10/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/10/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP1386A | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |

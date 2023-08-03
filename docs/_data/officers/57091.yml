@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2023
+  course: PDP0078A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2023
+  course: PDP0022A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/7/2023
   course: PDP3213
   title: 2023 FTEP Pre-DPSST Firearms
@@ -68,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/25/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/23/2023
   course: PDP0116A
   title: 2023 FTEP Post DPSST Firearms

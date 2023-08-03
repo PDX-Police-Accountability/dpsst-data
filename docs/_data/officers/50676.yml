@@ -36,6 +36,18 @@ certification_records:
   expiration_date: 6/26/2025
   probation_date: ''
 training_records:
+- date: 7/6/2023
+  course: PDP1016A
+  title: 2023 External Training ABLE Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/25/2023
+  course: PDP2248A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/10/2023
   course: PDP2465A
   title: 2022-7 CAO Legal Updates for 07/2022
@@ -48,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/10/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/10/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/30/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -117,6 +141,30 @@ training_records:
 - date: 4/19/2023
   course: PDP3894A
   title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/19/2023
+  course: PDP4280A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/19/2023
+  course: PDP1104A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2023
+  course: PDP3730A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/19/2023
+  course: PDP0022A
+  title: City of Portland Bloodborne Pathogens
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -210,6 +258,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/7/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/6/2023
   course: PDP4433A
   title: 2022 Queer Policy - Policy Scenarios
@@ -231,6 +285,24 @@ training_records:
 - date: 4/6/2023
   course: PDP3386A
   title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2023
+  course: PDP3479A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/6/2023
+  course: PDP1386A
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
   status: Passed
   score: '0.0'
   hours: '0.25'

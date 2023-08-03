@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/10/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/28/2023
   course: GSP4238
   title: UAS Ground School
@@ -111,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/28/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/26/2023
   course: PDP3197
   title: 2023 MEDU Weekly Training
@@ -135,6 +147,66 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 4/9/2023
+  course: PDP1104A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/9/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/9/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/9/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/8/2023
+  course: PDP4280A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/8/2023
+  course: PDP3730A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/8/2023
+  course: PDP2994A
+  title: 2023 Microsoft PowerPoint Online Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2023
+  course: PDP3866A
+  title: 2023 Microsoft_Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2023
+  course: PDP0010A
+  title: 2023 Microsoft_Outlook Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2023
+  course: PDP1556A
+  title: 2023 Microsoft_Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/22/2023
   course: PDP00714
   title: MEDU Weekly Training

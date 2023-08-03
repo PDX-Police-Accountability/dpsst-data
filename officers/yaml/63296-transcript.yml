@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/21/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/21/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -162,6 +174,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/1/2023
+  course: PDP3479A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/1/2023
+  course: PDP1386A
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/1/2023
+  course: PDP0022A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/26/2023
   course: PDP2464A
   title: 2022-5 CAO Legal Updates for 05/2022
@@ -222,6 +252,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/26/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/25/2023
   course: PDP13110
   title: 2023-1 Range Qualification CEW

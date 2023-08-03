@@ -45,6 +45,7 @@
 | 6/2/2023 | BNP3574A | Lethality Assessment Program | Passed | 0.0 | 1.00 |
 | 6/2/2023 | BNP0296A | Narcaan deployment | Passed | 0.0 | 1.00 |
 | 6/1/2023 | BNP0846A | Legal Updates | Passed | 0.0 | 4.00 |
+| 5/31/2023 | BNP2318A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 3.00 |
 | 5/16/2023 | BNP4217 | UAV Drone Indoor/Outdoor team flights Air Boss 911 | Passed | 0.0 | 4.00 |
 | 5/12/2023 | VND1420A | Oregon Child Forensic Interview Training (OCFIT) | Passed | 0.0 | 32.00 |
 | 5/3/2023 | BNP37276 | 2nd Quart. Inservice - HG, Rifle  Off duty skills | Passed | 0.0 | 0.50 |

@@ -101,6 +101,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/31/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/30/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -125,6 +131,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/17/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2023
   course: PDP23023
   title: 2023 Microsoft Office Teams Usage Policy

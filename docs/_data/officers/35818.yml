@@ -62,6 +62,60 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/13/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2023
+  course: PDP3730A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2023
+  course: PDP1104A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/6/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2023
+  course: PDP0010A
+  title: 2023 Microsoft_Outlook Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2023
+  course: PDP3866A
+  title: 2023 Microsoft_Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2023
+  course: PDP1556A
+  title: 2023 Microsoft_Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

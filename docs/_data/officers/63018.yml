@@ -66,6 +66,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/25/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/18/2023
   course: PDP26192
   title: 2022 Post Shooting Response

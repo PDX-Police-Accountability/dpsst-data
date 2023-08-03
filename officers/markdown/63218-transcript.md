@@ -62,6 +62,16 @@
 | 5/1/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 5/1/2023 | PDP2338A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 5/1/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 5/1/2023 | PDP3479A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 5/1/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
+| 5/1/2023 | PDP1386A | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 5/1/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 12.00 |

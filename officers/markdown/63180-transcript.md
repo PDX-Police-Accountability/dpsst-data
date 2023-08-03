@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/18/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/13/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/18/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
@@ -48,6 +49,8 @@
 | 4/3/2023 | PDP0189A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 4/3/2023 | PDP2338A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 4/3/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP1386A | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
+| 4/3/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP12355 | 2018 TOD 100% Collection  Submission Model | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP30204 | 2018-5 TT 100% Collection  Submission Model FA | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP17039 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |

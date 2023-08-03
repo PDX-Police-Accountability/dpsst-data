@@ -30,6 +30,11 @@
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Passed | 0.0 | 3.00 |
+| 6/1/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 6/1/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 6/1/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 6/1/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
+| 6/1/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
 | 5/30/2023 | PDP3896A | 2023 FTEP Radar Lidar | Passed | 0.0 | 16.00 |
 | 5/30/2023 | REG2153A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |

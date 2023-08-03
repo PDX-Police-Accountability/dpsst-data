@@ -30,6 +30,48 @@ certification_records:
   expiration_date: 8/26/2023
   probation_date: ''
 training_records:
+- date: 4/17/2023
+  course: PDP2994A
+  title: 2023 Microsoft PowerPoint Online Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2023
+  course: PDP0010A
+  title: 2023 Microsoft_Outlook Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2023
+  course: PDP3866A
+  title: 2023 Microsoft_Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2023
+  course: PDP1556A
+  title: 2023 Microsoft_Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/16/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/26/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

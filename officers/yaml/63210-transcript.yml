@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/27/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/20/2023
   course: PDP1498A
   title: 2023 FTEP HAZMAT/WMD Awareness/APR

@@ -42,6 +42,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/19/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/19/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/3/2023
   course: PDP2848A
   title: 2022-6 CAO Legal Updates for 06/2022
@@ -66,6 +78,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/16/2023
+  course: PDP1386A
+  title: 2023 Naxolone Narcan Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/7/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

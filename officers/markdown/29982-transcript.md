@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 7/12/2023 | SVP0222A | MILO Training/Use of Force Decision Making | Passed | 0.0 | 1.00 |
+| 7/5/2023 | SVP1102A | Firearms Qualification and Drills | Passed | 0.0 | 4.00 |
 | 6/14/2023 | HUP1470 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 5/24/2023 | SVP0142A | Defensive Tactics Refresher | Instructed | 0.0 | 4.00 |
 | 5/24/2023 | SVP3602A | Oleoresin Cpsicum Training (OC Spray) | Instructed | 0.0 | 3.00 |

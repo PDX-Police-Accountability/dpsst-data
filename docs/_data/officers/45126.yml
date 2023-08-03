@@ -44,12 +44,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2023
+  course: PDP2248A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2023
+  course: PDP0078A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/6/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 5/23/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/23/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/19/2023
   course: PDP2848A
   title: 2022-6 CAO Legal Updates for 06/2022
@@ -74,6 +98,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/7/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/31/2023
   course: PDP38288
   title: 2023 Microsoft PowerPoint Online Recorded Training

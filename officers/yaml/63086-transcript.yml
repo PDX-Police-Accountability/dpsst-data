@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/3/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/30/2023
   course: PDP12355
   title: 2018 TOD 100% Collection  Submission Model

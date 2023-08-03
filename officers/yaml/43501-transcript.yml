@@ -82,6 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/26/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/23/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

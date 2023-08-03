@@ -93,18 +93,78 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/15/2023
+  course: PDP1104A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/9/2023
+  course: PDP4280A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/9/2023
+  course: PDP3730A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/4/2023
   course: PDP3951A
   title: Canine Program Management Course
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 4/27/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/27/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/26/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/20/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/12/2023
   course: PDP3679A
   title: 2023 NYPD High Rise Tactics
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 4/6/2023
+  course: PDP2994A
+  title: 2023 Microsoft PowerPoint Online Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/6/2023
+  course: PDP3866A
+  title: 2023 Microsoft_Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2023
+  course: PDP1556A
+  title: 2023 Microsoft_Word Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/22/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

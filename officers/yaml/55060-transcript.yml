@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2023
+  course: PDP2248A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2023
+  course: PDP0078A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/20/2023
   course: PDP1498A
   title: 2023 FTEP HAZMAT/WMD Awareness/APR
@@ -50,6 +62,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/8/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/8/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/1/2023
   course: PDP1471A
   title: 2023 FTEP HAZMAT/WMD Awareness/APR Fitting

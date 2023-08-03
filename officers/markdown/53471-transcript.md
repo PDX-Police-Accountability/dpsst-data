@@ -36,7 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/6/2023 | PDP1016A | 2023 External Training ABLE Training | Passed | 0.0 | 9.00 |
 | 6/22/2023 | PDP2111A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/6/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/5/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 6/5/2023 | PDP2534A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 6/5/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
@@ -49,6 +51,12 @@
 | 6/5/2023 | PDP4169A | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 6/5/2023 | PDP3894A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 6/5/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 6/5/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 6/5/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 6/5/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 6/5/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 6/5/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 6/5/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP2464A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP0933A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 6/1/2023 | PDP3829A | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
@@ -59,9 +67,12 @@
 | 6/1/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP1858A | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP2338A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 6/1/2023 | PDP3479A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 6/1/2023 | PDP1386A | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP4439A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/31/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 5/31/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 6/4/2021 | PDP15662 | 2021-2 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 6/4/2021 | PDP39968 | 2021-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/4/2021 | PDP34869 | 2021-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

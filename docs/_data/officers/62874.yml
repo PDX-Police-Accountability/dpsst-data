@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/28/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 6/2/2023
   course: PDP3365A
   title: CPR/First Aid
@@ -156,6 +162,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '5.00'
+- date: 4/3/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/29/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

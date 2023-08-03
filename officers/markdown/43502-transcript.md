@@ -41,10 +41,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/6/2023 | PDP3330A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/3/2023 | PDP3545A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 6/12/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 5/31/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 5/31/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/23/2023 | PDP2999A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/19/2023 | PDP4130A | NAMOA Training Conference | Passed | 0.0 | 24.00 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Instructed | 0.0 | 1.75 |
@@ -56,6 +58,7 @@
 | 4/28/2023 | PDP0561A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/20/2023 | PDP0178A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/14/2023 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 4/10/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/30/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

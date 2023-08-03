@@ -29,3 +29,8 @@
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/14/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 6/9/2023 | PDP0933A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 6/9/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 6/9/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 6/9/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 6/9/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 6/9/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/27/2023 | PDP4444A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 24.00 |
+| 6/27/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 6/20/2023 | PDP1498A | 2023 FTEP HAZMAT/WMD Awareness/APR | Passed | 0.0 | 4.00 |
 | 6/20/2023 | PDP2602A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 6/14/2023 | PDP1265A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 6.00 |

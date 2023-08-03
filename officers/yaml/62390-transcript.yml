@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/9/2021
+- status_date: 8/1/2023
   certificate: Police Officer
   level: Basic
-  status: ReqCertExt
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 6/9/2024
 training_records:
-- date: 6/9/2024
+- date: 7/27/2023
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
-  status: Required
+  status: Completed
   score: '0.0'
   hours: '50.00'
 - date: 6/22/2023
@@ -36,6 +36,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/22/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/22/2023
+  course: PDP0022A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/20/2023
   course: PDP2175A
   title: CPR/First Aid
@@ -57,6 +69,42 @@ training_records:
 - date: 5/28/2023
   course: PDP2465A
   title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/15/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2023
+  course: PDP4280A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/13/2023
+  course: PDP3730A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2023
+  course: PDP1104A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/13/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/13/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
   status: Passed
   score: '0.0'
   hours: '0.25'

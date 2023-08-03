@@ -55,12 +55,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/26/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/11/2023
   course: PDP1919A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/11/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/30/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

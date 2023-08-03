@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/15/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 5/26/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -62,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/26/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2023
   course: PDP2146A
   title: CPR/First Aid

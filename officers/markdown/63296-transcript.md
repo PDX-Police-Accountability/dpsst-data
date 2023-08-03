@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/21/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 6/21/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/6/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 5/11/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
@@ -50,6 +52,9 @@
 | 5/1/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 5/1/2023 | PDP2338A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 5/1/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP3479A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 5/1/2023 | PDP1386A | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/26/2023 | PDP2464A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 4/26/2023 | PDP4433A | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
 | 4/26/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
@@ -60,6 +65,7 @@
 | 4/26/2023 | PDP3829A | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 4/26/2023 | PDP4169A | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 4/26/2023 | PDP3894A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 4/26/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/24/2023 | PDP3352A | 2023 FTEP Control Tactics Post Basic | Passed | 0.0 | 2.00 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

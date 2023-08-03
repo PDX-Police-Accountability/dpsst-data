@@ -129,6 +129,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 7/12/2023
+  course: SVP1102A
+  title: Firearms Qualification and Drills
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/5/2023
+  course: SVP1102A
+  title: Firearms Qualification and Drills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/24/2023
   course: SVP1083A
   title: Active Shooter Recognition  Response

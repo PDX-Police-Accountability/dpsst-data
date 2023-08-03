@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/28/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/14/2023
   course: MISCMAIN
   title: 2022 LE Basic 3 Year Maintenance

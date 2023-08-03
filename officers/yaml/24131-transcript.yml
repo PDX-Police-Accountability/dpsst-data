@@ -70,33 +70,33 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/15/2021
+- status_date: 8/1/2023
   certificate: Police Officer
   level: Advanced
-  status: Reactivate
+  status: Lapsed
   certificate_date: 7/28/1997
-  expiration_date: 8/1/2023
+  expiration_date: 5/1/2028
   probation_date: ''
-- status_date: 1/15/2021
+- status_date: 8/1/2023
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Lapsed
   certificate_date: 6/24/1991
-  expiration_date: 8/1/2023
+  expiration_date: 5/1/2028
   probation_date: ''
-- status_date: 1/15/2021
+- status_date: 8/1/2023
   certificate: Police Officer
   level: Intermediate
-  status: Reactivate
+  status: Lapsed
   certificate_date: 7/28/1997
-  expiration_date: 8/1/2023
+  expiration_date: 5/1/2028
   probation_date: ''
-- status_date: 1/15/2021
+- status_date: 8/1/2023
   certificate: Police Officer
   level: Supervisory
-  status: Reactivate
+  status: Lapsed
   certificate_date: 10/3/2016
-  expiration_date: 8/1/2023
+  expiration_date: 5/1/2028
   probation_date: ''
 training_records:
 - date: 4/26/2023
@@ -2698,18 +2698,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022
   expiration_date: 7/15/2024
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 12/31/2023
 education_records:
 - date: 6/20/1996
   degree: Bachelor Science

@@ -33,6 +33,7 @@
 | 5/24/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 5/24/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 4/18/2023 | PDP1974A | 2022 Queer Policy Pronouns | Passed | 0.0 | 0.25 |
 | 4/16/2023 | PDP0019A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 4/12/2023 | PDP2510A | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |

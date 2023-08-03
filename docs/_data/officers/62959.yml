@@ -30,12 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/28/2023
+  course: PDP0022A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/22/2023
+  course: PDP0078A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/14/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/14/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/14/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/28/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches

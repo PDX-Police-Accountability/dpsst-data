@@ -29,9 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/18/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 6/30/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 6/22/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/21/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 5/21/2023 | PDP3479A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 5/20/2023 | PDP3142A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 5/20/2023 | PDP0239A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 5/20/2023 | PDP0019A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
@@ -42,6 +45,7 @@
 | 5/17/2023 | PDP0770A | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 5/16/2023 | PDP1200A | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |
+| 5/16/2023 | PDP1386A | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 5/14/2023 | PDP3027A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 5/14/2023 | PDP3829A | 2022-1 CAO Legal Updates for 01/2022 | Passed | 0.0 | 0.25 |
 | 5/14/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
@@ -59,9 +63,16 @@
 | 5/1/2023 | PDP3894A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 5/1/2023 | PDP1858A | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 5/1/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
+| 5/1/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 4/30/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 4/30/2023 | PDP1344A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 4/30/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 4/30/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 4/30/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 4/30/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 4/30/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 4/30/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 4/25/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 4/24/2023 | PDP3352A | 2023 FTEP Control Tactics Post Basic | Passed | 0.0 | 2.00 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

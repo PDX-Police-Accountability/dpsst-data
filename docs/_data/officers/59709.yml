@@ -84,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/31/2023
+  course: BNP2318A
+  title: Yoga- Living Yoga Program for Police
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/16/2023
   course: BNP4217
   title: UAV Drone Indoor/Outdoor team flights Air Boss 911

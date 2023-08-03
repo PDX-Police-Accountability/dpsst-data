@@ -34,6 +34,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/1/2023
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 11/21/2017
   certificate: Police Officer
   level: Basic
@@ -49,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/13/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/30/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -85,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/13/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/20/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

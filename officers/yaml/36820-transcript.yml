@@ -101,6 +101,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/23/2023
+  course: PDP2248A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/23/2023
+  course: PDP0078A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/10/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 5/31/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -125,6 +143,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/31/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/30/2023
   course: 23-0028
   title: DPSST Middle Management F22 Equivalency
@@ -137,6 +161,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/20/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/21/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

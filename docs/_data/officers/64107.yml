@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/14/2023
+  course: PDP3479A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/26/2023
   course: PDP2369A
   title: 2022 MCDA Probable Cause Refresher Training
@@ -96,5 +102,17 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/10/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2023
+  course: PDP1023A
+  title: 2023 Microsoft_Teams Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 attribute_records: []
 education_records: []

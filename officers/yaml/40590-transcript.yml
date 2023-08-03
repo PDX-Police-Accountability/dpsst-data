@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/6/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/28/2023
   course: GSP4238
   title: UAS Ground School
@@ -74,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/19/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/29/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

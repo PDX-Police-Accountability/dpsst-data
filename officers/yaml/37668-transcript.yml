@@ -106,6 +106,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/22/2023
+  course: PDP2248A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/22/2023
+  course: PDP0022A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/22/2023
+  course: PDP0078A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/4/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -124,6 +142,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/4/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/4/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/4/2023
   course: BPT3239A
   title: IPSLEI International Public Safety Leadership
@@ -142,6 +172,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/17/2023
+  course: PDP4280A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/17/2023
+  course: PDP3730A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2023
+  course: PDP1104A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/17/2023
+  course: PDP0862A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/4/2023
+  course: PDP0010A
+  title: 2023 Microsoft_Outlook Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/14/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

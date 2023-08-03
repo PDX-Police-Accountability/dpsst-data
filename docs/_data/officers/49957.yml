@@ -38,12 +38,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 5/31/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/31/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2023
   course: PDP2146A
   title: CPR/First Aid
@@ -68,6 +80,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/9/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 4/8/2023
+  course: PDP2994A
+  title: 2023 Microsoft PowerPoint Online Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/8/2023
+  course: PDP0062A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/20/2023
   course: PDP40178
   title: 2023 Microsoft Teams Recorded Training

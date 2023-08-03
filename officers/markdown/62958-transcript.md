@@ -30,6 +30,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 6/22/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 6/9/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 5/20/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/20/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
@@ -47,9 +49,16 @@
 | 4/11/2023 | PDP1080A | 2023-1 Advanced Academy Air Suport Unit | Passed | 0.0 | 1.00 |
 | 4/11/2023 | PDP0431A | 2023-1 Advanced Academy Crime Scene Investigations | Passed | 0.0 | 1.00 |
 | 4/11/2023 | PDP1432A | 2023-1 Advanced Academy Human Trafficking | Passed | 0.0 | 1.00 |
+| 4/5/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 4/5/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 4/5/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 4/5/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 4/5/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 4/4/2023 | PDP2462A | 2023-1 Advanced Academy Fitness | Passed | 0.0 | 3.25 |
 | 4/3/2023 | PDP1147A | 2023-1 Advanced Academy Ethics | Passed | 0.0 | 5.00 |
 | 4/3/2023 | PDP4281A | 2023-1 Advanced Academy Ethics | Passed | 0.0 | 5.00 |
+| 4/3/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
+| 4/3/2023 | PDP1023A | 2023 Microsoft_Teams Recorded Training | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 3/27/2023 | PDP0348A | 2023-1 Advanced Academy Crisis Intervention Trng | Passed | 0.0 | 13.50 |
 | 3/23/2023 | PDP3856A | 2023-1 Advanced Academy Cares | Passed | 0.0 | 1.50 |

@@ -37,6 +37,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/10/2023
+  course: PDP1276A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 6/10/2023
+  course: PDP4227A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2023
   course: PDP3992A
   title: 2023-1 Shotgun Operators In-Service
@@ -67,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/1/2023
+  course: PDP1487A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/24/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
