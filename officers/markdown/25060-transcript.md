@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | WBP3188A | Firearms - Quarter 2 Qualifications | Instructed | 0.0 | 0.50 |
+| 6/30/2023 | WBP3188A | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/13/2023 | WBP3768A | Mental Health Basics | Passed | 0.0 | 1.50 |
 | 6/1/2023 | WBP2669A | Pistol Mounted Optics Course | Instructed | 0.0 | 8.00 |
 | 4/28/2023 | SMS36387 | Tactical Med for First Responders (TCCC) | Passed | 0.0 | 8.00 |

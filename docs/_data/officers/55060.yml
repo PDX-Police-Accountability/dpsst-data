@@ -80,6 +80,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 5/25/2023
+  course: PDP2381A
+  title: Ext Training Advanced Explosive Disposal Tech
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
 - date: 5/16/2023
   course: PDP1689A
   title: CPR/First Aid

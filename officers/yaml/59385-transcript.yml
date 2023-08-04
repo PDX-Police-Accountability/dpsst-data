@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/27/2023
+  course: BPT2237A
+  title: Intoxilyzer 8000 Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/21/2023
   course: HRS1089A
   title: ALERRT Level 1 Active Shooter Response T3

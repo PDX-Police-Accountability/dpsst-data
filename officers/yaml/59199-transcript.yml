@@ -67,6 +67,36 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 7/25/2023
+  course: EGP3530A
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/25/2023
+  course: EGP3246A
+  title: CPR/First Aid/AED/Narcan
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/25/2023
+  course: EGP2458A
+  title: Fentanyl Safety
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/24/2023
+  course: EGP4289A
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/19/2023
+  course: EGP0224A
+  title: 'Pre-Academy: Evidence  Crime Scene'
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/14/2023
   course: EGP0719A
   title: 'Pre-Academy: Radio Procedures'
@@ -1292,6 +1322,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/25/2023
+  expiration_date: 7/25/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/6/2023

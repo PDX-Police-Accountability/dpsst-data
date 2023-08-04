@@ -35,6 +35,7 @@
 | 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
 | 5/12/2023 | PDP0396A | External Training NWGIA Symposium 051223 | Passed | 0.0 | 36.00 |
 | 5/8/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 4/20/2023 | PDP4336A | 2023 Firearms Satellite Instructor School | Passed | 0.0 | 110.00 |
 | 4/16/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/16/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/16/2023 | PDP2994A | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

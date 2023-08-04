@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/25/2023 | 7/25/2025 |
 | Code of Ethics | Law Enforcement Signed | 7/6/2023 |  |
 | Certification Cards | First Aid and CPR | 2/16/2023 | 2/16/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
@@ -40,6 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2023 | EGP3530A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 7/25/2023 | EGP3246A | CPR/First Aid/AED/Narcan | Passed | 0.0 | 3.00 |
+| 7/25/2023 | EGP2458A | Fentanyl Safety | Passed | 0.0 | 2.00 |
+| 7/24/2023 | EGP4289A | De-Escalation | Passed | 0.0 | 1.00 |
+| 7/19/2023 | EGP0224A | Pre-Academy: Evidence  Crime Scene | Passed | 0.0 | 16.00 |
 | 7/14/2023 | EGP0719A | Pre-Academy: Radio Procedures | Passed | 0.0 | 16.00 |
 | 5/16/2023 | ALS1189A | K-9 Operations | Passed | 0.0 | 1.00 |
 | 5/15/2023 | ALS3861A | Active Shooter 1 | Passed | 0.0 | 1.00 |

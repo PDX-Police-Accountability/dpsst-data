@@ -84,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/20/2023
+  course: PDP4336A
+  title: 2023 Firearms Satellite Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '110.00'
 - date: 4/2/2023
   course: PDP1487A
   title: 2023 New Patrol Vehicles

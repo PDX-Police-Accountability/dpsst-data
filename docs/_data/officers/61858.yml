@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/26/2023
+  course: MFN2654A
+  title: Ethics Annual Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '1.25'
+- date: 7/26/2023
+  course: MFN3105A
+  title: Ethics Annual Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 7/25/2023
   course: MFN4127A
   title: Ethics Annual Refresher

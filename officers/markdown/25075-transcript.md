@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | WBP3188A | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/1/2023 | VND2228A | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 4/10/2023 | F1513162 | Bloodborne Pathogens for LE | Passed | 0.0 | 0.75 |
 | 4/10/2023 | F1508800 | Drug-Free Workplace | Passed | 0.0 | 0.75 |

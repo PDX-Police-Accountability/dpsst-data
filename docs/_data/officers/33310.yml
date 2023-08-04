@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/27/2023
+  course: BPT2237A
+  title: Intoxilyzer 8000 Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/30/2023
   course: MMP0024A
   title: Mental Health / CIT - P1A

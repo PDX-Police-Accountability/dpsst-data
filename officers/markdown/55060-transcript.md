@@ -40,6 +40,7 @@
 | 6/8/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/8/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Instructed | 0.0 | 3.00 |
+| 5/25/2023 | PDP2381A | Ext Training Advanced Explosive Disposal Tech | Passed | 0.0 | 64.00 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/13/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/13/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |

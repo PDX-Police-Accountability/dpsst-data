@@ -132,6 +132,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/20/2023
+  course: PDP4336A
+  title: 2023 Firearms Satellite Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '110.00'
 - date: 4/2/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy
