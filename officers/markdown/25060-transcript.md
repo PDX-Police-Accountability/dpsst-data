@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/2/2023 | WBP3321A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |
+| 8/2/2023 | WBP3463A | Hazard Communication - New GHS Standard | Passed | 0.0 | 1.00 |
 | 6/30/2023 | WBP3188A | Firearms - Quarter 2 Qualifications | Instructed | 0.0 | 0.50 |
 | 6/30/2023 | WBP3188A | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/13/2023 | WBP3768A | Mental Health Basics | Passed | 0.0 | 1.50 |

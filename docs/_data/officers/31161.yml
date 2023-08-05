@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/27/2023
+  course: TGP0907A
+  title: Path of the Guardian 2023Q2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/14/2023
   course: TGP0194A
   title: Legally Justified but Was It Avoidable?

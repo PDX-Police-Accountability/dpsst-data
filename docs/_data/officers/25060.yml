@@ -76,6 +76,18 @@ certification_records:
   expiration_date: 3/20/2024
   probation_date: ''
 training_records:
+- date: 8/2/2023
+  course: WBP3321A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/2/2023
+  course: WBP3463A
+  title: Hazard Communication - New GHS Standard
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/30/2023
   course: WBP3188A
   title: Firearms - Quarter 2 Qualifications

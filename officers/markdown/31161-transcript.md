@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/27/2023 | TGP0907A | Path of the Guardian 2023Q2 | Passed | 0.0 | 2.00 |
 | 6/14/2023 | TGP0194A | Legally Justified but Was It Avoidable? | Passed | 0.0 | 1.50 |
 | 4/17/2023 | TGP25079 | Path of the Guardian 2023Q1 | Passed | 0.0 | 2.00 |
 | 3/2/2023 | TGP1188A | First Aid/CPR/AED/TCCC/Naloxone | Passed | 0.0 | 1.00 |
