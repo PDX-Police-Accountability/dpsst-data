@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2023 | HBP0898A | NW Gang Investigators Association Conference | Passed | 0.0 | 36.00 |
 | 4/26/2023 | HBP29327 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 7.00 |
 | 4/21/2023 | HBP0131A | Child Abduction Response Training | Passed | 0.0 | 7.00 |
 | 4/12/2023 | HBP0545A | Investigative Genealogy | Passed | 0.0 | 2.50 |

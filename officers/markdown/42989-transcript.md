@@ -53,6 +53,7 @@
 | 5/23/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/23/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/5/2023 | PDP13890 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/3/2023 | PDP4437A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 29.00 |
 | 4/14/2023 | MISCMAIN | 2022 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/13/2023 | PDP2339A | Conf on Sex Asst. Dom. Viol.  Fighting Change | Passed | 0.0 | 34.50 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

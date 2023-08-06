@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/3/2023
+  course: PDP4437A
+  title: WSHNA Training Seminar  HNT Competition
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
 - date: 4/25/2023
   course: PDP0812A
   title: CPR/First Aid

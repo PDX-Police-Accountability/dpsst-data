@@ -96,6 +96,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/3/2023
+  course: PDP4437A
+  title: WSHNA Training Seminar  HNT Competition
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
 - date: 4/20/2023
   course: PDP21637
   title: 2023-1 Range Qualification 40mm Less Lethal Qual

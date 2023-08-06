@@ -46,6 +46,7 @@
 | 5/26/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP0565A | 2023 Conference on Crimes Against Women | Passed | 0.0 | 26.00 |
 | 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/3/2023 | PDP4437A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 29.00 |
 | 4/25/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/13/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/13/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

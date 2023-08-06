@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/15/2023
+  course: OSH0454A
+  title: PRE ACADEMY PATROL TACTICS
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/23/2023
   course: OSH0945A
   title: FA2-Rifle

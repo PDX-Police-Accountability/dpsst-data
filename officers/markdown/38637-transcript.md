@@ -40,6 +40,7 @@
 | 7/13/2023 | HDA0547A | Len Bias Investigations | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA4231A | Fentanyl DTO Investigations | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA0101A | Len Bias Investigations | Passed | 0.0 | 4.00 |
+| 7/12/2023 | HDA3020A | ONEA Training Institute | Passed | 0.0 | 4.00 |
 | 7/11/2023 | HDA2270A | ONEA Training Institute - General Session | Passed | 0.0 | 8.00 |
 | 6/22/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

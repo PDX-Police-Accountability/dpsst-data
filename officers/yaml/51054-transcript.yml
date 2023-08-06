@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/12/2023
+  course: PDP1218A
+  title: NW Gang Investigation Assoc. Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 5/4/2023
   course: PDP2652
   title: 2023 SERT Training - ITERATION

@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/3/2023
+  course: PDP4437A
+  title: WSHNA Training Seminar  HNT Competition
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
 - date: 4/25/2023
   course: PDP1487A
   title: 2023 New Patrol Vehicles

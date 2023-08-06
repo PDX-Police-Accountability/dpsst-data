@@ -43,6 +43,7 @@
 | 7/13/2023 | HDA3494A | Informant Management | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA4231A | Fentanyl DTO Investigations | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA2926A | Advanced Internet Profiling and Research | Passed | 0.0 | 4.00 |
+| 7/12/2023 | HDA3020A | ONEA Training Institute | Passed | 0.0 | 4.00 |
 | 7/11/2023 | HDA2270A | ONEA Training Institute - General Session | Passed | 0.0 | 8.00 |
 | 6/29/2023 | HBS4257A | 32nd Annual INIA Drug/Terrorist Interdiction Conf | Passed | 0.0 | 32.00 |
 | 6/22/2023 | HBS3878A | WIN Cautious Clears/Vehicle Takedowns | Passed | 0.0 | 8.00 |

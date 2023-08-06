@@ -40,6 +40,7 @@
 | 7/13/2023 | HDA4087A | Advanced Internet Profiling and Research | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA4231A | Fentanyl DTO Investigations | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA0101A | Len Bias Investigations | Passed | 0.0 | 4.00 |
+| 7/12/2023 | HDA3020A | ONEA Training Institute | Passed | 0.0 | 4.00 |
 | 7/11/2023 | HDA2270A | ONEA Training Institute - General Session | Passed | 0.0 | 8.00 |
 | 6/8/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/7/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

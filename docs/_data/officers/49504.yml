@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/15/2023
+  course: PDP0448A
+  title: External Training Hexagon HxGN Live Global 2023
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 6/7/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training

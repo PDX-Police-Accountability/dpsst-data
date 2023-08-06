@@ -54,6 +54,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2023
+  course: HBP1147A
+  title: Bicycle Instructor Certification Program
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/5/2023
   course: PDP0062A
   title: 2023 Microsoft_Cloud Storage with OD and SP

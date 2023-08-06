@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/12/2023
+  course: PDP1218A
+  title: NW Gang Investigation Assoc. Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 5/7/2023
   course: PDP36458
   title: 2023-1 AR-15 Patrol Rifle Operators Course

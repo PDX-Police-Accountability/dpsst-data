@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/9/2023
+  course: HBP1147A
+  title: Bicycle Instructor Certification Program
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/13/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training

@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2023
+  course: HBP3509A
+  title: EVOC - Backing Exercise
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/18/2023
+  course: HBP3520A
+  title: EVOC - PIT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/26/2023
   course: HBP28684
   title: DV Update, Strangulation, and Death Investigation

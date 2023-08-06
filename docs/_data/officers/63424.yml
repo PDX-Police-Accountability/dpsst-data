@@ -36,6 +36,12 @@ training_records:
   status: Incomplete
   score: '0.0'
   hours: '0.00'
+- date: 7/2/2023
+  course: PDP3607A
+  title: WMD/Terrorism Awareness for Emergency Respndrs
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/23/2023
   course: F6R3512A
   title: DID/SFST (Hours Included in Basic)

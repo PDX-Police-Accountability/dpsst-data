@@ -153,6 +153,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/3/2023
+  course: PDP4437A
+  title: WSHNA Training Seminar  HNT Competition
+  status: Passed
+  score: '0.0'
+  hours: '29.00'
 - date: 4/14/2023
   course: MISCMAIN
   title: 2022 LE Leadership 3 Year Maintenance

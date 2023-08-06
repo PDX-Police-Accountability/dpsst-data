@@ -200,7 +200,6 @@
 | 2/24/2020 | PDP30186 | 2020 InService Patrol Proc-Emergency Entry Class | Passed | 0.0 | 2.00 |
 | 2/24/2020 | PDP19553 | 2020 InService Police Response Criminal Extremism | Passed | 0.0 | 1.00 |
 | 2/24/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |
-| 2/16/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/16/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/16/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 2/14/2020 | PDP41104 | Mobile Identification Device (MIDD) Training | Passed | 0.0 | 0.50 |

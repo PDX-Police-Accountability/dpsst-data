@@ -42,6 +42,7 @@
 | 5/26/2023 | PDP4228A | Traffic Crash Reconstruction | Passed | 0.0 | 80.00 |
 | 5/9/2023 | PDP2105A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/5/2023 | SPP1532A | Advanced Traffic Crash Investigation | Passed | 0.0 | 80.00 |
+| 5/5/2023 | PDP3060A | IPTM Advanced Traffic Crash Investigation | Passed | 0.0 | 80.00 |
 | 4/16/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/16/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/16/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
