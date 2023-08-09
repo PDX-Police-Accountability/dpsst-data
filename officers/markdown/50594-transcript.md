@@ -19,7 +19,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/1/2023 | Police Officer | Advanced | App Recd |  |  |  |
+| 8/7/2023 | Police Officer | Advanced | App InProc |  |  |  |
 | 11/21/2017 | Police Officer | Basic | Reactivate | 7/22/2010 |  |  |
 | 11/21/2017 | Police Officer | Intermediate | Reactivate | 2/12/2012 |  |  |
 ## Attributes
@@ -32,6 +32,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/10/2013 | Masters Science | All Other Education Institutes | Criminal Justice | 33.0 |
 | 5/31/2008 | Bachelor Science | All Other Education Institutes | Criminal Justice | 128.0 |
 ## Training
 | date | course | title | status | score | hours |

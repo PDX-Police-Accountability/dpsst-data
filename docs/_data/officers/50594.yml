@@ -34,10 +34,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/1/2023
+- status_date: 8/7/2023
   certificate: Police Officer
   level: Advanced
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: ''
@@ -3944,6 +3944,11 @@ attribute_records:
   effective_date: 6/25/2009
   expiration_date: ''
 education_records:
+- date: 8/10/2013
+  degree: Masters Science
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '33.0'
 - date: 5/31/2008
   degree: Bachelor Science
   school: All Other Education Institutes
