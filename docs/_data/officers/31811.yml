@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/18/2023
+  course: PDP0437A
+  title: North American Motor Officers Assoc Training Conf
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/14/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy

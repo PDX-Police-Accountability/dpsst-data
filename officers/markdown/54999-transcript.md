@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/3/2023 | TDS1513A | NORTAC OVERLAND | Passed | 0.0 | 4.00 |
 | 7/27/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/14/2023 | MOS1620A | Advanced AR15 Range | Passed | 0.0 | 3.50 |
 | 7/11/2023 | HRS1288A | Contempt of Cop: Ethical Decision Making | Passed | 0.0 | 1.00 |

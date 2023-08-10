@@ -41,6 +41,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/26/2023 | OCS1010A | June/July 2023 Monthly Firearms | Instructed | 0.0 | 2.00 |
+| 7/25/2023 | OCS3701A | June/July 2023 Monthly Firearms w/pistol/rifle | Instructed | 0.0 | 3.00 |
+| 7/21/2023 | OCS0072A | Remington 700 Armorer | Passed | 0.0 | 8.00 |
+| 7/20/2023 | OCS0654A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 7/20/2023 | OCS0991A | Remington 870 Armorer | Passed | 0.0 | 16.00 |
+| 7/14/2023 | OCS3464A | Positional shooting/Target ID / OIS Debrief | Instructed | 0.0 | 4.00 |
 | 6/15/2023 | OCS3363A | Shoot/No Shoot targets, marksmanship | Instructed | 0.0 | 93.00 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot targets, Marksmanship | Passed | 0.0 | 1.00 |

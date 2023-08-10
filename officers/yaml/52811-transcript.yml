@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 7/18/2023
+  course: OCS1956A
+  title: AR-15 Armorer
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/19/2023
   course: PDS1979A
   title: SWAT Sniper Training

@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 8/3/2023
+  course: TDS1513A
+  title: NORTAC OVERLAND
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/27/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
