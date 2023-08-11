@@ -28,7 +28,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/5/2023 | PDP0880A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/3/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

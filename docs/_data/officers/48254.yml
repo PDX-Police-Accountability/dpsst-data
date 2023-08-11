@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 5/12/2023
+  course: PDP0876A
+  title: Oregon DRE School
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 4/28/2023
   course: REG10403
   title: 2023 DUII Multi-Disciplinary Training Conference

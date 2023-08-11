@@ -23,12 +23,12 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
 | Code of Ethics | Signed | 6/14/2017 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/24/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/25/2023 | HBN3031A | First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 5/18/2023 | HBN3988A | Home Visits/Scenarios + Mental Health First Aid | Passed | 0.0 | 6.00 |
 | 4/27/2023 | TRN36649 | Pathways to Change | Passed | 0.0 | 24.00 |
 | 4/20/2023 | HBN03940 | BCP Workshop Spring 2023 | Passed | 0.0 | 1.00 |

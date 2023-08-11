@@ -124,6 +124,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/9/2023
+  course: PDP3611A
+  title: 2023 External Training CATO SWAT Commander Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 6/4/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2023
+  course: PPP3249A
+  title: IBIS Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/31/2023
   course: PPP3444A
   title: Wellness and Nutrition

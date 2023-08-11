@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/26/2023 | EGP1268A | Pre-Academy: Circuit Court | Passed | 0.0 | 2.00 |
 | 7/25/2023 | EGP3530A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 7/25/2023 | EGP3246A | CPR/First Aid/AED/Narcan | Passed | 0.0 | 3.00 |
 | 7/25/2023 | EGP2458A | Fentanyl Safety | Passed | 0.0 | 2.00 |

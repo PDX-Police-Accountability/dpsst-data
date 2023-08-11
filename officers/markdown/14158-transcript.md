@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/31/2023 | Oregon Liquor and Cannabis Commission | Retired | RegSpec |  |  |
 | 4/4/2019 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 1/24/2017 | Oregon Liquor and Cannabis Commission | Hired | RegSpec |  |  |
 | 6/6/2010 | Portland Police Bureau | Retired | Detective |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/15/2020 | Police Officer | Basic | Expired | 3/19/1982 |  |  |
 | 6/14/2019 | Instructor |  | Granted | 6/14/2019 |  |  |
-| 7/11/2018 | Regulatory Specialist | Basic | Granted | 7/11/2018 |  |  |
-| 9/6/2010 | Police Officer | Basic | Lapsed | 3/19/1982 |  |  |
+| 7/11/2018 | Regulatory Specialist | Basic | Granted | 7/11/2018 | 10/31/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 7/26/2023
+  course: EGP1268A
+  title: 'Pre-Academy: Circuit Court'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2023
   course: EGP3530A
   title: Airway Circulatory Anatomy and Physiology

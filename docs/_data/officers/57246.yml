@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/25/2023
+  course: HBN3031A
+  title: First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/18/2023
   course: HBN3988A
   title: Home Visits/Scenarios + Mental Health First Aid
@@ -800,6 +806,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/25/2023
+  expiration_date: 5/25/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -820,10 +830,6 @@ attribute_records:
   value: Signed
   effective_date: 6/14/2017
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 7/24/2023
 education_records:
 - date: 6/12/2016
   degree: Masters Science
