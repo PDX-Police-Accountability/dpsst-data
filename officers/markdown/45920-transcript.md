@@ -49,6 +49,7 @@
 | 5/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2023 | CVS16845 | USFA O305: All Hazard IMT Type 3 Course | Passed | 0.0 | 40.00 |
+| 4/28/2023 | PDP2773A | All-Hazards Incident Management Team | Passed | 0.0 | 40.00 |
 | 4/20/2023 | PDP3299A | 2023 External Training Crowd Psychology | Passed | 0.0 | 16.00 |
 | 4/1/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/1/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

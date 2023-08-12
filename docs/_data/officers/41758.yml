@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/3/2023
+  course: PDP4427A
+  title: PERF Innovations in Recruitment
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 6/27/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/8/2023 | REG1385A | EVO Skill Update | Instructed | 0.0 | 8.00 |
+| 8/7/2023 | REG4431A | EVO Skills Update | Instructed | 0.0 | 8.00 |
 | 10/14/2022 | REG09811 | Emergency Vehicle Instructor- DynamicsBehaviors | Instructed | 0.0 | 40.00 |
 | 11/16/2021 | BPT15143 | Use of Force Instructor refresher | Passed | 0.0 | 16.00 |
 | 7/12/2021 | F6E16369 | Annual LEOSA HR - 218 Qualification (9mm) | Passed | 0.0 | 0.25 |

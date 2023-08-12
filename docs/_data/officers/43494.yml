@@ -82,6 +82,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2023
+  course: PDP3623A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/20/2023
+  course: PDP2549A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/18/2023
+  course: PDP4152A
+  title: ICS-100 Intro to the Incident Cmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/28/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/31/2023 | Oregon Liquor and Cannabis Commission | Retired | Supervisor |  |  |
 | 10/25/2021 | Oregon Liquor and Cannabis Commission | Promotion | Manager |  |  |
 | 3/5/2018 | Oregon Liquor and Cannabis Commission | Hired | RegSpec |  |  |
 | 11/20/2013 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -19,9 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/3/2023 | Regulatory Specialist | Supervisory | App Incmpl |  | 4/3/2023 |  |
 | 2/15/2020 | Police Officer | Basic | Expired | 10/12/1994 |  |  |
-| 3/25/2019 | Regulatory Specialist | Basic | Granted | 3/25/2019 |  |  |
+| 3/25/2019 | Regulatory Specialist | Basic | Granted | 3/25/2019 | 10/31/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

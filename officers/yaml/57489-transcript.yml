@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2023
+  course: PDP1117A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 6/11/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -2101,6 +2107,10 @@ training_records:
   score: '0.0'
   hours: '40.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/7/2023
+  expiration_date: 8/7/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

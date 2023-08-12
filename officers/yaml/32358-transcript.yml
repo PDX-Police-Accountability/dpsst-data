@@ -98,6 +98,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.75'
+- date: 5/11/2023
+  course: PDP0975A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/10/2023
   course: PDP1627A
   title: CPR/First Aid

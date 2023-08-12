@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/11/2023
+  course: PDP0975A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/9/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches
@@ -1555,6 +1561,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/11/2023
+  expiration_date: 5/11/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 7/24/2023
+- status_date: 8/10/2023
   certificate: Corrections Officer
   level: Intermediate
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 8/10/2023
   expiration_date: ''
   probation_date: ''
-- status_date: 7/24/2023
+- status_date: 8/10/2023
   certificate: Police Officer
   level: Advanced
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 8/10/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 6/4/2016

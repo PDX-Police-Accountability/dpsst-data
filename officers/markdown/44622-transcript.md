@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/7/2023 | REG4431A | EVO Skills Update | Passed | 0.0 | 4.00 |
 | 7/18/2023 | OSH0916A | DT 2nd Defensive Tactics / Taser 2nd Trimester | Passed | 0.0 | 4.00 |
 | 7/15/2023 | OSH0454A | PRE ACADEMY PATROL TACTICS | Instructed | 0.0 | 8.00 |
 | 6/23/2023 | OSH0945A | FA2-Rifle | Instructed | 0.0 | 8.00 |

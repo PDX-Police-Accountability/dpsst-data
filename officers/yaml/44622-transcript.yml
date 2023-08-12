@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2023
+  course: REG4431A
+  title: EVO Skills Update
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/18/2023
   course: OSH0916A
   title: DT 2nd Defensive Tactics / Taser 2nd Trimester

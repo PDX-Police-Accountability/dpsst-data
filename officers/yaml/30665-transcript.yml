@@ -166,6 +166,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 4/28/2023
+  course: PDP2773A
+  title: All-Hazards Incident Management Team
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
