@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/5/2023 | HBP2052A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |
+| 7/5/2023 | HBP2146A | Traffic Crashes | Passed | 0.0 | 1.00 |
 | 6/18/2023 | HBP3509A | EVOC - Backing Exercise | Passed | 0.0 | 0.50 |
 | 6/18/2023 | HBP3520A | EVOC - PIT | Passed | 0.0 | 1.00 |
 | 4/12/2023 | HBP21449 | DV Update, Strangulation, and Death Investigation | Passed | 0.0 | 1.00 |

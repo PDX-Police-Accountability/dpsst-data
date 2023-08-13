@@ -69,6 +69,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 7/20/2023
+  course: PDS2575A
+  title: Search Warrant Contingencies
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/19/2023
+  course: PDS1815A
+  title: SWAT Range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/18/2023
   course: OCS1956A
   title: AR-15 Armorer

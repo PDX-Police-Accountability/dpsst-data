@@ -40,6 +40,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/26/2023 | HBP1923A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
+| 7/19/2023 | HBP0331A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
+| 7/12/2023 | HBP3924A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |
+| 7/12/2023 | HBP3336A | Traffic Crashes | Passed | 0.0 | 1.00 |
+| 7/5/2023 | HBP2052A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
 | 6/18/2023 | HBP3509A | EVOC - Backing Exercise | Passed | 0.0 | 0.50 |
 | 6/18/2023 | HBP3520A | EVOC - PIT | Passed | 0.0 | 1.00 |
 | 4/19/2023 | GSP30972 | 2023 OPCA Spring Conference - Patrol | Passed | 0.0 | 24.00 |

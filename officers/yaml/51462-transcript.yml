@@ -35,6 +35,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/5/2023
+  course: PDS2571A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/7/2023
   course: PDS1706A
   title: Reserve Deputy Unit Monthly Training

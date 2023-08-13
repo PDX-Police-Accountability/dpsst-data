@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/26/2023 | PDP3402A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 6/29/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/10/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/10/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

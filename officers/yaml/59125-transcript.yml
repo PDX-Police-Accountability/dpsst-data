@@ -2056,4 +2056,24 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/4/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/14/2014
+  degree: Masters Science
+  school: Portland State University
+  major: Criminal Justice
+  hours: '57.0'
+- date: 6/17/2012
+  degree: Bachelor Science
+  school: Portland State University
+  major: Criminal Justice
+  hours: '70.0'
+- date: 6/15/2008
+  degree: No Degree
+  school: Oregon State University
+  major: Business Administration
+  hours: '147.0'
+- date: 12/10/2004
+  degree: Associate Arts
+  school: Chemeketa Community College
+  major: ''
+  hours: '191.0'

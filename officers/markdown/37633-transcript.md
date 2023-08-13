@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/26/2023 | PDP3402A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 6/28/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 6/14/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/8/2023 | PDP1955A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

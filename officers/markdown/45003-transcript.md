@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2023 | HBP3924A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |
+| 7/12/2023 | HBP3336A | Traffic Crashes | Passed | 0.0 | 1.00 |
 | 7/5/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/19/2023 | HBP18467 | DV Update, Strangulation, and Death Investigation | Instructed | 0.0 | 2.00 |

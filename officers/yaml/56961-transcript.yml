@@ -2554,4 +2554,9 @@ attribute_records:
   value: Signed
   effective_date: 2/21/2017
   expiration_date: ''
-education_records: []
+education_records:
+- date: 4/24/2016
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '120.0'

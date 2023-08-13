@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/26/2023
+  course: STS0291A
+  title: Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/10/2023
   course: STS0658A
   title: ALERRT - Active Shooter Response Training

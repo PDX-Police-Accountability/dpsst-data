@@ -69,6 +69,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/5/2023
+  course: HBP2052A
+  title: K9 Custody, POST PIT, High Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/5/2023
+  course: HBP2146A
+  title: Traffic Crashes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/18/2023
   course: HBP3509A
   title: EVOC - Backing Exercise

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/7/2023
+  course: PDS2571A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/23/2023
   course: PDS4065A
   title: Intoxilyzer 8000 Course

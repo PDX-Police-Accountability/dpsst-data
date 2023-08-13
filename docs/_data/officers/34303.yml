@@ -69,6 +69,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/26/2023
+  course: HBP1923A
+  title: K9 Custody, POST PIT, High Risk Traffic Stops
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/19/2023
+  course: HBP0331A
+  title: K9 Custody, POST PIT, High Risk Traffic Stops
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/12/2023
+  course: HBP3924A
+  title: K9 Custody, POST PIT, High Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/12/2023
+  course: HBP3336A
+  title: Traffic Crashes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/5/2023
+  course: HBP2052A
+  title: K9 Custody, POST PIT, High Risk Traffic Stops
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/18/2023
   course: HBP3509A
   title: EVOC - Backing Exercise

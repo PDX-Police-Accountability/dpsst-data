@@ -29,6 +29,10 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/14/2014 | Masters Science | Portland State University | Criminal Justice | 57.0 |
+| 6/17/2012 | Bachelor Science | Portland State University | Criminal Justice | 70.0 |
+| 6/15/2008 | No Degree | Oregon State University | Business Administration | 147.0 |
+| 12/10/2004 | Associate Arts | Chemeketa Community College |  | 191.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

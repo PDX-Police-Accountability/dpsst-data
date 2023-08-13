@@ -105,6 +105,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/26/2023
+  course: PDP3402A
+  title: 2023 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/29/2023
   course: PDP3442A
   title: 2023 K-9 (K9) Weekly Training
