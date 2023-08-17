@@ -212,6 +212,60 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/7/2023
+  course: PDP2387A
+  title: 2023-1 All Sworn In-Service Field Arrest
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/7/2023
+  course: PDP1421A
+  title: 2023-1 All Sworn In-Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2023
+  course: PDP2123A
+  title: 2023-1 All Sworn In-Service Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 2/6/2023
+  course: PDP0808A
+  title: 2023-1 All Sworn In-Service Crowd Mgmt.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/6/2023
+  course: PDP1243A
+  title: 2023-1 All Sworn In-Service Crowd Mgmt.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/6/2023
+  course: PDP1261A
+  title: 2023-1 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/6/2023
+  course: PDP2960A
+  title: 2023-1 All Sworn In-Service MFF Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/6/2023
+  course: PDP1448A
+  title: 2023-1 All Sworn In-Service MFF Other
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 2/6/2023
+  course: PDP0098A
+  title: 2023-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/19/2023
   course: PDP35372
   title: 2022 Naxolone Administration

@@ -60,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/22/2023
+  course: PDS1095A
+  title: Law Enforcement Command Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/7/2023
+  course: PDS1199A
+  title: Leadership Team Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/6/2023
   course: PDS3355A
   title: Yoga for First Responders

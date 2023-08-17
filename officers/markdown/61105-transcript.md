@@ -48,6 +48,7 @@
 | 3/16/2023 | NGP28180 | Taser scenarios | Passed | 0.0 | 1.00 |
 | 3/3/2023 | NGP12885 | Taser recertification | Passed | 0.0 | 2.00 |
 | 3/1/2023 | NGP29100 | Protecting First Responders from Opioid Exposure | Passed | 0.0 | 1.00 |
+| 2/23/2023 | NGP2627A | Firearms - Low light identification drill | Passed | 0.0 | 1.00 |
 | 1/23/2023 | NGP31772 | WRAP restraint / Pinning | Passed | 0.0 | 1.00 |
 | 12/31/2022 | NGP37822 | Roll Call Training Consolidated Roster | Passed | 0.0 | 6.67 |
 | 12/15/2022 | NGP42688 | Hazmat (Police One Academy) | Passed | 0.0 | 2.00 |

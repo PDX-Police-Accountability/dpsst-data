@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | PPP2327A | Protecting Transportation Systems | Passed | 0.0 | 1.00 |
 | 6/20/2023 | PPP3249A | IBIS Training | Passed | 0.0 | 0.50 |
 | 6/8/2023 | PPP1749A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |

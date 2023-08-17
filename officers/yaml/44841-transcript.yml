@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/10/2023
+  course: LOP3629A
+  title: Active Threat/CCP/MCI
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/16/2023
   course: LOP2153A
   title: EVOC/HR Stops/Box-In

@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/9/2023
+  course: PDS1513A
+  title: Crisis Negotiation Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/26/2023
   course: PDS15367
   title: Yoga for First Responders

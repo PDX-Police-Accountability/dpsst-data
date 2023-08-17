@@ -50,6 +50,8 @@
 | 5/8/2023 | PDP2708A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/8/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/4/2023 | PDP2223A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/3/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
+| 5/3/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 4/27/2023 | PDP2174A | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 4/23/2023 | PDP1768 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 4/22/2023 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
@@ -77,6 +79,12 @@
 | 2/7/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/7/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
+| 1/4/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 1/4/2023 | PDP1421A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
+| 1/4/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
+| 1/3/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 1/3/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 1/3/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/2/2023 | PDP42753 | 2022 Respiratory Protection: Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/29/2022 | PDP34680 | SERT Scenario Training | Passed | 0.0 | 9.00 |
 | 12/28/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

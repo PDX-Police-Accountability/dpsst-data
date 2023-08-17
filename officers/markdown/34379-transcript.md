@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | PPP2327A | Protecting Transportation Systems | Passed | 0.0 | 1.00 |
 | 5/31/2023 | PPP3444A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 5/18/2023 | PPP2006A | Range | Passed | 0.0 | 4.00 |
 | 5/17/2023 | PDS1050 | Mobile Surveillance | Passed | 0.0 | 4.00 |

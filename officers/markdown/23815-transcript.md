@@ -32,6 +32,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/11/2023 | REG0794A | EVO Skills Update | Instructed | 0.0 | 4.00 |
+| 8/10/2023 | REG0835A | EVO Skills Update | Instructed | 0.0 | 8.00 |
+| 8/9/2023 | OSH2990A | 2023 OSP REGIONAL EVOC - BEND | Instructed | 0.0 | 8.00 |
+| 8/9/2023 | REG0818A | EVO Skills Update | Instructed | 0.0 | 8.00 |
 | 8/8/2023 | REG1385A | EVO Skill Update | Instructed | 0.0 | 8.00 |
 | 8/7/2023 | REG4431A | EVO Skills Update | Instructed | 0.0 | 8.00 |
 | 10/14/2022 | REG09811 | Emergency Vehicle Instructor- DynamicsBehaviors | Instructed | 0.0 | 40.00 |

@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2023
+  course: PPP2327A
+  title: Protecting Transportation Systems
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2023
   course: PPP3444A
   title: Wellness and Nutrition

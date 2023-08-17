@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/7/2023
+  course: PDS1199A
+  title: Leadership Team Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 5/10/2023
   course: PDS15850
   title: Use of Force Report Writing

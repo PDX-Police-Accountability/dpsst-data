@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
+| 6/14/2023 | BVP3258A | ICS Scenario | Passed | 0.0 | 2.00 |
+| 6/14/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |
 | 6/9/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |

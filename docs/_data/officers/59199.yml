@@ -67,6 +67,36 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 8/10/2023
+  course: EGP2347A
+  title: 'Pre-Academy: Mobile Video'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/9/2023
+  course: EGP0808A
+  title: 'Pre-Academy: Municipal Court'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/8/2023
+  course: EGP0083A
+  title: 'Pre-Academy: Report Writing'
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 8/7/2023
+  course: EGP3812A
+  title: 'Pre-Academy: Criminal Law'
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 8/3/2023
+  course: EGP2383A
+  title: Recruit Police Firearms Course
+  status: Passed
+  score: '0.0'
+  hours: '38.00'
 - date: 7/26/2023
   course: EGP1268A
   title: 'Pre-Academy: Circuit Court'

@@ -41,6 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/10/2023 | EGP2347A | Pre-Academy: Mobile Video | Passed | 0.0 | 4.00 |
+| 8/9/2023 | EGP0808A | Pre-Academy: Municipal Court | Passed | 0.0 | 4.00 |
+| 8/8/2023 | EGP0083A | Pre-Academy: Report Writing | Passed | 0.0 | 12.00 |
+| 8/7/2023 | EGP3812A | Pre-Academy: Criminal Law | Passed | 0.0 | 12.00 |
+| 8/3/2023 | EGP2383A | Recruit Police Firearms Course | Passed | 0.0 | 38.00 |
 | 7/26/2023 | EGP1268A | Pre-Academy: Circuit Court | Passed | 0.0 | 2.00 |
 | 7/25/2023 | EGP3530A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 7/25/2023 | EGP3246A | CPR/First Aid/AED/Narcan | Passed | 0.0 | 3.00 |

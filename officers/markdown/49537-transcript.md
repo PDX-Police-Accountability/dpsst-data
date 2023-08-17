@@ -46,6 +46,14 @@
 | 5/23/2023 | BPT2275A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/3/2023 | PDP4437A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 29.00 |
+| 4/27/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 4/27/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 4/27/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/27/2023 | PDP1421A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
+| 4/27/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
+| 4/26/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
+| 4/26/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
+| 4/26/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 4/20/2023 | PDP21637 | 2023-1 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP20381 | 2023-1 Range Qualification AR-15 Qual (20 Yard) | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

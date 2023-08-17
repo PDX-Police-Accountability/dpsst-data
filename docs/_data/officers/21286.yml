@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/10/2023
+  course: REG0835A
+  title: EVO Skills Update
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/28/2023
   course: REG10403
   title: 2023 DUII Multi-Disciplinary Training Conference

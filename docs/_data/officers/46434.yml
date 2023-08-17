@@ -110,12 +110,48 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '12.00'
+- date: 4/11/2023
+  course: PDP2123A
+  title: 2023-1 All Sworn In-Service Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 4/7/2023
   course: PDP0094A
   title: 2023 FTEP Pre-DPSST Firearms
   status: Instructed
   score: '0.0'
   hours: '28.00'
+- date: 4/6/2023
+  course: PDP2387A
+  title: 2023-1 All Sworn In-Service Field Arrest
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/6/2023
+  course: PDP1421A
+  title: 2023-1 All Sworn In-Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/5/2023
+  course: PDP2960A
+  title: 2023-1 All Sworn In-Service MFF Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/5/2023
+  course: PDP1448A
+  title: 2023-1 All Sworn In-Service MFF Other
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/5/2023
+  course: PDP0098A
+  title: 2023-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/3/2023
   course: PDP3730A
   title: 2023 Microsoft Office Teams Usage Policy
@@ -260,12 +296,30 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '7.00'
+- date: 2/2/2023
+  course: PDP0808A
+  title: 2023-1 All Sworn In-Service Crowd Mgmt.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/2/2023
+  course: PDP1243A
+  title: 2023-1 All Sworn In-Service Crowd Mgmt.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/30/2023
   course: PDP07542
   title: Control Tactics Training
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 1/25/2023
+  course: PDP1261A
+  title: 2023-1 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/24/2023
   course: PDP09910
   title: Post Academy Firearms Training

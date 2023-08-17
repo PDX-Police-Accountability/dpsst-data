@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/7/2023
+  course: TDP1301A
+  title: Con of Cop, Ethical decisions beyond grey area
+  status: ''
+  score: '0.0'
+  hours: '1.00'
+- date: 6/30/2023
+  course: TDP4273A
+  title: Ethics 2023 IN L.E. THE DALLES POLICE DEPT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/1/2023
   course: TDP4058A
   title: AIRWAY CIRCULATORY CRISIS TRAINING 2023

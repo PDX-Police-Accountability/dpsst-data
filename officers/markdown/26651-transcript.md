@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
 | 6/21/2023 | PDS2414A | Report Writing | Passed | 0.0 | 8.00 |
+| 6/7/2023 | PDS1199A | Leadership Team Training | Passed | 0.0 | 2.50 |
 | 5/10/2023 | PDS15850 | Use of Force Report Writing | Passed | 0.0 | 4.00 |
 | 4/27/2023 | PDS28112 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 3/20/2023 | PDS11640 | Benchmark Analytics | Instructed | 0.0 | 4.00 |

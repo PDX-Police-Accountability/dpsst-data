@@ -143,6 +143,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/8/2023
+  course: PDP1243A
+  title: 2023-1 All Sworn In-Service Crowd Mgmt.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/8/2023
+  course: PDP1261A
+  title: 2023-1 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/8/2023
+  course: PDP2960A
+  title: 2023-1 All Sworn In-Service MFF Leadership
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/8/2023
+  course: PDP1448A
+  title: 2023-1 All Sworn In-Service MFF Other
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/8/2023
+  course: PDP0098A
+  title: 2023-1 All Sworn In-Service Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/5/2023
   course: PDP02750
   title: IACP Officer Safety and Wellness Symposium

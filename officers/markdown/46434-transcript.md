@@ -46,7 +46,13 @@
 | 5/8/2023 | PDP2708A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/3/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 18.00 |
 | 4/20/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 12.00 |
+| 4/11/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
 | 4/7/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 28.00 |
+| 4/6/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/6/2023 | PDP1421A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
+| 4/5/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
+| 4/5/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
+| 4/5/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 4/3/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/3/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/3/2023 | PDP1023A | 2023 Microsoft_Teams Recorded Training | Passed | 0.0 | 1.00 |
@@ -71,7 +77,10 @@
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/8/2023 | PDP00676 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 2/7/2023 | PDP06127 | Pre DPSST Academy Firearms Training | Instructed | 0.0 | 7.00 |
+| 2/2/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 2/2/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 1/30/2023 | PDP07542 | Control Tactics Training | Instructed | 0.0 | 4.00 |
+| 1/25/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Instructed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Instructed | 0.0 | 7.00 |
 | 1/18/2023 | PDP4048A | 2023 Training Red Dot Optic Transition | Passed | 0.0 | 27.00 |

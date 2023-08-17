@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2023
+  course: BVP2565A
+  title: Hawthorn Walk In Center, MHRT
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/13/2023
+  course: BVP3258A
+  title: ICS Scenario
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/13/2023
+  course: BVP0013A
+  title: RSI Strangulation Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2023
   course: BVP1383A
   title: EVOC

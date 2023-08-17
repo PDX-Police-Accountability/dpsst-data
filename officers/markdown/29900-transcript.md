@@ -50,6 +50,11 @@
 | 3/16/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/9/2023 | PPP42986 | Redefining Adversity | Passed | 0.0 | 8.00 |
 | 3/9/2023 | PDP4035A | 2023 EAP Redefining Adversity | Passed | 0.0 | 8.00 |
+| 3/8/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 3/8/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
+| 3/8/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
+| 3/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
+| 3/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 3/5/2023 | PDP02750 | IACP Officer Safety and Wellness Symposium | Passed | 0.0 | 24.00 |
 | 2/14/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 2/14/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |

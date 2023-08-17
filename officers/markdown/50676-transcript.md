@@ -61,6 +61,15 @@
 | 4/12/2023 | PDP0770A | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 4/12/2023 | PDP0189A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 4/12/2023 | PDP3532A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 4/11/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/11/2023 | PDP1421A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
+| 4/11/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
+| 4/10/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 4/10/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
+| 4/10/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
+| 4/10/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
+| 4/10/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
+| 4/10/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 4/7/2023 | PDP0019A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 4/7/2023 | PDP0933A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 4/7/2023 | PDP2755A | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |

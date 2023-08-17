@@ -61,7 +61,6 @@
 | * MISSING | 52344 |  |  |  |  |  | [md](../markdown/52344-transcript.md) - [yaml](../yaml/52344-transcript.yml) |
 | * MISSING | 55708 |  |  |  |  |  | [md](../markdown/55708-transcript.md) - [yaml](../yaml/55708-transcript.yml) |
 | * MISSING | 56551 |  |  |  |  |  | [md](../markdown/56551-transcript.md) - [yaml](../yaml/56551-transcript.yml) |
-| * MISSING | 58410 |  |  |  |  |  | [md](../markdown/58410-transcript.md) - [yaml](../yaml/58410-transcript.yml) |
 | Cassity, Nancy S. | 12845 | Portland Police Bureau | Active | Civilian Employee | Hired | 1980-02-19 | [md](../markdown/12845-transcript.md) - [yaml](../yaml/12845-transcript.yml) |
 | Miller, Gerald D. | 14907 | Portland Police Bureau | Active | Reserve Officer | Hired | 1981-09-15 | [md](../markdown/14907-transcript.md) - [yaml](../yaml/14907-transcript.yml) |
 | Staples, Jeffrey W. | 17133 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1986-06-30 | [md](../markdown/17133-transcript.md) - [yaml](../yaml/17133-transcript.yml) |
@@ -787,6 +786,7 @@
 | Thoman, Scott D. | 38107 | Portland Police Bureau | Inactive | Civilian Employee | Deceased | 2018-01-12 | [md](../markdown/38107-transcript.md) - [yaml](../yaml/38107-transcript.yml) |
 | Graham, Larry K. | 26420 | Portland Police Bureau | Inactive | Captain | Retired | 2018-01-16 | [md](../markdown/26420-transcript.md) - [yaml](../yaml/26420-transcript.yml) |
 | McWhorter, Chelsie C. | 58332 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-01-18 | [md](../markdown/58332-transcript.md) - [yaml](../yaml/58332-transcript.yml) |
+| DeGrave, Joshua M. | 58410 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-01-26 | [md](../markdown/58410-transcript.md) - [yaml](../yaml/58410-transcript.yml) |
 | Blake, Tory C. | 56757 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2018-01-31 | [md](../markdown/56757-transcript.md) - [yaml](../yaml/56757-transcript.yml) |
 | Wagenknecht, Mathew A. | 24983 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2018-02-02 | [md](../markdown/24983-transcript.md) - [yaml](../yaml/24983-transcript.yml) |
 | Jossi, Daniel E. | 56712 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-02-02 | [md](../markdown/56712-transcript.md) - [yaml](../yaml/56712-transcript.yml) |
