@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/2/2023
+  course: PDP3460A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/24/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

@@ -29,6 +29,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/8/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
+| 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
+| 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 7/19/2023 | PDP3143A | 2023 CEW Post Basic Course | Passed | 0.0 | 9.00 |
 | 7/14/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |

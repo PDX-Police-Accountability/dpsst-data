@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 6/25/2023
+  course: PDP1996A
+  title: 2023 PVO Satellite Instructor School - pt 2
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 6/1/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training
@@ -55,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/21/2023
+  course: PDP4467A
+  title: 2023 PVO Satellite Instructor School - pt 1
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 5/16/2023
   course: PDP2465A
   title: 2022-7 CAO Legal Updates for 07/2022
@@ -73,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/11/2023
+  course: PDP3382A
+  title: 2023 PVO Satellite Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/10/2023
   course: PDP1627A
   title: CPR/First Aid

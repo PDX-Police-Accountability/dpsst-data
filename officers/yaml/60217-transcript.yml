@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/3/2023
+  course: PDP1304A
+  title: 2023 FTEP Pre-DPSST Firearms 080323
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/28/2023
   course: PDP0022A
   title: City of Portland Bloodborne Pathogens

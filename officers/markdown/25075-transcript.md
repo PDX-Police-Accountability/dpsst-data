@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/15/2023 | 8/15/2025 |
 | Code of Ethics | Signed | 3/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2023 | WBP2450A | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 6/30/2023 | WBP3188A | Firearms - Quarter 2 Qualifications | Passed | 0.0 | 0.50 |
 | 6/1/2023 | VND2228A | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 4/10/2023 | F1513162 | Bloodborne Pathogens for LE | Passed | 0.0 | 0.75 |

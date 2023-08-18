@@ -36,10 +36,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |
+| 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |
+| 7/6/2023 | PDP2850A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |
 | 6/22/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/7/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 18.00 |
 | 6/2/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 5/31/2023 | PDP3516A | 2023 Training Return to Work Firearms | Instructed | 0.0 | 1.50 |
 | 5/25/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/23/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 13.00 |

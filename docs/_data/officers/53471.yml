@@ -277,6 +277,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/31/2023
+  course: PDP3516A
+  title: 2023 Training Return to Work Firearms
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/4/2021
   course: PDP15662
   title: 2021-2 40mm Less Lethal Qualification

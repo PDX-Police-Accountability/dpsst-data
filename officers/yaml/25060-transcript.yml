@@ -76,6 +76,12 @@ certification_records:
   expiration_date: 3/20/2024
   probation_date: ''
 training_records:
+- date: 8/15/2023
+  course: WBP2450A
+  title: Adult and Pediatric First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/2/2023
   course: WBP3321A
   title: Bloodborne Pathogens
@@ -3107,6 +3113,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/15/2023
+  expiration_date: 8/15/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/14/2022

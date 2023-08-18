@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/15/2023 | 8/15/2025 |
 | Certification Cards | First Aid and CPR | 9/14/2022 | 9/14/2024 |
 | Code of Ethics | Signed | 12/4/2007 |  |
 ## Education
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2023 | WBP2450A | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 8/2/2023 | WBP3321A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 8/2/2023 | WBP3463A | Hazard Communication - New GHS Standard | Passed | 0.0 | 1.00 |
 | 6/30/2023 | WBP3188A | Firearms - Quarter 2 Qualifications | Instructed | 0.0 | 0.50 |

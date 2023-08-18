@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/6/2023
+  course: PDP2850A
+  title: 2023 FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/27/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

@@ -36,6 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
+- date: 7/12/2023
+  course: PDP1377A
+  title: 2023 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/11/2023
+  course: PDP1160A
+  title: 2023 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/6/2023
+  course: PDP2850A
+  title: 2023 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/5/2023
   course: PDP3855A
   title: ICS-200 Basic Incident Cmnd System for Intl Resp

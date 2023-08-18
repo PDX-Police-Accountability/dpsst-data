@@ -50,12 +50,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/3/2023
+  course: PDP1304A
+  title: 2023 FTEP Pre-DPSST Firearms 080323
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/2/2023
+  course: PDP3460A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/1/2023
+  course: PDP0303A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/24/2023
+  course: PDP2545A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/21/2023
+  course: PDP0467A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/20/2023
+  course: PDP2368A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/12/2023
+  course: PDP1377A
+  title: 2023 FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/11/2023
+  course: PDP1160A
+  title: 2023 FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/6/2023
+  course: PDP2850A
+  title: 2023 FTEP New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/24/2023
   course: PDP0078A
   title: 2023 Red Dot Sights Training
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/21/2023
+  course: PDP1146A
+  title: 2023 Training Return to Work Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
 - date: 6/8/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

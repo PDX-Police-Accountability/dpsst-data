@@ -44,6 +44,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/9/2023
+  course: PDP3973A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/3/2023
+  course: PDP0967A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/2/2023
+  course: PDP1489A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/1/2023
+  course: PDP4134A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/31/2023
+  course: PDP1087A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/28/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

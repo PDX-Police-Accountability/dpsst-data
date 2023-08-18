@@ -61,6 +61,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/8/2023
+  course: MLP1991A
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/8/2023
+  course: MLP1011A
+  title: Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/9/2023
   course: MLP42764
   title: Rifle Qualification
@@ -88,6 +100,12 @@ training_records:
 - date: 3/31/2023
   course: MLP1757A
   title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2023
+  course: MLP4216A
+  title: Ethics in Law Enforcement
   status: Passed
   score: '0.0'
   hours: '1.00'
