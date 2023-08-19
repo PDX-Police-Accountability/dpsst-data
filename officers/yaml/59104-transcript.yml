@@ -16,12 +16,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/16/2023
+- status_date: 8/17/2023
   certificate: Police Officer
   level: Intermediate
-  status: App Incmpl
-  certificate_date: ''
-  expiration_date: 10/16/2023
+  status: Granted
+  certificate_date: 8/17/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 11/20/2019
   certificate: Police Officer
@@ -1948,4 +1948,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/4/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 8/18/2018
+  degree: Bachelor Arts
+  school: Portland State University
+  major: Sociology
+  hours: '180.0'

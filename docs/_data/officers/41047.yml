@@ -99,6 +99,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 7/5/2023
+  course: PDP3517A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/5/2023
+  course: PDP3517A
+  title: 2023 MEDU Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/19/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

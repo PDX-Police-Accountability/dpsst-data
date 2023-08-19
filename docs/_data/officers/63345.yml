@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/3/2023
+  course: PDS0153A
+  title: Remedial Range Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/1/2023
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

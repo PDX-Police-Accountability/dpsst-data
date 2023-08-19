@@ -126,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 4/18/2023
+  course: REG3983A
+  title: CORE/RADAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/17/2023
   course: REG1512A
   title: DID/SFST (Hours included in Basic)

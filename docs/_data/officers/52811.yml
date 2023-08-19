@@ -69,6 +69,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 8/4/2023
+  course: PDS3434A
+  title: Active Threat
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 8/2/2023
+  course: PDS3434A
+  title: Active Threat
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/31/2023
+  course: PDS3434A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/20/2023
   course: PDS2575A
   title: Search Warrant Contingencies

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/11/2023
+  course: PDP0436A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 5/26/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -3541,6 +3547,10 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/11/2023
+  expiration_date: 8/11/2025
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
@@ -3557,6 +3567,10 @@ attribute_records:
   value: Signed
   effective_date: 7/23/2012
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 8/17/2023
 education_records:
 - date: 12/14/2008
   degree: Associate Science

@@ -41,7 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2023 | PDP3666A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 8/11/2023 | PDP2604A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 8/11/2023 | PDP0436A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 8/7/2023 | PDP1117A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/24/2023 | PDP1883A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/21/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

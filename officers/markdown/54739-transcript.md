@@ -27,6 +27,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/31/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |
 | 7/12/2023 | PDS4148A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 6/7/2023 | PDS1706A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 5/17/2023 | PDS1250 | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |

@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/4/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |
 | 5/6/2023 | PDS09288 | Yoga for First Responders | Passed | 0.0 | 1.00 |
 | 5/6/2023 | PDS13075 | Peer Support | Passed | 0.0 | 1.00 |
 | 5/6/2023 | PDS0248A | NAMI Training | Passed | 0.0 | 2.00 |

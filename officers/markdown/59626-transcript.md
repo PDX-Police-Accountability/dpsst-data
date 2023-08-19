@@ -20,18 +20,19 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/14/2023 | 8/14/2025 |
 | Certification Cards | First Aid and CPR | 7/24/2023 | 7/24/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 5/5/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 6/13/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/14/2023 | PDP3666A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/24/2023 | PDP1883A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/25/2023 | PDP3564A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
 | 4/10/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

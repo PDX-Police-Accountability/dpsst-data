@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |
 | 6/23/2023 | PDS3313A | Intoxilyzer 8000 Course | Passed | 0.0 | 4.00 |
 | 6/12/2023 | PDS0214A | NAMI Training | Passed | 0.0 | 2.00 |
 | 6/12/2023 | PDS3420A | Peer Support | Passed | 0.0 | 1.00 |

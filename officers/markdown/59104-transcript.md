@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/16/2023 | Police Officer | Intermediate | App Incmpl |  | 10/16/2023 |  |
+| 8/17/2023 | Police Officer | Intermediate | Granted | 8/17/2023 |  |  |
 | 11/20/2019 | Police Officer | Basic | Granted | 11/20/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -29,6 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/18/2018 | Bachelor Arts | Portland State University | Sociology | 180.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
