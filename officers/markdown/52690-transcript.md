@@ -20,9 +20,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 8/11/2023 | 8/11/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 1/18/2013 |  |
 | Code of Ethics | Signed | 7/23/2012 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 8/17/2023 |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/11/2023 | PDP0436A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/26/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/26/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

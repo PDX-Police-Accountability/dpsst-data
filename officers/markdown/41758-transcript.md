@@ -28,8 +28,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 1/30/2002 |  |
 ## Education
@@ -42,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/3/2023 | PDP4427A | PERF Innovations in Recruitment | Passed | 0.0 | 7.50 |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/27/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

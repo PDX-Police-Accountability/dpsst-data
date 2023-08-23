@@ -23,8 +23,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/1/2023 | 5/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 3/10/2014 |  |
 ## Education
@@ -36,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/23/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/14/2023 | PDP3441A | ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc | Passed | 0.0 | 18.00 |
 | 6/7/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

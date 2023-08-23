@@ -20,8 +20,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 10/7/2019 |  |
 ## Education
@@ -30,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/3/2023 | PDP1304A | 2023 FTEP Pre-DPSST Firearms 080323 | Instructed | 0.0 | 9.00 |
 | 6/28/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/28/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

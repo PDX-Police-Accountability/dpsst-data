@@ -27,7 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 7/1/2022 |  |
 | Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2023 | MLP1991A | Active Shooter | Passed | 0.0 | 2.00 |
 | 8/8/2023 | MLP1011A | Active Shooter | Passed | 0.0 | 2.00 |
 | 5/30/2023 | MLP0917 | Rifle Qualification | Passed | 0.0 | 3.00 |

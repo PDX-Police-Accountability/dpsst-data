@@ -24,8 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/16/2023 | 5/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 1/17/2003 |  |
 ## Education
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/3/2023 | PDP1304A | 2023 FTEP Pre-DPSST Firearms 080323 | Instructed | 0.0 | 9.00 |
 | 8/2/2023 | PDP3460A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 8/1/2023 | PDP0303A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |

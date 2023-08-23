@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/26/2023 | PDP3402A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 6/29/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/14/2023 | PDP3376A | 2023 EAP Peer Support during Retirement | Passed | 0.0 | 6.00 |

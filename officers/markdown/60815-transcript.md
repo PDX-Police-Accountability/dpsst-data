@@ -20,8 +20,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/29/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/4/2020 |  |
@@ -31,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/8/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/8/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/2/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

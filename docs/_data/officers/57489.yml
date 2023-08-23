@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 8/7/2023
   course: PDP1117A
   title: CPR/First Aid
@@ -2161,6 +2167,10 @@ training_records:
   score: '0.0'
   hours: '40.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 8/7/2023
@@ -2168,7 +2178,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
@@ -2177,10 +2187,6 @@ attribute_records:
   value: Signed
   effective_date: 8/17/2017
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 7/24/2023
 education_records:
 - date: 6/15/2017
   degree: No Degree

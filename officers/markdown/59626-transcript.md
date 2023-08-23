@@ -20,9 +20,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 8/14/2023 | 8/14/2025 |
 | Certification Cards | First Aid and CPR | 7/24/2023 | 7/24/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 5/5/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/14/2019 |  |
@@ -32,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/14/2023 | PDP3666A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/24/2023 | PDP1883A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/25/2023 | PDP3564A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |

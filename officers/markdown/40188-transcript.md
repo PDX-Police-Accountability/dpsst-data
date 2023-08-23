@@ -28,9 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 8/23/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 6/21/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

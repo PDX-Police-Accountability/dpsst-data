@@ -20,8 +20,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 10/12/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/4/2020 |  |
@@ -31,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/13/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/13/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/7/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |

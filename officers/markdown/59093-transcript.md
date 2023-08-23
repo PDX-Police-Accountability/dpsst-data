@@ -25,8 +25,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 12/20/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 11/4/2019 |  |
 | Code of Ethics | Telecommunication Signed | 1/13/2019 |  |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/12/2023 | PDP3083A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 6/30/2023 | PDP2360A | Crisis/Hostage Negotiation Level II | Passed | 0.0 | 40.00 |
 | 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |

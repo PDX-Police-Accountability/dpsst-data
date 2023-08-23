@@ -21,8 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/13/2023 | 5/13/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 10/12/2017 |  |
 | Code of Ethics | Signed | 1/13/2017 |  |
 ## Education
@@ -32,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/10/2023 | PDP3599A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/13/2023 | PDP2215A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |

@@ -29,9 +29,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 2/4/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/24/2023 | PDP3623A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 7/20/2023 | PDP2549A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 7/18/2023 | PDP4152A | ICS-100 Intro to the Incident Cmnd System | Passed | 0.0 | 2.00 |

@@ -25,8 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 10/18/2011 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/27/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/2/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

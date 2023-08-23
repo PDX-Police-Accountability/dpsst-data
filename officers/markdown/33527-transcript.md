@@ -23,7 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 2/5/2010 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 8/17/2023 |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/31/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
 | 1/31/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 1/31/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |

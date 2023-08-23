@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/6/2023 | 6/6/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 2/6/2006 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/6/2023 | PDP2663 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 4/28/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

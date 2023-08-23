@@ -22,8 +22,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 7/20/2007 |  |
 ## Education
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/10/2023 | OSH0662A | Drug Certification Training | Passed | 0.0 | 40.00 |
 | 5/26/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/26/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

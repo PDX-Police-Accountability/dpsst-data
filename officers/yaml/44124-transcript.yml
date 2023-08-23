@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/29/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -4029,6 +4035,10 @@ training_records:
   score: '0.0'
   hours: '7.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/4/2023
@@ -4036,7 +4046,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
