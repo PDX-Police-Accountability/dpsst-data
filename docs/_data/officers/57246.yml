@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2023
+  course: HBN1266A
+  title: Maint a discrimination, retaliation free workplace
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/25/2023
   course: HBN3031A
   title: First Aid/CPR/AED

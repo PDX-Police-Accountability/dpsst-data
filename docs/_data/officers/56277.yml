@@ -109,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/31/2022
+  course: CAP1774A
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/13/2022
   course: CAP03923
   title: Finding the Leader in You

@@ -62,6 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/10/2023
+  course: PDP0321A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/9/2023
+  course: PDP4314A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/7/2023
+  course: PDP3940A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/3/2023
   course: PDP1304A
   title: 2023 FTEP Pre-DPSST Firearms 080323

@@ -61,8 +61,20 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2023
+  course: REG2079A
+  title: EVO Skills Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/11/2023
   course: REG0794A
+  title: EVO Skills Update
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/11/2023
+  course: REG4237A
   title: EVO Skills Update
   status: Instructed
   score: '0.0'

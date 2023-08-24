@@ -160,6 +160,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/28/2023
+  course: PDP2140A
+  title: Intl Summit on Violence, Abuse  Trauma
+  status: Passed
+  score: '0.0'
+  hours: '28.25'
 - date: 4/19/2023
   course: PDP2387A
   title: 2023-1 All Sworn In-Service Field Arrest

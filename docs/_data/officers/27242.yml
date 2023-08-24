@@ -107,6 +107,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/15/2023
+  course: SPP1504A
+  title: Hazmat First Responder Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/15/2023
+  course: SPP2348A
+  title: Interactions w/ Disabilities, Dementia, Alzheimers
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/10/2023
+  course: VND1204A
+  title: Employment Law Trends
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/10/2023
+  course: VND0048A
+  title: Civil Litigation Trends
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/10/2023
+  course: VND2788A
+  title: Improve Employee Commitment by Building Trust
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/10/2023
+  course: VND4410A
+  title: Public Safety Wellness Best Practices
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/9/2023
+  course: VND3636A
+  title: Tactical Trauma Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/29/2023
   course: SPP0085A
   title: Blood Borne Pathogens

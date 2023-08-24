@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 8/15/2023
+  course: CVS1247A
+  title: Training with Steel Targets IDC
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/23/2023
   course: GSP16179
   title: Advanced LEOVision Tradecraft

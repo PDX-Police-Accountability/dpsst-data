@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/28/2023
+  course: PDP2140A
+  title: Intl Summit on Violence, Abuse  Trauma
+  status: Passed
+  score: '0.0'
+  hours: '28.25'
 - date: 4/18/2023
   course: PDP12729
   title: CPR/First Aid

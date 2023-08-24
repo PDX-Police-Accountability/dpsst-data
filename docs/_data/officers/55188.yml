@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2023
+  course: PDP4468A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/26/2023
   course: PDP2232A
   title: 2023-1 Shotgun Operators In-Service Training
@@ -80,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/14/2023
+  course: PDP3524A
+  title: 2023 ACFE Global Fraud Conference
+  status: Passed
+  score: '0.0'
+  hours: '18.50'
 - date: 5/19/2023
   course: PDP0150A
   title: CPR/First Aid

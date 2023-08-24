@@ -46,6 +46,7 @@
 | 5/25/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/3/2023 | PDP1148A | Practical Answers to Challenging Q's in Court. Rm | Passed | 0.0 | 19.50 |
+| 4/7/2023 | PDP1841A | 2023 Bloodstain Pattern Analysis I | Passed | 0.0 | 40.00 |
 | 3/31/2023 | PDP16665 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
@@ -96,6 +97,7 @@
 | 10/19/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
 | 10/19/2022 | PDP38421 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
 | 10/5/2022 | PDP06077 | Palm Print Comparison Techniques Training | Passed | 0.0 | 24.00 |
+| 10/5/2022 | PDP2819A | 2023 RSA, Inc. Palm Print Techniques | Passed | 0.0 | 24.00 |
 | 9/22/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 9/22/2022 | PDP02219 | DIR 0850.20 Police Response to MH Crisis | Passed | 0.0 | 0.25 |

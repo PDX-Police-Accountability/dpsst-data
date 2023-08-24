@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/1/2023 | HBN2220A | Hillsboro PD Crisis Intervention Team Presentation | Passed | 0.0 | 1.00 |
 | 5/16/2023 | HBN0821A | Home Visits/Scenarios + Mental Health First Aid | Passed | 0.0 | 6.00 |
 | 4/11/2023 | HBN11206 | Behavior Change Plan Workshop - Spring 2023 | Passed | 0.0 | 1.00 |
 | 3/22/2023 | M31-21A | DPSST Parole and Probation Field Training Manual | Completed | 0.0 | 50.00 |

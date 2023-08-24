@@ -44,6 +44,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2023 | SPP1504A | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
+| 8/15/2023 | SPP2348A | Interactions w/ Disabilities, Dementia, Alzheimers | Passed | 0.0 | 0.50 |
+| 8/10/2023 | VND1204A | Employment Law Trends | Passed | 0.0 | 1.00 |
+| 8/10/2023 | VND0048A | Civil Litigation Trends | Passed | 0.0 | 1.00 |
+| 8/10/2023 | VND2788A | Improve Employee Commitment by Building Trust | Passed | 0.0 | 4.00 |
+| 8/10/2023 | VND4410A | Public Safety Wellness Best Practices | Passed | 0.0 | 1.50 |
+| 8/9/2023 | VND3636A | Tactical Trauma Training | Passed | 0.0 | 4.00 |
 | 6/29/2023 | SPP0085A | Blood Borne Pathogens | Passed | 0.0 | 0.25 |
 | 6/29/2023 | SPP2891A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 6/29/2023 | SPP1716A | Taser | Passed | 0.0 | 1.50 |

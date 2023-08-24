@@ -47,6 +47,7 @@
 | 3/23/2023 | CAP41884 | Unmasking Facial Expressions | Passed | 0.0 | 6.50 |
 | 3/15/2023 | CAP15436 | Patrol Rifle Qualification / Reloads and Movement | Passed | 0.0 | 5.00 |
 | 1/25/2023 | CAP31130 | Handgun Qualifications / Basic Shield Use | Passed | 0.0 | 3.00 |
+| 12/31/2022 | CAP1774A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/13/2022 | CAP03923 | Finding the Leader in You | Passed | 0.0 | 6.00 |
 | 12/8/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2022 | CAP30191 | Night Shoot | Passed | 0.0 | 3.00 |

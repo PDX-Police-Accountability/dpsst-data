@@ -46,6 +46,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2023 | SPP1504A | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
+| 8/15/2023 | SPP2348A | Interactions w/ Disabilities, Dementia, Alzheimers | Passed | 0.0 | 0.50 |
+| 8/11/2023 | VND2430A | Strategic Use of Social Media | Passed | 0.0 | 1.00 |
+| 8/10/2023 | VND1204A | Employment Law Trends | Passed | 0.0 | 1.00 |
+| 8/10/2023 | VND0048A | Civil Litigation Trends | Passed | 0.0 | 1.00 |
+| 8/10/2023 | VND2788A | Improve Employee Commitment by Building Trust | Passed | 0.0 | 4.00 |
+| 8/10/2023 | VND4410A | Public Safety Wellness Best Practices | Passed | 0.0 | 1.50 |
+| 8/9/2023 | VND3636A | Tactical Trauma Training | Passed | 0.0 | 4.00 |
 | 6/30/2023 | SPP4463A | HIPAA Essentials | Passed | 0.0 | 1.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/16/2023 | SPP0356A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/13/2023
+  course: PDP2619A
+  title: 2023 ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/11/2023
   course: HDA2270A
   title: ONEA Training Institute - General Session

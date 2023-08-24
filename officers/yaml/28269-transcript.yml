@@ -401,6 +401,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/9/2022
+  course: BNP0733A
+  title: DUII/SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/14/2022
   course: F6M11688
   title: Escalation/De-escalation Trng Policy, Research

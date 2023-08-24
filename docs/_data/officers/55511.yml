@@ -73,6 +73,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/25/2023
+  course: PDP1854A
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/25/2023
+  course: PDP2316A
+  title: 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/24/2023
   course: PDP2545A
   title: 2023 FTEP Post DPSST Firearms
@@ -97,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/17/2023
+  course: PDP1370A
+  title: 2023 FTEP Control Tactics CT Post Basic Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/14/2023
   course: M10-23A
   title: DPSST Basic Police Course

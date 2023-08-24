@@ -27,6 +27,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/17/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
+| 8/11/2023 | M10-23A | DPSST Basic Police Course | Dismissed | 0.0 | 0.00 |
 | 4/7/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 28.00 |
 | 4/6/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 5.00 |

@@ -37,6 +37,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/9/2023
+  course: PDP4314A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/2/2023
   course: PDP3460A
   title: 2023 FTEP Pre-DPSST Firearms

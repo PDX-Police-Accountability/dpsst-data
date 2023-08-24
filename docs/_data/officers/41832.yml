@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2023
+  course: PDP2230A
+  title: Public Order, Crowd Mgmt and Riot Control Seminar
+  status: Passed
+  score: '0.0'
+  hours: '22.00'
 - date: 5/25/2023
   course: PDP1329A
   title: CPR/First Aid

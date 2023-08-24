@@ -100,6 +100,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/13/2023
+  course: PDP2619A
+  title: 2023 ONEA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 7/12/2023
   course: HDA2926A
   title: Advanced Internet Profiling and Research

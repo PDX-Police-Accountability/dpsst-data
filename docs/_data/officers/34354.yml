@@ -44,8 +44,26 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/16/2023
+  course: PDP4468A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 8/7/2023
+  course: PDP3940A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/12/2023
   course: PDP3083A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 7/12/2023
+  course: PDP1405A
   title: 2023 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'

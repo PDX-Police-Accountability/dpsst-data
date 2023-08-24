@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/12/2023
+  course: PDP1405A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/22/2023
   course: PDP4064A
   title: 2023 CNT Crisis Negotiation Team Annual Training

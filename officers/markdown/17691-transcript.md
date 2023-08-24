@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/8/2023 | MNS0453A | Active Threat Response | Passed | 0.0 | 8.00 |
 | 5/18/2023 | MNS1075A | Axon BWC Refresher | Passed | 0.0 | 1.00 |
 | 3/21/2023 | MNS3494A | Firearms Skill Builder | Passed | 0.0 | 2.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |

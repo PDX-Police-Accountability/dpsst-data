@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/8/2023
+  course: MNS0453A
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/18/2023
   course: MNS1075A
   title: Axon BWC Refresher

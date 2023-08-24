@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/14/2023
+  course: PSU1198A
+  title: Taser 7 Basic Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/27/2023
   course: BPT2237A
   title: Intoxilyzer 8000 Certification Course

@@ -56,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/12/2023
+  course: PDP3461A
+  title: 2023 External Training COPS Traumas of LE
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 6/28/2023
   course: PDP0022A
   title: City of Portland Bloodborne Pathogens

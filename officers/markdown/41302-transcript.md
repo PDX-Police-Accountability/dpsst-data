@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/26/2023 | PDP0613A | 2023 OSROA School Safety Conference | Passed | 0.0 | 20.00 |
 | 6/27/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/7/2023 | PDP0732 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/4/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

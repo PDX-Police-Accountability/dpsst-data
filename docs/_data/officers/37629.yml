@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/25/2023
+  course: PDP1854A
+  title: 2023 FTEP Geography
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/26/2023
   course: PDP0022A
   title: City of Portland Bloodborne Pathogens

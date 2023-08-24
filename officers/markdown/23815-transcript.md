@@ -32,7 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2023 | REG2079A | EVO Skills Refresher | Instructed | 0.0 | 8.00 |
 | 8/11/2023 | REG0794A | EVO Skills Update | Instructed | 0.0 | 4.00 |
+| 8/11/2023 | REG4237A | EVO Skills Update | Instructed | 0.0 | 4.00 |
 | 8/10/2023 | REG0835A | EVO Skills Update | Instructed | 0.0 | 8.00 |
 | 8/9/2023 | OSH2990A | 2023 OSP REGIONAL EVOC - BEND | Instructed | 0.0 | 8.00 |
 | 8/9/2023 | REG0818A | EVO Skills Update | Instructed | 0.0 | 8.00 |

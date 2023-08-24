@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2023
+  course: PDN0406A
+  title: Intro to Communication Technology
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/19/2023
   course: PDN3340A
   title: Developing Relationships with LE Partners

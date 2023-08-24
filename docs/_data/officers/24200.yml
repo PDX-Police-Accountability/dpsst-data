@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/18/2023
+  course: STS0465A
+  title: HB 2513 - Airway and Circulation Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/30/2023
   course: STS0016A
   title: CPR (Adult/Child/Infant)/First Aid/AED

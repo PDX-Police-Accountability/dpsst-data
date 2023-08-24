@@ -37,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/17/2023 | MFN1937A | BCP Training | Passed | 0.0 | 2.00 |
+| 8/15/2023 | MFN1937A | BCP Training | Passed | 0.0 | 2.00 |
 | 7/26/2023 | MFN2654A | Ethics Annual Refresher | Instructed | 0.0 | 1.25 |
 | 7/26/2023 | MFN3105A | Ethics Annual Refresher | Passed | 0.0 | 1.25 |
 | 7/25/2023 | MFN4127A | Ethics Annual Refresher | Passed | 0.0 | 1.15 |

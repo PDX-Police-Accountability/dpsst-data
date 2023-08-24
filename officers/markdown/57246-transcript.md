@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2023 | HBN1266A | Maint a discrimination, retaliation free workplace | Passed | 0.0 | 2.00 |
 | 5/25/2023 | HBN3031A | First Aid/CPR/AED | Passed | 0.0 | 6.00 |
 | 5/18/2023 | HBN3988A | Home Visits/Scenarios + Mental Health First Aid | Passed | 0.0 | 6.00 |
 | 4/27/2023 | TRN36649 | Pathways to Change | Passed | 0.0 | 24.00 |

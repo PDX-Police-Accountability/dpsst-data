@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/17/2023
+  course: PDP1370A
+  title: 2023 FTEP Control Tactics CT Post Basic Academy
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/27/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training

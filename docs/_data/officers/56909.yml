@@ -109,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '19.50'
+- date: 4/7/2023
+  course: PDP1841A
+  title: 2023 Bloodstain Pattern Analysis I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/31/2023
   course: PDP16665
   title: CPR/First Aid
@@ -406,6 +412,12 @@ training_records:
 - date: 10/5/2022
   course: PDP06077
   title: Palm Print Comparison Techniques Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 10/5/2022
+  course: PDP2819A
+  title: 2023 RSA, Inc. Palm Print Techniques
   status: Passed
   score: '0.0'
   hours: '24.00'
