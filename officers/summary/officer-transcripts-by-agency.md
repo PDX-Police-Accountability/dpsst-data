@@ -1006,7 +1006,7 @@
 | Boak, Ramsey M. | 47684 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-02 | [md](../markdown/47684-transcript.md) - [yaml](../yaml/47684-transcript.yml) |
 | Hettman, Casey A. | 47718 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/47718-transcript.md) - [yaml](../yaml/47718-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-01 | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |
-| Mills, Jason E. | 47777 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
+| Mills, Jason E. | 47777 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2023-08-17 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Anderson, Jeremy W. | 47781 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47781-transcript.md) - [yaml](../yaml/47781-transcript.yml) |
 | Jackson, David | 47782 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/47782-transcript.md) - [yaml](../yaml/47782-transcript.yml) |
 | Akre, Michelle D. | 47820 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-01-08 | [md](../markdown/47820-transcript.md) - [yaml](../yaml/47820-transcript.yml) |

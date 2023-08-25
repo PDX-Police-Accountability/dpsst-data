@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2023 | BNS3875A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 5/5/2023 | BNS1394A | Chainsaw Orientation and Safety Training | Passed | 0.0 | 4.00 |
 | 10/27/2021 | BNS13970 | Legal Update, section number 001 | Passed | 0.0 | 0.50 |
 | 10/20/2021 | BNS23655 | 2021 Bloodborne Pathogens | Passed | 0.0 | 0.50 |

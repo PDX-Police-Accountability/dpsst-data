@@ -293,7 +293,6 @@
 | Summerson, Michael G. | 47555 | Portland Police Bureau | Active | Civilian Employee | Hired | 2006-11-06 | [md](../markdown/47555-transcript.md) - [yaml](../yaml/47555-transcript.yml) |
 | Harris, Derek A. | 47653 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-02 | [md](../markdown/47653-transcript.md) - [yaml](../yaml/47653-transcript.yml) |
 | Boak, Ramsey M. | 47684 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-02 | [md](../markdown/47684-transcript.md) - [yaml](../yaml/47684-transcript.yml) |
-| Mills, Jason E. | 47777 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Anderson, Jeremy W. | 47781 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47781-transcript.md) - [yaml](../yaml/47781-transcript.yml) |
 | Akre, Michelle D. | 47820 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-01-08 | [md](../markdown/47820-transcript.md) - [yaml](../yaml/47820-transcript.yml) |
 | Buller, Joshua E. | 47824 | Portland Police Bureau | Active | Police Officer | Hired | 2015-05-07 | [md](../markdown/47824-transcript.md) - [yaml](../yaml/47824-transcript.yml) |
@@ -1163,6 +1162,7 @@
 | Schull, Wayne D. | 47433 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-01-16 | [md](../markdown/47433-transcript.md) - [yaml](../yaml/47433-transcript.yml) |
 | Goodwill, Carl A. | 47553 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2018-07-04 | [md](../markdown/47553-transcript.md) - [yaml](../yaml/47553-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-01 | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |
+| Mills, Jason E. | 47777 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2023-08-17 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Doran, Gary R. | 47826 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-02 | [md](../markdown/47826-transcript.md) - [yaml](../yaml/47826-transcript.yml) |
 | Kittleson, Mary G. | 47863 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2007-02-07 | [md](../markdown/47863-transcript.md) - [yaml](../yaml/47863-transcript.yml) |
 | Tatro, Daniel E. | 48330 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2017-10-12 | [md](../markdown/48330-transcript.md) - [yaml](../yaml/48330-transcript.yml) |

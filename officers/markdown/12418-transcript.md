@@ -51,7 +51,7 @@
 | 6/30/2020 | BBP32643 | Ethics Training | Passed | 0.0 | 1.00 |
 | 6/3/2020 | BBP28961 | CPR/First AID/AED Recert | Passed | 0.0 | 3.50 |
 | 4/30/2020 | BBP05391 | Narcan | Passed | 0.0 | 1.00 |
-| 3/31/2020 | BBP06656 | Protecting from Opioid Exposure | Passed | 0.0 | 1.00 |
+| 3/31/2020 | BBP06656 | Protecting First Responders from Opioid Exposure | Passed | 0.0 | 1.00 |
 | 3/31/2020 | BBP18979 | Use of Force | Passed | 0.0 | 2.00 |
 | 2/28/2020 | BBP22258 | Driving While Distracted | Passed | 0.0 | 3.00 |
 | 2/26/2020 | BBP11903 | Department Wellness | Passed | 0.0 | 1.50 |

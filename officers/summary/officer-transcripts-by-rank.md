@@ -294,6 +294,7 @@
 | Nebling, Vance A. | 37144 | Portland Police Bureau | Active | Criminalist | Promotion | 2004-07-08 | [md](../markdown/37144-transcript.md) - [yaml](../yaml/37144-transcript.yml) |
 | Berg, Walker R. | 43499 | Portland Police Bureau | Active | Criminalist | Promotion | 2016-01-11 | [md](../markdown/43499-transcript.md) - [yaml](../yaml/43499-transcript.yml) |
 | Jakubauskas, Gedemynas J. | 46056 | Portland Police Bureau | Active | Criminalist | Promotion | 2020-09-15 | [md](../markdown/46056-transcript.md) - [yaml](../yaml/46056-transcript.yml) |
+| Mills, Jason E. | 47777 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2023-08-17 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Fox, Kenneth S. | 47852 | Portland Police Bureau | Active | Criminalist | Promotion | 2023-05-11 | [md](../markdown/47852-transcript.md) - [yaml](../yaml/47852-transcript.yml) |
 | Becker, Jamin A. | 49504 | Portland Police Bureau | Active | Criminalist | Promotion | 2016-01-14 | [md](../markdown/49504-transcript.md) - [yaml](../yaml/49504-transcript.yml) |
 | Stoffel, Thomas B., Jr. | 51020 | Portland Police Bureau | Active | Criminalist | Promotion | 2020-09-15 | [md](../markdown/51020-transcript.md) - [yaml](../yaml/51020-transcript.yml) |
@@ -831,7 +832,6 @@
 | Harris, Derek A. | 47653 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-02 | [md](../markdown/47653-transcript.md) - [yaml](../yaml/47653-transcript.yml) |
 | Boak, Ramsey M. | 47684 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-02 | [md](../markdown/47684-transcript.md) - [yaml](../yaml/47684-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-01 | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |
-| Mills, Jason E. | 47777 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Anderson, Jeremy W. | 47781 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47781-transcript.md) - [yaml](../yaml/47781-transcript.yml) |
 | Buller, Joshua E. | 47824 | Portland Police Bureau | Active | Police Officer | Hired | 2015-05-07 | [md](../markdown/47824-transcript.md) - [yaml](../yaml/47824-transcript.yml) |
 | Doran, Gary R. | 47826 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-02 | [md](../markdown/47826-transcript.md) - [yaml](../yaml/47826-transcript.yml) |

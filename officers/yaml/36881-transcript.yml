@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/15/2023
+  course: SAG3758A
+  title: Human Trafficking Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/22/2023
   course: SAG4494A
   title: Firearms/Use of Force

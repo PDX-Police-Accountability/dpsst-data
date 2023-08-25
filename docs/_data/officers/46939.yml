@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/27/2023
+  course: PDP3087A
+  title: Leadership Institute to Combat Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '13.17'
 - date: 4/11/2023
   course: PDP2994A
   title: 2023 Microsoft PowerPoint Online Recorded Training

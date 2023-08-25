@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2023 | PDP0030A | Cellebrite Advanced Smartphone Analysis | Passed | 0.0 | 28.00 |
 | 10/28/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/28/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/28/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |

@@ -511,7 +511,6 @@
 | Sutton, Jasmine M. | 47682 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-04-11 | [md](../markdown/47682-transcript.md) - [yaml](../yaml/47682-transcript.yml) |
 | Boak, Ramsey M. | 47684 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-02 | [md](../markdown/47684-transcript.md) - [yaml](../yaml/47684-transcript.yml) |
 | Hettman, Casey A. | 47718 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/47718-transcript.md) - [yaml](../yaml/47718-transcript.yml) |
-| Mills, Jason E. | 47777 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Anderson, Jeremy W. | 47781 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47781-transcript.md) - [yaml](../yaml/47781-transcript.yml) |
 | Jackson, David | 47782 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/47782-transcript.md) - [yaml](../yaml/47782-transcript.yml) |
 | Akre, Michelle D. | 47820 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-01-08 | [md](../markdown/47820-transcript.md) - [yaml](../yaml/47820-transcript.yml) |
@@ -1468,6 +1467,7 @@
 | Weatherwax, Diane M. | 47557 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2017-08-01 | [md](../markdown/47557-transcript.md) - [yaml](../yaml/47557-transcript.yml) |
 | Holmes, Laura L. | 47618 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2021-09-20 | [md](../markdown/47618-transcript.md) - [yaml](../yaml/47618-transcript.yml) |
 | Sanders, David P. | 47719 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-01 | [md](../markdown/47719-transcript.md) - [yaml](../yaml/47719-transcript.yml) |
+| Mills, Jason E. | 47777 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2023-08-17 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Doran, Gary R. | 47826 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-02 | [md](../markdown/47826-transcript.md) - [yaml](../yaml/47826-transcript.yml) |
 | Kittleson, Mary G. | 47863 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2007-02-07 | [md](../markdown/47863-transcript.md) - [yaml](../yaml/47863-transcript.yml) |
 | Cook, Joseph R. | 48042 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-10-01 | [md](../markdown/48042-transcript.md) - [yaml](../yaml/48042-transcript.yml) |

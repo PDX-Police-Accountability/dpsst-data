@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2023 | BNS3875A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 5/5/2023 | BNS1394A | Chainsaw Orientation and Safety Training | Passed | 0.0 | 4.00 |
 | 5/5/2023 | VND0329A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 8.00 |
 | 5/7/2022 | VND02238 | Oregon State Marine Board PWC Operations Course | Passed | 0.0 | 72.00 |

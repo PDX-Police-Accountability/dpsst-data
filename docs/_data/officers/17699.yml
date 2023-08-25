@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/26/2023
+  course: BNS3875A
+  title: Tactical Combat Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/5/2019
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

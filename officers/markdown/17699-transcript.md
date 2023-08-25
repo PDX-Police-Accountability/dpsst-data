@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2023 | BNS3875A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 8/5/2019 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 5/2/2019 | BBP29890 | Handgun Qualification | Passed | 0.0 | 1.00 |
 | 5/2/2019 | BBP31142 | Range | Passed | 0.0 | 6.00 |

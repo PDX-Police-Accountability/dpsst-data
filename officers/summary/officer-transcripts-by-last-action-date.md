@@ -386,7 +386,6 @@
 | Smith, Stephen J. | 10762 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2007-01-05 | [md](../markdown/10762-transcript.md) - [yaml](../yaml/10762-transcript.yml) |
 | Akre, Michelle D. | 47820 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-01-08 | [md](../markdown/47820-transcript.md) - [yaml](../yaml/47820-transcript.yml) |
 | Pool, Michael E. | 29520 | Portland Police Bureau | Active | Sergeant | Promotion | 2007-01-25 | [md](../markdown/29520-transcript.md) - [yaml](../yaml/29520-transcript.yml) |
-| Mills, Jason E. | 47777 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Anderson, Jeremy W. | 47781 | Portland Police Bureau | Active | Police Officer | Hired | 2007-01-25 | [md](../markdown/47781-transcript.md) - [yaml](../yaml/47781-transcript.yml) |
 | Kittleson, Mary G. | 47863 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2007-02-07 | [md](../markdown/47863-transcript.md) - [yaml](../yaml/47863-transcript.yml) |
 | Vanblokland, Elaine O. | 48006 | Portland Police Bureau | Active | Civilian Employee | Hired | 2007-02-20 | [md](../markdown/48006-transcript.md) - [yaml](../yaml/48006-transcript.yml) |
@@ -1664,4 +1663,5 @@
 | Hill, Israel Q. | 53907 | Portland Police Bureau | Active | Lieutenant | Promotion | 2023-07-20 | [md](../markdown/53907-transcript.md) - [yaml](../yaml/53907-transcript.yml) |
 | Jenkins, Jacob A. | 63659 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-07-26 | [md](../markdown/63659-transcript.md) - [yaml](../yaml/63659-transcript.yml) |
 | Ezell, Christopher D. | 62597 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-08-08 | [md](../markdown/62597-transcript.md) - [yaml](../yaml/62597-transcript.yml) |
+| Mills, Jason E. | 47777 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2023-08-17 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
 | Francis, Michael R. | 28248 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-10-27 | [md](../markdown/28248-transcript.md) - [yaml](../yaml/28248-transcript.yml) |

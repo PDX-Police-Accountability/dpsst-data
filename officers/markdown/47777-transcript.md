@@ -4,21 +4,22 @@
 | name | Mills, Jason E. |
 | dpsst_identifier | 47777 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
-| rank | Police Officer |
+| employment_status | Inactive |
+| rank | Criminalist |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/17/2023 | Portland Police Bureau | Resigned | Criminalst |  |  |
 | 1/25/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/3/2022 | Police Officer | Advanced | Granted | 6/3/2022 |  |  |
-| 5/27/2022 | Police Officer | Intermediate | Granted | 5/27/2022 |  |  |
-| 5/30/2008 | Police Officer | Basic | Granted | 5/30/2008 |  |  |
+| 6/3/2022 | Police Officer | Advanced | Granted | 6/3/2022 | 11/17/2023 |  |
+| 5/27/2022 | Police Officer | Intermediate | Granted | 5/27/2022 | 11/17/2023 |  |
+| 5/30/2008 | Police Officer | Basic | Granted | 5/30/2008 | 11/17/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

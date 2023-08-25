@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2023 | SAG3758A | Human Trafficking Conference | Passed | 0.0 | 16.00 |
 | 6/22/2023 | SAG4494A | Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 4/20/2023 | SAG17561 | Firearms range training | Passed | 0.0 | 3.00 |

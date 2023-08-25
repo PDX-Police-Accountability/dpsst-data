@@ -48,12 +48,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
-- date: 7/12/2023
-  course: PDP1405A
-  title: 2023 CNT Crisis Negotiation Team Annual Training
-  status: Passed
-  score: '0.0'
-  hours: '9.00'
 - date: 7/11/2023
   course: PDP1160A
   title: 2023 FTEP New Hire Firearms
