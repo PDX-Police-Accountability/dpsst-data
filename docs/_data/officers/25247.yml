@@ -532,12 +532,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 10/29/2021
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
-- date: 10/29/2021
   course: PDP27760
   title: 2021-1 City Attorney's Legal Updates for 1/2021
   status: Passed

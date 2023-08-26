@@ -246,6 +246,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/19/2023
+  course: PDP2505A
+  title: Drone Analysis and Forensics Course
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 12/22/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening
@@ -390,6 +396,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 8/26/2022
+  course: PDP2530A
+  title: Cellebrite Operator  Cellebrite Physical Analyst
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
 - date: 8/9/2022
   course: PDP38585
   title: AXON CEW Annual Update

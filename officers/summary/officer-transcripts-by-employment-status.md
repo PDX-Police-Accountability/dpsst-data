@@ -686,7 +686,7 @@
 | Walz, Allison C. | 54454 | Portland Police Bureau | Active | Detective | Promotion | 2022-07-21 | [md](../markdown/54454-transcript.md) - [yaml](../yaml/54454-transcript.yml) |
 | Ruiz, Michael A. | 54568 | Portland Police Bureau | Active | Reserve Officer | Hired | 2014-08-19 | [md](../markdown/54568-transcript.md) - [yaml](../yaml/54568-transcript.yml) |
 | Wolz, Deborah I. | 54680 | Portland Police Bureau | Active | Reserve Officer | Hired | 2014-09-22 | [md](../markdown/54680-transcript.md) - [yaml](../yaml/54680-transcript.yml) |
-| Morgan, Kristin M. | 54711 | Portland Police Bureau | Active | Police Officer | Hired | 2015-01-08 | [md](../markdown/54711-transcript.md) - [yaml](../yaml/54711-transcript.yml) |
+| Gende, Kristin M. | 54711 | Portland Police Bureau | Active | Police Officer | Hired | 2015-01-08 | [md](../markdown/54711-transcript.md) - [yaml](../yaml/54711-transcript.yml) |
 | Ianos, Jonathan V. | 54874 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-27 | [md](../markdown/54874-transcript.md) - [yaml](../yaml/54874-transcript.yml) |
 | O'Dea, Lawrence P., IV | 54887 | Portland Police Bureau | Active | Police Officer | Hired | 2015-04-02 | [md](../markdown/54887-transcript.md) - [yaml](../yaml/54887-transcript.yml) |
 | Kuykendoll, Randy L., Jr. | 55060 | Portland Police Bureau | Active | Police Officer | Hired | 2015-03-12 | [md](../markdown/55060-transcript.md) - [yaml](../yaml/55060-transcript.yml) |
@@ -697,7 +697,7 @@
 | Nguepdjo, Thierry R. | 55237 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-09 | [md](../markdown/55237-transcript.md) - [yaml](../yaml/55237-transcript.yml) |
 | Wheeler, Sydne A. | 55316 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55316-transcript.md) - [yaml](../yaml/55316-transcript.yml) |
 | Trummer, Daniel Y. | 55317 | Portland Police Bureau | Active | Police Officer | Hired | 2015-07-30 | [md](../markdown/55317-transcript.md) - [yaml](../yaml/55317-transcript.yml) |
-| Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | LOA | 2021-06-16 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
+| Budworth, Corey A. | 55392 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-07-07 | [md](../markdown/55392-transcript.md) - [yaml](../yaml/55392-transcript.yml) |
 | Bailey, Richard D. | 55393 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55393-transcript.md) - [yaml](../yaml/55393-transcript.yml) |
 | Potter, Ryan A. | 55447 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55447-transcript.md) - [yaml](../yaml/55447-transcript.yml) |
 | Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |

@@ -1982,4 +1982,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 9/9/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/16/2012
+  degree: Associate Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '120.0'

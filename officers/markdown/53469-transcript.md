@@ -48,7 +48,7 @@
 | 4/20/2023 | OSA4442 | Officer - Involved Shootings | Passed | 0.0 | 1.00 |
 | 4/20/2023 | OSA0338 | Search and Seizure Update | Passed | 0.0 | 2.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
-| 4/19/2023 | OSA2846A | 1st Amendment / Managing Protests |  | 0.0 | 1.00 |
+| 4/19/2023 | OSA2846A | 1st Amendment / Managing Protests | Passed | 0.0 | 1.00 |
 | 4/19/2023 | OSA0695 | Incident Command  Tactical Decision Making | Passed | 0.0 | 2.00 |
 | 4/19/2023 | OSA2521 | Managing 2nd Amendment Activities | Passed | 0.0 | 1.00 |
 | 4/19/2023 | OSA1040 | Tactical Combat Casualty Care | Passed | 0.0 | 3.00 |

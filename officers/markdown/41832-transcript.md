@@ -38,8 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/2/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 2.00 |
 | 6/22/2023 | PDP2230A | Public Order, Crowd Mgmt and Riot Control Seminar | Passed | 0.0 | 22.00 |
-| 6/22/2023 | PDP1639A | Public Order, Crowd Mgmt and Riot Control Seminar | Passed | 0.0 | 22.00 |
 | 5/25/2023 | PDP1329A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/18/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |

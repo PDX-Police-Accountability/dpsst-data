@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Morgan, Kristin M. |
+| name | Gende, Kristin M. |
 | dpsst_identifier | 54711 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

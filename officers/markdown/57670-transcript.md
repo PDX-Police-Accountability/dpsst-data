@@ -72,6 +72,7 @@
 | 1/31/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 1/19/2023 | PDP2505A | Drone Analysis and Forensics Course | Passed | 0.0 | 32.00 |
 | 12/22/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/22/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/22/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
@@ -96,6 +97,7 @@
 | 9/13/2022 | PDP37114 | DIR 1010.00, Use of Force (effective 11/15/2022) | Passed | 0.0 | 0.25 |
 | 9/13/2022 | PDP39675 | DIR 1015.00, Less Lethal Weapons and Tools | Passed | 0.0 | 0.25 |
 | 9/8/2022 | PDP0030A | Cellebrite Advanced Smartphone Analysis | Passed | 0.0 | 28.00 |
+| 8/26/2022 | PDP2530A | Cellebrite Operator  Cellebrite Physical Analyst | Passed | 0.0 | 35.00 |
 | 8/9/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 7/27/2022 | PDP05995 | 2022 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/27/2022 | PDP26686 | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

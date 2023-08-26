@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/2/2023
+  course: PDP0985A
+  title: Southern Califorian Gang Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/2/2023
   course: PDP4462A
   title: CPR/First Aid

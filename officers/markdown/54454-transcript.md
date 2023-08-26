@@ -43,6 +43,7 @@
 | 6/27/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/6/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 5/30/2023 | PDP2413A | Enhancing Conviction Integrity through Forensics | Passed | 0.0 | 1.50 |
 | 5/25/2023 | PDP0565A | 2023 Conference on Crimes Against Women | Passed | 0.0 | 26.00 |
 | 5/25/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

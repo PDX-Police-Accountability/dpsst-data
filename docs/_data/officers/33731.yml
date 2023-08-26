@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/23/2023
+  course: PDN4025A
+  title: Field Applications-Officer Self Care
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/16/2023
   course: PDN0406A
   title: Intro to Communication Technology

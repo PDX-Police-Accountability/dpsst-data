@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/16/2023 | PDP0356A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/10/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 8/9/2023 | PDP3973A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/3/2023 | PDP0967A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/2/2023 | PDP1489A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |

@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/12/2023
+  course: PDP2315A
+  title: NWGIA Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 4/14/2023
   course: PDP0062A
   title: 2023 Microsoft_Cloud Storage with OD and SP

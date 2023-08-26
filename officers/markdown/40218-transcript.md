@@ -58,6 +58,7 @@
 | 4/20/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/20/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 4/19/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
+| 3/23/2023 | PDP0575A | Nighthawk Ascend Advanced Digital Data Tradecraft | Passed | 0.0 | 32.00 |
 | 3/15/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

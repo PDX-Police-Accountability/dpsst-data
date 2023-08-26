@@ -30,7 +30,10 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 8/18/2018 | Bachelor Arts | Portland State University | Sociology | 180.0 |
+| 8/18/2018 | Bachelor Arts | Portland State University | Sociology | 128.0 |
+| 3/15/2018 | No Degree | Portland State University | Sociology | 92.0 |
+| 6/15/2015 | No Degree | Warner Pacific College | Social Work | 34.6 |
+| 6/15/2014 | No Degree | Portland Community College |  | 10.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

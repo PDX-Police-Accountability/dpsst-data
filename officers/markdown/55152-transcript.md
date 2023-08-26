@@ -38,6 +38,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/8/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 8.50 |
+| 8/2/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 2.00 |
 | 7/21/2023 | F6R1072A | FB Regional Crisis Negotiation Course | Passed | 0.0 | 36.00 |
 | 6/29/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/22/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

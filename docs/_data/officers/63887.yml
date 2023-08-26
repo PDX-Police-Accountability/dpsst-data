@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/17/2023
+  course: F6R1759A
+  title: Intox 8000
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/12/2023
   course: M10-23A
   title: DPSST Basic Police Course

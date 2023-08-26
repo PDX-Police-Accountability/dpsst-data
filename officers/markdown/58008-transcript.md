@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/11/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 6/12/2023 | PDP4214 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
 | 5/12/2023 | PDP0396A | External Training NWGIA Symposium 051223 | Passed | 0.0 | 36.00 |

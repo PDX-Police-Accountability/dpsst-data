@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: 11/13/2023
 training_records:
+- date: 8/9/2023
+  course: PDP1584A
+  title: 2023 Body Worn Camera Pilot Project Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/21/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

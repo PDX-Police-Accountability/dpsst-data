@@ -164,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/23/2023
+  course: PDP0575A
+  title: Nighthawk Ascend Advanced Digital Data Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/15/2023
   course: PDP14165
   title: 2023 Microsoft Excel Online Recording

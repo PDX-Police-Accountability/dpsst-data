@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/10/2023
+  course: PDP1584A
+  title: 2023 Body Worn Camera Pilot Project Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/31/2023
   course: PDP1548A
   title: CPR/First Aid

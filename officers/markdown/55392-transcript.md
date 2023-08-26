@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/7/2023 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 6/16/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 7/30/2015 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
@@ -24,7 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 8/16/2023 | 8/16/2025 |
 | Maintenance Requirements | First Aid/CPR Required | 4/28/2023 | 4/28/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 1/11/2016 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 6/13/2023 |

@@ -126,6 +126,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2023
+  course: CDS1945A
+  title: Burnout and Trauma Interventions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/21/2023
+  course: CDS4172A
+  title: Profiling Dangerous Individuals
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 7/26/2023
   course: STS0291A
   title: Rifle Training

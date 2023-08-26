@@ -90,6 +90,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/22/2023
+  course: BPT0333A
+  title: Struggle Well
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/12/2023
   course: PDS3342A
   title: CPR/First Aid

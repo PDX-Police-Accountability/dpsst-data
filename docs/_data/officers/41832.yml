@@ -70,14 +70,14 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 6/22/2023
-  course: PDP2230A
-  title: Public Order, Crowd Mgmt and Riot Control Seminar
+- date: 8/2/2023
+  course: PDP1584A
+  title: 2023 Body Worn Camera Pilot Project Training
   status: Passed
   score: '0.0'
-  hours: '22.00'
+  hours: '2.00'
 - date: 6/22/2023
-  course: PDP1639A
+  course: PDP2230A
   title: Public Order, Crowd Mgmt and Riot Control Seminar
   status: Passed
   score: '0.0'

@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 8/10/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 7/25/2023 | PDP1854A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 7/25/2023 | PDP2316A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Passed | 0.0 | 3.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |

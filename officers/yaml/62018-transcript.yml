@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/8/2023
+  course: PDP1584A
+  title: 2023 Body Worn Camera Pilot Project Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/2/2023
   course: PDP3460A
   title: 2023 FTEP Pre-DPSST Firearms

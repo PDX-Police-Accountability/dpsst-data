@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | CDS1945A | Burnout and Trauma Interventions | Passed | 0.0 | 4.00 |
+| 8/21/2023 | CDS4172A | Profiling Dangerous Individuals | Passed | 0.0 | 6.00 |
 | 7/26/2023 | STS0291A | Rifle Training | Passed | 0.0 | 4.00 |
 | 7/10/2023 | STS0658A | ALERRT - Active Shooter Response Training | Passed | 0.0 | 20.00 |
 | 7/1/2023 | STS0453A | Karly's Law | Passed | 0.0 | 2.00 |

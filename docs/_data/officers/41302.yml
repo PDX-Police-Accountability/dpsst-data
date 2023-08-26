@@ -69,6 +69,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/1/2023
+  course: PDP3384A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/26/2023
   course: PDP0613A
   title: 2023 OSROA School Safety Conference

@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/8/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 6/29/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/25/2023 | PDP1996A | 2023 PVO Satellite Instructor School - pt 2 | Passed | 0.0 | 20.00 |
 | 6/3/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

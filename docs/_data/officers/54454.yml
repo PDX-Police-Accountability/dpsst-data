@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 5/30/2023
+  course: PDP2413A
+  title: Enhancing Conviction Integrity through Forensics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/25/2023
   course: PDP0565A
   title: 2023 Conference on Crimes Against Women

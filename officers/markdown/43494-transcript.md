@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/2/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 2.00 |
 | 7/24/2023 | PDP3623A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 7/20/2023 | PDP2549A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 7/18/2023 | PDP4152A | ICS-100 Intro to the Incident Cmnd System | Passed | 0.0 | 2.00 |

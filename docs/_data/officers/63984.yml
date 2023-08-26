@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 8/1/2023
+  course: PDP3384A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/4/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy
@@ -83,4 +89,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/14/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/1/2023
+  expiration_date: 8/1/2025
 education_records: []

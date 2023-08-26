@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 8/8/2023
+  course: PDP1584A
+  title: 2023 Body Worn Camera Pilot Project Training
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
 - date: 6/5/2022
   course: PDP05147
   title: 2022 Language  Culture - Informal Interpreters
