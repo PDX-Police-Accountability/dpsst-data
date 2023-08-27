@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/4/2023 | PDP3606A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/22/2023 | PDP2774A | 2023 Training FA Qualification and Focus Types | Passed | 0.0 | 3.00 |
 | 6/13/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 6/13/2023 | PDP2464A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 6/13/2023 | PDP2534A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |

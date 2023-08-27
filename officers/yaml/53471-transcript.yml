@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 6/22/2023
+  course: PDP2774A
+  title: 2023 Training FA Qualification and Focus Types
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/6/2023
   course: PDP0022A
   title: City of Portland Bloodborne Pathogens

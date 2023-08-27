@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/22/2023 | EGP1184A | Taser Certification | Passed | 0.0 | 8.00 |
 | 8/10/2023 | EGP2347A | Pre-Academy: Mobile Video | Passed | 0.0 | 4.00 |
 | 8/9/2023 | EGP0808A | Pre-Academy: Municipal Court | Passed | 0.0 | 4.00 |
 | 8/8/2023 | EGP0083A | Pre-Academy: Report Writing | Passed | 0.0 | 12.00 |

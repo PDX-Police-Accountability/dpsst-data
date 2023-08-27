@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 6/22/2023
+  course: PDP2774A
+  title: 2023 Training FA Qualification and Focus Types
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/13/2023
   course: PDP2766A
   title: 2022-3 CAO Legal Updates for 03/2022

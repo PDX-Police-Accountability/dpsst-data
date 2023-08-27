@@ -888,4 +888,34 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/13/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/15/2011
+  degree: No Degree
+  school: Portland Community College
+  major: ''
+  hours: '8.0'
+- date: 6/15/2010
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '30.0'
+- date: 6/16/2007
+  degree: Bachelor Science
+  school: Southern Oregon University
+  major: ''
+  hours: '115.0'
+- date: 12/11/2004
+  degree: Associate Arts
+  school: Lane Community College
+  major: ''
+  hours: '113.0'
+- date: 9/15/2004
+  degree: No Degree
+  school: Rogue Community College
+  major: ''
+  hours: '4.0'
+- date: 9/15/2003
+  degree: No Degree
+  school: Chemeketa Community College
+  major: ''
+  hours: '3.0'

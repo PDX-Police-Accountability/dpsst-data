@@ -144,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/22/2023
+  course: PDP2774A
+  title: 2023 Training FA Qualification and Focus Types
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/21/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches

@@ -124,6 +124,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.75'
+- date: 6/27/2023
+  course: PDP2867A
+  title: 2022 ECIT In Service Makeup Session
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/21/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

@@ -49,6 +49,7 @@
 | 6/22/2023 | PDP1386A | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 6/22/2023 | PDP2774A | 2023 Training FA Qualification and Focus Types | Passed | 0.0 | 3.00 |
 | 6/21/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 6/21/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 6/20/2023 | PDP2369A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |

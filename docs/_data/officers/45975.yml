@@ -206,6 +206,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/28/2023
+  course: 23-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 2/25/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -240,12 +246,6 @@ training_records:
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
   status: Completed
-  score: '0.0'
-  hours: '0.00'
-- date: 2/3/2023
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
   score: '0.0'
   hours: '0.00'
 - date: 1/24/2023

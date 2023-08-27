@@ -279,6 +279,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/18/2023
+  course: 23-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 2/14/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -291,12 +297,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 2/3/2023
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 1/16/2023
   course: PDP35372
   title: 2022 Naxolone Administration

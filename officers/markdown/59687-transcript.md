@@ -30,6 +30,12 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/15/2011 | No Degree | Portland Community College |  | 8.0 |
+| 6/15/2010 | No Degree | All Other Education Institutes |  | 30.0 |
+| 6/16/2007 | Bachelor Science | Southern Oregon University |  | 115.0 |
+| 12/11/2004 | Associate Arts | Lane Community College |  | 113.0 |
+| 9/15/2004 | No Degree | Rogue Community College |  | 4.0 |
+| 9/15/2003 | No Degree | Chemeketa Community College |  | 3.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
