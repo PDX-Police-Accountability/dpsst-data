@@ -649,6 +649,15 @@
 | Labato, Chaz J. | 64296 | Portland Police Bureau | Active | Police Officer | Hired | 2023-06-22 | [md](../markdown/64296-transcript.md) - [yaml](../yaml/64296-transcript.yml) |
 | Angeli, Joseph L. | 64334 | Portland Police Bureau | Active | Police Officer | Hired | 2023-06-22 | [md](../markdown/64334-transcript.md) - [yaml](../yaml/64334-transcript.yml) |
 | Vu, Mike N. | 64341 | Portland Police Bureau | Active | Police Officer | Hired | 2023-06-22 | [md](../markdown/64341-transcript.md) - [yaml](../yaml/64341-transcript.yml) |
+| Sandsness, James C., II | 64356 | Portland Police Bureau | Active | Police Officer | Hired | 2023-07-20 | [md](../markdown/64356-transcript.md) - [yaml](../yaml/64356-transcript.yml) |
+| Childers, Kiara J. | 64412 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64412-transcript.md) - [yaml](../yaml/64412-transcript.yml) |
+| Jones, Zachary D. | 64423 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64423-transcript.md) - [yaml](../yaml/64423-transcript.yml) |
+| Swanson, Nathan E. | 64446 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64446-transcript.md) - [yaml](../yaml/64446-transcript.yml) |
+| Harper, Sydney C. | 64447 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64447-transcript.md) - [yaml](../yaml/64447-transcript.yml) |
+| Lee, Martin M. | 64449 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64449-transcript.md) - [yaml](../yaml/64449-transcript.yml) |
+| Vlaski, Marko | 64450 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-17 | [md](../markdown/64450-transcript.md) - [yaml](../yaml/64450-transcript.yml) |
+| Wortman, Travis L. | 64475 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64475-transcript.md) - [yaml](../yaml/64475-transcript.yml) |
+| Cropp, Carson F. | 64482 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-24 | [md](../markdown/64482-transcript.md) - [yaml](../yaml/64482-transcript.yml) |
 | Mason, Ronald L. | 25247 | Portland Police Bureau | Active | Lieutenant | LOA | 2022-10-13 | [md](../markdown/25247-transcript.md) - [yaml](../yaml/25247-transcript.yml) |
 | Harvey, Richard | 27543 | Portland Police Bureau | Active | Police Officer | LOA | 2022-04-25 | [md](../markdown/27543-transcript.md) - [yaml](../yaml/27543-transcript.yml) |
 | Ottoman, Kerri L. | 29213 | Portland Police Bureau | Active | Police Officer | LOA | 2023-02-02 | [md](../markdown/29213-transcript.md) - [yaml](../yaml/29213-transcript.yml) |
