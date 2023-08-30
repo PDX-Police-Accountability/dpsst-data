@@ -15,8 +15,8 @@
 | 7/18/2006 | Tigard Police Department | Promotion | Sergeant |  |  |
 | 10/18/1999 | Tigard Police Department | Hired | Police Off |  |  |
 | 10/15/1999 | Banks Police Department | Resigned | Police Off |  |  |
+| 9/28/1998 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 7/1/1998 | Banks Police Department | Hired | Police Off |  |  |
-| 6/30/1998 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 5/30/1996 | Portland Police Bureau | Hired | Reserve |  |  |
 | 5/29/1996 | OHSU University Police | Resigned | CPS |  |  |
 | 7/21/1995 | OHSU University Police | Hired | CPS |  |  |

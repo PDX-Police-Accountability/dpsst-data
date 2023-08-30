@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | SAG2673A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 6/22/2023 | SAG4494A | Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 6/6/2023 | SMP3590A | Taser Instructor Recertification | Passed | 0.0 | 8.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 4.00 |

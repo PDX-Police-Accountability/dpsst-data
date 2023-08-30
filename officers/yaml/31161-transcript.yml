@@ -27,16 +27,16 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 9/28/1998
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 7/1/1998
   agency: Banks Police Department
   action: Hired
   rank: Police Off
-  classification: ''
-  assignment: ''
-- date: 6/30/1998
-  agency: Portland Police Bureau
-  action: Resigned
-  rank: Reserve
   classification: ''
   assignment: ''
 - date: 5/30/1996

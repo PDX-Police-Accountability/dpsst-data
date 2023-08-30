@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/15/2023 | ADP0017A | ETHOS- Principles of Leadership | Passed | 0.0 | 3.00 |
+| 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Instructed | 0.0 | 8.00 |
+| 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Passed | 0.0 | 4.00 |
 | 6/25/2023 | TAP4484A | Airways Training Patient Eval for LE | Passed | 0.0 | 2.00 |
 | 6/16/2023 | ADP3920A | Firearms-Combat Efficiency and Speed | Passed | 0.0 | 4.00 |
 | 6/8/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/24/2023 | MKL3391A | Ethics Training for Public Officials | Passed | 0.0 | 2.50 |
 | 4/13/2023 | MKL28247 | Tableau Training | Passed | 0.0 | 1.00 |
 | 2/28/2023 | MKL39207 | DT/Use of Force | Passed | 0.0 | 8.00 |
 | 12/28/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
