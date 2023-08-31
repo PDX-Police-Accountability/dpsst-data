@@ -51,6 +51,7 @@
 | 6/9/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/2/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/24/2023 | HDA0288 | Tri-State Narcotics Supervisors/Commanders Summit | Passed | 0.0 | 16.00 |
+| 5/24/2023 | PDP0632A | 2023 Narc Unit Supervisors  Commanders Summit | Passed | 0.0 | 16.00 |
 | 5/12/2023 | PDP0866A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/12/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/12/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |

@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/9/2023
+  course: PDP4231A
+  title: FBI-LEEDA Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 6/5/2023
   course: OCS2433
   title: FBI/LEEDA CLI

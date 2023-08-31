@@ -43,6 +43,7 @@
 | 6/23/2023 | FGP3809A | Summer Outdoor Range Quals and Drills | Passed | 0.0 | 10.00 |
 | 6/6/2023 | FGP0327A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |
 | 5/21/2023 | FGP4078A | Advanced Drone Operation | Passed | 0.0 | 4.00 |
+| 5/5/2023 | FGP1958A | WebLEDS | Passed | 0.0 | 1.00 |
 | 4/13/2023 | FGP2557A | CPR / First Aid bi-annual refresher | Passed | 0.0 | 2.00 |
 | 3/21/2023 | FGP04399 | Investigations Refresher | Passed | 0.0 | 1.00 |
 | 3/17/2023 | FGP14694 | Tactical Combat Casualty Care (TCCC) | Passed | 0.0 | 4.00 |

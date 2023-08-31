@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/13/2023
+  course: PDP0257A
+  title: 2023 NATIA Training Conf  Technology Exhibition
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 6/28/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

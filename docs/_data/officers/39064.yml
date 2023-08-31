@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2024
+  course: 24-0029
+  title: DPSST Supervision
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -59,7 +65,7 @@ training_records:
 - date: 8/7/2023
   course: TDP1301A
   title: Con of Cop, Ethical decisions beyond grey area
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 6/30/2023
@@ -71,7 +77,7 @@ training_records:
 - date: 6/1/2023
   course: TDP4058A
   title: AIRWAY CIRCULATORY CRISIS TRAINING 2023
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '2.00'
 - date: 5/22/2023

@@ -11,8 +11,8 @@ header_record:
 employment_records:
 - date: 12/31/2009
   agency: Dept of Public Safety Standards  Trng
-  action: Reclassed
-  rank: Civln Emp
+  action: Resigned
+  rank: Investigtr
   classification: ''
   assignment: ''
 - date: 8/27/2007
@@ -64,31 +64,31 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/31/2010
+- status_date: 2/15/2020
   certificate: Police Officer
   level: Advanced
-  status: Lapsed
+  status: Expired
   certificate_date: 6/27/2007
   expiration_date: ''
   probation_date: ''
-- status_date: 3/31/2010
+- status_date: 2/15/2020
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Expired
   certificate_date: 5/27/1980
   expiration_date: ''
   probation_date: ''
-- status_date: 3/31/2010
+- status_date: 2/15/2020
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Expired
   certificate_date: 1/4/1982
   expiration_date: ''
   probation_date: ''
-- status_date: 3/31/2010
+- status_date: 2/15/2020
   certificate: Police Officer
   level: Supervisory
-  status: Lapsed
+  status: Expired
   certificate_date: 7/12/2007
   expiration_date: ''
   probation_date: ''

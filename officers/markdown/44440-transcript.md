@@ -52,6 +52,7 @@
 | 5/3/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 5/3/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 4/12/2023 | SAG01096 | Simplifying Financial Records Investigations | Passed | 0.0 | 15.00 |
+| 4/12/2023 | PDP2346A | Simplifying How to Obtain,Rvw,Prsnt Financ Rcrds | Passed | 0.0 | 16.00 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/16/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/16/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

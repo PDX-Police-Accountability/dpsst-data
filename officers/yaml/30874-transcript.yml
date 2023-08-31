@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/5/2023
+  course: FGP1958A
+  title: WebLEDS
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/13/2023
   course: FGP2557A
   title: CPR / First Aid bi-annual refresher

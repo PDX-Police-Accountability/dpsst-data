@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 5/24/2023
+  course: PDP0632A
+  title: 2023 Narc Unit Supervisors  Commanders Summit
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/19/2023
   course: OSH17315
   title: 2023 OPCA Spring Conference - Detection

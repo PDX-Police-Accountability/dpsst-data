@@ -88,6 +88,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/28/2023
+  course: PDP1671A
+  title: 2023 CSM Crisis Hostage Negotiation Lvl 1
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/27/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

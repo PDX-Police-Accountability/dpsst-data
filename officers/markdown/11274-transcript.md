@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 12/31/2009 | Dept of Public Safety Standards  Trng | Reclassed | Civln Emp |  |  |
+| 12/31/2009 | Dept of Public Safety Standards  Trng | Resigned | Investigtr |  |  |
 | 8/27/2007 | Dept of Public Safety Standards  Trng | Hired | Investigtr |  |  |
 | 8/22/2007 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 6/27/1996 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -24,10 +24,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/31/2010 | Police Officer | Advanced | Lapsed | 6/27/2007 |  |  |
-| 3/31/2010 | Police Officer | Basic | Lapsed | 5/27/1980 |  |  |
-| 3/31/2010 | Police Officer | Intermediate | Lapsed | 1/4/1982 |  |  |
-| 3/31/2010 | Police Officer | Supervisory | Lapsed | 7/12/2007 |  |  |
+| 2/15/2020 | Police Officer | Advanced | Expired | 6/27/2007 |  |  |
+| 2/15/2020 | Police Officer | Basic | Expired | 5/27/1980 |  |  |
+| 2/15/2020 | Police Officer | Intermediate | Expired | 1/4/1982 |  |  |
+| 2/15/2020 | Police Officer | Supervisory | Expired | 7/12/2007 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

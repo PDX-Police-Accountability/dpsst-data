@@ -112,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/12/2023
+  course: PDP0525A
+  title: Three Most Common Pitfalls in Accred Process
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/28/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

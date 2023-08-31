@@ -36,6 +36,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2032 | F1535110 | Microaggression Training | Passed | 0.0 | 2.00 |
+| 8/25/2023 | F1531013 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |
+| 8/24/2023 | F1522971 | ViCAP Databas Tutorial | Passed | 0.0 | 2.00 |
+| 8/7/2023 | F1504844 | Policy Review for Code of Ethics | Passed | 0.0 | 1.00 |
+| 8/1/2023 | F1538769 | Deconfliction: Officer Safety | Passed | 0.0 | 1.00 |
+| 7/20/2023 | F1532605 | Significance of BTAM as Best Practice | Passed | 0.0 | 2.00 |
+| 6/20/2023 | F1521157 | Understand. Homicide  Gun Violence | Passed | 0.0 | 1.00 |
+| 6/8/2023 | F1526612 | Juvenile Prosecution 101 | Passed | 0.0 | 1.00 |
+| 6/8/2023 | F1502526 | Reconsidering a Famous Crime | Passed | 0.0 | 1.50 |
+| 5/19/2023 | F1527284 | Strangulation - Last Warning Shot 2 | Passed | 0.0 | 1.50 |
+| 5/17/2023 | F1500660 | Strangulation - Last Warning Shot 1 | Passed | 0.0 | 1.50 |
+| 4/19/2023 | F1531185 | Murder 101: Evaluating Evidence | Passed | 0.0 | 1.00 |
+| 4/12/2023 | F1537146 | Investigative Genetic Geneology | Passed | 0.0 | 2.00 |
 | 2/28/2023 | MSS02135 | Police One / Sexual Harassment in the Workplace | Passed | 0.0 | 1.00 |
 | 1/27/2023 | BPT04355 | Pistol Mounted Optic Instructor | Passed | 0.0 | 16.00 |
 | 11/2/2022 | BPT36283 | Annual LEOSA HR-218 Qualification (9mm) | Passed | 0.0 | 0.25 |

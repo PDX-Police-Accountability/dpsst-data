@@ -44,6 +44,7 @@
 | 6/22/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/26/2023 | PDP3879A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/24/2023 | HDA0288 | Tri-State Narcotics Supervisors/Commanders Summit | Passed | 0.0 | 16.00 |
+| 5/24/2023 | PDP0632A | 2023 Narc Unit Supervisors  Commanders Summit | Passed | 0.0 | 16.00 |
 | 4/19/2023 | OSH17315 | 2023 OPCA Spring Conference - Detection | Passed | 0.0 | 24.00 |
 | 4/19/2023 | PDP2866A | 2023 OPCA Spring Seminar | Passed | 0.0 | 21.00 |
 | 4/6/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 8/23/2023 | 8/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/27/2021 | 10/27/2023 |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2023 | MKL4382 | First Aid and CPR | Passed | 0.0 | 5.00 |
 | 6/21/2023 | MKL2829A | Alcohol Compliance - Updates and Refresher | Passed | 0.0 | 2.00 |
 | 5/19/2023 | MKL0808 | Mental Health Awareness:  Managing Stress/Anxiety | Passed | 0.0 | 1.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |

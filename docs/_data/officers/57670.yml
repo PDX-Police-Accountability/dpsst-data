@@ -276,6 +276,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/9/2022
+  course: PDP0902A
+  title: 2023 SQLite Forensics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/28/2022
   course: PDP01766
   title: 2022 Post Shooting Response
@@ -366,12 +372,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 10/11/2022
+  course: PDP2050A
+  title: 2022 Cellebrite Certified Mobile Examiner
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/4/2022
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/21/2022
+  course: PDP2066A
+  title: 2022 Cellebrite Mobile Forensics Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/21/2022
+  course: PDP3563A
+  title: 2022 Grayshift GrayKey Certification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/13/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv

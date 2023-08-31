@@ -139,6 +139,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/12/2023
+  course: PDP2346A
+  title: Simplifying How to Obtain,Rvw,Prsnt Financ Rcrds
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/30/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles
