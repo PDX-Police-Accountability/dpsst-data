@@ -47,6 +47,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/9/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
+| 8/16/2023 | HBS1605A | Active Threat | Passed | 0.0 | 3.00 |
 | 3/9/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/6/2023 | STP31849 | Attitude Empowerment | Passed | 0.0 | 7.00 |
 | 3/6/2023 | STP40982 | Public Corruption | Passed | 0.0 | 1.00 |

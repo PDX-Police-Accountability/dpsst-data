@@ -123,6 +123,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/16/2023
+  course: SVP0186A
+  title: Active Shooter Training With Con Sims
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/16/2023
+  course: SVP0186A
+  title: Active Shooter Training With Con Sims
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/12/2023
   course: SVP0222A
   title: MILO Training/Use of Force Decision Making

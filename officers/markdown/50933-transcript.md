@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/16/2023 | PDP4468A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 8/4/2023 | PDP4265A | CSM - Crisis/Hostage Negotiation Level III | Passed | 0.0 | 40.00 |
 | 7/12/2023 | PDP3083A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 6/21/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/21/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

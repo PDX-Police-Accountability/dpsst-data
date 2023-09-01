@@ -1255,7 +1255,7 @@
 | Rains, Michael A. | 57728 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-12-11 | [md](../markdown/57728-transcript.md) - [yaml](../yaml/57728-transcript.yml) |
 | Ramic, Adi | 51049 | Portland Police Bureau | Active | Police Officer | Hired | 2010-04-01 | [md](../markdown/51049-transcript.md) - [yaml](../yaml/51049-transcript.yml) |
 | Ramirez, Dean B. | 59856 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2020-04-14 | [md](../markdown/59856-transcript.md) - [yaml](../yaml/59856-transcript.yml) |
-| Ramos, David N. | 57587 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-06-21 | [md](../markdown/57587-transcript.md) - [yaml](../yaml/57587-transcript.yml) |
+| Ramos, David N. | 57587 | Portland Police Bureau | Active | Police Officer | Hired | 2023-08-03 | [md](../markdown/57587-transcript.md) - [yaml](../yaml/57587-transcript.yml) |
 | Ramsey, Jake M. | 56803 | Portland Police Bureau | Active | Police Officer | Hired | 2016-11-01 | [md](../markdown/56803-transcript.md) - [yaml](../yaml/56803-transcript.yml) |
 | Ranum, Michael P. | 22513 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1989-10-31 | [md](../markdown/22513-transcript.md) - [yaml](../yaml/22513-transcript.yml) |
 | Raphael, Justin M. | 52780 | Portland Police Bureau | Active | Police Officer | Return LOA | 2018-08-08 | [md](../markdown/52780-transcript.md) - [yaml](../yaml/52780-transcript.yml) |

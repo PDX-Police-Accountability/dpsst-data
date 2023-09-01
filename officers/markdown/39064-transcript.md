@@ -38,9 +38,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | 24-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 8/7/2023 | TDP1301A | Con of Cop, Ethical decisions beyond grey area | Passed | 0.0 | 1.00 |
-| 6/30/2023 | TDP4273A | Ethics 2023 IN L.E. THE DALLES POLICE DEPT | Passed | 0.0 | 1.00 |
-| 6/1/2023 | TDP4058A | AIRWAY CIRCULATORY CRISIS TRAINING 2023 | Passed | 0.0 | 2.00 |
+| 8/7/2023 | TDP1301A | Con of Cop: Ethical Decisions Beyond Grey Area | Passed | 0.0 | 1.00 |
+| 7/28/2023 | TDP2179A | Implicit Bias 2023 | Passed | 0.0 | 1.00 |
+| 7/22/2023 | TDP0125A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |
+| 6/30/2023 | TDP4273A | Ethics in LE 2023 - The Dalles Police Department | Passed | 0.0 | 1.00 |
+| 6/1/2023 | TDP4058A | Airway Circulatory Crisis Training 2023 | Passed | 0.0 | 2.00 |
 | 5/22/2023 | TDP0412A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 4/28/2023 | PLA0008A | A Person's a Person, No Matter How Small | Passed | 0.0 | 1.00 |
 | 4/28/2023 | PLA3221A | Child Fatality Investigations | Passed | 0.0 | 1.00 |

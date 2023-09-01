@@ -46,6 +46,7 @@
 | 6/26/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/26/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/26/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/16/2023 | PDP2284A | 2023 Training Yoga for 1st Responders Instructor | Passed | 0.0 | 45.00 |
 | 6/8/2023 | PDP0661A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 6/3/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 6/3/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |

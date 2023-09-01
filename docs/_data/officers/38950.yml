@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 8/16/2023
+  course: HBS1605A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/9/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

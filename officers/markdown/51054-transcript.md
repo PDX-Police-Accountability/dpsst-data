@@ -42,6 +42,7 @@
 | 7/17/2023 | EGP4335A | Tactical Explosive Breacher Course | Passed | 0.0 | 48.00 |
 | 6/23/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/21/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 6/16/2023 | PDP2284A | 2023 Training Yoga for 1st Responders Instructor | Passed | 0.0 | 45.00 |
 | 6/11/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 6/11/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/8/2023 | PDP0661A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |

@@ -3,12 +3,18 @@ header_record:
   name: Ramos, David N.
   dpsst_identifier: '57587'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/3/2023
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/21/2022
   agency: Portland Police Bureau
   action: Resigned
@@ -22,12 +28,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 8/3/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/3/2025
 - status_date: 9/21/2022
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 9/4/2018
-  expiration_date: 6/21/2027
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 8/16/2023

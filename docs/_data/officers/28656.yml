@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/20/2023
+  course: TGP2189A
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/17/2023
   course: TGP25079
   title: Path of the Guardian 2023Q1

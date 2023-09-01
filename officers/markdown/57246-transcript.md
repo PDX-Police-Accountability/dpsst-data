@@ -90,7 +90,7 @@
 | 1/16/2020 | HBN09241 | OMS (a.m. class) | Passed | 0.0 | 4.00 |
 | 12/17/2019 | 19T003 | Parole  Probation Field Training Manual | Completed | 0.0 | 50.00 |
 | 12/13/2019 | HBN01780 | Search and Seizure Training | Passed | 0.0 | 8.00 |
-| 12/3/2019 | HBN07872 | ETHICS | Passed | 0.0 | 1.00 |
+| 12/3/2019 | HBN07872 | Ethics | Passed | 0.0 | 1.00 |
 | 11/13/2019 | HBN07324 | Carey Group Four Core Competencies | Passed | 0.0 | 14.00 |
 | 11/7/2019 | HBN08168 | Motivational Interviewing | Passed | 0.0 | 2.25 |
 | 11/7/2019 | HBN30758 | Emotional Wellness | Passed | 0.0 | 2.00 |

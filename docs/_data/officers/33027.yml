@@ -50,6 +50,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/16/2023
+  course: PDP2284A
+  title: 2023 Training Yoga for 1st Responders Instructor
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
 - date: 6/8/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

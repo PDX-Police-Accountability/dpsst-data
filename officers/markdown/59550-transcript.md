@@ -36,7 +36,7 @@
 | 5/15/2023 | RMP4318 | Incident Command System/Active Threat | Passed | 0.0 | 3.00 |
 | 5/15/2023 | RMP0259 | Vehicle Immobilzation Pinching | Passed | 0.0 | 1.00 |
 | 5/15/2023 | RMP2851 | Patrol Scenario Based Training | Passed | 0.0 | 4.00 |
-| 4/20/2023 | RMP07928 | ETHICS | Passed | 0.0 | 0.00 |
+| 4/20/2023 | RMP07928 | Ethics | Passed | 0.0 | 0.00 |
 | 3/27/2023 | RMP39745 | BRIEFING TRAINING: Cedar Hills Stabilization CTR | Passed | 0.0 | 0.50 |
 | 3/24/2023 | RMP21867 | EVOC / Armor Veh Familiarization | Passed | 0.0 | 4.00 |
 | 3/24/2023 | RMP32878 | DUII Refresher | Passed | 0.0 | 3.00 |

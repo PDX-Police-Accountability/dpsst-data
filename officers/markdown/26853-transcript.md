@@ -42,7 +42,7 @@
 | 8/7/2023 | F1504844 | Policy Review for Code of Ethics | Passed | 0.0 | 1.00 |
 | 8/1/2023 | F1538769 | Deconfliction: Officer Safety | Passed | 0.0 | 1.00 |
 | 7/20/2023 | F1532605 | Significance of BTAM as Best Practice | Passed | 0.0 | 2.00 |
-| 6/20/2023 | F1521157 | Understand. Homicide  Gun Violence | Passed | 0.0 | 1.00 |
+| 6/20/2023 | F1521157 | Understanding Homicide  Gun Violence | Passed | 0.0 | 1.00 |
 | 6/8/2023 | F1526612 | Juvenile Prosecution 101 | Passed | 0.0 | 1.00 |
 | 6/8/2023 | F1502526 | Reconsidering a Famous Crime | Passed | 0.0 | 1.50 |
 | 5/19/2023 | F1527284 | Strangulation - Last Warning Shot 2 | Passed | 0.0 | 1.50 |

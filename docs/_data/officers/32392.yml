@@ -86,6 +86,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 4/20/2023
+  course: TGP2189A
+  title: Handgun Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/20/2023
+  course: TGP2189A
+  title: Handgun Training
+  status: Instructed
+  score: '0.0'
+  hours: '75.00'
 - date: 4/6/2023
   course: HBS11510
   title: ARIDE

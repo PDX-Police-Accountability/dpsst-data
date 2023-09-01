@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.50'
+- date: 8/4/2023
+  course: PDP4265A
+  title: CSM - Crisis/Hostage Negotiation Level III
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/12/2023
   course: PDP3083A
   title: 2023 CNT Crisis Negotiation Team Annual Training
@@ -79,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '18.00'
+- date: 6/16/2023
+  course: PDP2284A
+  title: 2023 Training Yoga for 1st Responders Instructor
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
 - date: 5/24/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

@@ -39,9 +39,11 @@
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/16/2023 | PDP4468A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 8/8/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 8.50 |
+| 8/4/2023 | PDP4265A | CSM - Crisis/Hostage Negotiation Level III | Passed | 0.0 | 40.00 |
 | 7/12/2023 | PDP3083A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 6/30/2023 | PDP2360A | Crisis/Hostage Negotiation Level II | Passed | 0.0 | 40.00 |
 | 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
+| 6/16/2023 | PDP2284A | 2023 Training Yoga for 1st Responders Instructor | Passed | 0.0 | 45.00 |
 | 5/24/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
