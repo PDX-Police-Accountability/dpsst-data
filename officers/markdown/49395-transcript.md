@@ -4,7 +4,7 @@
 | name | Cox, Joseph M. |
 | dpsst_identifier | 49395 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,18 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/30/2023 | Portland Police Bureau | Resigned | Detective |  |  |
 | 11/21/2019 | Portland Police Bureau | Promotion | Detective |  |  |
 | 5/15/2008 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/21/2009 | Police Officer | Basic | Granted | 9/21/2009 |  |  |
+| 9/21/2009 | Police Officer | Basic | Granted | 9/21/2009 | 11/30/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 5/29/2008 |  |
 ## Education

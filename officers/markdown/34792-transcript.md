@@ -26,7 +26,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
@@ -38,12 +38,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/15/2023 | ADP0017A | ETHOS- Principles of Leadership | Passed | 0.0 | 3.00 |
 | 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Instructed | 0.0 | 8.00 |
 | 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Passed | 0.0 | 4.00 |
 | 6/25/2023 | TAP4484A | Airways Training Patient Eval for LE | Passed | 0.0 | 2.00 |
 | 6/16/2023 | ADP3920A | Firearms-Combat Efficiency and Speed | Passed | 0.0 | 4.00 |
 | 6/8/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/18/2023 | TAP0830A | RADAR Operator Course | Instructed | 0.0 | 6.00 |
+| 5/18/2023 | TAP1681A | LIDAR Operator Course | Instructed | 0.0 | 2.00 |
 | 5/3/2023 | TAP16250 | Frazier Bags training | Passed | 0.0 | 1.00 |
 | 5/3/2023 | TAP24971 | Stop the Bleed Kit(s) Training | Passed | 0.0 | 0.50 |
 | 4/26/2023 | MFS0307 | Pat McCarthy's Street Crimes | Passed | 0.0 | 24.00 |

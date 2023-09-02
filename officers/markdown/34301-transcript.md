@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2023 | TRN1538A | DOC - FS - Taser X26P User v22_2020c | Passed | 0.0 | 6.00 |
 | 5/28/2023 | TRN2374A | 2023 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 5/28/2023 | TRN2653A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 5/28/2023 | TRN1317A | Bloodborne Pathogens - Protect Yourself v2021 | Passed | 0.0 | 1.00 |

@@ -3,12 +3,18 @@ header_record:
   name: Stenzel, Cory W.
   dpsst_identifier: '45663'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/18/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 7/5/2012
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 12/13/2011
-  expiration_date: ''
+  expiration_date: 11/18/2023
   probation_date: ''
 - status_date: 11/22/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/22/2010
-  expiration_date: ''
+  expiration_date: 11/18/2023
   probation_date: ''
 - status_date: 3/8/2006
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/8/2006
-  expiration_date: ''
+  expiration_date: 11/18/2023
   probation_date: ''
 training_records:
 - date: 8/21/2023

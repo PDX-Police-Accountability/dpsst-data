@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 8/28/2023
+  course: EGP1699A
+  title: Ethos Academy - Ethics Module 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/22/2023
   course: EGP1184A
   title: Taser Certification

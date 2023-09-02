@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 7/20/2024
 training_records:
-- date: 7/20/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 8/10/2023
   course: PDP1584A
   title: 2023 Body Worn Camera Pilot Project Training

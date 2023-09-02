@@ -22,11 +22,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/22/2023
+- status_date: 8/31/2023
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 8/31/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 10/27/2008
@@ -4269,10 +4269,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/14/2004
