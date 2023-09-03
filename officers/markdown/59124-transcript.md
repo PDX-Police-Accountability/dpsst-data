@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/25/2023 | Beaverton Police Department | Hired | Police Off |  |  |
 | 12/25/2019 | Portland Police Bureau | Prob Dschg | Police Off |  |  |
 | 9/12/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 9/25/2023 | Police Officer | Basic | Required |  |  | 3/25/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -27,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
 | 10/10/2019 | PDP09647 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |
 | 10/8/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |
 | 10/7/2019 | PDP03093 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |

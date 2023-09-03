@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/25/2023
+  agency: Beaverton Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/25/2019
   agency: Portland Police Bureau
   action: Prob Dschg
@@ -21,8 +27,21 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 9/25/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 3/25/2025
 training_records:
+- date: 12/18/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
 - date: 10/10/2019
   course: PDP09647
   title: 2019-8 City Attorney's Office Legal Updates 8/2019

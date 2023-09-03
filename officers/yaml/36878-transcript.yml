@@ -82,6 +82,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/14/2023
+  course: BVP0073A
+  title: Wellness
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

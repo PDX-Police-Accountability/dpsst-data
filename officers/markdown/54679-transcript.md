@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/17/2023 | BPT3673A | Field Training and Evaluation | Passed | 0.0 | 24.00 |
 | 8/8/2023 | MLP1991A | Active Shooter | Passed | 0.0 | 2.00 |
 | 8/8/2023 | MLP1011A | Active Shooter | Passed | 0.0 | 2.00 |
 | 5/30/2023 | MLP0917 | Rifle Qualification | Passed | 0.0 | 3.00 |

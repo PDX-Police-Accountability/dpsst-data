@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/28/2023
+  course: PDP0922A
+  title: 2023 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/14/2023
   course: M10-23A
   title: DPSST Basic Police Course
