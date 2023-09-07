@@ -114,6 +114,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/18/2023
+  course: HSU1762A
+  title: Firearms August Supplemental Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 8/6/2023
+  course: HSU2592A
+  title: Red Dot Sight Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/30/2023
+  course: HSU2592A
+  title: Red Dot Sight Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/29/2023
+  course: HSU2592A
+  title: Red Dot Sight Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/25/2023
   course: HSU27477
   title: ASIST Suicide Caregiver

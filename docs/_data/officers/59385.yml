@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/21/2023
+  course: PSU1346A
+  title: Intro to Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/14/2023
   course: PSU1198A
   title: Taser 7 Basic Operator Course

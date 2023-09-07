@@ -55,6 +55,18 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 8/17/2023
+  course: OCP0486A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/17/2023
+  course: OCP0486A
+  title: Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/25/2023
   course: OSH1996A
   title: ARIDE

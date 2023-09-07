@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2023 | HSU3768A | Defensive Tactics New Hire/ Pre FTEP | Instructed | 0.0 | 5.00 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/19/2023 | PDP3143A | 2023 CEW Post Basic Course | Instructed | 0.0 | 9.00 |

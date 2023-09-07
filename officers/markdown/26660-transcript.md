@@ -41,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/18/2023 | HSU1762A | Firearms August Supplemental Range | Passed | 0.0 | 3.00 |
+| 8/6/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 7/30/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 7/29/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 6/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/17/2023 | HSU1817A | Firearms June Supplemental Range | Passed | 0.0 | 3.00 |
 | 4/22/2023 | HSU43962 | Spring In-Service 2023 Firearms | Instructed | 0.0 | 10.00 |

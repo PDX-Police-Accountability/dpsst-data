@@ -41,6 +41,7 @@
 | 9/5/2022 | PSU22819 | Campus Based Training: Clery Act | Passed | 0.0 | 2.00 |
 | 9/5/2022 | PSU01586 | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/5/2022 | PSU21132 | Crisis Intervention - Mentally ill subjects | Passed | 0.0 | 2.00 |
+| 9/5/2022 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PSU24314 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/19/2022 | PSU10134 | HB 2513 Airway, Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 7/27/2022 | PSU33623 | NOBLE Training Confrence 2022 | Passed | 0.0 | 32.00 |

@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2023 | OCP0486A | Use of Force | Passed | 0.0 | 2.00 |
+| 8/17/2023 | OCP0486A | Use of Force | Instructed | 0.0 | 8.00 |
 | 7/25/2023 | OSH1996A | ARIDE | Passed | 0.0 | 16.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |

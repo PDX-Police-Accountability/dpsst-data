@@ -47,6 +47,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/18/2023 | HSU1762A | Firearms August Supplemental Range | Passed | 0.0 | 3.00 |
+| 8/6/2023 | HSU2592A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
+| 7/30/2023 | HSU2592A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
+| 7/29/2023 | HSU2592A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
 | 4/25/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |
 | 4/24/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |
 | 4/21/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |

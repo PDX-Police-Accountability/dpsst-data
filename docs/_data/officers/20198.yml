@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/18/2023
+  course: HSU1762A
+  title: Firearms August Supplemental Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

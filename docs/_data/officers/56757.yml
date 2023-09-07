@@ -84,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/5/2022
+  course: PSU1346A
+  title: Intro to Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/25/2022
   course: PSU24314
   title: Defensive Tactics

@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/11/2023
+  course: PSU1346A
+  title: Intro to Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 7/21/2023
   course: HRS1089A
   title: ALERRT Level 1 Active Shooter Response T3

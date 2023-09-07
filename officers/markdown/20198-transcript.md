@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/18/2023 | HSU1762A | Firearms August Supplemental Range | Passed | 0.0 | 3.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/22/2023 | HSU19975 | Spring In-Service 2023 EVOC | Instructed | 0.0 | 6.00 |
 | 4/21/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |

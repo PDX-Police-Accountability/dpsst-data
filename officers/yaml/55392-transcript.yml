@@ -44,12 +44,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 8/16/2023
-  course: PDP1993A
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '1.75'
-- date: 8/16/2023
   course: PDP0891A
   title: CPR/First Aid
   status: Passed

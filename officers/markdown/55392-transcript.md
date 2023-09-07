@@ -36,7 +36,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 8/16/2023 | PDP1993A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 8/16/2023 | PDP0891A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
