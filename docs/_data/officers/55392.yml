@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2023
+  course: PDP0634A
+  title: 2023 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/16/2023
   course: PDP0891A
   title: CPR/First Aid

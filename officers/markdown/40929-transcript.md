@@ -36,9 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/4/2023 | HSU1153A | RDS Operator Course- New Hire | Instructed | 0.0 | 10.00 |
-| 9/3/2023 | HSU1153A | RDS Operator Course- New Hire | Instructed | 0.0 | 5.00 |
-| 9/2/2023 | HSU1153A | RDS Operator Course- New Hire | Instructed | 0.0 | 5.00 |
+| 9/4/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 10.00 |
+| 9/3/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 5.00 |
+| 9/2/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 5.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/11/2023 | PDP2429A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 4.50 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |

@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2023
+  course: HDA2069A
+  title: Basic Narcotics Investigations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/23/2023
   course: SAG0665A
   title: Simplifying Financial Records Investigations

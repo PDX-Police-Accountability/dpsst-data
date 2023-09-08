@@ -188,7 +188,7 @@
 | 7/20/2016 | F6C08619 | Bloodborne Pathogens 2015 | Passed | 0.0 | 1.00 |
 | 7/20/2016 | 23428 | Active Shooter Update In Service 2015 | Passed | 0.0 | 1.00 |
 | 7/20/2016 | F6C42311 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
-| 7/20/2016 | 02929 | Taser In-service 2015 | Passed | 0.0 | 3.00 |
+| 7/20/2016 | 02929 | Taser In-Service 2015 | Passed | 0.0 | 3.00 |
 | 7/20/2016 | 03835 | Use of Force Directive 2015 | Passed | 0.0 | 1.00 |
 | 5/21/2014 | 14-0964 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/21/2014 | 14-0129 | Firearms Training | Passed | 0.0 | 2.00 |

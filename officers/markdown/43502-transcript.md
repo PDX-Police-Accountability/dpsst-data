@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2023 | PDP0895A | EAP Assisting Individuals in Crisis CISM Trng | Passed | 0.0 | 13.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/6/2023 | PDP3330A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/3/2023 | PDP3545A | CPR/First Aid | Instructed | 0.0 | 1.75 |

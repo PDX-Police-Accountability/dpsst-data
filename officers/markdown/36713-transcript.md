@@ -30,7 +30,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/14/2017 | ALP35647 | CAD Training | Passed | 0.0 | 32.00 |
-| 3/14/2017 | ALP01260 | Flakka- abused substance | Passed | 0.0 | 0.50 |
+| 3/14/2017 | ALP01260 | Flakka - Abused Substance | Passed | 0.0 | 0.50 |
 | 3/2/2017 | ALP01772 | Fleet Maintenance | Passed | 0.0 | 3.00 |
 | 2/6/2017 | ALP42864 | CPR/First Aid (AED included) | Passed | 0.0 | 4.00 |
 | 2/2/2017 | ALP01973 | RMS TTT Training | Passed | 0.0 | 46.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2023 | HDA2069A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2023 | MLP1991A | Active Shooter | Passed | 0.0 | 2.00 |
 | 8/8/2023 | MLP1011A | Active Shooter | Passed | 0.0 | 2.00 |

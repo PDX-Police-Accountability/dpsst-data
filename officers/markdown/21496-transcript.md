@@ -183,7 +183,7 @@
 | 11/28/2017 | F6C40074 | Firearms In-Service | Passed | 0.0 | 5.00 |
 | 11/19/2017 | F6C12701 | IPTM Medical Foundations of Visual Systems Test | Passed | 0.0 | 24.00 |
 | 11/19/2017 | 04145 | IPTM Medical Foundations of Visual Systems | Passed | 0.0 | 24.00 |
-| 11/1/2017 | 31531 | Survival Skills w/ Taser Recertification | Passed | 0.0 | 4.00 |
+| 11/1/2017 | 31531 | Survival Skills w/Taser Recertification | Passed | 0.0 | 4.00 |
 | 9/13/2017 | F6C42060 | DRE Certification Training | Instructed | 0.0 | 16.00 |
 | 6/30/2017 | F6C10811 | Patrol Tactics - "Get Real" Patrol Tactics | Passed | 0.0 | 1.00 |
 | 6/20/2017 | F6C15872 | Advanced Raodside Impaired Driving Enforcement | Instructed | 0.0 | 5.00 |

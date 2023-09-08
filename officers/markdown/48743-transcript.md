@@ -21,13 +21,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/9/2011 | Police Officer | Intermediate | Granted | 5/9/2011 | 8/13/2023 |  |
-| 3/5/2009 | Police Officer | Basic | Granted | 3/5/2009 | 8/13/2023 |  |
+| 8/13/2023 | Police Officer | Basic | Lapsed | 3/5/2009 | 5/13/2028 |  |
+| 8/13/2023 | Police Officer | Intermediate | Lapsed | 5/9/2011 | 5/13/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
 | date | degree | school | major | hours |

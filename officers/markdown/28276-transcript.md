@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2023 | SVP0798A | Firearms - Riffle and Less Lethal Shotgun | Instructed | 0.0 | 4.00 |
+| 8/28/2023 | SVP0510A | Firearms Handun (Training/Qual) | Instructed | 0.0 | 4.00 |
 | 8/16/2023 | SVP0186A | Active Shooter Training With Con Sims | Passed | 0.0 | 2.00 |
 | 8/16/2023 | SVP0186A | Active Shooter Training With Con Sims | Instructed | 0.0 | 2.00 |
 | 7/12/2023 | SVP0222A | MILO Training/Use of Force Decision Making | Instructed | 0.0 | 3.00 |

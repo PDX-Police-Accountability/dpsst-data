@@ -42,6 +42,7 @@
 | 6/2/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/2/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 6/1/2023 | PDP0153A | 2023 Open Mat Control Tactics | Passed | 0.0 | 1.00 |
 | 5/23/2023 | PDP4037 | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 5/22/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 5/20/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

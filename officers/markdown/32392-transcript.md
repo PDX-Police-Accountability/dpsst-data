@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/23/2023 | VND3252 | Search Warrants | Passed | 0.0 | 8.00 |
 | 7/27/2023 | TGP0907A | Path of the Guardian 2023Q2 | Passed | 0.0 | 2.00 |
+| 7/17/2023 | TGP2273A | Cross-Cultural Communication | Passed | 0.0 | 0.50 |
 | 6/15/2023 | TGP0105A | Nike IPR Training | Passed | 0.0 | 1.00 |
 | 5/12/2023 | TGP0181 | Patrol Rifle School | Instructed | 0.0 | 10.00 |
 | 4/20/2023 | TGP2189A | Handgun Training | Passed | 0.0 | 6.00 |

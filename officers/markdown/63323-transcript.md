@@ -32,7 +32,7 @@
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Passed | 0.0 | 3.00 |
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
 | 5/30/2023 | PDP3896A | 2023 FTEP Radar Lidar | Passed | 0.0 | 16.00 |
-| 5/30/2023 | REG2153A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
+| 5/30/2023 | REG2153A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
 | 5/23/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 13.00 |
 | 5/18/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 5/15/2023 | PDP0627 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
@@ -44,7 +44,7 @@
 | 4/14/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/14/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 4/7/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
-| 3/23/2023 | REG24193 | INTOX 8000 | Passed | 0.0 | 6.00 |
+| 3/23/2023 | REG24193 | Intox 8000 | Passed | 0.0 | 6.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
 | 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |

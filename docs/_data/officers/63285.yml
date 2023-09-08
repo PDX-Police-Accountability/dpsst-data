@@ -62,7 +62,7 @@ training_records:
   hours: '16.00'
 - date: 5/30/2023
   course: REG2153A
-  title: RADAR/LIDAR Agency Practical
+  title: Radar/Lidar Agency Practical
   status: Passed
   score: '0.0'
   hours: '16.00'
@@ -134,7 +134,7 @@ training_records:
   hours: '0.25'
 - date: 3/23/2023
   course: REG24193
-  title: INTOX 8000
+  title: Intox 8000
   status: Passed
   score: '0.0'
   hours: '6.00'

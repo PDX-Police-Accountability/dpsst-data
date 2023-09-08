@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/2/2023 | HSU3768A | Defensive Tactics New Hire/ Pre FTEP | Instructed | 0.0 | 5.00 |
+| 8/31/2023 | PDP0895A | EAP Assisting Individuals in Crisis CISM Trng | Passed | 0.0 | 13.00 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/19/2023 | PDP3143A | 2023 CEW Post Basic Course | Instructed | 0.0 | 9.00 |
@@ -41,6 +42,7 @@
 | 6/22/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/5/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 6/1/2023 | PDP0153A | 2023 Open Mat Control Tactics | Instructed | 0.0 | 1.00 |
 | 5/25/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/18/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

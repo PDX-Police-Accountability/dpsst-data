@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/10/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 8/22/2023 | PDP1230A | FTEP HAZMAT WMD Awareness APR Gas Mask Ftng | Passed | 0.0 | 3.00 |
 | 7/14/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/2/2023 | PDP3607A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |

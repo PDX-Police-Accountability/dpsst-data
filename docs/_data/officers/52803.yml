@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/11/2023
+  course: PDP0787A
+  title: Pedestrian Bicycle Crash Investigation Level I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/29/2023
   course: PDP0022A
   title: City of Portland Bloodborne Pathogens

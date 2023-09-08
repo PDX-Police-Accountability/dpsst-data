@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2023
+  course: PDP0212A
+  title: 2023 K-9 (K9) Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -158,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '21.00'
+- date: 4/12/2023
+  course: PDP1535A
+  title: 2023-1 Basic Police K-9 School
+  status: Instructed
+  score: '0.0'
+  hours: '400.00'
 - date: 4/9/2023
   course: PDP1487A
   title: 2023 New Patrol Vehicles

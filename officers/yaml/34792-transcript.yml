@@ -64,7 +64,7 @@ training_records:
   hours: '0.00'
 - date: 8/15/2023
   course: ADP0017A
-  title: ETHOS- Principles of Leadership
+  title: Ethos - Principles of Leadership
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -88,7 +88,7 @@ training_records:
   hours: '2.00'
 - date: 6/16/2023
   course: ADP3920A
-  title: Firearms-Combat Efficiency and Speed
+  title: Firearms - Combat Efficiency and Speed
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -400,7 +400,7 @@ training_records:
   hours: '1.00'
 - date: 4/12/2022
   course: ADP39215
-  title: Cops/Firefighters-How to Help Each Other
+  title: Cops/Firefighters - How to Help Each Other
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -436,19 +436,19 @@ training_records:
   hours: '0.50'
 - date: 3/11/2022
   course: ADP31469
-  title: Firearms Training-Pistol
+  title: Firearms Training - Pistol
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 3/11/2022
   course: ADP41485
-  title: 2022 ETHOS Program-Ethics
+  title: 2022 Ethos Program - Ethics
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 2/25/2022
   course: ADP34231
-  title: Defensive Tactics-PunchDefense/BodyLocks/Takedowns
+  title: DT's - Punch/Defense/Body Locks/Takedowns
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -478,7 +478,7 @@ training_records:
   hours: '1.00'
 - date: 12/13/2021
   course: ADP10370
-  title: TASER 7 User Recertification Course
+  title: Taser 7 User Recertification Course
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -496,7 +496,7 @@ training_records:
   hours: '1.50'
 - date: 11/30/2021
   course: ADP41413
-  title: TASER 7 User Recertification Course (Classroom)
+  title: Taser 7 User Recertification Course (Classroom)
   status: Passed
   score: '0.0'
   hours: '1.50'
@@ -634,7 +634,7 @@ training_records:
   hours: '1.00'
 - date: 7/22/2021
   course: ADP36624
-  title: Firearm Qualifications-Duty, Shotgun, and Off Duty
+  title: Firearm Qualifications - Duty, Shotgun,  Off Duty
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -676,7 +676,7 @@ training_records:
   hours: '1.50'
 - date: 5/14/2021
   course: ADP04059
-  title: Less-Lethal Recertification and scenarios
+  title: Less Lethal Recertification and Scenarios
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -694,13 +694,13 @@ training_records:
   hours: '2.00'
 - date: 3/16/2021
   course: ADP15988
-  title: Use of Force Review-Legal Updates
+  title: Use of Force Review - Legal Updates
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 2/26/2021
   course: ADP16252
-  title: Pistol Training-Night
+  title: Pistol Training - Night
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -1360,7 +1360,7 @@ training_records:
   hours: '4.00'
 - date: 6/1/2017
   course: '16551'
-  title: Oregon Pedestrian Laws- A Legal Perspective
+  title: Oregon Pedestrian Laws - A Legal Perspective
   status: Passed
   score: '0.0'
   hours: '0.75'

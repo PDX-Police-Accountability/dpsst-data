@@ -123,6 +123,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/29/2023
+  course: SVP0798A
+  title: Firearms - Riffle and Less Lethal Shotgun
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/28/2023
+  course: SVP0510A
+  title: Firearms Handun (Training/Qual)
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/16/2023
   course: SVP0186A
   title: Active Shooter Training With Con Sims

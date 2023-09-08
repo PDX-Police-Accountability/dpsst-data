@@ -39,11 +39,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 8/15/2023 | ADP0017A | ETHOS- Principles of Leadership | Passed | 0.0 | 3.00 |
+| 8/15/2023 | ADP0017A | Ethos - Principles of Leadership | Passed | 0.0 | 3.00 |
 | 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Instructed | 0.0 | 8.00 |
 | 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Passed | 0.0 | 4.00 |
 | 6/25/2023 | TAP4484A | Airways Training Patient Eval for LE | Passed | 0.0 | 2.00 |
-| 6/16/2023 | ADP3920A | Firearms-Combat Efficiency and Speed | Passed | 0.0 | 4.00 |
+| 6/16/2023 | ADP3920A | Firearms - Combat Efficiency and Speed | Passed | 0.0 | 4.00 |
 | 6/8/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 5/18/2023 | TAP0830A | RADAR Operator Course | Instructed | 0.0 | 6.00 |
 | 5/18/2023 | TAP1681A | LIDAR Operator Course | Instructed | 0.0 | 2.00 |
@@ -95,23 +95,23 @@
 | 8/1/2022 | TAP27190 | 3 Ways to Fight the #1 Killer of First Responders | Passed | 0.0 | 1.25 |
 | 6/11/2022 | TAP36128 | EnteringtheDangerZoneDogsHotCarsHowtoHelp | Passed | 0.0 | 1.00 |
 | 4/12/2022 | ADP30708 | Crime Scene Investigation | Passed | 0.0 | 1.00 |
-| 4/12/2022 | ADP39215 | Cops/Firefighters-How to Help Each Other | Passed | 0.0 | 1.00 |
+| 4/12/2022 | ADP39215 | Cops/Firefighters - How to Help Each Other | Passed | 0.0 | 1.00 |
 | 4/8/2022 | ADP37728 | Less Lethal Shotgun and Ballistic Shield Refresher | Passed | 0.0 | 3.00 |
 | 4/7/2022 | TAP04560 | Life's Advice - Joe Rogan podcast-youtube video | Passed | 0.0 | 1.50 |
 | 3/21/2022 | TAP32552 | Developing a Culture of Accountability | Passed | 0.0 | 1.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/17/2022 | TAP42193 | AED Refresher | Passed | 0.0 | 0.50 |
-| 3/11/2022 | ADP31469 | Firearms Training-Pistol | Passed | 0.0 | 4.00 |
-| 3/11/2022 | ADP41485 | 2022 ETHOS Program-Ethics | Passed | 0.0 | 3.00 |
-| 2/25/2022 | ADP34231 | Defensive Tactics-PunchDefense/BodyLocks/Takedowns | Passed | 0.0 | 4.00 |
+| 3/11/2022 | ADP31469 | Firearms Training - Pistol | Passed | 0.0 | 4.00 |
+| 3/11/2022 | ADP41485 | 2022 Ethos Program - Ethics | Passed | 0.0 | 3.00 |
+| 2/25/2022 | ADP34231 | DT's - Punch/Defense/Body Locks/Takedowns | Passed | 0.0 | 4.00 |
 | 2/15/2022 | TAP00456 | Impriving Police Decision Making Under Stress | Passed | 0.0 | 1.25 |
 | 1/13/2022 | REG21173 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |
 | 12/22/2021 | TAP36680 | Leading in Times of Chaos and Adversity | Passed | 0.0 | 3.00 |
 | 12/20/2021 | TAP37246 | Tctical Medical Care Evolution Officer Down Trng | Passed | 0.0 | 1.00 |
-| 12/13/2021 | ADP10370 | TASER 7 User Recertification Course | Passed | 0.0 | 1.00 |
+| 12/13/2021 | ADP10370 | Taser 7 User Recertification Course | Passed | 0.0 | 1.00 |
 | 12/8/2021 | TAP18183 | Naoloxone Training Protocol / Training Videos | Passed | 0.0 | 1.00 |
 | 12/8/2021 | TAP07502 | TASER CEW Annual Recertification | Passed | 0.0 | 1.50 |
-| 11/30/2021 | ADP41413 | TASER 7 User Recertification Course (Classroom) | Passed | 0.0 | 1.50 |
+| 11/30/2021 | ADP41413 | Taser 7 User Recertification Course (Classroom) | Passed | 0.0 | 1.50 |
 | 11/16/2021 | ADP00567 | Defensive Tactics | Passed | 0.0 | 1.50 |
 | 11/10/2021 | TAP01204 | AVISTA EmergRspndrs Nat Gas and Elect Emrgncy | Passed | 0.0 | 1.00 |
 | 10/29/2021 | ADP22890 | Vehicle CQB | Passed | 0.0 | 1.50 |
@@ -134,18 +134,18 @@
 | 8/4/2021 | TAP23423 | ETHOS Adaptive Ethics Program | Passed | 0.0 | 6.00 |
 | 7/28/2021 | MFS24800 | SFST DUII Refresher | Passed | 0.0 | 4.00 |
 | 7/22/2021 | ADP12587 | Firearm Quals-Rifle, Shotgun, Duty/Off Duty | Passed | 0.0 | 1.00 |
-| 7/22/2021 | ADP36624 | Firearm Qualifications-Duty, Shotgun, and Off Duty | Passed | 0.0 | 1.00 |
+| 7/22/2021 | ADP36624 | Firearm Qualifications - Duty, Shotgun,  Off Duty | Passed | 0.0 | 1.00 |
 | 7/16/2021 | TAP18220 | Community Policing Training Online | Passed | 0.0 | 8.00 |
 | 7/16/2021 | TAP14609 | Excited Delirium Signs and Preparation | Passed | 0.0 | 0.50 |
 | 7/7/2021 | TAP32510 | Verbal and Non Verbal Communication | Passed | 0.0 | 1.50 |
 | 7/2/2021 | TAP34485 | Conflict Mngmt De-Escalation and Non Escalation | Passed | 0.0 | 1.50 |
 | 6/30/2021 | TAP39355 | LEXIPOL DTBs January-June 2021 | Passed | 0.0 | 6.00 |
 | 6/17/2021 | TAP26983 | Talking and Listening Why Be "Nice?" | Passed | 0.0 | 1.50 |
-| 5/14/2021 | ADP04059 | Less-Lethal Recertification and scenarios | Passed | 0.0 | 1.00 |
+| 5/14/2021 | ADP04059 | Less Lethal Recertification and Scenarios | Passed | 0.0 | 1.00 |
 | 5/11/2021 | F6D02123 | Vehicle Close Quarter Combat | Passed | 0.0 | 2.00 |
 | 4/8/2021 | F6D08944 | Firearms Rifle Training | Passed | 0.0 | 2.00 |
-| 3/16/2021 | ADP15988 | Use of Force Review-Legal Updates | Passed | 0.0 | 1.00 |
-| 2/26/2021 | ADP16252 | Pistol Training-Night | Passed | 0.0 | 1.00 |
+| 3/16/2021 | ADP15988 | Use of Force Review - Legal Updates | Passed | 0.0 | 1.00 |
+| 2/26/2021 | ADP16252 | Pistol Training - Night | Passed | 0.0 | 1.00 |
 | 2/25/2021 | F6D34939 | Opioid Crisis: Protecting our First Responder. | Passed | 0.0 | 1.00 |
 | 2/25/2021 | F6D16797 | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 2/17/2021 | F6D16264 | Oregon STOP Program: January 2021 Update | Passed | 0.0 | 1.00 |
@@ -255,7 +255,7 @@
 | 7/10/2017 | ADP16439 | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 6/15/2017 | F6A08418 | EVO Instructor  Vehicle Technology Conference | Passed | 0.0 | 8.00 |
 | 6/14/2017 | F6A09061 | Use of Force Refresher | Passed | 0.0 | 4.00 |
-| 6/1/2017 | 16551 | Oregon Pedestrian Laws- A Legal Perspective | Passed | 0.0 | 0.75 |
+| 6/1/2017 | 16551 | Oregon Pedestrian Laws - A Legal Perspective | Passed | 0.0 | 0.75 |
 | 5/5/2017 | F6A04982 | Winning the Battle | Passed | 0.0 | 8.00 |
 | 5/3/2017 | F6C18083 | Firearms Qualifications | Passed | 0.0 | 2.50 |
 | 5/3/2017 | F6C06529 | Less Lethal-Bean Bag | Passed | 0.0 | 0.50 |

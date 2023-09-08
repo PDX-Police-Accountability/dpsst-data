@@ -92,6 +92,12 @@ certification_records:
   expiration_date: 8/3/2026
   probation_date: ''
 training_records:
+- date: 8/31/2023
+  course: PDP0895A
+  title: EAP Assisting Individuals in Crisis CISM Trng
+  status: Passed
+  score: '0.0'
+  hours: '13.00'
 - date: 7/7/2021
   course: PDP19393
   title: 2021 Language Access-Translation  Interpretation

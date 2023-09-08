@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2023 | PDP0394A | Law Enforcement Training Center | Passed | 0.0 | 40.00 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/7/2023 | PDP3940A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |

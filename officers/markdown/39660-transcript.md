@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2023 | PDP0212A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/29/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/22/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

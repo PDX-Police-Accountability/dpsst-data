@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/17/2023
+  course: TGP2273A
+  title: Cross-Cultural Communication
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/14/2023
   course: TGP0194A
   title: Legally Justified but Was It Avoidable?

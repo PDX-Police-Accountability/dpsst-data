@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2023 | PDP0212A | 2023 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/26/2023 | PDP3402A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 6/28/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
@@ -53,6 +54,7 @@
 | 5/3/2023 | PDP1232A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 4/19/2023 | GSP30972 | 2023 OPCA Spring Conference - Patrol | Passed | 0.0 | 24.00 |
 | 4/19/2023 | PDP0894A | 2023 Oregon Police Canine Association Spring | Passed | 0.0 | 21.00 |
+| 4/12/2023 | PDP1535A | 2023-1 Basic Police K-9 School | Instructed | 0.0 | 400.00 |
 | 4/9/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

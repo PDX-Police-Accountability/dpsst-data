@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/23/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/22/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 6/1/2023 | PDP0153A | 2023 Open Mat Control Tactics | Passed | 0.0 | 1.00 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/24/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

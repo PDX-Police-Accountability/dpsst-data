@@ -229,7 +229,7 @@
 | 2/4/2018 | F6B28252 | Use of Force | Passed | 0.0 | 2.00 |
 | 1/15/2018 | F6B21628 | DPSST Updates | Passed | 0.0 | 0.50 |
 | 12/18/2017 | 05528 | Fall Defensive Tactics-AIT | Passed | 0.0 | 3.50 |
-| 12/18/2017 | 30908 | Fall ConSim-AIT | Passed | 0.0 | 3.50 |
+| 12/18/2017 | 30908 | Fall ConSim - AIT | Passed | 0.0 | 3.50 |
 | 12/18/2017 | F6B09008 | CPR-First Aid-AED | Passed | 0.0 | 2.00 |
 | 11/10/2017 | 17-0001 | DPSST Basic Corrections | Passed | 0.0 | 240.00 |
 | 8/15/2017 | HBS11141 | PSWEB | Passed | 0.0 | 2.00 |

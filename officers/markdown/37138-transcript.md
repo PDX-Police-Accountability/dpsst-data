@@ -563,7 +563,7 @@
 | 7/31/2016 | 05520 | Rifle Qualification | Passed | 0.0 | 0.50 |
 | 7/31/2016 | 04236 | Shotgun Qualification | Passed | 0.0 | 0.50 |
 | 7/27/2016 | 21669 | Firearms Instructor Course 2016 Inservice Armorer | Passed | 0.0 | 10.00 |
-| 7/20/2016 | 02929 | Taser In-service 2015 | Instructed | 0.0 | 3.00 |
+| 7/20/2016 | 02929 | Taser In-Service 2015 | Instructed | 0.0 | 3.00 |
 | 6/30/2016 | F6C41253 | AR15 Instructor In-Service | Passed | 0.0 | 10.00 |
 | 6/20/2016 | F6C09150 | Taser X2 Certification - New Hires | Instructed | 0.0 | 10.00 |
 | 5/4/2016 | F6C07831 | Taser In-Service 2015 | Passed | 0.0 | 1.50 |
