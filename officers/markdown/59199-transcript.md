@@ -27,10 +27,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/25/2023 | 7/25/2025 |
 | Code of Ethics | Law Enforcement Signed | 7/6/2023 |  |
 | Certification Cards | First Aid and CPR | 2/16/2023 | 2/16/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 4/24/2019 |  |
@@ -41,7 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/28/2023 | EGP1699A | Ethos Academy - Ethics Module 2 | Passed | 0.0 | 1.00 |
+| 8/24/2023 | EGP1252A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |
 | 8/22/2023 | EGP1184A | Taser Certification | Passed | 0.0 | 8.00 |
 | 8/10/2023 | EGP2347A | Pre-Academy: Mobile Video | Passed | 0.0 | 4.00 |
 | 8/9/2023 | EGP0808A | Pre-Academy: Municipal Court | Passed | 0.0 | 4.00 |

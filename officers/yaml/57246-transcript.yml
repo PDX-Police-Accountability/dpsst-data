@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/25/2023
+  course: HBN1249A
+  title: Defensive Tactics/Use of Force/Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/22/2023
   course: HBN1266A
   title: Maint a discrimination, retaliation free workplace

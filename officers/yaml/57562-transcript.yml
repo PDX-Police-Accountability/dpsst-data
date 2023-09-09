@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 8/30/2023
+  course: HBN2550A
+  title: APPA Training Institute
+  status: Passed
+  score: '0.0'
+  hours: '17.25'
 - date: 8/17/2023
   course: OCP0486A
   title: Use of Force

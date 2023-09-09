@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/22/2023
+  course: HBN1249A
+  title: Defensive Tactics/Use of Force/Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/1/2023
   course: HBN2220A
   title: Hillsboro PD Crisis Intervention Team Presentation

@@ -35,6 +35,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/15/2009 | Masters Public Administrator | Portland State University | Public Administration | 54.0 |
 | 6/14/2003 | Bachelor Science | Portland State University |  | 185.0 |
 ## Training
 | date | course | title | status | score | hours |

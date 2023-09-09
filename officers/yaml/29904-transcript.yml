@@ -48,18 +48,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 12/30/2023
-  course: PDS01115
-  title: Taser
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 12/26/2023
-  course: PDS30531
-  title: Mind Set
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 6/22/2023
   course: PDS1095A
   title: Law Enforcement Command Training
@@ -168,6 +156,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/30/2022
+  course: PDS01115
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/29/2022
   course: PDS26680
   title: Command Training
@@ -210,6 +204,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/26/2022
+  course: PDS30531
+  title: Mind Set
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/20/2022
   course: PDS00055
   title: Ethicd  IAU

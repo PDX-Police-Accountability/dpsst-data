@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/23/2023 | PDN4025A | Field Applications-Officer Self Care | Passed | 0.0 | 1.00 |
 | 8/16/2023 | PDN0406A | Intro to Communication Technology | Passed | 0.0 | 4.00 |
+| 8/2/2023 | PDN3944A | Case Management: LS/CMI Refresher | Passed | 0.0 | 1.00 |
 | 7/19/2023 | PDN3340A | Developing Relationships with LE Partners | Passed | 0.0 | 1.00 |
 | 7/17/2023 | PDN2456A | Case Management: What Works? | Passed | 0.0 | 1.00 |
 | 7/14/2023 | PDN0407A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |

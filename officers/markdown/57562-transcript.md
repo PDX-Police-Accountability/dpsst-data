@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/30/2023 | HBN2550A | APPA Training Institute | Passed | 0.0 | 17.25 |
 | 8/17/2023 | OCP0486A | Use of Force | Passed | 0.0 | 2.00 |
 | 8/17/2023 | OCP0486A | Use of Force | Instructed | 0.0 | 8.00 |
 | 7/25/2023 | OSH1996A | ARIDE | Passed | 0.0 | 16.00 |

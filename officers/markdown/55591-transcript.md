@@ -4,7 +4,7 @@
 | name | Buxman, Ian M. |
 | dpsst_identifier | 55591 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/1/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/26/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/21/2018 | DOC/Coffee Creek Correctional Facility | Resigned | Corr Offcr |  |  |
 | 10/1/2015 | DOC/Coffee Creek Correctional Facility | Hired | Corr Offcr |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/20/2019 | Police Officer | Basic | Granted | 8/20/2019 |  |  |
-| 10/21/2018 | Corrections Officer | Basic | Lapsed | 9/28/2016 |  |  |
+| 7/21/2023 | Corrections Officer | Basic | Expired | 9/28/2016 |  |  |
+| 8/20/2019 | Police Officer | Basic | Granted | 8/20/2019 | 12/1/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

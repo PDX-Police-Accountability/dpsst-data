@@ -34,8 +34,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/30/2023 | PDS01115 | Taser | Passed | 0.0 | 8.00 |
-| 12/26/2023 | PDS30531 | Mind Set | Passed | 0.0 | 4.00 |
 | 6/22/2023 | PDS1095A | Law Enforcement Command Training | Passed | 0.0 | 1.50 |
 | 6/7/2023 | PDS1199A | Leadership Team Training | Passed | 0.0 | 2.50 |
 | 6/6/2023 | PDS3355A | Yoga for First Responders | Passed | 0.0 | 1.00 |
@@ -54,6 +52,7 @@
 | 1/9/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/2/2023 | PDS09395 | Crisis Communications | Passed | 0.0 | 8.00 |
 | 12/30/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/30/2022 | PDS01115 | Taser | Passed | 0.0 | 8.00 |
 | 12/29/2022 | PDS26680 | Command Training | Passed | 0.0 | 1.50 |
 | 12/28/2022 | PDS42655 | Airway  Circulatory Crisis Training  Response | Passed | 0.0 | 2.00 |
 | 12/28/2022 | PDS06206 | Civil Process | Passed | 0.0 | 1.00 |
@@ -61,6 +60,7 @@
 | 12/28/2022 | PDS33479 | Homeless Outreach and Programs Engagement | Passed | 0.0 | 1.00 |
 | 12/28/2022 | PDS14382 | Policy Access | Passed | 0.0 | 0.50 |
 | 12/28/2022 | PDS20357 | NARCAN | Passed | 0.0 | 0.50 |
+| 12/26/2022 | PDS30531 | Mind Set | Passed | 0.0 | 4.00 |
 | 12/20/2022 | PDS00055 | Ethicd  IAU | Passed | 0.0 | 2.00 |
 | 12/20/2022 | PDS10749 | PREA | Passed | 0.0 | 2.00 |
 | 11/29/2022 | PDP30452 | 2022-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |

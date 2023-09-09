@@ -3,26 +3,25 @@ header_record:
   name: Salazar-Kachel, David A.
   dpsst_identifier: '62451'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/31/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/20/2022
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 1/20/2022
-  certificate: Police Officer
-  level: Basic
-  status: ReqCertExt
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 7/20/2024
+certification_records: []
 training_records:
 - date: 8/10/2023
   course: PDP1584A

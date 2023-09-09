@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 8/22/2023
+  course: HBS3892A
+  title: Advanced Leadership for a Police Reform Era
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/16/2023
   course: HBS1605A
   title: Active Threat
