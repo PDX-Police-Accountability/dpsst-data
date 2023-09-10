@@ -29,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/2/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 8/17/2023 | F6R1759A | Intox 8000 | Passed | 0.0 | 6.00 |
+| 8/17/2023 | REG3523A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 6/12/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 6/7/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 18.00 |
 | 6/6/2023 | PDP3434 | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |

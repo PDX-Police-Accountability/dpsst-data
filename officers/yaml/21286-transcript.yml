@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/7/2023
+  course: BBP4333A
+  title: Taser 10 Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/10/2023
   course: REG0835A
   title: EVO Skills Update

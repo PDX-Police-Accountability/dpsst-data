@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/13/2023
+  course: MNS3648A
+  title: Use of Force Tools and Tactics Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/18/2023
   course: MNS1075A
   title: Axon BWC Refresher

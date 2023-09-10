@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2023 | BBP4333A | Taser 10 Instructor Training | Passed | 0.0 | 6.00 |
 | 8/10/2023 | REG0835A | EVO Skills Update | Passed | 0.0 | 4.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/31/2023 | BBP03226 | Firearms Qualification | Passed | 0.0 | 1.00 |

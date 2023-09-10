@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: TGP1328A
+  title: Citizens w/Special Needs, Mental Illness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/27/2023
   course: TGP0907A
   title: Path of the Guardian 2023Q2

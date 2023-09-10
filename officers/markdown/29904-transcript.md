@@ -24,9 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/4/2023 | 9/4/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/24/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/4/2023 | PDS3184A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 6/22/2023 | PDS1095A | Law Enforcement Command Training | Passed | 0.0 | 1.50 |
 | 6/7/2023 | PDS1199A | Leadership Team Training | Passed | 0.0 | 2.50 |
 | 6/6/2023 | PDS3355A | Yoga for First Responders | Passed | 0.0 | 1.00 |

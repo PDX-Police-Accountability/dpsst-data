@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: PDN2884A
+  title: Confrontational Simulation-Off Duty Encounters
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/23/2023
   course: PDN4025A
   title: Field Applications-Officer Self Care
@@ -88,6 +94,12 @@ training_records:
 - date: 7/14/2023
   course: PDN0407A
   title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/26/2023
+  course: PDN1181A
+  title: Field Applications - Building Partnerships w LE
   status: Passed
   score: '0.0'
   hours: '1.00'
