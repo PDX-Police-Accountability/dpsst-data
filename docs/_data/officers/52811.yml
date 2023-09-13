@@ -105,6 +105,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/18/2023
+  course: PDS0928A
+  title: AR15 Armorers Course
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 7/12/2023
+  course: PDS1284A
+  title: Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/19/2023
   course: PDS1979A
   title: SWAT Sniper Training

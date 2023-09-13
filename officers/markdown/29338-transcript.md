@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/1/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |
+| 7/19/2023 | PDS2381A | Less Lethal Kinetic Impact Training | Passed | 0.0 | 4.00 |
 | 4/30/2023 | PDS09818 | Peer Support | Passed | 0.0 | 1.00 |
 | 4/30/2023 | PDS35906 | Yoga for First Responders | Passed | 0.0 | 1.00 |
 | 4/30/2023 | PDS0772A | NAMI Training | Passed | 0.0 | 2.00 |

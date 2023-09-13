@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2023 | OCP0393A | Firearms/Use of Force |  | 0.0 | 4.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 6/21/2023 | LOP0868A | West Metro Monthly Motor Training 06/21/2023 | Passed | 0.0 | 5.00 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |

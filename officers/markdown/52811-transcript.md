@@ -46,6 +46,8 @@
 | 7/20/2023 | PDS2575A | Search Warrant Contingencies | Passed | 0.0 | 8.00 |
 | 7/19/2023 | PDS1815A | SWAT Range | Passed | 0.0 | 8.00 |
 | 7/18/2023 | OCS1956A | AR-15 Armorer | Passed | 0.0 | 16.00 |
+| 7/18/2023 | PDS0928A | AR15 Armorers Course | Passed | 0.0 | 16.00 |
+| 7/12/2023 | PDS1284A | Leadership Training | Passed | 0.0 | 3.00 |
 | 5/19/2023 | PDS1979A | SWAT Sniper Training | Passed | 0.0 | 8.00 |
 | 5/18/2023 | PDS2430A | SWAT Practical | Passed | 0.0 | 8.00 |
 | 5/17/2023 | PDS2742A | SWAT Range | Passed | 0.0 | 8.00 |

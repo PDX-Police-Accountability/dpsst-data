@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/7/2023
+  course: OCP0393A
+  title: Firearms/Use of Force
+  status: ''
+  score: '0.0'
+  hours: '4.00'
 - date: 6/29/2023
   course: OCP0271A
   title: Firearms/Use of Force

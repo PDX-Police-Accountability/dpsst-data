@@ -90,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/12/2023
+  course: PDP1912A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

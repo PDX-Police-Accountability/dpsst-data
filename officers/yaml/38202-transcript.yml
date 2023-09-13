@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2023
+  course: PDS1284A
+  title: Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/7/2023
   course: PDS2571A
   title: Active Threat

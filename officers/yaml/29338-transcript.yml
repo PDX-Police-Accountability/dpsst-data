@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 7/19/2023
+  course: PDS2381A
+  title: Less Lethal Kinetic Impact Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/30/2023
   course: PDS09818
   title: Peer Support

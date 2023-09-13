@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 8/10/2023
+  course: PDP1912A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/3/2023
   course: PDP1304A
   title: 2023 FTEP Pre-DPSST Firearms 080323
@@ -84,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/16/2017
+  course: PDP1912A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

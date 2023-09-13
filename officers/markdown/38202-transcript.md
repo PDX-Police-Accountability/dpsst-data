@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2023 | PDS1284A | Leadership Training | Passed | 0.0 | 3.00 |
 | 7/7/2023 | PDS2571A | Active Threat | Passed | 0.0 | 10.00 |
 | 6/23/2023 | PDS4065A | Intoxilyzer 8000 Course | Passed | 0.0 | 4.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |

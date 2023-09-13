@@ -33,6 +33,7 @@
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
 | 8/7/2023 | PDP3940A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
+| 8/3/2023 | PDP1912A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 8/1/2023 | PDP3384A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
