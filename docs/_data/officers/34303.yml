@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: HBP1232A
+  title: Tactical Trauma Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/26/2023
   course: HBP1923A
   title: K9 Custody, POST PIT, High Risk Traffic Stops

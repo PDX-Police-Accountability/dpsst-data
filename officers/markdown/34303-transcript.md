@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |
 | 7/26/2023 | HBP1923A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
 | 7/19/2023 | HBP0331A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
 | 7/12/2023 | HBP3924A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |

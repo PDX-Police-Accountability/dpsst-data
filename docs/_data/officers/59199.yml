@@ -73,6 +73,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/7/2023
+  course: EGP0629A
+  title: 'Pre-Academy: Defensive Tactics'
+  status: Passed
+  score: '0.0'
+  hours: '91.00'
 - date: 8/28/2023
   course: EGP1699A
   title: Ethos Academy - Ethics Module 2

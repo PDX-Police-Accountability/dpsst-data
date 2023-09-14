@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: HSU2922A
+  title: Critical Incidents Response
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/6/2023
   course: HSU2592A
   title: Red Dot Sight Operator Course

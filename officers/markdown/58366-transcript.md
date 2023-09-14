@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 8/29/2023 | OSH2699A | 2023 OSP Regional EVOC | Passed | 0.0 | 4.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/2/2023 | OSH27011 | OIS Investigations - Lane County IDFIT Training | Passed | 0.0 | 4.00 |
 | 11/18/2022 | BSP04855 | Death Investigation | Passed | 0.0 | 4.00 |

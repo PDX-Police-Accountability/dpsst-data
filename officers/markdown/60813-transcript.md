@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/2/2023 | OSH3154A | OSP 2023 Regional EVOC | Passed | 0.0 | 4.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/14/2023 | OSH44693 | Intoxilyzer 8000 | Passed | 0.0 | 6.00 |
 | 4/14/2023 | OSH11826 | Academy SFST | Passed | 0.0 | 4.00 |

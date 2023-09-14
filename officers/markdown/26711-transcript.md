@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |
 | 6/14/2023 | HBP0382 | FEMA 2023 earhtquake event | Passed | 0.0 | 5.00 |
 | 3/15/2023 | HBP38729 | Respectful Workplace - Sprvsr Course (Equity) | Passed | 0.0 | 1.25 |
 | 3/15/2023 | HBP07262 | Respectful Workplace - Sprvsr Course (Leadership) | Passed | 0.0 | 0.75 |

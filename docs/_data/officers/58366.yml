@@ -48,6 +48,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 8/29/2023
+  course: OSH2699A
+  title: 2023 OSP Regional EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

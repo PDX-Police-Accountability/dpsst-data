@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/6/2023
+  course: TGP0924A
+  title: Bias and Bigotry Crimes, Procedural Justice
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/27/2023
   course: TGP0907A
   title: Path of the Guardian 2023Q2

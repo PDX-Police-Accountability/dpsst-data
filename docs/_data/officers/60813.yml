@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/2/2023
+  course: OSH3154A
+  title: OSP 2023 Regional EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

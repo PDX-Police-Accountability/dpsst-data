@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2023 | HSU4086A | Sex Assault Investigations | Instructed | 0.0 | 3.00 |
+| 9/6/2023 | HSU3426A | Report Writing | Instructed | 0.0 | 3.00 |
 | 4/17/2023 | HSU02975 | Chief's Message | Passed | 0.0 | 2.00 |
 | 4/17/2023 | HSU30108 | Perspectives of Social Work | Passed | 0.0 | 3.00 |
 | 4/17/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |

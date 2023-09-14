@@ -1641,4 +1641,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/4/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/3/2019
+  degree: Bachelor Arts
+  school: George Fox University
+  major: Psychology
+  hours: '126.0'

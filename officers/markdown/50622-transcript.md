@@ -40,7 +40,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
-| 9/7/2023 | OCP0393A | Firearms/Use of Force |  | 0.0 | 4.00 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 6/28/2023 | OCP4427A | Older Adults and Aging | Passed | 0.0 | 0.75 |

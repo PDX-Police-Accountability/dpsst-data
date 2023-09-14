@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2023 | BPT0921A | Outward Mindset | Passed | 0.0 | 8.00 |
 | 1/3/2022 | BPT10258 | Skills Coaching Workshop (Virtual) | Passed | 0.0 | 1.00 |
 | 1/3/2022 | BPT03272 | Adult Learning Core (Virtual) | Passed | 0.0 | 2.00 |
 | 1/6/2021 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |

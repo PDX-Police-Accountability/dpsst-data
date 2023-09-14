@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/6/2023 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
+| 9/6/2023 | TGP0924A | Bias and Bigotry Crimes, Procedural Justice | Passed | 0.0 | 3.00 |
 | 7/27/2023 | TGP0907A | Path of the Guardian 2023Q2 | Passed | 0.0 | 2.00 |
 | 7/17/2023 | TGP2273A | Cross-Cultural Communication | Passed | 0.0 | 0.50 |
 | 6/14/2023 | TGP0194A | Legally Justified but Was It Avoidable? | Passed | 0.0 | 1.50 |
