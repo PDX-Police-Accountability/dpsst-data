@@ -33,9 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/1/2023 | OCS3320A | Shoot/No Shoot targets, Marksmanship | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
-| 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
@@ -50,14 +50,14 @@
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/23/2022 | OCS26095 | Use of Force Update | Passed | 0.0 | 1.00 |
-| 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
+| 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS37740 | Taser Refresher Course | Passed | 0.0 | 1.00 |
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |
 | 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 9/12/2022 | OCS18613 | Low Light, One hand shooting use of cover | Passed | 0.0 | 1.00 |
+| 9/12/2022 | OCS18613 | Low Light/One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 7/20/2022 | OCS05500 | One Hand Shooting/Marksmanship | Passed | 0.0 | 1.00 |
@@ -66,18 +66,18 @@
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/20/2022 | OCS41203 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 5/27/2022 | OCS39091 | Ground Fighting | Passed | 0.0 | 1.00 |
-| 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
-| 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
+| 5/19/2022 | OCS27163 | Ethos Training | Passed | 0.0 | 1.00 |
+| 5/19/2022 | OCS06518 | Ethos Training | Passed | 0.0 | 2.00 |
 | 5/4/2022 | F6R00500 | EVOC and PIT | Passed | 0.0 | 0.50 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
 | 4/12/2022 | OCS22537 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
-| 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
+| 3/30/2022 | OCS17075 | Marksmanship/One Hand Shooting/Movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
-| 2/23/2022 | OCS00276 | New hire Patrol Tactics | Passed | 0.0 | 40.00 |
+| 2/23/2022 | OCS00276 | New Hire Patrol Tactics | Passed | 0.0 | 40.00 |
 | 2/7/2022 | OCS00182 | New Hire Defensive Tactics | Passed | 0.0 | 40.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |

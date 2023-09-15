@@ -210,7 +210,7 @@
 | 6/7/2019 | PDP14360 | PSD Directive 630.61, Stolen Vehicles | Passed | 0.0 | 0.25 |
 | 5/30/2019 | PDP23666 | CPR/First Aid | Passed | 0.0 | 1.50 |
 | 5/17/2019 | 19-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
-| 5/17/2019 | OCS12063 | Metro Sgts Academy | Passed | 0.0 | 80.00 |
+| 5/17/2019 | OCS12063 | Metro Sergeants Academy | Passed | 0.0 | 80.00 |
 | 5/13/2019 | PDP40036 | 2019 Training Choke and Carotid Awareness Video | Passed | 0.0 | 0.25 |
 | 5/13/2019 | PDP17498 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 5/13/2019 | PDP21682 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |

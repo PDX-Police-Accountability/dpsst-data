@@ -375,7 +375,7 @@
 | 5/26/2019 | PDP02716 | 2019-1 PSD Force Inspector Updates Q1-SupsCommand | Passed | 0.0 | 0.25 |
 | 5/26/2019 | PDP22335 | 2019-1 PSD Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 5/26/2019 | PDP27572 | 2019-7 TipsTech CAD Study Codes to Track Pursuits | Passed | 0.0 | 0.25 |
-| 5/17/2019 | OCS12063 | Metro Sgts Academy | Passed | 0.0 | 80.00 |
+| 5/17/2019 | OCS12063 | Metro Sergeants Academy | Passed | 0.0 | 80.00 |
 | 5/10/2019 | PDP40036 | 2019 Training Choke and Carotid Awareness Video | Passed | 0.0 | 0.25 |
 | 5/10/2019 | PDP30979 | 2019-6 Tips and Techniques Training Roster | Passed | 0.0 | 0.25 |
 | 5/6/2019 | PDP17498 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |

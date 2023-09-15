@@ -303,7 +303,7 @@
 | 3/12/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 3/12/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/12/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
-| 2/14/2020 | OCS16136 | CIT day 5 | Passed | 0.0 | 8.00 |
+| 2/14/2020 | OCS16136 | CIT Day 5 | Passed | 0.0 | 8.00 |
 | 2/14/2020 | PDP08128 | Hire to Retire: Increasing Resilience in Police | Passed | 0.0 | 8.00 |
 | 2/13/2020 | PDP18400 | Undefined | Passed | 0.0 | 0.25 |
 | 2/13/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |

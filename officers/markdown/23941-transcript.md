@@ -72,7 +72,7 @@
 | 3/11/2020 | PDP09893 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |
 | 3/11/2020 | PDP43925 | 2020-1 CHO Force Inspector Updates for Q1 | Passed | 0.0 | 0.25 |
 | 3/11/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
-| 2/14/2020 | OCS16136 | CIT day 5 | Passed | 0.0 | 8.00 |
+| 2/14/2020 | OCS16136 | CIT Day 5 | Passed | 0.0 | 8.00 |
 | 2/13/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
 | 2/11/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/16/2020 | BPT02948 | Basic Instructor Development Course | Passed | 0.0 | 24.00 |

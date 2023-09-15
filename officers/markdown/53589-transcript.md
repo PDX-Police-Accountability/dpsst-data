@@ -41,8 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/9/2023 | OCS4251 | Less Lethal- Impact Munitions Cert | Passed | 0.0 | 1.50 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
-| 6/1/2023 | OCS3320A | Shoot/No Shoot targets, Marksmanship | Passed | 0.0 | 1.00 |
-| 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
+| 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
@@ -54,17 +54,17 @@
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
-| 1/18/2023 | OCS07031 | DUII- SFST Refresher | Passed | 0.0 | 4.00 |
+| 1/18/2023 | OCS07031 | DUII - SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/23/2022 | OCS26095 | Use of Force Update | Passed | 0.0 | 1.00 |
-| 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
+| 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS37740 | Taser Refresher Course | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 10/14/2022 | OCS04425 | Interferring with a Peace Officer Statue update | Passed | 0.0 | 0.75 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 9/12/2022 | OCS18613 | Low Light, One hand shooting use of cover | Passed | 0.0 | 1.00 |
+| 9/12/2022 | OCS18613 | Low Light/One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS20366 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
@@ -74,26 +74,26 @@
 | 6/20/2022 | OCS41203 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 5/30/2022 | OCS17591 | Spring Patrol Rifle | Passed | 0.0 | 4.00 |
 | 5/27/2022 | OCS39091 | Ground Fighting | Passed | 0.0 | 1.00 |
-| 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
-| 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
+| 5/19/2022 | OCS27163 | Ethos Training | Passed | 0.0 | 1.00 |
+| 5/19/2022 | OCS06518 | Ethos Training | Passed | 0.0 | 2.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Passed | 0.0 | 32.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
-| 4/15/2022 | OCS02039 | Axon bodycam training | Passed | 0.0 | 2.00 |
-| 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
+| 4/15/2022 | OCS02039 | Axon Bodycam Training | Passed | 0.0 | 2.00 |
+| 3/30/2022 | OCS17075 | Marksmanship/One Hand Shooting/Movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS16578 | Striking and Weapon Retention | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
-| 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
+| 1/20/2022 | OCS34045 | Use of Force Decision Making/Problem Solving | Passed | 0.0 | 1.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
 | 12/30/2021 | OCS33256 | Taser 7 | Passed | 0.0 | 1.00 |
 | 12/21/2021 | OCS25818 | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/17/2021 | OCS41758 | Workplace violence prevention | Passed | 0.0 | 0.50 |
-| 12/16/2021 | OCS23717 | Mark 43- Use of Force Reporting | Passed | 0.0 | 1.00 |
+| 12/16/2021 | OCS23717 | Mark 43 - Use of Force Reporting | Passed | 0.0 | 1.00 |
 | 11/19/2021 | F6E02641 | New Hire Firearms-Marksmanship, Gun Handling | Passed | 0.0 | 40.00 |
 | 11/12/2021 | OCS28060 | Recruit Defensive Tactics Course | Passed | 0.0 | 40.00 |
 | 10/28/2021 | OCS43712 | October Monthly Defensive Tactics | Passed | 0.0 | 1.00 |

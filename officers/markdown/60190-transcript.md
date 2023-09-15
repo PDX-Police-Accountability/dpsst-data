@@ -49,14 +49,14 @@
 | 10/15/2021 | OCS36185 | OSHA Protection Wildfire Smoke Training | Passed | 0.0 | 0.15 |
 | 8/27/2021 | OCS38900 | New Hire Defensive Tactics | Passed | 0.0 | 40.00 |
 | 8/21/2021 | OCS15046 | COVID Crisis and Consequences | Passed | 0.0 | 1.00 |
-| 8/20/2021 | OCS16631 | DA training: Eyewitness ID | Passed | 0.0 | 1.00 |
-| 8/20/2021 | OCS14467 | Keeping Superheroes super | Passed | 0.0 | 1.00 |
-| 8/20/2021 | OCS30507 | Keeping Superheroes super | Passed | 0.0 | 1.00 |
+| 8/20/2021 | OCS16631 | DA Training: Eyewitness ID | Passed | 0.0 | 1.00 |
+| 8/20/2021 | OCS14467 | Keeping Superheroes Super | Passed | 0.0 | 1.00 |
+| 8/20/2021 | OCS30507 | Keeping Superheroes Super | Passed | 0.0 | 1.00 |
 | 8/18/2021 | OCS42535 | New Hire Patrol Tactics/Active Shooter Response | Passed | 0.0 | 24.00 |
 | 8/16/2021 | F6F28099 | New Hire Firearms - Maksmanship, Handling. | Passed | 0.0 | 40.00 |
 | 8/13/2021 | F6E08305 | New Hire Firearms-Decision Making (MILO) | Passed | 0.0 | 40.00 |
 | 8/12/2021 | OCS32734 | Social Media Awareness Training | Passed | 0.0 | 0.50 |
 | 7/23/2021 | OCS29653 | Duty to Intercede | Passed | 0.0 | 1.50 |
-| 7/22/2021 | OCS25187 | Getting out of your own way | Passed | 0.0 | 1.00 |
-| 7/22/2021 | OCS18300 | Getting out of your own way | Passed | 0.0 | 1.00 |
+| 7/22/2021 | OCS25187 | Getting Out of Your Own Way | Passed | 0.0 | 1.00 |
+| 7/22/2021 | OCS18300 | Getting Out of Your Own Way | Passed | 0.0 | 1.00 |
 | 2/17/2020 | M10-19A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |

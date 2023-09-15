@@ -34,7 +34,7 @@
 | 8/11/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 7/14/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
-| 7/14/2023 | OCS3296A | Handgun retention | Passed | 0.0 | 1.00 |
+| 7/14/2023 | OCS3296A | Handgun Retention | Passed | 0.0 | 1.00 |
 | 6/28/2023 | REG4060A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 3/14/2023 | PDP3672A | 2023 Training Introduction to Wellness | Passed | 0.0 | 1.50 |
 | 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

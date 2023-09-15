@@ -34,7 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
 | 4/24/2023 | OCS3161A | Fundamentals of Marksmanship/Qualification | Passed | 0.0 | 2.00 |
@@ -49,8 +49,8 @@
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/20/2022 | OCS20366 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
-| 8/1/2022 | OCS20390 | Ethics- online | Passed | 0.0 | 2.00 |
-| 8/1/2022 | OCS19556 | Ethics- online | Passed | 0.0 | 1.00 |
+| 8/1/2022 | OCS20390 | Ethics - Online | Passed | 0.0 | 2.00 |
+| 8/1/2022 | OCS19556 | Ethics - Online | Passed | 0.0 | 1.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
 | 7/3/2022 | OCS16566 | Code 3 Driving | Passed | 0.0 | 0.50 |
 | 6/30/2022 | OCS21814 | Ground Fightint | Passed | 0.0 | 1.00 |
@@ -58,14 +58,14 @@
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Passed | 0.0 | 32.00 |
-| 4/15/2022 | OCS02039 | Axon bodycam training | Passed | 0.0 | 2.00 |
-| 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
+| 4/15/2022 | OCS02039 | Axon Bodycam Training | Passed | 0.0 | 2.00 |
+| 3/30/2022 | OCS17075 | Marksmanship/One Hand Shooting/Movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS16578 | Striking and Weapon Retention | Passed | 0.0 | 1.00 |
 | 1/29/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
-| 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
+| 1/20/2022 | OCS34045 | Use of Force Decision Making/Problem Solving | Passed | 0.0 | 1.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
 | 12/30/2021 | OCS33256 | Taser 7 | Passed | 0.0 | 1.00 |
 | 12/21/2021 | OCS25818 | Ethics Training | Passed | 0.0 | 1.00 |
@@ -73,7 +73,7 @@
 | 11/19/2021 | F6E02641 | New Hire Firearms-Marksmanship, Gun Handling | Passed | 0.0 | 40.00 |
 | 11/12/2021 | OCS28060 | Recruit Defensive Tactics Course | Passed | 0.0 | 40.00 |
 | 10/28/2021 | OCS43712 | October Monthly Defensive Tactics | Passed | 0.0 | 1.00 |
-| 10/28/2021 | OCS30796 | DeEscalation/Decision Making/Target ID | Passed | 0.0 | 1.00 |
+| 10/28/2021 | OCS30796 | De-Escalation/Decision Making/Target ID | Passed | 0.0 | 1.00 |
 | 10/15/2021 | OCS36185 | OSHA Protection Wildfire Smoke Training | Passed | 0.0 | 0.15 |
 | 9/30/2021 | OCS19433 | September Monthly Firearms | Passed | 0.0 | 1.00 |
 | 8/14/2021 | PDP16058 | 2021 Language Access - LanguageLine | Passed | 0.0 | 0.25 |

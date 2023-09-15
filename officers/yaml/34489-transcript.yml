@@ -76,13 +76,13 @@ training_records:
   hours: '1.00'
 - date: 6/1/2023
   course: OCS3320A
-  title: Shoot/No Shoot targets, Marksmanship
+  title: Shoot/No Shoot Targets/Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 5/21/2023
   course: OCS1318A
-  title: Resiliency training by Dr. Conn
+  title: Resiliency Training by Dr. Conn
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -148,13 +148,13 @@ training_records:
   hours: '4.00'
 - date: 1/18/2023
   course: OCS07031
-  title: DUII- SFST Refresher
+  title: DUII - SFST Refresher
   status: Passed
   score: '0.0'
   hours: '4.00'
 - date: 11/30/2022
   course: OCS15169
-  title: Target zone transitions, marksmanship
+  title: Target Zone Transitions - Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -196,7 +196,7 @@ training_records:
   hours: '0.00'
 - date: 9/12/2022
   course: OCS18613
-  title: Low Light, One hand shooting use of cover
+  title: Low Light/One Hand Shooting/Use of Cover
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -214,13 +214,13 @@ training_records:
   hours: '1.00'
 - date: 8/1/2022
   course: OCS20390
-  title: Ethics- online
+  title: Ethics - Online
   status: Passed
   score: '0.0'
   hours: '2.00'
 - date: 8/1/2022
   course: OCS19556
-  title: Ethics- online
+  title: Ethics - Online
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -298,7 +298,7 @@ training_records:
   hours: '1.00'
 - date: 3/30/2022
   course: OCS17075
-  title: Marksmanship, one hand shooting, movement
+  title: Marksmanship/One Hand Shooting/Movement
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -346,7 +346,7 @@ training_records:
   hours: '0.15'
 - date: 1/20/2022
   course: OCS34045
-  title: Use of Force Decision making/problem solving
+  title: Use of Force Decision Making/Problem Solving
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -358,7 +358,7 @@ training_records:
   hours: '1.00'
 - date: 12/30/2021
   course: OCS20147
-  title: Shoot/No-Shoot scenarios/decision making
+  title: Shoot/No-Shoot Scenarios/Decision Making
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -382,7 +382,7 @@ training_records:
   hours: '1.00'
 - date: 10/28/2021
   course: OCS30796
-  title: DeEscalation/Decision Making/Target ID
+  title: De-Escalation/Decision Making/Target ID
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -448,13 +448,13 @@ training_records:
   hours: '1.00'
 - date: 8/20/2021
   course: OCS16631
-  title: 'DA training: Eyewitness ID'
+  title: 'DA Training: Eyewitness ID'
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/20/2021
   course: OCS14467
-  title: Keeping Superheroes super
+  title: Keeping Superheroes Super
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -466,7 +466,7 @@ training_records:
   hours: '0.50'
 - date: 8/20/2021
   course: OCS30507
-  title: Keeping Superheroes super
+  title: Keeping Superheroes Super
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -478,7 +478,7 @@ training_records:
   hours: '0.50'
 - date: 7/30/2021
   course: OCS15627
-  title: July Monthly firearms
+  title: July Monthly Firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -490,13 +490,13 @@ training_records:
   hours: '1.50'
 - date: 7/22/2021
   course: OCS25187
-  title: Getting out of your own way
+  title: Getting Out of Your Own Way
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 7/22/2021
   course: OCS18300
-  title: Getting out of your own way
+  title: Getting Out of Your Own Way
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -520,7 +520,7 @@ training_records:
   hours: '4.00'
 - date: 5/31/2021
   course: OCS11587
-  title: Ground work DT's
+  title: Ground Work DT's
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -532,7 +532,7 @@ training_records:
   hours: '1.00'
 - date: 4/30/2021
   course: OCS30119
-  title: April monthly Firearms
+  title: April Monthly Firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -562,7 +562,7 @@ training_records:
   hours: '24.00'
 - date: 4/21/2021
   course: OCS01274
-  title: EVOC track session
+  title: EVOC Track Session
   status: Passed
   score: '0.0'
   hours: '5.00'
@@ -580,31 +580,31 @@ training_records:
   hours: '0.50'
 - date: 2/28/2021
   course: OCS18919
-  title: Defensive Tactics- Striking
+  title: Defensive Tactics - Striking
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 2/28/2021
   course: OCS05265
-  title: February monthly firearms
+  title: February Monthly Firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 2/1/2021
   course: OCS31237
-  title: Harassment training
+  title: Harassment Training
   status: Passed
   score: '0.0'
   hours: '0.50'
 - date: 1/31/2021
   course: OCS18275
-  title: Ballot measure 110
+  title: Ballot Measure 110
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 1/31/2021
   course: OCS03188
-  title: January monthly firearms
+  title: January Monthly Firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -616,13 +616,13 @@ training_records:
   hours: '1.00'
 - date: 12/30/2020
   course: OCS07314
-  title: December firearms
+  title: December Firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 12/30/2020
   course: OCS23353
-  title: December Monthly firearms
+  title: December Monthly Firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -640,7 +640,7 @@ training_records:
   hours: '2.00'
 - date: 9/30/2020
   course: OCS09610
-  title: Defensive Tactics- September
+  title: Defensive Tactics - September
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -664,7 +664,7 @@ training_records:
   hours: '40.00'
 - date: 9/1/2020
   course: OCS31981
-  title: Sept firearms monthly
+  title: September Firearms Monthly
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -676,13 +676,13 @@ training_records:
   hours: '1.00'
 - date: 8/30/2020
   course: OCS08355
-  title: Monthly Firearms- August
+  title: Monthly Firearms - August
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/30/2020
   course: OCS11769
-  title: Defensive Tactics- August
+  title: Defensive Tactics - August
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -694,7 +694,7 @@ training_records:
   hours: '1.00'
 - date: 7/30/2020
   course: OCS21443
-  title: Monthly Firearms- July
+  title: Monthly Firearms - July
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -706,13 +706,13 @@ training_records:
   hours: '1.00'
 - date: 6/5/2020
   course: OCS09050
-  title: June Patrol firearms
+  title: June Patrol Firearms
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 5/30/2020
   course: OCS03312
-  title: Defensive Tactics-May
+  title: Defensive Tactics - May
   status: Passed
   score: '0.0'
   hours: '1.00'

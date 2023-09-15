@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/5/2023 | Gresham Police Department | Promotion | Sergeant |  |  |
 | 10/16/2017 | Gresham Police Department | Hired | Police Off |  |  |
 | 10/12/2017 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/14/2007 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/5/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 1/19/2023 | GSP07250 | UAS Search and Rescue Training | Passed | 0.0 | 10.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

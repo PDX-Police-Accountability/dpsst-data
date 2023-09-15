@@ -316,7 +316,7 @@
 | 3/11/2020 | PDP40578 | 2020-1 City Attorney's Office Legal Updates 1/2020 | Passed | 0.0 | 0.50 |
 | 3/6/2020 | F6D32246 | Northwest Leadership Seminar 2020 | Passed | 0.0 | 20.00 |
 | 2/18/2020 | PDP24494 | 2020 Chief's Office Uniform Guide Video | Passed | 0.0 | 0.25 |
-| 2/14/2020 | OCS16136 | CIT day 5 | Passed | 0.0 | 8.00 |
+| 2/14/2020 | OCS16136 | CIT Day 5 | Passed | 0.0 | 8.00 |
 | 1/26/2020 | PDP08320 | 2020 Training Active Threat Review Video | Passed | 0.0 | 0.25 |
 | 1/24/2020 | PDP20275 | 2020-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 1/24/2020 | PDP15754 | 2020-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -410,7 +410,7 @@
 | 5/19/2019 | PDP23426 | City Attorney's Office Legal Updates February 2019 | Passed | 0.0 | 0.25 |
 | 5/19/2019 | PDP37791 | City Attorney's Office Legal Updates March 2019 | Passed | 0.0 | 0.25 |
 | 5/17/2019 | 19-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
-| 5/17/2019 | OCS12063 | Metro Sgts Academy | Passed | 0.0 | 80.00 |
+| 5/17/2019 | OCS12063 | Metro Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/19/2019 | PDP23225 | 2018 City Attorney's Office Legal Updates for Q12 | Passed | 0.0 | 1.00 |
 | 4/19/2019 | PDP26370 | 2019 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |
 | 4/19/2019 | PDP40931 | 2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng | Passed | 0.0 | 0.25 |

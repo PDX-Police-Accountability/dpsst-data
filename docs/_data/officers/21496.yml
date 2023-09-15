@@ -3413,6 +3413,10 @@ training_records:
   score: '0.0'
   hours: '281.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Telecommunication Signed
+  effective_date: 9/11/2023
+  expiration_date: ''
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023

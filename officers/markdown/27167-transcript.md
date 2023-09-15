@@ -33,7 +33,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2023 | BPT3012A | Equitable Policing | Passed | 0.0 | 2.00 |
+| 9/11/2023 | BPT2625A | Coaching and Feedback | Passed | 0.0 | 6.00 |
+| 9/8/2023 | BPT4118A | Stereotype Threat | Passed | 0.0 | 2.00 |
+| 9/8/2023 | BPT1657A | Resiliency | Passed | 0.0 | 2.00 |
 | 9/7/2023 | BPT0921A | Outward Mindset | Passed | 0.0 | 8.00 |
+| 9/5/2023 | BPT3039A | Facilitator Development | Passed | 0.0 | 12.00 |
 | 1/3/2022 | BPT10258 | Skills Coaching Workshop (Virtual) | Passed | 0.0 | 1.00 |
 | 1/3/2022 | BPT03272 | Adult Learning Core (Virtual) | Passed | 0.0 | 2.00 |
 | 1/6/2021 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |

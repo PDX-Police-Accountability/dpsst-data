@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/16/2023 | LOP1926A | Prison Rape Elimination Ace (PREA) | Passed | 0.0 | 0.50 |
 | 8/10/2023 | LOP3629A | Active Threat/CCP/MCI | Passed | 0.0 | 2.50 |
 | 6/16/2023 | LOP2153A | EVOC/HR Stops/Box-In | Passed | 0.0 | 9.00 |
 | 6/9/2023 | LOP3781A | Policy review-Vehicle Pursuits and Vehicle Use | Passed | 0.0 | 0.50 |

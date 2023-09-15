@@ -34,7 +34,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/1/2021 | GSP26267 | 2021 Firearms In Service | Instructed | 0.0 | 10.00 |
 | 6/30/2020 | F6D10349 | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
-| 6/5/2020 | OCS26786 | June Patrol firearms | Passed | 0.0 | 1.00 |
+| 6/5/2020 | OCS26786 | June Patrol Firearms | Passed | 0.0 | 1.00 |
 | 2/29/2020 | F6D20637 | Fighting in the Clinch / Out of the Hole/ Contacts | Passed | 0.0 | 1.00 |
 | 2/20/2020 | OCS40366 | CPR/First Aid/Aed | Passed | 0.0 | 1.00 |
 | 1/30/2020 | F6D23484 | Lethal Force Decision Making | Passed | 0.0 | 1.00 |

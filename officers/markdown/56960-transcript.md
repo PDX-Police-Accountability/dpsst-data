@@ -61,7 +61,7 @@
 | 3/27/2020 | MISCGEN | Navigating  LitigatingEquine Neglect | Passed | 0.0 | 1.00 |
 | 3/25/2020 | MISCGEN | Practices in Dangerous Canine Encounters | Passed | 0.0 | 1.00 |
 | 3/21/2020 | MISCFRUF | De-escalation and Minimizing Use of Force | Passed | 0.0 | 2.00 |
-| 12/10/2019 | OCS28036 | taser yearly | Passed | 0.0 | 0.00 |
+| 12/10/2019 | OCS28036 | Taser - Yearly | Passed | 0.0 | 0.00 |
 | 12/3/2019 | F6D30579 | Search Warrents: Not as Painful As You Think | Passed | 0.0 | 8.00 |
 | 11/29/2019 | MKP05728 | Low Light Handgun Training | Passed | 0.0 | 4.00 |
 | 10/4/2019 | PDP08055 | 2019 Chiefs Office SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |

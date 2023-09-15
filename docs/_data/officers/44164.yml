@@ -1661,7 +1661,7 @@ training_records:
   hours: '0.25'
 - date: 2/14/2020
   course: OCS16136
-  title: CIT day 5
+  title: CIT Day 5
   status: Passed
   score: '0.0'
   hours: '8.00'

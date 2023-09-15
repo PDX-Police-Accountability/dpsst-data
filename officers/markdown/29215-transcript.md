@@ -39,7 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/30/2020 | F6D10349 | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
-| 6/25/2020 | OCS19665 | June Patrol firearms | Passed | 0.0 | 1.00 |
+| 6/25/2020 | OCS19665 | June Patrol Firearms | Passed | 0.0 | 1.00 |
 | 2/20/2020 | OCS40366 | CPR/First Aid/Aed | Passed | 0.0 | 1.00 |
 | 1/30/2020 | F6D23484 | Lethal Force Decision Making | Passed | 0.0 | 1.00 |
 | 1/9/2020 | F6D12325 | Human Trafficking Investigations | Passed | 0.0 | 2.00 |

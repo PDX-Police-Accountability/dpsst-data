@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/5/2023
+  agency: Gresham Police Department
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 10/16/2017
   agency: Gresham Police Department
   action: Hired
@@ -50,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/5/2024
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 5/12/2023
   course: LOP2596A
   title: Metro Area Sergeants Academy

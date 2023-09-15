@@ -38,7 +38,7 @@ certification_records:
 training_records:
 - date: 6/1/2023
   course: OCS3320A
-  title: Shoot/No Shoot targets, Marksmanship
+  title: Shoot/No Shoot Targets/Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -50,7 +50,7 @@ training_records:
   hours: '1.00'
 - date: 5/21/2023
   course: OCS1318A
-  title: Resiliency training by Dr. Conn
+  title: Resiliency Training by Dr. Conn
   status: Passed
   score: '0.0'
   hours: '3.00'
@@ -140,7 +140,7 @@ training_records:
   hours: '1.00'
 - date: 11/30/2022
   course: OCS15169
-  title: Target zone transitions, marksmanship
+  title: Target Zone Transitions - Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -182,7 +182,7 @@ training_records:
   hours: '0.00'
 - date: 9/12/2022
   course: OCS18613
-  title: Low Light, One hand shooting use of cover
+  title: Low Light/One Hand Shooting/Use of Cover
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -236,13 +236,13 @@ training_records:
   hours: '1.00'
 - date: 5/19/2022
   course: OCS27163
-  title: Ethos training
+  title: Ethos Training
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 5/19/2022
   course: OCS06518
-  title: Ethos training
+  title: Ethos Training
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -278,7 +278,7 @@ training_records:
   hours: '40.00'
 - date: 3/30/2022
   course: OCS17075
-  title: Marksmanship, one hand shooting, movement
+  title: Marksmanship/One Hand Shooting/Movement
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -302,7 +302,7 @@ training_records:
   hours: '1.00'
 - date: 2/23/2022
   course: OCS00276
-  title: New hire Patrol Tactics
+  title: New Hire Patrol Tactics
   status: Passed
   score: '0.0'
   hours: '40.00'

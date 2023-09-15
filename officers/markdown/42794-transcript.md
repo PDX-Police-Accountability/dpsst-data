@@ -46,11 +46,11 @@
 | 7/21/2023 | OCS0072A | Remington 700 Armorer | Passed | 0.0 | 8.00 |
 | 7/20/2023 | OCS0654A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 7/20/2023 | OCS0991A | Remington 870 Armorer | Passed | 0.0 | 16.00 |
-| 7/14/2023 | OCS3464A | Positional shooting/Target ID / OIS Debrief | Instructed | 0.0 | 4.00 |
-| 6/15/2023 | OCS3363A | Shoot/No Shoot targets, marksmanship | Instructed | 0.0 | 93.00 |
+| 7/14/2023 | OCS3464A | Positional Shooting/Target ID/OIS Debrief | Instructed | 0.0 | 4.00 |
+| 6/15/2023 | OCS3363A | Shoot/No-Shoot Targets  Marksmanship | Instructed | 0.0 | 93.00 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
-| 6/1/2023 | OCS3320A | Shoot/No Shoot targets, Marksmanship | Passed | 0.0 | 1.00 |
-| 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
+| 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 5/12/2023 | OCS0322 | May 2023 New Hire Firearms | Instructed | 0.0 | 20.00 |
 | 5/12/2023 | OCS3604 | Positional/Long Distance Multiple Target Shooting | Instructed | 0.0 | 5.00 |
@@ -61,17 +61,17 @@
 | 4/20/2023 | OCS1278 | Annual Qualifications | Instructed | 0.0 | 84.00 |
 | 4/19/2023 | OCS3736A | April 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/19/2023 | OCS0833A | April 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
-| 4/4/2023 | OCS00948 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
-| 3/30/2023 | OCS1754 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
-| 3/30/2023 | OCS1995 | Marksmanship / Handgun Qualification | Instructed | 0.0 | 2.00 |
+| 4/4/2023 | OCS00948 | Marksmanship/Handgun Qualification | Instructed | 0.0 | 2.00 |
+| 3/30/2023 | OCS1754 | Marksmanship/Handgun Qualification | Instructed | 0.0 | 2.00 |
+| 3/30/2023 | OCS1995 | Marksmanship/Handgun Qualification | Instructed | 0.0 | 2.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 3/20/2023 | OCS1800 | Fundamentals of Marksmanship | Instructed | 0.0 | 52.00 |
-| 3/17/2023 | OCS1749 | Marksmanship / Shoot-No Shoot decisions | Instructed | 0.0 | 4.00 |
-| 3/17/2023 | OCS2368 | Marksmanship / Shoot-No Shoot decisions | Instructed | 0.0 | 4.00 |
+| 3/17/2023 | OCS1749 | Marksmanship/Shoot-No Shoot Decisions | Instructed | 0.0 | 4.00 |
+| 3/17/2023 | OCS2368 | Marksmanship/Shoot-No Shoot Decisions | Instructed | 0.0 | 4.00 |
 | 3/13/2023 | OCS38811 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
-| 3/10/2023 | OCS02865 | Long Distance Marksmanship / OIS Debrief | Instructed | 0.0 | 4.00 |
-| 3/10/2023 | OCS0286 | Long Distance Marksmanship / OIS Debrief | Instructed | 0.0 | 4.00 |
+| 3/10/2023 | OCS02865 | Long Distance Marksmanship/OIS Debrief | Instructed | 0.0 | 4.00 |
+| 3/10/2023 | OCS0286 | Long Distance Marksmanship/OIS Debrief | Instructed | 0.0 | 4.00 |
 | 2/20/2023 | OCS19321 | Fundamentals of Marksmanship | Instructed | 0.0 | 65.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
@@ -85,38 +85,38 @@
 | 12/21/2022 | OCS27159 | Marksmanship, Shoot/No-Shoot Decision Making | Instructed | 0.0 | 2.00 |
 | 12/20/2022 | OCS01142 | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 12/19/2022 | OCS16646 | K9 Firearms - Marksmanship/Target Transitions | Instructed | 0.0 | 2.00 |
-| 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
-| 11/29/2022 | OCS30026 | Marksmanship, Target Zone Transitions | Instructed | 0.0 | 2.00 |
-| 11/29/2022 | OCS09948 | Marksmanship, Target Zone Transitions | Instructed | 0.0 | 2.00 |
+| 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
+| 11/29/2022 | OCS30026 | Marksmanship - Target Zone Transitions | Instructed | 0.0 | 2.00 |
+| 11/29/2022 | OCS09948 | Marksmanship: Target Zone Transitions | Instructed | 0.0 | 2.00 |
 | 11/28/2022 | OCS12011 | Low Light Target ID, Target Zone Transitions | Instructed | 0.0 | 2.00 |
 | 11/28/2022 | OCS16858 | Low Light Target ID, Target Zone Transitions | Instructed | 0.0 | 2.00 |
 | 11/18/2022 | OCS29404 | November 2022 New Hire Patrol Tactics | Instructed | 0.0 | 12.00 |
 | 11/11/2022 | OCS21400 | November 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |
-| 11/1/2022 | OCS27440 | Axon VR demo | Passed | 0.0 | 6.00 |
+| 11/1/2022 | OCS27440 | Axon VR Demo | Passed | 0.0 | 6.00 |
 | 10/31/2022 | OCS22224 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 10/30/2022 | OCS15929 | ACAP | Passed | 0.0 | 2.00 |
 | 10/20/2022 | OCS38596 | Milo De-Escalation and problem solving | Instructed | 0.0 | 61.00 |
 | 10/20/2022 | OCS42905 | Target zone transitions, marksmanship | Instructed | 0.0 | 68.00 |
 | 10/18/2022 | OCS24937 | Intro to Pistol Red Dot Systems | Instructed | 0.0 | 1.00 |
-| 10/1/2022 | OCS19965 | COVID Crisis | Passed | 0.0 | 1.00 |
-| 10/1/2022 | OCS16349 | Getting out of your own way | Passed | 0.0 | 1.00 |
+| 10/1/2022 | OCS19965 | Covid-19 Crisis | Passed | 0.0 | 1.00 |
+| 10/1/2022 | OCS16349 | Getting Out of Your Own Way | Passed | 0.0 | 1.00 |
 | 10/1/2022 | OCS30655 | Keeping Superheroes Super | Passed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2022 | OCS22530 | One Hand Shooting/Low Light/Target ID | Instructed | 0.0 | 4.00 |
 | 9/19/2022 | OCS39426 | September 2022 FTU Inservice Training | Passed | 0.0 | 4.00 |
 | 9/16/2022 | OCS29922 | Sniper Unit Overview | Passed | 0.0 | 16.00 |
 | 9/15/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 9/12/2022 | OCS18613 | Low Light, One hand shooting use of cover | Passed | 0.0 | 1.00 |
-| 9/1/2022 | OCS14404 | One hand shooting, Qualification | Instructed | 0.0 | 2.00 |
+| 9/12/2022 | OCS18613 | Low Light/One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
+| 9/1/2022 | OCS14404 | One Hand Shooting Qualification | Instructed | 0.0 | 2.00 |
 | 8/30/2022 | OCS23790 | One Handed Shooting and Barricading | Instructed | 0.0 | 97.00 |
 | 8/20/2022 | OCS36465 | One Hand Shooting/Barricading | Passed | 0.0 | 1.00 |
 | 8/19/2022 | OCS23432 | August 2022 New Hire Firearms | Instructed | 0.0 | 40.00 |
 | 8/10/2022 | OCS07092 | Shotgun Orientation | Instructed | 0.0 | 3.00 |
 | 7/30/2022 | OCS12963 | De-Escalation | Passed | 0.0 | 1.00 |
-| 7/30/2022 | OCS02425 | One handed shooting and marksmanship | Instructed | 0.0 | 49.00 |
+| 7/30/2022 | OCS02425 | One Handed Shooting and Marksmanship | Instructed | 0.0 | 49.00 |
 | 7/25/2022 | OCS30020 | Shotgun Orientation Training | Instructed | 0.0 | 2.00 |
-| 7/22/2022 | OCS12091 | Balance speed/marksmanship, one hand shooting | Instructed | 0.0 | 2.00 |
+| 7/22/2022 | OCS12091 | Balance Speed/Marksmanship/One Hand Shooting | Instructed | 0.0 | 2.00 |
 | 7/20/2022 | OCS26614 | AR15 Range Diagnostics | Passed | 0.0 | 8.00 |
 | 7/20/2022 | OCS05500 | One Hand Shooting/Marksmanship | Passed | 0.0 | 1.00 |
 | 7/19/2022 | OCS27541 | AR15 Armorer's Course | Passed | 0.0 | 16.00 |
@@ -131,36 +131,36 @@
 | 5/20/2022 | OCS31461 | June 2022 FTU Inservice Training | Passed | 0.0 | 5.00 |
 | 5/20/2022 | OCS38314 | Annual Qualification / Marksmanship | Instructed | 0.0 | 2.00 |
 | 5/20/2022 | OCS19690 | June 2022 FTU Inservice Training | Passed | 0.0 | 5.00 |
-| 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
-| 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
+| 5/19/2022 | OCS27163 | Ethos Training | Passed | 0.0 | 1.00 |
+| 5/19/2022 | OCS06518 | Ethos Training | Passed | 0.0 | 2.00 |
 | 5/13/2022 | OCS34450 | May 2022 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 4/27/2022 | OCS14157 | 2022 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/25/2022 | OCS11374 | K9 Firearms - Marksmanship | Instructed | 0.0 | 2.00 |
 | 4/22/2022 | OCS42495 | 2nd Qtr Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 4/22/2022 | OCS10401 | Annual Qualifications | Instructed | 0.0 | 113.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
-| 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
-| 3/30/2022 | OCS18089 | Marksmanship, One hand shooting, Movement | Instructed | 0.0 | 43.00 |
+| 3/30/2022 | OCS17075 | Marksmanship/One Hand Shooting/Movement | Passed | 0.0 | 1.00 |
+| 3/30/2022 | OCS18089 | Marksmanship/One Hand Shooting/Movement | Instructed | 0.0 | 43.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/21/2022 | F6R37267 | VCQB/Injured Shooter Handgun and Rifle | Passed | 0.0 | 6.00 |
 | 3/17/2022 | OCS05907 | Marksmanship, Target ID, Using Cover | Instructed | 0.0 | 2.00 |
 | 3/10/2022 | OCS07972 | Pistol/Rifle - Small Unit Tactics | Passed | 0.0 | 24.00 |
 | 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
-| 2/28/2022 | OCS33938 | Balancing speed and marksmanship Instructing | Instructed | 0.0 | 95.00 |
-| 2/25/2022 | OCS31415 | SWAT - Moving Targets, Marksmanship | Instructed | 0.0 | 4.00 |
+| 2/28/2022 | OCS33938 | Balancing Speed and Marksmanship Instructing | Instructed | 0.0 | 95.00 |
+| 2/25/2022 | OCS31415 | SWAT - Moving Targets/Marksmanship | Instructed | 0.0 | 4.00 |
 | 2/18/2022 | OCS20565 | Use of Force Decisions(Milo)/Speed-Marksmanship | Instructed | 0.0 | 2.00 |
 | 2/18/2022 | OCS14664 | February 2022 New Hire Firearms | Instructed | 0.0 | 30.00 |
-| 2/11/2022 | OCS24041 | Balancing Speed/Marksmanship, Qualification | Instructed | 0.0 | 2.00 |
+| 2/11/2022 | OCS24041 | Balancing Speed/Marksmanship - Qualification | Instructed | 0.0 | 2.00 |
 | 2/10/2022 | OCS34682 | Honor Guard Revolver 2022 | Instructed | 0.0 | 2.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
 | 1/21/2022 | OCS0303A | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
 | 1/21/2022 | OCS0303 | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
-| 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
-| 1/20/2022 | OCS10098 | Use of Force decision making/problem solving | Instructed | 0.0 | 29.00 |
+| 1/20/2022 | OCS34045 | Use of Force Decision Making/Problem Solving | Passed | 0.0 | 1.00 |
+| 1/20/2022 | OCS10098 | Use of Force Decision Making/Problem Solving | Instructed | 0.0 | 29.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
 | 1/12/2022 | OCS40607 | Low Light Fighting Around Vehicles/Decision Making | Instructed | 0.0 | 3.00 |
-| 12/31/2021 | OCS00628 | Shoot/No-Shoot scenario INSTRUCTOR | Instructed | 0.0 | 216.00 |
-| 12/30/2021 | OCS20147 | Shoot/No-Shoot scenarios/decision making | Passed | 0.0 | 1.00 |
+| 12/31/2021 | OCS00628 | Shoot/No-Shoot Scenario Instructor | Instructed | 0.0 | 216.00 |
+| 12/30/2021 | OCS20147 | Shoot/No-Shoot Scenarios/Decision Making | Passed | 0.0 | 1.00 |
 | 12/22/2021 | F6E14562 | Firearms-Problem Solving Enviornment, Low Light | Instructed | 0.0 | 3.00 |
 | 12/20/2021 | F6E07631 | K9 Firearms-Efficient Movement, Low Light | Instructed | 0.0 | 2.00 |
 | 12/17/2021 | F6E34821 | TEMS Firearms-Problem Solve Your Enviornment | Instructed | 0.0 | 2.00 |
@@ -173,14 +173,14 @@
 | 11/16/2021 | F6K16694 | Smith and Wesson MP M2.0 Armors Course | Passed | 0.0 | 8.00 |
 | 10/30/2021 | OCS42921 | October Firearms Instructor hours | Instructed | 0.0 | 78.00 |
 | 10/28/2021 | OCS43712 | October Monthly Defensive Tactics | Passed | 0.0 | 1.00 |
-| 10/28/2021 | OCS30796 | DeEscalation/Decision Making/Target ID | Passed | 0.0 | 1.00 |
-| 10/28/2021 | OCS17775 | Accuracy Drills/Shotgun manipulations | Passed | 0.0 | 1.00 |
-| 10/28/2021 | OCS34429 | Fall Patrol Rifle-CCITF | Passed | 0.0 | 1.00 |
+| 10/28/2021 | OCS30796 | De-Escalation/Decision Making/Target ID | Passed | 0.0 | 1.00 |
+| 10/28/2021 | OCS17775 | Accuracy Drills/Shotgun Manipulations | Passed | 0.0 | 1.00 |
+| 10/28/2021 | OCS34429 | Fall Patrol Rifle - CCITF | Passed | 0.0 | 1.00 |
 | 10/18/2021 | F6K06624 | Firearms - DeEscltn /Decision Mkng MILO | Instructed | 0.0 | 2.00 |
 | 10/15/2021 | OCS36185 | OSHA Protection Wildfire Smoke Training | Passed | 0.0 | 0.15 |
-| 9/30/2021 | OCS11254 | September firearms instructors hours | Instructed | 0.0 | 37.00 |
+| 9/30/2021 | OCS11254 | September Firearms Instructors Hours | Instructed | 0.0 | 37.00 |
 | 9/30/2021 | OCS19433 | September Monthly Firearms | Passed | 0.0 | 1.00 |
-| 8/30/2021 | OCS03639 | August Firearm instructor hours | Instructed | 0.0 | 74.00 |
+| 8/30/2021 | OCS03639 | August Firearms Instructor Hours | Instructed | 0.0 | 74.00 |
 | 8/30/2021 | OCS36108 | August monthly firearms | Passed | 0.0 | 1.00 |
 | 8/20/2021 | F6E16366 | TEMS-Marksmanship/Decision Making Shoot/no | Instructed | 0.0 | 2.00 |
 | 8/20/2021 | OCS04137 | Strangulation Supplemental Training | Passed | 0.0 | 0.50 |
@@ -189,82 +189,82 @@
 | 8/16/2021 | F6F10032 | Firearms - Room Entry and Target ID, Problem Solv. | Instructed | 0.0 | 2.00 |
 | 8/13/2021 | F6E08305 | New Hire Firearms-Decision Making (MILO) | Instructed | 0.0 | 20.00 |
 | 8/12/2021 | OCS32734 | Social Media Awareness Training | Passed | 0.0 | 0.50 |
-| 7/30/2021 | OCS32139 | July firearms instructor hours | Instructed | 0.0 | 51.00 |
-| 7/30/2021 | OCS15627 | July Monthly firearms | Passed | 0.0 | 1.00 |
+| 7/30/2021 | OCS32139 | July Firearms Instructor Hours | Instructed | 0.0 | 51.00 |
+| 7/30/2021 | OCS15627 | July Monthly Firearms | Passed | 0.0 | 1.00 |
 | 7/23/2021 | OCS29653 | Duty to Intercede | Passed | 0.0 | 1.50 |
 | 7/21/2021 | OCS35910 | Remington 700 Armorer's Course | Passed | 0.0 | 8.00 |
 | 7/20/2021 | OCS32282 | Remington 870 Armorer's Course | Passed | 0.0 | 16.00 |
 | 7/1/2021 | F6E23595 | MILO Scenarios - De-escalation, Decision Making | Instructed | 0.0 | 1.00 |
-| 6/30/2021 | OCS34613 | June Firearms instructor hours | Instructed | 0.0 | 62.00 |
+| 6/30/2021 | OCS34613 | June Firearms Instructor Hours | Instructed | 0.0 | 62.00 |
 | 6/20/2021 | OCS43052 | EVOC track | Passed | 0.0 | 4.00 |
 | 6/13/2021 | F6E29145 | Pistol Shooting Solutions | Passed | 0.0 | 20.00 |
 | 6/7/2021 | F6E25455 | Firearms - Deadly Force Decision Making (MILO) | Instructed | 0.0 | 2.00 |
-| 5/30/2021 | OCS01297 | May Firearms instructor hours | Instructed | 0.0 | 67.00 |
+| 5/30/2021 | OCS01297 | May Firearms Instructor Hours | Instructed | 0.0 | 67.00 |
 | 5/7/2021 | HBS28732 | Law Enforcement Basic Sniper School | Passed | 0.0 | 40.00 |
 | 4/30/2021 | OCS02845 | When Errors occur | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS12772 | May Monthly Firearms | Passed | 0.0 | 1.00 |
-| 4/30/2021 | OCS30119 | April monthly Firearms | Passed | 0.0 | 1.00 |
+| 4/30/2021 | OCS30119 | April Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS01197 | June Monthly Firearms | Passed | 0.0 | 1.00 |
-| 4/30/2021 | OCS25472 | April Firearms instructor hours | Instructed | 0.0 | 94.00 |
+| 4/30/2021 | OCS25472 | April Firearms Instructor Hours | Instructed | 0.0 | 94.00 |
 | 4/30/2021 | OCS36696 | EVOC classroom | Passed | 0.0 | 1.00 |
-| 4/21/2021 | OCS01274 | EVOC track session | Passed | 0.0 | 5.00 |
+| 4/21/2021 | OCS01274 | EVOC Track Session | Passed | 0.0 | 5.00 |
 | 4/20/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/7/2021 | F6D07289 | Pistol Red Dot Instructor Course | Passed | 0.0 | 24.00 |
-| 3/30/2021 | OCS10678 | March Firearms instructor hours | Instructed | 0.0 | 59.00 |
+| 3/30/2021 | OCS10678 | March Firearms Instructor Hours | Instructed | 0.0 | 59.00 |
 | 3/22/2021 | F6D44275 | Firearms Training Unit - Marksmanship, Holster. | Passed | 0.0 | 4.00 |
 | 3/19/2021 | F6D28218 | TEMS - Marksmanship, Efficient Movement, Reloads. | Instructed | 0.0 | 2.00 |
 | 3/9/2021 | F6D42236 | Firearms - Marksmanship, Multiple Targets, Veh. | Instructed | 0.0 | 4.00 |
 | 3/3/2021 | F6D31314 | Patrol Tactics - Team Movement, Building Searches. | Instructed | 0.0 | 8.00 |
-| 2/28/2021 | OCS18919 | Defensive Tactics- Striking | Passed | 0.0 | 1.00 |
-| 2/28/2021 | OCS05265 | February monthly firearms | Passed | 0.0 | 1.00 |
-| 2/28/2021 | OCS14255 | February Firearms instructor hours | Instructed | 0.0 | 105.00 |
+| 2/28/2021 | OCS18919 | Defensive Tactics - Striking | Passed | 0.0 | 1.00 |
+| 2/28/2021 | OCS05265 | February Monthly Firearms | Passed | 0.0 | 1.00 |
+| 2/28/2021 | OCS14255 | February Firearms Instructor Hours | Instructed | 0.0 | 105.00 |
 | 2/26/2021 | F6D05721 | New Hire Fireamrs - Markmanship, Handling. | Instructed | 0.0 | 40.00 |
 | 2/19/2021 | F6D34105 | TEMS Firearms - Marksmanship/ Speed / Multiple. | Instructed | 0.0 | 2.00 |
 | 2/17/2021 | F6D28317 | Low, Light, Shooting around barricades, Qual. | Instructed | 0.0 | 2.00 |
 | 2/11/2021 | F6D03480 | Honor Guard Revolver - Marksmanship | Instructed | 0.0 | 2.00 |
-| 2/1/2021 | OCS31237 | Harassment training | Passed | 0.0 | 0.50 |
-| 1/31/2021 | OCS03188 | January monthly firearms | Passed | 0.0 | 1.00 |
-| 1/30/2021 | OCS22342 | January Firearms instructor hours | Instructed | 0.0 | 58.00 |
+| 2/1/2021 | OCS31237 | Harassment Training | Passed | 0.0 | 0.50 |
+| 1/31/2021 | OCS03188 | January Monthly Firearms | Passed | 0.0 | 1.00 |
+| 1/30/2021 | OCS22342 | January Firearms Instructor Hours | Instructed | 0.0 | 58.00 |
 | 1/25/2021 | OCS28773 | 1st Quarter Shotgun | Passed | 0.0 | 1.00 |
 | 1/21/2021 | F6D01327 | Firearms - Marksmanship Multiple Targets, OIS. | Instructed | 0.0 | 2.00 |
 | 1/21/2021 | F6D00551 | TEMS Firearms - Marksmanship/ Speed/ Multiple. | Instructed | 0.0 | 2.00 |
 | 1/20/2021 | OCS15621 | Ethics | Passed | 0.0 | 2.00 |
 | 1/7/2021 | F6D06061 | Efficient Movement, Marksmanship, Decision Making | Instructed | 0.0 | 2.00 |
-| 12/30/2020 | OCS07314 | December firearms | Passed | 0.0 | 1.00 |
-| 12/30/2020 | OCS23353 | December Monthly firearms | Passed | 0.0 | 1.00 |
+| 12/30/2020 | OCS07314 | December Firearms | Passed | 0.0 | 1.00 |
+| 12/30/2020 | OCS23353 | December Monthly Firearms | Passed | 0.0 | 1.00 |
 | 12/16/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 12/16/2020 | OCS06550 | Addressing COVID19 workplace risks | Passed | 0.0 | 0.50 |
+| 12/16/2020 | OCS06550 | Addressing Covid-19 Workplace Risks | Passed | 0.0 | 0.50 |
 | 12/7/2020 | F6D33040 | Firearms Unit Instructor Development | Instructed | 0.0 | 3.00 |
 | 11/17/2020 | F6D07904 | Firearms Training - Effcient Movement, Decision | Instructed | 0.0 | 3.00 |
 | 11/5/2020 | F6D03983 | Marksmanship Drills, Balancing Speed/Marksmanship. | Instructed | 0.0 | 3.00 |
-| 11/2/2020 | OCS34530 | Less Lethal training | Passed | 0.0 | 4.00 |
+| 11/2/2020 | OCS34530 | Less Lethal Training | Passed | 0.0 | 4.00 |
 | 10/30/2020 | OCS41114 | Ethics | Passed | 0.0 | 2.00 |
 | 10/30/2020 | OCS38485 | October firearms | Passed | 0.0 | 1.00 |
 | 10/7/2020 | F6D18461 | Firearms- Balancing Speed and Marksmanship. | Instructed | 0.0 | 2.00 |
 | 9/30/2020 | OCS28351 | September DT instructors | Instructed | 0.0 | 1.50 |
 | 9/23/2020 | F6D00269 | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 9/20/2020 | OCS37377 | Corrections 3rd quarter firearms | Passed | 0.0 | 2.00 |
-| 9/1/2020 | OCS31981 | Sept firearms monthly | Passed | 0.0 | 1.00 |
-| 8/30/2020 | OCS08355 | Monthly Firearms- August | Passed | 0.0 | 1.00 |
+| 9/1/2020 | OCS31981 | September Firearms Monthly | Passed | 0.0 | 1.00 |
+| 8/30/2020 | OCS08355 | Monthly Firearms - August | Passed | 0.0 | 1.00 |
 | 8/14/2020 | F6D12327 | New Hire Firearms | Instructed | 0.0 | 32.00 |
-| 7/30/2020 | OCS21443 | Monthly Firearms- July | Passed | 0.0 | 1.00 |
+| 7/30/2020 | OCS21443 | Monthly Firearms - July | Passed | 0.0 | 1.00 |
 | 7/17/2020 | F6D37699 | AR 15 Armorer - Advanced | Passed | 0.0 | 16.00 |
 | 7/15/2020 | F6D28007 | AR 15 Armorer - Basic | Passed | 0.0 | 24.00 |
 | 6/30/2020 | F6D10349 | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 6/26/2020 | F6D14644 | Smith  Wesson M2.0 Armor's Course | Passed | 0.0 | 8.00 |
-| 6/25/2020 | OCS31094 | Ballistic Shield Instructor course | Passed | 0.0 | 16.00 |
+| 6/25/2020 | OCS31094 | Ballistic Shield Instructor Course | Passed | 0.0 | 16.00 |
 | 6/14/2020 | F6D30085 | New Rifle Carrier | Instructed | 0.0 | 32.00 |
-| 6/5/2020 | OCS09050 | June Patrol firearms | Passed | 0.0 | 1.00 |
-| 5/30/2020 | OCS03312 | Defensive Tactics-May | Passed | 0.0 | 1.00 |
+| 6/5/2020 | OCS09050 | June Patrol Firearms | Passed | 0.0 | 1.00 |
+| 5/30/2020 | OCS03312 | Defensive Tactics - May | Passed | 0.0 | 1.00 |
 | 5/22/2020 | F6D21867 | New Hire Firearms | Instructed | 0.0 | 40.00 |
 | 4/17/2020 | F6D00072 | SWAT Firearms - Tempo Drills | Instructed | 0.0 | 8.00 |
 | 3/20/2020 | F6D05992 | 3x5 Drill, 15 and 25 Yard Marksmanship | Passed | 0.0 | 1.00 |
 | 3/10/2020 | F6D24763 | CCITF Team Firearms - Clinch, Fighting out of the. | Passed | 0.0 | 4.00 |
-| 3/10/2020 | OCS13347 | March Patrol firearms | Passed | 0.0 | 1.00 |
+| 3/10/2020 | OCS13347 | March Patrol Firearms | Passed | 0.0 | 1.00 |
 | 2/29/2020 | F6D20637 | Fighting in the Clinch / Out of the Hole/ Contacts | Passed | 0.0 | 1.00 |
 | 2/28/2020 | OCS17712 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 2/20/2020 | OCS40366 | CPR/First Aid/Aed | Passed | 0.0 | 1.00 |
-| 2/20/2020 | OCS35212 | Corrections 1st quarter firearms | Passed | 0.0 | 2.00 |
+| 2/20/2020 | OCS35212 | Corrections 1st Quarter Firearms | Passed | 0.0 | 2.00 |
 | 1/30/2020 | F6D23484 | Lethal Force Decision Making | Passed | 0.0 | 1.00 |
 | 12/31/2019 | F6D23372 | Room Entry/  Target Discretion/ Reactive Target | Passed | 0.0 | 1.00 |
 | 12/30/2019 | OCS36896 | Mental Health stress management training | Passed | 0.0 | 3.00 |
@@ -276,7 +276,7 @@
 | 10/7/2019 | F6D41364 | Rifle Instructor Training | Passed | 0.0 | 4.00 |
 | 9/30/2019 | F6D02705 | Lethal Force Decisions Making | Passed | 0.0 | 1.00 |
 | 8/31/2019 | F6D42540 | Team Entry/ Points of Domination/ Sectors of Fire | Passed | 0.0 | 1.00 |
-| 8/31/2019 | OCS33584 | Strangulation training | Passed | 0.0 | 2.00 |
+| 8/31/2019 | OCS33584 | Strangulation Training | Passed | 0.0 | 2.00 |
 | 8/12/2019 | MISCMAIN | 2019 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2019 | F6D05622 | Efficient Movement / Shooting on the Move | Passed | 0.0 | 1.00 |
 | 7/30/2019 | OCS43118 | Defensive Tactics | Passed | 0.0 | 1.00 |
@@ -309,7 +309,7 @@
 | 9/28/2018 | OCS05478 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 9/12/2018 | F6D33453 | LEAD Faucet Tactical Accelerated Pistol IDC | Passed | 0.0 | 16.00 |
 | 8/31/2018 | F6B01608 | Reload Drills/Pie, Lean  Snap | Passed | 0.0 | 1.00 |
-| 8/3/2018 | OCS29982 | Air Unit- SWAT Training/ TFO Intro | Passed | 0.0 | 6.00 |
+| 8/3/2018 | OCS29982 | Air Unit - SWAT Training/TFO Intro | Passed | 0.0 | 6.00 |
 | 7/31/2018 | F6B03851 | Glock Pistol Standards | Passed | 0.0 | 1.00 |
 | 7/30/2018 | OCS05368 | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 7/24/2018 | OCS35351 | Active Shooter Tactical Response | Passed | 0.0 | 4.00 |

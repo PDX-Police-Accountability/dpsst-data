@@ -39,9 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/1/2023 | OCS3320A | Shoot/No Shoot targets, Marksmanship | Passed | 0.0 | 1.00 |
+| 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
-| 5/21/2023 | OCS1318A | Resiliency training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
@@ -50,7 +50,7 @@
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
-| 11/30/2022 | OCS15169 | Target zone transitions, marksmanship | Passed | 0.0 | 1.00 |
+| 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS37740 | Taser Refresher Course | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
@@ -65,26 +65,26 @@
 | 6/30/2022 | OCS08007 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
 | 6/23/2022 | VND32811 | Hate and Bias Crimes | Passed | 0.0 | 4.00 |
 | 6/20/2022 | OCS41203 | Target Transition  Marksmanship | Passed | 0.0 | 1.00 |
-| 5/19/2022 | OCS27163 | Ethos training | Passed | 0.0 | 1.00 |
-| 5/19/2022 | OCS06518 | Ethos training | Passed | 0.0 | 2.00 |
+| 5/19/2022 | OCS27163 | Ethos Training | Passed | 0.0 | 1.00 |
+| 5/19/2022 | OCS06518 | Ethos Training | Passed | 0.0 | 2.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
-| 4/15/2022 | OCS02039 | Axon bodycam training | Passed | 0.0 | 2.00 |
-| 3/30/2022 | OCS17075 | Marksmanship, one hand shooting, movement | Passed | 0.0 | 1.00 |
+| 4/15/2022 | OCS02039 | Axon Bodycam Training | Passed | 0.0 | 2.00 |
+| 3/30/2022 | OCS17075 | Marksmanship/One Hand Shooting/Movement | Passed | 0.0 | 1.00 |
 | 3/25/2022 | OCS06695 | First Aid/CPR | Passed | 0.0 | 6.00 |
 | 3/20/2022 | OCS05711 | Arrest and Control | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS16578 | Striking and Weapon Retention | Passed | 0.0 | 1.00 |
 | 2/28/2022 | OCS37116 | Balancing speed and marksmanship | Passed | 0.0 | 1.00 |
 | 1/26/2022 | OCS02052 | Interfering w Police Officer OSSA legal update | Passed | 0.0 | 0.15 |
-| 1/20/2022 | OCS34045 | Use of Force Decision making/problem solving | Passed | 0.0 | 1.00 |
+| 1/20/2022 | OCS34045 | Use of Force Decision Making/Problem Solving | Passed | 0.0 | 1.00 |
 | 1/13/2022 | OCS29468 | 2021 OSSA Legal Updates | Passed | 0.0 | 1.00 |
-| 12/30/2021 | OCS20147 | Shoot/No-Shoot scenarios/decision making | Passed | 0.0 | 1.00 |
+| 12/30/2021 | OCS20147 | Shoot/No-Shoot Scenarios/Decision Making | Passed | 0.0 | 1.00 |
 | 12/17/2021 | OCS41758 | Workplace violence prevention | Passed | 0.0 | 0.50 |
-| 12/16/2021 | OCS23717 | Mark 43- Use of Force Reporting | Passed | 0.0 | 1.00 |
+| 12/16/2021 | OCS23717 | Mark 43 - Use of Force Reporting | Passed | 0.0 | 1.00 |
 | 11/30/2021 | OCS43456 | Low Light, Target ID, Fighting around vehicle | Passed | 0.0 | 1.00 |
 | 10/28/2021 | OCS43712 | October Monthly Defensive Tactics | Passed | 0.0 | 1.00 |
-| 10/28/2021 | OCS30796 | DeEscalation/Decision Making/Target ID | Passed | 0.0 | 1.00 |
+| 10/28/2021 | OCS30796 | De-Escalation/Decision Making/Target ID | Passed | 0.0 | 1.00 |
 | 10/19/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/15/2021 | OCS36185 | OSHA Protection Wildfire Smoke Training | Passed | 0.0 | 0.15 |
 | 10/12/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
@@ -94,42 +94,42 @@
 | 8/30/2021 | OCS36108 | August monthly firearms | Passed | 0.0 | 1.00 |
 | 8/30/2021 | OCS29671 | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 8/21/2021 | OCS15046 | COVID Crisis and Consequences | Passed | 0.0 | 1.00 |
-| 8/20/2021 | OCS16631 | DA training: Eyewitness ID | Passed | 0.0 | 1.00 |
+| 8/20/2021 | OCS16631 | DA Training: Eyewitness ID | Passed | 0.0 | 1.00 |
 | 8/20/2021 | OCS04137 | Strangulation Supplemental Training | Passed | 0.0 | 0.50 |
-| 8/20/2021 | OCS14467 | Keeping Superheroes super | Passed | 0.0 | 1.00 |
-| 8/20/2021 | OCS30507 | Keeping Superheroes super | Passed | 0.0 | 1.00 |
+| 8/20/2021 | OCS14467 | Keeping Superheroes Super | Passed | 0.0 | 1.00 |
+| 8/20/2021 | OCS30507 | Keeping Superheroes Super | Passed | 0.0 | 1.00 |
 | 8/12/2021 | OCS32734 | Social Media Awareness Training | Passed | 0.0 | 0.50 |
 | 7/30/2021 | OCS42490 | July monthly defensive tactics | Passed | 0.0 | 1.00 |
 | 7/23/2021 | OCS29653 | Duty to Intercede | Passed | 0.0 | 1.50 |
-| 7/22/2021 | OCS25187 | Getting out of your own way | Passed | 0.0 | 1.00 |
-| 7/22/2021 | OCS18300 | Getting out of your own way | Passed | 0.0 | 1.00 |
+| 7/22/2021 | OCS25187 | Getting Out of Your Own Way | Passed | 0.0 | 1.00 |
+| 7/22/2021 | OCS18300 | Getting Out of Your Own Way | Passed | 0.0 | 1.00 |
 | 7/13/2021 | OCS14598 | Crime Victim Course | Passed | 0.0 | 0.25 |
-| 6/30/2021 | OCS09513 | June DT's ground work | Passed | 0.0 | 1.00 |
+| 6/30/2021 | OCS09513 | June DT's Ground Work | Passed | 0.0 | 1.00 |
 | 6/20/2021 | OCS43052 | EVOC track | Passed | 0.0 | 4.00 |
 | 5/3/2021 | F6D39028 | SFST Refresher with Wet Lab | Passed | 0.0 | 9.00 |
 | 4/30/2021 | OCS01197 | June Monthly Firearms | Passed | 0.0 | 1.00 |
 | 4/30/2021 | OCS36696 | EVOC classroom | Passed | 0.0 | 1.00 |
-| 4/21/2021 | OCS01274 | EVOC track session | Passed | 0.0 | 5.00 |
-| 2/28/2021 | OCS18919 | Defensive Tactics- Striking | Passed | 0.0 | 1.00 |
-| 2/28/2021 | OCS05265 | February monthly firearms | Passed | 0.0 | 1.00 |
-| 2/1/2021 | OCS31237 | Harassment training | Passed | 0.0 | 0.50 |
-| 1/31/2021 | OCS18275 | Ballot measure 110 | Passed | 0.0 | 1.00 |
-| 1/31/2021 | OCS03188 | January monthly firearms | Passed | 0.0 | 1.00 |
+| 4/21/2021 | OCS01274 | EVOC Track Session | Passed | 0.0 | 5.00 |
+| 2/28/2021 | OCS18919 | Defensive Tactics - Striking | Passed | 0.0 | 1.00 |
+| 2/28/2021 | OCS05265 | February Monthly Firearms | Passed | 0.0 | 1.00 |
+| 2/1/2021 | OCS31237 | Harassment Training | Passed | 0.0 | 0.50 |
+| 1/31/2021 | OCS18275 | Ballot Measure 110 | Passed | 0.0 | 1.00 |
+| 1/31/2021 | OCS03188 | January Monthly Firearms | Passed | 0.0 | 1.00 |
 | 1/30/2021 | OCS32307 | De-Escalation Tactics | Passed | 0.0 | 1.00 |
 | 1/20/2021 | OCS15621 | Ethics | Passed | 0.0 | 2.00 |
 | 12/30/2020 | OCS09190 | Taser | Passed | 0.0 | 1.00 |
 | 12/16/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 12/16/2020 | OCS06550 | Addressing COVID19 workplace risks | Passed | 0.0 | 0.50 |
+| 12/16/2020 | OCS06550 | Addressing Covid-19 Workplace Risks | Passed | 0.0 | 0.50 |
 | 11/30/2020 | OCS10020 | Taser Recert | Passed | 0.0 | 1.00 |
 | 10/30/2020 | OCS39876 | Fall Rifle 2020 | Passed | 0.0 | 4.00 |
 | 10/30/2020 | OCS41114 | Ethics | Passed | 0.0 | 2.00 |
 | 10/28/2020 | OCS24695 | Transit DT's crowd management | Passed | 0.0 | 1.50 |
-| 9/30/2020 | OCS09610 | Defensive Tactics- September | Passed | 0.0 | 1.00 |
-| 9/1/2020 | OCS31981 | Sept firearms monthly | Passed | 0.0 | 1.00 |
+| 9/30/2020 | OCS09610 | Defensive Tactics - September | Passed | 0.0 | 1.00 |
+| 9/1/2020 | OCS31981 | September Firearms Monthly | Passed | 0.0 | 1.00 |
 | 7/30/2020 | OCS37076 | Defensive Tactics-July | Passed | 0.0 | 1.00 |
-| 6/30/2020 | OCS34043 | Defensive Tactics-June | Passed | 0.0 | 1.00 |
-| 5/30/2020 | OCS03312 | Defensive Tactics-May | Passed | 0.0 | 1.00 |
-| 5/19/2020 | OCS09180 | March Patrol firearms | Passed | 0.0 | 1.00 |
+| 6/30/2020 | OCS34043 | Defensive Tactics - June | Passed | 0.0 | 1.00 |
+| 5/30/2020 | OCS03312 | Defensive Tactics - May | Passed | 0.0 | 1.00 |
+| 5/19/2020 | OCS09180 | March Patrol Firearms | Passed | 0.0 | 1.00 |
 | 3/11/2020 | PDP40604 | Mobile Identification Device (MIDD) Training | Passed | 0.0 | 0.50 |
 | 2/29/2020 | F6D20637 | Fighting in the Clinch / Out of the Hole/ Contacts | Passed | 0.0 | 1.00 |
 | 2/20/2020 | OCS40366 | CPR/First Aid/Aed | Passed | 0.0 | 1.00 |

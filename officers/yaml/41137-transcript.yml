@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/9/2023
+  course: OSH4296A
+  title: IACP Impaired Driving Traffic Saftey Conference
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 5/30/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

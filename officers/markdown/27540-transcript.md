@@ -120,7 +120,7 @@
 | 7/5/2019 | F6D22492 | Emotional Survival/Diabetic Emergecies | Passed | 0.0 | 1.25 |
 | 6/28/2019 | F6D40262 | Investigating  Prosecuting Hate Crimes in Oregon | Passed | 0.0 | 2.00 |
 | 6/24/2019 | F6D34061 | Scenario Based Defensive Tactics/ Building Clear | Instructed | 0.0 | 4.00 |
-| 5/17/2019 | OCS09763 | First aid , CPR, AED TCCC | Passed | 0.0 | 8.00 |
+| 5/17/2019 | OCS09763 | First Aid, CPR, AED  TCCC | Passed | 0.0 | 8.00 |
 | 4/18/2019 | PDP18360 | 2019-1  Supervisor In-Service Active Shooter | Passed | 0.0 | 4.83 |
 | 4/18/2019 | PDP07716 | Supervisor In-Service Armored Vehicle Capabilities | Passed | 0.0 | 0.17 |
 | 4/12/2019 | F6D00768 | Legislative Update | Passed | 0.0 | 1.00 |

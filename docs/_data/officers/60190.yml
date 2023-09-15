@@ -139,19 +139,19 @@ training_records:
   hours: '1.00'
 - date: 8/20/2021
   course: OCS16631
-  title: 'DA training: Eyewitness ID'
+  title: 'DA Training: Eyewitness ID'
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/20/2021
   course: OCS14467
-  title: Keeping Superheroes super
+  title: Keeping Superheroes Super
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/20/2021
   course: OCS30507
-  title: Keeping Superheroes super
+  title: Keeping Superheroes Super
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -187,13 +187,13 @@ training_records:
   hours: '1.50'
 - date: 7/22/2021
   course: OCS25187
-  title: Getting out of your own way
+  title: Getting Out of Your Own Way
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 7/22/2021
   course: OCS18300
-  title: Getting out of your own way
+  title: Getting Out of Your Own Way
   status: Passed
   score: '0.0'
   hours: '1.00'

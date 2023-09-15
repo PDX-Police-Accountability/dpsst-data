@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/5/2023
+  course: LOP1926A
+  title: Prison Rape Elimination Ace (PREA)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/16/2023
   course: LOP2153A
   title: EVOC/HR Stops/Box-In

@@ -404,7 +404,7 @@
 | 5/18/2019 | PDP17498 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 5/18/2019 | PDP30979 | 2019-6 Tips and Techniques Training Roster | Passed | 0.0 | 0.25 |
 | 5/17/2019 | 19-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
-| 5/17/2019 | OCS12063 | Metro Sgts Academy | Passed | 0.0 | 80.00 |
+| 5/17/2019 | OCS12063 | Metro Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/5/2019 | PDP40931 | 2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng | Passed | 0.0 | 0.25 |
 | 3/29/2019 | PDP01895 | 2018-2 City Attorney's Legal Updates for Q12 | Passed | 0.0 | 1.00 |
 | 3/29/2019 | PDP37957 | 2019-2 TT Use of Force/De-escalation QA | Passed | 0.0 | 0.25 |

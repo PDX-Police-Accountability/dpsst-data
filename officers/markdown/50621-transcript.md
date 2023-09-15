@@ -152,7 +152,7 @@
 | 5/22/2019 | PDP30979 | 2019-6 Tips and Techniques Training Roster | Passed | 0.0 | 0.25 |
 | 5/22/2019 | PDP27572 | 2019-7 TipsTech CAD Study Codes to Track Pursuits | Passed | 0.0 | 0.25 |
 | 5/17/2019 | 19-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
-| 5/17/2019 | OCS12063 | Metro Sgts Academy | Passed | 0.0 | 80.00 |
+| 5/17/2019 | OCS12063 | Metro Sergeants Academy | Passed | 0.0 | 80.00 |
 | 5/1/2019 | PDP17498 | 2019-4 Tips  Techniques Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 5/1/2019 | PDP21682 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
 | 4/30/2019 | PDP23426 | City Attorney's Office Legal Updates February 2019 | Passed | 0.0 | 0.25 |

@@ -264,14 +264,14 @@
 | 6/30/2020 | PDP38887 | 2020 FTEP Policy and Procedure | Passed | 0.0 | 6.00 |
 | 4/24/2020 | F6D04953 | Firearms/ Less Lethal Qualification | Passed | 0.0 | 4.00 |
 | 2/27/2020 | F6D12206 | 2020 Protecting Lives Saving Futures | Passed | 0.0 | 26.50 |
-| 2/14/2020 | OCS16136 | CIT day 5 | Passed | 0.0 | 8.00 |
-| 2/13/2020 | OCS08257 | CIT day 4 | Passed | 0.0 | 8.00 |
-| 2/12/2020 | OCS26459 | CIT day 3 | Passed | 0.0 | 8.00 |
+| 2/14/2020 | OCS16136 | CIT Day 5 | Passed | 0.0 | 8.00 |
+| 2/13/2020 | OCS08257 | CIT Day 4 | Passed | 0.0 | 8.00 |
+| 2/12/2020 | OCS26459 | CIT Day 3 | Passed | 0.0 | 8.00 |
 | 2/11/2020 | F6D30884 | DMV Hearing Training | Passed | 0.0 | 1.00 |
 | 2/11/2020 | F6D40805 | Stalk Order Training | Passed | 0.0 | 1.00 |
 | 2/11/2020 | OCS42915 | CIT day 2 | Passed | 0.0 | 8.00 |
 | 2/10/2020 | OCS07456 | CIT day 1 | Passed | 0.0 | 8.00 |
-| 11/21/2019 | OCS10980 | First Aid CPR Field tramatic injury care | Passed | 0.0 | 8.00 |
+| 11/21/2019 | OCS10980 | First Aid  CPR Field Traumatic Injury Care | Passed | 0.0 | 8.00 |
 | 11/1/2019 | F6D07601 | Firearms Training (Multiple Targets) | Passed | 0.0 | 3.00 |
 | 10/10/2019 | F6D10002 | Legislative Law Update | Passed | 0.0 | 1.00 |
 | 8/8/2019 | F6D36473 | 2-Day Patrol Rifle Class | Passed | 0.0 | 20.00 |

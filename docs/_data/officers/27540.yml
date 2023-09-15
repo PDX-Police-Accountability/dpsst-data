@@ -565,7 +565,7 @@ training_records:
   hours: '4.00'
 - date: 5/17/2019
   course: OCS09763
-  title: First aid , CPR, AED TCCC
+  title: First Aid, CPR, AED  TCCC
   status: Passed
   score: '0.0'
   hours: '8.00'

@@ -172,7 +172,7 @@
 | 5/30/2019 | BPT05082 | Field Training and Evaluation Program | Passed | 0.0 | 24.00 |
 | 5/29/2019 | BVP27570 | Calls for Service | Instructed | 0.0 | 10.00 |
 | 5/22/2019 | BVP08528 | Peer Support Overview | Instructed | 0.0 | 5.00 |
-| 5/17/2019 | OCS19770 | Metro sgts. academy | Passed | 0.0 | 60.00 |
+| 5/17/2019 | OCS19770 | Metro Sergeants Academy | Passed | 0.0 | 60.00 |
 | 4/25/2019 | BVP07517 | High Risk Traffic Stops | Instructed | 0.0 | 3.00 |
 | 4/19/2019 | BVP00159 | Complete Tactical Emergency Casualty Care | Passed | 0.0 | 40.00 |
 | 4/15/2019 | BVP00036 | March Qualification Range | Passed | 0.0 | 3.00 |

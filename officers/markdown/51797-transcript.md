@@ -272,7 +272,7 @@
 | 5/25/2019 | PDP27572 | 2019-7 TipsTech CAD Study Codes to Track Pursuits | Passed | 0.0 | 0.25 |
 | 5/25/2019 | PDP23426 | City Attorney's Office Legal Updates February 2019 | Passed | 0.0 | 0.25 |
 | 5/25/2019 | PDP37791 | City Attorney's Office Legal Updates March 2019 | Passed | 0.0 | 0.25 |
-| 5/17/2019 | OCS12063 | Metro Sgts Academy | Passed | 0.0 | 80.00 |
+| 5/17/2019 | OCS12063 | Metro Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/27/2019 | PDP30425 | Field Force Extrication | Passed | 0.0 | 32.00 |
 | 4/19/2019 | PDP15568 | May Day 2019 City Attorney Training | Passed | 0.0 | 1.50 |
 | 4/17/2019 | PDP40931 | 2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng | Passed | 0.0 | 0.25 |

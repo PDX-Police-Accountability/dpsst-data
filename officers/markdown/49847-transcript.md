@@ -380,7 +380,7 @@
 | 7/23/2018 | PDP33173 | SSD Stops Application | Passed | 0.0 | 0.50 |
 | 6/10/2018 | PDP15633 | 2018-2 Primary Sidearm Qualification | Passed | 0.0 | 0.50 |
 | 6/10/2018 | PDP41145 | 2018-2 Shotgun Qualification | Passed | 0.0 | 0.50 |
-| 5/25/2018 | OCS22620 | Prevention and response to suicide bombing | Passed | 0.0 | 36.00 |
+| 5/25/2018 | OCS22620 | Prevention and Response to Suicide Bombing | Passed | 0.0 | 36.00 |
 | 4/30/2018 | PDP39936 | Tips and Tech Hazard Tow vs. Private Request | Passed | 0.0 | 0.25 |
 | 4/30/2018 | PDP18845 | Disposition of Records Upon Retirement | Passed | 0.0 | 0.25 |
 | 3/25/2018 | PDP42272 | IFAK Refresher Video | Passed | 0.0 | 0.25 |

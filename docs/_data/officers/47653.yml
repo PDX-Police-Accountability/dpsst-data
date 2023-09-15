@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/8/2023
+  course: ALP2843A
+  title: Taser Instructor certification
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/1/2023
   course: PDP0634A
   title: 2023 FTEP Post Basic CEW Taser

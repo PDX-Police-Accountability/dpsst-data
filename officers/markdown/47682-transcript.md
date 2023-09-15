@@ -374,7 +374,7 @@
 | 5/19/2019 | PDP23426 | City Attorney's Office Legal Updates February 2019 | Passed | 0.0 | 0.25 |
 | 5/19/2019 | PDP37791 | City Attorney's Office Legal Updates March 2019 | Passed | 0.0 | 0.25 |
 | 5/17/2019 | 19-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
-| 5/17/2019 | OCS12063 | Metro Sgts Academy | Passed | 0.0 | 80.00 |
+| 5/17/2019 | OCS12063 | Metro Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/27/2019 | PDP40931 | 2019-3 TipsTech ECIT Dispatch Criteria/BOEC Trng | Passed | 0.0 | 0.25 |
 | 4/19/2019 | PDP15568 | May Day 2019 City Attorney Training | Passed | 0.0 | 1.50 |
 | 4/12/2019 | PDP06426 | RRT DPSST State Basic Crowd Control School | Passed | 0.0 | 24.00 |

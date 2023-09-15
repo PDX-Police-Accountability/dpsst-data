@@ -1430,19 +1430,19 @@ training_records:
   hours: '26.50'
 - date: 2/14/2020
   course: OCS16136
-  title: CIT day 5
+  title: CIT Day 5
   status: Passed
   score: '0.0'
   hours: '8.00'
 - date: 2/13/2020
   course: OCS08257
-  title: CIT day 4
+  title: CIT Day 4
   status: Passed
   score: '0.0'
   hours: '8.00'
 - date: 2/12/2020
   course: OCS26459
-  title: CIT day 3
+  title: CIT Day 3
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -1472,7 +1472,7 @@ training_records:
   hours: '8.00'
 - date: 11/21/2019
   course: OCS10980
-  title: First Aid CPR Field tramatic injury care
+  title: First Aid  CPR Field Traumatic Injury Care
   status: Passed
   score: '0.0'
   hours: '8.00'
