@@ -34,7 +34,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/11/2000 | Bachelor Science | Portland State University |  | 86.0 |
+| 6/11/2000 | Bachelor Science | Portland State University |  | 187.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
