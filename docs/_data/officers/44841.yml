@@ -50,9 +50,15 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2023
+  course: LOP2709A
+  title: Airway/Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/16/2023
   course: LOP1926A
-  title: Prison Rape Elimination Ace (PREA)
+  title: Prison Rape Elimination Act (PREA)
   status: Passed
   score: '0.0'
   hours: '0.50'

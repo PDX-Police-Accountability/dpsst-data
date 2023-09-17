@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |

@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2023 | MMP3001A | Basic Pistol Mount Optic Training | Passed | 0.0 | 6.00 |
+| 9/1/2023 | MMP3658A | 2023 Legislative Report | Passed | 0.0 | 0.50 |
 | 7/27/2023 | BPT2237A | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/30/2023 | MMP0024A | Mental Health / CIT - P1A | Passed | 0.0 | 3.00 |
 | 5/23/2023 | MMP0982 | Airway Training and Patient Care | Passed | 0.0 | 1.00 |

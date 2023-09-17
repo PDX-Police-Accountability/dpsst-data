@@ -43,7 +43,6 @@
 | 6/30/2023 | TDP4273A | Ethics in LE 2023 - The Dalles Police Department | Passed | 0.0 | 1.00 |
 | 6/1/2023 | TDP4058A | Airway Circulatory Crisis Training 2023 | Passed | 0.0 | 2.00 |
 | 5/22/2023 | TDP0412A | CPR/First Aid | Passed | 0.0 | 4.00 |
-| 5/22/2023 | TDP2630A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 4/28/2023 | PLA0008A | A Person's a Person, No Matter How Small | Passed | 0.0 | 1.00 |
 | 4/28/2023 | PLA3221A | Child Fatality Investigations | Passed | 0.0 | 1.00 |
 | 4/28/2023 | PLA4157A | Internet Crimes Against Children | Passed | 0.0 | 2.50 |

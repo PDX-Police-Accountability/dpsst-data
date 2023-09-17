@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/13/2023
+  course: OCS0541A
+  title: One hand shooting/use of cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/2/2023
+  course: OCS0377A
+  title: Vehicle Ambush
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/25/2023
   course: OCS3701A
   title: June/July 2023 Monthly Firearms w/pistol/rifle

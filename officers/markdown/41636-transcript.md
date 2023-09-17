@@ -32,6 +32,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 4/9/2023 | Bachelor Science | All Other Education Institutes |  | 48.0 |
 | 3/15/2005 | No Degree | Portland State University |  | 57.0 |
 | 3/15/2003 | No Degree | Western Oregon University |  | 71.0 |
 ## Training

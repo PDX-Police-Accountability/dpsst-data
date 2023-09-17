@@ -86,6 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/7/2023
+  course: OCS1796A
+  title: Smith  Wesson MP Armorer
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/13/2023
+  course: OCS0541A
+  title: One hand shooting/use of cover
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/30/2023
+  course: OCS0074A
+  title: Ambush/Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/26/2023
   course: OCS1010A
   title: June/July 2023 Monthly Firearms
@@ -122,6 +140,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 7/1/2023
+  course: OCS3379A
+  title: One Handed shooting/Low Light/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/15/2023
   course: OCS3363A
   title: Shoot/No-Shoot Targets  Marksmanship

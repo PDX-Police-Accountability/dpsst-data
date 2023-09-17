@@ -47,6 +47,7 @@
 | 8/28/2023 | EGP1699A | Ethos Academy - Ethics Module 2 | Passed | 0.0 | 1.00 |
 | 8/24/2023 | EGP1252A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |
 | 8/22/2023 | EGP1184A | Taser Certification | Passed | 0.0 | 8.00 |
+| 8/18/2023 | EGP0657A | Pre-Academy:  EVOC | Passed | 0.0 | 24.00 |
 | 8/10/2023 | EGP2347A | Pre-Academy: Mobile Video | Passed | 0.0 | 4.00 |
 | 8/9/2023 | EGP0808A | Pre-Academy: Municipal Court | Passed | 0.0 | 4.00 |
 | 8/8/2023 | EGP0083A | Pre-Academy: Report Writing | Passed | 0.0 | 12.00 |

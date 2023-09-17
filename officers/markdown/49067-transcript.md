@@ -37,6 +37,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | OCS04927 | FARO Scanner Certification | Passed | 0.0 | 24.00 |
 | 8/16/2023 | LOP3340A | West Metro Monthly Motor Training 08/16/2023 | Passed | 0.0 | 5.00 |
+| 8/13/2023 | OCS0541A | One hand shooting/use of cover | Passed | 0.0 | 1.00 |
+| 8/7/2023 | OCS3800A | FTO meeting/training | Passed | 0.0 | 2.00 |
 | 7/19/2023 | LOP4276A | West Metro Monthly Motor Training 07/19/2023 | Passed | 0.0 | 5.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |

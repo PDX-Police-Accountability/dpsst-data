@@ -53,6 +53,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2023 | JDN1031A | Firearms Qualifications | Passed | 0.0 | 0.50 |
+| 9/14/2023 | JDN2121A | Firearms training | Passed | 0.0 | 2.00 |
 | 6/20/2022 | CYS36340 | Trauma Bag Training | Passed | 0.0 | 1.00 |
 | 6/20/2022 | CYS29816 | Night Vision Training | Passed | 0.0 | 2.00 |
 | 5/23/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

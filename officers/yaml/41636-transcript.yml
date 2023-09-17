@@ -3914,6 +3914,11 @@ attribute_records:
   effective_date: 12/14/2005
   expiration_date: ''
 education_records:
+- date: 4/9/2023
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '48.0'
 - date: 3/15/2005
   degree: No Degree
   school: Portland State University

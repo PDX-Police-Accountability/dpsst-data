@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: MMP3001A
+  title: Basic Pistol Mount Optic Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/1/2023
+  course: MMP3658A
+  title: 2023 Legislative Report
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/27/2023
   course: BPT2237A
   title: Intoxilyzer 8000 Certification Course

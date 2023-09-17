@@ -41,12 +41,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2023 | OCS1796A | Smith  Wesson MP Armorer | Passed | 0.0 | 8.00 |
+| 8/13/2023 | OCS0541A | One hand shooting/use of cover | Passed | 0.0 | 1.00 |
+| 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 7/26/2023 | OCS1010A | June/July 2023 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 7/25/2023 | OCS3701A | June/July 2023 Monthly Firearms w/pistol/rifle | Instructed | 0.0 | 3.00 |
 | 7/21/2023 | OCS0072A | Remington 700 Armorer | Passed | 0.0 | 8.00 |
 | 7/20/2023 | OCS0654A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 7/20/2023 | OCS0991A | Remington 870 Armorer | Passed | 0.0 | 16.00 |
 | 7/14/2023 | OCS3464A | Positional Shooting/Target ID/OIS Debrief | Instructed | 0.0 | 4.00 |
+| 7/1/2023 | OCS3379A | One Handed shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/15/2023 | OCS3363A | Shoot/No-Shoot Targets  Marksmanship | Instructed | 0.0 | 93.00 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |

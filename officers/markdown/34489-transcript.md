@@ -38,6 +38,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | OCS04927 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
+| 8/13/2023 | OCS0541A | One hand shooting/use of cover | Passed | 0.0 | 1.00 |
+| 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 7/1/2023 | OCS3379A | One Handed shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS2174A | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |

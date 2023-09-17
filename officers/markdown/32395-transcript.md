@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2023 | PPP0619A | Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |
 | 6/20/2023 | PPP3249A | IBIS Training | Passed | 0.0 | 0.50 |
 | 5/31/2023 | PPP3444A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 5/25/2023 | PPP2006A | Range | Passed | 0.0 | 4.00 |

@@ -51,7 +51,7 @@
 | 7/27/2023 | PDS1320A | Leadership | Passed | 0.0 | 1.00 |
 | 7/11/2023 | PDS2278A | Crisis Negotiations Team Training | Passed | 0.0 | 16.00 |
 | 5/9/2023 | PDS1513A | Crisis Negotiation Training | Passed | 0.0 | 16.00 |
-| 5/9/2023 | PDS1235A | Crisis Negotiations Team Training | Passed | 0.0 | 16.00 |
+| 5/9/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 4/26/2023 | PDS15367 | Yoga for First Responders | Passed | 0.0 | 1.00 |
 | 4/26/2023 | PDS35743 | NAMI Training | Passed | 0.0 | 2.00 |
 | 4/26/2023 | PDS02180 | Peer Support | Passed | 0.0 | 1.00 |

@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 9/11/2023
+  course: BPT2138A
+  title: Stereotype Threat
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/8/2023
   course: BPT4118A
   title: Stereotype Threat

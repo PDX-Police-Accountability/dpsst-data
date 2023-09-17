@@ -170,6 +170,18 @@ certification_records:
   expiration_date: 8/24/2027
   probation_date: ''
 training_records:
+- date: 9/14/2023
+  course: JDN1031A
+  title: Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/14/2023
+  course: JDN2121A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/20/2022
   course: CYS36340
   title: Trauma Bag Training

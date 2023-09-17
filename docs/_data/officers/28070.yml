@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/30/2023
+  course: MNS0835A
+  title: Heat Illness Prevention (Heat Stress)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/8/2023
   course: MNS0453A
   title: Active Threat Response

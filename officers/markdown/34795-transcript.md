@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2023 | OCS0541A | One hand shooting/use of cover | Passed | 0.0 | 1.00 |
+| 8/2/2023 | OCS0377A | Vehicle Ambush | Passed | 0.0 | 1.00 |
 | 7/25/2023 | OCS3701A | June/July 2023 Monthly Firearms w/pistol/rifle | Passed | 0.0 | 3.00 |
 | 7/12/2023 | HDA3708A | Federal and State Civil Forfeiture | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA0101A | Len Bias Investigations | Passed | 0.0 | 4.00 |

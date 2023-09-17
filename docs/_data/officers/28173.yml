@@ -55,6 +55,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 8/2/2023
+  course: MKL0158A
+  title: DAS - CHRO - Heat Illness and Prevention Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2023
+  course: MKL4455A
+  title: DAS - CHRO - Heat Illness and Prevention Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2023
+  course: MKL0855A
+  title: DAS - CHRO - Wildfire Smoke
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/13/2023
   course: MKL28247
   title: Tableau Training

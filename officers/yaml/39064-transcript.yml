@@ -98,12 +98,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 5/22/2023
-  course: TDP2630A
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 4/28/2023
   course: PLA0008A
   title: A Person's a Person, No Matter How Small

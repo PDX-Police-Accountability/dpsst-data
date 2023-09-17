@@ -34,7 +34,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/13/2023 | OCS0541A | One hand shooting/use of cover | Passed | 0.0 | 1.00 |
 | 8/7/2023 | OCS1588A | DUII Refresher | Passed | 0.0 | 1.00 |
+| 8/7/2023 | OCS3800A | FTO meeting/training | Passed | 0.0 | 2.00 |
+| 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 7/1/2023 | OCS3379A | One Handed shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 5/31/2023 | OCS0824A | Child Abduction Table Top Exercise | Passed | 0.0 | 4.00 |

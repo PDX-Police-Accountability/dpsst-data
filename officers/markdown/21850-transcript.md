@@ -49,7 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/5/2023 | LOP1926A | Prison Rape Elimination Ace (PREA) | Passed | 0.0 | 0.50 |
+| 9/5/2023 | LOP1926A | Prison Rape Elimination Act (PREA) | Passed | 0.0 | 0.50 |
 | 6/16/2023 | LOP2153A | EVOC/HR Stops/Box-In | Passed | 0.0 | 3.50 |
 | 6/8/2023 | HUP3953A | Human Strategy Overview | Passed | 0.0 | 0.50 |
 | 5/25/2023 | LOP3247A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |

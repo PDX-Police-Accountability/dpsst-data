@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/31/2023 | PDP0895A | EAP Assisting Individuals in Crisis CISM Trng | Passed | 0.0 | 13.00 |
+| 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 32.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 8.50 |
 | 6/29/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |

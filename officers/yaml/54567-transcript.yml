@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/14/2023
+  course: OCS1387A
+  title: Third Degree Communications
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/1/2023
   course: HDA2069A
   title: Basic Narcotics Investigations

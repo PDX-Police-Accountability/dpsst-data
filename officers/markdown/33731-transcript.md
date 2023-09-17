@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/6/2023 | PDN2884A | Confrontational Simulation-Off Duty Encounters | Passed | 0.0 | 2.00 |
 | 8/23/2023 | PDN4025A | Field Applications-Officer Self Care | Passed | 0.0 | 1.00 |
 | 8/16/2023 | PDN0406A | Intro to Communication Technology | Passed | 0.0 | 4.00 |
