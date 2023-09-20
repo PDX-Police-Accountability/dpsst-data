@@ -42,6 +42,8 @@
 | 7/26/2023 | MFN2654A | Ethics Annual Refresher | Instructed | 0.0 | 1.25 |
 | 7/26/2023 | MFN3105A | Ethics Annual Refresher | Passed | 0.0 | 1.25 |
 | 7/25/2023 | MFN4127A | Ethics Annual Refresher | Passed | 0.0 | 1.15 |
+| 6/21/2023 | GPN1850A | Advanced LSCMI Training - Day 2 with Jeff Hansen | Passed | 0.0 | 4.00 |
+| 6/20/2023 | GPN3327A | Advanced LSCMI Training - Day 1 with Jeff Hansen | Passed | 0.0 | 8.00 |
 | 6/14/2023 | MFN0561A | Defensive Tactics: Handcuffing and Spit Hoods | Passed | 0.0 | 3.00 |
 | 6/8/2023 | BPT0209A | OCMN: MHSN | Passed | 0.0 | 3.50 |
 | 6/8/2023 | BPT0547 | OCMN General Meeting | Passed | 0.0 | 4.00 |

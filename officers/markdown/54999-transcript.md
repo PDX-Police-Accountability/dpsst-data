@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2023 | HRS2373A | Tactical Training-Building Search | Passed | 0.0 | 4.00 |
 | 8/24/2023 | TDP2741A | Tactical Building Clearing  Communication | Passed | 0.0 | 4.00 |
 | 8/3/2023 | TDS1513A | NORTAC OVERLAND | Passed | 0.0 | 4.00 |
 | 7/27/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -49,6 +50,7 @@
 | 5/25/2023 | HRS3603A | Spring Firearms Range | Passed | 0.0 | 4.00 |
 | 5/16/2023 | HRS4113A | Internal Affairs Investigations | Passed | 0.0 | 7.00 |
 | 5/4/2023 | HRS05010 | Tactical Training-Critical Incident Debrief | Passed | 0.0 | 1.50 |
+| 5/4/2023 | HRS2928A | Taser 7 certification | Passed | 0.0 | 2.00 |
 | 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 3/23/2023 | TDP44535 | Tactical Training-Vehicle Assaults | Passed | 0.0 | 3.50 |
 | 3/23/2023 | HRS44984 | Tactical Training-Building Search | Passed | 0.0 | 3.50 |
