@@ -4,7 +4,7 @@
 | name | Green-Mitchell, Laurel A. |
 | dpsst_identifier | 56964 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/14/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/23/2020 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 11/27/2019 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/26/2017 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/14/2018 | Police Officer | Basic | Granted | 3/14/2018 |  |  |
+| 3/14/2018 | Police Officer | Basic | Granted | 3/14/2018 | 12/14/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/1/2023
+  agency: The Dalles Police Department
+  action: Promotion
+  rank: Acting Sgt
+  classification: ''
+  assignment: ''
 - date: 3/12/2002
   agency: The Dalles Police Department
   action: Hired
