@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: PDP3877A
+  title: CPR/First Aid
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/25/2023
   course: PDP2598A
   title: 2023 Force Science Methods of Instruction

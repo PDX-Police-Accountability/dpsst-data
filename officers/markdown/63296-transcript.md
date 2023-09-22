@@ -20,6 +20,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/15/2023 | 9/15/2025 |
 | Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -28,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/15/2023 | PDP4183A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |

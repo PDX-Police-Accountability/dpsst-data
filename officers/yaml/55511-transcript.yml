@@ -73,6 +73,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/15/2023
+  course: PDP4183A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2023
   course: PDP1854A
   title: 2023 FTEP Geography
@@ -1154,6 +1160,10 @@ training_records:
   score: '0.0'
   hours: '36.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/15/2023
+  expiration_date: 9/15/2025
 - topic: Certification Cards
   value: CPR
   effective_date: 5/26/2023

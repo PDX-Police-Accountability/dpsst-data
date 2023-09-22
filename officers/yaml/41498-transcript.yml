@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: PDP2585A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -4839,6 +4845,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 9/6/2023
+  expiration_date: 9/6/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
@@ -4847,10 +4857,6 @@ attribute_records:
   value: Signed
   effective_date: 12/11/2001
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 8/17/2023
 education_records:
 - date: 3/15/2005
   degree: No Degree

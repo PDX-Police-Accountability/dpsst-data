@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/24/2023
+  course: MKL1614A
+  title: Oregon Government Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/23/2023
   course: MKL4382
   title: First Aid and CPR

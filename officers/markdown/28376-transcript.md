@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2023 | PDP4183A | CPR/First Aid | Instructed | 0.0 | 2.00 |
+| 9/12/2023 | PDP2364A | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/14/2023 | PDP3666A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 8/11/2023 | PDP2604A | CPR/First Aid | Instructed | 0.0 | 1.75 |

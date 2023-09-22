@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 9/11/2023 | REG2435A | Cross-side/Positional Flow Drills | Passed | 0.0 | 1.00 |
+| 8/28/2023 | REG3847A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 7/24/2023 | REG0938A | Anaconda/Darce Defense | Passed | 0.0 | 1.00 |
 | 7/20/2023 | SDP0181A | LEDS Re-Certification / Certification | Passed | 0.0 | 1.00 |
 | 7/17/2023 | REG0434A | Cross Side Bottom Escape | Passed | 0.0 | 1.00 |

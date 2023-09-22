@@ -34,6 +34,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/18/2023 | PDP2722A | 2022-2 In Service Online Recordings | Passed | 0.0 | 6.50 |
+| 9/13/2023 | PDP3409A | 2022-2 In Service Legal Updates Recorded Training | Passed | 0.0 | 0.00 |
+| 9/13/2023 | PDP0884A | 2022-2 In Service Mental Health / CI | Passed | 0.0 | 1.00 |
+| 9/13/2023 | PDP2845A | 2022-2 In-Service HRAR 2.02 Refresher Recorded Tra | Passed | 0.0 | 0.75 |
+| 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 0.25 |
+| 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/6/2022 | PDP21588 | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |

@@ -100,6 +100,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/12/2023
+  course: BNP1437A
+  title: Ethos Academy
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/12/2023
+  course: BNP3795A
+  title: Mechanical Breaching
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/12/2023
+  course: BNP4475A
+  title: Crowd Control for civil unrest
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2023
+  course: BNP2917A
+  title: Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/12/2023
+  course: BNP3906A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/2/2023
   course: BNP2344A
   title: Extreme Risk Protection Orders

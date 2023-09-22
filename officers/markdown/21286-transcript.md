@@ -44,10 +44,20 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/7/2023 | BBP4333A | Taser 10 Instructor Training | Passed | 0.0 | 6.00 |
 | 8/10/2023 | REG0835A | EVO Skills Update | Passed | 0.0 | 4.00 |
+| 6/1/2023 | BBP3544A | Autism for Law Enforcement | Passed | 0.0 | 2.00 |
+| 6/1/2023 | BBP2929A | De-Escalation and Reasonable Use of Force | Passed | 0.0 | 2.00 |
+| 5/1/2023 | BBP4307A | Civil Rights | Passed | 0.0 | 4.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
+| 4/1/2023 | BBP2796A | Sexual Harassment in the Workplace | Passed | 0.0 | 1.00 |
+| 4/1/2023 | BBP0287A | Ethics | Passed | 0.0 | 1.00 |
 | 3/31/2023 | BBP03226 | Firearms Qualification | Passed | 0.0 | 1.00 |
+| 3/1/2023 | BBP3231A | Search and Seizure | Passed | 0.0 | 2.00 |
+| 3/1/2023 | BBP4424A | Community Policing | Passed | 0.0 | 2.00 |
 | 2/28/2023 | BBP02130 | Firearms Training/Qualification | Passed | 0.0 | 1.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 2/1/2023 | BBP1367A | Airbourne and Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
+| 2/1/2023 | BBP3940A | Ambush Awareness and Preparedness | Passed | 0.0 | 1.00 |
+| 2/1/2023 | BBP3867A | Prison Rape Elimination Act | Passed | 0.0 | 1.00 |
 | 12/30/2022 | BBP38345 | Suspects in Medical Distress | Passed | 0.0 | 1.00 |
 | 11/30/2022 | BBP03258 | Domestic Violence/Lethality Assessment | Passed | 0.0 | 4.00 |
 | 10/30/2022 | BBP34683 | Dealing with the Mentally Ill | Passed | 0.0 | 2.00 |

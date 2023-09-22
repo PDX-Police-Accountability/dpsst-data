@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/7/2023
+  course: MFN0037A
+  title: Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/7/2023
+  course: MFN3887A
+  title: Handgun Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/24/2023
   course: MFN0508A
   title: Tac Med

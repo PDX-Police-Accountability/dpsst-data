@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/24/2023 | MKL1614A | Oregon Government Ethics Training | Passed | 0.0 | 2.50 |
 | 8/23/2023 | MKL4382 | First Aid and CPR | Passed | 0.0 | 5.00 |
 | 6/21/2023 | MKL2829A | Alcohol Compliance - Updates and Refresher | Passed | 0.0 | 2.00 |
 | 5/19/2023 | MKL0808 | Mental Health Awareness:  Managing Stress/Anxiety | Passed | 0.0 | 1.00 |

@@ -48,6 +48,11 @@
 | 5/5/2029 | BNP41000 | 2nd Quart. Inservice HG,Rifle,Off duty skills | Passed | 0.0 | 6.00 |
 | 5/5/2029 | BNP05541 | Emotional Intelligenc / Mental Health | Passed | 0.0 | 0.50 |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 9/11/2023 | BNP3795A | Mechanical Breaching | Passed | 0.0 | 1.00 |
+| 9/11/2023 | BNP4475A | Crowd Control for civil unrest | Passed | 0.0 | 0.50 |
+| 9/11/2023 | BNP1437A | Ethos Academy | Passed | 0.0 | 3.00 |
+| 9/11/2023 | BNP3906A | Range | Passed | 0.0 | 3.00 |
+| 9/11/2023 | BNP2917A | Mental Health | Passed | 0.0 | 0.50 |
 | 6/27/2023 | HUP2655A | OACP Board Meeting | Passed | 0.0 | 3.00 |
 | 6/2/2023 | BNP2344A | Extreme Risk Protection Orders | Passed | 0.0 | 1.00 |
 | 6/2/2023 | BNP2555A | Excited Delirium | Passed | 0.0 | 0.50 |

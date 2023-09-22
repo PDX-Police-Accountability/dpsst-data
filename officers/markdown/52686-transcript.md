@@ -47,6 +47,7 @@
 | 5/18/2023 | PDP3706A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/18/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/18/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 5/18/2023 | PDP4104A | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 5/10/2023 | PDP1627A | CPR/First Aid | Instructed | 0.0 | 1.75 |

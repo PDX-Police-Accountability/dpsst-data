@@ -68,6 +68,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 9/11/2023
+  course: REG2435A
+  title: Cross-side/Positional Flow Drills
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/28/2023
+  course: REG3847A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/24/2023
   course: REG0938A
   title: Anaconda/Darce Defense
