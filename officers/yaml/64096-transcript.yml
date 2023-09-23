@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/8/2023
+  course: PDP2543A
+  title: RADAR/LIDAR Operator
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/14/2023
   course: M10-23A
   title: DPSST Basic Police Course
@@ -42,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/10/2023
+  course: PDP3991A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/3/2023
   course: PDP1304A
   title: 2023 FTEP Pre-DPSST Firearms 080323

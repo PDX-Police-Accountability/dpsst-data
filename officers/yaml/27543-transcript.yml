@@ -162,6 +162,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/21/2023
+  course: PDP1177A
+  title: 2023 Training PVO PIT/Box-In Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 6/21/2023
+  course: PDP3184A
+  title: 2023 Training CEW Rehire Course
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/20/2023
   course: PDP2369A
   title: 2022 MCDA Probable Cause Refresher Training

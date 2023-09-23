@@ -40,7 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/3/2023 | PDP1006A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/29/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 6/8/2023 | PDP1955A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 5/31/2023 | PDP0889 | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

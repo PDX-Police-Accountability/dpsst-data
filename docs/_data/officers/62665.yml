@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/8/2023
+  course: PDP2543A
+  title: RADAR/LIDAR Operator
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 6/26/2023
   course: PDP0133A
   title: 2018-2 TT Disposition of Records Upon Retirement

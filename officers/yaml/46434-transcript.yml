@@ -62,12 +62,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/17/2023
+  course: PDP0216A
+  title: 2023 Training PVO Precision Movement Course
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/25/2023
   course: PDP1996A
   title: 2023 PVO Satellite Instructor School - pt 2
   status: Instructed
   score: '0.0'
   hours: '20.00'
+- date: 6/21/2023
+  course: PDP1177A
+  title: 2023 Training PVO PIT/Box-In Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/13/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

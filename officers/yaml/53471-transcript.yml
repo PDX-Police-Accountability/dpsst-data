@@ -73,6 +73,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/21/2023
+  course: PDP3184A
+  title: 2023 Training CEW Rehire Course
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/21/2023
+  course: PDP1177A
+  title: 2023 Training PVO PIT/Box-In Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/6/2023
   course: PDP0022A
   title: City of Portland Bloodborne Pathogens

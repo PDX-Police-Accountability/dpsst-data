@@ -33,13 +33,13 @@ training_records:
 - date: 10/16/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 7/17/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Withdrew
   score: '0.0'
   hours: '640.00'
 - date: 7/12/2023

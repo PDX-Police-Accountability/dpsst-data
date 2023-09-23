@@ -38,7 +38,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/17/2023 | PDP0216A | 2023 Training PVO Precision Movement Course | Instructed | 0.0 | 2.50 |
 | 6/25/2023 | PDP1996A | 2023 PVO Satellite Instructor School - pt 2 | Instructed | 0.0 | 20.00 |
+| 6/21/2023 | PDP1177A | 2023 Training PVO PIT/Box-In Refresher | Instructed | 0.0 | 2.50 |
 | 6/13/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/13/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/13/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/17/2023
+  course: PDP0216A
+  title: 2023 Training PVO Precision Movement Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 3/3/2022
   course: MISCMAIN
   title: 2022 LE Basic 3 Year Maintenance
