@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
+| 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/21/2023 | CDS1945A | Burnout and Trauma Interventions | Passed | 0.0 | 4.00 |
 | 8/21/2023 | CDS4172A | Profiling Dangerous Individuals | Passed | 0.0 | 6.00 |
 | 7/26/2023 | STS0291A | Rifle Training | Passed | 0.0 | 4.00 |

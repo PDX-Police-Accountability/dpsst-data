@@ -40,7 +40,7 @@
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 9/13/2023 | BNP1437A | Ethos Academy | Passed | 0.0 | 3.00 |
 | 9/13/2023 | BNP3795A | Mechanical Breaching | Passed | 0.0 | 1.00 |
-| 9/13/2023 | BNP4475A | Crowd Control for civil unrest | Passed | 0.0 | 0.50 |
+| 9/13/2023 | BNP4475A | Crowd Control for Civil Unrest | Passed | 0.0 | 0.50 |
 | 9/13/2023 | BNP2917A | Mental Health | Passed | 0.0 | 0.50 |
 | 9/13/2023 | BNP3906A | Range | Passed | 0.0 | 3.00 |
 | 8/16/2023 | BNP2160A | Essentials of Leadership 1-4 Online | Passed | 0.0 | 4.00 |

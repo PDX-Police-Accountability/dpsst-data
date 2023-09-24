@@ -35,12 +35,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2023 | MFN2783A | ConSim Field Scenarios Training | Passed | 0.0 | 2.00 |
 | 9/7/2023 | MFN0037A | Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/7/2023 | MFN3887A | Handgun Fundamentals | Passed | 0.0 | 1.00 |
 | 8/24/2023 | MFN0508A | Tac Med | Passed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/17/2023 | MFN1937A | BCP Training | Passed | 0.0 | 2.00 |
 | 8/15/2023 | MFN1937A | BCP Training | Passed | 0.0 | 2.00 |
+| 7/27/2023 | MFN3714A | Firearms: Movement and Barriers | Passed | 0.0 | 2.00 |
 | 7/26/2023 | MFN2654A | Ethics Annual Refresher | Instructed | 0.0 | 1.25 |
 | 7/26/2023 | MFN3105A | Ethics Annual Refresher | Passed | 0.0 | 1.25 |
 | 7/25/2023 | MFN4127A | Ethics Annual Refresher | Passed | 0.0 | 1.15 |

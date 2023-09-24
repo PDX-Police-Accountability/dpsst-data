@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/5/2023 | HBS1709A | Con-Sim Building Search | Passed | 0.0 | 8.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/13/2023 | HDA4087A | Advanced Internet Profiling and Research | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA4231A | Fentanyl DTO Investigations | Passed | 0.0 | 4.00 |

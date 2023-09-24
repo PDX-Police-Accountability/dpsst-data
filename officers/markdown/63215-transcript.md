@@ -37,6 +37,7 @@
 | 6/2/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/16/2023 | PDP0522A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 5/12/2023 | ALP4172A | DMV At Risk Driver Evaluations (23-16) | Passed | 0.0 | 0.50 |
 | 5/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/1/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 5/1/2023 | PDP2464A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |

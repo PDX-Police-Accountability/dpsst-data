@@ -38,10 +38,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/25/2023 | F1505785 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |
+| 8/24/2023 | F1538237 | ViCAP Database Tutorial | Passed | 0.0 | 2.00 |
+| 8/7/2023 | F1544027 | Policy Review for Code of Ethics | Passed | 0.0 | 1.00 |
+| 8/1/2023 | F1539225 | Deconfliction: Officer Safety | Passed | 0.0 | 1.00 |
+| 7/20/2023 | F1509957 | Significance of BTAM as Best Practice | Passed | 0.0 | 2.00 |
 | 6/23/2023 | F1527963 | Minimun Qualifications | Passed | 0.0 | 0.25 |
 | 6/22/2023 | F1524376 | Coaching Circles: Promoting Equity | Passed | 0.0 | 1.00 |
+| 6/20/2023 | F1513413 | Understanding Homicide  Gun Viol. | Passed | 0.0 | 1.00 |
 | 6/15/2023 | F1511547 | Trauma, Healing  Identity | Passed | 0.0 | 1.50 |
 | 6/8/2023 | F1503551 | Coaching Circles: Building Relation. | Passed | 0.0 | 1.00 |
+| 6/8/2023 | F1526293 | Juvenile Prosecution 101 | Passed | 0.0 | 1.00 |
+| 6/8/2023 | F1532969 | Reconsidering a Famous Crime | Passed | 0.0 | 1.50 |
 | 6/7/2023 | F1519130 | Supervisor Incident Reporting | Passed | 0.0 | 0.25 |
 | 6/6/2023 | F1540504 | National Security Executive Board | Passed | 0.0 | 2.00 |
 | 6/2/2023 | F1532199 | Intern. Counterterrorism Conference | Passed | 0.0 | 6.00 |
@@ -49,10 +57,15 @@
 | 5/31/2023 | F1532199 | Intern. Counterterrorism Conference | Passed | 0.0 | 8.00 |
 | 5/25/2023 | F1543433 | Coaching Circles: Self Awareness | Passed | 0.0 | 1.00 |
 | 5/23/2023 | F1535382 | Building Alliances | Passed | 0.0 | 1.25 |
+| 5/19/2023 | F1539190 | Microaggression Training | Passed | 0.0 | 2.00 |
+| 5/19/2023 | F1523287 | Strangulation - Last Warning Shot 2 | Passed | 0.0 | 1.50 |
+| 5/17/2023 | F1532456 | Strangulation - Last Warning Shot 1 | Passed | 0.0 | 1.50 |
 | 5/12/2023 | PDS3692 | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 5/11/2023 | F1520894 | Coaching Circles: Communication | Passed | 0.0 | 1.00 |
+| 4/19/2023 | F1511797 | Murder 101: Evaluating Evidence | Passed | 0.0 | 1.00 |
 | 4/18/2023 | F1515908 | Executive Leadership Series | Passed | 0.0 | 2.00 |
 | 4/12/2023 | F1537303 | How to Build  Sus. Officer Wellness | Passed | 0.0 | 1.00 |
+| 4/12/2023 | F1540381 | Investigative Genetic Geneology | Passed | 0.0 | 2.00 |
 | 4/11/2023 | F1531288 | Digital Accessibilty Basics - Part 1 | Passed | 0.0 | 1.50 |
 | 1/23/2023 | F1502392 | Policy Review for County Employees | Passed | 0.0 | 2.00 |
 | 1/10/2023 | F1517641 | Policy Review for PII-0 | Passed | 0.0 | 0.50 |

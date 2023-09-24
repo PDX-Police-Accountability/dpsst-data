@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
+| 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 5/8/2023 | HBP0898A | NW Gang Investigators Association Conference | Passed | 0.0 | 36.00 |
 | 4/26/2023 | HBP29327 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 7.00 |
 | 4/21/2023 | HBP0131A | Child Abduction Response Training | Passed | 0.0 | 7.00 |

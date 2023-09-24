@@ -288,7 +288,7 @@
 | 2/17/2020 | F6D18392 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 2/17/2020 | PDP10933 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 11/29/2019 | PDP05742 | IS-241 Decision Making  Problem Solving IS-241b | Passed | 0.0 | 2.00 |
-| 11/28/2019 | CVS06710 | WORKPLACE AND SEXUAL HARASSMENT | Passed | 0.0 | 1.00 |
+| 11/28/2019 | CVS06710 | Workplace and Sexual Harassment | Passed | 0.0 | 1.00 |
 | 11/27/2019 | PDP03445 | 2019 FTEP Radar LIDAR | Passed | 0.0 | 14.00 |
 | 11/26/2019 | BPT00016 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 10/31/2019 | PDP37299 | ICS-100 Intro to Incident Command Sys (IS-00100.c) | Passed | 0.0 | 3.00 |

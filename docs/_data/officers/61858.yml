@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/13/2023
+  course: MFN2783A
+  title: ConSim Field Scenarios Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/7/2023
   course: MFN0037A
   title: Firearms Qualifications
@@ -69,6 +75,12 @@ training_records:
 - date: 8/15/2023
   course: MFN1937A
   title: BCP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/27/2023
+  course: MFN3714A
+  title: 'Firearms: Movement and Barriers'
   status: Passed
   score: '0.0'
   hours: '2.00'

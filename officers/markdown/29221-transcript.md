@@ -48,8 +48,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 9/14/2023 | CVP4482A | General Leadership | Passed | 0.0 | 1.00 |
+| 9/13/2023 | CVP3039A | Case Study - "1 October" | Passed | 0.0 | 1.50 |
 | 9/11/2023 | BNP3795A | Mechanical Breaching | Passed | 0.0 | 1.00 |
-| 9/11/2023 | BNP4475A | Crowd Control for civil unrest | Passed | 0.0 | 0.50 |
+| 9/11/2023 | BNP4475A | Crowd Control for Civil Unrest | Passed | 0.0 | 0.50 |
 | 9/11/2023 | BNP1437A | Ethos Academy | Passed | 0.0 | 3.00 |
 | 9/11/2023 | BNP3906A | Range | Passed | 0.0 | 3.00 |
 | 9/11/2023 | BNP2917A | Mental Health | Passed | 0.0 | 0.50 |

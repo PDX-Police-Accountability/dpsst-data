@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/17/2023
+  course: PDP0620A
+  title: 2023 Training PVO Precision Movement Course
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/16/2023
   course: PDP1993A
   title: CPR/First Aid

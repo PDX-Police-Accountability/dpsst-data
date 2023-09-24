@@ -72,6 +72,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/12/2023
+  course: ALP4172A
+  title: DMV At Risk Driver Evaluations (23-16)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/3/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches

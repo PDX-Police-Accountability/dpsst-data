@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 8/23/2023 | PDP3789A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/16/2023 | PDP0356A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/10/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/17/2023 | PDP0620A | 2023 Training PVO Precision Movement Course | Passed | 0.0 | 2.50 |
 | 8/16/2023 | PDP1993A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 8/16/2023 | PDP0891A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 8/8/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 8.50 |

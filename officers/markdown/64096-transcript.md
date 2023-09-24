@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 8/14/2023 |  |
+| Certification Cards | First Aid and CPR | 8/7/2023 | 8/7/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -32,6 +33,7 @@
 | 8/14/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 8/10/2023 | PDP1912A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 8/10/2023 | PDP3991A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 8/7/2023 | PDP2758A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 8/3/2023 | PDP1304A | 2023 FTEP Pre-DPSST Firearms 080323 | Passed | 0.0 | 9.00 |
 | 8/2/2023 | PDP3460A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 9.00 |
 | 8/1/2023 | PDP0303A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 9.00 |

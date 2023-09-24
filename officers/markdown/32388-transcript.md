@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/5/2023 | HBS1709A | Con-Sim Building Search | Passed | 0.0 | 8.00 |
 | 3/9/2023 | WBP21933 | Combative Firearms: Developing Speed and Accuracy | Passed | 0.0 | 24.00 |
 | 1/25/2023 | GSP18222 | Red Dot Transition | Instructed | 0.0 | 10.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

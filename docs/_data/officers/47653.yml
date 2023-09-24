@@ -50,6 +50,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/8/2023
+  course: PDP2308A
+  title: 2023 External Training Taser CEW Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 9/5/2023
+  course: PDP2637A
+  title: 2023 EAP Support Family Relationships
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/1/2023
   course: PDP0634A
   title: 2023 FTEP Post Basic CEW Taser

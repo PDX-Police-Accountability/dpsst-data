@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/7/2023
+  course: PDP2758A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/3/2023
   course: PDP1304A
   title: 2023 FTEP Pre-DPSST Firearms 080323
@@ -113,4 +119,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 8/14/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 8/7/2023
+  expiration_date: 8/7/2025
 education_records: []

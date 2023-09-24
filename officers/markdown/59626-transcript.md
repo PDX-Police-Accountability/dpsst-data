@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/8/2023 | PDP2703A | 2023 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/14/2023 | PDP3666A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/24/2023 | PDP1883A | CPR/First Aid | Passed | 0.0 | 1.75 |

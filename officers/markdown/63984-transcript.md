@@ -38,6 +38,7 @@
 | 8/3/2023 | PDP3345A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 8/3/2023 | PDP3991A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 8/1/2023 | PDP3384A | CPR/First Aid | Passed | 0.0 | 2.00 |
+| 8/1/2023 | PDP2253A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 4/4/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/4/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/4/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2023 | OSH3370A | 2023 OPCA Fall Conference - Detection | Passed | 0.0 | 24.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/13/2023 | HDA0547A | Len Bias Investigations | Passed | 0.0 | 4.00 |
 | 7/13/2023 | PDP2619A | 2023 ONEA Training Institute | Passed | 0.0 | 24.00 |

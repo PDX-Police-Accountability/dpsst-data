@@ -81,6 +81,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/31/2023
+  course: LOP1204A
+  title: Cross-cultural intelligence, Diversity 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2023
+  course: LOP3530A
+  title: Insight to OR Government Ethics Laws
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/22/2023
   course: LOP1926A
   title: Prison Rape Elimination Act (PREA)

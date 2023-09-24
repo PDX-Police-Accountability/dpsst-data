@@ -56,6 +56,18 @@ certification_records:
   expiration_date: 7/10/2025
   probation_date: ''
 training_records:
+- date: 9/15/2023
+  course: CVP1523A
+  title: Case Study - Bend Safeway Shooting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/14/2023
+  course: CVP0638A
+  title: Wellness
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/1/2021
   course: GSP26267
   title: 2021 Firearms In Service

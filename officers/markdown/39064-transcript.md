@@ -37,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | 24-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
+| 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
+| 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/7/2023 | TDP1301A | Con of Cop: Ethical Decisions Beyond Grey Area | Passed | 0.0 | 1.00 |
 | 7/28/2023 | TDP2179A | Implicit Bias 2023 | Passed | 0.0 | 1.00 |

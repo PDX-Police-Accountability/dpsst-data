@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
+| 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/21/2023 | SAG2673A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 8/15/2023 | SAG3758A | Human Trafficking Conference | Passed | 0.0 | 16.00 |
 | 6/22/2023 | SAG4494A | Firearms/Use of Force | Passed | 0.0 | 2.50 |

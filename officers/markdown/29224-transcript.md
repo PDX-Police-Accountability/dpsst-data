@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/15/2023 | CVP1523A | Case Study - Bend Safeway Shooting | Passed | 0.0 | 1.50 |
+| 9/14/2023 | CVP0638A | Wellness | Passed | 0.0 | 4.00 |
 | 12/1/2021 | GSP26267 | 2021 Firearms In Service | Instructed | 0.0 | 10.00 |
 | 6/30/2020 | F6D10349 | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 6/5/2020 | OCS26786 | June Patrol Firearms | Passed | 0.0 | 1.00 |

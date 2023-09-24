@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/20/2023
+  course: MFN0788A
+  title: Basic Defensive Tactics and OC
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/23/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches

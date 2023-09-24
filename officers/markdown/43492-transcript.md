@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/20/2023 | MFN0788A | Basic Defensive Tactics and OC | Instructed | 0.0 | 1.50 |
 | 5/23/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/12/2023 | PDP0396A | External Training NWGIA Symposium 051223 | Passed | 0.0 | 36.00 |
 | 5/11/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

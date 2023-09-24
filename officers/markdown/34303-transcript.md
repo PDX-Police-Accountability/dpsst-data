@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |
 | 7/26/2023 | HBP1923A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
 | 7/19/2023 | HBP0331A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |

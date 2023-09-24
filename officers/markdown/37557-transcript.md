@@ -42,6 +42,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/31/2023 | LOP2709A | Airway/Circulatory Training | Passed | 0.0 | 2.00 |
+| 8/31/2023 | LOP1204A | Cross-cultural intelligence, Diversity 101 | Passed | 0.0 | 1.00 |
+| 8/31/2023 | LOP3530A | Insight to OR Government Ethics Laws | Passed | 0.0 | 1.00 |
 | 8/22/2023 | LOP1926A | Prison Rape Elimination Act (PREA) | Passed | 0.0 | 0.50 |
 | 8/10/2023 | LOP3629A | Active Threat/CCP/MCI | Passed | 0.0 | 2.50 |
 | 6/20/2023 | LOP3781A | Policy review-Vehicle Pursuits and Vehicle Use | Passed | 0.0 | 0.50 |

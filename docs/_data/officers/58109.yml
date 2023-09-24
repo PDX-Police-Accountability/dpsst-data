@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/8/2023
+  course: PDP2703A
+  title: 2023 Enhanced Crisis Intervention Training (ECIT)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/24/2023
   course: PDP2106A
   title: 2023 SERT Training - Iteration

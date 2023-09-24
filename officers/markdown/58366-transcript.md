@@ -35,8 +35,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
+| 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/29/2023 | OSH2699A | 2023 OSP Regional EVOC | Passed | 0.0 | 4.00 |
-| 8/1/2023 | OSH0458A | 2nd Tri Firearms | Passed | 0.0 | 9.00 |
+| 8/1/2023 | OSH0458A | 2nd Trimester Firearms | Passed | 0.0 | 9.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/2/2023 | OSH27011 | OIS Investigations - Lane County IDFIT Training | Passed | 0.0 | 4.00 |
 | 11/18/2022 | BSP04855 | Death Investigation | Passed | 0.0 | 4.00 |

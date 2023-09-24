@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/14/2023 | OCS1387A | Third Degree Communications | Passed | 0.0 | 24.00 |
 | 9/1/2023 | HDA2069A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
+| 8/22/2023 | OCS4175A | Advanced Leadership for a Police Reform Era | Passed | 0.0 | 8.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2023 | MLP1991A | Active Shooter | Passed | 0.0 | 2.00 |
 | 8/8/2023 | MLP1011A | Active Shooter | Passed | 0.0 | 2.00 |

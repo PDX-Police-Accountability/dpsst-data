@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/23/2023 | PDP3789A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/9/2023 | PDP3973A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/3/2023 | PDP0967A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |

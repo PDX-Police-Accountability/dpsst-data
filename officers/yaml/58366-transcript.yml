@@ -48,6 +48,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 9/21/2023
+  course: RSS0455A
+  title: 13th Annual OHIA Major Crimes Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 9/20/2023
+  course: RSS4244A
+  title: OHIA - Trauma and Resilience, Officer Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/29/2023
   course: OSH2699A
   title: 2023 OSP Regional EVOC
@@ -56,7 +68,7 @@ training_records:
   hours: '4.00'
 - date: 8/1/2023
   course: OSH0458A
-  title: 2nd Tri Firearms
+  title: 2nd Trimester Firearms
   status: Passed
   score: '0.0'
   hours: '9.00'

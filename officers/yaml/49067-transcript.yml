@@ -64,13 +64,13 @@ training_records:
   hours: '5.00'
 - date: 8/13/2023
   course: OCS0541A
-  title: One hand shooting/use of cover
+  title: One Hand Shooting/Use of Cover
   status: Passed
   score: '0.0'
   hours: '1.00'
 - date: 8/7/2023
   course: OCS3800A
-  title: FTO meeting/training
+  title: FTO Meeting/Training
   status: Passed
   score: '0.0'
   hours: '2.00'
