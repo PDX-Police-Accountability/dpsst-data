@@ -40,6 +40,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/5/2023 | OCS2433 | FBI/LEEDA CLI | Passed | 0.0 | 28.50 |
 | 5/8/2023 | BVP10108 | Air Support Briefing Training | Passed | 0.0 | 1.00 |
+| 5/8/2023 | BVP3774A | Air Support Briefing Training | Passed | 0.0 | 1.00 |
+| 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
+| 3/23/2023 | BVP3377A | CIT Ernie and Joe | Passed | 0.0 | 3.50 |
 | 2/14/2023 | BVP0073A | Wellness | Instructed | 0.0 | 3.00 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |

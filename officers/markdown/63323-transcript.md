@@ -37,7 +37,7 @@
 | 5/18/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 5/15/2023 | PDP0627 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/15/2023 | PDP1608A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |
-| 5/12/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 5/12/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 4/14/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/14/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

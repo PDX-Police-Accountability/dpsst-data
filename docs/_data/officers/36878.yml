@@ -82,6 +82,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/8/2023
+  course: BVP3774A
+  title: Air Support Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/27/2023
+  course: BVP2832
+  title: Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/23/2023
+  course: BVP3377A
+  title: CIT Ernie and Joe
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 2/14/2023
   course: BVP0073A
   title: Wellness

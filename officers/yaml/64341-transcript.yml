@@ -30,11 +30,11 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 11/13/2023
+- date: 10/16/2023
   course: M10-23A
   title: DPSST Basic Police Course
   status: Registered
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 attribute_records: []
 education_records: []

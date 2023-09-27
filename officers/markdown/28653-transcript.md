@@ -45,7 +45,7 @@
 | 7/20/2023 | F1509957 | Significance of BTAM as Best Practice | Passed | 0.0 | 2.00 |
 | 6/23/2023 | F1527963 | Minimun Qualifications | Passed | 0.0 | 0.25 |
 | 6/22/2023 | F1524376 | Coaching Circles: Promoting Equity | Passed | 0.0 | 1.00 |
-| 6/20/2023 | F1513413 | Understanding Homicide  Gun Viol. | Passed | 0.0 | 1.00 |
+| 6/20/2023 | F1513413 | Understanding Homicide  Gun Violence | Passed | 0.0 | 1.00 |
 | 6/15/2023 | F1511547 | Trauma, Healing  Identity | Passed | 0.0 | 1.50 |
 | 6/8/2023 | F1503551 | Coaching Circles: Building Relation. | Passed | 0.0 | 1.00 |
 | 6/8/2023 | F1526293 | Juvenile Prosecution 101 | Passed | 0.0 | 1.00 |

@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2023 | CAP0876A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
+| 9/13/2023 | CAP3894A | The C.A.L.M Approach | Passed | 0.0 | 2.00 |
+| 9/13/2023 | CAP3939A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/1/2023 | SIP4222A | Handgun Instructor Certification Class | Passed | 0.0 | 40.00 |
 | 6/14/2023 | CAP0211A | Active Threat Response | Passed | 0.0 | 4.00 |
 | 5/17/2023 | CAP3827 | Handgun Assessments 40mm Deployment | Instructed | 0.0 | 6.00 |

@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/15/2023
+  course: SAG4001A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/14/2023
   course: HUP1470
   title: Marion County Leadership Monthly Meeting

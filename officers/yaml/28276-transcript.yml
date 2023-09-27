@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/6/2023
+  course: SVP3629
+  title: Firearms (Red Dot) Training
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 8/29/2023
   course: SVP0798A
   title: Firearms - Rifle and Less Lethal Shotgun

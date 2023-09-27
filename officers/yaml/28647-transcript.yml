@@ -50,6 +50,12 @@ certification_records:
   expiration_date: 8/23/2026
   probation_date: ''
 training_records:
+- date: 9/21/2023
+  course: VND0671
+  title: Basic Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/26/2021
   course: PDP22491
   title: 2021-8 Tips  Tech Ballot Measure 110 - Update

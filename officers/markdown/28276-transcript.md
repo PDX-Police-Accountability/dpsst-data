@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2023 | SVP3629 | Firearms (Red Dot) Training | Instructed | 0.0 | 16.00 |
 | 8/29/2023 | SVP0798A | Firearms - Rifle and Less Lethal Shotgun | Instructed | 0.0 | 4.00 |
 | 8/28/2023 | SVP0510A | Firearms Handun (Training/Qual) | Instructed | 0.0 | 4.00 |
 | 8/16/2023 | SVP0186A | Active Shooter Training With Con Sims | Passed | 0.0 | 2.00 |

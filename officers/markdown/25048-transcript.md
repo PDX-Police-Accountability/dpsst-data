@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
+| 9/15/2023 | SAG4001A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 6/14/2023 | HUP1470 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/10/2023 | HUP0650A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |

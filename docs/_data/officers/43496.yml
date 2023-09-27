@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/18/2024
+  course: 24-0026
+  title: DPSST Middle Management
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 10/13/2023
   course: REQMGMT
   title: 'REQUIRED TRAINING:  Management'

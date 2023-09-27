@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2023 | NGP2505 | Reid Technique of Investigative Interviewing | Passed | 0.0 | 24.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/15/2023 | PDP2748A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/15/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

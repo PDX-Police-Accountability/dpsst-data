@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2023 | VND0671 | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 12/10/2020 | PDP29257 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
 | 12/10/2020 | PDP10147 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
 | 11/20/2020 | PDP26706 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |

@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 9/13/2023
+  course: PDS2499
+  title: Active Threat Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/25/2023
   course: PDP2598A
   title: 2023 Force Science Methods of Instruction
