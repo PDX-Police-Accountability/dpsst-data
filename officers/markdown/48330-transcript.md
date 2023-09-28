@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/5/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 9/26/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 9/6/2023 | GSP4301A | Recognizing Personnel, Organization and CI Stress | Passed | 0.0 | 2.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 1/19/2023 | GSP07250 | UAS Search and Rescue Training | Passed | 0.0 | 10.00 |

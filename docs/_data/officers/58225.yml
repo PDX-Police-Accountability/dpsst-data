@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/9/2023
+  course: PDP0767A
+  title: 31st Annual Intl Problem-Oriented Policing Conf
+  status: Passed
+  score: '0.0'
+  hours: '12.75'
 - date: 6/26/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

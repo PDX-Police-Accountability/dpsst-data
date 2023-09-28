@@ -131,6 +131,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/22/2023
+  course: BNP2816A
+  title: Emergency Responder / Meta Data Center Prineville
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/11/2023
   course: BNP3795A
   title: Mechanical Breaching

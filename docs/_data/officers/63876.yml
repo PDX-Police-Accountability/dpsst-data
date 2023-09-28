@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 9/8/2023
+  course: REG2741A
+  title: RADAR/LIDAR Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/17/2023
   course: M10-23A
   title: DPSST Basic Police Course

@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/6/2023
+  course: SDP2648A
+  title: Ethics Training and Discussion
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/28/2023
   course: REG3847A
   title: Defensive Tactics

@@ -171,6 +171,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/28/2023
+  course: PDP2103A
+  title: Garmin G1000 NXi Avionics Training
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 3/25/2023
   course: PDP04838
   title: 2023 Microsoft Cloud Storage w/ OD and SP

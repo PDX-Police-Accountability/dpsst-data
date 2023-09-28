@@ -57,6 +57,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/9/2023
+  course: PDP0767A
+  title: 31st Annual Intl Problem-Oriented Policing Conf
+  status: Passed
+  score: '0.0'
+  hours: '12.75'
 - date: 6/15/2023
   course: PDP4227A
   title: 2023 OSHA Heat Illness Prevention with CityLearner

@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
+| 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 8/14/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 8/10/2023 | PDP1912A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 8/10/2023 | PDP3991A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
