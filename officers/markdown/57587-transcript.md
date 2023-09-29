@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 9/27/2023 | Police Officer | Intermediate | App Recd |  |  | 2/3/2025 |
 | 9/5/2023 | Police Officer | Basic | App Recd |  |  | 2/3/2025 |
 | 9/21/2022 | Police Officer | Basic | Lapsed | 9/4/2018 |  |  |
 ## Attributes
@@ -29,7 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2017 | No Degree | All Other Education Institutes |  | 48.0 |
+| 6/15/2017 | No Degree | All Other Education Institutes |  | 108.0 |
 | 6/15/2014 | Associate Arts | All Other Education Institutes | Criminal Justice | 98.0 |
 | 6/15/2011 | No Degree | All Other Education Institutes |  | 39.0 |
 | 6/15/2004 | No Degree | All Other Education Institutes |  | 6.0 |

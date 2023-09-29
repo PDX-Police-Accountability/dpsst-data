@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2023 | STP0170 | Firearms Training Moving and Shooting | Passed | 0.0 | 4.00 |
 | 6/20/2023 | STP2543A | Defensive Tactics | Instructed | 0.0 | 7.50 |
 | 6/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2023 | STP3859A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |

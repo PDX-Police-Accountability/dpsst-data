@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2023 | GSP3332A | Red Dot Transition | Passed | 0.0 | 30.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/2/2023 | GSP25014 | 2023 CPR and First Aid | Passed | 0.0 | 6.00 |
 | 12/15/2022 | GSP43316 | 2022 Ethics In Service | Passed | 0.0 | 1.00 |

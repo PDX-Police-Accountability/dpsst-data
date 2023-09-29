@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 9/27/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 2/3/2025
 - status_date: 9/5/2023
   certificate: Police Officer
   level: Basic
@@ -1855,7 +1862,7 @@ education_records:
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '48.0'
+  hours: '108.0'
 - date: 6/15/2014
   degree: Associate Arts
   school: All Other Education Institutes

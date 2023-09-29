@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 3/15/2023
+  course: GSP4210A
+  title: Red Dot Transition
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 2/14/2023
   course: GSP29386
   title: 'Mental Wellness Visits: What They Are  How...'

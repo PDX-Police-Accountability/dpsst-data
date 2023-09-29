@@ -43,6 +43,7 @@
 | 10/7/2023 | GSP02168 | 2022 NW Regional ICAC Conference | Passed | 0.0 | 40.00 |
 | 8/15/2023 | CVS1247A | Training with Steel Targets IDC | Passed | 0.0 | 16.00 |
 | 3/23/2023 | GSP16179 | Advanced LEOVision Tradecraft | Passed | 0.0 | 32.00 |
+| 3/15/2023 | GSP4210A | Red Dot Transition | Instructed | 0.0 | 20.00 |
 | 2/14/2023 | GSP29386 | Mental Wellness Visits: What They Are  How... | Passed | 0.0 | 1.00 |
 | 1/25/2023 | GSP04946 | Using Body Camera Video to Transform Training | Passed | 0.0 | 1.00 |
 | 1/19/2023 | GSP19639 | CPR and First Aid | Passed | 0.0 | 8.00 |
