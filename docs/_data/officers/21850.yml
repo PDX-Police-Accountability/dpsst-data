@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2023
+  course: LOP1963A
+  title: The Red Door Project
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/5/2023
   course: LOP1926A
   title: Prison Rape Elimination Act (PREA)

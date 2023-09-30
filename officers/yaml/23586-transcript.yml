@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/23/2023
+  course: PDS2110A
+  title: Active Threat Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/28/2023
   course: PDS17789
   title: Yoga For First Responders

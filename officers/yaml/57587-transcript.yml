@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 9/28/2023
+  certificate: Police Officer
+  level: Basic
+  status: Reactivate
+  certificate_date: 9/4/2018
+  expiration_date: ''
+  probation_date: ''
 - status_date: 9/27/2023
   certificate: Police Officer
   level: Intermediate
@@ -35,20 +42,6 @@ certification_records:
   certificate_date: ''
   expiration_date: ''
   probation_date: 2/3/2025
-- status_date: 9/5/2023
-  certificate: Police Officer
-  level: Basic
-  status: App Recd
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 2/3/2025
-- status_date: 9/21/2022
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 9/4/2018
-  expiration_date: ''
-  probation_date: ''
 training_records:
 - date: 8/17/2023
   course: PDP0620A

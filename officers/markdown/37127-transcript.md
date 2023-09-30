@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/21/2023 | SAG2607A | Financial Crimes  Digital Evidence Conference | Passed | 0.0 | 15.00 |
 | 8/22/2023 | BPT0333A | Struggle Well | Passed | 0.0 | 16.00 |
 | 5/12/2023 | PDS3342A | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 5/12/2023 | PDS3692 | CPR/First Aid | Passed | 0.0 | 2.50 |

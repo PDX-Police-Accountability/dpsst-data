@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 8/23/2023 | 8/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/27/2021 | 10/27/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/24/2023 | MKL1614A | Oregon Government Ethics Training | Passed | 0.0 | 2.50 |
 | 8/23/2023 | MKL4382 | First Aid and CPR | Passed | 0.0 | 5.00 |
 | 6/21/2023 | MKL2829A | Alcohol Compliance - Updates and Refresher | Passed | 0.0 | 2.00 |

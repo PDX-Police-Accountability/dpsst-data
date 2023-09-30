@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/13/2023 | PPP4165A | Firearms Rifle Range Training | Passed | 0.0 | 7.00 |
 | 8/31/2023 | PPP0619A | Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |
 | 6/30/2023 | PPP2327A | Protecting Transportation Systems | Passed | 0.0 | 1.00 |
 | 5/31/2023 | PPP3444A | Wellness and Nutrition | Passed | 0.0 | 1.00 |

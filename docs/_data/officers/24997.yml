@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/13/2023
+  course: PPP4165A
+  title: Firearms Rifle Range Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 8/31/2023
   course: PPP0619A
   title: Introduction to Mental Health Crisis

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2023 | SAG3621A | ICAC 101 | Instructed | 0.0 | 7.50 |
 | 9/15/2023 | SAG4001A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 9/15/2023 | SAG4001A | Firearms/Use of Force | Instructed | 0.0 | 5.00 |
 | 8/21/2023 | SAG2673A | Firearms/Use of Force | Passed | 0.0 | 2.00 |

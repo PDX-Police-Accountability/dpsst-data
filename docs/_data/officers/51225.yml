@@ -16,6 +16,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 9/28/2023
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 9/28/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 3/7/2012
   certificate: Police Officer
   level: Basic
@@ -5118,11 +5132,11 @@ attribute_records:
   effective_date: 2/3/2011
   expiration_date: ''
 education_records:
-- date: 7/21/2016
+- date: 7/21/2017
   degree: Bachelor Science
   school: All Other Education Institutes
-  major: Psychology
-  hours: '21.0'
+  major: ''
+  hours: '120.0'
 - date: 6/15/2009
   degree: No Degree
   school: All Other Education Institutes

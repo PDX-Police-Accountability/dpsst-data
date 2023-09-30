@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/23/2023 | PDS2110A | Active Threat Range | Passed | 0.0 | 4.00 |
 | 4/28/2023 | PDS17789 | Yoga For First Responders | Passed | 0.0 | 1.00 |
 | 4/28/2023 | PDS42006 | NAMI Training | Passed | 0.0 | 2.00 |
 | 4/28/2023 | PDS27667 | Peer Support | Passed | 0.0 | 1.00 |
