@@ -28,7 +28,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/18/2023 | 3/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 7/2/2021 |  |
 | Code of Ethics | Signed | 9/15/2008 |  |
@@ -41,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/27/2023 | REG4293 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |
 | 9/11/2023 | REG2435A | Cross-side/Positional Flow Drills | Passed | 0.0 | 1.00 |
 | 9/6/2023 | SDP2648A | Ethics Training and Discussion | Passed | 0.0 | 1.00 |
 | 8/28/2023 | REG3847A | Defensive Tactics | Passed | 0.0 | 1.00 |

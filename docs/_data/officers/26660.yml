@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2023
+  course: REG1985
+  title: Pursuit Management for Supervisors
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/18/2023
   course: HSU1762A
   title: Firearms August Supplemental Range

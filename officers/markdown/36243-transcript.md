@@ -45,7 +45,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/8/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 9/8/2023 | HBS3439A | Con-Sim Building Search | Passed | 0.0 | 10.00 |
 | 8/10/2023 | HBS4245A | RDS Transition Course | Passed | 0.0 | 12.50 |
 | 6/23/2023 | HBS1665A | Respiratory Protection: Develop  Administration | Passed | 0.0 | 24.00 |

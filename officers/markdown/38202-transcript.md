@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/2/2023 | Multnomah County Sheriff's Office | Promotion | Sergeant |  |  |
 | 9/13/2021 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 9/3/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/18/2007 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -27,7 +28,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 9/15/2022 | 9/15/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 7/12/2023 | PDS1284A | Leadership Training | Passed | 0.0 | 3.00 |
 | 7/7/2023 | PDS2571A | Active Threat | Passed | 0.0 | 10.00 |
 | 6/23/2023 | PDS4065A | Intoxilyzer 8000 Course | Passed | 0.0 | 4.00 |

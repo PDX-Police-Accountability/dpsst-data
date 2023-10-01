@@ -25,7 +25,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid | 11/10/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 11/23/2021 | 11/30/2023 |
@@ -40,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/15/2023 | LOP3388 | Forensic Scripting Course | Passed | 0.0 | 36.00 |
 | 8/31/2023 | LOP2709A | Airway/Circulatory Training | Passed | 0.0 | 2.00 |
 | 8/31/2023 | LOP3530A | Insight to OR Government Ethics Laws | Passed | 0.0 | 1.00 |
 | 8/31/2023 | LOP1204A | Cross-cultural intelligence, Diversity 101 | Passed | 0.0 | 1.00 |

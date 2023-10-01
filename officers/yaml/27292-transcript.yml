@@ -142,12 +142,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
-- date: 5/9/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
 - date: 4/26/2023
   course: PDS15367
   title: Yoga for First Responders

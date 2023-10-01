@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/15/2023
+  course: ADP0343
+  title: Building searches/ Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/15/2023
+  course: ADP2249
+  title: Building searches/ Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/31/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
