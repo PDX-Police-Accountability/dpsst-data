@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2023 | MFN3371A | Maintenance of a Case Plan | Instructed | 0.0 | 2.00 |
+| 9/26/2023 | MFN3371A | Maintenance of a Case Plan | Passed | 0.0 | 1.00 |
 | 9/13/2023 | MFN2783A | ConSim Field Scenarios Training | Passed | 0.0 | 2.00 |
 | 9/7/2023 | MFN0037A | Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/7/2023 | MFN3887A | Handgun Fundamentals | Passed | 0.0 | 1.00 |

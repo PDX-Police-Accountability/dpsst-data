@@ -62,12 +62,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 9/15/2023
-  course: ADP2249
-  title: Building searches/ Scenarios
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 8/31/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

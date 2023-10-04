@@ -61,6 +61,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2023
+  course: HRS4121A
+  title: 3 ways to strengthen mental health support network
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2023
+  course: HRS0779A
+  title: Emotional Survival 2.0
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/29/2023
+  course: HRS0471A
+  title: Tactical Nutrition Advantage
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2023
+  course: HRS2148A
+  title: Diversity, Equity  Inclusion - Roadmap
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2023
+  course: HRS2962A
+  title: What is DEI (diversity, equity  inclusion)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/11/2023
   course: HRS1288A
   title: 'Contempt of Cop: Ethical Decision Making'

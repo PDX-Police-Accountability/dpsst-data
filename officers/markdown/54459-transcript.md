@@ -36,6 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2023 | HRS4121A | 3 ways to strengthen mental health support network | Passed | 0.0 | 1.00 |
+| 9/29/2023 | HRS0779A | Emotional Survival 2.0 | Passed | 0.0 | 1.00 |
+| 9/29/2023 | HRS0471A | Tactical Nutrition Advantage | Passed | 0.0 | 1.00 |
+| 9/28/2023 | HRS2148A | Diversity, Equity  Inclusion - Roadmap | Passed | 0.0 | 1.00 |
+| 9/28/2023 | HRS2962A | What is DEI (diversity, equity  inclusion) | Passed | 0.0 | 1.00 |
 | 7/11/2023 | HRS1288A | Contempt of Cop: Ethical Decision Making | Passed | 0.0 | 1.00 |
 | 6/22/2023 | HRS2683A | Spring Firearms Range | Passed | 0.0 | 4.00 |
 | 3/17/2023 | HRS1256A | Intro to Active Shooter Response | Passed | 0.0 | 3.00 |

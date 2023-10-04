@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/25/2023
+  course: HBS4458A
+  title: Law Enforcement Basic Sniper School
+  status: Passed
+  score: '0.0'
+  hours: '37.00'
 - date: 8/31/2023
   course: PDP0947A
   title: 2023 SERT Training - ITERATION

@@ -38,8 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2023 | PPP4345A | K9 CPR/First Aid | Passed | 0.0 | 1.50 |
 | 9/13/2023 | PPP4165A | Firearms Rifle Range Training | Passed | 0.0 | 7.00 |
 | 8/31/2023 | PPP0619A | Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |
+| 8/9/2023 | PPP1480A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 6/20/2023 | PPP3249A | IBIS Training | Passed | 0.0 | 0.50 |
 | 5/31/2023 | PPP3444A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 5/25/2023 | PPP2006A | Range | Passed | 0.0 | 4.00 |

@@ -129,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/19/2023
+  course: HBP2935A
+  title: Basic Patrol Canine Handlers Course
+  status: Passed
+  score: '0.0'
+  hours: '150.00'
 - date: 4/12/2023
   course: HBP21449
   title: DV Update, Strangulation, and Death Investigation

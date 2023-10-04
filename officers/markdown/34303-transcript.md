@@ -50,6 +50,7 @@
 | 6/18/2023 | HBP3509A | EVOC - Backing Exercise | Passed | 0.0 | 0.50 |
 | 6/18/2023 | HBP3520A | EVOC - PIT | Passed | 0.0 | 1.00 |
 | 4/19/2023 | GSP30972 | 2023 OPCA Spring Conference - Patrol | Passed | 0.0 | 24.00 |
+| 4/19/2023 | HBP2935A | Basic Patrol Canine Handlers Course | Passed | 0.0 | 150.00 |
 | 4/12/2023 | HBP21449 | DV Update, Strangulation, and Death Investigation | Passed | 0.0 | 1.00 |
 | 4/12/2023 | HBP03833 | Karly's Law, Jessica's Law, Juvenile Update | Passed | 0.0 | 2.00 |
 | 4/12/2023 | HBP01732 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 7.00 |

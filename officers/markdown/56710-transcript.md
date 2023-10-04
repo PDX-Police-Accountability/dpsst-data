@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2023 | HBS0968A | 2023 September In-Service | Passed | 0.0 | 9.00 |
 | 7/19/2023 | HBS3714A | RDS Transition Course | Passed | 0.0 | 13.50 |
 | 7/3/2023 | REG0471A | Body Lock Takedown/Triangle Choke Awareness | Passed | 0.0 | 1.00 |
 | 6/28/2023 | REG0041A | Weapon Retention | Passed | 0.0 | 1.00 |
