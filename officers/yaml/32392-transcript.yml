@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/21/2023
+  course: TGP3949A
+  title: Handgun/Patrol Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 9/21/2023
+  course: TGP3949A
+  title: Handgun/Patrol Rifle Training
+  status: Instructed
+  score: '0.0'
+  hours: '32.00'
 - date: 8/31/2023
   course: NGP2505
   title: Reid Technique of Investigative Interviewing

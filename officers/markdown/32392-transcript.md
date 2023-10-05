@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2023 | TGP3949A | Handgun/Patrol Rifle Training | Passed | 0.0 | 8.00 |
+| 9/21/2023 | TGP3949A | Handgun/Patrol Rifle Training | Instructed | 0.0 | 32.00 |
 | 8/31/2023 | NGP2505 | Reid Technique of Investigative Interviewing | Passed | 0.0 | 24.00 |
 | 8/23/2023 | VND3252 | Search Warrants | Passed | 0.0 | 8.00 |
 | 7/27/2023 | TGP0907A | Path of the Guardian 2023Q2 | Passed | 0.0 | 2.00 |

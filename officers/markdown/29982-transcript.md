@@ -20,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/2/2023 | Police Officer | Supervisory | App InProc |  |  |  |
+| 10/3/2023 | Police Officer | Supervisory | Granted | 10/3/2023 |  |  |
 | 3/27/2018 | Instructor |  | Granted | 3/27/2018 |  |  |
 | 5/4/2001 | Police Officer | Advanced | Granted | 5/4/2001 |  |  |
 | 5/4/2001 | Police Officer | Intermediate | Granted | 5/4/2001 |  |  |
@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
+| 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/12/2023 | SVP0222A | MILO Training/Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 7/5/2023 | SVP1102A | Firearms Qualification and Drills | Passed | 0.0 | 4.00 |

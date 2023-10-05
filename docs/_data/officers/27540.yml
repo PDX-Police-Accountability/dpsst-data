@@ -101,6 +101,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2023
+  course: HUP3554A
+  title: OACP Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: HUP3615A
+  title: OACP/OSSA Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/8/2023
   course: HUP3953A
   title: Human Strategy Overview

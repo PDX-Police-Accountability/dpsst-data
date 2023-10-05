@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2023 | MMP4487A | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/6/2023 | MMP3001A | Basic Pistol Mount Optic Training | Passed | 0.0 | 6.00 |
 | 9/1/2023 | MMP3658A | 2023 Legislative Report | Passed | 0.0 | 0.50 |
 | 7/27/2023 | BPT2237A | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |

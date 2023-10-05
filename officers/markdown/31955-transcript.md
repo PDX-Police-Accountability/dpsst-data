@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
+| 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
 | 9/13/2023 | CAP0876A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3939A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3894A | The C.A.L.M Approach | Passed | 0.0 | 2.00 |

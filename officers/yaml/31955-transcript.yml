@@ -108,6 +108,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2023
+  course: HUP3554A
+  title: OACP Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: HUP3615A
+  title: OACP/OSSA Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/13/2023
   course: CAP0876A
   title: The C.A.L.M Approach

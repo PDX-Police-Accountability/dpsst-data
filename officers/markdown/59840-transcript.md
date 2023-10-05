@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/7/2023 | OCP0393A | Firearms/Use of Force |  | 0.0 | 4.00 |
+| 9/7/2023 | OCP0393A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 8/17/2023 | OCP0486A | Use of Force | Passed | 0.0 | 2.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |

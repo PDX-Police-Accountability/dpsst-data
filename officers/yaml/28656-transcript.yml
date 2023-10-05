@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/21/2023
+  course: TGP3949A
+  title: Handgun/Patrol Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/6/2023
   course: TGP0924A
   title: Bias and Bigotry Crimes, Procedural Justice
