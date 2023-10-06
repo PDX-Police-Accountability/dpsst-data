@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2023
+  course: TAP3156A
+  title: Active Threat Mass Casualty Reunification
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/15/2023
   course: ADP0343
   title: Building searches/ Scenarios

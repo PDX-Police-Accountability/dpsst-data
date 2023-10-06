@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2023 | LGS2112A | Juvenile Law Update | Passed | 0.0 | 1.00 |
 | 9/8/2023 | LGS3506A | DT  Con Sim Inservice | Instructed | 0.0 | 8.00 |
 | 7/10/2023 | REG2133A | Handgun IDC | Instructed | 0.0 | 10.00 |
 | 6/23/2023 | LGS1957A | Pistol Qual/Training | Passed | 0.0 | 1.00 |

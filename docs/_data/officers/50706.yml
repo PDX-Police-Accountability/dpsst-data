@@ -1603,6 +1603,10 @@ attribute_records:
   value: Signed
   effective_date: 10/21/2009
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 10/4/2023
 education_records:
 - date: 12/9/2006
   degree: Bachelor Science

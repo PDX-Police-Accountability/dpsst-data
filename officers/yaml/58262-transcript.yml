@@ -3,12 +3,18 @@ header_record:
   name: Santos, Christian G.
   dpsst_identifier: '58262'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/24/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/4/2018
   agency: Portland Police Bureau
   action: Hired
@@ -21,7 +27,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 3/2/2019
-  expiration_date: ''
+  expiration_date: 12/24/2023
   probation_date: ''
 training_records:
 - date: 8/21/2023

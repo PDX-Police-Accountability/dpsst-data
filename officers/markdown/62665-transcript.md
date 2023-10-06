@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/17/2022 | Police Officer | Basic | Required |  |  | 9/17/2023 |
+| 10/4/2023 | Police Officer | Basic | App Recd |  |  | 9/17/2023 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 8/24/2023 |  |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
 | Code of Ethics | Law Enforcement Signed | 6/13/2022 |  |
 ## Education
@@ -28,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/17/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/4/2023 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 6/26/2023 | PDP0133A | 2018-2 TT Disposition of Records Upon Retirement | Passed | 0.0 | 0.25 |

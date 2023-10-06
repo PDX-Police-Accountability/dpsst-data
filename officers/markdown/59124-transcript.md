@@ -29,7 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/18/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 0.00 |
+| 3/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/18/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/10/2019 | PDP09647 | 2019-8 City Attorney's Office Legal Updates 8/2019 | Passed | 0.0 | 0.25 |
 | 10/8/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |
 | 10/7/2019 | PDP03093 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |

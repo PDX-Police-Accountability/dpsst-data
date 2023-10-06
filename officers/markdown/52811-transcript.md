@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
@@ -40,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/14/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 10/14/2023 | PDS0194A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/13/2023 | PDS2499 | Active Threat Range | Passed | 0.0 | 4.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/4/2023 | PDS3434A | Active Threat | Instructed | 0.0 | 10.00 |

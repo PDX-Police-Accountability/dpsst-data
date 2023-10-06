@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2023 | TAP3156A | Active Threat Mass Casualty Reunification | Passed | 0.0 | 6.00 |
 | 9/15/2023 | ADP0343 | Building searches/ Scenarios | Passed | 0.0 | 8.00 |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/15/2023 | ADP0017A | Ethos - Principles of Leadership | Passed | 0.0 | 3.00 |

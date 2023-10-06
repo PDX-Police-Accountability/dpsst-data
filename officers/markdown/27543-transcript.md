@@ -4,7 +4,7 @@
 | name | Harvey, Richard |
 | dpsst_identifier | 27543 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/30/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 4/25/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 10/1/1992 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/12/1993 | Police Officer | Basic | Granted | 7/12/1993 |  |  |
+| 7/12/1993 | Police Officer | Basic | Granted | 7/12/1993 | 12/30/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

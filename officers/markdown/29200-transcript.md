@@ -28,6 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 8/4/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |
 | 5/6/2023 | PDS09288 | Yoga for First Responders | Passed | 0.0 | 1.00 |
 | 5/6/2023 | PDS13075 | Peer Support | Passed | 0.0 | 1.00 |

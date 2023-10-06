@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2023
+  course: LGS2112A
+  title: Juvenile Law Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/8/2023
   course: LGS3506A
   title: DT  Con Sim Inservice

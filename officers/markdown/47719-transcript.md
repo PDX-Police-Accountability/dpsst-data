@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2023 | HBS3960A | MFF Training | Passed | 0.0 | 9.00 |
+| 9/27/2023 | HBS0430A | MFF Training | Passed | 0.0 | 9.00 |
 | 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 6/14/2023 | BVP3258A | ICS Scenario | Passed | 0.0 | 2.00 |
 | 6/14/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |

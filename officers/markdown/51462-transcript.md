@@ -21,12 +21,14 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/13/2023 | PDS1509A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 7/12/2023 | PDS4148A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 7/5/2023 | PDS2571A | Active Threat | Passed | 0.0 | 10.00 |

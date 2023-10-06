@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/7/2023 | PDS2571A | Active Threat | Passed | 0.0 | 10.00 |
 | 6/6/2023 | PDS3355A | Yoga for First Responders | Passed | 0.0 | 1.00 |
 | 6/6/2023 | PDS0306A | Peer Support | Passed | 0.0 | 1.00 |

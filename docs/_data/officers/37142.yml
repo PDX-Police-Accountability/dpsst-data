@@ -119,9 +119,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/8/2023
+  course: F1516640
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/6/2023
   course: SPP4420A
   title: Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/1/2023
+  course: F1516640
+  title: Range
   status: Passed
   score: '0.0'
   hours: '3.00'

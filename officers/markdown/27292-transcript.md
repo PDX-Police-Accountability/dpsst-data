@@ -33,6 +33,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 11/28/2021 | 10/28/2023 |
@@ -48,6 +49,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 12/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/19/2023 | PDS1693 | Active Threat Training | Passed | 0.0 | 4.00 |
 | 7/27/2023 | PDS1320A | Leadership | Passed | 0.0 | 1.00 |
 | 7/11/2023 | PDS2278A | Crisis Negotiations Team Training | Passed | 0.0 | 16.00 |

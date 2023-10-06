@@ -45,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2023 | HBS3960A | MFF Training | Passed | 0.0 | 9.00 |
+| 9/27/2023 | HBS0430A | MFF Training | Passed | 0.0 | 9.00 |
 | 9/8/2023 | HBS3439A | Con-Sim Building Search | Passed | 0.0 | 10.00 |
 | 8/10/2023 | HBS4245A | RDS Transition Course | Passed | 0.0 | 12.50 |
 | 6/23/2023 | HBS1665A | Respiratory Protection: Develop  Administration | Passed | 0.0 | 24.00 |
