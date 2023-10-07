@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 9/19/2023 | PDP1209A | 2023 Training Bike Instructor Training Course | Passed | 0.0 | 36.00 |
 | 9/8/2023 | ALP2843A | Taser Instructor Certification | Passed | 0.0 | 8.00 |
 | 9/8/2023 | PDP2308A | 2023 External Training Taser CEW Instructor Course | Passed | 0.0 | 9.00 |

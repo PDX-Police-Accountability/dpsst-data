@@ -85,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/27/2023
+  course: PDP3167A
+  title: 2022 ECIT In Service Makeup Session
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/26/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

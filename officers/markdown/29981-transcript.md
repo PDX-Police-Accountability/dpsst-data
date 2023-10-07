@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2023 | WLP3848A | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/1/2023 | WLP34960 | Stop Stick Refresher Training | Passed | 0.0 | 1.00 |
 | 3/21/2023 | WLP15706 | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 3/14/2023 | WLP4415A | Duty to Intervene/Control Techniques | Passed | 0.0 | 2.00 |

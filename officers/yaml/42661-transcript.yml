@@ -82,6 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/22/2023
+  course: PDP4501A
+  title: 2023 SERT/CNT/CIC Camp Rilea Training
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

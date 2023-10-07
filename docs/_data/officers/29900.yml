@@ -101,6 +101,12 @@ certification_records:
   expiration_date: 10/17/2023
   probation_date: ''
 training_records:
+- date: 9/22/2023
+  course: PDP4501A
+  title: 2023 SERT/CNT/CIC Camp Rilea Training
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 4/5/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy

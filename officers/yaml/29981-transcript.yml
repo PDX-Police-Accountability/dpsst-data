@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2023
+  course: WLP3848A
+  title: Becoming a Leader in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/1/2023
   course: WLP34960
   title: Stop Stick Refresher Training

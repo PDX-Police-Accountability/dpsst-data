@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/18/2023 | PDP2722A | 2022-2 In Service Online Recordings | Passed | 0.0 | 6.50 |
 | 9/13/2023 | PDP3409A | 2022-2 In Service Legal Updates Recorded Training | Passed | 0.0 | 0.00 |
 | 9/13/2023 | PDP0884A | 2022-2 In Service Mental Health / CI | Passed | 0.0 | 1.00 |

@@ -88,6 +88,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/17/2023
+  course: PDP2627A
+  title: SWAT Command Decision Making and Leadership
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/28/2023
   course: PDP1671A
   title: 2023 CSM Crisis Hostage Negotiation Lvl 1

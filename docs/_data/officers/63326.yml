@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/3/2023
+  course: PDP0198A
+  title: 2023 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 9/27/2023
+  course: PDP0810A
+  title: 2023 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 7/20/2023
   course: REG2860A
   title: INTOX 8000

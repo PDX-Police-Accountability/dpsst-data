@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '37.00'
+- date: 9/14/2023
+  course: PDP3167A
+  title: 2022 ECIT In Service Makeup Session
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 8/31/2023
   course: PDP0947A
   title: 2023 SERT Training - ITERATION
