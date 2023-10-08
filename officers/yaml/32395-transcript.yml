@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/31/2023
+  course: PPP0477A
+  title: Firearms Ammunition Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/9/2023
   course: PPP1480A
   title: Taser Recertification

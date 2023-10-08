@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/20/2023
+  course: PDP3449A
+  title: 2023 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/26/2023
   course: PDP0078A
   title: 2023 Red Dot Sights Training

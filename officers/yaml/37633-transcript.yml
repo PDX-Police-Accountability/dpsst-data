@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/8/2023
+  course: PDP1797A
+  title: 2023 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/5/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/13/2023
+  course: SDP4317A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/11/2023
   course: REG2435A
   title: Cross-side/Positional Flow Drills

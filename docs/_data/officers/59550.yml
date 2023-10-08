@@ -36,6 +36,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2023
+  course: RMP1572A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/20/2023
+  course: RMP0736A
+  title: Building Clearing / Rescue Task Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/20/2023
+  course: RMP1821A
+  title: Diversity Equity and Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/15/2023
   course: RMP4318
   title: Incident Command System/Active Threat

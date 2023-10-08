@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 7/20/2023
+  course: PDP3449A
+  title: 2023 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 6/30/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training

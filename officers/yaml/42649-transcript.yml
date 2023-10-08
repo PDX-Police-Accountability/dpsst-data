@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/8/2023
+  course: PDP1797A
+  title: 2023 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/7/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training
@@ -748,6 +754,12 @@ training_records:
   hours: '0.25'
 - date: 3/22/2022
   course: PDP08642
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/22/2022
+  course: PDP2901A
   title: 2022 HB 2513 Airways
   status: Passed
   score: '0.0'

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2023
+  course: PDP1797A
+  title: 2023 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -92,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 6/8/2023
+  course: PDP1797A
+  title: 2023 K-9 Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/3/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -806,6 +818,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/27/2022
+  course: PDP2901A
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/16/2022
   course: PDP09335
   title: 2022-1 Range Qual AR-15 Qualification (20 Yard)

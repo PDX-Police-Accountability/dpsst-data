@@ -42,7 +42,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/13/2023 | PDP4204A | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
+| 8/24/2023 | PDP3449A | 2023 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 7.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/20/2023 | PDP3449A | 2023 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 7.00 |
 | 6/26/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/8/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 6/5/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

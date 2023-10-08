@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/13/2023
+  agency: Oregon City Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/21/2022
   agency: Portland Police Bureau
   action: Hired

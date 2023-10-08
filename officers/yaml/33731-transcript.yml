@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2023
+  course: PDN4123A
+  title: 'Case Management: Motivational Interviewing'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2023
   course: PDN0522A
   title: Field Applications-Tactical Medicine

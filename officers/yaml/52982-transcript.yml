@@ -588,6 +588,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/26/2022
+  course: PDP2901A
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/16/2022
   course: PDP03980
   title: IS-800 National Response Framework

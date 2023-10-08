@@ -41,6 +41,7 @@
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/27/2023 | REG4293 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |
+| 9/13/2023 | SDP4317A | Firearms Training | Passed | 0.0 | 3.00 |
 | 9/11/2023 | REG2435A | Cross-side/Positional Flow Drills | Passed | 0.0 | 1.00 |
 | 9/6/2023 | SDP2648A | Ethics Training and Discussion | Passed | 0.0 | 1.00 |
 | 8/28/2023 | REG3847A | Defensive Tactics | Passed | 0.0 | 1.00 |

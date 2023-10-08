@@ -716,6 +716,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/29/2022
+  course: PDP2901A
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/9/2022
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

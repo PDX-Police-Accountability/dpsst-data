@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/20/2023 | RMP1572A | Ethics | Passed | 0.0 | 1.00 |
+| 9/20/2023 | RMP0736A | Building Clearing / Rescue Task Force | Passed | 0.0 | 4.00 |
+| 9/20/2023 | RMP1821A | Diversity Equity and Inclusion | Passed | 0.0 | 3.00 |
 | 5/15/2023 | RMP4318 | Incident Command System/Active Threat | Passed | 0.0 | 3.00 |
 | 5/15/2023 | RMP0259 | Vehicle Immobilzation Pinching | Passed | 0.0 | 1.00 |
 | 5/15/2023 | RMP2851 | Patrol Scenario Based Training | Passed | 0.0 | 4.00 |

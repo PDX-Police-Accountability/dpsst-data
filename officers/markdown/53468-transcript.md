@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/11/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 8/10/2023 | PDP0465A | 2023 Intro to Motivational Interviewing | Passed | 0.0 | 10.00 |
+| 7/20/2023 | PDP3449A | 2023 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 7.00 |
 | 6/30/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/27/2023 | PDP2867A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |
 | 6/27/2023 | PDP3167A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |

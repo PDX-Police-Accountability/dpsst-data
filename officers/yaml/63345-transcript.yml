@@ -48,6 +48,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 7/21/2023
+  course: PDP3449A
+  title: 2023 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/22/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

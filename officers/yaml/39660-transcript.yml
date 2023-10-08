@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/5/2023
+  course: PDP1797A
+  title: 2023 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 8/30/2023
   course: PDP0212A
   title: 2023 K-9 (K9) Weekly Training
@@ -89,6 +95,12 @@ training_records:
 - date: 6/8/2023
   course: PDP1955A
   title: 2023 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/8/2023
+  course: PDP1797A
+  title: 2023 K-9 Weekly Training
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -752,6 +764,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/28/2022
+  course: PDP2901A
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/9/2022
   course: PDP06390
   title: 2021-10 City Attorney's Legal Update for Oct. 2021

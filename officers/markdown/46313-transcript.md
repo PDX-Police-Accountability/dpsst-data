@@ -40,6 +40,7 @@
 | 9/13/2023 | PPP4165A | Firearms Rifle Range Training | Passed | 0.0 | 7.00 |
 | 8/31/2023 | PPP0619A | Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |
 | 8/14/2023 | PPP1480A | Taser Recertification | Passed | 0.0 | 3.00 |
+| 8/2/2023 | PPP0477A | Firearms Ammunition Update | Passed | 0.0 | 0.50 |
 | 6/30/2023 | PPP2327A | Protecting Transportation Systems | Passed | 0.0 | 1.00 |
 | 6/14/2023 | BPT0788A | ADEPT | Passed | 0.0 | 20.00 |
 | 5/31/2023 | PPP3444A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
