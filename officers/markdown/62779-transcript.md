@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/14/2022 | Police Officer | Basic | Required |  |  | 10/14/2023 |
+| 4/14/2022 | Police Officer | Basic | ReqCertExt |  |  | 10/14/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/14/2023 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/14/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/7/2023 | PDP3821A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 6/27/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

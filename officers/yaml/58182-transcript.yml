@@ -240,6 +240,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/15/2023
+  course: ALS3904A
+  title: SWAT Firearm Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/9/2023
   course: PDP06481
   title: K-9 Conference

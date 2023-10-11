@@ -1048,7 +1048,7 @@
 | Wolfe, Tyler J. | 60449 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-01-11 | [md](../markdown/60449-transcript.md) - [yaml](../yaml/60449-transcript.yml) |
 | Christian, Sean L. | 30281 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-01-30 | [md](../markdown/30281-transcript.md) - [yaml](../yaml/30281-transcript.yml) |
 | Blazer, Jack V. | 37413 | Portland Police Bureau | Inactive | Police Officer | Deceased | 2020-01-30 | [md](../markdown/37413-transcript.md) - [yaml](../yaml/37413-transcript.yml) |
-| Powell, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
+| Powell Lazarides, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
 | Brewer, James M. | 60616 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60616-transcript.md) - [yaml](../yaml/60616-transcript.yml) |
 | Precup, Sebastian I. | 60628 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60628-transcript.md) - [yaml](../yaml/60628-transcript.yml) |
 | Torres, Jeobany J. | 60735 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60735-transcript.md) - [yaml](../yaml/60735-transcript.yml) |

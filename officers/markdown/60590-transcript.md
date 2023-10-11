@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Powell, Kelly L. |
+| name | Powell Lazarides, Kelly L. |
 | dpsst_identifier | 60590 |
 | agency | Portland Police Bureau |
 | employment_status | Active |

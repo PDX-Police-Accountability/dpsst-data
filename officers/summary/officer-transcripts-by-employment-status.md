@@ -837,7 +837,7 @@
 | Walker, Elliott L. | 60561 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-06 | [md](../markdown/60561-transcript.md) - [yaml](../yaml/60561-transcript.yml) |
 | Meyer, Garth W. | 60562 | Portland Police Bureau | Active | Police Officer | Hired | 2020-03-26 | [md](../markdown/60562-transcript.md) - [yaml](../yaml/60562-transcript.yml) |
 | Guevara, Reynaldo | 60587 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-06 | [md](../markdown/60587-transcript.md) - [yaml](../yaml/60587-transcript.yml) |
-| Powell, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
+| Powell Lazarides, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
 | Brewer, James M. | 60616 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60616-transcript.md) - [yaml](../yaml/60616-transcript.yml) |
 | Precup, Sebastian I. | 60628 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60628-transcript.md) - [yaml](../yaml/60628-transcript.yml) |
 | Torres, Jeobany J. | 60735 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60735-transcript.md) - [yaml](../yaml/60735-transcript.yml) |

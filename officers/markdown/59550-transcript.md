@@ -22,8 +22,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2023 | 2/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 1/27/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 2/18/2019 |  |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2023 | RMP1572A | Ethics | Passed | 0.0 | 1.00 |
 | 9/20/2023 | RMP0736A | Building Clearing / Rescue Task Force | Passed | 0.0 | 4.00 |
 | 9/20/2023 | RMP1821A | Diversity Equity and Inclusion | Passed | 0.0 | 3.00 |

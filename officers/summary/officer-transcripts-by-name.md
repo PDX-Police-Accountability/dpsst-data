@@ -1232,10 +1232,10 @@
 | Postula, Kayla H. | 59627 | Portland Police Bureau | Active | Police Officer | Hired | 2019-02-07 | [md](../markdown/59627-transcript.md) - [yaml](../yaml/59627-transcript.yml) |
 | Potter, Ryan A. | 55447 | Portland Police Bureau | Active | Police Officer | Hired | 2015-08-27 | [md](../markdown/55447-transcript.md) - [yaml](../yaml/55447-transcript.yml) |
 | Povey, Nicholas B. | 51553 | Portland Police Bureau | Active | Reserve Officer | Hired | 2010-08-18 | [md](../markdown/51553-transcript.md) - [yaml](../yaml/51553-transcript.yml) |
+| Powell Lazarides, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
 | Powell, Brian W. | 50651 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/50651-transcript.md) - [yaml](../yaml/50651-transcript.yml) |
 | Powell, Heather C. | 33027 | Portland Police Bureau | Active | Criminalist | Promotion | 2003-07-31 | [md](../markdown/33027-transcript.md) - [yaml](../yaml/33027-transcript.yml) |
 | Powell, James E. | 21311 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2018-12-26 | [md](../markdown/21311-transcript.md) - [yaml](../yaml/21311-transcript.yml) |
-| Powell, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
 | Precup, Sebastian I. | 60628 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60628-transcript.md) - [yaml](../yaml/60628-transcript.yml) |
 | Preston, Jason M. | 29200 | Portland Police Bureau | Inactive | Sergeant | Retired | 2022-02-23 | [md](../markdown/29200-transcript.md) - [yaml](../yaml/29200-transcript.yml) |
 | Price, Jeremy D. | 41048 | Portland Police Bureau | Inactive | Lieutenant | Resigned | 2021-01-21 | [md](../markdown/41048-transcript.md) - [yaml](../yaml/41048-transcript.yml) |

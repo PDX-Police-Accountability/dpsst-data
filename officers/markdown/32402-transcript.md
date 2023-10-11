@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/18/2023 | HBS4508A | 2023 September In-Service | Passed | 0.0 | 9.00 |
+| 8/24/2023 | HBS0484A | IA300 Adv Criminal Intel Tradecraft-Analysis | Passed | 0.0 | 24.00 |
 | 6/14/2023 | HBS1553A | 34th Annual ACFE Global Fraud Conference | Passed | 0.0 | 20.00 |
 | 6/8/2023 | HBS2473A | Washington County Elder Abuse Symposium | Instructed | 0.0 | 1.50 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

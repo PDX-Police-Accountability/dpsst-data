@@ -87,7 +87,7 @@
 | 4/30/2022 | PDP42276 | 2021-12 CAO Legal Updates for December 2021 | Passed | 0.0 | 0.25 |
 | 4/30/2022 | PDP03030 | Dir 0630.60, Vehicle Disposition and Impoundment | Passed | 0.0 | 0.25 |
 | 4/27/2022 | CVS44559 | WRAP - RESTRAINT CHAIR | Passed | 0.0 | 2.50 |
-| 4/27/2022 | CVS02628 | BATON | Passed | 0.0 | 0.50 |
+| 4/27/2022 | CVS02628 | Baton | Passed | 0.0 | 0.50 |
 | 4/27/2022 | CVS28901 | KNIFE DEPLOYMENT AND DEFENSE | Passed | 0.0 | 1.00 |
 | 4/22/2022 | PDP41122 | DUII  DRE/DECP Training Conference | Passed | 0.0 | 15.00 |
 | 4/22/2022 | F6R36750 | 2022 DUII Multi-Disciplinary Conference | Passed | 0.0 | 15.00 |

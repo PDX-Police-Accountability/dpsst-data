@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/21/2023 | VND1687A | Responder Life Peer Support Training | Passed | 0.0 | 8.00 |
 | 1/14/2021 | GSP21274 | CPR and First Aid | Passed | 0.0 | 8.00 |
 | 1/6/2021 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/30/2020 | GSP35136 | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |

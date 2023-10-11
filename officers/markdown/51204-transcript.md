@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
 | 9/25/2023 | HBS4458A | Law Enforcement Basic Sniper School | Passed | 0.0 | 37.00 |
 | 9/14/2023 | PDP3167A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |

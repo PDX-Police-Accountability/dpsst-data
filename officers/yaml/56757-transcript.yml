@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2023
+  course: PSU4061A
+  title: Digital Threat Assesment
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/16/2023
   course: PSU1001
   title: Defensive Tactics

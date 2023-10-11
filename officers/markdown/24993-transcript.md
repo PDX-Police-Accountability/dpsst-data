@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
 | 5/28/2020 | F6D43305 | Firearms Range - Combat Course | Passed | 0.0 | 1.00 |
 | 4/29/2020 | F6D31054 | Covid-19 Response | Passed | 0.0 | 1.00 |
 | 2/26/2020 | F6D23501 | Firearms Combat Range | Passed | 0.0 | 1.00 |

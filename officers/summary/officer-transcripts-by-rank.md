@@ -1220,7 +1220,7 @@
 | McNown, Keaton M. | 60564 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2019-12-18 | [md](../markdown/60564-transcript.md) - [yaml](../yaml/60564-transcript.yml) |
 | Guevara, Reynaldo | 60587 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-06 | [md](../markdown/60587-transcript.md) - [yaml](../yaml/60587-transcript.yml) |
 | McDowall, Devin J. | 60588 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-04-20 | [md](../markdown/60588-transcript.md) - [yaml](../yaml/60588-transcript.yml) |
-| Powell, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
+| Powell Lazarides, Kelly L. | 60590 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60590-transcript.md) - [yaml](../yaml/60590-transcript.yml) |
 | Wilgus, Garrett F. | 60603 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-03-10 | [md](../markdown/60603-transcript.md) - [yaml](../yaml/60603-transcript.yml) |
 | DeLong, Spenser M. | 60604 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-12-06 | [md](../markdown/60604-transcript.md) - [yaml](../yaml/60604-transcript.yml) |
 | Brewer, James M. | 60616 | Portland Police Bureau | Active | Police Officer | Hired | 2020-01-30 | [md](../markdown/60616-transcript.md) - [yaml](../yaml/60616-transcript.yml) |

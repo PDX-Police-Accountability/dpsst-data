@@ -76,6 +76,12 @@ certification_records:
   expiration_date: 5/29/2025
   probation_date: ''
 training_records:
+- date: 10/6/2023
+  course: BVP1875A
+  title: Complete Tactical Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '44.00'
 - date: 5/28/2020
   course: F6D43305
   title: Firearms Range - Combat Course
