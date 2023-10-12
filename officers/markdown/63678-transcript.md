@@ -31,6 +31,13 @@
 | 11/29/2023 | PDP1785 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 10/3/2023 | PDP0198A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 9/21/2023 | PDP3261A | 2018-1 TT Hazard Towing v. Private Request Tows | Passed | 0.0 | 0.25 |
+| 9/21/2023 | PDP2628A | 2019 CHO SPLC LE Response to Hate Events | Passed | 0.0 | 0.25 |
+| 9/20/2023 | PDP4516A | 2019 Chief's Office SPLC Aryan Prison Gangs | Passed | 0.0 | 0.25 |
+| 9/20/2023 | PDP0058A | 2019 CHO SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |
+| 9/20/2023 | PDP3247A | 2019 Chief's Office SPLC The Rise of the Lone Wolf | Passed | 0.0 | 0.25 |
+| 9/20/2023 | PDP0124A | 2022 PIT and Ramming | Passed | 0.0 | 0.25 |
+| 9/20/2023 | PDP2568A | 2022-11 EO Clarification Regarding DIR 1010.00 | Passed | 0.0 | 0.25 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |

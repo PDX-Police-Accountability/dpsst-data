@@ -50,6 +50,12 @@ certification_records:
   expiration_date: 4/1/2027
   probation_date: ''
 training_records:
+- date: 8/29/2023
+  course: PDS2713A
+  title: Medical Transports and Hospital Duty
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/25/2022
   course: PDP30218
   title: 2021 Training New Pistol Qualification

@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 7/7/2023
+  course: PDP1316A
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/12/2023
   course: M10-23A
   title: DPSST Basic Police Course

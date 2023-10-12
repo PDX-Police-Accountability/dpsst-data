@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 10/5/2023 | MNP0404A | Building Your Leadership Toolbox | Passed | 0.0 | 8.00 |
 | 8/31/2023 | PDP0895A | EAP Assisting Individuals in Crisis CISM Trng | Passed | 0.0 | 13.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/26/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

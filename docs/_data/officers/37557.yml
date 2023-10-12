@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2023
+  course: LOP0249A
+  title: Ballistic Shield Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/31/2023
   course: LOP2709A
   title: Airway/Circulatory Training

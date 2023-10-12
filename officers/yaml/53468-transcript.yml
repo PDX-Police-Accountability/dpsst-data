@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/9/2023
+  course: PDP4084A
+  title: 2022 DIR 650.00 Search, Seizures, and Inventories
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/11/2023
   course: PDP1584A
   title: 2023 Body Worn Camera Pilot Project Training

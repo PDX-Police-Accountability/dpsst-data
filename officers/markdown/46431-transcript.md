@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2023 | PDP2210A | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
+| 9/25/2023 | PDP3179A | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/19/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/19/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

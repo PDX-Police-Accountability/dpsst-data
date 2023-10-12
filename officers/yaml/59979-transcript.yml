@@ -30,12 +30,24 @@ certification_records:
   expiration_date: 11/23/2027
   probation_date: ''
 training_records:
+- date: 3/26/2023
+  course: PDP1106A
+  title: Grayshift GrayKey Operator Certification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/21/2023
   course: PDP0030A
   title: Cellebrite Advanced Smartphone Analysis
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 12/23/2022
+  course: PDP3802A
+  title: Cellebrite CCO  CCPA Training
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
 - date: 10/28/2022
   course: PDP36211
   title: 2022 Crowd Management

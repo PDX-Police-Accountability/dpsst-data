@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2023
+  course: PDP3179A
+  title: 2021 PIO Twitter Basics
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/1/2023
   course: HDA2069A
   title: Basic Narcotics Investigations
@@ -48,6 +54,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/21/2023
+  course: PDP2210A
+  title: 2021 PIO Photos for Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/26/2023
   course: PDP2232A
   title: 2023-1 Shotgun Operators In-Service Training

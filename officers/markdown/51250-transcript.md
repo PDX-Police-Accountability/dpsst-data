@@ -35,10 +35,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 9/25/2023 | PDP1032A | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
 | 9/18/2023 | PDP2722A | 2022-2 In Service Online Recordings | Passed | 0.0 | 6.50 |
 | 9/13/2023 | PDP3409A | 2022-2 In Service Legal Updates Recorded Training | Passed | 0.0 | 0.00 |
 | 9/13/2023 | PDP0884A | 2022-2 In Service Mental Health / CI | Passed | 0.0 | 1.00 |
 | 9/13/2023 | PDP2845A | 2022-2 In-Service HRAR 2.02 Refresher Recorded Tra | Passed | 0.0 | 0.75 |
+| 9/11/2023 | PDP3899A | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
 | 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 0.25 |
 | 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

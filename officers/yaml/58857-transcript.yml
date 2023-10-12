@@ -1972,4 +1972,14 @@ attribute_records:
   value: First Aid/CPR Required
   effective_date: 1/1/1900
   expiration_date: 8/17/2023
-education_records: []
+education_records:
+- date: 12/18/2017
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '182.0'
+- date: 12/31/2014
+  degree: Associate Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '0.0'

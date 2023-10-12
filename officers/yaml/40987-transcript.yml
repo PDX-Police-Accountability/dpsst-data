@@ -146,6 +146,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 5/25/2023
+  course: PDP1364A
+  title: ATF Advanced Explosives Diposal
+  status: Passed
+  score: '0.0'
+  hours: '64.00'
 - date: 5/22/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

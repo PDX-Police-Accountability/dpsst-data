@@ -47,6 +47,7 @@
 | 8/10/2023 | LOP3629A | Active Threat/CCP/MCI | Passed | 0.0 | 2.50 |
 | 6/16/2023 | LOP2153A | EVOC/HR Stops/Box-In | Passed | 0.0 | 9.00 |
 | 6/9/2023 | LOP3781A | Policy review-Vehicle Pursuits and Vehicle Use | Passed | 0.0 | 0.50 |
+| 6/9/2023 | LOP1798A | Firearms training | Passed | 0.0 | 4.00 |
 | 5/19/2023 | LOP3247A | Bloodborne Pathogens | Passed | 0.0 | 0.75 |
 | 5/18/2023 | LOP1720 | National Computer Forensics Institute | Passed | 0.0 | 112.00 |
 | 4/26/2023 | OCA0275A | High Risk Vehicle Stops and Tactics | Passed | 0.0 | 2.00 |

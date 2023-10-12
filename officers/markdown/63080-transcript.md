@@ -30,6 +30,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 7/24/2023 | PDP1883A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 7/20/2023 | PDP2121A | 2020 MCDA Presumptive Declination of DUIIs | Passed | 0.0 | 0.25 |
+| 7/20/2023 | PDP1660A | 2021-10 TT Citation-in-Lieu-of-Custody Warrants | Passed | 0.0 | 0.25 |
+| 7/20/2023 | PDP0383A | 2021-3 TT Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |

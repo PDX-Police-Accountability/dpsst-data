@@ -113,6 +113,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '12.00'
+- date: 9/1/2023
+  course: PDP3519A
+  title: NTOA LE Operations  Trade Show
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

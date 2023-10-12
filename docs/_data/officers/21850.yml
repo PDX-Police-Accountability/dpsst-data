@@ -149,6 +149,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 9/11/2023
+  course: LOP0249A
+  title: Ballistic Shield Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/5/2023
   course: LOP1926A
   title: Prison Rape Elimination Act (PREA)

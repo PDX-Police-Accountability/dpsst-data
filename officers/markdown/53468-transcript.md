@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/9/2023 | PDP4084A | 2022 DIR 650.00 Search, Seizures, and Inventories | Passed | 0.0 | 0.50 |
 | 8/11/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 8/10/2023 | PDP0465A | 2023 Intro to Motivational Interviewing | Passed | 0.0 | 10.00 |
 | 7/20/2023 | PDP3449A | 2023 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 7.00 |

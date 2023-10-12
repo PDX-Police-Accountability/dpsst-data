@@ -60,6 +60,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/19/2023
+  course: PDS2183A
+  title: Origami/RSK Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/19/2023
+  course: PDS2659A
+  title: Harassment Free Workplace
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/22/2023
   course: PDS1095A
   title: Law Enforcement Command Training

@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 4.00 |
+| 7/27/2023 | PDS2183A | Origami/RSK Training | Passed | 0.0 | 1.00 |
+| 7/27/2023 | PDS2659A | Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 6/21/2023 | PDS2414A | Report Writing | Passed | 0.0 | 8.00 |
 | 6/7/2023 | PDS1199A | Leadership Team Training | Passed | 0.0 | 2.50 |
 | 5/24/2023 | PDS2304A | Power DMS Author Training | Passed | 0.0 | 2.00 |

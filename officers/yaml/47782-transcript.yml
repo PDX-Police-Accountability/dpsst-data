@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/31/2023
+  course: PDP2943A
+  title: NIAIA Annual Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '26.75'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

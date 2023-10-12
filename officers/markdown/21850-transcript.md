@@ -52,6 +52,7 @@
 | 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
 | 9/25/2023 | LOP1963A | The Red Door Project | Passed | 0.0 | 6.00 |
+| 9/11/2023 | LOP0249A | Ballistic Shield Training | Passed | 0.0 | 1.50 |
 | 9/5/2023 | LOP1926A | Prison Rape Elimination Act (PREA) | Passed | 0.0 | 0.50 |
 | 8/31/2023 | LOP3530A | Insight to OR Government Ethics Laws | Passed | 0.0 | 1.00 |
 | 8/31/2023 | LOP1204A | Cross-cultural intelligence, Diversity 101 | Passed | 0.0 | 1.00 |

@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2023 | PDP2943A | NIAIA Annual Training Conference | Passed | 0.0 | 26.75 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

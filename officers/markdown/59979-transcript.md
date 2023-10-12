@@ -29,7 +29,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/26/2023 | PDP1106A | Grayshift GrayKey Operator Certification | Passed | 0.0 | 2.00 |
 | 3/21/2023 | PDP0030A | Cellebrite Advanced Smartphone Analysis | Passed | 0.0 | 28.00 |
+| 12/23/2022 | PDP3802A | Cellebrite CCO  CCPA Training | Passed | 0.0 | 35.00 |
 | 10/28/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/28/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/28/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |

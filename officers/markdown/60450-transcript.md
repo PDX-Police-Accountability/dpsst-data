@@ -29,7 +29,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2023 | PDP1106A | Grayshift GrayKey Operator Certification | Passed | 0.0 | 2.00 |
 | 3/2/2023 | PDP0030A | Cellebrite Advanced Smartphone Analysis | Passed | 0.0 | 28.00 |
+| 2/24/2023 | PDP1875A | Cellebrite CCO  CCPA Training | Passed | 0.0 | 35.00 |
 | 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/18/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

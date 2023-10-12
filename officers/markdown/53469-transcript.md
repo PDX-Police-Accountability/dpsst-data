@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2023 | OCS2369A | PEER Support | Passed | 0.0 | 3.50 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/7/2023 | OCS1588A | DUII Refresher | Passed | 0.0 | 1.00 |
 | 8/7/2023 | OCS3800A | FTO Meeting/Training | Passed | 0.0 | 2.00 |

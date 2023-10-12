@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 8/31/2023
+  course: PDP3252A
+  title: Reid Technique Invest Interviewing Adv Inter Tech
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

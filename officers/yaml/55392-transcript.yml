@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 8/14/2023
+  course: PDP0440A
+  title: 2022-1 TT Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 8/14/2023
+  course: PDP2001A
+  title: 2022-7 EO Corrective Action Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/17/2023
   course: PDP0216A
   title: 2023 Training PVO Precision Movement Course

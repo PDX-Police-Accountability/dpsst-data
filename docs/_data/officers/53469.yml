@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/28/2023
+  course: OCS2369A
+  title: PEER Support
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 8/13/2023
   course: OCS0541A
   title: One Hand Shooting/Use of Cover

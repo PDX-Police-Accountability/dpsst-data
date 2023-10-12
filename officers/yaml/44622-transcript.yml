@@ -104,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 5/29/2023
+  course: F1525542
+  title: Vehicle CQB Instructor
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/24/2023
   course: OSH3440
   title: FA2- Rifle

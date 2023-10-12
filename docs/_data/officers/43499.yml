@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/25/2023
+  course: PDP3962A
+  title: IAI 107th Educational Conference
+  status: Passed
+  score: '0.0'
+  hours: '34.50'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

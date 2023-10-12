@@ -30,6 +30,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/18/2017 | Bachelor Science | All Other Education Institutes |  | 182.0 |
+| 12/31/2014 | Associate Science | All Other Education Institutes |  | 0.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

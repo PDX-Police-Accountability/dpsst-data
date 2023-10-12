@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 10/5/2023
+  course: MNP0404A
+  title: Building Your Leadership Toolbox
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/31/2023
   course: PDP0895A
   title: EAP Assisting Individuals in Crisis CISM Trng

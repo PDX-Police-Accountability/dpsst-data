@@ -48,6 +48,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/21/2023
+  course: PDP3261A
+  title: 2018-1 TT Hazard Towing v. Private Request Tows
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/21/2023
+  course: PDP2628A
+  title: 2019 CHO SPLC LE Response to Hate Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/20/2023
+  course: PDP4516A
+  title: 2019 Chief's Office SPLC Aryan Prison Gangs
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/20/2023
+  course: PDP0058A
+  title: 2019 CHO SPLC Sovereign Citizen Movement
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/20/2023
+  course: PDP3247A
+  title: 2019 Chief's Office SPLC The Rise of the Lone Wolf
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/20/2023
+  course: PDP0124A
+  title: 2022 PIT and Ramming
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/20/2023
+  course: PDP2568A
+  title: 2022-11 EO Clarification Regarding DIR 1010.00
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/8/2023
   course: PDP2543A
   title: RADAR/LIDAR Operator
