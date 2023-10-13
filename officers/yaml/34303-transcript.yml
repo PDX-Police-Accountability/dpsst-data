@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/27/2023
+  course: HBP3311A
+  title: ODT - Ambush Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/13/2023
   course: GSP1641A
   title: 2023 OPCA Fall Conference - Patrol
@@ -81,6 +87,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/6/2023
+  course: HBP0515A
+  title: Crisis Response Planning - TRUST
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 9/5/2023
+  course: HBP3782A
+  title: TRUST Teambuilding and Training
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 7/26/2023
   course: HBP1923A
   title: K9 Custody, POST PIT, High Risk Traffic Stops

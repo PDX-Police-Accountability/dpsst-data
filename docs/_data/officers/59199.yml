@@ -67,6 +67,24 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 10/5/2023
+  course: EGP1223A
+  title: Field Force MRT Briefing Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/14/2023
+  course: EGP2604A
+  title: Belonging Training - Module 2 (Bias Training)
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/14/2023
+  course: EGP3979A
+  title: ETHOS "Harnessing Leadership"
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/7/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

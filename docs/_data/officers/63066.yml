@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 8/31/2023
+  course: PDP1197A
+  title: 2017-3 CAO Legal Updates for Q3 08/2017
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/5/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy

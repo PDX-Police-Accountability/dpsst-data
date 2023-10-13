@@ -35,7 +35,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2023 | PDP0109A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
+| 9/11/2023 | PDP3868A | 2023-1 In Service Crowd Mgmt Legal Updates | Passed | 0.0 | 2.00 |
+| 9/11/2023 | PDP0137A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
+| 9/11/2023 | PDP4011A | 2023-1 In Service MFF Formations | Passed | 0.0 | 1.00 |
+| 9/11/2023 | PDP2756A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 9/7/2023 | PDP3114A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
+| 9/7/2023 | PDP2946A | 2023-1 In Service Crowd Mgmt Use of Force 40mm | Passed | 0.0 | 0.50 |
+| 9/7/2023 | PDP1778A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
 | 9/6/2023 | PDP3877A | CPR/First Aid | Passed | 0.0 | 2.00 |
+| 9/6/2023 | PDP1609A | 2023-1 In Service Force Reporting | Passed | 0.0 | 0.50 |
+| 9/6/2023 | PDP0103A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
+| 9/6/2023 | PDP2843A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
 | 5/31/2023 | NPS1393 | Ethics | Passed | 0.0 | 1.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/18/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

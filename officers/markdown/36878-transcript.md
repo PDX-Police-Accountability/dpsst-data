@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/28/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/5/2023 | OCS2433 | FBI/LEEDA CLI | Passed | 0.0 | 28.50 |
+| 5/9/2023 | BVP0968A | Wellness | Instructed | 0.0 | 4.00 |
 | 5/8/2023 | BVP10108 | Air Support Briefing Training | Passed | 0.0 | 1.00 |
 | 5/8/2023 | BVP3774A | Air Support Briefing Training | Passed | 0.0 | 1.00 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |

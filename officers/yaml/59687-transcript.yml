@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/26/2023
+  course: WLP0162A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/21/2023
   course: WLP1743A
   title: 16 Hour Pistol Mounted Optic Transition Course

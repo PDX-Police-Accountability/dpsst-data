@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/4/2023
+  course: PDP2242A
+  title: 2023 Body-Worn Camera Axon User Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/4/2023
+  course: PDP1393A
+  title: 2023 Body-Worn Camera Records Axon Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/31/2023
   course: PDP2943A
   title: NIAIA Annual Training Conference

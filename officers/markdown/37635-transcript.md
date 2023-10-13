@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/5/2023 | EGP1328A | PREA Briefing Training | Passed | 0.0 | 0.50 |
+| 9/14/2023 | EGP2604A | Belonging Training - Module 2 (Bias Training) | Passed | 0.0 | 4.00 |
+| 9/14/2023 | EGP3979A | ETHOS "Harnessing Leadership" | Passed | 0.0 | 3.00 |
 | 9/5/2023 | EGP1322A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 6/15/2023 | EGP1571A | Live Fire Drills | Passed | 0.0 | 4.00 |
 | 6/14/2023 | EGP3987A | Supervisory Leadership Meeting | Passed | 0.0 | 4.00 |

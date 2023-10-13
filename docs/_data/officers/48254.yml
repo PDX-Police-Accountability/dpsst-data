@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/2/2023
+  course: PDP4212A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 6/10/2023
   course: OSH0662A
   title: Drug Certification Training

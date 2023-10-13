@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/6/2023
+  course: PDP0330A
+  title: 2023 Microsoft Excel Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/1/2023
   course: PDP0634A
   title: 2023 FTEP Post Basic CEW Taser

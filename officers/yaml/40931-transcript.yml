@@ -100,6 +100,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2023
+  course: PDP2242A
+  title: 2023 Body-Worn Camera Axon User Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/24/2023
+  course: PDP1393A
+  title: 2023 Body-Worn Camera Records Axon Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/24/2023
+  course: PDP1464A
+  title: 2023 BWC IA IG IPR Axon Online Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

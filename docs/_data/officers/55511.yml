@@ -127,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
+- date: 7/7/2023
+  course: PDP0749A
+  title: 2022 Language  Culture - Informal Interpreters
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/23/2023
   course: F6R3512A
   title: DID/SFST (Hours Included in Basic)

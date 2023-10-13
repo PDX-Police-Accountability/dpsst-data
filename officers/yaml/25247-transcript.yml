@@ -99,6 +99,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2023
+  course: PDP3868A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2023
+  course: PDP2946A
+  title: 2023-1 In Service Crowd Mgmt Use of Force 40mm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2023
+  course: PDP1778A
+  title: 2023-1 In Service Crowd Theory Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2023
+  course: PDP1609A
+  title: 2023-1 In Service Force Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2023
+  course: PDP0103A
+  title: 2023-1 In Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2023
+  course: PDP0137A
+  title: 2023-1 In Service MFF OPS Planned vs Spontaneous
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/29/2023
+  course: PDP3114A
+  title: 2023-1 In Service Crowd Mgmt Police Role
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/29/2023
+  course: PDP2843A
+  title: 2023-1 In Service APRGasMask Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

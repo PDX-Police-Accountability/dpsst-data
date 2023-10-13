@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/25/2023
+  course: PDP0944A
+  title: 2018 SSD Stops Application
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/8/2023
   course: PDP2543A
   title: RADAR/LIDAR Operator

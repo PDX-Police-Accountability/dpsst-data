@@ -82,6 +82,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.50'
+- date: 5/9/2023
+  course: BVP0968A
+  title: Wellness
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/8/2023
   course: BVP10108
   title: Air Support Briefing Training

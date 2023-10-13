@@ -37,9 +37,21 @@
 | 8/30/2023 | PDP0634A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 6.00 |
 | 8/17/2023 | PDP0620A | 2023 Training PVO Precision Movement Course | Passed | 0.0 | 2.50 |
 | 8/16/2023 | PDP0891A | CPR/First Aid | Passed | 0.0 | 2.00 |
+| 8/15/2023 | PDP3868A | 2023-1 In Service Crowd Mgmt Legal Updates | Passed | 0.0 | 2.00 |
+| 8/15/2023 | PDP3114A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
+| 8/15/2023 | PDP2946A | 2023-1 In Service Crowd Mgmt Use of Force 40mm | Passed | 0.0 | 0.50 |
+| 8/15/2023 | PDP1778A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 8/15/2023 | PDP1609A | 2023-1 In Service Force Reporting | Passed | 0.0 | 0.50 |
+| 8/15/2023 | PDP4011A | 2023-1 In Service MFF Formations | Passed | 0.0 | 1.00 |
+| 8/15/2023 | PDP2756A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 8/15/2023 | PDP0109A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
 | 8/14/2023 | PDP0440A | 2022-1 TT Corrective Action Guide | Passed | 0.0 | 0.75 |
 | 8/14/2023 | PDP2001A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
+| 8/14/2023 | PDP0103A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
+| 8/14/2023 | PDP2843A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
+| 7/19/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/17/2023 | PDP0216A | 2023 Training PVO Precision Movement Course | Passed | 0.0 | 2.50 |
+| 7/13/2023 | PDP0330A | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/3/2022 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 5/7/2021 | PDP44416 | 2020 CAO IPO.McNally Refresh Train (resend) | Passed | 0.0 | 0.50 |

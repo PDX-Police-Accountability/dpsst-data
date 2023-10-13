@@ -36,11 +36,26 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/25/2023 | PDP1032A | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
+| 9/19/2023 | PDP0109A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
+| 9/19/2023 | PDP0137A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
+| 9/19/2023 | PDP4011A | 2023-1 In Service MFF Formations | Passed | 0.0 | 1.00 |
+| 9/19/2023 | PDP2756A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
 | 9/18/2023 | PDP2722A | 2022-2 In Service Online Recordings | Passed | 0.0 | 6.50 |
+| 9/18/2023 | PDP3868A | 2023-1 In Service Crowd Mgmt Legal Updates | Passed | 0.0 | 2.00 |
+| 9/18/2023 | PDP3114A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
+| 9/18/2023 | PDP2946A | 2023-1 In Service Crowd Mgmt Use of Force 40mm | Passed | 0.0 | 0.50 |
+| 9/18/2023 | PDP1778A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 9/18/2023 | PDP1609A | 2023-1 In Service Force Reporting | Passed | 0.0 | 0.50 |
+| 9/18/2023 | PDP0103A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
+| 9/18/2023 | PDP2843A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
 | 9/13/2023 | PDP3409A | 2022-2 In Service Legal Updates Recorded Training | Passed | 0.0 | 0.00 |
 | 9/13/2023 | PDP0884A | 2022-2 In Service Mental Health / CI | Passed | 0.0 | 1.00 |
 | 9/13/2023 | PDP2845A | 2022-2 In-Service HRAR 2.02 Refresher Recorded Tra | Passed | 0.0 | 0.75 |
 | 9/11/2023 | PDP3899A | 2021-9 CAO Legal Updates for 09/2021 | Passed | 0.0 | 0.25 |
+| 9/11/2023 | PDP0749A | 2022 Language  Culture - Informal Interpreters | Passed | 0.0 | 0.25 |
+| 9/11/2023 | PDP1290A | 2022 Lead Awareness and Safety Training | Passed | 0.0 | 1.25 |
+| 9/11/2023 | PDP2612A | 2022 Queer Policy - Policy Scenarios | Passed | 0.0 | 0.25 |
+| 9/11/2023 | PDP0330A | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 12/31/2022 | MAINTMUH | Maintenance Makeup Ethics | Passed | 0.0 | 0.25 |
 | 12/31/2022 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 4/6/2022 | PDP38945 | 2021-11 CAO Legal Updates for November 2021 | Passed | 0.0 | 0.25 |

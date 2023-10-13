@@ -40,8 +40,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2023 | HBP3311A | ODT - Ambush Training | Passed | 0.0 | 1.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |
+| 9/6/2023 | HBP0515A | Crisis Response Planning - TRUST | Passed | 0.0 | 3.50 |
+| 9/5/2023 | HBP3782A | TRUST Teambuilding and Training | Passed | 0.0 | 3.50 |
 | 7/26/2023 | HBP1923A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
 | 7/19/2023 | HBP0331A | K9 Custody, POST PIT, High Risk Traffic Stops | Instructed | 0.0 | 2.00 |
 | 7/12/2023 | HBP3924A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |
