@@ -35,6 +35,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2023 | PDP3045A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 9/12/2023 | PDP1921A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 9/12/2023 | PDP3928A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 9/12/2023 | PDP3159A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 9/12/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 9/11/2023 | PDP0109A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
 | 9/11/2023 | PDP3868A | 2023-1 In Service Crowd Mgmt Legal Updates | Passed | 0.0 | 2.00 |
 | 9/11/2023 | PDP0137A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
@@ -43,10 +51,34 @@
 | 9/7/2023 | PDP3114A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
 | 9/7/2023 | PDP2946A | 2023-1 In Service Crowd Mgmt Use of Force 40mm | Passed | 0.0 | 0.50 |
 | 9/7/2023 | PDP1778A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 9/7/2023 | PDP0857A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 9/7/2023 | PDP4476A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 9/7/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 9/7/2023 | PDP3002A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP3877A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 9/6/2023 | PDP1609A | 2023-1 In Service Force Reporting | Passed | 0.0 | 0.50 |
 | 9/6/2023 | PDP0103A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
 | 9/6/2023 | PDP2843A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
+| 9/6/2023 | PDP1966A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP4232A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP2592A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP1139A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP1470A | Annual CIU NTR Alarm Response Training Reed | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP3291A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 9/5/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP0308A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP2577A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/5/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/31/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 8/31/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 8/31/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/31/2023 | PDP3046A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 8/30/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 5/31/2023 | NPS1393 | Ethics | Passed | 0.0 | 1.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/18/2022 | PDP01766 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

@@ -27,3 +27,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/13/2023 | M10-23A | DPSST Basic Police Course | Pending | 0.0 | 640.00 |
+| 9/19/2023 | PDP4232A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP3159A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 9/19/2023 | PDP3046A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP1139A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

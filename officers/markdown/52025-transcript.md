@@ -36,16 +36,26 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 9/6/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 8/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 8/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 8/23/2023 | PDP3789A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/20/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/20/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/20/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/16/2023 | PDP0356A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/10/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 8/9/2023 | PDP3973A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/7/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/3/2023 | PDP0967A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/2/2023 | PDP1489A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/1/2023 | PDP4134A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/31/2023 | PDP1087A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 7/30/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/5/2023 | PDP3517A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 7/1/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/28/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/2/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

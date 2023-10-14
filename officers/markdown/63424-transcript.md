@@ -28,9 +28,22 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/10/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/19/2023 | PDP0363A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 9/19/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 8/22/2023 | PDP1230A | FTEP Hazmat/WMD Awareness APR Gas Mask Ftng | Passed | 0.0 | 3.00 |
 | 7/14/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 7/7/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 7/7/2023 | PDP0308A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 7/7/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/6/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 7/6/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/2/2023 | PDP3607A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
 | 5/18/2023 | REG1282 | INTOX 8000  (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |

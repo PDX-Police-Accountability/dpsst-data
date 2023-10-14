@@ -30,6 +30,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/12/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/15/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/13/2023
   course: PDP2660A
   title: 2023 SERT Training - FIREARMS

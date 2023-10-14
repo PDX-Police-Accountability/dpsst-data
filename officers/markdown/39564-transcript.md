@@ -47,7 +47,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/29/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/29/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/29/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/11/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 7/25/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 6/22/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

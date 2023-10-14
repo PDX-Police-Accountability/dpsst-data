@@ -36,6 +36,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/17/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/6/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 7/6/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/6/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 6/20/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/8/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/3/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

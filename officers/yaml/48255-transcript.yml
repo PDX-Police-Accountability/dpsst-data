@@ -37,6 +37,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/19/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/4/2023
   course: PDP3606A
   title: CPR/First Aid

@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/12/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 3/2/2019
   certificate: Police Officer
   level: Basic
@@ -36,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2023
+  course: OCS3719A
+  title: Use of Force/De-escalation K9 unit training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/13/2023
   course: GSP1641A
   title: 2023 OPCA Fall Conference - Patrol

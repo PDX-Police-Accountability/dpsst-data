@@ -28,6 +28,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/7/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/8/2023 | PDP0363A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP3002A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 9/8/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/7/2023 | PDP0395A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 9/7/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/31/2023 | PDP1197A | 2017-3 CAO Legal Updates for Q3 08/2017 | Passed | 0.0 | 0.25 |
 | 6/5/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 6/5/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

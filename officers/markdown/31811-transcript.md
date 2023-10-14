@@ -35,8 +35,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2023 | PDP0162A | Motorcade Training | Passed | 0.0 | 6.00 |
+| 9/18/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/18/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/18/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/18/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/11/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 9/11/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/11/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 9/11/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/31/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/11/2023 | PDP1131A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 7/9/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/29/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 6/28/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 6/27/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |

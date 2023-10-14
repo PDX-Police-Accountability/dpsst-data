@@ -34,6 +34,20 @@
 | 8/17/2023 | F6R1759A | Intox 8000 | Passed | 0.0 | 6.00 |
 | 8/17/2023 | REG3523A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 7/3/2023 | PDP1316A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 7/3/2023 | PDP1966A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP3237A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP0395A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 7/3/2023 | PDP3045A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP4476A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP3928A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 7/3/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP2592A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 7/3/2023 | PDP0308A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 7/3/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 6/12/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 6/7/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 18.00 |
 | 6/6/2023 | PDP3434 | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |

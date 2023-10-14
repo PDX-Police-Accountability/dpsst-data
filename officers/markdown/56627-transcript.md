@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/21/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 8/21/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/7/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/7/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 6/7/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |

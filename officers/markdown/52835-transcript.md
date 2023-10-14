@@ -32,8 +32,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/6/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/6/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/21/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/21/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/21/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/15/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/9/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
+| 7/21/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/23/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/22/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

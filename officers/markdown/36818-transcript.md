@@ -37,8 +37,23 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/29/2023 | PDP1464A | 2023 BWC IA IG IPR Axon Online Recorded Training | Passed | 0.0 | 1.00 |
 | 9/29/2023 | PDP2242A | 2023 Body-Worn Camera Axon User Training | Passed | 0.0 | 1.50 |
+| 9/29/2023 | PDP0516A | 2023 Body-Worn Camera (BWC) Policy Online | Passed | 0.0 | 1.00 |
+| 9/29/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
+| 9/27/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/21/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/21/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/21/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/21/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/10/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
+| 8/2/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/21/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/21/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 7/21/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 7/21/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/14/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/14/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/14/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

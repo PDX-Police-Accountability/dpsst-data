@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/10/2023
+  course: PDP4232A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/10/2023
+  course: PDP3159A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2023
   course: PDP3730A
   title: 2023 Microsoft Office Teams Usage Policy

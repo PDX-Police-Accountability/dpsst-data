@@ -33,9 +33,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/14/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/14/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/14/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/14/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 9/14/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/1/2023 | HDA2069A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
 | 8/23/2023 | SAG0665A | Simplifying Financial Records Investigations | Passed | 0.0 | 15.50 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/11/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 8/11/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 6/25/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/25/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/25/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

@@ -33,7 +33,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2023 | PDP0162A | Motorcade Training | Passed | 0.0 | 6.00 |
+| 9/2/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/2/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 8/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 8/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 8/28/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/28/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/26/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/8/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/3/2023 | PDS0153A | Remedial Range Training | Passed | 0.0 | 4.00 |
+| 8/2/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 8/1/2023 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 7/21/2023 | PDP3449A | 2023 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 6/22/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

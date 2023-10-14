@@ -36,6 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/28/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/28/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/28/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 9/17/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 9/4/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 10.00 |
 | 9/3/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 5.00 |
 | 9/2/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 5.00 |
@@ -53,6 +59,7 @@
 | 7/29/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/21/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |

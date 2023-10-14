@@ -36,6 +36,30 @@ certification_records:
   expiration_date: 12/30/2023
   probation_date: ''
 training_records:
+- date: 8/21/2023
+  course: PDP0934A
+  title: 2023 Portland Community Justice Partnership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP2150A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP3557A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/1/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/26/2023
   course: PDP0252A
   title: CPR/First Aid

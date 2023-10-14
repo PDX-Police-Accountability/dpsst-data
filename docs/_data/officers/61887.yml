@@ -30,6 +30,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 9/4/2023
+  course: PDP4288A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/29/2023
+  course: PDP2309A
+  title: 2023 DIR 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/26/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/25/2023
+  course: PDP1721A
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/16/2023
   course: PDP1689A
   title: CPR/First Aid

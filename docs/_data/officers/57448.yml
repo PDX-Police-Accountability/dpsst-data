@@ -36,6 +36,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/24/2023
+  course: PDP2384A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/24/2023
+  course: PDP2438A
+  title: 2022-11 CAO Legal Updates for 11/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/24/2023
+  course: PDP1263A
+  title: 2022-12 CAO Legal Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/2/2023
+  course: PDP3765A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/2/2023
+  course: PDP0934A
+  title: 2023 Portland Community Justice Partnership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/2/2023
+  course: PDP2150A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/2/2023
+  course: PDP3557A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/19/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/17/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/17/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/17/2023
+  course: PDP1721A
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/17/2023
+  course: PDP0931A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/4/2023
   course: PDP3606A
   title: CPR/First Aid

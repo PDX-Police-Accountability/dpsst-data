@@ -55,6 +55,24 @@ certification_records:
   expiration_date: 7/7/2024
   probation_date: ''
 training_records:
+- date: 8/9/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/21/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/24/2023
   course: PDP0078A
   title: 2023 Red Dot Sights Training

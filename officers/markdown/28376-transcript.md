@@ -41,15 +41,25 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/26/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/26/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/19/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP4183A | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 9/12/2023 | PDP2364A | CPR/First Aid | Instructed | 0.0 | 2.00 |
+| 9/12/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/20/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/14/2023 | PDP3666A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 8/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 8/11/2023 | PDP2604A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 8/11/2023 | PDP0436A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 8/7/2023 | PDP1117A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/24/2023 | PDP1883A | CPR/First Aid | Instructed | 0.0 | 1.75 |
+| 7/24/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/5/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/5/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP2867A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |
 | 6/21/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/21/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

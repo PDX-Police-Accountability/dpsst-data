@@ -39,10 +39,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/25/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/25/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP0619A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 9/15/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/15/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/15/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/16/2023 | PDP4468A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 8/11/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/8/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/21/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/19/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/13/2023 | PDP0257A | 2023 NATIA Training Conf  Technology Exhibition | Passed | 0.0 | 30.00 |
+| 7/5/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |
 | 6/21/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

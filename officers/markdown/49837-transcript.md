@@ -37,9 +37,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/4/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/31/2023 | PDP0895A | EAP Assisting Individuals in Crisis CISM Trng | Passed | 0.0 | 13.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/24/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 6/29/2023 | PDP4352A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/26/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/26/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

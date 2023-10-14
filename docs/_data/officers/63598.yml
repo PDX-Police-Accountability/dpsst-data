@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/4/2023
+  course: PDP0117A
+  title: 2023 Body Worn Camera Policy with KC
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2023
+  course: PDP0516A
+  title: 2023 Body-Worn Camera (BWC) Policy Online
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/28/2023
   course: PDP0922A
   title: 2023 FTEP Post Basic CEW Taser

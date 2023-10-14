@@ -28,6 +28,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 8/22/2023 | PDP1230A | FTEP Hazmat/WMD Awareness APR Gas Mask Ftng | Passed | 0.0 | 3.00 |
 | 8/17/2023 | PDP3293A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |

@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2023 | SPP3705A | De-escalation | Passed | 0.0 | 2.00 |
 | 9/6/2023 | SPP4420A | Background Investigations | Passed | 0.0 | 3.00 |
 | 8/15/2023 | SPP1504A | Hazmat First Responder Awareness | Passed | 0.0 | 1.50 |
 | 8/15/2023 | SPP2348A | Interactions w/ Disabilities, Dementia, Alzheimers | Passed | 0.0 | 0.50 |

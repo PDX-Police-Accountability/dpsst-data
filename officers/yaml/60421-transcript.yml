@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2023
+  course: SAG0969A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/4/2023
+  course: SAG0969A
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/26/2023
   course: SAG3621A
   title: ICAC 101

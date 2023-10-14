@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 10/11/2023
+  course: OCP1610A
+  title: Domestic Terrorism Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/7/2023
   course: OCP0393A
   title: Firearms/Use of Force

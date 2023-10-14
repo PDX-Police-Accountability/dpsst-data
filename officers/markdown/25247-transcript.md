@@ -51,8 +51,14 @@
 | 9/30/2023 | PDP1609A | 2023-1 In Service Force Reporting | Passed | 0.0 | 0.50 |
 | 9/30/2023 | PDP0103A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
 | 9/30/2023 | PDP0137A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
+| 9/30/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 9/29/2023 | PDP3114A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
 | 9/29/2023 | PDP2843A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
+| 9/29/2023 | PDP4232A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 9/29/2023 | PDP3159A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 9/29/2023 | PDP3046A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 9/29/2023 | PDP1139A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 9/29/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/29/2022 | PDP38854 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 9/29/2022 | PDP31358 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |

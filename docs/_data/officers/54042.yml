@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2023
+  course: OCS3632A
+  title: June/July/August/Sept 2023 Monthly Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/24/2023
   course: OCS2909
   title: Body Worn Cameras

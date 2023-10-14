@@ -30,6 +30,36 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/3/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/22/2023
+  course: PDP0931A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/14/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/14/2023
+  course: PDP4288A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 7/14/2023
+  course: PDP1721A
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/29/2023
   course: PDP1420A
   title: 2023-1 Shotgun Operators In-Service Training

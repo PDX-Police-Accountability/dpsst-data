@@ -33,14 +33,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/27/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/10/2023 | PDP3599A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 8/9/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
+| 8/8/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 7/13/2023 | PDP2215A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
+| 7/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 6/29/2023 | PDP4352A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/22/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

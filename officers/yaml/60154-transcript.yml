@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/5/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/5/2023
+  course: PDP1721A
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

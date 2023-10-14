@@ -38,7 +38,11 @@
 | 9/14/2023 | PDP3167A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/24/2023 | PDP2106A | 2023 SERT Training - Iteration | Passed | 0.0 | 9.00 |
+| 8/23/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 8/23/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/23/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/16/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/11/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 8/10/2023 | PDP3599A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |

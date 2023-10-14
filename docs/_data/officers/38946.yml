@@ -83,6 +83,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/26/2023
+  course: PDP3765A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/26/2023
+  course: PDP0934A
+  title: 2023 Portland Community Justice Partnership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/26/2023
+  course: PDP2150A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/26/2023
+  course: PDP3557A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/22/2023
   course: PDP4501A
   title: 2023 SERT/CNT/CIC Camp Rilea Training
@@ -95,6 +119,66 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/14/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/31/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/3/2023
+  course: PDP0857A
+  title: 2021-9 TT Protecting Workers from the Dangers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/3/2023
+  course: PDP3002A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/3/2023
+  course: PDP2469A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/3/2023
+  course: PDP4288A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 7/3/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/3/2023
+  course: PDP1721A
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/3/2023
+  course: PDP0931A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/3/2023
+  course: PDP2399A
+  title: OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/23/2023
   course: PDP3810A
   title: Senior Management Institute for Police

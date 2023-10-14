@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/10/2023 | PDP4232A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 7/10/2023 | PDP3159A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 6/5/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 6/5/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |

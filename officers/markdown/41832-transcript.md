@@ -38,7 +38,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/12/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/12/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/22/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/22/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/4/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/2/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 2.00 |
+| 7/31/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/28/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/11/2023 | PDP0857A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 7/11/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/11/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 7/11/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 7/11/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/22/2023 | PDP2230A | Public Order, Crowd Mgmt and Riot Control Seminar | Passed | 0.0 | 22.00 |
 | 5/25/2023 | PDP1329A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

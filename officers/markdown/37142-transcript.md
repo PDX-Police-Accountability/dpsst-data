@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2023 | SPP3705A | De-escalation | Passed | 0.0 | 2.00 |
 | 9/8/2023 | F1516640 | Range | Passed | 0.0 | 2.00 |
 | 9/6/2023 | SPP4420A | Background Investigations | Passed | 0.0 | 3.00 |
 | 9/1/2023 | F1516640 | Range | Passed | 0.0 | 3.00 |

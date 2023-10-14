@@ -42,5 +42,65 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/22/2023
+  course: PDP3291A
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/22/2023
+  course: PDP2309A
+  title: 2023 DIR 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP3045A
+  title: 2022-12- CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP3928A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/21/2023
+  course: PDP4232A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP3159A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/21/2023
+  course: PDP0308A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP3046A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP1139A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/21/2023
+  course: PDP2577A
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 attribute_records: []
 education_records: []

@@ -69,6 +69,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/7/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/7/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/25/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

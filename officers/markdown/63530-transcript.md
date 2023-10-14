@@ -28,7 +28,30 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/27/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/27/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 8/23/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/23/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/23/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 8/23/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/12/2023 | PDP1156A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
+| 8/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 8/12/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/12/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 8/12/2023 | PDP0308A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 8/12/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/12/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 8/3/2023 | PDP0857A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 8/3/2023 | PDP1476A | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 8/3/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 8/3/2023 | PDP3002A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 8/3/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 8/3/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 8/3/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 8/2/2023 | PDP1197A | 2017-3 CAO Legal Updates for Q3 08/2017 | Passed | 0.0 | 0.25 |
+| 8/2/2023 | PDP3997A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 7/25/2023 | PDP1854A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 7/25/2023 | PDP2316A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Passed | 0.0 | 3.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |

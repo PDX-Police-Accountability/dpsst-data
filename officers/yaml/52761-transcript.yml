@@ -50,12 +50,78 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/1/2023
+  course: PDP2438A
+  title: 2022-11 CAO Legal Updates for 11/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/1/2023
+  course: PDP1263A
+  title: 2022-12 CAO Legal Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/30/2023
+  course: PDP2384A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/30/2023
+  course: PDP3557A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2023
+  course: PDP3765A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2023
+  course: PDP0934A
+  title: 2023 Portland Community Justice Partnership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/29/2023
+  course: PDP2150A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/14/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/11/2023
+  course: PDP0931A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/7/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/30/2023
   course: PDP0078A
   title: 2023 Red Dot Sights Training

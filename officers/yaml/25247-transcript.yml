@@ -135,6 +135,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/30/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/29/2023
   course: PDP3114A
   title: 2023-1 In Service Crowd Mgmt Police Role
@@ -147,6 +153,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/29/2023
+  course: PDP4232A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/29/2023
+  course: PDP3159A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/29/2023
+  course: PDP3046A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/29/2023
+  course: PDP1139A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/29/2023
+  course: PDP2741A
+  title: 2023 Video Evidence Basics for the Police
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

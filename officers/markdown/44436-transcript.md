@@ -35,15 +35,26 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/8/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/8/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/23/2023 | PDP3789A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/23/2023 | PDP3789A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 8/16/2023 | PDP0356A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/15/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/4/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 8/3/2023 | PDP0967A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/2/2023 | PDP1489A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/1/2023 | PDP4134A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/1/2023 | PDP4134A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 7/31/2023 | PDP1087A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 7/21/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 7/21/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 7/21/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/21/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/10/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/10/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/10/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2023 | SAG0969A | Firearms Training | Passed | 0.0 | 2.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/21/2023 | SAG2673A | Firearms/Use of Force | Passed | 0.0 | 2.00 |

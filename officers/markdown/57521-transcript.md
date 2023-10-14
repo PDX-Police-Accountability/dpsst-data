@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/9/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 7/21/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/6/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/24/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/2/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2023 | SAG0969A | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 2/27/2023 | TRN38602 | HSI Adult 1st Aid/Adult, Child  Infant CPR w/AED | Passed | 0.0 | 8.00 |
 | 2/22/2023 | SAG03351 | Simplifying Financial Investigations | Passed | 0.0 | 6.00 |

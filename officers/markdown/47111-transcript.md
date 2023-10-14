@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/17/2023 | BPT3673A | Field Training and Evaluation | Passed | 0.0 | 24.00 |
+| 6/29/2023 | BVP4100A | RISE 23 | Passed | 0.0 | 10.00 |
 | 6/13/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 6/13/2023 | BVP3258A | ICS Scenario | Passed | 0.0 | 2.00 |
 | 6/13/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |

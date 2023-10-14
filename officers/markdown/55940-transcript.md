@@ -33,7 +33,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/15/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/13/2023 | PDP2660A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 7/2/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/29/2023 | PDP4352A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/23/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

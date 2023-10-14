@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/29/2023
+  course: BVP4100A
+  title: RISE 23
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/13/2023
   course: BVP2565A
   title: Hawthorn Walk In Center, MHRT

@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2023
+  course: MNS1256A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/30/2023
   course: MNS0835A
   title: Heat Illness Prevention (Heat Stress)

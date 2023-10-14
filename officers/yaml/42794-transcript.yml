@@ -86,6 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2023
+  course: OCS3632A
+  title: June/July/August/Sept 2023 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/27/2023
+  course: OCS4284A
+  title: September 2023 New Rifle Carrier
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/22/2023
+  course: OCS2804A
+  title: Marksmanship / Observation skills / Case Review
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/20/2023
   course: OCS0501A
   title: New Hire Shotgun Orientation

@@ -30,9 +30,147 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 9/27/2023
+  course: PDP2384A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2023
+  course: PDP2438A
+  title: 2022-11 CAO Legal Updates for 11/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2023
+  course: PDP1263A
+  title: 2022-12 CAO Legal Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/27/2023
+  course: PDP3765A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/23/2023
+  course: PDP0934A
+  title: 2023 Portland Community Justice Partnership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/23/2023
+  course: PDP2150A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/23/2023
+  course: PDP3777A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/23/2023
+  course: PDP3557A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/12/2023
+  course: PDP1156A
+  title: 2018 TOD 100% Collection and Submission Model
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/12/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/12/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/12/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/12/2023
+  course: PDP0308A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/12/2023
+  course: PDP0931A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/12/2023
+  course: PDP2399A
+  title: OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/3/2023
+  course: PDP0857A
+  title: 2021-9 TT Protecting Workers from the Dangers
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/3/2023
+  course: PDP1476A
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 8/3/2023
+  course: PDP2469A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/3/2023
+  course: PDP3002A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/3/2023
+  course: PDP2309A
+  title: 2023 DIR 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/3/2023
+  course: PDP4288A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 8/3/2023
+  course: PDP1721A
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/2/2023
   course: PDP1197A
   title: 2017-3 CAO Legal Updates for Q3 08/2017
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/2/2023
+  course: PDP3997A
+  title: 2018-5 TT 100% Collection and Submission Model
   status: Passed
   score: '0.0'
   hours: '0.25'

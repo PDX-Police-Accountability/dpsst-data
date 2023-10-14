@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/3/2023 | HBS3211A | 2023 September In-Service | Passed | 0.0 | 9.00 |
 | 9/24/2023 | HBS0204A | 2023 September In-Service | Passed | 0.0 | 9.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/16/2023 | HBS28746 | March 2023 In-Service DT/EVO | Passed | 0.0 | 7.00 |

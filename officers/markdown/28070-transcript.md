@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/2/2023 | MNS1256A | Firearms Qualification | Passed | 0.0 | 2.00 |
 | 8/30/2023 | MNS0835A | Heat Illness Prevention (Heat Stress) | Passed | 0.0 | 0.50 |
 | 8/8/2023 | MNS0453A | Active Threat Response | Passed | 0.0 | 8.00 |
 | 6/13/2023 | MNS3648A | Use of Force Tools and Tactics Refresher | Passed | 0.0 | 2.00 |

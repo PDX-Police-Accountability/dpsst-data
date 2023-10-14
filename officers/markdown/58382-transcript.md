@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/12/2023 | Police Officer | Intermediate | App Recd |  |  |  |
 | 3/2/2019 | Police Officer | Basic | Granted | 3/2/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2023 | OCS3719A | Use of Force/De-escalation K9 unit training | Passed | 0.0 | 4.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |

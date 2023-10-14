@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/9/2023 | Police Officer | Intermediate | App InProc |  |  |  |
+| 10/12/2023 | Police Officer | Intermediate | Granted | 10/12/2023 |  |  |
 | 5/31/2018 | Police Officer | Basic | Granted | 5/31/2018 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -36,12 +36,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/21/2023 | PDP0619A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
+| 9/20/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 9/20/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/14/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 9/14/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
+| 9/1/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 8/31/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 8/30/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/16/2023 | PDP4468A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 8/14/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/9/2023 | PDP0767A | 31st Annual Intl Problem-Oriented Policing Conf | Passed | 0.0 | 12.75 |
 | 8/4/2023 | PDP4265A | CSM - Crisis/Hostage Negotiation Level III | Passed | 0.0 | 40.00 |
+| 7/28/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/22/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/12/2023 | PDP3083A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 7/7/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/23/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP4064A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 18.00 |

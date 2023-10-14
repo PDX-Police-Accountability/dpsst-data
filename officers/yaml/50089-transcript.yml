@@ -68,6 +68,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 8/28/2023
+  course: PDP2384A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/28/2023
+  course: PDP3765A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/28/2023
+  course: PDP0934A
+  title: 2023 Portland Community Justice Partnership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/28/2023
+  course: PDP2150A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/24/2023
   course: PDP2106A
   title: 2023 SERT Training - Iteration
@@ -80,12 +104,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/20/2023
+  course: PDP3557A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/16/2023
   course: PDP4468A
   title: 2023 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/15/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/10/2023
   course: PDP3599A
   title: 2023 SERT Training ITERATION
@@ -98,6 +134,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/24/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/24/2023
+  course: PDP1721A
+  title: 2021 Training Emergency Entry Recap Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/24/2023
+  course: PDP0931A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/17/2023
+  course: PDP4002A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/13/2023
   course: PDP2215A
   title: 2023 SERT Training ITERATION

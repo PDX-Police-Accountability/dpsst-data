@@ -23,6 +23,18 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/24/2023
+  course: PDP3557A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 8/12/2023
+  course: PDP1348A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/10/2023
   course: PDP1584A
   title: 2023 Body Worn Camera Pilot Project Training
@@ -35,6 +47,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 7/17/2023
+  course: PDP0196A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/21/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

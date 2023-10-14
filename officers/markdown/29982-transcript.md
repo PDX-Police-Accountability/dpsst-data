@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 10/11/2023 | HUP2527A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -82,6 +82,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/11/2023
+  course: HUP2527A
+  title: Marion County Leadership Monthly Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/27/2023
   course: HUP3554A
   title: OACP Board Meeting

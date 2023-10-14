@@ -38,6 +38,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/1/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 8/1/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 8/1/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 8/1/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 8/1/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 8/1/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/31/2023 | PDP0857A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 7/31/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 7/31/2023 | PDP3002A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 7/31/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 7/31/2023 | PDP2577A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 6/6/2023 | PDP2663 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/28/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 4/28/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

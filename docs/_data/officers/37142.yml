@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2023
+  course: SPP3705A
+  title: De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/8/2023
   course: F1516640
   title: Range
