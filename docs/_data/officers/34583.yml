@@ -152,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/2/2023
+  course: PDP1612A
+  title: Criminal Street Gangs  Cont Criminal Enterprises
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 5/2/2023
   course: PDP4462A
   title: CPR/First Aid

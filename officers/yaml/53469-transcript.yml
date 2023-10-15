@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 9/21/2023
+  course: VND1670A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/13/2023
   course: OCS0541A
   title: One Hand Shooting/Use of Cover

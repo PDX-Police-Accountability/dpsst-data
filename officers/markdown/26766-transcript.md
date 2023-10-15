@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2023 | VND0851A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 1/23/2019 | PDP00758 | FTEP Basic City Geography | Instructed | 0.0 | 4.00 |
 | 1/3/2019 | MISCMAIN | 2018 LE AnnualRequired Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2018 | PDP37580 | FTEP Orientation | Instructed | 0.0 | 4.00 |

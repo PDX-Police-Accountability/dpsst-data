@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2023 | MOS3209A | Tactical Training - Advanced Firearms Training | Passed | 0.0 | 2.50 |
+| 10/12/2023 | MOS3278A | Patrol Rifle Qualification | Passed | 0.0 | 0.50 |
 | 9/7/2023 | HRS2373A | Tactical Training-Building Search | Passed | 0.0 | 4.00 |
 | 8/24/2023 | TDP2741A | Tactical Building Clearing  Communication | Passed | 0.0 | 4.00 |
 | 8/3/2023 | TDS1513A | NORTAC OVERLAND | Passed | 0.0 | 4.00 |
