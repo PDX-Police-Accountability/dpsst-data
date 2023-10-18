@@ -48,6 +48,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/6/2023 | SVP0012A | Remington 870 Less Lethal Shotgun | Passed | 0.0 | 0.50 |
+| 10/3/2023 | SVP1804A | Urban Rifle Training (Power Point) | Passed | 0.0 | 0.50 |
+| 9/28/2023 | SVP0299A | Rifle Range Qualification  Training | Passed | 0.0 | 4.00 |
+| 9/17/2023 | SVP3131A | De-Escalation and Minimizing Use of Force | Passed | 0.0 | 2.00 |
 | 9/6/2023 | SVP3629 | Firearms (Red Dot) Training | Instructed | 0.0 | 16.00 |
 | 8/29/2023 | SVP0798A | Firearms - Rifle and Less Lethal Shotgun | Instructed | 0.0 | 4.00 |
 | 8/28/2023 | SVP0510A | Firearms Handun (Training/Qual) | Instructed | 0.0 | 4.00 |

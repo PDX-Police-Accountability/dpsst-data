@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/12/2023
+  course: OCS3872A
+  title: Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/4/2023
   course: OCS3632A
   title: June/July/August/Sept 2023 Monthly Firearms
@@ -128,6 +134,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/11/2023
+  course: OCS0576A
+  title: August 2023 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/10/2023
+  course: OCS4148A
+  title: Glock Armorer
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/30/2023
   course: OCS0074A
   title: Ambush/Vehicle Extractions

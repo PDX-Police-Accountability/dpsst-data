@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2023 | HBP0355A | Tracwire Training for Admin/Supervisors | Passed | 0.0 | 4.50 |
+| 10/10/2023 | HBP4093A | FTO Training | Instructed | 0.0 | 2.50 |
 | 7/12/2023 | HBP3924A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HBP3336A | Traffic Crashes | Passed | 0.0 | 1.00 |
 | 7/5/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |

@@ -393,6 +393,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/3/2022
+  course: OCS4479A
+  title: hb 2513 Airway and Circulation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/30/2022
   course: OCS31075
   title: Weapons Disarm

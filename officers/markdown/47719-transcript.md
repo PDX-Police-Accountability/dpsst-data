@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2023 | HBP0749A | Patrol Cyclist Training | Instructed | 0.0 | 8.00 |
 | 9/28/2023 | HBS3960A | MFF Training | Passed | 0.0 | 9.00 |
 | 9/27/2023 | HBS0430A | MFF Training | Passed | 0.0 | 9.00 |
 | 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |

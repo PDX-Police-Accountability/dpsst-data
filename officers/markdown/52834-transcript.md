@@ -20,6 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/16/2023 | Police Officer | Intermediate | App Recd |  |  |  |
 | 7/19/2022 | Police Officer | Basic | Granted | 7/19/2022 |  |  |
 | 11/11/2021 | Emergency Medical Dispatcher | Basic | Lapsed | 1/3/2020 | 11/11/2025 |  |
 | 11/11/2021 | Telecommunicator | Basic | Lapsed | 1/3/2020 | 11/11/2025 |  |
@@ -36,7 +37,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2012 | Bachelor Arts | Portland State University | Criminology | 182.5 |
+| 6/17/2012 | Bachelor Arts | Portland State University | Criminology | 182.5 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
@@ -75,6 +76,7 @@
 | 5/19/2022 | OCS27163 | Ethos Training | Passed | 0.0 | 1.00 |
 | 5/19/2022 | OCS06518 | Ethos Training | Passed | 0.0 | 2.00 |
 | 5/3/2022 | OCS03360 | HB 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
+| 5/3/2022 | OCS4479A | hb 2513 Airway and Circulation | Passed | 0.0 | 2.00 |
 | 4/30/2022 | OCS31075 | Weapons Disarm | Passed | 0.0 | 1.00 |
 | 4/20/2022 | OCS02325 | Annual Qualifications | Passed | 0.0 | 1.00 |
 | 4/15/2022 | OCS02039 | Axon Bodycam Training | Passed | 0.0 | 2.00 |

@@ -21,14 +21,7 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 5/28/2020
-  certificate: Police Officer
-  level: Basic
-  status: RequiredUR
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: ''
+certification_records: []
 training_records:
 - date: 10/26/2020
   course: M10-19A

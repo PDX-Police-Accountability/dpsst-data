@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/10/2023
+  course: HBP4093A
+  title: FTO Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 9/27/2023
   course: HBP3311A
   title: ODT - Ambush Training

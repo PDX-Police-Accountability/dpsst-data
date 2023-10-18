@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2023 | OCS3872A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 10/4/2023 | OCS3632A | June/July/August/Sept 2023 Monthly Firearms | Instructed | 0.0 | 4.00 |
 | 9/27/2023 | OCS4284A | September 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 9/22/2023 | OCS2804A | Marksmanship / Observation skills / Case Review | Instructed | 0.0 | 4.00 |
@@ -48,6 +49,8 @@
 | 9/15/2023 | OCS1769A | Marksmanship/Target Transitions | Instructed | 0.0 | 2.00 |
 | 9/7/2023 | OCS1796A | Smith  Wesson MP Armorer | Passed | 0.0 | 8.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
+| 8/11/2023 | OCS0576A | August 2023 New Hire Firearms | Instructed | 0.0 | 8.00 |
+| 8/10/2023 | OCS4148A | Glock Armorer | Passed | 0.0 | 8.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 7/26/2023 | OCS1010A | June/July 2023 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 7/25/2023 | OCS3701A | June/July 2023 Monthly Firearms w/pistol/rifle | Instructed | 0.0 | 3.00 |

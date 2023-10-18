@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/4/2023
+  course: HBP0749A
+  title: Patrol Cyclist Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/28/2023
   course: HBS3960A
   title: MFF Training

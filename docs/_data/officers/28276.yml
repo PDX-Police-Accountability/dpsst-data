@@ -123,6 +123,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/6/2023
+  course: SVP0012A
+  title: Remington 870 Less Lethal Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/3/2023
+  course: SVP1804A
+  title: Urban Rifle Training (Power Point)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/28/2023
+  course: SVP0299A
+  title: Rifle Range Qualification  Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/17/2023
+  course: SVP3131A
+  title: De-Escalation and Minimizing Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/6/2023
   course: SVP3629
   title: Firearms (Red Dot) Training

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2023 | PSU4516A | Firearms Training / Qualification | Passed | 0.0 | 2.00 |
 | 8/11/2023 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 1.25 |
 | 7/21/2023 | HRS1089A | ALERRT Level 1 Active Shooter Response T3 | Passed | 0.0 | 40.00 |
 | 7/21/2023 | HRS1958A | ALERRT Level 1 Active Shooter Response T3 | Passed | 0.0 | 40.00 |

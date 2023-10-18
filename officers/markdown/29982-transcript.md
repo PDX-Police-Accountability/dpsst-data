@@ -42,8 +42,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 10/11/2023 | HUP2527A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
+| 10/6/2023 | SVP0012A | Remington 870 Less Lethal Shotgun | Passed | 0.0 | 0.50 |
+| 10/3/2023 | SVP1804A | Urban Rifle Training (Power Point) | Passed | 0.0 | 0.50 |
+| 9/28/2023 | SVP0299A | Rifle Range Qualification  Training | Passed | 0.0 | 4.00 |
 | 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
+| 9/17/2023 | SVP3131A | De-Escalation and Minimizing Use of Force | Passed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/12/2023 | SVP0222A | MILO Training/Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 7/5/2023 | SVP1102A | Firearms Qualification and Drills | Passed | 0.0 | 4.00 |
