@@ -49,6 +49,7 @@
 | 3/24/2023 | RMP22930 | 40 Taser Wrap Less Lethal Application | Passed | 0.0 | 3.00 |
 | 3/19/2023 | RMP03429 | BRIEFING TRAINING: PURSUIT POLICY | Passed | 0.0 | 0.50 |
 | 2/24/2023 | RMP34417 | BRIEFING TRAINING: LEGAL UPDATE | Passed | 0.0 | 0.50 |
+| 2/23/2023 | RMP1574A | 40mm Classroom/Application | Passed | 0.0 | 1.00 |
 | 1/24/2023 | RMP14736 | Bias Police Reporting | Passed | 0.0 | 1.00 |
 | 1/24/2023 | RMP23064 | BRIEFING TRAINING: OREGON BIAS/HATE CRIMES | Passed | 0.0 | 1.00 |
 | 1/19/2023 | RMP38527 | CPR and First AIDE | Passed | 0.0 | 4.00 |

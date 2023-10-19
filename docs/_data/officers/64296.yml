@@ -24,12 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: 12/22/2024
 training_records:
+- date: 12/22/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
 - date: 11/13/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Pending
+  status: Registered
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 - date: 9/19/2023
   course: PDP4232A
   title: 2023 Microsoft OneDrive Usage Policy

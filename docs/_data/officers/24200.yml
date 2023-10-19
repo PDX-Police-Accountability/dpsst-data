@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/15/2023
+  course: STS1191A
+  title: Fire / Emergency Evacuation Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/1/2023
   course: STS14890
   title: Arrests of Foreign Nationals Policy Review

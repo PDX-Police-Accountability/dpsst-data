@@ -67,6 +67,7 @@
 | 4/19/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/19/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/19/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
+| 4/19/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/18/2023 | PDP13110 | 2023-1 Range Qualification CEW | Passed | 0.0 | 0.00 |
 | 4/17/2023 | PDP26319 | 2022-2 In-Service 1010.00 Policy Update | Passed | 0.0 | 0.00 |
 | 4/17/2023 | PDP0933A | 2022 Crowd Management | Passed | 0.0 | 0.50 |

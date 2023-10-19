@@ -90,12 +90,84 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/9/2023
+  course: PDP3864A
+  title: 2023-2 Advanced Academy Bike School
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 8/2/2023
+  course: PDP1995A
+  title: 2023-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 7/30/2023
+  course: PDP0289A
+  title: 2023-2 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '43.25'
+- date: 7/27/2023
+  course: PDP2671A
+  title: 2023-2 Advanced Academy PP (Firearms)
+  status: Passed
+  score: '0.0'
+  hours: '105.50'
+- date: 7/25/2023
+  course: PDP0817A
+  title: 2023-2 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 7/25/2023
+  course: PDP1513A
+  title: 2023-2 Advanced Academy Cares
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/25/2023
+  course: PDP2553A
+  title: 2023-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/24/2023
   course: PDP1883A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 7/24/2023
+  course: PDP1472A
+  title: 2023-2 Advanced Academy ASU
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP3010A
+  title: 2023-2 Advanced Academy Crime Scene
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP2454A
+  title: 2023-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '3.75'
+- date: 7/24/2023
+  course: PDP3266A
+  title: 2023-2 Advanced Academy Human Traffic
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP0989A
+  title: 2023-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 7/20/2023
   course: PDP2121A
   title: 2020 MCDA Presumptive Declination of DUIIs
@@ -114,6 +186,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/20/2023
+  course: PDP1399A
+  title: 2023-2 Advanced Academy CT
+  status: Passed
+  score: '0.0'
+  hours: '64.75'
+- date: 7/19/2023
+  course: PDP4256A
+  title: 2023-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '51.75'
 - date: 7/17/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update
@@ -138,12 +222,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/12/2023
+  course: PDP0328A
+  title: 2023-2 Advanced Academy CIT
+  status: Passed
+  score: '0.0'
+  hours: '20.25'
+- date: 7/6/2023
+  course: PDP2873A
+  title: 2023-2 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/3/2023
   course: PDP4288A
   title: 2023 Lead Exposure Training
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 6/15/2023
+  course: PDP2450A
+  title: 2023-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 6/15/2023
+  course: PDP2287A
+  title: 2023-2 Advanced Academy Com. Eng.
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/24/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -168,6 +276,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/17/2023
+  course: PDP0788A
+  title: 2023-2 Advanced Academy Proced. Justice
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2023
+  course: PDP3349A
+  title: 2023-2 Advanced Academy PP (Other)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 5/9/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches

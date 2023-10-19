@@ -357,6 +357,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/23/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 12/8/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

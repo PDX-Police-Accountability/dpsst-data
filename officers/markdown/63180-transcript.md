@@ -38,17 +38,37 @@
 | 8/25/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/11/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/10/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
+| 8/9/2023 | PDP3864A | 2023-2 Advanced Academy Bike School | Passed | 0.0 | 36.00 |
+| 8/2/2023 | PDP1995A | 2023-2 Advanced Academy Law | Passed | 0.0 | 30.00 |
+| 7/30/2023 | PDP0289A | 2023-2 Advanced Academy PVO | Passed | 0.0 | 43.25 |
+| 7/27/2023 | PDP2671A | 2023-2 Advanced Academy PP (Firearms) | Passed | 0.0 | 105.50 |
+| 7/25/2023 | PDP0817A | 2023-2 Advanced Academy Ethics | Passed | 0.0 | 2.50 |
+| 7/25/2023 | PDP1513A | 2023-2 Advanced Academy Cares | Passed | 0.0 | 1.00 |
+| 7/25/2023 | PDP2553A | 2023-2 Advanced Academy Wellness | Passed | 0.0 | 10.00 |
+| 7/24/2023 | PDP2454A | 2023-2 Advanced Academy Fitness | Passed | 0.0 | 3.75 |
+| 7/24/2023 | PDP1472A | 2023-2 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 7/24/2023 | PDP3010A | 2023-2 Advanced Academy Crime Scene | Passed | 0.0 | 1.00 |
+| 7/24/2023 | PDP3266A | 2023-2 Advanced Academy Human Traffic | Passed | 0.0 | 1.00 |
+| 7/24/2023 | PDP0989A | 2023-2 Advanced Academy Public Order | Passed | 0.0 | 11.00 |
+| 7/20/2023 | PDP1399A | 2023-2 Advanced Academy CT | Passed | 0.0 | 64.75 |
+| 7/19/2023 | PDP4256A | 2023-2 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
 | 7/17/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/17/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/17/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/12/2023 | PDP0328A | 2023-2 Advanced Academy CIT | Passed | 0.0 | 20.25 |
+| 7/6/2023 | PDP2873A | 2023-2 Advanced Academy ABLE | Passed | 0.0 | 8.00 |
 | 7/3/2023 | PDP0857A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 7/3/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/3/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 6/15/2023 | PDP2287A | 2023-2 Advanced Academy Com. Eng. | Passed | 0.0 | 40.00 |
+| 6/15/2023 | PDP2450A | 2023-2 Advanced Academy CEW | Passed | 0.0 | 2.25 |
 | 6/13/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/18/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/18/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 5/17/2023 | PDP0788A | 2023-2 Advanced Academy Proced. Justice | Passed | 0.0 | 2.00 |
+| 5/11/2023 | PDP3349A | 2023-2 Advanced Academy PP (Other) | Passed | 0.0 | 2.50 |
 | 4/3/2023 | PDP2534A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 4/3/2023 | PDP2766A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 4/3/2023 | PDP1200A | 2021-6 TT Crowd Control Vehicles | Passed | 0.0 | 0.25 |

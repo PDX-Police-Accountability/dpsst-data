@@ -4,7 +4,7 @@
 | name | Kowall, Curtis D. |
 | dpsst_identifier | 54459 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/12/2023 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/16/2022 | Hood River County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/16/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/20/2020 | Portland Police Bureau | Hired | Police Off |  |  |

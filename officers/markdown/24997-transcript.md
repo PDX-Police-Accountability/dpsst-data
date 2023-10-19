@@ -34,11 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/30/2023 | PPP1931A | Terrorism 1 | Passed | 0.0 | 1.00 |
 | 9/13/2023 | PPP4165A | Firearms Rifle Range Training | Passed | 0.0 | 7.00 |
 | 8/31/2023 | PPP0619A | Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |
 | 8/17/2023 | PPP1480A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 8/4/2023 | PPP0477A | Firearms Ammunition Update | Passed | 0.0 | 0.50 |
 | 6/30/2023 | PPP2327A | Protecting Transportation Systems | Passed | 0.0 | 1.00 |
+| 6/27/2023 | PPP0791A | TacMed / Gunshoot Wounds | Passed | 0.0 | 1.00 |
 | 6/20/2023 | PPP3249A | IBIS Training | Passed | 0.0 | 0.50 |
 | 6/8/2023 | PPP1749A | Wellness and Nutrition | Passed | 0.0 | 1.00 |
 | 4/30/2023 | PPP3551A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |

@@ -170,6 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/19/2023
+  course: PDP0273A
+  title: Academy Instructor Certification Course (AICC)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/10/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches
@@ -236,6 +242,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/26/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 4/25/2023
   course: PDP0812A
   title: CPR/First Aid

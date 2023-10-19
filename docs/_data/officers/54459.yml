@@ -3,12 +3,18 @@ header_record:
   name: Kowall, Curtis D.
   dpsst_identifier: '54459'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/12/2023
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/16/2022
   agency: Hood River County Sheriff's Office
   action: Hired

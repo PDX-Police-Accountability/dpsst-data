@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2023
+  course: PPP1931A
+  title: Terrorism 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/20/2023
   course: PPP4345A
   title: K9 CPR/First Aid
@@ -98,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/27/2023
+  course: PPP0791A
+  title: TacMed / Gunshoot Wounds
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/20/2023
   course: PPP3249A
   title: IBIS Training
