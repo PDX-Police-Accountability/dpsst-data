@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 9/8/2023
+  course: PDP3455A
+  title: 2023 Enhanced Crisis Intervention Training (ECIT)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/3/2023
   course: PDP1263A
   title: 2022-12 CAO Legal Updates for 12/2022

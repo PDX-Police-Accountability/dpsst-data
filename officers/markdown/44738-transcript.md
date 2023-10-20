@@ -12,17 +12,19 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 9/30/2021 | Portland Fire Bureau Investigations | Resigned | Investigtr |  |  |
+| 10/9/2023 | Portland Fire Bureau Investigations | Return LOA | Investigtr |  |  |
+| 9/30/2021 | Portland Fire Bureau Investigations | LOA | Investigtr |  |  |
 | 9/5/2019 | Portland Fire Bureau Investigations | Hired | Investigtr |  |  |
 | 3/31/2010 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/23/2004 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/30/2021 | Police Officer | Basic | Lapsed | 12/15/2005 | 9/30/2026 |  |
+| 10/22/2020 | Police Officer | Basic | Reactivate | 12/15/2005 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 1/29/2020 |  |
 | Code of Ethics | Signed | 10/18/2004 |  |
 ## Education

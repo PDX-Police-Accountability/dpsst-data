@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2023
+  course: PDP3016A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/2/2023
+  course: PDP3388A
+  title: 2023-2 All Sworn In-Service TII Equity
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 9/12/2023
   course: PDP2150A
   title: 2023 Restorative Justice Referrals and Reporting

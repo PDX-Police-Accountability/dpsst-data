@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2023 | MKL3646A | Hemp/Lab Training | Passed | 0.0 | 2.00 |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/24/2023 | MKL3391A | Ethics Training for Public Officials | Passed | 0.0 | 2.50 |
 | 8/2/2023 | MKL0158A | DAS - CHRO - Heat Illness and Prevention Training | Passed | 0.0 | 0.25 |

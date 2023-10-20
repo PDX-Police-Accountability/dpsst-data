@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2023 | LOP1707A | Firearms Training | Passed | 0.0 | 4.00 |
 | 9/11/2023 | LOP0249A | Ballistic Shield Training | Passed | 0.0 | 2.50 |
 | 8/31/2023 | LOP2709A | Airway/Circulatory Training | Passed | 0.0 | 2.00 |
 | 8/31/2023 | LOP1204A | Cross-cultural intelligence, Diversity 101 | Passed | 0.0 | 1.00 |

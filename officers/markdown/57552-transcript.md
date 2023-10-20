@@ -4,7 +4,7 @@
 | name | Bianca, Shanley M. |
 | dpsst_identifier | 57552 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/5/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/27/2017 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/24/2018 | Police Officer | Basic | Granted | 9/24/2018 |  |  |
+| 9/24/2018 | Police Officer | Basic | Granted | 9/24/2018 | 1/5/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

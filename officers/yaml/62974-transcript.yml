@@ -3,7 +3,7 @@ header_record:
   name: Harlan, Justin T.
   dpsst_identifier: '62974'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
@@ -15,6 +15,12 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 10/12/2023
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/21/2022
   agency: Portland Police Bureau
   action: Hired
@@ -22,13 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 7/21/2022
+- status_date: 10/13/2023
   certificate: Police Officer
   level: Basic
   status: Required
   certificate_date: ''
   expiration_date: ''
-  probation_date: 1/21/2024
+  probation_date: 4/13/2025
 training_records:
 - date: 1/21/2024
   course: M11-19A

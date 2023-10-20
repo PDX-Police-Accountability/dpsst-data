@@ -116,6 +116,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 9/20/2023
+  course: OCS2211A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/15/2023
   course: OCS1769A
   title: Marksmanship/Target Transitions

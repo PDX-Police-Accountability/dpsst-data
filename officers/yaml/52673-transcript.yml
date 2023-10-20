@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/6/2023
+  course: PDP3016A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/6/2023
+  course: PDP3388A
+  title: 2023-2 All Sworn In-Service TII Equity
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 9/4/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management

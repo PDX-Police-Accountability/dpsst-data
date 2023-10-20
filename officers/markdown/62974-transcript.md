@@ -4,7 +4,7 @@
 | name | Harlan, Justin T. |
 | dpsst_identifier | 62974 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -13,11 +13,12 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 10/13/2023 | Oregon City Police Department | Hired | Police Off |  |  |
+| 10/12/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/21/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/21/2022 | Police Officer | Basic | Required |  |  | 1/21/2024 |
+| 10/13/2023 | Police Officer | Basic | Required |  |  | 4/13/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

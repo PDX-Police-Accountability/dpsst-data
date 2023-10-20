@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2023
+  course: OCS2211A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/13/2023
   course: OCS0541A
   title: One Hand Shooting/Use of Cover
@@ -175,6 +181,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/30/2022
+  course: OCS3156A
+  title: DPSST Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/20/2022
   course: OCS30444
   title: Impact and Edge Weapons

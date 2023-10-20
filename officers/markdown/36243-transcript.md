@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/9/2023 | HBS3100A | 2023 September In-Service | Passed | 0.0 | 9.00 |
 | 9/28/2023 | HBS3960A | MFF Training | Passed | 0.0 | 9.00 |
 | 9/27/2023 | HBS0430A | MFF Training | Passed | 0.0 | 9.00 |
 | 9/8/2023 | HBS3439A | Con-Sim Building Search | Passed | 0.0 | 10.00 |

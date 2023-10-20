@@ -111,6 +111,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/28/2023
+  course: PDP0822A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 8/28/2023
+  course: PDP3016A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/28/2023
+  course: PDP4082A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/28/2023
+  course: PDP3388A
+  title: 2023-2 All Sworn In-Service TII Equity
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 8/25/2023
   course: PDP2598A
   title: 2023 Force Science Methods of Instruction
@@ -141,6 +165,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.50'
+- date: 8/1/2023
+  course: PDP1736A
+  title: 2023-2 All Sworn In-Service PP Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 8/1/2023
+  course: PDP0002A
+  title: 2023-2 All Sworn In-Service PP Ment. Health
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/22/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

@@ -46,6 +46,7 @@
 | 9/27/2023 | OCS4284A | September 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 9/22/2023 | OCS2804A | Marksmanship / Observation skills / Case Review | Instructed | 0.0 | 4.00 |
 | 9/20/2023 | OCS0501A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 9/15/2023 | OCS1769A | Marksmanship/Target Transitions | Instructed | 0.0 | 2.00 |
 | 9/7/2023 | OCS1796A | Smith  Wesson MP Armorer | Passed | 0.0 | 8.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |

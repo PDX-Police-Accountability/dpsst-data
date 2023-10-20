@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/13/2023
+  course: LOP1707A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/11/2023
   course: LOP0249A
   title: Ballistic Shield Training

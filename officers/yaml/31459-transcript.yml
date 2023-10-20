@@ -87,6 +87,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/7/2023
+  course: PDP0822A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/7/2023
+  course: PDP2159A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/7/2023
+  course: PDP4082A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/4/2023
   course: PDP3557A
   title: 2023-2 TT BWC Pilot Policy and Procedure FAQ

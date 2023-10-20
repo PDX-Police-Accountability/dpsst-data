@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/20/2023
+  course: OCS2211A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/13/2023
   course: OCS0541A
   title: One Hand Shooting/Use of Cover

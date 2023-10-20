@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/13/2023 | LOP1707A | Firearms Training | Passed | 0.0 | 4.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/15/2023 | LOP3388 | Forensic Scripting Course | Passed | 0.0 | 36.00 |
 | 8/31/2023 | LOP2709A | Airway/Circulatory Training | Passed | 0.0 | 2.00 |

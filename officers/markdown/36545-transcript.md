@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/10/2023 | HBS2520A | Sexual Offenses: Mind  Motivation | Passed | 0.0 | 16.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 5/8/2023 | HBP0898A | NW Gang Investigators Association Conference | Passed | 0.0 | 36.00 |

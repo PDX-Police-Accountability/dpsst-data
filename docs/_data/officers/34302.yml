@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/6/2023
+  course: MNP3296A
+  title: Preparing for Promotion
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/6/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

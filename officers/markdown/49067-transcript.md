@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | OCS04927 | FARO Scanner Certification | Passed | 0.0 | 24.00 |
+| 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 8/16/2023 | LOP3340A | West Metro Monthly Motor Training 08/16/2023 | Passed | 0.0 | 5.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/7/2023 | OCS3800A | FTO Meeting/Training | Passed | 0.0 | 2.00 |

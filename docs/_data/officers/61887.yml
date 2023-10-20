@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 9/8/2023
+  course: PDP3455A
+  title: 2023 Enhanced Crisis Intervention Training (ECIT)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/4/2023
   course: PDP4288A
   title: 2023 Lead Exposure Training

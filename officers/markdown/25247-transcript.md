@@ -45,6 +45,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 10/12/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 10/12/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
 | 9/30/2023 | PDP3868A | 2023-1 In Service Crowd Mgmt Legal Updates | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDP2946A | 2023-1 In Service Crowd Mgmt Use of Force 40mm | Passed | 0.0 | 0.50 |
 | 9/30/2023 | PDP1778A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |

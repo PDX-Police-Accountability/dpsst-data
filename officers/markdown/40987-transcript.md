@@ -38,6 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/19/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
+| 9/19/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 9/19/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 9/19/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 9/19/2023 | PDP2486A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |
+| 9/18/2023 | PDP3016A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 9/18/2023 | PDP1736A | 2023-2 All Sworn In-Service PP Force | Passed | 0.0 | 1.50 |
+| 9/18/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
+| 9/18/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
+| 9/18/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
 | 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/31/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 8/31/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -55,6 +65,7 @@
 | 8/2/2023 | PDP1489A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/1/2023 | PDP4134A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/31/2023 | PDP1087A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 7/21/2023 | PDP2980A | FBI Advanced Manual Techniques Course | Passed | 0.0 | 24.00 |
 | 7/13/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/5/2023 | PDP3517A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/21/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
