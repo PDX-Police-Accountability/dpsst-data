@@ -57,6 +57,7 @@
 | 7/20/2023 | PDP0383A | 2021-3 TT Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |
 | 7/20/2023 | PDP1399A | 2023-2 Advanced Academy CT | Passed | 0.0 | 64.75 |
 | 7/19/2023 | PDP4256A | 2023-2 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
+| 7/18/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/17/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/17/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/17/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

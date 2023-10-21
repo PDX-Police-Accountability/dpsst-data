@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2023 | HSU4283A | Instructor In- Service Firearms | Passed | 0.0 | 3.00 |
 | 9/26/2023 | REG1985 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |
 | 8/18/2023 | HSU1762A | Firearms August Supplemental Range | Passed | 0.0 | 3.00 |
 | 8/6/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |

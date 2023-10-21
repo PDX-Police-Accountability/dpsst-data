@@ -116,6 +116,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/16/2023
+  course: PDP3428A
+  title: 2023 Training Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '27.00'
 - date: 8/11/2023
   course: PDP2429A
   title: 2023 FTEP Pre-DPSST Firearms
@@ -176,6 +182,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 7/25/2023
+  course: PDP2260A
+  title: 2023-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/24/2023
   course: PDP2545A
   title: 2023 FTEP Post DPSST Firearms
@@ -200,6 +212,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 7/18/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/12/2023
   course: PDP1377A
   title: 2023 FTEP New Hire Firearms

@@ -144,6 +144,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 7/27/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/20/2023
   course: PDP4002A
   title: 2023 Field Drug Test Kits

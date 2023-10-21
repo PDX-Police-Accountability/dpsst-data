@@ -54,6 +54,7 @@
 | 7/11/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/11/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/11/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 6/26/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/8/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 5/28/2023 | GSP4238 | UAS Ground School | Passed | 0.0 | 30.00 |
 | 5/24/2023 | PDP3197 | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |

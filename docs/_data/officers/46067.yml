@@ -224,6 +224,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 7/6/2023
+  course: PDP4337A
+  title: 2023-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2023
+  course: PDP2260A
+  title: 2023-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2023
+  course: PDP2153A
+  title: 2023-2 Range Qual Secondary Firearm (50 rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/29/2023
   course: PDP4352A
   title: 2023 SERT Training - ITERATION

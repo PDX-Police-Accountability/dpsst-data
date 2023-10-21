@@ -188,6 +188,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/6/2023
+  course: PDP2260A
+  title: 2023-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/7/2023
   course: PDP0732
   title: CPR/First Aid

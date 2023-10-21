@@ -201,6 +201,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/19/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/19/2023
+  course: PDP2153A
+  title: 2023-2 Range Qual Secondary Firearm (50 rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/23/2023
   course: PDP2999A
   title: CPR/First Aid

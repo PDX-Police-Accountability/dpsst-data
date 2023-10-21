@@ -211,6 +211,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/24/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/21/2023
   course: PDP0467A
   title: 2023 FTEP Post DPSST Firearms

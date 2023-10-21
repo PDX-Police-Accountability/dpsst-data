@@ -210,6 +210,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.25'
+- date: 7/10/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/6/2023
   course: PDP2873A
   title: 2023-2 Advanced Academy ABLE

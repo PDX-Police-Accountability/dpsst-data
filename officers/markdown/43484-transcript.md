@@ -58,6 +58,7 @@
 | 8/30/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/17/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/13/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/27/2023 | PDP2867A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |
 | 6/27/2023 | PDP3167A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |
 | 6/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |

@@ -90,6 +90,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/16/2023
+  course: PDP3428A
+  title: 2023 Training Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 8/16/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/14/2023
   course: M10-23A
   title: DPSST Basic Police Course

@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/27/2023
+  course: WLP2451A
+  title: Social Media for Government Agencies
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/26/2023
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

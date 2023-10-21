@@ -45,6 +45,7 @@
 | 9/18/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/25/2023 | PDP0394A | Law Enforcement Training Center | Passed | 0.0 | 40.00 |
+| 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 27.00 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/8/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
@@ -53,8 +54,10 @@
 | 8/3/2023 | PDP1304A | 2023 FTEP Pre-DPSST Firearms 080323 | Instructed | 0.0 | 9.00 |
 | 8/2/2023 | PDP3460A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 8/1/2023 | PDP0303A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/26/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 2.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/21/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/13/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/13/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
@@ -62,6 +65,8 @@
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |
 | 6/14/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/2/2023 | PDP3992A | 2023-1 Shotgun Operators In-Service | Passed | 0.0 | 10.00 |
+| 6/2/2023 | PDP3364A | 2023-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
+| 6/2/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 5/25/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP0933A | 2022 Crowd Management | Passed | 0.0 | 0.50 |

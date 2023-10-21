@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 1/29/2020 |  |
 | Code of Ethics | Signed | 10/18/2004 |  |
@@ -34,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance - Not Met | Incomplete | 0.0 | 0.00 |
+| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance - Not Met | Incomplete | 0.0 | 0.00 |
+| 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/5/2021 | PDP31594 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |
 | 6/5/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
@@ -82,7 +86,7 @@
 | 2/2/2021 | PDP23880 | 2020-7 City Attorney's Office Legal Updates 7.2020 | Passed | 0.0 | 0.75 |
 | 2/2/2021 | PDP34167 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
 | 2/2/2021 | PDP30680 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |
-| 2/2/2021 | PDP05268 | PDP05268 | Passed | 0.0 | 0.25 |
+| 12/31/2020 | MISCMAIN | 2020 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/18/2020 | F6D10202 | SFST-DID BP394 | Passed | 0.0 | 0.00 |
 | 12/10/2020 | PDP03886 | 2020 City Attorney's Off Don't Shoot PDX/Hernandez | Passed | 0.0 | 0.25 |
 | 12/10/2020 | PDP12814 | 2020 City Attorney's Off Index Newspapers/SimonTRO | Passed | 0.0 | 0.25 |

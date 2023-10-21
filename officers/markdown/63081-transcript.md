@@ -54,6 +54,7 @@
 | 7/18/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/18/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/18/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/18/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/13/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/12/2023 | PDP0328A | 2023-2 Advanced Academy CIT | Passed | 0.0 | 20.25 |
 | 7/6/2023 | PDP2873A | 2023-2 Advanced Academy ABLE | Passed | 0.0 | 8.00 |

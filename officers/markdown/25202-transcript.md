@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2023 | PDS1870A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/13/2023 | PDS1509A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 8/2/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |

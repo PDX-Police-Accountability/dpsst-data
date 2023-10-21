@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 6/26/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/20/2023
   course: PDP1498A
   title: 2023 FTEP HAZMAT/WMD Awareness/APR

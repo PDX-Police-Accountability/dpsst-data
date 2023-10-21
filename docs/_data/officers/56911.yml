@@ -108,6 +108,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 7/6/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/16/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training

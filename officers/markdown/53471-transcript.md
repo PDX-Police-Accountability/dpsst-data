@@ -60,6 +60,7 @@
 | 7/2/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/22/2023 | PDP2111A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 6/22/2023 | PDP2774A | 2023 Training FA Qualification and Focus Types | Passed | 0.0 | 3.00 |
+| 6/22/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/21/2023 | PDP3184A | 2023 Training CEW Rehire Course | Passed | 0.0 | 2.00 |
 | 6/21/2023 | PDP1177A | 2023 Training PVO PIT/Box-In Refresher | Passed | 0.0 | 2.50 |
 | 6/6/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

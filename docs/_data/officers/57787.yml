@@ -150,6 +150,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 7/27/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/19/2023
   course: VND0177A
   title: 28 CFR 23 and WSIN Resources

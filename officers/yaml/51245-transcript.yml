@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2023
+  course: HSU1888A
+  title: Supplemental Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/17/2023
   course: HSU1817A
   title: Firearms June Supplemental Range

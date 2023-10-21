@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/26/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/15/2023
   course: PDP0448A
   title: External Training Hexagon HxGN Live Global 2023

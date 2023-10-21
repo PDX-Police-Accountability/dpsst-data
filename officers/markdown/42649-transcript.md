@@ -62,6 +62,7 @@
 | 7/17/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/25/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/25/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 6/13/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/8/2023 | PDP1955A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 6/8/2023 | PDP1797A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 6/7/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

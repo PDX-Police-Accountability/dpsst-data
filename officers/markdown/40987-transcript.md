@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/4/2023 | PDP0389A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/4/2023 | PDP0389A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/19/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 9/19/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 9/19/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
@@ -67,6 +69,7 @@
 | 7/31/2023 | PDP1087A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 7/21/2023 | PDP2980A | FBI Advanced Manual Techniques Course | Passed | 0.0 | 24.00 |
 | 7/13/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/11/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/5/2023 | PDP3517A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/21/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/21/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

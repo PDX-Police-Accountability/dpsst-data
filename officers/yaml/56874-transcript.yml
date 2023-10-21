@@ -96,6 +96,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/16/2023
+  course: PDP3428A
+  title: 2023 Training Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 8/9/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management
@@ -126,12 +132,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/24/2023
+  course: PDP2260A
+  title: 2023-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/24/2023
+  course: PDP4337A
+  title: 2023-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/24/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP3316A
+  title: 2023-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/29/2023
   course: PDP1420A
   title: 2023-1 Shotgun Operators In-Service Training
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/29/2023
+  course: PDP3364A
+  title: 2023-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/27/2023
   course: PDP0078A
   title: 2023 Red Dot Sights Training

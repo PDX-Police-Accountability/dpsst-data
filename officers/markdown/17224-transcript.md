@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2023 | HSU4283A | Instructor In- Service Firearms | Passed | 0.0 | 3.00 |
+| 10/7/2023 | HSU1888A | Supplemental Firearms | Instructed | 0.0 | 3.00 |
 | 9/6/2023 | HSU2922A | Critical Incidents Response | Instructed | 0.0 | 3.00 |
 | 8/6/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 7/30/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |

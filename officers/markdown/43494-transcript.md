@@ -62,6 +62,7 @@
 | 7/31/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/24/2023 | PDP3623A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 7/20/2023 | PDP2549A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
+| 7/20/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/18/2023 | PDP4152A | ICS-100 Intro to the Incident Cmnd System | Passed | 0.0 | 2.00 |
 | 7/12/2023 | PDP0525A | Three Most Common Pitfalls in Accred Process | Passed | 0.0 | 1.00 |
 | 6/28/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

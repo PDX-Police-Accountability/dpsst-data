@@ -17,8 +17,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/4/2023 | Police Officer | Advanced | App Recd |  |  |  |
-| 10/4/2023 | Police Officer | Intermediate | App Recd |  |  |  |
+| 10/19/2023 | Police Officer | Advanced | Granted | 10/19/2023 |  |  |
+| 10/19/2023 | Police Officer | Intermediate | Granted | 10/19/2023 |  |  |
 | 9/18/2003 | Police Officer | Basic | Granted | 9/18/2003 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -46,6 +46,7 @@
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 8/8/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 7/19/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/18/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/18/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/18/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

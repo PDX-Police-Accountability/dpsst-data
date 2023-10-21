@@ -74,6 +74,7 @@
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
 | 5/30/2023 | PDP3896A | 2023 FTEP Radar Lidar | Passed | 0.0 | 16.00 |
 | 5/30/2023 | REG2153A | Radar/Lidar Agency Practical | Passed | 0.0 | 16.00 |
+| 5/24/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 5/23/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 13.00 |
 | 5/15/2023 | PDP0627 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/15/2023 | PDP1608A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 8.00 |

@@ -114,6 +114,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/24/2023
+  course: PDP4337A
+  title: 2023-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/24/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/4/2023
   course: PDP0931A
   title: City of Portland Bloodborne Pathogens

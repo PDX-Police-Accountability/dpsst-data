@@ -97,6 +97,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/5/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/5/2023
+  course: PDP2153A
+  title: 2023-2 Range Qual Secondary Firearm (50 rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/29/2023
   course: PDP0022A
   title: City of Portland Bloodborne Pathogens

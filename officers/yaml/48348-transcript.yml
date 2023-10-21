@@ -164,6 +164,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/6/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/6/2023
+  course: PDP0401A
+  title: 2023-2 Range Qual Secondary Firearm (25 rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/2/2023
   course: PDP1721A
   title: 2021 Training Emergency Entry Recap Video

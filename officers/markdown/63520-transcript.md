@@ -76,6 +76,7 @@
 | 6/27/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
 | 6/27/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 6/26/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 6/20/2023 | PDP1498A | 2023 FTEP HAZMAT/WMD Awareness/APR | Passed | 0.0 | 4.00 |
 | 6/20/2023 | PDP2602A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 6/14/2023 | PDP1265A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 6.00 |

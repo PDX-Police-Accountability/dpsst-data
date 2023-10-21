@@ -40,6 +40,7 @@
 | 9/5/2023 | MFP1520A | Procedural Law | Instructed | 0.0 | 3.00 |
 | 7/14/2023 | MFP0447A | Wellness  Safety/First Watch App  Addiction | Passed | 0.0 | 2.00 |
 | 7/14/2023 | MFP0447A | Wellness  Safety/First Watch App  Addiction | Instructed | 0.0 | 1.25 |
+| 5/31/2023 | MFP4431A | ETHOS Academy: Leadership Self-Study 2023 | Passed | 0.0 | 3.00 |
 | 3/23/2023 | MFP39429 | MPD In-House III: Retirement Investment | Instructed | 0.0 | 1.00 |
 | 1/13/2023 | MFP18742 | First Aid/Adult  Child CPR/AED/Naloxone Use | Passed | 0.0 | 2.25 |
 | 1/13/2023 | MFP09917 | 2023 Annual Ethics Training | Passed | 0.0 | 3.00 |

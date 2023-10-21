@@ -44,6 +44,12 @@ certification_records:
   expiration_date: 6/26/2028
   probation_date: ''
 training_records:
+- date: 6/5/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/3/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

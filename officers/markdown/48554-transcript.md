@@ -50,6 +50,10 @@
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/1/2023 | PDP0303A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/26/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/25/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 7/25/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
+| 7/25/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/18/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/18/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/18/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

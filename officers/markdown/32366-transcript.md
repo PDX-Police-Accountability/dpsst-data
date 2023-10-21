@@ -51,6 +51,8 @@
 | 7/13/2023 | PDP2619A | 2023 ONEA Training Institute | Passed | 0.0 | 24.00 |
 | 7/12/2023 | HDA0101A | Len Bias Investigations | Passed | 0.0 | 4.00 |
 | 7/11/2023 | HDA2270A | ONEA Training Institute - General Session | Passed | 0.0 | 8.00 |
+| 7/6/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/6/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/8/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/8/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/8/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

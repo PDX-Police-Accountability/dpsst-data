@@ -176,6 +176,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/27/2023
+  course: PDP3364A
+  title: 2023-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/27/2023
+  course: PDP3316A
+  title: 2023-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/22/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

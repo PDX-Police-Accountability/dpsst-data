@@ -63,6 +63,7 @@
 | 7/10/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/10/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/10/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 7/6/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/22/2023 | PDP2464A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 5/22/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/22/2023 | PDP1755A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

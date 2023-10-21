@@ -48,6 +48,11 @@
 | 7/31/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/11/2023 | PDP1131A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/9/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/3/2023 | PDP3364A | 2023-2 Range Qualification Shotgun | Passed | 0.0 | 0.50 |
+| 7/3/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 1.00 |
+| 7/3/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 7/3/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 7/3/2023 | PDP2153A | 2023-2 Range Qual Secondary Firearm (50 rd) | Passed | 0.0 | 0.50 |
 | 6/29/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 6/28/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |
 | 6/27/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Instructed | 0.0 | 10.00 |

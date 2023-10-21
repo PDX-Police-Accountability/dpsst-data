@@ -51,10 +51,13 @@
 | 8/1/2023 | PDP2253A | CPR/First Aid | Instructed | 0.0 | 2.00 |
 | 7/26/2023 | PDP0613A | 2023 OSROA School Safety Conference | Passed | 0.0 | 20.00 |
 | 7/21/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/12/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/12/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 7/3/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/3/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/3/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/27/2023 | PDP2232A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
+| 6/27/2023 | PDP3364A | 2023-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/7/2023 | PDP0732 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 6/4/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 5/30/2023 | PDP2370A | CPR/First Aid | Instructed | 0.0 | 1.75 |

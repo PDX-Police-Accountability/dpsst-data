@@ -60,6 +60,7 @@
 | 8/18/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/18/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/10/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
+| 7/27/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/7/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/23/2023 | PDP2782A | IS-1301 Continuity Planning | Passed | 0.0 | 14.00 |
 | 6/22/2023 | PDP2145A | IS-1300 Introduction to Continuity of Operations | Passed | 0.0 | 0.75 |

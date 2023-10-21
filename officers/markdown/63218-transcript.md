@@ -59,6 +59,7 @@
 | 7/12/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/12/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 7/12/2023 | PDP0328A | 2023-2 Advanced Academy CIT | Passed | 0.0 | 20.25 |
+| 7/10/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/6/2023 | PDP2873A | 2023-2 Advanced Academy ABLE | Passed | 0.0 | 8.00 |
 | 6/15/2023 | PDP2287A | 2023-2 Advanced Academy Com. Eng. | Passed | 0.0 | 40.00 |
 | 6/15/2023 | PDP2450A | 2023-2 Advanced Academy CEW | Passed | 0.0 | 2.25 |

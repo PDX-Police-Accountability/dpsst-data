@@ -55,6 +55,7 @@
 | 7/20/2023 | PDP1399A | 2023-2 Advanced Academy CT | Passed | 0.0 | 64.75 |
 | 7/19/2023 | PDP4256A | 2023-2 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
 | 7/18/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/18/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/12/2023 | PDP0328A | 2023-2 Advanced Academy CIT | Passed | 0.0 | 20.25 |
 | 7/11/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/11/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

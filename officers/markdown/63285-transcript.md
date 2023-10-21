@@ -69,6 +69,7 @@
 | 8/11/2023 | PDP2577A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 8/11/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 8/9/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
+| 6/6/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Passed | 0.0 | 3.00 |
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |

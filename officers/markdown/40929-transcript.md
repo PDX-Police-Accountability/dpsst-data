@@ -47,6 +47,7 @@
 | 9/2/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 5.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 27.00 |
 | 8/11/2023 | PDP2429A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 4.50 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |
@@ -57,10 +58,12 @@
 | 8/1/2023 | PDP0303A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/30/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 7/29/2023 | HSU2592A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 7/25/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/21/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/18/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |
 | 7/6/2023 | PDP2850A | 2023 FTEP New Hire Firearms | Instructed | 0.0 | 9.00 |

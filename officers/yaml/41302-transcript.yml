@@ -147,6 +147,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/12/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/12/2023
+  course: PDP3316A
+  title: 2023-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/3/2023
   course: PDP4002A
   title: 2023 Field Drug Test Kits
@@ -171,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 6/27/2023
+  course: PDP3364A
+  title: 2023-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/7/2023
   course: PDP0732
   title: CPR/First Aid

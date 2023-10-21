@@ -122,6 +122,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/7/2023
+  course: PDP4337A
+  title: 2023-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/7/2023
+  course: PDP2260A
+  title: 2023-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/7/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2023
   course: PDP2465A
   title: 2022-7 CAO Legal Updates for 07/2022

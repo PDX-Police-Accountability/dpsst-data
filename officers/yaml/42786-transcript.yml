@@ -114,6 +114,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/7/2023
+  course: HSU1888A
+  title: Supplemental Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/6/2023
   course: HSU3076A
   title: Criminal Law

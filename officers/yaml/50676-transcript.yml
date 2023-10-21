@@ -210,6 +210,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/30/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/16/2023
   course: PDP0522A
   title: 2023 FTEP Post Basic CEW Taser

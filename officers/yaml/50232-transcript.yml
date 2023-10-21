@@ -121,6 +121,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/16/2023
+  course: PDP3428A
+  title: 2023 Training Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
+- date: 8/16/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/9/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management
@@ -139,6 +151,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/27/2023
+  course: PDP2260A
+  title: 2023-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/19/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update
@@ -151,6 +169,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.50'
+- date: 6/28/2023
+  course: PDP4337A
+  title: 2023-2 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/27/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

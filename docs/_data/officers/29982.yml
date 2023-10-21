@@ -100,6 +100,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/1/2023
+  course: SVP0552A
+  title: Suicide by Cop
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/28/2023
   course: SVP0299A
   title: Rifle Range Qualification  Training

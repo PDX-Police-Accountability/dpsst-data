@@ -175,6 +175,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 5/25/2023
+  course: PDP3364A
+  title: 2023-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/25/2023
+  course: PDP3316A
+  title: 2023-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/23/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers
@@ -184,6 +196,18 @@ training_records:
 - date: 5/22/2023
   course: PDP4227A
   title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/17/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/17/2023
+  course: PDP0401A
+  title: 2023-2 Range Qual Secondary Firearm (25 rd)
   status: Passed
   score: '0.0'
   hours: '1.00'

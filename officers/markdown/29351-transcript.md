@@ -49,6 +49,7 @@
 | 7/22/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/22/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/22/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 5/26/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/25/2023 | PDP1329A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/25/2023 | PDP2534A | 2022-7 EO Corrective Action Guide | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP0326A | AAR SharePoint Transition | Passed | 0.0 | 1.00 |

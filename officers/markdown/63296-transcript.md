@@ -41,6 +41,7 @@
 | 8/1/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/25/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
+| 7/24/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 7/4/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

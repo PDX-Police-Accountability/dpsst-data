@@ -52,6 +52,7 @@
 | 5/25/2023 | PDP1329A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/25/2023 | PDP3386A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 5/25/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 5/24/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/23/2023 | PDP2056A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 5/23/2023 | PDP3479A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 5/23/2023 | PDP2994A | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

@@ -157,6 +157,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/8/2023
+  course: PDP2260A
+  title: 2023-2 Range Qualification 40mm Less Lethal
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/8/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/1/2023
   course: PDP1276A
   title: 2023 Lead Exposure Training
@@ -199,6 +211,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 5/23/2023
+  course: PDP3364A
+  title: 2023-2 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 5/23/2023
+  course: PDP3316A
+  title: 2023-2 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/19/2023
   course: PDP0150A
   title: CPR/First Aid

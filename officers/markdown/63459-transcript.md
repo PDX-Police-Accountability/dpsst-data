@@ -57,6 +57,7 @@
 | 7/25/2023 | PDP1854A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 7/25/2023 | PDP2316A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Passed | 0.0 | 3.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
+| 7/24/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 7/20/2023 | PDP2368A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 7/19/2023 | PDP3143A | 2023 CEW Post Basic Course | Passed | 0.0 | 9.00 |

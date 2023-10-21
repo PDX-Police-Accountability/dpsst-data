@@ -22,18 +22,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/4/2023
+- status_date: 10/19/2023
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 10/19/2023
   expiration_date: ''
   probation_date: ''
-- status_date: 10/4/2023
+- status_date: 10/19/2023
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 10/19/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 9/18/2003
@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 7/19/2023
+  course: PDP0519A
+  title: 2023-2 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/18/2023
   course: PDP1721A
   title: 2021 Training Emergency Entry Recap Video
