@@ -67,8 +67,8 @@
 | 9/20/2023 | PDP1470A | Annual CIU NTR Alarm Response Training Reed | Passed | 0.0 | 0.25 |
 | 9/20/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/20/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 9/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
-| 5/15/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 5/10/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/4/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 27.00 |
 | 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |

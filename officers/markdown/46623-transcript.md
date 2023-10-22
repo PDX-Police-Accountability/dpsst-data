@@ -25,7 +25,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 3/29/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -57,6 +57,7 @@
 | 5/9/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/9/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 5/9/2023 | PDP0401A | 2023-2 Range Qual Secondary Firearm (25 rd) | Passed | 0.0 | 0.50 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/11/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/11/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/11/2023 | PDP2994A | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

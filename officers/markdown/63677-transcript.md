@@ -65,10 +65,10 @@
 | 9/20/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 9/19/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
+| 9/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
-| 5/15/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 5/11/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/7/2023 | PDP2648 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 5/7/2023 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |

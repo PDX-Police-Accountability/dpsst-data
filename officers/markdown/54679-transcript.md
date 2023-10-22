@@ -49,6 +49,14 @@
 | 3/31/2023 | MLP1757A | PREA | Passed | 0.0 | 1.00 |
 | 3/31/2023 | MLP4216A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 3/21/2023 | MLP26360 | Immediate action drills with handgun and rifles | Passed | 0.0 | 3.00 |
+| 3/13/2023 | MLP4503A | Hazardous Material Response | Passed | 0.0 | 0.50 |
+| 3/13/2023 | MLP3596A | Stress and Use of Force | Passed | 0.0 | 1.00 |
+| 3/13/2023 | MLP4505A | Anti-Bias Training for LE | Passed | 0.0 | 1.00 |
+| 3/13/2023 | MLP0800A | Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
+| 3/13/2023 | MLP2681A | Strangulation Forensic Evidence Kits | Passed | 0.0 | 0.50 |
+| 3/13/2023 | MLP3182A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/13/2023 | MLP1322A | CIT Intro to Mental Health Crisis | Passed | 0.0 | 1.00 |
+| 3/13/2023 | MLP4293A | Implied Consent | Passed | 0.0 | 0.50 |
 | 3/5/2023 | MLP13120 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/15/2023 | MLP02604 | Fire Extinguisher and Response Training | Passed | 0.0 | 1.50 |
 | 1/28/2023 | MLP10091 | OSHA slips trips and falls | Passed | 0.0 | 1.00 |

@@ -148,6 +148,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '16.00'
+- date: 8/25/2023
+  course: ETS1199A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/23/2023
   course: ETS1203A
   title: Firearms/Use of Force

@@ -58,6 +58,7 @@
 | 6/2/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/2/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/28/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 5/26/2023 | PDP4317A | 2023 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 137.00 |
 | 5/21/2023 | PDP4467A | 2023 PVO Satellite Instructor School - pt 1 | Passed | 0.0 | 20.00 |
 | 5/19/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/19/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |

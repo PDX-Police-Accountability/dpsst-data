@@ -70,6 +70,7 @@
 | 5/19/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 5/19/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/5/2023 | PDP0557 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/13/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 4/13/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 4/13/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |

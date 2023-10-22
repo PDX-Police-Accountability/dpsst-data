@@ -151,6 +151,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/28/2023
+  course: MLP4503A
+  title: Hazardous Material Response
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2023
+  course: MLP3596A
+  title: Stress and Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2023
+  course: MLP4505A
+  title: Anti-Bias Training for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2023
+  course: MLP2681A
+  title: Strangulation Forensic Evidence Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2023
+  course: MLP3182A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2023
+  course: MLP1322A
+  title: CIT Intro to Mental Health Crisis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2023
+  course: MLP4293A
+  title: Implied Consent
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/28/2023
+  course: MLP0800A
+  title: Sexual Harassment Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/15/2023
   course: MLP02604
   title: Fire Extinguisher and Response Training

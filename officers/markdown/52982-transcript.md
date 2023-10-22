@@ -127,6 +127,7 @@
 | 7/11/2022 | PDP36163 | 2022-2- CAO Legal Updates 02/2022 | Passed | 0.0 | 0.25 |
 | 7/4/2022 | PDP36911 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
+| 6/29/2022 | PDP3047A | 2022 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/11/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/24/2022 | PDP18820 | Dir 0320.00, PPB Rprtng of Ptnl Exculpatory Info | Passed | 0.0 | 0.25 |
 | 5/24/2022 | PDP33829 | 2022-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

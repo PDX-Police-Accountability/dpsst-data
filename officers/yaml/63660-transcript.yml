@@ -294,6 +294,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/15/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 9/8/2023
   course: PDP2543A
   title: RADAR/LIDAR Operator
@@ -312,12 +318,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 5/15/2023
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '640.00'
 - date: 5/11/2023
   course: PDP0627
   title: TEEX WMD/Terrorism Awareness for Emergency

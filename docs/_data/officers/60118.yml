@@ -30,6 +30,24 @@ certification_records:
   expiration_date: 1/12/2024
   probation_date: ''
 training_records:
+- date: 10/19/2023
+  course: HRS3517A
+  title: Officer Safety
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/19/2023
+  course: HRS3135A
+  title: Use of Force III
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/18/2023
+  course: HRS0116A
+  title: Use of Force II
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/17/2023
   course: HRS0990A
   title: Use of Force 1

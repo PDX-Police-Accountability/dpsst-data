@@ -60,5 +60,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-attribute_records: []
+attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 10/16/2023
+  expiration_date: ''
 education_records: []

@@ -212,6 +212,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/26/2023
+  course: PDP4317A
+  title: 2023 Mandatory PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '137.00'
 - date: 5/22/2023
   course: PDP1278A
   title: 2022 ABLE Performance Reviews for Supervisors

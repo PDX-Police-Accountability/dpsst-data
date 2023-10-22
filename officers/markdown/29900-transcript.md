@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/22/2023 | PDP4501A | 2023 SERT/CNT/CIC Camp Rilea Training | Passed | 0.0 | 12.00 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/5/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/5/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/5/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

@@ -84,6 +84,7 @@
 | 4/24/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 4/24/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/20/2023 | PDP4268A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 12.00 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/7/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 28.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

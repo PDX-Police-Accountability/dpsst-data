@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2023 | EGP1239A | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 10/5/2023 | EGP1223A | Field Force MRT Briefing Training | Passed | 0.0 | 0.50 |
 | 9/14/2023 | EGP2604A | Belonging Training - Module 2 (Bias Training) | Passed | 0.0 | 4.00 |
 | 9/14/2023 | EGP3979A | ETHOS "Harnessing Leadership" | Passed | 0.0 | 3.00 |

@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 10/12/2023
+  course: EGP1239A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/5/2023
   course: EGP1223A
   title: Field Force MRT Briefing Training

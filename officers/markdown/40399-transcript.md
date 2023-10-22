@@ -59,6 +59,7 @@
 | 5/16/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/28/2023 | PDP2140A | Intl Summit on Violence, Abuse  Trauma | Passed | 0.0 | 28.25 |
 | 4/18/2023 | PDP12729 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 3/30/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/30/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

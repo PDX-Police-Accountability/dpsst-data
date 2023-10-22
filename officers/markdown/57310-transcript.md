@@ -68,6 +68,7 @@
 | 5/13/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 5/4/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/12/2023 | PDP3246A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

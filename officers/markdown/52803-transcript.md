@@ -62,6 +62,7 @@
 | 5/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 5/4/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/20/2023 | PDP0178A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 3/29/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/20/2023 | Police Officer | Advanced | App Recd |  |  |  |
 | 6/14/2023 | Police Officer | Intermediate | Granted | 6/14/2023 |  |  |
 | 1/4/2018 | Police Officer | Basic | Granted | 1/4/2018 |  |  |
 ## Attributes
@@ -49,6 +50,7 @@
 | 5/11/2023 | PDP4128A | 2023-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 4/27/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/19/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/12/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/12/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/12/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/12/2023
+  course: EGP1239A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/5/2023
   course: EGP1328A
   title: PREA Briefing Training

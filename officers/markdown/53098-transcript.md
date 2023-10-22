@@ -66,9 +66,11 @@
 | 5/31/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 5/26/2023 | PDP4317A | 2023 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 137.00 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/1/2023 | PDP13561 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 0.75 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/9/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/9/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/9/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

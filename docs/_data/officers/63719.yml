@@ -264,18 +264,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/15/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 7/20/2023
   course: REG2860A
   title: INTOX 8000
   status: Passed
   score: '0.0'
   hours: '6.00'
-- date: 5/15/2023
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '640.00'
 - date: 5/10/2023
   course: PDP4184
   title: TEEX WMD/Terrorism Awareness for Emergency

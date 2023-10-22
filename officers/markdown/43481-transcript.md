@@ -63,6 +63,7 @@
 | 5/25/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/19/2023 | PDP33193 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 3/30/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |

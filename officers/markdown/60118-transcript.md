@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2023 | HRS3517A | Officer Safety | Passed | 0.0 | 1.00 |
+| 10/19/2023 | HRS3135A | Use of Force III | Passed | 0.0 | 3.00 |
+| 10/18/2023 | HRS0116A | Use of Force II | Passed | 0.0 | 4.00 |
 | 10/17/2023 | HRS0990A | Use of Force 1 | Passed | 0.0 | 4.00 |
 | 10/16/2023 | HRS1500A | History of the Office Of Sheriff | Passed | 0.0 | 1.00 |
 | 9/26/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

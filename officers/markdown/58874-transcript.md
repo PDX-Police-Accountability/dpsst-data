@@ -57,6 +57,7 @@
 | 5/28/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/28/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/28/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 5/26/2023 | PDP4317A | 2023 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 137.00 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/9/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 5/9/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
@@ -70,6 +71,7 @@
 | 4/27/2023 | PDP2174A | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
 | 4/23/2023 | PDP2266 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 4/23/2023 | PDP1768 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/13/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
 | 4/13/2023 | PDP1023A | 2023 Microsoft_Teams Recorded Training | Passed | 0.0 | 1.00 |
 | 4/6/2023 | PDP2994A | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

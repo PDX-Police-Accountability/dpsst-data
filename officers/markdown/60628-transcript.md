@@ -52,6 +52,7 @@
 | 5/21/2023 | PDP4467A | 2023 PVO Satellite Instructor School - pt 1 | Passed | 0.0 | 20.00 |
 | 5/11/2023 | PDP3382A | 2023 PVO Satellite Instructor School | Passed | 0.0 | 40.00 |
 | 4/28/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/13/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/13/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/13/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

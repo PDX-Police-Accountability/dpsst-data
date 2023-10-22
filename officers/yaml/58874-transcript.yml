@@ -180,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/26/2023
+  course: PDP4317A
+  title: 2023 Mandatory PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '137.00'
 - date: 5/11/2023
   course: PDP1919A
   title: CPR/First Aid
@@ -258,6 +264,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/14/2023
+  course: PDP4344A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/13/2023
   course: PDP0062A
   title: 2023 Microsoft_Cloud Storage with OD and SP

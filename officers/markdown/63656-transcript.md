@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/15/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 7/7/2023 | PDP1316A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 7/7/2023 | PDP3237A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
@@ -44,7 +45,6 @@
 | 7/3/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/3/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/3/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
-| 5/15/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
 | 5/11/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 27.00 |
 | 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |

@@ -82,6 +82,7 @@
 | 5/13/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/13/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 4/17/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/11/2023 | PDP19042 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 4/6/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
 | 4/6/2023 | PDP0010A | 2023 Microsoft_Outlook Online Recording | Passed | 0.0 | 1.00 |
@@ -160,6 +161,7 @@
 | 7/12/2022 | PDP33640 | 2022 Range Qualification AR-15 Qualification 100yd | Passed | 0.0 | 0.50 |
 | 7/12/2022 | PDP02259 | 2022 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/11/2022 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 6/29/2022 | PDP3047A | 2022 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 66.00 |
 | 6/27/2022 | PDP01652 | AAR SharePoint Transition | Passed | 0.0 | 1.00 |
 | 6/27/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/23/2022 | PDP26444 | Sergeant's Academy | Passed | 0.0 | 66.00 |

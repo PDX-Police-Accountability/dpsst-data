@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/30/2023 | PPP1931A | Terrorism 1 | Passed | 0.0 | 1.00 |
+| 9/28/2023 | PPP3347A | Protecting Transportation Systems | Passed | 0.0 | 1.00 |
 | 9/20/2023 | PPP4345A | K9 CPR/First Aid | Passed | 0.0 | 1.50 |
 | 9/13/2023 | PPP4165A | Firearms Rifle Range Training | Passed | 0.0 | 7.00 |
 | 8/31/2023 | PPP0619A | Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |

@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2023 | FGP3343A | DOJ Legal Updates | Passed | 0.0 | 2.50 |
+| 9/25/2023 | FGP1332A | Ethical Decision Making - ONLINE | Passed | 0.0 | 1.00 |
 | 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |
 | 6/23/2023 | FGP3809A | Summer Outdoor Range Quals and Drills | Passed | 0.0 | 10.00 |
 | 6/6/2023 | FGP0327A | Wildfire Smoke / Extreme Heat Precaution Refresher | Passed | 0.0 | 0.50 |

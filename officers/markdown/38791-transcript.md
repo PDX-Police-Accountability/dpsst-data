@@ -63,6 +63,7 @@
 | 5/23/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/11/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/3/2023 | PDP4452 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/6/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/23/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
 | 3/23/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |

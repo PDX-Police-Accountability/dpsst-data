@@ -48,6 +48,7 @@
 | 5/5/2029 | BNP41000 | 2nd Quart. Inservice HG,Rifle,Off duty skills | Passed | 0.0 | 6.00 |
 | 5/5/2029 | BNP05541 | Emotional Intelligenc / Mental Health | Passed | 0.0 | 0.50 |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 10/11/2023 | BNP0494A | Command Structure  Tactical Considerations | Passed | 0.0 | 4.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |

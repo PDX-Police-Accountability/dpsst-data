@@ -153,6 +153,7 @@
 | 8/3/2022 | PDP38585 | AXON CEW Annual Update | Passed | 0.0 | 1.00 |
 | 7/11/2022 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
+| 6/29/2022 | PDP3047A | 2022 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/11/2022 | PDP39345 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 6/10/2022 | PDP05146 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/19/2022 | PDP17743 | 2021-8 City Attorney's Legal Updates - Aug. 2021 | Passed | 0.0 | 0.25 |

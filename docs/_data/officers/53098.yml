@@ -211,6 +211,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/26/2023
+  course: PDP4317A
+  title: 2023 Mandatory PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '137.00'
 - date: 5/11/2023
   course: PDP1919A
   title: CPR/First Aid
@@ -229,6 +235,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/14/2023
+  course: PDP4344A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/9/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy

@@ -62,6 +62,7 @@
 | 5/30/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/30/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/26/2023 | PDP0401A | 2023-2 Range Qual Secondary Firearm (25 rd) | Passed | 0.0 | 0.50 |
+| 5/26/2023 | PDP4317A | 2023 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 137.00 |
 | 5/22/2023 | PDP1278A | 2022 ABLE Performance Reviews for Supervisors | Passed | 0.0 | 0.25 |
 | 5/22/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/22/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |

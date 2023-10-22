@@ -99,6 +99,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 10/12/2023
+  course: EGP1239A
+  title: Firearms Qualification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/14/2023
   course: EGP2604A
   title: Belonging Training - Module 2 (Bias Training)

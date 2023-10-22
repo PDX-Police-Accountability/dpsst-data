@@ -169,6 +169,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/26/2023
+  course: PDP4317A
+  title: 2023 Mandatory PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '137.00'
 - date: 5/7/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches

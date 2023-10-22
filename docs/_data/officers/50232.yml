@@ -247,6 +247,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 4/14/2023
+  course: PDP4344A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/3/2023
   course: PDP1487A
   title: 2023 New Patrol Vehicles

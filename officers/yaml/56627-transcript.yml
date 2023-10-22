@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/20/2023
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 6/14/2023
   certificate: Police Officer
   level: Intermediate
@@ -127,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/14/2023
+  course: PDP4344A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/12/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy

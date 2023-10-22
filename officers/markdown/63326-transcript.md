@@ -64,8 +64,8 @@
 | 9/20/2023 | PDP2577A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 9/20/2023 | PDP1470A | Annual CIU NTR Alarm Response Training Reed | Passed | 0.0 | 0.25 |
 | 9/20/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 9/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
-| 5/15/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 3/28/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/28/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

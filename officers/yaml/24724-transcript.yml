@@ -94,6 +94,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/16/2023
+  course: FGP3343A
+  title: DOJ Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 9/25/2023
+  course: FGP1332A
+  title: Ethical Decision Making - ONLINE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/6/2023
   course: HBP1232A
   title: Tactical Trauma Training

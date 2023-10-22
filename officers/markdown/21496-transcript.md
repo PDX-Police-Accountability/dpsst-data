@@ -55,6 +55,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/25/2023 | OSH4246A | ARIDE | Instructed | 0.0 | 16.00 |
+| 8/25/2023 | ETS1199A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 8/23/2023 | ETS1203A | Firearms/Use of Force | Passed | 0.0 | 3.00 |
 | 6/10/2023 | OSH0662A | Drug Certification Training | Instructed | 0.0 | 40.00 |
 | 5/19/2023 | F6R1974A | 40 Hour CIT Training | Passed | 0.0 | 40.00 |

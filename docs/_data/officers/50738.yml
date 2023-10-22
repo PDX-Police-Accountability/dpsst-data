@@ -194,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/26/2023
+  course: PDP4317A
+  title: 2023 Mandatory PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '137.00'
 - date: 5/11/2023
   course: PDP1919A
   title: CPR/First Aid

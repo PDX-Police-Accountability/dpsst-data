@@ -655,6 +655,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 6/29/2022
+  course: PDP3047A
+  title: 2022 Mandatory PPB Sergeant's Academy
+  status: Passed
+  score: '0.0'
+  hours: '88.75'
 - date: 5/26/2022
   course: PDP30549
   title: IS-800 National Response Framework

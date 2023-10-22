@@ -69,6 +69,7 @@
 | 5/30/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 5/12/2023 | PDP1709A | MGT 314 Enhanced All-Hazards Incident Management | Passed | 0.0 | 28.00 |
 | 5/4/2023 | PDP4469 | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/13/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
 | 4/13/2023 | PDP1421A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
 | 4/13/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |

@@ -167,6 +167,7 @@
 | 6/30/2022 | PDP08041 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/30/2022 | PDP07658 | Hostage Rescue  Breaching | Passed | 0.0 | 9.00 |
 | 6/29/2022 | PDP44069 | Sergeant's Academy | Passed | 0.0 | 88.75 |
+| 6/29/2022 | PDP3047A | 2022 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 88.75 |
 | 6/9/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/9/2022 | PDP43052 | 2022-2 Range Qualification AR-15 (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/9/2022 | PDP16854 | 2022-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

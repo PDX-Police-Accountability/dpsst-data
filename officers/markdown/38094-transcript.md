@@ -66,6 +66,7 @@
 | 6/1/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 5/28/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/28/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/26/2023 | PDP4317A | 2023 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 137.00 |
 | 5/21/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/21/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/12/2023 | PDP1278A | 2022 ABLE Performance Reviews for Supervisors | Passed | 0.0 | 0.25 |
