@@ -35,8 +35,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance - Not Met | Incomplete | 0.0 | 0.00 |
-| 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance - Not Met | Incomplete | 0.0 | 0.00 |
 | 12/31/2021 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2021 | PDP04678 | 2021-7 Tips  Tech Bureau Issued Utility Knives | Passed | 0.0 | 0.25 |
 | 6/5/2021 | PDP31594 | 2021 Online In-Service Procedural Justice | Passed | 0.0 | 0.75 |

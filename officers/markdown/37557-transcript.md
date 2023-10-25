@@ -28,7 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid | 11/6/2022 | 11/30/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | CPR | 11/22/2021 | 11/30/2023 |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/13/2023 | LOP1707A | Firearms Training | Passed | 0.0 | 4.00 |
 | 9/11/2023 | LOP0249A | Ballistic Shield Training | Passed | 0.0 | 2.50 |
 | 8/31/2023 | LOP2709A | Airway/Circulatory Training | Passed | 0.0 | 2.00 |

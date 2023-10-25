@@ -48,18 +48,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 12/31/2023
-  course: MISCMAIN
-  title: 2023 LE Annual Maintenance - Not Met
-  status: Incomplete
-  score: '0.0'
-  hours: '0.00'
-- date: 12/31/2022
-  course: MISCMAIN
-  title: 2022 LE Annual Maintenance - Not Met
-  status: Incomplete
-  score: '0.0'
-  hours: '0.00'
 - date: 12/31/2021
   course: MISCMAIN
   title: 2021 LE Annual Maintenance

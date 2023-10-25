@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/13/2023
   course: LOP1707A
   title: Firearms Training
@@ -2600,8 +2606,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid
   effective_date: 11/30/2022
