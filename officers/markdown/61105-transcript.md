@@ -36,8 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/11/2023 | NGP3558A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/30/2023 | NGP4417A | Adult/Child/Infant CPR AED | Passed | 0.0 | 3.00 |
 | 6/12/2023 | NGP1056A | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 6/11/2023 | NGP3645A | Smoke Air Quality Plan | Passed | 0.0 | 0.25 |
 | 6/5/2023 | NGP2392A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 1.00 |
 | 6/2/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 6/1/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 18.00 |

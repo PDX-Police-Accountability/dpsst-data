@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/12/2023
+  course: EGP1263A
+  title: Emergency Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/14/2023
   course: EGP2604A
   title: Belonging Training - Module 2 (Bias Training)

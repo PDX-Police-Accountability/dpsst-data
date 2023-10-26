@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2023 | PDP3942A | Less Lethal, FSDD, Chemical Agent Inst Cert | Passed | 0.0 | 40.00 |
 | 9/19/2023 | PDP1209A | 2023 Training Bike Instructor Training Course | Instructed | 0.0 | 36.00 |
 | 9/6/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

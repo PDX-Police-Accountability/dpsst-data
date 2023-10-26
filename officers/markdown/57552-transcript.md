@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/11/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 10/5/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/27/2017 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification

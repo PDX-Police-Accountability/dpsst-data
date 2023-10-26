@@ -128,6 +128,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/1/2023
+  course: PDP4137A
+  title: Air Tags  Tracking Technology
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/1/2023
+  course: PDP0714A
+  title: Importance of Time to First Evidence
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/1/2023
+  course: PDP0315A
+  title: Srchng for Digital Evidence in Physical Crime Scne
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/25/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management
@@ -158,6 +176,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/10/2023
+  course: PDP1015A
+  title: Advanced Mobile Wireless Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/13/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update

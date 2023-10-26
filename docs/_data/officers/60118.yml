@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/16/2023
+  agency: Hood River County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 10/12/2023
   agency: Portland Police Bureau
   action: Resigned
@@ -27,7 +33,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 2/3/2021
-  expiration_date: 1/12/2024
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 10/19/2023

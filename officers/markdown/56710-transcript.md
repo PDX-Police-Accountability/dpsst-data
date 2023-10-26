@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/6/2023 | Sherwood Police Department | Hired | Police Off |  |  |
 | 9/16/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/5/2018 | Washington County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 8/7/2017 | Washington County Sheriff's Office | LOA | Dpty Shrf |  |  |

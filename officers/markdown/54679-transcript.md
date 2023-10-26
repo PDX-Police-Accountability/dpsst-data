@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2023 | MLP3516A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 10/3/2023 | MLP3599A | CED Taser Certification | Passed | 0.0 | 4.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/17/2023 | BPT3673A | Field Training and Evaluation | Passed | 0.0 | 24.00 |

@@ -101,18 +101,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/9/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 8/22/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 8/22/2023
   course: OCS4175A
   title: Advanced Leadership for a Police Reform Era

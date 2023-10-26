@@ -35,7 +35,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/4/2023 | PSU4516A | Firearms Training / Qualification | Passed | 0.0 | 2.00 |
 | 8/11/2023 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 1.25 |
-| 7/21/2023 | HRS1089A | ALERRT Level 1 Active Shooter Response T3 | Passed | 0.0 | 40.00 |
+| 7/21/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
 | 7/21/2023 | HRS1958A | ALERRT Level 1 Active Shooter Response T3 | Passed | 0.0 | 40.00 |
 | 6/14/2023 | PSU1027A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 6/14/2023 | PSU1325A | Shooting  Moving / Target Discrimination | Passed | 0.0 | 2.00 |

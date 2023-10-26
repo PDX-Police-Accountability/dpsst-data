@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/16/2023 | Hood River County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 10/12/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 8/22/2019 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/3/2021 | Police Officer | Basic | Granted | 2/3/2021 | 1/12/2024 |  |
+| 2/3/2021 | Police Officer | Basic | Granted | 2/3/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

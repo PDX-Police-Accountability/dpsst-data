@@ -45,6 +45,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 10/12/2023 | EGP1239A | Firearms Qualification | Passed | 0.0 | 3.00 |
+| 10/12/2023 | EGP1263A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 9/14/2023 | EGP2604A | Belonging Training - Module 2 (Bias Training) | Passed | 0.0 | 4.00 |
 | 9/14/2023 | EGP3979A | ETHOS "Harnessing Leadership" | Passed | 0.0 | 3.00 |
 | 6/15/2023 | EGP0803A | Defensive Tactics | Passed | 0.0 | 4.00 |

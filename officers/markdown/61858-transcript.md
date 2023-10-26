@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/21/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 3/28/2022 | Jackson County Community Justice | Hired | Par/prob O |  |  |
 | 3/9/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/13/2021 | Portland Police Bureau | Hired | Police Off |  |  |

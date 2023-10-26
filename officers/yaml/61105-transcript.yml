@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/11/2023
+  course: NGP3558A
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/30/2023
   course: NGP4417A
   title: Adult/Child/Infant CPR AED
@@ -55,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 6/11/2023
+  course: NGP3645A
+  title: Smoke Air Quality Plan
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/5/2023
   course: NGP2392A
   title: Anti-Bias Training for Law Enforcement

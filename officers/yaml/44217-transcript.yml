@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2023
+  course: PDP3942A
+  title: Less Lethal, FSDD, Chemical Agent Inst Cert
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/19/2023
   course: PDP1209A
   title: 2023 Training Bike Instructor Training Course

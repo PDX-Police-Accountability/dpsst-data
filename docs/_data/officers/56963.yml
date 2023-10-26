@@ -72,6 +72,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/16/2023
+  course: PDP1668A
+  title: Interview  Interrogation Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 8/11/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update

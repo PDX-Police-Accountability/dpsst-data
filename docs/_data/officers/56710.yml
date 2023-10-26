@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/6/2023
+  agency: Sherwood Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/16/2021
   agency: Portland Police Bureau
   action: Resigned
