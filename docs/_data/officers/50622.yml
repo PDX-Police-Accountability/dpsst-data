@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/27/2023
+  course: OCP3059A
+  title: Taser Re-cert
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/7/2023
   course: OCP0393A
   title: Firearms/Use of Force

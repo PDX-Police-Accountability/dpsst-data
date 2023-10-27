@@ -80,6 +80,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2023
+  course: HBP1453A
+  title: 2023 HPD Command/Supervisor In-Service
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 10/11/2023
   course: HBP0355A
   title: Tracwire Training for Admin/Supervisors

@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2023 | OSH2637A | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
+| 10/20/2023 | OSH1141A | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |
 | 8/7/2023 | REG4431A | EVO Skills Update | Passed | 0.0 | 4.00 |
 | 7/18/2023 | OSH0916A | DT 2nd Defensive Tactics / Taser 2nd Trimester | Passed | 0.0 | 4.00 |
 | 7/15/2023 | OSH0454A | PRE ACADEMY PATROL TACTICS | Instructed | 0.0 | 8.00 |

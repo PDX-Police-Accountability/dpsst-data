@@ -87,6 +87,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2023
+  course: TGP2303A
+  title: Lexipol Daily Training Bulletins (General)
+  status: Passed
+  score: '0.0'
+  hours: '4.25'
+- date: 10/23/2023
+  course: TGP3624A
+  title: Lexipol Daily Training Bulletins (UF-Firearms)
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/23/2023
+  course: TGP0976A
+  title: Lexipol Daily Training Bulletins (Equity)
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/6/2023
   course: TGP1328A
   title: Citizens w/Special Needs, Mental Illness

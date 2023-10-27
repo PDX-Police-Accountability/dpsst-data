@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '44.00'
+- date: 9/29/2023
+  course: PDP0874A
+  title: OTOA Basic Sniper School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/25/2023
   course: HBS4458A
   title: Law Enforcement Basic Sniper School

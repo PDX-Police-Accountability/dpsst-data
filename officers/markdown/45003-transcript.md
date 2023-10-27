@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2023 | HBP1453A | 2023 HPD Command/Supervisor In-Service | Passed | 0.0 | 7.50 |
 | 10/11/2023 | HBP0355A | Tracwire Training for Admin/Supervisors | Passed | 0.0 | 4.50 |
 | 10/10/2023 | HBP4093A | FTO Training | Instructed | 0.0 | 2.50 |
 | 8/30/2023 | HBP0563A | Int'l Summit on Violence, Abuse, and Trauma | Passed | 0.0 | 28.00 |

@@ -40,6 +40,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/21/2023 | HSU2948A | EVOC | Instructed | 0.0 | 6.00 |
+| 10/20/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |
+| 10/20/2023 | HSU1326A | Axon Systems | Passed | 0.0 | 3.00 |
+| 10/20/2023 | HSU0451A | TASER Updates Recertification | Passed | 0.0 | 2.00 |
+| 10/20/2023 | HSU1780A | Navigating Injustice | Passed | 0.0 | 1.00 |
+| 10/20/2023 | HSU2707A | In- Service Operational Debriefs | Passed | 0.0 | 3.00 |
+| 10/15/2023 | HSU2948A | EVOC | Instructed | 0.0 | 6.00 |
 | 8/18/2023 | HSU1762A | Firearms August Supplemental Range | Passed | 0.0 | 3.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/22/2023 | HSU19975 | Spring In-Service 2023 EVOC | Instructed | 0.0 | 6.00 |

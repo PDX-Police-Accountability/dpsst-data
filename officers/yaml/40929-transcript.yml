@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/15/2023
+  course: HSU4019A
+  title: In- Service Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/28/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022

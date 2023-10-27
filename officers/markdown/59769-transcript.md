@@ -34,6 +34,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/16/2023 | HSU1780A | Navigating Injustice | Passed | 0.0 | 1.00 |
+| 10/16/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |
+| 10/16/2023 | HSU0451A | TASER Updates Recertification | Passed | 0.0 | 2.00 |
+| 10/16/2023 | HSU1326A | Axon Systems | Passed | 0.0 | 3.00 |
+| 10/16/2023 | HSU2707A | In- Service Operational Debriefs | Passed | 0.0 | 3.00 |
+| 10/15/2023 | HSU0850A | Post OIS Procedures | Passed | 0.0 | 3.00 |
+| 10/15/2023 | HSU2948A | EVOC | Passed | 0.0 | 3.00 |
+| 10/15/2023 | HSU4019A | In- Service Firearms | Passed | 0.0 | 4.00 |
 | 6/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/5/2023 | WGP1788 | Use of Force Bulletin | Passed | 0.0 | 1.00 |
 | 5/2/2023 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |

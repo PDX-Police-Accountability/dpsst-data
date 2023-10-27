@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/24/2023
+  course: HBP1453A
+  title: 2023 HPD Command/Supervisor In-Service
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 7/5/2023
   course: HBP2052A
   title: K9 Custody, POST PIT, High Risk Traffic Stops

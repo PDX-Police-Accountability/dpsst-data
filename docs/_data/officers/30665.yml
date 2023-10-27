@@ -88,6 +88,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/29/2023
+  course: PDP0958A
+  title: CNOA Narcotic  Specialized Unit Supervisor Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/4/2023
   course: PDP2741A
   title: 2023 Video Evidence Basics for the Police

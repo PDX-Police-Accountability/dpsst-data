@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2023 | TGP0976A | Lexipol Daily Training Bulletins (Equity) | Passed | 0.0 | 0.25 |
+| 10/23/2023 | TGP3624A | Lexipol Daily Training Bulletins (UF-Firearms) | Passed | 0.0 | 1.00 |
+| 10/23/2023 | TGP2303A | Lexipol Daily Training Bulletins (General) | Passed | 0.0 | 4.00 |
 | 9/21/2023 | TGP3949A | Handgun/Patrol Rifle Training | Passed | 0.0 | 8.00 |
 | 9/6/2023 | TGP0924A | Bias and Bigotry Crimes, Procedural Justice | Passed | 0.0 | 3.00 |
 | 7/27/2023 | TGP0907A | Path of the Guardian 2023Q2 | Passed | 0.0 | 2.00 |

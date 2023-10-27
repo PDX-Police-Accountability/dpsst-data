@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2023 | HBP1453A | 2023 HPD Command/Supervisor In-Service | Passed | 0.0 | 7.50 |
 | 7/5/2023 | HBP2052A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |
 | 7/5/2023 | HBP2146A | Traffic Crashes | Passed | 0.0 | 1.00 |
 | 6/18/2023 | HBP3509A | EVOC - Backing Exercise | Passed | 0.0 | 0.50 |

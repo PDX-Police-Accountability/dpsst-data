@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2023 | TGP2303A | Lexipol Daily Training Bulletins (General) | Passed | 0.0 | 3.00 |
+| 10/23/2023 | TGP3624A | Lexipol Daily Training Bulletins (UF-Firearms) | Passed | 0.0 | 1.00 |
 | 10/3/2023 | BVP1866A | NWFIA Fraud Conference | Passed | 0.0 | 16.00 |
 | 9/21/2023 | TGP3949A | Handgun/Patrol Rifle Training | Passed | 0.0 | 8.00 |
 | 9/21/2023 | TGP3949A | Handgun/Patrol Rifle Training | Instructed | 0.0 | 32.00 |

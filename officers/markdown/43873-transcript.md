@@ -42,6 +42,7 @@
 | 8/21/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 8/21/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/15/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/9/2023 | PDP0733A | 31st Annual Intl Problem-Oriented Policing Conf | Passed | 0.0 | 12.75 |
 | 7/17/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 6/26/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/26/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

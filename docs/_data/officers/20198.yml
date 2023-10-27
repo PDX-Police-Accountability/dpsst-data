@@ -86,6 +86,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/21/2023
+  course: HSU2948A
+  title: EVOC
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 10/20/2023
+  course: HSU2699A
+  title: Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2023
+  course: HSU1326A
+  title: Axon Systems
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/20/2023
+  course: HSU0451A
+  title: TASER Updates Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2023
+  course: HSU1780A
+  title: Navigating Injustice
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2023
+  course: HSU2707A
+  title: In- Service Operational Debriefs
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/15/2023
+  course: HSU2948A
+  title: EVOC
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/18/2023
   course: HSU1762A
   title: Firearms August Supplemental Range

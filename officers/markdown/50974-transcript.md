@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/29/2023 | OCP3059A | Taser Re-cert | Passed | 0.0 | 2.00 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 6/21/2023 | LOP0868A | West Metro Monthly Motor Training 06/21/2023 | Passed | 0.0 | 5.00 |

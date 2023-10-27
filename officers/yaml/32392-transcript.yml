@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/23/2023
+  course: TGP2303A
+  title: Lexipol Daily Training Bulletins (General)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/23/2023
+  course: TGP3624A
+  title: Lexipol Daily Training Bulletins (UF-Firearms)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/3/2023
   course: BVP1866A
   title: NWFIA Fraud Conference
