@@ -46,6 +46,7 @@
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
 | 4/21/2023 | BVP19724 | SAAM Sexual Assault Investigations and Proccedures | Passed | 0.0 | 0.50 |
 | 3/23/2023 | BVP3377A | CIT Ernie and Joe | Passed | 0.0 | 3.50 |
+| 3/2/2023 | BVP3585A | Narcan Deployment | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2022 | BVP32552 | Senate Bill 1510 Consent to Search | Passed | 0.0 | 1.00 |
 | 12/20/2022 | HBS08071 | Active Threat | Passed | 0.0 | 9.00 |

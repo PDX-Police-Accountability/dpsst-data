@@ -40,6 +40,11 @@
 | 10/16/2023 | HSU2707A | In- Service Operational Debriefs | Passed | 0.0 | 3.00 |
 | 10/16/2023 | HSU1326A | Axon Systems | Passed | 0.0 | 3.00 |
 | 10/16/2023 | HSU0451A | TASER Updates Recertification | Passed | 0.0 | 2.00 |
+| 10/16/2023 | HSU0418A | TASER Updates Recertification | Passed | 0.0 | 2.00 |
+| 10/16/2023 | HSU2780A | Axon Systems | Passed | 0.0 | 3.00 |
+| 10/16/2023 | HSU1363A | Chief's Message | Passed | 0.0 | 2.00 |
+| 10/16/2023 | HSU1515A | Navigating Injustice | Passed | 0.0 | 1.00 |
+| 10/16/2023 | HSU1973A | In- Service Operational Debriefs | Passed | 0.0 | 3.00 |
 | 10/15/2023 | HSU0850A | Post OIS Procedures | Passed | 0.0 | 3.00 |
 | 10/15/2023 | HSU2948A | EVOC | Passed | 0.0 | 3.00 |
 | 10/15/2023 | HSU4019A | In- Service Firearms | Passed | 0.0 | 4.00 |

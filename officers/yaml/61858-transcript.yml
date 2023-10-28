@@ -42,6 +42,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/18/2023
+  course: BPT2770A
+  title: Oregon Case Management Ntwork - Gender Cohort
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2023
+  course: BPT4261A
+  title: Oregon Case Management Ntwork - MHSN
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/28/2023
   course: MFN3371A
   title: Maintenance of a Case Plan

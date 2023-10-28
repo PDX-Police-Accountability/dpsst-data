@@ -126,6 +126,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.00'
+- date: 10/20/2023
+  course: HSU1363A
+  title: Chief's Message
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2023
+  course: HSU1515A
+  title: Navigating Injustice
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/16/2023
   course: HSU2699A
   title: Chief's Message
@@ -134,6 +146,18 @@ training_records:
   hours: '2.00'
 - date: 10/16/2023
   course: HSU1780A
+  title: Navigating Injustice
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: HSU1363A
+  title: Chief's Message
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2023
+  course: HSU1515A
   title: Navigating Injustice
   status: Instructed
   score: '0.0'

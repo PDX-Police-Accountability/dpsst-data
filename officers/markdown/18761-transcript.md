@@ -27,7 +27,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/21/2023 | HSU2948A | EVOC | Passed | 0.0 | 3.00 |
 | 10/21/2023 | HSU0850A | Post OIS Procedures | Passed | 0.0 | 3.00 |
 | 10/16/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |
@@ -43,6 +45,11 @@
 | 10/16/2023 | HSU0451A | TASER Updates Recertification | Passed | 0.0 | 2.00 |
 | 10/16/2023 | HSU1780A | Navigating Injustice | Passed | 0.0 | 1.00 |
 | 10/16/2023 | HSU2707A | In- Service Operational Debriefs | Passed | 0.0 | 3.00 |
+| 10/16/2023 | HSU0418A | TASER Updates Recertification | Passed | 0.0 | 2.00 |
+| 10/16/2023 | HSU1363A | Chief's Message | Passed | 0.0 | 2.00 |
+| 10/16/2023 | HSU1515A | Navigating Injustice | Passed | 0.0 | 1.00 |
+| 10/16/2023 | HSU2780A | Axon Systems | Passed | 0.0 | 3.00 |
+| 10/16/2023 | HSU1973A | In- Service Operational Debriefs | Passed | 0.0 | 3.00 |
 | 10/15/2023 | HSU4019A | In- Service Firearms | Passed | 0.0 | 4.00 |
 | 9/6/2023 | HSU4086A | Sex Assault Investigations | Instructed | 0.0 | 3.00 |
 | 9/6/2023 | HSU3426A | Report Writing | Instructed | 0.0 | 3.00 |

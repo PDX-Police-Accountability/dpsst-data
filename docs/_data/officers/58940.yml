@@ -2101,4 +2101,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 12/19/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/16/2008
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '116.0'

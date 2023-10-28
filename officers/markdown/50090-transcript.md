@@ -344,6 +344,7 @@
 | 5/14/2020 | PDP15453 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |
 | 5/13/2020 | PDP34286 | Wednesday Night K9 Training | Passed | 0.0 | 3.00 |
 | 5/6/2020 | PDP21782 | Wednesday Night K9 Training | Passed | 0.0 | 3.00 |
+| 5/1/2020 | PDP1986A | Basic Patrol K9 School 2020-01 | Passed | 0.0 | 400.00 |
 | 4/21/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
 | 4/3/2020 | PDP11465 | 2020 YSD School Critical Incident Plans Video | Passed | 0.0 | 0.25 |
 | 3/18/2020 | PDP09330 | 2020 SERT Patrol Armored Vehicle Use Video | Passed | 0.0 | 0.25 |

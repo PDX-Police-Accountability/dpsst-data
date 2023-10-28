@@ -112,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 3/2/2023
+  course: BVP3585A
+  title: Narcan Deployment
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/14/2023
   course: BVP0073A
   title: Wellness

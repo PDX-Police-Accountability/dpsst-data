@@ -2076,6 +2076,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/23/2019
+  course: PDP34250
+  title: 2019-2 Firearms Satellite Instructor School
+  status: Passed
+  score: '0.0'
+  hours: '100.00'
 - date: 4/20/2019
   course: PDP23225
   title: 2018 City Attorney's Office Legal Updates for Q12

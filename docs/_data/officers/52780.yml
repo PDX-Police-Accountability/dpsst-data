@@ -1562,6 +1562,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/1/2020
+  course: PDP1986A
+  title: Basic Patrol K9 School 2020-01
+  status: Passed
+  score: '0.0'
+  hours: '400.00'
 - date: 4/29/2020
   course: PDP18746
   title: Wednesday Night K9 Training

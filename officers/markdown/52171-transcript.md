@@ -372,6 +372,7 @@
 | 5/15/2019 | PDP23850 | Mobile Detection Drug Identification Training | Passed | 0.0 | 3.00 |
 | 5/14/2019 | PDP23426 | City Attorney's Office Legal Updates February 2019 | Passed | 0.0 | 0.25 |
 | 5/14/2019 | PDP37791 | City Attorney's Office Legal Updates March 2019 | Passed | 0.0 | 0.25 |
+| 4/23/2019 | PDP34250 | 2019-2 Firearms Satellite Instructor School | Passed | 0.0 | 100.00 |
 | 4/20/2019 | PDP23225 | 2018 City Attorney's Office Legal Updates for Q12 | Passed | 0.0 | 1.00 |
 | 4/12/2019 | PDP41799 | 2018-5 TipsTech 100% Collect/Submn Model-UPDATED | Passed | 0.0 | 0.25 |
 | 4/12/2019 | PDP26370 | 2019 Annual Hearing Conservation Training for OSHA | Passed | 0.0 | 0.25 |

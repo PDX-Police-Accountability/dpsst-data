@@ -49,8 +49,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/20/2023 | HSU2699A | Chief's Message | Instructed | 0.0 | 2.00 |
 | 10/20/2023 | HSU1780A | Navigating Injustice | Instructed | 0.0 | 1.00 |
+| 10/20/2023 | HSU1363A | Chief's Message | Instructed | 0.0 | 2.00 |
+| 10/20/2023 | HSU1515A | Navigating Injustice | Instructed | 0.0 | 1.00 |
 | 10/16/2023 | HSU2699A | Chief's Message | Instructed | 0.0 | 2.00 |
 | 10/16/2023 | HSU1780A | Navigating Injustice | Instructed | 0.0 | 1.00 |
+| 10/16/2023 | HSU1363A | Chief's Message | Instructed | 0.0 | 2.00 |
+| 10/16/2023 | HSU1515A | Navigating Injustice | Instructed | 0.0 | 1.00 |
 | 10/15/2023 | HSU4019A | In- Service Firearms | Instructed | 0.0 | 8.00 |
 | 10/7/2023 | HSU1888A | Supplemental Firearms | Instructed | 0.0 | 3.00 |
 | 9/6/2023 | HSU3076A | Criminal Law | Instructed | 0.0 | 4.00 |

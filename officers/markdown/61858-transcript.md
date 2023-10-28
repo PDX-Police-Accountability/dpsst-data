@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2023 | BPT2770A | Oregon Case Management Ntwork - Gender Cohort | Passed | 0.0 | 4.00 |
+| 10/17/2023 | BPT4261A | Oregon Case Management Ntwork - MHSN | Passed | 0.0 | 4.00 |
 | 9/28/2023 | MFN3371A | Maintenance of a Case Plan | Instructed | 0.0 | 2.00 |
 | 9/26/2023 | MFN3371A | Maintenance of a Case Plan | Passed | 0.0 | 1.00 |
 | 9/13/2023 | MFN2783A | ConSim Field Scenarios Training | Passed | 0.0 | 2.00 |

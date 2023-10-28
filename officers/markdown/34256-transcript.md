@@ -49,6 +49,7 @@
 | 6/9/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
 | 3/23/2023 | BVP3377A | CIT Ernie and Joe | Passed | 0.0 | 3.50 |
+| 3/2/2023 | BVP3585A | Narcan Deployment | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/13/2023 | F6R29896 | Managing Personal Energy for Balance/Productivity | Passed | 0.0 | 4.00 |
 | 1/13/2023 | F6R35238 | Violent Extremism in America | Passed | 0.0 | 4.00 |

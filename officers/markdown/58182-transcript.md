@@ -103,6 +103,7 @@
 | 1/27/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/27/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/17/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
+| 12/31/2022 | PDP0000A | Basic Patrol K9 School 2022-3 | Passed | 0.0 | 360.00 |
 | 12/21/2022 | PDP06672 | K9 Unit Training | Passed | 0.0 | 4.00 |
 | 12/9/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
