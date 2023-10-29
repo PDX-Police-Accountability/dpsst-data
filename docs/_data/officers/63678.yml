@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/26/2023
+  course: PDP1833A
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/21/2023
   course: PDP3261A
   title: 2018-1 TT Hazard Towing v. Private Request Tows

@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/26/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/11/2023 | NGP3558A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
+| 8/31/2023 | NGP1900A | Hazmat First Respnder Awarness | Passed | 0.0 | 1.50 |
 | 6/30/2023 | NGP4417A | Adult/Child/Infant CPR AED | Passed | 0.0 | 3.00 |
 | 6/12/2023 | NGP1056A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 6/11/2023 | NGP3645A | Smoke Air Quality Plan | Passed | 0.0 | 0.25 |

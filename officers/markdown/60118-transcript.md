@@ -34,10 +34,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | HRS2349A | NARCAN Training Video | Passed | 0.0 | 0.25 |
+| 10/23/2023 | HRS3698A | Ethics | Passed | 0.0 | 2.00 |
 | 10/19/2023 | HRS3517A | Officer Safety | Passed | 0.0 | 1.00 |
 | 10/19/2023 | HRS3135A | Use of Force III | Passed | 0.0 | 3.00 |
+| 10/19/2023 | HRS1088A | Handgun Range Qualification | Passed | 0.0 | 4.00 |
 | 10/18/2023 | HRS0116A | Use of Force II | Passed | 0.0 | 4.00 |
+| 10/18/2023 | HRS3691A | Basic Handgun Safety / Policy | Passed | 0.0 | 4.00 |
 | 10/17/2023 | HRS0990A | Use of Force 1 | Passed | 0.0 | 4.00 |
+| 10/17/2023 | HRS3173A | Procedural Law | Passed | 0.0 | 2.00 |
 | 10/16/2023 | HRS1500A | History of the Office Of Sheriff | Passed | 0.0 | 1.00 |
 | 9/26/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 9/26/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |

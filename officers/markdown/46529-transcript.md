@@ -44,6 +44,7 @@
 | 9/18/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/31/2023 | PDP2539A | 2023 Training Red Dot Optic Instructor Course | Instructed | 0.0 | 36.00 |
 | 8/25/2023 | PDP0394A | Law Enforcement Training Center | Passed | 0.0 | 40.00 |
 | 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 27.00 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 8.00 |

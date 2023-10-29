@@ -198,6 +198,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '20.00'
+- date: 4/14/2023
+  course: PDP2247A
+  title: 2023-1 AR-15 Satellite Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
 - date: 4/11/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy

@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: HRS2349A
+  title: NARCAN Training Video
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/23/2023
+  course: HRS3698A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/19/2023
   course: HRS3517A
   title: Officer Safety
@@ -48,9 +60,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/19/2023
+  course: HRS1088A
+  title: Handgun Range Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/18/2023
   course: HRS0116A
   title: Use of Force II
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/18/2023
+  course: HRS3691A
+  title: Basic Handgun Safety / Policy
   status: Passed
   score: '0.0'
   hours: '4.00'
@@ -60,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/17/2023
+  course: HRS3173A
+  title: Procedural Law
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/16/2023
   course: HRS1500A
   title: History of the Office Of Sheriff

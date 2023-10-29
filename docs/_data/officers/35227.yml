@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 8/25/2023
+  course: F1514378
+  title: 'Incident Analysis: Fargo PD Ambush'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/12/2023
   course: PDS3692
   title: CPR/First Aid

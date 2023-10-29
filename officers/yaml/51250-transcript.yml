@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2023
+  course: PDP4028A
+  title: 2023 Training PVO PIT/Box-In Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/27/2023
   course: PDP0810A
   title: 2023 FTEP Post Basic CEW Taser

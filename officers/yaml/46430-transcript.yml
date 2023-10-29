@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/31/2023
+  course: PDP2539A
+  title: 2023 Training Red Dot Optic Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/25/2023
   course: PDP2598A
   title: 2023 Force Science Methods of Instruction

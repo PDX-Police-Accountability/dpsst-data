@@ -41,6 +41,7 @@
 | 9/26/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 9/26/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/25/2023 | PDP0944A | 2018 SSD Stops Application | Passed | 0.0 | 0.50 |
 | 9/25/2023 | PDP0803A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP1108A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |

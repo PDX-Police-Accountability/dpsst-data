@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2023 | PDP4028A | 2023 Training PVO PIT/Box-In Refresher | Passed | 0.0 | 2.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/25/2023 | PDP1032A | 2020 Ethics and Leadership PowerPoint | Passed | 0.0 | 0.75 |
 | 9/20/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

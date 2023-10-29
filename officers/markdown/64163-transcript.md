@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 10/16/2023 |  |
+| Certification Cards | First Aid and CPR | 10/11/2023 | 10/11/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -29,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 10/16/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
+| 10/11/2023 | PDP4052A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 5/24/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 5/24/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 5/24/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

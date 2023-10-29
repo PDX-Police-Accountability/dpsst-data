@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/31/2023
+  course: NGP1900A
+  title: Hazmat First Respnder Awarness
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/30/2023
   course: NGP4417A
   title: Adult/Child/Infant CPR AED

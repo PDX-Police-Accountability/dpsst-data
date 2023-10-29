@@ -246,6 +246,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/14/2023
+  course: PDP2247A
+  title: 2023-1 AR-15 Satellite Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '45.00'
 - date: 4/13/2023
   course: PDP3754
   title: 2023 SERT Training - CLASSROOM

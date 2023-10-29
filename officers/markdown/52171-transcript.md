@@ -59,6 +59,7 @@
 | 5/22/2023 | PDP0116A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 9.00 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/26/2023 | PDP1321A | 2023 External Training WSNIA Training Summit | Passed | 0.0 | 20.00 |
+| 4/14/2023 | PDP2247A | 2023-1 AR-15 Satellite Instructor Course | Passed | 0.0 | 45.00 |
 | 4/11/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/11/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/11/2023 | PDP1023A | 2023 Microsoft_Teams Recorded Training | Passed | 0.0 | 1.00 |

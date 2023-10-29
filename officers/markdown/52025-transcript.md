@@ -34,7 +34,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/18/2023 | PDP2772A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 10/11/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/4/2023 | PDP0389A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/20/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/13/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/13/2023 | PDP2772A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/6/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

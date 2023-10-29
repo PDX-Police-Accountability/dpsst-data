@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2023
+  course: BPT2091A
+  title: Oregon Case Management Network
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/18/2023
   course: BPT2770A
   title: Oregon Case Management Ntwork - Gender Cohort

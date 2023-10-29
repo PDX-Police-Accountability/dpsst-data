@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/17/2023
+  course: HBS0393A
+  title: Investigations Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2023
+  course: HBS1931A
+  title: EVO Pursuit  Investigation Division Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/18/2023
   course: HBS4508A
   title: 2023 September In-Service

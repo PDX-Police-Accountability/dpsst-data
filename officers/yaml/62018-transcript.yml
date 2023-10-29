@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 8/31/2023
+  course: PDP2539A
+  title: 2023 Training Red Dot Optic Instructor Course
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/26/2023
   course: PDP0934A
   title: 2023 Portland Community Justice Partnership

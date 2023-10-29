@@ -31,6 +31,7 @@
 | 11/29/2023 | PDP1785 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 10/3/2023 | PDP0198A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/21/2023 | PDP3261A | 2018-1 TT Hazard Towing v. Private Request Tows | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP2628A | 2019 CHO SPLC LE Response to Hate Events | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP1156A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |

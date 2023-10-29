@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/11/2023
+  course: PDP4052A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/26/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -257,4 +263,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 10/16/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/11/2023
+  expiration_date: 10/11/2025
 education_records: []
