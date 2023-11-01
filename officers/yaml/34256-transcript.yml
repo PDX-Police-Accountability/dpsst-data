@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/1/2023
+  course: BVP4197A
+  title: BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/14/2023
   course: BVP2565A
   title: Hawthorn Walk In Center, MHRT

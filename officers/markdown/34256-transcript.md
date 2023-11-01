@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/1/2023 | BVP4197A | BWC | Passed | 0.0 | 0.50 |
 | 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 6/14/2023 | BVP3258A | ICS Scenario | Passed | 0.0 | 2.00 |
 | 6/14/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |

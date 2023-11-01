@@ -37,7 +37,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/14/2023 | OCS04927 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
@@ -57,6 +56,7 @@
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 1/26/2023 | VND18695 | CVSA Annual Truck Inspection Refresher | Passed | 0.0 | 4.00 |
 | 1/18/2023 | OCS07031 | DUII - SFST Refresher | Passed | 0.0 | 4.00 |
+| 12/14/2022 | OCS04927 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
 | 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/5/2022 | OCS07603 | Domestic Violence Investigations | Passed | 0.0 | 0.50 |
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |

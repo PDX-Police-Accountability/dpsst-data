@@ -76,6 +76,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/1/2023
+  course: BVP4197A
+  title: BWC
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/5/2023
   course: OCS2433
   title: FBI/LEEDA CLI

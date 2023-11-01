@@ -12,6 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/18/2023 | Wallowa County Community Corrections | Transfered | Par/prob O |  |  |
+| 11/17/2023 | Wallowa County Sheriff's Office | Layoff | Par/prob O |  |  |
 | 1/15/2020 | Wallowa County Sheriff's Office | Hired | Par/prob O |  |  |
 | 12/31/2019 | Oregon State Police | Retired | Trooper |  |  |
 | 1/1/2005 | Oregon State Police | Promotion | Sr Trooper |  |  |
@@ -22,20 +24,20 @@
 | 4/11/1994 | Umatilla County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 4/10/1994 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 2/19/1991 | Portland Police Bureau | Hired | Reserve |  |  |
-| 6/28/1989 | Union County Sheriff's Office | Resigned | Aux Corr |  |  |
-| 5/23/1989 | Union County Sheriff's Office | Reclassed | Aux Corr |  |  |
+| 6/28/1989 | Union County Sheriff's Office | Resigned | Civln Emp |  |  |
+| 5/23/1989 | Union County Sheriff's Office | Reclassed | Civln Emp |  |  |
 | 4/6/1989 | Union County Sheriff's Office | Reclassed | Dpty Shrf |  |  |
-| 11/1/1988 | Union County Sheriff's Office | Hired | Aux Corr |  |  |
+| 11/1/1988 | Union County Sheriff's Office | Hired | Civln Emp |  |  |
 | 10/31/1988 | LaGrande Police Department | Resigned | Reserve |  |  |
 | 4/26/1988 | LaGrande Police Department | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 4/21/2021 | Parole  Probation Officer | Basic | Granted | 4/21/2021 |  |  |
-| 2/1/2004 | Police Officer | Advanced | Granted | 2/1/2004 |  |  |
-| 5/7/2001 | Police Officer | Intermediate | Granted | 5/7/2001 |  |  |
-| 10/12/2000 | Police Officer | Basic | Granted | 10/12/2000 |  |  |
-| 7/1/1996 | Corrections Officer | Basic | Lapsed | 4/13/1995 |  |  |
+| 3/31/2020 | Police Officer | Advanced | Lapsed | 2/1/2004 | 12/31/2024 |  |
+| 3/31/2020 | Police Officer | Basic | Lapsed | 10/12/2000 | 12/31/2024 |  |
+| 3/31/2020 | Police Officer | Intermediate | Lapsed | 5/7/2001 | 12/31/2024 |  |
+| 2/15/2020 | Corrections Officer | Basic | Expired | 4/13/1995 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
