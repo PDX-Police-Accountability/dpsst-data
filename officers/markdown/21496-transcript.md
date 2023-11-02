@@ -12,8 +12,8 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 11/18/2023 | Wallowa County Community Corrections | Transfered | Par/prob O |  |  |
-| 11/17/2023 | Wallowa County Sheriff's Office | Layoff | Par/prob O |  |  |
+| 11/18/2020 | Wallowa County Community Corrections | Transfered | Par/prob O |  |  |
+| 11/17/2020 | Wallowa County Sheriff's Office | Layoff | Par/prob O |  |  |
 | 1/15/2020 | Wallowa County Sheriff's Office | Hired | Par/prob O |  |  |
 | 12/31/2019 | Oregon State Police | Retired | Trooper |  |  |
 | 1/1/2005 | Oregon State Police | Promotion | Sr Trooper |  |  |
