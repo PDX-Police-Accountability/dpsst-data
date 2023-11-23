@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | HBP4452A | Assisting Individuals/Group Crisis Intervention | Passed | 0.0 | 27.00 |
 | 10/10/2023 | HBP4093A | FTO Training | Passed | 0.0 | 2.50 |
 | 9/27/2023 | HBP3311A | ODT - Ambush Training | Passed | 0.0 | 1.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |

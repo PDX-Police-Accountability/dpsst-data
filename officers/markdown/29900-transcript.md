@@ -23,19 +23,16 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/18/2021 | Police Officer | Executive | Granted | 2/18/2021 | 10/17/2023 |  |
-| 2/18/2021 | Police Officer | Management | Granted | 2/18/2021 | 10/17/2023 |  |
-| 8/21/2019 | Police Officer | Supervisory | Granted | 8/21/2019 | 10/17/2023 |  |
-| 4/7/2009 | Police Officer | Advanced | Granted | 4/7/2009 | 10/17/2023 |  |
-| 4/7/2009 | Police Officer | Basic | Reactivate | 6/16/1995 | 10/17/2023 |  |
-| 4/7/2009 | Police Officer | Intermediate | Granted | 4/7/2009 | 10/17/2023 |  |
+| 10/17/2023 | Police Officer | Advanced | Lapsed | 4/7/2009 | 7/17/2028 |  |
+| 10/17/2023 | Police Officer | Basic | Lapsed | 6/16/1995 | 7/17/2028 |  |
+| 10/17/2023 | Police Officer | Executive | Lapsed | 2/18/2021 | 7/17/2028 |  |
+| 10/17/2023 | Police Officer | Intermediate | Lapsed | 4/7/2009 | 7/17/2028 |  |
+| 10/17/2023 | Police Officer | Management | Lapsed | 2/18/2021 | 7/17/2028 |  |
+| 10/17/2023 | Police Officer | Supervisory | Lapsed | 8/21/2019 | 7/17/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 4/7/2009 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 6/13/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -57,7 +54,6 @@
 | 3/8/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/5/2023 | PDP02750 | IACP Officer Safety and Wellness Symposium | Passed | 0.0 | 24.00 |
 | 2/14/2023 | PDP11246 | DIR 0850.25 Police Response to MH Facilities | Passed | 0.0 | 0.25 |
 | 2/14/2023 | PDP15132 | DIR 0850.21 Peace Officer Custody (Civil) | Passed | 0.0 | 0.25 |

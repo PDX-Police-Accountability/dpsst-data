@@ -21,6 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 11/2/2023 | Police Officer | Supervisory | App Recd |  |  |  |
 | 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
 | 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
 | 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 |  |  |
@@ -29,7 +30,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/13/2023 | 4/13/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 11/29/2010 |  |
 ## Education
@@ -39,7 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 7/2/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 10/23/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Completed | 0.0 | 0.00 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2023 | FGP1332A | Ethical Decision Making - ONLINE | Passed | 0.0 | 1.00 |
 | 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |

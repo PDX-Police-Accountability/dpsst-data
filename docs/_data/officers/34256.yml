@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/7/2023
+  course: BVP1084A
+  title: September Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 9/1/2023
   course: BVP4197A
   title: BWC
@@ -137,6 +143,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/6/2023
+  course: BVP3077A
+  title: April Range 2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/23/2023
   course: BVP3377A
   title: CIT Ernie and Joe

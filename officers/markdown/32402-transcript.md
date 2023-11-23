@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/17/2023 | HBS0393A | Investigations Leadership Training | Passed | 0.0 | 0.50 |
 | 10/17/2023 | HBS1931A | EVO Pursuit  Investigation Division Updates | Passed | 0.0 | 1.00 |
+| 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |
 | 9/18/2023 | HBS4508A | 2023 September In-Service | Passed | 0.0 | 9.00 |
 | 8/24/2023 | HBS0484A | IA300 Adv Criminal Intel Tradecraft-Analysis | Passed | 0.0 | 24.00 |
 | 6/14/2023 | HBS1553A | 34th Annual ACFE Global Fraud Conference | Passed | 0.0 | 20.00 |

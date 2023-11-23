@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/31/2023 | Oregon State Police | Retired | Sr Trooper |  |  |
 | 2/26/2021 | DPSST Use Only | Resigned |  |  | AcadTrng |
 | 4/8/2019 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 3/4/2011 | Oregon State Police | Demotn Vol | Sr Trooper |  |  |
@@ -25,10 +26,10 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 2/26/2021 | Instructor |  | Expired | 6/10/2019 |  |  |
-| 10/16/2017 | Police Officer | Supervisory | Relinquish | 1/31/2003 |  |  |
-| 1/31/2003 | Police Officer | Advanced | Granted | 1/31/2003 |  |  |
-| 1/31/2003 | Police Officer | Intermediate | Granted | 1/31/2003 |  |  |
-| 3/13/2000 | Police Officer | Basic | Granted | 3/13/2000 |  |  |
+| 10/16/2017 | Police Officer | Supervisory | Relinquish | 1/31/2003 | 10/31/2028 |  |
+| 1/31/2003 | Police Officer | Advanced | Granted | 1/31/2003 | 1/31/2024 |  |
+| 1/31/2003 | Police Officer | Intermediate | Granted | 1/31/2003 | 1/31/2024 |  |
+| 3/13/2000 | Police Officer | Basic | Granted | 3/13/2000 | 1/31/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

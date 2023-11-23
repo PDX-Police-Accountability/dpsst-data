@@ -43,6 +43,7 @@
 | 5/16/2023 | PSU1814 | MILO 3000 / Shoot Don't Shoot Scenarios | Passed | 0.0 | 1.50 |
 | 5/11/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/11/2023 | PSU0064 | Low Light/Shooting  Moving/Transitions/ Qual | Passed | 0.0 | 2.50 |
+| 4/5/2023 | PDP0942A | 2023 Training PS3 Support Specialist Coach School | Passed | 0.0 | 8.00 |
 | 10/4/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/11/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |
 | 9/6/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

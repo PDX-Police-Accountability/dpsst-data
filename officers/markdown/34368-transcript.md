@@ -31,14 +31,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 2/7/2023 | 2/7/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Code of Ethics | Signed | 5/28/2003 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/14/1997 | Associate Science | Central Oregon Commnty College |  | 96.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
@@ -591,35 +586,3 @@
 | 9/13/2004 | 04-4313 | Consular Notification  Access | Passed | 0.0 | 0.50 |
 | 7/29/2004 | 04-4962 | Marijuana Spotters School | Passed | 0.0 | 24.00 |
 | 7/22/2004 | 04-1095 | Regional COPS System - Basic | Passed | 0.0 | 4.00 |
-| 7/15/2004 | 04-4078 | ONEA 2004 Summer Conference | Passed | 0.0 | 20.00 |
-| 6/15/2004 | 04-5787 | Range Qualification | Passed | 0.0 | 3.00 |
-| 4/24/2004 | 04-0470 | DUII Multi-disciplinary Impared Driving | Passed | 0.0 | 16.00 |
-| 3/18/2004 | 04-0178 | Defensive Tactics | Passed | 0.0 | 4.00 |
-| 1/8/2004 | 04-0185 | 2003 Legal Updates | Passed | 0.0 | 2.00 |
-| 11/19/2003 | 03U001 | Approved In-State Training | Passed | 0.0 | 51.50 |
-| 10/17/2003 | 03-1093 | Clandestine Lab Site Safety School | Passed | 0.0 | 40.00 |
-| 9/16/2003 | 03-0872 | OSIN Basic Criminal Intelligence Concepts Training | Passed | 0.0 | 4.00 |
-| 9/4/2003 | 03-0854 | OSP Drug Recognition Expert Re-Certification | Passed | 0.0 | 8.00 |
-| 8/7/2003 | 03-0972 | Operation Pipeline | Passed | 0.0 | 24.00 |
-| 7/10/2003 | 03-0848 | OR Narcotics Enforcement Assoc. Summer Training | Passed | 0.0 | 20.00 |
-| 3/18/2003 | 03-0759 | DPSST EVOC Refresher Course | Passed | 0.0 | 8.00 |
-| 2/27/2003 | 03-0513 | Amber Alert Training | Passed | 0.0 | 0.50 |
-| 8/29/2002 | 02CP993 | DRE Full-School | Passed | 0.0 | 56.00 |
-| 8/20/2002 | 02CP994 | DRE Pre-School | Passed | 0.0 | 16.00 |
-| 1/19/2002 | 02CP102 | Officer Involved Shootings: A Training Seminar for | Passed | 0.0 | 15.00 |
-| 5/11/2001 | 01CP483 | Interviews  Interrogations | Passed | 0.0 | 24.00 |
-| 10/30/2000 | 99P308 | LEGAL UPDATE HOUSE BILL 2433 | Passed | 0.0 | 2.00 |
-| 6/17/2000 | 00P380 | Rave Culture, Ravers  Their Drugs | Passed | 0.0 | 8.00 |
-| 5/12/2000 | 00P398 | Interviewing Techniques | Passed | 0.0 | 8.00 |
-| 2/18/2000 | 00T001 | Police Field Training Manual | Passed | 0.0 | 50.00 |
-| 1/24/2000 | 96X073 | RADAR OPERATOR TRNG | Passed | 0.0 | 24.00 |
-| 11/22/1999 | 99P155 | MULTI-DISCIPLINARY CHLD ABUSE INVSTI | Passed | 0.0 | 5.00 |
-| 9/23/1999 | 99P561 | EPIC - OPERATION PIPELINE | Passed | 0.0 | 24.00 |
-| 8/13/1999 | 99B001 | DPSST Basic Police | Passed | 0.0 | 376.00 |
-| 7/21/1999 | 99P296 | DEFENSIVE TACTICS | Passed | 0.0 | 2.00 |
-| 7/20/1999 | 99P115 | INTOXYLIZER 5000 CERTIFICATION | Passed | 0.0 | 4.00 |
-| 7/15/1999 | 99B010 | BP/SFST  DRUGS THAT IMPAIR DRIVING | Passed | 0.0 | 24.00 |
-| 7/14/1999 | 99P396 | GROUND FIGHTING | Passed | 0.0 | 4.00 |
-| 6/3/1999 | 99P294 | FATS TRAINING | Passed | 0.0 | 1.00 |
-| 6/1/1999 | 99P294 | FATS TRAINING | Passed | 0.0 | 1.00 |
-| 4/28/1999 | 99P352 | CHILD ABUSE TRAINING | Passed | 0.0 | 7.00 |

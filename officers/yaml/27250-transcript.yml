@@ -127,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 4/5/2023
+  course: PDP0942A
+  title: 2023 Training PS3 Support Specialist Coach School
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/4/2022
   course: PDP11045
   title: 2022-3 Range Qualification Primary Firearm

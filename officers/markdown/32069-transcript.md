@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 10/27/2023 | VND1153A | Washington County CIT Training | Passed | 0.0 | 40.00 |
 | 10/11/2023 | SDP0096A | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/27/2023 | REG4293 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |

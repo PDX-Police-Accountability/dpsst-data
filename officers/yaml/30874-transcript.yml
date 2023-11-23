@@ -46,6 +46,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 11/2/2023
+  certificate: Police Officer
+  level: Supervisory
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
   level: Advanced
@@ -68,10 +75,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/2/2024
+- date: 10/23/2023
   course: REQSUPV
   title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 10/23/2023
@@ -4475,10 +4482,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/13/2023
   expiration_date: 4/13/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

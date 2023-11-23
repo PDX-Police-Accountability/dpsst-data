@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2023
+  course: GSP3709A
+  title: Visual Observer (VO) Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/6/2023
   course: MNP3296A
   title: Preparing for Promotion

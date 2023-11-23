@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/31/2023
+  agency: Oregon State Police
+  action: Retired
+  rank: Sr Trooper
+  classification: ''
+  assignment: ''
 - date: 2/26/2021
   agency: DPSST Use Only
   action: Resigned
@@ -76,28 +82,28 @@ certification_records:
   level: Supervisory
   status: Relinquish
   certificate_date: 1/31/2003
-  expiration_date: ''
+  expiration_date: 10/31/2028
   probation_date: ''
 - status_date: 1/31/2003
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 1/31/2003
-  expiration_date: ''
+  expiration_date: 1/31/2024
   probation_date: ''
 - status_date: 1/31/2003
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 1/31/2003
-  expiration_date: ''
+  expiration_date: 1/31/2024
   probation_date: ''
 - status_date: 3/13/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/13/2000
-  expiration_date: ''
+  expiration_date: 1/31/2024
   probation_date: ''
 training_records:
 - date: 6/22/2023

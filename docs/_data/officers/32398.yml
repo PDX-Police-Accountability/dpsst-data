@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/24/2023
+  course: PDP0365A
+  title: 2023-2 Field Training Officer (FTO)
+  status: Instructed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -266,6 +272,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '5.00'
+- date: 4/5/2023
+  course: PDP0942A
+  title: 2023 Training PS3 Support Specialist Coach School
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/27/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -458,12 +470,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 1/3/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 12/31/2022
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

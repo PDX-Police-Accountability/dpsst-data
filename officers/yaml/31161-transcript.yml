@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/17/2023
+  course: TGP0610A
+  title: Body Cam and Digital Evidence Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/6/2023
   course: TGP1328A
   title: Citizens w/Special Needs, Mental Illness

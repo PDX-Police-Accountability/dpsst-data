@@ -20,13 +20,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/31/2023 | Regulatory Specialist | Basic | Lapsed | 3/25/2019 | 7/31/2028 |  |
 | 2/15/2020 | Police Officer | Basic | Expired | 10/12/1994 |  |  |
-| 3/25/2019 | Regulatory Specialist | Basic | Granted | 3/25/2019 | 10/31/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 12/1/2021 | 12/1/2023 |
 | Code of Ethics | Law Enforcement Signed | 4/15/2018 |  |
 | Code of Ethics | Law Enforcement Signed | 3/8/2018 |  |

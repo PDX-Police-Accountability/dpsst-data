@@ -64,33 +64,33 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/23/2009
+- status_date: 10/5/2023
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 2/23/2009
-  expiration_date: 10/5/2023
+  expiration_date: 7/5/2028
   probation_date: ''
-- status_date: 2/23/2009
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 2/23/2009
-  expiration_date: 10/5/2023
-  probation_date: ''
-- status_date: 2/23/2009
-  certificate: Police Officer
-  level: Supervisory
-  status: Granted
-  certificate_date: 2/23/2009
-  expiration_date: 10/5/2023
-  probation_date: ''
-- status_date: 11/3/1998
+- status_date: 10/5/2023
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 11/3/1998
-  expiration_date: 10/5/2023
+  expiration_date: 7/5/2028
+  probation_date: ''
+- status_date: 10/5/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 2/23/2009
+  expiration_date: 7/5/2028
+  probation_date: ''
+- status_date: 10/5/2023
+  certificate: Police Officer
+  level: Supervisory
+  status: Lapsed
+  certificate_date: 2/23/2009
+  expiration_date: 7/5/2028
   probation_date: ''
 training_records:
 - date: 5/25/2023
@@ -3904,14 +3904,6 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/19/2009

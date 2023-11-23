@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/17/2023
+  course: BNP1963A
+  title: IACP Training
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
 - date: 9/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

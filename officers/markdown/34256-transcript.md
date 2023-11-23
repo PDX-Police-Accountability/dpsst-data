@@ -43,12 +43,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/7/2023 | BVP1084A | September Range | Passed | 0.0 | 3.00 |
 | 9/1/2023 | BVP4197A | BWC | Passed | 0.0 | 0.50 |
 | 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 6/14/2023 | BVP3258A | ICS Scenario | Passed | 0.0 | 2.00 |
 | 6/14/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |
 | 6/9/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
+| 4/6/2023 | BVP3077A | April Range 2023 | Passed | 0.0 | 3.00 |
 | 3/23/2023 | BVP3377A | CIT Ernie and Joe | Passed | 0.0 | 3.50 |
 | 3/2/2023 | BVP3585A | Narcan Deployment | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
