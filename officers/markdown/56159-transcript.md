@@ -44,6 +44,9 @@
 | 8/19/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/19/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 7/27/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/21/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 7/21/2023 | PDP1696A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
 | 7/8/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/8/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/8/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
@@ -75,7 +78,6 @@
 | 3/27/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/27/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/27/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/17/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/17/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/9/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |

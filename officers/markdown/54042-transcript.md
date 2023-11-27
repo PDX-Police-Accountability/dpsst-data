@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
 | 10/4/2023 | OCS3632A | June/July/August/Sept 2023 Monthly Firearms | Passed | 0.0 | 4.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

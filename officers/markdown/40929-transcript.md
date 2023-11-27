@@ -36,7 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2023 | PDP0543A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 10/15/2023 | HSU4019A | In- Service Firearms | Instructed | 0.0 | 8.00 |
+| 10/11/2023 | PDP2665A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 30.00 |
+| 10/10/2023 | PDP2137A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 10/10/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -87,7 +91,6 @@
 | 5/8/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 5/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 5/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 5/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 5/4/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 27.00 |
 | 4/25/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
 | 4/25/2023 | PDP1421A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |

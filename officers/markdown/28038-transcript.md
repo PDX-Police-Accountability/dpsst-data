@@ -58,6 +58,7 @@
 | 11/15/2022 | PDS22981 | Naloxone Training | Passed | 0.0 | 0.50 |
 | 9/22/2022 | PDS42874 | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/22/2022 | PDS22313 | Firearms Training | Passed | 0.0 | 3.00 |
+| 8/12/2022 | PDS2870A | Flying While Armed | Passed | 0.0 | 1.00 |
 | 7/26/2022 | PDS44753 | Ethics | Passed | 0.0 | 1.00 |
 | 7/22/2022 | PDS10376 | Force Entry | Passed | 0.0 | 2.00 |
 | 6/14/2022 | PDS03693 | Less Lethal | Passed | 0.0 | 2.00 |

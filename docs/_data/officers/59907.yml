@@ -9,12 +9,6 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
-- date: 4/25/2023
-  agency: Portland Police Bureau
-  action: LOA
-  rank: Police Off
-  classification: ''
-  assignment: ''
 - date: 7/18/2019
   agency: Portland Police Bureau
   action: Hired
@@ -96,6 +90,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/20/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/20/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/13/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -1753,18 +1759,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/22/2023
   expiration_date: 6/22/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/6/2021
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/15/2020

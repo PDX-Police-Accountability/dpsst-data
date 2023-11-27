@@ -42,6 +42,8 @@
 | 10/2/2023 | PDP1736A | 2023-2 All Sworn In-Service PP Force | Passed | 0.0 | 1.50 |
 | 10/2/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
 | 10/2/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
+| 10/2/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
+| 10/2/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
 | 9/21/2023 | PDP0619A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
 | 9/13/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/13/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

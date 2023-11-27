@@ -40,6 +40,7 @@
 | 8/23/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 8/23/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 8/17/2023 | PDP4308A | 2023 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 20.00 |
 | 8/9/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 7/29/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/13/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -62,7 +63,6 @@
 | 4/10/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/10/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/10/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/10/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/6/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
 | 4/1/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/31/2023 | PDP16665 | CPR/First Aid | Passed | 0.0 | 1.75 |

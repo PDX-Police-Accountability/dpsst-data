@@ -101,6 +101,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/23/2023
+  course: BVP0934A
+  title: City of Beaverton Ethics in  Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/7/2023
   course: BVP1084A
   title: September Range
@@ -4508,8 +4520,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/23/2022

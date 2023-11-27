@@ -1,0 +1,64 @@
+---
+header_record:
+  name: Sushak, Josiah K.
+  dpsst_identifier: '64650'
+  agency: Portland Police Bureau
+  employment_status: Active
+  rank: Police Officer
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 10/12/2023
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 10/12/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 4/12/2025
+training_records:
+- date: 4/12/2025
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 11/27/2023
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
+- date: 10/17/2023
+  course: PDP0199A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2023
+  course: PDP1244A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2023
+  course: PDP1809A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2023
+  course: PDP2578A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+attribute_records: []
+education_records: []

@@ -38,6 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | PDP0423A | 2023 Supevisor In-Service SSD | Passed | 0.0 | 1.00 |
+| 10/27/2023 | PDP2332A | 2023 Supevisor In-Service EAP | Passed | 0.0 | 1.00 |
+| 10/27/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |
+| 10/27/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/27/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
 | 9/26/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
@@ -88,7 +94,6 @@
 | 1/17/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/17/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/17/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/17/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/13/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP43962 | 2023-1 Range Qualification Secondary FA (25 Round) | Passed | 0.0 | 0.50 |
 | 1/12/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |

@@ -104,7 +104,7 @@ certification_records:
 - status_date: 12/30/2016
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 3/5/2010
   expiration_date: ''
   probation_date: ''
@@ -118,18 +118,42 @@ certification_records:
 - status_date: 4/4/2011
   certificate: Corrections Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 12/1/2006
   expiration_date: ''
   probation_date: ''
 - status_date: 4/4/2011
   certificate: Corrections Officer
   level: Intermediate
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 10/22/2007
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/31/2023
+  course: LGS4346A
+  title: 'Anti-Bias Training for LE (P1 Academy, #CULT104)'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2023
+  course: LGS0652A
+  title: 'Ethics In Law Enforcement (P1 Academy #ETHIC101)'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2023
+  course: LGS2366A
+  title: Crisis Intervention Training (CIT) (P1 Academy)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2023
   course: LGS2112A
   title: Juvenile Law Update
@@ -142,6 +166,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 8/25/2023
+  course: LGS0393A
+  title: Taser 7 Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/23/2023
+  course: LGS1852A
+  title: Taser 7 Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/23/2023
+  course: LGS1852A
+  title: Taser 7 Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/10/2023
   course: REG2133A
   title: Handgun IDC
@@ -166,6 +208,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '30.00'
+- date: 5/17/2023
+  course: LGS3174A
+  title: Patrol Pistol Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/5/2023
   course: VND0329A
   title: OSMB Marine Law Enforcement Academy
@@ -3065,6 +3113,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/9/2023
@@ -3076,7 +3128,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/21/2006

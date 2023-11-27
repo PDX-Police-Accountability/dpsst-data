@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: HBS1720A
+  title: Confronting Bias Through justice and Healing
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

@@ -37,6 +37,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2023 | PDP1456A | 2023 PPB Honor Guard 21 Gun/Rifle IS | Passed | 0.0 | 10.00 |
+| 10/30/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
+| 10/30/2023 | PDP0423A | 2023 Supevisor In-Service SSD | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP2332A | 2023 Supevisor In-Service EAP | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/30/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/26/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/16/2023 | PDP2970A | 2023 Body Worn Camera Policy Recording with KC | Passed | 0.0 | 1.00 |
+| 10/2/2023 | PDP0990A | 2023  Evidence Basics for Use of Force Invest. | Passed | 0.0 | 1.50 |
 | 9/28/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
@@ -47,6 +58,9 @@
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/21/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 7/21/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 7/21/2023 | PDP1696A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
 | 7/15/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/15/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/15/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
@@ -69,7 +83,6 @@
 | 5/10/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 5/10/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 5/10/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 5/10/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/14/2023 | MISCMAIN | 2022 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |

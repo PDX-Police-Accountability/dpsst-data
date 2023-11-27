@@ -34,10 +34,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2023 | PDP1626A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 11/1/2023 | PDP1626A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/27/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP1497A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/18/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/18/2023 | PDP2772A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 10/11/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/4/2023 | PDP0389A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/26/2023 | PDP4377A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/26/2023 | PDP4377A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/20/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/13/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/13/2023 | PDP2772A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
@@ -45,6 +52,7 @@
 | 9/6/2023 | PDP2355A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 9/6/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 8/30/2023 | PDP4377A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 8/23/2023 | PDP3789A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
@@ -100,7 +108,6 @@
 | 3/13/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/13/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/13/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/13/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/12/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/12/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/10/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

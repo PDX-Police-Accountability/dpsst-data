@@ -32,6 +32,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2023 | PDP1135A | 2023 40mm Less Lethal New Operator Training | Passed | 0.0 | 18.00 |
+| 11/2/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
+| 11/2/2023 | PDP4482A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 11/2/2023 | PDP2093A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 11/2/2023 | PDP3828A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 11/2/2023 | PDP2405A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
+| 11/2/2023 | PDP0670A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |
+| 11/1/2023 | PDP3984A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 11/1/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 11/1/2023 | PDP0120A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
+| 11/1/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
+| 11/1/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
+| 11/1/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 10/19/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 9/26/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -41,6 +55,7 @@
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 8/30/2023 | PDP0212A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 8/24/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/24/2023 | PDP0365A | 2023-2 Field Training Officer (FTO) | Passed | 0.0 | 36.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/19/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/9/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
@@ -65,7 +80,6 @@
 | 4/5/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/5/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/5/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/5/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

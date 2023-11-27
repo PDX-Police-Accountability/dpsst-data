@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2023 | PDP1456A | 2023 PPB Honor Guard 21 Gun/Rifle IS | Passed | 0.0 | 10.00 |
+| 10/13/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/13/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/13/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/13/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/3/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
@@ -61,7 +66,6 @@
 | 5/8/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 5/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 5/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 5/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/13/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/13/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

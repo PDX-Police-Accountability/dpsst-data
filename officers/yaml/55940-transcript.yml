@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2023
+  course: PDP1636A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 10/6/2023
   course: BVP1875A
   title: Complete Tactical Casualty Care
@@ -49,6 +55,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/21/2023
+  course: PDP3359A
+  title: 2023 FIT Elevated Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 7/21/2023
+  course: PDP1696A
+  title: 2023 FIT History of Street Gangs in Portland
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/21/2023
+  course: PDP0642A
+  title: 2023 FIT Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/15/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update
@@ -85,6 +109,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/15/2023
+  course: OSH1976A
+  title: Qualifications, Stress Shooting, Precision Drills
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/14/2023
+  course: OSH2698A
+  title: Decision Making, unconventional Targets/Shoot
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/13/2023
+  course: OSH3753A
+  title: Rifle Tripod, Moving Targets, Barriers
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 6/12/2023
+  course: OSH2263A
+  title: Sniper Rifle Marksmanship and Positional Drills
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/8/2023
   course: PDP0661A
   title: 2023 SERT Training - FIREARMS
@@ -229,12 +277,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 4/24/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 4/20/2023
   course: PDP1249
   title: 2023 SERT Training - ITERATION

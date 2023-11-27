@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/11/2023 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 2/1/2022 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 3/9/2015 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 10/7/2014 | Portland Police Bureau | LOA | Sergeant |  |  |
@@ -26,7 +27,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 ## Education
 | date | degree | school | major | hours |
@@ -34,6 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/30/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
+| 10/30/2023 | PDP2332A | 2023 Supevisor In-Service EAP | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP0423A | 2023 Supevisor In-Service SSD | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/23/2023 | PDP0990A | 2023  Evidence Basics for Use of Force Invest. | Passed | 0.0 | 1.50 |
 | 10/18/2023 | PDP3873A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/26/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |

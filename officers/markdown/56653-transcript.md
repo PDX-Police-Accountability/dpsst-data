@@ -25,7 +25,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Signed | 8/23/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -47,6 +46,8 @@
 | 9/27/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
 | 9/27/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 9/27/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 9/27/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 9/27/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/26/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP0619A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
@@ -99,7 +100,6 @@
 | 2/15/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/15/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/15/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/15/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 2/14/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/19/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |

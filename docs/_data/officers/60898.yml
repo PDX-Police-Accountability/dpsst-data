@@ -24,6 +24,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: PDP0725A
+  title: 2023-2 All Sworn In-Service ABLE Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP4482A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/26/2023
+  course: PDP2093A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/26/2023
+  course: PDP2405A
+  title: 2023-2 All Sworn In-Service Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/26/2023
+  course: PDP3828A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/26/2023
+  course: PDP0670A
+  title: 2023-2 All Sworn In-Service PP Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/25/2023
+  course: PDP3984A
+  title: 2023-2 All Sworn In-Service Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/25/2023
+  course: PDP2793A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/25/2023
+  course: PDP0120A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2023
+  course: PDP4523A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/25/2023
+  course: PDP1908A
+  title: 2023-2 All Sworn In-Service TII Equity 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/25/2023
+  course: PDP1415A
+  title: 2023-2 All Sworn In-Service TII Equity 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/15/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -288,12 +360,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/13/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

@@ -50,6 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2023
+  course: PDP1456A
+  title: 2023 PPB Honor Guard 21 Gun/Rifle IS
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/13/2023
+  course: PDP1738A
+  title: 2022-10 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2023
+  course: PDP2117A
+  title: 2022-11 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2023
+  course: PDP1181A
+  title: 2022-12 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/13/2023
+  course: PDP0087A
+  title: 2022-9 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2023
   course: PDP0934A
   title: 2023 Portland Community Justice Partnership
@@ -206,12 +236,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/8/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 4/14/2023
   course: PDP4344A
   title: 2023 PPB Honor Guard In Service Training

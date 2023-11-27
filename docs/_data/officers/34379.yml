@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/6/2023
+  course: PPP1264A
+  title: CPR/FirstAid/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2023
+  course: PPP1750A
+  title: Ethical Behavior for Local Government
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/30/2023
   course: PPP1931A
   title: Terrorism 1
@@ -2032,13 +2050,21 @@ training_records:
   hours: '8.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 11/6/2023
+  expiration_date: 11/6/2025
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 11/8/2021

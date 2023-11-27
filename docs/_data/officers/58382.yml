@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2023
+  course: OCS1690A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: OCS2343A
+  title: Force on Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/4/2023
   course: OCS3719A
   title: Use of Force/De-escalation K9 unit training
@@ -61,12 +73,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/12/2023
+  course: OCS4091A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/21/2023
   course: OCS1318A
   title: Resiliency Training by Dr. Conn
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/17/2023
+  course: OCS2082A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 4/28/2023
   course: OCS0348A
   title: Ground Fighting

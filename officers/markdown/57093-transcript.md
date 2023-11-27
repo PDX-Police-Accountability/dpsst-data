@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/7/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 6/15/2021 | Portland Police Bureau | LOA | Police Off |  |  |
 | 12/19/2018 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 8/30/2018 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -36,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/28/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/10/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 10/10/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 10/10/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
@@ -46,6 +49,8 @@
 | 10/9/2023 | PDP1736A | 2023-2 All Sworn In-Service PP Force | Passed | 0.0 | 1.50 |
 | 10/9/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 10/9/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 10/9/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 10/9/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/25/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -58,6 +63,9 @@
 | 8/10/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/22/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/21/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 7/21/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
+| 7/21/2023 | PDP1696A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
 | 7/15/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 6/20/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/17/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
@@ -89,7 +97,6 @@
 | 3/27/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/27/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/27/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/27/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/26/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/8/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 3/5/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

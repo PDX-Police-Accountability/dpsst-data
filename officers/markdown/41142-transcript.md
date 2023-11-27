@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2023 | PDP0942A | 2023 Training PS3 Support Specialist Coach School | Passed | 0.0 | 8.00 |
 | 3/16/2022 | PDP2901A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 3/9/2022 | PDP06390 | 2021-10 City Attorney's Legal Update for Oct. 2021 | Passed | 0.0 | 0.25 |
 | 3/9/2022 | PDP10575 | 2022 EAP-Crisis Planning | Passed | 0.0 | 0.25 |

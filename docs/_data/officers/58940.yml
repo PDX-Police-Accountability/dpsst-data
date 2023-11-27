@@ -22,6 +22,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/31/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 8/20/2019
   certificate: Police Officer
   level: Basic
@@ -264,12 +271,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 4/3/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/31/2023
   course: PDP04838
   title: 2023 Microsoft Cloud Storage w/ OD and SP

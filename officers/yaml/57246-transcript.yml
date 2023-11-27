@@ -43,6 +43,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/26/2023
+  course: STN1543A
+  title: DV Week Day 4
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
+- date: 10/25/2023
+  course: STN1460A
+  title: Domestic Violence Week Day 3
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/24/2023
+  course: STN4284A
+  title: Domestic Violence Week Day 2
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/23/2023
+  course: STN2072A
+  title: Domestic Violence Week Day 1
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/13/2023
+  course: HBN2396A
+  title: Active Shooter Prevention and Response
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/12/2023
+  course: HBN2451A
+  title: Connection Between Personal  Organizational Ethic
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 8/25/2023
   course: HBN1249A
   title: Defensive Tactics/Use of Force/Report Writing
@@ -818,6 +860,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/25/2023
@@ -825,7 +871,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023

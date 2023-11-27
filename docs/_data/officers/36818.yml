@@ -51,6 +51,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2023
+  course: PDP0677A
+  title: 2023 Supevisor In-Service Detectives
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2023
+  course: PDP0054A
+  title: 2023 Supevisor In-Service Knowledge Check/Survey
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2023
+  course: PDP1020A
+  title: 2023 Supevisor In-Service Elation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2023
+  course: PDP0423A
+  title: 2023 Supevisor In-Service SSD
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2023
+  course: PDP3431A
+  title: 2023 Supevisor In-Service Chief's Office Disc.
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2023
+  course: PDP2332A
+  title: 2023 Supevisor In-Service EAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/29/2023
   course: PDP1464A
   title: 2023 BWC IA IG IPR Axon Online Recorded Training
@@ -381,12 +417,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 1/23/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 1/19/2023
   course: PDP16862
   title: DIR 0635.10 PPB Response to Public Order Events

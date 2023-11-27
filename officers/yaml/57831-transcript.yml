@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/22/2023
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 6/2/2021
   agency: Portland Police Bureau
   action: LOA
@@ -42,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/5/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -102,6 +114,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 10/4/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/4/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/14/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -540,12 +564,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/15/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 5/13/2022
   course: PDP16854
   title: 2022-2 Range Qualification Primary Firearm
@@ -2251,6 +2269,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/3/2023
@@ -2262,7 +2284,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/23/2018

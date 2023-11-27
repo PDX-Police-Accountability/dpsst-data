@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/14/2023 | Portland Police Bureau | LOA | Police Off |  |  |
 | 12/9/2021 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/18/2019 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -20,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/14/2023 | Police Officer | Basic | Reactivate | 1/19/2021 |  |  |
+| 2/14/2023 | Police Officer | Basic | Reactivatd | 1/19/2021 |  |  |
 | 10/7/2019 | Corrections Officer | Basic | Lapsed | 4/23/2018 | 7/7/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

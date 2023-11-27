@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/27/2023 | Portland Police Bureau | Return LOA | Lieutenant |  |  |
 | 10/13/2022 | Portland Police Bureau | LOA | Lieutenant |  |  |
 | 10/29/2020 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 9/21/2006 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -32,8 +33,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/4/2023 | 10/4/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2025 |
 | Code of Ethics | Signed | 2/15/2012 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 8/17/2023 |
 ## Education
@@ -45,9 +47,34 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1401A | FIN-6.14  with KC | Passed | 0.0 | 0.25 |
 | 10/12/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 10/12/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 10/12/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 10/11/2023 | PDP0589A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 10/11/2023 | PDP2634A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP0526A | 2022-12 CAO Case Law Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP3272A | 2022-5 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP0443A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 10/4/2023 | PDP0940A | 2021-9 Tips and Techniques Dangers of Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/4/2023 | PDP3318A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/4/2023 | PDP0336A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP2624A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 10/4/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP1066A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 10/2/2023 | PDP3033A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 10/2/2023 | PDP2227A | 2023-1 In Service Crwd Mgmt Baton Online Recording | Passed | 0.0 | 0.50 |
+| 10/2/2023 | PDP3583A | 2023-1 In Service MFF_Formations Online Recording | Passed | 0.0 | 1.00 |
+| 10/2/2023 | PDP2188A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 10/2/2023 | PDP3130A | 2023-1 In Service Arrest Proc. Online Recording | Passed | 0.0 | 0.50 |
 | 9/30/2023 | PDP3868A | 2023-1 In Service Crowd Mgmt Legal Updates | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDP2946A | 2023-1 In Service Crowd Mgmt Use of Force 40mm | Passed | 0.0 | 0.50 |
 | 9/30/2023 | PDP1778A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
@@ -55,6 +82,13 @@
 | 9/30/2023 | PDP0103A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
 | 9/30/2023 | PDP0137A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
 | 9/30/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 9/30/2023 | PDP2137A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 9/30/2023 | PDP2353A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 9/30/2023 | PDP1098A | 2023-1 In Service Crwd Mgmt Legal Online Recording | Passed | 0.0 | 2.00 |
+| 9/30/2023 | PDP1675A | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
+| 9/30/2023 | PDP3118A | 2023-1 In Service IA Online Recording | Passed | 0.0 | 0.50 |
+| 9/30/2023 | PDP0197A | 2023-1 In Service OPS PlanvsSpont Online Recording | Passed | 0.0 | 0.50 |
+| 9/30/2023 | PDP2658A | 2023-1 InService Crwd Mgmt 40mmOC Online Recording | Passed | 0.0 | 0.50 |
 | 9/29/2023 | PDP3114A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
 | 9/29/2023 | PDP2843A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
 | 9/29/2023 | PDP4232A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

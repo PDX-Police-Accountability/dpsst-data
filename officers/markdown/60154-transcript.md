@@ -21,8 +21,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/23/2023 | 5/23/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 12/29/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 10/7/2019 |  |
 ## Education
@@ -31,6 +32,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/13/2023 | PDP3984A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 11/13/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 11/13/2023 | PDP0120A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
+| 11/13/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
+| 11/13/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
+| 11/13/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 11/12/2023 | PDP1135A | 2023 40mm Less Lethal New Operator Training | Passed | 0.0 | 18.00 |
 | 9/5/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 9/5/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
@@ -66,7 +75,6 @@
 | 2/8/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 2/6/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 2/6/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |

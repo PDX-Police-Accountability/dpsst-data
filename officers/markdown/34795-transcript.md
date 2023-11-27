@@ -26,7 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 3/10/2004 |  |
@@ -40,7 +41,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
+| 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
+| 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
 | 9/21/2023 | OCS3387A | 3rd Quarter Corrections Firearms | Passed | 0.0 | 4.00 |
+| 9/13/2023 | OCS3861A | Scenarios and Deescalation | Passed | 0.0 | 1.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/2/2023 | OCS0377A | Vehicle Ambush | Passed | 0.0 | 1.00 |
 | 7/25/2023 | OCS3701A | June/July 2023 Monthly Firearms w/pistol/rifle | Passed | 0.0 | 3.00 |
@@ -52,6 +58,7 @@
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 5/24/2023 | HDA0288 | Tri-State Narcotics Supervisors/Commanders Summit | Passed | 0.0 | 16.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/3/2023 | CAP19868 | VCQB / High Risk Vehicle Stop Firearms | Passed | 0.0 | 3.00 |

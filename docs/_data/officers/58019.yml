@@ -3,12 +3,18 @@ header_record:
   name: Patan, Ioan A.
   dpsst_identifier: '58019'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Reserve Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/1/2020
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 8/23/2017
   agency: Portland Police Bureau
   action: Hired

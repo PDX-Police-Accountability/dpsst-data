@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2023 | PDP3596A | 2023 K-9 Weekly Training | Instructed | 0.0 | 4.50 |
 | 10/5/2023 | PDP1797A | 2023 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 9/3/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
@@ -91,7 +92,6 @@
 | 3/15/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/15/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/15/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/7/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |

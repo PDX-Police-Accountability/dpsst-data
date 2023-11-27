@@ -40,6 +40,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/18/2023 | PDP1401A | FIN-6.14  with KC | Passed | 0.0 | 0.25 |
+| 10/12/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
+| 10/12/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |
+| 10/12/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/12/2023 | PDP0423A | 2023 Supevisor In-Service SSD | Passed | 0.0 | 1.00 |
+| 10/12/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/12/2023 | PDP2332A | 2023 Supevisor In-Service EAP | Passed | 0.0 | 1.00 |
+| 10/2/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/2/2023 | PDP0990A | 2023  Evidence Basics for Use of Force Invest. | Passed | 0.0 | 1.50 |
 | 9/18/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/8/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
@@ -87,7 +96,6 @@
 | 1/13/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/3/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 1/3/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
-| 1/3/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 12/21/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 12/16/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/7/2022 | PDP44436 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

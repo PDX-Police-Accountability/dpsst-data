@@ -37,6 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/27/2023 | GSP0625A | Barricaded Incident Debrief | Passed | 0.0 | 4.00 |
+| 10/26/2023 | GSP1671A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
+| 10/25/2023 | GSP4221A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
+| 10/24/2023 | GSP4481A | Area Search and K9 Apprehension | Passed | 0.0 | 8.00 |
+| 10/23/2023 | GSP2235A | IP Decision Making, Armor, HRT Command and Control | Instructed | 0.0 | 8.00 |
 | 10/18/2023 | PDP3873A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/26/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 9/26/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
@@ -48,6 +54,8 @@
 | 9/25/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
 | 9/25/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 9/25/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 9/25/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 9/25/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/21/2023 | PDP0619A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
 | 9/20/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/20/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
@@ -102,7 +110,6 @@
 | 2/14/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/14/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/14/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
-| 2/14/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 2/13/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 2/13/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 2/13/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |

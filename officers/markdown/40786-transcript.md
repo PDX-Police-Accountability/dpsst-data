@@ -4,7 +4,7 @@
 | name | Fleury, Philip A. |
 | dpsst_identifier | 40786 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Reserve Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/1/2020 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 5/29/2001 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

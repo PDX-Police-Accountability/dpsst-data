@@ -58,12 +58,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 10/14/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '10.00'
-- date: 10/14/2023
   course: PDS0194A
   title: SWAT Sniper Training
   status: Passed
@@ -79,6 +73,12 @@ training_records:
   course: PDS2499
   title: Active Threat Range
   status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/11/2023
+  course: PDS3075A
+  title: Active Threat Range
+  status: Instructed
   score: '0.0'
   hours: '4.00'
 - date: 8/25/2023

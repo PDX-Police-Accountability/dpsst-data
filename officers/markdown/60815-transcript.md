@@ -31,6 +31,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/20/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/20/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/20/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/20/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 9/18/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
@@ -54,7 +59,6 @@
 | 4/19/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/19/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/19/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/19/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/19/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/19/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

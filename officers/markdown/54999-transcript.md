@@ -28,9 +28,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/3/2022 | 10/3/2024 |
 | Certification Cards | First Aid and CPR | 4/26/2022 | 4/26/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 | Code of Ethics | Signed | 1/11/2016 |  |
 ## Education
@@ -41,6 +42,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/9/2023 | MOS1826A | NORTAC Leadership | Passed | 0.0 | 0.50 |
+| 11/9/2023 | MOS0651A | Land Navigation and Map Reading | Passed | 0.0 | 2.00 |
+| 11/9/2023 | MOS0987A | Common Firearm Function and Disassembly | Passed | 0.0 | 1.50 |
+| 10/27/2023 | OSA0335A | OSSA Command College | Passed | 0.0 | 52.00 |
+| 10/21/2023 | HRS3388A | 3 Ways to Strength Mental Health Support | Passed | 0.0 | 1.00 |
+| 10/21/2023 | HRS3835A | What is DEI? | Passed | 0.0 | 1.00 |
+| 10/21/2023 | HRS4219A | EVOLVE Series - Diversity, Equity and Inclusion | Passed | 0.0 | 1.50 |
+| 10/21/2023 | HRS1982A | DEI - Developing a Clear Roadmap | Passed | 0.0 | 1.00 |
 | 10/12/2023 | MOS3209A | Tactical Training - Advanced Firearms Training | Passed | 0.0 | 2.50 |
 | 10/12/2023 | MOS3278A | Patrol Rifle Qualification | Passed | 0.0 | 0.50 |
 | 9/7/2023 | HRS2373A | Tactical Training-Building Search | Passed | 0.0 | 4.00 |

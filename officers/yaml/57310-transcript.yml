@@ -31,6 +31,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2023
+  course: PDP1456A
+  title: 2023 PPB Honor Guard 21 Gun/Rifle IS
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/9/2023
+  course: VND4116A
+  title: Traumatic Stress Relief-ASAP
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 10/18/2023
   course: PDP3873A
   title: 2023 CNT Crisis Negotiation Team Annual Training
@@ -391,12 +403,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/22/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 2/21/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions

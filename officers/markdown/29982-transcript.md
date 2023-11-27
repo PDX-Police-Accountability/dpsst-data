@@ -41,13 +41,23 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 11/5/2023 | SVP2866A | Senate Bill 111 Response Plan (Marion County) | Passed | 0.0 | 0.50 |
+| 10/25/2023 | SVP1283A | CPR/First Aid Certification and Card | Passed | 0.0 | 4.00 |
+| 10/24/2023 | SVP1292A | Airway (ACAP) Training | Passed | 0.0 | 2.00 |
+| 10/16/2023 | SVP1343A | OSP Crime Lab  Forensic Services Update | Passed | 0.0 | 0.25 |
 | 10/11/2023 | HUP2527A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 10/6/2023 | SVP0012A | Remington 870 Less Lethal Shotgun | Passed | 0.0 | 0.50 |
 | 10/3/2023 | SVP1804A | Urban Rifle Training (Power Point) | Passed | 0.0 | 0.50 |
 | 10/1/2023 | SVP0552A | Suicide by Cop | Passed | 0.0 | 1.00 |
 | 9/28/2023 | SVP0299A | Rifle Range Qualification  Training | Passed | 0.0 | 4.00 |
+| 9/28/2023 | F6R1760A | ICAT | Passed | 0.0 | 2.00 |
+| 9/28/2023 | F6R1353A | Police Resiliency  Critical Incident Mindset | Passed | 0.0 | 3.00 |
+| 9/28/2023 | F6R1902A | Raising the Standards of Resiliency | Passed | 0.0 | 2.00 |
+| 9/28/2023 | F6R1285A | Cyber Threats | Passed | 0.0 | 1.00 |
 | 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
+| 9/27/2023 | F6R1747A | Mitigating Potential Law Enforcement Risk | Passed | 0.0 | 2.00 |
+| 9/27/2023 | F6R3087A | RITE for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/17/2023 | SVP3131A | De-Escalation and Minimizing Use of Force | Passed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/12/2023 | SVP0222A | MILO Training/Use of Force Decision Making | Passed | 0.0 | 1.00 |

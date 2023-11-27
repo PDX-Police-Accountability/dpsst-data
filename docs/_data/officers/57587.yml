@@ -28,21 +28,27 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/31/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: App Incmpl
+  certificate_date: ''
+  expiration_date: 12/31/2023
+  probation_date: ''
 - status_date: 9/28/2023
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 9/4/2018
   expiration_date: ''
   probation_date: ''
-- status_date: 9/27/2023
-  certificate: Police Officer
-  level: Intermediate
-  status: App Recd
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 2/3/2025
 training_records:
+- date: 10/30/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/18/2023
   course: PDP0934A
   title: 2023 Portland Community Justice Partnership

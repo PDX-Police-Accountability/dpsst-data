@@ -39,7 +39,21 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/31/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
+| 10/31/2023 | PDP4482A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 10/31/2023 | PDP2093A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 10/31/2023 | PDP2405A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
+| 10/31/2023 | PDP3828A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 10/31/2023 | PDP0670A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |
+| 10/30/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 10/30/2023 | PDP3984A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 10/30/2023 | PDP0120A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
+| 10/30/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 10/10/2023 | PDP0162A | Motorcade Training | Passed | 0.0 | 6.00 |
+| 10/1/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/1/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

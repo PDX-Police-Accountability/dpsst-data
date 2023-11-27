@@ -24,6 +24,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2023
+  course: PDP1636A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/26/2023
+  course: PDP1481A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/19/2023
+  course: PDP4216A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/12/2023
+  course: PDP4301A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/6/2023
+  course: PDP0719A
+  title: CMC Rope Rescue Technician I/II
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 9/26/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -84,6 +114,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 9/25/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/25/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/24/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -132,6 +174,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/30/2023
+  course: PDP1083A
+  title: 2023 FIT Surveillance and Follows
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 8/24/2023
   course: PDP2106A
   title: 2023 SERT Training - Iteration
@@ -156,6 +204,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/4/2023
+  course: PDP3359A
+  title: 2023 FIT Elevated Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 8/4/2023
+  course: PDP2256A
+  title: 2023 FIT Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/4/2023
+  course: PDP1537A
+  title: 2023 FIT History of Street Gangs in Portland
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/3/2023
   course: PDP2129A
   title: 2023 SERT Training - ITERATION
@@ -342,12 +408,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/3/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 4/27/2023
   course: PDP0829
   title: 2023 SERT Training - FIREARMS

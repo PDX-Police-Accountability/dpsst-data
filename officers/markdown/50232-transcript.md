@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/30/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/19/2023 | PDP4028A | 2023 Training PVO PIT/Box-In Refresher | Instructed | 0.0 | 2.00 |
 | 9/7/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 9/7/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
@@ -52,6 +54,8 @@
 | 8/9/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/1/2023 | PDP1736A | 2023-2 All Sworn In-Service PP Force | Passed | 0.0 | 1.50 |
 | 8/1/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
+| 8/1/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 8/1/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 7/27/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 1.00 |
 | 7/19/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/17/2023 | PDP0216A | 2023 Training PVO Precision Movement Course | Instructed | 0.0 | 2.50 |
@@ -96,7 +100,6 @@
 | 1/25/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 1/25/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/25/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/25/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/13/2023 | PDP15969 | 2021 PIO Photos for Social Media | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP37869 | 2021 PIO Twitter Basics | Passed | 0.0 | 0.25 |
 | 1/13/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |

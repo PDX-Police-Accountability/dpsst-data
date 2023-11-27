@@ -37,6 +37,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/17/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |
+| 10/17/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/17/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/17/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
+| 10/17/2023 | PDP2332A | 2023 Supevisor In-Service EAP | Passed | 0.0 | 1.00 |
+| 10/17/2023 | PDP0423A | 2023 Supevisor In-Service SSD | Passed | 0.0 | 1.00 |
+| 10/2/2023 | PDP0990A | 2023  Evidence Basics for Use of Force Invest. | Passed | 0.0 | 1.50 |
 | 9/29/2023 | PDP2242A | 2023 Body-Worn Camera Axon User Training | Passed | 0.0 | 1.50 |
 | 9/29/2023 | PDP1393A | 2023 Body-Worn Camera Records Axon Training | Passed | 0.0 | 1.00 |
 | 9/27/2023 | PDP0516A | 2023 Body-Worn Camera (BWC) Policy Online | Passed | 0.0 | 1.00 |
@@ -87,7 +94,6 @@
 | 1/17/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/17/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/17/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/17/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/5/2023 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/5/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |
 | 1/5/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |

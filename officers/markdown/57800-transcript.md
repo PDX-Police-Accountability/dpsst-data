@@ -32,6 +32,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/30/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/4/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/4/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/16/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/8/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
@@ -55,7 +63,6 @@
 | 5/10/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 5/10/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 5/10/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 5/10/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/31/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP40178 | 2023 Microsoft Teams Recorded Training | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

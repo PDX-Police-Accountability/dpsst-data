@@ -50,6 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2023
+  course: GSP0625A
+  title: Barricaded Incident Debrief
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/26/2023
+  course: GSP1671A
+  title: Barricade Resolution,Breaching, and HRT Response
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/25/2023
+  course: GSP4221A
+  title: Barricade Resolution,Breaching, and HRT Response
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/24/2023
+  course: GSP4481A
+  title: Area Search and K9 Apprehension
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/23/2023
+  course: GSP2235A
+  title: IP Decision Making, Armor, HRT Command and Control
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/5/2023
   course: HBS1709A
   title: Con-Sim Building Search

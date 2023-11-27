@@ -35,6 +35,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
+| 10/19/2023 | PDP4482A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 10/19/2023 | PDP2093A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 10/19/2023 | PDP2405A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
+| 10/19/2023 | PDP3828A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 10/19/2023 | PDP0670A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |
+| 10/18/2023 | PDP3984A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 10/18/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 10/18/2023 | PDP0120A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
+| 10/18/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
+| 10/18/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
+| 10/18/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 9/27/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
 | 9/19/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
@@ -74,7 +86,6 @@
 | 3/20/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/20/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/20/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/20/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 2/16/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/15/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/15/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |

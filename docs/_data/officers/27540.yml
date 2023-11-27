@@ -101,12 +101,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/11/2023
+  course: WLP1330A
+  title: Active Threat Response - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 9/30/2023
   course: WLP3848A
   title: Becoming a Leader in Law Enforcement
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/28/2023
+  course: F6R1760A
+  title: ICAT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2023
+  course: F6R1902A
+  title: Raising the Standards of Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/27/2023
   course: HUP3554A
   title: OACP Board Meeting
@@ -116,6 +140,18 @@ training_records:
 - date: 9/27/2023
   course: HUP3615A
   title: OACP/OSSA Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: F6R1747A
+  title: Mitigating Potential Law Enforcement Risk
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: F6R3087A
+  title: RITE for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -3902,8 +3938,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022

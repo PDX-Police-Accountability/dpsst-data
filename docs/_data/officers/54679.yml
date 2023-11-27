@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2023
+  course: OSH2823A
+  title: ARIDE
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/21/2023
   course: MLP3516A
   title: Defensive Tactics

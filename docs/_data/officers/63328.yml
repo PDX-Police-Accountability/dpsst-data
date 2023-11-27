@@ -30,6 +30,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/26/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2023
+  course: PDP2322A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 9/6/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -451,6 +469,10 @@ training_records:
   score: '0.0'
   hours: '0.25'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/11/2023
+  expiration_date: 10/11/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/23/2023

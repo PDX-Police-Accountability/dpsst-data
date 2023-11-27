@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/12/2023 | PSU1614A | MILO 3000 | Passed | 0.0 | 0.00 |
+| 8/31/2023 | PSU0247A | Intro to Trauma Informed Care | Passed | 0.0 | 1.50 |
 | 4/25/2023 | PSU12438 | Ethics In Law Enforcement | Passed | 0.0 | 0.00 |
 | 4/25/2023 | PSU28152 | Legal aspects - Use of force | Passed | 0.0 | 0.00 |
 | 4/24/2023 | PSU34264 | Marksmanship/Shooting  Moving/Target Transitions | Passed | 0.0 | 0.00 |

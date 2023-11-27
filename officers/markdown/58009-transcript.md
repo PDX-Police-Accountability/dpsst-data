@@ -33,6 +33,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/28/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/28/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 9/1/2023 | HDA2069A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |
 | 8/23/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 8/23/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
@@ -40,6 +46,9 @@
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/15/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/3/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/21/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 7/21/2023 | PDP1696A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
 | 7/20/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/5/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 6/29/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
@@ -61,7 +70,6 @@
 | 4/12/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/12/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/12/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/29/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/29/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

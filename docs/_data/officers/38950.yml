@@ -101,12 +101,72 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2023
+  course: HBS0505A
+  title: 2023 November In-Service IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/10/2023
+  course: HBS4034A
+  title: 2023 November In-Service EVO
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/10/2023
+  course: HBS3234A
+  title: 2023 November In-Service Brazos E-Ticket
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/3/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/31/2023
+  course: HBS0191A
+  title: Mental Health  Wellness Policing Summit
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 10/19/2023
+  course: HBS2649A
+  title: Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 9/30/2023
+  course: HBS4339A
+  title: Security Awareness Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/23/2023
+  course: HBS1930A
+  title: Cautious Clears with K9's
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 8/23/2023
+  course: HBS1718A
+  title: Live Shoothouse
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 8/22/2023
   course: OCS4175A
   title: Advanced Leadership for a Police Reform Era
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 8/22/2023
+  course: HBS3126A
+  title: Search Warrant Slow Clear Tactics
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/16/2023
   course: HBS1605A
   title: Active Threat
@@ -2988,6 +3048,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: CPR
   effective_date: 1/31/2023
@@ -2995,7 +3059,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid
   effective_date: 2/28/2022

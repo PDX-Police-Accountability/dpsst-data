@@ -19,10 +19,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/7/2023 | Police Officer | Advanced | Reactivate | 1/10/2008 |  |  |
-| 9/7/2023 | Police Officer | Basic | Reactivate | 12/28/1994 |  |  |
-| 9/7/2023 | Police Officer | Intermediate | Reactivate | 1/10/2008 |  |  |
-| 9/7/2023 | Police Officer | Supervisory | Reactivate | 2/6/2008 |  |  |
+| 9/7/2023 | Police Officer | Advanced | Reactivatd | 1/10/2008 |  |  |
+| 9/7/2023 | Police Officer | Basic | Reactivatd | 12/28/1994 |  |  |
+| 9/7/2023 | Police Officer | Intermediate | Reactivatd | 1/10/2008 |  |  |
+| 9/7/2023 | Police Officer | Supervisory | Reactivatd | 2/6/2008 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

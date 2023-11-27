@@ -28,7 +28,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/12/2022 | 4/12/2024 |
 | Code of Ethics | Law Enforcement Signed | 3/5/2018 |  |
 | Code of Ethics | Signed | 8/14/2016 |  |
@@ -40,6 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/15/2023 | CAP3765A | Low Light / VCQB | Instructed | 0.0 | 4.00 |
+| 11/1/2023 | CAP0862A | Ethics In Law Enforcement (PoliceOne Academy) | Passed | 0.0 | 1.00 |
+| 10/4/2023 | CAP2134A | Low Light / VCQB | Instructed | 0.0 | 4.00 |
 | 9/13/2023 | CAP0876A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3894A | The C.A.L.M Approach | Passed | 0.0 | 2.00 |
 | 9/13/2023 | CAP3939A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |

@@ -18,15 +18,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 | 10/17/2023 |  |
-| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 | 10/17/2023 |  |
-| 5/5/1999 | Police Officer | Basic | Granted | 5/5/1999 | 10/17/2023 |  |
+| 10/17/2023 | Police Officer | Advanced | Lapsed | 11/22/2010 | 7/17/2028 |  |
+| 10/17/2023 | Police Officer | Basic | Lapsed | 5/5/1999 | 7/17/2028 |  |
+| 10/17/2023 | Police Officer | Intermediate | Lapsed | 11/22/2010 | 7/17/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 11/22/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -56,7 +54,6 @@
 | 3/29/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/29/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/29/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/19/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/19/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/19/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

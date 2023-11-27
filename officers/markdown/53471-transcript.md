@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/24/2023 | PDP1433A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
+| 10/24/2023 | PDP0016A | After Action Reports PowerPoint | Passed | 0.0 | 0.50 |
 | 10/5/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 10/5/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 10/5/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
@@ -46,9 +48,13 @@
 | 10/4/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
 | 10/4/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 10/4/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 10/4/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 10/4/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
+| 10/1/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/21/2023 | PDP1454A | 2023 Traffic Intoxilyzer 8000 Certification | Passed | 0.0 | 6.00 |
 | 9/15/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 8/27/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |

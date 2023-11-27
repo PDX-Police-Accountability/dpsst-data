@@ -31,6 +31,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2023
+  course: PDP1636A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/26/2023
+  course: PDP1481A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/19/2023
+  course: PDP4216A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/12/2023
+  course: PDP4301A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 10/5/2023
+  course: PDP1481A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/27/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -85,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 8/30/2023
+  course: PDP1083A
+  title: 2023 FIT Surveillance and Follows
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 8/25/2023
   course: PDP2598A
   title: 2023 Force Science Methods of Instruction
@@ -115,12 +151,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/4/2023
+  course: PDP3359A
+  title: 2023 FIT Elevated Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 8/4/2023
+  course: PDP2256A
+  title: 2023 FIT Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/4/2023
+  course: PDP2256A
+  title: 2023 FIT Foot Pursuits
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/4/2023
+  course: PDP1537A
+  title: 2023 FIT History of Street Gangs in Portland
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 8/3/2023
   course: PDP2129A
   title: 2023 SERT Training - ITERATION
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/21/2023
+  course: PDP0642A
+  title: 2023 FIT Foot Pursuits
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/13/2023
   course: PDP2215A
   title: 2023 SERT Training ITERATION
@@ -211,6 +277,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/24/2023
+  course: PDP3918A
+  title: 2023 FIT Critical Incident Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/18/2023
   course: PDP0829
   title: 2023 SERT Training - FIREARMS
@@ -289,12 +361,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/8/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 5/4/2023
   course: PDP2652
   title: 2023 SERT Training - ITERATION

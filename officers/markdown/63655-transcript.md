@@ -28,6 +28,37 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/25/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/25/2023 | PDP3795A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/21/2023 | PDP2624A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 10/19/2023 | PDP0861A | 2022-3 TT Oregon Ballot 114 | Passed | 0.0 | 0.50 |
+| 10/19/2023 | PDP0443A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 10/18/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP0526A | 2022-12 CAO Case Law Updates | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP3631A | 2022-3 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP3272A | 2022-5 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP1425A | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 10/18/2023 | PDP0940A | 2021-9 Tips and Techniques Dangers of Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP3717A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/18/2023 | PDP3297A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP0313A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP4241A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
+| 10/18/2023 | PDP3033A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/18/2023 | PDP1096A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP3318A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP0589A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP0336A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP2634A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP3265A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 10/18/2023 | PDP1126A | Annual CIU NTR Alarm Response Training - RRNR | Passed | 0.0 | 0.25 |
+| 10/18/2023 | PDP0790A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 10/2/2023 | PDP2137A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 8/22/2023 | PDP1230A | FTEP Hazmat/WMD Awareness APR Gas Mask Ftng | Passed | 0.0 | 3.00 |
 | 8/17/2023 | PDP3293A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |

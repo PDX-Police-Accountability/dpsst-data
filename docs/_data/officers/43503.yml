@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/26/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/12/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -182,6 +194,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/18/2023
+  course: PDP0953A
+  title: 2023-1 All Sworn In-Service Mobile Field Force LDR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2023
+  course: PDP1482A
+  title: 2023-1 All Sworn In-Service Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/18/2023
+  course: PDP3841A
+  title: 2023-1 AS In-Service Crowd Mgmt. Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/18/2023
+  course: PDP4511A
+  title: 2023-1 All Sworn In-Service Field Arrest
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/18/2023
+  course: PDP4112A
+  title: 2023-1 AS In-Service Crowd Mgmt. Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2023
+  course: PDP2089A
+  title: 2023-1 All Sworn In-Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/17/2023
   course: PDP1243A
   title: 2023-1 All Sworn In-Service Crowd Mgmt.
@@ -206,12 +254,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 4/17/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/29/2023
   course: PDP38486
   title: 2023 New Patrol Vehicles
@@ -4077,6 +4119,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/23/2023
@@ -4088,7 +4134,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 3/21/2005

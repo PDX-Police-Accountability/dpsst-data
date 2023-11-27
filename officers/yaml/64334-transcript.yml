@@ -36,5 +36,15 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '640.00'
-attribute_records: []
+- date: 11/8/2023
+  course: PDP1154A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 11/8/2023
+  expiration_date: 11/8/2025
 education_records: []

@@ -61,12 +61,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/2/2037
-  course: PDP33795
-  title: 2017-2 In-Service TECC
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 6/1/2023
   course: VND2228A
   title: Basic Background Investigations
@@ -445,6 +439,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/2/2017
+  course: PDP33795
+  title: 2017-2 In-Service TECC
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2016
   course: F6C15902
   title: Roll Call Videos

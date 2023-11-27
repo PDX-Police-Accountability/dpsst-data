@@ -23,8 +23,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Signed | 8/4/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 10/10/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 10/10/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 10/10/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
@@ -44,6 +46,8 @@
 | 10/9/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
 | 10/9/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 10/9/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 10/9/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 10/9/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/27/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/14/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
@@ -73,7 +77,6 @@
 | 5/3/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 5/3/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 5/3/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 5/3/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/12/2023 | SAG01096 | Simplifying Financial Records Investigations | Passed | 0.0 | 15.00 |
 | 4/12/2023 | PDP2346A | Simplifying How to Obtain,Rvw,Prsnt Financ Rcrds | Passed | 0.0 | 16.00 |
 | 3/30/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

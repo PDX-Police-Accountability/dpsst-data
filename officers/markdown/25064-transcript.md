@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | MKL0299A | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/24/2023 | MKL1614A | Oregon Government Ethics Training | Passed | 0.0 | 2.50 |
 | 8/23/2023 | MKL4382 | First Aid and CPR | Passed | 0.0 | 5.00 |

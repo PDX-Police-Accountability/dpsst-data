@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/19/2023 | PDP2114A | 2023 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Instructed | 0.0 | 3.00 |
@@ -44,6 +47,7 @@
 | 8/29/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 8/29/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 8/29/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/24/2023 | PDP0365A | 2023-2 Field Training Officer (FTO) | Instructed | 0.0 | 36.00 |
 | 7/25/2023 | PDP1854A | 2023 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 7/25/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/12/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
@@ -83,7 +87,6 @@
 | 1/3/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/3/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/3/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/3/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 12/16/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/16/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/16/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

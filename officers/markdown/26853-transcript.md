@@ -36,7 +36,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/19/2032 | F1535110 | Microaggression Training | Passed | 0.0 | 2.00 |
 | 8/25/2023 | F1531013 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |
 | 8/24/2023 | F1522971 | ViCAP Databas Tutorial | Passed | 0.0 | 2.00 |
 | 8/7/2023 | F1504844 | Policy Review for Code of Ethics | Passed | 0.0 | 1.00 |
@@ -45,6 +44,7 @@
 | 6/20/2023 | F1521157 | Understanding Homicide  Gun Violence | Passed | 0.0 | 1.00 |
 | 6/8/2023 | F1526612 | Juvenile Prosecution 101 | Passed | 0.0 | 1.00 |
 | 6/8/2023 | F1502526 | Reconsidering a Famous Crime | Passed | 0.0 | 1.50 |
+| 5/19/2023 | F1535110 | Microaggression Training | Passed | 0.0 | 2.00 |
 | 5/19/2023 | F1527284 | Strangulation - Last Warning Shot 2 | Passed | 0.0 | 1.50 |
 | 5/17/2023 | F1500660 | Strangulation - Last Warning Shot 1 | Passed | 0.0 | 1.50 |
 | 4/19/2023 | F1531185 | Murder 101: Evaluating Evidence | Passed | 0.0 | 1.00 |

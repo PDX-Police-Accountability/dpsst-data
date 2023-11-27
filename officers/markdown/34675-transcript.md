@@ -69,7 +69,6 @@
 | 4/12/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/12/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/12/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/11/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/11/2023 | PDP33199 | 2023-1 Range Qualification Secondary FA (50 Round) | Passed | 0.0 | 0.50 |
 | 4/7/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

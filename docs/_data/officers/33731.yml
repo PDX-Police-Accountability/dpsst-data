@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/1/2023
+  course: PDN2148A
+  title: Wildfire Smoke Exposure Control and Protection
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/29/2023
   course: PDN4123A
   title: 'Case Management: Motivational Interviewing'

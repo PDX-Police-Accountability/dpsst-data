@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/19/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/19/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
@@ -46,6 +48,9 @@
 | 7/22/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/22/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/22/2023 | PDP2153A | 2023-2 Range Qual Secondary Firearm (50 rd) | Passed | 0.0 | 0.50 |
+| 7/21/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
+| 7/21/2023 | PDP1696A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
 | 7/20/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/20/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/20/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
@@ -55,6 +60,7 @@
 | 6/3/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/3/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 6/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 5/24/2023 | PDP3918A | 2023 FIT Critical Incident Training | Passed | 0.0 | 6.00 |
 | 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/12/2023 | PDP1218A | NW Gang Investigation Assoc. Training Symposium | Passed | 0.0 | 36.00 |
 | 5/7/2023 | PDP36458 | 2023-1 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 60.00 |
@@ -68,7 +74,6 @@
 | 4/24/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/24/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/24/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/24/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/14/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/14/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
 | 4/14/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

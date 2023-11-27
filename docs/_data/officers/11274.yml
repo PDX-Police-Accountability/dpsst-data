@@ -1,2 +1,496 @@
 ---
-missing_transcript: true
+header_record:
+  name: Bottcher, Steven L.
+  dpsst_identifier: '11274'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Sergeant
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 12/31/2009
+  agency: Dept of Public Safety Standards  Trng
+  action: Resigned
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 8/27/2007
+  agency: Dept of Public Safety Standards  Trng
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
+- date: 8/22/2007
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 6/27/1996
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 7/9/1980
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/8/1980
+  agency: Multnomah County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 7/23/1979
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 7/22/1979
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 1/4/1979
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+certification_records:
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Advanced
+  status: Expired
+  certificate_date: 6/27/2007
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 5/27/1980
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Intermediate
+  status: Expired
+  certificate_date: 1/4/1982
+  expiration_date: ''
+  probation_date: ''
+- status_date: 2/15/2020
+  certificate: Police Officer
+  level: Supervisory
+  status: Expired
+  certificate_date: 7/12/2007
+  expiration_date: ''
+  probation_date: ''
+training_records:
+- date: 2/5/2007
+  course: 07-0184
+  title: Firearms Instructor Update
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 1/30/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2006
+  course: 06-1348
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/31/2006
+  course: 06-1349
+  title: PPB - Leadership
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
+- date: 12/31/2006
+  course: 06-1347
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 12/31/2006
+  course: 06-9997
+  title: Firearms/Use of Force  Makeup Training 2004-2006
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/31/2005
+  course: 05-2977
+  title: PPB - Other LE Classes
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 12/31/2005
+  course: 05-2979
+  title: PPB - Leadership
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
+- date: 12/31/2005
+  course: 05-2978
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 11/2/2005
+  course: 05-1991
+  title: Police Civil Liability
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/31/2004
+  course: 04-3581
+  title: PPB - Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/18/2003
+  course: 03-0358
+  title: PPB Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
+- date: 8/6/2002
+  course: 02U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 9/27/2001
+  course: 01P053
+  title: 'ICS: Information Officer'
+  status: Passed
+  score: '0.0'
+  hours: '23.00'
+- date: 9/3/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/29/2001
+  course: 01P007
+  title: PSU Management Certificate Program
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 1/31/2001
+  course: 01U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/31/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/3/2000
+  course: 00U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/1999
+  course: 99U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '56.00'
+- date: 11/30/1998
+  course: 98U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '31.00'
+- date: 10/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/31/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 5/16/1997
+  course: 97U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 12/31/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/13/1996
+  course: 96P244
+  title: 'OFFICER INVOLVED SHOOTINGS: PREPARATION'
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 8/10/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/24/1996
+  course: 96P187
+  title: SERGEANTS COMMAND SCHOOL-PORTLAND POLICE
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 5/17/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
+- date: 1/25/1996
+  course: 96U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
+- date: 12/14/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/10/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '128.00'
+- date: 3/1/1995
+  course: 95U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 10/22/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '100.00'
+- date: 10/4/1994
+  course: 94U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
+- date: 3/2/1994
+  course: 94W007
+  title: INCIDENT COMMAND SYSTEM
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/10/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 7/15/1993
+  course: 93J010
+  title: INTOXILYZER 5000
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/18/1993
+  course: 93M015
+  title: FIREARMS INSTRUCTOR COURSE
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
+- date: 5/28/1993
+  course: 92J069
+  title: 1992-93 IN-SERVICE TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/28/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 9/14/1992
+  course: 92U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '99.00'
+- date: 5/29/1992
+  course: 92K008
+  title: FIRST CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/27/1992
+  course: 92J020
+  title: USE OF FORCE ISSUES
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 3/5/1992
+  course: 92K015
+  title: CHILD ABUSE INVESTIGATION:MDT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/23/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
+- date: 5/30/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
+- date: 3/1/1987
+  course: '879058'
+  title: LEDS MANUAL INTRODUCTORY LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/22/1987
+  course: '879004'
+  title: DIGNITARY PROTECTION
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/20/1986
+  course: '859297'
+  title: IN-SERVICE TRAINING (PHASE II)
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 4/25/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/4/1984
+  course: 84P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 9/30/1983
+  course: 83P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '46.00'
+- date: 9/30/1983
+  course: '839139'
+  title: CAROTID CONTROL
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/4/1983
+  course: '839128'
+  title: CPR* EMERGENCY CARDIAC CARE
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/1/1982
+  course: '825013'
+  title: LEGAL DEVELOPMENTS
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/18/1981
+  course: '819160'
+  title: FALL RANGE
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/8/1981
+  course: '809129'
+  title: FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/7/1980
+  course: '809097'
+  title: ADV ACADEMY CLASS 8O-2
+  status: Passed
+  score: '0.0'
+  hours: '360.00'
+- date: 9/8/1980
+  course: '805004'
+  title: CRASH INJURY MANAGEMENT
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/1/1980
+  course: 80M050
+  title: Police Field Training Manual
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
+- date: 1/1/1980
+  course: '809099'
+  title: INTOXILYZER MODEL 4O11-A
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/26/1979
+  course: '791087'
+  title: BASIC LAW ENFORCEMENT CLASS
+  status: Passed
+  score: '0.0'
+  hours: '280.00'
+- date: 9/7/1979
+  course: '799085'
+  title: SKILLS DEVELOPMENT 79-3
+  status: Passed
+  score: '0.0'
+  hours: '214.00'
+- date: 3/2/1979
+  course: '799020'
+  title: CPAO CRIME PREVENTION CONF
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 6/27/2007
+  expiration_date: ''
+education_records:
+- date: 5/17/1975
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Liberal Arts/distributed Study
+  hours: '186.0'

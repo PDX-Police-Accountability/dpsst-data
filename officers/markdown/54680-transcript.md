@@ -4,7 +4,7 @@
 | name | Wolz, Deborah I. |
 | dpsst_identifier | 54680 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Reserve Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/22/2014 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 9/22/2014 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

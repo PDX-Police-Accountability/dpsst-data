@@ -30,6 +30,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
+| 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/19/2023 | PDP4216A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/12/2023 | PDP4301A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
 | 9/12/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/12/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -92,7 +97,6 @@
 | 3/20/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/20/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/20/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/20/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/14/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 3/6/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | HBS1720A | Confronting Bias Through justice and Healing | Passed | 0.0 | 6.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/25/2023 | F1505785 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |
 | 8/24/2023 | F1538237 | ViCAP Database Tutorial | Passed | 0.0 | 2.00 |

@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2023 | EGP1092A | Field Force Drills/Classroom | Passed | 0.0 | 3.00 |
+| 11/9/2023 | EGP4364A | Night Shoot/Scenarios | Passed | 0.0 | 3.00 |
+| 11/9/2023 | EGP3822A | DA Presentation | Passed | 0.0 | 1.50 |
 | 10/12/2023 | EGP1239A | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 10/12/2023 | EGP1263A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |
 | 10/5/2023 | EGP1328A | PREA Briefing Training | Passed | 0.0 | 0.50 |

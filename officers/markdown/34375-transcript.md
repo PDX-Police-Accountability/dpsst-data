@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2023 | VND4319A | Oregon State Marine Board PWC Operations Course | Passed | 0.0 | 24.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/21/2023 | CDS1945A | Burnout and Trauma Interventions | Passed | 0.0 | 4.00 |

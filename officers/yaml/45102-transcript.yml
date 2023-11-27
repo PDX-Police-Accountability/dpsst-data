@@ -3,12 +3,18 @@ header_record:
   name: Kephart, Stephen M.
   dpsst_identifier: '45102'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Reserve Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/24/2017
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 12/13/2004
   agency: Portland Police Bureau
   action: Hired

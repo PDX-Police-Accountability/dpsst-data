@@ -37,6 +37,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | 24-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
+| 9/28/2023 | F6R1353A | Police Resiliency  Critical Incident Mindset | Passed | 0.0 | 3.00 |
+| 9/28/2023 | F6R1760A | ICAT | Passed | 0.0 | 2.00 |
+| 9/28/2023 | F6R1902A | Raising the Standards of Resiliency | Passed | 0.0 | 2.00 |
+| 9/28/2023 | F6R1285A | Cyber Threats | Passed | 0.0 | 1.00 |
+| 9/27/2023 | F6R1747A | Mitigating Potential Law Enforcement Risk | Passed | 0.0 | 2.00 |
+| 9/27/2023 | F6R3087A | RITE for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

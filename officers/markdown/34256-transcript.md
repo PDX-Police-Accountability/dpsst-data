@@ -32,7 +32,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 2/23/2022 | 2/14/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 2/27/2003 |  |
@@ -43,6 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
 | 9/7/2023 | BVP1084A | September Range | Passed | 0.0 | 3.00 |
 | 9/1/2023 | BVP4197A | BWC | Passed | 0.0 | 0.50 |
 | 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |

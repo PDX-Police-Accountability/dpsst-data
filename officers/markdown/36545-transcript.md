@@ -26,7 +26,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/27/2022 | 4/27/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 7/27/2001 |  |
@@ -37,9 +38,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 10/10/2023 | HBS2520A | Sexual Offenses: Mind  Motivation | Passed | 0.0 | 16.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
+| 8/23/2023 | HBS2153A | PREA (Prison Rape Elimination Act) | Passed | 0.0 | 1.00 |
 | 5/8/2023 | HBP0898A | NW Gang Investigators Association Conference | Passed | 0.0 | 36.00 |
 | 4/26/2023 | HBP29327 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 7.00 |
 | 4/21/2023 | HBP0131A | Child Abduction Response Training | Passed | 0.0 | 7.00 |

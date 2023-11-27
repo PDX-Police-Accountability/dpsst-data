@@ -45,6 +45,9 @@
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/11/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/4/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 8/4/2023 | PDP2256A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
+| 8/4/2023 | PDP1537A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
 | 7/21/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/20/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/25/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
@@ -87,7 +90,6 @@
 | 1/3/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/3/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/3/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/3/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 12/9/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/9/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

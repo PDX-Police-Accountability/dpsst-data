@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
+| 11/9/2023 | PDP2405A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
+| 10/30/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/30/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/18/2023 | PDP3873A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 9/21/2023 | PDP0619A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
 | 8/31/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

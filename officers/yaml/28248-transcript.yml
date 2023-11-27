@@ -94,7 +94,7 @@ certification_records:
 - status_date: 1/12/2010
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 7/27/1998
   expiration_date: ''
   probation_date: ''

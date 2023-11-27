@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/10/2023
+  course: PDP1425A
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2023
+  course: PDP3717A
+  title: 2022 Crowd Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2023
+  course: PDP3941A
+  title: 2023 PCJP and Restorative Justice Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/10/2023
+  course: PDP1126A
+  title: Annual CIU NTR Alarm Response Training - RRNR
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/6/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022

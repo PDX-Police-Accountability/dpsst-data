@@ -19,12 +19,11 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 8/29/2023 | Police Officer | Intermediate | Granted | 8/29/2023 |  |  |
-| 11/30/2021 | Police Officer | Basic | Reactivate | 5/27/2020 |  |  |
+| 11/30/2021 | Police Officer | Basic | Reactivatd | 5/27/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 5/13/2019 |  |
@@ -40,11 +39,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2023 | WLP1330A | Active Threat Response - Patrol | Passed | 0.0 | 5.00 |
 | 10/9/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2023 | WLP3848A | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/27/2023 | WLP2451A | Social Media for Government Agencies | Passed | 0.0 | 16.00 |
-| 9/26/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 9/26/2023 | WLP0162A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 9/13/2023 | WLP0599A | Firearms Training / Qualification | Passed | 0.0 | 4.00 |
 | 6/21/2023 | WLP1743A | 16 Hour Pistol Mounted Optic Transition Course | Passed | 0.0 | 16.00 |
 | 5/29/2023 | WLP3706 | Patrol Tactics | Passed | 0.0 | 8.00 |
 | 4/17/2023 | OCS28332 | Crisis Intervention Training | Passed | 0.0 | 40.00 |

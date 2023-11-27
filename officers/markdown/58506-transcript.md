@@ -31,6 +31,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 10/31/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
+| 10/31/2023 | PDP4482A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 10/31/2023 | PDP2093A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 10/31/2023 | PDP2405A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
+| 10/31/2023 | PDP3828A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 10/31/2023 | PDP0670A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |
+| 10/30/2023 | PDP3984A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 10/30/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 10/30/2023 | PDP0120A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
+| 10/30/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
+| 10/30/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/19/2023 | PDP4216A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/12/2023 | PDP4301A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
+| 10/5/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 9/26/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -40,6 +57,7 @@
 | 9/26/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 8/30/2023 | PDP1083A | 2023 FIT Surveillance and Follows | Passed | 0.0 | 5.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/9/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
@@ -63,6 +81,7 @@
 | 6/2/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/25/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 5/24/2023 | PDP3918A | 2023 FIT Critical Incident Training | Passed | 0.0 | 6.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/18/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |
@@ -76,7 +95,6 @@
 | 4/26/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/26/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/26/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/26/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/20/2023 | PDP1249 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 4/17/2023 | PDP2994A | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 4/13/2023 | PDP3754 | 2023 SERT Training - CLASSROOM | Passed | 0.0 | 4.00 |

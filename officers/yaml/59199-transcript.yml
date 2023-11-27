@@ -67,6 +67,24 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 11/9/2023
+  course: EGP3822A
+  title: DA Presentation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/9/2023
+  course: EGP1092A
+  title: Field Force Drills/Classroom
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/9/2023
+  course: EGP4364A
+  title: Night Shoot/Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/12/2023
   course: EGP1239A
   title: Firearms Qualification

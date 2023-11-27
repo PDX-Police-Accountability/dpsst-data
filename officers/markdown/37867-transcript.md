@@ -35,6 +35,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
+| 11/7/2023 | PDP4482A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 11/7/2023 | PDP2093A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 11/7/2023 | PDP3828A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 11/7/2023 | PDP2405A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
+| 11/7/2023 | PDP0670A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |
+| 11/6/2023 | PDP3984A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 11/6/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 11/6/2023 | PDP0120A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
+| 11/6/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
+| 11/6/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
+| 11/6/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 10/15/2023 | HSU0850A | Post OIS Procedures | Instructed | 0.0 | 6.00 |
 | 9/25/2023 | HBS4458A | Law Enforcement Basic Sniper School | Instructed | 0.0 | 37.00 |
 | 9/4/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
@@ -56,6 +68,10 @@
 | 6/29/2023 | PDP4352A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/21/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/21/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 6/15/2023 | OSH1976A | Qualifications, Stress Shooting, Precision Drills | Instructed | 0.0 | 6.00 |
+| 6/14/2023 | OSH2698A | Decision Making, unconventional Targets/Shoot | Instructed | 0.0 | 8.00 |
+| 6/13/2023 | OSH3753A | Rifle Tripod, Moving Targets, Barriers | Instructed | 0.0 | 8.00 |
+| 6/12/2023 | OSH2263A | Sniper Rifle Marksmanship and Positional Drills | Instructed | 0.0 | 8.00 |
 | 6/8/2023 | PDP0661A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 6/8/2023 | PDP0661A | 2023 SERT Training - FIREARMS | Instructed | 0.0 | 5.00 |
 | 6/1/2023 | PDP0987A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -93,7 +109,6 @@
 | 3/7/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/7/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
-| 3/7/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/6/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 3/6/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 3/6/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |

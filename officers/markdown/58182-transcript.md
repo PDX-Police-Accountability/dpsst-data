@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 11/21/2023 | Police Officer | Intermediate | Granted | 11/21/2023 |  |  |
 | 1/8/2019 | Police Officer | Basic | Granted | 1/8/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,11 +29,16 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 1/15/2017 | No Degree | All Other Education Institutes |  | 112.0 |
-| 1/15/2015 | No Degree | All Other Education Institutes |  | 15.0 |
+| 2/1/2019 | Bachelor Arts | All Other Education Institutes | Criminology | 60.0 |
+| 1/15/2015 | No Degree | All Other Education Institutes | Criminal Justice | 76.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 10/29/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/29/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP3596A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.50 |
+| 10/19/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 10/5/2023 | PDP1797A | 2023 K-9 Weekly Training | Instructed | 0.0 | 5.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 9/9/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
@@ -98,7 +104,6 @@
 | 2/1/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/1/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/1/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/1/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/28/2023 | PDP3543A | Canine First Aid  CPR | Passed | 0.0 | 4.00 |
 | 1/27/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/27/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |

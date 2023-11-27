@@ -168,12 +168,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/15/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/13/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording

@@ -40,6 +40,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2023 | HBN2396A | Active Shooter Prevention and Response | Passed | 0.0 | 2.00 |
+| 10/27/2023 | STN2273A | ODARA Training | Passed | 0.0 | 4.00 |
+| 10/26/2023 | STN1543A | DV Week Day 4 | Passed | 0.0 | 6.50 |
+| 10/25/2023 | STN1460A | Domestic Violence Week Day 3 | Passed | 0.0 | 8.00 |
+| 10/24/2023 | STN4284A | Domestic Violence Week Day 2 | Passed | 0.0 | 8.00 |
+| 10/23/2023 | STN2072A | Domestic Violence Week Day 1 | Passed | 0.0 | 4.00 |
 | 8/22/2023 | HBN1249A | Defensive Tactics/Use of Force/Report Writing | Passed | 0.0 | 8.00 |
 | 8/1/2023 | HBN2220A | Hillsboro PD Crisis Intervention Team Presentation | Passed | 0.0 | 1.00 |
 | 5/16/2023 | HBN0821A | Home Visits/Scenarios + Mental Health First Aid | Passed | 0.0 | 6.00 |

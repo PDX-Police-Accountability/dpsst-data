@@ -49,6 +49,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/31/2023
+  course: PDP3431A
+  title: 2023 Supevisor In-Service Chief's Office Disc.
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2023
+  course: PDP0677A
+  title: 2023 Supevisor In-Service Detectives
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2023
+  course: PDP0054A
+  title: 2023 Supevisor In-Service Knowledge Check/Survey
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2023
+  course: PDP1020A
+  title: 2023 Supevisor In-Service Elation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/31/2023
+  course: PDP0423A
+  title: 2023 Supevisor In-Service SSD
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2023
+  course: PDP2332A
+  title: 2023 Supevisor In-Service EAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/12/2023
   course: PDP0481A
   title: 2023 EAP Retirement Seminar
@@ -199,6 +241,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/18/2023
+  course: PDP0953A
+  title: 2023-1 All Sworn In-Service Mobile Field Force LDR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2023
+  course: PDP1482A
+  title: 2023-1 All Sworn In-Service Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/18/2023
+  course: PDP3841A
+  title: 2023-1 AS In-Service Crowd Mgmt. Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/18/2023
+  course: PDP4511A
+  title: 2023-1 All Sworn In-Service Field Arrest
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/18/2023
+  course: PDP4112A
+  title: 2023-1 AS In-Service Crowd Mgmt. Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2023
+  course: PDP2089A
+  title: 2023-1 All Sworn In-Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/17/2023
   course: PDP1243A
   title: 2023-1 All Sworn In-Service Crowd Mgmt.
@@ -5564,6 +5642,10 @@ training_records:
   score: '0.0'
   hours: '16.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/9/2023
@@ -5571,7 +5653,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

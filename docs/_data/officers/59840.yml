@@ -48,6 +48,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/9/2023
+  course: OCP0839A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/14/2023
+  course: OCP1596A
+  title: PIT Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2023
+  course: OCP3504A
+  title: Threat of Harm Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/7/2023
   course: OCP0393A
   title: Firearms/Use of Force
@@ -1009,6 +1027,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/4/2023
+  expiration_date: 2/4/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -1017,10 +1039,6 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 10/14/2021
-  expiration_date: 10/14/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/23/2020

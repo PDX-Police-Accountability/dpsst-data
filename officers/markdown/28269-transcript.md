@@ -45,14 +45,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/5/2029 | BNP41000 | 2nd Quart. Inservice HG,Rifle,Off duty skills | Passed | 0.0 | 6.00 |
-| 5/5/2029 | BNP05541 | Emotional Intelligenc / Mental Health | Passed | 0.0 | 0.50 |
 | 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
+| 11/14/2023 | BNP1325A | Officer Rescue / Medical | Passed | 0.0 | 1.00 |
+| 11/14/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |
+| 11/14/2023 | BNP2438A | Mental Health and Meditation | Passed | 0.0 | 1.00 |
+| 11/14/2023 | BNP1912A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 10/17/2023 | BNP1963A | IACP Training | Passed | 0.0 | 20.00 |
 | 10/11/2023 | BNP0494A | Command Structure  Tactical Considerations | Passed | 0.0 | 4.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/28/2023 | F6R3456A | Police Resiliency  Critical Incident Mindset | Passed | 0.0 | 3.00 |
+| 9/28/2023 | F6R2702A | ICAT | Passed | 0.0 | 2.00 |
+| 9/28/2023 | F6R3850A | Cyber Threats | Passed | 0.0 | 1.00 |
+| 9/28/2023 | F6R2216A | Raising the Standard of Resiliency | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
+| 9/27/2023 | F6R4411A | Mitigating Potential Law Enforcement Risk | Passed | 0.0 | 2.00 |
+| 9/27/2023 | F6R0773A | RITE for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/22/2023 | BNP2816A | Emergency Responder / Meta Data Center Prineville | Passed | 0.0 | 6.00 |
 | 9/11/2023 | BNP3795A | Mechanical Breaching | Passed | 0.0 | 1.00 |
 | 9/11/2023 | BNP4475A | Crowd Control for Civil Unrest | Passed | 0.0 | 0.50 |
@@ -67,6 +75,8 @@
 | 6/2/2023 | BNP0296A | Narcaan deployment | Passed | 0.0 | 1.00 |
 | 6/1/2023 | BNP0846A | Legal Updates | Passed | 0.0 | 4.00 |
 | 5/5/2023 | BNP20388 | 2nd Quart. Inservice 40 MM policy/training/qual | Passed | 0.0 | 0.50 |
+| 5/5/2023 | BNP41000 | 2nd Quart. Inservice HG,Rifle,Off duty skills | Passed | 0.0 | 6.00 |
+| 5/5/2023 | BNP05541 | Emotional Intelligenc / Mental Health | Passed | 0.0 | 0.50 |
 | 4/7/2023 | OAC23627 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/7/2023 | BNP09871 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |
 | 4/6/2023 | OAC27385 | Trauma and Post-Tramatic Stress | Passed | 0.0 | 4.00 |

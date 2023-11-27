@@ -31,15 +31,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
 | 8/31/2023 | PDP2539A | 2023 Training Red Dot Optic Instructor Course | Passed | 0.0 | 36.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 7/21/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 7/21/2023 | PDP1696A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
 | 7/15/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/13/2023 | PDP2660A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 7/2/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/29/2023 | PDP4352A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 6/23/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 6/15/2023 | OSH1976A | Qualifications, Stress Shooting, Precision Drills | Passed | 0.0 | 6.00 |
+| 6/14/2023 | OSH2698A | Decision Making, unconventional Targets/Shoot | Passed | 0.0 | 8.00 |
+| 6/13/2023 | OSH3753A | Rifle Tripod, Moving Targets, Barriers | Passed | 0.0 | 8.00 |
+| 6/12/2023 | OSH2263A | Sniper Rifle Marksmanship and Positional Drills | Passed | 0.0 | 8.00 |
 | 6/8/2023 | PDP0661A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 6/2/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/2/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
@@ -64,7 +72,6 @@
 | 4/24/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 4/24/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/24/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/24/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/20/2023 | PDP1249 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 4/13/2023 | PDP3754 | 2023 SERT Training - CLASSROOM | Passed | 0.0 | 4.00 |
 | 4/11/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

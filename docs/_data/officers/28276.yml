@@ -123,6 +123,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/5/2023
+  course: SVP2866A
+  title: Senate Bill 111 Response Plan (Marion County)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/25/2023
+  course: SVP1283A
+  title: CPR/First Aid Certification and Card
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2023
+  course: SVP1292A
+  title: Airway (ACAP) Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2023
+  course: SVP1343A
+  title: OSP Crime Lab  Forensic Services Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/6/2023
   course: SVP0012A
   title: Remington 870 Less Lethal Shotgun

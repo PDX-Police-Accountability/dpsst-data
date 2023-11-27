@@ -20,6 +20,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 10/12/2023 | 10/12/2025 |
 | Code of Ethics | Law Enforcement Signed | 2/20/2023 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -29,6 +30,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/12/2023 | PDP2963A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 10/10/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 9/9/2023 | PDP1156A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 9/9/2023 | PDP3997A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 9/9/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

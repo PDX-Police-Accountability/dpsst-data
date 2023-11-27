@@ -16,20 +16,32 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 8/18/2022
+- status_date: 11/21/2023
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: App Recd
   certificate_date: ''
   expiration_date: ''
   probation_date: 2/18/2024
 training_records:
-- date: 2/18/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
+- date: 11/21/2023
+  course: E11PDP19
+  title: FTM Equivalency Review (Portland Police Bureau)
+  status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 10/29/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/2/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -709,6 +721,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 11/16/2023
+  expiration_date: ''
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/31/2023

@@ -30,8 +30,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
@@ -41,6 +42,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
+| 10/20/2023 | OCS2180A | Balancing Speed/Marksmanship | Instructed | 0.0 | 3.00 |
+| 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
+| 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
 | 10/12/2023 | OCS3872A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 10/4/2023 | OCS3632A | June/July/August/Sept 2023 Monthly Firearms | Instructed | 0.0 | 4.00 |
 | 9/27/2023 | OCS4284A | September 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
@@ -61,6 +67,7 @@
 | 7/14/2023 | OCS3464A | Positional Shooting/Target ID/OIS Debrief | Instructed | 0.0 | 4.00 |
 | 7/1/2023 | OCS3379A | One Handed Shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/15/2023 | OCS3363A | Shoot/No-Shoot Targets  Marksmanship | Instructed | 0.0 | 93.00 |
+| 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |

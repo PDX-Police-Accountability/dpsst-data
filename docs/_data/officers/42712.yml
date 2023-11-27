@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2023
+  course: HBS2662A
+  title: Bias Based Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2023
+  course: HBS4339A
+  title: Security Awareness Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/22/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

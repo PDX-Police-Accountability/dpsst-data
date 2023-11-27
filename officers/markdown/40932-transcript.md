@@ -39,6 +39,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 10/26/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/24/2023 | PDP4482A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 10/24/2023 | PDP2093A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 10/24/2023 | PDP3828A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 10/19/2023 | PDP1401A | FIN-6.14  with KC | Passed | 0.0 | 0.25 |
 | 10/5/2023 | MNP0404A | Building Your Leadership Toolbox | Passed | 0.0 | 8.00 |
 | 9/25/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
 | 9/4/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
@@ -94,7 +100,6 @@
 | 1/17/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 1/17/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/17/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/17/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/10/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/5/2023 | PDP42753 | 2022 Respiratory Protection: Yearly Screening | Passed | 0.0 | 0.25 |
 | 1/5/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |

@@ -36,12 +36,66 @@ certification_records:
   expiration_date: 1/5/2024
   probation_date: ''
 training_records:
+- date: 11/3/2023
+  course: BPT2314A
+  title: Facilitator Development
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/2/2023
+  course: BPT1866A
+  title: Outward Mindset
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/1/2023
+  course: BPT2685A
+  title: Facilitator Development
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2023
+  course: BPT1607A
+  title: Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2023
+  course: BPT0792A
+  title: Stereotype Threat
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2023
+  course: BPT3093A
+  title: Equitable Policing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/31/2023
+  course: BPT3076A
+  title: Adult Learning
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 10/30/2023
+  course: M00-19A
+  title: DPSST Adult Learning Core
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/9/2023
   course: PDP3557A
   title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/24/2023
+  course: PDP0365A
+  title: 2023-2 Field Training Officer (FTO)
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -300,12 +354,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/8/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 1/18/2023
   course: PDP16862
   title: DIR 0635.10 PPB Response to Public Order Events

@@ -62,6 +62,42 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 9/28/2023
+  course: F6R1353A
+  title: Police Resiliency  Critical Incident Mindset
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2023
+  course: F6R1760A
+  title: ICAT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2023
+  course: F6R1902A
+  title: Raising the Standards of Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2023
+  course: F6R1285A
+  title: Cyber Threats
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/27/2023
+  course: F6R1747A
+  title: Mitigating Potential Law Enforcement Risk
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: F6R3087A
+  title: RITE for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/21/2023
   course: RSS0455A
   title: 13th Annual OHIA Major Crimes Conference

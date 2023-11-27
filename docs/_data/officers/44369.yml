@@ -93,31 +93,55 @@ certification_records:
 - status_date: 6/6/2018
   certificate: Police Officer
   level: Advanced
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 9/14/2012
   expiration_date: ''
   probation_date: ''
 - status_date: 6/6/2018
   certificate: Police Officer
   level: Intermediate
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 2/24/2009
   expiration_date: ''
   probation_date: ''
 - status_date: 5/17/2018
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 6/28/2007
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/28/2023
+  course: STP4305A
+  title: 40mm Launcher training/certification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/25/2023
   course: STP0170
   title: Firearms Training Moving and Shooting
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/31/2023
+  course: OSH0971A
+  title: 2023 OSP CJIS Statewide Conference
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 8/30/2023
+  course: OSH3533A
+  title: 2023 OSP CJIS Statewide Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/29/2023
+  course: OSH1000A
+  title: 2023 OSP CJIS Statewide Conference
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 6/20/2023
   course: STP2543A
   title: Defensive Tactics

@@ -70,6 +70,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2023
+  course: PDP0054A
+  title: 2023 Supevisor In-Service Knowledge Check/Survey
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2023
+  course: PDP1020A
+  title: 2023 Supevisor In-Service Elation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/18/2023
+  course: PDP0990A
+  title: 2023  Evidence Basics for Use of Force Invest.
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/5/2023
   course: PDP0822A
   title: 2023-2 All Sworn In-Service BWC Policy

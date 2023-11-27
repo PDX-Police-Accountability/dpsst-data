@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2023
+  course: PDP1135A
+  title: 2023 40mm Less Lethal New Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 10/26/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2023
   course: PDP1209A
   title: 2023 Training Bike Instructor Training Course
@@ -342,12 +360,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/1/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 1/9/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

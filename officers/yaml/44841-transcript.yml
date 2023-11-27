@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/8/2023
+  course: LOP0957A
+  title: Adult/Child CPR AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/13/2023
   course: LOP1707A
   title: Firearms Training
@@ -2827,6 +2833,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Certification Cards
+  value: CPR
+  effective_date: 11/8/2023
+  expiration_date: 11/8/2025
 - topic: Certification Cards
   value: First Aid
   effective_date: 11/10/2022

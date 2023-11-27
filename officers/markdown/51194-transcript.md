@@ -4,7 +4,7 @@
 | name | Spangler, Brooks A. |
 | dpsst_identifier | 51194 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Reserve Officer |
 | level |  |
 | classification |  |
@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 10/13/2011 | Washington County Sheriff's Office | Prob Dschg | Dpty Shrf |  |  |
+| 2/21/2011 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 2/21/2011 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/28/2010 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification

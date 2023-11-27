@@ -67,6 +67,60 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 11/9/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/9/2023
+  course: MOS1826A
+  title: NORTAC Leadership
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2023
+  course: MOS0651A
+  title: Land Navigation and Map Reading
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/9/2023
+  course: MOS0987A
+  title: Common Firearm Function and Disassembly
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/27/2023
+  course: OSA0335A
+  title: OSSA Command College
+  status: Passed
+  score: '0.0'
+  hours: '52.00'
+- date: 10/21/2023
+  course: HRS3388A
+  title: 3 Ways to Strength Mental Health Support
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2023
+  course: HRS3835A
+  title: What is DEI?
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/21/2023
+  course: HRS4219A
+  title: EVOLVE Series - Diversity, Equity and Inclusion
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/21/2023
+  course: HRS1982A
+  title: DEI - Developing a Clear Roadmap
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/12/2023
   course: MOS3209A
   title: Tactical Training - Advanced Firearms Training
@@ -1248,6 +1302,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 10/3/2022
@@ -1259,7 +1317,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/9/2019

@@ -28,6 +28,21 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/19/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/26/2023 | PDP0443A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 10/26/2023 | PDP0940A | 2021-9 Tips and Techniques Dangers of Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP2137A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/26/2023 | PDP3265A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP3272A | 2022-5 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/25/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
+| 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 10/19/2023 | PDP2114A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
+| 10/17/2023 | PDP2982A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 9/22/2023 | REG1195A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 8/17/2023 | F6R1759A | Intox 8000 | Passed | 0.0 | 6.00 |
 | 8/17/2023 | REG3523A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

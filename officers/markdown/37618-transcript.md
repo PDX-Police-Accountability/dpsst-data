@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/1/2023 | 5/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 1/15/2002 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/12/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/12/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/12/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -59,13 +61,18 @@
 | 5/31/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 5/1/2023 | PDP03117 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/19/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/18/2023 | PDP0953A | 2023-1 All Sworn In-Service Mobile Field Force LDR | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDP1482A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
+| 4/18/2023 | PDP3841A | 2023-1 AS In-Service Crowd Mgmt. Force | Passed | 0.0 | 2.00 |
+| 4/18/2023 | PDP4511A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/18/2023 | PDP4112A | 2023-1 AS In-Service Crowd Mgmt. Other | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDP2089A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
 | 4/17/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
 | 4/17/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 4/17/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 4/17/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/17/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/17/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/17/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/10/2023 | PDP2994A | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 4/4/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

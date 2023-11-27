@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 11/6/2023 | Sherwood Police Department | Hired | Police Off |  |  |
+| 10/31/2023 | Washington County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 9/16/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 6/5/2018 | Washington County Sheriff's Office | Return LOA | Dpty Shrf |  |  |
 | 8/7/2017 | Washington County Sheriff's Office | LOA | Dpty Shrf |  |  |
@@ -27,6 +28,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Code of Ethics | Law Enforcement Signed | 11/3/2023 |  |
 | Certification Cards | CPR | 5/23/2023 | 5/23/2025 |
 | Certification Cards | First Aid | 1/11/2022 | 1/11/2024 |
 | Code of Ethics | Signed | 10/4/2016 |  |
@@ -37,7 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/30/2023 | REG0669A | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |
 | 9/12/2023 | HBS0968A | 2023 September In-Service | Passed | 0.0 | 9.00 |
+| 8/17/2023 | REG2147A | Shoulder Control to Cuffing | Passed | 0.0 | 1.00 |
+| 8/17/2023 | REG1909A | Shoulder Control to Cuffing | Passed | 0.0 | 1.00 |
 | 7/19/2023 | HBS3714A | RDS Transition Course | Passed | 0.0 | 13.50 |
 | 7/3/2023 | REG0471A | Body Lock Takedown/Triangle Choke Awareness | Passed | 0.0 | 1.00 |
 | 6/28/2023 | REG0041A | Weapon Retention | Passed | 0.0 | 1.00 |

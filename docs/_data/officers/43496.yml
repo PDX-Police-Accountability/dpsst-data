@@ -93,6 +93,60 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/26/2023
+  course: PDP0677A
+  title: 2023 Supevisor In-Service Detectives
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP0054A
+  title: 2023 Supevisor In-Service Knowledge Check/Survey
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP1020A
+  title: 2023 Supevisor In-Service Elation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/26/2023
+  course: PDP3431A
+  title: 2023 Supevisor In-Service Chief's Office Disc.
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/26/2023
+  course: PDP2332A
+  title: 2023 Supevisor In-Service EAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP0423A
+  title: 2023 Supevisor In-Service SSD
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/24/2023
+  course: PDP2117A
+  title: 2022-11 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/24/2023
+  course: PDP1181A
+  title: 2022-12 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/24/2023
+  course: PDP0990A
+  title: 2023  Evidence Basics for Use of Force Invest.
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/13/2023
   course: REQMGMT
   title: 'REQUIRED TRAINING:  Management'
@@ -291,12 +345,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/8/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 5/4/2023
   course: PDP1023A
   title: 2023 Microsoft_Teams Recorded Training

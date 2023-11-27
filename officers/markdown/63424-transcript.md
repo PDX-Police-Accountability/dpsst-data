@@ -28,6 +28,15 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/10/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/19/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/19/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
+| 10/19/2023 | PDP3795A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/18/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 10/16/2023 | PDP3272A | 2022-5 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/16/2023 | PDP0940A | 2021-9 Tips and Techniques Dangers of Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/16/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/11/2023 | PDP1425A | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 10/2/2023 | PDP2137A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP0363A | 2020-10 CAO Legal Updates for 10/2020 | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

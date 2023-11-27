@@ -48,6 +48,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 10/23/2023
+  course: BVP0934A
+  title: City of Beaverton Ethics in  Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/10/2019
   course: PDP09647
   title: 2019-8 City Attorney's Office Legal Updates 8/2019

@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2023
+  course: PDP1135A
+  title: 2023 40mm Less Lethal New Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
+- date: 10/15/2023
+  course: PDP0443A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2023
+  course: PDP2137A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/25/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -193,12 +211,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 4/12/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/27/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

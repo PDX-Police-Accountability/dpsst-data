@@ -57,21 +57,21 @@ certification_records:
   level: Advanced
   status: Lapsed
   certificate_date: 1/12/2011
-  expiration_date: ''
+  expiration_date: 3/12/2024
   probation_date: ''
 - status_date: 6/12/2019
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 6/16/1992
-  expiration_date: ''
+  expiration_date: 3/12/2024
   probation_date: ''
 - status_date: 6/12/2019
   certificate: Police Officer
   level: Intermediate
   status: Lapsed
   certificate_date: 1/12/2011
-  expiration_date: ''
+  expiration_date: 3/12/2024
   probation_date: ''
 training_records:
 - date: 11/19/2019

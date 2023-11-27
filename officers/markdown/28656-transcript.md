@@ -21,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/19/2021 | Police Officer | Advanced | Reactivate | 6/23/2000 |  |  |
-| 1/19/2021 | Police Officer | Basic | Reactivate | 6/17/1994 |  |  |
-| 1/19/2021 | Police Officer | Intermediate | Reactivate | 5/21/1997 |  |  |
+| 1/19/2021 | Police Officer | Advanced | Reactivatd | 6/23/2000 |  |  |
+| 1/19/2021 | Police Officer | Basic | Reactivatd | 6/17/1994 |  |  |
+| 1/19/2021 | Police Officer | Intermediate | Reactivatd | 5/21/1997 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

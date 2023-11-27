@@ -38,13 +38,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 9/8/2023 | BVP1084A | September Range | Passed | 0.0 | 3.00 |
 | 9/1/2023 | BVP4197A | BWC | Passed | 0.0 | 0.50 |
 | 6/5/2023 | OCS2433 | FBI/LEEDA CLI | Passed | 0.0 | 28.50 |
 | 5/9/2023 | BVP0968A | Wellness | Instructed | 0.0 | 4.00 |
 | 5/8/2023 | BVP10108 | Air Support Briefing Training | Passed | 0.0 | 1.00 |
 | 5/8/2023 | BVP3774A | Air Support Briefing Training | Passed | 0.0 | 1.00 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
+| 4/4/2023 | BVP3077A | April Range 2023 | Passed | 0.0 | 3.00 |
 | 3/23/2023 | BVP3377A | CIT Ernie and Joe | Passed | 0.0 | 3.50 |
 | 3/2/2023 | BVP3585A | Narcan Deployment | Passed | 0.0 | 0.50 |
 | 2/14/2023 | BVP0073A | Wellness | Instructed | 0.0 | 3.00 |

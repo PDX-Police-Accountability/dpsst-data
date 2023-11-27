@@ -28,6 +28,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 10/20/2023 | REG2347A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 10/12/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 9/21/2023 | REG1057A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 7/17/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |

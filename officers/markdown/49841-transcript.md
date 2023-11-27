@@ -33,6 +33,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/13/2023 | PDP3984A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 11/13/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
+| 11/13/2023 | PDP0120A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
+| 11/13/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
+| 11/13/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
+| 11/13/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 10/27/2023 | PDP0423A | 2023 Supevisor In-Service SSD | Passed | 0.0 | 1.00 |
+| 10/27/2023 | PDP2332A | 2023 Supevisor In-Service EAP | Passed | 0.0 | 1.00 |
+| 10/27/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |
+| 10/27/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/27/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
+| 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/12/2023 | PDP4301A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
+| 10/12/2023 | PDP4301A | 2023 SERT Training - FIREARMS | Instructed | 0.0 | 5.00 |
 | 9/10/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
 | 9/1/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/1/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
@@ -45,8 +61,14 @@
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/18/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/17/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/4/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 8/4/2023 | PDP2256A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
+| 8/4/2023 | PDP1537A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/2/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/21/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 7/21/2023 | PDP1696A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
 | 7/19/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 7/6/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/6/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
@@ -102,7 +124,6 @@
 | 1/30/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 1/30/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/30/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/30/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 1/15/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/5/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |

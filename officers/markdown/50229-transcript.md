@@ -35,6 +35,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/22/2023 | TRN0690A | 2023 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 10/22/2023 | TRN1506A | Do the Right Thing v2023 | Passed | 0.0 | 2.00 |
+| 10/22/2023 | TRN3455A | Emotional Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
+| 10/22/2023 | TRN2045A | DOC - Document Sensitivity Labeling v2023 | Passed | 0.0 | 0.50 |
+| 10/22/2023 | TRN2089A | DOC - ICS for Corrections v2023 | Passed | 0.0 | 1.00 |
+| 10/22/2023 | TRN2260A | EDIB v2023 | Passed | 0.0 | 1.50 |
+| 10/22/2023 | TRN1523A | Financial Wellness for Corr Professional v2023 | Passed | 0.0 | 0.50 |
+| 10/22/2023 | TRN2951A | HIPAA for Everyone v2023 | Passed | 0.0 | 2.00 |
+| 10/22/2023 | TRN3535A | Fire Extinguisher Use and Safety v2023 | Passed | 0.0 | 0.50 |
+| 10/22/2023 | TRN3503A | Occupational Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
+| 10/22/2023 | TRN3197A | Intellectual Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |
+| 10/22/2023 | TRN2407A | Preventing and Reducing Stigma v2023 | Passed | 0.0 | 3.00 |
+| 10/22/2023 | TRN3269A | Suicide Detection and Prevention v2023 | Passed | 0.0 | 2.00 |
+| 10/21/2023 | TRN0767A | Bloodborne Pathogens in the Workplace v2023 | Passed | 0.0 | 1.00 |
 | 6/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/11/2023 | TRN0799A | Critical Incidents-TIC | Passed | 0.0 | 1.00 |
 | 4/11/2023 | TRN1467A | Krav Maga Def Tactics v2022c | Passed | 0.0 | 2.00 |

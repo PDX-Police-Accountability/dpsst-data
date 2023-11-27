@@ -17,6 +17,24 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 8/31/2023
+  course: OSH0971A
+  title: 2023 OSP CJIS Statewide Conference
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 8/30/2023
+  course: OSH3533A
+  title: 2023 OSP CJIS Statewide Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 8/29/2023
+  course: OSH1000A
+  title: 2023 OSP CJIS Statewide Conference
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 7/29/2021
   course: DOC29124
   title: DOC- Protection from Ambient Heat v2021

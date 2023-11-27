@@ -57,6 +57,42 @@ certification_records:
   expiration_date: 1/4/2027
   probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: PDP3431A
+  title: 2023 Supevisor In-Service Chief's Office Disc.
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/26/2023
+  course: PDP0423A
+  title: 2023 Supevisor In-Service SSD
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP2332A
+  title: 2023 Supevisor In-Service EAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP0677A
+  title: 2023 Supevisor In-Service Detectives
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP0054A
+  title: 2023 Supevisor In-Service Knowledge Check/Survey
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP1020A
+  title: 2023 Supevisor In-Service Elation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/18/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022

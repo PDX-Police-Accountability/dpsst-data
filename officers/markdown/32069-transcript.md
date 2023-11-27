@@ -39,14 +39,21 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 11/6/2023 | REG4260A | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 11/1/2023 | SDP1701A | Maximize Sleep  Minimize Fatigue in Policing | Passed | 0.0 | 3.00 |
+| 10/30/2023 | REG0669A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 10/27/2023 | VND1153A | Washington County CIT Training | Passed | 0.0 | 40.00 |
+| 10/16/2023 | REG2954A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 10/11/2023 | SDP0096A | Defensive Tactics | Passed | 0.0 | 2.50 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/27/2023 | REG4293 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |
+| 9/25/2023 | REG3139A | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 9/18/2023 | REG2584A | DT Back Control | Passed | 0.0 | 1.00 |
 | 9/13/2023 | SDP4317A | Firearms Training | Passed | 0.0 | 3.00 |
 | 9/11/2023 | REG2435A | Cross-side/Positional Flow Drills | Passed | 0.0 | 1.00 |
 | 9/6/2023 | SDP2648A | Ethics Training and Discussion | Passed | 0.0 | 1.00 |
 | 8/28/2023 | REG3847A | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 8/7/2023 | REG3973A | Arm/Limb Control Technique | Passed | 0.0 | 1.00 |
 | 7/24/2023 | REG0938A | Anaconda/Darce Defense | Passed | 0.0 | 1.00 |
 | 7/20/2023 | SDP0181A | LEDS Re-Certification / Certification | Passed | 0.0 | 1.00 |
 | 7/17/2023 | REG0434A | Cross Side Bottom Escape | Passed | 0.0 | 1.00 |

@@ -67,6 +67,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/15/2023
+  course: CAP3765A
+  title: Low Light / VCQB
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/1/2023
+  course: CAP0862A
+  title: Ethics In Law Enforcement (PoliceOne Academy)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/4/2023
+  course: CAP2134A
+  title: Low Light / VCQB
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/13/2023
   course: CAP0876A
   title: The C.A.L.M Approach
@@ -1142,8 +1166,12 @@ attribute_records:
   expiration_date: 12/31/2026
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/12/2022

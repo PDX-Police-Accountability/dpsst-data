@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/27/2023
+  agency: Portland Police Bureau
+  action: Return LOA
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 10/13/2022
   agency: Portland Police Bureau
   action: LOA
@@ -99,6 +105,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP1401A
+  title: FIN-6.14  with KC
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/12/2023
   course: PDP0822A
   title: 2023-2 All Sworn In-Service BWC Policy
@@ -117,6 +141,138 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 10/11/2023
+  course: PDP0589A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/11/2023
+  course: PDP2634A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP1181A
+  title: 2022-12 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP0526A
+  title: 2022-12 CAO Case Law Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP3272A
+  title: 2022-5 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP1738A
+  title: 2022-10 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP0443A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2023
+  course: PDP0940A
+  title: 2021-9 Tips and Techniques Dangers of Extreme Heat
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP2117A
+  title: 2022-11 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP0087A
+  title: 2022-9 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP3941A
+  title: 2023 PCJP and Restorative Justice Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/4/2023
+  course: PDP3318A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP0511A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/4/2023
+  course: PDP0336A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP2624A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 10/4/2023
+  course: PDP1018A
+  title: 2023-2 Tips  Techniques BWC Pilot Policy and FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/4/2023
+  course: PDP1066A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 10/2/2023
+  course: PDP3033A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/2/2023
+  course: PDP2227A
+  title: 2023-1 In Service Crwd Mgmt Baton Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/2/2023
+  course: PDP3583A
+  title: 2023-1 In Service MFF_Formations Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/2/2023
+  course: PDP2188A
+  title: 2023-1 In Service Wellness Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/2/2023
+  course: PDP3130A
+  title: 2023-1 In Service Arrest Proc. Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/30/2023
   course: PDP3868A
   title: 2023-1 In Service Crowd Mgmt Legal Updates
@@ -159,6 +315,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/30/2023
+  course: PDP2137A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/30/2023
+  course: PDP2353A
+  title: 2023-1 In Service Crowd Theory Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/30/2023
+  course: PDP1098A
+  title: 2023-1 In Service Crwd Mgmt Legal Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2023
+  course: PDP1675A
+  title: 2023-1 In Service Force Reporting Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2023
+  course: PDP3118A
+  title: 2023-1 In Service IA Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2023
+  course: PDP0197A
+  title: 2023-1 In Service OPS PlanvsSpont Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/30/2023
+  course: PDP2658A
+  title: 2023-1 InService Crwd Mgmt 40mmOC Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/29/2023
   course: PDP3114A
   title: 2023-1 In Service Crowd Mgmt Police Role
@@ -4270,6 +4468,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/4/2023
+  expiration_date: 10/4/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
@@ -4277,7 +4479,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 12/31/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/15/2012

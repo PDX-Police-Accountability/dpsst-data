@@ -30,6 +30,7 @@
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/29/2023 | PDP1785 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 10/3/2023 | PDP0198A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 9/28/2023 | PDP0680A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Passed | 0.0 | 4.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/21/2023 | PDP3261A | 2018-1 TT Hazard Towing v. Private Request Tows | Passed | 0.0 | 0.25 |

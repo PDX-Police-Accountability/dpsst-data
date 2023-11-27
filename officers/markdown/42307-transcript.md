@@ -43,6 +43,7 @@
 | 9/18/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/30/2023 | EGP1661A | Police Motorcade Training | Passed | 0.0 | 8.00 |
 | 8/7/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 7/18/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/3/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

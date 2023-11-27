@@ -35,6 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2023 | PDP1626A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 11/1/2023 | PDP1626A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/25/2023 | PDP1497A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 10/25/2023 | PDP1497A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 10/11/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/4/2023 | PDP0389A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/27/2023 | PDP2772A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
@@ -107,7 +111,6 @@
 | 2/6/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/6/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/6/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/6/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/26/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |
 | 1/11/2023 | PDP27005 | MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 1/4/2023 | PDP25505 | EDU Weekly Training | Passed | 0.0 | 9.00 |

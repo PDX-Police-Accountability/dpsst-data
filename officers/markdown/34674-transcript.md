@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/14/2023 | PDP1456A | 2023 PPB Honor Guard 21 Gun/Rifle IS | Passed | 0.0 | 10.00 |
+| 11/14/2023 | PDP1456A | 2023 PPB Honor Guard 21 Gun/Rifle IS | Instructed | 0.0 | 10.00 |
 | 10/3/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 10/3/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
 | 10/3/2023 | PDP2486A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |
@@ -42,7 +44,10 @@
 | 10/2/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
 | 10/2/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 10/2/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 10/2/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 10/2/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/30/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 9/30/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 9/22/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP2859A | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 9/12/2023 | PDP2165A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
@@ -90,7 +95,6 @@
 | 3/1/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/1/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/1/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/1/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 2/18/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/18/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

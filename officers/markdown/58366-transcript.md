@@ -23,7 +23,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
@@ -35,6 +36,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 11/9/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/20/2023 | OSH0936A | Sergeant Academy | Passed | 0.0 | 2.00 |
+| 10/20/2023 | OSH1578A | Sergeant Academy | Passed | 0.0 | 1.00 |
+| 10/20/2023 | OSH0473A | Sergeant Academy (written Assisgnment) | Passed | 0.0 | 2.00 |
+| 10/20/2023 | OSH4441A | Sergeant Academy | Passed | 0.0 | 75.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/29/2023 | OSH2699A | 2023 OSP Regional EVOC | Passed | 0.0 | 4.00 |

@@ -38,11 +38,17 @@ certification_records:
 - status_date: 11/30/2021
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 5/27/2020
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/4/2023
+  course: WLP1330A
+  title: Active Threat Response - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 10/9/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -62,17 +68,17 @@ training_records:
   score: '0.0'
   hours: '16.00'
 - date: 9/26/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 9/26/2023
   course: WLP0162A
   title: Defensive Tactics
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/13/2023
+  course: WLP0599A
+  title: Firearms Training / Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/21/2023
   course: WLP1743A
   title: 16 Hour Pistol Mounted Optic Transition Course
@@ -906,10 +912,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 7/15/2022

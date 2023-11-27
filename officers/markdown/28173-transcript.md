@@ -18,8 +18,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/12/2023 | Police Officer | Basic | Expired | 2/2/1994 |  |  |
 | 10/31/2019 | Regulatory Specialist | Basic | Granted | 10/31/2019 |  |  |
-| 9/12/2018 | Police Officer | Basic | Lapsed | 2/2/1994 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | MKL0299A | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/12/2023 | MKL3646A | Hemp/Lab Training | Passed | 0.0 | 2.00 |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/24/2023 | MKL3391A | Ethics Training for Public Officials | Passed | 0.0 | 2.50 |

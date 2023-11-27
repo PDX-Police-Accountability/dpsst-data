@@ -48,6 +48,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/5/2023 | SVP2866A | Senate Bill 111 Response Plan (Marion County) | Passed | 0.0 | 0.50 |
+| 10/25/2023 | SVP1283A | CPR/First Aid Certification and Card | Passed | 0.0 | 4.00 |
+| 10/24/2023 | SVP1292A | Airway (ACAP) Training | Passed | 0.0 | 2.00 |
+| 10/16/2023 | SVP1343A | OSP Crime Lab  Forensic Services Update | Passed | 0.0 | 0.25 |
 | 10/6/2023 | SVP0012A | Remington 870 Less Lethal Shotgun | Passed | 0.0 | 0.50 |
 | 10/3/2023 | SVP1804A | Urban Rifle Training (Power Point) | Passed | 0.0 | 0.50 |
 | 10/1/2023 | SVP0552A | Suicide by Cop | Passed | 0.0 | 1.00 |

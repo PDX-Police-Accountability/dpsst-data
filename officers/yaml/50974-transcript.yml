@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/28/2023
+  course: F6R43463
+  title: SFST Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/31/2023
   course: OCP4095A
   title: Legislative Update
@@ -122,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/4/2023
+  course: OCP36575
+  title: SFST Refresher Course
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/31/2022
   course: OCP44240
   title: Ethics

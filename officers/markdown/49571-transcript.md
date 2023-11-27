@@ -33,6 +33,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/19/2023 | PDP4216A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/12/2023 | PDP4301A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
+| 10/5/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 9/27/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -42,12 +47,18 @@
 | 9/27/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 8/30/2023 | PDP1083A | 2023 FIT Surveillance and Follows | Passed | 0.0 | 5.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/10/2023 | PDP3599A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 8/9/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 4.00 |
 | 8/8/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 8/4/2023 | PDP3359A | 2023 FIT Elevated Risk Traffic Stops | Passed | 0.0 | 5.00 |
+| 8/4/2023 | PDP2256A | 2023 FIT Foot Pursuits | Passed | 0.0 | 1.00 |
+| 8/4/2023 | PDP2256A | 2023 FIT Foot Pursuits | Instructed | 0.0 | 1.00 |
+| 8/4/2023 | PDP1537A | 2023 FIT History of Street Gangs in Portland | Passed | 0.0 | 2.00 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 7/21/2023 | PDP0642A | 2023 FIT Foot Pursuits | Instructed | 0.0 | 1.00 |
 | 7/13/2023 | PDP2215A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 7/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/6/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
@@ -63,6 +74,7 @@
 | 6/10/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 6/9/2023 | VND2202A | OTOA Basic SWAT (STUDENTS) | Passed | 0.0 | 40.00 |
 | 5/25/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 5/24/2023 | PDP3918A | 2023 FIT Critical Incident Training | Passed | 0.0 | 6.00 |
 | 5/18/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/17/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/17/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
@@ -76,7 +88,6 @@
 | 5/8/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 5/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 5/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 5/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 5/4/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/2/2023 | PDP4462A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/29/2023 | PDP25343 | 2023-1 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

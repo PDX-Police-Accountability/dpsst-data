@@ -36,6 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 10/27/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP3596A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.50 |
+| 10/19/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 10/4/2023 | PDP1797A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 9/14/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/14/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -99,7 +104,6 @@
 | 1/31/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 1/31/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/31/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
-| 1/31/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/30/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/30/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
 | 1/26/2023 | PDP03900 | SERT Training - Clearing | Passed | 0.0 | 9.00 |

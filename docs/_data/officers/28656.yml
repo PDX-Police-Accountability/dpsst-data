@@ -49,21 +49,21 @@ certification_records:
 - status_date: 1/19/2021
   certificate: Police Officer
   level: Advanced
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 6/23/2000
   expiration_date: ''
   probation_date: ''
 - status_date: 1/19/2021
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 6/17/1994
   expiration_date: ''
   probation_date: ''
 - status_date: 1/19/2021
   certificate: Police Officer
   level: Intermediate
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 5/21/1997
   expiration_date: ''
   probation_date: ''

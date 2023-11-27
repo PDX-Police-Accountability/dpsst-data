@@ -21,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/19/2022 | Police Officer | Advanced | Reactivate | 3/16/2001 |  |  |
-| 10/19/2022 | Police Officer | Basic | Reactivate | 10/22/1993 |  |  |
-| 10/19/2022 | Police Officer | Intermediate | Reactivate | 3/16/2001 |  |  |
+| 10/19/2022 | Police Officer | Advanced | Reactivatd | 3/16/2001 |  |  |
+| 10/19/2022 | Police Officer | Basic | Reactivatd | 10/22/1993 |  |  |
+| 10/19/2022 | Police Officer | Intermediate | Reactivatd | 3/16/2001 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 11/12/2023 | PDS3559A | Traffic Incident Management | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 8/16/2023 | PDS2358A | Less Lethal | Passed | 0.0 | 4.50 |
 | 8/1/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |

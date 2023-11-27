@@ -42,6 +42,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2023
+  course: PDP0677A
+  title: 2023 Supevisor In-Service Detectives
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2023
+  course: PDP1020A
+  title: 2023 Supevisor In-Service Elation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/30/2023
+  course: PDP3431A
+  title: 2023 Supevisor In-Service Chief's Office Disc.
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/30/2023
+  course: PDP2332A
+  title: 2023 Supevisor In-Service EAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2023
+  course: PDP0423A
+  title: 2023 Supevisor In-Service SSD
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/30/2023
+  course: PDP0054A
+  title: 2023 Supevisor In-Service Knowledge Check/Survey
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/15/2023
   course: PDP1263A
   title: 2022-12 CAO Legal Updates for 12/2022
@@ -342,12 +390,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 1/3/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 12/14/2022
   course: PDP10923
   title: Oregon Ballot Measure 114

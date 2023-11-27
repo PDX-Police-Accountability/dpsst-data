@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2023
+  course: PDP1456A
+  title: 2023 PPB Honor Guard 21 Gun/Rifle IS
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 10/30/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/31/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -277,12 +295,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/22/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/19/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy

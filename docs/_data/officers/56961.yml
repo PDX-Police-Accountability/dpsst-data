@@ -31,6 +31,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/20/2023
+  course: PDP0016A
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/11/2023
+  course: PDP1239A
+  title: Intellectual Property Theft Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/3/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -79,6 +97,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 10/2/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/2/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/5/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -115,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/24/2023
+  course: PDP0365A
+  title: 2023-2 Field Training Officer (FTO)
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/23/2023
   course: PDP3557A
   title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
@@ -301,12 +337,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 4/5/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -2730,6 +2760,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/19/2023
@@ -2737,7 +2771,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/12/2018

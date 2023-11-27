@@ -28,6 +28,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 10/20/2023 | REG2347A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 9/21/2023 | REG1057A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 7/17/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |

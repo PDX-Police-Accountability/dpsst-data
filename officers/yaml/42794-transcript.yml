@@ -86,6 +86,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/20/2023
+  course: OCS3124A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2023
+  course: OCS2180A
+  title: Balancing Speed/Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/16/2023
+  course: OCS2343A
+  title: Force on Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: OCS1119A
+  title: Use of force decision making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/12/2023
   course: OCS3872A
   title: Shotgun Orientation
@@ -206,6 +236,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '93.00'
+- date: 6/12/2023
+  course: OCS4091A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/1/2023
   course: OCS4327A
   title: Shoot/No Shoot Targets, Marksmanship, Cover
@@ -3682,13 +3718,17 @@ training_records:
   hours: '6.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022

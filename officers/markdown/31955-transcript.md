@@ -33,8 +33,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/1/2023 | 2/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 9/6/2011 |  |
 ## Education
@@ -46,8 +47,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/1/2023 | CAP0862A | Ethics In Law Enforcement (PoliceOne Academy) | Passed | 0.0 | 1.00 |
+| 9/28/2023 | F6R2702A | ICAT | Passed | 0.0 | 2.00 |
+| 9/28/2023 | F6R3850A | Cyber Threats | Passed | 0.0 | 1.00 |
+| 9/28/2023 | F6R2216A | Raising the Standard of Resiliency | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3554A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 9/27/2023 | HUP3615A | OACP/OSSA Board Meeting | Passed | 0.0 | 2.00 |
+| 9/27/2023 | F6R4411A | Mitigating Potential Law Enforcement Risk | Passed | 0.0 | 2.00 |
+| 9/27/2023 | F6R0773A | RITE for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/13/2023 | CAP0876A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3939A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |
 | 9/13/2023 | CAP3894A | The C.A.L.M Approach | Passed | 0.0 | 2.00 |

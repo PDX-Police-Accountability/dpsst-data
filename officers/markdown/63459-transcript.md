@@ -28,6 +28,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/10/2023 | PDP1425A | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
+| 10/10/2023 | PDP3717A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/10/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/10/2023 | PDP1126A | Annual CIU NTR Alarm Response Training - RRNR | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |

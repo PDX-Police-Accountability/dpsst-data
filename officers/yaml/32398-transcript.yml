@@ -44,6 +44,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/9/2023
+  course: PDP0725A
+  title: 2023-2 All Sworn In-Service ABLE Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/9/2023
+  course: PDP2405A
+  title: 2023-2 All Sworn In-Service Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/30/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/18/2023
   course: PDP3873A
   title: 2023 CNT Crisis Negotiation Team Annual Training

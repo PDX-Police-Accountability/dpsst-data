@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/30/2023
+  course: EGP1661A
+  title: Police Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/7/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management

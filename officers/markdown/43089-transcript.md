@@ -30,16 +30,17 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 10/19/2021 | Instructor |  | Expired | 1/1/2014 |  |  |
-| 12/30/2016 | Police Officer | Basic | Reactivate | 3/5/2010 |  |  |
+| 12/30/2016 | Police Officer | Basic | Reactivatd | 3/5/2010 |  |  |
 | 6/5/2014 | Corrections Officer | Advanced | Granted | 6/5/2014 |  |  |
-| 4/4/2011 | Corrections Officer | Basic | Reactivate | 12/1/2006 |  |  |
-| 4/4/2011 | Corrections Officer | Intermediate | Reactivate | 10/22/2007 |  |  |
+| 4/4/2011 | Corrections Officer | Basic | Reactivatd | 12/1/2006 |  |  |
+| 4/4/2011 | Corrections Officer | Intermediate | Reactivatd | 10/22/2007 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/9/2023 | 1/9/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 2/21/2006 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,12 +49,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/31/2023 | LGS4346A | Anti-Bias Training for LE (P1 Academy, #CULT104) | Passed | 0.0 | 2.00 |
+| 10/31/2023 | LGS0652A | Ethics In Law Enforcement (P1 Academy #ETHIC101) | Passed | 0.0 | 1.00 |
+| 10/31/2023 | LGS2366A | Crisis Intervention Training (CIT) (P1 Academy) | Passed | 0.0 | 1.00 |
 | 9/27/2023 | LGS2112A | Juvenile Law Update | Passed | 0.0 | 1.00 |
 | 9/8/2023 | LGS3506A | DT  Con Sim Inservice | Instructed | 0.0 | 8.00 |
+| 8/25/2023 | LGS0393A | Taser 7 Operator Course | Instructed | 0.0 | 4.00 |
+| 8/23/2023 | LGS1852A | Taser 7 Operator Course | Instructed | 0.0 | 1.00 |
+| 8/23/2023 | LGS1852A | Taser 7 Operator Course | Passed | 0.0 | 3.00 |
 | 7/10/2023 | REG2133A | Handgun IDC | Instructed | 0.0 | 10.00 |
 | 6/23/2023 | LGS1957A | Pistol Qual/Training | Passed | 0.0 | 1.00 |
 | 6/6/2023 | BKP1987A | MERRTT / D.O.E. Secure Transport | Passed | 0.0 | 16.00 |
 | 5/23/2023 | REG4142A | Patrol Rifle IDC | Instructed | 0.0 | 30.00 |
+| 5/17/2023 | LGS3174A | Patrol Pistol Firearms | Instructed | 0.0 | 4.00 |
 | 5/5/2023 | VND0329A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 8.00 |
 | 3/29/2023 | LGS40316 | Patrol Firearms | Instructed | 0.0 | 4.00 |
 | 3/22/2023 | LGS35901 | Case Law Review | Passed | 0.0 | 1.00 |

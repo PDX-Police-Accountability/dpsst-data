@@ -25,9 +25,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/27/2023 | 2/27/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Signed | 9/2/2008 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -38,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 6/18/2023 | HBP3509A | EVOC - Backing Exercise | Passed | 0.0 | 0.50 |
 | 6/18/2023 | HBP3520A | EVOC - PIT | Passed | 0.0 | 1.00 |
 | 4/26/2023 | HBP28684 | DV Update, Strangulation, and Death Investigation | Passed | 0.0 | 1.00 |

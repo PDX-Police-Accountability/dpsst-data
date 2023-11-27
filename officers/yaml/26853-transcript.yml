@@ -70,12 +70,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/19/2032
-  course: F1535110
-  title: Microaggression Training
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 8/25/2023
   course: F1531013
   title: 'Incident Analysis: Fargo PD Ambush'
@@ -124,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 5/19/2023
+  course: F1535110
+  title: Microaggression Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/19/2023
   course: F1527284
   title: Strangulation - Last Warning Shot 2

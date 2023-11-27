@@ -170,6 +170,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/18/2022
+  course: PDS2870A
+  title: Flying While Armed
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/29/2022
   course: PDS36628
   title: PREA

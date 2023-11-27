@@ -48,6 +48,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/9/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/20/2023
+  course: OSH0936A
+  title: Sergeant Academy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2023
+  course: OSH1578A
+  title: Sergeant Academy
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/20/2023
+  course: OSH0473A
+  title: Sergeant Academy (written Assisgnment)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/20/2023
+  course: OSH4441A
+  title: Sergeant Academy
+  status: Passed
+  score: '0.0'
+  hours: '75.00'
 - date: 9/21/2023
   course: RSS0455A
   title: 13th Annual OHIA Major Crimes Conference
@@ -1239,8 +1269,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/22/2022

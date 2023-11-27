@@ -28,26 +28,26 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 11/22/2010
+- status_date: 10/17/2023
   certificate: Police Officer
   level: Advanced
-  status: Granted
+  status: Lapsed
   certificate_date: 11/22/2010
-  expiration_date: 10/17/2023
+  expiration_date: 7/17/2028
   probation_date: ''
-- status_date: 11/22/2010
-  certificate: Police Officer
-  level: Intermediate
-  status: Granted
-  certificate_date: 11/22/2010
-  expiration_date: 10/17/2023
-  probation_date: ''
-- status_date: 5/5/1999
+- status_date: 10/17/2023
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Lapsed
   certificate_date: 5/5/1999
-  expiration_date: 10/17/2023
+  expiration_date: 7/17/2028
+  probation_date: ''
+- status_date: 10/17/2023
+  certificate: Police Officer
+  level: Intermediate
+  status: Lapsed
+  certificate_date: 11/22/2010
+  expiration_date: 7/17/2028
   probation_date: ''
 training_records:
 - date: 6/24/2023
@@ -176,12 +176,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/29/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/19/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -3607,14 +3601,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 6/1/2023
   expiration_date: 6/1/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Signed
   effective_date: 11/22/2010

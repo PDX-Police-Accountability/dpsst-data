@@ -105,6 +105,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2023
+  course: PDP3596A
+  title: 2023 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/19/2023
+  course: PDP0710A
+  title: 2023 K-9 Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/5/2023
   course: PDP1797A
   title: 2023 K-9 Weekly Training

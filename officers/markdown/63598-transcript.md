@@ -28,6 +28,28 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/28/2023 | PDP0443A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 10/28/2023 | PDP0313A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 10/28/2023 | PDP1096A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 10/28/2023 | PDP0336A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP3717A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/27/2023 | PDP3297A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP3033A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 10/27/2023 | PDP0589A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP3318A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1126A | Annual CIU NTR Alarm Response Training - RRNR | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP0790A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/25/2023 | PDP2634A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 10/23/2023 | PDP0940A | 2021-9 Tips and Techniques Dangers of Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/23/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/23/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
+| 10/23/2023 | PDP3795A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/22/2023 | PDP4241A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 9/4/2023 | PDP0117A | 2023 Body Worn Camera Policy with KC | Passed | 0.0 | 1.00 |
 | 9/1/2023 | PDP0516A | 2023 Body-Worn Camera (BWC) Policy Online | Passed | 0.0 | 1.00 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |

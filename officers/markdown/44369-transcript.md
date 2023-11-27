@@ -28,9 +28,9 @@
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 9/7/2022 | Instructor |  | Granted | 9/7/2022 |  |  |
 | 2/5/2021 | Police Officer | Supervisory | Granted | 2/5/2021 |  |  |
-| 6/6/2018 | Police Officer | Advanced | Reactivate | 9/14/2012 |  |  |
-| 6/6/2018 | Police Officer | Intermediate | Reactivate | 2/24/2009 |  |  |
-| 5/17/2018 | Police Officer | Basic | Reactivate | 6/28/2007 |  |  |
+| 6/6/2018 | Police Officer | Advanced | Reactivatd | 9/14/2012 |  |  |
+| 6/6/2018 | Police Officer | Intermediate | Reactivatd | 2/24/2009 |  |  |
+| 5/17/2018 | Police Officer | Basic | Reactivatd | 6/28/2007 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -46,7 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/28/2023 | STP4305A | 40mm Launcher training/certification | Passed | 0.0 | 2.00 |
 | 9/25/2023 | STP0170 | Firearms Training Moving and Shooting | Passed | 0.0 | 4.00 |
+| 8/31/2023 | OSH0971A | 2023 OSP CJIS Statewide Conference | Passed | 0.0 | 4.50 |
+| 8/30/2023 | OSH3533A | 2023 OSP CJIS Statewide Conference | Passed | 0.0 | 8.00 |
+| 8/29/2023 | OSH1000A | 2023 OSP CJIS Statewide Conference | Passed | 0.0 | 4.50 |
 | 6/20/2023 | STP2543A | Defensive Tactics | Instructed | 0.0 | 7.50 |
 | 6/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 6/4/2023 | STP3859A | Firearms Qualification and Training | Passed | 0.0 | 4.00 |

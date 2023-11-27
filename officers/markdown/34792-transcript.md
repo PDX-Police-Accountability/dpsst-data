@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2023 | TAP4029A | Understanding and Responding to Excited Delirium | Passed | 0.0 | 1.00 |
+| 11/7/2023 | ADP1302A | Night Range-Handgun-Rifle | Passed | 0.0 | 4.00 |
+| 9/27/2023 | TAP1338A | TASER 7 Annual Recert | Instructed | 0.0 | 1.00 |
 | 9/26/2023 | TAP3156A | Active Threat Mass Casualty Reunification | Passed | 0.0 | 6.00 |
 | 9/15/2023 | ADP0343 | Building searches/ Scenarios | Passed | 0.0 | 8.00 |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/9/2023
+  course: OCP0839A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/8/2023
   course: PDP1263A
   title: 2022-12 CAO Legal Updates for 12/2022

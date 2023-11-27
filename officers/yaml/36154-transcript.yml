@@ -56,6 +56,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2023
+  course: MFP2595A
+  title: SFST Refresher  DUII Evidence Procedures
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/27/2023
+  course: MFP0944A
+  title: High Tech Crimes + Digital Evid./Civil Forfeiture
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 10/27/2023
+  course: MFP1650A
+  title: ADA/Critical Inj. Protocol+Karly's Law/Dang. Dogs
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
+- date: 9/26/2023
+  course: MFP0880A
+  title: Heat Illness Prevention  Wilfdfire Smoke Awarenes
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/15/2023
   course: MFP2608A
   title: 'ETHOS Academy: Leadership 2023'

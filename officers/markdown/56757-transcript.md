@@ -29,10 +29,12 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/19/2023 | Bachelor Science | Portland State University | Social Sciences | 209.0 |
 | 6/15/2011 | No Degree | University Of Oregon |  | 40.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2023 | PSU1821A | Behavioral Threat Assessment | Passed | 0.0 | 16.00 |
 | 10/4/2023 | PSU4061A | Digital Threat Assesment | Passed | 0.0 | 6.00 |
 | 5/16/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/16/2023 | PSU0064 | Low Light/Shooting  Moving/Transitions/ Qual | Passed | 0.0 | 2.50 |
@@ -43,6 +45,7 @@
 | 9/5/2022 | PSU01586 | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/5/2022 | PSU21132 | Crisis Intervention - Mentally ill subjects | Passed | 0.0 | 2.00 |
 | 9/5/2022 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 1.00 |
+| 9/5/2022 | PSU0247A | Intro to Trauma Informed Care | Passed | 0.0 | 1.00 |
 | 8/25/2022 | PSU24314 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 8/19/2022 | PSU10134 | HB 2513 Airway, Circulatory Anatomy Training | Passed | 0.0 | 2.00 |
 | 7/27/2022 | PSU33623 | NOBLE Training Confrence 2022 | Passed | 0.0 | 32.00 |

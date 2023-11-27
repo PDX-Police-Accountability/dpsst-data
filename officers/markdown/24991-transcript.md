@@ -4,7 +4,7 @@
 | name | Oleary, Chester J. |
 | dpsst_identifier | 24991 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Reserve Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/7/2014 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 2/19/1991 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

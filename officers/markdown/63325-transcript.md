@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/10/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Passed | 0.0 | 3.00 |
 | 6/1/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |

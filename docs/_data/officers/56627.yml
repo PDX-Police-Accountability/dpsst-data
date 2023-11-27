@@ -16,11 +16,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/20/2023
+- status_date: 11/8/2023
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 11/8/2023
   expiration_date: ''
   probation_date: ''
 - status_date: 6/14/2023
@@ -38,6 +38,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/14/2023
+  course: PDP1456A
+  title: 2023 PPB Honor Guard 21 Gun/Rifle IS
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/2/2023
+  course: PDP0725A
+  title: 2023-2 All Sworn In-Service ABLE Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/2/2023
+  course: PDP4482A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/2/2023
+  course: PDP2093A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/2/2023
+  course: PDP2405A
+  title: 2023-2 All Sworn In-Service Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/2/2023
+  course: PDP3828A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/2/2023
+  course: PDP0670A
+  title: 2023-2 All Sworn In-Service PP Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/1/2023
+  course: PDP3984A
+  title: 2023-2 All Sworn In-Service Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/1/2023
+  course: PDP2793A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/1/2023
+  course: PDP0120A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2023
+  course: PDP4523A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/1/2023
+  course: PDP1908A
+  title: 2023-2 All Sworn In-Service TII Equity 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/1/2023
+  course: PDP1415A
+  title: 2023-2 All Sworn In-Service TII Equity 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/21/2023
   course: PDP1721A
   title: 2021 Training Emergency Entry Recap Video
@@ -50,6 +134,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/4/2023
+  course: PDP3359A
+  title: 2023 FIT Elevated Risk Traffic Stops
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 8/4/2023
+  course: PDP2256A
+  title: 2023 FIT Foot Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/4/2023
+  course: PDP1537A
+  title: 2023 FIT History of Street Gangs in Portland
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/8/2023
   course: PDP2260A
   title: 2023-2 Range Qualification 40mm Less Lethal
@@ -134,6 +236,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/18/2023
+  course: PDP0953A
+  title: 2023-1 All Sworn In-Service Mobile Field Force LDR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2023
+  course: PDP1482A
+  title: 2023-1 All Sworn In-Service Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/18/2023
+  course: PDP3841A
+  title: 2023-1 AS In-Service Crowd Mgmt. Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/18/2023
+  course: PDP4511A
+  title: 2023-1 All Sworn In-Service Field Arrest
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/18/2023
+  course: PDP4112A
+  title: 2023-1 AS In-Service Crowd Mgmt. Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2023
+  course: PDP2089A
+  title: 2023-1 All Sworn In-Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/14/2023
   course: PDP4344A
   title: 2023 PPB Honor Guard In Service Training
@@ -224,12 +362,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/6/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/5/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -2629,6 +2761,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/16/2023
@@ -2636,7 +2772,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/6/2017

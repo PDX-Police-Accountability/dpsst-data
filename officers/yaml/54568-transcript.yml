@@ -3,12 +3,18 @@ header_record:
   name: Ruiz, Michael A.
   dpsst_identifier: '54568'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Reserve Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/26/2016
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 8/19/2014
   agency: Portland Police Bureau
   action: Hired

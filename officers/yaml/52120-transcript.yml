@@ -34,12 +34,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 10/16/2023
+- status_date: 11/8/2023
   certificate: Police Officer
   level: Supervisory
-  status: App Recd
-  certificate_date: ''
-  expiration_date: 12/11/2023
+  status: Granted
+  certificate_date: 11/8/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 6/13/2014
   certificate: Police Officer
@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/2/2023
+  course: PDP0990A
+  title: 2023  Evidence Basics for Use of Force Invest.
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/12/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -344,12 +350,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 5/3/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 12/15/2022
   course: PDP11332
   title: 2022 Respiratory Protection Yearly Screening

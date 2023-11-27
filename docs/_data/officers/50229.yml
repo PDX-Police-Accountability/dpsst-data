@@ -49,6 +49,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/22/2023
+  course: TRN0690A
+  title: 2023 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2023
+  course: TRN1506A
+  title: Do the Right Thing v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2023
+  course: TRN3455A
+  title: Emotional Wellness for Corr Professionals v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2023
+  course: TRN2045A
+  title: DOC - Document Sensitivity Labeling v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2023
+  course: TRN2089A
+  title: DOC - ICS for Corrections v2023
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/22/2023
+  course: TRN2260A
+  title: EDIB v2023
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/22/2023
+  course: TRN1523A
+  title: Financial Wellness for Corr Professional v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2023
+  course: TRN2951A
+  title: HIPAA for Everyone v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/22/2023
+  course: TRN3535A
+  title: Fire Extinguisher Use and Safety v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2023
+  course: TRN3503A
+  title: Occupational Wellness for Corr Professionals v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2023
+  course: TRN3197A
+  title: Intellectual Wellness for Corr Professionals v2023
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/22/2023
+  course: TRN2407A
+  title: Preventing and Reducing Stigma v2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/22/2023
+  course: TRN3269A
+  title: Suicide Detection and Prevention v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/21/2023
+  course: TRN0767A
+  title: Bloodborne Pathogens in the Workplace v2023
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/8/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

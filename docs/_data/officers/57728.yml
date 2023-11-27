@@ -30,6 +30,12 @@ certification_records:
   expiration_date: 12/11/2025
   probation_date: ''
 training_records:
+- date: 5/9/2023
+  course: ALS3375A
+  title: HRT Entries
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/7/2020
   course: PDP39835
   title: 2020-2 Range Qualification 40mm Less Lethal Qual

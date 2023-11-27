@@ -44,6 +44,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/13/2023
+  course: PDP3984A
+  title: 2023-2 All Sworn In-Service Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/13/2023
+  course: PDP2793A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/13/2023
+  course: PDP0120A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2023
+  course: PDP4523A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/13/2023
+  course: PDP1908A
+  title: 2023-2 All Sworn In-Service TII Equity 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/13/2023
+  course: PDP1415A
+  title: 2023-2 All Sworn In-Service TII Equity 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/17/2023
+  course: PDP0677A
+  title: 2023 Supevisor In-Service Detectives
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2023
+  course: PDP0054A
+  title: 2023 Supevisor In-Service Knowledge Check/Survey
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/17/2023
+  course: PDP1020A
+  title: 2023 Supevisor In-Service Elation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/17/2023
+  course: PDP0423A
+  title: 2023 Supevisor In-Service SSD
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/17/2023
+  course: PDP3431A
+  title: 2023 Supevisor In-Service Chief's Office Disc.
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/17/2023
+  course: PDP2332A
+  title: 2023 Supevisor In-Service EAP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/28/2023
   course: PDP1464A
   title: 2023 BWC IA IG IPR Axon Online Recorded Training
@@ -320,12 +398,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/27/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 2/16/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -4567,6 +4639,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/18/2023
@@ -4574,7 +4650,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/5/2005

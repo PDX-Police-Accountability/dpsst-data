@@ -4,7 +4,7 @@
 | name | Schmidt, Eric J. |
 | dpsst_identifier | 52804 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Reserve Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/6/2014 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 9/5/2012 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

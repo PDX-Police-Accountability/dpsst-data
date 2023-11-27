@@ -55,6 +55,18 @@ certification_records:
   expiration_date: 1/27/2027
   probation_date: ''
 training_records:
+- date: 10/24/2023
+  course: PDP1433A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/24/2023
+  course: PDP0016A
+  title: After Action Reports PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/5/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -115,6 +127,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 10/4/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/4/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/1/2023
+  course: PDP1181A
+  title: 2022-12 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/26/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -133,6 +163,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/21/2023
+  course: PDP1454A
+  title: 2023 Traffic Intoxilyzer 8000 Certification
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/15/2023
   course: PDP0934A
   title: 2023 Portland Community Justice Partnership

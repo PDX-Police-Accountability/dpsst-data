@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/1/2023
+  course: PDP1181A
+  title: 2022-12 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/1/2023
+  course: PDP2117A
+  title: 2022-11 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/6/2023
   course: PDP2741A
   title: 2023 Video Evidence Basics for the Police
@@ -332,12 +344,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/8/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 1/21/2023
   course: PDP35372
   title: 2022 Naxolone Administration

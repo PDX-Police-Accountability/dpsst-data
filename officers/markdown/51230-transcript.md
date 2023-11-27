@@ -38,6 +38,10 @@
 | 6/24/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/24/2023 | PDP0022A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 6/24/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 6/15/2023 | OSH1976A | Qualifications, Stress Shooting, Precision Drills | Instructed | 0.0 | 6.00 |
+| 6/14/2023 | OSH2698A | Decision Making, unconventional Targets/Shoot | Instructed | 0.0 | 8.00 |
+| 6/13/2023 | OSH3753A | Rifle Tripod, Moving Targets, Barriers | Instructed | 0.0 | 8.00 |
+| 6/12/2023 | OSH2263A | Sniper Rifle Marksmanship and Positional Drills | Instructed | 0.0 | 8.00 |
 | 6/8/2023 | PDP0661A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 6/8/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 6/8/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
@@ -83,7 +87,6 @@
 | 2/8/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/30/2023 | PDP02928 | SERT: Firearms Training | Passed | 0.0 | 13.00 |
 | 1/24/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |

@@ -4,7 +4,7 @@
 | name | Farrell, Bryan M. |
 | dpsst_identifier | 39235 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Reserve Officer |
 | level |  |
 | classification |  |
@@ -14,6 +14,7 @@
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 12/10/2019 | Multnomah County Sheriff's Office | Resigned | Reserve |  |  |
 | 7/24/2018 | Multnomah County Sheriff's Office | Hired | Reserve |  |  |
+| 1/31/2013 | Portland Police Bureau | Resigned | Reserve |  |  |
 | 4/25/2000 | Portland Police Bureau | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

@@ -55,9 +55,21 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 11/1/2023
+  course: OCP3229A
+  title: Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/1/2023
+  course: OCP1922A
+  title: Biases Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/14/2023
   course: OCS1387A
-  title: Third Degree Communications
+  title: Interview and Interrogation Training
   status: Passed
   score: '0.0'
   hours: '24.00'

@@ -28,7 +28,7 @@
 | 7/5/2017 | Police Officer | Supervisory | Granted | 7/5/2017 |  |  |
 | 5/23/2012 | Police Officer | Advanced | Granted | 5/23/2012 |  |  |
 | 2/1/2010 | Police Officer | Intermediate | Granted | 2/1/2010 |  |  |
-| 1/12/2010 | Police Officer | Basic | Reactivate | 7/27/1998 |  |  |
+| 1/12/2010 | Police Officer | Basic | Reactivatd | 7/27/1998 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

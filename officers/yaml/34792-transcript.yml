@@ -56,6 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/7/2023
+  course: TAP4029A
+  title: Understanding and Responding to Excited Delirium
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/7/2023
+  course: ADP1302A
+  title: Night Range-Handgun-Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 9/27/2023
+  course: TAP1338A
+  title: TASER 7 Annual Recert
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/26/2023
   course: TAP3156A
   title: Active Threat Mass Casualty Reunification

@@ -29,6 +29,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Certification Cards | First Aid and CPR | 10/27/2023 | 10/27/2025 |
 | Certification Cards | First Aid and CPR | 3/14/2022 | 3/10/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/11/2000 |  |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | MMP2956A | Adult/Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
 | 10/11/2023 | MMP4299A | Defensive Tactics / Baton Refresher | Passed | 0.0 | 3.00 |
 | 10/5/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2023 | MMP4487A | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |

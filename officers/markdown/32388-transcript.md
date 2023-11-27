@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | GSP0625A | Barricaded Incident Debrief | Passed | 0.0 | 4.00 |
+| 10/26/2023 | GSP1671A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
+| 10/25/2023 | GSP4221A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
+| 10/24/2023 | GSP4481A | Area Search and K9 Apprehension | Passed | 0.0 | 8.00 |
+| 10/23/2023 | GSP2235A | IP Decision Making, Armor, HRT Command and Control | Passed | 0.0 | 8.00 |
 | 9/5/2023 | HBS1709A | Con-Sim Building Search | Passed | 0.0 | 8.00 |
 | 3/9/2023 | WBP21933 | Combative Firearms: Developing Speed and Accuracy | Passed | 0.0 | 24.00 |
 | 1/25/2023 | GSP18222 | Red Dot Transition | Instructed | 0.0 | 10.00 |

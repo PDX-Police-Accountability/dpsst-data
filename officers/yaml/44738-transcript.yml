@@ -43,7 +43,7 @@ certification_records:
 - status_date: 10/22/2020
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 12/15/2005
   expiration_date: ''
   probation_date: ''
@@ -1079,6 +1079,10 @@ attribute_records:
   value: Signed
   effective_date: 10/18/2004
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: First Aid/CPR Required
+  effective_date: 1/1/1900
+  expiration_date: 11/7/2023
 education_records:
 - date: 5/16/2003
   degree: Bachelor Science

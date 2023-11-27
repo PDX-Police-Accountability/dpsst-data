@@ -24,12 +24,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/1/2021 | Police Officer | Advanced | Reactivate | 10/10/2007 |  |  |
-| 7/1/2021 | Police Officer | Basic | Reactivate | 4/12/1993 |  |  |
-| 7/1/2021 | Police Officer | Executive | Reactivate | 8/7/2017 |  |  |
-| 7/1/2021 | Police Officer | Intermediate | Reactivate | 10/10/2007 |  |  |
-| 7/1/2021 | Police Officer | Management | Reactivate | 8/7/2017 |  |  |
-| 7/1/2021 | Police Officer | Supervisory | Reactivate | 9/19/2011 |  |  |
+| 7/1/2021 | Police Officer | Advanced | Reactivatd | 10/10/2007 |  |  |
+| 7/1/2021 | Police Officer | Basic | Reactivatd | 4/12/1993 |  |  |
+| 7/1/2021 | Police Officer | Executive | Reactivatd | 8/7/2017 |  |  |
+| 7/1/2021 | Police Officer | Intermediate | Reactivatd | 10/10/2007 |  |  |
+| 7/1/2021 | Police Officer | Management | Reactivatd | 8/7/2017 |  |  |
+| 7/1/2021 | Police Officer | Supervisory | Reactivatd | 9/19/2011 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

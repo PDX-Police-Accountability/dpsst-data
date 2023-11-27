@@ -30,6 +30,60 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/19/2023
+  course: PDP3941A
+  title: 2023 PCJP and Restorative Justice Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/19/2023
+  course: PDP1018A
+  title: 2023-2 Tips  Techniques BWC Pilot Policy and FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/19/2023
+  course: PDP3795A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/18/2023
+  course: PDP0359A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: PDP3272A
+  title: 2022-5 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/16/2023
+  course: PDP0940A
+  title: 2021-9 Tips and Techniques Dangers of Extreme Heat
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/16/2023
+  course: PDP0511A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/11/2023
+  course: PDP1425A
+  title: 2021 Training Crowd Control Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/2/2023
+  course: PDP2137A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/19/2023
   course: PDP0363A
   title: 2020-10 CAO Legal Updates for 10/2020

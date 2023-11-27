@@ -24,9 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/4/2023 | 2/4/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 10/14/2021 | 10/14/2023 |
 | Code of Ethics | Law Enforcement Signed | 5/23/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
 ## Education
@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/9/2023 | OCP0839A | 0 | Passed | 0.0 | 1.50 |
+| 10/14/2023 | OCP1596A | PIT Training | Passed | 0.0 | 1.00 |
+| 9/30/2023 | OCP3504A | Threat of Harm Refresher | Passed | 0.0 | 0.50 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 8/17/2023 | OCP0486A | Use of Force | Passed | 0.0 | 2.00 |
 | 7/26/2023 | OCP3059A | Taser Re-cert | Passed | 0.0 | 2.00 |

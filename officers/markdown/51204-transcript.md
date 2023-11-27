@@ -33,10 +33,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/19/2023 | PDP4216A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/12/2023 | PDP4301A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
+| 10/11/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/11/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/11/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/11/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/11/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
 | 9/29/2023 | PDP0874A | OTOA Basic Sniper School | Passed | 0.0 | 40.00 |
 | 9/25/2023 | HBS4458A | Law Enforcement Basic Sniper School | Passed | 0.0 | 37.00 |
 | 9/14/2023 | PDP3167A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |
+| 9/14/2023 | PDP3862A | Introduction to Motivational Interviewing | Passed | 0.0 | 10.00 |
 | 8/31/2023 | PDP0947A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/24/2023 | PDP2106A | 2023 SERT Training - Iteration | Passed | 0.0 | 9.00 |
 | 8/23/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
@@ -52,6 +61,10 @@
 | 6/28/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/28/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/28/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 6/15/2023 | OSH1976A | Qualifications, Stress Shooting, Precision Drills | Passed | 0.0 | 6.00 |
+| 6/14/2023 | OSH2698A | Decision Making, unconventional Targets/Shoot | Passed | 0.0 | 8.00 |
+| 6/13/2023 | OSH3753A | Rifle Tripod, Moving Targets, Barriers | Passed | 0.0 | 8.00 |
+| 6/12/2023 | OSH2263A | Sniper Rifle Marksmanship and Positional Drills | Passed | 0.0 | 8.00 |
 | 6/8/2023 | PDP0661A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 5.00 |
 | 6/8/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 6/8/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
@@ -100,7 +113,6 @@
 | 1/30/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 1/30/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/30/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/30/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/26/2023 | PDP02928 | SERT: Firearms Training | Passed | 0.0 | 9.00 |
 | 1/19/2023 | PDP44394 | SERT Training Scenario | Passed | 0.0 | 9.00 |
 | 12/31/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

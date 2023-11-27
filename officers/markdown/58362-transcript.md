@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 11/21/2023 | Police Officer | Intermediate | Granted | 11/21/2023 |  |  |
 | 3/2/2019 | Police Officer | Basic | Granted | 3/2/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -34,13 +35,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
+| 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
+| 9/13/2023 | OCS3861A | Scenarios and Deescalation | Passed | 0.0 | 1.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 7/1/2023 | OCS3379A | One Handed Shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
+| 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |

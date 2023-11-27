@@ -30,7 +30,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/30/2022 | 3/30/2024 |
 | Code of Ethics | Signed | 8/15/2006 |  |
 ## Education
@@ -41,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 10/24/2023 | HBP1453A | 2023 HPD Command/Supervisor In-Service | Passed | 0.0 | 7.50 |
 | 10/19/2023 | HBP2694A | Tracwire Training for FTO | Passed | 0.0 | 1.50 |
 | 10/12/2023 | HBP3194A | FTO Training | Instructed | 0.0 | 2.00 |

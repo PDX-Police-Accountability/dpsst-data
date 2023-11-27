@@ -37,7 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 9/14/2023 | OCS1387A | Third Degree Communications | Passed | 0.0 | 24.00 |
+| 11/1/2023 | OCP3229A | Human Trafficking | Passed | 0.0 | 2.00 |
+| 11/1/2023 | OCP1922A | Biases Training | Passed | 0.0 | 1.00 |
+| 9/14/2023 | OCS1387A | Interview and Interrogation Training | Passed | 0.0 | 24.00 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 8/30/2023 | HBN2550A | APPA Training Institute | Passed | 0.0 | 17.25 |
 | 8/17/2023 | OCP0486A | Use of Force | Passed | 0.0 | 2.00 |

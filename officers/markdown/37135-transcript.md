@@ -26,13 +26,12 @@
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 11/29/2012 | Police Officer | Advanced | Granted | 11/29/2012 |  |  |
 | 11/29/2012 | Police Officer | Intermediate | Granted | 11/29/2012 |  |  |
-| 3/15/2004 | Police Officer | Basic | Reactivate | 5/25/2000 |  |  |
+| 3/15/2004 | Police Officer | Basic | Reactivatd | 5/25/2000 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 7/24/2003 |  |
 ## Education
@@ -45,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/12/2023 | PDP0481A | 2023 EAP Retirement Seminar | Passed | 0.0 | 4.50 |
 | 8/31/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
@@ -83,7 +83,6 @@
 | 4/10/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/10/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/10/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/10/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/30/2023 | PDP04838 | 2023 Microsoft Cloud Storage w/ OD and SP | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP40178 | 2023 Microsoft Teams Recorded Training | Passed | 0.0 | 1.00 |
 | 3/30/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

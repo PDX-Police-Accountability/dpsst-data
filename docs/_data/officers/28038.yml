@@ -176,6 +176,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/12/2022
+  course: PDS2870A
+  title: Flying While Armed
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/26/2022
   course: PDS44753
   title: Ethics

@@ -42,8 +42,7 @@
 | 9/11/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/11/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/11/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
-| 9/11/2023 | NGP3558A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
-| 8/31/2023 | NGP1900A | Hazmat First Respnder Awarness | Passed | 0.0 | 1.50 |
+| 8/31/2023 | PDP0742A | 2023 Training Instructor Development: | Passed | 0.0 | 8.00 |
 | 8/30/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP3016A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
 | 8/28/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
@@ -75,7 +74,6 @@
 | 4/26/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 4/26/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/26/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/26/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/25/2023 | PDP0812A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/25/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/24/2023 | NGP2169A | Defensive Tactics | Passed | 0.0 | 1.50 |

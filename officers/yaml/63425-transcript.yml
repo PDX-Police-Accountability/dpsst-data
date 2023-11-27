@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/4/2023
+  course: PDP2117A
+  title: 2022-11 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/28/2023
   course: PDP1263A
   title: 2022-12 CAO Legal Updates for 12/2022

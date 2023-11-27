@@ -23,8 +23,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 2/22/2022 | 2/14/2024 |
 | Code of Ethics | Signed | 3/4/2015 |  |
 ## Education
@@ -34,13 +35,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
+| 9/7/2023 | BVP1084A | September Range | Passed | 0.0 | 3.00 |
 | 8/17/2023 | BPT3673A | Field Training and Evaluation | Passed | 0.0 | 24.00 |
 | 6/29/2023 | BVP4100A | RISE 23 | Passed | 0.0 | 10.00 |
 | 6/13/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 6/13/2023 | BVP3258A | ICS Scenario | Passed | 0.0 | 2.00 |
 | 6/13/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |
 | 6/6/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
+| 6/6/2023 | BVP2611A | Fireams Qualification June 2023 | Passed | 0.0 | 3.00 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |
+| 4/6/2023 | BVP3077A | April Range 2023 | Passed | 0.0 | 3.00 |
 | 3/23/2023 | BVP3377A | CIT Ernie and Joe | Passed | 0.0 | 3.50 |
 | 3/2/2023 | BVP3585A | Narcan Deployment | Passed | 0.0 | 0.50 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

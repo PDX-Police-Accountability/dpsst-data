@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/9/2023
+  course: VND4319A
+  title: Oregon State Marine Board PWC Operations Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/21/2023
   course: RSS0455A
   title: 13th Annual OHIA Major Crimes Conference

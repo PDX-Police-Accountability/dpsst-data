@@ -82,6 +82,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/5/2023
+  course: SVP2866A
+  title: Senate Bill 111 Response Plan (Marion County)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/25/2023
+  course: SVP1283A
+  title: CPR/First Aid Certification and Card
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/24/2023
+  course: SVP1292A
+  title: Airway (ACAP) Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/16/2023
+  course: SVP1343A
+  title: OSP Crime Lab  Forensic Services Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/11/2023
   course: HUP2527A
   title: Marion County Leadership Monthly Meeting
@@ -112,6 +136,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/28/2023
+  course: F6R1760A
+  title: ICAT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2023
+  course: F6R1353A
+  title: Police Resiliency  Critical Incident Mindset
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 9/28/2023
+  course: F6R1902A
+  title: Raising the Standards of Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2023
+  course: F6R1285A
+  title: Cyber Threats
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/27/2023
   course: HUP3554A
   title: OACP Board Meeting
@@ -121,6 +169,18 @@ training_records:
 - date: 9/27/2023
   course: HUP3615A
   title: OACP/OSSA Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: F6R1747A
+  title: Mitigating Potential Law Enforcement Risk
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: F6R3087A
+  title: RITE for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '2.00'

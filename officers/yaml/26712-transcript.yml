@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/11/2023
+  course: PDP2665A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 1/28/2022
   course: BPT07910
   title: Handgun IDC

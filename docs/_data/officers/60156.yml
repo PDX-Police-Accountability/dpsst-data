@@ -24,6 +24,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/7/2023
+  course: PDP0725A
+  title: 2023-2 All Sworn In-Service ABLE Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/7/2023
+  course: PDP4482A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2023
+  course: PDP2093A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/7/2023
+  course: PDP2405A
+  title: 2023-2 All Sworn In-Service Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/7/2023
+  course: PDP3828A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/7/2023
+  course: PDP0670A
+  title: 2023-2 All Sworn In-Service PP Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/6/2023
+  course: PDP3984A
+  title: 2023-2 All Sworn In-Service Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/6/2023
+  course: PDP2793A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/6/2023
+  course: PDP0120A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2023
+  course: PDP4523A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/6/2023
+  course: PDP1908A
+  title: 2023-2 All Sworn In-Service TII Equity 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/6/2023
+  course: PDP1415A
+  title: 2023-2 All Sworn In-Service TII Equity 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/4/2023
+  course: PDP1135A
+  title: 2023 40mm Less Lethal New Operator Training
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 9/29/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -270,12 +354,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/8/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/6/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022
@@ -1703,6 +1781,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/23/2023
@@ -1710,7 +1792,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/28/2020

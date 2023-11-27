@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/8/2023
+  course: HBP2892A
+  title: 'Changing Perceptions: Fair  Impartial Policing'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/26/2023
   course: HBP10095
   title: Karly's Law, Jessica's Law, Juvenile Update

@@ -23,8 +23,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/25/2023 | 5/25/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 8/25/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 1/28/2019 |  |
@@ -38,6 +39,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/26/2023 | STN1543A | DV Week Day 4 | Passed | 0.0 | 6.50 |
+| 10/25/2023 | STN1460A | Domestic Violence Week Day 3 | Passed | 0.0 | 8.00 |
+| 10/24/2023 | STN4284A | Domestic Violence Week Day 2 | Passed | 0.0 | 8.00 |
+| 10/23/2023 | STN2072A | Domestic Violence Week Day 1 | Passed | 0.0 | 4.00 |
+| 10/13/2023 | HBN2396A | Active Shooter Prevention and Response | Passed | 0.0 | 2.00 |
+| 10/12/2023 | HBN2451A | Connection Between Personal  Organizational Ethic | Passed | 0.0 | 1.00 |
 | 8/25/2023 | HBN1249A | Defensive Tactics/Use of Force/Report Writing | Passed | 0.0 | 8.00 |
 | 6/22/2023 | HBN1266A | Maint a discrimination, retaliation free workplace | Passed | 0.0 | 2.00 |
 | 5/25/2023 | HBN3031A | First Aid/CPR/AED | Passed | 0.0 | 6.00 |

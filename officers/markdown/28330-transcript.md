@@ -34,8 +34,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -44,6 +45,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/31/2023 | PPP1750A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 9/30/2023 | PPP1931A | Terrorism 1 | Passed | 0.0 | 1.00 |
 | 8/31/2023 | PPP0619A | Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |
 | 6/30/2023 | PPP2327A | Protecting Transportation Systems | Passed | 0.0 | 1.00 |

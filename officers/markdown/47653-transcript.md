@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
+| 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 9/19/2023 | PDP1209A | 2023 Training Bike Instructor Training Course | Passed | 0.0 | 36.00 |
 | 9/12/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
@@ -49,6 +51,7 @@
 | 9/8/2023 | PDP2308A | 2023 External Training Taser CEW Instructor Course | Passed | 0.0 | 9.00 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 9/1/2023 | PDP0634A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 6.00 |
+| 8/31/2023 | PDP0742A | 2023 Training Instructor Development: | Passed | 0.0 | 8.00 |
 | 8/30/2023 | PDP0634A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 6.00 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
@@ -99,7 +102,6 @@
 | 1/3/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 1/3/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 1/3/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 1/3/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 12/9/2022 | PDP11332 | 2022 Respiratory Protection Yearly Screening | Passed | 0.0 | 0.25 |
 | 12/9/2022 | PDP03449 | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
 | 12/9/2022 | PDP10923 | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |

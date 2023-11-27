@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/12/2023
+  certificate: Police Officer
+  level: Basic
+  status: Expired
+  certificate_date: 2/2/1994
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/31/2019
   certificate: Regulatory Specialist
   level: Basic
@@ -35,14 +42,13 @@ certification_records:
   certificate_date: 10/31/2019
   expiration_date: ''
   probation_date: ''
-- status_date: 9/12/2018
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 2/2/1994
-  expiration_date: ''
-  probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: MKL0299A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/12/2023
   course: MKL3646A
   title: Hemp/Lab Training

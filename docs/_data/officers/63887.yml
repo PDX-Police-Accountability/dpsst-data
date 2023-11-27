@@ -30,6 +30,126 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/28/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP3272A
+  title: 2022-5 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP1738A
+  title: 2022-10 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP0443A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/26/2023
+  course: PDP0940A
+  title: 2021-9 Tips and Techniques Dangers of Extreme Heat
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP0087A
+  title: 2022-9 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP0511A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP1018A
+  title: 2023-2 Tips  Techniques BWC Pilot Policy and FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/26/2023
+  course: PDP3795A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/26/2023
+  course: PDP1126A
+  title: Annual CIU NTR Alarm Response Training - RRNR
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2023
+  course: PDP1181A
+  title: 2022-12 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2023
+  course: PDP0861A
+  title: 2022-3 TT Oregon Ballot 114
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/25/2023
+  course: PDP2137A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2023
+  course: PDP2117A
+  title: 2022-11 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2023
+  course: PDP3265A
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/24/2023
+  course: PDP3941A
+  title: 2023 PCJP and Restorative Justice Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2023
+  course: PDP3262A
+  title: 2023 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/19/2023
+  course: PDP2114A
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/17/2023
+  course: PDP2982A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 9/22/2023
   course: REG1195A
   title: DID-SFST (Hours included in Basic)

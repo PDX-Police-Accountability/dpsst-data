@@ -24,7 +24,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 3/29/2006 |  |
@@ -37,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
+| 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
+| 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
@@ -44,6 +49,7 @@
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |

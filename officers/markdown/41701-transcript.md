@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/22/2023 | Portland Police Bureau | Return LOA | Detective |  |  |
 | 8/23/2022 | Portland Police Bureau | LOA | Detective |  |  |
 | 11/3/2016 | Portland Police Bureau | Promotion | Detective |  |  |
 | 5/23/2002 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -28,7 +29,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 5/24/2023 | 5/24/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
 | Code of Ethics | Signed | 4/19/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -76,7 +77,6 @@
 | 3/1/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 3/1/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/1/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
-| 3/1/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/25/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/25/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |
 | 1/25/2023 | PDP30154 | Annual CIU NTR Alarm Response Trng Reed Research | Passed | 0.0 | 0.25 |

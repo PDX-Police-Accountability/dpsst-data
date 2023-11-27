@@ -46,8 +46,10 @@
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
+| 2/28/2023 | F6R43463 | SFST Refresher | Instructed | 0.0 | 4.00 |
 | 1/31/2023 | OCP4095A | Legislative Update | Passed | 0.0 | 0.50 |
 | 1/18/2023 | LOP3089 | West Metro Monthly Motor Training | Passed | 0.0 | 6.00 |
+| 1/4/2023 | OCP36575 | SFST Refresher Course | Instructed | 0.0 | 4.00 |
 | 12/31/2022 | OCP44240 | Ethics | Passed | 0.0 | 1.50 |
 | 12/31/2022 | OCP12928 | Daily Training Bulletins | Passed | 0.0 | 8.50 |
 | 12/28/2022 | OCP22978 | Taser Training | Passed | 0.0 | 4.00 |

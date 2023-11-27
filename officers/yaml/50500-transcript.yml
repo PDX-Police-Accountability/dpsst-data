@@ -44,6 +44,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/2/2023
+  course: PDP1636A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/31/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/31/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/19/2023
+  course: PDP4216A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/12/2023
+  course: PDP4301A
+  title: 2023 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 8/31/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -446,12 +476,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 1/23/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 1/19/2023
   course: PDP44394
   title: SERT Training Scenario

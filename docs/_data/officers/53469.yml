@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/20/2023
+  course: OCS1690A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: OCS2343A
+  title: Force on Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/16/2023
+  course: OCS1119A
+  title: Use of force decision making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/28/2023
   course: OCS2369A
   title: PEER Support
@@ -65,6 +83,12 @@ training_records:
 - date: 9/20/2023
   course: OCS2211A
   title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/13/2023
+  course: OCS3861A
+  title: Scenarios and Deescalation
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -98,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/12/2023
+  course: OCS4091A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/1/2023
   course: OCS3320A
   title: Shoot/No Shoot Targets/Marksmanship
@@ -122,6 +152,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 5/17/2023
+  course: OCS2082A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 5/15/2023
   course: OCS1888A
   title: Ground Fighting

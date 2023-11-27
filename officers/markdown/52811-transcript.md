@@ -39,10 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/14/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 10.00 |
 | 10/14/2023 | PDS0194A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/13/2023 | PDS2499 | Active Threat Range | Passed | 0.0 | 4.00 |
+| 9/11/2023 | PDS3075A | Active Threat Range | Instructed | 0.0 | 4.00 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
 | 8/4/2023 | PDS3434A | Active Threat | Instructed | 0.0 | 10.00 |
 | 8/2/2023 | PDS3434A | Active Threat | Instructed | 0.0 | 10.00 |

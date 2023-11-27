@@ -32,8 +32,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | CPR | 1/31/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid | 2/28/2022 | 2/28/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 4/15/2002 |  |
@@ -46,7 +47,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2023 | HBS0505A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |
+| 11/10/2023 | HBS4034A | 2023 November In-Service EVO | Passed | 0.0 | 1.50 |
+| 11/10/2023 | HBS3234A | 2023 November In-Service Brazos E-Ticket | Passed | 0.0 | 3.00 |
+| 11/3/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/31/2023 | HBS0191A | Mental Health  Wellness Policing Summit | Passed | 0.0 | 18.00 |
+| 10/19/2023 | HBS2649A | Leadership Training | Passed | 0.0 | 16.00 |
+| 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |
+| 8/23/2023 | HBS1930A | Cautious Clears with K9's | Passed | 0.0 | 4.00 |
+| 8/23/2023 | HBS1718A | Live Shoothouse | Passed | 0.0 | 4.00 |
 | 8/22/2023 | OCS4175A | Advanced Leadership for a Police Reform Era | Passed | 0.0 | 8.00 |
+| 8/22/2023 | HBS3126A | Search Warrant Slow Clear Tactics | Passed | 0.0 | 6.00 |
 | 8/16/2023 | HBS1605A | Active Threat | Passed | 0.0 | 3.00 |
 | 3/9/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/6/2023 | STP31849 | Attitude Empowerment | Passed | 0.0 | 7.00 |

@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/26/2023
+  course: PDP1481A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 10/19/2023
+  course: PDP4216A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 9/15/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -456,12 +468,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 1/3/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 12/22/2022
   course: PDP30625
   title: SERT Firearms Drills

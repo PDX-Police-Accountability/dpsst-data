@@ -28,6 +28,26 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/2/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/28/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP3272A | 2022-5 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP0443A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 10/26/2023 | PDP0940A | 2021-9 Tips and Techniques Dangers of Extreme Heat | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 10/26/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP3795A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 10/26/2023 | PDP1126A | Annual CIU NTR Alarm Response Training - RRNR | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP1181A | 2022-12 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP0861A | 2022-3 TT Oregon Ballot 114 | Passed | 0.0 | 0.50 |
+| 10/25/2023 | PDP2137A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP3265A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 10/24/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 10/19/2023 | PDP2114A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
+| 10/17/2023 | PDP2982A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 9/22/2023 | REG1195A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |

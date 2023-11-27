@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/8/2023
+  course: PSU1821A
+  title: Behavioral Threat Assessment
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/4/2023
   course: PSU4061A
   title: Digital Threat Assesment
@@ -92,6 +98,12 @@ training_records:
   hours: '2.00'
 - date: 9/5/2022
   course: PSU1346A
+  title: Intro to Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/5/2022
+  course: PSU0247A
   title: Intro to Trauma Informed Care
   status: Passed
   score: '0.0'
@@ -642,6 +654,11 @@ attribute_records:
   effective_date: 12/16/2016
   expiration_date: ''
 education_records:
+- date: 8/19/2023
+  degree: Bachelor Science
+  school: Portland State University
+  major: Social Sciences
+  hours: '209.0'
 - date: 6/15/2011
   degree: No Degree
   school: University Of Oregon

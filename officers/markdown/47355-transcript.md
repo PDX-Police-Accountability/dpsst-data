@@ -25,6 +25,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 8/31/2023 | OSH0971A | 2023 OSP CJIS Statewide Conference | Passed | 0.0 | 4.50 |
+| 8/30/2023 | OSH3533A | 2023 OSP CJIS Statewide Conference | Passed | 0.0 | 8.00 |
+| 8/29/2023 | OSH1000A | 2023 OSP CJIS Statewide Conference | Passed | 0.0 | 4.50 |
 | 7/29/2021 | DOC29124 | DOC- Protection from Ambient Heat v2021 | Passed | 0.0 | 0.50 |
 | 12/25/2020 | DOC01105 | DOC - ODOC - COVID Training and Information v2020 | Passed | 0.0 | 1.00 |
 | 10/23/2020 | DOC36442 | DOC - ODOC - Compressions Only CPR v2020 | Passed | 0.0 | 0.50 |

@@ -108,6 +108,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 11/1/2023
+  course: CAP0862A
+  title: Ethics In Law Enforcement (PoliceOne Academy)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2023
+  course: F6R2702A
+  title: ICAT
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/28/2023
+  course: F6R3850A
+  title: Cyber Threats
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 9/28/2023
+  course: F6R2216A
+  title: Raising the Standard of Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/27/2023
   course: HUP3554A
   title: OACP Board Meeting
@@ -117,6 +147,18 @@ training_records:
 - date: 9/27/2023
   course: HUP3615A
   title: OACP/OSSA Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: F6R4411A
+  title: Mitigating Potential Law Enforcement Risk
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/27/2023
+  course: F6R0773A
+  title: RITE for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '2.00'
@@ -4375,6 +4417,10 @@ training_records:
   score: '0.0'
   hours: '11.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/1/2023
@@ -4382,7 +4428,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022

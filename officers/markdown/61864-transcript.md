@@ -70,7 +70,6 @@
 | 2/22/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/22/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/22/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/22/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 2/17/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/17/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/3/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -150,6 +149,7 @@
 | 2/11/2022 | PDP02637 | 2022-1 Chief's Office Bill 2928: Crowd Control | Passed | 0.0 | 0.15 |
 | 2/11/2022 | PDP34522 | Interacting with Member LGBTQIA2S+ Chief's Message | Passed | 0.0 | 0.25 |
 | 1/18/2022 | PDP41911 | Radar/LIDAR Training | Passed | 0.0 | 18.00 |
+| 1/18/2022 | BPT29927 | RADAR-LIDAR Practical | Passed | 0.0 | 16.00 |
 | 1/13/2022 | PDP35600 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 4.00 |
 | 1/12/2022 | PDP38692 | RegJIN RMS/MRE Training | Passed | 0.0 | 18.00 |
 | 1/10/2022 | PDP19421 | Online In-Service Directive 870.25 Holding Rooms | Passed | 0.0 | 0.25 |

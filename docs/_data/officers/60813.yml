@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/14/2023
+  course: OSH2404A
+  title: 3rd Trimester Firearms Low Light
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/8/2023
+  course: VND3617A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/2/2023
   course: OSH3154A
   title: OSP 2023 Regional EVOC

@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/30/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/30/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/18/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -168,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 4/5/2023
+  course: PDP0942A
+  title: 2023 Training PS3 Support Specialist Coach School
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/3/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy
@@ -324,12 +342,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 1/17/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 1/5/2023
   course: PDP42753
   title: '2022 Respiratory Protection: Yearly Screening'

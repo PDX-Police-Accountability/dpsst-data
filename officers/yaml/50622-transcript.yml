@@ -74,12 +74,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/9/2023
+  course: OCP0839A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/9/2023
+  course: OCP0839A
+  title: '0'
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/7/2023
+  course: OCP1604A
+  title: '0'
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/11/2023
   course: OCP1610A
   title: Domestic Terrorism Training
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/30/2023
+  course: OCP3504A
+  title: Threat of Harm Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/27/2023
   course: OCP3059A
   title: Taser Re-cert

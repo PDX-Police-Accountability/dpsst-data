@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MISCMAIN
+  title: 2023 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/10/2023
   course: PDP0162A
   title: Motorcade Training
@@ -104,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 9/18/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/18/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/2/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -146,6 +164,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/24/2023
+  course: PDP0365A
+  title: 2023-2 Field Training Officer (FTO)
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -260,6 +284,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '72.00'
+- date: 5/12/2023
+  course: OSH2125A
+  title: Drug Evaluation  Classification School
+  status: Passed
+  score: '0.0'
+  hours: '56.00'
+- date: 5/3/2023
+  course: OSH4419A
+  title: Drug Evaluation  Classification Pre-School
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/28/2023
   course: REG10403
   title: 2023 DUII Multi-Disciplinary Training Conference
@@ -392,12 +428,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/8/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 2/28/2023
   course: PDP06854
   title: 2023 Karly's Law - Oregon Child Abuse Solutions
@@ -4195,6 +4225,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/23/2023
@@ -4202,7 +4236,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/20/2007

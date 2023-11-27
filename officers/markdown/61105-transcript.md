@@ -26,7 +26,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/30/2023 | 6/30/2025 |
 | Certification Cards | First Aid and CPR | 5/15/2023 | 5/15/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 1/5/2022 |  |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 10/25/2020 |  |
@@ -38,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/26/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/27/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
+| 9/27/2023 | NGP1568A | Handgun Training | Passed | 0.0 | 2.00 |
 | 9/11/2023 | NGP3558A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 8/31/2023 | NGP1900A | Hazmat First Respnder Awarness | Passed | 0.0 | 1.50 |
 | 6/30/2023 | NGP4417A | Adult/Child/Infant CPR AED | Passed | 0.0 | 3.00 |

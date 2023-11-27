@@ -28,7 +28,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/19/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 10/19/2023 | PDP2970A | 2023 Body Worn Camera Policy Recording with KC | Passed | 0.0 | 1.00 |
+| 10/11/2023 | PDP3631A | 2022-3 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/11/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/11/2023 | PDP1738A | 2022-10 CAO Legal Updates | Passed | 0.0 | 0.25 |
+| 10/8/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 10/3/2023 | PDP0198A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
+| 9/28/2023 | PDP0680A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Passed | 0.0 | 4.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/25/2023 | PDP0803A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |

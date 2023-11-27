@@ -99,6 +99,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 11/9/2023
+  course: EGP4364A
+  title: Night Shoot/Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/12/2023
   course: EGP1239A
   title: Firearms Qualification
@@ -123,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 8/30/2023
+  course: EGP1661A
+  title: Police Motorcade Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/15/2023
   course: EGP0803A
   title: Defensive Tactics

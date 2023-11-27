@@ -74,6 +74,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2023
+  course: PDP0710A
+  title: 2023 K-9 Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/29/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/29/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/25/2023
+  course: PDP3596A
+  title: 2023 K-9 Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
 - date: 9/28/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -134,6 +158,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 9/27/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/27/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/13/2023
   course: GSP1641A
   title: 2023 OPCA Fall Conference - Patrol
@@ -452,12 +488,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/15/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/14/2023
   course: PDP36377
   title: 2023-1 Range Qualification Primary Firearm

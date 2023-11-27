@@ -29,6 +29,24 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 11/18/2023
+  course: MNP3700A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 11/18/2023
+  course: MNP3358A
+  title: First Aid/CPR recertification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/18/2023
+  course: MNP4341A
+  title: NARCAN training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/10/2023
   course: MNP2761A
   title: Defensive Tactics
@@ -954,6 +972,10 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 11/18/2023
+  expiration_date: 11/18/2025
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/15/2022

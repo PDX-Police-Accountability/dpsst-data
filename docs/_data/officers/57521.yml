@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/14/2023
+  agency: Portland Police Bureau
+  action: LOA
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/9/2021
   agency: Portland Police Bureau
   action: Hired
@@ -43,7 +49,7 @@ certification_records:
 - status_date: 2/14/2023
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 1/19/2021
   expiration_date: ''
   probation_date: ''

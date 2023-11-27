@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 4/26/2023 | HBP10095 | Karly's Law, Jessica's Law, Juvenile Update | Passed | 0.0 | 2.00 |
 | 4/26/2023 | HBP29327 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 5.00 |
 | 3/15/2023 | HBP43238 | Respectful Workplace - Employee Course (Equity) | Passed | 0.0 | 1.25 |

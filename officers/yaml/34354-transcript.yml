@@ -92,6 +92,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/2/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/2/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 9/21/2023
   course: PDP0619A
   title: 2023 CNT Crisis Negotiation Team Annual Training

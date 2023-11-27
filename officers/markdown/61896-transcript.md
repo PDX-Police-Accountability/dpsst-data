@@ -22,7 +22,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/1/2023 | 6/1/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/28/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 8/2/2021 |  |
@@ -32,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/4/2023 | PDP1135A | 2023 40mm Less Lethal New Operator Training | Passed | 0.0 | 18.00 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/12/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 9/12/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
@@ -43,6 +43,8 @@
 | 9/11/2023 | PDP1736A | 2023-2 All Sworn In-Service PP Force | Passed | 0.0 | 1.50 |
 | 9/11/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 9/11/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 9/11/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 9/11/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/8/2023 | PDP2703A | 2023 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 40.00 |
 | 9/8/2023 | PDP3455A | 2023 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 40.00 |
 | 9/4/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
@@ -70,6 +72,12 @@
 | 5/11/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/4/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/19/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/18/2023 | PDP0953A | 2023-1 All Sworn In-Service Mobile Field Force LDR | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDP1482A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
+| 4/18/2023 | PDP3841A | 2023-1 AS In-Service Crowd Mgmt. Force | Passed | 0.0 | 2.00 |
+| 4/18/2023 | PDP4511A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/18/2023 | PDP4112A | 2023-1 AS In-Service Crowd Mgmt. Other | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDP2089A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
 | 4/3/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
 | 3/31/2023 | PDP40178 | 2023 Microsoft Teams Recorded Training | Passed | 0.0 | 1.00 |
 | 3/29/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
@@ -87,7 +95,6 @@
 | 2/22/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/22/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/22/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/22/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 2/13/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 2/13/2023 | PDP09073 | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 1/22/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

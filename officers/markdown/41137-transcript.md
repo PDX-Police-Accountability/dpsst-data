@@ -46,6 +46,7 @@
 | 8/21/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/21/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 8/11/2023 | PDP1623A | Impaired Driving  Traffic Safety Conference | Passed | 0.0 | 21.75 |
 | 8/9/2023 | OSH4296A | IACP Impaired Driving Traffic Saftey Conference | Passed | 0.0 | 18.00 |
 | 7/22/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/20/2023 | PDP3449A | 2023 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 7.00 |
@@ -82,7 +83,6 @@
 | 3/6/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 3/6/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 3/6/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 3/6/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 3/3/2023 | F6R11628 | 2023 Prosecuting the Drugged Driver (PDD) | Instructed | 0.0 | 4.00 |
 | 3/2/2023 | F6R00324 | 2023 Prosecuting the Drugged Driver (PDD) | Instructed | 0.0 | 8.00 |
 | 3/1/2023 | F6R23282 | 2023 Prosecuting the Drugged Driver (PDD) | Instructed | 0.0 | 8.00 |

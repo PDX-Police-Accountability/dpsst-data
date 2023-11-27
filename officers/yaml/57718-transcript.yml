@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/28/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/14/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -108,6 +114,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 9/11/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/11/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/30/2023
   course: PDP0934A
   title: 2023 Portland Community Justice Partnership
@@ -318,12 +336,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 3/27/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '5.00'
 - date: 3/17/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording

@@ -49,25 +49,37 @@ certification_records:
 - status_date: 10/19/2022
   certificate: Police Officer
   level: Advanced
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 3/16/2001
   expiration_date: ''
   probation_date: ''
 - status_date: 10/19/2022
   certificate: Police Officer
   level: Basic
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 10/22/1993
   expiration_date: ''
   probation_date: ''
 - status_date: 10/19/2022
   certificate: Police Officer
   level: Intermediate
-  status: Reactivate
+  status: Reactivatd
   certificate_date: 3/16/2001
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/12/2023
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/12/2023
+  course: PDS3559A
+  title: Traffic Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2023
   course: PDS2616A
   title: CPR-First Aid

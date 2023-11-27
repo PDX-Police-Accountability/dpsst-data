@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2023
+  course: PDP1153A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/27/2023
+  course: PDP4251A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/12/2023
   course: PDP0481A
   title: 2023 EAP Retirement Seminar
@@ -80,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/30/2023
+  course: PDP1083A
+  title: 2023 FIT Surveillance and Follows
+  status: Instructed
+  score: '0.0'
+  hours: '5.00'
 - date: 8/25/2023
   course: PDP0934A
   title: 2023 Portland Community Justice Partnership

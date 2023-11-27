@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/23/2023
+  course: BVP0934A
+  title: City of Beaverton Ethics in  Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/4/2023
   course: HBP0749A
   title: Patrol Cyclist Training
@@ -68,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/9/2023
+  course: BVP1084A
+  title: September Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/14/2023
   course: BVP2565A
   title: Hawthorn Walk In Center, MHRT
@@ -92,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 6/7/2023
+  course: BVP2611A
+  title: Fireams Qualification June 2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/27/2023
   course: BVP2832
   title: Karly's Law
@@ -104,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/3/2023
+  course: BVP3077A
+  title: April Range 2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/23/2023
   course: BVP3377A
   title: CIT Ernie and Joe
@@ -3340,13 +3370,17 @@ training_records:
   hours: '4.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/17/2022

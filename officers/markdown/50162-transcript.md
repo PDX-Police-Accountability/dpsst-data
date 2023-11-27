@@ -36,7 +36,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/2/2037 | PDP33795 | 2017-2 In-Service TECC | Passed | 0.0 | 1.00 |
 | 6/1/2023 | VND2228A | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 6/1/2023 | PDP2268A | Basic Background Inves OR Peace Officers Assoc | Passed | 0.0 | 16.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
@@ -100,6 +99,7 @@
 | 10/31/2017 | PPB24793 | Fentanyl Safety | Passed | 0.0 | 0.25 |
 | 10/18/2017 | F6B42040 | Taser Instructor Course W/ Online Contect | Passed | 0.0 | 20.00 |
 | 7/31/2017 | PPB24789 | Legal Holds 2017 | Passed | 0.0 | 0.25 |
+| 5/2/2017 | PDP33795 | 2017-2 In-Service TECC | Passed | 0.0 | 1.00 |
 | 12/31/2016 | F6C15902 | Roll Call Videos | Passed | 0.0 | 0.50 |
 | 11/30/2016 | F6C21655 | Handgun Qualification Primary Sidearm | Passed | 0.0 | 0.50 |
 | 11/30/2016 | F6C20060 | Shotgun Qualification | Passed | 0.0 | 0.50 |

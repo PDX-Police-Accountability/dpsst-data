@@ -25,7 +25,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 4/24/2014 |  |
 | Code of Ethics | Signed | 11/13/2012 |  |
@@ -36,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/26/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/26/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/7/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 9/7/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
@@ -47,6 +48,8 @@
 | 9/6/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 9/6/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
 | 9/6/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 9/6/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 9/6/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 8/31/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 8/31/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 8/31/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -74,11 +77,16 @@
 | 5/7/2023 | PDP36458 | 2023-1 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 60.00 |
 | 5/5/2023 | PDP05784 | 2023-1 Range Qualification AR-15 Qual (20yd) | Passed | 0.0 | 0.50 |
 | 4/19/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/18/2023 | PDP0953A | 2023-1 All Sworn In-Service Mobile Field Force LDR | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDP1482A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |
+| 4/18/2023 | PDP3841A | 2023-1 AS In-Service Crowd Mgmt. Force | Passed | 0.0 | 2.00 |
+| 4/18/2023 | PDP4511A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
+| 4/18/2023 | PDP4112A | 2023-1 AS In-Service Crowd Mgmt. Other | Passed | 0.0 | 1.00 |
+| 4/18/2023 | PDP2089A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |
 | 4/17/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 4/17/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 4/17/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 4/17/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 4/17/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 4/7/2023 | PDP0863A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/31/2023 | PDP16665 | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 3/30/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |

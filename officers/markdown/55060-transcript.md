@@ -33,8 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2023 | PDP1497A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/18/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/4/2023 | PDP0389A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/28/2023 | PDP0680A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Instructed | 0.0 | 4.00 |
 | 9/27/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/20/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 9/20/2023 | PDP2772A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
@@ -48,11 +50,14 @@
 | 9/18/2023 | PDP3637A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 5.00 |
 | 9/18/2023 | PDP0002A | 2023-2 All Sworn In-Service PP Ment. Health | Passed | 0.0 | 1.00 |
 | 9/18/2023 | PDP3388A | 2023-2 All Sworn In-Service TII Equity | Passed | 0.0 | 2.50 |
+| 9/18/2023 | PDP0070A | 2023-2 All Sworn In-Service PP. Force | Passed | 0.0 | 1.50 |
+| 9/18/2023 | PDP0473A | 2023-2 All Sworn In-Service PP. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 9/14/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/14/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/14/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/14/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/13/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 8/30/2023 | PDP4377A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/24/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 8/24/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 8/24/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
@@ -114,7 +119,6 @@
 | 2/1/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/1/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/1/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/1/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/26/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Instructed | 0.0 | 3.00 |
 | 1/24/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/24/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |

@@ -21,6 +21,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 11/18/2023 | 11/18/2025 |
 | Certification Cards | First Aid and CPR | 4/15/2022 | 4/15/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -28,6 +29,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2023 | MNP3700A | Defensive Tactics | Passed | 0.0 | 3.50 |
+| 11/18/2023 | MNP3358A | First Aid/CPR recertification | Passed | 0.0 | 0.50 |
+| 11/18/2023 | MNP4341A | NARCAN training | Passed | 0.0 | 0.50 |
 | 6/10/2023 | MNP2761A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 6/10/2023 | MNP3268A | Firearms qualifications | Passed | 0.0 | 4.00 |
 | 6/10/2023 | MNP1683A | 40mm refresher training | Passed | 0.0 | 1.00 |

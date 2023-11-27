@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2023 | ALS3375A | HRT Entries | Passed | 0.0 | 8.00 |
 | 11/7/2020 | PDP39835 | 2020-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 11/7/2020 | PDP17282 | 2020-2 Range Qualification Colt AR-15 Qual (20 Yd) | Passed | 0.0 | 0.50 |
 | 11/7/2020 | PDP23847 | 2020-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

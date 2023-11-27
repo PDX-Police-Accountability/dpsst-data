@@ -34,7 +34,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/3/2023 | BPT2314A | Facilitator Development | Passed | 0.0 | 8.00 |
+| 11/2/2023 | BPT1866A | Outward Mindset | Passed | 0.0 | 8.00 |
+| 11/1/2023 | BPT2685A | Facilitator Development | Passed | 0.0 | 2.00 |
+| 11/1/2023 | BPT1607A | Resiliency | Passed | 0.0 | 2.00 |
+| 11/1/2023 | BPT0792A | Stereotype Threat | Passed | 0.0 | 2.00 |
+| 11/1/2023 | BPT3093A | Equitable Policing | Passed | 0.0 | 2.00 |
+| 10/31/2023 | BPT3076A | Adult Learning | Passed | 0.0 | 14.00 |
+| 10/30/2023 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
 | 9/9/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 8/24/2023 | PDP0365A | 2023-2 Field Training Officer (FTO) | Passed | 0.0 | 36.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/15/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 7/23/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
@@ -78,7 +87,6 @@
 | 2/8/2023 | PDP2960A | 2023-1 All Sworn In-Service MFF Leadership | Passed | 0.0 | 1.00 |
 | 2/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |
 | 2/8/2023 | PDP0098A | 2023-1 All Sworn In-Service Wellness | Passed | 0.0 | 1.00 |
-| 2/8/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
 | 1/18/2023 | PDP16862 | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
 | 1/4/2023 | PDP42753 | 2022 Respiratory Protection: Yearly Screening | Passed | 0.0 | 0.25 |
 | 1/4/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |

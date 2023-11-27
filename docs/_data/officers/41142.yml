@@ -44,6 +44,12 @@ certification_records:
   expiration_date: 7/16/2027
   probation_date: ''
 training_records:
+- date: 4/5/2023
+  course: PDP0942A
+  title: 2023 Training PS3 Support Specialist Coach School
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/16/2022
   course: PDP2901A
   title: 2022 HB 2513 Airways

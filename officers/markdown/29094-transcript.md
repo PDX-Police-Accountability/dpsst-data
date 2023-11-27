@@ -37,6 +37,17 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 10/31/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
+| 10/31/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |
+| 10/31/2023 | PDP0054A | 2023 Supevisor In-Service Knowledge Check/Survey | Passed | 0.0 | 0.25 |
+| 10/31/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
+| 10/31/2023 | PDP0423A | 2023 Supevisor In-Service SSD | Passed | 0.0 | 1.00 |
+| 10/31/2023 | PDP2332A | 2023 Supevisor In-Service EAP | Passed | 0.0 | 1.00 |
+| 10/28/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 10/28/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/25/2023 | PDP3596A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.50 |
+| 10/19/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 3.00 |
 | 10/12/2023 | PDP0481A | 2023 EAP Retirement Seminar | Passed | 0.0 | 4.50 |
 | 10/5/2023 | PDP1797A | 2023 K-9 Weekly Training | Passed | 0.0 | 5.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |

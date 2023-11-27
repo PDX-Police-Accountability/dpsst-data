@@ -37,6 +37,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/10/2023
+  course: PDP2117A
+  title: 2022-11 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/10/2023
+  course: PDP1181A
+  title: 2022-12 CAO Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/26/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
@@ -109,6 +121,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 9/20/2023
+  course: PDP0070A
+  title: 2023-2 All Sworn In-Service PP. Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/20/2023
+  course: PDP0473A
+  title: 2023-2 All Sworn In-Service PP. Ment. Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 8/22/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management
@@ -1796,10 +1820,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/19/2023
   expiration_date: 5/19/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/7/2021

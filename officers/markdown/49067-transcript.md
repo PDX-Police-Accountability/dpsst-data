@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/14/2023 | OCS04927 | FARO Scanner Certification | Passed | 0.0 | 24.00 |
+| 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 8/16/2023 | LOP3340A | West Metro Monthly Motor Training 08/16/2023 | Passed | 0.0 | 5.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
@@ -44,6 +44,7 @@
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
+| 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
@@ -59,6 +60,7 @@
 | 1/24/2023 | OCS39076 | FTO | Passed | 0.0 | 2.00 |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/23/2022 | OCS26095 | Use of Force Update | Passed | 0.0 | 1.00 |
+| 12/14/2022 | OCS04927 | FARO Scanner Certification | Passed | 0.0 | 24.00 |
 | 12/5/2022 | OCS31491 | Crisis Intervention Training | Passed | 0.0 | 40.00 |
 | 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/22/2022 | OCS39690 | Field Training Officer class | Passed | 0.0 | 24.00 |

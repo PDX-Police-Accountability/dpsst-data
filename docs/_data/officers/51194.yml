@@ -3,7 +3,7 @@ header_record:
   name: Spangler, Brooks A.
   dpsst_identifier: '51194'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Reserve Officer
   level: ''
   classification: ''
@@ -13,6 +13,12 @@ employment_records:
   agency: Washington County Sheriff's Office
   action: Prob Dschg
   rank: Dpty Shrf
+  classification: ''
+  assignment: ''
+- date: 2/21/2011
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Reserve
   classification: ''
   assignment: ''
 - date: 2/21/2011
