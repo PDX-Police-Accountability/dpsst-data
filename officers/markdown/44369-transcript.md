@@ -46,6 +46,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/25/2023 | STP2113A | Crisis Intervention Training Overview | Passed | 0.0 | 1.00 |
+| 11/25/2023 | STP2676A | CIT - Introduction to Mental Health Crisis | Passed | 0.0 | 1.00 |
+| 11/25/2023 | STP3487A | CIT - Crisis Response | Passed | 0.0 | 1.00 |
 | 9/28/2023 | STP4305A | 40mm Launcher training/certification | Passed | 0.0 | 2.00 |
 | 9/25/2023 | STP0170 | Firearms Training Moving and Shooting | Passed | 0.0 | 4.00 |
 | 8/31/2023 | OSH0971A | 2023 OSP CJIS Statewide Conference | Passed | 0.0 | 4.50 |

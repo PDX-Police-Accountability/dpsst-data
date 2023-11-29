@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2023 | PDS1458A | Rifle | Passed | 0.0 | 4.50 |
+| 10/28/2023 | PDS3977A | Rifle Qualificaiton | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/7/2023 | PDS2571A | Active Threat | Passed | 0.0 | 10.00 |
 | 6/6/2023 | PDS3355A | Yoga for First Responders | Passed | 0.0 | 1.00 |

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2023 | HBN3768A | Search and Seizure Training | Passed | 0.0 | 8.00 |
 | 11/2/2023 | HBN2396A | Active Shooter Prevention and Response | Passed | 0.0 | 2.00 |
 | 10/27/2023 | STN2273A | ODARA Training | Passed | 0.0 | 4.00 |
 | 10/26/2023 | STN1543A | DV Week Day 4 | Passed | 0.0 | 6.50 |

@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/12/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
 | 11/12/2023 | PDS3559A | Traffic Incident Management | Passed | 0.0 | 2.00 |
+| 10/9/2023 | PDS2161A | Firearms Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 8/16/2023 | PDS2358A | Less Lethal | Passed | 0.0 | 4.50 |
 | 8/1/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |

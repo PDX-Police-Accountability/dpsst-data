@@ -112,6 +112,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/25/2023
+  course: STP2113A
+  title: Crisis Intervention Training Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/25/2023
+  course: STP2676A
+  title: CIT - Introduction to Mental Health Crisis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/25/2023
+  course: STP3487A
+  title: CIT - Crisis Response
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/28/2023
   course: STP4305A
   title: 40mm Launcher training/certification

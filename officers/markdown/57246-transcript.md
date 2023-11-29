@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/16/2023 | HBN3768A | Search and Seizure Training | Passed | 0.0 | 8.00 |
 | 10/26/2023 | STN1543A | DV Week Day 4 | Passed | 0.0 | 6.50 |
 | 10/25/2023 | STN1460A | Domestic Violence Week Day 3 | Passed | 0.0 | 8.00 |
 | 10/24/2023 | STN4284A | Domestic Violence Week Day 2 | Passed | 0.0 | 8.00 |

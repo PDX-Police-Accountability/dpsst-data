@@ -47,10 +47,13 @@
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
 | 4/24/2023 | OCS3161A | Fundamentals of Marksmanship/Qualification | Passed | 0.0 | 2.00 |
 | 4/24/2023 | OCS3262A | Fundamentals of Marksmanship/Qualification | Passed | 0.0 | 2.00 |
+| 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/21/2023 | SMS44198 | Basic Tactical Operations School | Passed | 0.0 | 54.50 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33440 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS27792 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
+| 1/20/2023 | OCS2814A | Brady Training | Passed | 0.0 | 0.25 |
+| 12/12/2022 | OCS1862A | 2022 DPSST Legal Update | Passed | 0.0 | 0.50 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS34377 | Milo De-Escalation  Problem Solving | Passed | 0.0 | 1.00 |
 | 9/28/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

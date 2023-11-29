@@ -48,6 +48,7 @@
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
+| 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/23/2023 | OCS1691A | CSAR Academy | Passed | 0.0 | 7.00 |
 | 4/22/2023 | OCS1699A | CSAR Academy | Passed | 0.0 | 10.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
@@ -58,7 +59,9 @@
 | 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33440 | Impact Weapon Defense and Strike | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
+| 1/20/2023 | OCS2814A | Brady Training | Passed | 0.0 | 0.25 |
 | 1/18/2023 | OCS07031 | DUII - SFST Refresher | Passed | 0.0 | 4.00 |
+| 12/12/2022 | OCS1862A | 2022 DPSST Legal Update | Passed | 0.0 | 0.50 |
 | 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/30/2022 | OCS37740 | Taser Refresher Course | Passed | 0.0 | 1.00 |
 | 10/20/2022 | OCS30444 | Impact and Edge Weapons | Passed | 0.0 | 1.00 |

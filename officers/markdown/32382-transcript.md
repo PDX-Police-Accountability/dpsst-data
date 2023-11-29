@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/14/2023 | HBS1701A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |
+| 11/14/2023 | HBS2093A | 2023 November In-Service EVO | Passed | 0.0 | 1.50 |
 | 10/3/2023 | HBS3211A | 2023 September In-Service | Passed | 0.0 | 9.00 |
 | 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |
 | 9/24/2023 | HBS0204A | 2023 September In-Service | Passed | 0.0 | 9.00 |

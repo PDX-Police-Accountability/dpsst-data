@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/27/2023 | PDS3977A | Rifle Qualificaiton | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 8/1/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |
 | 6/23/2023 | PDS3313A | Intoxilyzer 8000 Course | Passed | 0.0 | 4.00 |

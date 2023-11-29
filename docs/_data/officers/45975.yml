@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/28/2023
+  course: PDP4340A
+  title: FBI-LEEDA Executive Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 9/25/2023
   course: PDP2741A
   title: 2023 Video Evidence Basics for the Police

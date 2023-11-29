@@ -51,6 +51,7 @@
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
+| 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
@@ -60,8 +61,10 @@
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 1/26/2023 | VND18695 | CVSA Annual Truck Inspection Refresher | Passed | 0.0 | 4.00 |
+| 1/20/2023 | OCS2814A | Brady Training | Passed | 0.0 | 0.25 |
 | 1/18/2023 | OCS07031 | DUII - SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/14/2022 | OCS04927 | FARO Scanner Certification | Instructed | 0.0 | 24.00 |
+| 12/12/2022 | OCS1862A | 2022 DPSST Legal Update | Passed | 0.0 | 0.50 |
 | 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/5/2022 | OCS07603 | Domestic Violence Investigations | Passed | 0.0 | 0.50 |
 | 11/1/2022 | OCS34643 | Axon BWC | Passed | 0.0 | 2.00 |

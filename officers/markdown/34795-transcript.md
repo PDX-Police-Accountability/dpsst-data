@@ -61,6 +61,7 @@
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
+| 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/3/2023 | CAP19868 | VCQB / High Risk Vehicle Stop Firearms | Passed | 0.0 | 3.00 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 3/17/2023 | OCS34493 | FBI/LEEDA SLI | Passed | 0.0 | 28.00 |
@@ -73,6 +74,7 @@
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 1/17/2023 | OCS11089 | Concealed Carry/Shoot-No Shoot Pistol and Rifle | Passed | 0.0 | 3.00 |
+| 12/12/2022 | OCS1862A | 2022 DPSST Legal Update | Passed | 0.0 | 0.50 |
 | 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/29/2022 | OCS30026 | Marksmanship - Target Zone Transitions | Passed | 0.0 | 2.00 |
 | 11/29/2022 | OCS09948 | Marksmanship: Target Zone Transitions | Passed | 0.0 | 2.00 |

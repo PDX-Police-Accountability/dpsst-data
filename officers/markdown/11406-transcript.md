@@ -52,6 +52,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2023 | PHP0376A | Establishing Professionalism in a Small Agency | Passed | 0.0 | 7.00 |
+| 11/8/2023 | PHP0598A | Homelessness Response - Do's  Don'ts | Passed | 0.0 | 1.50 |
+| 11/8/2023 | PHP3216A | Leadership During Line-of-Duty Deaths | Passed | 0.0 | 3.00 |
 | 4/4/2023 | HUP35767 | OACP Annual Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 1/11/2023 | HUP30728 | OACP ELTS Conference General Board Meeting | Passed | 0.0 | 3.00 |
 | 4/15/2022 | F6R19465 | Meeting Demands of Reform | Passed | 0.0 | 1.00 |

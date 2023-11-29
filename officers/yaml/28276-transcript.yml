@@ -123,6 +123,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/15/2023
+  course: SVP3275A
+  title: Night Range Training
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 11/8/2023
+  course: PHP0376A
+  title: Establishing Professionalism in a Small Agency
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/8/2023
+  course: PHP0598A
+  title: Homelessness Response - Do's  Don'ts
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/8/2023
+  course: PHP3216A
+  title: Leadership During Line-of-Duty Deaths
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/7/2023
+  course: PHP1322A
+  title: Hiring Right to Avoid Managing Tough
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2023
+  course: PHP0409A
+  title: Hiring Right to Avoid Managing Tough
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/5/2023
   course: SVP2866A
   title: Senate Bill 111 Response Plan (Marion County)

@@ -156,6 +156,24 @@ certification_records:
   expiration_date: 3/1/2026
   probation_date: ''
 training_records:
+- date: 11/8/2023
+  course: PHP0376A
+  title: Establishing Professionalism in a Small Agency
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/8/2023
+  course: PHP0598A
+  title: Homelessness Response - Do's  Don'ts
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/8/2023
+  course: PHP3216A
+  title: Leadership During Line-of-Duty Deaths
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/4/2023
   course: HUP35767
   title: OACP Annual Conference General Board Meeting

@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2023
+  course: HBN3768A
+  title: Search and Seizure Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/2/2023
   course: HBN2396A
   title: Active Shooter Prevention and Response

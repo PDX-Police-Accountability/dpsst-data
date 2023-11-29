@@ -42,6 +42,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/10/2023
+  course: PDS2319A
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/18/2023
+  course: PDS0668A
+  title: Active Threat Range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/30/2023
   course: PDS2616A
   title: CPR-First Aid
@@ -905,6 +917,10 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2024
   expiration_date: 12/31/2026
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 11/10/2023
+  expiration_date: 11/10/2023
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/30/2023

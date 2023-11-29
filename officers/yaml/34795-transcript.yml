@@ -183,6 +183,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/24/2023
+  course: OCS1341A
+  title: Strangulation and SKIT training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/3/2023
   course: CAP19868
   title: VCQB / High Risk Vehicle Stop Firearms
@@ -255,6 +261,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/12/2022
+  course: OCS1862A
+  title: 2022 DPSST Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/30/2022
   course: OCS15169
   title: Target Zone Transitions - Marksmanship

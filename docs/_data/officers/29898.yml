@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/27/2023
+  course: PDS3977A
+  title: Rifle Qualificaiton
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2023
   course: PDS2616A
   title: CPR-First Aid

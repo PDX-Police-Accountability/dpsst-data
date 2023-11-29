@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/11/2023 | PDS1323A | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/4/2023 | PDS3184A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/19/2023 | PDS2183A | Origami/RSK Training | Passed | 0.0 | 1.00 |

@@ -32,3 +32,4 @@
 | 9/21/2023 | PDP3159A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 9/21/2023 | PDP3046A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP1139A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 10/15/2022 | PDP2004A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

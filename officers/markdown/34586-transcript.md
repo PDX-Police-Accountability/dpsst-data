@@ -27,7 +27,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/1997 | No Degree | University Of Portland |  | 105.0 |
+| 5/4/1997 | Bachelor Science | University Of Portland | Criminal Justice | 120.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

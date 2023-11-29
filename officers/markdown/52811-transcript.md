@@ -39,7 +39,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2023 | PDS2952A | Active Threat Response | Instructed | 0.0 | 8.00 |
+| 11/3/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
+| 11/2/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
+| 10/31/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
+| 10/30/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
+| 10/27/2023 | PDS1754A | Annual East Metro SWAT Training Week | Passed | 0.0 | 32.00 |
 | 10/14/2023 | PDS0194A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
+| 10/11/2023 | PDS1323A | Range Qualification | Instructed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/13/2023 | PDS2499 | Active Threat Range | Passed | 0.0 | 4.00 |
 | 9/11/2023 | PDS3075A | Active Threat Range | Instructed | 0.0 | 4.00 |
@@ -93,6 +100,7 @@
 | 1/12/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/9/2023 | PDS07189 | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 1/3/2023 | PDS08755 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 1/1/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 12/31/2022 | PDS37218 | Stops and Searches | Passed | 0.0 | 0.50 |
 | 12/16/2022 | PDS1983A | SWAT Sniper Training | Passed | 0.0 | 10.00 |
 | 12/15/2022 | PDS41241 | SWAT | Passed | 0.0 | 8.00 |

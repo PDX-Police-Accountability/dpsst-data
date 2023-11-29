@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2023
+  course: HBN3768A
+  title: Search and Seizure Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/26/2023
   course: STN1543A
   title: DV Week Day 4

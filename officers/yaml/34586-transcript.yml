@@ -3668,8 +3668,8 @@ attribute_records:
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
 education_records:
-- date: 6/15/1997
-  degree: No Degree
+- date: 5/4/1997
+  degree: Bachelor Science
   school: University Of Portland
-  major: ''
-  hours: '105.0'
+  major: Criminal Justice
+  hours: '120.0'

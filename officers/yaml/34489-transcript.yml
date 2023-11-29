@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/24/2023
+  course: OCS1341A
+  title: Strangulation and SKIT training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/20/2023
   course: OCS2647
   title: Annual Qualifiation
@@ -194,6 +200,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/20/2023
+  course: OCS2814A
+  title: Brady Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/18/2023
   course: OCS07031
   title: DUII - SFST Refresher
@@ -206,6 +218,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '24.00'
+- date: 12/12/2022
+  course: OCS1862A
+  title: 2022 DPSST Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/30/2022
   course: OCS15169
   title: Target Zone Transitions - Marksmanship

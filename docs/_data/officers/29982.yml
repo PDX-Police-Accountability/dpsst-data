@@ -82,6 +82,66 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/15/2023
+  course: VND1620A
+  title: Drone Response and Assessment
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2023
+  course: VND4360A
+  title: Drone Response and Assessment
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2023
+  course: VND4002A
+  title: Response to Bombing Incidents
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/14/2023
+  course: VND2028A
+  title: Advanced Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/13/2023
+  course: VND4391A
+  title: OPOA Training Conference - Prop  Evid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/8/2023
+  course: PHP0376A
+  title: Establishing Professionalism in a Small Agency
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 11/8/2023
+  course: PHP0598A
+  title: Homelessness Response - Do's  Don'ts
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/8/2023
+  course: PHP3216A
+  title: Leadership During Line-of-Duty Deaths
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/7/2023
+  course: PHP1322A
+  title: Hiring Right to Avoid Managing Tough
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/7/2023
+  course: PHP0409A
+  title: Hiring Right to Avoid Managing Tough
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/5/2023
   course: SVP2866A
   title: Senate Bill 111 Response Plan (Marion County)

@@ -48,6 +48,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2023 | SVP3275A | Night Range Training | Instructed | 0.0 | 6.00 |
+| 11/8/2023 | PHP0376A | Establishing Professionalism in a Small Agency | Passed | 0.0 | 7.00 |
+| 11/8/2023 | PHP0598A | Homelessness Response - Do's  Don'ts | Passed | 0.0 | 1.50 |
+| 11/8/2023 | PHP3216A | Leadership During Line-of-Duty Deaths | Passed | 0.0 | 3.00 |
+| 11/7/2023 | PHP1322A | Hiring Right to Avoid Managing Tough | Passed | 0.0 | 2.00 |
+| 11/7/2023 | PHP0409A | Hiring Right to Avoid Managing Tough | Passed | 0.0 | 1.50 |
 | 11/5/2023 | SVP2866A | Senate Bill 111 Response Plan (Marion County) | Passed | 0.0 | 0.50 |
 | 10/25/2023 | SVP1283A | CPR/First Aid Certification and Card | Passed | 0.0 | 4.00 |
 | 10/24/2023 | SVP1292A | Airway (ACAP) Training | Passed | 0.0 | 2.00 |

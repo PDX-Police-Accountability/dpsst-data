@@ -428,6 +428,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '54.00'
+- date: 1/20/2023
+  course: OCS2814A
+  title: Brady Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/31/2022
   course: MISCMAIN
   title: 2022 LE Basic 3-Year Maintenance
@@ -464,6 +470,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 12/12/2022
+  course: OCS1862A
+  title: 2022 DPSST Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/30/2022
   course: OCS15169
   title: Target Zone Transitions - Marksmanship

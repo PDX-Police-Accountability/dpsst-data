@@ -60,5 +60,11 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/15/2022
+  course: PDP2004A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records: []
 education_records: []

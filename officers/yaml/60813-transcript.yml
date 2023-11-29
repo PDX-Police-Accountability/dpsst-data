@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/27/2023
+  course: OSH2687A
+  title: 2023 Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/2/2023
   course: OSH3154A
   title: OSP 2023 Regional EVOC

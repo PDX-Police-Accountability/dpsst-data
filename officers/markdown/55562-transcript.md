@@ -24,6 +24,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
+| Certification Cards | First Aid and CPR | 11/10/2023 | 11/10/2023 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/20/2020 |  |
@@ -33,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/10/2023 | PDS2319A | Active Threat Response | Passed | 0.0 | 8.00 |
+| 10/18/2023 | PDS0668A | Active Threat Range | Passed | 0.0 | 8.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 6/19/2023 | PDS3501A | Active Threat | Passed | 0.0 | 8.00 |
 | 4/30/2023 | PDS09818 | Peer Support | Passed | 0.0 | 1.00 |

@@ -56,6 +56,7 @@
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
+| 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/21/2023 | OSA4123 | In-Custody Suicide Prevention | Passed | 0.0 | 1.00 |
 | 4/20/2023 | OSA2765 | Deputy Wellness - Stress Management | Passed | 0.0 | 2.00 |
 | 4/20/2023 | OSA3509 | Corrections Legal Updates | Passed | 0.0 | 2.00 |
@@ -78,9 +79,11 @@
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
 | 1/30/2023 | OCS01116 | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 1/24/2023 | OCS39076 | FTO | Passed | 0.0 | 2.00 |
+| 1/20/2023 | OCS2814A | Brady Training | Passed | 0.0 | 0.25 |
 | 12/28/2022 | OCS33699 | Marksmanship/Problem Solving | Passed | 0.0 | 1.00 |
 | 12/23/2022 | OCS26095 | Use of Force Update | Passed | 0.0 | 1.00 |
 | 12/21/2022 | IFE44607 | Responder Life - Quarterly Training | Passed | 0.0 | 1.00 |
+| 12/12/2022 | OCS1862A | 2022 DPSST Legal Update | Passed | 0.0 | 0.50 |
 | 11/30/2022 | OCS15169 | Target Zone Transitions - Marksmanship | Passed | 0.0 | 1.00 |
 | 11/7/2022 | OCS25794 | Less Lethal - 40mm Bean Bag Certification | Passed | 0.0 | 2.00 |
 | 10/24/2022 | OCS07603 | Domestic Violence Investigations | Passed | 0.0 | 0.50 |

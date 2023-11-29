@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 10/23/2023
+  course: PDS3387A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2023
   course: PDS2616A
   title: CPR-First Aid

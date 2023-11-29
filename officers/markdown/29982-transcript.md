@@ -41,6 +41,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 11/15/2023 | VND1620A | Drone Response and Assessment | Passed | 0.0 | 4.00 |
+| 11/15/2023 | VND4360A | Drone Response and Assessment | Passed | 0.0 | 4.00 |
+| 11/15/2023 | VND4002A | Response to Bombing Incidents | Passed | 0.0 | 4.00 |
+| 11/14/2023 | VND2028A | Advanced Patrol Tactics | Passed | 0.0 | 8.00 |
+| 11/13/2023 | VND4391A | OPOA Training Conference - Prop  Evid | Passed | 0.0 | 8.00 |
+| 11/8/2023 | PHP0376A | Establishing Professionalism in a Small Agency | Passed | 0.0 | 7.00 |
+| 11/8/2023 | PHP0598A | Homelessness Response - Do's  Don'ts | Passed | 0.0 | 1.50 |
+| 11/8/2023 | PHP3216A | Leadership During Line-of-Duty Deaths | Passed | 0.0 | 3.00 |
+| 11/7/2023 | PHP1322A | Hiring Right to Avoid Managing Tough | Passed | 0.0 | 2.00 |
+| 11/7/2023 | PHP0409A | Hiring Right to Avoid Managing Tough | Passed | 0.0 | 1.50 |
 | 11/5/2023 | SVP2866A | Senate Bill 111 Response Plan (Marion County) | Passed | 0.0 | 0.50 |
 | 10/25/2023 | SVP1283A | CPR/First Aid Certification and Card | Passed | 0.0 | 4.00 |
 | 10/24/2023 | SVP1292A | Airway (ACAP) Training | Passed | 0.0 | 2.00 |

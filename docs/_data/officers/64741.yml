@@ -36,5 +36,23 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2023
+  course: PDP2863A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/16/2023
+  course: PDP2217A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2023
+  course: PDP0573A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records: []
 education_records: []

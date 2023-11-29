@@ -57,12 +57,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2023
+  course: PDS2952A
+  title: Active Threat Response
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/3/2023
+  course: PDS1458A
+  title: Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/2/2023
+  course: PDS1458A
+  title: Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/31/2023
+  course: PDS1458A
+  title: Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/30/2023
+  course: PDS1458A
+  title: Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
+- date: 10/27/2023
+  course: PDS1754A
+  title: Annual East Metro SWAT Training Week
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 10/14/2023
   course: PDS0194A
   title: SWAT Sniper Training
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 10/11/2023
+  course: PDS1323A
+  title: Range Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/30/2023
   course: PDS2616A
   title: CPR-First Aid
@@ -381,6 +423,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/1/2023
+  course: PDS1458A
+  title: Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '4.50'
 - date: 12/31/2022
   course: PDS37218
   title: Stops and Searches
