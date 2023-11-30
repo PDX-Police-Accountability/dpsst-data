@@ -124,6 +124,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/7/2023
+  course: VND3892A
+  title: Responder Life Peer Support Quarterly Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/2/2018
   course: BVP14592
   title: Control Tactics and take downs

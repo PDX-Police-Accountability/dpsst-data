@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2023 | VND3892A | Responder Life Peer Support Quarterly Training | Instructed | 0.0 | 1.50 |
 | 3/2/2018 | BVP14592 | Control Tactics and take downs | Passed | 0.0 | 2.50 |
 | 3/2/2018 | BVP32769 | CAD Software Update and Review | Passed | 0.0 | 2.50 |
 | 3/2/2018 | BVP20238 | Americans with Disablity Act | Passed | 0.0 | 1.00 |

@@ -69,6 +69,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/23/2023
+  course: OCS1779A
+  title: 2023 Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/20/2023
   course: OCS3124A
   title: Ethics
@@ -189,6 +195,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/20/2023
+  course: OCS1543A
+  title: Legal Update March and April 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/3/2023
   course: CAP19868
   title: VCQB / High Risk Vehicle Stop Firearms

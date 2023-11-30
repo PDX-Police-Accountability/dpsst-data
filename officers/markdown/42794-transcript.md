@@ -42,7 +42,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2023 | OCS2738A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
+| 11/22/2023 | OCS2843A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS2180A | Balancing Speed/Marksmanship | Instructed | 0.0 | 3.00 |
 | 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
@@ -68,6 +71,7 @@
 | 7/1/2023 | OCS3379A | One Handed Shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/15/2023 | OCS3363A | Shoot/No-Shoot Targets  Marksmanship | Instructed | 0.0 | 93.00 |
 | 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
+| 6/12/2023 | OCS0983A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
@@ -79,6 +83,7 @@
 | 4/24/2023 | OCS3262A | Fundamentals of Marksmanship/Qualification | Instructed | 0.0 | 2.00 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
 | 4/20/2023 | OCS1278 | Annual Qualifications | Instructed | 0.0 | 84.00 |
+| 4/20/2023 | OCS1543A | Legal Update March and April 2023 | Passed | 0.0 | 0.25 |
 | 4/19/2023 | OCS3736A | April 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/19/2023 | OCS0833A | April 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |
 | 4/4/2023 | OCS00948 | Marksmanship/Handgun Qualification | Instructed | 0.0 | 2.00 |

@@ -66,5 +66,17 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/15/2022
+  course: PDP2448A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/15/2022
+  course: PDP0158A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records: []
 education_records: []

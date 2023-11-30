@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/28/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/23/2023
+  course: OCS1779A
+  title: 2023 Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/20/2023
   course: OCS1690A
   title: Ethics
@@ -151,6 +163,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/20/2023
+  course: OCS1543A
+  title: Legal Update March and April 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/20/2023
   course: OCS1390A
   title: Long Gun Retention and Strikes
@@ -163,6 +181,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/1/2023
+  course: OCS4258A
+  title: Patrol Tactics
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/13/2023
   course: OCS18313
   title: Fundamentals of Marksmanship
@@ -613,6 +637,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/1/2021
+  course: OCS2020A
+  title: New Hire DTs
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/28/2021
   course: OCS05265
   title: February Monthly Firearms
@@ -622,6 +652,12 @@ training_records:
 - date: 2/26/2021
   course: F6D05721
   title: New Hire Fireamrs - Markmanship, Handling.
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/22/2021
+  course: OCS1573A
+  title: New Hire Firearms
   status: Passed
   score: '0.0'
   hours: '40.00'
@@ -1168,8 +1204,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022

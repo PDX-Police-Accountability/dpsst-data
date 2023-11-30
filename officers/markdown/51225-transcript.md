@@ -46,6 +46,8 @@
 | 10/27/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/27/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/19/2023 | PDP0057A | NYPD Dignitary Protection Course | Passed | 0.0 | 21.00 |
+| 10/13/2023 | PDP3880A | CMC Rope Rescue Technician III | Passed | 0.0 | 40.00 |
 | 10/5/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/5/2023 | PDP1481A | 2023 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 9/1/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

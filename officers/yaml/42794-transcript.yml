@@ -86,12 +86,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2023
+  course: OCS2738A
+  title: NHF MILO use of force decisions
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/22/2023
+  course: OCS2843A
+  title: NHF MILO use of force decisions
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 10/23/2023
+  course: OCS1779A
+  title: 2023 Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/20/2023
   course: OCS3124A
   title: Ethics
@@ -242,6 +260,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/12/2023
+  course: OCS0983A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/1/2023
   course: OCS4327A
   title: Shoot/No Shoot Targets, Marksmanship, Cover
@@ -308,6 +332,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '84.00'
+- date: 4/20/2023
+  course: OCS1543A
+  title: Legal Update March and April 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/19/2023
   course: OCS3736A
   title: April 2023 New Rifle Carrier

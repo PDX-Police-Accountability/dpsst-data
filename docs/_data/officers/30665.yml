@@ -160,6 +160,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 10/17/2023
+  course: PDP2335A
+  title: IACP Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '38.75'
 - date: 9/29/2023
   course: PDP0958A
   title: CNOA Narcotic  Specialized Unit Supervisor Course

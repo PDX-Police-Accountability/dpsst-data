@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/9/2023 | OCP0839A | 0 | Passed | 0.0 | 1.50 |
+| 11/9/2023 | OCP0839A | November 2023 Night Range | Passed | 0.0 | 1.50 |
 | 10/14/2023 | OCP1596A | PIT Training | Passed | 0.0 | 1.00 |
 | 9/30/2023 | OCP3504A | Threat of Harm Refresher | Passed | 0.0 | 0.50 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

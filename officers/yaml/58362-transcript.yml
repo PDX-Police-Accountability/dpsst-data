@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/28/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 10/23/2023
+  course: OCS1779A
+  title: 2023 Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/20/2023
   course: OCS1690A
   title: Ethics
@@ -87,6 +99,12 @@ training_records:
   hours: '1.00'
 - date: 6/12/2023
   course: OCS4091A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 6/12/2023
+  course: OCS0983A
   title: 2023 DPSST Use of Force Training Bulletin
   status: Passed
   score: '0.0'
@@ -139,6 +157,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/20/2023
+  course: OCS1543A
+  title: Legal Update March and April 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/19/2023
   course: OCS0833A
   title: April 2023 New Rifle Carrier
@@ -1990,8 +2014,12 @@ training_records:
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 3/25/2022

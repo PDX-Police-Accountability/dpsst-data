@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/20/2023 | OCS2742A | SFST Refresher | Passed | 0.0 | 5.00 |
 | 10/13/2023 | MLP3516A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 9/14/2023 | OCS1387A | Interview and Interrogation Training | Passed | 0.0 | 24.00 |
 | 9/1/2023 | HDA2069A | Basic Narcotics Investigations | Passed | 0.0 | 40.00 |

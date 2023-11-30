@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/19/2023
+  course: HSU4495A
+  title: Supplemental Firearms November 2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/30/2023
   course: HSU4283A
   title: Instructor In- Service Firearms

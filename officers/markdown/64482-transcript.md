@@ -33,3 +33,5 @@
 | 9/21/2023 | PDP3046A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP1139A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 10/15/2022 | PDP2004A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
+| 10/15/2022 | PDP2448A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
+| 10/15/2022 | PDP0158A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

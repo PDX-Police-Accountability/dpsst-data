@@ -40,9 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
-| 11/9/2023 | OCP0839A | 0 | Passed | 0.0 | 1.50 |
-| 11/9/2023 | OCP0839A | 0 | Instructed | 0.0 | 4.50 |
-| 11/7/2023 | OCP1604A | 0 | Instructed | 0.0 | 4.00 |
+| 11/9/2023 | OCP0839A | November 2023 Night Range | Passed | 0.0 | 1.50 |
+| 11/9/2023 | OCP0839A | November 2023 Night Range | Instructed | 0.0 | 4.50 |
+| 11/7/2023 | OCP1604A | November 2023 Night Range | Instructed | 0.0 | 4.00 |
 | 10/11/2023 | OCP1610A | Domestic Terrorism Training | Passed | 0.0 | 1.00 |
 | 9/30/2023 | OCP3504A | Threat of Harm Refresher | Passed | 0.0 | 0.50 |
 | 9/27/2023 | OCP3059A | Taser Re-cert | Passed | 0.0 | 2.00 |

@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2023
+  course: OCS2341A
+  title: 2023 Ethics - Pillars to Success and Longevity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/20/2023
+  course: OCS0946A
+  title: 2023 Ethics - Pillars to Success and Longevity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/23/2023
+  course: OCS1779A
+  title: 2023 Legislative Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/16/2023
   course: OCS1119A
   title: Use of force decision making
@@ -116,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/30/2023
+  course: OCS0564A
+  title: 2nd QTR Patrol Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2023
   course: OCS3318A
   title: Ground Fighting
@@ -134,6 +158,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/20/2023
+  course: OCS1543A
+  title: Legal Update March and April 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/19/2023
   course: OCS26825
   title: FTO Meeting April

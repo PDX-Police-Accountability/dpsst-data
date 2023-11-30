@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/8/2023
+  course: PDP2647A
+  title: Behavioral Threat Assessment Seminar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/29/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals

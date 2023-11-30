@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/15/2023 | CAP3765A | Low Light / VCQB | Instructed | 0.0 | 4.00 |
+| 11/4/2023 | CAP3832A | Leadership Lessons Greatest TED Talks in History | Passed | 0.0 | 16.00 |
 | 11/1/2023 | CAP0862A | Ethics In Law Enforcement (PoliceOne Academy) | Passed | 0.0 | 1.00 |
 | 10/4/2023 | CAP2134A | Low Light / VCQB | Instructed | 0.0 | 4.00 |
 | 9/13/2023 | CAP0876A | The C.A.L.M Approach | Passed | 0.0 | 3.00 |

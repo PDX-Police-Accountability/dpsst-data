@@ -79,6 +79,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 11/4/2023
+  course: CAP3832A
+  title: Leadership Lessons Greatest TED Talks in History
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/1/2023
   course: CAP0862A
   title: Ethics In Law Enforcement (PoliceOne Academy)

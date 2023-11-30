@@ -25,7 +25,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 6/14/2017 |  |
@@ -37,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
@@ -53,8 +56,10 @@
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
 | 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/20/2023 | OCS2647 | Annual Qualifiation | Passed | 0.0 | 1.00 |
+| 4/20/2023 | OCS1543A | Legal Update March and April 2023 | Passed | 0.0 | 0.25 |
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 3/20/2023 | OCS2503 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
+| 3/1/2023 | OCS4258A | Patrol Tactics | Passed | 0.0 | 40.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS33027 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 1/31/2023 | OCS43888 | Counter Assaults | Passed | 0.0 | 1.00 |
@@ -130,8 +135,10 @@
 | 3/31/2021 | OCS02227 | March Defensive Tactics | Passed | 0.0 | 1.00 |
 | 3/3/2021 | F6D31314 | Patrol Tactics - Team Movement, Building Searches. | Passed | 0.0 | 24.00 |
 | 3/1/2021 | OCS43999 | Stop Data Training | Passed | 0.0 | 0.50 |
+| 3/1/2021 | OCS2020A | New Hire DTs | Passed | 0.0 | 40.00 |
 | 2/28/2021 | OCS05265 | February Monthly Firearms | Passed | 0.0 | 1.00 |
 | 2/26/2021 | F6D05721 | New Hire Fireamrs - Markmanship, Handling. | Passed | 0.0 | 40.00 |
+| 2/22/2021 | OCS1573A | New Hire Firearms | Passed | 0.0 | 40.00 |
 | 2/1/2021 | OCS31237 | Harassment Training | Passed | 0.0 | 0.50 |
 | 1/30/2021 | OCS32307 | De-Escalation Tactics | Passed | 0.0 | 1.00 |
 | 1/27/2021 | MISCMAIN | 2021 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
