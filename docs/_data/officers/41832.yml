@@ -82,6 +82,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/25/2023
+  course: PDP0350A
+  title: 2023 Command Staff In-Service Training Equity
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/25/2023
+  course: PDP1952A
+  title: 2023 Command Staff In-Service Training Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/18/2023
   course: PDP0990A
   title: 2023  Evidence Basics for Use of Force Invest.
@@ -391,6 +403,36 @@ training_records:
 - date: 1/18/2023
   course: PDP1421A
   title: 2023-1 All Sworn In-Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/18/2023
+  course: PDP1860A
+  title: 2023-1 All Sworn In-Service Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 1/17/2023
+  course: PDP2039A
+  title: 2023-1 All Sworn In-Service Crowd Mgmt. Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/17/2023
+  course: PDP0495A
+  title: 2023-1 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/17/2023
+  course: PDP0901A
+  title: 2023-1 All Sworn In-Service MFF Other
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 1/17/2023
+  course: PDP4056A
+  title: 2023-1 All Sworn In-Service Wellness
   status: Passed
   score: '0.0'
   hours: '1.00'

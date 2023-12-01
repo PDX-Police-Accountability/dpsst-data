@@ -296,6 +296,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/17/2023
+  course: PDP2039A
+  title: 2023-1 All Sworn In-Service Crowd Mgmt. Other
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/13/2023
   course: PDP35372
   title: 2022 Naxolone Administration

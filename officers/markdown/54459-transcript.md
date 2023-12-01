@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/26/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/25/2023 | PDP1869A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 10/25/2023 | PDP3753A | 2023 Training Return to Work Firearms | Passed | 0.0 | 4.00 |
 | 10/24/2023 | PDP3717A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 10/18/2023 | PDP3297A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |

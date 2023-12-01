@@ -74,6 +74,7 @@
 | 5/16/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/16/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 5/16/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 5/12/2023 | PDP4435A | 2023 Applied Suicide Intervention Skills Training | Passed | 0.0 | 14.00 |
 | 5/3/2023 | PDP4437A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 29.00 |
 | 4/18/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/12/2023 | PDP3246A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |

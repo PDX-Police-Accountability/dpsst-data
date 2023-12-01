@@ -79,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 10/25/2023
+  course: PDP3753A
+  title: 2023 Training Return to Work Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/24/2023
   course: PDP3717A
   title: 2022 Crowd Management

@@ -115,6 +115,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 10/19/2023
+  course: PDP3753A
+  title: 2023 Training Return to Work Firearms
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/12/2023
   course: PDP3045A
   title: 2022-12- CAO Case Law Updates for 12/2022

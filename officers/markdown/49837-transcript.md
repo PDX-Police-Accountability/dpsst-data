@@ -41,6 +41,7 @@
 | 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 10/19/2023 | PDP4216A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 10/16/2023 | PDP4354A | 2023 Training RTW PVO, MMF, Wellness,  ABLE | Instructed | 0.0 | 2.50 |
 | 10/5/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/5/2023 | PDP1481A | 2023 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 10/2/2023 | PDP3016A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |

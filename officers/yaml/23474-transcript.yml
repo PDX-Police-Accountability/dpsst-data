@@ -132,6 +132,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2023
+  course: PDP0350A
+  title: 2023 Command Staff In-Service Training Equity
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/1/2023
+  course: PDP1952A
+  title: 2023 Command Staff In-Service Training Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/31/2023
   course: PDP1020A
   title: 2023 Supevisor In-Service Elation
@@ -150,6 +162,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/16/2023
+  course: PDP4354A
+  title: 2023 Training RTW PVO, MMF, Wellness,  ABLE
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/13/2023
+  course: PDP1852A
+  title: 2023 Training Return to Work CT, PP,  FA Updates
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 10/2/2023
+  course: PDP3753A
+  title: 2023 Training Return to Work Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2019
   course: F6D13893
   title: Adult Learning Core

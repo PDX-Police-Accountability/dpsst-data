@@ -69,6 +69,7 @@
 | 5/18/2023 | PDP3706A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2023 | PDP0987A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/17/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/12/2023 | PDP4435A | 2023 Applied Suicide Intervention Skills Training | Passed | 0.0 | 14.00 |
 | 5/10/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/4/2023 | PDP2223A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/27/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

@@ -73,6 +73,7 @@
 | 5/29/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/24/2023 | BPT1465A | Northwest Regional CIT Conference-Day 2 | Passed | 0.0 | 6.50 |
 | 5/23/2023 | BPT2275A | Northwest Regional CIT Conference-Day 1 | Passed | 0.0 | 6.50 |
+| 5/12/2023 | PDP4435A | 2023 Applied Suicide Intervention Skills Training | Passed | 0.0 | 14.00 |
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/20/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
 | 4/20/2023 | PDP2123A | 2023-1 All Sworn In-Service Scenarios | Passed | 0.0 | 3.50 |

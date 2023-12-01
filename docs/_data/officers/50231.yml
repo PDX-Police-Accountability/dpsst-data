@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/19/2023
+  course: PDP3753A
+  title: 2023 Training Return to Work Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 9/19/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022

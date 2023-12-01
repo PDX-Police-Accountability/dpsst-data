@@ -94,6 +94,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/25/2023
+  course: PDP0350A
+  title: 2023 Command Staff In-Service Training Equity
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/25/2023
+  course: PDP1952A
+  title: 2023 Command Staff In-Service Training Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/18/2023
   course: PDP1401A
   title: FIN-6.14  with KC

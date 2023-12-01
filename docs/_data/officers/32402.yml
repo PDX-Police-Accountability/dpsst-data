@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2023
+  course: HBS0411A
+  title: 2023 November In-Service IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 11/20/2023
+  course: HBS3225A
+  title: 2023 November In-Service IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 11/14/2023
   course: HBS2602A
   title: NamUs Missing Person Investigation

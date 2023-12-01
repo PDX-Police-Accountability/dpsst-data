@@ -258,6 +258,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/12/2023
+  course: PDP4435A
+  title: 2023 Applied Suicide Intervention Skills Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 5/10/2023
   course: PDP0226A
   title: 2023 Directive 650.00 Consent Searches

@@ -49,6 +49,7 @@
 | 11/8/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 11/8/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 11/8/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 10/19/2023 | PDP3753A | 2023 Training Return to Work Firearms | Passed | 0.0 | 6.00 |
 | 9/12/2023 | PDP3045A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 9/12/2023 | PDP1921A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |

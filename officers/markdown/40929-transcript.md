@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/25/2023 | PDP3753A | 2023 Training Return to Work Firearms | Instructed | 0.0 | 4.00 |
+| 10/19/2023 | PDP3753A | 2023 Training Return to Work Firearms | Instructed | 0.0 | 6.00 |
 | 10/18/2023 | PDP0543A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 10/15/2023 | HSU4019A | In- Service Firearms | Instructed | 0.0 | 8.00 |
 | 10/11/2023 | PDP2665A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 30.00 |

@@ -39,6 +39,7 @@
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/6/2023 | PDP2850A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/5/2023 | PDP3855A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
+| 5/12/2023 | PDP4435A | 2023 Applied Suicide Intervention Skills Training | Passed | 0.0 | 14.00 |
 | 3/27/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/27/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/27/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

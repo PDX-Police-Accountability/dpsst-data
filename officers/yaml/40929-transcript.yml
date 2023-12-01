@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/25/2023
+  course: PDP3753A
+  title: 2023 Training Return to Work Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 10/19/2023
+  course: PDP3753A
+  title: 2023 Training Return to Work Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 10/18/2023
   course: PDP0543A
   title: 2023 Training Red Dot Optic Transition Course

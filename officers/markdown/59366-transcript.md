@@ -29,6 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/12/2023 | SAG4418A | Human Trafficking Conference | Passed | 0.0 | 16.00 |
 | 9/13/2022 | OCS39395 | Interview and Interrogation | Passed | 0.0 | 24.00 |
 | 6/13/2021 | PDP02154 | 2021 Language Access-Translation  Interpretation | Passed | 0.0 | 0.25 |
 | 6/12/2021 | PDP13788 | 2021 Procedural Justice | Passed | 0.0 | 0.75 |

@@ -61,6 +61,7 @@
 | 5/24/2023 | PDP4037 | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 5/24/2023 | PDP3364A | 2023-2 Range Qualification Shotgun | Passed | 0.0 | 0.50 |
 | 5/24/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 5/12/2023 | PDP4435A | 2023 Applied Suicide Intervention Skills Training | Passed | 0.0 | 14.00 |
 | 5/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/15/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/13/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |

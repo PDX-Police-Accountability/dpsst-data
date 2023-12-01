@@ -42,7 +42,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2023 | MMP2647A | Alzheimer's Training | Passed | 0.0 | 1.00 |
 | 10/27/2023 | MMP2956A | Adult/Pediatric First Aid/CPR/AED | Passed | 0.0 | 3.00 |
+| 10/27/2023 | MMP2242A | Bloodborn Pathogens | Passed | 0.0 | 1.00 |
 | 10/11/2023 | MMP4299A | Defensive Tactics / Baton Refresher | Passed | 0.0 | 3.00 |
 | 10/5/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/30/2023 | MMP4487A | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |

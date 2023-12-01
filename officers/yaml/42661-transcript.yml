@@ -82,6 +82,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/15/2023
+  course: PDP0350A
+  title: 2023 Command Staff In-Service Training Equity
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/15/2023
+  course: PDP1952A
+  title: 2023 Command Staff In-Service Training Leadership
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/22/2023
   course: PDP4501A
   title: 2023 SERT/CNT/CIC Camp Rilea Training
