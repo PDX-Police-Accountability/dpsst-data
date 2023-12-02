@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2023
+  course: PDP0412A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 10/26/2023
   course: HBS1720A
   title: Confronting Bias Through justice and Healing

@@ -46,7 +46,6 @@
 | 11/17/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |
 | 11/17/2023 | BNP2438A | Mental Health and Meditation | Passed | 0.0 | 1.00 |
 | 11/17/2023 | BNP1912A | Trauma Informed Care | Passed | 0.0 | 2.00 |
-| 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 10/16/2023 | BNP4308A | Ethos Academy | Passed | 0.0 | 3.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/12/2023 | BNP1437A | Ethos Academy | Passed | 0.0 | 3.00 |

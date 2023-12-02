@@ -37,7 +37,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/10/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 16.00 |
 | 11/10/2023 | REG0793A | Sig Pistol Mounted Optics Instructor Course LE | Passed | 0.0 | 16.00 |
 | 11/6/2023 | OSH0517A | 3rd Trimester Firearms Low-Light | Instructed | 0.0 | 2.00 |
 | 10/27/2023 | OSH0274A | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |

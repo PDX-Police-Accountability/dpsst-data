@@ -30,7 +30,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
 | Code of Ethics | Signed | 5/4/2001 |  |
 ## Education
@@ -41,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 11/16/2023 | SVP2097A | Cumulative Trauma and PTSD in First Responders | Passed | 0.0 | 1.50 |
 | 11/15/2023 | VND1620A | Drone Response and Assessment | Passed | 0.0 | 4.00 |
 | 11/15/2023 | VND4360A | Drone Response and Assessment | Passed | 0.0 | 4.00 |
 | 11/15/2023 | VND4002A | Response to Bombing Incidents | Passed | 0.0 | 4.00 |

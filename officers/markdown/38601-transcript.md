@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2023 | GSP2670A | You Belong Part 1: City of Gresham: Equity | Passed | 0.0 | 3.00 |
 | 5/10/2023 | GSP3332A | Red Dot Transition | Passed | 0.0 | 30.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/2/2023 | GSP25014 | 2023 CPR and First Aid | Passed | 0.0 | 6.00 |

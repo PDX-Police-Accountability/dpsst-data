@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2023 | GSP2670A | You Belong Part 1: City of Gresham: Equity | Passed | 0.0 | 3.00 |
 | 9/26/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 9/6/2023 | GSP4301A | Recognizing Personnel, Organization and CI Stress | Passed | 0.0 | 2.00 |
 | 5/12/2023 | LOP2596A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |

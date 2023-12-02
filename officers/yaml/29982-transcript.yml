@@ -82,6 +82,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2023
+  course: SVP2097A
+  title: Cumulative Trauma and PTSD in First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/15/2023
   course: VND1620A
   title: Drone Response and Assessment
@@ -4039,10 +4045,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 11/3/2021
-  expiration_date: 11/3/2023
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/21/2021

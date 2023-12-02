@@ -1745,10 +1745,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/11/2021
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/7/2019

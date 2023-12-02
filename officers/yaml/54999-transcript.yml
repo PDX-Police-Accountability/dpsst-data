@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 11/16/2023
+  course: REG2736A
+  title: EVO Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/9/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance
@@ -1314,10 +1320,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/26/2022
   expiration_date: 4/26/2024
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2021
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/9/2019

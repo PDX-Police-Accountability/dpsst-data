@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/29/2023
+  course: GSP2670A
+  title: 'You Belong Part 1: City of Gresham: Equity'
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/2/2023
   course: GSP3709A
   title: Visual Observer (VO) Training

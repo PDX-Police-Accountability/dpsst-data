@@ -69,12 +69,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 11/12/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 11/12/2023
   course: PDS3559A
   title: Traffic Incident Management
   status: Passed

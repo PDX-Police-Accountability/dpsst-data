@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 11/21/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 8/1/2023 | Oregon State Police | Promotion | Sergeant |  |  |
 | 2/21/2020 | Oregon State Police | Hired | Trooper |  |  |
 | 11/25/2019 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -24,7 +25,6 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |

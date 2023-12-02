@@ -47,7 +47,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 10/17/2023 | BNP1963A | IACP Training | Passed | 0.0 | 17.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/14/2023 | CVP4482A | General Leadership | Passed | 0.0 | 1.00 |

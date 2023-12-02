@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2023
+  course: PMC0532A
+  title: Dispatch Protocol- BLS Requests for ALS
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/30/2017
   course: F6C12337
   title: Annual Firearms Qualification

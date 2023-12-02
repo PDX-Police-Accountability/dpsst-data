@@ -31,7 +31,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 10/3/2022 | 10/3/2024 |
 | Certification Cards | First Aid and CPR | 4/26/2022 | 4/26/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 12/9/2019 |  |
 | Code of Ethics | Signed | 1/11/2016 |  |
 ## Education
@@ -42,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2023 | REG2736A | EVO Refresher | Passed | 0.0 | 4.00 |
 | 11/9/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/9/2023 | MOS1826A | NORTAC Leadership | Passed | 0.0 | 0.50 |
 | 11/9/2023 | MOS0651A | Land Navigation and Map Reading | Passed | 0.0 | 2.00 |

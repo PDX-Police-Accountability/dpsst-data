@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 10/12/2023 | Portland Police Bureau | Hired | Police Off |  |  |
+| 9/30/2023 | Hood River County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/16/2022 | Hood River County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 1/16/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/20/2020 | Portland Police Bureau | Hired | Police Off |  |  |

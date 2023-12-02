@@ -118,12 +118,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 11/15/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '0.50'
 - date: 10/16/2023
   course: BNP4308A
   title: Ethos Academy

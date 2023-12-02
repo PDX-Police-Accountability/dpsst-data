@@ -44,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/22/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 11/15/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 11/15/2023 | PDP1115A | 2023 K-9 Weekly Training | Instructed | 0.0 | 4.00 |
 | 10/26/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/25/2023 | PDP3596A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.50 |
 | 10/19/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 3.00 |

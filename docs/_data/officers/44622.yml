@@ -63,12 +63,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 11/10/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '16.00'
-- date: 11/10/2023
   course: REG0793A
   title: Sig Pistol Mounted Optics Instructor Course LE
   status: Passed

@@ -15,6 +15,12 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 9/30/2023
+  agency: Hood River County Sheriff's Office
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 1/16/2022
   agency: Hood River County Sheriff's Office
   action: Hired

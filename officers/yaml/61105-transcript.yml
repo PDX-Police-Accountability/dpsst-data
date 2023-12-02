@@ -43,18 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2023
+  course: NGP2931A
+  title: Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/26/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
-- date: 9/27/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 9/27/2023
   course: NGP1568A
   title: Handgun Training

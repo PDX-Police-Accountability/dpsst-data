@@ -47,6 +47,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/18/2023
+  course: MNP2125A
+  title: Night Handgun/Rifle/Shotgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/10/2023
   course: MNP2761A
   title: Defensive Tactics

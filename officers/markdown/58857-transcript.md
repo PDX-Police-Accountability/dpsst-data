@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/18/2023 | Police Officer | Intermediate | App Incmpl |  | 1/18/2024 |  |
+| 11/30/2023 | Police Officer | Intermediate | Granted | 11/30/2023 |  |  |
 | 8/20/2019 | Police Officer | Basic | Granted | 8/20/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -26,7 +26,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/6/2023 | 9/6/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 7/15/2018 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 8/17/2023 |
 ## Education

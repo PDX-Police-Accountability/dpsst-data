@@ -38,7 +38,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 11/3/2021 | 11/3/2023 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
 | Code of Ethics | Signed | 4/12/2006 |  |
 ## Education
@@ -48,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/16/2023 | SVP2097A | Cumulative Trauma and PTSD in First Responders | Passed | 0.0 | 1.50 |
 | 11/15/2023 | SVP3275A | Night Range Training | Instructed | 0.0 | 6.00 |
 | 11/8/2023 | PHP0376A | Establishing Professionalism in a Small Agency | Passed | 0.0 | 7.00 |
 | 11/8/2023 | PHP0598A | Homelessness Response - Do's  Don'ts | Passed | 0.0 | 1.50 |

@@ -45,7 +45,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/15/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.50 |
 | 11/14/2023 | BNP1325A | Officer Rescue / Medical | Passed | 0.0 | 1.00 |
 | 11/14/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |
 | 11/14/2023 | BNP2438A | Mental Health and Meditation | Passed | 0.0 | 1.00 |

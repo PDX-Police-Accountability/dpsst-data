@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2023
+  course: PDP0996A
+  title: 2023 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/13/2023
   course: PDP2793A
   title: 2023-2 All Sworn In-Service Crime Scene Mgmt
@@ -80,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/9/2023
+  course: PDP3446A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/2/2023
   course: PDP1636A
   title: 2023 SERT Training - FIREARMS
@@ -5331,10 +5343,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/3/2023
   expiration_date: 5/3/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 2/3/2011

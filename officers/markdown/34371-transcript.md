@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2023 | PMC0532A | Dispatch Protocol- BLS Requests for ALS | Passed | 0.0 | 0.25 |
 | 4/30/2017 | F6C12337 | Annual Firearms Qualification | Passed | 0.0 | 1.00 |
 | 4/30/2017 | F6C01810 | Taser Refresher Training | Passed | 0.0 | 1.00 |
 | 3/31/2017 | F6C23246 | Tigger Manipulation/Distance Firing | Passed | 0.0 | 1.00 |
