@@ -19,14 +19,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 12/1/2023 | Police Officer | Basic | Lapsed | 8/20/2019 | 9/1/2028 |  |
 | 7/21/2023 | Corrections Officer | Basic | Expired | 9/28/2016 |  |  |
-| 8/20/2019 | Police Officer | Basic | Granted | 8/20/2019 | 12/1/2023 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 7/31/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 12/19/2018 |  |
 | Code of Ethics | Signed | 9/28/2016 |  |

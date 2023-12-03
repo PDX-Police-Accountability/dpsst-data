@@ -69,6 +69,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/29/2023
+  course: HBP0000A
+  title: 'Changing Perceptions: Fair  Impartial Policing'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/8/2023
+  course: HBP1832A
+  title: Range and Duty Weapons Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 11/8/2023
+  course: HBP2471A
+  title: Trauma Informed Care for Public Safety Officials
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/27/2023
   course: HBP4452A
   title: Assisting Individuals/Group Crisis Intervention

@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2023 | HBP0000A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
+| 11/8/2023 | HBP1832A | Range and Duty Weapons Maintenance | Passed | 0.0 | 5.00 |
+| 11/8/2023 | HBP2471A | Trauma Informed Care for Public Safety Officials | Passed | 0.0 | 4.00 |
 | 10/27/2023 | HBP4452A | Assisting Individuals/Group Crisis Intervention | Passed | 0.0 | 27.00 |
 | 10/10/2023 | HBP4093A | FTO Training | Passed | 0.0 | 2.50 |
 | 9/27/2023 | HBP3311A | ODT - Ambush Training | Passed | 0.0 | 1.00 |

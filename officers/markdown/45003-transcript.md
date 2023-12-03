@@ -43,6 +43,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
+| 11/8/2023 | HBP1832A | Range and Duty Weapons Maintenance | Passed | 0.0 | 5.00 |
+| 11/8/2023 | HBP2471A | Trauma Informed Care for Public Safety Officials | Passed | 0.0 | 4.00 |
 | 10/24/2023 | HBP1453A | 2023 HPD Command/Supervisor In-Service | Passed | 0.0 | 7.50 |
 | 10/19/2023 | HBP2694A | Tracwire Training for FTO | Passed | 0.0 | 1.50 |
 | 10/12/2023 | HBP3194A | FTO Training | Instructed | 0.0 | 2.00 |

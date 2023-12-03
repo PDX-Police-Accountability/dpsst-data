@@ -61,6 +61,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/1/2023
+  course: OCS2766A
+  title: Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/23/2023
   course: OCS1779A
   title: 2023 Legislative Update
@@ -103,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/10/2023
+  course: OCS2735A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 6/1/2023
   course: OCS3771A
   title: High Risk Vehicle Stops
@@ -133,6 +145,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/13/2023
+  course: OCS1599A
+  title: Contraband Case Law
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 5/1/2023
   course: OCS4133A
   title: Use of Force Decisions/De-Escalation

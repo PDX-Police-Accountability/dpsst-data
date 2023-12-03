@@ -141,6 +141,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/10/2023
+  course: OCS4343A
+  title: 2023 Community Caretaking Update Trg Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/10/2023
+  course: OCS2735A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/6/2023
   course: OCS4279A
   title: High Risk Vehicle Stops
@@ -183,6 +195,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/13/2023
+  course: OCS1599A
+  title: Contraband Case Law
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 4/28/2023
   course: OCS0348A
   title: Ground Fighting

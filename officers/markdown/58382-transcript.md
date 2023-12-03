@@ -36,16 +36,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
 | 10/4/2023 | OCS3719A | Use of Force/De-escalation K9 unit training | Passed | 0.0 | 4.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 7/10/2023 | OCS4343A | 2023 Community Caretaking Update Trg Bulletin | Passed | 0.0 | 0.25 |
+| 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/12/2023 | OCS0983A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
+| 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS2909 | Body Worn Cameras | Passed | 0.0 | 2.00 |
 | 4/24/2023 | OCS3161A | Fundamentals of Marksmanship/Qualification | Passed | 0.0 | 2.00 |

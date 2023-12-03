@@ -43,6 +43,7 @@
 | 6/21/2023 | LOP0868A | West Metro Monthly Motor Training 06/21/2023 | Passed | 0.0 | 5.00 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 5/18/2023 | OCP1757A | North American Motor Officer Assoc. Conference | Passed | 0.0 | 30.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |

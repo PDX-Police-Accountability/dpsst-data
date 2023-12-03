@@ -494,6 +494,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/31/2021
+  course: TAP2671A
+  title: LEXIPOL Daily Training Bulletins Jan-Dec 2021
+  status: Passed
+  score: '0.0'
+  hours: '11.50'
 - date: 12/22/2021
   course: TAP36680
   title: Leading in Times of Chaos and Adversity

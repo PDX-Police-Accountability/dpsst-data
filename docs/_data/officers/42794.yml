@@ -242,6 +242,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 7/10/2023
+  course: OCS4343A
+  title: 2023 Community Caretaking Update Trg Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 7/10/2023
+  course: OCS2735A
+  title: 2023 DPSST Use of Force Training Bulletin
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/1/2023
   course: OCS3379A
   title: One Handed Shooting/Low Light/Marksmanship

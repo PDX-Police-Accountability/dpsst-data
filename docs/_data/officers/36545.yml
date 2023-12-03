@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/22/2023
+  course: HBP4078A
+  title: Trauma Informed Care for Public Safety Officials
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

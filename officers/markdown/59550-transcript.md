@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/7/2023 | RMP1772A | Ground Defense/Weapon Transitions | Passed | 0.0 | 8.00 |
+| 10/30/2023 | RMP1450A | Breaching Zak Tool | Passed | 0.0 | 0.50 |
 | 10/9/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/20/2023 | RMP1572A | Ethics | Passed | 0.0 | 1.00 |
 | 9/20/2023 | RMP0736A | Building Clearing / Rescue Task Force | Passed | 0.0 | 4.00 |

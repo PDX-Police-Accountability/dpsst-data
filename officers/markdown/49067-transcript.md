@@ -39,6 +39,7 @@
 | 11/30/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2023 | OCS2341A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS0946A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
+| 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
@@ -46,10 +47,12 @@
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/7/2023 | OCS3800A | FTO Meeting/Training | Passed | 0.0 | 2.00 |
 | 7/19/2023 | LOP4276A | West Metro Monthly Motor Training 07/19/2023 | Passed | 0.0 | 5.00 |
+| 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
+| 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |
 | 5/1/2023 | OCS4133A | Use of Force Decisions/De-Escalation | Passed | 0.0 | 1.00 |
 | 4/30/2023 | OCS0564A | 2nd QTR Patrol Shotgun | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS3318A | Ground Fighting | Passed | 0.0 | 1.00 |

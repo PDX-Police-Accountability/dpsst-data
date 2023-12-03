@@ -67,6 +67,8 @@
 | 7/20/2023 | OCS0654A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 7/20/2023 | OCS0991A | Remington 870 Armorer | Passed | 0.0 | 16.00 |
 | 7/14/2023 | OCS3464A | Positional Shooting/Target ID/OIS Debrief | Instructed | 0.0 | 4.00 |
+| 7/10/2023 | OCS4343A | 2023 Community Caretaking Update Trg Bulletin | Passed | 0.0 | 0.25 |
+| 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 7/1/2023 | OCS3379A | One Handed Shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
 | 6/15/2023 | OCS3363A | Shoot/No-Shoot Targets  Marksmanship | Instructed | 0.0 | 93.00 |
 | 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |

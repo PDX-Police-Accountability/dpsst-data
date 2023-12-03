@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
+| 11/1/2023 | HBP0391A | Range and Duty Weapons Maintenance | Passed | 0.0 | 5.00 |
+| 11/1/2023 | HBP4356A | Trauma Informed Care for Public Safety Officials | Passed | 0.0 | 4.00 |
 | 10/24/2023 | HBP1453A | 2023 HPD Command/Supervisor In-Service | Passed | 0.0 | 7.50 |
 | 7/5/2023 | HBP2052A | K9 Custody, POST PIT, High Risk Traffic Stops | Passed | 0.0 | 4.00 |
 | 7/5/2023 | HBP2146A | Traffic Crashes | Passed | 0.0 | 1.00 |

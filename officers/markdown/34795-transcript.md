@@ -53,6 +53,8 @@
 | 7/12/2023 | HDA3708A | Federal and State Civil Forfeiture | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA0101A | Len Bias Investigations | Passed | 0.0 | 4.00 |
 | 7/11/2023 | HDA2270A | ONEA Training Institute - General Session | Passed | 0.0 | 8.00 |
+| 7/10/2023 | OCS4343A | 2023 Community Caretaking Update Trg Bulletin | Passed | 0.0 | 0.25 |
+| 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 7/6/2023 | OCS4279A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |
 | 6/1/2023 | OCS4327A | Shoot/No Shoot Targets, Marksmanship, Cover | Passed | 0.0 | 3.00 |
 | 6/1/2023 | OCS3320A | Shoot/No Shoot Targets/Marksmanship | Passed | 0.0 | 1.00 |
@@ -60,6 +62,7 @@
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |
 | 5/17/2023 | OCS2082A | EVOC | Passed | 0.0 | 5.00 |
 | 5/15/2023 | OCS1888A | Ground Fighting | Passed | 0.0 | 1.00 |
+| 5/13/2023 | OCS1599A | Contraband Case Law | Passed | 0.0 | 0.25 |
 | 4/28/2023 | OCS0348A | Ground Fighting | Passed | 0.0 | 1.00 |
 | 4/24/2023 | OCS1341A | Strangulation and SKIT training | Passed | 0.0 | 0.50 |
 | 4/20/2023 | OCS1543A | Legal Update March and April 2023 | Passed | 0.0 | 0.25 |

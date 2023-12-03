@@ -82,6 +82,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/30/2023
+  course: SVP2668A
+  title: '"Be Nice" Customer Service Training (Randy Means)'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/16/2023
   course: SVP2097A
   title: Cumulative Trauma and PTSD in First Responders

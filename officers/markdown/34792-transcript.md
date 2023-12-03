@@ -111,6 +111,7 @@
 | 2/25/2022 | ADP34231 | DT's - Punch/Defense/Body Locks/Takedowns | Passed | 0.0 | 4.00 |
 | 2/15/2022 | TAP00456 | Impriving Police Decision Making Under Stress | Passed | 0.0 | 1.25 |
 | 1/13/2022 | REG21173 | Pursuit Management for Supervisors | Passed | 0.0 | 4.00 |
+| 12/31/2021 | TAP2671A | LEXIPOL Daily Training Bulletins Jan-Dec 2021 | Passed | 0.0 | 11.50 |
 | 12/22/2021 | TAP36680 | Leading in Times of Chaos and Adversity | Passed | 0.0 | 3.00 |
 | 12/20/2021 | TAP37246 | Tctical Medical Care Evolution Officer Down Trng | Passed | 0.0 | 1.00 |
 | 12/13/2021 | ADP10370 | Taser 7 User Recertification Course | Passed | 0.0 | 1.00 |
