@@ -222,6 +222,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/19/2023
+  course: PDP4215A
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/17/2023
   course: PDP2982A
   title: 2023 FTEP Post DPSST Firearms

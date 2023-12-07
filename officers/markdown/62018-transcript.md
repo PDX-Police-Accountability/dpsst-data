@@ -31,7 +31,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/19/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/12/2023 | PDP1135A | 2023 40mm Less Lethal New Operator Training | Passed | 0.0 | 18.00 |
+| 11/8/2023 | PDP4481A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 26.00 |
 | 10/18/2023 | PDP0543A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
 | 9/11/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/11/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

@@ -30,6 +30,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/7/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/7/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/12/2023 | PDP2963A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 10/10/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 9/9/2023 | PDP1156A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |

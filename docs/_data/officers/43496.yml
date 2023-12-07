@@ -105,6 +105,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/7/2023
+  course: PDP2064A
+  title: DIR 0612.00 Communication Technology  Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/7/2023
+  course: PDP3565A
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/7/2023
+  course: PDP1319A
+  title: DIR 0600.00 Air Support Unit Operations
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/26/2023
   course: PDP0677A
   title: 2023 Supevisor In-Service Detectives

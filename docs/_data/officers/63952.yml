@@ -30,6 +30,204 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/28/2023
+  course: PDP4215A
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/28/2023
+  course: PDP2064A
+  title: DIR 0612.00 Communication Technology  Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/28/2023
+  course: PDP3565A
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/28/2023
+  course: PDP1319A
+  title: DIR 0600.00 Air Support Unit Operations
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP2427A
+  title: 2022-3 TT Oregon Ballot Measure 114 (BM 114)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2023
+  course: PDP4466A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP3303A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP2961A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2023
+  course: PDP1743A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP0425A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP3923A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP0801A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 11/21/2023
+  course: PDP0175A
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP3813A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2023
+  course: PDP1306A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP2883A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/21/2023
+  course: PDP3540A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP2912A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP1061A
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP2661A
+  title: Oregon Ballot Measure 114
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP1467A
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP2745A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP4111A
+  title: 2022-11 CAO Legal Updates for 11/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP1041A
+  title: 2022-12 CAO Legal Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP2584A
+  title: 2022-12- CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP2617A
+  title: 2022-5 CAO Legal Updates for 05/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP3635A
+  title: 2022-6 CAO Legal Updates for 06/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP2257A
+  title: 2022-7 CAO Legal Updates for 07/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP1151A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/16/2023
+  course: PDP3253A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP0462A
+  title: 2023 Naxolone 'Narcan' Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/16/2023
+  course: PDP1536A
+  title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/16/2023
+  course: PDP1662A
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/15/2023
   course: PDP1839A
   title: 2023 FTEP Post Basic CEW Taser

@@ -39,6 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/8/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/8/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/8/2023 | PDP3565A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.50 |
+| 11/8/2023 | PDP1319A | DIR 0600.00 Air Support Unit Operations | Passed | 0.0 | 0.25 |
+| 11/8/2023 | PDP2064A | DIR 0612.00 Communication Technology  Procedures | Passed | 0.0 | 0.25 |
 | 10/31/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |
 | 10/31/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |
 | 10/31/2023 | PDP0677A | 2023 Supevisor In-Service Detectives | Passed | 0.0 | 1.00 |

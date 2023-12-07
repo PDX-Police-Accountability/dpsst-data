@@ -28,6 +28,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/10/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/23/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/23/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/9/2023 | PDP2584A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 11/9/2023 | PDP2961A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 11/9/2023 | PDP1151A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 10/29/2023 | PDP0861A | 2022-3 TT Oregon Ballot 114 | Passed | 0.0 | 0.50 |
 | 10/29/2023 | PDP0313A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 10/29/2023 | PDP3033A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |

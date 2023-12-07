@@ -35,9 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/28/2023 | PDP4215A | 2023 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 10/27/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/27/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 10/24/2023 | PDP1196A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
 | 10/19/2023 | PDP2114A | 2023 FTEP Geography | Instructed | 0.0 | 2.00 |
+| 10/19/2023 | PDP4215A | 2023 FTEP Geography | Instructed | 0.0 | 2.00 |
+| 10/19/2023 | PDP3240A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
 | 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Instructed | 0.0 | 3.00 |
@@ -155,6 +159,7 @@
 | 1/9/2022 | MISCMAIN | 2021 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/6/2022 | PDP34045 | 2022 Training 3M N Series Helmet | Passed | 0.0 | 0.25 |
 | 1/5/2022 | PDP37784 | 2022 In-Service Legal Updates | Passed | 0.0 | 1.00 |
+| 1/5/2022 | PDP1118A | 2022 In-Service Firearms - Range | Passed | 0.0 | 3.00 |
 | 1/3/2022 | PDP11483 | Directive 630.15 Foot Pursuits Video Part 1 | Passed | 0.0 | 0.25 |
 | 1/3/2022 | PDP14510 | Directive 630.15 Foot Pursuits Video Part 2 | Passed | 0.0 | 0.25 |
 | 1/3/2022 | PDP04025 | Foot Pursuits (effective 01/14/2022) | Passed | 0.0 | 0.50 |

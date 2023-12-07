@@ -34,6 +34,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/16/2023 | PDP0996A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/9/2023 | PDP3446A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 11/4/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/4/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 10/26/2023 | PDP1481A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 10/19/2023 | PDP4216A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |

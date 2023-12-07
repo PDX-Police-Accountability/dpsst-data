@@ -38,6 +38,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/24/2023
+  course: PDP3303A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2023
+  course: PDP1743A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2023
+  course: PDP2064A
+  title: DIR 0612.00 Communication Technology  Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2023
+  course: PDP3565A
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2023
+  course: PDP1319A
+  title: DIR 0600.00 Air Support Unit Operations
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/13/2023
   course: PDP2741A
   title: 2023 Video Evidence Basics for the Police

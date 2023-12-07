@@ -49,6 +49,11 @@
 | 11/6/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 11/6/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 11/6/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 11/2/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/2/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/2/2023 | PDP2064A | DIR 0612.00 Communication Technology  Procedures | Passed | 0.0 | 0.25 |
+| 11/2/2023 | PDP3565A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.50 |
+| 11/2/2023 | PDP1319A | DIR 0600.00 Air Support Unit Operations | Passed | 0.0 | 0.25 |
 | 10/15/2023 | HSU0850A | Post OIS Procedures | Instructed | 0.0 | 6.00 |
 | 9/25/2023 | HBS4458A | Law Enforcement Basic Sniper School | Instructed | 0.0 | 37.00 |
 | 9/4/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |

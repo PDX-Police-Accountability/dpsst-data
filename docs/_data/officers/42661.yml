@@ -82,6 +82,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2023
+  course: PDP3507A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/30/2023
+  course: PDP1676A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/30/2023
+  course: PDP1121A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/20/2023
+  course: PDP1411A
+  title: 2023 Video Evidence Basics for the Police UoF
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/20/2023
+  course: PDP1899A
+  title: FIN-6.14 Non-travel Meals, Light Refreshments
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/15/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity
@@ -94,6 +124,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/14/2023
+  course: PDP2745A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/14/2023
+  course: PDP4111A
+  title: 2022-11 CAO Legal Updates for 11/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/14/2023
+  course: PDP1041A
+  title: 2022-12 CAO Legal Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/14/2023
+  course: PDP4466A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/14/2023
+  course: PDP1536A
+  title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/14/2023
+  course: PDP2912A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/14/2023
+  course: PDP3565A
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/22/2023
   course: PDP4501A
   title: 2023 SERT/CNT/CIC Camp Rilea Training

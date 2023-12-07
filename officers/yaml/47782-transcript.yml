@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2023
+  course: PDP3507A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/16/2023
+  course: PDP1676A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/16/2023
+  course: PDP1121A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/8/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

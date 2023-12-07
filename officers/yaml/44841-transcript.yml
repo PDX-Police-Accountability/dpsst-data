@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2023
+  course: VND1875A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/8/2023
   course: LOP0957A
   title: Adult/Child CPR AED

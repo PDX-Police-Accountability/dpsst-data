@@ -38,6 +38,90 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/16/2023
+  course: PDP2477A
+  title: 2023-2 All Sworn In-Service ABLE Scenario
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/16/2023
+  course: PDP1676A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/16/2023
+  course: PDP4348A
+  title: 2023-2 All Sworn In-Service Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/16/2023
+  course: PDP0802A
+  title: 2023-2 All Sworn In-Service PP Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/16/2023
+  course: PDP3507A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/16/2023
+  course: PDP1121A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/15/2023
+  course: PDP3617A
+  title: 2023-2 All Sworn In-Service Crime Scene Mgmt
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/15/2023
+  course: PDP0531A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/15/2023
+  course: PDP4025A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/15/2023
+  course: PDP0041A
+  title: 2023-2 All Sworn In-Service TII Equity 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/15/2023
+  course: PDP2359A
+  title: 2023-2 All Sworn In-Service TII Equity 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 11/15/2023
+  course: PDP1862A
+  title: 2023-2 All Sworn In-Service Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/13/2023
+  course: PDP3303A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/13/2023
+  course: PDP1743A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/10/2023
   course: PDP0162A
   title: Motorcade Training

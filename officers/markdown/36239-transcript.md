@@ -36,6 +36,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/22/2023 | PDP3214A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/8/2023 | PDP1626A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 11/7/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/7/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/1/2023 | PDP1626A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/25/2023 | PDP1497A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 10/18/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |

@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/14/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/7/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/7/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 9/7/2023 | PDP3821A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 9/7/2023 | PDP0117A | 2023 Body Worn Camera Policy with KC | Passed | 0.0 | 1.00 |
 | 9/7/2023 | PDP0516A | 2023 Body-Worn Camera (BWC) Policy Online | Passed | 0.0 | 1.00 |

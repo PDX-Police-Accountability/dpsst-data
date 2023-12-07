@@ -81,6 +81,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/1/2023
+  course: PDP3565A
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/31/2023
   course: PDP3431A
   title: 2023 Supevisor In-Service Chief's Office Disc.

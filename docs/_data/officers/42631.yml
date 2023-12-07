@@ -48,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/24/2023
+  course: PDP1196A
+  title: 2023-2 All Sworn In-Service Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 10/19/2023
+  course: PDP3240A
+  title: 2023-2 All Sworn In-Service Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 9/18/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022

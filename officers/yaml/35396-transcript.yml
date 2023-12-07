@@ -94,6 +94,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/13/2023
+  course: PDP3303A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/13/2023
+  course: PDP1743A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/1/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

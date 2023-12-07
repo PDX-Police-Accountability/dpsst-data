@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/13/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/13/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/8/2023 | PDP0443A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 10/3/2023 | PDP0198A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 9/28/2023 | PDP0680A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Passed | 0.0 | 4.00 |

@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/5/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/31/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/3/2023 | PDP0198A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 10/3/2023 | PDP0861A | 2022-3 TT Oregon Ballot 114 | Passed | 0.0 | 0.50 |

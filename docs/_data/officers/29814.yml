@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/20/2023
+  course: PDP1899A
+  title: FIN-6.14 Non-travel Meals, Light Refreshments
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/2/2023
   course: PDP4482A
   title: 2023-2 All Sworn In-Service BWC Policy

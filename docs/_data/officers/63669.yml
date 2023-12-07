@@ -36,6 +36,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/29/2023
+  course: PDP1662A
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2023
+  course: PDP3253A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2023
+  course: PDP1306A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 7/17/2023
   course: M10-23A
   title: DPSST Basic Police Course

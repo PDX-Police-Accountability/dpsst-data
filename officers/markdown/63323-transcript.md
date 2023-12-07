@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/7/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Passed | 0.0 | 3.00 |
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |

@@ -28,6 +28,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/9/2023 | PDP2584A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 11/9/2023 | PDP1151A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 11/9/2023 | PDP0175A | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 11/9/2023 | PDP1536A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
 | 10/28/2023 | PDP0443A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 10/28/2023 | PDP0313A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 10/28/2023 | PDP1096A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |

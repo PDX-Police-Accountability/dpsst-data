@@ -62,9 +62,15 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/2/2023
+  course: HBS3137A
+  title: Bias Based Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/20/2023
-  course: HBS0411A
-  title: 2023 November In-Service IFAST
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '4.50'

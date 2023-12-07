@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/24/2023
+  course: PDP0127A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/13/2023
   course: M10-23A
   title: DPSST Basic Police Course
@@ -42,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/8/2023
+  course: PDP4481A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 9/18/2023
   course: PDP4232A
   title: 2023 Microsoft OneDrive Usage Policy

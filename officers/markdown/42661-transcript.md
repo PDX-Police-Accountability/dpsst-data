@@ -40,8 +40,20 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2023 | PDP3507A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
+| 11/30/2023 | PDP1676A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
+| 11/30/2023 | PDP1121A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 11/20/2023 | PDP1411A | 2023 Video Evidence Basics for the Police UoF | Passed | 0.0 | 1.50 |
+| 11/20/2023 | PDP1899A | FIN-6.14 Non-travel Meals, Light Refreshments | Passed | 0.0 | 0.25 |
 | 11/15/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |
 | 11/15/2023 | PDP1952A | 2023 Command Staff In-Service Training Leadership | Passed | 0.0 | 4.00 |
+| 11/14/2023 | PDP2745A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 11/14/2023 | PDP4111A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 11/14/2023 | PDP1041A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 11/14/2023 | PDP4466A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 11/14/2023 | PDP1536A | 2023 Portland Community Justice Partnership  RJ | Passed | 0.0 | 0.50 |
+| 11/14/2023 | PDP2912A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 11/14/2023 | PDP3565A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.50 |
 | 9/22/2023 | PDP4501A | 2023 SERT/CNT/CIC Camp Rilea Training | Passed | 0.0 | 12.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/21/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |

@@ -60,6 +60,7 @@
 | 10/25/2023 | PDP1126A | Annual CIU NTR Alarm Response Training - RRNR | Passed | 0.0 | 0.25 |
 | 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 10/19/2023 | PDP2114A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
+| 10/19/2023 | PDP4215A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 10/17/2023 | PDP2982A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 9/22/2023 | REG1195A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |

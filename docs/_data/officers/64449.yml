@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/15/2023
+  course: PDP0127A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 9/19/2023
   course: PDP4232A
   title: 2023 Microsoft OneDrive Usage Policy

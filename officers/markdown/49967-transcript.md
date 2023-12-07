@@ -21,8 +21,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Certification Cards | CPR | 11/18/2023 | 11/18/2025 |
-| Certification Cards | First Aid and CPR | 4/15/2022 | 4/15/2024 |
+| Certification Cards | First Aid and CPR | 11/18/2023 | 11/18/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

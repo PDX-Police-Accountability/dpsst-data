@@ -28,6 +28,25 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/28/2023 | PDP2257A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP4466A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP2961A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 11/28/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP4215A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
+| 11/28/2023 | PDP3923A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP0425A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP3253A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP0801A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 11/28/2023 | PDP0175A | DIR 0635.10 PPB Response to Public Order Events | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP3813A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 11/28/2023 | PDP1306A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP2883A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 11/28/2023 | PDP3540A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP2912A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 11/28/2023 | PDP1061A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 11/22/2023 | PDP2064A | DIR 0612.00 Communication Technology  Procedures | Passed | 0.0 | 0.25 |
+| 11/22/2023 | PDP1319A | DIR 0600.00 Air Support Unit Operations | Passed | 0.0 | 0.25 |
 | 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 10/23/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/20/2023 | REG2347A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |

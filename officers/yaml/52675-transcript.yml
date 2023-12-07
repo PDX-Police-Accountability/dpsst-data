@@ -38,6 +38,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/21/2023
+  course: PDP2745A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP4111A
+  title: 2022-11 CAO Legal Updates for 11/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP1041A
+  title: 2022-12 CAO Legal Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP4466A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP1536A
+  title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2023
+  course: PDP2912A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/21/2023
+  course: PDP3565A
+  title: DIR 0311.50 Investigative Use of Social Media
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/4/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update

@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/15/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/15/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/15/2023 | PDP3813A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 10/26/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/25/2023 | PDP1869A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 10/25/2023 | PDP3753A | 2023 Training Return to Work Firearms | Passed | 0.0 | 4.00 |

@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/30/2023
+  course: PDP4067A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/22/2023
   course: PDP3214A
   title: 2023 MEDU Weekly Training
@@ -63,6 +69,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '9.00'
+- date: 11/20/2023
+  course: PDP1743A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/15/2023
+  course: PDP4067A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 11/9/2023
+  course: PDP3303A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/8/2023
   course: PDP1626A
   title: 2023 MEDU Weekly Training

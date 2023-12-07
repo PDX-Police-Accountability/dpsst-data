@@ -30,12 +30,60 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/28/2023
+  course: PDP4215A
+  title: 2023 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/27/2023
+  course: PDP3303A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/27/2023
+  course: PDP2961A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2023
+  course: PDP3253A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2023
+  course: PDP1306A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/24/2023
+  course: PDP3540A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/22/2023
+  course: PDP1061A
+  title: Annual CIU NTR Alarm Response Training - Reed
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/15/2023
   course: PDP1839A
   title: 2023 FTEP Post Basic CEW Taser
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/5/2023
+  course: PDP0127A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/20/2023
   course: REG2347A
   title: DID-SFST (Hours included in Basic)

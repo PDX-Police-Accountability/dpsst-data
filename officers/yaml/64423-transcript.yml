@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/8/2023
+  course: PDP4481A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 10/10/2023
   course: PDP0359A
   title: Amended DOJ Settlement Agreement

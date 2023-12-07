@@ -30,6 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/9/2023
+  course: PDP2584A
+  title: 2022-12- CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2023
+  course: PDP1151A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2023
+  course: PDP0175A
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 11/9/2023
+  course: PDP1536A
+  title: 2023 Portland Community Justice Partnership  RJ
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/28/2023
   course: PDP0443A
   title: 2023 Axon CEW Annual Update

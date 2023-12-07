@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 9/14/2023
+  course: HBN1102A
+  title: LS/CMI Training
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 8/22/2023
   course: HBN1249A
   title: Defensive Tactics/Use of Force/Report Writing
