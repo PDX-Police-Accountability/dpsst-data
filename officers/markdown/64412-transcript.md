@@ -29,6 +29,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/27/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 11/22/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 24.00 |
+| 11/14/2023 | PDP2139A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 8/22/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 8/22/2023 | PDP3291A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 8/22/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |

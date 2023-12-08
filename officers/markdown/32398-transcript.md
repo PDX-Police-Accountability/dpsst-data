@@ -40,6 +40,7 @@
 | 11/29/2023 | PDP3617A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
 | 11/29/2023 | PDP0041A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 11/29/2023 | PDP2359A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 11/14/2023 | PDP2139A | 2023 FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 11/9/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 11/9/2023 | PDP2405A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
 | 11/9/2023 | PDP4100A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
@@ -136,6 +137,7 @@
 | 10/6/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/6/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/6/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |
+| 10/4/2022 | PDP1569A | 2022 ECIT In-Service | Passed | 0.0 | 10.00 |
 | 9/29/2022 | PDP44770 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 9/27/2022 | PDP12607 | FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 9/21/2022 | PDP29000 | Crisis Negotiation Training | Passed | 0.0 | 27.00 |

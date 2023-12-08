@@ -45,6 +45,7 @@
 | 10/25/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 10/25/2023 | PDP3265A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 10/24/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 10/24/2023 | PDP3544A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 10/19/2023 | PDP2114A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 10/19/2023 | PDP4215A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |

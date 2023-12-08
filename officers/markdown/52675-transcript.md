@@ -104,6 +104,7 @@
 | 10/7/2022 | PDP29912 | 2022-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 10/7/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/7/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 10/4/2022 | PDP1569A | 2022 ECIT In-Service | Passed | 0.0 | 10.00 |
 | 9/29/2022 | ICE11064 | SFST Refresher | Passed | 0.0 | 4.00 |
 | 9/29/2022 | PDP11045 | 2022-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/4/2022 | PDP32096 | DIR 0910.00, Use of Force Reporting, Review,  Inv | Passed | 0.0 | 0.25 |

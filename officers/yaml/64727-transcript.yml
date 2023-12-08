@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/22/2023
+  course: PDP3366A
+  title: 2023 FTEP Pre-DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 11/16/2023
   course: PDP2863A
   title: ICS-100 Intro to the Incident Cmmnd System
@@ -78,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/14/2023
+  course: PDP2139A
+  title: 2023 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

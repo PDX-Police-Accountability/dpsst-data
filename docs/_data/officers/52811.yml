@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2023
+  course: PDS3751A
+  title: Active Threat Response
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/20/2023
   course: PDS2952A
   title: Active Threat Response

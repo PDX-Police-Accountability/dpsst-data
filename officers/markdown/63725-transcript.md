@@ -46,6 +46,7 @@
 | 10/25/2023 | PDP0087A | 2022-9 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 10/25/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 10/25/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
+| 10/24/2023 | PDP3544A | 2023 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 10/19/2023 | PDP2114A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 10/19/2023 | PDP4215A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |

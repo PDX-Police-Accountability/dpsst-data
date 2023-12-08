@@ -118,6 +118,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/14/2023
+  course: PDS1566A
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/30/2023
   course: PDS2616A
   title: CPR-First Aid

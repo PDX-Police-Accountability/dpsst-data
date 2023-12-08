@@ -29,6 +29,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/27/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 11/22/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 24.00 |
 | 11/16/2023 | PDP0818A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 11/16/2023 | PDP2133A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 11/16/2023 | PDP0101A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 11/14/2023 | PDP2139A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

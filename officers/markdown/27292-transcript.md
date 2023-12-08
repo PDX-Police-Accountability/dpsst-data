@@ -48,6 +48,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 12/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 11/14/2023 | PDS1566A | Active Threat Response | Passed | 0.0 | 8.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/19/2023 | PDS1693 | Active Threat Training | Passed | 0.0 | 4.00 |
 | 7/27/2023 | PDS1320A | Leadership | Passed | 0.0 | 1.00 |

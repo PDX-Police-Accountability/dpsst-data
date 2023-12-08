@@ -134,6 +134,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/16/2023
+  course: OCS1663A
+  title: 2023 Patrol Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/12/2023
   course: OCS3872A
   title: Shotgun Orientation

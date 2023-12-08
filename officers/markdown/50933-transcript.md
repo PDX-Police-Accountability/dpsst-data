@@ -145,6 +145,7 @@
 | 10/13/2022 | PDP25823 | 2022-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/13/2022 | PDP42069 | 2022-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 10/10/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
+| 10/4/2022 | PDP1569A | 2022 ECIT In-Service | Passed | 0.0 | 10.00 |
 | 10/3/2022 | PDP01374 | 2022-2 In-Service ABLE/Active Bystandarship for LE | Passed | 0.0 | 2.00 |
 | 10/3/2022 | PDP07952 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 1.00 |
 | 10/3/2022 | PDP03645 | 2022-2 In-Service Legal Updates/Directive 1010.00 | Passed | 0.0 | 2.00 |

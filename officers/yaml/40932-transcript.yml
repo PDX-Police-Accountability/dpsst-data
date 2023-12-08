@@ -75,6 +75,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/4/2023
+  course: PDP0582A
+  title: 2023 Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/15/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

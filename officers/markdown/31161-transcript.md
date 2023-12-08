@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/1/2023 | Tigard Police Department | Retired | Sergeant |  |  |
 | 7/18/2006 | Tigard Police Department | Promotion | Sergeant |  |  |
 | 10/18/1999 | Tigard Police Department | Hired | Police Off |  |  |
 | 10/15/1999 | Banks Police Department | Resigned | Police Off |  |  |
@@ -23,10 +24,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/15/2009 | Police Officer | Supervisory | Granted | 7/15/2009 |  |  |
-| 10/25/2006 | Police Officer | Advanced | Granted | 10/25/2006 |  |  |
-| 9/11/2002 | Police Officer | Intermediate | Granted | 9/11/2002 |  |  |
-| 9/14/1999 | Police Officer | Basic | Granted | 9/14/1999 |  |  |
+| 7/15/2009 | Police Officer | Supervisory | Granted | 7/15/2009 | 3/1/2024 |  |
+| 10/25/2006 | Police Officer | Advanced | Granted | 10/25/2006 | 3/1/2024 |  |
+| 9/11/2002 | Police Officer | Intermediate | Granted | 9/11/2002 | 3/1/2024 |  |
+| 9/14/1999 | Police Officer | Basic | Granted | 9/14/1999 | 3/1/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

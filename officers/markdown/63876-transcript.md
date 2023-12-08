@@ -52,6 +52,7 @@
 | 11/21/2023 | PDP2064A | DIR 0612.00 Communication Technology  Procedures | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP2912A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP1319A | DIR 0600.00 Air Support Unit Operations | Passed | 0.0 | 0.25 |
+| 11/18/2023 | PDP3541A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 11/16/2023 | PDP3813A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 11/16/2023 | PDP1306A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 11/16/2023 | PDP2883A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

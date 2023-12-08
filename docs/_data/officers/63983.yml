@@ -144,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/18/2023
+  course: PDP3541A
+  title: 2023 FTEP Post DPSST Firearms
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 11/15/2023
   course: PDP1839A
   title: 2023 FTEP Post Basic CEW Taser

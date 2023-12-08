@@ -131,6 +131,7 @@
 | 10/20/2022 | PDP38421 | 2022-2 In-Service Patrol Procedures/Drills | Passed | 0.0 | 2.00 |
 | 10/20/2022 | PDP37066 | 2022-2 In-Service Mental Health/CIT Updates | Passed | 0.0 | 1.00 |
 | 10/12/2022 | PDP36211 | 2022 Crowd Management | Passed | 0.0 | 0.50 |
+| 10/4/2022 | PDP1569A | 2022 ECIT In-Service | Passed | 0.0 | 10.00 |
 | 10/3/2022 | PDP28840 | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |
 | 10/3/2022 | PDP27396 | 2022-4 CAO Legal Updates for 04/2022 | Passed | 0.0 | 0.25 |
 | 10/3/2022 | PDP10530 | DIR 850.22, 850.21, 850.25, 850.20 with KC | Passed | 0.0 | 1.25 |

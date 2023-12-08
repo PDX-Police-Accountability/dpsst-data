@@ -40,8 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/2/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 10/23/2023 | PDS3387A | Pistol/Rifle Qualifications | Passed | 0.0 | 2.00 |
+| 10/16/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 7/12/2023 | PDS1284A | Leadership Training | Passed | 0.0 | 3.00 |
 | 7/7/2023 | PDS2571A | Active Threat | Passed | 0.0 | 10.00 |

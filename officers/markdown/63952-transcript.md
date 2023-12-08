@@ -48,6 +48,7 @@
 | 11/21/2023 | PDP2912A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP1061A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP2661A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
+| 11/18/2023 | PDP3541A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 11/16/2023 | PDP1467A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 11/16/2023 | PDP2745A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 11/16/2023 | PDP4111A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

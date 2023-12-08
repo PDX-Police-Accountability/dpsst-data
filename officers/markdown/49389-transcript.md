@@ -37,6 +37,7 @@
 | 11/22/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/9/2023 | PDP1196A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
+| 10/24/2023 | PDP3544A | 2023 FTEP Orientation | Instructed | 0.0 | 6.00 |
 | 10/19/2023 | PDP3240A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
 | 10/3/2023 | PDP0198A | 2023 FTEP Orientation | Instructed | 0.0 | 6.00 |
 | 9/12/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |

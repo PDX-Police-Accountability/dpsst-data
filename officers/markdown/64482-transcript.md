@@ -29,7 +29,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/24/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/27/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 11/22/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 24.00 |
 | 11/15/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 11/14/2023 | PDP2139A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 9/21/2023 | PDP4232A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP3159A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 9/21/2023 | PDP3046A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

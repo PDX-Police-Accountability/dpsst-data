@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2023 | PDS3751A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/20/2023 | PDS2952A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/3/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 11/2/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |

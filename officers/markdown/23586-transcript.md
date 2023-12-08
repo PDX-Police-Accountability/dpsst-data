@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/3/2023 | PDS2078A | Active Threat Response | Passed | 0.0 | 8.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/23/2023 | PDS2110A | Active Threat Range | Passed | 0.0 | 4.00 |
 | 9/23/2023 | PDS3415A | Active Threat Training | Passed | 0.0 | 4.00 |

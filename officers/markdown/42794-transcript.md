@@ -49,6 +49,7 @@
 | 10/20/2023 | OCS2180A | Balancing Speed/Marksmanship | Instructed | 0.0 | 3.00 |
 | 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
+| 10/16/2023 | OCS1663A | 2023 Patrol Legal Updates | Passed | 0.0 | 8.00 |
 | 10/12/2023 | OCS3872A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 10/4/2023 | OCS3632A | June/July/August/Sept 2023 Monthly Firearms | Instructed | 0.0 | 4.00 |
 | 9/27/2023 | OCS4284A | September 2023 New Rifle Carrier | Instructed | 0.0 | 16.00 |

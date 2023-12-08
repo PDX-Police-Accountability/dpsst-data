@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2023
+  course: PDP0582A
+  title: 2023 Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/7/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

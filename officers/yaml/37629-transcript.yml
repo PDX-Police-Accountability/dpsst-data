@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/4/2023
+  course: PDP0582A
+  title: 2023 Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/28/2023
   course: PDP4215A
   title: 2023 FTEP Geography
@@ -4035,6 +4047,10 @@ training_records:
   score: '0.0'
   hours: '24.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/2/2023
@@ -4042,7 +4058,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

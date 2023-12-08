@@ -35,6 +35,7 @@
 | 11/24/2023 | PDP1306A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 11/24/2023 | PDP3540A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1061A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 11/18/2023 | PDP3541A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 11/5/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/20/2023 | REG2347A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |

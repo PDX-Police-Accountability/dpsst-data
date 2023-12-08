@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2023
+  course: PDP0582A
+  title: 2023 Emotional Survival
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/21/2023
   course: PDP2477A
   title: 2023-2 All Sworn In-Service ABLE Scenario

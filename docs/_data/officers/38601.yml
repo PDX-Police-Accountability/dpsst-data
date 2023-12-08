@@ -56,12 +56,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/28/2023
+  course: GSP2455A
+  title: Neurobiology of Trauma- Understanding the science
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/10/2023
   course: GSP3332A
   title: Red Dot Transition
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 4/20/2023
+  course: GSP2032A
+  title: Neurobiology of Sexual Assault Trauma
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/6/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

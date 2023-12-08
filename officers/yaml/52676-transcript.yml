@@ -584,6 +584,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/4/2022
+  course: PDP1569A
+  title: 2022 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/19/2022
   course: PDP32096
   title: DIR 0910.00, Use of Force Reporting, Review,  Inv
