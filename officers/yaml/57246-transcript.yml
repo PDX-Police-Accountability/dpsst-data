@@ -127,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/28/2023
+  course: HBN2100A
+  title: LEDS CJIS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/7/2023
   course: HBN40700
   title: 'DEFENSIVE TACTICS: OC AND VERBAL DE-ESCALATION'

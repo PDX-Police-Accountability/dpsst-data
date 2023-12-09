@@ -38,7 +38,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/27/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/17/2023 | GSP4226A | SWAT Sniper Firearms Range | Passed | 0.0 | 10.00 |
 | 11/16/2023 | PDP0412A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 15.00 |
+| 11/16/2023 | GSP1735A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
+| 11/15/2023 | GSP0416A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 10/31/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/27/2023 | GSP0625A | Barricaded Incident Debrief | Passed | 0.0 | 4.00 |
 | 10/26/2023 | GSP1671A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |

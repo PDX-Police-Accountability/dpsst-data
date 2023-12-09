@@ -56,6 +56,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/17/2023
+  course: GSP4226A
+  title: SWAT Sniper Firearms Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/16/2023
+  course: GSP1735A
+  title: SWAT Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 11/15/2023
+  course: GSP0416A
+  title: SWAT Firearms Range
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/27/2023
   course: GSP0625A
   title: Barricaded Incident Debrief

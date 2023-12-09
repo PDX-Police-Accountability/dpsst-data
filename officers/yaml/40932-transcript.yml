@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/10/2023
+  course: PDP1931A
+  title: FBI-LEEDA Executive Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 10/26/2023
   course: PDP0054A
   title: 2023 Supevisor In-Service Knowledge Check/Survey

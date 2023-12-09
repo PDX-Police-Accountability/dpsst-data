@@ -298,6 +298,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/8/2023
+  course: PDP1365A
+  title: FBI National Academy
+  status: Passed
+  score: '0.0'
+  hours: '264.00'
 - date: 3/29/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
