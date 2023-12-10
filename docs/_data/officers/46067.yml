@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/19/2023
+  course: PDP2292A
+  title: NYPD Dignitary Protection Course
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 10/12/2023
   course: PDP0822A
   title: 2023-2 All Sworn In-Service BWC Policy

@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/8/2023
+  course: ALP0599A
+  title: FBI LEEDA Supervisor Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 11/8/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

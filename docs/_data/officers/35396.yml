@@ -88,6 +88,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/1/2023
+  course: PDP3834A
+  title: Organizational Leadership  Mgmnt Academy
+  status: Passed
+  score: '0.0'
+  hours: '80.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

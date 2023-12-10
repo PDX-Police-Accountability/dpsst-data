@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2023 | VND0508A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 11/20/2023 | OCS2742A | SFST Refresher | Passed | 0.0 | 5.00 |
 | 10/13/2023 | MLP3516A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 9/14/2023 | OCS1387A | Interview and Interrogation Training | Passed | 0.0 | 24.00 |

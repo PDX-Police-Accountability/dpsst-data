@@ -141,6 +141,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/8/2023
+  course: PDP1700A
+  title: Behavioral Threat Assessment Seminar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/27/2023
   course: PDP0677A
   title: 2023 Supevisor In-Service Detectives

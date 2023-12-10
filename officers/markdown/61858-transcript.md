@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2023 | MFN0081A | The"Career Buster" Addressing Stress | Passed | 0.0 | 1.00 |
 | 10/19/2023 | BPT2091A | Oregon Case Management Network | Passed | 0.0 | 8.00 |
 | 10/18/2023 | BPT2770A | Oregon Case Management Ntwork - Gender Cohort | Passed | 0.0 | 4.00 |
 | 10/17/2023 | BPT4261A | Oregon Case Management Ntwork - MHSN | Passed | 0.0 | 4.00 |

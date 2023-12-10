@@ -35,6 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2023 | WBP0069A | Diversionary Device Instructor Certification | Passed | 0.0 | 4.00 |
+| 11/30/2023 | WBP1271A | Chemical Munitions Instructor Certification | Passed | 0.0 | 4.00 |
+| 11/29/2023 | WBP1026A | Impact Munitions Instructor Certification | Passed | 0.0 | 4.00 |
+| 11/28/2023 | WBP3270A | OC Instructor Certification | Passed | 0.0 | 4.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/2/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 11/2/2023 | PDP4482A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
@@ -51,6 +55,7 @@
 | 9/21/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
+| 9/13/2023 | PDP3251A | Oregon Police Canine Assoc. Fall Seminar | Passed | 0.0 | 22.00 |
 | 9/7/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/7/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 8/22/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |

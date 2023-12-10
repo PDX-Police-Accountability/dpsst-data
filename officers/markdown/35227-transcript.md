@@ -205,6 +205,7 @@
 | 10/5/2020 | PDP13911 | 2020-6 Tips  Techniques Public Safety Statement | Passed | 0.0 | 0.25 |
 | 10/5/2020 | PDP00994 | 2020-7 TipsTech Phillips Laser Protective Eyewear | Passed | 0.0 | 0.25 |
 | 9/26/2020 | PDP25410 | 2020 CIU NTR Alarm Response Training | Passed | 0.0 | 0.25 |
+| 8/21/2020 | F1506228 | Policy Review for Code of Ethics | Passed | 0.0 | 1.00 |
 | 7/15/2020 | PDP42651 | 2020-3 City Attorney's Office Legal Updates 3/2020 | Passed | 0.0 | 0.50 |
 | 7/14/2020 | PDP38171 | 2020-5 Tips  Tech Drug Packaging/Crime Lab Sub | Passed | 0.0 | 0.25 |
 | 7/1/2020 | PDP26027 | 2020-2 City Attorney's Office Legal Updates 2/2020 | Passed | 0.0 | 0.50 |
@@ -212,6 +213,7 @@
 | 5/14/2020 | PDP08328 | 2020 City Attorney's Gathright Decision Refresher | Passed | 0.0 | 0.25 |
 | 5/11/2020 | PDP15453 | 2020-4 TT Rspndg Cases Inlve Undoc Runaway Minor | Passed | 0.0 | 0.25 |
 | 4/30/2020 | PDP18308 | 2020-3 TipsTech Using Online Report for Addl Prop | Passed | 0.0 | 0.25 |
+| 4/20/2020 | F1531480 | Ethics in Public Service | Passed | 0.0 | 1.00 |
 | 4/3/2020 | PDP07236 | 2020 Training InService Wellness Stress/Resilience | Passed | 0.0 | 1.50 |
 | 4/3/2020 | PDP16593 | 2020 Training Sworn InService Wellness HeartHealth | Passed | 0.0 | 1.00 |
 | 4/3/2020 | PDP36368 | 2020 Training Sworn InService Wellness Mindfulness | Passed | 0.0 | 1.00 |

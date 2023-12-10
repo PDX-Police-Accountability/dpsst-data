@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/5/2023
+  course: GSP1916A
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/23/2023
   course: GSP16179
   title: Advanced LEOVision Tradecraft

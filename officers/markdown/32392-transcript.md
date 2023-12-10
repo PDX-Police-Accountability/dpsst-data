@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/21/2023 | 2/28/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/1/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2023 | TGP3736A | Ethics for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/23/2023 | TGP2303A | Lexipol Daily Training Bulletins (General) | Passed | 0.0 | 3.00 |
 | 10/23/2023 | TGP3624A | Lexipol Daily Training Bulletins (UF-Firearms) | Passed | 0.0 | 1.00 |

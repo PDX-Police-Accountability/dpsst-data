@@ -55,6 +55,7 @@
 | 9/15/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/15/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
+| 9/13/2023 | PDP3251A | Oregon Police Canine Assoc. Fall Seminar | Passed | 0.0 | 22.00 |
 | 8/30/2023 | PDP0212A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 8/24/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/24/2023 | PDP0365A | 2023-2 Field Training Officer (FTO) | Passed | 0.0 | 36.00 |

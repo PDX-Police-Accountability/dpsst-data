@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2023 | OCP0240A | Officer Involved Shooting: A Patrol Level Response |  | 0.0 | 4.00 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
 | 9/6/2023 | BVP1084A | September Range | Passed | 0.0 | 3.00 |
