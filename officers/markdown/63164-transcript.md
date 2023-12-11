@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/21/2023 | Police Officer | Basic | App Recd |  |  | 2/18/2024 |
+| 12/9/2023 | Police Officer | Basic | App InProc |  |  | 2/18/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

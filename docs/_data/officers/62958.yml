@@ -16,10 +16,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 11/21/2023
+- status_date: 12/9/2023
   certificate: Police Officer
   level: Basic
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: 11/17/2023
