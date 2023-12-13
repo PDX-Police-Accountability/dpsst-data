@@ -47,7 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/30/2023 | SVP2668A | "Be Nice" Customer Service Training (Randy Means) | Passed | 0.0 | 0.50 |
+| 11/30/2023 | SVP2668A | Be Nice - Customer Service Training (Randy Means) | Passed | 0.0 | 0.50 |
 | 11/16/2023 | SVP2097A | Cumulative Trauma and PTSD in First Responders | Passed | 0.0 | 1.50 |
 | 11/15/2023 | SVP3275A | Night Range Training | Instructed | 0.0 | 6.00 |
 | 11/8/2023 | PHP0376A | Establishing Professionalism in a Small Agency | Passed | 0.0 | 7.00 |

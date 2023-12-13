@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2023
+  course: HBS1887A
+  title: Safe Restraints The Wrap
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/17/2023
   course: HBS3387A
   title: Bias Based Policing

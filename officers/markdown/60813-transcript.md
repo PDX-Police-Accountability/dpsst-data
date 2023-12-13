@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2023 | OSH1463A | TECC Tactical Emergency Casualty Care | Passed | 0.0 | 4.00 |
 | 11/14/2023 | OSH2404A | 3rd Trimester Firearms Low Light | Passed | 0.0 | 4.00 |
 | 11/8/2023 | VND3617A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 10/27/2023 | OSH2687A | 2023 Ethics Training | Passed | 0.0 | 1.00 |

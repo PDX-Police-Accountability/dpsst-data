@@ -40,7 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
-| 11/30/2023 | SVP2668A | "Be Nice" Customer Service Training (Randy Means) | Passed | 0.0 | 0.50 |
+| 11/30/2023 | SVP2668A | Be Nice - Customer Service Training (Randy Means) | Passed | 0.0 | 0.50 |
 | 11/16/2023 | SVP2097A | Cumulative Trauma and PTSD in First Responders | Passed | 0.0 | 1.50 |
 | 11/15/2023 | VND1620A | Drone Response and Assessment | Passed | 0.0 | 4.00 |
 | 11/15/2023 | VND4360A | Drone Response and Assessment | Passed | 0.0 | 4.00 |

@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 8/17/2019 | Bachelor Science | Portland State University |  | 76.0 |
+| 6/18/2017 | Associate Science |  | Criminal Justice | 134.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

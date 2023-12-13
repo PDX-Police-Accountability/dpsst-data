@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 11/14/2023
+  course: HBN3681A
+  title: Ethical Decision-Making for LE/Other Justice Profs
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 11/2/2023
   course: HBN2396A
   title: Active Shooter Prevention and Response

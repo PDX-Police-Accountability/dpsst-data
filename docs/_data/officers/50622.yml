@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/6/2023
+  course: OCP0634A
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/9/2023
   course: OCP0839A
   title: November 2023 Night Range
