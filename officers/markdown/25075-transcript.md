@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/19/2023 | WBP0276A | Night Range - Low Light  Differential Target | Instructed | 0.0 | 4.00 |
 | 9/30/2023 | WBP1057A | WPD - 3rd Quarter Qualifications | Passed | 0.0 | 0.50 |
 | 8/15/2023 | WBP2450A | Adult and Pediatric First Aid/CPR/AED | Passed | 0.0 | 4.00 |
 | 8/15/2023 | WBP1858A | ADA City Policies and Enforcement | Passed | 0.0 | 1.00 |

@@ -56,6 +56,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2023 | ALN1796A | Sex Offender Supervision Academy | Passed | 0.0 | 36.00 |
 | 8/25/2023 | OSH4246A | ARIDE | Instructed | 0.0 | 16.00 |
 | 8/25/2023 | ETS1199A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 8/23/2023 | ETS1203A | Firearms/Use of Force | Passed | 0.0 | 3.00 |

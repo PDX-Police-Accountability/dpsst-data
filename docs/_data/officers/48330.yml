@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/9/2023
+  course: GSP1410A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 9/26/2023
   course: 23-0030
   title: DPSST Supervision F21 Equivalency

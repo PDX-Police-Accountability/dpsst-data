@@ -4809,11 +4809,11 @@ attribute_records:
   effective_date: 9/19/2011
   expiration_date: ''
 education_records:
-- date: 6/15/1995
-  degree: No Degree
+- date: 6/10/1995
+  degree: Bachelor Science
   school: Portland State University
   major: ''
-  hours: '78.0'
+  hours: '92.0'
 - date: 12/11/1993
   degree: Associate Arts
   school: Portland Community College

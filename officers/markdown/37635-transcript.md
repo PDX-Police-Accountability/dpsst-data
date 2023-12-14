@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2023 | EGP1337A | Firearms/Low light Breaching/Search Skills | Passed | 0.0 | 20.00 |
+| 12/7/2023 | EGP3656A | Breaching Hazards/Safe Explosive Handling | Passed | 0.0 | 3.00 |
+| 12/7/2023 | EGP4131A | Firearms/Low light Breaching/Search Skills | Passed | 0.0 | 4.00 |
+| 12/4/2023 | EGP0685A | Firearms/Low light Breaching/Search Skills | Passed | 0.0 | 4.00 |
 | 11/9/2023 | EGP1092A | Field Force Drills/Classroom | Passed | 0.0 | 3.00 |
 | 11/9/2023 | EGP4364A | Night Shoot/Scenarios | Passed | 0.0 | 3.00 |
 | 11/9/2023 | EGP3822A | DA Presentation | Passed | 0.0 | 1.50 |

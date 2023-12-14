@@ -46,6 +46,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/6/2023 | HBS1887A | Safe Restraints The Wrap | Passed | 0.0 | 1.00 |
+| 12/4/2023 | HBS2808A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |
 | 11/17/2023 | HBS3387A | Bias Based Policing | Passed | 0.0 | 1.00 |
 | 10/9/2023 | HBS3100A | 2023 September In-Service | Passed | 0.0 | 9.00 |
 | 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |

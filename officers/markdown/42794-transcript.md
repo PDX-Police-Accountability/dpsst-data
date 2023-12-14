@@ -41,8 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/9/2023 | OCS2769A | Active Shooter Response | Instructed | 0.0 | 4.00 |
+| 12/1/2023 | OCS3271A | New Hire Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 11/22/2023 | OCS2738A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
 | 11/22/2023 | OCS2843A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
+| 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |

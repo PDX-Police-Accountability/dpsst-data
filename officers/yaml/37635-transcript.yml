@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2023
+  course: EGP1337A
+  title: Firearms/Low light Breaching/Search Skills
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 12/7/2023
+  course: EGP3656A
+  title: Breaching Hazards/Safe Explosive Handling
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/7/2023
+  course: EGP4131A
+  title: Firearms/Low light Breaching/Search Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/4/2023
+  course: EGP0685A
+  title: Firearms/Low light Breaching/Search Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/9/2023
   course: EGP1092A
   title: Field Force Drills/Classroom

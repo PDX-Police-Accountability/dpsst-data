@@ -69,6 +69,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/15/2023
+  course: OCS1812A
+  title: Taser Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/23/2023
   course: OCS1779A
   title: 2023 Legislative Update

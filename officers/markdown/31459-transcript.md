@@ -32,7 +32,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/1995 | No Degree | Portland State University |  | 78.0 |
+| 6/10/1995 | Bachelor Science | Portland State University |  | 92.0 |
 | 12/11/1993 | Associate Arts | Portland Community College |  | 105.0 |
 ## Training
 | date | course | title | status | score | hours |

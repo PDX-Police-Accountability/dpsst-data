@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/1/2023
+  course: PDP2924A
+  title: Emotional Survival Leadership
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/3/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals

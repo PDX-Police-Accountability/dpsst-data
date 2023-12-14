@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2023 | GBS3607A | LEDS- Inquiry/Entry Level Test | Passed | 0.0 | 12.00 |
 | 10/26/2023 | HBS1720A | Confronting Bias Through justice and Healing | Passed | 0.0 | 6.00 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/16/2023 | FGP3343A | DOJ Legal Updates | Passed | 0.0 | 2.50 |

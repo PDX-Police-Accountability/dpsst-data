@@ -57,6 +57,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/4/2023
+  course: PDP2924A
+  title: Emotional Survival Leadership
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/2/2023
   course: PDP0725A
   title: 2023-2 All Sworn In-Service ABLE Scenario

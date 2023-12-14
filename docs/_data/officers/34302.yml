@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/19/2023
+  course: GSP1614A
+  title: Red Dot Transition
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 1/6/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

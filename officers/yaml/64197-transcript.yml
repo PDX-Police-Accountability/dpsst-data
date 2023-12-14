@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/12/2023
+  course: PDP0230A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/11/2023
   course: PDP4052A
   title: CPR/First Aid

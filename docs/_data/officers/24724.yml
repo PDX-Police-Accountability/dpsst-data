@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2023
+  course: GBS3607A
+  title: LEDS- Inquiry/Entry Level Test
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 10/26/2023
   course: HBS1720A
   title: Confronting Bias Through justice and Healing

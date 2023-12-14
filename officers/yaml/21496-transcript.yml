@@ -154,6 +154,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/8/2023
+  course: ALN1796A
+  title: Sex Offender Supervision Academy
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 8/25/2023
   course: OSH4246A
   title: ARIDE

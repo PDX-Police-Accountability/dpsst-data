@@ -49,6 +49,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/20/2023
+  course: OCS0216A
+  title: Fall Patrol Rifle
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/1/2023
   course: OCS2766A
   title: Bias Training

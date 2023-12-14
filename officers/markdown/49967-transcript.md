@@ -32,16 +32,26 @@
 | 11/18/2023 | MNP3358A | First Aid/CPR recertification | Passed | 0.0 | 0.50 |
 | 11/18/2023 | MNP4341A | NARCAN training | Passed | 0.0 | 0.50 |
 | 11/18/2023 | MNP2125A | Night Handgun/Rifle/Shotgun Qualification | Passed | 0.0 | 4.00 |
+| 9/5/2023 | MNP2889A | NAMI August 2023 | Passed | 0.0 | 0.50 |
+| 9/5/2023 | MNP3030A | NAMI September 2023 | Passed | 0.0 | 0.50 |
 | 6/10/2023 | MNP2761A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 6/10/2023 | MNP3268A | Firearms qualifications | Passed | 0.0 | 4.00 |
 | 6/10/2023 | MNP1683A | 40mm refresher training | Passed | 0.0 | 1.00 |
+| 6/6/2023 | MNP3535A | NAMI June 2023 | Passed | 0.0 | 0.50 |
 | 5/13/2023 | 02157A | Undefined | Passed | 0.0 | 0.50 |
 | 5/13/2023 | 32594A | Undefined | Passed | 0.0 | 0.50 |
+| 5/13/2023 | MNP1521A | Bloodborne Pathogens | Passed | 0.0 | 0.50 |
+| 5/13/2023 | MNP3237A | Hazmat | Passed | 0.0 | 0.50 |
+| 5/13/2023 | MNP1094A | NAMI May 2023 | Passed | 0.0 | 0.50 |
+| 4/17/2023 | MNP3248A | NAMI April 2023 | Passed | 0.0 | 0.50 |
+| 4/17/2023 | MNP0929A | NAMI February 2023 | Passed | 0.0 | 0.50 |
+| 4/17/2023 | MNP0043A | NAMI March 2023 | Passed | 0.0 | 0.50 |
 | 3/5/2023 | MNP06808 | EVOC in-service | Passed | 0.0 | 4.50 |
 | 3/5/2023 | MNP40300 | Building Search in-service | Passed | 0.0 | 4.50 |
 | 3/4/2023 | KZP19463 | Intoxilyzer 8000 | Passed | 0.0 | 6.00 |
 | 1/3/2023 | MNP10907 | Ethics Training 2022 | Passed | 0.0 | 1.00 |
 | 1/3/2023 | MNP13259 | NAMI November 2022 | Passed | 0.0 | 0.50 |
+| 1/3/2023 | MNP2793A | NAMI January 2023 | Passed | 0.0 | 0.50 |
 | 11/18/2022 | MNP43650 | Firearms Night Qualifications | Passed | 0.0 | 4.00 |
 | 11/18/2022 | MNP22038 | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 10/19/2022 | MNP00803 | NAMI October 2022 | Passed | 0.0 | 0.50 |

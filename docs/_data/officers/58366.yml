@@ -54,6 +54,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/11/2023
+  course: OSH0030A
+  title: Eithics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/9/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

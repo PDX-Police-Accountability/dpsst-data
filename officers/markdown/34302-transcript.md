@@ -42,6 +42,7 @@
 | 11/29/2023 | GSP2670A | You Belong Part 1: City of Gresham: Equity | Passed | 0.0 | 3.00 |
 | 11/2/2023 | GSP3709A | Visual Observer (VO) Training | Passed | 0.0 | 0.50 |
 | 10/6/2023 | MNP3296A | Preparing for Promotion | Passed | 0.0 | 8.00 |
+| 4/19/2023 | GSP1614A | Red Dot Transition | Passed | 0.0 | 30.00 |
 | 1/6/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/5/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/2/2023 | GSP25014 | 2023 CPR and First Aid | Passed | 0.0 | 6.00 |

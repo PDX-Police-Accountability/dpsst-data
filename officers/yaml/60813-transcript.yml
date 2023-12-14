@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/10/2023
+  course: OSH0989A
+  title: OSP 2023 3rd Tri Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/29/2023
   course: OSH1463A
   title: TECC Tactical Emergency Casualty Care
