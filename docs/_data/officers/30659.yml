@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/8/2023
+  course: PDS0508A
+  title: Field Training and Evaluation Program
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/30/2023
   course: PDS2616A
   title: CPR-First Aid

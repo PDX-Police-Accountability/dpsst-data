@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: PDA4233A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/25/2023
   course: F1514378
   title: 'Incident Analysis: Fargo PD Ambush'

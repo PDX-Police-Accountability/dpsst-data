@@ -93,10 +93,22 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/17/2023
+  course: GSP1906A
+  title: Summer Rifle In Service
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/5/2023
   course: GSP1916A
   title: Firearms Training
   status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/23/2023
+  course: GSP2608A
+  title: Firearms Instructor Day
+  status: Passed
   score: '0.0'
   hours: '10.00'
 - date: 3/23/2023

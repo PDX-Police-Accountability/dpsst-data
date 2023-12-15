@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/8/2023
+  course: VND1997A
+  title: Fundamentals of Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/6/2023
   course: HBS1887A
   title: Safe Restraints The Wrap

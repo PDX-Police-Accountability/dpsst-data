@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/20/2023 | Columbia River Inter-Tribal Police Dept. | Resigned | Police Off |  |  |
 | 3/9/2022 | Columbia River Inter-Tribal Police Dept. | Hired | Police Off |  |  |
 | 1/21/2022 | Port of Portland Police Department | Resigned | Police Off |  |  |
 | 10/25/2021 | Port of Portland Police Department | Hired | Police Off |  |  |
@@ -24,9 +25,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/21/2021 | Police Officer | Advanced | Granted | 5/21/2021 |  |  |
-| 6/6/2013 | Police Officer | Intermediate | Granted | 6/6/2013 |  |  |
-| 8/14/2012 | Police Officer | Basic | Granted | 8/14/2012 |  |  |
+| 5/21/2021 | Police Officer | Advanced | Granted | 5/21/2021 | 1/20/2024 |  |
+| 6/6/2013 | Police Officer | Intermediate | Granted | 6/6/2013 | 1/20/2024 |  |
+| 8/14/2012 | Police Officer | Basic | Granted | 8/14/2012 | 1/20/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

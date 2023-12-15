@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/29/2023 | PDS3881A | Body Scanner Training | Passed | 0.0 | 8.00 |
+| 11/29/2023 | PDS2268A | Body Scanner Training | Passed | 0.0 | 8.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 4/18/2023 | PDS18783 | NAMI Training | Passed | 0.0 | 1.00 |
 | 4/18/2023 | PDS13534 | Yoga For First Responders | Passed | 0.0 | 1.00 |

@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/8/2023
+  course: SDP1007A
+  title: Taser 7 Operator Certification
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/30/2023
   course: REG0669A
   title: Defensive Tactics

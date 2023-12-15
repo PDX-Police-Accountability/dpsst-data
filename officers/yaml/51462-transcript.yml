@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/1/2023
+  course: PDS2241A
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/18/2023
   course: PDS1870A
   title: Reserve Deputy Unit Monthly Training

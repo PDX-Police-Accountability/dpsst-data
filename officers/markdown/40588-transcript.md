@@ -4,7 +4,7 @@
 | name | Zanetti, Anthony R. |
 | dpsst_identifier | 40588 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,19 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/16/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 1/1/2020 | Portland Police Bureau | LOA | Police Off |  |  |
 | 2/15/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/25/2012 | Police Officer | Advanced | Granted | 6/25/2012 |  |  |
-| 6/25/2012 | Police Officer | Intermediate | Granted | 6/25/2012 |  |  |
-| 6/25/2002 | Police Officer | Basic | Granted | 6/25/2002 |  |  |
+| 6/16/2022 | Police Officer | Advanced | Lapsed | 6/25/2012 | 3/16/2027 |  |
+| 6/16/2022 | Police Officer | Basic | Lapsed | 6/25/2002 | 3/16/2027 |  |
+| 6/16/2022 | Police Officer | Intermediate | Lapsed | 6/25/2012 | 3/16/2027 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 4/27/2001 |  |
 ## Education
 | date | degree | school | major | hours |

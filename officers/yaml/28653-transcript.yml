@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: PDA4233A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/26/2023
   course: HBS1720A
   title: Confronting Bias Through justice and Healing

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 8/25/2023 | F1514378 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |
 | 5/12/2023 | PDS3692 | CPR/First Aid | Passed | 0.0 | 2.50 |
 | 3/11/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

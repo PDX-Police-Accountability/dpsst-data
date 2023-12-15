@@ -110,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/23/2023
+  course: GSP2608A
+  title: Firearms Instructor Day
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/19/2023
+  course: GSP3487A
+  title: SWAT Range Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/9/2023
   course: WBP21933
   title: 'Combative Firearms: Developing Speed and Accuracy'

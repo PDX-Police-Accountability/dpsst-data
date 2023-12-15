@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2023 | PDS0508A | Field Training and Evaluation Program | Passed | 0.0 | 24.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 5/24/2023 | PDS4436A | Yoga For First Responders | Passed | 0.0 | 1.00 |
 | 5/24/2023 | PDS2934A | NAMI Training | Passed | 0.0 | 2.00 |

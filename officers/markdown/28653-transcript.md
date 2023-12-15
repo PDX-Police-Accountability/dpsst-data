@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 10/26/2023 | HBS1720A | Confronting Bias Through justice and Healing | Passed | 0.0 | 6.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/25/2023 | F1505785 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |

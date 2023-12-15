@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2023 | PDS2450A | Firearms Training | Passed | 0.0 | 2.00 |
+| 11/30/2023 | PDS4341A | Command Training | Passed | 0.0 | 2.00 |
 | 10/11/2023 | PDS1323A | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/4/2023 | PDS3184A | CPR/First Aid | Passed | 0.0 | 2.00 |

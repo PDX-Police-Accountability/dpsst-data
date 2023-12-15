@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/14/2023
+  course: HBS0610A
+  title: 2023 November In-Service Brazos E-Ticket
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/3/2023
   course: HBS3211A
   title: 2023 September In-Service

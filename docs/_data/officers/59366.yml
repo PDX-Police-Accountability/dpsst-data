@@ -30,6 +30,12 @@ certification_records:
   expiration_date: 7/11/2026
   probation_date: ''
 training_records:
+- date: 12/4/2023
+  course: OSH1991A
+  title: 3rd Tri Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/12/2023
   course: SAG4418A
   title: Human Trafficking Conference

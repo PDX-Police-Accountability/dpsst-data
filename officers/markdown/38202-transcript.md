@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
 | 10/23/2023 | PDS3387A | Pistol/Rifle Qualifications | Passed | 0.0 | 2.00 |
 | 10/16/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |

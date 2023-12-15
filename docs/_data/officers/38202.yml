@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2023
+  course: PDS2241A
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/23/2023
   course: PDS3387A
   title: Pistol/Rifle Qualifications

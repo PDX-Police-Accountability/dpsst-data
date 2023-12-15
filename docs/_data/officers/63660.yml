@@ -240,6 +240,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/19/2023
+  course: PDP3117A
+  title: WMD/Terrorism Awareness for Emergency Respndrs
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 9/18/2023
   course: PDP1156A
   title: 2018 TOD 100% Collection and Submission Model

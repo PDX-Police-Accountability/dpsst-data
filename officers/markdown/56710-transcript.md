@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/7/2023 | SDP2194A | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 2.00 |
+| 11/8/2023 | SDP1007A | Taser 7 Operator Certification | Passed | 0.0 | 7.00 |
 | 10/30/2023 | REG0669A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |
 | 9/12/2023 | HBS0968A | 2023 September In-Service | Passed | 0.0 | 9.00 |

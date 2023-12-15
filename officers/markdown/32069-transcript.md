@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 11/15/2023 | SDP1007A | Taser 7 Operator Certification | Passed | 0.0 | 7.00 |
 | 11/6/2023 | REG4260A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/1/2023 | SDP1701A | Maximize Sleep  Minimize Fatigue in Policing | Passed | 0.0 | 3.00 |
 | 10/30/2023 | REG0669A | Defensive Tactics | Passed | 0.0 | 1.00 |

@@ -41,6 +41,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/2/2023 | HBS3137A | Bias Based Policing | Passed | 0.0 | 1.00 |
 | 11/20/2023 | HBS3225A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |
+| 11/20/2023 | HBS0154A | 2023 November In-Service Brazos E-Ticket | Passed | 0.0 | 3.00 |
+| 11/20/2023 | HBS0330A | 2023 November In-Service EVO | Passed | 0.0 | 1.50 |
 | 11/14/2023 | HBS2602A | NamUs Missing Person Investigation | Passed | 0.0 | 1.50 |
 | 10/17/2023 | HBS0393A | Investigations Leadership Training | Passed | 0.0 | 0.50 |
 | 10/17/2023 | HBS1931A | EVO Pursuit  Investigation Division Updates | Passed | 0.0 | 1.00 |

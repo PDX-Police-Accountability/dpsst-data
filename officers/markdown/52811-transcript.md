@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2023 | PDS2450A | Firearms Training | Instructed | 0.0 | 2.00 |
+| 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
 | 11/27/2023 | PDS3751A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/20/2023 | PDS2952A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/3/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
