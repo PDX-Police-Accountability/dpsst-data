@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/12/2023
+  course: PDA0372A
+  title: Securus Investigation Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/21/2023
   course: 23-0009
   title: DPSST Basic Police COD

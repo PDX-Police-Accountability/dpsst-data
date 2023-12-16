@@ -25,7 +25,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
 | Code of Ethics | Signed | 4/24/2014 |  |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2023 | OCS2341A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS0946A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |

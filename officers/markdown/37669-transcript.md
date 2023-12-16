@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2023 | PDP4131A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/4/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
 | 11/27/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

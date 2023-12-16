@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/7/2023 | OSH1430A | Characteristics of Culture | Passed | 0.0 | 3.00 |
 | 4/24/2004 | 04-0470 | DUII Multi-disciplinary Impared Driving | Passed | 0.0 | 16.00 |
 | 10/24/2003 | 03-0872 | OSIN Basic Criminal Intelligence Concepts Training | Passed | 0.0 | 4.00 |
 | 4/4/2002 | 02CP580 | Basic Fingerprint Class | Passed | 0.0 | 24.00 |

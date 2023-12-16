@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
+| 12/12/2023 | PDA0372A | Securus Investigation Training | Passed | 0.0 | 3.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 8/4/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |
 | 5/6/2023 | PDS09288 | Yoga for First Responders | Passed | 0.0 | 1.00 |

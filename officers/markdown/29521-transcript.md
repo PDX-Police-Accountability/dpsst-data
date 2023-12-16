@@ -4,7 +4,7 @@
 | name | Posey, Darren L. |
 | dpsst_identifier | 29521 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/6/2023 | Portland Police Bureau | Retired | Detective |  |  |
 | 3/17/2006 | Portland Police Bureau | Promotion | Detective |  |  |
 | 9/4/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/3/1997 | Multnomah County Sheriff's Office | Resigned | Reserve |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/31/2006 | Police Officer | Advanced | Granted | 8/31/2006 |  |  |
-| 8/31/2006 | Police Officer | Intermediate | Granted | 8/31/2006 |  |  |
-| 6/15/1998 | Police Officer | Basic | Granted | 6/15/1998 |  |  |
+| 8/31/2006 | Police Officer | Advanced | Granted | 8/31/2006 | 3/6/2024 |  |
+| 8/31/2006 | Police Officer | Intermediate | Granted | 8/31/2006 | 3/6/2024 |  |
+| 6/15/1998 | Police Officer | Basic | Granted | 6/15/1998 | 3/6/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -3,12 +3,18 @@ header_record:
   name: Maynard, Phillip J.
   dpsst_identifier: '34675'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/6/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/7/1998
   agency: Portland Police Bureau
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 4/19/2011
-  expiration_date: ''
+  expiration_date: 3/6/2024
   probation_date: ''
 - status_date: 4/19/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 4/19/2011
-  expiration_date: ''
+  expiration_date: 3/6/2024
   probation_date: ''
 - status_date: 8/17/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 8/17/2000
-  expiration_date: ''
+  expiration_date: 3/6/2024
   probation_date: ''
 training_records:
 - date: 11/15/2023

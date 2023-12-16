@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: PDP3424A
+  title: 2023 Traffic Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/13/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals

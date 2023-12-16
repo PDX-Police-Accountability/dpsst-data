@@ -68,6 +68,12 @@ training_records:
   status: ''
   score: '0.0'
   hours: '8.00'
+- date: 11/19/2023
+  course: TDP1969A
+  title: Pistol Mounted Optics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 9/28/2023
   course: F6R1353A
   title: Police Resiliency  Critical Incident Mindset

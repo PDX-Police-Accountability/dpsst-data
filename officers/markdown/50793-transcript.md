@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2023 | PDP3219A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/15/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 11/1/2023 | PDP0710A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 10/27/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2023
+  course: OSH2923A
+  title: 3rd Trimester Firearms-Low Light
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/10/2023
   course: OSH0989A
   title: OSP 2023 3rd Tri Survival Skills

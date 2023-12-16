@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/24/2023
+  course: SAG2606A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/22/2023
   course: SAG4494A
   title: Firearms/Use of Force

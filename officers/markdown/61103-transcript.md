@@ -41,6 +41,8 @@
 | 9/6/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP2729A | 2023-2 All Sworn In-Service Firearms 1 | Instructed | 0.0 | 2.25 |
+| 9/5/2023 | PDP2718A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.25 |
 | 8/31/2023 | PDP2539A | 2023 Training Red Dot Optic Instructor Course | Instructed | 0.0 | 36.00 |
 | 8/23/2023 | PDP2154A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 8/23/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 2.00 |

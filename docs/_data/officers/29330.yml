@@ -35,6 +35,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/7/2023
+  course: OSH1430A
+  title: Characteristics of Culture
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/24/2004
   course: 04-0470
   title: DUII Multi-disciplinary Impared Driving

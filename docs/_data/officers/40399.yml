@@ -441,6 +441,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 1/18/2023
+  course: PDP3773A
+  title: 2023-1 All Sworn In-Service Mobile Field Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/17/2023
   course: PDP1261A
   title: 2023-1 All Sworn In-Service Legal Updates

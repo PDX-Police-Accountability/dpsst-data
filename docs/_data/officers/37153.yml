@@ -3,12 +3,18 @@ header_record:
   name: Jacquot, Steven R.
   dpsst_identifier: '37153'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/4/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/4/1999
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 11/22/2010
-  expiration_date: ''
+  expiration_date: 3/4/2024
   probation_date: ''
 - status_date: 11/22/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 11/22/2010
-  expiration_date: ''
+  expiration_date: 3/4/2024
   probation_date: ''
 - status_date: 5/3/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/3/2000
-  expiration_date: ''
+  expiration_date: 3/4/2024
   probation_date: ''
 training_records:
 - date: 11/5/2023

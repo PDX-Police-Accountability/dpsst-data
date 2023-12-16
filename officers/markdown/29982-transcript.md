@@ -29,6 +29,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | First Aid/CPR Required | 12/14/2023 | 12/14/2023 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
 | Code of Ethics | Signed | 5/4/2001 |  |
@@ -40,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 12/13/2023 | HUP3391A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 11/30/2023 | SVP2668A | Be Nice - Customer Service Training (Randy Means) | Passed | 0.0 | 0.50 |
 | 11/16/2023 | SVP2097A | Cumulative Trauma and PTSD in First Responders | Passed | 0.0 | 1.50 |
 | 11/15/2023 | VND1620A | Drone Response and Assessment | Passed | 0.0 | 4.00 |

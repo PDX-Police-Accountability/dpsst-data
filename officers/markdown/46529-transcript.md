@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | PDP3424A | 2023 Traffic Monthly Training | Passed | 0.0 | 6.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/13/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
@@ -50,6 +51,7 @@
 | 9/18/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 9/5/2023 | PDP2718A | 2023-2 All Sworn In-Service Firearms 2 | Instructed | 0.0 | 2.25 |
 | 8/31/2023 | PDP2539A | 2023 Training Red Dot Optic Instructor Course | Instructed | 0.0 | 36.00 |
 | 8/25/2023 | PDP0394A | Law Enforcement Training Center | Passed | 0.0 | 40.00 |
 | 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 27.00 |

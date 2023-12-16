@@ -4,7 +4,7 @@
 | name | Maynard, Phillip J. |
 | dpsst_identifier | 34675 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/6/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 8/7/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 | 8/6/1998 | Portland Police Bureau | Resigned | Civln Emp |  |  |
 | 7/7/1997 | Portland Police Bureau | Hired | Civln Emp |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/19/2011 | Police Officer | Advanced | Granted | 4/19/2011 |  |  |
-| 4/19/2011 | Police Officer | Intermediate | Granted | 4/19/2011 |  |  |
-| 8/17/2000 | Police Officer | Basic | Granted | 8/17/2000 |  |  |
+| 4/19/2011 | Police Officer | Advanced | Granted | 4/19/2011 | 3/6/2024 |  |
+| 4/19/2011 | Police Officer | Intermediate | Granted | 4/19/2011 | 3/6/2024 |  |
+| 8/17/2000 | Police Officer | Basic | Granted | 8/17/2000 | 3/6/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

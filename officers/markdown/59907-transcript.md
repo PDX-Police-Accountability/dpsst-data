@@ -25,7 +25,6 @@
 | Certification Cards | First Aid and CPR | 6/22/2023 | 6/22/2025 |
 | Code of Ethics | Law Enforcement Signed | 1/6/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 1/15/2020 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 6/13/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

@@ -42,6 +42,7 @@
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |
 | 8/21/2023 | SAG2673A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 8/15/2023 | SAG3758A | Human Trafficking Conference | Passed | 0.0 | 16.00 |
+| 7/24/2023 | SAG2606A | Firearms Training | Passed | 0.0 | 2.00 |
 | 6/22/2023 | SAG4494A | Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 4/20/2023 | SAG17561 | Firearms range training | Passed | 0.0 | 3.00 |

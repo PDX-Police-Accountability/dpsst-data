@@ -99,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/27/2023
+  course: PDP0342A
+  title: CSM Crisis/Hostage Negotiation Course Level II
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 10/18/2023
   course: PDP3873A
   title: 2023 CNT Crisis Negotiation Team Annual Training

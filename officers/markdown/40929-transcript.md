@@ -55,6 +55,8 @@
 | 9/28/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 9/17/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 9/5/2023 | PDP2729A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.25 |
+| 9/5/2023 | PDP2718A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.25 |
 | 9/4/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 10.00 |
 | 9/3/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 5.00 |
 | 9/2/2023 | HSU1153A | RDS Operator Course - New Hire | Instructed | 0.0 | 5.00 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2023 | OSH2923A | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |
 | 12/10/2023 | OSH0989A | OSP 2023 3rd Tri Survival Skills | Passed | 0.0 | 4.00 |
 | 11/29/2023 | OSH1463A | TECC Tactical Emergency Casualty Care | Passed | 0.0 | 4.00 |
 | 11/14/2023 | OSH2404A | 3rd Trimester Firearms Low Light | Passed | 0.0 | 4.00 |

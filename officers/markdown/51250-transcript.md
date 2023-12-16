@@ -27,7 +27,6 @@
 | Certification Cards | First Aid and CPR | 9/25/2023 | 9/25/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2022 | 12/31/2022 |
 | Code of Ethics | Signed | 2/3/2011 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 7/24/2023 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

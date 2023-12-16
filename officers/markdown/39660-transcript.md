@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2023 | PDP3219A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/22/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 11/15/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 11/9/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

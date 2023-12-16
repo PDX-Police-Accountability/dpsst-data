@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/6/2023 | PDP3219A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/22/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 11/22/2023 | PDP1115A | 2023 K-9 Weekly Training | Instructed | 0.0 | 4.00 |
 | 11/21/2023 | PDP3507A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |

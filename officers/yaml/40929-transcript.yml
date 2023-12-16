@@ -164,6 +164,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/5/2023
+  course: PDP2729A
+  title: 2023-2 All Sworn In-Service Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 9/5/2023
+  course: PDP2718A
+  title: 2023-2 All Sworn In-Service Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 9/4/2023
   course: HSU1153A
   title: RDS Operator Course - New Hire

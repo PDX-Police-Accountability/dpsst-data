@@ -27,7 +27,8 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
 | Code of Ethics | Signed | 1/23/2006 |  |
 ## Education
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2023 | OSH0030A | Eithics Training | Passed | 0.0 | 1.00 |
 | 11/10/2023 | REG0793A | Sig Pistol Mounted Optics Instructor Course LE | Passed | 0.0 | 16.00 |
 | 11/6/2023 | OSH0517A | 3rd Trimester Firearms Low-Light | Instructed | 0.0 | 2.00 |

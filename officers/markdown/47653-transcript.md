@@ -51,6 +51,7 @@
 | 9/12/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
 | 9/8/2023 | ALP2843A | Taser Instructor Certification | Passed | 0.0 | 8.00 |
 | 9/8/2023 | PDP2308A | 2023 External Training Taser CEW Instructor Course | Passed | 0.0 | 9.00 |
+| 9/6/2023 | PDP1479A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.25 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |
 | 9/1/2023 | PDP0634A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 6.00 |
 | 8/31/2023 | PDP0742A | 2023 Training Instructor Development: | Passed | 0.0 | 8.00 |

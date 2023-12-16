@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/12/2023
+  course: PDA0372A
+  title: Securus Investigation Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 8/25/2023
   course: F1514378
   title: 'Incident Analysis: Fargo PD Ambush'

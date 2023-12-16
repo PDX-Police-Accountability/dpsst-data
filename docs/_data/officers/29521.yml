@@ -3,12 +3,18 @@ header_record:
   name: Posey, Darren L.
   dpsst_identifier: '29521'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/6/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 3/17/2006
   agency: Portland Police Bureau
   action: Promotion
@@ -39,21 +45,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 8/31/2006
-  expiration_date: ''
+  expiration_date: 3/6/2024
   probation_date: ''
 - status_date: 8/31/2006
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 8/31/2006
-  expiration_date: ''
+  expiration_date: 3/6/2024
   probation_date: ''
 - status_date: 6/15/1998
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/15/1998
-  expiration_date: ''
+  expiration_date: 3/6/2024
   probation_date: ''
 training_records:
 - date: 10/27/2023

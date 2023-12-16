@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/17/2023
+  course: PDP1631A
+  title: 41st Annual Conference on Crime Victim's Issues
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
 - date: 10/26/2023
   course: HBS1720A
   title: Confronting Bias Through justice and Healing

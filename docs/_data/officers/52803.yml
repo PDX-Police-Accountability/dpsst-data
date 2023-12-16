@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: PDP3424A
+  title: 2023 Traffic Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '5.50'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
