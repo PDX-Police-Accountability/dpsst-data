@@ -60,6 +60,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2023
+  course: BVP4077A
+  title: Night Range 2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/23/2023
   course: BVP0934A
   title: City of Beaverton Ethics in  Policing
@@ -90,6 +96,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/10/2023
+  course: BVP2491A
+  title: Team Takedowns  Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/10/2023
+  course: BVP3626A
+  title: Less Lethal Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/10/2023
+  course: BVP2684A
+  title: Team Takedowns  Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/3/2023
   course: BVP1383A
   title: EVOC

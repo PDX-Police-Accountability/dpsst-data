@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/7/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
 | 10/4/2023 | HBP0749A | Patrol Cyclist Training | Instructed | 0.0 | 8.00 |
 | 9/28/2023 | HBS3960A | MFF Training | Passed | 0.0 | 9.00 |
@@ -46,6 +47,9 @@
 | 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 6/14/2023 | BVP3258A | ICS Scenario | Passed | 0.0 | 2.00 |
 | 6/14/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |
+| 6/14/2023 | BVP2491A | Team Takedowns  Ground Control | Passed | 0.0 | 2.00 |
+| 6/14/2023 | BVP3626A | Less Lethal Refresher | Passed | 0.0 | 1.50 |
+| 6/14/2023 | BVP2684A | Team Takedowns  Ground Control | Passed | 0.0 | 1.50 |
 | 6/7/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 6/7/2023 | BVP2611A | Fireams Qualification June 2023 | Passed | 0.0 | 3.00 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |

@@ -62,6 +62,9 @@
 | 7/24/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/13/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 7/13/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |
+| 7/13/2023 | BVP2491A | Team Takedowns  Ground Control | Passed | 0.0 | 2.00 |
+| 7/13/2023 | BVP3626A | Less Lethal Refresher | Passed | 0.0 | 1.50 |
+| 7/13/2023 | BVP2684A | Team Takedowns  Ground Control | Passed | 0.0 | 1.50 |
 | 7/11/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/11/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/11/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |

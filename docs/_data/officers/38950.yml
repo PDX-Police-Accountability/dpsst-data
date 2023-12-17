@@ -101,6 +101,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2023
+  course: OSA3159A
+  title: Challenging Law Dr Jack Enter, 12-7-23
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/5/2023
+  course: OSA2109A
+  title: Legal Updates - Elmer Dickens - 12/05/23
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/5/2023
+  course: OSA4313A
+  title: Firearms Use of Force - Elmer Dickens - 12/05/23
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/10/2023
   course: HBS0505A
   title: 2023 November In-Service IFAST

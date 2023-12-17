@@ -205,6 +205,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/13/2023
+  course: BVP2491A
+  title: Team Takedowns  Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 7/13/2023
+  course: BVP3626A
+  title: Less Lethal Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/13/2023
+  course: BVP2684A
+  title: Team Takedowns  Ground Control
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/11/2023
   course: PDP4002A
   title: 2023 Field Drug Test Kits

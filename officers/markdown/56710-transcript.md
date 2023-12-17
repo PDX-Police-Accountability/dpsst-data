@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2023 | SDP0665A | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 2.00 |
 | 12/7/2023 | SDP2194A | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 2.00 |
 | 11/8/2023 | SDP1007A | Taser 7 Operator Certification | Passed | 0.0 | 7.00 |
 | 10/30/2023 | REG0669A | Defensive Tactics | Passed | 0.0 | 1.00 |

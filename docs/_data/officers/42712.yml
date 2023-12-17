@@ -74,6 +74,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/9/2023
+  course: HBS3057A
+  title: 2023 November In-Service Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/9/2023
+  course: HBS4055A
+  title: 2023 November In-Service IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 11/16/2023
   course: HBS2662A
   title: Bias Based Policing

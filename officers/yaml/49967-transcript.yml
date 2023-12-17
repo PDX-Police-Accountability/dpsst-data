@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 12/10/2023
+  course: MNP3864A
+  title: Taser 7 certification
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 11/18/2023
   course: MNP3700A
   title: Defensive Tactics

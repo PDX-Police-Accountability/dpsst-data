@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/1/2023 | OCP3229A | Human Trafficking | Passed | 0.0 | 2.00 |
 | 11/1/2023 | OCP1922A | Biases Training | Passed | 0.0 | 1.00 |
+| 10/16/2023 | BVP0638A | Takedowns and Ground Control for Law Enforcement | Passed | 0.0 | 5.00 |
 | 9/14/2023 | OCS1387A | Interview and Interrogation Training | Passed | 0.0 | 24.00 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 8/30/2023 | HBN2550A | APPA Training Institute | Passed | 0.0 | 17.25 |

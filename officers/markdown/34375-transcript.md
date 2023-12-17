@@ -48,6 +48,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2023 | STS3216A | Karly's Law Training | Passed | 0.0 | 1.00 |
+| 12/7/2023 | OSA3159A | Challenging Law Dr Jack Enter, 12-7-23 | Passed | 0.0 | 8.00 |
+| 12/6/2023 | OSA3313A | Emotional Survival Dr Kevin Gilmartin, 12-6-23 | Passed | 0.0 | 8.00 |
+| 12/5/2023 | OSA4313A | Firearms Use of Force - Elmer Dickens - 12/05/23 | Passed | 0.0 | 4.00 |
+| 12/5/2023 | OSA2109A | Legal Updates - Elmer Dickens - 12/05/23 | Passed | 0.0 | 1.00 |
+| 12/5/2023 | OSA0612A | OSSA Conference December 5, 2023 | Passed | 0.0 | 8.00 |
 | 11/9/2023 | VND4319A | Oregon State Marine Board PWC Operations Course | Passed | 0.0 | 24.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |

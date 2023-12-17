@@ -48,6 +48,7 @@
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/8/2023 | MLP1991A | Active Shooter | Passed | 0.0 | 2.00 |
 | 8/8/2023 | MLP1011A | Active Shooter | Passed | 0.0 | 2.00 |
+| 6/7/2023 | VND3528A | The Rights of Police Officers |  | 0.0 | 15.00 |
 | 5/9/2023 | MLP42764 | Rifle Qualification | Passed | 0.0 | 2.00 |
 | 5/9/2023 | MLP42764 | Rifle Qualification | Instructed | 0.0 | 1.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |

@@ -42,6 +42,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/12/2023
+  course: PDP3725A
+  title: 2023-2 All Sworn In-Service BWC Policy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/12/2023
+  course: PDP2382A
+  title: 2023-2 All Sworn In-Service BWC Test
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/12/2023
+  course: PDP1588A
+  title: 2023-2 All Sworn In-Service Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/1/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

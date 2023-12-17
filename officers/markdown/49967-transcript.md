@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/10/2023 | MNP3864A | Taser 7 certification | Passed | 0.0 | 7.00 |
 | 11/18/2023 | MNP3700A | Defensive Tactics | Passed | 0.0 | 3.50 |
 | 11/18/2023 | MNP3358A | First Aid/CPR recertification | Passed | 0.0 | 0.50 |
 | 11/18/2023 | MNP4341A | NARCAN training | Passed | 0.0 | 0.50 |
