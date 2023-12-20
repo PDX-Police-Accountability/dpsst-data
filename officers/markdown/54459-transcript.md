@@ -46,6 +46,7 @@
 | 10/25/2023 | PDP3753A | 2023 Training Return to Work Firearms | Passed | 0.0 | 4.00 |
 | 10/24/2023 | PDP3717A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
 | 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 10/23/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/18/2023 | PDP3297A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 10/17/2023 | PDP0861A | 2022-3 TT Oregon Ballot 114 | Passed | 0.0 | 0.50 |
 | 10/17/2023 | PDP4241A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |

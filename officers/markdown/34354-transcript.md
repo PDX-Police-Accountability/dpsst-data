@@ -35,7 +35,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/28/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/28/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/9/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
+| 11/9/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/18/2023 | PDP3873A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
+| 10/14/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 10/14/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 2.50 |
+| 10/14/2023 | PDP4163A | 2023-3 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 10/3/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 10/3/2023 | PDP4082A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
 | 10/3/2023 | PDP2486A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |

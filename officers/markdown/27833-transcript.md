@@ -35,6 +35,8 @@
 | 12/12/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/12/2023 | PDP2382A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 12/12/2023 | PDP1588A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |
+| 11/21/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 11/21/2023 | PDP4163A | 2023-3 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 11/1/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |
 | 11/1/2023 | PDP1952A | 2023 Command Staff In-Service Training Leadership | Passed | 0.0 | 4.00 |
 | 10/31/2023 | PDP3431A | 2023 Supevisor In-Service Chief's Office Disc. | Passed | 0.0 | 0.50 |

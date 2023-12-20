@@ -46,6 +46,11 @@
 | 10/16/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 10/16/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 10/16/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 9/15/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 9/15/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 9/15/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/15/2023 | PDP0343A | 2023-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 9/15/2023 | PDP0089A | 2023-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/8/2023 | PDP2703A | 2023 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 40.00 |
 | 9/8/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/8/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |

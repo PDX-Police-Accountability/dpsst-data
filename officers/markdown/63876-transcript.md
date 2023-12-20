@@ -28,9 +28,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/4/2023 | PDP1459A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 11/28/2023 | PDP1467A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 11/28/2023 | PDP4215A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 11/28/2023 | PDP0462A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 11/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/22/2023 | PDP2745A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP4111A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1041A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -58,6 +60,7 @@
 | 11/16/2023 | PDP2883A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
 | 11/16/2023 | PDP1061A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 11/15/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/20/2023 | REG2347A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 10/12/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 9/21/2023 | REG1057A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

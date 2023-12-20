@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/4/2023
+  course: PDP1459A
+  title: WMD/Terrorism Awareness for Emergency Respndrs
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/28/2023
   course: PDP4215A
   title: 2023 FTEP Geography
@@ -84,6 +90,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 11/15/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/9/2023
+  course: PDP1423A
+  title: 2023-3 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/5/2023
   course: PDP0127A
   title: Amended DOJ Settlement Agreement

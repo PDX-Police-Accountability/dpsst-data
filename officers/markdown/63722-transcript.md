@@ -36,6 +36,8 @@
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/25/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 9/25/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/25/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 1.00 |
 | 9/19/2023 | PDP1156A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP3997A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP0803A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |

@@ -121,6 +121,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/23/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/18/2023
   course: PDP3297A
   title: 2022 MCDA Probable Cause Refresher Training

@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/28/2023
+  course: PDP4431A
+  title: 2023-3 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/28/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/28/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/1/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

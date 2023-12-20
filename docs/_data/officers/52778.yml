@@ -37,6 +37,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/5/2023
+  course: PDP4163A
+  title: 2023-3 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/1/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals
@@ -49,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/24/2023
+  course: PDP4431A
+  title: 2023-3 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/12/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario

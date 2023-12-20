@@ -49,6 +49,8 @@
 | 9/25/2023 | PDP1108A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP0857A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP1921A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 9/25/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/25/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 9/22/2023 | PDP1966A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 9/22/2023 | PDP1476A | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 9/22/2023 | PDP2592A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |

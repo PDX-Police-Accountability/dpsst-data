@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/10/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/23/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/23/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/9/2023 | PDP2584A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
@@ -60,6 +61,7 @@
 | 9/6/2023 | PDP3046A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 9/6/2023 | PDP1139A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 9/1/2023 | PDP0634A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 6.00 |
+| 9/1/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 8/22/2023 | PDP1230A | FTEP Hazmat/WMD Awareness APR Gas Mask Ftng | Passed | 0.0 | 3.00 |
 | 8/17/2023 | PDP3293A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Passed | 0.0 | 27.00 |

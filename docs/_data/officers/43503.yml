@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/30/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet
@@ -134,6 +140,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/1/2023
+  course: PDP1371A
+  title: 2023-3 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/1/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/1/2023
+  course: PDP4163A
+  title: 2023-3 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/26/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals

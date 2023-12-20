@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: SAG1126A
+  title: Oregon Government Ethics Law Overview
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/4/2023
   course: SAG0969A
   title: Firearms Training

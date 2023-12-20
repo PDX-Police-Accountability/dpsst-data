@@ -180,6 +180,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/2/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 7/25/2019
   course: F6D13893
   title: Adult Learning Core

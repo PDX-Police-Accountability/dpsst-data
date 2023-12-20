@@ -34,6 +34,10 @@
 | 11/22/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 24.00 |
 | 11/21/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/20/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/20/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
+| 11/20/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/20/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/16/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 24.00 |
 | 11/8/2023 | PDP4481A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 26.00 |
 | 10/11/2023 | PDP2665A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 30.00 |

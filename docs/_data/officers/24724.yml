@@ -100,6 +100,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 12/11/2023
+  course: FGP2154A
+  title: SEMI-ANNUAL FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/26/2023
   course: HBS1720A
   title: Confronting Bias Through justice and Healing

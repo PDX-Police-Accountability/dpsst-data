@@ -213,6 +213,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 9/29/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/29/2023
+  course: PDP4431A
+  title: 2023-3 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/29/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/29/2023
+  course: PDP4163A
+  title: 2023-3 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/2/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update

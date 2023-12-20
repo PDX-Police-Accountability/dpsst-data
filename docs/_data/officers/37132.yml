@@ -70,6 +70,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/16/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/16/2023
+  course: PDP4163A
+  title: 2023-3 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/1/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

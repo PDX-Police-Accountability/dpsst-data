@@ -34,6 +34,8 @@
 | 9/28/2023 | PDP0680A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Passed | 0.0 | 4.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
+| 9/25/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/25/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 9/19/2023 | PDP1108A | 2019-5 TT Enforcement of Protection Orders | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP1956A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 9/19/2023 | PDP1894A | 2022-3 CAO Legal Updates for 03/2022 | Passed | 0.0 | 0.25 |

@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2023
+  course: WBP3678A
+  title: Glock Operator's Course (OC)
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/5/2023
   course: WBP2426A
   title: Adaptive Ethics

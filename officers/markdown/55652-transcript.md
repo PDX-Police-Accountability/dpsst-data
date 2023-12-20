@@ -37,6 +37,11 @@
 | 11/12/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/8/2023 | PDP4481A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 26.00 |
 | 10/18/2023 | PDP0543A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 25.00 |
+| 10/2/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 10/2/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 10/2/2023 | PDP0343A | 2023-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 10/2/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
+| 10/2/2023 | PDP0089A | 2023-3 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 9/7/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 9/7/2023 | PDP0822A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 9/7/2023 | PDP2159A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

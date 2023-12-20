@@ -42,6 +42,9 @@
 | 11/16/2023 | PDP0412A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 15.00 |
 | 11/16/2023 | GSP1735A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 11/15/2023 | GSP0416A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
+| 11/10/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/10/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/10/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 10/31/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/27/2023 | GSP0625A | Barricaded Incident Debrief | Passed | 0.0 | 4.00 |
 | 10/26/2023 | GSP1671A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |

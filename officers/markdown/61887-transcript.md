@@ -48,6 +48,8 @@
 | 10/25/2023 | PDP4523A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 10/25/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 10/25/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 10/7/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 10/7/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/8/2023 | PDP2703A | 2023 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 40.00 |
 | 9/8/2023 | PDP3455A | 2023 Enhanced Crisis Intervention Training (ECIT) | Passed | 0.0 | 40.00 |
 | 9/4/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

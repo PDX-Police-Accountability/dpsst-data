@@ -44,6 +44,9 @@
 | 12/6/2023 | PDP3219A | 2023 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 11/22/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 11/15/2023 | PDP1115A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
+| 11/8/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 11/8/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/8/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/1/2023 | PDP0710A | 2023 K-9 Weekly Training | Instructed | 0.0 | 4.00 |
 | 10/29/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/29/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

@@ -187,6 +187,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 9/27/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/25/2023
   course: PDP1032A
   title: 2020 Ethics and Leadership PowerPoint
@@ -547,6 +553,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/6/2023
+  course: PDP1423A
+  title: 2023-3 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2022
   course: MAINTMUH
   title: Maintenance Makeup Ethics

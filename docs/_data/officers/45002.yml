@@ -120,6 +120,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/9/2023
+  course: PDP1371A
+  title: 2023-3 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2023
+  course: PDP1423A
+  title: 2023-3 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/15/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022

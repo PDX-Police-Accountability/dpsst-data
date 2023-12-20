@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: SAG1126A
+  title: Oregon Government Ethics Law Overview
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/21/2023
   course: RSS0455A
   title: 13th Annual OHIA Major Crimes Conference

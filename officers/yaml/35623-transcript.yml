@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/15/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/14/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet
@@ -81,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 10/24/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/16/2023
   course: PDP1020A
   title: 2023 Supevisor In-Service Elation

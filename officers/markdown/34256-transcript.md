@@ -46,6 +46,7 @@
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/14/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |
+| 10/17/2023 | BVP1611A | IACP Conference 2023 | Passed | 0.0 | 24.00 |
 | 9/7/2023 | BVP1084A | September Range | Passed | 0.0 | 3.00 |
 | 9/1/2023 | BVP4197A | BWC | Passed | 0.0 | 0.50 |
 | 6/14/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |

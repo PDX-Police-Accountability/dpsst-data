@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/2/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/26/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 10/17/2023 | PDP1829A | IACP Annual Conference | Passed | 0.0 | 38.75 |
 | 10/11/2023 | PDP4125A | ODOJ Regional LE Training | Passed | 0.0 | 10.75 |

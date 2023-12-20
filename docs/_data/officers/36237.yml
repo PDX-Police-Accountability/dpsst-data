@@ -57,6 +57,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/6/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/24/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet
@@ -69,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/16/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/14/2023
   course: PDP1676A
   title: 2023-2 All Sworn In-Service BWC Test

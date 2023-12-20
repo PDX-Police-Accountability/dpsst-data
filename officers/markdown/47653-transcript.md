@@ -35,6 +35,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/28/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/28/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/22/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
+| 11/16/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 10/23/2023 | PDP3262A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 9/27/2023 | PDP0810A | 2023 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |

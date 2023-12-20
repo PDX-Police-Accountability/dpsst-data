@@ -71,6 +71,7 @@
 | 10/4/2023 | PDP2624A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 10/4/2023 | PDP1018A | 2023-2 Tips  Techniques BWC Pilot Policy and FAQ | Passed | 0.0 | 0.25 |
 | 10/4/2023 | PDP1066A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 10/3/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 10/2/2023 | PDP3033A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 10/2/2023 | PDP2227A | 2023-1 In Service Crwd Mgmt Baton Online Recording | Passed | 0.0 | 0.50 |
 | 10/2/2023 | PDP3583A | 2023-1 In Service MFF_Formations Online Recording | Passed | 0.0 | 1.00 |

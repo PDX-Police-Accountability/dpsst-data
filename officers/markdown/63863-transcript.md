@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/4/2023 | PDP1459A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 11/28/2023 | PDP4215A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 11/27/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/27/2023 | PDP2961A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
@@ -37,6 +38,9 @@
 | 11/22/2023 | PDP1061A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 11/18/2023 | PDP3541A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 11/15/2023 | PDP1839A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 11/15/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 11/9/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 11/9/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 11/5/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/20/2023 | REG2347A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 9/21/2023 | REG1057A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

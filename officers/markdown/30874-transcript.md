@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/11/2023 | FGP2154A | SEMI-ANNUAL FIREARMS TRAINING | Passed | 0.0 | 1.00 |
+| 11/27/2023 | FGP1761A | Annual Taser Refresher | Passed | 0.0 | 2.00 |
 | 10/23/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Completed | 0.0 | 0.00 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2023 | FGP1332A | Ethical Decision Making - ONLINE | Passed | 0.0 | 1.00 |

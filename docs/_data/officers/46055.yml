@@ -63,6 +63,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/21/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/21/2023
+  course: PDP4163A
+  title: 2023-3 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/30/2023
   course: PDP1020A
   title: 2023 Supevisor In-Service Elation

@@ -42,6 +42,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/24/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/22/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/4/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

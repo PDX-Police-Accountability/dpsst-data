@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/24/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/10/2023
   course: PDP1425A
   title: 2021 Training Crowd Control Vehicles

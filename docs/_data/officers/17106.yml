@@ -99,6 +99,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/15/2023
+  course: PDA3294A
+  title: 2023 Annual Firearms Training  Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/12/2023
   course: PDA4233A
   title: Use of Force

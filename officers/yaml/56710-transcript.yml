@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/13/2023
+  course: SDP4093A
+  title: US Mail Fraud Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/7/2023
   course: SDP2194A
   title: Identifying and Preventing Sexual Harassment

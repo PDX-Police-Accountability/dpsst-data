@@ -45,6 +45,7 @@
 | 12/7/2023 | WLP0697A | Defensive Tactics - Takedowns | Passed | 0.0 | 2.00 |
 | 11/11/2023 | WLP1330A | Active Threat Response - Patrol | Passed | 0.0 | 5.00 |
 | 11/3/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/3/2023 | WLP2063A | Pistol Mounted Optic Transistion Course - 2 Day | Passed | 0.0 | 16.00 |
 | 9/30/2023 | WLP3848A | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |
 | 9/13/2023 | WLP0599A | Firearms Training / Qualification | Passed | 0.0 | 4.00 |
 | 4/1/2023 | WLP34960 | Stop Stick Refresher Training | Passed | 0.0 | 1.00 |

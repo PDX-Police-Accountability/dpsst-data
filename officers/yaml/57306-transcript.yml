@@ -96,6 +96,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/31/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/11/2023
   course: PDP3016A
   title: 2023-2 All Sworn In-Service Crime Scene Mgmt

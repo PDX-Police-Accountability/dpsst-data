@@ -51,6 +51,10 @@
 | 11/1/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/1/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/19/2023 | PDP3753A | 2023 Training Return to Work Firearms | Passed | 0.0 | 6.00 |
+| 10/19/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 10/19/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
+| 10/19/2023 | PDP0343A | 2023-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
+| 10/17/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 9/12/2023 | PDP3045A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 9/12/2023 | PDP1921A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
@@ -71,6 +75,7 @@
 | 9/7/2023 | PDP4476A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
 | 9/7/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 9/7/2023 | PDP3002A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 9/7/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/6/2023 | PDP3877A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 9/6/2023 | PDP1609A | 2023-1 In Service Force Reporting | Passed | 0.0 | 0.50 |
 | 9/6/2023 | PDP0103A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |

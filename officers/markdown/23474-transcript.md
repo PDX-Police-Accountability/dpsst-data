@@ -54,6 +54,7 @@
 | 10/16/2023 | PDP4354A | 2023 Training RTW PVO, MMF, Wellness,  ABLE | Passed | 0.0 | 2.50 |
 | 10/13/2023 | PDP1852A | 2023 Training Return to Work CT, PP,  FA Updates | Passed | 0.0 | 3.00 |
 | 10/2/2023 | PDP3753A | 2023 Training Return to Work Firearms | Passed | 0.0 | 2.00 |
+| 10/2/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/25/2019 | F6D13893 | Adult Learning Core | Passed | 0.0 | 2.00 |
 | 4/11/2019 | F6D23752 | Oregon Child Welfare- Partnerships  Issues | Passed | 0.0 | 1.00 |
 | 4/10/2019 | F6D20890 | How to Communicate Effectively w/Everyone You Lead | Passed | 0.0 | 3.50 |

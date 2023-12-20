@@ -112,6 +112,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/18/2023
+  course: MISCMAIN
+  title: 2023 LE Leadership 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/16/2023
+  course: STP1582A
+  title: Cultural Awareness and Diversity Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2023
+  course: STP3006A
+  title: Sexual Harassment and Abusive Conduct Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2023
+  course: STP0848A
+  title: Diversity in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/25/2023
   course: STP2113A
   title: Crisis Intervention Training Overview
@@ -2051,8 +2075,12 @@ attribute_records:
   expiration_date: 12/31/2024
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
   effective_date: 1/1/2021
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/9/2020

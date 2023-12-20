@@ -138,6 +138,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/5/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 9/5/2023
+  course: PDP0343A
+  title: 2023-3 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/5/2023
+  course: PDP0089A
+  title: 2023-3 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 8/25/2023
   course: PDP0934A
   title: 2023 Portland Community Justice Partnership

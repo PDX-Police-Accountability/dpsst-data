@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2023 | EGP3742A | MILITAUR/Door Stop/Jam | Passed | 0.0 | 0.50 |
 | 11/9/2023 | EGP3822A | DA Presentation | Passed | 0.0 | 1.50 |
 | 11/9/2023 | EGP1092A | Field Force Drills/Classroom | Passed | 0.0 | 3.00 |
 | 11/9/2023 | EGP4364A | Night Shoot/Scenarios | Passed | 0.0 | 3.00 |

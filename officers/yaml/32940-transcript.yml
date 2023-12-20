@@ -105,6 +105,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/9/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/9/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/18/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022

@@ -54,6 +54,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 10/11/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/11/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/11/2023
+  course: PDP1423A
+  title: 2023-3 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/6/2023
+  course: PDP4431A
+  title: 2023-3 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/27/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022
@@ -162,6 +186,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 6/30/2023
+  course: VND1184A
+  title: CSM- Crisis/Hostage Negotiation Level II
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 6/22/2023
   course: PDP4064A
   title: 2023 CNT Crisis Negotiation Team Annual Training

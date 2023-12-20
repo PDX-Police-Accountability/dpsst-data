@@ -37,6 +37,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/7/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/28/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals
@@ -49,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/21/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/11/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022

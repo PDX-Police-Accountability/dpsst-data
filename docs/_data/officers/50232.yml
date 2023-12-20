@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 10/31/2023
+  course: PDP1371A
+  title: 2023-3 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2023
+  course: PDP4431A
+  title: 2023-3 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/31/2023
+  course: PDP1423A
+  title: 2023-3 Range Qual Secondary Firearm (25 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/30/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals
@@ -61,6 +79,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 10/10/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/7/2023
   course: PDP0822A
   title: 2023-2 All Sworn In-Service BWC Policy

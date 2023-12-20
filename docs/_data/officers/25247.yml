@@ -255,6 +255,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 10/3/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/2/2023
   course: PDP3033A
   title: 2023 Directive 650.00 Consent Searches

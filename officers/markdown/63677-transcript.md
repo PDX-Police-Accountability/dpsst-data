@@ -43,6 +43,8 @@
 | 9/25/2023 | PDP0395A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 9/25/2023 | PDP2592A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
 | 9/25/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
+| 9/25/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 9/25/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 1.00 |
 | 9/21/2023 | PDP1956A | 2022 MCDA Probable Cause Refresher Training | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP3045A | 2022-12- CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/21/2023 | PDP3928A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

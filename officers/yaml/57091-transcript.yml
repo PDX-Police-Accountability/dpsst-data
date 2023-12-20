@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/24/2023
+  course: PDP1371A
+  title: 2023-3 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/24/2023
+  course: PDP4431A
+  title: 2023-3 Range Qual AR-15 Qualification (20 Yard)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 11/24/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/22/2023
   course: PDP3366A
   title: 2023 FTEP Pre-DPSST Firearms
@@ -68,6 +92,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '24.00'
+- date: 11/16/2023
+  course: PDP4163A
+  title: 2023-3 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/14/2023
   course: PDP1456A
   title: 2023 PPB Honor Guard 21 Gun/Rifle IS

@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.50'
+- date: 9/22/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/21/2023
   course: PDP2240A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -114,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/5/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/2/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022

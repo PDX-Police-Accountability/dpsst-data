@@ -134,6 +134,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/23/2023
+  course: PDP3224A
+  title: 2023-3 Range Qualification CEW
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 10/23/2023
+  course: PDP0003A
+  title: 2023-3 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/18/2023
   course: PDP3873A
   title: 2023 CNT Crisis Negotiation Team Annual Training
