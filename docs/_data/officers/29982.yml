@@ -88,6 +88,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/13/2023
+  course: SVP0722A
+  title: DT (Defensive Tactics) Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/13/2023
+  course: SVP0297A
+  title: OC Spray Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/30/2023
   course: SVP2668A
   title: Be Nice - Customer Service Training (Randy Means)

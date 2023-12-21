@@ -4,7 +4,7 @@
 | name | Outhaythip, Navarath |
 | dpsst_identifier | 24990 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Criminalist |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/8/2023 | Portland Police Bureau | Retired | Criminalst |  |  |
 | 11/15/2007 | Portland Police Bureau | Promotion | Criminalst |  |  |
 | 8/3/1995 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/27/1995 | Portland Public Schools Police | Resigned | Police Off |  |  |
@@ -21,7 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/20/1993 | Police Officer | Basic | Granted | 12/20/1993 |  |  |
+| 12/20/1993 | Police Officer | Basic | Granted | 12/20/1993 | 3/8/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -138,6 +138,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 2/16/2023
+  course: PDP1707A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/13/2023
   course: PDP26388
   title: FTEP Policy  Procedure Training - Wellness Intro

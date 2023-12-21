@@ -4,7 +4,7 @@
 | name | Singh, Parik G. |
 | dpsst_identifier | 31724 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/13/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 11/28/2011 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 5/12/2011 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/14/1997 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -22,9 +23,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/3/2009 | Police Officer | Advanced | Granted | 2/3/2009 |  |  |
-| 2/3/2009 | Police Officer | Intermediate | Granted | 2/3/2009 |  |  |
-| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 |  |  |
+| 2/3/2009 | Police Officer | Advanced | Granted | 2/3/2009 | 3/13/2024 |  |
+| 2/3/2009 | Police Officer | Intermediate | Granted | 2/3/2009 | 3/13/2024 |  |
+| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 | 3/13/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

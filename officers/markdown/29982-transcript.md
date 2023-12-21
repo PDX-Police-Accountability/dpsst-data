@@ -42,6 +42,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 12/13/2023 | HUP3391A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
+| 12/13/2023 | SVP0722A | DT (Defensive Tactics) Refresher | Instructed | 0.0 | 3.00 |
+| 12/13/2023 | SVP0297A | OC Spray Refresher | Instructed | 0.0 | 1.00 |
 | 11/30/2023 | SVP2668A | Be Nice - Customer Service Training (Randy Means) | Passed | 0.0 | 0.50 |
 | 11/16/2023 | SVP2097A | Cumulative Trauma and PTSD in First Responders | Passed | 0.0 | 1.50 |
 | 11/15/2023 | VND1620A | Drone Response and Assessment | Passed | 0.0 | 4.00 |

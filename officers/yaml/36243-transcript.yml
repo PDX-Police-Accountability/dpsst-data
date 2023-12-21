@@ -113,6 +113,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.50'
+- date: 12/4/2023
+  course: HBS4260A
+  title: 2023 November In-Service EVO
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/17/2023
   course: HBS3387A
   title: Bias Based Policing

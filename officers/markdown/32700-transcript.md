@@ -4,7 +4,7 @@
 | name | Schell, Martin D. |
 | dpsst_identifier | 32700 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/14/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 2/18/2010 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/1/2004 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 10/1/2003 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -23,8 +24,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/18/2019 | Police Officer | Supervisory | Granted | 11/18/2019 |  |  |
-| 2/2/1998 | Police Officer | Basic | Granted | 2/2/1998 |  |  |
+| 11/18/2019 | Police Officer | Supervisory | Granted | 11/18/2019 | 3/14/2024 |  |
+| 2/2/1998 | Police Officer | Basic | Granted | 2/2/1998 | 3/14/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

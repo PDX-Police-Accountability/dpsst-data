@@ -31,6 +31,7 @@
 | 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 11/13/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/9/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 11/9/2023 | PDP1707A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 11/8/2023 | PDP1154A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 11/8/2023 | PDP4481A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 26.00 |
 | 9/12/2023 | PDP4232A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

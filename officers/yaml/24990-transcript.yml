@@ -3,12 +3,18 @@ header_record:
   name: Outhaythip, Navarath
   dpsst_identifier: '24990'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/8/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 11/15/2007
   agency: Portland Police Bureau
   action: Promotion
@@ -51,7 +57,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 12/20/1993
-  expiration_date: ''
+  expiration_date: 3/8/2024
   probation_date: ''
 training_records:
 - date: 11/1/2023

@@ -31,3 +31,6 @@
 | 11/27/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/16/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 24.00 |
 | 11/14/2023 | PDP2139A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
+| 9/2/2018 | PDP3465A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 8/27/2018 | PDP3852A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 3.00 |
+| 8/24/2018 | PDP1785A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

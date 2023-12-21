@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 11/22/2023
+  course: PDP1707A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/16/2023
   course: PDP3366A
   title: 2023 FTEP Pre-DPSST Firearms

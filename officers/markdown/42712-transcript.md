@@ -42,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/9/2023 | HBS3057A | 2023 November In-Service Defensive Tactics | Passed | 0.0 | 3.50 |
 | 12/9/2023 | HBS4055A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |
+| 12/9/2023 | HBS2289A | 2023 November In-Service EVO | Passed | 0.0 | 1.50 |
 | 11/16/2023 | HBS2662A | Bias Based Policing | Passed | 0.0 | 1.00 |
 | 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

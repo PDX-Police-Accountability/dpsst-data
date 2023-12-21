@@ -4,7 +4,7 @@
 | name | Baxter, Jennifer L. |
 | dpsst_identifier | 37132 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Lieutenant |
 | level |  |
 | classification |  |
@@ -12,17 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/14/2023 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 4/18/2019 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 8/8/2013 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 2/15/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/19/2021 | Police Officer | Management | Granted | 4/19/2021 |  |  |
-| 1/31/2018 | Police Officer | Supervisory | Granted | 1/31/2018 |  |  |
-| 6/6/2008 | Police Officer | Advanced | Granted | 6/6/2008 |  |  |
-| 6/6/2008 | Police Officer | Intermediate | Granted | 6/6/2008 |  |  |
-| 3/13/2000 | Police Officer | Basic | Granted | 3/13/2000 |  |  |
+| 4/19/2021 | Police Officer | Management | Granted | 4/19/2021 | 3/14/2024 |  |
+| 1/31/2018 | Police Officer | Supervisory | Granted | 1/31/2018 | 3/14/2024 |  |
+| 6/6/2008 | Police Officer | Advanced | Granted | 6/6/2008 | 3/14/2024 |  |
+| 6/6/2008 | Police Officer | Intermediate | Granted | 6/6/2008 | 3/14/2024 |  |
+| 3/13/2000 | Police Officer | Basic | Granted | 3/13/2000 | 3/14/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

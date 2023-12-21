@@ -41,8 +41,22 @@
 | 12/15/2023 | PDA3294A | 2023 Annual Firearms Training  Qualification | Passed | 0.0 | 4.00 |
 | 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 12/12/2023 | PDA0372A | Securus Investigation Training | Passed | 0.0 | 3.00 |
+| 12/7/2023 | F1522817 | Building a Wellness Program | Passed | 0.0 | 1.00 |
+| 11/30/2023 | F1502380 | ADA Accomodations: Manager Roll | Passed | 0.0 | 2.00 |
+| 11/9/2023 | F1505135 | Bias Awareness for Interview Panel | Passed | 0.0 | 1.00 |
 | 10/26/2023 | HBS1720A | Confronting Bias Through justice and Healing | Passed | 0.0 | 6.00 |
+| 10/18/2023 | F1539839 | Bystander Intervention in the WP | Passed | 0.0 | 1.50 |
+| 10/16/2023 | F1541184 | Retention and Destruction of PII | Passed | 0.0 | 0.25 |
+| 10/12/2023 | F1519753 | From Pixels to Prosecution | Passed | 0.0 | 1.00 |
+| 10/5/2023 | F1531132 | Perparing for an Interview Panel | Passed | 0.0 | 0.25 |
+| 10/5/2023 | F1500209 | Recrtuiting Planning  Partnership | Passed | 0.0 | 0.25 |
+| 10/5/2023 | F1544431 | Veterans Preference | Passed | 0.0 | 0.25 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 9/21/2023 | F1501508 | Trends in Extremism: Threats | Passed | 0.0 | 1.50 |
+| 9/14/2023 | F1520283 | Shifting Lanscape of Threat Assess. | Passed | 0.0 | 2.00 |
+| 9/14/2023 | F1504697 | Administering Narcan | Passed | 0.0 | 0.25 |
+| 9/11/2023 | F1517178 | Use of Force Policy Review | Passed | 0.0 | 1.00 |
+| 8/31/2023 | F1533746 | Ascending to Leadership Roles | Passed | 0.0 | 1.25 |
 | 8/25/2023 | F1505785 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |
 | 8/24/2023 | F1538237 | ViCAP Database Tutorial | Passed | 0.0 | 2.00 |
 | 8/7/2023 | F1544027 | Policy Review for Code of Ethics | Passed | 0.0 | 1.00 |

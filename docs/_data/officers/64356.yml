@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '26.00'
+- date: 11/6/2023
+  course: PDP1707A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/5/2023
   course: PDP0359A
   title: Amended DOJ Settlement Agreement

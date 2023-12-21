@@ -87,18 +87,102 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 12/7/2023
+  course: F1522817
+  title: Building a Wellness Program
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/30/2023
+  course: F1502380
+  title: 'ADA Accomodations: Manager Roll'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 11/9/2023
+  course: F1505135
+  title: Bias Awareness for Interview Panel
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/26/2023
   course: HBS1720A
   title: Confronting Bias Through justice and Healing
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 10/18/2023
+  course: F1539839
+  title: Bystander Intervention in the WP
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 10/16/2023
+  course: F1541184
+  title: Retention and Destruction of PII
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/12/2023
+  course: F1519753
+  title: From Pixels to Prosecution
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/5/2023
+  course: F1531132
+  title: Perparing for an Interview Panel
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2023
+  course: F1500209
+  title: Recrtuiting Planning  Partnership
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 10/5/2023
+  course: F1544431
+  title: Veterans Preference
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 9/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 9/21/2023
+  course: F1501508
+  title: 'Trends in Extremism: Threats'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 9/14/2023
+  course: F1520283
+  title: Shifting Lanscape of Threat Assess.
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/14/2023
+  course: F1504697
+  title: Administering Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 9/11/2023
+  course: F1517178
+  title: Use of Force Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/31/2023
+  course: F1533746
+  title: Ascending to Leadership Roles
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 8/25/2023
   course: F1505785
   title: 'Incident Analysis: Fargo PD Ambush'
