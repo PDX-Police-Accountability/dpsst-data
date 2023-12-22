@@ -40,7 +40,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
 | 12/6/2023 | OCP0634A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
+| 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |
 | 11/9/2023 | OCP0839A | November 2023 Night Range | Passed | 0.0 | 1.50 |
 | 11/9/2023 | OCP0839A | November 2023 Night Range | Instructed | 0.0 | 4.50 |
 | 11/7/2023 | OCP1604A | November 2023 Night Range | Instructed | 0.0 | 4.00 |

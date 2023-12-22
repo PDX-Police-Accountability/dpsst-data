@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2023 | GSP1798A | 2023 Ethics In Service | Passed | 0.0 | 1.00 |
 | 11/29/2023 | GSP2670A | You Belong Part 1: City of Gresham: Equity | Passed | 0.0 | 3.00 |
 | 10/7/2023 | GSP02168 | 2022 NW Regional ICAC Conference | Passed | 0.0 | 40.00 |
 | 8/15/2023 | CVS1247A | Training with Steel Targets IDC | Passed | 0.0 | 16.00 |

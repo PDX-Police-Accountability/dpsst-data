@@ -55,6 +55,24 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 12/31/2023
+  course: OCP1409A
+  title: Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
+- date: 12/16/2023
+  course: OCP3671A
+  title: Active Threat  Hostage Rescue Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/27/2023
+  course: OCP3280A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/1/2023
   course: OCP3229A
   title: Human Trafficking

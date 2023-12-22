@@ -48,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/9/2023
+  course: PDP1717A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/9/2023
+  course: PDP0080A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/8/2023
   course: PDP1154A
   title: CPR/First Aid

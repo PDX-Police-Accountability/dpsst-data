@@ -48,6 +48,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2023
+  course: OCP1409A
+  title: Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '17.00'
+- date: 11/27/2023
+  course: OCP3280A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/9/2023
   course: OCP0839A
   title: November 2023 Night Range
@@ -102,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/18/2023
+  course: OCP0590A
+  title: Intoxilyzer 8000 Certification
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/23/2023
   course: OCP4203A
   title: Firearms/Use of Force

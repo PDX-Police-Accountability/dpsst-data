@@ -21,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/2/2023 | Police Officer | Supervisory | App Recd |  |  |  |
+| 12/20/2023 | Police Officer | Supervisory | App Incmpl |  | 2/20/2024 |  |
 | 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
 | 11/29/2010 | Police Officer | Intermediate | Granted | 11/29/2010 |  |  |
 | 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 |  |  |
@@ -41,7 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/11/2023 | FGP2154A | SEMI-ANNUAL FIREARMS TRAINING | Passed | 0.0 | 1.00 |
 | 11/27/2023 | FGP1761A | Annual Taser Refresher | Passed | 0.0 | 2.00 |
-| 10/23/2023 | REQSUPV | REQUIRED TRAINING:  Supervision | Completed | 0.0 | 0.00 |
+| 10/26/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/25/2023 | FGP1332A | Ethical Decision Making - ONLINE | Passed | 0.0 | 1.00 |
 | 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |

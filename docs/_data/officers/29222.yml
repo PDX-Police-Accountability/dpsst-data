@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2023
+  course: GSP1798A
+  title: 2023 Ethics In Service
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/29/2023
   course: GSP2670A
   title: 'You Belong Part 1: City of Gresham: Equity'

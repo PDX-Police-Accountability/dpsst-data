@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2023 | OSH0030A | Eithics Training | Passed | 0.0 | 1.00 |
+| 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |
 | 11/10/2023 | REG0793A | Sig Pistol Mounted Optics Instructor Course LE | Passed | 0.0 | 16.00 |
 | 11/6/2023 | OSH0517A | 3rd Trimester Firearms Low-Light | Instructed | 0.0 | 2.00 |
 | 10/27/2023 | OSH0274A | 3rd Trimester Firearms Low Light | Instructed | 0.0 | 4.00 |

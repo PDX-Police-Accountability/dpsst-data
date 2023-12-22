@@ -50,6 +50,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2023
+  course: PDS3838A
+  title: Anti-Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/15/2023
+  course: PDS2484A
+  title: Benchmark Analytics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2023
+  course: PDS3307A
+  title: Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2023
+  course: PDS4467A
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2023
+  course: PDS1699A
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/29/2023
   course: PDS3881A
   title: Body Scanner Training

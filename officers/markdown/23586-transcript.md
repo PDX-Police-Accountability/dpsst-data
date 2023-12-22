@@ -32,6 +32,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2023 | PDS3838A | Anti-Bias Training | Passed | 0.0 | 2.00 |
+| 12/15/2023 | PDS2484A | Benchmark Analytics | Passed | 0.0 | 0.50 |
+| 12/15/2023 | PDS3307A | Emotional Intelligence | Passed | 0.0 | 1.00 |
+| 12/15/2023 | PDS4467A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
+| 12/15/2023 | PDS1699A | OSHA | Passed | 0.0 | 1.00 |
 | 12/3/2023 | PDS2078A | Active Threat Response | Passed | 0.0 | 8.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/23/2023 | PDS2110A | Active Threat Range | Passed | 0.0 | 4.00 |

@@ -50,6 +50,7 @@
 | 11/9/2023 | MOS1826A | NORTAC Leadership | Passed | 0.0 | 0.50 |
 | 11/9/2023 | MOS0651A | Land Navigation and Map Reading | Passed | 0.0 | 2.00 |
 | 11/9/2023 | MOS0987A | Common Firearm Function and Disassembly | Passed | 0.0 | 1.50 |
+| 10/30/2023 | HRS2161A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 10/27/2023 | OSA0335A | OSSA Command College | Passed | 0.0 | 52.00 |
 | 10/21/2023 | HRS3388A | 3 Ways to Strength Mental Health Support | Passed | 0.0 | 1.00 |
 | 10/21/2023 | HRS3835A | What is DEI? | Passed | 0.0 | 1.00 |

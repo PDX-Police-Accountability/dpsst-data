@@ -42,12 +42,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/31/2023
+  course: OCP1409A
+  title: Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 12/1/2023
   course: OCS3271A
   title: New Hire Patrol Tactics
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 11/27/2023
+  course: OCP3280A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/9/2023
   course: OCP0839A
   title: November 2023 Night Range

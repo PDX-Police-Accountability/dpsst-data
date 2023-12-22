@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2023 | GSP1798A | 2023 Ethics In Service | Passed | 0.0 | 1.00 |
 | 11/29/2023 | GSP2670A | You Belong Part 1: City of Gresham: Equity | Passed | 0.0 | 3.00 |
 | 11/2/2023 | GSP3709A | Visual Observer (VO) Training | Passed | 0.0 | 0.50 |
 | 10/6/2023 | MNP3296A | Preparing for Promotion | Passed | 0.0 | 8.00 |

@@ -86,12 +86,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2023
+  course: OCS1219A
+  title: Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/15/2023
+  course: OCS2380A
+  title: November /December / 4th Qtr Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 12/12/2023
+  course: OCS3053A
+  title: Balance Speed/Marksmanship / Draw Concealment
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/9/2023
   course: OCS2769A
   title: Active Shooter Response
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 12/8/2023
+  course: OCS0077A
+  title: SWAT Sniper- Marksmanship / Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/6/2023
+  course: OCS4143A
+  title: Balancing speed/marksmanship, Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/1/2023
   course: OCS3271A
   title: New Hire Patrol Tactics

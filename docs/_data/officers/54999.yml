@@ -121,6 +121,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 10/30/2023
+  course: HRS2161A
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/27/2023
   course: OSA0335A
   title: OSSA Command College

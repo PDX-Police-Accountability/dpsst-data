@@ -28,6 +28,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |
+| 12/15/2023 | PDS4082A | Benchmark Analytics Refresher | Passed | 0.0 | 0.50 |
+| 12/15/2023 | PDS2881A | Emergency Management | Passed | 0.0 | 0.50 |
+| 12/15/2023 | PDS2323A | Emotional Intelligence | Passed | 0.0 | 2.00 |
+| 12/15/2023 | PDS2254A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
+| 12/15/2023 | PDS0839A | Missing-Endangered Persons | Passed | 0.0 | 0.50 |
+| 12/15/2023 | PDS3548A | OSHA | Passed | 0.0 | 1.00 |
 | 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
 | 10/18/2023 | PDS1870A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |

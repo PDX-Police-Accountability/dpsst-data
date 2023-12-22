@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
+| 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |
 | 11/9/2023 | OCP0839A | November 2023 Night Range | Passed | 0.0 | 1.50 |
 | 10/14/2023 | OCP1596A | PIT Training | Passed | 0.0 | 1.00 |
 | 9/30/2023 | OCP3504A | Threat of Harm Refresher | Passed | 0.0 | 0.50 |
@@ -44,6 +46,7 @@
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |
 | 5/23/2023 | LCP1173 | Interview  Interrogation | Passed | 0.0 | 24.00 |
+| 4/18/2023 | OCP0590A | Intoxilyzer 8000 Certification | Passed | 0.0 | 6.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/4/2023 | OCP00776 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/31/2023 | OCP4095A | Legislative Update | Passed | 0.0 | 0.50 |

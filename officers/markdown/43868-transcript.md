@@ -46,6 +46,9 @@
 | 10/25/2023 | PDP2793A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
 | 10/25/2023 | PDP1908A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 10/25/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 10/25/2023 | PDP3170A | 2023-2 All Sworn In-Service Firearms 1 | Passed | 0.0 | 2.50 |
+| 10/25/2023 | PDP1765A | 2023-2 All Sworn IS Patrol Proc. Ment. Health 1 | Passed | 0.0 | 1.00 |
+| 10/25/2023 | PDP1378A | 2023-2 All Sworn IS Patrol Proc. Ment. Health 2 | Passed | 0.0 | 1.50 |
 | 10/3/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/3/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |

@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
+| 12/16/2023 | OCP3671A | Active Threat  Hostage Rescue Training | Passed | 0.0 | 4.00 |
+| 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |
 | 9/29/2023 | OCP3059A | Taser Re-cert | Passed | 0.0 | 2.00 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |

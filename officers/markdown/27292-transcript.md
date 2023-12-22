@@ -48,6 +48,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/16/2023 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 12/16/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 12/15/2023 | PDS3838A | Anti-Bias Training | Passed | 0.0 | 2.00 |
+| 12/15/2023 | PDS2484A | Benchmark Analytics | Passed | 0.0 | 0.50 |
+| 12/15/2023 | PDS3307A | Emotional Intelligence | Passed | 0.0 | 1.00 |
+| 12/15/2023 | PDS4467A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
+| 12/15/2023 | PDS1699A | OSHA | Passed | 0.0 | 1.00 |
 | 11/14/2023 | PDS1566A | Active Threat Response | Passed | 0.0 | 8.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/19/2023 | PDS1693 | Active Threat Training | Passed | 0.0 | 4.00 |

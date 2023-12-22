@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | BNP3505A | Defensive tactics | Passed | 0.0 | 1.00 |
 | 11/14/2023 | BNP1325A | Officer Rescue / Medical | Passed | 0.0 | 1.00 |
 | 11/14/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |
 | 11/14/2023 | BNP2438A | Mental Health and Meditation | Passed | 0.0 | 1.00 |

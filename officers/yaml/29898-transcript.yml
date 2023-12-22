@@ -75,6 +75,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2023
+  course: PDS2453A
+  title: Anti-Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2023
+  course: PDS4082A
+  title: Benchmark Analytics Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2023
+  course: PDS2881A
+  title: Emergency Management
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2023
+  course: PDS2323A
+  title: Emotional Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/15/2023
+  course: PDS2254A
+  title: Ethics in Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/15/2023
+  course: PDS0839A
+  title: Missing-Endangered Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/15/2023
+  course: PDS3548A
+  title: OSHA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/6/2023
   course: PDS0855A
   title: Firearms Training

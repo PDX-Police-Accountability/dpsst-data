@@ -40,6 +40,8 @@
 | 5/25/2023 | REG0412A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 4/20/2023 | REG32421 | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 2/16/2023 | PDP1707A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
+| 2/16/2023 | PDP1717A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 2/16/2023 | PDP0080A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/13/2023 | PDP26388 | FTEP Policy  Procedure Training - Wellness Intro | Passed | 0.0 | 1.50 |
 | 2/13/2023 | PDP36184 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 2/9/2023 | PDP06735 | Pre Dpsst Academy Firearms Training | Passed | 0.0 | 7.00 |

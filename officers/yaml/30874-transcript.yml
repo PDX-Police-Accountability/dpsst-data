@@ -46,12 +46,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 11/2/2023
+- status_date: 12/20/2023
   certificate: Police Officer
   level: Supervisory
-  status: App Recd
+  status: App Incmpl
   certificate_date: ''
-  expiration_date: ''
+  expiration_date: 2/20/2024
   probation_date: ''
 - status_date: 11/29/2010
   certificate: Police Officer
@@ -87,9 +87,9 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
-- date: 10/23/2023
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
+- date: 10/26/2023
+  course: 23-0030
+  title: DPSST Supervision F21 Equivalency
   status: Completed
   score: '0.0'
   hours: '0.00'
