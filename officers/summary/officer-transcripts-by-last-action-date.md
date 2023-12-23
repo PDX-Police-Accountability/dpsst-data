@@ -936,7 +936,6 @@
 | Fenske, McKay H. | 59776 | Portland Police Bureau | Active | Police Officer | Hired | 2019-04-18 | [md](../markdown/59776-transcript.md) - [yaml](../yaml/59776-transcript.yml) |
 | Stimmel, Matthew D. | 29990 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2019-04-19 | [md](../markdown/29990-transcript.md) - [yaml](../yaml/29990-transcript.yml) |
 | Ferner, James A. | 24817 | Portland Police Bureau | Inactive | Police Officer | Retired | 2019-04-24 | [md](../markdown/24817-transcript.md) - [yaml](../yaml/24817-transcript.yml) |
-| Day, Robert H. | 23474 | Portland Police Bureau | Inactive | Deputy Chief | Retired | 2019-05-02 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Jones, Steven J. | 23649 | Portland Police Bureau | Inactive | Commander | Resigned | 2019-05-03 | [md](../markdown/23649-transcript.md) - [yaml](../yaml/23649-transcript.yml) |
 | Hobson, Suzanne M. | 28650 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2019-05-10 | [md](../markdown/28650-transcript.md) - [yaml](../yaml/28650-transcript.yml) |
 | Yoshimura, Randal S. | 24583 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2019-05-15 | [md](../markdown/24583-transcript.md) - [yaml](../yaml/24583-transcript.yml) |
@@ -1658,6 +1657,7 @@
 | Mason, Ronald L. | 25247 | Portland Police Bureau | Active | Lieutenant | Return LOA | 2023-09-27 | [md](../markdown/25247-transcript.md) - [yaml](../yaml/25247-transcript.yml) |
 | Harvey, Richard | 27543 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-09-30 | [md](../markdown/27543-transcript.md) - [yaml](../yaml/27543-transcript.yml) |
 | Bianca, Shanley M. | 57552 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-05 | [md](../markdown/57552-transcript.md) - [yaml](../yaml/57552-transcript.yml) |
+| Day, Robert H. | 23474 | Portland Police Bureau | Active | Chief | Hired | 2023-10-11 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Kowall, Curtis D. | 54459 | Portland Police Bureau | Active | Police Officer | Hired | 2023-10-12 | [md](../markdown/54459-transcript.md) - [yaml](../yaml/54459-transcript.yml) |
 | DeHart, David L. | 60118 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-12 | [md](../markdown/60118-transcript.md) - [yaml](../yaml/60118-transcript.yml) |
 | Harlan, Justin T. | 62974 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-12 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |

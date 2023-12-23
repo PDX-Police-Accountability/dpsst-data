@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2023 | HBN2405A | DEI - Eradicate Hate Global Summit | Passed | 0.0 | 2.50 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/16/2023 | HBN3768A | Search and Seizure Training | Passed | 0.0 | 8.00 |
 | 10/26/2023 | STN1543A | DV Week Day 4 | Passed | 0.0 | 6.50 |

@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '17.00'
+- date: 12/21/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/16/2023
   course: OCP3671A
   title: Active Threat  Hostage Rescue Training
@@ -3226,13 +3232,17 @@ training_records:
   hours: '21.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/31/2022

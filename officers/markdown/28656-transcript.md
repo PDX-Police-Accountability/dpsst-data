@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2023 | TGP4309A | Ethics for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/23/2023 | TGP0976A | Lexipol Daily Training Bulletins (Equity) | Passed | 0.0 | 0.25 |
 | 10/23/2023 | TGP3624A | Lexipol Daily Training Bulletins (UF-Firearms) | Passed | 0.0 | 1.00 |
 | 10/23/2023 | TGP2303A | Lexipol Daily Training Bulletins (General) | Passed | 0.0 | 4.00 |

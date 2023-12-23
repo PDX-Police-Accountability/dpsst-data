@@ -24,8 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/4/2023 | 2/4/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 5/23/2020 |  |
 | Code of Ethics | Law Enforcement Signed | 7/15/2019 |  |
@@ -36,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
+| 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |
 | 11/9/2023 | OCP0839A | November 2023 Night Range | Passed | 0.0 | 1.50 |
 | 10/14/2023 | OCP1596A | PIT Training | Passed | 0.0 | 1.00 |

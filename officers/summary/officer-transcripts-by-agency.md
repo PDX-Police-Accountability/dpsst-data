@@ -179,7 +179,7 @@
 | Michaelson, David K. | 23060 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2023-06-28 | [md](../markdown/23060-transcript.md) - [yaml](../yaml/23060-transcript.yml) |
 | Warren, Kevin D. | 23188 | Portland Police Bureau | Inactive | Sergeant | Retired | 2019-03-28 | [md](../markdown/23188-transcript.md) - [yaml](../yaml/23188-transcript.yml) |
 | Alderman, Wayne D. | 23331 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-31 | [md](../markdown/23331-transcript.md) - [yaml](../yaml/23331-transcript.yml) |
-| Day, Robert H. | 23474 | Portland Police Bureau | Inactive | Deputy Chief | Retired | 2019-05-02 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
+| Day, Robert H. | 23474 | Portland Police Bureau | Active | Chief | Hired | 2023-10-11 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Hanna, Patricia M. | 23565 | Portland Police Bureau | Active | Civilian Employee | Hired | 1990-02-12 | [md](../markdown/23565-transcript.md) - [yaml](../yaml/23565-transcript.yml) |
 | Trump, Robert D. | 23580 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1992-12-23 | [md](../markdown/23580-transcript.md) - [yaml](../yaml/23580-transcript.yml) |
 | Thorsen, Erick M. | 23581 | Portland Police Bureau | Active | Police Officer | Hired | 1993-09-09 | [md](../markdown/23581-transcript.md) - [yaml](../yaml/23581-transcript.yml) |

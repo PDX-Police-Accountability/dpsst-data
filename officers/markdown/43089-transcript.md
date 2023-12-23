@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/13/2023 | LGS3964A | Instructor Development leadership/planning | Instructed | 0.0 | 1.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2023 | LGS4346A | Anti-Bias Training for LE (P1 Academy, #CULT104) | Passed | 0.0 | 2.00 |
 | 10/31/2023 | LGS0652A | Ethics In Law Enforcement (P1 Academy #ETHIC101) | Passed | 0.0 | 1.00 |

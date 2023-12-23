@@ -49,6 +49,7 @@
 | 12/11/2023 | PDP1865A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 12/11/2023 | PDP2274A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 12/11/2023 | PDP3394A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
+| 11/30/2023 | PDP1400A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 11/2/2023 | PDP1636A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/19/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

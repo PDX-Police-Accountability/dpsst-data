@@ -237,6 +237,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 9/7/2023
+  course: PDP1211A
+  title: Workplace Assessment of Violence Risk Workshop
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 8/22/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management

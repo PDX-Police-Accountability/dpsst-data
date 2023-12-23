@@ -1412,6 +1412,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/8/2021
+  course: PDP0232A
+  title: 2022 Training All Sworn IS PP - MH Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/2/2021
   course: PDP36011
   title: 2021-3 Range Qualification 40mm Less Lethal
@@ -1937,6 +1943,12 @@ training_records:
 - date: 1/20/2021
   course: PDP13891
   title: 2021 TECC Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/5/2021
+  course: PDP0068A
+  title: 2021 Trng Sworn IS PP Scenario Person In Crisis
   status: Passed
   score: '0.0'
   hours: '0.75'

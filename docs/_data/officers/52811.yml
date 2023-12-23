@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 12/19/2023
+  course: PDS0729A
+  title: Active Threat Response
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/15/2023
   course: PDS2453A
   title: Anti-Bias Training
@@ -2350,6 +2362,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 9/30/2023
@@ -2361,7 +2377,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 12/6/2021

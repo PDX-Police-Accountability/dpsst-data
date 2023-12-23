@@ -68,6 +68,7 @@
 | 9/14/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 9/14/2023 | PDP3765A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 9/13/2023 | PDP2772A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 9/7/2023 | PDP1211A | Workplace Assessment of Violence Risk Workshop | Passed | 0.0 | 11.00 |
 | 8/30/2023 | PDP4377A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 8/24/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 8/24/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |

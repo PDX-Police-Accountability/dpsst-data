@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2023
+  course: TGP4309A
+  title: Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/23/2023
   course: TGP0976A
   title: Lexipol Daily Training Bulletins (Equity)

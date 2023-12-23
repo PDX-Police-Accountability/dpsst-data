@@ -95,6 +95,7 @@
 | Jensen, Jacob V. | 43494 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/43494-transcript.md) - [yaml](../yaml/43494-transcript.yml) |
 | Clark, Jacob R. | 43501 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/43501-transcript.md) - [yaml](../yaml/43501-transcript.yml) |
 | Reese, Michael W. | 23000 | Portland Police Bureau | Inactive | Chief | Retired | 2015-01-02 | [md](../markdown/23000-transcript.md) - [yaml](../yaml/23000-transcript.yml) |
+| Day, Robert H. | 23474 | Portland Police Bureau | Active | Chief | Hired | 2023-10-11 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Marshman, Michael W. | 25056 | Portland Police Bureau | Inactive | Chief | Retired | 2017-08-25 | [md](../markdown/25056-transcript.md) - [yaml](../yaml/25056-transcript.yml) |
 | Lovell, Charles, III | 41706 | Portland Police Bureau | Active | Chief | Promotion | 2020-06-11 | [md](../markdown/41706-transcript.md) - [yaml](../yaml/41706-transcript.yml) |
 | Outlaw, Danielle M. | 58095 | Portland Police Bureau | Inactive | Chief | Resigned | 2019-12-31 | [md](../markdown/58095-transcript.md) - [yaml](../yaml/58095-transcript.yml) |
@@ -300,7 +301,6 @@
 | Stoffel, Thomas B., Jr. | 51020 | Portland Police Bureau | Active | Criminalist | Promotion | 2020-09-15 | [md](../markdown/51020-transcript.md) - [yaml](../yaml/51020-transcript.yml) |
 | Miller, Jeremiah D. | 56974 | Portland Police Bureau | Active | Criminalist | Promotion | 2023-05-11 | [md](../markdown/56974-transcript.md) - [yaml](../yaml/56974-transcript.yml) |
 | Frome, Michael A. | 22827 | Portland Police Bureau | Active | Deputy Chief | Promotion | 2021-09-02 | [md](../markdown/22827-transcript.md) - [yaml](../yaml/22827-transcript.yml) |
-| Day, Robert H. | 23474 | Portland Police Bureau | Inactive | Deputy Chief | Retired | 2019-05-02 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Davis, Christopher A. | 36611 | Portland Police Bureau | Inactive | Deputy Chief | Resigned | 2021-09-02 | [md](../markdown/36611-transcript.md) - [yaml](../yaml/36611-transcript.yml) |
 | Trimpler, Harry J. | 13622 | Portland Police Bureau | Inactive | Detective | Retired | 2012-10-24 | [md](../markdown/13622-transcript.md) - [yaml](../yaml/13622-transcript.yml) |
 | Pitton, Scott F. | 14158 | Portland Police Bureau | Inactive | Detective | Retired | 2010-06-06 | [md](../markdown/14158-transcript.md) - [yaml](../yaml/14158-transcript.yml) |

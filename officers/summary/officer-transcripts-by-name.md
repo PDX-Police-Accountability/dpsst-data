@@ -394,7 +394,7 @@
 | Daul, Molly M. | 28647 | Portland Police Bureau | Inactive | Detective | Retired | 2021-08-23 | [md](../markdown/28647-transcript.md) - [yaml](../yaml/28647-transcript.yml) |
 | Davidson, Benjamin J. | 38108 | Portland Police Bureau | Active | Police Officer | Hired | 2003-06-26 | [md](../markdown/38108-transcript.md) - [yaml](../yaml/38108-transcript.yml) |
 | Davis, Christopher A. | 36611 | Portland Police Bureau | Inactive | Deputy Chief | Resigned | 2021-09-02 | [md](../markdown/36611-transcript.md) - [yaml](../yaml/36611-transcript.yml) |
-| Day, Robert H. | 23474 | Portland Police Bureau | Inactive | Deputy Chief | Retired | 2019-05-02 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
+| Day, Robert H. | 23474 | Portland Police Bureau | Active | Chief | Hired | 2023-10-11 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | DeAnda, James A. | 57476 | Portland Police Bureau | Active | Police Officer | Hired | 2017-07-09 | [md](../markdown/57476-transcript.md) - [yaml](../yaml/57476-transcript.yml) |
 | DeClercque, Bryan J. | 37939 | Portland Police Bureau | Inactive | Detective | Resigned | 2022-07-29 | [md](../markdown/37939-transcript.md) - [yaml](../yaml/37939-transcript.yml) |
 | DeFrain, James P. | 44436 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-05-04 | [md](../markdown/44436-transcript.md) - [yaml](../yaml/44436-transcript.yml) |

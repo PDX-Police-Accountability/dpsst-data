@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2023 | PDP2395A | Defense Technology Monadnock PR-24 Instructor | Passed | 0.0 | 16.00 |
 | 11/20/2023 | PDP4111A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 11/20/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/20/2023 | PDP3565A | DIR 0311.50 Investigative Use of Social Media | Passed | 0.0 | 0.50 |

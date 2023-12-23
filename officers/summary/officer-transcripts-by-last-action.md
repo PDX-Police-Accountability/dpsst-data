@@ -88,6 +88,7 @@
 | Veldink, Ralph D. | 22058 | Portland Police Bureau | Active | Civilian Employee | Hired | 1988-10-03 | [md](../markdown/22058-transcript.md) - [yaml](../yaml/22058-transcript.yml) |
 | Wong, Johnny F. | 22235 | Portland Police Bureau | Active | Civilian Employee | Hired | 1988-12-08 | [md](../markdown/22235-transcript.md) - [yaml](../yaml/22235-transcript.yml) |
 | Wormdahl, Christopher D. | 22864 | Portland Police Bureau | Active | Civilian Employee | Hired | 1992-08-20 | [md](../markdown/22864-transcript.md) - [yaml](../yaml/22864-transcript.yml) |
+| Day, Robert H. | 23474 | Portland Police Bureau | Active | Chief | Hired | 2023-10-11 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Hanna, Patricia M. | 23565 | Portland Police Bureau | Active | Civilian Employee | Hired | 1990-02-12 | [md](../markdown/23565-transcript.md) - [yaml](../yaml/23565-transcript.yml) |
 | Thorsen, Erick M. | 23581 | Portland Police Bureau | Active | Police Officer | Hired | 1993-09-09 | [md](../markdown/23581-transcript.md) - [yaml](../yaml/23581-transcript.yml) |
 | Rae, Marilyn | 23777 | Portland Police Bureau | Active | Civilian Employee | Hired | 1990-04-17 | [md](../markdown/23777-transcript.md) - [yaml](../yaml/23777-transcript.yml) |
@@ -1399,7 +1400,6 @@
 | Michaelson, David K. | 23060 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2023-06-28 | [md](../markdown/23060-transcript.md) - [yaml](../yaml/23060-transcript.yml) |
 | Warren, Kevin D. | 23188 | Portland Police Bureau | Inactive | Sergeant | Retired | 2019-03-28 | [md](../markdown/23188-transcript.md) - [yaml](../yaml/23188-transcript.yml) |
 | Alderman, Wayne D. | 23331 | Portland Police Bureau | Inactive | Police Officer | Retired | 2021-01-31 | [md](../markdown/23331-transcript.md) - [yaml](../yaml/23331-transcript.yml) |
-| Day, Robert H. | 23474 | Portland Police Bureau | Inactive | Deputy Chief | Retired | 2019-05-02 | [md](../markdown/23474-transcript.md) - [yaml](../yaml/23474-transcript.yml) |
 | Ellertson, Jan M. | 23680 | Portland Police Bureau | Inactive | Sergeant | Retired | 2015-05-14 | [md](../markdown/23680-transcript.md) - [yaml](../yaml/23680-transcript.yml) |
 | Livingston, Brett G. | 23705 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-10 | [md](../markdown/23705-transcript.md) - [yaml](../yaml/23705-transcript.yml) |
 | Park, Todd L. | 23768 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2017-11-30 | [md](../markdown/23768-transcript.md) - [yaml](../yaml/23768-transcript.yml) |

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/17/2023 | Clackamas County Sheriff's Office | Retired | Dpty Shrf |  |  |
 | 9/13/2016 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 9/12/2016 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/18/2002 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -22,9 +23,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/19/2001 | Police Officer | Advanced | Granted | 10/19/2001 |  |  |
-| 10/19/2001 | Police Officer | Intermediate | Granted | 10/19/2001 |  |  |
-| 2/7/1995 | Police Officer | Basic | Granted | 2/7/1995 |  |  |
+| 10/19/2001 | Police Officer | Advanced | Granted | 10/19/2001 | 3/17/2024 |  |
+| 10/19/2001 | Police Officer | Intermediate | Granted | 10/19/2001 | 3/17/2024 |  |
+| 2/7/1995 | Police Officer | Basic | Granted | 2/7/1995 | 3/17/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/30/2023
+  course: PDP1400A
+  title: 2023 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/16/2023
   course: PDP0996A
   title: 2023 SERT Training - SCENARIO

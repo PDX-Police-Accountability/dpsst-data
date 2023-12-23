@@ -3,12 +3,18 @@ header_record:
   name: Day, Robert H.
   dpsst_identifier: '23474'
   agency: Portland Police Bureau
-  employment_status: Inactive
-  rank: Deputy Chief
+  employment_status: Active
+  rank: Chief
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 10/11/2023
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Chief
+  classification: ''
+  assignment: ''
 - date: 5/2/2019
   agency: Portland Police Bureau
   action: Retired
@@ -82,6 +88,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 10/11/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 4/11/2025
+- status_date: 10/11/2023
+  certificate: Police Officer
+  level: Management
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 10/11/2025
 - status_date: 1/27/2020
   certificate: Instructor
   level: ''
@@ -132,6 +152,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2025
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
+- date: 2/26/2024
+  course: 24-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Registered
+  score: '0.0'
+  hours: '0.00'
 - date: 11/1/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

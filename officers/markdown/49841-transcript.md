@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/7/2023 | PDP4131A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 11/30/2023 | PDP1400A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 11/16/2023 | PDP0996A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 11/14/2023 | PDP3507A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 11/14/2023 | PDP2477A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

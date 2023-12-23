@@ -41,6 +41,7 @@
 | 12/15/2023 | PDS3307A | Emotional Intelligence | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS4467A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS1699A | OSHA | Passed | 0.0 | 1.00 |
+| 12/14/2023 | PDS2631A | Active Threat | Passed | 0.0 | 8.00 |
 | 11/29/2023 | PDS3881A | Body Scanner Training | Passed | 0.0 | 8.00 |
 | 11/29/2023 | PDS2268A | Body Scanner Training | Passed | 0.0 | 8.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |

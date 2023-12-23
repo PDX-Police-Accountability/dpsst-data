@@ -4,14 +4,15 @@
 | name | Day, Robert H. |
 | dpsst_identifier | 23474 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
-| rank | Deputy Chief |
+| employment_status | Active |
+| rank | Chief |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 10/11/2023 | Portland Police Bureau | Hired | Chief |  |  |
 | 5/2/2019 | Portland Police Bureau | Retired | Dpty Chief |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Dpty Chief |  |  |
 | 3/9/2018 | DPSST Use Only | InstrApp |  |  | AcadTrng |
@@ -27,6 +28,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 10/11/2023 | Police Officer | Basic | Required |  |  | 4/11/2025 |
+| 10/11/2023 | Police Officer | Management | Required |  |  | 10/11/2025 |
 | 1/27/2020 | Instructor |  | Granted | 1/27/2020 |  |  |
 | 8/2/2019 | Police Officer | Advanced | Lapsed | 3/15/2000 |  |  |
 | 8/2/2019 | Police Officer | Basic | Lapsed | 1/29/1991 |  |  |
@@ -46,6 +49,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/26/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 11/1/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |
 | 11/1/2023 | PDP1952A | 2023 Command Staff In-Service Training Leadership | Passed | 0.0 | 4.00 |
 | 10/31/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |

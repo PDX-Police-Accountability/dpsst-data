@@ -80,12 +80,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/21/2023
+  course: F1521158
+  title: Policy Review for Code of Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/12/2023
   course: PDS3692
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 4/20/2023
+  course: F1538928
+  title: Ethics in Public Service
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/11/2023
   course: PDP33827
   title: 2022-12 CAO Case Law Updates for 12/2022

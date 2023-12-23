@@ -37,7 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | 24-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
-| 12/5/2023 | TDP3311A | Supervisor liability for Law Enforcement |  | 0.0 | 8.00 |
+| 12/5/2023 | TDP3311A | Supervisor liability for Law Enforcement | Passed | 0.0 | 8.00 |
 | 11/19/2023 | TDP1969A | Pistol Mounted Optics | Passed | 0.0 | 4.00 |
 | 9/28/2023 | F6R1353A | Police Resiliency  Critical Incident Mindset | Passed | 0.0 | 3.00 |
 | 9/28/2023 | F6R1760A | ICAT | Passed | 0.0 | 2.00 |

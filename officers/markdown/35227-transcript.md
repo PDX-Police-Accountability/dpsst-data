@@ -40,7 +40,9 @@
 | 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 12/12/2023 | PDA0372A | Securus Investigation Training | Passed | 0.0 | 3.00 |
 | 8/25/2023 | F1514378 | Incident Analysis: Fargo PD Ambush | Passed | 0.0 | 1.00 |
+| 8/21/2023 | F1521158 | Policy Review for Code of Ethics | Passed | 0.0 | 1.00 |
 | 5/12/2023 | PDS3692 | CPR/First Aid | Passed | 0.0 | 2.50 |
+| 4/20/2023 | F1538928 | Ethics in Public Service | Passed | 0.0 | 1.00 |
 | 3/11/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 2/28/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/26/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

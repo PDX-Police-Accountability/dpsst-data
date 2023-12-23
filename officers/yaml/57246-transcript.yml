@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/14/2023
+  course: HBN2405A
+  title: DEI - Eradicate Hate Global Summit
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

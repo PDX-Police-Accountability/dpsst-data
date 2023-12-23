@@ -27,8 +27,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/31/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
@@ -41,6 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
+| 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/6/2023 | OCP0634A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |
 | 11/9/2023 | OCP0839A | November 2023 Night Range | Passed | 0.0 | 1.50 |

@@ -263,6 +263,7 @@
 | 12/8/2021 | PDP15870 | 2022 In-Service Patrol Proc. Mental Hlth Scenarios | Passed | 0.0 | 0.50 |
 | 12/8/2021 | PDP38760 | 2022 In-Service Patrol Procedures - Principles | Passed | 0.0 | 1.50 |
 | 12/8/2021 | PDP12187 | 2022 In-Service Patrol Procedures - Scenarios | Passed | 0.0 | 1.50 |
+| 12/8/2021 | PDP0232A | 2022 Training All Sworn IS PP - MH Scenarios | Passed | 0.0 | 0.50 |
 | 12/2/2021 | PDP36011 | 2021-3 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 12/2/2021 | PDP19371 | 2021-3 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 12/2/2021 | PDP11856 | 2021-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -351,6 +352,7 @@
 | 1/20/2021 | PDP05106 | 2021 Legal Bulletin Effects Measure 110 on Invstgn | Passed | 0.0 | 0.50 |
 | 1/20/2021 | PDP17893 | 2021 Measure 110 Bullet Points | Passed | 0.0 | 0.25 |
 | 1/20/2021 | PDP13891 | 2021 TECC Refresher | Passed | 0.0 | 0.75 |
+| 1/5/2021 | PDP0068A | 2021 Trng Sworn IS PP Scenario Person In Crisis | Passed | 0.0 | 0.75 |
 | 1/4/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 1/4/2021 | PDP10276 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |
 | 1/4/2021 | PDP25688 | 2021-3 Tips  Tech Ballot Measure 110 Summary | Passed | 0.0 | 0.25 |

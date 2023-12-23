@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/17/2023
+  agency: Clackamas County Sheriff's Office
+  action: Retired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 9/13/2016
   agency: Clackamas County Sheriff's Office
   action: Hired
@@ -57,21 +63,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/19/2001
-  expiration_date: ''
+  expiration_date: 3/17/2024
   probation_date: ''
 - status_date: 10/19/2001
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/19/2001
-  expiration_date: ''
+  expiration_date: 3/17/2024
   probation_date: ''
 - status_date: 2/7/1995
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/7/1995
-  expiration_date: ''
+  expiration_date: 3/17/2024
   probation_date: ''
 training_records:
 - date: 11/28/2023
