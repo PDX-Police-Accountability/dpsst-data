@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2023 | BVP3773A | Winter Law Enforcement SRO Training | Passed | 0.0 | 8.00 |
 | 12/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2023 | TGP3736A | Ethics for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/23/2023 | TGP2303A | Lexipol Daily Training Bulletins (General) | Passed | 0.0 | 3.00 |

@@ -42,6 +42,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 12/22/2023 | PDP1516A | Creating Safe Scenes - SAMHSA | Passed | 0.0 | 1.50 |
+| 12/22/2023 | PDP2156A | Exploring Anxiety Disorders for First Responders | Passed | 0.0 | 0.50 |
+| 12/22/2023 | PDP0869A | Helping The First Responder Understand Depression | Passed | 0.0 | 0.50 |
+| 12/22/2023 | PDP0590A | Helping The First Responder Understand Depression | Passed | 0.0 | 0.50 |
+| 12/22/2023 | PDP1984A | Shield of Resilience - SAMHSA | Passed | 0.0 | 1.00 |
 | 11/21/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/21/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/15/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |

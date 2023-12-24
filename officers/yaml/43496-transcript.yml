@@ -93,6 +93,36 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/22/2023
+  course: PDP1516A
+  title: Creating Safe Scenes - SAMHSA
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/22/2023
+  course: PDP2156A
+  title: Exploring Anxiety Disorders for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2023
+  course: PDP0869A
+  title: Helping The First Responder Understand Depression
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2023
+  course: PDP0590A
+  title: Helping The First Responder Understand Depression
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/22/2023
+  course: PDP1984A
+  title: Shield of Resilience - SAMHSA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/21/2023
   course: PDP3224A
   title: 2023-3 Range Qualification CEW

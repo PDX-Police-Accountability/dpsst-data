@@ -50,6 +50,7 @@
 | 6/10/2023 | BVP2491A | Team Takedowns  Ground Control | Passed | 0.0 | 2.00 |
 | 6/10/2023 | BVP3626A | Less Lethal Refresher | Passed | 0.0 | 1.50 |
 | 6/10/2023 | BVP2684A | Team Takedowns  Ground Control | Passed | 0.0 | 1.50 |
+| 6/10/2023 | BVP2447A | Conflict Simulation June IST | Passed | 0.0 | 2.00 |
 | 6/3/2023 | BVP1383A | EVOC | Passed | 0.0 | 4.50 |
 | 6/3/2023 | BVP2611A | Fireams Qualification June 2023 | Passed | 0.0 | 3.00 |
 | 4/27/2023 | BVP2832 | Karly's Law | Passed | 0.0 | 0.50 |

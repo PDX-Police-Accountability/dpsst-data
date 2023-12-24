@@ -45,6 +45,8 @@
 | 6/14/2023 | HUP1470 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/10/2023 | HUP0650A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
+| 4/23/2023 | SAG0054A | National Fusion Center Conference | Passed | 0.0 | 16.25 |
+| 4/23/2023 | SAG3789A | National Fusion Center Directors Day | Passed | 0.0 | 7.00 |
 | 4/12/2023 | HUP41232 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 3/8/2023 | HUP24750 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 2/8/2023 | HUP34986 | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |

@@ -111,6 +111,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/23/2023
+  course: SAG0054A
+  title: National Fusion Center Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.25'
+- date: 4/23/2023
+  course: SAG3789A
+  title: National Fusion Center Directors Day
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/12/2023
   course: HUP41232
   title: Marion County Leadership Monthly Meeting

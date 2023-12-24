@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/4/2023
+  agency: Multnomah County District Attorney
+  action: Hired
+  rank: Investigtr
+  classification: ''
+  assignment: ''
 - date: 12/3/2023
   agency: Multnomah County Sheriff's Office
   action: Resigned
@@ -45,28 +51,28 @@ certification_records:
   level: Advanced
   status: Reactivatd
   certificate_date: 1/10/2008
-  expiration_date: 3/3/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/7/2023
   certificate: Police Officer
   level: Basic
   status: Reactivatd
   certificate_date: 12/28/1994
-  expiration_date: 3/3/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/7/2023
   certificate: Police Officer
   level: Intermediate
   status: Reactivatd
   certificate_date: 1/10/2008
-  expiration_date: 3/3/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 9/7/2023
   certificate: Police Officer
   level: Supervisory
   status: Reactivatd
   certificate_date: 2/6/2008
-  expiration_date: 3/3/2024
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/15/2023

@@ -88,6 +88,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/13/2023
+  course: PDP2672A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/13/2023
+  course: PDP1295A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/20/2023
   course: PDP3224A
   title: 2023-3 Range Qualification CEW

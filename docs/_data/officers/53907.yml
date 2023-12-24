@@ -55,6 +55,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/13/2023
+  course: PDP2672A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 12/13/2023
+  course: PDP1295A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/31/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals

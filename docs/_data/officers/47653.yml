@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2023
+  course: PDP0217A
+  title: Defense Technology Monadnock PR-24 Instructor
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/28/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

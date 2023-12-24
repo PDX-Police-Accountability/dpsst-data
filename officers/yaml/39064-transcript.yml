@@ -62,12 +62,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/21/2023
+  course: TDP2243A
+  title: Harassment in the work place
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/5/2023
   course: TDP3311A
   title: Supervisor liability for Law Enforcement
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/1/2023
+  course: TDP1153A
+  title: Tactical Medic practical application
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/19/2023
   course: TDP1969A
   title: Pistol Mounted Optics

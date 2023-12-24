@@ -158,6 +158,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 10/11/2024
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
+- date: 10/11/2024
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 2/26/2024
   course: 24-0004
   title: DPSST Basic Police COD Self-Study

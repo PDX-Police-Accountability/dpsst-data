@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2023 | NGP1809A | SFST Refresher with Wet Lab | Passed | 0.0 | 6.00 |
 | 12/9/2023 | HRS2161A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 11/2/2023 | HRS0118A | Intro to Active Shooter Response | Passed | 0.0 | 3.00 |
 | 10/31/2023 | HRS3068A | Dispatch Radio Operations | Passed | 0.0 | 2.00 |

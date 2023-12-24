@@ -114,6 +114,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 6/10/2023
+  course: BVP2447A
+  title: Conflict Simulation June IST
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/3/2023
   course: BVP1383A
   title: EVOC
