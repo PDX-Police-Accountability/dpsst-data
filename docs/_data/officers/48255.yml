@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/13/2023
+  course: PDP3177A
+  title: 2023 Training Return to Work Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 12/12/2023
   course: PDP4526A
   title: 2023-2 All Sworn In-Service ABLE Scenario

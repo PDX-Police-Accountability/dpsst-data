@@ -36,6 +36,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | MNS3732A | Basic Death Investigations | Passed | 0.0 | 2.00 |
+| 12/12/2023 | MNS3104A | Basic Child Abuse Investigations | Passed | 0.0 | 1.00 |
+| 12/12/2023 | MNS3259A | Physical Wellness | Passed | 0.0 | 0.50 |
+| 12/12/2023 | MNS4434A | Ethics | Passed | 0.0 | 1.00 |
 | 10/17/2023 | MNS3991A | Legal Update | Passed | 0.0 | 0.50 |
 | 10/2/2023 | MNS1256A | Firearms Qualification | Passed | 0.0 | 2.00 |
 | 8/30/2023 | MNS0835A | Heat Illness Prevention (Heat Stress) | Passed | 0.0 | 0.50 |

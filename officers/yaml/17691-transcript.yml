@@ -61,6 +61,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: MNS3732A
+  title: Basic Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/12/2023
+  course: MNS3104A
+  title: Basic Child Abuse Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2023
+  course: MNS3259A
+  title: Physical Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/12/2023
+  course: MNS4434A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/17/2023
   course: MNS3991A
   title: Legal Update

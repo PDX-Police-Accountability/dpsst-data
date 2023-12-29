@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2023
+  course: PDP2977A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/19/2023
   course: PDP4443A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -116,6 +122,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 12/13/2023
+  course: PDP4319A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/6/2023
+  course: PDP1047A
+  title: 2023 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/22/2023
   course: PDP3214A
   title: 2023 MEDU Weekly Training

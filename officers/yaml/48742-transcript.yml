@@ -63,6 +63,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/6/2023
+  course: PDP3510A
+  title: 2023 EAP Wellness
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/28/2023
   course: PDP3507A
   title: 2023-2 All Sworn In-Service BWC Policy

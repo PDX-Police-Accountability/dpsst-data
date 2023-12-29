@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/23/2023
+  course: HBS3071A
+  title: Bias Based Policing
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/7/2023
   course: OSA3159A
   title: Challenging Law Dr Jack Enter, 12-7-23

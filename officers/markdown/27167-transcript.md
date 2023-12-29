@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2023 | PDP3685A | 2023 Training PVO Refresher Training | Passed | 0.0 | 4.00 |
 | 10/24/2023 | REG4146A | Handgun IDC | Passed | 0.0 | 24.00 |
 | 9/11/2023 | BPT3012A | Equitable Policing | Passed | 0.0 | 2.00 |
 | 9/11/2023 | BPT2625A | Coaching and Feedback | Passed | 0.0 | 6.00 |

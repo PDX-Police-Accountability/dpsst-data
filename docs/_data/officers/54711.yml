@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/5/2023
+  course: PDP4146A
+  title: 2023 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 10/27/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/8/2023 | PDP3685A | 2023 Training PVO Refresher Training | Passed | 0.0 | 4.00 |
 | 10/21/2023 | HSU2948A | EVOC | Instructed | 0.0 | 6.00 |
 | 10/20/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |
 | 10/20/2023 | HSU1326A | Axon Systems | Passed | 0.0 | 3.00 |

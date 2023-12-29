@@ -38,6 +38,8 @@
 | 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/11/2023 | OSH0030A | Eithics Training | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |
+| 12/1/2023 | CAP4422A | AYC- Women's Seminar | Passed | 0.0 | 8.00 |
+| 11/30/2023 | CAP3231A | Building Your Leadership Toolbox | Passed | 0.0 | 8.00 |
 | 11/9/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/20/2023 | OSH0936A | Sergeant Academy | Passed | 0.0 | 2.00 |
 | 10/20/2023 | OSH1578A | Sergeant Academy | Passed | 0.0 | 1.00 |

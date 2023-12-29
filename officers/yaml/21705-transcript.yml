@@ -92,6 +92,12 @@ certification_records:
   expiration_date: 8/3/2026
   probation_date: ''
 training_records:
+- date: 12/6/2023
+  course: PDP3510A
+  title: 2023 EAP Wellness
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 8/31/2023
   course: PDP0895A
   title: EAP Assisting Individuals in Crisis CISM Trng

@@ -40,12 +40,12 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/20/2023
+- status_date: 12/27/2023
   certificate: Police Officer
   level: Intermediate
-  status: App Incmpl
-  certificate_date: ''
-  expiration_date: 2/20/2024
+  status: Granted
+  certificate_date: 12/27/2023
+  expiration_date: ''
   probation_date: ''
 - status_date: 7/19/2022
   certificate: Police Officer
@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/1/2023
+  course: CAP4422A
+  title: AYC- Women's Seminar
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

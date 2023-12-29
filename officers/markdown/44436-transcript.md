@@ -36,9 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2023 | PDP2977A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/6/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 12/6/2023 | PDP1047A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/30/2023 | PDP4067A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/30/2023 | PDP4067A | 2023 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 11/30/2023 | PDP4114A | 2023 K-9 (K9) Weekly Training | Instructed | 0.0 | 6.00 |
 | 11/28/2023 | PDP2477A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 11/28/2023 | PDP1676A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 11/28/2023 | PDP4348A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |

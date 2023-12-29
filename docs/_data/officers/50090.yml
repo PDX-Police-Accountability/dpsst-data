@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/30/2023
+  course: PDP4114A
+  title: 2023 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/22/2023
   course: PDP1115A
   title: 2023 K-9 Weekly Training

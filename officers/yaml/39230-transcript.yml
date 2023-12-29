@@ -99,6 +99,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 12/20/2023
+  course: EGP1760A
+  title: Stressed  Short-Staffed What You Can Do About It
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/9/2023
   course: EGP4364A
   title: Night Shoot/Scenarios

@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/30/2023
+  course: CAP3231A
+  title: Building Your Leadership Toolbox
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/20/2023
   course: OCS2742A
   title: SFST Refresher

@@ -102,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/5/2023
+  course: PDP4146A
+  title: 2023 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 11/30/2023
   course: PDP4131A
   title: 2023 SERT Training - ITERATION

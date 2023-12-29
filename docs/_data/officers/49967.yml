@@ -35,6 +35,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 12/5/2023
+  course: MNP3746A
+  title: Ethics Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/18/2023
   course: MNP3700A
   title: Defensive Tactics

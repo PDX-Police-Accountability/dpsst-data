@@ -51,6 +51,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2023
+  course: PDP3510A
+  title: 2023 EAP Wellness
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 12/5/2023
+  course: PDP4146A
+  title: 2023 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 11/14/2023
   course: PDP1371A
   title: 2023-3 Range Qual 40mm Less Lethal Qualification

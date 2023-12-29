@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 12/20/2023 | EGP1760A | Stressed  Short-Staffed What You Can Do About It | Passed | 0.0 | 1.50 |
 | 11/9/2023 | EGP4364A | Night Shoot/Scenarios | Passed | 0.0 | 3.00 |
 | 10/12/2023 | EGP1239A | Firearms Qualification | Passed | 0.0 | 3.00 |
 | 10/12/2023 | EGP1263A | Emergency Vehicle Operations | Passed | 0.0 | 4.00 |

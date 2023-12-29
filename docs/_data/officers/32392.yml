@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/15/2023
+  course: TGP2376A
+  title: Force on Force Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/8/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -104,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 10/11/2023
+  course: TGP3774A
+  title: Intellectual Property Theft
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 10/3/2023
   course: BVP1866A
   title: NWFIA Fraud Conference

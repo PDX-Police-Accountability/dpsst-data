@@ -20,7 +20,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/20/2023 | Police Officer | Intermediate | App Incmpl |  | 2/20/2024 |  |
+| 12/27/2023 | Police Officer | Intermediate | Granted | 12/27/2023 |  |  |
 | 7/19/2022 | Police Officer | Basic | Granted | 7/19/2022 |  |  |
 | 11/11/2021 | Emergency Medical Dispatcher | Basic | Lapsed | 1/3/2020 | 11/11/2025 |  |
 | 11/11/2021 | Telecommunicator | Basic | Lapsed | 1/3/2020 | 11/11/2025 |  |
@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/1/2023 | CAP4422A | AYC- Women's Seminar | Passed | 0.0 | 8.00 |
 | 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/15/2023 | OCS1812A | Taser Refresher | Passed | 0.0 | 1.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |

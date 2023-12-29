@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/26/2023 | STS0288A | Ethics Bulletin 36 and 37 | Passed | 0.0 | 1.00 |
 | 12/14/2023 | STS3216A | Karly's Law Training | Passed | 0.0 | 1.00 |
 | 12/7/2023 | OSA3159A | Challenging Law Dr Jack Enter, 12-7-23 | Passed | 0.0 | 8.00 |
 | 12/6/2023 | OSA3313A | Emotional Survival Dr Kevin Gilmartin, 12-6-23 | Passed | 0.0 | 8.00 |

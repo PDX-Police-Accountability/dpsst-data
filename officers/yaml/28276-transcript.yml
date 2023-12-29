@@ -129,6 +129,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/30/2023
+  course: CAP3231A
+  title: Building Your Leadership Toolbox
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/16/2023
   course: SVP2097A
   title: Cumulative Trauma and PTSD in First Responders

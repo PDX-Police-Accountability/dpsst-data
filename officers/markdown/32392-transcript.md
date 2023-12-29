@@ -39,12 +39,14 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/18/2023 | BVP3773A | Winter Law Enforcement SRO Training | Passed | 0.0 | 8.00 |
+| 12/15/2023 | TGP2376A | Force on Force Training | Passed | 0.0 | 1.50 |
 | 12/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2023 | TGP3736A | Ethics for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/23/2023 | TGP2303A | Lexipol Daily Training Bulletins (General) | Passed | 0.0 | 3.00 |
 | 10/23/2023 | TGP3624A | Lexipol Daily Training Bulletins (UF-Firearms) | Passed | 0.0 | 1.00 |
 | 10/18/2023 | TGP3451A | Citizens w/Special Needs, Mental Illness | Passed | 0.0 | 2.00 |
 | 10/18/2023 | TGP1263A | Bias and Bigotry Crimes, Procedural Justice | Passed | 0.0 | 3.00 |
+| 10/11/2023 | TGP3774A | Intellectual Property Theft | Passed | 0.0 | 7.00 |
 | 10/3/2023 | BVP1866A | NWFIA Fraud Conference | Passed | 0.0 | 16.00 |
 | 9/21/2023 | TGP3949A | Handgun/Patrol Rifle Training | Passed | 0.0 | 8.00 |
 | 9/21/2023 | TGP3949A | Handgun/Patrol Rifle Training | Instructed | 0.0 | 32.00 |

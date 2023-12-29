@@ -57,6 +57,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 12/6/2023
+  course: PDP3510A
+  title: 2023 EAP Wellness
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/1/2023
   course: PDP0582A
   title: 2023 Emotional Survival

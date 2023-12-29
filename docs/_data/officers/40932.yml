@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/1/2023
+  course: CAP4422A
+  title: AYC- Women's Seminar
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/16/2023
   course: PDP0003A
   title: 2023-3 Range Qualification Primary Firearm

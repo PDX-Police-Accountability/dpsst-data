@@ -41,6 +41,8 @@
 | 1/29/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/13/2023 | SDP0665A | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 2.00 |
 | 12/13/2023 | SDP4093A | US Mail Fraud Training | Passed | 0.0 | 1.00 |
+| 12/13/2023 | SDP4075A | Firearms Skills Training | Passed | 0.0 | 2.00 |
+| 12/13/2023 | SDP1614A | Fentanyl update Training | Passed | 0.0 | 1.00 |
 | 11/15/2023 | SDP1007A | Taser 7 Operator Certification | Passed | 0.0 | 7.00 |
 | 11/6/2023 | REG4260A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/1/2023 | SDP1701A | Maximize Sleep  Minimize Fatigue in Policing | Passed | 0.0 | 3.00 |

@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/30/2023
+  course: PDP4114A
+  title: 2023 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/29/2023
   course: PDP1371A
   title: 2023-3 Range Qual 40mm Less Lethal Qualification

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/17/2023 | BNP0843A | Building Clearing | Passed | 0.0 | 2.00 |
 | 12/14/2023 | BNP0017A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/17/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |
 | 11/17/2023 | BNP2438A | Mental Health and Meditation | Passed | 0.0 | 1.00 |

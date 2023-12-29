@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/8/2023
+  course: PDP3685A
+  title: 2023 Training PVO Refresher Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/4/2023
+  course: PDP3685A
+  title: 2023 Training PVO Refresher Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/21/2023
   course: PDP3224A
   title: 2023-3 Range Qualification CEW
