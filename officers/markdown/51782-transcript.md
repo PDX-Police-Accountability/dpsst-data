@@ -45,6 +45,7 @@
 | 12/18/2023 | PDP3497A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 12/18/2023 | PDP2976A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 12/5/2023 | PDP4146A | 2023 ECIT In-Service | Passed | 0.0 | 3.50 |
+| 11/16/2023 | PDP4041A | 2023 NTOA Crisis Negotiations Conference | Passed | 0.0 | 32.00 |
 | 11/6/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 11/6/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/6/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |

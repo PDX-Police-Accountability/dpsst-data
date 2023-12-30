@@ -90,6 +90,7 @@
 | 4/20/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 4/19/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
 | 4/14/2023 | PDP0010A | 2023 Microsoft_Outlook Online Recording | Passed | 0.0 | 1.00 |
+| 4/13/2023 | PDP0052A | 2023 Adv Roadside Impaired Driving Enforcement | Instructed | 0.0 | 16.00 |
 | 4/5/2023 | PDP1556A | 2023 Microsoft_Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/27/2023 | EGP42322 | Police Motorcycle Trng, Braking / Cornering | Instructed | 0.0 | 6.00 |
 | 3/16/2023 | PDP06854 | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |

@@ -128,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/13/2023
+  course: PDP0052A
+  title: 2023 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/23/2023
   course: OCP4203A
   title: Firearms/Use of Force

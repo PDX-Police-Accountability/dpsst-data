@@ -56,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/13/2023
+  course: PDP1551A
+  title: 2023 PLET Overdose Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 12/7/2023
   course: PDP4526A
   title: 2023-2 All Sworn In-Service ABLE Scenario

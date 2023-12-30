@@ -50,6 +50,7 @@
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 5/18/2023 | OCP1757A | North American Motor Officer Assoc. Conference | Passed | 0.0 | 30.00 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
+| 4/13/2023 | PDP0052A | 2023 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 3/23/2023 | OCP4203A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/28/2023 | BPT13195 | Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/28/2023 | F6R43463 | SFST Refresher | Instructed | 0.0 | 4.00 |

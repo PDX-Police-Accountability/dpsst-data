@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/21/2023 | PDP2823A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/11/2023 | FGP2154A | SEMI-ANNUAL FIREARMS TRAINING | Passed | 0.0 | 1.00 |
 | 11/27/2023 | FGP1761A | Annual Taser Refresher | Passed | 0.0 | 2.00 |
 | 10/26/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |

@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | SPP4259A | Use of Force Policy Review | Passed | 0.0 | 3.50 |
 | 11/14/2023 | SPP3540A | Presidia Gel training | Passed | 0.0 | 1.00 |
 | 10/10/2023 | SPP3705A | De-escalation | Passed | 0.0 | 2.00 |
 | 9/8/2023 | F1516640 | Range | Passed | 0.0 | 2.00 |

@@ -252,6 +252,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/13/2023
+  course: PDP0052A
+  title: 2023 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/4/2023
   course: PDP27317
   title: CPR/First Aid

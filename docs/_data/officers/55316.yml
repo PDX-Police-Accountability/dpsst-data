@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/8/2023
+  course: PDP0724A
+  title: 2023 Increasing Resilience Through Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/6/2023
   course: PDP3510A
   title: 2023 EAP Wellness
@@ -137,6 +143,12 @@ training_records:
 - date: 11/9/2023
   course: VND4116A
   title: Traumatic Stress Relief-ASAP
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 11/9/2023
+  course: PDP1719A
+  title: Traumatic Stress Relief for Peer Supporters
   status: Passed
   score: '0.0'
   hours: '32.00'

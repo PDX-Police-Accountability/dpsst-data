@@ -63,7 +63,7 @@
 | 8/8/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 8.50 |
 | 8/2/2023 | PDP1584A | 2023 Body Worn Camera Pilot Project Training | Passed | 0.0 | 2.00 |
 | 7/25/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
-| 7/21/2023 | F6R1072A | FB Regional Crisis Negotiation Course | Passed | 0.0 | 36.00 |
+| 7/21/2023 | F6R1072A | FBI Regional Crisis Negotiation Course | Passed | 0.0 | 36.00 |
 | 6/29/2023 | PDP1420A | 2023-1 Shotgun Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/29/2023 | PDP3364A | 2023-2 Range Qualification Shotgun | Passed | 0.0 | 0.25 |
 | 6/29/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |

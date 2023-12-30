@@ -300,6 +300,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 4/13/2023
+  course: PDP0052A
+  title: 2023 Adv Roadside Impaired Driving Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/5/2023
   course: PDP4280A
   title: 2023 City of Portland Police SharePoint Policy

@@ -77,6 +77,7 @@
 | 5/17/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 5/14/2023 | PDP1603A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/11/2023 | PDP3382A | 2023 PVO Satellite Instructor School | Passed | 0.0 | 40.00 |
+| 4/13/2023 | PDP0052A | 2023 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 4/5/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/5/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/5/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/23/2023 | WLP1873A | Latino Network Training | Passed | 0.0 | 0.50 |
 | 12/7/2023 | WLP0697A | Defensive Tactics - Takedowns | Passed | 0.0 | 2.00 |
 | 11/11/2023 | WLP1330A | Active Threat Response - Patrol | Passed | 0.0 | 5.00 |
 | 11/3/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -48,6 +48,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2023 | HBP3646A | PoliceOne Firearms 1 | Passed | 0.0 | 1.00 |
+| 12/19/2023 | HBP0232A | PoliceOne Firearms 2 | Passed | 0.0 | 1.00 |
+| 12/19/2023 | HBP2840A | PoliceOne Firearms 3 | Passed | 0.0 | 1.00 |
 | 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 11/8/2023 | HBP1832A | Range and Duty Weapons Maintenance | Passed | 0.0 | 5.00 |
 | 9/6/2023 | HBP1232A | Tactical Trauma Training | Passed | 0.0 | 4.00 |

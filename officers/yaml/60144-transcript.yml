@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2023
+  course: PDP2823A
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/30/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

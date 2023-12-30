@@ -139,6 +139,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 11/9/2023
+  course: PDP1719A
+  title: Traumatic Stress Relief for Peer Supporters
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 10/18/2023
   course: PDP3873A
   title: 2023 CNT Crisis Negotiation Team Annual Training

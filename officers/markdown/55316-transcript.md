@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/8/2023 | VND1997A | Fundamentals of Peer Support | Passed | 0.0 | 8.00 |
+| 12/8/2023 | PDP0724A | 2023 Increasing Resilience Through Peer Support | Passed | 0.0 | 8.00 |
 | 12/6/2023 | PDP3510A | 2023 EAP Wellness | Passed | 0.0 | 6.00 |
 | 11/22/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/14/2023 | PDP2477A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
@@ -51,6 +52,7 @@
 | 11/13/2023 | PDP1415A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 11/10/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/9/2023 | VND4116A | Traumatic Stress Relief-ASAP | Passed | 0.0 | 32.00 |
+| 11/9/2023 | PDP1719A | Traumatic Stress Relief for Peer Supporters | Passed | 0.0 | 32.00 |
 | 10/6/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 10/6/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/5/2023 | PDP2637A | 2023 EAP Support Family Relationships | Passed | 0.0 | 8.00 |

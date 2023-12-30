@@ -123,6 +123,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/20/2023
+  course: SVP2057A
+  title: Less Lethal Shotgun
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/20/2023
+  course: SVP3487A
+  title: Red Dot Pistoal Training  Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 12/20/2023
+  course: SVP3868A
+  title: Rifle Qualification
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/30/2023
   course: SVP2668A
   title: Be Nice - Customer Service Training (Randy Means)

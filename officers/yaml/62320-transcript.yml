@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2023
+  course: PDP2823A
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/12/2023
   course: PDP3424A
   title: 2023 Traffic Monthly Training

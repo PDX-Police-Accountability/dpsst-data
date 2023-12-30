@@ -48,6 +48,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/20/2023 | SVP2057A | Less Lethal Shotgun | Instructed | 0.0 | 1.00 |
+| 12/20/2023 | SVP3487A | Red Dot Pistoal Training  Qualification | Instructed | 0.0 | 16.00 |
+| 12/20/2023 | SVP3868A | Rifle Qualification | Instructed | 0.0 | 1.00 |
 | 11/30/2023 | SVP2668A | Be Nice - Customer Service Training (Randy Means) | Passed | 0.0 | 0.50 |
 | 11/30/2023 | CAP3231A | Building Your Leadership Toolbox | Passed | 0.0 | 8.00 |
 | 11/16/2023 | SVP2097A | Cumulative Trauma and PTSD in First Responders | Passed | 0.0 | 1.50 |

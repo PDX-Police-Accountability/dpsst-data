@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: SPP4259A
+  title: Use of Force Policy Review
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 11/14/2023
   course: SPP3540A
   title: Presidia Gel training
