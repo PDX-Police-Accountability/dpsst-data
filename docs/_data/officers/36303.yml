@@ -105,6 +105,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/27/2023
+  course: PDP0991A
+  title: 2023 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/13/2023
   course: PDP1999A
   title: 2023 K-9 (K9) Weekly Training
@@ -4098,10 +4104,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/17/2023
   expiration_date: 5/17/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

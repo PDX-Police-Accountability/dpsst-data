@@ -154,6 +154,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/29/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/22/2023
   course: ETS1125A
   title: Ethics/Sexual Harassment Prevention
@@ -3467,6 +3473,10 @@ training_records:
   score: '0.0'
   hours: '281.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Code of Ethics
   value: Telecommunication Signed
   effective_date: 9/11/2023
@@ -3474,7 +3484,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2023
-  expiration_date: 12/31/2023
+  expiration_date: 1/1/1950
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/13/2022

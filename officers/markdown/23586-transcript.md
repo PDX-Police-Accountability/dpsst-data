@@ -24,7 +24,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
@@ -40,6 +39,7 @@
 | 12/15/2023 | PDS4467A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS1699A | OSHA | Passed | 0.0 | 1.00 |
 | 12/3/2023 | PDS2078A | Active Threat Response | Passed | 0.0 | 8.00 |
+| 11/7/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/23/2023 | PDS2110A | Active Threat Range | Passed | 0.0 | 4.00 |
 | 9/23/2023 | PDS3415A | Active Threat Training | Passed | 0.0 | 4.00 |

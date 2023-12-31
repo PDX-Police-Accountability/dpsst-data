@@ -35,7 +35,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/17/2023 | 5/17/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
@@ -45,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2023 | PDP0991A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/13/2023 | PDP1999A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/6/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/6/2023 | PDP3219A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 2.00 |

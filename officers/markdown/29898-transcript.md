@@ -30,9 +30,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 12/15/2021 | 12/14/2023 |
 | Code of Ethics | Law Enforcement Signed | 3/25/2021 |  |
 | Code of Ethics | Signed | 6/21/2001 |  |
 ## Education
@@ -52,6 +50,7 @@
 | 12/15/2023 | PDS0839A | Missing-Endangered Persons | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS3548A | OSHA | Passed | 0.0 | 1.00 |
 | 12/6/2023 | PDS0855A | Firearms Training | Passed | 0.0 | 2.00 |
+| 11/2/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 10/27/2023 | PDS3977A | Rifle Qualificaiton | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 8/1/2023 | PDS3434A | Active Threat | Passed | 0.0 | 10.00 |

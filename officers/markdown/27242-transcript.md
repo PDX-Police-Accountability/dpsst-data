@@ -33,8 +33,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 3/8/2023 | 3/8/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/10/2007 |  |
 ## Education
@@ -44,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2023 | SPP4259A | Use of Force Policy Review | Passed | 0.0 | 3.50 |
 | 11/22/2023 | SPP2562A | Handgun / Night Shoot | Passed | 0.0 | 2.00 |
 | 11/14/2023 | SPP3540A | Presidia Gel training | Passed | 0.0 | 1.00 |

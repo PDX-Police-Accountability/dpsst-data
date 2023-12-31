@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/9/2023
+  course: ALS0599A
+  title: SWAT Vehicle Takedowns
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/7/2020
   course: PDP39835
   title: 2020-2 Range Qualification 40mm Less Lethal Qual

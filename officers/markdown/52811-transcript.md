@@ -28,8 +28,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2023 | 12/31/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
-| Certification Cards | First Aid and CPR | 12/6/2021 | 12/6/2023 |
 | Code of Ethics | Signed | 10/15/2012 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/21/2023 | PDS2955A | Search Warrant Contingencies | Passed | 0.0 | 8.00 |
+| 12/20/2023 | PDS2817A | SWAT range | Passed | 0.0 | 8.00 |
 | 12/19/2023 | PDS0729A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS4082A | Benchmark Analytics Refresher | Passed | 0.0 | 0.50 |
@@ -53,6 +53,7 @@
 | 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
 | 11/27/2023 | PDS3751A | Active Threat Response | Instructed | 0.0 | 8.00 |
 | 11/20/2023 | PDS2952A | Active Threat Response | Instructed | 0.0 | 8.00 |
+| 11/9/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 11/3/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 11/2/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |
 | 10/31/2023 | PDS1458A | Rifle | Instructed | 0.0 | 4.50 |

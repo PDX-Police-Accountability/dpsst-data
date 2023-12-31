@@ -26,8 +26,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 12/14/2001 |  |
 ## Education
@@ -38,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/16/2023 | PDS0694A | Active Threat | Passed | 0.0 | 8.00 |
 | 12/15/2023 | PDS3838A | Anti-Bias Training | Passed | 0.0 | 2.00 |
 | 12/15/2023 | PDS2484A | Benchmark Analytics | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS3307A | Emotional Intelligence | Passed | 0.0 | 1.00 |
@@ -45,6 +48,7 @@
 | 12/15/2023 | PDS1699A | OSHA | Passed | 0.0 | 1.00 |
 | 12/14/2023 | PDS2631A | Active Threat | Passed | 0.0 | 8.00 |
 | 12/8/2023 | PDS0508A | Field Training and Evaluation Program | Passed | 0.0 | 24.00 |
+| 11/10/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 5/24/2023 | PDS4436A | Yoga For First Responders | Passed | 0.0 | 1.00 |
 | 5/24/2023 | PDS2934A | NAMI Training | Passed | 0.0 | 2.00 |

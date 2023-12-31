@@ -31,8 +31,9 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2024 | 12/31/2026 |
 | Certification Cards | First Aid and CPR | 5/19/2023 | 5/19/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 12/31/2023 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2021 | 1/1/1950 |
 | Code of Ethics | Signed | 8/19/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -42,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 12/29/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2023 | PDP1516A | Creating Safe Scenes - SAMHSA | Passed | 0.0 | 1.50 |
 | 12/22/2023 | PDP2156A | Exploring Anxiety Disorders for First Responders | Passed | 0.0 | 0.50 |
 | 12/22/2023 | PDP0869A | Helping The First Responder Understand Depression | Passed | 0.0 | 0.50 |

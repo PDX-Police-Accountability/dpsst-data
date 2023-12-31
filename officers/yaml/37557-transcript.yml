@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/22/2023
+  course: LOP2500A
+  title: Confrontational Simulation Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/7/2023
   course: LOP0957A
   title: Adult/Child CPR AED

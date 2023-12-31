@@ -36,6 +36,7 @@
 | 12/15/2023 | PDS0839A | Missing-Endangered Persons | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS3548A | OSHA | Passed | 0.0 | 1.00 |
 | 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
+| 11/10/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 10/18/2023 | PDS1870A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/13/2023 | PDS1509A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |

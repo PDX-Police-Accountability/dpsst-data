@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/14/2023 | PDN2803A | Case Management: Case Plan Overview | Passed | 0.0 | 1.00 |
+| 11/13/2023 | PDN0046A | Case Management: EPICS | Passed | 0.0 | 1.00 |
 | 10/26/2023 | VND0988A | Board Q  A | Passed | 0.0 | 2.00 |
 | 10/23/2023 | PDN0635A | Case Management: Stages of Change | Passed | 0.0 | 1.00 |
 | 10/1/2023 | PDN2148A | Wildfire Smoke Exposure Control and Protection | Passed | 0.0 | 1.00 |

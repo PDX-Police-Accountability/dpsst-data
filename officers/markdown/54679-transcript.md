@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/27/2023 | MLP0397A | Night Range | Passed | 0.0 | 3.00 |
 | 11/1/2023 | OSH2823A | ARIDE | Passed | 0.0 | 16.00 |
 | 10/21/2023 | MLP3516A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 10/3/2023 | MLP3599A | CED Taser Certification | Passed | 0.0 | 4.00 |

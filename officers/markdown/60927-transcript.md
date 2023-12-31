@@ -69,6 +69,7 @@
 | 5/29/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/21/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/17/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
+| 5/17/2023 | PDP3650A | 2023-2 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 50.00 |
 | 4/13/2023 | PDP0052A | 2023 Adv Roadside Impaired Driving Enforcement | Passed | 0.0 | 16.00 |
 | 4/4/2023 | PDP27317 | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/3/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

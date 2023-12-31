@@ -1604,10 +1604,6 @@ training_records:
   hours: '8.00'
 attribute_records:
 - topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 12/14/2023
-  expiration_date: 12/14/2023
-- topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
@@ -1623,8 +1619,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/14/2019
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 8/17/2023
 education_records: []

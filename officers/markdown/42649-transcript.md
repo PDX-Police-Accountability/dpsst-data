@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2023 | PDP0991A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/13/2023 | PDP1999A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/6/2023 | PDP3219A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 11/30/2023 | PDP4114A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |

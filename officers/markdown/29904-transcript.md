@@ -27,7 +27,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Certification Cards | First Aid and CPR | 9/4/2023 | 9/4/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
 | date | degree | school | major | hours |
@@ -46,6 +45,7 @@
 | 12/15/2023 | PDS3548A | OSHA | Passed | 0.0 | 1.00 |
 | 12/5/2023 | PDS2450A | Firearms Training | Passed | 0.0 | 2.00 |
 | 11/30/2023 | PDS4341A | Command Training | Passed | 0.0 | 2.00 |
+| 11/7/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 10/11/2023 | PDS1323A | Range Qualification | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |
 | 9/4/2023 | PDS3184A | CPR/First Aid | Passed | 0.0 | 2.00 |

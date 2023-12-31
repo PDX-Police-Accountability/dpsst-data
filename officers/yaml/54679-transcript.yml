@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/27/2023
+  course: MLP0397A
+  title: Night Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/1/2023
   course: OSH2823A
   title: ARIDE

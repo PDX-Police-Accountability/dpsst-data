@@ -63,6 +63,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/21/2023
+  course: PDS2955A
+  title: Search Warrant Contingencies
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 12/20/2023
+  course: PDS2817A
+  title: SWAT range
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/19/2023
   course: PDS0729A
   title: Active Threat Response
@@ -135,6 +147,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 11/9/2023
+  course: PDS4038A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/3/2023
   course: PDS1458A
   title: Rifle
@@ -2374,14 +2392,6 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2023
   expiration_date: 12/31/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 1/1/1950
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 12/6/2021
-  expiration_date: 12/6/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/15/2012

@@ -1213,14 +1213,6 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 12/14/2023
-  expiration_date: 12/14/2023
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2022
-  expiration_date: 12/31/2022
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/15/2021
@@ -1233,8 +1225,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/4/2019
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 6/13/2023
 education_records: []

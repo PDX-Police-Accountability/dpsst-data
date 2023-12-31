@@ -224,6 +224,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/1/2023
+  course: PDP3166A
+  title: 2023-2 All Sworn In-Service PP Mental Health 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 8/1/2023
+  course: PDP2452A
+  title: 2023-2 All Sworn In-Service PP Mental Health 2
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/21/2023
   course: PDP0467A
   title: 2023 FTEP Post DPSST Firearms

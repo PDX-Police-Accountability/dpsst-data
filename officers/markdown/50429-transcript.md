@@ -79,6 +79,7 @@
 | 6/8/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 6/3/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 6/1/2023 | PDP4498A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/17/2023 | PDP3650A | 2023-2 AR-15 Patrol Rifle Operators Course | Passed | 0.0 | 50.00 |
 | 4/13/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
 | 4/13/2023 | PDP0808A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |
 | 4/13/2023 | PDP1243A | 2023-1 All Sworn In-Service Crowd Mgmt. | Passed | 0.0 | 2.00 |

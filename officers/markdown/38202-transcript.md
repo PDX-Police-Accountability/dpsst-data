@@ -29,7 +29,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 10/12/2000 |  |
 ## Education
@@ -50,6 +49,7 @@
 | 12/15/2023 | PDS0839A | Missing-Endangered Persons | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS3548A | OSHA | Passed | 0.0 | 1.00 |
 | 12/1/2023 | PDS2241A | Firearms | Passed | 0.0 | 2.00 |
+| 11/2/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 10/23/2023 | PDS3387A | Pistol/Rifle Qualifications | Passed | 0.0 | 2.00 |
 | 10/16/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |

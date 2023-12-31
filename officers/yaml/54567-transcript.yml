@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/27/2023
+  course: MLP0397A
+  title: Night Range
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/7/2023
   course: VND0508A
   title: 28 CFR 23 and WSIN Resources

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: 8/25/2025
   probation_date: ''
 training_records:
+- date: 11/13/2023
+  course: PDN0046A
+  title: 'Case Management: EPICS'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 7/31/2020
   course: MISCMAIN
   title: 2020 LE Annual Maintenance

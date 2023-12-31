@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/27/2023 | PDP0496A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/20/2023 | PDP2977A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/13/2023 | PDP4319A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/6/2023 | PDP1047A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |

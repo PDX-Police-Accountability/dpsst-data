@@ -30,7 +30,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 2/16/2022 | 2/16/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 12/21/2010 |  |
@@ -50,6 +49,8 @@
 | 12/15/2023 | PDS2254A | Ethics in Law Enforcement | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS0839A | Missing-Endangered Persons | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS3548A | OSHA | Passed | 0.0 | 1.00 |
+| 12/11/2023 | PDS2428A | Firearms Training | Passed | 0.0 | 2.00 |
+| 11/29/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 11/1/2023 | PDS1458A | Rifle | Passed | 0.0 | 4.50 |
 | 10/28/2023 | PDS3977A | Rifle Qualificaiton | Passed | 0.0 | 2.00 |
 | 9/30/2023 | PDS2616A | CPR-First Aid | Passed | 0.0 | 2.00 |

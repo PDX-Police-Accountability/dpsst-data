@@ -36,8 +36,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 3/7/2023 | 3/7/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2023 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 7/18/2022 |  |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 4/24/2002 |  |
@@ -48,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2023 | STS0288A | Ethics Bulletin 36 and 37 | Passed | 0.0 | 1.00 |
 | 12/14/2023 | STS3216A | Karly's Law Training | Passed | 0.0 | 1.00 |
 | 12/7/2023 | OSA3159A | Challenging Law Dr Jack Enter, 12-7-23 | Passed | 0.0 | 8.00 |
