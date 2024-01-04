@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/26/2023
+  course: HBS1427A
+  title: The Wrap
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/16/2023
   course: HBS2662A
   title: Bias Based Policing

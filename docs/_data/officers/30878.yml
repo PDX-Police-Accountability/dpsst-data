@@ -81,6 +81,12 @@ certification_records:
   expiration_date: 1/4/2026
   probation_date: ''
 training_records:
+- date: 12/5/2023
+  course: OSH1449A
+  title: Condensed DRE IDC
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/6/2021
   course: F6D21843
   title: Case Dispositions Consisteny and Proportionality

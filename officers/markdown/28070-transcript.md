@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/15/2023 | MNS2155A | 2023 YCSO Policy Review | Passed | 0.0 | 9.00 |
 | 12/12/2023 | MNS3104A | Basic Child Abuse Investigations | Passed | 0.0 | 1.00 |
 | 12/12/2023 | MNS3732A | Basic Death Investigations | Passed | 0.0 | 2.00 |
 | 12/12/2023 | MNS3259A | Physical Wellness | Passed | 0.0 | 0.50 |

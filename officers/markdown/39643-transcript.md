@@ -35,8 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/21/2023 | REG2668A | DT | Passed | 0.0 | 1.00 |
+| 12/11/2023 | REG0556A | DT | Passed | 0.0 | 1.00 |
+| 11/27/2023 | REG4500A | DT | Passed | 0.0 | 1.00 |
 | 11/16/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/16/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/16/2023 | REG0565A | DT | Passed | 0.0 | 1.00 |
+| 11/9/2023 | REG2264A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 10/24/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 10/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/19/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

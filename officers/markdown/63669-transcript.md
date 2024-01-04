@@ -28,7 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 1/29/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/29/2023 | PDP1662A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP3253A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1306A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

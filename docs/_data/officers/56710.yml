@@ -61,6 +61,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/21/2023
+  course: REG2668A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/14/2023
+  course: REG1945A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/13/2023
   course: SDP0665A
   title: Identifying and Preventing Sexual Harassment
@@ -91,6 +103,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/27/2023
+  course: REG4500A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/9/2023
+  course: REG2264A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/8/2023
   course: SDP1007A
   title: Taser 7 Operator Certification

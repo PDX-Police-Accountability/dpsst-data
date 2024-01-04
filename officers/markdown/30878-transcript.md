@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/5/2023 | OSH1449A | Condensed DRE IDC | Passed | 0.0 | 16.00 |
 | 5/6/2021 | F6D21843 | Case Dispositions Consisteny and Proportionality | Passed | 0.0 | 1.50 |
 | 1/1/2021 | PDP18966 | 2021-1 Tips Techniques HB 4205 | Passed | 0.0 | 0.25 |
 | 1/1/2021 | PDP10276 | 2021-2 Tips  Tech Domestic Violence Investigation | Passed | 0.0 | 0.25 |

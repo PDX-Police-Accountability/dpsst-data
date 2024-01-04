@@ -31,7 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 5/9/2023 | ALS3375A | HRT Entries | Passed | 0.0 | 8.00 |
+| 5/9/2023 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 8.00 |
 | 5/9/2023 | ALS0599A | SWAT Vehicle Takedowns | Passed | 0.0 | 8.00 |
 | 11/7/2020 | PDP39835 | 2020-2 Range Qualification 40mm Less Lethal Qual | Passed | 0.0 | 0.50 |
 | 11/7/2020 | PDP17282 | 2020-2 Range Qualification Colt AR-15 Qual (20 Yd) | Passed | 0.0 | 0.50 |

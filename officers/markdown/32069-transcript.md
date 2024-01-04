@@ -43,7 +43,10 @@
 | 12/13/2023 | SDP4093A | US Mail Fraud Training | Passed | 0.0 | 1.00 |
 | 12/13/2023 | SDP4075A | Firearms Skills Training | Passed | 0.0 | 2.00 |
 | 12/13/2023 | SDP1614A | Fentanyl update Training | Passed | 0.0 | 1.00 |
+| 12/11/2023 | REG0556A | DT | Passed | 0.0 | 1.00 |
+| 11/27/2023 | REG4500A | DT | Passed | 0.0 | 1.00 |
 | 11/15/2023 | SDP1007A | Taser 7 Operator Certification | Passed | 0.0 | 7.00 |
+| 11/13/2023 | REG0243A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/6/2023 | REG4260A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/1/2023 | SDP1701A | Maximize Sleep  Minimize Fatigue in Policing | Passed | 0.0 | 3.00 |
 | 10/30/2023 | REG0669A | Defensive Tactics | Passed | 0.0 | 1.00 |
