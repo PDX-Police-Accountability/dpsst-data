@@ -31,7 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2017 | No Degree | All Other Education Institutes |  | 108.0 |
+| 5/26/2017 | Bachelor Arts | All Other Education Institutes | Criminal Justice | 124.0 |
 | 6/15/2014 | Associate Arts | All Other Education Institutes | Criminal Justice | 98.0 |
 | 6/15/2011 | No Degree | All Other Education Institutes |  | 39.0 |
 | 6/15/2004 | No Degree | All Other Education Institutes |  | 6.0 |

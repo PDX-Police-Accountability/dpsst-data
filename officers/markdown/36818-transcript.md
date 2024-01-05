@@ -4,7 +4,7 @@
 | name | Hughes, Michele M. |
 | dpsst_identifier | 36818 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/21/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 7/21/2011 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 12/10/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/7/2019 | Police Officer | Supervisory | Granted | 8/7/2019 |  |  |
-| 2/2/2010 | Police Officer | Advanced | Granted | 2/2/2010 |  |  |
-| 2/2/2010 | Police Officer | Intermediate | Granted | 2/2/2010 |  |  |
-| 1/28/2000 | Police Officer | Basic | Granted | 1/28/2000 |  |  |
+| 8/7/2019 | Police Officer | Supervisory | Granted | 8/7/2019 | 3/21/2024 |  |
+| 2/2/2010 | Police Officer | Advanced | Granted | 2/2/2010 | 3/21/2024 |  |
+| 2/2/2010 | Police Officer | Intermediate | Granted | 2/2/2010 | 3/21/2024 |  |
+| 1/28/2000 | Police Officer | Basic | Granted | 1/28/2000 | 3/21/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

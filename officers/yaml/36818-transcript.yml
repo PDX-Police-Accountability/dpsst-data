@@ -3,12 +3,18 @@ header_record:
   name: Hughes, Michele M.
   dpsst_identifier: '36818'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/21/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 7/21/2011
   agency: Portland Police Bureau
   action: Promotion
@@ -27,28 +33,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 8/7/2019
-  expiration_date: ''
+  expiration_date: 3/21/2024
   probation_date: ''
 - status_date: 2/2/2010
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/2/2010
-  expiration_date: ''
+  expiration_date: 3/21/2024
   probation_date: ''
 - status_date: 2/2/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/2/2010
-  expiration_date: ''
+  expiration_date: 3/21/2024
   probation_date: ''
 - status_date: 1/28/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/28/2000
-  expiration_date: ''
+  expiration_date: 3/21/2024
   probation_date: ''
 training_records:
 - date: 11/20/2023

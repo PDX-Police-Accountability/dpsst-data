@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 11/29/2023
+  agency: Multnomah County Sheriff's Office
+  action: Retired
+  rank: Reserve
+  classification: ''
+  assignment: ''
 - date: 7/24/2018
   agency: Multnomah County Sheriff's Office
   action: Hired

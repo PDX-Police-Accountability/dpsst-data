@@ -4,7 +4,7 @@
 | name | Andrusko, Steven L. |
 | dpsst_identifier | 29502 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/27/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 4/5/2007 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 9/25/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/24/1997 | Multnomah County Sheriff's Office | Resigned | Reserve |  |  |
@@ -19,10 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/11/2013 | Police Officer | Advanced | Granted | 4/11/2013 |  |  |
-| 4/11/2013 | Police Officer | Supervisory | Granted | 4/11/2013 |  |  |
-| 2/20/2001 | Police Officer | Intermediate | Granted | 2/20/2001 |  |  |
-| 7/16/1998 | Police Officer | Basic | Granted | 7/16/1998 |  |  |
+| 4/11/2013 | Police Officer | Advanced | Granted | 4/11/2013 | 3/27/2024 |  |
+| 4/11/2013 | Police Officer | Supervisory | Granted | 4/11/2013 | 3/27/2024 |  |
+| 2/20/2001 | Police Officer | Intermediate | Granted | 2/20/2001 | 3/27/2024 |  |
+| 7/16/1998 | Police Officer | Basic | Granted | 7/16/1998 | 3/27/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

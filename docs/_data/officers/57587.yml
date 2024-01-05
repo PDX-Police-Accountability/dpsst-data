@@ -2129,11 +2129,11 @@ attribute_records:
   effective_date: 8/17/2017
   expiration_date: ''
 education_records:
-- date: 6/15/2017
-  degree: No Degree
+- date: 5/26/2017
+  degree: Bachelor Arts
   school: All Other Education Institutes
-  major: ''
-  hours: '108.0'
+  major: Criminal Justice
+  hours: '124.0'
 - date: 6/15/2014
   degree: Associate Arts
   school: All Other Education Institutes

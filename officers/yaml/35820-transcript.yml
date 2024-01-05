@@ -3,12 +3,18 @@ header_record:
   name: Brace, Christopher D.
   dpsst_identifier: '35820'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 12/22/2023
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 9/23/2004
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 7/11/2007
-  expiration_date: ''
+  expiration_date: 3/22/2024
   probation_date: ''
 - status_date: 7/11/2007
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/11/2007
-  expiration_date: ''
+  expiration_date: 3/22/2024
   probation_date: ''
 - status_date: 5/6/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/6/1999
-  expiration_date: ''
+  expiration_date: 3/22/2024
   probation_date: ''
 training_records:
 - date: 11/15/2023

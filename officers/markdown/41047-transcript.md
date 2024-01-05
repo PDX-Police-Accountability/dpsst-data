@@ -4,7 +4,7 @@
 | name | Bocchino, Joshua J. |
 | dpsst_identifier | 41047 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/21/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 6/3/2021 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 7/19/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 11/3/2022 | Instructor |  | Granted | 11/3/2022 |  |  |
-| 10/29/2010 | Police Officer | Advanced | Granted | 10/29/2010 |  |  |
-| 10/29/2010 | Police Officer | Intermediate | Granted | 10/29/2010 |  |  |
-| 10/21/2002 | Police Officer | Basic | Granted | 10/21/2002 |  |  |
+| 10/29/2010 | Police Officer | Advanced | Granted | 10/29/2010 | 3/21/2024 |  |
+| 10/29/2010 | Police Officer | Intermediate | Granted | 10/29/2010 | 3/21/2024 |  |
+| 10/21/2002 | Police Officer | Basic | Granted | 10/21/2002 | 3/21/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

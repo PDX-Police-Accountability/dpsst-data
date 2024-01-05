@@ -4,7 +4,7 @@
 | name | Weber, Eric S. |
 | dpsst_identifier | 32070 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/28/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/29/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/29/2012 | Police Officer | Advanced | Granted | 5/29/2012 |  |  |
-| 5/29/2012 | Police Officer | Intermediate | Granted | 5/29/2012 |  |  |
-| 1/28/1997 | Police Officer | Basic | Granted | 1/28/1997 |  |  |
+| 5/29/2012 | Police Officer | Advanced | Granted | 5/29/2012 | 3/28/2024 |  |
+| 5/29/2012 | Police Officer | Intermediate | Granted | 5/29/2012 | 3/28/2024 |  |
+| 1/28/1997 | Police Officer | Basic | Granted | 1/28/1997 | 3/28/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

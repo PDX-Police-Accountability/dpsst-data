@@ -4,7 +4,7 @@
 | name | Boylan, John R. |
 | dpsst_identifier | 41756 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Detective |
 | level |  |
 | classification |  |
@@ -12,12 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/22/2023 | Portland Police Bureau | Retired | Detective |  |  |
 | 2/4/2021 | Portland Police Bureau | Promotion | Detective |  |  |
 | 12/13/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/17/2003 | Police Officer | Basic | Granted | 9/17/2003 |  |  |
+| 9/17/2003 | Police Officer | Basic | Granted | 9/17/2003 | 3/22/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

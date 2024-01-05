@@ -4,7 +4,7 @@
 | name | Dorn, Jeffrey P. |
 | dpsst_identifier | 29094 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/26/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/24/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/8/1997 | Portland Police Bureau | Resigned | Civln Emp |  |  |
@@ -19,10 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 |  |  |
-| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 |  |  |
-| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 |  |  |
-| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 |  |  |
+| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 | 3/26/2024 |  |
+| 11/22/2010 | Police Officer | Advanced | Granted | 11/22/2010 | 3/26/2024 |  |
+| 11/22/2010 | Police Officer | Intermediate | Granted | 11/22/2010 | 3/26/2024 |  |
+| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 | 3/26/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -39,7 +39,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/8/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/6/2023 | OCP0634A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
@@ -51,6 +50,7 @@
 | 9/30/2023 | OCP3504A | Threat of Harm Refresher | Passed | 0.0 | 0.50 |
 | 9/27/2023 | OCP3059A | Taser Re-cert | Passed | 0.0 | 2.00 |
 | 9/7/2023 | OCP0393A | Firearms/Use of Force | Instructed | 0.0 | 20.00 |
+| 7/13/2023 | 24-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 6/28/2023 | OCP4427A | Older Adults and Aging | Passed | 0.0 | 0.75 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |

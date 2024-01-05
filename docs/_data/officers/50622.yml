@@ -68,12 +68,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/8/2024
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
-  score: '0.0'
-  hours: '0.00'
 - date: 12/31/2023
   course: OCP1409A
   title: Daily Training Bulletins
@@ -140,6 +134,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '20.00'
+- date: 7/13/2023
+  course: 24-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 6/29/2023
   course: OCP0271A
   title: Firearms/Use of Force

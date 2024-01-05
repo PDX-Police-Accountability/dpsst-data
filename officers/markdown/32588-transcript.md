@@ -4,7 +4,7 @@
 | name | Livingston, Don K., III |
 | dpsst_identifier | 32588 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/21/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/24/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/22/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/15/1998 | Medford Police Department | Resigned | Police Off |  |  |
@@ -19,10 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 |  |  |
-| 3/10/2006 | Police Officer | Advanced | Granted | 3/10/2006 |  |  |
-| 3/10/2006 | Police Officer | Intermediate | Granted | 3/10/2006 |  |  |
-| 4/15/1997 | Police Officer | Basic | Granted | 4/15/1997 |  |  |
+| 2/15/2012 | Police Officer | Supervisory | Granted | 2/15/2012 | 3/21/2024 |  |
+| 3/10/2006 | Police Officer | Advanced | Granted | 3/10/2006 | 3/21/2024 |  |
+| 3/10/2006 | Police Officer | Intermediate | Granted | 3/10/2006 | 3/21/2024 |  |
+| 4/15/1997 | Police Officer | Basic | Granted | 4/15/1997 | 3/21/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

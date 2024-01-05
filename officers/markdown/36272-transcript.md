@@ -4,7 +4,7 @@
 | name | Barber, Kristopher P. |
 | dpsst_identifier | 36272 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,13 +12,14 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/25/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/24/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/7/2010 | Police Officer | Advanced | Granted | 4/7/2010 |  |  |
-| 4/7/2010 | Police Officer | Intermediate | Granted | 4/7/2010 |  |  |
-| 8/23/1999 | Police Officer | Basic | Granted | 8/23/1999 |  |  |
+| 4/7/2010 | Police Officer | Advanced | Granted | 4/7/2010 | 3/25/2024 |  |
+| 4/7/2010 | Police Officer | Intermediate | Granted | 4/7/2010 | 3/25/2024 |  |
+| 8/23/1999 | Police Officer | Basic | Granted | 8/23/1999 | 3/25/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
