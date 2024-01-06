@@ -98,8 +98,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 12/15/2023
+  course: OCS4363A
+  title: November /December / 4th Qtr Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/12/2023
   course: OCS3053A
+  title: Balance Speed/Marksmanship / Draw Concealment
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/12/2023
+  course: OCS1971A
   title: Balance Speed/Marksmanship / Draw Concealment
   status: Instructed
   score: '0.0'
@@ -116,8 +128,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 12/8/2023
+  course: OCS1532A
+  title: SWAT Sniper- Marksmanship / Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/6/2023
   course: OCS4143A
+  title: Balancing speed/marksmanship, Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/6/2023
+  course: OCS1700A
   title: Balancing speed/marksmanship, Target ID
   status: Instructed
   score: '0.0'

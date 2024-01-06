@@ -67,6 +67,7 @@
 | 9/11/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/31/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 7/20/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/11/2023 | PDP1131A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 7/9/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/3/2023 | PDP3364A | 2023-2 Range Qualification Shotgun | Passed | 0.0 | 0.50 |

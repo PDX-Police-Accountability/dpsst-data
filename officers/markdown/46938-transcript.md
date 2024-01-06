@@ -63,6 +63,7 @@
 | 8/15/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/7/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/24/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/20/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/13/2023 | BVP2565A | Hawthorn Walk In Center, MHRT | Passed | 0.0 | 1.50 |
 | 7/13/2023 | BVP0013A | RSI Strangulation Training | Passed | 0.0 | 1.00 |
 | 7/13/2023 | BVP2491A | Team Takedowns  Ground Control | Passed | 0.0 | 2.00 |

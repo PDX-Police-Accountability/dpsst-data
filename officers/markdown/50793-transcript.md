@@ -86,6 +86,7 @@
 | 7/19/2023 | PDP2260A | 2023-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |
 | 7/19/2023 | PDP3316A | 2023-2 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 6/29/2023 | PDP3442A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 6/12/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/8/2023 | PDP1955A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 6/8/2023 | PDP1797A | 2023 K-9 Weekly Training | Passed | 0.0 | 4.00 |
 | 5/31/2023 | PDP0889 | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

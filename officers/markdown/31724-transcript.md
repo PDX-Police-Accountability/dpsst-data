@@ -84,6 +84,7 @@
 | 6/2/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 6/2/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/2/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 5/25/2023 | PDP3604A | 2023-1 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/7/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
 | 4/25/2023 | PDP0812A | CPR/First Aid | Passed | 0.0 | 1.75 |

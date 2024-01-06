@@ -79,6 +79,7 @@
 | 8/3/2023 | PDP1304A | 2023 FTEP Pre-DPSST Firearms 080323 | Instructed | 0.0 | 9.00 |
 | 8/2/2023 | PDP3460A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 8/1/2023 | PDP0303A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 9.00 |
+| 7/31/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/26/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 2.00 |
 | 7/24/2023 | PDP2545A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |
 | 7/21/2023 | PDP0467A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 9.00 |

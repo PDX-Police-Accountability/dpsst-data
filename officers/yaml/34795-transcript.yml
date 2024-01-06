@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/12/2023
+  course: OCS1971A
+  title: Balance Speed/Marksmanship / Draw Concealment
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

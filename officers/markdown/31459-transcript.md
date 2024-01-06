@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 1/4/2024 | Police Officer | Management | App Recd |  |  |  |
 | 9/22/2011 | Police Officer | Supervisory | Granted | 9/22/2011 |  |  |
 | 9/19/2011 | Police Officer | Advanced | Granted | 9/19/2011 |  |  |
 | 9/19/2011 | Police Officer | Intermediate | Granted | 9/19/2011 |  |  |
@@ -72,6 +73,7 @@
 | 5/31/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/29/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 5/25/2023 | PDP3604A | 2023-1 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/16/2023 | PDP1689A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 3/30/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

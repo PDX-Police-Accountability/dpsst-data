@@ -271,6 +271,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/30/2023
+  course: PDP3201A
+  title: 2023-1 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/19/2023
   course: PDP4337A
   title: 2023-2 Range Qual AR-15 Qualification (20 Yard)

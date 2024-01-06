@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2023 | PDP4197A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/19/2023 | PDP4443A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 12/19/2023 | PDP2720A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/19/2023 | PDP0387A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
@@ -96,6 +97,7 @@
 | 5/31/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 5/31/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 5/26/2023 | PDP3604A | 2023-1 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/25/2023 | PDP2907A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/19/2023 | PDP0150A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/18/2023 | PDP0987A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

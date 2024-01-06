@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | NGP1320A | Roll Call Training Consolidated Roster | Passed | 0.0 | 19.25 |
 | 11/16/2023 | NGP2931A | Harassment Training | Passed | 0.0 | 2.00 |
 | 10/26/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/27/2023 | NGP1568A | Handgun Training | Passed | 0.0 | 2.00 |

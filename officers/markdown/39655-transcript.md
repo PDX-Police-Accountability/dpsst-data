@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2023 | PDP4197A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 12/21/2023 | PDP2142A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 12/7/2023 | PDP4131A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 11/30/2023 | PDP1400A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 11/9/2023 | PDP0996A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
@@ -91,6 +93,7 @@
 | 6/1/2023 | PDP0987A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/30/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/30/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 5/29/2023 | PDP3604A | 2023-1 AR-15 Instructor In-Service Training | Passed | 0.0 | 10.00 |
 | 5/26/2023 | PDP0401A | 2023-2 Range Qual Secondary Firearm (25 rd) | Passed | 0.0 | 0.50 |
 | 5/26/2023 | PDP4317A | 2023 Mandatory PPB Sergeant's Academy | Passed | 0.0 | 137.00 |
 | 5/22/2023 | PDP1278A | 2022 ABLE Performance Reviews for Supervisors | Passed | 0.0 | 0.25 |

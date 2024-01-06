@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 11/17/2023 | REG2933A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 10/22/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/19/2023 | REG1394A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |

@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/1/2023
+  course: PDP2635A
+  title: ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 10/30/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals

@@ -321,6 +321,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/29/2023
+  course: PDP3604A
+  title: 2023-1 AR-15 Instructor In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/26/2023
   course: PDP4317A
   title: 2023 Mandatory PPB Sergeant's Academy
@@ -777,6 +783,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/16/2022
+  course: PDP0753A
+  title: OR DOJ Fundamentals of Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 8/14/2022
   course: PDP05995
   title: 2022 OSHA Heat Illness Prevention with CityLearner

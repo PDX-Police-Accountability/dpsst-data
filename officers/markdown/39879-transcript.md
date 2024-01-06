@@ -79,6 +79,7 @@
 | 7/20/2023 | PDP4337A | 2023-2 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 7/20/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 7/19/2023 | VND0177A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 7/14/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/11/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 7/6/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/6/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |

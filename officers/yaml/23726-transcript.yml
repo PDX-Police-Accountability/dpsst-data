@@ -266,6 +266,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/31/2023
+  course: PDP3201A
+  title: 2023-1 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 7/24/2023
   course: PDP0931A
   title: City of Portland Bloodborne Pathogens

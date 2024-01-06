@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/28/2023 | PDP4197A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 12/21/2023 | PDP2142A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/4/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
 | 11/30/2023 | PDP4131A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |

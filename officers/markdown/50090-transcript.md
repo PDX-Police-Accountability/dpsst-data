@@ -85,6 +85,7 @@
 | 6/24/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/24/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/21/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 6/12/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 6/8/2023 | PDP1797A | 2023 K-9 Weekly Training | Instructed | 0.0 | 4.00 |
 | 6/3/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 6/3/2023 | PDP4227A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |

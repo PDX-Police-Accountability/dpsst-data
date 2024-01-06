@@ -201,6 +201,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/1/2023
+  course: PDP2635A
+  title: ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 9/18/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022

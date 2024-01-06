@@ -261,6 +261,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 7/10/2023
+  course: PDP3201A
+  title: 2023-1 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/26/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

@@ -252,6 +252,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/27/2023
+  course: PDP3201A
+  title: 2023-1 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/29/2023
   course: PDP1390A
   title: 2021-9 TT  Protecting Workers from the Dangers

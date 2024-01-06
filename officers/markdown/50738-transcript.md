@@ -79,6 +79,7 @@
 | 6/24/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 6/11/2023 | PDP1276A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 6/8/2023 | 23-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
+| 5/31/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 5/29/2023 | PDP1390A | 2021-9 TT  Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 5/29/2023 | PDP1278A | 2022 ABLE Performance Reviews for Supervisors | Passed | 0.0 | 0.25 |
 | 5/29/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |

@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/29/2023 | HBP3872A | PoliceOne Firearms 1 | Passed | 0.0 | 1.00 |
+| 12/29/2023 | HBP4407A | PoliceOne Firearms 2 | Passed | 0.0 | 1.00 |
+| 12/29/2023 | HBP3423A | PoliceOne Firearms 3 | Passed | 0.0 | 1.00 |
 | 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 4/26/2023 | HBP10095 | Karly's Law, Jessica's Law, Juvenile Update | Passed | 0.0 | 2.00 |
 | 4/26/2023 | HBP29327 | Range, Firearms Qual, Ballistic Shield | Passed | 0.0 | 5.00 |

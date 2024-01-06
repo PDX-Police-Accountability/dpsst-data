@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 12/31/2023 | The Dalles Police Department | Reclassed | Police Off |  |  |
 | 9/1/2023 | The Dalles Police Department | Promotion | Acting Sgt |  |  |
 | 3/12/2002 | The Dalles Police Department | Hired | Police Off |  |  |
 | 2/27/2002 | Portland Police Bureau | Resigned | Civln Emp |  |  |

@@ -90,6 +90,7 @@
 | 7/25/2023 | PDP2316A | 2023 FTEP HAZMAT/WMD Awareness/APR Gas Mask | Instructed | 0.0 | 3.00 |
 | 7/20/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/11/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/7/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/5/2023 | PDP3517A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/23/2023 | PDP2248A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 6/23/2023 | PDP0078A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |

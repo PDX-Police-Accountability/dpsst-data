@@ -62,6 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/29/2023
+  course: HBP3872A
+  title: PoliceOne Firearms 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/29/2023
+  course: HBP4407A
+  title: PoliceOne Firearms 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/29/2023
+  course: HBP3423A
+  title: PoliceOne Firearms 3
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/8/2023
   course: HBP2892A
   title: 'Changing Perceptions: Fair  Impartial Policing'

@@ -81,6 +81,7 @@
 | 8/7/2023 | PDP1117A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/24/2023 | PDP1883A | CPR/First Aid | Instructed | 0.0 | 1.75 |
 | 7/24/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/20/2023 | PDP3201A | 2023-1 AR-15 Operators In-Service Training | Passed | 0.0 | 10.00 |
 | 7/5/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/5/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
 | 6/27/2023 | PDP2867A | 2022 ECIT In Service Makeup Session | Passed | 0.0 | 10.00 |

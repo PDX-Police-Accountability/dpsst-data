@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/18/2023 | HBS2277A | Active Threat | Passed | 0.0 | 5.00 |
 | 12/8/2023 | VND1997A | Fundamentals of Peer Support | Passed | 0.0 | 8.00 |
 | 12/6/2023 | HBS1887A | Safe Restraints The Wrap | Passed | 0.0 | 1.00 |
 | 12/4/2023 | HBS2808A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |

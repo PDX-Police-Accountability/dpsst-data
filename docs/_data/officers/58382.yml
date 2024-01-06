@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 12/6/2023
+  course: OCS1700A
+  title: Balancing speed/marksmanship, Target ID
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/30/2023 | LOP2923A | Cyber Security Tabletop Exercise | Passed | 0.0 | 4.00 |
 | 11/6/2023 | LOP0957A | Adult/Child CPR AED | Passed | 0.0 | 2.00 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/13/2023 | LOP1707A | Firearms Training | Passed | 0.0 | 4.00 |

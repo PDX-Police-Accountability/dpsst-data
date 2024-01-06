@@ -159,6 +159,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 11/1/2023
+  course: PDP2635A
+  title: ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 10/30/2023
   course: PDP1020A
   title: 2023 Supevisor In-Service Elation
@@ -297,6 +303,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 6/30/2023
+  course: PDP3201A
+  title: 2023-1 AR-15 Operators In-Service Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/22/2023
   course: PDP2248A
   title: 2023 Field Drug Test Kits

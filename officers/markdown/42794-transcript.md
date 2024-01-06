@@ -43,10 +43,14 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/19/2023 | OCS1219A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 12/15/2023 | OCS2380A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |
+| 12/15/2023 | OCS4363A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |
 | 12/12/2023 | OCS3053A | Balance Speed/Marksmanship / Draw Concealment | Instructed | 0.0 | 4.00 |
+| 12/12/2023 | OCS1971A | Balance Speed/Marksmanship / Draw Concealment | Instructed | 0.0 | 4.00 |
 | 12/9/2023 | OCS2769A | Active Shooter Response | Instructed | 0.0 | 4.00 |
 | 12/8/2023 | OCS0077A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
+| 12/8/2023 | OCS1532A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
 | 12/6/2023 | OCS4143A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
+| 12/6/2023 | OCS1700A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
 | 12/1/2023 | OCS3271A | New Hire Patrol Tactics | Instructed | 0.0 | 8.00 |
 | 11/22/2023 | OCS2738A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
 | 11/22/2023 | OCS2843A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |

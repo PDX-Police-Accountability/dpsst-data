@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/1/2023
+  course: PDP2635A
+  title: ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 10/13/2023
   course: PDP0677A
   title: 2023 Supevisor In-Service Detectives

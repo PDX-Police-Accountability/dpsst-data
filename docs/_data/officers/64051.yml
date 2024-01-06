@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 11/17/2023
+  course: REG2933A
+  title: DID-SFST (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 10/30/2023
   course: PDP0359A
   title: Amended DOJ Settlement Agreement
