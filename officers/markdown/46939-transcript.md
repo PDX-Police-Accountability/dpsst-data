@@ -28,6 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/1/2020 | Masters Arts | All Other Education Institutes |  | 47.0 |
 | 3/15/2014 | No Degree | All Other Education Institutes |  | 6.0 |
 | 6/12/2004 | Bachelor Arts | Portland State University |  | 180.0 |
 ## Training

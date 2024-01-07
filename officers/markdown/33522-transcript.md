@@ -12,17 +12,20 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/1/2024 | OHSU University Police | Hired | Police Off |  |  |
 | 6/21/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 3/14/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/21/2023 | Police Officer | Advanced | Lapsed | 11/23/2010 | 6/21/2028 |  |
-| 9/21/2023 | Police Officer | Basic | Lapsed | 1/13/1998 | 6/21/2028 |  |
-| 9/21/2023 | Police Officer | Intermediate | Lapsed | 11/23/2010 | 6/21/2028 |  |
+| 1/1/2024 | Police Officer | Basic | Required |  |  | 7/1/2025 |
+| 9/21/2023 | Police Officer | Advanced | Lapsed | 11/23/2010 |  |  |
+| 9/21/2023 | Police Officer | Basic | Lapsed | 1/13/1998 |  |  |
+| 9/21/2023 | Police Officer | Intermediate | Lapsed | 11/23/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 1/4/2024 |  |
 | Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
 | Code of Ethics | Signed | 11/23/2010 |  |
 ## Education

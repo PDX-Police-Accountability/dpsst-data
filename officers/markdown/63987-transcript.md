@@ -13,6 +13,10 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 3/16/2023 | Portland Police Bureau | Hired | Police Off |  |  |
+| 11/15/2013 | Military Service | Resigned | Miltry Pol |  |  |
+| 1/28/2009 | Military Service | Hired | Miltry Pol |  |  |
+| 6/1/2008 | Military Service | Resigned | Miltry Pol |  |  |
+| 8/27/2002 | Military Service | Hired | Miltry Pol |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |

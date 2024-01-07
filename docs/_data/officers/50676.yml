@@ -3,12 +3,18 @@ header_record:
   name: Currier, Michael P.
   dpsst_identifier: '50676'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/30/2024
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 6/26/2020
   agency: Portland Police Bureau
   action: Resigned
@@ -36,6 +42,12 @@ certification_records:
   expiration_date: 6/26/2025
   probation_date: ''
 training_records:
+- date: 2/26/2024
+  course: 24-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
 - date: 11/25/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

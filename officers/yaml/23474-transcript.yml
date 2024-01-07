@@ -152,12 +152,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 4/11/2025
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 10/11/2024
   course: REQSUPV
   title: 'REQUIRED TRAINING:  Supervision'
@@ -174,6 +168,12 @@ training_records:
   course: 24-0004
   title: DPSST Basic Police COD Self-Study
   status: Registered
+  score: '0.0'
+  hours: '0.00'
+- date: 12/20/2023
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 11/1/2023

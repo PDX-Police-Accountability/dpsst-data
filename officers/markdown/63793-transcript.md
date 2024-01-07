@@ -64,12 +64,12 @@
 | 10/19/2023 | PDP4215A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 10/18/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/17/2023 | PDP2982A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
+| 10/13/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 9/22/2023 | REG1195A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 8/17/2023 | F6R1759A | Intox 8000 | Passed | 0.0 | 6.00 |
 | 8/17/2023 | REG3523A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
-| 6/12/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 6/8/2023 | PDP1597A | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 6/7/2023 | PDP3213 | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 18.00 |
 | 6/6/2023 | PDP3434 | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
