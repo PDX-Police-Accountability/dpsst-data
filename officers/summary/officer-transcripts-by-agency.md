@@ -1691,3 +1691,5 @@
 | Hwang, David J. | 64865 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64865-transcript.md) - [yaml](../yaml/64865-transcript.yml) |
 | Romero Velazco, Arnoldo | 64868 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64868-transcript.md) - [yaml](../yaml/64868-transcript.yml) |
 | Day, Muhammad H. | 64894 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64894-transcript.md) - [yaml](../yaml/64894-transcript.yml) |
+| Gorham, Jack A. | 64935 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64935-transcript.md) - [yaml](../yaml/64935-transcript.yml) |
+| Forsyth, Benjamin T. | 64936 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64936-transcript.md) - [yaml](../yaml/64936-transcript.yml) |
