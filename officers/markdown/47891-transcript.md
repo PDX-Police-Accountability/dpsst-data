@@ -32,9 +32,10 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2006 | No Degree | All Other Education Institutes |  | 24.0 |
-| 2/15/2006 | No Degree | All Other Education Institutes |  | 100.5 |
-| 2/15/1992 | No Degree | All Other Education Institutes |  | 66.0 |
+| 9/1/2023 | Bachelor Science | All Other Education Institutes | Law Enforcement | 79.0 |
+| 12/15/2006 | No Degree | All Other Education Institutes |  | 16.0 |
+| 2/15/2006 | No Degree | All Other Education Institutes |  | 67.0 |
+| 2/15/1992 | No Degree | All Other Education Institutes |  | 44.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

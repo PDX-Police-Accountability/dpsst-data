@@ -21,8 +21,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/17/2019 | Emergency Medical Dispatcher | Basic | Lapsed | 7/19/1999 | 12/17/2023 |  |
-| 12/17/2019 | Telecommunicator | Basic | Lapsed | 7/19/1999 | 12/17/2023 |  |
+| 12/17/2023 | Emergency Medical Dispatcher | Basic | Expired | 7/19/1999 |  |  |
+| 12/17/2023 | Telecommunicator | Basic | Expired | 7/19/1999 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

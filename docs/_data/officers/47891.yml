@@ -4443,18 +4443,23 @@ attribute_records:
   effective_date: 4/6/2007
   expiration_date: ''
 education_records:
+- date: 9/1/2023
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: Law Enforcement
+  hours: '79.0'
 - date: 12/15/2006
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '24.0'
+  hours: '16.0'
 - date: 2/15/2006
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '100.5'
+  hours: '67.0'
 - date: 2/15/1992
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '66.0'
+  hours: '44.0'

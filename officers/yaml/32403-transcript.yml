@@ -46,19 +46,19 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 12/17/2019
+- status_date: 12/17/2023
   certificate: Emergency Medical Dispatcher
   level: Basic
-  status: Lapsed
+  status: Expired
   certificate_date: 7/19/1999
-  expiration_date: 12/17/2023
+  expiration_date: ''
   probation_date: ''
-- status_date: 12/17/2019
+- status_date: 12/17/2023
   certificate: Telecommunicator
   level: Basic
-  status: Lapsed
+  status: Expired
   certificate_date: 7/19/1999
-  expiration_date: 12/17/2023
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 11/18/2020

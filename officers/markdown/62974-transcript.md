@@ -30,7 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/13/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 5.00 |
 | 12/1/2023 | OCS3271A | New Hire Patrol Tactics | Passed | 0.0 | 40.00 |
 | 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 0.25 |

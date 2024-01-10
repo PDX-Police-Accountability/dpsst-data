@@ -4,7 +4,7 @@
 | name | Scott, Ross C. |
 | dpsst_identifier | 37329 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/1/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 4/11/2019 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 4/5/2010 | Portland Police Bureau | Retrn MLOA | Police Off |  |  |
 | 4/5/2007 | Portland Police Bureau | Mil-LOA | Police Off |  |  |
@@ -19,10 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/17/2021 | Police Officer | Supervisory | Granted | 5/17/2021 |  |  |
-| 10/12/2005 | Police Officer | Advanced | Granted | 10/12/2005 |  |  |
-| 10/12/2005 | Police Officer | Intermediate | Granted | 10/12/2005 |  |  |
-| 7/12/2000 | Police Officer | Basic | Granted | 7/12/2000 |  |  |
+| 5/17/2021 | Police Officer | Supervisory | Granted | 5/17/2021 | 4/1/2024 |  |
+| 10/12/2005 | Police Officer | Advanced | Granted | 10/12/2005 | 4/1/2024 |  |
+| 10/12/2005 | Police Officer | Intermediate | Granted | 10/12/2005 | 4/1/2024 |  |
+| 7/12/2000 | Police Officer | Basic | Granted | 7/12/2000 | 4/1/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
