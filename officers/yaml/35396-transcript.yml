@@ -82,12 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 2/2/2024
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
+- date: 12/1/2023
+  course: 23-0026
+  title: DPSST Middle Management
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '80.00'
 - date: 12/1/2023
   course: PDP3834A
   title: Organizational Leadership  Mgmnt Academy
@@ -160,12 +160,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
-- date: 10/23/2023
-  course: 23-0026
-  title: DPSST Middle Management
-  status: Registered
-  score: '0.0'
-  hours: '80.00'
 - date: 10/19/2023
   course: PDP1401A
   title: FIN-6.14  with KC
