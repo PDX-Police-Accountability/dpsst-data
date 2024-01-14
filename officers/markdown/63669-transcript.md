@@ -29,6 +29,20 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 12/28/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 12/28/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 12/27/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP1438A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 12/18/2023 | PDP1842A | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP3794A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 12/18/2023 | PDP1043A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP2709A | 2023 PPB Lead Exposure Training | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP2887A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP1887A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 12/18/2023 | PDP4459A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 12/18/2023 | PDP1741A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP1918A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP0839A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 11/29/2023 | PDP1662A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP3253A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1306A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |

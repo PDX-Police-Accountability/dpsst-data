@@ -56,6 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2024
+  course: PSU3531A
+  title: MCDA Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/28/2023
+  course: PSU0356A
+  title: Firearms Q4
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/28/2023
+  course: PSU1924A
+  title: MILO 3000 Use of Force scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/12/2023
   course: PSU1614A
   title: MILO 3000
@@ -146,6 +164,12 @@ training_records:
   status: Incomplete
   score: '0.0'
   hours: '80.00'
+- date: 11/11/2021
+  course: PSU1251A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/20/2021
   course: F6F10746
   title: Dean of Student Life Training

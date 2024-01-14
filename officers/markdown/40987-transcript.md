@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/27/2023 | PDP0496A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 12/15/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 12/15/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/13/2023 | PDP4319A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/6/2023 | PDP1047A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 11/30/2023 | PDP4067A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |

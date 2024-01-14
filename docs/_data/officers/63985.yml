@@ -30,6 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/4/2024
+  course: PDP0040A
+  title: 2024 FTEP Post Basic CEW Taser
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 12/18/2023
+  course: PDP1842A
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP0139A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP1887A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/18/2023
+  course: PDP3317A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/17/2023
   course: REG2933A
   title: DID-SFST (Hours included in Basic)

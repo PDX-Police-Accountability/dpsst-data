@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2024 | SPP1739A | Legal Update - Lane County DA | Passed | 0.0 | 4.00 |
 | 12/12/2023 | SPP4259A | Use of Force Policy Review | Passed | 0.0 | 3.50 |
 | 11/14/2023 | SPP3540A | Presidia Gel training | Passed | 0.0 | 1.00 |
 | 10/10/2023 | SPP3705A | De-escalation | Passed | 0.0 | 2.00 |

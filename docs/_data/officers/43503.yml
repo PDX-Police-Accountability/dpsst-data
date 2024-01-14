@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 11/30/2023
+  course: PDP2054A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/29/2023
   course: PDP3617A
   title: 2023-2 All Sworn In-Service Crime Scene Mgmt

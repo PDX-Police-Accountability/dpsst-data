@@ -50,6 +50,7 @@
 | 3/8/2023 | PDS11734 | Policy Update / Use of Force Review | Passed | 0.0 | 2.00 |
 | 2/26/2023 | PDS03063 | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/26/2023 | PDS23959 | TacMed | Passed | 0.0 | 4.00 |
+| 2/26/2023 | PDS3976A | Benchmark Analytics | Passed | 0.0 | 4.00 |
 | 2/3/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 1/13/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 12/31/2022 | PDS37218 | Stops and Searches | Passed | 0.0 | 0.50 |

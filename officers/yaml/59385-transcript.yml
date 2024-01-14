@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2024
+  course: PSU3531A
+  title: MCDA Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 10/26/2023
   course: BPT2208A
   title: Field Training and Evlauation Program / IDC
@@ -247,6 +253,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 11/16/2021
+  course: PSU1251A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 9/18/2021
   course: F6F02217
   title: In - Service Training

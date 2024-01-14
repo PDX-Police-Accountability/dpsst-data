@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 1.25 |
+| 12/28/2023 | PSU0356A | Firearms Q4 | Passed | 0.0 | 2.00 |
+| 12/28/2023 | PSU1924A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 2.00 |
 | 10/12/2023 | PSU1614A | MILO 3000 | Passed | 0.0 | 0.00 |
 | 8/31/2023 | PSU0247A | Intro to Trauma Informed Care | Passed | 0.0 | 1.50 |
 | 4/25/2023 | PSU12438 | Ethics In Law Enforcement | Passed | 0.0 | 0.00 |
@@ -50,6 +53,7 @@
 | 12/31/2021 | 21-CVDL1 | 2021 LE Annual Maint-Not Met COVID19 | Incomplete | 0.0 | 0.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 1.00 |
 | 11/19/2021 | 21-0029 | DPSST Supervision | Incomplete | 0.0 | 80.00 |
+| 11/11/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 10/20/2021 | F6F10746 | Dean of Student Life Training | Passed | 0.0 | 2.00 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 8/11/2021 | F6F02582 | De-Escalation Training | Passed | 0.0 | 6.00 |

@@ -50,18 +50,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: OCS1304A
+  title: Marksmanship, Movement, problem solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2023
+  course: OCS4325A
+  title: Use of Force Reporting/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/12/2023
+  course: OCS0920A
+  title: Balancing Speed/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/1/2023
   course: OCS2766A
   title: Bias Training
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/28/2023
+  course: OCS2846A
+  title: Peer Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/23/2023
   course: OCS1779A
   title: 2023 Legislative Update

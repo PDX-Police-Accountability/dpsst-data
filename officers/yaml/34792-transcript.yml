@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/4/2023
+  course: TAP2099A
+  title: Mock Trial Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/7/2023
   course: TAP4029A
   title: Understanding and Responding to Excited Delirium
@@ -68,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/17/2023
+  course: TAP1238A
+  title: 9th Circuit Court of Appeals Update Willamette Law
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 9/27/2023
   course: TAP1338A
   title: TASER 7 Annual Recert
@@ -86,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/4/2023
+  course: TAP0394A
+  title: DPSST Legal Update May and June 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 8/31/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -110,6 +128,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 8/15/2023
+  course: TAP4140A
+  title: Heat/Smoke Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/10/2023
+  course: TAP0567A
+  title: DPSST Traffic Safety News - June 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 7/5/2023
+  course: TAP2510A
+  title: DPSST Legal Update March April 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 7/5/2023
+  course: TAP0394A
+  title: DPSST Legal Update May and June 2023
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 6/25/2023
   course: TAP4484A
   title: Airways Training Patient Eval for LE

@@ -17,6 +17,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/9/2024
+  course: BPT2415A
+  title: Facilitator Development
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/11/2015
   course: 15-0820
   title: Criminal Intelligence Training

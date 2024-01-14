@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2023
+  course: PDP0139A
+  title: 2023 DIR 0620.00 BWC Use and Management
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/28/2023
   course: PDP4197A
   title: 2023 SERT Training - SCENARIO
@@ -42,6 +48,54 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/14/2023
+  course: PDP2054A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2023
+  course: PDP2343A
+  title: 2022-12 CAO Legal Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2023
+  course: PDP0200A
+  title: 2022-10 CAO Legal Updates for 10/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2023
+  course: PDP1419A
+  title: 2022-11 CAO Legal Updates for 11/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2023
+  course: PDP3964A
+  title: 2022-9 CAO Legal Updates for 09/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2023
+  course: PDP1310A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2023
+  course: PDP3317A
+  title: 2023-2 TT BWC Pilot Policy and Procedure FAQ
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/14/2023
+  course: PDP1918A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/13/2023
   course: PDP0003A
   title: 2023-3 Range Qualification Primary Firearm

@@ -50,6 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/15/2023
+  course: VND1252A
+  title: North American Standard Truck Inspection Part B
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 12/12/2023
+  course: OCS1304A
+  title: Marksmanship, Movement, problem solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2023
+  course: OCS4325A
+  title: Use of Force Reporting/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/30/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -110,6 +128,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 7/21/2023
+  course: VND2379A
+  title: North American Standard Truck Inspection Part A
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 7/19/2023
   course: LOP4276A
   title: West Metro Monthly Motor Training 07/19/2023

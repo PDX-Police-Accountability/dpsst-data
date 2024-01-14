@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/15/2023 | VND1252A | North American Standard Truck Inspection Part B | Passed | 0.0 | 40.00 |
+| 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
+| 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
 | 11/30/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2023 | OCS2341A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS0946A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
@@ -45,6 +48,7 @@
 | 8/16/2023 | LOP3340A | West Metro Monthly Motor Training 08/16/2023 | Passed | 0.0 | 5.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/7/2023 | OCS3800A | FTO Meeting/Training | Passed | 0.0 | 2.00 |
+| 7/21/2023 | VND2379A | North American Standard Truck Inspection Part A | Passed | 0.0 | 40.00 |
 | 7/19/2023 | LOP4276A | West Metro Monthly Motor Training 07/19/2023 | Passed | 0.0 | 5.00 |
 | 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/1/2023 | OCS3771A | High Risk Vehicle Stops | Passed | 0.0 | 1.00 |

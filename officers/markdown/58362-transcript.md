@@ -35,9 +35,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
+| 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
 | 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/15/2023 | OCS1812A | Taser Refresher | Passed | 0.0 | 1.00 |
+| 11/14/2023 | OCS1189A | Taser | Passed | 0.0 | 1.00 |
+| 11/12/2023 | OCS0920A | Balancing Speed/Marksmanship | Passed | 0.0 | 1.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
@@ -46,6 +50,8 @@
 | 9/13/2023 | OCS3861A | Scenarios and Deescalation | Passed | 0.0 | 1.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
+| 7/28/2023 | VND0019A | North American Standard Truck Inspection Part B | Passed | 0.0 | 40.00 |
+| 7/21/2023 | VND2379A | North American Standard Truck Inspection Part A | Passed | 0.0 | 40.00 |
 | 7/10/2023 | OCS4343A | 2023 Community Caretaking Update Trg Bulletin | Passed | 0.0 | 0.25 |
 | 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 7/1/2023 | OCS3379A | One Handed Shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |

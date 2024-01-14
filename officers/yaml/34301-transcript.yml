@@ -259,6 +259,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/14/2023
+  course: TRN0334A
+  title: DOC - Use of Force Report Writing v2023
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/13/2023
   course: TRN41307
   title: First Aid Adult Child Infant CPR AED v2023

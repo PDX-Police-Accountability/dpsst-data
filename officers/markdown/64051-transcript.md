@@ -29,6 +29,19 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 12/26/2023 | PDP1842A | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP3794A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 12/26/2023 | PDP2917A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP1887A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 12/18/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP1438A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 12/18/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP2212A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP1741A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP2740A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/17/2023 | REG2933A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 10/30/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/19/2023 | REG1394A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

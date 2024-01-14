@@ -32,6 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/2/2024 | PDP2985A | 2023 Training Red Dot Optic Transition Course | Passed | 0.0 | 27.00 |
+| 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/13/2023 | PDP0831A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |
 | 12/13/2023 | PDP3497A | 2023-2 All Sworn In-Service TII Equity 1 | Passed | 0.0 | 1.00 |
 | 12/13/2023 | PDP2976A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |

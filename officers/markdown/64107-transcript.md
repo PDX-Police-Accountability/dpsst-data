@@ -29,6 +29,17 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 12/26/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP3794A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 12/26/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP0890A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP2917A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP0139A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP3317A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP1741A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/17/2023 | REG2933A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 10/19/2023 | REG1394A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |

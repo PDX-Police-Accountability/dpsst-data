@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/19/2023
+  course: PDP3700A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/19/2023
+  course: PDP4150A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/28/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

@@ -67,6 +67,24 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 1/4/2024
+  course: MOS4372A
+  title: NORTAC - Low Light Range
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 12/27/2023
+  course: MOS0812A
+  title: NORTAC Racine OIS Debrief
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/24/2023
+  course: HRS4089A
+  title: Basic Firearms Refresher PowerPoint
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/7/2023
   course: OSA3159A
   title: Challenging Law Dr Jack Enter, 12-7-23
@@ -94,6 +112,12 @@ training_records:
 - date: 11/16/2023
   course: REG2736A
   title: EVO Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/16/2023
+  course: REG2047A
+  title: Emergency Vehicle Operations - Skill Update
   status: Passed
   score: '0.0'
   hours: '4.00'

@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/14/2023
+  course: PDN4453A
+  title: 'Case Management: Case Plan Overview'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/13/2023
   course: PDN0046A
   title: 'Case Management: EPICS'

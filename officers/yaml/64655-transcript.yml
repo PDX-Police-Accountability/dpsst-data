@@ -36,5 +36,29 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/26/2023
+  course: PDP2915A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/26/2023
+  course: PDP1322A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2023
+  course: PDP1004A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/26/2023
+  course: PDP3678A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 attribute_records: []
 education_records: []

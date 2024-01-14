@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 1/12/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 10/17/2022 | Police Officer | Basic | Granted | 10/17/2022 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -34,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
+| 12/7/2023 | PSU0507A | Advanced Digital Threat Assessment | Passed | 0.0 | 6.50 |
 | 11/8/2023 | PSU1821A | Behavioral Threat Assessment | Passed | 0.0 | 16.00 |
 | 10/4/2023 | PSU4061A | Digital Threat Assesment | Passed | 0.0 | 6.00 |
 | 5/16/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |
@@ -60,6 +63,7 @@
 | 12/27/2021 | F1531394 | Active Shooter 3 | Passed | 0.0 | 1.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 12/15/2021 | F1502484 | Campus Policing | Passed | 0.0 | 1.00 |
+| 11/12/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/10/2021 | 21-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 80.00 |
 | 10/20/2021 | F6F10746 | Dean of Student Life Training | Passed | 0.0 | 2.00 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |

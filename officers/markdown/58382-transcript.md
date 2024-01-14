@@ -35,8 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
+| 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
 | 12/6/2023 | OCS4143A | Balancing speed/marksmanship, Target ID | Passed | 0.0 | 2.00 |
 | 12/6/2023 | OCS1700A | Balancing speed/marksmanship, Target ID | Passed | 0.0 | 2.00 |
+| 12/6/2023 | OCS2752A | Balancing speed/marksmanship, Target ID | Passed | 0.0 | 2.00 |
 | 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |

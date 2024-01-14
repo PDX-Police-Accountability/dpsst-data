@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: OCS1304A
+  title: Marksmanship, Movement, problem solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2023
+  course: OCS4325A
+  title: Use of Force Reporting/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -70,6 +82,18 @@ training_records:
 - date: 11/15/2023
   course: OCS1812A
   title: Taser Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2023
+  course: OCS1189A
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/12/2023
+  course: OCS0920A
+  title: Balancing Speed/Marksmanship
   status: Passed
   score: '0.0'
   hours: '1.00'

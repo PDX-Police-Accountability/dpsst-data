@@ -28,7 +28,22 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/5/2023 | PDP1842A | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 12/5/2023 | PDP3794A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
+| 12/5/2023 | PDP1043A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 12/5/2023 | PDP2887A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 12/5/2023 | PDP1887A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 12/5/2023 | PDP2212A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 12/5/2023 | PDP1918A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 12/4/2023 | PDP1459A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
+| 12/4/2023 | PDP1419A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 12/4/2023 | PDP2343A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 12/4/2023 | PDP4217A | 2022-3 TT Oregon Ballot Measure 114 (BM 114) | Passed | 0.0 | 0.50 |
+| 12/4/2023 | PDP2048A | 2022-5 CAO Legal Updates for 05/2022 | Passed | 0.0 | 0.25 |
+| 12/4/2023 | PDP0513A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 12/4/2023 | PDP3919A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 12/4/2023 | PDP0200A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 12/4/2023 | PDP1739A | Oregon Ballot Measure 114 | Passed | 0.0 | 0.25 |
 | 11/28/2023 | PDP2257A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 11/28/2023 | PDP4466A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
 | 11/28/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

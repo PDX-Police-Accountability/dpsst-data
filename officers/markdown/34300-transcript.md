@@ -25,6 +25,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2024 | BPT2415A | Facilitator Development | Passed | 0.0 | 8.00 |
 | 8/11/2015 | 15-0820 | Criminal Intelligence Training | Passed | 0.0 | 2.00 |
 | 12/31/2014 | 14-0716 | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 7/31/2014 | 14-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 0.50 |

@@ -41,11 +41,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/4/2024 | MOS4372A | NORTAC - Low Light Range | Passed | 0.0 | 3.50 |
+| 12/27/2023 | MOS0812A | NORTAC Racine OIS Debrief | Passed | 0.0 | 2.00 |
+| 12/24/2023 | HRS4089A | Basic Firearms Refresher PowerPoint | Passed | 0.0 | 3.00 |
 | 12/7/2023 | OSA3159A | Challenging Law Dr Jack Enter, 12-7-23 | Passed | 0.0 | 8.00 |
 | 12/6/2023 | OSA3313A | Emotional Survival Dr Kevin Gilmartin, 12-6-23 | Passed | 0.0 | 8.00 |
 | 12/5/2023 | OSA4313A | Firearms Use of Force - Elmer Dickens - 12/05/23 | Passed | 0.0 | 4.00 |
 | 12/5/2023 | OSA2109A | Legal Updates - Elmer Dickens - 12/05/23 | Passed | 0.0 | 1.00 |
 | 11/16/2023 | REG2736A | EVO Refresher | Passed | 0.0 | 4.00 |
+| 11/16/2023 | REG2047A | Emergency Vehicle Operations - Skill Update | Passed | 0.0 | 4.00 |
 | 11/9/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/9/2023 | MOS1826A | NORTAC Leadership | Passed | 0.0 | 0.50 |
 | 11/9/2023 | MOS0651A | Land Navigation and Map Reading | Passed | 0.0 | 2.00 |

@@ -56,6 +56,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/2/2024
+  course: PDP2985A
+  title: 2023 Training Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '27.00'
+- date: 12/18/2023
+  course: PDP4150A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/24/2023
   course: PDP1371A
   title: 2023-3 Range Qual 40mm Less Lethal Qualification

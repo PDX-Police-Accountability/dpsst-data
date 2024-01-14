@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/30/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 12/30/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/27/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/22/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 24.00 |
 | 11/14/2023 | PDP2139A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

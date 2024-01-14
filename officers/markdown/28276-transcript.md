@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/5/2024 | SVP2012A | Uvalde Shooting Documentary  Debrief | Passed | 0.0 | 1.50 |
 | 12/20/2023 | SVP2057A | Less Lethal Shotgun | Instructed | 0.0 | 1.00 |
 | 12/20/2023 | SVP3487A | Red Dot Pistoal Training  Qualification | Instructed | 0.0 | 16.00 |
 | 12/20/2023 | SVP3868A | Rifle Qualification | Instructed | 0.0 | 1.00 |

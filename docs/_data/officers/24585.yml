@@ -82,6 +82,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/28/2023
+  course: PSU0356A
+  title: Firearms Q4
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/28/2023
+  course: PSU1924A
+  title: MILO 3000 Use of Force scenarios
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 11/8/2023
   course: PSU0247A
   title: Intro to Trauma Informed Care
@@ -208,6 +220,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/9/2021
+  course: PSU1251A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 9/18/2021
   course: F6F02217
   title: In - Service Training

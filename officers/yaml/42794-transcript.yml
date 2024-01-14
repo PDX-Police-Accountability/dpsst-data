@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/30/2023
+  course: OCS1389A
+  title: December firearms instruction
+  status: Instructed
+  score: '0.0'
+  hours: '56.00'
 - date: 12/19/2023
   course: OCS1219A
   title: Shotgun Orientation
@@ -104,6 +110,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 12/15/2023
+  course: OCS0904A
+  title: November /December / 4th Qtr Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/12/2023
   course: OCS3053A
   title: Balance Speed/Marksmanship / Draw Concealment
@@ -116,6 +128,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 12/12/2023
+  course: OCS1304A
+  title: Marksmanship, Movement, problem solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/12/2023
+  course: OCS1973A
+  title: Balance Speed/Marksmanship / Draw Concealment
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 12/11/2023
+  course: OCS4325A
+  title: Use of Force Reporting/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/9/2023
   course: OCS2769A
   title: Active Shooter Response
@@ -134,6 +164,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 12/8/2023
+  course: OCS2987A
+  title: SWAT Sniper- Marksmanship / Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/6/2023
   course: OCS4143A
   title: Balancing speed/marksmanship, Target ID
@@ -146,12 +182,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 12/6/2023
+  course: OCS2752A
+  title: Balancing speed/marksmanship, Target ID
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/1/2023
   course: OCS3271A
   title: New Hire Patrol Tactics
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 11/30/2023
+  course: OCS0170A
+  title: November firearms instruction
+  status: Instructed
+  score: '0.0'
+  hours: '109.00'
 - date: 11/22/2023
   course: OCS2738A
   title: NHF MILO use of force decisions
@@ -176,6 +224,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/12/2023
+  course: OCS0920A
+  title: Balancing Speed/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/9/2023
+  course: OCS0384A
+  title: 2023 Patrol Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 10/23/2023
   course: OCS1779A
   title: 2023 Legislative Update

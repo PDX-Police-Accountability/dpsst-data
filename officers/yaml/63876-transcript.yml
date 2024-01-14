@@ -30,12 +30,42 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/15/2023
+  course: PDP3700A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/15/2023
+  course: PDP4150A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/5/2023
+  course: PDP1842A
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/5/2023
+  course: PDP1887A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/4/2023
   course: PDP1459A
   title: WMD/Terrorism Awareness for Emergency Respndrs
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/4/2023
+  course: PDP4236A
+  title: DIR 0635.10 PPB Response to Public Order Events
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/28/2023
   course: PDP1467A
   title: 2022 Naxolone Administration

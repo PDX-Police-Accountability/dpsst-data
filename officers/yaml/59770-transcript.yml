@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/24/2023
+  course: PDP4150A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/21/2023
   course: PDP2142A
   title: 2023 SERT Training - FIREARMS

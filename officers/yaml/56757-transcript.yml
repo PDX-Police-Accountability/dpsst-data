@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 1/12/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/17/2022
   certificate: Police Officer
   level: Basic
@@ -36,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2024
+  course: PSU3531A
+  title: MCDA Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 12/7/2023
+  course: PSU0507A
+  title: Advanced Digital Threat Assessment
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 11/8/2023
   course: PSU1821A
   title: Behavioral Threat Assessment
@@ -192,6 +211,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/12/2021
+  course: PSU1251A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 11/10/2021
   course: 21-0004
   title: DPSST Basic Police COD Self-Study

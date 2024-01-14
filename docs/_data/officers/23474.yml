@@ -170,12 +170,30 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/28/2023
+  course: PDP3700A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2023
+  course: PDP4150A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/20/2023
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/19/2023
+  course: PDP0675A
+  title: FIN-6.14 Non-travel Meals, Light Refreshments
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/1/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

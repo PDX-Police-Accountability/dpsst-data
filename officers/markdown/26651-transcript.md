@@ -45,6 +45,7 @@
 | 5/24/2023 | PDS2304A | Power DMS Author Training | Passed | 0.0 | 2.00 |
 | 5/10/2023 | PDS15850 | Use of Force Report Writing | Passed | 0.0 | 4.00 |
 | 4/27/2023 | PDS28112 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
+| 4/27/2023 | PDS1437A | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 3/20/2023 | PDS11640 | Benchmark Analytics | Instructed | 0.0 | 4.00 |
 | 3/18/2023 | PDS34199 | PowerDMS | Passed | 0.0 | 0.50 |
 | 3/12/2023 | PDS13576 | Benchmark Analytics | Instructed | 0.0 | 4.00 |

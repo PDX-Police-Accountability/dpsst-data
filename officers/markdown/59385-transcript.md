@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
 | 10/26/2023 | BPT2208A | Field Training and Evlauation Program / IDC | Passed | 0.0 | 32.00 |
 | 10/11/2023 | PSU4516A | Firearms Training / Qualification | Passed | 0.0 | 2.00 |
 | 8/21/2023 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 0.50 |
@@ -68,6 +69,7 @@
 | 12/22/2021 | F6E07694 | MILO Range Certified MILO Instructor Course | Passed | 0.0 | 16.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 11/19/2021 | E11PSU19 | FTM Equivalency (Portland State University PD) | Completed | 0.0 | 50.00 |
+| 11/16/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 6/21/2021 | F6E14093 | Crisis Response  Communication Training | Passed | 0.0 | 5.00 |
 | 4/30/2021 | F6E08733 | Firearms Training | Passed | 0.0 | 5.50 |

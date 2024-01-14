@@ -36,6 +36,90 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 12/28/2023
+  course: PDP3700A
+  title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/28/2023
+  course: PDP4150A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/27/2023
+  course: PDP2054A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP1438A
+  title: 2023 Axon CEW Annual Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/18/2023
+  course: PDP1842A
+  title: 2022-12 CAO Case Law Updates for 12/2022
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP3794A
+  title: 2022 HB 2513 Airways
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/18/2023
+  course: PDP1043A
+  title: 2022 Naxolone Administration
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP2709A
+  title: 2023 PPB Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP2887A
+  title: 2023 Naxolone 'Narcan' Distribution
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP1887A
+  title: 2023 Karly's Law - Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/18/2023
+  course: PDP4459A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 12/18/2023
+  course: PDP1741A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP1918A
+  title: 2023 Restorative Justice Referrals and Reporting
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 12/18/2023
+  course: PDP0839A
+  title: Amended DOJ Settlement Agreement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/29/2023
   course: PDP1662A
   title: 2023 Terminator Tire Deflation Device

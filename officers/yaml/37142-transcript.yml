@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2024
+  course: SPP1739A
+  title: Legal Update - Lane County DA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/12/2023
   course: SPP4259A
   title: Use of Force Policy Review

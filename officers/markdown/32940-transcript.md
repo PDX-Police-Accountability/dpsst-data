@@ -4,7 +4,7 @@
 | name | Steinbronn, Richard E. |
 | dpsst_identifier | 32940 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,16 +12,18 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/21/2022 | Portland Police Bureau | Hired | Sergeant |  |  |
 | 1/4/2022 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 12/11/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 10/3/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/4/2022 | Police Officer | Advanced | Lapsed | 6/25/2010 | 1/4/2027 |  |
-| 4/4/2022 | Police Officer | Basic | Lapsed | 7/28/1997 | 1/4/2027 |  |
-| 4/4/2022 | Police Officer | Intermediate | Lapsed | 6/25/2010 | 1/4/2027 |  |
-| 4/4/2022 | Police Officer | Supervisory | Lapsed | 6/25/2010 | 1/4/2027 |  |
+| 7/21/2022 | Police Officer | Basic | Required |  |  | 1/21/2024 |
+| 4/4/2022 | Police Officer | Advanced | Lapsed | 6/25/2010 |  |  |
+| 4/4/2022 | Police Officer | Basic | Lapsed | 7/28/1997 |  |  |
+| 4/4/2022 | Police Officer | Intermediate | Lapsed | 6/25/2010 |  |  |
+| 4/4/2022 | Police Officer | Supervisory | Lapsed | 6/25/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

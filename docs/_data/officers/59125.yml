@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/30/2023
+  course: PDP1310A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/28/2023
   course: PDP1676A
   title: 2023-2 All Sworn In-Service BWC Test

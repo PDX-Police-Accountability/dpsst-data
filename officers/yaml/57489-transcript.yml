@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/11/2023
+  course: PDP0483A
+  title: 2023 Microsoft_Cloud Storage with OD and SP
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/6/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance

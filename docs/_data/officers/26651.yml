@@ -123,6 +123,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 4/27/2023
+  course: PDS1437A
+  title: Benchmark Analytics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/20/2023
   course: PDS11640
   title: Benchmark Analytics

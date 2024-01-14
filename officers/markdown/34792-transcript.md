@@ -38,15 +38,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/4/2023 | TAP2099A | Mock Trial Training | Passed | 0.0 | 4.00 |
 | 11/7/2023 | TAP4029A | Understanding and Responding to Excited Delirium | Passed | 0.0 | 1.00 |
 | 11/7/2023 | ADP1302A | Night Range-Handgun-Rifle | Passed | 0.0 | 4.00 |
+| 10/17/2023 | TAP1238A | 9th Circuit Court of Appeals Update Willamette Law | Passed | 0.0 | 0.75 |
 | 9/27/2023 | TAP1338A | TASER 7 Annual Recert | Instructed | 0.0 | 1.00 |
 | 9/26/2023 | TAP3156A | Active Threat Mass Casualty Reunification | Passed | 0.0 | 6.00 |
 | 9/15/2023 | ADP0343 | Building searches/ Scenarios | Passed | 0.0 | 8.00 |
+| 9/4/2023 | TAP0394A | DPSST Legal Update May and June 2023 | Passed | 0.0 | 0.75 |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/15/2023 | ADP0017A | Ethos - Principles of Leadership | Passed | 0.0 | 3.00 |
 | 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Instructed | 0.0 | 8.00 |
 | 8/15/2023 | ADP3740A | TASER 7 Annual Recertification | Passed | 0.0 | 4.00 |
+| 8/15/2023 | TAP4140A | Heat/Smoke Exposure Training | Passed | 0.0 | 0.50 |
+| 7/10/2023 | TAP0567A | DPSST Traffic Safety News - June 2023 | Passed | 0.0 | 0.75 |
+| 7/5/2023 | TAP2510A | DPSST Legal Update March April 2023 | Passed | 0.0 | 0.75 |
+| 7/5/2023 | TAP0394A | DPSST Legal Update May and June 2023 | Passed | 0.0 | 0.75 |
 | 6/25/2023 | TAP4484A | Airways Training Patient Eval for LE | Passed | 0.0 | 2.00 |
 | 6/16/2023 | ADP3920A | Firearms - Combat Efficiency and Speed | Passed | 0.0 | 4.00 |
 | 6/8/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

@@ -71,6 +71,7 @@
 | 2/14/2023 | TRN37840 | Critical Incidents and Trauma Informed Care v2023 | Passed | 0.0 | 1.00 |
 | 2/14/2023 | TRN11019 | DOC - Krav Maga Def Tactics v2022c | Passed | 0.0 | 2.00 |
 | 2/14/2023 | TRN01347 | DOC - Use of Force Emergency Protocols v2023 | Passed | 0.0 | 2.00 |
+| 2/14/2023 | TRN0334A | DOC - Use of Force Report Writing v2023 | Passed | 0.0 | 3.00 |
 | 2/13/2023 | TRN41307 | First Aid Adult Child Infant CPR AED v2023 | Passed | 0.0 | 8.00 |
 | 12/29/2022 | TRN07778 | TRANSPORT - Escorting AICs in the Community v2019R | Passed | 0.0 | 8.00 |
 | 3/17/2022 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |

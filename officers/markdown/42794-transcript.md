@@ -41,21 +41,31 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/30/2023 | OCS1389A | December firearms instruction | Instructed | 0.0 | 56.00 |
 | 12/19/2023 | OCS1219A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 12/15/2023 | OCS2380A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |
 | 12/15/2023 | OCS4363A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |
+| 12/15/2023 | OCS0904A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |
 | 12/12/2023 | OCS3053A | Balance Speed/Marksmanship / Draw Concealment | Instructed | 0.0 | 4.00 |
 | 12/12/2023 | OCS1971A | Balance Speed/Marksmanship / Draw Concealment | Instructed | 0.0 | 4.00 |
+| 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
+| 12/12/2023 | OCS1973A | Balance Speed/Marksmanship / Draw Concealment | Instructed | 0.0 | 4.00 |
+| 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
 | 12/9/2023 | OCS2769A | Active Shooter Response | Instructed | 0.0 | 4.00 |
 | 12/8/2023 | OCS0077A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
 | 12/8/2023 | OCS1532A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
+| 12/8/2023 | OCS2987A | SWAT Sniper- Marksmanship / Target ID | Instructed | 0.0 | 6.00 |
 | 12/6/2023 | OCS4143A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
 | 12/6/2023 | OCS1700A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
+| 12/6/2023 | OCS2752A | Balancing speed/marksmanship, Target ID | Instructed | 0.0 | 2.00 |
 | 12/1/2023 | OCS3271A | New Hire Patrol Tactics | Instructed | 0.0 | 8.00 |
+| 11/30/2023 | OCS0170A | November firearms instruction | Instructed | 0.0 | 109.00 |
 | 11/22/2023 | OCS2738A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
 | 11/22/2023 | OCS2843A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
 | 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/12/2023 | OCS0920A | Balancing Speed/Marksmanship | Passed | 0.0 | 1.00 |
+| 11/9/2023 | OCS0384A | 2023 Patrol Legal Updates | Passed | 0.0 | 8.00 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS2180A | Balancing Speed/Marksmanship | Instructed | 0.0 | 3.00 |

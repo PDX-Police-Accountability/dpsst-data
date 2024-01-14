@@ -60,6 +60,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/12/2023
+  course: OCS1304A
+  title: Marksmanship, Movement, problem solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2023
+  course: OCS4325A
+  title: Use of Force Reporting/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/20/2023
   course: OCS2341A
   title: 2023 Ethics - Pillars to Success and Longevity
@@ -78,6 +90,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 11/12/2023
+  course: OCS0920A
+  title: Balancing Speed/Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/23/2023
   course: OCS1779A
   title: 2023 Legislative Update

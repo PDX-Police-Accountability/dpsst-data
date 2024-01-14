@@ -29,6 +29,33 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/31/2023 | PDP2917A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 12/31/2023 | PDP3126A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
+| 12/27/2023 | PDP2709A | 2023 PPB Lead Exposure Training | Passed | 0.0 | 0.25 |
+| 12/27/2023 | PDP0890A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 12/27/2023 | PDP4459A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 12/27/2023 | PDP3317A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP1419A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP2343A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP0513A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP1517A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP3919A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP0200A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP3964A | 2022-9 CAO Legal Updates for 09/2022 | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
+| 12/26/2023 | PDP2781A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 12/26/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 12/25/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 12/25/2023 | PDP1438A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
+| 12/23/2023 | PDP0139A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
+| 12/23/2023 | PDP2212A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 12/23/2023 | PDP1741A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 12/22/2023 | PDP1842A | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
+| 12/22/2023 | PDP1043A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
+| 12/22/2023 | PDP2887A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 12/22/2023 | PDP1887A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 12/22/2023 | PDP1918A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 11/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/24/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 10/5/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

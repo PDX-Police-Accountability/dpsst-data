@@ -42,8 +42,12 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2023 | OCS3053A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |
 | 12/12/2023 | OCS1971A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |
+| 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
+| 12/12/2023 | OCS1973A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |
+| 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/15/2023 | OCS1812A | Taser Refresher | Passed | 0.0 | 1.00 |
+| 11/14/2023 | OCS1189A | Taser | Passed | 0.0 | 1.00 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |

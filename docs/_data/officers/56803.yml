@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 1/12/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 3/14/2018
   certificate: Police Officer
   level: Basic
@@ -36,6 +43,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 12/16/2023
+  course: PDP4150A
+  title: DIR 0630.05 Chief's Message
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/7/2023
   course: PDP4131A
   title: 2023 SERT Training - ITERATION

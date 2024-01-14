@@ -37,9 +37,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/14/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
+| 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS2341A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS0946A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |
+| 11/12/2023 | OCS0920A | Balancing Speed/Marksmanship | Passed | 0.0 | 1.00 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS3124A | Ethics | Passed | 0.0 | 1.00 |
 | 10/4/2023 | OCS3632A | June/July/August/Sept 2023 Monthly Firearms | Passed | 0.0 | 4.00 |

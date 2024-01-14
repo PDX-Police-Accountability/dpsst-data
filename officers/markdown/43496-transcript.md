@@ -48,6 +48,9 @@
 | 12/22/2023 | PDP0869A | Helping The First Responder Understand Depression | Passed | 0.0 | 0.50 |
 | 12/22/2023 | PDP0590A | Helping The First Responder Understand Depression | Passed | 0.0 | 0.50 |
 | 12/22/2023 | PDP1984A | Shield of Resilience - SAMHSA | Passed | 0.0 | 1.00 |
+| 12/6/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 12/6/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 12/6/2023 | PDP0675A | FIN-6.14 Non-travel Meals, Light Refreshments | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/21/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/15/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |

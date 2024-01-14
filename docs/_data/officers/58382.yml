@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2023
+  course: OCS1304A
+  title: Marksmanship, Movement, problem solving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2023
+  course: OCS4325A
+  title: Use of Force Reporting/Case Law
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/6/2023
   course: OCS4143A
   title: Balancing speed/marksmanship, Target ID
@@ -51,6 +63,12 @@ training_records:
   hours: '2.00'
 - date: 12/6/2023
   course: OCS1700A
+  title: Balancing speed/marksmanship, Target ID
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/6/2023
+  course: OCS2752A
   title: Balancing speed/marksmanship, Target ID
   status: Passed
   score: '0.0'
