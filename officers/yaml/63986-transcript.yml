@@ -38,9 +38,9 @@ training_records:
 - date: 8/14/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Withdrew
+  status: Failed
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 - date: 8/10/2023
   course: PDP0321A
   title: 2023 FTEP Pre-DPSST Firearms

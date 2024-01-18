@@ -30,7 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
-| 8/14/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
+| 8/14/2023 | M10-23A | DPSST Basic Police Course | Failed | 0.0 | 0.00 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
 | 8/7/2023 | PDP3940A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
