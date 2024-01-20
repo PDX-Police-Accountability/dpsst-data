@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 10/31/2023
+  course: OCS3683A
+  title: 2023 September and October DPSST Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/23/2023
   course: OCS1779A
   title: 2023 Legislative Update

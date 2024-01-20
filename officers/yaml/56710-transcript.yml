@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2024
+  course: SDP0620A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/9/2024
   course: SDP1873A
   title: CPR, AED, Children, Infants, Adults, First Aid

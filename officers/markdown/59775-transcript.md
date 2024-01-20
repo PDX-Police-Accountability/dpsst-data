@@ -27,6 +27,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/15/2008 | No Degree | Portland State University |  | 45.0 |
+| 5/1/2007 | Bachelor Arts | Willamette University |  | 144.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

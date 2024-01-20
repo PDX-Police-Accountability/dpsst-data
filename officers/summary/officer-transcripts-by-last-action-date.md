@@ -1558,6 +1558,7 @@
 | Merrill, Anthony J. | 35227 | Portland Police Bureau | Inactive | Detective | Retired | 2023-03-22 | [md](../markdown/35227-transcript.md) - [yaml](../yaml/35227-transcript.yml) |
 | Yamanoi, Richard T. | 60892 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-26 | [md](../markdown/60892-transcript.md) - [yaml](../yaml/60892-transcript.yml) |
 | Brennan, Thomas J. | 33125 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-03-29 | [md](../markdown/33125-transcript.md) - [yaml](../yaml/33125-transcript.yml) |
+| Currier, Michael P. | 50676 | Portland Police Bureau | Active | Sergeant | Hired | 2023-03-30 | [md](../markdown/50676-transcript.md) - [yaml](../yaml/50676-transcript.yml) |
 | Bourasa, Stephan J. | 38032 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-04-01 | [md](../markdown/38032-transcript.md) - [yaml](../yaml/38032-transcript.yml) |
 | Weir, Jill D. | 62015 | Portland Police Bureau | Inactive | Police Officer | Prob Dschg | 2023-04-04 | [md](../markdown/62015-transcript.md) - [yaml](../yaml/62015-transcript.yml) |
 | Hunzeker, Brian D. | 39600 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-04-12 | [md](../markdown/39600-transcript.md) - [yaml](../yaml/39600-transcript.yml) |
@@ -1692,4 +1693,3 @@
 | Day, Muhammad H. | 64894 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64894-transcript.md) - [yaml](../yaml/64894-transcript.yml) |
 | Gorham, Jack A. | 64935 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64935-transcript.md) - [yaml](../yaml/64935-transcript.yml) |
 | Forsyth, Benjamin T. | 64936 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64936-transcript.md) - [yaml](../yaml/64936-transcript.yml) |
-| Currier, Michael P. | 50676 | Portland Police Bureau | Active | Sergeant | Hired | 2024-03-30 | [md](../markdown/50676-transcript.md) - [yaml](../yaml/50676-transcript.yml) |

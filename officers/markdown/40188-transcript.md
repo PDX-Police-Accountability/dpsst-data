@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 11/16/2023 | PDP0412A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 15.00 |
 | 11/14/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/14/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 3/30/2024 | Portland Police Bureau | Hired | Sergeant |  |  |
+| 3/30/2023 | Portland Police Bureau | Hired | Sergeant |  |  |
 | 6/26/2020 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 7/23/2009 | Portland Police Bureau | Hired | Police Off |  |  |

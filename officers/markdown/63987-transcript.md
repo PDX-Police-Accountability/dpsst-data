@@ -34,6 +34,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 11/17/2023 | REG2933A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 11/2/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/19/2023 | REG1394A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

@@ -54,6 +54,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/21/2023
+  course: GSP3210A
+  title: Search Warrant Contingencies
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/15/2023
   course: PDS2453A
   title: Anti-Bias Training

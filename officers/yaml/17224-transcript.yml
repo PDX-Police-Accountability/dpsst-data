@@ -100,6 +100,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/14/2024
+  course: HSU2342A
+  title: Red Dot Sight Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/7/2024
+  course: HSU2342A
+  title: Red Dot Sight Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/6/2024
+  course: HSU2342A
+  title: Red Dot Sight Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/19/2023
   course: HSU4495A
   title: Supplemental Firearms November 2023

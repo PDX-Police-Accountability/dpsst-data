@@ -48,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/30/2023
+  course: BNP3339A
+  title: Yoga- Living Yoga Program for Police
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2023
+  course: BNP3626A
+  title: Yoga- Living Yoga Program for Police
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/17/2023
   course: BNP1731A
   title: Low Light Range
@@ -72,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 10/31/2023
+  course: BNP2187A
+  title: Yoga- Living Yoga Program for Police
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/3/2023
   course: BNP1433A
   title: Patrol Rifle Course

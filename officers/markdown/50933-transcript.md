@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 12/30/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/30/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/16/2023 | PDP0412A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 15.00 |

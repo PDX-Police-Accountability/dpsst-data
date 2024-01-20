@@ -3306,11 +3306,11 @@ attribute_records:
   effective_date: 7/16/2015
   expiration_date: ''
 education_records:
-- date: 6/15/2014
-  degree: No Degree
+- date: 8/16/2014
+  degree: Bachelor Science
   school: Portland State University
   major: Criminology
-  hours: '151.0'
+  hours: '193.0'
 - date: 12/15/2009
   degree: No Degree
   school: Portland Community College

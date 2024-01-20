@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/21/2023 | GSP3210A | Search Warrant Contingencies | Passed | 0.0 | 10.00 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS4082A | Benchmark Analytics Refresher | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS2881A | Emergency Management | Passed | 0.0 | 0.50 |

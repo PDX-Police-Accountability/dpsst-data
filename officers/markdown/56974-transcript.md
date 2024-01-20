@@ -31,7 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2015 | No Degree | Lewis  Clark College |  | 114.0 |
+| 5/1/2016 | Bachelor Arts | Lewis  Clark College |  | 139.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

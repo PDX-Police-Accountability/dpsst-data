@@ -43,6 +43,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/30/2023 | OCS1389A | December firearms instruction | Instructed | 0.0 | 56.00 |
 | 12/19/2023 | OCS1219A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/15/2023 | OCS2380A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |
 | 12/15/2023 | OCS4363A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |
 | 12/15/2023 | OCS0904A | November /December / 4th Qtr Firearms | Instructed | 0.0 | 3.00 |

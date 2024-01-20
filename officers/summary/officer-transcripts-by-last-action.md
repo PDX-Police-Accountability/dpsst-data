@@ -349,7 +349,7 @@
 | Bianchini, Nicholas M. | 50575 | Portland Police Bureau | Active | Police Officer | Hired | 2009-04-16 | [md](../markdown/50575-transcript.md) - [yaml](../yaml/50575-transcript.yml) |
 | Powell, Brian W. | 50651 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/50651-transcript.md) - [yaml](../yaml/50651-transcript.yml) |
 | Arnold, David R. | 50652 | Portland Police Bureau | Active | Police Officer | Hired | 2009-10-01 | [md](../markdown/50652-transcript.md) - [yaml](../yaml/50652-transcript.yml) |
-| Currier, Michael P. | 50676 | Portland Police Bureau | Active | Sergeant | Hired | 2024-03-30 | [md](../markdown/50676-transcript.md) - [yaml](../yaml/50676-transcript.yml) |
+| Currier, Michael P. | 50676 | Portland Police Bureau | Active | Sergeant | Hired | 2023-03-30 | [md](../markdown/50676-transcript.md) - [yaml](../yaml/50676-transcript.yml) |
 | Fender, Kameron J. | 50793 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/50793-transcript.md) - [yaml](../yaml/50793-transcript.yml) |
 | Boyd, Matthew A. | 50812 | Portland Police Bureau | Active | Police Officer | Hired | 2009-10-01 | [md](../markdown/50812-transcript.md) - [yaml](../yaml/50812-transcript.yml) |
 | Quinsland, Alexander P. | 50817 | Portland Police Bureau | Active | Police Officer | Hired | 2009-10-01 | [md](../markdown/50817-transcript.md) - [yaml](../yaml/50817-transcript.yml) |

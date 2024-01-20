@@ -98,6 +98,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '4.00'
+- date: 12/16/2023
+  course: OCS2690A
+  title: Bias Hate Crime Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/15/2023
   course: OCS2380A
   title: November /December / 4th Qtr Firearms

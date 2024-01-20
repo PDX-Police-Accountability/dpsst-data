@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2024 | HSU2342A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
+| 1/7/2024 | HSU2342A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
+| 1/6/2024 | HSU2342A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
 | 6/14/2023 | PDP3376A | 2023 EAP Peer Support during Retirement | Passed | 0.0 | 6.00 |
 | 5/8/2023 | PDP1261A | 2023-1 All Sworn In-Service Legal Updates | Passed | 0.0 | 2.00 |
 | 5/8/2023 | PDP1448A | 2023-1 All Sworn In-Service MFF Other | Passed | 0.0 | 5.00 |

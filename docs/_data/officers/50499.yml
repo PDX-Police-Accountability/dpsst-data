@@ -50,6 +50,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2024
+  course: PDP1426A
+  title: 2024 CNT Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/22/2023
+  course: GSP0985A
+  title: SWAT Sniper Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/21/2023
+  course: GSP3210A
+  title: Search Warrant Contingencies
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 12/20/2023
+  course: GSP3965A
+  title: SWAT Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/27/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals

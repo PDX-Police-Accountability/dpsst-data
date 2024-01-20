@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/14/2024
+  course: HSU2342A
+  title: Red Dot Sight Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/7/2024
+  course: HSU2342A
+  title: Red Dot Sight Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/6/2024
+  course: HSU2342A
+  title: Red Dot Sight Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/14/2023
   course: PDP3376A
   title: 2023 EAP Peer Support during Retirement

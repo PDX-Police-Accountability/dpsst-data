@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 11/16/2023
+  course: PSU3547A
+  title: De-Escalation and Minimizing Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/8/2023
   course: PSU1821A
   title: Behavioral Threat Assessment

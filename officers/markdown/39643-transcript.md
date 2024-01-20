@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/8/2024 | REG2233A | DT | Passed | 0.0 | 1.00 |
+| 1/4/2024 | REG3963A | DT | Passed | 0.0 | 1.00 |
 | 12/21/2023 | REG2668A | DT | Passed | 0.0 | 1.00 |
 | 12/11/2023 | REG0556A | DT | Passed | 0.0 | 1.00 |
 | 11/27/2023 | REG4500A | DT | Passed | 0.0 | 1.00 |

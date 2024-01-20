@@ -44,6 +44,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/8/2024
+  course: REG2233A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/4/2024
+  course: REG3963A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/21/2023
   course: REG2668A
   title: DT

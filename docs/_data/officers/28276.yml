@@ -123,6 +123,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2024
+  course: BPT1261A
+  title: Use of Force Simulation Scenario Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 1/10/2024
+  course: BPT1261A
+  title: Use of Force Simulation Scenario Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/5/2024
   course: SVP2012A
   title: Uvalde Shooting Documentary  Debrief

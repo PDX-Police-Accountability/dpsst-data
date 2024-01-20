@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 12/17/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/24/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/16/2023 | PDP4041A | 2023 NTOA Crisis Negotiations Conference | Passed | 0.0 | 32.00 |

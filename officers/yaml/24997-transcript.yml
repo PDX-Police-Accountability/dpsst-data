@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2024
+  course: PPP1663A
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -2385,6 +2391,10 @@ training_records:
   score: '0.0'
   hours: '281.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/9/2024
+  expiration_date: 1/9/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 1/7/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 1/6/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 12/5/2023 | HSU1849A | Dynamic Tactical Patrol Supervisor | Passed | 0.0 | 1.00 |
 | 10/30/2023 | HSU4283A | Instructor In- Service Firearms | Passed | 0.0 | 3.00 |
 | 10/20/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |

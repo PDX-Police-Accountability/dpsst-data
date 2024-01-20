@@ -2604,8 +2604,8 @@ attribute_records:
   effective_date: 2/21/2017
   expiration_date: ''
 education_records:
-- date: 12/15/2015
-  degree: No Degree
+- date: 5/1/2016
+  degree: Bachelor Arts
   school: Lewis  Clark College
   major: ''
-  hours: '114.0'
+  hours: '139.0'

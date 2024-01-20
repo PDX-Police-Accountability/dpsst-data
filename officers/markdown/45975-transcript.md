@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2024 | MFS3736A | FBI LEEDA - Command Leadership Institute | Passed | 0.0 | 36.00 |
 | 12/29/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/29/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/6/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |

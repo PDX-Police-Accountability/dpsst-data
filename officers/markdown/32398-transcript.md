@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 12/20/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/11/2023 | PDP2270A | 2023-2 All Sworn In-Service PP Mental Health 1 | Passed | 0.0 | 1.00 |
 | 12/11/2023 | PDP2274A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |

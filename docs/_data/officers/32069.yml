@@ -62,12 +62,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/29/2024
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
+- date: 1/17/2024
+  course: 24-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/15/2024
+  course: REG0181A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/10/2024
+  course: SDP0620A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/8/2024
+  course: REG2233A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/13/2023
   course: SDP0665A
   title: Identifying and Preventing Sexual Harassment

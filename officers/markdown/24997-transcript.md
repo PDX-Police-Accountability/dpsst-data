@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/9/2024 | 1/9/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/9/2022 | 2/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -34,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/9/2024 | PPP1663A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2023 | PPP1750A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |
 | 9/30/2023 | PPP1931A | Terrorism 1 | Passed | 0.0 | 1.00 |

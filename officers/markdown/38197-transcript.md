@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 12/5/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/5/2023 | PDP2382A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 12/5/2023 | PDP4526A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

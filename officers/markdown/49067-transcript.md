@@ -42,6 +42,7 @@
 | 11/20/2023 | OCS2341A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/20/2023 | OCS0946A | 2023 Ethics - Pillars to Success and Longevity | Passed | 0.0 | 1.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |
+| 10/31/2023 | OCS3683A | 2023 September and October DPSST Legal Updates | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

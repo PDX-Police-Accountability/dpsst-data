@@ -43,6 +43,7 @@
 | 11/14/2023 | OCS1189A | Taser | Passed | 0.0 | 1.00 |
 | 11/12/2023 | OCS0920A | Balancing Speed/Marksmanship | Passed | 0.0 | 1.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |
+| 10/31/2023 | OCS3683A | 2023 September and October DPSST Legal Updates | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |

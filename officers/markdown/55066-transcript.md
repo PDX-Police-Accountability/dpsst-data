@@ -28,7 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2014 | No Degree | Portland State University | Criminology | 151.0 |
+| 8/16/2014 | Bachelor Science | Portland State University | Criminology | 193.0 |
 | 12/15/2009 | No Degree | Portland Community College |  | 25.0 |
 ## Training
 | date | course | title | status | score | hours |

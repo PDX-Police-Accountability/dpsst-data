@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/12/2024
+  course: MFS3736A
+  title: FBI LEEDA - Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 12/29/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

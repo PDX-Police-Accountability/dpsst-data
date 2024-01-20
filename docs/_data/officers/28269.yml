@@ -113,6 +113,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2024
+  course: HUP2200A
+  title: OACP Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/10/2024
+  course: HUP3235A
+  title: OACP/OSSA Joint Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/12/2023
   course: BNP3505A
   title: Defensive tactics

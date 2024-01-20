@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |

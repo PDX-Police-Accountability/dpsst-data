@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
+| 12/22/2023 | GSP0985A | SWAT Sniper Firearms Range | Passed | 0.0 | 10.00 |
+| 12/21/2023 | GSP3210A | Search Warrant Contingencies | Passed | 0.0 | 10.00 |
+| 12/20/2023 | GSP3965A | SWAT Firearms Range | Passed | 0.0 | 10.00 |
 | 11/27/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/17/2023 | GSP4226A | SWAT Sniper Firearms Range | Passed | 0.0 | 10.00 |
 | 11/16/2023 | PDP0412A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 15.00 |

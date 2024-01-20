@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2024
+  course: PDP1426A
+  title: 2024 CNT Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 11/28/2023
   course: PDP3507A
   title: 2023-2 All Sworn In-Service BWC Policy

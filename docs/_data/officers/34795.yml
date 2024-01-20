@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/16/2023
+  course: OCS2690A
+  title: Bias Hate Crime Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/12/2023
   course: OCS3053A
   title: Balance Speed/Marksmanship / Draw Concealment
@@ -111,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/31/2023
+  course: OCS3683A
+  title: 2023 September and October DPSST Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 10/23/2023
   course: OCS1779A
   title: 2023 Legislative Update

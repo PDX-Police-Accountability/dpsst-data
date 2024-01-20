@@ -43,6 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/14/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 1/7/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 1/6/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 11/19/2023 | HSU4495A | Supplemental Firearms November 2023 | Passed | 0.0 | 3.00 |
 | 11/18/2023 | PDP3541A | 2023 FTEP Post DPSST Firearms | Instructed | 0.0 | 18.00 |
 | 10/30/2023 | HSU4283A | Instructor In- Service Firearms | Passed | 0.0 | 3.00 |

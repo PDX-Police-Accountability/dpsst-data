@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 12/26/2023 | PDP1419A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP0139A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 11/17/2023 | REG2933A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |

@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 12/26/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP1438A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 12/26/2023 | PDP1842A | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |

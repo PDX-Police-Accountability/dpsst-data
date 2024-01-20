@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 11/16/2023 | PDP0412A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 13.00 |
 | 11/9/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/9/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

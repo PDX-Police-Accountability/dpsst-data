@@ -37,10 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
 | 11/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/1/2023 | OCS2766A | Bias Training | Passed | 0.0 | 0.25 |
+| 10/31/2023 | OCS3683A | 2023 September and October DPSST Legal Updates | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

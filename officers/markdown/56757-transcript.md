@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
 | 12/7/2023 | PSU0507A | Advanced Digital Threat Assessment | Passed | 0.0 | 6.50 |
+| 11/16/2023 | PSU3547A | De-Escalation and Minimizing Use of Force | Passed | 0.0 | 2.00 |
 | 11/8/2023 | PSU1821A | Behavioral Threat Assessment | Passed | 0.0 | 16.00 |
 | 10/4/2023 | PSU4061A | Digital Threat Assesment | Passed | 0.0 | 6.00 |
 | 5/16/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |

@@ -39,10 +39,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/17/2023 | BNP0843A | Building Clearing | Passed | 0.0 | 2.00 |
 | 12/14/2023 | BNP0017A | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 11/30/2023 | BNP3339A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 4.00 |
+| 11/30/2023 | BNP3626A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 8.00 |
 | 11/17/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |
 | 11/17/2023 | BNP2438A | Mental Health and Meditation | Passed | 0.0 | 1.00 |
 | 11/17/2023 | BNP1325A | Officer Rescue / Medical | Passed | 0.0 | 1.00 |
 | 11/17/2023 | BNP1912A | Trauma Informed Care | Passed | 0.0 | 2.00 |
+| 10/31/2023 | BNP2187A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 1.00 |
 | 10/3/2023 | BNP1433A | Patrol Rifle Course | Passed | 0.0 | 24.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/13/2023 | BNP1437A | Ethos Academy | Passed | 0.0 | 3.00 |

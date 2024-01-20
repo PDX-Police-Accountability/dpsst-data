@@ -1662,7 +1662,7 @@
 | Ajir, Samson M. | 50621 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2021-01-03 | [md](../markdown/50621-transcript.md) - [yaml](../yaml/50621-transcript.yml) |
 | Smith, Grant E. | 50653 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-05-04 | [md](../markdown/50653-transcript.md) - [yaml](../yaml/50653-transcript.yml) |
 | Matica, Adrian F. | 50672 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/50672-transcript.md) - [yaml](../yaml/50672-transcript.yml) |
-| Currier, Michael P. | 50676 | Portland Police Bureau | Active | Sergeant | Hired | 2024-03-30 | [md](../markdown/50676-transcript.md) - [yaml](../yaml/50676-transcript.yml) |
+| Currier, Michael P. | 50676 | Portland Police Bureau | Active | Sergeant | Hired | 2023-03-30 | [md](../markdown/50676-transcript.md) - [yaml](../yaml/50676-transcript.yml) |
 | Ceaser, Madison C., Jr. | 50696 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-10-21 | [md](../markdown/50696-transcript.md) - [yaml](../yaml/50696-transcript.yml) |
 | Payton, Sarah J. | 50738 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/50738-transcript.md) - [yaml](../yaml/50738-transcript.yml) |
 | Silverman, Joshua E. | 50814 | Portland Police Bureau | Active | Sergeant | Promotion | 2020-02-20 | [md](../markdown/50814-transcript.md) - [yaml](../yaml/50814-transcript.yml) |
