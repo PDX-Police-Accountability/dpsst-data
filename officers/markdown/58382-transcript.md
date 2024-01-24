@@ -53,6 +53,7 @@
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 7/10/2023 | OCS4343A | 2023 Community Caretaking Update Trg Bulletin | Passed | 0.0 | 0.25 |
 | 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
+| 6/26/2023 | OCS3724A | Speed/Marksmanship / MILO use of force | Passed | 0.0 | 2.00 |
 | 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/12/2023 | OCS0983A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 5/21/2023 | OCS1318A | Resiliency Training by Dr. Conn | Passed | 0.0 | 3.00 |

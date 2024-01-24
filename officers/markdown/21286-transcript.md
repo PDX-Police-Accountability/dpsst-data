@@ -42,8 +42,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | BBP2231A | Daily Training Bulletins | Passed | 0.0 | 24.00 |
+| 12/31/2023 | BBP3030A | Human Trafficking | Passed | 0.0 | 4.00 |
+| 11/30/2023 | BBP0252A | Distracted Driving | Passed | 0.0 | 4.00 |
 | 11/2/2023 | BBP2286A | Taser 10 Training | Instructed | 0.0 | 2.00 |
 | 10/31/2023 | BBP4254A | Rifle and Pistol Qualifications | Passed | 0.0 | 1.00 |
+| 10/31/2023 | BBP2199A | Active Shooter in Schools | Passed | 0.0 | 1.00 |
+| 10/31/2023 | BBP1629A | Bomb Threats in Schools | Passed | 0.0 | 1.00 |
+| 10/31/2023 | BBP3395A | Use of Force | Passed | 0.0 | 2.00 |
+| 9/30/2023 | BBP3908A | Anti Bias Training | Passed | 0.0 | 2.00 |
+| 9/30/2023 | BBP3698A | Child Abuse and Neglect | Passed | 0.0 | 2.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/7/2023 | BBP4333A | Taser 10 Instructor Training | Passed | 0.0 | 6.00 |
 | 8/10/2023 | REG0835A | EVO Skills Update | Passed | 0.0 | 4.00 |

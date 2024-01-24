@@ -177,6 +177,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 7/25/2023
+  course: OCS0405A
+  title: June/July 2023 Monthly Firearms w/pistol/rifle
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/12/2023
   course: HDA3708A
   title: Federal and State Civil Forfeiture

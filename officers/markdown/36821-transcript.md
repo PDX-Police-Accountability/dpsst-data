@@ -4,7 +4,7 @@
 | name | Kenagy, Christopher J. |
 | dpsst_identifier | 36821 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,16 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/9/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 6/26/2020 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 9/27/2012 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/7/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/2/2014 | Police Officer | Supervisory | Granted | 1/2/2014 |  |  |
-| 2/23/2011 | Police Officer | Advanced | Granted | 2/23/2011 |  |  |
-| 2/23/2011 | Police Officer | Intermediate | Granted | 2/23/2011 |  |  |
-| 2/17/2000 | Police Officer | Basic | Granted | 2/17/2000 |  |  |
+| 1/2/2014 | Police Officer | Supervisory | Granted | 1/2/2014 | 4/9/2024 |  |
+| 2/23/2011 | Police Officer | Advanced | Granted | 2/23/2011 | 4/9/2024 |  |
+| 2/23/2011 | Police Officer | Intermediate | Granted | 2/23/2011 | 4/9/2024 |  |
+| 2/17/2000 | Police Officer | Basic | Granted | 2/17/2000 | 4/9/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

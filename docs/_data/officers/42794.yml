@@ -326,6 +326,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 9/7/2023
+  course: OCS2934A
+  title: Smith  Wesson MP Armorer
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 8/13/2023
   course: OCS0541A
   title: One Hand Shooting/Use of Cover
@@ -356,8 +362,20 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 7/26/2023
+  course: OCS1962A
+  title: June/July 2023 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/25/2023
   course: OCS3701A
+  title: June/July 2023 Monthly Firearms w/pistol/rifle
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
+- date: 7/25/2023
+  course: OCS0405A
   title: June/July 2023 Monthly Firearms w/pistol/rifle
   status: Instructed
   score: '0.0'
@@ -380,6 +398,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/20/2023
+  course: OCS1254A
+  title: Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/14/2023
   course: OCS3464A
   title: Positional Shooting/Target ID/OIS Debrief
@@ -404,6 +428,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/27/2023
+  course: OCS1746A
+  title: Speed/Marksmanship / MILO use of force
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/23/2023
+  course: OCS2107A
+  title: June 2023 New Hire Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '32.00'
 - date: 6/15/2023
   course: OCS3363A
   title: Shoot/No-Shoot Targets  Marksmanship

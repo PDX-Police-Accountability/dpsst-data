@@ -151,6 +151,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 6/26/2023
+  course: OCS3724A
+  title: Speed/Marksmanship / MILO use of force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/12/2023
   course: OCS4091A
   title: 2023 DPSST Use of Force Training Bulletin

@@ -16,8 +16,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/18/2024 | Police Officer | Advanced | App InProc |  |  |  |
-| 1/18/2024 | Police Officer | Intermediate | App InProc |  |  |  |
+| 1/22/2024 | Police Officer | Advanced | Granted | 1/22/2024 |  |  |
+| 1/22/2024 | Police Officer | Intermediate | Granted | 1/22/2024 |  |  |
 | 11/13/2001 | Police Officer | Basic | Granted | 11/13/2001 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

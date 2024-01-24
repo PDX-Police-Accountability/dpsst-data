@@ -81,19 +81,25 @@
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 9/15/2023 | OCS1769A | Marksmanship/Target Transitions | Instructed | 0.0 | 2.00 |
 | 9/7/2023 | OCS1796A | Smith  Wesson MP Armorer | Passed | 0.0 | 8.00 |
+| 9/7/2023 | OCS2934A | Smith  Wesson MP Armorer | Passed | 0.0 | 8.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
 | 8/11/2023 | OCS0576A | August 2023 New Hire Firearms | Instructed | 0.0 | 8.00 |
 | 8/10/2023 | OCS4148A | Glock Armorer | Passed | 0.0 | 8.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |
 | 7/26/2023 | OCS1010A | June/July 2023 Monthly Firearms | Instructed | 0.0 | 2.00 |
+| 7/26/2023 | OCS1962A | June/July 2023 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 7/25/2023 | OCS3701A | June/July 2023 Monthly Firearms w/pistol/rifle | Instructed | 0.0 | 3.00 |
+| 7/25/2023 | OCS0405A | June/July 2023 Monthly Firearms w/pistol/rifle | Instructed | 0.0 | 3.00 |
 | 7/21/2023 | OCS0072A | Remington 700 Armorer | Passed | 0.0 | 8.00 |
 | 7/20/2023 | OCS0654A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 7/20/2023 | OCS0991A | Remington 870 Armorer | Passed | 0.0 | 16.00 |
+| 7/20/2023 | OCS1254A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 7/14/2023 | OCS3464A | Positional Shooting/Target ID/OIS Debrief | Instructed | 0.0 | 4.00 |
 | 7/10/2023 | OCS4343A | 2023 Community Caretaking Update Trg Bulletin | Passed | 0.0 | 0.25 |
 | 7/10/2023 | OCS2735A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 7/1/2023 | OCS3379A | One Handed Shooting/Low Light/Marksmanship | Passed | 0.0 | 1.00 |
+| 6/27/2023 | OCS1746A | Speed/Marksmanship / MILO use of force | Instructed | 0.0 | 2.00 |
+| 6/23/2023 | OCS2107A | June 2023 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 6/15/2023 | OCS3363A | Shoot/No-Shoot Targets  Marksmanship | Instructed | 0.0 | 93.00 |
 | 6/12/2023 | OCS4091A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |
 | 6/12/2023 | OCS0983A | 2023 DPSST Use of Force Training Bulletin | Passed | 0.0 | 0.25 |

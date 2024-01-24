@@ -103,6 +103,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/14/2023
+  course: OCS0596A
+  title: Third Degree Communications
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/7/2023
   course: OCP0393A
   title: Firearms/Use of Force

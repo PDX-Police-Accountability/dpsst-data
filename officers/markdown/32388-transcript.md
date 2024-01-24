@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Passed | 0.0 | 0.00 |
 | 12/22/2023 | GSP0985A | SWAT Sniper Firearms Range | Instructed | 0.0 | 10.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/21/2023 | GSP3210A | Search Warrant Contingencies | Passed | 0.0 | 10.00 |

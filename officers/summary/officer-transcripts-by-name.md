@@ -66,6 +66,7 @@
 | * MISSING | 37150 |  |  |  |  |  | [md](../markdown/37150-transcript.md) - [yaml](../yaml/37150-transcript.yml) |
 | * MISSING | 37630 |  |  |  |  |  | [md](../markdown/37630-transcript.md) - [yaml](../yaml/37630-transcript.yml) |
 | * MISSING | 38034 |  |  |  |  |  | [md](../markdown/38034-transcript.md) - [yaml](../yaml/38034-transcript.yml) |
+| * MISSING | 39268 |  |  |  |  |  | [md](../markdown/39268-transcript.md) - [yaml](../yaml/39268-transcript.yml) |
 | * MISSING | 39269 |  |  |  |  |  | [md](../markdown/39269-transcript.md) - [yaml](../yaml/39269-transcript.yml) |
 | * MISSING | 43482 |  |  |  |  |  | [md](../markdown/43482-transcript.md) - [yaml](../yaml/43482-transcript.yml) |
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
@@ -680,7 +681,6 @@
 | Hansen, Michael J. | 49732 | Portland Police Bureau | Active | Police Officer | Hired | 2008-08-14 | [md](../markdown/49732-transcript.md) - [yaml](../yaml/49732-transcript.yml) |
 | Hansen, Robb C. | 31459 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/31459-transcript.md) - [yaml](../yaml/31459-transcript.yml) |
 | Hanson, Jon-Paul L. | 63863 | Portland Police Bureau | Active | Police Officer | Hired | 2023-02-16 | [md](../markdown/63863-transcript.md) - [yaml](../yaml/63863-transcript.yml) |
-| Harding, Cheryl A. | 39268 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-05-01 | [md](../markdown/39268-transcript.md) - [yaml](../yaml/39268-transcript.yml) |
 | Harding, David N. | 52228 | Portland Police Bureau | Active | Police Officer | Hired | 2018-03-29 | [md](../markdown/52228-transcript.md) - [yaml](../yaml/52228-transcript.yml) |
 | Harlan, Justin T. | 62974 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-10-12 | [md](../markdown/62974-transcript.md) - [yaml](../yaml/62974-transcript.yml) |
 | Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
@@ -860,7 +860,7 @@
 | Kelly, Mark B. | 57474 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-03-04 | [md](../markdown/57474-transcript.md) - [yaml](../yaml/57474-transcript.yml) |
 | Kemmer, William J. | 49537 | Portland Police Bureau | Active | Police Officer | Hired | 2015-05-28 | [md](../markdown/49537-transcript.md) - [yaml](../yaml/49537-transcript.yml) |
 | Kemple, David F. | 39589 | Portland Police Bureau | Active | Police Officer | Hired | 2001-11-29 | [md](../markdown/39589-transcript.md) - [yaml](../yaml/39589-transcript.yml) |
-| Kenagy, Christopher J. | 36821 | Portland Police Bureau | Active | Sergeant | LOA | 2020-06-26 | [md](../markdown/36821-transcript.md) - [yaml](../yaml/36821-transcript.yml) |
+| Kenagy, Christopher J. | 36821 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-01-09 | [md](../markdown/36821-transcript.md) - [yaml](../yaml/36821-transcript.yml) |
 | Kennedy, Nicole K. | 46938 | Portland Police Bureau | Active | Police Officer | Hired | 2006-05-25 | [md](../markdown/46938-transcript.md) - [yaml](../yaml/46938-transcript.yml) |
 | Kenney, Zachary J. | 44439 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/44439-transcript.md) - [yaml](../yaml/44439-transcript.yml) |
 | Kephart, Stephen M. | 45102 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2017-10-24 | [md](../markdown/45102-transcript.md) - [yaml](../yaml/45102-transcript.yml) |

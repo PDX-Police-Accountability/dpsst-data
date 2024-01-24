@@ -3,12 +3,18 @@ header_record:
   name: Kenagy, Christopher J.
   dpsst_identifier: '36821'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/9/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 6/26/2020
   agency: Portland Police Bureau
   action: LOA
@@ -33,28 +39,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 1/2/2014
-  expiration_date: ''
+  expiration_date: 4/9/2024
   probation_date: ''
 - status_date: 2/23/2011
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 2/23/2011
-  expiration_date: ''
+  expiration_date: 4/9/2024
   probation_date: ''
 - status_date: 2/23/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/23/2011
-  expiration_date: ''
+  expiration_date: 4/9/2024
   probation_date: ''
 - status_date: 2/17/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 2/17/2000
-  expiration_date: ''
+  expiration_date: 4/9/2024
   probation_date: ''
 training_records:
 - date: 12/31/2021

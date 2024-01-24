@@ -87,6 +87,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2023
+  course: BBP2231A
+  title: Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 12/31/2023
+  course: BBP3030A
+  title: Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/30/2023
+  course: BBP0252A
+  title: Distracted Driving
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/2/2023
   course: BBP2286A
   title: Taser 10 Training
@@ -99,6 +117,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/31/2023
+  course: BBP2199A
+  title: Active Shooter in Schools
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2023
+  course: BBP1629A
+  title: Bomb Threats in Schools
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 10/31/2023
+  course: BBP3395A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2023
+  course: BBP3908A
+  title: Anti Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 9/30/2023
+  course: BBP3698A
+  title: Child Abuse and Neglect
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/28/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

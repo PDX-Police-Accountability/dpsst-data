@@ -194,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 9/14/2023
+  course: OCS0596A
+  title: Third Degree Communications
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 9/7/2023
   course: PDP2384A
   title: 2022-10 CAO Legal Updates for 10/2022
