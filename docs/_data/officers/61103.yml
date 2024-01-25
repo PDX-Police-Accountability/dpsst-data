@@ -1727,8 +1727,8 @@ attribute_records:
   effective_date: 10/25/2020
   expiration_date: ''
 education_records:
-- date: 12/15/2019
-  degree: No Degree
+- date: 2/1/2020
+  degree: Bachelor Arts
   school: All Other Education Institutes
-  major: ''
+  major: Psychology
   hours: '121.0'

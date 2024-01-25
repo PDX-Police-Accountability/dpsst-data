@@ -29,7 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2019 | No Degree | All Other Education Institutes |  | 121.0 |
+| 2/1/2020 | Bachelor Arts | All Other Education Institutes | Psychology | 121.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

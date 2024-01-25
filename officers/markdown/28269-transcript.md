@@ -45,6 +45,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2024 | OAC4390A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
+| 1/12/2024 | OAC2769A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
+| 1/11/2024 | OAC2792A | Dark Nights of the Soul |  | 0.0 | 0.00 |
+| 1/11/2024 | OAC3995A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/10/2024 | HUP2200A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 1/10/2024 | HUP3235A | OACP/OSSA Joint Meeting | Passed | 0.0 | 2.00 |
 | 12/12/2023 | BNP3505A | Defensive tactics | Passed | 0.0 | 1.00 |

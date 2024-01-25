@@ -41,6 +41,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2024 | OAC1070A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
+| 1/12/2024 | OAC2811A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
+| 1/11/2024 | OAC1904A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
+| 1/11/2024 | OAC2518A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
+| 1/10/2024 | OAC3341A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
 | 11/17/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/17/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 11/17/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

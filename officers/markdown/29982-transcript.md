@@ -40,6 +40,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 1/12/2024 | OAC1070A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
+| 1/12/2024 | OAC2811A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
+| 1/11/2024 | OAC1904A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
+| 1/11/2024 | OAC2518A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
+| 1/10/2024 | OAC3341A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
 | 1/5/2024 | SVP2012A | Uvalde Shooting Documentary  Debrief | Passed | 0.0 | 1.50 |
 | 12/13/2023 | HUP3391A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 12/13/2023 | SVP0722A | DT (Defensive Tactics) Refresher | Instructed | 0.0 | 3.00 |

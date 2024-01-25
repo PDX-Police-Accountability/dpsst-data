@@ -108,6 +108,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/12/2024
+  course: OAC4390A
+  title: The Crucial Connection - Chief/Mgr Relationships
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/12/2024
+  course: OAC2769A
+  title: Case Study on Safeway Active Shooter
+  status: ''
+  score: '0.0'
+  hours: '0.00'
+- date: 1/11/2024
+  course: OAC2792A
+  title: Dark Nights of the Soul
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/11/2024
+  course: OAC3995A
+  title: Labor Law Fundamentals  Recent Trends
+  status: ''
+  score: '0.0'
+  hours: '0.00'
+- date: 1/10/2024
+  course: OAC2010A
+  title: Drones - The Future of Public Safety
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

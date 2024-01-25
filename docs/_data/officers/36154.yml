@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 11/17/2023
+  course: MFP0161A
+  title: Child Exploitation, Digital Evid.,  Exigency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/27/2023
   course: MFP2595A
   title: SFST Refresher  DUII Evidence Procedures

@@ -43,6 +43,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/12/2024 | OAC1070A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
+| 1/12/2024 | OAC2811A | Case Study on Safeway Active Shooter | Passed | 0.0 | 0.00 |
+| 1/11/2024 | OAC1904A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
+| 1/11/2024 | OAC2518A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
+| 1/10/2024 | OAC3341A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/11/2023 | WLP1330A | Active Threat Response - Patrol | Passed | 0.0 | 5.00 |
 | 9/30/2023 | WLP3848A | Becoming a Leader in Law Enforcement | Passed | 0.0 | 1.00 |

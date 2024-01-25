@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/19/2023
+  course: PLS4385A
+  title: T911 Heroes Suicide by Cop
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/18/2023
   course: PDP0839A
   title: Amended DOJ Settlement Agreement
@@ -96,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/28/2023
+  course: PLS2144A
+  title: T911 Heroes Suicidal Callers
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

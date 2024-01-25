@@ -63,6 +63,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 1/12/2024
+  course: HSU2844A
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/11/2024
+  course: HSU2844A
+  title: Forensic Experiential Trauma Interview (FETI)
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/7/2024
   course: HSU2342A
   title: Red Dot Sight Operator Course
