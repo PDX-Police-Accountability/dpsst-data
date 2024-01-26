@@ -41,6 +41,8 @@
 | 1/17/2024 | 24-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 1/15/2024 | REG0181A | DT | Passed | 0.0 | 1.00 |
 | 1/10/2024 | SDP0620A | Defensive Tactics | Passed | 0.0 | 1.50 |
+| 1/10/2024 | SDP2235A | Death Notification for Officers Training | Passed | 0.0 | 1.50 |
+| 1/10/2024 | SDP4480A | Firearms Training | Passed | 0.0 | 1.50 |
 | 1/8/2024 | REG2233A | DT | Passed | 0.0 | 1.00 |
 | 12/13/2023 | SDP0665A | Identifying and Preventing Sexual Harassment | Passed | 0.0 | 2.00 |
 | 12/13/2023 | SDP4093A | US Mail Fraud Training | Passed | 0.0 | 1.00 |

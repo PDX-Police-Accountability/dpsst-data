@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/10/2024 | SDP0620A | Defensive Tactics | Passed | 0.0 | 2.00 |
+| 1/10/2024 | SDP2235A | Death Notification for Officers Training | Passed | 0.0 | 1.50 |
+| 1/10/2024 | SDP4480A | Firearms Training | Passed | 0.0 | 2.00 |
 | 1/9/2024 | SDP1873A | CPR, AED, Children, Infants, Adults, First Aid | Passed | 0.0 | 5.00 |
 | 12/21/2023 | REG2668A | DT | Passed | 0.0 | 1.00 |
 | 12/14/2023 | REG1945A | DT | Passed | 0.0 | 1.00 |

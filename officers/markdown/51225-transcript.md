@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/18/2024 | PDP1800A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 1/11/2024 | PDP4316A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/11/2024 | PDP4316A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
+| 1/4/2024 | PDP3380A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 12/28/2023 | PDP4197A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/7/2023 | PDP4131A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 12/5/2023 | PDP4146A | 2023 ECIT In-Service | Passed | 0.0 | 3.50 |

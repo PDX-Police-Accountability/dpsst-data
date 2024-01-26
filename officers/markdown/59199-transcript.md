@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/25/2023 | 7/25/2025 |
 | Code of Ethics | Law Enforcement Signed | 7/6/2023 |  |
@@ -41,6 +42,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/11/2024 | EGP3507A | ACAP Training | Passed | 0.0 | 2.00 |
+| 1/11/2024 | EGP3418A | Bloodborne Pathogens | Passed | 0.0 | 1.50 |
+| 1/11/2024 | EGP4423A | CIT Training | Passed | 0.0 | 2.00 |
+| 1/11/2024 | EGP1199A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 12/8/2023 | EGP3742A | MILITAUR/Door Stop/Jam | Passed | 0.0 | 0.50 |
 | 11/9/2023 | EGP3822A | DA Presentation | Passed | 0.0 | 1.50 |
 | 11/9/2023 | EGP1092A | Field Force Drills/Classroom | Passed | 0.0 | 3.00 |

@@ -32,6 +32,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Signed | 1/28/2005 |  |
+| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 1/24/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

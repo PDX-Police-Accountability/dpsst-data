@@ -67,6 +67,30 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 1/11/2024
+  course: EGP3507A
+  title: ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/11/2024
+  course: EGP3418A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/11/2024
+  course: EGP4423A
+  title: CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/11/2024
+  course: EGP1199A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/8/2023
   course: EGP3742A
   title: MILITAUR/Door Stop/Jam
@@ -1454,6 +1478,10 @@ training_records:
   score: '0.0'
   hours: '6.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/11/2024
+  expiration_date: 1/11/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

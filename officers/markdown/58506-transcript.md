@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/18/2024 | PDP1800A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 1/11/2024 | PDP4316A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/31/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 12/31/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/31/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |

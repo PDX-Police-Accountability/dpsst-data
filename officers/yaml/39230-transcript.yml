@@ -99,6 +99,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 1/11/2024
+  course: EGP3507A
+  title: ACAP Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/11/2024
+  course: EGP3418A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/11/2024
+  course: EGP4423A
+  title: CIT Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/11/2024
+  course: EGP1199A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/20/2023
   course: EGP1760A
   title: Stressed  Short-Staffed What You Can Do About It
@@ -4246,6 +4270,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/11/2024
+  expiration_date: 1/11/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/18/2024
+  course: PDP1800A
+  title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/4/2024
+  course: PDP3380A
+  title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/30/2023
   course: PDP0139A
   title: 2023 DIR 0620.00 BWC Use and Management

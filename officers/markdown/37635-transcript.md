@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/11/2024 | 1/11/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 1/19/2022 | 1/19/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
@@ -37,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/11/2024 | EGP3507A | ACAP Training | Passed | 0.0 | 2.00 |
+| 1/11/2024 | EGP3418A | Bloodborne Pathogens | Passed | 0.0 | 1.50 |
+| 1/11/2024 | EGP4423A | CIT Training | Passed | 0.0 | 2.00 |
+| 1/11/2024 | EGP1199A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 12/7/2023 | EGP1337A | Firearms/Low light Breaching/Search Skills | Passed | 0.0 | 20.00 |
 | 12/7/2023 | EGP3656A | Breaching Hazards/Safe Explosive Handling | Passed | 0.0 | 3.00 |
 | 12/7/2023 | EGP4131A | Firearms/Low light Breaching/Search Skills | Passed | 0.0 | 4.00 |
