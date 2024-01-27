@@ -39,11 +39,16 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Instructed | 0.0 | 5.00 |
-| 1/12/2024 | OAC4390A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
-| 1/12/2024 | OAC2769A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
-| 1/11/2024 | OAC2792A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
-| 1/11/2024 | OAC3995A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
-| 1/10/2024 | OAC2010A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
+| 1/12/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
+| 1/12/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.50 |
+| 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
+| 1/12/2024 | OAC3502A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
+| 1/11/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
+| 1/11/2024 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
+| 1/11/2024 | OAC2266A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
+| 1/11/2024 | OAC2104A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
+| 1/10/2024 | XDELETE5 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
+| 1/10/2024 | OAC2692A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
 | 12/7/2023 | PDP4131A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/4/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |

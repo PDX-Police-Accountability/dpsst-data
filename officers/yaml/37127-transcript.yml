@@ -90,6 +90,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/18/2024
+  course: MOS0597A
+  title: Bitcoin Blockchain Analysis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/15/2023
   course: PDA3294A
   title: 2023 Annual Firearms Training  Qualification

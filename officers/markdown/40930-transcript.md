@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/19/2023 | PDP0704A | Red Dot Optic Transition Course | Passed | 0.0 | 18.00 |
 | 12/6/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/6/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 12/5/2023 | PDP4526A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

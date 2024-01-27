@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/18/2024
+  course: EGS2874A
+  title: Reid Interview and Interrogation
+  status: Passed
+  score: '0.0'
+  hours: '18.00'
 - date: 12/16/2023
   course: PDP4150A
   title: DIR 0630.05 Chief's Message

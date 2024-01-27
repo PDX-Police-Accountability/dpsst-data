@@ -4448,6 +4448,10 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 10/25/2023
+  expiration_date: 10/25/2025
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
@@ -4460,10 +4464,6 @@ attribute_records:
   value: Signed
   effective_date: 4/12/2006
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 1/24/2024
 education_records:
 - date: 12/15/2000
   degree: No Degree

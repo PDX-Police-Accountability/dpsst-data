@@ -36,9 +36,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Instructed | 0.0 | 23.00 |
 | 12/27/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/27/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/22/2023 | PDP0650A | 2023 Training Return to Work Firearms | Instructed | 0.0 | 3.00 |
+| 12/19/2023 | PDP0704A | Red Dot Optic Transition Course | Instructed | 0.0 | 18.00 |
 | 12/14/2023 | PDP4443A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 12/14/2023 | PDP3722A | 2023-2 All Sworn In-Service Firearms 2 | Passed | 0.0 | 2.50 |
 | 12/14/2023 | PDP2759A | 2023-2 All Sworn In-Service PP Scenarios | Passed | 0.0 | 1.50 |

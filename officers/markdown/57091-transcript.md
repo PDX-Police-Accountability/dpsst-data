@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Instructed | 0.0 | 23.00 |
 | 1/3/2024 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/2/2024 | PDP2985A | 2023 Training Red Dot Optic Transition Course | Instructed | 0.0 | 27.00 |
 | 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |

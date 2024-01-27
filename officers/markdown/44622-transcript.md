@@ -37,6 +37,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/19/2024 | OSH4135A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
+| 1/19/2024 | OSH3272A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
+| 1/10/2024 | OSH2915A | Survial Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
+| 1/10/2024 | OSH0932A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
+| 1/5/2024 | OSH4028A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
+| 1/5/2024 | OSH1019A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 12/14/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/11/2023 | OSH0030A | Eithics Training | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |

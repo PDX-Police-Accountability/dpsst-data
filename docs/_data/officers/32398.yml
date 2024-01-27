@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2024
+  course: PDP3946A
+  title: 2024 FTEP Geography
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/10/2024
   course: PDP1426A
   title: 2024 CNT Annual Training

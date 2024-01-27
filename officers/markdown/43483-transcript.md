@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2024 | SVP0692A | Active Threat Classroom Presentation | Instructed | 0.0 | 2.00 |
 | 12/28/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/28/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/28/2023 | PDP1899A | FIN-6.14 Non-travel Meals, Light Refreshments | Passed | 0.0 | 0.25 |

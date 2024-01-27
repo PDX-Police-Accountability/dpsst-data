@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2024
+  course: PDP0704A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '23.00'
 - date: 12/27/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -68,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 12/19/2023
+  course: PDP0704A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '18.00'
 - date: 12/14/2023
   course: PDP4443A
   title: 2023-2 All Sworn In-Service ABLE Scenario

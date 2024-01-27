@@ -29,10 +29,10 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Certification Cards | First Aid and CPR | 10/25/2023 | 10/25/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
 | Code of Ethics | Signed | 5/4/2001 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 1/24/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -41,11 +41,13 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
-| 1/12/2024 | OAC1070A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
-| 1/12/2024 | OAC2811A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
-| 1/11/2024 | OAC1904A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
-| 1/11/2024 | OAC2518A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
-| 1/10/2024 | OAC3341A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
+| 1/24/2024 | SVP3662A | Introduction to Extreme Ownership | Instructed | 0.0 | 0.50 |
+| 1/24/2024 | SVP0692A | Active Threat Classroom Presentation | Passed | 0.0 | 2.00 |
+| 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
+| 1/12/2024 | OAC1165A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
+| 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
+| 1/11/2024 | OAC1674A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
+| 1/10/2024 | OAC2420A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
 | 1/5/2024 | SVP2012A | Uvalde Shooting Documentary  Debrief | Passed | 0.0 | 1.50 |
 | 12/13/2023 | HUP3391A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.00 |
 | 12/13/2023 | SVP0722A | DT (Defensive Tactics) Refresher | Instructed | 0.0 | 3.00 |

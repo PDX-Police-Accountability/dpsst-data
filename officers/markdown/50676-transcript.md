@@ -12,14 +12,17 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/3/2023 | Out of State Employment | Resigned | Dpty Shrf |  |  |
 | 3/30/2023 | Portland Police Bureau | Hired | Sergeant |  |  |
+| 6/29/2020 | Out of State Employment | Hired | Dpty Shrf |  |  |
 | 6/26/2020 | Portland Police Bureau | Resigned | Sergeant |  |  |
 | 5/3/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 7/23/2009 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/26/2020 | Police Officer | Basic | Lapsed | 10/18/2010 | 6/26/2025 |  |
+| 3/30/2023 | Police Officer | Basic | Required |  |  | 9/30/2024 |
+| 9/26/2020 | Police Officer | Basic | Lapsed | 10/18/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -32,7 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 2/26/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
+| 9/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/26/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/25/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/25/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

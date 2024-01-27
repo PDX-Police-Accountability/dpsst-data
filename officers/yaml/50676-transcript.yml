@@ -9,10 +9,22 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/3/2023
+  agency: Out of State Employment
+  action: Resigned
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 3/30/2023
   agency: Portland Police Bureau
   action: Hired
   rank: Sergeant
+  classification: ''
+  assignment: ''
+- date: 6/29/2020
+  agency: Out of State Employment
+  action: Hired
+  rank: Dpty Shrf
   classification: ''
   assignment: ''
 - date: 6/26/2020
@@ -34,18 +46,31 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/30/2023
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 9/30/2024
 - status_date: 9/26/2020
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 10/18/2010
-  expiration_date: 6/26/2025
+  expiration_date: ''
   probation_date: ''
 training_records:
+- date: 9/30/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Required
+  score: '0.0'
+  hours: '50.00'
 - date: 2/26/2024
   course: 24-0004
   title: DPSST Basic Police COD Self-Study
-  status: Pending
+  status: Registered
   score: '0.0'
   hours: '0.00'
 - date: 12/18/2023

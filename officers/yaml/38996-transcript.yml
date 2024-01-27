@@ -83,31 +83,61 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 1/12/2024
-  course: OAC1070A
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/12/2024
+  course: XDELETE3
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 1/12/2024
+  course: OAC1817A
   title: The Crucial Connection - Chief/Mgr Relationships
   status: Passed
   score: '0.0'
   hours: '1.50'
 - date: 1/12/2024
-  course: OAC2811A
+  course: OAC1165A
   title: Case Study on Safeway Active Shooter
   status: Passed
   score: '0.0'
   hours: '2.50'
 - date: 1/11/2024
-  course: OAC1904A
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 1/11/2024
+  course: XDELETE7
+  title: Pending for Deletion Due to Duplicate or
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/11/2024
+  course: OAC1938A
   title: Dark Nights of the Soul
   status: Passed
   score: '0.0'
   hours: '5.00'
 - date: 1/11/2024
-  course: OAC2518A
+  course: OAC1674A
   title: Labor Law Fundamentals  Recent Trends
   status: Passed
   score: '0.0'
   hours: '3.00'
 - date: 1/10/2024
-  course: OAC3341A
+  course: XDELETE6
+  title: Pending for Deletion Due to Duplicate or
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/10/2024
+  course: OAC2420A
   title: Drones - The Future of Public Safety
   status: Passed
   score: '0.0'

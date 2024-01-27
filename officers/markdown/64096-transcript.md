@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/15/2024 | PDP3946A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
+| 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Passed | 0.0 | 23.00 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 12/26/2023 | PDP1419A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
