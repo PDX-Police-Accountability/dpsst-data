@@ -259,6 +259,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 11/16/2021
+  course: PSU3690A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 9/18/2021
   course: F6F02217
   title: In - Service Training

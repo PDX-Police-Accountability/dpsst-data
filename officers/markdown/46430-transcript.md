@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2024 | PDP2314A | 2024 FTEP Control Tactics Post Basic Academy | Instructed | 0.0 | 4.00 |
 | 12/14/2023 | PDP2720A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/14/2023 | PDP0387A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 12/14/2023 | PDP1554A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |

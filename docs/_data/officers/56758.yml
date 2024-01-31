@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/18/2024
+  course: PDP0772A
+  title: 2024  FTEP HAZMAT/WMD Awareness
+  status: Instructed
+  score: '0.0'
+  hours: '3.50'
 - date: 12/18/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

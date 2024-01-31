@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2024
+  course: CAP2263A
+  title: Annual Handgun Qualification / Fundamentals
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

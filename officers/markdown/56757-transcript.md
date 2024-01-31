@@ -65,6 +65,7 @@
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 12/15/2021 | F1502484 | Campus Policing | Passed | 0.0 | 1.00 |
 | 11/12/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
+| 11/12/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/10/2021 | 21-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 80.00 |
 | 10/20/2021 | F6F10746 | Dean of Student Life Training | Passed | 0.0 | 2.00 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |

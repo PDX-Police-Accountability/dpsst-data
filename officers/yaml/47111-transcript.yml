@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/18/2024
+  course: BVP4076A
+  title: First Aid and Adult/Child CRP 11824 am
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/11/2024
   course: BPD0851A
   title: ORAS- Ohio Risk Assessment System
@@ -1814,6 +1820,10 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/18/2024
+  expiration_date: 1/18/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

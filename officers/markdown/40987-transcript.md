@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2024 | PDP0851A | 2024 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
 | 1/10/2024 | PDP0251A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/27/2023 | PDP0496A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/15/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

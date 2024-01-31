@@ -54,6 +54,7 @@
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 1.00 |
 | 11/19/2021 | 21-0029 | DPSST Supervision | Incomplete | 0.0 | 80.00 |
 | 11/11/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
+| 11/11/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 10/20/2021 | F6F10746 | Dean of Student Life Training | Passed | 0.0 | 2.00 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 8/11/2021 | F6F02582 | De-Escalation Training | Passed | 0.0 | 6.00 |

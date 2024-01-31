@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/11/2024
+  course: PDP4240A
+  title: 2024 FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '6.50'
 - date: 12/18/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

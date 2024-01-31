@@ -118,6 +118,27 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 1/29/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: 12/31/2024
+  probation_date: ''
+- status_date: 1/29/2024
+  certificate: Police Officer
+  level: Basic
+  status: App Recd
+  certificate_date: ''
+  expiration_date: 12/31/2024
+  probation_date: ''
+- status_date: 1/29/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: 12/31/2024
+  probation_date: ''
 - status_date: 4/21/2021
   certificate: Parole  Probation Officer
   level: Basic
@@ -154,6 +175,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2024
+  course: OSH1847A
+  title: Firearms qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/29/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -3473,6 +3500,10 @@ training_records:
   score: '0.0'
   hours: '281.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 1/25/2024
+  expiration_date: ''
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

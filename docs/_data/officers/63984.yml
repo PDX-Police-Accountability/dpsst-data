@@ -30,12 +30,30 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/18/2024
+  course: PDP0772A
+  title: 2024  FTEP HAZMAT/WMD Awareness
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 1/15/2024
   course: PDP3946A
   title: 2024 FTEP Geography
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/15/2024
+  course: PDP2314A
+  title: 2024 FTEP Control Tactics Post Basic Academy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/11/2024
+  course: PDP4240A
+  title: 2024 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 1/10/2024
   course: PDP0704A
   title: Red Dot Optic Transition Course

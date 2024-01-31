@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/19/2024
+  course: BVP2358A
+  title: First Aid and Adult/Child CPR 11924am
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/20/2023
   course: HBS2775A
   title: Active Threat
@@ -3405,6 +3411,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/19/2024
+  expiration_date: 1/19/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

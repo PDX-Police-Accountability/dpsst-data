@@ -117,6 +117,7 @@
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 12/3/2021 | MISCETH2 | Ethics: Insights to Principled Policing | Passed | 0.0 | 2.00 |
 | 11/10/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
+| 11/10/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 10/20/2021 | F6F10746 | Dean of Student Life Training | Passed | 0.0 | 2.00 |
 | 9/27/2021 | MISCGEN1 | Oregon Annual Title IX Training 2021 | Passed | 0.0 | 4.00 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |

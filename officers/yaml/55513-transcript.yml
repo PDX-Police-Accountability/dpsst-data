@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/18/2024
+  course: BVP4313A
+  title: First Aid and Adult Child CPR 11824pm
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/6/2023
   course: OCP0240A
   title: 'Officer Involved Shooting: A Patrol Level Response'
@@ -1069,6 +1075,10 @@ training_records:
   score: '0.0'
   hours: '36.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/18/2024
+  expiration_date: 1/18/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

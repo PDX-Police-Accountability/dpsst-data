@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2024 | FGP0368A | Human Trafficking Awareness-Roll Call Discussion | Passed | 0.0 | 0.50 |
 | 12/21/2023 | PDP2823A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/11/2023 | FGP2154A | SEMI-ANNUAL FIREARMS TRAINING | Passed | 0.0 | 1.00 |
 | 11/27/2023 | FGP1761A | Annual Taser Refresher | Passed | 0.0 | 2.00 |

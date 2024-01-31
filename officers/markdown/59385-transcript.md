@@ -70,6 +70,7 @@
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 11/19/2021 | E11PSU19 | FTM Equivalency (Portland State University PD) | Completed | 0.0 | 50.00 |
 | 11/16/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
+| 11/16/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 6/21/2021 | F6E14093 | Crisis Response  Communication Training | Passed | 0.0 | 5.00 |
 | 4/30/2021 | F6E08733 | Firearms Training | Passed | 0.0 | 5.50 |

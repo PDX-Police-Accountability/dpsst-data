@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2023
+  course: WBP1034A
+  title: Fireams - 4th Quarter Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/13/2023
   course: WBP3678A
   title: Glock Operator's Course (OC)

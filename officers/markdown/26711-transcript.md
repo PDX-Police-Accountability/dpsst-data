@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2024 | HBP3505A | HPD Internal Patrol Supervisor Training | Passed | 0.0 | 4.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2023 | HBP3646A | PoliceOne Firearms 1 | Passed | 0.0 | 1.00 |
 | 12/19/2023 | HBP0232A | PoliceOne Firearms 2 | Passed | 0.0 | 1.00 |

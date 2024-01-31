@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2024 | PDP2314A | 2024 FTEP Control Tactics Post Basic Academy | Instructed | 0.0 | 4.00 |
 | 12/8/2023 | PDP3685A | 2023 Training PVO Refresher Training | Instructed | 0.0 | 4.00 |
 | 12/4/2023 | PDP3685A | 2023 Training PVO Refresher Training | Instructed | 0.0 | 4.00 |
 | 11/21/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

@@ -3727,4 +3727,9 @@ attribute_records:
   value: LE Basic 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-education_records: []
+education_records:
+- date: 6/11/1993
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Psychology
+  hours: '183.0'

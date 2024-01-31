@@ -63,6 +63,7 @@
 | 12/3/2021 | 21-0026 | DPSST Middle Management | Incomplete | 0.0 | 80.00 |
 | 11/9/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/9/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
+| 11/9/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 8/23/2021 | F6E37073 | Bolo Wrap Instructor Certification | Passed | 0.0 | 5.00 |
 | 8/11/2021 | F6F02582 | De-Escalation Training | Passed | 0.0 | 6.00 |

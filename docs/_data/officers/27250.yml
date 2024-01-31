@@ -571,6 +571,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 11/10/2021
+  course: PSU3690A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/20/2021
   course: F6F10746
   title: Dean of Student Life Training

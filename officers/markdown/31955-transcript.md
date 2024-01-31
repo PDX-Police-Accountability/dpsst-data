@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2024 | CAP2263A | Annual Handgun Qualification / Fundamentals | Passed | 0.0 | 3.00 |
 | 1/12/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
 | 1/12/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 0.00 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |

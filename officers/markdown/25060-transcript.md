@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | WBP1034A | Fireams - 4th Quarter Qualification | Instructed | 0.0 | 0.50 |
 | 12/13/2023 | WBP3678A | Glock Operator's Course (OC) | Passed | 0.0 | 16.00 |
 | 12/5/2023 | WBP2426A | Adaptive Ethics | Passed | 0.0 | 3.00 |
 | 11/19/2023 | WBP0276A | Night Range - Low Light  Differential Target | Instructed | 0.0 | 4.00 |

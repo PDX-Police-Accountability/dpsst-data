@@ -28,6 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/6/2017 | Masters Arts | All Other Education Institutes |  | 70.0 |
 | 5/10/2014 | Bachelor Science | All Other Education Institutes | Psychology | 138.0 |
 |  | No Degree | All Other Education Institutes | Criminology | 64.0 |
 ## Training

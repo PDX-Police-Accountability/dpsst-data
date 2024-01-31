@@ -223,6 +223,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.25'
+- date: 11/12/2021
+  course: PSU3690A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 11/10/2021
   course: 21-0004
   title: DPSST Basic Police COD Self-Study

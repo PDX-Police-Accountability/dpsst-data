@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2024
+  course: BVP2406A
+  title: First Aid and Adult Child CPR 11524 pm
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/21/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -2583,6 +2589,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/15/2024
+  expiration_date: 1/15/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

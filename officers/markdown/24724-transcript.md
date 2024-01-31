@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2024 | FGP0368A | Human Trafficking Awareness-Roll Call Discussion | Passed | 0.0 | 0.50 |
 | 12/11/2023 | GBS3607A | LEDS- Inquiry/Entry Level Test | Passed | 0.0 | 12.00 |
 | 12/11/2023 | FGP2154A | SEMI-ANNUAL FIREARMS TRAINING | Passed | 0.0 | 1.00 |
 | 10/26/2023 | HBS1720A | Confronting Bias Through justice and Healing | Passed | 0.0 | 6.00 |

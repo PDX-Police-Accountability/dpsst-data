@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/26/2024
+  course: FGP0368A
+  title: Human Trafficking Awareness-Roll Call Discussion
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/11/2023
   course: GBS3607A
   title: LEDS- Inquiry/Entry Level Test

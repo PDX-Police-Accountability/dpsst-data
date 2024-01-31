@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/24/2024 | PDP0851A | 2024 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
+| 1/18/2024 | PDP0772A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.50 |
 | 1/17/2024 | PDP3417A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 1/10/2024 | PDP0251A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP3490A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

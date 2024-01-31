@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2024
+  course: PDP2314A
+  title: 2024 FTEP Control Tactics Post Basic Academy
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/14/2023
   course: PDP2720A
   title: 2023-2 All Sworn In-Service BWC Policy

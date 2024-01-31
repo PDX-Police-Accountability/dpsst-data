@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/15/2024 | PDP2314A | 2024 FTEP Control Tactics Post Basic Academy | Passed | 0.0 | 4.00 |
 | 12/5/2023 | PDP1842A | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 12/5/2023 | PDP3794A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 12/5/2023 | PDP1043A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
