@@ -3,12 +3,18 @@ header_record:
   name: Nakamura, Arthur J.
   dpsst_identifier: '36820'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Assistant Chief
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/18/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Asst Chief
+  classification: ''
+  assignment: ''
 - date: 1/19/2023
   agency: Portland Police Bureau
   action: Promotion
@@ -63,42 +69,42 @@ certification_records:
   level: Executive
   status: Granted
   certificate_date: 7/6/2023
-  expiration_date: ''
+  expiration_date: 4/18/2024
   probation_date: ''
 - status_date: 7/6/2023
   certificate: Police Officer
   level: Management
   status: Granted
   certificate_date: 7/6/2023
-  expiration_date: ''
+  expiration_date: 4/18/2024
   probation_date: ''
 - status_date: 10/31/2011
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 10/31/2011
-  expiration_date: ''
+  expiration_date: 4/18/2024
   probation_date: ''
 - status_date: 10/31/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/31/2011
-  expiration_date: ''
+  expiration_date: 4/18/2024
   probation_date: ''
 - status_date: 10/31/2011
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 10/31/2011
-  expiration_date: ''
+  expiration_date: 4/18/2024
   probation_date: ''
 - status_date: 6/23/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/23/2000
-  expiration_date: ''
+  expiration_date: 4/18/2024
   probation_date: ''
 training_records:
 - date: 11/1/2023

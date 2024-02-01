@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/4/2024
+  agency: Portland Fire Bureau Investigations
+  action: Resigned
+  rank: Investigtr
+  classification: ''
+  assignment: ''
 - date: 10/9/2023
   agency: Portland Fire Bureau Investigations
   action: Return LOA
@@ -45,7 +51,7 @@ certification_records:
   level: Basic
   status: Reactivatd
   certificate_date: 12/15/2005
-  expiration_date: ''
+  expiration_date: 4/4/2024
   probation_date: ''
 training_records:
 - date: 12/31/2021

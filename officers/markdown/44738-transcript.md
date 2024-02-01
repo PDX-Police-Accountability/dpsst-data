@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/4/2024 | Portland Fire Bureau Investigations | Resigned | Investigtr |  |  |
 | 10/9/2023 | Portland Fire Bureau Investigations | Return LOA | Investigtr |  |  |
 | 9/30/2021 | Portland Fire Bureau Investigations | LOA | Investigtr |  |  |
 | 9/5/2019 | Portland Fire Bureau Investigations | Hired | Investigtr |  |  |
@@ -20,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/22/2020 | Police Officer | Basic | Reactivatd | 12/15/2005 |  |  |
+| 10/22/2020 | Police Officer | Basic | Reactivatd | 12/15/2005 | 4/4/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -46,7 +46,7 @@
 | 11/29/2023 | PDP1662A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP3253A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1306A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
-| 7/17/2023 | M10-23A | DPSST Basic Police Course | Withdrew | 0.0 | 640.00 |
+| 11/10/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/6/2023 | PDP2850A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |

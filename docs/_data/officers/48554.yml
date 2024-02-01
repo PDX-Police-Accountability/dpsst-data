@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/11/2024
+  course: PDP2038A
+  title: 2024 Instructor Development Course (IDC)
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 11/22/2023
   course: PDP1371A
   title: 2023-3 Range Qual 40mm Less Lethal Qualification

@@ -138,12 +138,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 7/17/2023
+- date: 11/10/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Withdrew
+  status: Incomplete
   score: '0.0'
-  hours: '640.00'
+  hours: '0.00'
 - date: 7/12/2023
   course: PDP1377A
   title: 2023 FTEP New Hire Firearms

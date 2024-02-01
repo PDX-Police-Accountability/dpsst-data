@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/28/2023 | PSU0356A | Firearms Q4 | Passed | 0.0 | 1.00 |
 | 12/28/2023 | PSU1924A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 3.00 |
+| 11/9/2023 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/8/2023 | PSU0247A | Intro to Trauma Informed Care | Passed | 0.0 | 1.50 |
 | 5/24/2023 | PSU1225A | MILO 3000 / Decision Making | Passed | 0.0 | 0.00 |
 | 5/16/2023 | PSU3259 | Low Light/Shooting  Moving/Transitions/ Qual | Passed | 0.0 | 0.00 |
@@ -62,7 +63,6 @@
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 1.00 |
 | 12/3/2021 | 21-0026 | DPSST Middle Management | Incomplete | 0.0 | 80.00 |
 | 11/9/2021 | MISCMAIN | 2021 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
-| 11/9/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/9/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 8/23/2021 | F6E37073 | Bolo Wrap Instructor Certification | Passed | 0.0 | 5.00 |

@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/17/2024 | PDP3255A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/27/2023 | PDP0991A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/13/2023 | PDP1999A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/6/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

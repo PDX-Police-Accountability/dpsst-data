@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/11/2024
+  course: PDP2038A
+  title: 2024 Instructor Development Course (IDC)
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 12/14/2023
   course: VND3544A
   title: 28 CFR 23 and WSIN Resources

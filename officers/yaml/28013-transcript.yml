@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/9/2023
+  course: PSU1251A
+  title: Ethical Decision Making in the Gray Area
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 10/12/2023
   course: PSU1614A
   title: MILO 3000
@@ -164,12 +170,6 @@ training_records:
   status: Incomplete
   score: '0.0'
   hours: '80.00'
-- date: 11/11/2021
-  course: PSU1251A
-  title: Ethical Decision Making in the Gray Area
-  status: Passed
-  score: '0.0'
-  hours: '1.25'
 - date: 11/11/2021
   course: PSU3690A
   title: Ethical Decision Making in the Gray Area

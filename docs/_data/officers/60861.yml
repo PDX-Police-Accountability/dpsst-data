@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/24/2024
+  course: BNS1289A
+  title: HSI Adult First Aid CPR AED All Ages
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/16/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -1537,6 +1543,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 1/24/2024
+  expiration_date: 1/24/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

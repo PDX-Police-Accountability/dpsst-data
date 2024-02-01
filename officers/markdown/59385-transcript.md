@@ -23,7 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 6/24/2022 | 6/24/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 1/21/2019 |  |
@@ -35,6 +35,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
+| 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/9/2023 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 10/26/2023 | BPT2208A | Field Training and Evlauation Program / IDC | Passed | 0.0 | 32.00 |
 | 10/11/2023 | PSU4516A | Firearms Training / Qualification | Passed | 0.0 | 2.00 |
 | 8/21/2023 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 0.50 |
@@ -69,7 +71,6 @@
 | 12/22/2021 | F6E07694 | MILO Range Certified MILO Instructor Course | Passed | 0.0 | 16.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 11/19/2021 | E11PSU19 | FTM Equivalency (Portland State University PD) | Completed | 0.0 | 50.00 |
-| 11/16/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/16/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 9/18/2021 | F6F02217 | In - Service Training | Passed | 0.0 | 4.00 |
 | 6/21/2021 | F6E14093 | Crisis Response  Communication Training | Passed | 0.0 | 5.00 |

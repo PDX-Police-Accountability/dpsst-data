@@ -4,7 +4,7 @@
 | name | Nakamura, Arthur J. |
 | dpsst_identifier | 36820 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Assistant Chief |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/18/2024 | Portland Police Bureau | Retired | Asst Chief |  |  |
 | 1/19/2023 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 7/1/2021 | Portland Police Bureau | Return LOA | Commander |  |  |
 | 3/27/2021 | Portland Police Bureau | LOA | Commander |  |  |
@@ -23,12 +24,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/6/2023 | Police Officer | Executive | Granted | 7/6/2023 |  |  |
-| 7/6/2023 | Police Officer | Management | Granted | 7/6/2023 |  |  |
-| 10/31/2011 | Police Officer | Advanced | Granted | 10/31/2011 |  |  |
-| 10/31/2011 | Police Officer | Intermediate | Granted | 10/31/2011 |  |  |
-| 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 |  |  |
-| 6/23/2000 | Police Officer | Basic | Granted | 6/23/2000 |  |  |
+| 7/6/2023 | Police Officer | Executive | Granted | 7/6/2023 | 4/18/2024 |  |
+| 7/6/2023 | Police Officer | Management | Granted | 7/6/2023 | 4/18/2024 |  |
+| 10/31/2011 | Police Officer | Advanced | Granted | 10/31/2011 | 4/18/2024 |  |
+| 10/31/2011 | Police Officer | Intermediate | Granted | 10/31/2011 | 4/18/2024 |  |
+| 10/31/2011 | Police Officer | Supervisory | Granted | 10/31/2011 | 4/18/2024 |  |
+| 6/23/2000 | Police Officer | Basic | Granted | 6/23/2000 | 4/18/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

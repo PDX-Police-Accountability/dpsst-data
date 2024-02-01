@@ -23,7 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 6/24/2022 | 6/24/2024 |
 | Code of Ethics | Signed | 12/16/2016 |  |
@@ -36,8 +36,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
+| 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2023 | PSU0507A | Advanced Digital Threat Assessment | Passed | 0.0 | 6.50 |
 | 11/16/2023 | PSU3547A | De-Escalation and Minimizing Use of Force | Passed | 0.0 | 2.00 |
+| 11/9/2023 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/8/2023 | PSU1821A | Behavioral Threat Assessment | Passed | 0.0 | 16.00 |
 | 10/4/2023 | PSU4061A | Digital Threat Assesment | Passed | 0.0 | 6.00 |
 | 5/16/2023 | PSU1001 | Defensive Tactics | Passed | 0.0 | 2.00 |
@@ -64,7 +66,6 @@
 | 12/27/2021 | F1531394 | Active Shooter 3 | Passed | 0.0 | 1.00 |
 | 12/20/2021 | F6E10922 | Firearms Training | Passed | 0.0 | 3.00 |
 | 12/15/2021 | F1502484 | Campus Policing | Passed | 0.0 | 1.00 |
-| 11/12/2021 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/12/2021 | PSU3690A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 11/10/2021 | 21-0004 | DPSST Basic Police COD Self-Study | Passed | 0.0 | 80.00 |
 | 10/20/2021 | F6F10746 | Dean of Student Life Training | Passed | 0.0 | 2.00 |
