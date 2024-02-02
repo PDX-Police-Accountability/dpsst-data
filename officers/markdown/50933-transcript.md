@@ -248,6 +248,7 @@
 | 11/15/2021 | PDP30916 | 2021-2 City Attorney's Legal Updates for 2/2021 | Passed | 0.0 | 0.25 |
 | 11/1/2021 | PDP04708 | 2021 External Training ABLE Training Ethics | Passed | 0.0 | 4.00 |
 | 11/1/2021 | PDP02692 | 2021 External Training ABLE Training Use of Force | Passed | 0.0 | 4.00 |
+| 10/29/2021 | PDP3418A | Fundamentals of Criminal Intelligence | Passed | 0.0 | 20.00 |
 | 10/28/2021 | F1502708 | Engaging with Transgender Comm. | Passed | 0.0 | 4.00 |
 | 10/28/2021 | F1538002 | Engaging with Transgender Community | Passed | 0.0 | 4.00 |
 | 10/19/2021 | PDP27760 | 2021-1 City Attorney's Legal Updates for 1/2021 | Passed | 0.0 | 0.50 |

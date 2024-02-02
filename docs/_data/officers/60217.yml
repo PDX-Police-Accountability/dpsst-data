@@ -1920,4 +1920,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 10/7/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/8/2018
+  degree: Bachelor Arts
+  school: Portland State University
+  major: ''
+  hours: '220.5'
+- date: 6/15/2015
+  degree: No Degree
+  school: All Other Education Institutes
+  major: Psychology
+  hours: '30.0'

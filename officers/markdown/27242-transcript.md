@@ -44,10 +44,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/12/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
-| 1/12/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
-| 1/11/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
-| 1/11/2024 | XDELETE7 | Pending for Deletion Due to Duplicate or | Passed | 0.0 | 0.00 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 3.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2023 | SPP4259A | Use of Force Policy Review | Passed | 0.0 | 3.50 |

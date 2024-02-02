@@ -44,13 +44,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/12/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
-| 1/12/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
-| 1/11/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 2.00 |
-| 1/11/2024 | XDELETE7 | Pending for Deletion Due to Duplicate or | Passed | 0.0 | 3.00 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 2.00 |
 | 1/11/2024 | OAC1674A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
-| 1/10/2024 | XDELETE6 | Pending for Deletion Due to Duplicate or | Passed | 0.0 | 4.00 |
 | 1/10/2024 | OAC2420A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/31/2023 | PPP1750A | Ethical Behavior for Local Government | Passed | 0.0 | 1.00 |

@@ -31,12 +31,6 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 5/9/2023
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
-- date: 5/9/2023
   course: ALS0599A
   title: SWAT Vehicle Takedowns
   status: Passed

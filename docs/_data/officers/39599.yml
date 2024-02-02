@@ -2615,10 +2615,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 9/30/2023
   expiration_date: 9/30/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 1/12/2022
-  expiration_date: 1/12/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

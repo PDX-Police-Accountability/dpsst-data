@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 1/25/2024
+  agency: Oregon State Police
+  action: Hired
+  rank: Trooper
+  classification: ''
+  assignment: ''
 - date: 11/18/2020
   agency: Wallowa County Community Corrections
   action: Transfered
@@ -139,6 +145,13 @@ certification_records:
   certificate_date: ''
   expiration_date: 12/31/2024
   probation_date: ''
+- status_date: 1/25/2024
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 7/25/2025
 - status_date: 4/21/2021
   certificate: Parole  Probation Officer
   level: Basic
@@ -175,6 +188,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2024
+  course: 24-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
 - date: 1/25/2024
   course: OSH1847A
   title: Firearms qualification

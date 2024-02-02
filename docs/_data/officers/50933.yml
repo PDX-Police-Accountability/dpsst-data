@@ -1329,6 +1329,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/29/2021
+  course: PDP3418A
+  title: Fundamentals of Criminal Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 10/28/2021
   course: F1502708
   title: Engaging with Transgender Comm.

@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2024 | PDP2633A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/18/2024 | PDP1800A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Instructed | 0.0 | 23.00 |
 | 1/4/2024 | PDP3380A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |

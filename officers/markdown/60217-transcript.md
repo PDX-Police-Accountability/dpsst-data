@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/8/2018 | Bachelor Arts | Portland State University |  | 220.5 |
+| 6/15/2015 | No Degree | All Other Education Institutes | Psychology | 30.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

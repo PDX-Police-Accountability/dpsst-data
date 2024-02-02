@@ -1196,10 +1196,6 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 9/26/2022
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid
-  effective_date: 1/27/2022
-  expiration_date: 1/27/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

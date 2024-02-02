@@ -143,12 +143,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 10/25/2023
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '8.00'
 - date: 10/9/2023
   course: HBS3100A
   title: 2023 September In-Service

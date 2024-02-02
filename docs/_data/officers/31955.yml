@@ -115,47 +115,17 @@ training_records:
   score: '0.0'
   hours: '3.00'
 - date: 1/12/2024
-  course: XDELETE1
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.50'
-- date: 1/12/2024
-  course: XDELETE2
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: ''
-  score: '0.0'
-  hours: '0.00'
-- date: 1/12/2024
   course: OAC2861A
   title: The Crucial Connection - Chief/Mgr Relationships
   status: Passed
   score: '0.0'
   hours: '1.50'
 - date: 1/11/2024
-  course: XDELETE3
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '3.00'
-- date: 1/11/2024
-  course: XDELETE4
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: ''
-  score: '0.0'
-  hours: '0.00'
-- date: 1/11/2024
   course: OAC2104A
   title: Dark Nights of the Soul
   status: Passed
   score: '0.0'
   hours: '3.00'
-- date: 1/10/2024
-  course: XDELETE5
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
 - date: 1/10/2024
   course: OAC2692A
   title: Drones - The Future of Public Safety

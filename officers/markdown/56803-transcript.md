@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/12/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 1/31/2024 | Police Officer | Intermediate | App InProc |  |  |  |
 | 3/14/2018 | Police Officer | Basic | Granted | 3/14/2018 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2024 | PDP2633A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/18/2024 | PDP1800A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 1/11/2024 | PDP4316A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/4/2024 | PDP3380A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |

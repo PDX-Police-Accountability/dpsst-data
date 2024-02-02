@@ -49,11 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/12/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.50 |
-| 1/12/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 0.00 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
-| 1/11/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 5.00 |
-| 1/11/2024 | XDELETE4 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 1/11/2024 | OAC2266A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/11/2024 | OAC2104A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
 | 1/10/2024 | HUP2200A | OACP Board Meeting | Passed | 0.0 | 2.00 |

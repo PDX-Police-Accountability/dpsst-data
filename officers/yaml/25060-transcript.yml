@@ -76,6 +76,12 @@ certification_records:
   expiration_date: 3/20/2024
   probation_date: ''
 training_records:
+- date: 1/30/2024
+  course: WBP0846A
+  title: Defensive Tactics/OC/Baton/WRAP Restraint
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/31/2023
   course: WBP1034A
   title: Fireams - 4th Quarter Qualification

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/25/2024 | Oregon State Police | Hired | Trooper |  |  |
 | 11/18/2020 | Wallowa County Community Corrections | Transfered | Par/prob O |  |  |
 | 11/17/2020 | Wallowa County Sheriff's Office | Layoff | Par/prob O |  |  |
 | 1/15/2020 | Wallowa County Sheriff's Office | Hired | Par/prob O |  |  |
@@ -36,6 +37,7 @@
 | 1/29/2024 | Police Officer | Advanced | App Recd |  | 12/31/2024 |  |
 | 1/29/2024 | Police Officer | Basic | App Recd |  | 12/31/2024 |  |
 | 1/29/2024 | Police Officer | Intermediate | App Recd |  | 12/31/2024 |  |
+| 1/25/2024 | Police Officer | Basic | Required |  |  | 7/25/2025 |
 | 4/21/2021 | Parole  Probation Officer | Basic | Granted | 4/21/2021 |  |  |
 | 3/31/2020 | Police Officer | Advanced | Lapsed | 2/1/2004 | 12/31/2024 |  |
 | 3/31/2020 | Police Officer | Basic | Lapsed | 10/12/2000 | 12/31/2024 |  |
@@ -60,6 +62,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 1/25/2024 | OSH1847A | Firearms qualification | Passed | 0.0 | 1.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2023 | ETS1125A | Ethics/Sexual Harassment Prevention | Passed | 0.0 | 1.00 |
