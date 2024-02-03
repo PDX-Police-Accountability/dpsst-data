@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2024
+  course: WLP2943A
+  title: Taser 7 Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/23/2023
   course: WLP1873A
   title: Latino Network Training

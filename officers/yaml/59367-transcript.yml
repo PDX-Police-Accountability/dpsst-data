@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/9/2024
+  course: PDP2437A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance
@@ -1603,6 +1609,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/9/2024
+  expiration_date: 1/9/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2023

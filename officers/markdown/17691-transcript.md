@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | VND2911A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2023 | MNS2155A | 2023 YCSO Policy Review | Passed | 0.0 | 9.00 |
 | 12/12/2023 | MNS3732A | Basic Death Investigations | Passed | 0.0 | 2.00 |

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | WLP2943A | Taser 7 Recertification | Passed | 0.0 | 2.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
 | 1/11/2024 | OAC1674A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |

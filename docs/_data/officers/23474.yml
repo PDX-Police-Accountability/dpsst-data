@@ -194,6 +194,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/19/2023
+  course: PDP3869A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 11/1/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity
@@ -2697,6 +2703,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/19/2023
+  expiration_date: 12/19/2023
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/28/2004

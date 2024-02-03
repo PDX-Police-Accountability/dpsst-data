@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | WLP2943A | Taser 7 Recertification | Passed | 0.0 | 2.00 |
 | 12/23/2023 | WLP1873A | Latino Network Training | Passed | 0.0 | 0.50 |
 | 12/7/2023 | WLP0697A | Defensive Tactics - Takedowns | Passed | 0.0 | 2.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
