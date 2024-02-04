@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2024
+  course: BPT2839A
+  title: RADAR/LIDAR Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 12/12/2023
   course: OCS1304A
   title: Marksmanship, Movement, problem solving

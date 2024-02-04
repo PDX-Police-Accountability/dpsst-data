@@ -82,6 +82,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 1/31/2024
+  course: BPT4285A
+  title: Intoxilyzer 8000 Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 1/24/2024
   course: SVP3662A
   title: Introduction to Extreme Ownership

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2024 | EGP1944A | Briefing:  Baltimore PD OIS Debrief | Passed | 0.0 | 0.50 |
 | 1/11/2024 | EGP3507A | ACAP Training | Passed | 0.0 | 2.00 |
 | 1/11/2024 | EGP3418A | Bloodborne Pathogens | Passed | 0.0 | 1.50 |
 | 1/11/2024 | EGP4423A | CIT Training | Passed | 0.0 | 2.00 |

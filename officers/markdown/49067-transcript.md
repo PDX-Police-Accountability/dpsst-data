@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2024 | BPT2839A | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 12/15/2023 | VND1252A | North American Standard Truck Inspection Part B | Passed | 0.0 | 40.00 |
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |

@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2024 | BPT2839A | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 12/15/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/15/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/12/2023 | PDP3424A | 2023 Traffic Monthly Training | Passed | 0.0 | 6.00 |
