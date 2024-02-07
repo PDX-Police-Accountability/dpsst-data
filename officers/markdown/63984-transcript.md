@@ -53,12 +53,12 @@
 | 12/26/2023 | PDP1741A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP1918A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 12/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/17/2023 | REG2933A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 10/29/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/19/2023 | REG1394A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
-| 8/14/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
 | 8/9/2023 | PDP4314A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
 | 8/7/2023 | PDP3940A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
