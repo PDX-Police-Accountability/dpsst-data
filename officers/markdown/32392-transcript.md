@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | TMS3091A | Evidence Collection | Passed | 0.0 | 3.00 |
+| 1/30/2024 | TGP0180A | Firearms Training-Handgun | Passed | 0.0 | 1.00 |
 | 12/18/2023 | BVP3773A | Winter Law Enforcement SRO Training | Passed | 0.0 | 8.00 |
 | 12/15/2023 | TGP2376A | Force on Force Training | Passed | 0.0 | 1.50 |
 | 12/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

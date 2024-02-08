@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | VND4338A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 4.00 |
 | 12/22/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/22/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/2/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

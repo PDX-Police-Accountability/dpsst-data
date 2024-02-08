@@ -36,7 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
-| 12/11/2023 | OSH0030A | Eithics Training | Passed | 0.0 | 1.00 |
+| 12/11/2023 | OSH0030A | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |
 | 12/1/2023 | CAP4422A | AYC- Women's Seminar | Passed | 0.0 | 8.00 |
 | 11/30/2023 | CAP3231A | Building Your Leadership Toolbox | Passed | 0.0 | 8.00 |

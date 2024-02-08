@@ -119,6 +119,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2024
+  course: BNP3812A
+  title: Financial Literacy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/31/2024
+  course: BNP0462A
+  title: Karly's Law and Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/29/2024
+  course: BNP0477A
+  title: Ethics for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/17/2023
   course: BNP1963A
   title: IACP Training

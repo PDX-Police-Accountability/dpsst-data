@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2024
+  course: TMS3091A
+  title: Evidence Collection
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/30/2024
+  course: TGP0180A
+  title: Firearms Training-Handgun
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/18/2023
   course: BVP3773A
   title: Winter Law Enforcement SRO Training

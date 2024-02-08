@@ -37,6 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2024 | BNP3855A | DUII refresher | Passed | 0.0 | 4.00 |
+| 1/30/2024 | BNP3812A | Financial Literacy | Passed | 0.0 | 0.50 |
+| 1/30/2024 | BNP0477A | Ethics for Law Enforcement | Passed | 0.0 | 3.00 |
+| 1/30/2024 | BNP0462A | Karly's Law and Child Abuse | Passed | 0.0 | 0.50 |
 | 12/17/2023 | BNP0843A | Building Clearing | Passed | 0.0 | 2.00 |
 | 12/14/2023 | BNP0017A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/30/2023 | BNP3339A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 4.00 |

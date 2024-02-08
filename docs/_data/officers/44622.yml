@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2024
+  course: OSH3804A
+  title: Building Search, Manual Breach, Active Threat
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/24/2024
+  course: OSH0221A
+  title: Adult/Child CPR and First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/19/2024
   course: OSH4135A
   title: Survival Skills - Patrol Tactics
@@ -106,7 +118,7 @@ training_records:
   hours: '0.00'
 - date: 12/11/2023
   course: OSH0030A
-  title: Eithics Training
+  title: Ethics Training
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -2541,6 +2553,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/24/2024
+  expiration_date: 1/31/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2024
+  course: VND4338A
+  title: Inspection Enforcement Annual Refresh Class
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/31/2023
   course: OCP1409A
   title: Daily Training Bulletins

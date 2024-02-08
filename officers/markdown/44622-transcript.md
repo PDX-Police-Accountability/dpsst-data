@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/24/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/12/2022 | 9/12/2024 |
@@ -37,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2024 | OSH3804A | Building Search, Manual Breach, Active Threat | Instructed | 0.0 | 8.00 |
+| 1/24/2024 | OSH0221A | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 1/19/2024 | OSH4135A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 1/19/2024 | OSH3272A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 1/10/2024 | OSH2915A | Survial Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
@@ -44,7 +47,7 @@
 | 1/5/2024 | OSH4028A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 1/5/2024 | OSH1019A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |
 | 12/14/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
-| 12/11/2023 | OSH0030A | Eithics Training | Passed | 0.0 | 1.00 |
+| 12/11/2023 | OSH0030A | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |
 | 11/10/2023 | REG0793A | Sig Pistol Mounted Optics Instructor Course LE | Passed | 0.0 | 16.00 |
 | 11/6/2023 | OSH0517A | 3rd Trimester Firearms Low-Light | Instructed | 0.0 | 2.00 |
