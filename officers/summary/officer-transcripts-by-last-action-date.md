@@ -920,7 +920,6 @@
 | Nutting, Bradley J. | 45920 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-04-11 | [md](../markdown/45920-transcript.md) - [yaml](../yaml/45920-transcript.yml) |
 | Sutton, Jasmine M. | 47682 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-04-11 | [md](../markdown/47682-transcript.md) - [yaml](../yaml/47682-transcript.yml) |
 | Jenson, Andrew S. | 51804 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-04-11 | [md](../markdown/51804-transcript.md) - [yaml](../yaml/51804-transcript.yml) |
-| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Hays, Harold F., Jr. | 41498 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/41498-transcript.md) - [yaml](../yaml/41498-transcript.yml) |
 | Hettman, Casey A. | 47718 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/47718-transcript.md) - [yaml](../yaml/47718-transcript.yml) |
 | Anderson, Whitney B. | 59770 | Portland Police Bureau | Active | Police Officer | Hired | 2019-04-18 | [md](../markdown/59770-transcript.md) - [yaml](../yaml/59770-transcript.yml) |
@@ -1460,9 +1459,7 @@
 | Baer, Rachel V. | 52342 | Portland Police Bureau | Active | Detective | Return LOA | 2022-10-01 | [md](../markdown/52342-transcript.md) - [yaml](../yaml/52342-transcript.yml) |
 | Ossenkop, Brian D. | 28330 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2022-10-12 | [md](../markdown/28330-transcript.md) - [yaml](../yaml/28330-transcript.yml) |
 | Padilla, Martin A. | 37143 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/37143-transcript.md) - [yaml](../yaml/37143-transcript.yml) |
-| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Commander | Promotion | 2022-10-13 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
 | Bell, Jeffrey M. | 38996 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2022-10-13 | [md](../markdown/38996-transcript.md) - [yaml](../yaml/38996-transcript.yml) |
-| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
 | Moore, Nathan A. | 42576 | Portland Police Bureau | Active | Detective | Return LOA | 2022-10-13 | [md](../markdown/42576-transcript.md) - [yaml](../yaml/42576-transcript.yml) |
 | Stensgaard, Chadd D. | 43480 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-10-13 | [md](../markdown/43480-transcript.md) - [yaml](../yaml/43480-transcript.yml) |
 | Jensen, Jacob V. | 43494 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/43494-transcript.md) - [yaml](../yaml/43494-transcript.yml) |
@@ -1684,7 +1681,10 @@
 | Weber, Eric S. | 32070 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-28 | [md](../markdown/32070-transcript.md) - [yaml](../yaml/32070-transcript.yml) |
 | Scott, Ross C. | 37329 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-01-01 | [md](../markdown/37329-transcript.md) - [yaml](../yaml/37329-transcript.yml) |
 | Kenagy, Christopher J. | 36821 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-01-09 | [md](../markdown/36821-transcript.md) - [yaml](../yaml/36821-transcript.yml) |
+| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Captain | Promotion | 2024-01-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Nakamura, Arthur J. | 36820 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2024-01-18 | [md](../markdown/36820-transcript.md) - [yaml](../yaml/36820-transcript.yml) |
+| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2024-01-18 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
+| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Commander | Promotion | 2024-01-18 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
 | Babasin, Melissa A. | 64740 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64740-transcript.md) - [yaml](../yaml/64740-transcript.yml) |
 | Vega Mendez, Esmeralda | 64818 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64818-transcript.md) - [yaml](../yaml/64818-transcript.yml) |
 | Wilson, Danielle E. | 64828 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/64828-transcript.md) - [yaml](../yaml/64828-transcript.yml) |

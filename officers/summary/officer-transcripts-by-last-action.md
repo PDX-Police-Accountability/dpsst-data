@@ -747,7 +747,7 @@
 | Shearer, Jeffrey G. | 29992 | Portland Police Bureau | Active | Criminalist | Promotion | 2001-08-30 | [md](../markdown/29992-transcript.md) - [yaml](../yaml/29992-transcript.yml) |
 | Waddell, Cheryl M. | 29997 | Portland Police Bureau | Active | Detective | Promotion | 2004-09-23 | [md](../markdown/29997-transcript.md) - [yaml](../yaml/29997-transcript.yml) |
 | Prosser, Todd A. | 30501 | Portland Police Bureau | Active | Detective | Promotion | 2004-07-08 | [md](../markdown/30501-transcript.md) - [yaml](../yaml/30501-transcript.yml) |
-| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
+| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Captain | Promotion | 2024-01-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Hansen, Robb C. | 31459 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/31459-transcript.md) - [yaml](../yaml/31459-transcript.yml) |
 | McGuire, Brendan P. | 31951 | Portland Police Bureau | Active | Detective | Promotion | 2008-01-24 | [md](../markdown/31951-transcript.md) - [yaml](../yaml/31951-transcript.yml) |
 | Hubbard, Brian D. | 32024 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/32024-transcript.md) - [yaml](../yaml/32024-transcript.yml) |
@@ -800,7 +800,7 @@
 | Frankus, Nicholas P. | 37943 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-05-04 | [md](../markdown/37943-transcript.md) - [yaml](../yaml/37943-transcript.yml) |
 | Close, Michael A., Jr. | 38094 | Portland Police Bureau | Active | Sergeant | Promotion | 2023-05-11 | [md](../markdown/38094-transcript.md) - [yaml](../yaml/38094-transcript.yml) |
 | Strohmeyer, Erik D. | 38637 | Portland Police Bureau | Active | Sergeant | Promotion | 2013-01-10 | [md](../markdown/38637-transcript.md) - [yaml](../yaml/38637-transcript.yml) |
-| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Commander | Promotion | 2022-10-13 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
+| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2024-01-18 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
 | Pak, Curtis C. | 38995 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-05-27 | [md](../markdown/38995-transcript.md) - [yaml](../yaml/38995-transcript.yml) |
 | Bell, Jeffrey M. | 38996 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2022-10-13 | [md](../markdown/38996-transcript.md) - [yaml](../yaml/38996-transcript.yml) |
 | Leasure, Michael C. | 38997 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2020-08-25 | [md](../markdown/38997-transcript.md) - [yaml](../yaml/38997-transcript.yml) |
@@ -839,7 +839,7 @@
 | Helzer, Peter D. | 41782 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/41782-transcript.md) - [yaml](../yaml/41782-transcript.yml) |
 | Corona, Joseph R. | 41783 | Portland Police Bureau | Active | Detective | Promotion | 2018-02-08 | [md](../markdown/41783-transcript.md) - [yaml](../yaml/41783-transcript.yml) |
 | Dickinson, Douglas J. | 41829 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/41829-transcript.md) - [yaml](../yaml/41829-transcript.yml) |
-| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
+| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Commander | Promotion | 2024-01-18 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
 | Wullbrandt, Robert M. | 42649 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/42649-transcript.md) - [yaml](../yaml/42649-transcript.yml) |
 | Law, Travis W. | 42652 | Portland Police Bureau | Active | Detective | Promotion | 2017-09-21 | [md](../markdown/42652-transcript.md) - [yaml](../yaml/42652-transcript.yml) |
 | Sharp, Steven M. | 42660 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/42660-transcript.md) - [yaml](../yaml/42660-transcript.yml) |

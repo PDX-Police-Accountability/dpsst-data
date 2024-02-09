@@ -610,7 +610,7 @@
 | Ginnow, Matthew C. | 50847 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-08-24 | [md](../markdown/50847-transcript.md) - [yaml](../yaml/50847-transcript.yml) |
 | Gissel, Kevin R. | 14308 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2007-07-04 | [md](../markdown/14308-transcript.md) - [yaml](../yaml/14308-transcript.yml) |
 | Gittlen, Jacob M. | 45022 | Portland Police Bureau | Active | Civilian Employee | Hired | 2004-08-23 | [md](../markdown/45022-transcript.md) - [yaml](../yaml/45022-transcript.yml) |
-| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Commander | Promotion | 2022-10-13 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
+| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2024-01-18 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
 | Glaske, Neal L. | 29743 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-01-31 | [md](../markdown/29743-transcript.md) - [yaml](../yaml/29743-transcript.yml) |
 | Glass, Michael W. | 25202 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2018-07-04 | [md](../markdown/25202-transcript.md) - [yaml](../yaml/25202-transcript.yml) |
 | Goettsch, David A. | 57047 | Portland Police Bureau | Active | Police Officer | Hired | 2017-01-26 | [md](../markdown/57047-transcript.md) - [yaml](../yaml/57047-transcript.yml) |
@@ -1261,7 +1261,7 @@
 | Pryce, Jimmy L. | 34677 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-08-18 | [md](../markdown/34677-transcript.md) - [yaml](../yaml/34677-transcript.yml) |
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |
 | Quackenbush, James P. | 36875 | Portland Police Bureau | Inactive | Lieutenant | Resigned | 2021-07-20 | [md](../markdown/36875-transcript.md) - [yaml](../yaml/36875-transcript.yml) |
-| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
+| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Captain | Promotion | 2024-01-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Quinlivan, Sarah P. | 58767 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-05-03 | [md](../markdown/58767-transcript.md) - [yaml](../yaml/58767-transcript.yml) |
 | Quinsland, Alexander P. | 50817 | Portland Police Bureau | Active | Police Officer | Hired | 2009-10-01 | [md](../markdown/50817-transcript.md) - [yaml](../yaml/50817-transcript.yml) |
 | Quintero, Magali | 52834 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2014-05-31 | [md](../markdown/52834-transcript.md) - [yaml](../yaml/52834-transcript.yml) |
@@ -1374,7 +1374,7 @@
 | Schmidt, Eric J. | 52804 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2014-11-06 | [md](../markdown/52804-transcript.md) - [yaml](../yaml/52804-transcript.yml) |
 | Schmidt, Kristen L. | 37669 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2008-04-07 | [md](../markdown/37669-transcript.md) - [yaml](../yaml/37669-transcript.yml) |
 | Schmitt, Tori L. | 25861 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-12-02 | [md](../markdown/25861-transcript.md) - [yaml](../yaml/25861-transcript.yml) |
-| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
+| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Commander | Promotion | 2024-01-18 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
 | Schroeder, Matthew J. | 47848 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-08-04 | [md](../markdown/47848-transcript.md) - [yaml](../yaml/47848-transcript.yml) |
 | Schroeder, Shawn R. | 58932 | Portland Police Bureau | Active | Police Officer | Hired | 2018-07-26 | [md](../markdown/58932-transcript.md) - [yaml](../yaml/58932-transcript.yml) |
 | Schull, Broden R. | 63052 | Portland Police Bureau | Active | Police Officer | Hired | 2022-07-21 | [md](../markdown/63052-transcript.md) - [yaml](../yaml/63052-transcript.yml) |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/1/2024
+  agency: Medford Police Department
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/27/2023
   agency: Medford Police Department
   action: LOA
@@ -39,21 +45,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 1/11/2005
-  expiration_date: ''
+  expiration_date: 5/1/2024
   probation_date: ''
 - status_date: 7/25/2002
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/25/2002
-  expiration_date: ''
+  expiration_date: 5/1/2024
   probation_date: ''
 - status_date: 4/26/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 4/26/2000
-  expiration_date: ''
+  expiration_date: 5/1/2024
   probation_date: ''
 training_records:
 - date: 11/17/2023

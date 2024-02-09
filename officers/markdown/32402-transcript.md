@@ -26,6 +26,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | CPR | 5/2/2023 | 5/2/2025 |
 | Certification Cards | CPR | 1/16/2023 | 1/31/2025 |

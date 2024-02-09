@@ -154,7 +154,7 @@
 | Wiechmann, Frederick J. | 30431 | Portland Police Bureau | Active | Police Officer | LOA | 2022-07-24 | [md](../markdown/30431-transcript.md) - [yaml](../yaml/30431-transcript.yml) |
 | Prosser, Todd A. | 30501 | Portland Police Bureau | Active | Detective | Promotion | 2004-07-08 | [md](../markdown/30501-transcript.md) - [yaml](../yaml/30501-transcript.yml) |
 | Garner, David W. | 30600 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-03-09 | [md](../markdown/30600-transcript.md) - [yaml](../yaml/30600-transcript.yml) |
-| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
+| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Captain | Promotion | 2024-01-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Letter, Joshua M. | 30867 | Portland Police Bureau | Active | Police Officer | Transfered | 2001-11-01 | [md](../markdown/30867-transcript.md) - [yaml](../yaml/30867-transcript.yml) |
 | Dauchy, Aaron M. | 30873 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-02-03 | [md](../markdown/30873-transcript.md) - [yaml](../yaml/30873-transcript.yml) |
 | Brant, Kristi R. | 31135 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-07-10 | [md](../markdown/31135-transcript.md) - [yaml](../yaml/31135-transcript.yml) |
@@ -307,7 +307,7 @@
 | Morgan, Craig S. | 38846 | Portland Police Bureau | Active | Lieutenant | Return LOA | 2015-02-03 | [md](../markdown/38846-transcript.md) - [yaml](../yaml/38846-transcript.yml) |
 | Rees, Ryan C. | 38874 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-01-20 | [md](../markdown/38874-transcript.md) - [yaml](../yaml/38874-transcript.yml) |
 | Sage, Jamie L. | 38875 | Portland Police Bureau | Active | Civilian Employee | Hired | 2000-02-03 | [md](../markdown/38875-transcript.md) - [yaml](../yaml/38875-transcript.yml) |
-| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Commander | Promotion | 2022-10-13 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
+| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2024-01-18 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
 | McGuire, Jeffrey D. | 38994 | Portland Police Bureau | Active | Police Officer | Hired | 2000-03-16 | [md](../markdown/38994-transcript.md) - [yaml](../yaml/38994-transcript.yml) |
 | Pak, Curtis C. | 38995 | Portland Police Bureau | Active | Sergeant | Promotion | 2021-05-27 | [md](../markdown/38995-transcript.md) - [yaml](../yaml/38995-transcript.yml) |
 | Bell, Jeffrey M. | 38996 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2022-10-13 | [md](../markdown/38996-transcript.md) - [yaml](../yaml/38996-transcript.yml) |
@@ -381,7 +381,7 @@
 | Corona, Joseph R. | 41783 | Portland Police Bureau | Active | Detective | Promotion | 2018-02-08 | [md](../markdown/41783-transcript.md) - [yaml](../yaml/41783-transcript.yml) |
 | Shaw, Lisa E. | 41798 | Portland Police Bureau | Active | Civilian Employee | Hired | 2002-01-09 | [md](../markdown/41798-transcript.md) - [yaml](../yaml/41798-transcript.yml) |
 | Dickinson, Douglas J. | 41829 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/41829-transcript.md) - [yaml](../yaml/41829-transcript.yml) |
-| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
+| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Commander | Promotion | 2024-01-18 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
 | Snitily, Thomas A. | 42016 | Portland Police Bureau | Active | Police Officer | Hired | 2002-06-27 | [md](../markdown/42016-transcript.md) - [yaml](../yaml/42016-transcript.yml) |
 | Cass, Christopher L. | 42307 | Portland Police Bureau | Active | Police Officer | Hired | 2002-06-27 | [md](../markdown/42307-transcript.md) - [yaml](../yaml/42307-transcript.yml) |
 | Hensey, Jason R. | 42309 | Portland Police Bureau | Active | Police Officer | Demotion | 2016-10-01 | [md](../markdown/42309-transcript.md) - [yaml](../yaml/42309-transcript.yml) |

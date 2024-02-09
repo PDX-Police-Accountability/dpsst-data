@@ -102,6 +102,7 @@
 | Ossenkop, Brian D. | 28330 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2022-10-12 | [md](../markdown/28330-transcript.md) - [yaml](../yaml/28330-transcript.yml) |
 | Nakamura, Arthur J. | 36820 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2024-01-18 | [md](../markdown/36820-transcript.md) - [yaml](../yaml/36820-transcript.yml) |
 | Resch, Jami L. | 37142 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2023-01-13 | [md](../markdown/37142-transcript.md) - [yaml](../yaml/37142-transcript.yml) |
+| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2024-01-18 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
 | Bell, Jeffrey M. | 38996 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2022-10-13 | [md](../markdown/38996-transcript.md) - [yaml](../yaml/38996-transcript.yml) |
 | Leasure, Michael C. | 38997 | Portland Police Bureau | Active | Assistant Chief | Promotion | 2020-08-25 | [md](../markdown/38997-transcript.md) - [yaml](../yaml/38997-transcript.yml) |
 | Lee, Ryan P. | 39878 | Portland Police Bureau | Inactive | Assistant Chief | Resigned | 2020-07-02 | [md](../markdown/39878-transcript.md) - [yaml](../yaml/39878-transcript.yml) |
@@ -116,13 +117,13 @@
 | Gorgone, Frank R. | 27542 | Portland Police Bureau | Inactive | Captain | Retired | 2018-06-28 | [md](../markdown/27542-transcript.md) - [yaml](../yaml/27542-transcript.yml) |
 | Kruger, Mark W. | 28044 | Portland Police Bureau | Inactive | Captain | Retired | 2020-03-13 | [md](../markdown/28044-transcript.md) - [yaml](../yaml/28044-transcript.yml) |
 | Pashley, Gregory R. | 28089 | Portland Police Bureau | Active | Captain | Promotion | 2023-01-19 | [md](../markdown/28089-transcript.md) - [yaml](../yaml/28089-transcript.yml) |
+| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Captain | Promotion | 2024-01-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Bacigalupi, Clifford M., Jr. | 30878 | Portland Police Bureau | Inactive | Captain | Retired | 2021-01-04 | [md](../markdown/30878-transcript.md) - [yaml](../yaml/30878-transcript.yml) |
 | Passadore, Anthony V. | 33482 | Portland Police Bureau | Active | Captain | Return LOA | 2023-05-09 | [md](../markdown/33482-transcript.md) - [yaml](../yaml/33482-transcript.yml) |
 | Hughes, Brian J. | 34619 | Portland Police Bureau | Active | Captain | Promotion | 2023-07-20 | [md](../markdown/34619-transcript.md) - [yaml](../yaml/34619-transcript.yml) |
 | Rodrigues, Derek W. | 37149 | Portland Police Bureau | Inactive | Captain | Retired | 2020-08-21 | [md](../markdown/37149-transcript.md) - [yaml](../yaml/37149-transcript.yml) |
 | Lourenco, Stephanie K. | 37836 | Portland Police Bureau | Inactive | Captain | Retired | 2020-08-12 | [md](../markdown/37836-transcript.md) - [yaml](../yaml/37836-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | Promotion | 2020-08-27 | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
-| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
 | Lindsey, Christopher S. | 42661 | Portland Police Bureau | Active | Captain | Promotion | 2023-07-20 | [md](../markdown/42661-transcript.md) - [yaml](../yaml/42661-transcript.yml) |
 | Jensen, Jacob V. | 43494 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/43494-transcript.md) - [yaml](../yaml/43494-transcript.yml) |
 | Clark, Jacob R. | 43501 | Portland Police Bureau | Active | Captain | Promotion | 2022-10-13 | [md](../markdown/43501-transcript.md) - [yaml](../yaml/43501-transcript.yml) |
@@ -298,10 +299,10 @@
 | Hurley, Erica L. | 29900 | Portland Police Bureau | Inactive | Commander | Resigned | 2023-07-17 | [md](../markdown/29900-transcript.md) - [yaml](../yaml/29900-transcript.yml) |
 | Bates, Jay A., III | 31070 | Portland Police Bureau | Inactive | Commander | Retired | 2021-09-10 | [md](../markdown/31070-transcript.md) - [yaml](../yaml/31070-transcript.yml) |
 | Dobson, Craig N. | 35609 | Portland Police Bureau | Active | Commander | Promotion | 2020-08-17 | [md](../markdown/35609-transcript.md) - [yaml](../yaml/35609-transcript.yml) |
-| Gjovik, Christopher N. | 38946 | Portland Police Bureau | Active | Commander | Promotion | 2022-10-13 | [md](../markdown/38946-transcript.md) - [yaml](../yaml/38946-transcript.yml) |
 | McMillan, Amanda F. | 40931 | Portland Police Bureau | Active | Commander | Promotion | 2023-07-20 | [md](../markdown/40931-transcript.md) - [yaml](../yaml/40931-transcript.yml) |
 | Simon, Robert J. | 41758 | Portland Police Bureau | Active | Commander | Promotion | 2023-01-19 | [md](../markdown/41758-transcript.md) - [yaml](../yaml/41758-transcript.yml) |
 | Jones, Kristina M. | 41759 | Portland Police Bureau | Inactive | Commander | Resigned | 2023-06-28 | [md](../markdown/41759-transcript.md) - [yaml](../yaml/41759-transcript.yml) |
+| Schoening, Franz J. | 41832 | Portland Police Bureau | Active | Commander | Promotion | 2024-01-18 | [md](../markdown/41832-transcript.md) - [yaml](../yaml/41832-transcript.yml) |
 | Crooker, James W. | 49709 | Portland Police Bureau | Active | Commander | Promotion | 2023-07-20 | [md](../markdown/49709-transcript.md) - [yaml](../yaml/49709-transcript.yml) |
 | Powell, James E. | 21311 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2018-12-26 | [md](../markdown/21311-transcript.md) - [yaml](../yaml/21311-transcript.yml) |
 | Willard, Tina M. | 22518 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2018-12-12 | [md](../markdown/22518-transcript.md) - [yaml](../yaml/22518-transcript.yml) |
@@ -480,7 +481,6 @@
 | Wheelwright, David C. | 29519 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2020-08-07 | [md](../markdown/29519-transcript.md) - [yaml](../yaml/29519-transcript.yml) |
 | Pearce, Jason B. | 29904 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2022-12-13 | [md](../markdown/29904-transcript.md) - [yaml](../yaml/29904-transcript.yml) |
 | Engen, Matthew P. | 29983 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/29983-transcript.md) - [yaml](../yaml/29983-transcript.yml) |
-| Quick, Robert R. | 30665 | Portland Police Bureau | Active | Lieutenant | Promotion | 2019-04-18 | [md](../markdown/30665-transcript.md) - [yaml](../yaml/30665-transcript.yml) |
 | Niiya, Jeffrey M. | 30666 | Portland Police Bureau | Inactive | Lieutenant | Resigned | 2021-04-14 | [md](../markdown/30666-transcript.md) - [yaml](../yaml/30666-transcript.yml) |
 | Hansen, Robb C. | 31459 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/31459-transcript.md) - [yaml](../yaml/31459-transcript.yml) |
 | Stewart, Gregory J. | 32025 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2021-09-02 | [md](../markdown/32025-transcript.md) - [yaml](../yaml/32025-transcript.yml) |

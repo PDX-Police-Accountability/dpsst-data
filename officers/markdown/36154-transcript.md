@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/1/2024 | Medford Police Department | Retired | Police Off |  |  |
 | 1/27/2023 | Medford Police Department | LOA | Police Off |  |  |
 | 1/11/1999 | Medford Police Department | Hired | Police Off |  |  |
 | 1/10/1999 | Portland Police Bureau | Resigned | Civln Emp |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/11/2005 | Police Officer | Advanced | Granted | 1/11/2005 |  |  |
-| 7/25/2002 | Police Officer | Intermediate | Granted | 7/25/2002 |  |  |
-| 4/26/2000 | Police Officer | Basic | Granted | 4/26/2000 |  |  |
+| 1/11/2005 | Police Officer | Advanced | Granted | 1/11/2005 | 5/1/2024 |  |
+| 7/25/2002 | Police Officer | Intermediate | Granted | 7/25/2002 | 5/1/2024 |  |
+| 4/26/2000 | Police Officer | Basic | Granted | 4/26/2000 | 5/1/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

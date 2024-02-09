@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 1/25/2024 | Oregon State Police | Hired | Trooper |  |  |
+| 1/23/2024 | Wallowa County Community Corrections | Resigned | Par/prob O |  |  |
 | 11/18/2020 | Wallowa County Community Corrections | Transfered | Par/prob O |  |  |
 | 11/17/2020 | Wallowa County Sheriff's Office | Layoff | Par/prob O |  |  |
 | 1/15/2020 | Wallowa County Sheriff's Office | Hired | Par/prob O |  |  |
@@ -38,19 +39,17 @@
 | 1/29/2024 | Police Officer | Basic | App Recd |  | 12/31/2024 |  |
 | 1/29/2024 | Police Officer | Intermediate | App Recd |  | 12/31/2024 |  |
 | 1/25/2024 | Police Officer | Basic | Required |  |  | 7/25/2025 |
-| 4/21/2021 | Parole  Probation Officer | Basic | Granted | 4/21/2021 |  |  |
-| 3/31/2020 | Police Officer | Advanced | Lapsed | 2/1/2004 | 12/31/2024 |  |
-| 3/31/2020 | Police Officer | Basic | Lapsed | 10/12/2000 | 12/31/2024 |  |
-| 3/31/2020 | Police Officer | Intermediate | Lapsed | 5/7/2001 | 12/31/2024 |  |
+| 4/21/2021 | Parole  Probation Officer | Basic | Granted | 4/21/2021 | 4/23/2024 |  |
+| 3/31/2020 | Police Officer | Advanced | Lapsed | 2/1/2004 |  |  |
+| 3/31/2020 | Police Officer | Basic | Lapsed | 10/12/2000 |  |  |
+| 3/31/2020 | Police Officer | Intermediate | Lapsed | 5/7/2001 |  |  |
 | 2/15/2020 | Corrections Officer | Basic | Expired | 4/13/1995 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/25/2024 |  |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Telecommunication Signed | 9/11/2023 |  |
 | Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |
