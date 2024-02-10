@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2024 | VND3218A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |
 | 12/21/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/21/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |

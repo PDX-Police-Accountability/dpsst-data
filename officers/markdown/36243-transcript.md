@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | HBS3705A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 12/18/2023 | HBS2277A | Active Threat | Passed | 0.0 | 5.00 |
 | 12/8/2023 | VND1997A | Fundamentals of Peer Support | Passed | 0.0 | 8.00 |
 | 12/6/2023 | HBS1887A | Safe Restraints The Wrap | Passed | 0.0 | 1.00 |

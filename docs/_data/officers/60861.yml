@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/5/2024
+  course: BNS0679A
+  title: Digital Forensics / Warrant builder
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/24/2024
   course: BNS1289A
   title: HSI Adult First Aid CPR AED All Ages

@@ -30,12 +30,6 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 4/29/2024
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Pending
-  score: '0.0'
-  hours: '0.00'
 - date: 9/26/2023
   course: PDP1833A
   title: 2023 FTEP Geography

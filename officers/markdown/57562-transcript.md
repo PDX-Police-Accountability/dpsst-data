@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2024 | OCP2788A | Firearms - Night Range | Passed | 0.0 | 1.50 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2023 | OCP3671A | Active Threat  Hostage Rescue Training | Passed | 0.0 | 4.00 |

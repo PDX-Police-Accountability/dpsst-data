@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2023
+  course: STS3772A
+  title: Lexipol Daily Training Bulletins
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/29/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

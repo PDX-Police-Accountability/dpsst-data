@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2024 | BNS0679A | Digital Forensics / Warrant builder | Passed | 0.0 | 3.00 |
 | 1/24/2024 | BNS1289A | HSI Adult First Aid CPR AED All Ages | Passed | 0.0 | 4.00 |
 | 12/16/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/16/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |

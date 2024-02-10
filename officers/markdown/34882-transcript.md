@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2024 | VND3218A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/7/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/7/2023 | PDP4526A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 12/7/2023 | PDP2382A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

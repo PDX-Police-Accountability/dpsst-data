@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/8/2023
+  course: PDP1327A
+  title: 2023 Increasing Resilience Through Peer Support
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance

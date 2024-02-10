@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/26/2024
+  course: LOP4530A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 1/12/2024
   course: OAC2861A
   title: The Crucial Connection - Chief/Mgr Relationships

@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/15/2023
+  course: PDP0267A
+  title: Investigation of Motorcycle Crashes - Level I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 11/2/2023
   course: PDP4431A
   title: 2023-3 Range Qual AR-15 Qualification (20 Yard)

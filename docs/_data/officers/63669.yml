@@ -30,12 +30,6 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 3/4/2024
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 12/28/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

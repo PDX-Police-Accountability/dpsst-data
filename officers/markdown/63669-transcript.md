@@ -28,7 +28,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 12/28/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/28/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/27/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

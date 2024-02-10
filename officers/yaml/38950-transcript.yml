@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2024
+  course: HBS4232A
+  title: Adult/Child First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 12/23/2023
   course: HBS3071A
   title: Bias Based Policing

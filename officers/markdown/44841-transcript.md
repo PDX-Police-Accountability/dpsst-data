@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/22/2023 | LOP2500A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 11/30/2023 | VND1875A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 11/8/2023 | LOP0957A | Adult/Child CPR AED | Passed | 0.0 | 2.00 |

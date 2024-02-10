@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | HBS4232A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 12/23/2023 | HBS3071A | Bias Based Policing | Passed | 0.0 | 1.00 |
 | 12/7/2023 | OSA3159A | Challenging Law Dr Jack Enter, 12-7-23 | Passed | 0.0 | 8.00 |
 | 12/5/2023 | OSA2109A | Legal Updates - Elmer Dickens - 12/05/23 | Passed | 0.0 | 1.00 |

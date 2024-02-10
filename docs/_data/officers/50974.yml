@@ -62,6 +62,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/25/2024
+  course: OCP2788A
+  title: Firearms - Night Range
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/25/2024
+  course: OCP0441A
+  title: Officer In Charge
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/31/2023
   course: OCP1409A
   title: Daily Training Bulletins

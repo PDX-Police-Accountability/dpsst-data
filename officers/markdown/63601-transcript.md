@@ -28,8 +28,25 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 12/12/2023 | PDP4338A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
+| 11/30/2023 | PDP2115A | 2023-3 Advanced Academy Community Eng. | Passed | 0.0 | 32.00 |
 | 11/24/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/23/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 11/20/2023 | PDP3236A | 2023-3 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 96.50 |
+| 11/16/2023 | PDP2768A | 2023-3 Advanced Academy  PVO | Passed | 0.0 | 25.25 |
+| 11/16/2023 | PDP0195A | 2023-3 Advanced Academy Child Abuse | Passed | 0.0 | 1.00 |
+| 11/16/2023 | PDP2615A | 2023-3 Advanced Academy Ethics | Passed | 0.0 | 2.50 |
+| 11/16/2023 | PDP2860A | 2023-3 Advanced Academy Law | Passed | 0.0 | 30.50 |
+| 11/16/2023 | PDP0472A | 2023-3 Advanced Academy Wellnesss | Passed | 0.0 | 14.50 |
+| 11/15/2023 | PDP1323A | 2023-3 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP1174A | 2023-3 Advanced Academy Crime Scene Investigations | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP0172A | 2023-3 Advanced Academy Fitness | Passed | 0.0 | 2.50 |
+| 11/15/2023 | PDP2599A | 2023-3 Advanced Academy Human Traffick. | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP3843A | 2023-3 Advanced Academy Public Order | Passed | 0.0 | 11.25 |
+| 11/14/2023 | PDP4490A | 2023-3 Advanced Academy Control Tactics | Passed | 0.0 | 64.75 |
+| 11/13/2023 | PDP3432A | 2023-3 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
+| 11/6/2023 | PDP2555A | 2023-3 Advanced Academy CIT | Passed | 0.0 | 20.00 |
+| 10/31/2023 | PDP2990A | 2023-3 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 10/22/2023 | PDP0526A | 2022-12 CAO Case Law Updates | Passed | 0.0 | 0.25 |
 | 10/22/2023 | PDP1425A | 2021 Training Crowd Control Vehicles | Passed | 0.0 | 0.50 |
 | 10/22/2023 | PDP3717A | 2022 Crowd Management | Passed | 0.0 | 0.50 |
@@ -61,11 +78,12 @@
 | 9/27/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 9/27/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 9/14/2023 | PDP3947A | 2023-3 Advanced Academy PLPJ | Passed | 0.0 | 2.00 |
 | 8/28/2023 | PDP0922A | 2023 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 8/22/2023 | PDP1230A | FTEP Hazmat/WMD Awareness APR Gas Mask Ftng | Passed | 0.0 | 3.00 |
 | 8/17/2023 | PDP3293A | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Passed | 0.0 | 27.00 |
-| 8/11/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 8/11/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 6/28/2023 | REG4060A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 6/16/2023 | REG0912A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 4/13/2023 | PDP37726 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/5/2024 | VND3218A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 1/21/2024 | PDP1581A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 12/11/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/11/2023 | PDP1438A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |

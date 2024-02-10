@@ -36,7 +36,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/15/2023 | NGP1809A | SFST Refresher with Wet Lab | Passed | 0.0 | 6.00 |
 | 12/9/2023 | HRS2161A | LEDS Recertification | Passed | 0.0 | 1.00 |
+| 11/9/2023 | HRS0918A | Basic Rifle Range | Passed | 0.0 | 2.50 |
 | 11/2/2023 | HRS0118A | Intro to Active Shooter Response | Passed | 0.0 | 3.00 |
+| 11/1/2023 | HRS0310A | Introduction to Active Shooter Response | Passed | 0.0 | 3.00 |
 | 10/31/2023 | HRS3068A | Dispatch Radio Operations | Passed | 0.0 | 2.00 |
 | 10/26/2023 | HRS2349A | NARCAN Training Video | Passed | 0.0 | 0.25 |
 | 10/26/2023 | HRS4055A | Defensive Tactics III | Passed | 0.0 | 4.00 |

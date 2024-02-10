@@ -22,6 +22,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | CPR | 4/4/2023 | 4/30/2025 |
 | Certification Cards | First Aid | 4/4/2023 | 4/30/2025 |
@@ -36,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | OSH3889A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
+| 1/31/2024 | OSH0925A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 12/11/2023 | OSH2923A | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |
 | 12/10/2023 | OSH0989A | OSP 2023 3rd Tri Survival Skills | Passed | 0.0 | 4.00 |
 | 11/29/2023 | OSH1463A | TECC Tactical Emergency Casualty Care | Passed | 0.0 | 4.00 |

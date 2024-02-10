@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/6/2024
+  course: FGP2505A
+  title: Creating the Culture for Behavioral Health
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
 - date: 1/26/2024
   course: FGP0368A
   title: Human Trafficking Awareness-Roll Call Discussion

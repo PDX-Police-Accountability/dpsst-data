@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 12/12/2023
+  course: PDP4338A
+  title: 2023-3 Advanced Academy Bike School
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 11/30/2023
+  course: PDP2115A
+  title: 2023-3 Advanced Academy Community Eng.
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 11/24/2023
   course: PDP0003A
   title: 2023-3 Range Qualification Primary Firearm
@@ -42,6 +54,96 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 11/20/2023
+  course: PDP3236A
+  title: 2023-3 Advanced Academy Patrol Procedures (FA)
+  status: Passed
+  score: '0.0'
+  hours: '96.50'
+- date: 11/16/2023
+  course: PDP2768A
+  title: 2023-3 Advanced Academy  PVO
+  status: Passed
+  score: '0.0'
+  hours: '25.25'
+- date: 11/16/2023
+  course: PDP0195A
+  title: 2023-3 Advanced Academy Child Abuse
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/16/2023
+  course: PDP2860A
+  title: 2023-3 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '30.50'
+- date: 11/16/2023
+  course: PDP0472A
+  title: 2023-3 Advanced Academy Wellnesss
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
+- date: 11/16/2023
+  course: PDP2615A
+  title: 2023-3 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/15/2023
+  course: PDP1323A
+  title: 2023-3 Advanced Academy ASU
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/15/2023
+  course: PDP1174A
+  title: 2023-3 Advanced Academy Crime Scene Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/15/2023
+  course: PDP0172A
+  title: 2023-3 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 11/15/2023
+  course: PDP3843A
+  title: 2023-3 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '11.25'
+- date: 11/15/2023
+  course: PDP2599A
+  title: 2023-3 Advanced Academy Human Traffick.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/14/2023
+  course: PDP4490A
+  title: 2023-3 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '64.75'
+- date: 11/13/2023
+  course: PDP3432A
+  title: 2023-3 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '51.75'
+- date: 11/6/2023
+  course: PDP2555A
+  title: 2023-3 Advanced Academy CIT
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 10/31/2023
+  course: PDP2990A
+  title: 2023-3 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/25/2023
   course: PDP0375A
   title: 2023 Microsoft Excel Online Recording
@@ -54,6 +156,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 9/14/2023
+  course: PDP3947A
+  title: 2023-3 Advanced Academy PLPJ
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/10/2023
   course: PDP4232A
   title: 2023 Microsoft OneDrive Usage Policy

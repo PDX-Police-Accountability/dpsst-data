@@ -410,6 +410,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/12/2023
+  course: PDP2750A
+  title: NW Gang Investigation Assoc. Training Symposium
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 5/3/2023
   course: PDP4437A
   title: WSHNA Training Seminar  HNT Competition

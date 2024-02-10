@@ -63,6 +63,8 @@
 | 12/11/2023 | PDP2274A | 2023-2 All Sworn In-Service PP Mental Health 2 | Passed | 0.0 | 1.50 |
 | 12/11/2023 | PDP3394A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 11/9/2023 | PDP0996A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 10/16/2023 | PDP1074A | Precision Rifle Training 1  2 | Passed | 0.0 | 16.00 |
+| 10/13/2023 | PDP1300A | CMC Rope Rescue Technician III | Passed | 0.0 | 40.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 8/12/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/15/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

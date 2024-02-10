@@ -39,7 +39,7 @@
 | 12/18/2023 | PDP0139A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 12/18/2023 | PDP1887A | 2023 Karly's Law - Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 12/18/2023 | PDP3317A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
-| 12/15/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 12/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/17/2023 | REG2933A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 10/22/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 10/19/2023 | REG1394A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

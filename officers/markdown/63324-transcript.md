@@ -30,11 +30,29 @@
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/24/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/24/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 12/12/2023 | PDP4338A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
+| 11/30/2023 | PDP2115A | 2023-3 Advanced Academy Community Eng. | Passed | 0.0 | 32.00 |
 | 11/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 11/22/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/20/2023 | PDP3236A | 2023-3 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 96.50 |
+| 11/16/2023 | PDP2768A | 2023-3 Advanced Academy  PVO | Passed | 0.0 | 25.25 |
+| 11/16/2023 | PDP0195A | 2023-3 Advanced Academy Child Abuse | Passed | 0.0 | 1.00 |
+| 11/16/2023 | PDP2860A | 2023-3 Advanced Academy Law | Passed | 0.0 | 30.50 |
+| 11/16/2023 | PDP0472A | 2023-3 Advanced Academy Wellnesss | Passed | 0.0 | 14.50 |
+| 11/16/2023 | PDP2615A | 2023-3 Advanced Academy Ethics | Passed | 0.0 | 2.50 |
+| 11/15/2023 | PDP1323A | 2023-3 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP1174A | 2023-3 Advanced Academy Crime Scene Investigations | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP0172A | 2023-3 Advanced Academy Fitness | Passed | 0.0 | 2.50 |
+| 11/15/2023 | PDP3843A | 2023-3 Advanced Academy Public Order | Passed | 0.0 | 11.25 |
+| 11/15/2023 | PDP2599A | 2023-3 Advanced Academy Human Traffick. | Passed | 0.0 | 1.00 |
+| 11/14/2023 | PDP4490A | 2023-3 Advanced Academy Control Tactics | Passed | 0.0 | 64.75 |
+| 11/13/2023 | PDP3432A | 2023-3 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
+| 11/6/2023 | PDP2555A | 2023-3 Advanced Academy CIT | Passed | 0.0 | 20.00 |
+| 10/31/2023 | PDP2990A | 2023-3 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 9/18/2023 | PDP0934A | 2023 Portland Community Justice Partnership | Passed | 0.0 | 0.25 |
 | 9/18/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
+| 9/14/2023 | PDP3947A | 2023-3 Advanced Academy PLPJ | Passed | 0.0 | 2.00 |
 | 9/10/2023 | PDP1156A | 2018 TOD 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 9/10/2023 | PDP3997A | 2018-5 TT 100% Collection and Submission Model | Passed | 0.0 | 0.25 |
 | 9/10/2023 | PDP0803A | 2019-4 TT Emailing Security Reports | Passed | 0.0 | 0.25 |

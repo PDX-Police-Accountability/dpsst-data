@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | HBS0186A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 9/30/2023 | HBS4339A | Security Awareness Training | Passed | 0.0 | 1.00 |
 | 9/22/2022 | HBS32943 | Civility  Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 7/28/2022 | HBS27163 | PREA (Prison Rape Elimination Act) | Passed | 0.0 | 1.00 |

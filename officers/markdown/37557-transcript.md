@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/22/2023 | LOP2500A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 11/7/2023 | LOP0957A | Adult/Child CPR AED | Passed | 0.0 | 2.00 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/5/2024
+  course: VND3218A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/1/2023
   course: PDP0582A
   title: 2023 Emotional Survival

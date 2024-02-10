@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | STS3772A | Lexipol Daily Training Bulletins | Passed | 0.0 | 6.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2023 | STS0288A | Ethics Bulletin 36 and 37 | Passed | 0.0 | 1.00 |
 | 12/14/2023 | STS3216A | Karly's Law Training | Passed | 0.0 | 1.00 |

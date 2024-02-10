@@ -30,10 +30,27 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/15/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/15/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
+| 12/12/2023 | PDP4338A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
+| 11/30/2023 | PDP2115A | 2023-3 Advanced Academy Community Eng. | Passed | 0.0 | 32.00 |
 | 11/27/2023 | PDP4135A | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 11/27/2023 | PDP0665A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 11/26/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/26/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/20/2023 | PDP3236A | 2023-3 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 96.50 |
+| 11/16/2023 | PDP2768A | 2023-3 Advanced Academy  PVO | Passed | 0.0 | 25.25 |
+| 11/16/2023 | PDP0195A | 2023-3 Advanced Academy Child Abuse | Passed | 0.0 | 1.00 |
+| 11/16/2023 | PDP2615A | 2023-3 Advanced Academy Ethics | Passed | 0.0 | 2.50 |
+| 11/16/2023 | PDP2860A | 2023-3 Advanced Academy Law | Passed | 0.0 | 30.50 |
+| 11/16/2023 | PDP0472A | 2023-3 Advanced Academy Wellnesss | Passed | 0.0 | 14.50 |
+| 11/15/2023 | PDP1323A | 2023-3 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP1174A | 2023-3 Advanced Academy Crime Scene Investigations | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP0172A | 2023-3 Advanced Academy Fitness | Passed | 0.0 | 2.50 |
+| 11/15/2023 | PDP2599A | 2023-3 Advanced Academy Human Traffick. | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP3843A | 2023-3 Advanced Academy Public Order | Passed | 0.0 | 11.25 |
+| 11/14/2023 | PDP4490A | 2023-3 Advanced Academy Control Tactics | Passed | 0.0 | 64.75 |
+| 11/13/2023 | PDP3432A | 2023-3 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
+| 11/6/2023 | PDP2555A | 2023-3 Advanced Academy CIT | Passed | 0.0 | 20.00 |
+| 10/31/2023 | PDP2990A | 2023-3 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
 | 10/15/2023 | PDP2970A | 2023 Body Worn Camera Policy Recording with KC | Passed | 0.0 | 1.00 |
 | 10/15/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 10/15/2023 | PDP0511A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
@@ -77,6 +94,7 @@
 | 9/20/2023 | PDP1470A | Annual CIU NTR Alarm Response Training Reed | Passed | 0.0 | 0.25 |
 | 9/20/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 9/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
+| 9/14/2023 | PDP3947A | 2023-3 Advanced Academy PLPJ | Passed | 0.0 | 2.00 |
 | 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
 | 3/28/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/28/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
