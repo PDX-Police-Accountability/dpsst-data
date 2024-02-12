@@ -212,6 +212,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/5/2024
+  course: OSH4193A
+  title: Taser 7 New User Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/25/2024
   course: OSH1847A
   title: Firearms qualification

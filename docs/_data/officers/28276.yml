@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2024
+  course: SVP2767A
+  title: Hobble Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/1/2024
   course: SVP3302A
   title: Taser Annual Recertification

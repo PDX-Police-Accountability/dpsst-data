@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2024
+  course: MFN0394A
+  title: 'Firarms: Low Light'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/7/2023
   course: MFN0081A
   title: The"Career Buster" Addressing Stress

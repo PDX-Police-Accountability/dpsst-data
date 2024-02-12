@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2024
+  course: OCP0122A
+  title: Civil Forfeiture Seizing Agency Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/25/2024
   course: OCP2788A
   title: Firearms - Night Range

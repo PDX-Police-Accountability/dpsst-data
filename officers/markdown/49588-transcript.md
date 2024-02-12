@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2024 | ALP2375A | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 28.00 |
 | 12/8/2023 | ALP0599A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 11/8/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/8/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

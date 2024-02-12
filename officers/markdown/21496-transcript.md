@@ -64,6 +64,7 @@
 | 5/6/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 2/5/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/5/2024 | OSH0318A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
+| 2/5/2024 | OSH4193A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
 | 1/25/2024 | OSH1847A | Firearms qualification | Passed | 0.0 | 1.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2023 | ETS1125A | Ethics/Sexual Harassment Prevention | Passed | 0.0 | 1.00 |

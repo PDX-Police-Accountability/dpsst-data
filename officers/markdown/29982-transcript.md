@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 2/8/2024 | SVP2767A | Hobble Refresher | Passed | 0.0 | 0.25 |
 | 1/31/2024 | BPT4285A | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 1/24/2024 | SVP3662A | Introduction to Extreme Ownership | Instructed | 0.0 | 0.50 |
 | 1/24/2024 | SVP0692A | Active Threat Classroom Presentation | Passed | 0.0 | 2.00 |

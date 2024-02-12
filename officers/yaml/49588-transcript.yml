@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/9/2024
+  course: ALP2375A
+  title: FBI LEEDA Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/8/2023
   course: ALP0599A
   title: FBI LEEDA Supervisor Leadership Institute

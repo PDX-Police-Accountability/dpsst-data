@@ -82,6 +82,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/8/2024
+  course: SVP2767A
+  title: Hobble Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/31/2024
   course: BPT4285A
   title: Intoxilyzer 8000 Certification Course

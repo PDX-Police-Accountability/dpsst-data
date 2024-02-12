@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/7/2024 | OCP0122A | Civil Forfeiture Seizing Agency Training | Passed | 0.0 | 0.50 |
 | 1/25/2024 | OCP2788A | Firearms - Night Range | Instructed | 0.0 | 6.00 |
 | 1/10/2024 | OCP0820A | Department Planning Retreat | Passed | 0.0 | 6.50 |
 | 1/4/2024 | OCP4478A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
