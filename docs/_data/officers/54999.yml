@@ -67,6 +67,18 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 2/1/2024
+  course: MOS3764A
+  title: NORTAC Operational Planning and Recon
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/1/2024
+  course: MOS1470A
+  title: NORTAC Tac Med
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/4/2024
   course: MOS4372A
   title: NORTAC - Low Light Range

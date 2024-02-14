@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | MOS3764A | NORTAC Operational Planning and Recon | Passed | 0.0 | 2.50 |
+| 2/1/2024 | MOS1470A | NORTAC Tac Med | Passed | 0.0 | 1.50 |
 | 1/4/2024 | MOS4372A | NORTAC - Low Light Range | Passed | 0.0 | 3.50 |
 | 12/27/2023 | MOS0812A | NORTAC Racine OIS Debrief | Passed | 0.0 | 2.00 |
 | 12/24/2023 | HRS4089A | Basic Firearms Refresher PowerPoint | Passed | 0.0 | 3.00 |

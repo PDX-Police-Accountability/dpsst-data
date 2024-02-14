@@ -40,6 +40,7 @@
 | 1/26/2024 | PDP1625A | FBI Regional Crisis Negotiations Course | Passed | 0.0 | 36.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC1165A | Case Study on Safeway Active Shooter | Passed | 0.0 | 1.50 |
+| 1/12/2024 | PDP0229A | OACP Executive Leadership Training Seminar | Passed | 0.0 | 19.00 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
 | 1/11/2024 | OAC1674A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/10/2024 | OAC2420A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |

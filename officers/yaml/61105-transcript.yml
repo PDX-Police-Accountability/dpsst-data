@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2024
+  course: NGP1256A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/31/2023
   course: NGP1320A
   title: Roll Call Training Consolidated Roster
