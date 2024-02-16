@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/9/2024
+  course: ADP3715A
+  title: Tactical Combat Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/4/2023
   course: TAP2099A
   title: Mock Trial Training

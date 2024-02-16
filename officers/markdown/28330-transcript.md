@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/29/2024 | PPP2822A | Firearms Handgun/Rifle Qualification | Passed | 0.0 | 4.00 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 2.00 |
 | 1/11/2024 | OAC1674A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/10/2024 | OAC2420A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |

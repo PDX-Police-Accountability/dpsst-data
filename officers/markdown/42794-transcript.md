@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | OCS2607A | Honor Guard Revolver Marksmanship | Instructed | 0.0 | 2.00 |
 | 12/30/2023 | OCS1389A | December firearms instruction | Instructed | 0.0 | 56.00 |
 | 12/19/2023 | OCS1219A | Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
@@ -65,6 +66,7 @@
 | 11/22/2023 | OCS2843A | NHF MILO use of force decisions | Instructed | 0.0 | 2.00 |
 | 11/20/2023 | OCS0216A | Fall Patrol Rifle | Passed | 0.0 | 4.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/15/2023 | OCS4428A | 2023 4th Qtr Corrections Firearms | Passed | 0.0 | 2.00 |
 | 11/12/2023 | OCS0920A | Balancing Speed/Marksmanship | Passed | 0.0 | 1.00 |
 | 11/9/2023 | OCS0384A | 2023 Patrol Legal Updates | Passed | 0.0 | 8.00 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |

@@ -42,6 +42,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | BNP2269A | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP0315A | Juvenile Detention refresher | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP0047A | OSHA Hearing Protection Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP2665A | Oregon Stop Entry Quick Reference Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP3736A | Implicit Bias | Passed | 0.0 | 1.00 |
+| 12/31/2023 | BNP1739A | Legal Updates | Passed | 0.0 | 1.00 |
+| 12/31/2023 | BNP3393A | Standard Operating Procedures | Passed | 0.0 | 1.00 |
 | 11/17/2023 | BNP1325A | Officer Rescue / Medical | Passed | 0.0 | 1.00 |
 | 11/17/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |
 | 11/17/2023 | BNP2438A | Mental Health and Meditation | Passed | 0.0 | 1.00 |

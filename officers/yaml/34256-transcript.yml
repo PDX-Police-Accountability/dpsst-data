@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/31/2024
+  course: BVP1130A
+  title: First Aid and Adult/Child CPR 013124am
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/12/2024
   course: OAC2861A
   title: The Crucial Connection - Chief/Mgr Relationships
@@ -4584,6 +4590,10 @@ training_records:
   score: '0.0'
   hours: '520.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/31/2024
+  expiration_date: 1/31/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

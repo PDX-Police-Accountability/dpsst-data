@@ -50,6 +50,10 @@
 | 1/31/2024 | BNP3812A | Financial Literacy | Passed | 0.0 | 0.50 |
 | 1/31/2024 | BNP0462A | Karly's Law and Child Abuse | Passed | 0.0 | 0.50 |
 | 1/29/2024 | BNP0477A | Ethics for Law Enforcement | Passed | 0.0 | 3.00 |
+| 12/31/2023 | BNP0047A | OSHA Hearing Protection Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP2665A | Oregon Stop Entry Quick Reference Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP1739A | Legal Updates | Passed | 0.0 | 1.00 |
+| 12/31/2023 | BNP3393A | Standard Operating Procedures | Passed | 0.0 | 1.00 |
 | 10/17/2023 | BNP1963A | IACP Training | Passed | 0.0 | 17.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/14/2023 | CVP4482A | General Leadership | Passed | 0.0 | 1.00 |

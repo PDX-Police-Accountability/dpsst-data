@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/11/2024 | OSH1491A | OSP Recruit Post Academy 23-04 Active Threat | Instructed | 0.0 | 8.00 |
 | 2/7/2024 | OSH3804A | Building Search, Manual Breach, Active Threat | Instructed | 0.0 | 8.00 |
 | 1/24/2024 | OSH0221A | Adult/Child CPR and First Aid | Passed | 0.0 | 8.00 |
 | 1/19/2024 | OSH4135A | Survival Skills - Patrol Tactics | Instructed | 0.0 | 4.00 |

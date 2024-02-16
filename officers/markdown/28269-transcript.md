@@ -50,6 +50,13 @@
 | 1/11/2024 | OAC2266A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/10/2024 | HUP2200A | OACP Board Meeting | Passed | 0.0 | 2.00 |
 | 1/10/2024 | HUP3235A | OACP/OSSA Joint Meeting | Passed | 0.0 | 2.00 |
+| 12/31/2023 | BNP2269A | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP0315A | Juvenile Detention refresher | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP0047A | OSHA Hearing Protection Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP2665A | Oregon Stop Entry Quick Reference Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP3736A | Implicit Bias | Passed | 0.0 | 1.00 |
+| 12/31/2023 | BNP1739A | Legal Updates | Passed | 0.0 | 1.00 |
+| 12/31/2023 | BNP3393A | Standard Operating Procedures | Passed | 0.0 | 1.00 |
 | 12/12/2023 | BNP3505A | Defensive tactics | Passed | 0.0 | 1.00 |
 | 11/14/2023 | BNP1325A | Officer Rescue / Medical | Passed | 0.0 | 1.00 |
 | 11/14/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |

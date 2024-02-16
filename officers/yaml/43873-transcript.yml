@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 1/5/2024
+  course: PDP3217A
+  title: Oregon Tactical Fitness Instructor Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/21/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

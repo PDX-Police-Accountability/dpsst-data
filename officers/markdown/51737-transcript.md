@@ -42,6 +42,7 @@
 | 12/1/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/1/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 11/9/2023 | PDP2662A | 2023 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 11/1/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/1/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/1/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
@@ -91,6 +92,7 @@
 | 5/11/2023 | PDP3382A | 2023 PVO Satellite Instructor School | Passed | 0.0 | 40.00 |
 | 4/28/2023 | PDP0561A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/27/2023 | PDP2174A | ICS-300 Intm Incdt Cmd System for Expanding Incdts | Passed | 0.0 | 27.00 |
+| 4/20/2023 | PDP2662A | 2023 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 4/7/2023 | PDP1768 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 4/7/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/7/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

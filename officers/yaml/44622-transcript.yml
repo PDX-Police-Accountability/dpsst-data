@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/11/2024
+  course: OSH1491A
+  title: OSP Recruit Post Academy 23-04 Active Threat
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/7/2024
   course: OSH3804A
   title: Building Search, Manual Breach, Active Threat

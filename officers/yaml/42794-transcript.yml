@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2024
+  course: OCS2607A
+  title: Honor Guard Revolver Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/30/2023
   course: OCS1389A
   title: December firearms instruction
@@ -230,6 +236,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/15/2023
+  course: OCS4428A
+  title: 2023 4th Qtr Corrections Firearms
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/12/2023
   course: OCS0920A
   title: Balancing Speed/Marksmanship

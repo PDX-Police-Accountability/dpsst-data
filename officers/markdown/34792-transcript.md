@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2024 | ADP3715A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 12/4/2023 | TAP2099A | Mock Trial Training | Passed | 0.0 | 4.00 |
 | 11/7/2023 | TAP4029A | Understanding and Responding to Excited Delirium | Passed | 0.0 | 1.00 |
 | 11/7/2023 | ADP1302A | Night Range-Handgun-Rifle | Passed | 0.0 | 4.00 |

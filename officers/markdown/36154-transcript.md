@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2023 | MFP0161A | Child Exploitation, Digital Evid.,  Exigency | Passed | 0.0 | 2.00 |
+| 11/17/2023 | MFP2251A | Workplace Discrimination  Harassment Training | Passed | 0.0 | 1.50 |
 | 10/27/2023 | MFP2595A | SFST Refresher  DUII Evidence Procedures | Passed | 0.0 | 2.50 |
 | 10/27/2023 | MFP0944A | High Tech Crimes + Digital Evid./Civil Forfeiture | Passed | 0.0 | 0.75 |
 | 10/27/2023 | MFP1650A | ADA/Critical Inj. Protocol+Karly's Law/Dang. Dogs | Passed | 0.0 | 1.75 |

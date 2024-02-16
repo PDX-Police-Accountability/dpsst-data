@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2024
+  course: PDP0220A
+  title: Western States Public Order Conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/4/2024
   course: PDP0040A
   title: 2024 FTEP Post Basic CEW Taser

@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/12/2024 | OCP2163A | Hazrdous Materials / Global SDS | Passed | 0.0 | 1.00 |
+| 2/12/2024 | OCP3153A | Airborne and Bloodborne Pathogens / Narcan | Passed | 0.0 | 1.00 |
 | 2/7/2024 | OCP0122A | Civil Forfeiture Seizing Agency Training | Passed | 0.0 | 0.50 |
 | 1/25/2024 | OCP2788A | Firearms - Night Range | Instructed | 0.0 | 6.00 |
 | 1/10/2024 | OCP0820A | Department Planning Retreat | Passed | 0.0 | 6.50 |

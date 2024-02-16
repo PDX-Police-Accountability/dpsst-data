@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2024
+  course: BVP0092A
+  title: First Aid and Adult/Child CPR 013024am
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/18/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -2981,6 +2987,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/30/2024
+  expiration_date: 1/30/2026
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2024

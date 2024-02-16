@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 1/25/2024
+  course: PDP0102A
+  title: Radar Lidar Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 12/12/2023
   course: PDP3424A
   title: 2023 Traffic Monthly Training

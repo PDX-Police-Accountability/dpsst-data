@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/17/2023
+  course: MFP2251A
+  title: Workplace Discrimination  Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/27/2023
   course: MFP2595A
   title: SFST Refresher  DUII Evidence Procedures
