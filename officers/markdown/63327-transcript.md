@@ -18,10 +18,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/13/2024 | Police Officer | Basic | App InProc |  |  | 3/22/2024 |
+| 2/14/2024 | Police Officer | Basic | Granted | 2/14/2024 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 12/20/2023 |  |
 | Certification Cards | First Aid and CPR | 5/31/2023 | 5/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 12/12/2022 |  |

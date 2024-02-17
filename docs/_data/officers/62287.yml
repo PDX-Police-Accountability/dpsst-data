@@ -36,6 +36,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/9/2023
+  course: PDP2662A
+  title: 2023 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 10/31/2023
   course: PDP4251A
   title: 2023 Active Stolen Vehicles Hotsheet

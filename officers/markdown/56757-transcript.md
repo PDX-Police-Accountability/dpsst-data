@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/12/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 2/15/2024 | Police Officer | Intermediate | Granted | 2/15/2024 |  |  |
 | 10/17/2022 | Police Officer | Basic | Granted | 10/17/2022 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2024 | PSU4473A | National FOP Conference 2024 | Passed | 0.0 | 32.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/7/2023 | PSU0507A | Advanced Digital Threat Assessment | Passed | 0.0 | 6.50 |

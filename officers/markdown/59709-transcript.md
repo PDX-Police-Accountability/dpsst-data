@@ -41,6 +41,13 @@
 | 1/30/2024 | BNP3812A | Financial Literacy | Passed | 0.0 | 0.50 |
 | 1/30/2024 | BNP0477A | Ethics for Law Enforcement | Passed | 0.0 | 3.00 |
 | 1/30/2024 | BNP0462A | Karly's Law and Child Abuse | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP2269A | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP0315A | Juvenile Detention refresher | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP0047A | OSHA Hearing Protection Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP2665A | Oregon Stop Entry Quick Reference Guide | Passed | 0.0 | 0.50 |
+| 12/31/2023 | BNP3736A | Implicit Bias | Passed | 0.0 | 1.00 |
+| 12/31/2023 | BNP1739A | Legal Updates | Passed | 0.0 | 1.00 |
+| 12/31/2023 | BNP3393A | Standard Operating Procedures | Passed | 0.0 | 1.00 |
 | 12/17/2023 | BNP0843A | Building Clearing | Passed | 0.0 | 2.00 |
 | 12/14/2023 | BNP0017A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 11/30/2023 | BNP3339A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 4.00 |

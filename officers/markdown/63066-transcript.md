@@ -27,7 +27,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/7/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/12/2023 | PDP4338A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
 | 11/30/2023 | PDP2115A | 2023-3 Advanced Academy Community Eng. | Passed | 0.0 | 32.00 |
 | 11/25/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

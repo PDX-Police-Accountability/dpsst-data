@@ -32,6 +32,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2024 | VND0416A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 1/30/2024 | VND2789A | NW Peer Support Conference | Passed | 0.0 | 6.00 |
 | 11/22/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/12/2023 | PDP2240A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

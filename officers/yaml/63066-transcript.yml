@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 1/7/2024
 training_records:
-- date: 1/7/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 12/12/2023
   course: PDP4338A
   title: 2023-3 Advanced Academy Bike School

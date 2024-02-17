@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/12/2024 | OCP3153A | Airborne and Bloodborne Pathogens / Narcan | Passed | 0.0 | 1.00 |
+| 2/12/2024 | OCP2163A | Hazrdous Materials / Global SDS | Passed | 0.0 | 1.00 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/14/2024 | AVP2257A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/14/2023 | SAG3247A | Firearms training | Passed | 0.0 | 2.00 |
 | 12/12/2023 | SAG1126A | Oregon Government Ethics Law Overview | Passed | 0.0 | 2.00 |

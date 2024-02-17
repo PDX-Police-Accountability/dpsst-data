@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/9/2024
+  course: VND4222A
+  title: ICS-300 Intermediate ICS For Expanding Incidents
+  status: ''
+  score: '0.0'
+  hours: '0.00'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

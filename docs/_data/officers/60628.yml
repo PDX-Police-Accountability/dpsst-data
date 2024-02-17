@@ -1839,4 +1839,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/17/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/8/2018
+  degree: Bachelor Science
+  school: Portland State University
+  major: Business Administration
+  hours: '200.0'

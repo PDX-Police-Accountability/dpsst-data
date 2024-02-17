@@ -80,6 +80,7 @@
 | 5/11/2023 | PDP1919A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/1/2023 | PDP13561 | 2022-2 In-Service HRAR 2.02 Refresher | Passed | 0.0 | 0.75 |
 | 4/28/2023 | REG10403 | 2023 DUII Multi-Disciplinary Training Conference | Passed | 0.0 | 15.00 |
+| 4/20/2023 | PDP2662A | 2023 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 4/14/2023 | PDP4344A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 10.00 |
 | 4/9/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/9/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

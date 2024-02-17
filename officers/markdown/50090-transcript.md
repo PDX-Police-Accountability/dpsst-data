@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | PDP3769A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP2352A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 1/3/2024 | PDP2352A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |
 | 12/21/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

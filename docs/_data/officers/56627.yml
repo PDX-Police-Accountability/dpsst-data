@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/23/2024
+  course: PDP0816A
+  title: Scenarios  Tactics for the Field Training Officer
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/12/2023
   course: PDP2343A
   title: 2022-12 CAO Legal Updates for 12/2022

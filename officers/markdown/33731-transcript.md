@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/14/2024 | PDN1662A | Field Applications-The 9th Circuit  U of F | Passed | 0.0 | 1.00 |
 | 12/14/2023 | PDN2803A | Case Management: Case Plan Overview | Passed | 0.0 | 1.00 |
 | 12/14/2023 | PDN4453A | Case Management: Case Plan Overview | Passed | 0.0 | 1.00 |
 | 11/13/2023 | PDN0046A | Case Management: EPICS | Passed | 0.0 | 1.00 |

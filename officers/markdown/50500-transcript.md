@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2024 | PDP0488A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 1/25/2024 | PDP2633A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 1/4/2024 | PDP3380A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 12/21/2023 | PDP2142A | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

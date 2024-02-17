@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 1/30/2024 | VND2789A | NW Peer Support Conference | Passed | 0.0 | 6.00 |
 | 12/12/2023 | PDP3424A | 2023 Traffic Monthly Training | Passed | 0.0 | 6.00 |
 | 12/6/2023 | PDP3510A | 2023 EAP Wellness | Passed | 0.0 | 3.00 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |

@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | BPT2921A | Oregon Case Management Network | Passed | 0.0 | 8.00 |
+| 1/31/2024 | BPT2918A | Mental Heath Supervision Network | Passed | 0.0 | 4.00 |
+| 1/30/2024 | BPT1574A | Gender Cohort | Passed | 0.0 | 4.00 |
 | 1/25/2024 | MFN0394A | Firarms: Low Light | Passed | 0.0 | 4.00 |
 | 12/7/2023 | MFN0081A | The"Career Buster" Addressing Stress | Passed | 0.0 | 1.00 |
 | 12/4/2023 | MFN3306A | Motivational Interviewing - RCC | Passed | 0.0 | 24.00 |

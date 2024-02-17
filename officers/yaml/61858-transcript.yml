@@ -42,6 +42,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2024
+  course: BPT2921A
+  title: Oregon Case Management Network
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/31/2024
+  course: BPT2918A
+  title: Mental Heath Supervision Network
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 1/30/2024
+  course: BPT1574A
+  title: Gender Cohort
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/25/2024
   course: MFN0394A
   title: 'Firarms: Low Light'

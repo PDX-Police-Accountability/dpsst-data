@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 1/30/2024 | VND2789A | NW Peer Support Conference | Passed | 0.0 | 6.00 |
 | 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/6/2023 | PDP3510A | 2023 EAP Wellness | Passed | 0.0 | 6.00 |

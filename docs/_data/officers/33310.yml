@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/12/2024
+  course: HBS1348A
+  title: Digital Evidence for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '7.25'
 - date: 1/30/2024
   course: MMP0420A
   title: Internet Security

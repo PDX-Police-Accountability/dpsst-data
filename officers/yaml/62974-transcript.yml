@@ -42,6 +42,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/12/2024
+  course: OCP2163A
+  title: Hazrdous Materials / Global SDS
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2024
+  course: OCP3153A
+  title: Airborne and Bloodborne Pathogens / Narcan
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2023
   course: OCP1409A
   title: Daily Training Bulletins

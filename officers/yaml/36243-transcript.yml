@@ -95,12 +95,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2024
+  course: VND1796A
+  title: NW Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/31/2024
   course: HBS3705A
   title: Adult/Child First Aid/CPR/AED
   status: Passed
   score: '0.0'
   hours: '3.50'
+- date: 1/31/2024
+  course: VND0187A
+  title: NW Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/30/2024
+  course: VND2789A
+  title: NW Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 12/18/2023
   course: HBS2277A
   title: Active Threat

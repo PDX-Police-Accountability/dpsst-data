@@ -31,6 +31,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2024 | PDP0488A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 2/1/2024 | PDP3769A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/18/2024 | PDP1800A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 1/11/2024 | PDP4316A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/4/2024 | PDP3380A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |

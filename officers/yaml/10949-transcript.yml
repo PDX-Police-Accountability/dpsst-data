@@ -124,6 +124,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2024
+  course: VND2789A
+  title: NW Peer Support Conference
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 11/7/2023
   course: VND3892A
   title: Responder Life Peer Support Quarterly Training

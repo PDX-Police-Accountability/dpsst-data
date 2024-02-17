@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 1/11/2024
+  course: REG1606A
+  title: INTOX 8000 (6 hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 10/30/2023
   course: PDP4251A
   title: 2023 Active Stolen Vehicles Hotsheet

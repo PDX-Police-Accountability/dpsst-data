@@ -60,6 +60,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 12/31/2023
+  course: BNP2269A
+  title: Emergency Operations Plan Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2023
+  course: BNP0315A
+  title: Juvenile Detention refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2023
+  course: BNP0047A
+  title: OSHA Hearing Protection Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2023
+  course: BNP2665A
+  title: Oregon Stop Entry Quick Reference Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 12/31/2023
+  course: BNP3736A
+  title: Implicit Bias
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2023
+  course: BNP1739A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/31/2023
+  course: BNP3393A
+  title: Standard Operating Procedures
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/17/2023
   course: BNP0843A
   title: Building Clearing

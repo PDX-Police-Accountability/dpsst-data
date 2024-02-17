@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2024
+  course: PDP0488A
+  title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/25/2024
   course: PDP2633A
   title: 2024 SERT Training - FIREARMS

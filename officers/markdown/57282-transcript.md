@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2024 | VND0416A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/6/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 12/6/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 12/6/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
