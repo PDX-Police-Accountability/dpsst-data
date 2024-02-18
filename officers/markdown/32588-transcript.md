@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 1/2/2024 | Gresham Police Department | Hired | Lieutenant |  |  |
 | 12/21/2023 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 1/24/2008 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/22/1998 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/2/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Instructed | 0.0 | 5.00 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC3502A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |

@@ -4,7 +4,7 @@
 | name | Maul, Lara M. |
 | dpsst_identifier | 36069 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/7/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/7/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/6/1999 | Portland Police Bureau | Resigned | Civln Emp |  |  |
 | 8/10/1998 | Portland Police Bureau | Hired | Civln Emp |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 |  |  |
-| 5/11/2004 | Police Officer | Intermediate | Granted | 5/11/2004 |  |  |
-| 1/27/2000 | Police Officer | Basic | Granted | 1/27/2000 |  |  |
+| 11/29/2010 | Police Officer | Advanced | Granted | 11/29/2010 | 5/7/2024 |  |
+| 5/11/2004 | Police Officer | Intermediate | Granted | 5/11/2004 | 5/7/2024 |  |
+| 1/27/2000 | Police Officer | Basic | Granted | 1/27/2000 | 5/7/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
