@@ -62,6 +62,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/14/2024
+  course: SDP2330A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 2/14/2024
+  course: SDP2245A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/14/2024
+  course: SDP3379A
+  title: Evidence Processing Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/12/2024
+  course: REG0151A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/5/2024
+  course: REG2426A
+  title: Escaping Mount
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2024
+  course: REG3815A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2024
+  course: REG4525A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/17/2024
   course: 24-0030
   title: DPSST Supervision F21 Equivalency

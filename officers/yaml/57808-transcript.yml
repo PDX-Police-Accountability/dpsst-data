@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/5/2024
+  course: REG2426A
+  title: Escaping Mount
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/14/2023
   course: PDP2720A
   title: 2023-2 All Sworn In-Service BWC Policy

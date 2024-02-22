@@ -48,6 +48,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/30/2024
+  course: PDS1464A
+  title: Cultural Awareness and Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2024
+  course: PDS3177A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2024
+  course: PDS2347A
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/18/2024
   course: GSP2616A
   title: Qucik Reaction Team/Identifying IED's

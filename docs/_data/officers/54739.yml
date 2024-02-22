@@ -29,6 +29,24 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 1/26/2024
+  course: PDS2347A
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/25/2024
+  course: PDS3177A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/25/2024
+  course: PDS1464A
+  title: Cultural Awareness and Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/25/2023
   course: PDS4038A
   title: PREA

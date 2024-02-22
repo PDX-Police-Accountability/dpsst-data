@@ -35,9 +35,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/29/2024 | Police Officer | Advanced | App Recd |  | 12/31/2024 |  |
-| 1/29/2024 | Police Officer | Basic | App Recd |  | 12/31/2024 |  |
-| 1/29/2024 | Police Officer | Intermediate | App Recd |  | 12/31/2024 |  |
+| 2/20/2024 | Police Officer | Advanced | App InProc |  |  |  |
+| 2/20/2024 | Police Officer | Basic | App InProc |  |  |  |
+| 2/20/2024 | Police Officer | Intermediate | App InProc |  |  |  |
 | 1/25/2024 | Police Officer | Basic | Required |  |  | 7/25/2025 |
 | 4/21/2021 | Parole  Probation Officer | Basic | Granted | 4/21/2021 | 4/23/2024 |  |
 | 3/31/2020 | Police Officer | Advanced | Lapsed | 2/1/2004 |  |  |

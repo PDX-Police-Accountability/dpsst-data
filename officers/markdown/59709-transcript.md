@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/6/2024 | PVS0282A | Apprehending Fleeing Suspects | Passed | 0.0 | 4.00 |
 | 1/30/2024 | BNP3855A | DUII refresher | Passed | 0.0 | 4.00 |
 | 1/30/2024 | BNP3812A | Financial Literacy | Passed | 0.0 | 0.50 |
 | 1/30/2024 | BNP0477A | Ethics for Law Enforcement | Passed | 0.0 | 3.00 |

@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/5/2024
+- status_date: 2/20/2024
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 2/20/2024
   expiration_date: ''
   probation_date: ''
-- status_date: 2/5/2024
+- status_date: 2/20/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 2/20/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 3/5/2012
@@ -41,6 +41,12 @@ training_records:
 - date: 2/8/2024
   course: PDP0488A
   title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/1/2024
+  course: PDP3116A
+  title: 2024 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -59,6 +65,12 @@ training_records:
 - date: 1/18/2024
   course: PDP1800A
   title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/11/2024
+  course: PDP4324A
+  title: 2024 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'

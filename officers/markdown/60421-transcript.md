@@ -46,6 +46,8 @@
 | 12/28/2023 | SAG3904A | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 12/14/2023 | SAG3247A | Firearms training | Passed | 0.0 | 2.00 |
 | 12/14/2023 | SAG3247A | Firearms training | Instructed | 0.0 | 1.00 |
+| 11/30/2023 | SAG4436A | Firearms, Low light / night range | Passed | 0.0 | 3.00 |
+| 11/30/2023 | SAG4436A | Firearms, Low light / night range | Instructed | 0.0 | 3.00 |
 | 10/4/2023 | SAG0969A | Firearms Training | Passed | 0.0 | 2.00 |
 | 10/4/2023 | SAG0969A | Firearms Training | Instructed | 0.0 | 1.00 |
 | 9/26/2023 | SAG3621A | ICAC 101 | Instructed | 0.0 | 7.50 |

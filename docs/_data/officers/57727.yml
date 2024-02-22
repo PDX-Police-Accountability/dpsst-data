@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/8/2024
+  course: PDP3079A
+  title: 2024-1 Field Training Officer (FTO) Certification
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 2/1/2024
   course: VND1796A
   title: NW Peer Support Conference

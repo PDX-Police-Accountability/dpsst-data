@@ -98,6 +98,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '1.00'
+- date: 11/30/2023
+  course: SAG4436A
+  title: Firearms, Low light / night range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 11/30/2023
+  course: SAG4436A
+  title: Firearms, Low light / night range
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/4/2023
   course: SAG0969A
   title: Firearms Training

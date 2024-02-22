@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/12/2024 | REG0151A | DT | Passed | 0.0 | 1.00 |
+| 1/29/2024 | REG3815A | DT | Passed | 0.0 | 1.00 |
+| 1/25/2024 | REG3910A | DT | Passed | 0.0 | 1.00 |
+| 1/22/2024 | REG4525A | DT | Passed | 0.0 | 1.00 |
+| 1/18/2024 | REG1983A | Bodylocks/Movement Drills | Passed | 0.0 | 1.00 |
 | 1/8/2024 | REG2233A | DT | Passed | 0.0 | 1.00 |
 | 1/4/2024 | REG3963A | DT | Passed | 0.0 | 1.00 |
 | 12/21/2023 | REG2668A | DT | Passed | 0.0 | 1.00 |

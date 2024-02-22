@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | HBP3139A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 12/5/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/29/2023 | HBP0000A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 11/8/2023 | HBP1832A | Range and Duty Weapons Maintenance | Passed | 0.0 | 5.00 |

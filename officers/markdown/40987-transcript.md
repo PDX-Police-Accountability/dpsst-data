@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/14/2024 | PDP3614A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 2/7/2024 | PDP4090A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 1/31/2024 | PDP0215A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 1/24/2024 | PDP0851A | 2024 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
 | 1/10/2024 | PDP0251A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 12/27/2023 | PDP0496A | 2023 MEDU Weekly Training | Passed | 0.0 | 9.00 |

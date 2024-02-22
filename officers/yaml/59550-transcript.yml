@@ -43,6 +43,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/22/2024
+  course: RMP0426A
+  title: Digital Forensics Evidence
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/22/2024
+  course: RMP3379A
+  title: Major Incident Response/Report Writing/DV
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/22/2024
+  course: RMP3474A
+  title: Trauma Informed Care
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/22/2024
+  course: RMP2871A
+  title: Tac Med
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/5/2023
   course: RMP0112A
   title: Policy Review / DTB

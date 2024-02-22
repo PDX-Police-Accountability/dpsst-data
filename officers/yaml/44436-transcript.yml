@@ -51,6 +51,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/14/2024
+  course: PDP3614A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/7/2024
+  course: PDP4090A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/31/2024
+  course: PDP0215A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/31/2024
+  course: PDP0215A
+  title: 2024 MEDU Weekly Training
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/24/2024
   course: PDP0851A
   title: 2024 Explosive Disposal Unit Weekly Training

@@ -38,6 +38,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/14/2024 | SDP2330A | Defensive Tactics | Passed | 0.0 | 3.00 |
+| 2/14/2024 | SDP2245A | Firearms Training | Passed | 0.0 | 2.50 |
+| 2/14/2024 | SDP3379A | Evidence Processing Training | Passed | 0.0 | 1.50 |
+| 2/12/2024 | REG0151A | DT | Passed | 0.0 | 1.00 |
+| 2/5/2024 | REG2426A | Escaping Mount | Passed | 0.0 | 1.00 |
+| 1/29/2024 | REG3815A | DT | Passed | 0.0 | 1.00 |
+| 1/22/2024 | REG4525A | DT | Passed | 0.0 | 1.00 |
 | 1/17/2024 | 24-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 1/15/2024 | REG0181A | DT | Passed | 0.0 | 1.00 |
 | 1/10/2024 | SDP0620A | Defensive Tactics | Passed | 0.0 | 1.50 |

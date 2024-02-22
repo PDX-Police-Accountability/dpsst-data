@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2024
+  course: PDP3079A
+  title: 2024-1 Field Training Officer (FTO) Certification
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance

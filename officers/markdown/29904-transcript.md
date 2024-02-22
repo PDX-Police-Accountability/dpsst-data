@@ -35,6 +35,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/30/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
+| 1/29/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/23/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Passed | 0.0 | 5.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/21/2023 | GSP3210A | Search Warrant Contingencies | Passed | 0.0 | 10.00 |

@@ -38,6 +38,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2023 | SAG1126A | Oregon Government Ethics Law Overview | Passed | 0.0 | 2.00 |
+| 11/30/2023 | SAG4436A | Firearms, Low light / night range | Passed | 0.0 | 3.00 |
 | 10/4/2023 | SAG0969A | Firearms Training | Passed | 0.0 | 2.00 |
 | 9/21/2023 | RSS0455A | 13th Annual OHIA Major Crimes Conference | Passed | 0.0 | 20.00 |
 | 9/20/2023 | RSS4244A | OHIA - Trauma and Resilience, Officer Wellness | Passed | 0.0 | 2.00 |

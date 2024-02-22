@@ -16,11 +16,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/30/2024
+- status_date: 2/20/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 2/20/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 5/18/2020
@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/8/2024
+  course: PDP3079A
+  title: 2024-1 Field Training Officer (FTO) Certification
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 11/15/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet
@@ -55,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 10/8/2023
+  course: PDP2166A
+  title: 2023-3 AR-15 Patrol Rifle Operators Course
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
 - date: 10/6/2023
   course: PDP4431A
   title: 2023-3 Range Qual AR-15 Qualification (20 Yard)

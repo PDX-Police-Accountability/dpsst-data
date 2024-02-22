@@ -75,12 +75,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2023
+  course: MISCMAIN
+  title: 2023 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/12/2023
   course: SAG1126A
   title: Oregon Government Ethics Law Overview
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/30/2023
+  course: SAG4436A
+  title: Firearms, Low light / night range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 10/4/2023
   course: SAG0969A
   title: Firearms Training
@@ -1456,18 +1468,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 2/27/2023
   expiration_date: 2/27/2025
-- topic: Maintenance Requirements
-  value: LE Annual
-  effective_date: 1/1/2023
-  expiration_date: 12/31/2023
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 8/9/2022
-  expiration_date: 8/9/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

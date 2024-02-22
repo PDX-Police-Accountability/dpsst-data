@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/14/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
+| 1/11/2024 | PDP4324A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 1/11/2024 | PDP4324A | 2024 SERT Training - FIREARMS | Instructed | 0.0 | 9.00 |
 | 1/7/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 1/6/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 1/4/2024 | PDP3380A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |

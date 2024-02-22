@@ -44,6 +44,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/12/2024
+  course: REG0151A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/29/2024
+  course: REG3815A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/25/2024
+  course: REG3910A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/22/2024
+  course: REG4525A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/18/2024
+  course: REG1983A
+  title: Bodylocks/Movement Drills
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/8/2024
   course: REG2233A
   title: DT

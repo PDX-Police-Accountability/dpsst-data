@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/5/2024
+  course: HBN3291A
+  title: 24-0716  (LEDS - Recertification)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/12/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

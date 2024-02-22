@@ -50,12 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/2/2024
+  course: BVP3645A
+  title: Bike Mechanic Class 2024
+  status: Passed
+  score: '0.0'
+  hours: '35.00'
 - date: 1/19/2024
   course: BVP2358A
   title: First Aid and Adult/Child CPR 11924am
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/10/2024
+  course: BVP3514A
+  title: Bike Theft Prevention Reserves
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/20/2023
   course: HBS2775A
   title: Active Threat

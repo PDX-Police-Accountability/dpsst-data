@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/7/2024
+  course: PDP1982A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/1/2024
   course: PDP3769A
   title: 2024 SERT Training - SCENARIO
@@ -86,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 12/7/2023
+  course: PDP0711A
+  title: 2023-2 Basic Patrol K9 Class
+  status: Instructed
+  score: '0.0'
+  hours: '96.00'
 - date: 12/6/2023
   course: PDP3219A
   title: 2023 K-9 (K9) Weekly Training

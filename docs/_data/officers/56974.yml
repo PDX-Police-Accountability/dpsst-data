@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/10/2024
+  course: BVP3514A
+  title: Bike Theft Prevention Reserves
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/21/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

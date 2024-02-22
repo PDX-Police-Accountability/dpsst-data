@@ -28,9 +28,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/27/2023 | 2/27/2025 |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
-| Certification Cards | First Aid and CPR | 8/9/2022 | 8/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 3/15/2007 |  |
 ## Education
@@ -41,7 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/12/2023 | SAG1126A | Oregon Government Ethics Law Overview | Passed | 0.0 | 2.00 |
+| 11/30/2023 | SAG4436A | Firearms, Low light / night range | Passed | 0.0 | 3.00 |
 | 10/4/2023 | SAG0969A | Firearms Training | Passed | 0.0 | 2.00 |
 | 5/24/2023 | SAG0671 | Firearms Training | Passed | 0.0 | 2.00 |
 | 2/27/2023 | TRN38602 | HSI Adult 1st Aid/Adult, Child  Infant CPR w/AED | Passed | 0.0 | 8.00 |

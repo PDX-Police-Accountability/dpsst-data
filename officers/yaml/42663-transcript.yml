@@ -56,6 +56,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/1/2024
+  course: PDP3116A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/1/2024
+  course: PDP3116A
+  title: 2024 SERT Training - FIREARMS
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/25/2024
   course: PDP2633A
   title: 2024 SERT Training - FIREARMS
@@ -65,6 +77,12 @@ training_records:
 - date: 1/18/2024
   course: PDP1800A
   title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/11/2024
+  course: PDP4324A
+  title: 2024 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'

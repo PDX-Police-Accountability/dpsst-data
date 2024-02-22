@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | HBP3139A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 1/5/2024 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/29/2023 | HBP3872A | PoliceOne Firearms 1 | Passed | 0.0 | 1.00 |
 | 12/29/2023 | HBP4407A | PoliceOne Firearms 2 | Passed | 0.0 | 1.00 |

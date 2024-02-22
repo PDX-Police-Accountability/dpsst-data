@@ -34,6 +34,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/22/2024 | RMP0426A | Digital Forensics Evidence | Passed | 0.0 | 2.00 |
+| 1/22/2024 | RMP3379A | Major Incident Response/Report Writing/DV | Passed | 0.0 | 2.00 |
+| 1/22/2024 | RMP3474A | Trauma Informed Care | Passed | 0.0 | 2.00 |
+| 1/22/2024 | RMP2871A | Tac Med | Passed | 0.0 | 2.00 |
 | 12/5/2023 | RMP0112A | Policy Review / DTB | Passed | 0.0 | 0.60 |
 | 11/7/2023 | RMP1772A | Ground Defense/Weapon Transitions | Passed | 0.0 | 8.00 |
 | 10/30/2023 | RMP1450A | Breaching Zak Tool | Passed | 0.0 | 0.50 |

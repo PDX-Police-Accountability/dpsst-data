@@ -50,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 2/1/2024 | HBP3139A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 1/24/2024 | HBP3505A | HPD Internal Patrol Supervisor Training | Passed | 0.0 | 4.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2023 | HBP3646A | PoliceOne Firearms 1 | Passed | 0.0 | 1.00 |

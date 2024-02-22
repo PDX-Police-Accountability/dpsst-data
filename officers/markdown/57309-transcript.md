@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 2/16/2024 | Clackamas County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 1/11/2021 | Clackamas County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 12/31/2020 | West Linn Police Department | Resigned | Police Off |  |  |
 | 8/6/2018 | West Linn Police Department | Hired | Police Off |  |  |
@@ -20,8 +21,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/27/2022 | Police Officer | Intermediate | Granted | 6/27/2022 |  |  |
-| 2/14/2019 | Police Officer | Basic | Granted | 2/14/2019 |  |  |
+| 6/27/2022 | Police Officer | Intermediate | Granted | 6/27/2022 | 5/16/2024 |  |
+| 2/14/2019 | Police Officer | Basic | Granted | 2/14/2019 | 5/16/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
