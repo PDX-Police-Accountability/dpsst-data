@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2024 | SDP0316A | Leadership Lessons Greatest TED Talks in History | Passed | 0.0 | 16.00 |
 | 1/10/2024 | SDP0620A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/10/2024 | SDP2235A | Death Notification for Officers Training | Passed | 0.0 | 1.50 |
 | 1/10/2024 | SDP4480A | Firearms Training | Passed | 0.0 | 2.00 |

@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2024 | SPP1569A | Forensic Intensive Treatment Team (F.I.T.T.) | Passed | 0.0 | 0.50 |
 | 1/8/2024 | SPP1739A | Legal Update - Lane County DA | Passed | 0.0 | 4.00 |
 | 12/12/2023 | SPP4259A | Use of Force Policy Review | Passed | 0.0 | 3.50 |
 | 11/14/2023 | SPP3540A | Presidia Gel training | Passed | 0.0 | 1.00 |

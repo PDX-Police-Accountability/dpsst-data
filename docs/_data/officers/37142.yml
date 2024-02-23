@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/15/2024
+  course: SPP1569A
+  title: Forensic Intensive Treatment Team (F.I.T.T.)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/8/2024
   course: SPP1739A
   title: Legal Update - Lane County DA

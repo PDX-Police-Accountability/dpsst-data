@@ -67,6 +67,18 @@ certification_records:
   expiration_date: 1/14/2026
   probation_date: ''
 training_records:
+- date: 2/20/2024
+  course: BPT4426A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/20/2024
+  course: BPT3556A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/4/2023
   course: PDP3685A
   title: 2023 Training PVO Refresher Training

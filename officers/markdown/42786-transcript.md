@@ -34,7 +34,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 9/13/2005 |  |
@@ -62,6 +62,7 @@
 | 8/6/2023 | HSU2592A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
 | 7/30/2023 | HSU2592A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
 | 7/29/2023 | HSU2592A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
+| 6/26/2023 | HSU2389A | Integrity Booster 2023 | Passed | 0.0 | 1.00 |
 | 4/25/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |
 | 4/24/2023 | HSU27477 | ASIST Suicide Caregiver | Passed | 0.0 | 8.00 |
 | 4/21/2023 | HSU15395 | After Action Reporting | Passed | 0.0 | 1.00 |

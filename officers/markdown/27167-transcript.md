@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2024 | BPT4426A | Active Threat | Passed | 0.0 | 1.00 |
+| 2/20/2024 | BPT3556A | Use of Force | Passed | 0.0 | 2.00 |
 | 12/4/2023 | PDP3685A | 2023 Training PVO Refresher Training | Passed | 0.0 | 4.00 |
 | 11/22/2023 | REG3758A | Pistol Mounted Optics IDC | Passed | 0.0 | 16.00 |
 | 10/24/2023 | REG4146A | Handgun IDC | Passed | 0.0 | 24.00 |

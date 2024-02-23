@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/13/2023 | Police Officer | Basic | Required |  |  | 4/13/2025 |
+| 2/21/2024 | Police Officer | Basic | App Recd |  |  | 4/13/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -30,7 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/13/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/20/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 2/12/2024 | OCP2163A | Hazrdous Materials / Global SDS | Passed | 0.0 | 1.00 |
 | 2/12/2024 | OCP3153A | Airborne and Bloodborne Pathogens / Narcan | Passed | 0.0 | 1.00 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 5.00 |
