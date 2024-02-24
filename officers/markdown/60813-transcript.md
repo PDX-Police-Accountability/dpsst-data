@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2024 | OSH4115A | OSP 3rd Trimester Firearms Training | Instructed | 0.0 | 4.00 |
 | 1/31/2024 | OSH3889A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 1/31/2024 | OSH0925A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 12/11/2023 | OSH2923A | 3rd Trimester Firearms-Low Light | Instructed | 0.0 | 4.00 |

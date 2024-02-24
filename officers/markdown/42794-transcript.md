@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/16/2024 | OCS1793A | Marksmanship/MILO Use of Force Decisions | Instructed | 0.0 | 3.00 |
+| 2/9/2024 | OCS0856A | February 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
 | 2/1/2024 | OCS2607A | Honor Guard Revolver Marksmanship | Instructed | 0.0 | 2.00 |
 | 12/30/2023 | OCS1389A | December firearms instruction | Instructed | 0.0 | 56.00 |
 | 12/19/2023 | OCS1219A | Shotgun Orientation | Instructed | 0.0 | 4.00 |

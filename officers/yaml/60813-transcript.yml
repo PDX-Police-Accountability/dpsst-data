@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2024
+  course: OSH4115A
+  title: OSP 3rd Trimester Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/31/2024
   course: OSH3889A
   title: Adult/Child First Aid and CPR

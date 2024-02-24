@@ -62,12 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 1/8/2024
+- date: 2/16/2024
   course: 24-0029
   title: DPSST Supervision
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '80.00'
 - date: 12/21/2023
   course: TDP2243A
   title: Harassment in the work place

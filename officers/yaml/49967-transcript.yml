@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/20/2024
+  course: MNP3822A
+  title: Taser 7 - update training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/10/2023
   course: MNP3864A
   title: Taser 7 certification

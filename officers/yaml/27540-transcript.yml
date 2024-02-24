@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/21/2024
+  course: WLP0973A
+  title: Brady Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2024
   course: WLP2943A
   title: Taser 7 Recertification

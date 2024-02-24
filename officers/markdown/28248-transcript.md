@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2024 | VND4088A | 0956 NIMS ICS All-Hazards Liaison Officer Course | Passed | 0.0 | 16.00 |
 | 12/5/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/5/2023 | PDP4526A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 12/5/2023 | PDP2382A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

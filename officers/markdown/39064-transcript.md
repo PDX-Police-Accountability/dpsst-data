@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 1/8/2024 | 24-0029 | DPSST Supervision | Registered | 0.0 | 0.00 |
+| 2/16/2024 | 24-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
 | 12/21/2023 | TDP2243A | Harassment in the work place | Passed | 0.0 | 1.00 |
 | 12/5/2023 | TDP3311A | Supervisor liability for Law Enforcement | Passed | 0.0 | 8.00 |
 | 12/1/2023 | TDP1153A | Tactical Medic practical application | Passed | 0.0 | 4.00 |

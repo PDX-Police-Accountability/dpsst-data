@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/19/2024
+  course: BNP0288A
+  title: Dangers of Lithium Batteries
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/6/2024
   course: PVS0282A
   title: Apprehending Fleeing Suspects

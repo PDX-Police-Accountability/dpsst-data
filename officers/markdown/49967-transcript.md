@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2024 | MNP3822A | Taser 7 - update training | Passed | 0.0 | 0.50 |
 | 12/10/2023 | MNP3864A | Taser 7 certification | Passed | 0.0 | 7.00 |
 | 12/5/2023 | MNP3746A | Ethics Training | Passed | 0.0 | 1.50 |
 | 11/18/2023 | MNP3700A | Defensive Tactics | Passed | 0.0 | 3.50 |

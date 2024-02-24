@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/12/2024
+  course: OCS1094A
+  title: FTO
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/16/2023
   course: OCS2690A
   title: Bias Hate Crime Training

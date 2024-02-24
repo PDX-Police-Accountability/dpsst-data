@@ -74,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 2/1/2024
+  course: OSH2401A
+  title: Post-Academy Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/24/2024
   course: OSH0221A
   title: Adult/Child CPR and First Aid

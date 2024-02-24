@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | BNP1684A | DUII refresher | Passed | 0.0 | 4.00 |
 | 12/31/2023 | BNP2269A | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
 | 12/31/2023 | BNP0315A | Juvenile Detention refresher | Passed | 0.0 | 0.50 |
 | 12/31/2023 | BNP0047A | OSHA Hearing Protection Guide | Passed | 0.0 | 0.50 |

@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/20/2024
+  course: BPT1042A
+  title: Skills Lab Workshop
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 11/15/2023
   course: OCS2898A
   title: FTO
