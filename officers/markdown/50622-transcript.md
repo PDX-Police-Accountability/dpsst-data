@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | OCP2899A | FTEP Coaches Training | Instructed | 0.0 | 1.50 |
 | 2/12/2024 | OCP2163A | Hazrdous Materials / Global SDS | Passed | 0.0 | 1.00 |
 | 2/12/2024 | OCP3153A | Airborne and Bloodborne Pathogens / Narcan | Passed | 0.0 | 1.00 |
 | 2/7/2024 | OCP0122A | Civil Forfeiture Seizing Agency Training | Passed | 0.0 | 0.50 |

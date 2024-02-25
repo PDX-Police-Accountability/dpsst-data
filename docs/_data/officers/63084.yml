@@ -144,6 +144,72 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/9/2023
+  course: PDP2808A
+  title: 2023-2 Advanced Academy Bike School
+  status: Passed
+  score: '0.0'
+  hours: '54.00'
+- date: 7/30/2023
+  course: PDP1878A
+  title: 2023-2 Advanced Academy  PVO
+  status: Passed
+  score: '0.0'
+  hours: '45.25'
+- date: 7/27/2023
+  course: PDP0656A
+  title: 2023-2 Advanced Academy Patrol Procedures (FA)
+  status: Passed
+  score: '0.0'
+  hours: '105.50'
+- date: 7/25/2023
+  course: PDP2821A
+  title: 2023-2 Advanced Academy  Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 7/24/2023
+  course: PDP0698A
+  title: 2023-2 Advanced Academy Air Suport Unit
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP3445A
+  title: 2023-2 Advanced Academy Crime Scene
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/24/2023
+  course: PDP2897A
+  title: 2023-2 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '3.75'
+- date: 7/24/2023
+  course: PDP1909A
+  title: 2023-2 Advanced Academy Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/19/2023
+  course: PDP0534A
+  title: 2023-2 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '65.00'
+- date: 7/19/2023
+  course: PDP3249A
+  title: 2023-2 Advanced Academy Wellness
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 7/18/2023
+  course: PDP1835A
+  title: 2023-2 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 7/17/2023
   course: PDP2309A
   title: 2023 DIR 650.00 Consent Searches
@@ -162,6 +228,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/17/2023
+  course: PDP1059A
+  title: 2023-2 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '51.75'
+- date: 7/17/2023
+  course: PDP4200A
+  title: 2023-2 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '11.00'
 - date: 7/13/2023
   course: PDP0857A
   title: 2021-9 TT Protecting Workers from the Dangers
@@ -192,18 +270,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/12/2023
+  course: PDP0537A
+  title: 2023-2 Advanced Academy CIT
+  status: Passed
+  score: '0.0'
+  hours: '20.25'
 - date: 7/10/2023
   course: PDP0519A
   title: 2023-2 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 7/6/2023
+  course: PDP1422A
+  title: 2023-2 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 6/15/2023
+  course: PDP1798A
+  title: 2023-2 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '42.25'
 - date: 5/31/2023
   course: PDP1548A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 5/17/2023
+  course: PDP4504A
+  title: 2023-2 Advanced Academy PLPJ
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/11/2023
+  course: PDP2122A
+  title: 2023-2 Advanced Academy Patrol Procecures (Other)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 3/30/2023
   course: PDP35372
   title: 2022 Naxolone Administration
@@ -523,6 +631,14 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 12/7/2023

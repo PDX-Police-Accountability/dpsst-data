@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2024 | BVP1475A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 2/2/2024 | BVP3645A | Bike Mechanic Class 2024 | Passed | 0.0 | 35.00 |
 | 1/19/2024 | BVP2358A | First Aid and Adult/Child CPR 11924am | Passed | 0.0 | 3.00 |
 | 1/10/2024 | BVP3514A | Bike Theft Prevention Reserves | Instructed | 0.0 | 2.00 |

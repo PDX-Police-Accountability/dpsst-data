@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/8/2024 | BVP2564A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 1/18/2024 | BVP4076A | First Aid and Adult/Child CRP 11824 am | Passed | 0.0 | 3.00 |
 | 1/11/2024 | BPD0851A | ORAS- Ohio Risk Assessment System | Passed | 0.0 | 16.00 |
 | 1/11/2024 | BVP2138A | ORAS | Passed | 0.0 | 16.00 |

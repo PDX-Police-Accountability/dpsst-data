@@ -119,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 1/24/2024
+  course: HBS1714A
+  title: Incident Management Team/ICS Jan 2024
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/18/2023
   course: HBS2277A
   title: Active Threat

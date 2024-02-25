@@ -126,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/12/2023
+  course: BNP0081A
+  title: UAS Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/30/2023
   course: BNP3339A
   title: Yoga- Living Yoga Program for Police

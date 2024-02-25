@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2024
+  course: BVP1475A
+  title: 2024 February Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/2/2024
   course: BVP3645A
   title: Bike Mechanic Class 2024

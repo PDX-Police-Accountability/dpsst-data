@@ -20,6 +20,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 12/7/2023 |  |
 | Certification Cards | First Aid and CPR | 5/31/2023 | 5/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 11/7/2022 |  |
@@ -49,16 +51,34 @@
 | 8/11/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 8/11/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 8/10/2023 | PDP1721A | 2021 Training Emergency Entry Recap Video | Passed | 0.0 | 0.25 |
+| 8/9/2023 | PDP2808A | 2023-2 Advanced Academy Bike School | Passed | 0.0 | 54.00 |
+| 7/30/2023 | PDP1878A | 2023-2 Advanced Academy  PVO | Passed | 0.0 | 45.25 |
+| 7/27/2023 | PDP0656A | 2023-2 Advanced Academy Patrol Procedures (FA) | Passed | 0.0 | 105.50 |
+| 7/25/2023 | PDP2821A | 2023-2 Advanced Academy  Ethics | Passed | 0.0 | 2.50 |
+| 7/24/2023 | PDP0698A | 2023-2 Advanced Academy Air Suport Unit | Passed | 0.0 | 1.00 |
+| 7/24/2023 | PDP3445A | 2023-2 Advanced Academy Crime Scene | Passed | 0.0 | 1.00 |
+| 7/24/2023 | PDP2897A | 2023-2 Advanced Academy Fitness | Passed | 0.0 | 3.75 |
+| 7/24/2023 | PDP1909A | 2023-2 Advanced Academy Human Trafficking | Passed | 0.0 | 1.00 |
+| 7/19/2023 | PDP0534A | 2023-2 Advanced Academy Control Tactics | Passed | 0.0 | 65.00 |
+| 7/19/2023 | PDP3249A | 2023-2 Advanced Academy Wellness | Passed | 0.0 | 10.00 |
+| 7/18/2023 | PDP1835A | 2023-2 Advanced Academy Law | Passed | 0.0 | 30.00 |
 | 7/17/2023 | PDP2309A | 2023 DIR 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 7/17/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 7/17/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 7/17/2023 | PDP1059A | 2023-2 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
+| 7/17/2023 | PDP4200A | 2023-2 Advanced Academy Public Order | Passed | 0.0 | 11.00 |
 | 7/13/2023 | PDP0857A | 2021-9 TT Protecting Workers from the Dangers | Passed | 0.0 | 0.25 |
 | 7/13/2023 | PDP3002A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
 | 7/13/2023 | PDP2469A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 7/13/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/13/2023 | PDP2399A | OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 7/12/2023 | PDP0537A | 2023-2 Advanced Academy CIT | Passed | 0.0 | 20.25 |
 | 7/10/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 7/6/2023 | PDP1422A | 2023-2 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 6/15/2023 | PDP1798A | 2023-2 Advanced Academy CEW | Passed | 0.0 | 42.25 |
 | 5/31/2023 | PDP1548A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/17/2023 | PDP4504A | 2023-2 Advanced Academy PLPJ | Passed | 0.0 | 2.00 |
+| 5/11/2023 | PDP2122A | 2023-2 Advanced Academy Patrol Procecures (Other) | Passed | 0.0 | 2.50 |
 | 3/30/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP26192 | 2022 Post Shooting Response | Passed | 0.0 | 0.50 |
 | 3/30/2023 | PDP33753 | 2022-3 TT Oregon Ballot Measure 114 | Passed | 0.0 | 0.50 |

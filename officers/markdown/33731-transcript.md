@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2024 | PDN4480A | Defensive Tactics-Basic Handcuffing | Passed | 0.0 | 1.50 |
+| 2/22/2024 | PDN2425A | Defensive Tactics-Stand Up Defense | Passed | 0.0 | 1.50 |
 | 2/14/2024 | PDN1662A | Field Applications-The 9th Circuit  U of F | Passed | 0.0 | 1.00 |
 | 12/14/2023 | PDN2803A | Case Management: Case Plan Overview | Passed | 0.0 | 1.00 |
 | 12/14/2023 | PDN4453A | Case Management: Case Plan Overview | Passed | 0.0 | 1.00 |

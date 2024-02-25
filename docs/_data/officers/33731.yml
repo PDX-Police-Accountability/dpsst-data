@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: PDN4480A
+  title: Defensive Tactics-Basic Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/22/2024
+  course: PDN2425A
+  title: Defensive Tactics-Stand Up Defense
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/14/2024
   course: PDN1662A
   title: Field Applications-The 9th Circuit  U of F

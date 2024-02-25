@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/21/2024
+  course: OCP2899A
+  title: FTEP Coaches Training
+  status: Instructed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/12/2024
   course: OCP2163A
   title: Hazrdous Materials / Global SDS
