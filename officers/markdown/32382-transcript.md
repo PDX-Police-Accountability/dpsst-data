@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2024 | BPS2239A | MDT Procedures, Sexual Harassment Laws  Title IX | Passed | 0.0 | 2.00 |
 | 1/31/2024 | HBS4232A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 12/8/2023 | HBS0451A | Safe Restraints The Wrap | Passed | 0.0 | 1.00 |
 | 11/25/2023 | HBS3037A | Bias Based Policing | Passed | 0.0 | 1.00 |

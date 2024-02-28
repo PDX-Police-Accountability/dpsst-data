@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | MFN3303A | Defensive Tactics: Handcuffing | Passed | 0.0 | 2.00 |
 | 2/1/2024 | BPT2921A | Oregon Case Management Network | Passed | 0.0 | 8.00 |
 | 1/31/2024 | BPT2918A | Mental Heath Supervision Network | Passed | 0.0 | 4.00 |
 | 1/30/2024 | BPT1574A | Gender Cohort | Passed | 0.0 | 4.00 |

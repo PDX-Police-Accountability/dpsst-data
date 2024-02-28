@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | PDS0630A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 1/26/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/25/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/25/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |

@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/21/2024
+  course: PDS0630A
+  title: Reserve Deputy Unit Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/26/2024
   course: PDS2347A
   title: Airway and Circulatory Training

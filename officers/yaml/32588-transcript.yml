@@ -51,28 +51,28 @@ certification_records:
   level: Supervisory
   status: Granted
   certificate_date: 2/15/2012
-  expiration_date: 3/21/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 3/10/2006
   certificate: Police Officer
   level: Advanced
   status: Granted
   certificate_date: 3/10/2006
-  expiration_date: 3/21/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 3/10/2006
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 3/10/2006
-  expiration_date: 3/21/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 4/15/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 4/15/1997
-  expiration_date: 3/21/2024
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 1/2/2025
