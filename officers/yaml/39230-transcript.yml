@@ -99,6 +99,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/15/2024
+  course: EGP1205A
+  title: Stop the Bleed/MARCH
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/15/2024
+  course: EGP0412A
+  title: SFST/DUII Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/11/2024
   course: EGP3507A
   title: ACAP Training

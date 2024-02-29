@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | BPT0377A | Outward Mindset | Passed | 0.0 | 6.50 |
 | 2/20/2024 | BPT4426A | Active Threat | Passed | 0.0 | 1.00 |
 | 2/20/2024 | BPT3556A | Use of Force | Passed | 0.0 | 2.00 |
 | 12/4/2023 | PDP3685A | 2023 Training PVO Refresher Training | Passed | 0.0 | 4.00 |

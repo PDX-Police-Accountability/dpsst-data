@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/20/2024
+  course: FGP1470A
+  title: MDT Protocols  Child Abuse Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 2/6/2024
   course: FGP2505A
   title: Creating the Culture for Behavioral Health

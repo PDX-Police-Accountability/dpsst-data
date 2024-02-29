@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | XDELETE3 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 3.00 |
 | 1/31/2024 | WLP2943A | Taser 7 Recertification | Passed | 0.0 | 2.00 |
 | 12/23/2023 | WLP1873A | Latino Network Training | Passed | 0.0 | 0.50 |
 | 12/7/2023 | WLP0697A | Defensive Tactics - Takedowns | Passed | 0.0 | 2.00 |

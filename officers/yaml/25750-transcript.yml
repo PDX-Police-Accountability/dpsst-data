@@ -106,10 +106,28 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/21/2024
+  course: BPT2630A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/21/2024
+  course: BPT4135A
+  title: Vehicle Stop Workshop II
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/20/2024
   course: BPT1042A
   title: Skills Lab Workshop
   status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/20/2024
+  course: BPT2456A
+  title: Crash Investigations Lab
+  status: Instructed
   score: '0.0'
   hours: '2.00'
 - date: 11/15/2023

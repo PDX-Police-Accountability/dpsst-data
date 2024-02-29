@@ -67,6 +67,18 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 2/15/2024
+  course: EGP1205A
+  title: Stop the Bleed/MARCH
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/15/2024
+  course: EGP0412A
+  title: SFST/DUII Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/29/2024
   course: EGP1944A
   title: 'Briefing:  Baltimore PD OIS Debrief'
@@ -151,6 +163,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 9/12/2023
+  course: EGP3115A
+  title: Prison Rape Elimination Act "PREA"
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 9/7/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 2/27/2024
+  certificate: Regulatory Specialist
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/3/2021
   certificate: Police Officer
   level: Basic
@@ -1827,4 +1834,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 10/7/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/13/2021
+  degree: Bachelor Science
+  school: Portland State University
+  major: Mechanical Engineering
+  hours: '197.0'

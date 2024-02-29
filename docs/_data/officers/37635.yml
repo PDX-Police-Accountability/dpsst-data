@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/15/2024
+  course: EGP1205A
+  title: Stop the Bleed/MARCH
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/11/2024
   course: EGP3507A
   title: ACAP Training

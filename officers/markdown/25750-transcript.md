@@ -43,7 +43,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | BPT2630A | Use of Force | Passed | 0.0 | 2.00 |
+| 2/21/2024 | BPT4135A | Vehicle Stop Workshop II | Passed | 0.0 | 1.00 |
 | 2/20/2024 | BPT1042A | Skills Lab Workshop | Passed | 0.0 | 2.00 |
+| 2/20/2024 | BPT2456A | Crash Investigations Lab | Instructed | 0.0 | 2.00 |
 | 11/15/2023 | OCS2898A | FTO | Passed | 0.0 | 24.00 |
 | 7/11/2023 | F6K2081A | CPR First Aid Training | Passed | 0.0 | 3.00 |
 | 1/17/2023 | BPT25732 | Behavioral Health APT In-Service Training | Instructed | 0.0 | 7.00 |

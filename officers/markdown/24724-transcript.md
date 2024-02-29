@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2024 | FGP1470A | MDT Protocols  Child Abuse Investigations | Passed | 0.0 | 1.25 |
 | 2/6/2024 | FGP2505A | Creating the Culture for Behavioral Health | Passed | 0.0 | 2.25 |
 | 1/26/2024 | FGP0368A | Human Trafficking Awareness-Roll Call Discussion | Passed | 0.0 | 0.50 |
 | 12/11/2023 | GBS3607A | LEDS- Inquiry/Entry Level Test | Passed | 0.0 | 12.00 |

@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 1/14/2026
   probation_date: ''
 training_records:
+- date: 2/21/2024
+  course: BPT0377A
+  title: Outward Mindset
+  status: Passed
+  score: '0.0'
+  hours: '6.50'
 - date: 2/20/2024
   course: BPT4426A
   title: Active Threat

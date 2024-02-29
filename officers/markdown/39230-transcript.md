@@ -44,6 +44,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 2/15/2024 | EGP1205A | Stop the Bleed/MARCH | Passed | 0.0 | 4.00 |
+| 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 1/11/2024 | EGP3507A | ACAP Training | Passed | 0.0 | 2.00 |
 | 1/11/2024 | EGP3418A | Bloodborne Pathogens | Passed | 0.0 | 1.50 |
 | 1/11/2024 | EGP4423A | CIT Training | Passed | 0.0 | 2.00 |

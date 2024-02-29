@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2024 | EGP1205A | Stop the Bleed/MARCH | Passed | 0.0 | 4.00 |
+| 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 1/29/2024 | EGP1944A | Briefing:  Baltimore PD OIS Debrief | Passed | 0.0 | 0.50 |
 | 1/11/2024 | EGP3507A | ACAP Training | Passed | 0.0 | 2.00 |
 | 1/11/2024 | EGP3418A | Bloodborne Pathogens | Passed | 0.0 | 1.50 |
@@ -56,6 +58,7 @@
 | 10/5/2023 | EGP1223A | Field Force MRT Briefing Training | Passed | 0.0 | 0.50 |
 | 9/14/2023 | EGP2604A | Belonging Training - Module 2 (Bias Training) | Passed | 0.0 | 4.00 |
 | 9/14/2023 | EGP3979A | ETHOS "Harnessing Leadership" | Passed | 0.0 | 3.00 |
+| 9/12/2023 | EGP3115A | Prison Rape Elimination Act "PREA" | Passed | 0.0 | 0.50 |
 | 9/7/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 9/7/2023 | EGP0629A | Pre-Academy: Defensive Tactics | Passed | 0.0 | 91.00 |
 | 8/28/2023 | EGP1699A | Ethos Academy - Ethics Module 2 | Passed | 0.0 | 1.00 |

@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 2/27/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 3/19/2019 | Police Officer | Basic | Granted | 3/19/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -30,6 +31,7 @@
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 | 5/3/2013 | Bachelor Science | All Other Education Institutes |  | 133.0 |
+| 3/14/2006 | Associate Science | All Other Education Institutes | Criminal Justice | 92.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

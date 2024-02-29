@@ -54,6 +54,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 2/15/2024
+  course: EGP0412A
+  title: SFST/DUII Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/11/2023
   course: OSH0030A
   title: Ethics Training

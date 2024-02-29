@@ -82,6 +82,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/20/2024
+  course: SVP4387A
+  title: Stop Stick Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/20/2024
+  course: SVP4209A
+  title: Urban Rifle Review and Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/14/2024
   course: AVP2257A
   title: Marion County Leadership Monthly Meeting
