@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 10.00 |
 | 1/15/2024 | PDP3946A | 2024 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |
 | 12/20/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
@@ -100,6 +101,7 @@
 | 3/27/2023 | PDP38486 | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/20/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/15/2023 | PDP2642A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 3/13/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 3/8/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
 | 3/8/2023 | PDP40514 | 2023 Microsoft Outlook Online Recording | Passed | 0.0 | 1.00 |

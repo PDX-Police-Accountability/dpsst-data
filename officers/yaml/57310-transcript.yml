@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/21/2024
+  course: PDP0192A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/20/2023
   course: PDP4150A
   title: DIR 0630.05 Chief's Message
@@ -463,6 +469,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/15/2023
+  course: PDP2642A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/1/2023
   course: PDP22623
   title: 2023 CNT Crisis Negotiation Team Annual Training

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2024 | OSH2091A | OSP 2024 Patrol Tactics In-Service | Passed | 0.0 | 12.00 |
 | 2/11/2024 | OSH1491A | OSP Recruit Post Academy 23-04 Active Threat | Instructed | 0.0 | 8.00 |
 | 2/7/2024 | OSH3804A | Building Search, Manual Breach, Active Threat | Instructed | 0.0 | 8.00 |
 | 2/1/2024 | OSH2401A | Post-Academy Rifle | Instructed | 0.0 | 32.00 |

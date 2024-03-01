@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 10.00 |
+| 2/21/2024 | PDP0192A | 2024 CNT Crisis Negotiation Team Annual Training | Instructed | 0.0 | 10.00 |
 | 12/6/2023 | PDP3510A | 2023 EAP Wellness | Passed | 0.0 | 6.00 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/4/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
@@ -91,6 +93,7 @@
 | 3/16/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/16/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/16/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/15/2023 | PDP2642A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 3/5/2023 | PDP02750 | IACP Officer Safety and Wellness Symposium | Passed | 0.0 | 24.00 |
 | 3/1/2023 | PDP22623 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
 | 2/28/2023 | PDP39581 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |

@@ -374,6 +374,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 3/15/2023
+  course: PDP2642A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/14/2023
   course: PDP2387A
   title: 2023-1 All Sworn In-Service Field Arrest

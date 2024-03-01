@@ -482,6 +482,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/15/2023
+  course: PDP2642A
+  title: 2023 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/8/2023
   course: PDP40514
   title: 2023 Microsoft Outlook Online Recording

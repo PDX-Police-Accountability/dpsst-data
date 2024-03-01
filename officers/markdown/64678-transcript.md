@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/14/2024 | REG4443A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
+| 2/14/2024 | REG1825A | INTOX 8000 (6 hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/3/2024 | PLS0311A | 2023 Lexipol DTB's | Passed | 0.0 | 4.00 |
 | 12/31/2023 | PLS0352A | PLS 2023 Les 11 Six Year old Taken Man Shoots | Passed | 0.0 | 1.00 |
 | 12/27/2023 | PLS0605A | PLS 2029 Les 9 2 year old With Gunshot | Passed | 0.0 | 1.00 |
