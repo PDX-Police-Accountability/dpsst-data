@@ -40,6 +40,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/25/2024 | PDP3549A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
+| 2/25/2024 | PDP1260A | 2023-1 In Service MFF Formations Online Recording | Passed | 0.0 | 1.00 |
+| 2/19/2024 | PDP1227A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 2/18/2024 | PDP3331A | 2023-1 In Service MFF Arrest Procedures | Passed | 0.0 | 0.50 |
+| 2/16/2024 | PDP3900A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
+| 2/3/2024 | PDP1958A | 2023-1 In Service Crowd Mgmt Legal Updates 2 | Passed | 0.0 | 1.00 |
+| 2/1/2024 | PDP2186A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
+| 2/1/2024 | PDP1763A | 2023-1 In Service Crowd Mgmt Legal Updates 1 | Passed | 0.0 | 1.00 |
+| 2/1/2024 | PDP3106A | 2023-1 In Service Crowd Mgmt Police Role | Passed | 0.0 | 1.50 |
+| 2/1/2024 | PDP0247A | 2023-1 In Service Crowd Mgmt Use of Force 40mm OC | Passed | 0.0 | 0.50 |
+| 2/1/2024 | PDP4506A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
+| 2/1/2024 | PDP2938A | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
+| 2/1/2024 | PDP4513A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
 | 8/9/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 7/21/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/6/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: BNP3757A
+  title: UAS montly training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/19/2024
   course: BNP0288A
   title: Dangers of Lithium Batteries

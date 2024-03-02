@@ -61,6 +61,84 @@ certification_records:
   expiration_date: 7/7/2024
   probation_date: ''
 training_records:
+- date: 2/25/2024
+  course: PDP3549A
+  title: 2023-1 In Service MFF OPS Planned vs Spontaneous
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/25/2024
+  course: PDP1260A
+  title: 2023-1 In Service MFF Formations Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2024
+  course: PDP1227A
+  title: 2023-1 In Service Wellness Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2024
+  course: PDP3331A
+  title: 2023-1 In Service MFF Arrest Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/16/2024
+  course: PDP3900A
+  title: 2023-1 In Service Crowd Mgmt Baton
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/3/2024
+  course: PDP1958A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/2024
+  course: PDP2186A
+  title: 2023-1 In Service APRGasMask Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2024
+  course: PDP1763A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/2024
+  course: PDP3106A
+  title: 2023-1 In Service Crowd Mgmt Police Role
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/1/2024
+  course: PDP0247A
+  title: 2023-1 In Service Crowd Mgmt Use of Force 40mm OC
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2024
+  course: PDP4506A
+  title: 2023-1 In Service Crowd Theory Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/1/2024
+  course: PDP2938A
+  title: 2023-1 In Service Force Reporting Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2024
+  course: PDP4513A
+  title: 2023-1 In Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 8/9/2023
   course: PDP1348A
   title: 2023 DIR 0620.00 BWC Use and Management

@@ -29,6 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/24/2012 | Bachelor Science | Portland State University | Criminal Justice | 84.0 |
 | 12/15/2010 | No Degree | George Fox University |  | 15.0 |
 | 3/19/2010 | Associate Arts | Mt Hood Community College |  | 101.0 |
 ## Training

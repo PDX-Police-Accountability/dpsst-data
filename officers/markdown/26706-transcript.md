@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/31/2024 | PDS3056A | Corrections Liability | Passed | 0.0 | 1.00 |
+| 1/31/2024 | PDS3505A | Suicide Prevention | Passed | 0.0 | 1.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2023 | PDS0694A | Active Threat | Passed | 0.0 | 8.00 |
 | 12/15/2023 | PDS3838A | Anti-Bias Training | Passed | 0.0 | 2.00 |

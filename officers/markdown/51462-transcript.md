@@ -30,6 +30,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/21/2024 | PDS0630A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 1/26/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/22/2024 | PDS0907A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS4082A | Benchmark Analytics Refresher | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDS2881A | Emergency Management | Passed | 0.0 | 0.50 |

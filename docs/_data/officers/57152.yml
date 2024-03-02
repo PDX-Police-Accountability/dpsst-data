@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2024
+  course: PDP4018A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 11/16/2023
   course: PDP2477A
   title: 2023-2 All Sworn In-Service ABLE Scenario
@@ -2492,6 +2498,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 1/25/2024
+  expiration_date: 1/25/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/24/2024
+  course: PDS0907A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

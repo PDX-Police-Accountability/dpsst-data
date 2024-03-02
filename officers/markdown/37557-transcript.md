@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |
 | 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/22/2023 | LOP2500A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
 | 11/7/2023 | LOP0957A | Adult/Child CPR AED | Passed | 0.0 | 2.00 |

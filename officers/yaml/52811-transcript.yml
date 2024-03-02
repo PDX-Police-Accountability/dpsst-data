@@ -57,6 +57,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/20/2024
+  course: PDS1631A
+  title: Range Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/30/2024
+  course: PDS3870A
+  title: Defensive Tactics IDC
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/20/2024
   course: PDS2347A
   title: Airway and Circulatory Training
@@ -75,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/19/2024
+  course: PDS0907A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

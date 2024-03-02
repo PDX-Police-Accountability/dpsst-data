@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2024 | BNP3757A | UAS montly training | Passed | 0.0 | 8.00 |
 | 2/19/2024 | BNP0288A | Dangers of Lithium Batteries | Passed | 0.0 | 0.50 |
 | 2/6/2024 | PVS0282A | Apprehending Fleeing Suspects | Passed | 0.0 | 4.00 |
 | 1/30/2024 | BNP3855A | DUII refresher | Passed | 0.0 | 4.00 |

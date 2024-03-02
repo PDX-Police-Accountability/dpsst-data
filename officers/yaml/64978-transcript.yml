@@ -36,5 +36,11 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 2/27/2024
+  course: SMP3366A
+  title: Mental Health First Aid
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 attribute_records: []
 education_records: []

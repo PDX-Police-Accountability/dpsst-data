@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/23/2024
+  course: PDS3191A
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/9/2024
   course: VND4222A
   title: ICS-300 Intermediate ICS For Expanding Incidents
@@ -92,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/18/2024
+  course: PDS0907A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

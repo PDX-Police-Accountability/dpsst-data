@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/6/2024 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 8/24/2022 | Grant County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 8/27/2018 | Grant County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 8/20/2018 | Wheeler County Sheriff's Office | Retired | Undrsherif |  |  |

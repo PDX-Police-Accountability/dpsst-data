@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2024
+  course: HBP1265A
+  title: PoliceOne EVOC - Professional Police Driving
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/1/2024
   course: HBP3139A
   title: CPR/First Aid/AED

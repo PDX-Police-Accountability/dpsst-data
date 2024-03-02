@@ -63,7 +63,6 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/6/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
-| 2/5/2024 | XDELETE2 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 4.00 |
 | 2/5/2024 | OSH0318A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
 | 2/5/2024 | OSH4193A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
 | 1/25/2024 | OSH1847A | Firearms qualification | Passed | 0.0 | 1.00 |

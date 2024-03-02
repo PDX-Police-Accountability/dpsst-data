@@ -32,6 +32,7 @@
 | 1/26/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/25/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/25/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
+| 1/25/2024 | PDS0907A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
 | 12/25/2023 | PDS4038A | PREA | Passed | 0.0 | 2.00 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS4082A | Benchmark Analytics Refresher | Passed | 0.0 | 0.50 |

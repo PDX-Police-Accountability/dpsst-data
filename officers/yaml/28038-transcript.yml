@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/23/2024
+  course: PDS3191A
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/20/2024
   course: PDS2347A
   title: Airway and Circulatory Training
@@ -92,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/19/2024
+  course: PDS0907A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -3737,10 +3749,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 9/30/2023
   expiration_date: 9/30/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 2/16/2022
-  expiration_date: 2/16/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

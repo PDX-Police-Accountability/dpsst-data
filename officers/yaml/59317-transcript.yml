@@ -2235,4 +2235,19 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/21/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/15/2017
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '55.6'
+- date: 5/25/2012
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Business Administration
+  hours: '123.0'
+- date: 9/15/2010
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '4.0'

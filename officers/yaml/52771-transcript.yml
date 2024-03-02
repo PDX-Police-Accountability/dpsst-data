@@ -3332,6 +3332,11 @@ attribute_records:
   effective_date: 2/26/2013
   expiration_date: ''
 education_records:
+- date: 3/24/2012
+  degree: Bachelor Science
+  school: Portland State University
+  major: Criminal Justice
+  hours: '84.0'
 - date: 12/15/2010
   degree: No Degree
   school: George Fox University

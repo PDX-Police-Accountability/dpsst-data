@@ -28,6 +28,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/15/2017 | No Degree | All Other Education Institutes |  | 55.6 |
+| 5/25/2012 | Bachelor Arts | All Other Education Institutes | Business Administration | 123.0 |
+| 9/15/2010 | No Degree | All Other Education Institutes |  | 4.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
