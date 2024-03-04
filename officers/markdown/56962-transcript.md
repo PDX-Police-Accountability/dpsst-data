@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2024 | HBN2648A | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 2/22/2024 | HBN3452A | DTs - OC Spray Certification | Passed | 0.0 | 4.00 |
 | 1/5/2024 | HBN3291A | 24-0716  (LEDS - Recertification) | Passed | 0.0 | 1.00 |
 | 12/12/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/16/2023 | HBN3768A | Search and Seizure Training | Passed | 0.0 | 8.00 |

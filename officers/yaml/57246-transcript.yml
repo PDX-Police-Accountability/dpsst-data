@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: HBN2648A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/22/2024
+  course: HBN3452A
+  title: DTs - OC Spray Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/14/2023
   course: HBN2405A
   title: DEI - Eradicate Hate Global Summit

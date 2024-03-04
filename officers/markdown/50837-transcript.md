@@ -17,6 +17,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/1/2024 | Police Officer | Advanced | App Recd |  |  |  |
+| 3/1/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 12/22/2010 | Police Officer | Basic | Granted | 12/22/2010 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,7 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/15/2008 | No Degree | Portland State University |  | 12.0 |
+| 6/16/2019 | Bachelor Science | Portland State University | Criminal Justice | 80.0 |
 | 6/15/2008 | No Degree | Clackamas Community College |  | 77.0 |
 | 6/15/2008 | No Degree | Portland Community College |  | 44.0 |
 ## Training

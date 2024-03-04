@@ -41,6 +41,7 @@
 | 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |
 | 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 4.00 |
 | 12/22/2023 | LOP2500A | Confrontational Simulation Training | Passed | 0.0 | 1.50 |
+| 12/14/2023 | LOP3822A | Advanced Mobile Device Examinar Program | Passed | 0.0 | 76.00 |
 | 11/30/2023 | VND1875A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 11/8/2023 | LOP0957A | Adult/Child CPR AED | Passed | 0.0 | 2.00 |
 | 10/13/2023 | LOP1707A | Firearms Training | Passed | 0.0 | 4.00 |

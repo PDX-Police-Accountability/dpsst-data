@@ -34,6 +34,10 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/15/2015 | No Degree | All Other Education Institutes |  | 62.0 |
+| 5/11/2000 | Bachelor Science | All Other Education Institutes |  | 64.0 |
+| 6/15/1999 | No Degree | All Other Education Institutes |  | 47.0 |
+| 3/15/1998 | No Degree | All Other Education Institutes |  | 93.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

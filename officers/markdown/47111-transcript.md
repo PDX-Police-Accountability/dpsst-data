@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/9/2024 | Corrections Officer | Advanced | App Recd |  |  |  |
+| 3/1/2024 | Corrections Officer | Advanced | Granted | 3/1/2024 |  |  |
 | 6/3/2021 | Corrections Officer | Intermediate | Granted | 6/3/2021 |  |  |
 | 11/19/2015 | Corrections Officer | Basic | Granted | 11/19/2015 |  |  |
 ## Attributes

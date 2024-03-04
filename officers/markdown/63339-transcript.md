@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/23/2023 |  |
+| Certification Cards | First Aid and CPR | 1/18/2023 | 1/18/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -67,6 +68,7 @@
 | 5/12/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/17/2023 | REG1512A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 3/23/2023 | REG24193 | Intox 8000 | Passed | 0.0 | 6.00 |
+| 1/18/2023 | PDP3612A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
 | 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |

@@ -30,6 +30,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/10/2024
+  course: PDP0720A
+  title: 2023-1 In Service APRGasMask Recorded Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2024
+  course: PDP2485A
+  title: 2023-1 In Service Crowd Mgmt Baton
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2024
+  course: PDP3872A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 1
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/10/2024
+  course: PDP1795A
+  title: 2023-1 In Service Crowd Mgmt Legal Updates 2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/10/2024
+  course: PDP2712A
+  title: 2023-1 In Service Crowd Mgmt Police Role  Guide
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 1/10/2024
+  course: PDP2466A
+  title: 2023-1 In Service Crowd Mgmt Use of Force 40mm OC
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2024
+  course: PDP0546A
+  title: 2023-1 In Service Crowd Theory Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/10/2024
+  course: PDP1362A
+  title: 2023-1 In Service Force Reporting Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2024
+  course: PDP2675A
+  title: 2023-1 In Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2024
+  course: PDP3172A
+  title: 2023-1 In Service MFF Arrest Procedures
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2024
+  course: PDP3271A
+  title: 2023-1 In Service MFF OPS Planned vs Spontaneous
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/10/2024
+  course: PDP0474A
+  title: 2023-1 In Service MFF Formations Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/10/2024
+  course: PDP2576A
+  title: 2023-1 In Service Wellness Online Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/9/2024
   course: PDP2437A
   title: CPR/First Aid

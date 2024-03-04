@@ -49,6 +49,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: HBN2648A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/22/2024
+  course: HBN3452A
+  title: DTs - OC Spray Certification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/5/2024
   course: HBN3291A
   title: 24-0716  (LEDS - Recertification)

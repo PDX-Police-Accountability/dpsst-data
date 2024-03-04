@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | WBP1688A | Briefing: Scene Control When Suspect Returns | Passed | 0.0 | 0.50 |
 | 1/30/2024 | WBP0846A | Defensive Tactics/OC/Baton/WRAP Restraint | Passed | 0.0 | 0.50 |
 | 12/31/2023 | WBP1034A | Fireams - 4th Quarter Qualification | Instructed | 0.0 | 0.50 |
 | 12/13/2023 | WBP3678A | Glock Operator's Course (OC) | Passed | 0.0 | 16.00 |

@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/23/2023 |  |
+| Certification Cards | First Aid and CPR | 1/18/2023 | 1/18/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -97,6 +98,7 @@
 | 1/19/2023 | PDP11663 | IS-800 National Response Framework | Passed | 0.0 | 3.00 |
 | 1/19/2023 | PDP00961 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 1/19/2023 | PDP05850 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
+| 1/18/2023 | PDP3612A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
 | 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
 | 1/12/2023 | PDP32121 | Pre Academy Firearms Training | Passed | 0.0 | 7.00 |
