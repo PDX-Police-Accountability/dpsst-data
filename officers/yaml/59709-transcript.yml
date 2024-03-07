@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/26/2024
+  course: BNP2971A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/22/2024
   course: BNP3757A
   title: UAS montly training

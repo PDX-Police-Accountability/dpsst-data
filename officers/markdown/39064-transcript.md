@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | TDP1840A | Tactical Disengagement and de-escalation | Passed | 0.0 | 1.50 |
 | 2/16/2024 | 24-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
 | 12/21/2023 | TDP2243A | Harassment in the work place | Passed | 0.0 | 1.00 |
 | 12/5/2023 | TDP3311A | Supervisor liability for Law Enforcement | Passed | 0.0 | 8.00 |

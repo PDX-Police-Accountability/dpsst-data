@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC3502A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
 | 1/11/2024 | OAC2266A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |

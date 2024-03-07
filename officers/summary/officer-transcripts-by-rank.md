@@ -679,7 +679,7 @@
 | Hamilton, Jason M. | 35427 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2001-12-12 | [md](../markdown/35427-transcript.md) - [yaml](../yaml/35427-transcript.yml) |
 | Caspar, Andrew H. | 35444 | Portland Police Bureau | Active | Police Officer | LOA | 2023-01-23 | [md](../markdown/35444-transcript.md) - [yaml](../yaml/35444-transcript.yml) |
 | Macaulay, John A. | 35563 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-03 | [md](../markdown/35563-transcript.md) - [yaml](../yaml/35563-transcript.yml) |
-| Storm, Richard L. | 35818 | Portland Police Bureau | Active | Police Officer | Hired | 1998-07-23 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
+| Storm, Richard L. | 35818 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-02-27 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
 | Miller, Herbert P. | 35819 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-27 | [md](../markdown/35819-transcript.md) - [yaml](../yaml/35819-transcript.yml) |
 | Ell, Kristine L. | 35914 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2008-01-15 | [md](../markdown/35914-transcript.md) - [yaml](../yaml/35914-transcript.yml) |
 | Maul, Lara M. | 36069 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-02-07 | [md](../markdown/36069-transcript.md) - [yaml](../yaml/36069-transcript.yml) |

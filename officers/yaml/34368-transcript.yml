@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2024
+  course: BNP2971A
+  title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/21/2024
   course: BNP1684A
   title: DUII refresher

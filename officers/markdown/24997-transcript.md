@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/31/2024 | PPP0703A | Developing Leadership | Passed | 0.0 | 1.00 |
 | 1/29/2024 | PPP2822A | Firearms Handgun/Rifle Qualification | Passed | 0.0 | 4.00 |
 | 1/9/2024 | PPP1663A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 11/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

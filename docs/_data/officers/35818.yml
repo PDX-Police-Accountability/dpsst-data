@@ -3,12 +3,18 @@ header_record:
   name: Storm, Richard L.
   dpsst_identifier: '35818'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 2/27/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 7/23/1998
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 1/27/2009
-  expiration_date: ''
+  expiration_date: 5/27/2024
   probation_date: ''
 - status_date: 1/27/2009
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 1/27/2009
-  expiration_date: ''
+  expiration_date: 5/27/2024
   probation_date: ''
 - status_date: 5/4/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/4/1999
-  expiration_date: ''
+  expiration_date: 5/27/2024
   probation_date: ''
 training_records:
 - date: 12/19/2023

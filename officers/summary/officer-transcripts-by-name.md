@@ -1499,7 +1499,7 @@
 | Stolzenberger, Kylie F. | 61102 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-03-24 | [md](../markdown/61102-transcript.md) - [yaml](../yaml/61102-transcript.yml) |
 | Stoner, Chad M. | 35816 | Portland Police Bureau | Inactive | Detective | Retired | 2023-07-17 | [md](../markdown/35816-transcript.md) - [yaml](../yaml/35816-transcript.yml) |
 | Storm, Julie M. | 50050 | Portland Police Bureau | Active | Police Officer | Hired | 2008-11-06 | [md](../markdown/50050-transcript.md) - [yaml](../yaml/50050-transcript.yml) |
-| Storm, Richard L. | 35818 | Portland Police Bureau | Active | Police Officer | Hired | 1998-07-23 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
+| Storm, Richard L. | 35818 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-02-27 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
 | Stowe, Randy D. | 44844 | Portland Police Bureau | Active | Police Officer | Hired | 2008-05-15 | [md](../markdown/44844-transcript.md) - [yaml](../yaml/44844-transcript.yml) |
 | Stradley, James M. | 16129 | Portland Police Bureau | Inactive | Police Officer | Retired | 2011-07-20 | [md](../markdown/16129-transcript.md) - [yaml](../yaml/16129-transcript.yml) |
 | Straub, Jason | 48469 | Portland Police Bureau | Active | Police Officer | Hired | 2007-08-16 | [md](../markdown/48469-transcript.md) - [yaml](../yaml/48469-transcript.yml) |

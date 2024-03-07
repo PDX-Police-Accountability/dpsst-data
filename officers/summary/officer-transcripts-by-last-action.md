@@ -172,7 +172,6 @@
 | Macaulay, John A. | 35563 | Portland Police Bureau | Active | Police Officer | Hired | 2005-02-03 | [md](../markdown/35563-transcript.md) - [yaml](../yaml/35563-transcript.yml) |
 | Rossetto, Catherine M. | 35807 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-06 | [md](../markdown/35807-transcript.md) - [yaml](../yaml/35807-transcript.yml) |
 | Quist, Amy S. | 35808 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
-| Storm, Richard L. | 35818 | Portland Police Bureau | Active | Police Officer | Hired | 1998-07-23 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
 | Hill, Anthony R. | 36236 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/36236-transcript.md) - [yaml](../yaml/36236-transcript.yml) |
 | Mathews, Stephanie D. | 36263 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-09-10 | [md](../markdown/36263-transcript.md) - [yaml](../yaml/36263-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
@@ -1606,6 +1605,7 @@
 | Gradwahl, Chad E. | 35226 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-18 | [md](../markdown/35226-transcript.md) - [yaml](../yaml/35226-transcript.yml) |
 | Merrill, Anthony J. | 35227 | Portland Police Bureau | Inactive | Detective | Retired | 2023-03-22 | [md](../markdown/35227-transcript.md) - [yaml](../yaml/35227-transcript.yml) |
 | Stoner, Chad M. | 35816 | Portland Police Bureau | Inactive | Detective | Retired | 2023-07-17 | [md](../markdown/35816-transcript.md) - [yaml](../yaml/35816-transcript.yml) |
+| Storm, Richard L. | 35818 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-02-27 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
 | Miller, Herbert P. | 35819 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-27 | [md](../markdown/35819-transcript.md) - [yaml](../yaml/35819-transcript.yml) |
 | Brace, Christopher D. | 35820 | Portland Police Bureau | Inactive | Detective | Retired | 2023-12-22 | [md](../markdown/35820-transcript.md) - [yaml](../yaml/35820-transcript.yml) |
 | Balcomb, Gene L. | 36042 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2019-12-02 | [md](../markdown/36042-transcript.md) - [yaml](../yaml/36042-transcript.yml) |

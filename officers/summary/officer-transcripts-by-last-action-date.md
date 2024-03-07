@@ -204,7 +204,6 @@
 | Carnighan, Lencin F. | 34792 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-07-07 | [md](../markdown/34792-transcript.md) - [yaml](../yaml/34792-transcript.yml) |
 | Quist, Amy S. | 35808 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | Mack, Jennifer D. | 37600 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/37600-transcript.md) - [yaml](../yaml/37600-transcript.yml) |
-| Storm, Richard L. | 35818 | Portland Police Bureau | Active | Police Officer | Hired | 1998-07-23 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |
 | Abrahamson, Susan D. | 31943 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
 | Hill, Anthony R. | 36236 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/36236-transcript.md) - [yaml](../yaml/36236-transcript.yml) |
 | Mathews, Stephanie D. | 36263 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-09-10 | [md](../markdown/36263-transcript.md) - [yaml](../yaml/36263-transcript.yml) |
@@ -1704,3 +1703,4 @@
 | Covarrubias, Ramon, Jr. | 65026 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65026-transcript.md) - [yaml](../yaml/65026-transcript.yml) |
 | Moosavi, Sayed J. | 65034 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65034-transcript.md) - [yaml](../yaml/65034-transcript.yml) |
 | Kelly, Cameron A. | 65039 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65039-transcript.md) - [yaml](../yaml/65039-transcript.yml) |
+| Storm, Richard L. | 35818 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-02-27 | [md](../markdown/35818-transcript.md) - [yaml](../yaml/35818-transcript.yml) |

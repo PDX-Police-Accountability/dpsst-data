@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | OCS2736A | FBU LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2023 | GSP1798A | 2023 Ethics In Service | Passed | 0.0 | 1.00 |

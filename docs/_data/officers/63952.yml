@@ -285,9 +285,9 @@ training_records:
 - date: 11/10/2023
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Incomplete
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 10/29/2023
   course: PDP0359A
   title: Amended DOJ Settlement Agreement

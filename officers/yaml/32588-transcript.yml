@@ -81,6 +81,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 3/1/2024
+  course: OCS2736A
+  title: FBU LEEDA Supervisor Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 1/18/2024
   course: GSP2616A
   title: Qucik Reaction Team/Identifying IED's

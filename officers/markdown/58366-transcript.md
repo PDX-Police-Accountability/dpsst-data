@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/28/2026 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -35,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2026 | OSH1143A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 12/11/2023 | OSH0030A | Ethics Training | Passed | 0.0 | 1.00 |

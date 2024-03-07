@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | OCS2736A | FBU LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 12/15/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/15/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/6/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

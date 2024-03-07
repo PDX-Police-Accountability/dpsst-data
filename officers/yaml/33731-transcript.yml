@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/20/2024
+  course: PDN0363A
+  title: Working with Interpreter Services
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/14/2024
   course: PDN1662A
   title: Field Applications-The 9th Circuit  U of F

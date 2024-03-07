@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2024
+  course: SDP1846A
+  title: Defensive Tactics Striking
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/9/2024
   course: SDP0316A
   title: Leadership Lessons Greatest TED Talks in History

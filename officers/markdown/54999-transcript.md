@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/29/2024 | HRS2380A | NORTAC: Room Clearing  Officer Down | Passed | 0.0 | 1.50 |
+| 2/29/2024 | HRS3141A | NORTAC: Location Scounting  Mission Planning | Passed | 0.0 | 2.00 |
 | 2/1/2024 | MOS3764A | NORTAC Operational Planning and Recon | Passed | 0.0 | 2.50 |
 | 2/1/2024 | MOS1470A | NORTAC Tac Med | Passed | 0.0 | 1.50 |
 | 1/4/2024 | MOS4372A | NORTAC - Low Light Range | Passed | 0.0 | 3.50 |

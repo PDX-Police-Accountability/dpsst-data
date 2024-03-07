@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | OCS2736A | FBU LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/16/2023 | PDP3507A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |

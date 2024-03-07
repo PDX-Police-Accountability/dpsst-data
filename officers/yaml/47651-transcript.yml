@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/1/2024
+  course: OCS2736A
+  title: FBU LEEDA Supervisor Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

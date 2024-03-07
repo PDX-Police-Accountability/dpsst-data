@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | PDA3432A | Use of Radio Communications | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDA3294A | 2023 Annual Firearms Training  Qualification | Passed | 0.0 | 4.00 |
 | 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 12/12/2023 | PDA0372A | Securus Investigation Training | Passed | 0.0 | 3.00 |
