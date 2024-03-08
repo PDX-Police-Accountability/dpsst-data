@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/21/2024 | WLP0973A | Brady Training | Passed | 0.0 | 1.00 |
+| 2/16/2024 | WLP2843A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 1/31/2024 | WLP2943A | Taser 7 Recertification | Passed | 0.0 | 2.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |

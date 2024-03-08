@@ -206,6 +206,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/1/2024
+  course: OSH1181A
+  title: Adult/Child CPR
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2024
+  course: OSH4000A
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2024
+  course: OSH3065A
+  title: Nalozone/Narcan
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2024
   course: OSH0318A
   title: Taser 7 New User Certification
@@ -3543,6 +3561,14 @@ training_records:
   score: '0.0'
   hours: '281.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 3/1/2024
+  expiration_date: 3/31/2026
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 3/1/2024
+  expiration_date: 3/31/2026
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 1/25/2024

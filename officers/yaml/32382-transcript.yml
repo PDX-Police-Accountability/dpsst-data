@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/29/2024
+  course: VND0719A
+  title: Basic Background Investigations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/15/2024
   course: BPS2239A
   title: MDT Procedures, Sexual Harassment Laws  Title IX

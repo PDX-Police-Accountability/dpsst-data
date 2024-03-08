@@ -47,6 +47,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 3/1/2024 | 3/31/2026 |
+| Certification Cards | First Aid | 3/1/2024 | 3/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/25/2024 |  |
 | Code of Ethics | Telecommunication Signed | 9/11/2023 |  |
 | Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
@@ -63,6 +65,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/6/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
+| 3/1/2024 | OSH1181A | Adult/Child CPR | Passed | 0.0 | 4.00 |
+| 3/1/2024 | OSH4000A | First Aid | Passed | 0.0 | 4.00 |
+| 3/1/2024 | OSH3065A | Nalozone/Narcan | Passed | 0.0 | 0.50 |
 | 2/5/2024 | OSH0318A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
 | 2/5/2024 | OSH4193A | Taser 7 New User Certification | Passed | 0.0 | 4.00 |
 | 1/25/2024 | OSH1847A | Firearms qualification | Passed | 0.0 | 1.00 |

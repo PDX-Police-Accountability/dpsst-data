@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 1/31/2024 | REG3800A | DID-SFST (24 hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/11/2024 | REG1606A | INTOX 8000 (6 hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/16/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/12/2023 | PDP0230A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |

@@ -23,10 +23,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/6/2024 | Police Officer | Management | Granted | 3/6/2024 |  |  |
 | 5/24/2022 | Police Officer | Advanced | Reactivatd | 9/23/2008 |  |  |
 | 5/24/2022 | Police Officer | Basic | Reactivatd | 2/5/1993 |  |  |
 | 5/24/2022 | Police Officer | Intermediate | Reactivatd | 9/23/2008 |  |  |
-| 5/24/2022 | Police Officer | Management | App Incmpl |  | 7/24/2022 |  |
 | 5/24/2022 | Police Officer | Supervisory | Reactivatd | 12/17/2008 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
