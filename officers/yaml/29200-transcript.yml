@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2024
+  course: VND1009A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/15/2023
   course: PDA3294A
   title: 2023 Annual Firearms Training  Qualification
@@ -171,6 +177,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/4/2023
+  course: PDS4239A
+  title: Flying While Armed
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/27/2022
   course: PDS09552
   title: OSHA

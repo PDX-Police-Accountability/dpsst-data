@@ -123,6 +123,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/29/2024
+  course: SVP1436A
+  title: Addressing Demand, No Buyer No Victim
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: SVP1681A
+  title: Human Trafficking 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: SVP2453A
+  title: Human Trafficking Indicaters  Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: SVP1639A
+  title: Engaging Trafficking Victims Best Practice
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/29/2024
+  course: SVP2046A
+  title: Commercial Vehcile Industry Combating Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/8/2024
   course: SVP2767A
   title: Hobble Refresher

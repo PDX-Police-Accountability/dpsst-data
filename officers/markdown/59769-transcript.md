@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
+| 2/24/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
+| 2/23/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
 | 10/16/2023 | HSU1780A | Navigating Injustice | Passed | 0.0 | 1.00 |
 | 10/16/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |
 | 10/16/2023 | HSU0451A | TASER Updates Recertification | Passed | 0.0 | 2.00 |

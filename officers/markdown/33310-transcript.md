@@ -46,6 +46,7 @@
 | 3/1/2024 | MMP2598A | Calibre Press Online Training Videos, Jan-Feb | Passed | 0.0 | 2.25 |
 | 2/12/2024 | HBS1348A | Digital Evidence for Law Enforcement | Passed | 0.0 | 7.25 |
 | 1/30/2024 | MMP0420A | Internet Security | Passed | 0.0 | 0.50 |
+| 1/17/2024 | MMP0402A | Law Updates | Passed | 0.0 | 1.00 |
 | 11/22/2023 | MMP2647A | Alzheimer's Training | Passed | 0.0 | 1.00 |
 | 11/15/2023 | MMP3056A | Low Light Firearms Training | Passed | 0.0 | 3.00 |
 | 11/14/2023 | MMP3591A | Taser Annual Operator Update | Passed | 0.0 | 1.00 |

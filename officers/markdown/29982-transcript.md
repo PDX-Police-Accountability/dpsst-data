@@ -41,6 +41,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 2/29/2024 | SVP1436A | Addressing Demand, No Buyer No Victim | Passed | 0.0 | 1.00 |
+| 2/29/2024 | SVP1681A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
+| 2/29/2024 | SVP2453A | Human Trafficking Indicaters  Law Enforcement | Passed | 0.0 | 1.00 |
+| 2/29/2024 | SVP1639A | Engaging Trafficking Victims Best Practice | Passed | 0.0 | 2.00 |
+| 2/29/2024 | SVP2046A | Commercial Vehcile Industry Combating Trafficking | Passed | 0.0 | 1.00 |
 | 2/20/2024 | SVP4387A | Stop Stick Refresher | Passed | 0.0 | 1.00 |
 | 2/20/2024 | SVP4209A | Urban Rifle Review and Maintenance | Passed | 0.0 | 2.00 |
 | 2/14/2024 | AVP2257A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
@@ -87,6 +92,7 @@
 | 9/27/2023 | F6R1747A | Mitigating Potential Law Enforcement Risk | Passed | 0.0 | 2.00 |
 | 9/27/2023 | F6R3087A | RITE for Law Enforcement | Passed | 0.0 | 2.00 |
 | 9/17/2023 | SVP3131A | De-Escalation and Minimizing Use of Force | Passed | 0.0 | 2.00 |
+| 9/14/2023 | F1523883 | FBI National Academy | Passed | 0.0 | 270.00 |
 | 8/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 7/12/2023 | SVP0222A | MILO Training/Use of Force Decision Making | Passed | 0.0 | 1.00 |
 | 7/5/2023 | SVP1102A | Firearms Qualification and Drills | Passed | 0.0 | 4.00 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/24/2024 | MLP2661A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 12/27/2023 | MLP0397A | Night Range | Instructed | 0.0 | 3.00 |
 | 12/7/2023 | VND0508A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/7/2023 | VND0894A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

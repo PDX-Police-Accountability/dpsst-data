@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/28/2024 | TAP0313A | TASER Certification/Recert | Instructed | 0.0 | 0.50 |
+| 2/22/2024 | TAP3975A | 2024 ODOT Traffic Safety Conference | Passed | 0.0 | 16.00 |
+| 2/18/2024 | TAP0996A | BloodBorne Pathogens for First Responders | Passed | 0.0 | 1.00 |
+| 2/15/2024 | TAP4532A | Anti Harassment In The Workplace | Passed | 0.0 | 1.00 |
+| 2/13/2024 | TAP2454A | Anti-Bias Training for Law Enforcement | Passed | 0.0 | 2.00 |
 | 2/9/2024 | ADP3715A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 12/4/2023 | TAP2099A | Mock Trial Training | Passed | 0.0 | 4.00 |
 | 11/7/2023 | TAP4029A | Understanding and Responding to Excited Delirium | Passed | 0.0 | 1.00 |

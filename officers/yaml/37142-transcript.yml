@@ -119,6 +119,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/6/2024
+  course: SPP0424A
+  title: Control Tactics - Physical Apprehension Techniques
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/15/2024
   course: SPP1569A
   title: Forensic Intensive Treatment Team (F.I.T.T.)

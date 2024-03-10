@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
+| 2/24/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
+| 2/23/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
 | 10/26/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 10/21/2023 | HSU2948A | EVOC | Passed | 0.0 | 3.00 |
 | 10/21/2023 | HSU0850A | Post OIS Procedures | Passed | 0.0 | 3.00 |

@@ -82,6 +82,36 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/29/2024
+  course: SVP1436A
+  title: Addressing Demand, No Buyer No Victim
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: SVP1681A
+  title: Human Trafficking 101
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: SVP2453A
+  title: Human Trafficking Indicaters  Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: SVP1639A
+  title: Engaging Trafficking Victims Best Practice
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/29/2024
+  course: SVP2046A
+  title: Commercial Vehcile Industry Combating Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/20/2024
   course: SVP4387A
   title: Stop Stick Refresher
@@ -358,6 +388,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 9/14/2023
+  course: F1523883
+  title: FBI National Academy
+  status: Passed
+  score: '0.0'
+  hours: '270.00'
 - date: 8/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

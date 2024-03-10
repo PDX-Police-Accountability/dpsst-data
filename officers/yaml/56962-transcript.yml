@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2024
+  course: HBS1654A
+  title: Officer Safety - Weapons Familiarization
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/22/2024
   course: HBN2648A
   title: Defensive Tactics

@@ -100,6 +100,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/2/2024
+  course: HSU1542A
+  title: Red Dot Sight Operator Course 5
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/24/2024
+  course: HSU1542A
+  title: Red Dot Sight Operator Course 5
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/23/2024
+  course: HSU1542A
+  title: Red Dot Sight Operator Course 5
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/14/2024
   course: HSU2342A
   title: Red Dot Sight Operator Course

@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Instructed | 0.0 | 10.00 |
+| 2/24/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Instructed | 0.0 | 10.00 |
+| 2/23/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Instructed | 0.0 | 10.00 |
 | 1/14/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 1/7/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |
 | 1/6/2024 | HSU2342A | Red Dot Sight Operator Course | Instructed | 0.0 | 10.00 |

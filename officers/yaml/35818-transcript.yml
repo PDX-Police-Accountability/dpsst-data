@@ -3957,6 +3957,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Signed
+  effective_date: 3/7/2024
+  expiration_date: ''
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

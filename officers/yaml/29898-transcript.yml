@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/29/2024
+  course: PDS2810A
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/25/2024
+  course: PDS4279A
+  title: Flying While Armed
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/22/2024
   course: PDS3177A
   title: Bloodborne Pathogens

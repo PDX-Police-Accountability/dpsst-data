@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2024 | VND1009A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/15/2023 | PDA3294A | 2023 Annual Firearms Training  Qualification | Passed | 0.0 | 4.00 |
 | 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 12/12/2023 | PDA0372A | Securus Investigation Training | Passed | 0.0 | 3.00 |
@@ -56,6 +57,7 @@
 | 2/10/2023 | PDS20684 | Adult Protective Services Overview | Passed | 0.0 | 1.00 |
 | 1/31/2023 | PDS44545 | Power DMS | Passed | 0.0 | 0.50 |
 | 1/30/2023 | PDS23369 | Defensive Tactics | Passed | 0.0 | 8.00 |
+| 1/4/2023 | PDS4239A | Flying While Armed | Passed | 0.0 | 1.00 |
 | 12/27/2022 | PDS09552 | OSHA | Passed | 0.0 | 2.00 |
 | 12/27/2022 | PDS13163 | Gun Dispossession Enforcement  ERPO | Passed | 0.0 | 1.00 |
 | 12/1/2022 | PDS16690 | Firearms Training | Passed | 0.0 | 3.00 |

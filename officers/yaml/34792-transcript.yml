@@ -56,6 +56,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2024
+  course: TAP0313A
+  title: TASER Certification/Recert
+  status: Instructed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/22/2024
+  course: TAP3975A
+  title: 2024 ODOT Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/18/2024
+  course: TAP0996A
+  title: BloodBorne Pathogens for First Responders
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/15/2024
+  course: TAP4532A
+  title: Anti Harassment In The Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2024
+  course: TAP2454A
+  title: Anti-Bias Training for Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/9/2024
   course: ADP3715A
   title: Tactical Combat Casualty Care

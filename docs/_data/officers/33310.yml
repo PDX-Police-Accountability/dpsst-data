@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/17/2024
+  course: MMP0402A
+  title: Law Updates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/22/2023
   course: MMP2647A
   title: Alzheimer's Training

@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/24/2024
+  course: MLP2661A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/27/2023
   course: MLP0397A
   title: Night Range

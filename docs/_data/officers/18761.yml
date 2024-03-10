@@ -66,6 +66,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/2/2024
+  course: HSU1542A
+  title: Red Dot Sight Operator Course 5
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/24/2024
+  course: HSU1542A
+  title: Red Dot Sight Operator Course 5
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/23/2024
+  course: HSU1542A
+  title: Red Dot Sight Operator Course 5
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 10/26/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

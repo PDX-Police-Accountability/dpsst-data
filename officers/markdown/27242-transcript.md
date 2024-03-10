@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/6/2024 | SPP0424A | Control Tactics - Physical Apprehension Techniques | Passed | 0.0 | 4.00 |
 | 2/15/2024 | SPP1569A | Forensic Intensive Treatment Team (F.I.T.T.) | Passed | 0.0 | 0.50 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 3.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

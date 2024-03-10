@@ -48,6 +48,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/29/2024 | SVP1436A | Addressing Demand, No Buyer No Victim | Passed | 0.0 | 1.00 |
+| 2/29/2024 | SVP1681A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
+| 2/29/2024 | SVP2453A | Human Trafficking Indicaters  Law Enforcement | Passed | 0.0 | 1.00 |
+| 2/29/2024 | SVP1639A | Engaging Trafficking Victims Best Practice | Passed | 0.0 | 2.00 |
+| 2/29/2024 | SVP2046A | Commercial Vehcile Industry Combating Trafficking | Passed | 0.0 | 1.00 |
 | 2/8/2024 | SVP2767A | Hobble Refresher | Passed | 0.0 | 0.25 |
 | 2/1/2024 | SVP3302A | Taser Annual Recertification | Passed | 0.0 | 1.00 |
 | 1/10/2024 | BPT1261A | Use of Force Simulation Scenario Training | Passed | 0.0 | 0.75 |

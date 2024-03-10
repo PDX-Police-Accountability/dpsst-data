@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/29/2024
+  course: SAG1801A
+  title: ICAC 101
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/26/2024
   course: MFS3807A
   title: Online Child Exploitation Investigations
