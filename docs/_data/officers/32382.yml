@@ -62,6 +62,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/1/2024
+  course: HBS0517A
+  title: 2024 February ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/1/2024
+  course: HBS3998A
+  title: 2024 February ADA Patrol
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/1/2024
+  course: HBS3977A
+  title: 2024 February De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/1/2024
+  course: HBS0369A
+  title: 2024 February PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/1/2024
+  course: HBS0698A
+  title: 2024 February Personnel Guidelines  SH
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/29/2024
   course: VND0719A
   title: Basic Background Investigations

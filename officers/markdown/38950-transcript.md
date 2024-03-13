@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | HBS0369A | 2024 February PREA | Passed | 0.0 | 0.50 |
 | 1/31/2024 | HBS4232A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 12/23/2023 | HBS3071A | Bias Based Policing | Passed | 0.0 | 1.00 |
 | 12/7/2023 | OSA3159A | Challenging Law Dr Jack Enter, 12-7-23 | Passed | 0.0 | 8.00 |

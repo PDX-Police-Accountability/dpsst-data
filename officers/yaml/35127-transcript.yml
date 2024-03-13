@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/4/2024
+  course: SAG0046A
+  title: How Money Actually Moves
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 3/4/2024
+  course: SAG3861A
+  title: 'Shot in the Dark: Cold Case Homicide'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/31/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 2/8/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
+| 3/8/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 7/7/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

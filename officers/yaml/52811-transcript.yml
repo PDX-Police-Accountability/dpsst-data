@@ -63,6 +63,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/27/2024
+  course: PDS1119A
+  title: Glock Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/26/2024
+  course: PDS4516A
+  title: Range Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/20/2024
   course: PDS1631A
   title: Range Training

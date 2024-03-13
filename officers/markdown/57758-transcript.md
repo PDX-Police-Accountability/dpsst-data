@@ -28,7 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2007 | No Degree | All Other Education Institutes |  | 23.0 |
+| 6/15/2007 | No Degree | All Other Education Institutes |  | 92.0 |
 | 3/15/2003 | No Degree | Portland State University |  | 4.0 |
 ## Training
 | date | course | title | status | score | hours |

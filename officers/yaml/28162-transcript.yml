@@ -99,6 +99,12 @@ certification_records:
   expiration_date: 1/21/2026
   probation_date: ''
 training_records:
+- date: 3/11/2024
+  course: M00-19A
+  title: DPSST Adult Learning Core
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/21/2023
   course: VND0671
   title: Basic Background Investigations

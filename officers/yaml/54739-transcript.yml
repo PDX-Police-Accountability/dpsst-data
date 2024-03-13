@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/26/2024
+  course: PDS4516A
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/21/2024
   course: PDS0630A
   title: Reserve Deputy Unit Monthly Training

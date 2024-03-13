@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/26/2024
+  course: 23164A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

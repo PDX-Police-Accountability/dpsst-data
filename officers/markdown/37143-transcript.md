@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/26/2024 | PDP1625A | FBI Regional Crisis Negotiations Course | Passed | 0.0 | 36.00 |
+| 1/26/2024 | 23164A | 0 | Passed | 0.0 | 36.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC1165A | Case Study on Safeway Active Shooter | Passed | 0.0 | 1.50 |
 | 1/12/2024 | PDP0229A | OACP Executive Leadership Training Seminar | Passed | 0.0 | 19.00 |

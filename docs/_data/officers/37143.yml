@@ -63,6 +63,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/26/2024
+  course: 23164A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/12/2024
   course: OAC1817A
   title: The Crucial Connection - Chief/Mgr Relationships

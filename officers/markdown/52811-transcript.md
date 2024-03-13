@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2024 | PDS3208A | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
+| 2/27/2024 | PDS1119A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
+| 2/26/2024 | PDS4516A | Range Training | Instructed | 0.0 | 2.00 |
 | 2/20/2024 | PDS1631A | Range Training | Instructed | 0.0 | 2.00 |
 | 1/30/2024 | PDS3870A | Defensive Tactics IDC | Instructed | 0.0 | 4.00 |
 | 1/20/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
