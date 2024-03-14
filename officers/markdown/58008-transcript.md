@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2024 | PDP2063A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |
 | 12/6/2023 | PDP0984A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 12/1/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

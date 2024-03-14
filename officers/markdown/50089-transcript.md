@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/29/2024 | PDP0535A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/15/2024 | PDP3761A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 1/11/2024 | PDP4316A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/28/2023 | PDP4197A | 2023 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

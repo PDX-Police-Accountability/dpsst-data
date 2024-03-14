@@ -30,7 +30,7 @@
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/15/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
-| 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
+| 7/20/2023 | REG2860A | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 7/7/2023 | PDP1316A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 7/7/2023 | PDP3237A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/3/2023 | PDP1966A | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |

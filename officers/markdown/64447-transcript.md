@@ -29,7 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 2/8/2024 | REG1539A | INTOX 8000 (6 hours- included in BASIC) | Passed | 0.0 | 0.00 |
+| 2/8/2024 | REG1539A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 11/24/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 11/13/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/9/2023 | PDP1707A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

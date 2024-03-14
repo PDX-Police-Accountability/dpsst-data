@@ -197,7 +197,7 @@
 | 9/11/2019 | PDP38522 | PPB RegJIN New Hire Training | Passed | 0.0 | 18.00 |
 | 9/10/2019 | PDP09382 | 2019-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/6/2019 | 19-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
-| 7/22/2019 | F6D09202 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
+| 7/22/2019 | F6D09202 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 5/9/2019 | PDP14687 | IS-00100.c Incident Command System (ICS 100) | Passed | 0.0 | 3.00 |
 | 5/9/2019 | PDP30322 | IS-00700.b National Incident Management Sys (NIMS) | Passed | 0.0 | 3.00 |
 | 5/7/2019 | PDP13473 | 2019-1 Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |

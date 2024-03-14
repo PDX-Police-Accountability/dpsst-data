@@ -1946,7 +1946,7 @@ training_records:
   hours: '640.00'
 - date: 10/8/2019
   course: F6D43081
-  title: SFST/DID
+  title: SFST/DID (Hours Included in Basic)
   status: Passed
   score: '0.0'
   hours: '24.00'

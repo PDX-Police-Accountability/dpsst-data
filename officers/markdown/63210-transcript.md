@@ -108,7 +108,7 @@
 | 6/12/2023 | PDP1542A | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 6/9/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/25/2023 | REG0412A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
-| 4/20/2023 | REG32421 | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
+| 4/20/2023 | REG32421 | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 2/13/2023 | PDP26388 | FTEP Policy  Procedure Training - Wellness Intro | Passed | 0.0 | 1.50 |
 | 2/13/2023 | PDP36184 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 2/9/2023 | PDP06735 | Pre Dpsst Academy Firearms Training | Passed | 0.0 | 7.00 |

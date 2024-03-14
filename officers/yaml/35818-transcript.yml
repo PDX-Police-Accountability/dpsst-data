@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/1/2024
+  agency: Gladstone Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 2/27/2024
   agency: Portland Police Bureau
   action: Retired
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 1/27/2009
-  expiration_date: 5/27/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 1/27/2009
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 1/27/2009
-  expiration_date: 5/27/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 5/4/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 5/4/1999
-  expiration_date: 5/27/2024
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/19/2023

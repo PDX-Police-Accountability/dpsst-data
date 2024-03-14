@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/29/2024
+  course: PDP0535A
+  title: 2024 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 11/14/2023
   course: PDP3224A
   title: 2023-3 Range Qualification CEW

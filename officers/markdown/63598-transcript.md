@@ -83,7 +83,7 @@
 | 8/17/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Passed | 0.0 | 27.00 |
 | 8/11/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
-| 7/20/2023 | REG2860A | INTOX 8000 | Passed | 0.0 | 6.00 |
+| 7/20/2023 | REG2860A | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 7/14/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/14/2023 | OCS3296A | Handgun Retention | Passed | 0.0 | 1.00 |
 | 6/28/2023 | REG4060A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |

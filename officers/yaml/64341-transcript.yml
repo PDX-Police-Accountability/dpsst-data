@@ -32,13 +32,13 @@ training_records:
   hours: '50.00'
 - date: 1/31/2024
   course: REG3800A
-  title: DID-SFST (24 hours included in Basic)
+  title: DID/SFST (Hours included in Basic)
   status: Passed
   score: '0.0'
   hours: '0.00'
 - date: 1/11/2024
   course: REG1606A
-  title: INTOX 8000 (6 hours included in Basic)
+  title: Intox 8000 (Hours included in Basic)
   status: Passed
   score: '0.0'
   hours: '0.00'

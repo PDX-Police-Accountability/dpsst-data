@@ -30,6 +30,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 2/15/2024 | PDP3761A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 2/8/2024 | PDP0488A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 2/1/2024 | PDP3769A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/25/2024 | PDP2633A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
@@ -448,7 +450,7 @@
 | 9/11/2019 | PDP38522 | PPB RegJIN New Hire Training | Passed | 0.0 | 18.00 |
 | 9/10/2019 | PDP09382 | 2019-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 9/6/2019 | 19-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
-| 7/22/2019 | F6D09202 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
+| 7/22/2019 | F6D09202 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 5/9/2019 | PDP14687 | IS-00100.c Incident Command System (ICS 100) | Passed | 0.0 | 3.00 |
 | 5/9/2019 | PDP30322 | IS-00700.b National Incident Management Sys (NIMS) | Passed | 0.0 | 3.00 |
 | 5/8/2019 | PDP09042 | CPR/First Aid/AED | Passed | 0.0 | 2.00 |

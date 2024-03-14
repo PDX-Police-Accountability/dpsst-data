@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/29/2024
+  course: PDP0535A
+  title: 2024 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/5/2023
   course: PDP4146A
   title: 2023 ECIT In-Service

@@ -77,7 +77,7 @@
 | 7/6/2023 | PDP4288A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
 | 7/2/2023 | PDP3607A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 5/18/2023 | REG1282 | INTOX 8000  (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
+| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
 | 3/15/2023 | PDP25309 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 3/14/2023 | PDP3672A | 2023 Training Introduction to Wellness | Passed | 0.0 | 1.50 |
 | 3/13/2023 | PDP21925 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

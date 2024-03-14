@@ -110,7 +110,7 @@
 | 3/30/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/30/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
-| 3/23/2023 | REG24193 | Intox 8000 | Passed | 0.0 | 6.00 |
+| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 1/19/2023 | PDP27971 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 1/19/2023 | PDP05850 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 1/18/2023 | PDP00961 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |

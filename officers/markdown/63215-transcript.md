@@ -122,7 +122,7 @@
 | 4/17/2023 | PDP0224A | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
 | 4/14/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/24/2023 | REG0348A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
-| 2/23/2023 | REG09627 | INTOX 8000 | Passed | 0.0 | 6.00 |
+| 2/23/2023 | REG09627 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 12/8/2022 | PDP16418 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 12/5/2022 | PDP15851 | Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 12/1/2022 | PDP29991 | Firearms | Passed | 0.0 | 7.00 |

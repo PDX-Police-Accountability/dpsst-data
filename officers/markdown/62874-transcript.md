@@ -31,6 +31,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |
+| 1/3/2024 | PDP2305A | DOJ Updates with Deena Ryerson | Passed | 0.0 | 1.25 |
+| 1/3/2024 | PDP0852A | SFST Refresher Training | Passed | 0.0 | 1.50 |
 | 12/21/2023 | PDP2823A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 12/7/2023 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 11/1/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
@@ -153,11 +156,11 @@
 | 1/24/2023 | PDP09910 | Post Academy Firearms Training | Passed | 0.0 | 1.50 |
 | 1/23/2023 | PDP06046 | Post Academy Firearms Training | Passed | 0.0 | 7.00 |
 | 1/19/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 1/11/2023 | REG3491A | SFST-DID (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 1/11/2023 | REG3491A | SFST/DID (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 12/27/2022 | PDP11803 | 2021 Online In-Service Training Mental Wellness | Passed | 0.0 | 1.25 |
 | 12/12/2022 | BPT40870 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 12/12/2022 | BPT11358 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
-| 11/10/2022 | REG24959 | Intox 8000 | Passed | 0.0 | 6.00 |
+| 11/10/2022 | REG24959 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 9/8/2022 | PDP32886 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 9/6/2022 | PDP38929 | Firearms Training | Passed | 0.0 | 7.00 |
 | 9/2/2022 | PDP00747 | Firearms Training | Passed | 0.0 | 9.00 |

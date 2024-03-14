@@ -86,7 +86,7 @@
 | 8/16/2023 | PDP3428A | 2023 Training Red Dot Optic Transition Course | Passed | 0.0 | 27.00 |
 | 8/16/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/11/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 6/16/2023 | REG0912A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
+| 6/16/2023 | REG0912A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 4/13/2023 | PDP37726 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 4/13/2023 | PDP30174 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 4/13/2023 | PDP42092 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

@@ -133,7 +133,7 @@
 | 5/19/2020 | PDP11180 | 2020 In-Service Taser Classroom Part I Video | Passed | 0.0 | 0.50 |
 | 1/17/2020 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 12/12/2019 | F6D00272 | SFST/DID BP 394 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
-| 12/9/2019 | F6D22540 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
+| 12/9/2019 | F6D22540 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 12/7/2018 | PDF00867 | Principles Practices of NFPA 921/1033 | Passed | 0.0 | 40.00 |
 | 12/31/2009 | 09-1274 | Briefing Trg - Multiple Topics,Consolidated Roster | Passed | 0.0 | 0.75 |
 | 12/12/2009 | PDP27403 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |

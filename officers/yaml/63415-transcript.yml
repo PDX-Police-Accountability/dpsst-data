@@ -25,7 +25,7 @@ certification_records: []
 training_records:
 - date: 3/23/2023
   course: REG24193
-  title: Intox 8000
+  title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
   hours: '6.00'

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/18/2024 | PDP1226A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 1/1/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 12/22/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/22/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
@@ -139,10 +140,10 @@
 | 3/20/2023 | PDP12688 | Post Academy Firearms Training | Passed | 0.0 | 9.00 |
 | 3/17/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/7/2023 | PDP11356 | Control Tactics Training | Passed | 0.0 | 4.00 |
-| 3/2/2023 | REG00018 | DID/SFST | Passed | 0.0 | 24.00 |
+| 3/2/2023 | REG00018 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
 | 2/20/2023 | BPT31690 | Statistical Transparency of Policing Training | Passed | 0.0 | 0.00 |
 | 2/2/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
-| 1/26/2023 | REG17417 | INTOX 8000 | Passed | 0.0 | 6.00 |
+| 1/26/2023 | REG17417 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 11/5/2022 | PDP10589 | Firearms Training | Passed | 0.0 | 7.00 |
 | 11/4/2022 | PDP26684 | Firearms Training | Passed | 0.0 | 7.00 |
 | 11/3/2022 | PDP13295 | Firearms Training | Passed | 0.0 | 7.00 |

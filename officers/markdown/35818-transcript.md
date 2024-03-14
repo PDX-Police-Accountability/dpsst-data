@@ -12,14 +12,15 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/1/2024 | Gladstone Police Department | Hired | Police Off |  |  |
 | 2/27/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 7/23/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/27/2009 | Police Officer | Advanced | Granted | 1/27/2009 | 5/27/2024 |  |
-| 1/27/2009 | Police Officer | Intermediate | Granted | 1/27/2009 | 5/27/2024 |  |
-| 5/4/1999 | Police Officer | Basic | Granted | 5/4/1999 | 5/27/2024 |  |
+| 1/27/2009 | Police Officer | Advanced | Granted | 1/27/2009 |  |  |
+| 1/27/2009 | Police Officer | Intermediate | Granted | 1/27/2009 |  |  |
+| 5/4/1999 | Police Officer | Basic | Granted | 5/4/1999 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

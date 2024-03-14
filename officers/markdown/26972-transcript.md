@@ -36,7 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/31/2019 | RMP38420 | 2019 Policy Daily Training Bulletins | Passed | 0.0 | 3.27 |
-| 6/20/2019 | F6D13368 | DID / SFST | Passed | 0.0 | 24.00 |
+| 6/20/2019 | F6D13368 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
 | 6/17/2019 | F6D22772 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 5/25/2019 | RMP03103 | Karly's Law | Passed | 0.0 | 0.50 |
 | 5/21/2019 | RMP34568 | First Aid / CPR | Passed | 0.0 | 4.00 |

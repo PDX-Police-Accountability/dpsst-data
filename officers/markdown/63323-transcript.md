@@ -48,7 +48,7 @@
 | 4/14/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 4/14/2023 | PDP0862A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 4/7/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
-| 3/23/2023 | REG24193 | Intox 8000 | Passed | 0.0 | 6.00 |
+| 3/23/2023 | REG24193 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 1/18/2023 | PDP3612A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 1/17/2023 | PDP27229 | Intro to Handcuffing | Passed | 0.0 | 1.00 |
 | 1/16/2023 | PDP29340 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

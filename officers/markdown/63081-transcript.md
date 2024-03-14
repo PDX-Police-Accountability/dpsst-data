@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/15/2024 | PDP1226A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 1/21/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
@@ -136,9 +137,9 @@
 | 3/20/2023 | PDP12688 | Post Academy Firearms Training | Passed | 0.0 | 9.00 |
 | 3/17/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/7/2023 | PDP11356 | Control Tactics Training | Passed | 0.0 | 4.00 |
-| 3/2/2023 | REG00018 | DID/SFST | Passed | 0.0 | 24.00 |
+| 3/2/2023 | REG00018 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
 | 2/27/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
-| 1/26/2023 | REG17417 | INTOX 8000 | Passed | 0.0 | 6.00 |
+| 1/26/2023 | REG17417 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 11/3/2022 | PDP22867 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 11/3/2022 | PDP03401 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 11/3/2022 | PDP38307 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

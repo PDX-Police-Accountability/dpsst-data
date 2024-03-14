@@ -53,7 +53,7 @@
 | 10/18/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 10/17/2023 | PDP2982A | 2023 FTEP Post DPSST Firearms | Passed | 0.0 | 18.00 |
 | 10/13/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 9/22/2023 | REG1195A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 9/22/2023 | REG1195A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
 | 8/17/2023 | F6R1759A | Intox 8000 | Passed | 0.0 | 6.00 |
 | 8/17/2023 | REG3523A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 7/7/2023 | PDP1316A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |

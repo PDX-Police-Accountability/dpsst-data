@@ -384,7 +384,7 @@
 | 8/13/2019 | PDP09382 | 2019-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/9/2019 | 19-0008 | DPSST Basic Police | Passed | 0.0 | 640.00 |
 | 7/2/2019 | PDP16508 | 2019 FTEP Radar LIDAR | Passed | 0.0 | 16.00 |
-| 6/20/2019 | F6D02722 | DID/ SFST BP390 | Passed | 0.0 | 0.00 |
+| 6/20/2019 | F6D02722 | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 6/17/2019 | F6D22772 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 4/11/2019 | PDP40479 | IS-00100.c Intro to Incident Command Sys (ICS 100) | Passed | 0.0 | 3.00 |
 | 4/11/2019 | PDP19325 | IS-00700.b National Incident Managment Sys (NIMS) | Passed | 0.0 | 3.00 |

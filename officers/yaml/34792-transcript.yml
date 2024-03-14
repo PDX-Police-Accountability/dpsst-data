@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/2/2024
+  course: TAP3329A
+  title: HAZMAT First Responder Awareness Level 1
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/28/2024
   course: TAP0313A
   title: TASER Certification/Recert

@@ -1623,7 +1623,7 @@ training_records:
   hours: '24.00'
 - date: 11/4/2019
   course: F6D33721
-  title: Intox 8000
+  title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
   hours: '6.00'

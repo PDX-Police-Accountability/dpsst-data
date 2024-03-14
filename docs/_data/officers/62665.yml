@@ -890,7 +890,7 @@ training_records:
   hours: '0.50'
 - date: 9/20/2022
   course: F6R07270
-  title: DID-SFST (Hours included in Basic)
+  title: DID/SFST (Hours included in Basic)
   status: Passed
   score: '0.0'
   hours: '24.00'

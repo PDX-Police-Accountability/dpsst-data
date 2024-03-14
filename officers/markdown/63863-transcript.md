@@ -66,8 +66,8 @@
 | 11/9/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/9/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 11/5/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
-| 10/20/2023 | REG2347A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
-| 9/21/2023 | REG1057A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
+| 10/20/2023 | REG2347A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 9/21/2023 | REG1057A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/6/2023 | PDP2850A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |

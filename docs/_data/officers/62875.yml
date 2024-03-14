@@ -685,7 +685,7 @@ training_records:
   hours: '640.00'
 - date: 1/11/2023
   course: REG3491A
-  title: SFST-DID (Hours included in Basic)
+  title: SFST/DID (Hours included in Basic)
   status: Passed
   score: '0.0'
   hours: '24.00'
@@ -703,7 +703,7 @@ training_records:
   hours: '0.00'
 - date: 11/10/2022
   course: REG24959
-  title: Intox 8000
+  title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
   hours: '6.00'

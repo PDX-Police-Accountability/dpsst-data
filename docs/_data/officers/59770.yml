@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: PDP2495A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 2/15/2024
+  course: PDP3761A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/8/2024
   course: PDP0488A
   title: 2024 SERT Training - CLASSROOM
@@ -2534,7 +2546,7 @@ training_records:
   hours: '640.00'
 - date: 7/22/2019
   course: F6D09202
-  title: Intox 8000 - Hours Included in Basic
+  title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
   hours: '0.00'

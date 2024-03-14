@@ -46,6 +46,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/11/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
+| 3/11/2024 | BPT2887A | Adult Learning | Passed | 0.0 | 6.00 |
 | 9/21/2023 | VND0671 | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 12/10/2020 | PDP29257 | 2020-8 City Attorney's Office Legal Updates 8/2020 | Passed | 0.0 | 0.25 |
 | 12/10/2020 | PDP10147 | 2020-9 City Attorney's Office Legal Updates 9/2020 | Passed | 0.0 | 0.25 |

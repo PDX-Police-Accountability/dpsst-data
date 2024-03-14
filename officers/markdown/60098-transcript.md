@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |
+| 1/3/2024 | PDP2305A | DOJ Updates with Deena Ryerson | Passed | 0.0 | 1.25 |
+| 1/3/2024 | PDP0852A | SFST Refresher Training | Passed | 0.0 | 1.50 |
 | 11/17/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/17/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/23/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -333,7 +336,7 @@
 | 1/27/2020 | PDP14732 | 2020 Youth Educating Police Training | Passed | 0.0 | 0.75 |
 | 1/17/2020 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 12/10/2019 | F6D00272 | SFST/DID BP 394 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
-| 12/9/2019 | F6D22540 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
+| 12/9/2019 | F6D22540 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 12/9/2019 | PDP24769 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 11/29/2019 | PDP05742 | IS-241 Decision Making  Problem Solving IS-241b | Passed | 0.0 | 2.00 |
 | 11/27/2019 | PDP03445 | 2019 FTEP Radar LIDAR | Passed | 0.0 | 14.00 |

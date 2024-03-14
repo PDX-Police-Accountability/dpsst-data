@@ -24,6 +24,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/3/2024
+  course: PDP2746A
+  title: Crash Team Resiliancy with Dr. Stephanie Conn
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/3/2024
+  course: PDP2305A
+  title: DOJ Updates with Deena Ryerson
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/3/2024
+  course: PDP0852A
+  title: SFST Refresher Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/18/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

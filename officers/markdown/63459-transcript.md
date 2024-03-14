@@ -105,7 +105,7 @@
 | 7/7/2023 | PDP3777A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 7/7/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 6/23/2023 | F6R3512A | DID/SFST (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 5/18/2023 | REG1282 | INTOX 8000  (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
+| 5/18/2023 | REG1282 | Intox 8000 (Hours inlcuded in Basic) | Passed | 0.0 | 6.00 |
 | 3/16/2023 | PDP21925 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 3/16/2023 | PDP06547 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 3/14/2023 | PDP3672A | 2023 Training Introduction to Wellness | Passed | 0.0 | 1.50 |

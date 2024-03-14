@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/2/2024 | TAP3329A | HAZMAT First Responder Awareness Level 1 | Passed | 0.0 | 1.50 |
 | 2/28/2024 | TAP0313A | TASER Certification/Recert | Instructed | 0.0 | 0.50 |
 | 2/22/2024 | TAP3975A | 2024 ODOT Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/18/2024 | TAP0996A | BloodBorne Pathogens for First Responders | Passed | 0.0 | 1.00 |
