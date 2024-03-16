@@ -57,6 +57,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 2/9/2024
+  course: PDP3901A
+  title: FBI LEEDA Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 12/26/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

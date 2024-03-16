@@ -82,6 +82,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/13/2024
+  course: AVP2469A
+  title: Monthly Leadership Meeting
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 2/29/2024
   course: SVP1436A
   title: Addressing Demand, No Buyer No Victim

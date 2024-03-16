@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/28/2024
+  course: MNS2952A
+  title: Low Light Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/31/2024
   course: VND2911A
   title: 28 CFR 23 and WSIN Resources

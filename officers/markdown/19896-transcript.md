@@ -55,6 +55,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2024 | BPT1620A | Facilitator Development | Passed | 0.0 | 8.00 |
 | 3/11/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
 | 9/14/2023 | JDN1031A | Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/14/2023 | JDN2121A | Firearms Training | Passed | 0.0 | 2.00 |

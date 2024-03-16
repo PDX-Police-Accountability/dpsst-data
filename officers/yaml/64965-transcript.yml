@@ -36,9 +36,37 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 2/29/2024
+  course: PDP2489A
+  title: ICS-200 Basic Incident Cmnd System for Intl Resp
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/29/2024
+  course: PDP2019A
+  title: IS-700 National Incident Management System
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 2/28/2024
+  course: PDP2070A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/26/2024
+  course: PDP1962A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/4/2024
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/28/2024
+  expiration_date: 2/28/2026
 education_records: []

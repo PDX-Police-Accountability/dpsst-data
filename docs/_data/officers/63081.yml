@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: 1/21/2024
 training_records:
+- date: 3/1/2024
+  course: PDP1188A
+  title: RADAR/LIDAR Operator
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/15/2024
   course: PDP1226A
   title: 2024 Standardized Field Sobriety Test Refresher

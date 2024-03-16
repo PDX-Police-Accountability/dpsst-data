@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | PDP1188A | RADAR/LIDAR Operator | Instructed | 0.0 | 5.00 |
 | 1/25/2024 | BPT2839A | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 1/25/2024 | PDP0102A | Radar Lidar Instructor Development Course | Passed | 0.0 | 32.00 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |

@@ -170,6 +170,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/17/2023
+  course: PDP1684A
+  title: Multi-Agency Interactive Breaching Wkshp
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 11/9/2023
   course: PDP3446A
   title: 2023 SERT Training - ITERATION

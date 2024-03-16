@@ -55,6 +55,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/26/2024
+  course: BVP4344A
+  title: Pistol Mounted Optic Class Day 2 Jan.26
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/19/2024
+  course: BVP3068A
+  title: Pistol Mounted Optic Class Day 1  Jan.19
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/18/2024
   course: BVP4313A
   title: First Aid and Adult Child CPR 11824pm

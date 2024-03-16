@@ -144,6 +144,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/6/2023
+  course: BNP1949A
+  title: Search/ Seizure and Search warrant basics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/30/2023
   course: BNP3339A
   title: Yoga- Living Yoga Program for Police

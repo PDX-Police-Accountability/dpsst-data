@@ -48,6 +48,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/9/2024
+  course: OCP3443A
+  title: LEDS / CJIS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/12/2024
   course: OCP3153A
   title: Airborne and Bloodborne Pathogens / Narcan

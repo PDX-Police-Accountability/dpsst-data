@@ -378,6 +378,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/26/2023
+  course: PDP2499A
+  title: 2023 Resilience Immersion Training
+  status: Passed
+  score: '0.0'
+  hours: '19.25'
 - date: 2/13/2023
   course: PDP21637
   title: 2023-1 Range Qualification 40mm Less Lethal Qual

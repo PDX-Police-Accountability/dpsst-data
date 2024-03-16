@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | PDP1188A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 2/18/2024 | PDP1226A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 11/21/2023 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 10/29/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

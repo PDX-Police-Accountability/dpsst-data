@@ -55,9 +55,11 @@
 | 8/17/2023 | OCP0486A | Use of Force | Instructed | 0.0 | 8.00 |
 | 7/31/2023 | OCP3059A | Taser Re-cert | Passed | 0.0 | 2.00 |
 | 7/25/2023 | OSH1996A | ARIDE | Passed | 0.0 | 16.00 |
+| 7/17/2023 | OCP2339A | In Fight Weapons Access | Passed | 0.0 | 3.00 |
 | 6/29/2023 | OCP0271A | Firearms/Use of Force | Passed | 0.0 | 1.00 |
 | 5/31/2023 | OCP0483A | DPSST Use of Force Bulletin | Passed | 0.0 | 0.50 |
 | 5/25/2023 | OCP4027A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 3/21/2023 | OCP4240A | Firearms / Use of Force | Passed | 0.0 | 4.00 |
 | 2/9/2023 | BPT17282 | Basic DT Trainer Workshop | Passed | 0.0 | 8.00 |
 | 1/31/2023 | OCP09155 | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 1/31/2023 | OCP4095A | Legislative Update | Passed | 0.0 | 0.50 |

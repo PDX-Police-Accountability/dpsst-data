@@ -30,6 +30,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/6/2024
+  course: F6R2063A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 7/23/2022
   course: PDP11567
   title: 2022 DIR 835.20 Managing Public Spaces

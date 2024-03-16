@@ -51,6 +51,7 @@
 | 3/1/2024 | HBS0369A | 2024 February PREA | Passed | 0.0 | 0.50 |
 | 3/1/2024 | HBS3977A | 2024 February De-Escalation | Passed | 0.0 | 1.50 |
 | 3/1/2024 | HBS0698A | 2024 February Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
+| 2/27/2024 | HBS3463A | On Duty PIT | Passed | 0.0 | 0.50 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/31/2024 | HBS3705A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |

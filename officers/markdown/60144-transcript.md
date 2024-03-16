@@ -29,6 +29,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/13/2004 | Bachelor Science | Oregon State University | Business Administration | 114.0 |
+| 6/1/2002 | Associate Arts | All Other Education Institutes |  | 42.0 |
+| 6/15/2000 | No Degree | All Other Education Institutes |  | 51.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

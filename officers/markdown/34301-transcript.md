@@ -38,6 +38,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/17/2024 | TRN3684A | Fire Alarm Panel Monitoring v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN4522A | AICs with Dis-Access Provisions v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN2237A | Bloodborne Pathogens in the Workplace v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN0244A | DOC - ICS for Corrections v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN2969A | Duty to Intervene v2024 | Passed | 0.0 | 2.00 |
+| 2/16/2024 | TRN1753A | Environmental Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN1630A | Fire Extinguisher Use and Safety v2024 | Passed | 0.0 | 0.50 |
+| 2/16/2024 | TRN0873A | Nasal Naloxone (Narcan) v2024 | Passed | 0.0 | 0.50 |
+| 2/16/2024 | TRN4478A | Physical Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN1207A | Social Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN1997A | Spiritual Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
+| 2/16/2024 | TRN0344A | Suicide Detection and Prevention v2023 | Passed | 0.0 | 2.00 |
+| 2/15/2024 | TRN4234A | DOC - 2024 Annual Training Guide | Passed | 0.0 | 0.00 |
+| 2/15/2024 | TRN1160A | DOC - Crisis Intervention v2023 | Passed | 0.0 | 2.00 |
+| 2/15/2024 | TRN0824A | Cultural Humility Empathy v2024 | Passed | 0.0 | 2.00 |
+| 2/15/2024 | TRN2638A | Ethics v2024 | Passed | 0.0 | 1.00 |
+| 2/15/2024 | TRN1294A | Records Management v2024 | Passed | 0.0 | 1.00 |
 | 6/30/2023 | TRN1538A | DOC - FS - Taser X26P User v22_2020c | Passed | 0.0 | 6.00 |
 | 5/28/2023 | TRN2374A | 2023 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 5/28/2023 | TRN2653A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

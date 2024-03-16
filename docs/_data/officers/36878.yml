@@ -76,6 +76,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 1/26/2024
+  course: BVP4344A
+  title: Pistol Mounted Optic Class Day 2 Jan.26
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/19/2024
+  course: BVP3068A
+  title: Pistol Mounted Optic Class Day 1  Jan.19
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 12/18/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

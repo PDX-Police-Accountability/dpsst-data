@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 3/13/2024 | AVP2469A | Monthly Leadership Meeting | Passed | 0.0 | 1.75 |
 | 2/29/2024 | SVP1436A | Addressing Demand, No Buyer No Victim | Passed | 0.0 | 1.00 |
 | 2/29/2024 | SVP1681A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 2/29/2024 | SVP2453A | Human Trafficking Indicaters  Law Enforcement | Passed | 0.0 | 1.00 |

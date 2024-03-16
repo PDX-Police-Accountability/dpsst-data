@@ -35,6 +35,18 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/13/2024 | TRN4234A | DOC - 2024 Annual Training Guide | Passed | 0.0 | 0.00 |
+| 2/13/2024 | TRN2638A | Ethics v2024 | Passed | 0.0 | 1.00 |
+| 2/13/2024 | TRN1630A | Fire Extinguisher Use and Safety v2024 | Passed | 0.0 | 0.50 |
+| 2/13/2024 | TRN0873A | Nasal Naloxone (Narcan) v2024 | Passed | 0.0 | 0.50 |
+| 2/13/2024 | TRN1294A | Records Management v2024 | Passed | 0.0 | 1.00 |
+| 2/12/2024 | TRN1387A | 2024 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
+| 2/12/2024 | TRN2348A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 2/12/2024 | TRN1249A | CRCI Fire Suppression Training v2024 | Passed | 0.0 | 1.00 |
+| 2/12/2024 | TRN3684A | Fire Alarm Panel Monitoring v2024 | Passed | 0.0 | 1.00 |
+| 2/12/2024 | TRN1709A | PREA The Law and Your Role  v2024 | Passed | 0.0 | 1.00 |
+| 2/12/2024 | TRN2905A | Protection from Ambient Heat v2024 | Passed | 0.0 | 0.50 |
+| 2/11/2024 | TRN2344A | 2024 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 10/22/2023 | TRN0690A | 2023 Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 10/22/2023 | TRN1506A | Do the Right Thing v2023 | Passed | 0.0 | 2.00 |
 | 10/22/2023 | TRN3455A | Emotional Wellness for Corr Professionals v2023 | Passed | 0.0 | 0.50 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | PDP1188A | RADAR/LIDAR Operator | Instructed | 0.0 | 6.00 |
 | 1/31/2024 | VND4338A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 4.00 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |
 | 1/3/2024 | PDP0852A | SFST Refresher Training | Passed | 0.0 | 1.50 |

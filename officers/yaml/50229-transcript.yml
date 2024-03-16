@@ -49,6 +49,78 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/13/2024
+  course: TRN4234A
+  title: DOC - 2024 Annual Training Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
+- date: 2/13/2024
+  course: TRN2638A
+  title: Ethics v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/13/2024
+  course: TRN1630A
+  title: Fire Extinguisher Use and Safety v2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/13/2024
+  course: TRN0873A
+  title: Nasal Naloxone (Narcan) v2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/13/2024
+  course: TRN1294A
+  title: Records Management v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2024
+  course: TRN1387A
+  title: 2024 Preventing Discrimination and Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2024
+  course: TRN2348A
+  title: Airway Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/12/2024
+  course: TRN1249A
+  title: CRCI Fire Suppression Training v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2024
+  course: TRN3684A
+  title: Fire Alarm Panel Monitoring v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2024
+  course: TRN1709A
+  title: PREA The Law and Your Role  v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/12/2024
+  course: TRN2905A
+  title: Protection from Ambient Heat v2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/11/2024
+  course: TRN2344A
+  title: 2024 Information Security Training Foundations
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 10/22/2023
   course: TRN0690A
   title: 2023 Preventing Discrimination and Harassment

@@ -125,6 +125,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/27/2024
+  course: HBS3463A
+  title: On Duty PIT
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/1/2024
   course: VND1796A
   title: NW Peer Support Conference

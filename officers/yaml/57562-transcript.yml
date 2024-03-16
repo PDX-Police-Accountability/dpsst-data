@@ -163,6 +163,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/17/2023
+  course: OCP2339A
+  title: In Fight Weapons Access
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/29/2023
   course: OCP0271A
   title: Firearms/Use of Force
@@ -178,6 +184,12 @@ training_records:
 - date: 5/25/2023
   course: OCP4027A
   title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/21/2023
+  course: OCP4240A
+  title: Firearms / Use of Force
   status: Passed
   score: '0.0'
   hours: '4.00'

@@ -119,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/15/2024
+  course: SPP0658A
+  title: Legal Update - Lane County DA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/11/2024
   course: OAC1938A
   title: Dark Nights of the Soul

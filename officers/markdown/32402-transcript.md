@@ -41,6 +41,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/1/2024 | HBS0698A | 2024 February Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS0186A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
+| 1/11/2024 | HBS4365A | EVOC - Investigations | Instructed | 0.0 | 5.00 |
 | 12/2/2023 | HBS3137A | Bias Based Policing | Passed | 0.0 | 1.00 |
 | 11/20/2023 | HBS3225A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |
 | 11/20/2023 | HBS0154A | 2023 November In-Service Brazos E-Ticket | Passed | 0.0 | 3.00 |

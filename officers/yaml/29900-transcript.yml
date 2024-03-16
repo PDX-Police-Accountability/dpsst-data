@@ -191,6 +191,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/5/2023
+  course: PDP4092A
+  title: '0'
+  status: Passed
+  score: '0.0'
+  hours: '23.50'
 - date: 2/14/2023
   course: PDP11246
   title: DIR 0850.25 Police Response to MH Facilities

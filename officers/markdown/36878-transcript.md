@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/30/2024 | BVP0092A | First Aid and Adult/Child CPR 013024am | Passed | 0.0 | 3.00 |
+| 1/26/2024 | BVP4344A | Pistol Mounted Optic Class Day 2 Jan.26 | Passed | 0.0 | 8.00 |
+| 1/19/2024 | BVP3068A | Pistol Mounted Optic Class Day 1  Jan.19 | Passed | 0.0 | 8.00 |
 | 12/18/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/13/2023 | BVP4077A | Night Range 2023 | Passed | 0.0 | 3.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |

@@ -31,6 +31,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/9/2024 | VND0416A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 1/18/2024 | PDP1335A | 2024 PVO Inservice Instructor Orientation | Passed | 0.0 | 5.00 |
+| 1/18/2024 | PDP2389A | 2024 PVO Inservice Instructor Orientation | Passed | 0.0 | 4.00 |
 | 11/15/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/15/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/24/2023 | PDP0725A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

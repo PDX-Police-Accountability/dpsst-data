@@ -88,8 +88,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 1/26/2024
-  course: 23164A
-  title: '0'
+  course: XDELETE
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: Passed
   score: '0.0'
   hours: '36.00'

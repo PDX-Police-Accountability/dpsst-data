@@ -1867,4 +1867,19 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/20/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/13/2004
+  degree: Bachelor Science
+  school: Oregon State University
+  major: Business Administration
+  hours: '114.0'
+- date: 6/1/2002
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '42.0'
+- date: 6/15/2000
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '51.0'

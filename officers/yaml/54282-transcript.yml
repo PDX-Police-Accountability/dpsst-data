@@ -260,6 +260,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/25/2023
+  course: PDP0941A
+  title: 2023 Conference on Crimes Against Women
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 5/11/2023
   course: PDP2848A
   title: 2022-6 CAO Legal Updates for 06/2022

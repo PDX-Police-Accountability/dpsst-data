@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2024 | PDN4146A | Search and Seizure Caselaw Review | Passed | 0.0 | 1.00 |
+| 3/12/2024 | PDN2709A | Confrontational Simulation Office Scenarios | Passed | 0.0 | 2.00 |
+| 3/12/2024 | PDN0295A | Realistic De-escalation | Passed | 0.0 | 2.00 |
 | 2/22/2024 | PDN4480A | Defensive Tactics-Basic Handcuffing | Passed | 0.0 | 1.50 |
 | 2/22/2024 | PDN2425A | Defensive Tactics-Stand Up Defense | Passed | 0.0 | 1.50 |
 | 2/20/2024 | PDN0363A | Working with Interpreter Services | Passed | 0.0 | 1.00 |

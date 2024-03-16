@@ -55,6 +55,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2024
+  course: PDN4146A
+  title: Search and Seizure Caselaw Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/12/2024
+  course: PDN2709A
+  title: Confrontational Simulation Office Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/12/2024
+  course: PDN0295A
+  title: Realistic De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/22/2024
   course: PDN4480A
   title: Defensive Tactics-Basic Handcuffing

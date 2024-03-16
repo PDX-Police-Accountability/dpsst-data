@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2024
+  course: PDP0185A
+  title: Western States Public Order Conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/3/2024
   course: PDP2746A
   title: Crash Team Resiliancy with Dr. Stephanie Conn

@@ -55,6 +55,7 @@
 | 12/17/2023 | BNP0843A | Building Clearing | Passed | 0.0 | 2.00 |
 | 12/14/2023 | BNP0017A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 12/12/2023 | BNP0081A | UAS Monthly Training | Passed | 0.0 | 8.00 |
+| 12/6/2023 | BNP1949A | Search/ Seizure and Search warrant basics | Passed | 0.0 | 1.00 |
 | 11/30/2023 | BNP3339A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 4.00 |
 | 11/30/2023 | BNP3626A | Yoga- Living Yoga Program for Police | Passed | 0.0 | 8.00 |
 | 11/17/2023 | BNP1731A | Low Light Range | Passed | 0.0 | 5.00 |

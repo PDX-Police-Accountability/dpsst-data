@@ -206,6 +206,18 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/10/2024
+  course: XDELETE2
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/10/2024
+  course: PLS2187A
+  title: Standardized Field Sobriety Tests
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/1/2024
   course: OSH1181A
   title: Adult/Child CPR
