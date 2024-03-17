@@ -410,12 +410,6 @@ training_records:
   title: IACP Officer Safety and Wellness Symposium
   status: Passed
   score: '0.0'
-  hours: '24.00'
-- date: 3/5/2023
-  course: PDP4092A
-  title: '0'
-  status: Passed
-  score: '0.0'
   hours: '23.50'
 - date: 3/1/2023
   course: PDP22623

@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/6/2023
+  course: PDP0329A
+  title: 2023 CATO Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 11/16/2023
   course: PDP0003A
   title: 2023-3 Range Qualification Primary Firearm

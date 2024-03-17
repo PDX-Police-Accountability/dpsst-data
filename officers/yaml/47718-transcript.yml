@@ -160,12 +160,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.50'
-- date: 10/17/2023
-  course: PDP2531A
-  title: IACP Annual Conference
-  status: Passed
-  score: '0.0'
-  hours: '32.50'
 - date: 10/4/2023
   course: PDP4365A
   title: Project Planning  Organization
@@ -359,12 +353,6 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 5/3/2023
-  course: PDP4367A
-  title: 37th Annual Training Seminar  HNT Competition
-  status: Passed
-  score: '0.0'
-  hours: '29.00'
-- date: 5/3/2023
   course: PDP4437A
   title: WSHNA Training Seminar  HNT Competition
   status: Passed
@@ -469,12 +457,6 @@ training_records:
 - date: 3/5/2023
   course: PDP02750
   title: IACP Officer Safety and Wellness Symposium
-  status: Passed
-  score: '0.0'
-  hours: '24.00'
-- date: 3/5/2023
-  course: PDP4092A
-  title: '0'
   status: Passed
   score: '0.0'
   hours: '23.50'

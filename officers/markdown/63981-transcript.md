@@ -38,9 +38,9 @@
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 12/15/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
-| 11/17/2023 | REG2933A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 11/17/2023 | REG2933A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/27/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
-| 10/19/2023 | REG1394A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
+| 10/19/2023 | REG1394A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 8/10/2023 | PDP1912A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

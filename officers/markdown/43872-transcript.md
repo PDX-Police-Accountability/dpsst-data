@@ -86,6 +86,7 @@
 | 4/5/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
 | 4/4/2023 | PDP3866A | 2023 Microsoft_Excel Online Recording | Passed | 0.0 | 1.00 |
 | 4/4/2023 | PDP0010A | 2023 Microsoft_Outlook Online Recording | Passed | 0.0 | 1.00 |
+| 3/23/2023 | PDP0676A | Nighthawk Ascend Advanced Digital Data Tradecraft | Passed | 0.0 | 32.00 |
 | 3/16/2023 | PDP38288 | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 3/8/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/7/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |

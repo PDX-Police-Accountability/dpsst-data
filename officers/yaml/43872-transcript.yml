@@ -356,6 +356,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/23/2023
+  course: PDP0676A
+  title: Nighthawk Ascend Advanced Digital Data Tradecraft
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/16/2023
   course: PDP38288
   title: 2023 Microsoft PowerPoint Online Recorded Training

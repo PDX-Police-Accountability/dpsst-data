@@ -55,7 +55,6 @@
 | 10/18/2023 | PDP3873A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 10/18/2023 | PDP1401A | FIN-6.14  with KC | Passed | 0.0 | 0.25 |
 | 10/17/2023 | PDP2190A | IACP Annual Conference | Passed | 0.0 | 32.50 |
-| 10/17/2023 | PDP2531A | IACP Annual Conference | Passed | 0.0 | 32.50 |
 | 10/4/2023 | PDP4365A | Project Planning  Organization | Passed | 0.0 | 4.00 |
 | 9/29/2023 | PDP2741A | 2023 Video Evidence Basics for the Police | Passed | 0.0 | 1.50 |
 | 9/21/2023 | PDP0619A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 36.00 |
@@ -88,7 +87,6 @@
 | 5/11/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/9/2023 | PDP2105A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 5/8/2023 | PDP0226A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
-| 5/3/2023 | PDP4367A | 37th Annual Training Seminar  HNT Competition | Passed | 0.0 | 29.00 |
 | 5/3/2023 | PDP4437A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 29.00 |
 | 4/25/2023 | PDP3299A | 2023 External Training Crowd Psychology | Passed | 0.0 | 16.00 |
 | 4/12/2023 | PDP3246A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
@@ -106,8 +104,7 @@
 | 3/22/2023 | PDP36377 | 2023-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/21/2023 | PDP00872 | 2023 Microsoft Word Online Recording | Passed | 0.0 | 1.00 |
 | 3/15/2023 | PDP2642A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
-| 3/5/2023 | PDP02750 | IACP Officer Safety and Wellness Symposium | Passed | 0.0 | 24.00 |
-| 3/5/2023 | PDP4092A | 0 | Passed | 0.0 | 23.50 |
+| 3/5/2023 | PDP02750 | IACP Officer Safety and Wellness Symposium | Passed | 0.0 | 23.50 |
 | 3/3/2023 | PDP33827 | 2022-12 CAO Case Law Updates for 12/2022 | Passed | 0.0 | 0.25 |
 | 3/1/2023 | PDP22623 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |
 | 2/28/2023 | PDP39581 | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 7.00 |

@@ -54,9 +54,9 @@
 | 12/26/2023 | PDP1918A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 11/17/2023 | REG2933A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 11/17/2023 | REG2933A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/29/2023 | PDP0359A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
-| 10/19/2023 | REG1394A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
+| 10/19/2023 | REG1394A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
 | 8/10/2023 | PDP0321A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 8.00 |
@@ -66,7 +66,6 @@
 | 8/3/2023 | PDP3345A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 8/3/2023 | PDP3991A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 8/1/2023 | PDP3384A | CPR/First Aid | Passed | 0.0 | 2.00 |
-| 8/1/2023 | PDP2253A | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 4/4/2023 | PDP4280A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 4/4/2023 | PDP3730A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 4/4/2023 | PDP1104A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

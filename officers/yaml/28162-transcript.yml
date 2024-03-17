@@ -99,6 +99,12 @@ certification_records:
   expiration_date: 1/21/2026
   probation_date: ''
 training_records:
+- date: 3/13/2024
+  course: BPT2608A
+  title: Coaching and Feedback
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/12/2024
   course: BPT1620A
   title: Facilitator Development

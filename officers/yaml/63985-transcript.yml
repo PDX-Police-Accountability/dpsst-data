@@ -101,7 +101,7 @@ training_records:
   title: DID/SFST (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 10/22/2023
   course: PDP0359A
   title: Amended DOJ Settlement Agreement
@@ -113,7 +113,7 @@ training_records:
   title: Intox 8000 (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 9/8/2023
   course: PDP2543A
   title: RADAR/LIDAR Operator
@@ -170,12 +170,6 @@ training_records:
   hours: '4.00'
 - date: 8/1/2023
   course: PDP3384A
-  title: CPR/First Aid
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
-- date: 8/1/2023
-  course: PDP2253A
   title: CPR/First Aid
   status: Passed
   score: '0.0'

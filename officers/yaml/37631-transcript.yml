@@ -377,20 +377,8 @@ training_records:
   score: '0.0'
   hours: '0.25'
 - date: 3/17/2023
-  course: OCS34493
-  title: FBI/LEEDA SLI
-  status: Passed
-  score: '0.0'
-  hours: '28.00'
-- date: 3/17/2023
   course: PDP00168
   title: FBI LEEDA Supervisor Institute
-  status: Passed
-  score: '0.0'
-  hours: '28.00'
-- date: 3/5/2023
-  course: PDP4092A
-  title: '0'
   status: Passed
   score: '0.0'
   hours: '23.50'

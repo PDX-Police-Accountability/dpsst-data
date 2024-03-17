@@ -75,6 +75,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 12/1/2023
+  course: PDP4492A
+  title: Advancing Your Career for Female Pub Sfty Prof
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/2/2023
   course: PDP3224A
   title: 2023-3 Range Qualification CEW

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2024 | WLP3899A | Foundation in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 2/21/2024 | WLP0973A | Brady Training | Passed | 0.0 | 1.00 |
 | 2/16/2024 | WLP2843A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 1/31/2024 | WLP2943A | Taser 7 Recertification | Passed | 0.0 | 2.00 |

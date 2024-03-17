@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 11/8/2023
+  course: PDP4535A
+  title: Behavioral Threat Assessment Seminar
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/1/2023
   course: PDP2635A
   title: ICS-400 Adv ICS Cmnd  Gen Staff Complex Inc
