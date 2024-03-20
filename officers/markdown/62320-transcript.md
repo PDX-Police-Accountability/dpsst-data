@@ -31,6 +31,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
+| 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
+| 3/5/2024 | SAG3193A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
+| 3/4/2024 | SAG0578A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
 | 3/1/2024 | PDP1188A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |
 | 1/3/2024 | PDP2305A | DOJ Updates with Deena Ryerson | Passed | 0.0 | 1.25 |

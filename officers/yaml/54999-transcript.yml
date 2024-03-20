@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 3/23/2024
+  course: TDP3529A
+  title: Tactical Training-Open environment searches
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 2/29/2024
   course: HRS2380A
   title: 'NORTAC: Room Clearing  Officer Down'

@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/12/2024 | HBP0655A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
+| 2/21/2024 | HBP4408A | DUII Refresher Course In-service | Passed | 0.0 | 5.00 |
+| 2/21/2024 | HBP0763A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/8/2023 | HBP2892A | Changing Perceptions: Fair  Impartial Policing | Passed | 0.0 | 1.00 |
 | 6/18/2023 | HBP3509A | EVOC - Backing Exercise | Passed | 0.0 | 0.50 |

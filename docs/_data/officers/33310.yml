@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/15/2024
+  course: VND1728A
+  title: Infant  Child Death Investigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/1/2024
   course: MMP2598A
   title: Calibre Press Online Training Videos, Jan-Feb

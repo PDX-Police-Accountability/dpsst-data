@@ -39,7 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2024 | SDP3367A | Briefing Training Implicit Bias Based Policing | Passed | 0.0 | 0.50 |
 | 2/28/2024 | SDP1846A | Defensive Tactics Striking | Instructed | 0.0 | 3.00 |
+| 2/28/2024 | SDP2578A | Firearms Training | Passed | 0.0 | 3.00 |
 | 2/9/2024 | SDP0316A | Leadership Lessons Greatest TED Talks in History | Passed | 0.0 | 16.00 |
 | 1/10/2024 | SDP0620A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 1/10/2024 | SDP2235A | Death Notification for Officers Training | Passed | 0.0 | 1.50 |

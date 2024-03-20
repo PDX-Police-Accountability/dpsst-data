@@ -41,6 +41,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2024 | HBP1265A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
+| 2/21/2024 | HBP4408A | DUII Refresher Course In-service | Passed | 0.0 | 5.00 |
+| 2/21/2024 | HBP0763A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |
 | 2/1/2024 | HBP3139A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 1/24/2024 | HBP3505A | HPD Internal Patrol Supervisor Training | Passed | 0.0 | 4.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

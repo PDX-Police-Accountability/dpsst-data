@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2024 | STP0853A | Legal Update | Passed | 0.0 | 1.00 |
 | 1/29/2024 | STP0639A | Night Shooting Qualification and Training | Passed | 0.0 | 4.00 |
 | 12/18/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2023 | STP1582A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |

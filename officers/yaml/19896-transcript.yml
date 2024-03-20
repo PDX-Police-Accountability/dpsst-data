@@ -154,6 +154,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/18/2024
+  certificate: Instructor
+  level: ''
+  status: Granted
+  certificate_date: 3/18/2024
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/23/2024
   certificate: Police Officer
   level: Advanced

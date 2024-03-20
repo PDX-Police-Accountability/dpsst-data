@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 3/15/2024 | VND1728A | Infant  Child Death Investigation | Passed | 0.0 | 8.00 |
 | 3/1/2024 | MMP2598A | Calibre Press Online Training Videos, Jan-Feb | Passed | 0.0 | 2.25 |
 | 2/12/2024 | HBS1348A | Digital Evidence for Law Enforcement | Passed | 0.0 | 7.25 |
 | 1/30/2024 | MMP0420A | Internet Security | Passed | 0.0 | 0.50 |

@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/12/2024 | HBP0655A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
+| 2/28/2024 | HBP4198A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |
 | 7/13/2023 | HDA3494A | Informant Management | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA4231A | Fentanyl DTO Investigations | Passed | 0.0 | 4.00 |
 | 7/12/2023 | HDA2926A | Advanced Internet Profiling and Research | Passed | 0.0 | 4.00 |

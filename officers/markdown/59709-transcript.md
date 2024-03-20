@@ -88,6 +88,7 @@
 | 4/20/2023 | BNP12161 | UAS Monthly Training | Passed | 0.0 | 4.00 |
 | 4/19/2023 | BNP16748 | Firearms Range Training | Passed | 0.0 | 1.00 |
 | 4/4/2023 | BNP18548 | On Duty Defensive Tactics | Passed | 0.0 | 1.00 |
+| 3/14/2023 | BNP1813A | UAS Monthly Training | Passed | 0.0 | 6.00 |
 | 3/4/2023 | BNP02810 | Stop Stick Training | Passed | 0.0 | 0.50 |
 | 2/16/2023 | BNP13349 | UAS Monthly Training | Passed | 0.0 | 4.00 |
 | 2/7/2023 | BNP08089 | First Aid / CPR | Passed | 0.0 | 2.00 |

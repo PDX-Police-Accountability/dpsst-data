@@ -32,6 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
+| 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
+| 3/4/2024 | SAG0578A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |
 | 2/8/2024 | PDP3079A | 2024-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 12/17/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/17/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |

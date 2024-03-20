@@ -36,6 +36,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2024 | GLP0106A | New Officer Taser 7 | Passed | 0.0 | 4.00 |
+| 3/11/2024 | GLP1988A | New Officer Defensive Tactics | Passed | 0.0 | 2.50 |
+| 3/11/2024 | GLP1639A | Wrap Restraint Device | Passed | 0.0 | 0.50 |
+| 3/5/2024 | GLP2446A | Spring 2024 Handgun/Rifle Training | Passed | 0.0 | 3.00 |
+| 3/5/2024 | GLP0121A | Spring 2024 Handgun/Rifle Training | Passed | 0.0 | 3.00 |
+| 3/1/2024 | GLP0344A | Why be Nice - Positive Professional Contacts | Passed | 0.0 | 1.00 |
 | 12/19/2023 | PDP2720A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/19/2023 | PDP0387A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |
 | 12/19/2023 | PDP1554A | 2023-2 All Sworn In-Service Legal Updates | Passed | 0.0 | 1.50 |

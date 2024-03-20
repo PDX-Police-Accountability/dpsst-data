@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/18/2024 | Instructor |  | Granted | 3/18/2024 |  |  |
 | 1/5/2024 | Police Officer | Basic | Lapsed | 9/24/2018 | 10/5/2028 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

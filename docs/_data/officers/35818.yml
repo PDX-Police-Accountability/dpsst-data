@@ -50,6 +50,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2024
+  course: GLP0106A
+  title: New Officer Taser 7
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/11/2024
+  course: GLP1988A
+  title: New Officer Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 3/11/2024
+  course: GLP1639A
+  title: Wrap Restraint Device
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/5/2024
+  course: GLP2446A
+  title: Spring 2024 Handgun/Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/5/2024
+  course: GLP0121A
+  title: Spring 2024 Handgun/Rifle Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/1/2024
+  course: GLP0344A
+  title: Why be Nice - Positive Professional Contacts
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/19/2023
   course: PDP2720A
   title: 2023-2 All Sworn In-Service BWC Policy

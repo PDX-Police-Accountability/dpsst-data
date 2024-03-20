@@ -84,6 +84,12 @@ certification_records:
   expiration_date: ''
   probation_date: 2/1/2024
 training_records:
+- date: 3/12/2024
+  course: SAG3322A
+  title: Safe Accessible Foensic Interviewing for Elders
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 3/1/2024
   course: PDA3432A
   title: Use of Radio Communications

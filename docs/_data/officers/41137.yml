@@ -38,6 +38,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/7/2024
+  course: SAG1393A
+  title: Protecting Lives Saving Futures
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/6/2024
+  course: SAG1662A
+  title: Protecting Lives Saving Futures
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/5/2024
+  course: SAG3193A
+  title: Protecting Lives Saving Futures
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/4/2024
+  course: SAG0578A
+  title: Protecting Lives Saving Futures
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/3/2024
   course: PDP0852A
   title: SFST Refresher Training

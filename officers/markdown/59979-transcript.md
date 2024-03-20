@@ -233,7 +233,7 @@
 | 12/6/2019 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/29/2019 | PDP05742 | IS-241 Decision Making  Problem Solving IS-241b | Passed | 0.0 | 2.00 |
 | 11/8/2019 | F6D38416 | SFST/ DID | Passed | 0.0 | 24.00 |
-| 11/4/2019 | F6D33721 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 11/4/2019 | F6D33721 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 11/4/2019 | PDP24769 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 10/1/2019 | BPT34192 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |
 | 8/8/2019 | PDP32802 | IS-00700.b National Incident Managment Sys (NIMS) | Passed | 0.0 | 3.00 |
