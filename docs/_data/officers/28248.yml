@@ -105,6 +105,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 2/9/2024
+  course: PDP1397A
+  title: L0101 Foundations of Emergency Management
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 1/25/2024
+  course: PDP3531A
+  title: L0962 NIMS Planning Section Chief - 4 day
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
 - date: 12/5/2023
   course: PDP3725A
   title: 2023-2 All Sworn In-Service BWC Policy

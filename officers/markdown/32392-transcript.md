@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2024 | HBS2632A | Criminal Investigations Using Cellular Tech | Passed | 0.0 | 40.00 |
 | 1/31/2024 | TMS3091A | Evidence Collection | Passed | 0.0 | 3.00 |
 | 1/30/2024 | TGP0180A | Firearms Training-Handgun | Passed | 0.0 | 1.00 |
 | 12/18/2023 | BVP3773A | Winter Law Enforcement SRO Training | Passed | 0.0 | 8.00 |

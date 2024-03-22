@@ -3937,4 +3937,14 @@ attribute_records:
   value: Signed
   effective_date: 10/19/2011
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/15/2005
+  degree: No Degree
+  school: Clackamas Community College
+  major: ''
+  hours: '11.0'
+- date: 12/9/2005
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '170.0'

@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/2/2024
+  course: PDP0069A
+  title: Crime Scene Investigations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/15/2024
   course: BVP2406A
   title: First Aid and Adult Child CPR 11524 pm

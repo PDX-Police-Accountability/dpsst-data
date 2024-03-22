@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/1/2024 | Deschutes County Sheriff's Office | Hired | Dpty Shrf |  |  |
 | 12/13/2023 | Portland Police Bureau | Retired | Police Off |  |  |
 | 11/28/2011 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 5/12/2011 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -23,15 +24,14 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/3/2009 | Police Officer | Advanced | Granted | 2/3/2009 | 3/13/2024 |  |
-| 2/3/2009 | Police Officer | Intermediate | Granted | 2/3/2009 | 3/13/2024 |  |
-| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 | 3/13/2024 |  |
+| 4/1/2024 | Police Officer | Basic | Required |  |  | 10/1/2025 |
+| 3/13/2024 | Police Officer | Advanced | Lapsed | 2/3/2009 |  |  |
+| 3/13/2024 | Police Officer | Basic | Lapsed | 1/13/1998 |  |  |
+| 3/13/2024 | Police Officer | Intermediate | Lapsed | 2/3/2009 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/25/2023 | 4/25/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 2/2/2009 |  |
 ## Education
 | date | degree | school | major | hours |

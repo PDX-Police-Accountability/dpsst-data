@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2024 | HSU3903A | March Supplemental Range | Passed | 0.0 | 2.00 |
 | 10/21/2023 | HSU2948A | EVOC | Passed | 0.0 | 3.00 |
 | 10/21/2023 | HSU0850A | Post OIS Procedures | Passed | 0.0 | 3.00 |
 | 10/20/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |

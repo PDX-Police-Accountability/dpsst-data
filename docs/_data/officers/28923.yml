@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2024
+  course: HSU3903A
+  title: March Supplemental Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 10/21/2023
   course: HSU2948A
   title: EVOC

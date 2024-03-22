@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2024 | OSH1328A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 3/4/2024 | OSH3978A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 3/3/2024 | OSH0843A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 3/1/2024 | OSH4433A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
+| 3/1/2024 | OSH0043A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 2/22/2024 | OSH2091A | OSP 2024 Patrol Tactics In-Service | Passed | 0.0 | 12.00 |
 | 2/11/2024 | OSH1491A | OSP Recruit Post Academy 23-04 Active Threat | Instructed | 0.0 | 8.00 |
 | 2/7/2024 | OSH3804A | Building Search, Manual Breach, Active Threat | Instructed | 0.0 | 8.00 |

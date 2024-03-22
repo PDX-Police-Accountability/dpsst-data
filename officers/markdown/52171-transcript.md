@@ -32,6 +32,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/15/2005 | No Degree | Clackamas Community College |  | 11.0 |
+| 12/9/2005 | Bachelor Arts | All Other Education Institutes |  | 170.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

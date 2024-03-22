@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 3/18/2024
+  agency: Vernonia Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/18/2023
   agency: Portland Police Bureau
   action: Resigned
@@ -21,7 +27,14 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 3/18/2024
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 9/18/2025
 training_records:
 - date: 9/28/2023
   course: PDP2384A

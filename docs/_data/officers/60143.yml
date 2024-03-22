@@ -16,11 +16,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/15/2024
+- status_date: 3/19/2024
   certificate: Police Officer
   level: Intermediate
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 3/19/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 2/11/2021

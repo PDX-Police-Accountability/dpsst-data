@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '36.00'
+- date: 1/26/2024
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 1/10/2024
   course: PDP1426A
   title: 2024 CNT Annual Training

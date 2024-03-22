@@ -46,6 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2024 | BPT3381A | Resiliency | Passed | 0.0 | 2.00 |
+| 3/15/2024 | BPT4167A | Stereotype Threat | Passed | 0.0 | 2.00 |
+| 3/15/2024 | BPT0491A | Coaching and Feedback | Passed | 0.0 | 2.00 |
+| 3/15/2024 | BPT1191A | Equitable Policing | Passed | 0.0 | 2.00 |
+| 3/14/2024 | BPT0828A | Outward Mindset | Passed | 0.0 | 8.00 |
 | 3/13/2024 | BPT2608A | Coaching and Feedback | Passed | 0.0 | 8.00 |
 | 3/12/2024 | BPT1620A | Facilitator Development | Passed | 0.0 | 8.00 |
 | 3/11/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |

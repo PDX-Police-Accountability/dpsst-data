@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/8/2024
+  course: ADP1864A
+  title: DT/Wrap Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/2/2024
   course: TAP3329A
   title: HAZMAT First Responder Awareness Level 1

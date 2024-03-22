@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2024
+  course: HBS2632A
+  title: Criminal Investigations Using Cellular Tech
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/31/2024
   course: TMS3091A
   title: Evidence Collection

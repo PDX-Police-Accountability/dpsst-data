@@ -62,6 +62,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2024
+  course: OSH1328A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/4/2024
+  course: OSH3978A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/3/2024
+  course: OSH0843A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2024
+  course: OSH4433A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/1/2024
+  course: OSH0043A
+  title: 1st Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/22/2024
   course: OSH2091A
   title: OSP 2024 Patrol Tactics In-Service

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/2/2024
+  course: PDP2067A
+  title: Investigation of Motorcycle Crashes Level II
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/3/2024
   course: PDP2746A
   title: Crash Team Resiliancy with Dr. Stephanie Conn

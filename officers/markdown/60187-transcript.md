@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2024 | HSU3903A | March Supplemental Range | Passed | 0.0 | 2.00 |
 | 3/2/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
 | 2/24/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |
 | 2/23/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Passed | 0.0 | 10.00 |

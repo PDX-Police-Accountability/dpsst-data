@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2024 | HSU3903A | March Supplemental Range | Passed | 0.0 | 2.00 |
 | 1/14/2024 | HSU2342A | Red Dot Sight Operator Course | Passed | 0.0 | 10.00 |
 | 1/12/2024 | HSU2844A | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 10.00 |
 | 1/11/2024 | HSU2844A | Forensic Experiential Trauma Interview (FETI) | Passed | 0.0 | 10.00 |

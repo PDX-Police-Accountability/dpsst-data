@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2024
+  course: HBN1194A
+  title: NARCAN Training and Presentation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/28/2024
   course: HBS1654A
   title: Officer Safety - Weapons Familiarization

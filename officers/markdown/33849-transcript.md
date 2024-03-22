@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2024 | PDP2067A | Investigation of Motorcycle Crashes Level II | Passed | 0.0 | 40.00 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |
 | 1/3/2024 | PDP2305A | DOJ Updates with Deena Ryerson | Passed | 0.0 | 1.25 |
 | 1/3/2024 | PDP0852A | SFST Refresher Training | Passed | 0.0 | 1.50 |

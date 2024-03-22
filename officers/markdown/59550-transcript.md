@@ -18,7 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 1/10/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 3/19/2024 | Police Officer | Intermediate | Granted | 3/19/2024 |  |  |
 | 2/6/2020 | Police Officer | Basic | Granted | 2/6/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -31,6 +31,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/9/2017 | Bachelor Science | University Of Oregon |  | 179.0 |
+| 3/19/2016 | Associate Arts | Lane Community College | Criminal Justice | 117.0 |
+| 3/19/2016 | Associates of General Studies | Lane Community College |  | 0.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

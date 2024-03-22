@@ -28,11 +28,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 1/10/2024
+- status_date: 3/19/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 3/19/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 2/6/2020
@@ -1336,4 +1336,19 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/18/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/9/2017
+  degree: Bachelor Science
+  school: University Of Oregon
+  major: ''
+  hours: '179.0'
+- date: 3/19/2016
+  degree: Associate Arts
+  school: Lane Community College
+  major: Criminal Justice
+  hours: '117.0'
+- date: 3/19/2016
+  degree: Associates of General Studies
+  school: Lane Community College
+  major: ''
+  hours: '0.0'

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2024 | PDN1970A | Use of Force Practical | Passed | 0.0 | 2.00 |
 | 3/13/2024 | PDN4146A | Search and Seizure Caselaw Review | Passed | 0.0 | 1.00 |
 | 3/12/2024 | PDN2709A | Confrontational Simulation Office Scenarios | Passed | 0.0 | 2.00 |
 | 3/12/2024 | PDN0295A | Realistic De-escalation | Passed | 0.0 | 2.00 |

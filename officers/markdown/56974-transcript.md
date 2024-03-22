@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2024 | PDP0069A | Crime Scene Investigations | Passed | 0.0 | 40.00 |
 | 1/15/2024 | BVP2406A | First Aid and Adult Child CPR 11524 pm | Passed | 0.0 | 3.00 |
 | 1/10/2024 | BVP3514A | Bike Theft Prevention Reserves | Passed | 0.0 | 2.00 |
 | 12/21/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

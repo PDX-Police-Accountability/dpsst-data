@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/18/2024 | Vernonia Police Department | Hired | Police Off |  |  |
 | 10/18/2023 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/22/2022 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/18/2024 | Police Officer | Basic | Required |  |  | 9/18/2025 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
