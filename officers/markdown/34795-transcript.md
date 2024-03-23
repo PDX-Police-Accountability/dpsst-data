@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/20/2024 | OCS0994A | Speed from Concealment, Marksmanship, Cover | Passed | 0.0 | 3.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/12/2023 | OCS3053A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |
 | 12/12/2023 | OCS1971A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |

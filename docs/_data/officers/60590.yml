@@ -1806,4 +1806,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/17/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/17/2012
+  degree: Bachelor Science
+  school: Oregon State University
+  major: ''
+  hours: '213.0'

@@ -28,6 +28,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/18/2024 | PLS0584A | PLS 2024-Lesson 13: De-Escalation | Passed | 0.0 | 1.00 |
+| 2/22/2024 | PLS3825A | PLS 2024 Les1-Man Shoots Six then Himself | Passed | 0.0 | 1.00 |
 | 2/14/2024 | REG4443A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 2/14/2024 | REG1825A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/3/2024 | PLS0311A | 2023 Lexipol DTB's | Passed | 0.0 | 4.00 |

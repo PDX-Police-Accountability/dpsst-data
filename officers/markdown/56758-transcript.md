@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2024 | SPP2933A | Mobile Field Force | Instructed | 0.0 | 20.00 |
 | 1/18/2024 | PDP0772A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.50 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |
 | 12/18/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

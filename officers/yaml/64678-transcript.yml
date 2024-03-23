@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/18/2024
+  course: PLS0584A
+  title: 'PLS 2024-Lesson 13: De-Escalation'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/22/2024
+  course: PLS3825A
+  title: PLS 2024 Les1-Man Shoots Six then Himself
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/14/2024
   course: REG4443A
   title: Intox 8000 (Hours included in Basic)

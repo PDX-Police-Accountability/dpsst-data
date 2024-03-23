@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2024
+  course: HBP4257A
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/12/2024
   course: HBP0655A
   title: PoliceOne EVOC - Professional Police Driving
@@ -1172,6 +1178,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/19/2024
+  expiration_date: 3/19/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

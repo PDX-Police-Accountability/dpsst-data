@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/17/2024
+  course: PDP1351A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/5/2024
   course: E11PDP19
   title: FTM Equivalency Review (Portland Police Bureau)

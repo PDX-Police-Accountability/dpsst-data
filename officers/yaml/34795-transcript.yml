@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/20/2024
+  course: OCS0994A
+  title: Speed from Concealment, Marksmanship, Cover
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 12/16/2023
   course: OCS2690A
   title: Bias Hate Crime Training

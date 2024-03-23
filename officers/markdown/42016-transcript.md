@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2024 | PDP2935A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
+| 3/14/2024 | PDP2935A | 2024 SERT Training - ITERATION | Instructed | 0.0 | 9.00 |
 | 2/29/2024 | PDP0535A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |

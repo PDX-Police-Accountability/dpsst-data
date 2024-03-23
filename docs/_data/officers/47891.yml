@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2024
+  course: PDP4432A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/21/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

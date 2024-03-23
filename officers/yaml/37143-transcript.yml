@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/13/2024
+  course: PDP4432A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 1/26/2024
   course: PDP1625A
   title: FBI Regional Crisis Negotiations Course
@@ -72,6 +78,12 @@ training_records:
 - date: 1/26/2024
   course: XDELETE1
   title: Pending for Deletion Due to Duplicate or Other Rea
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 1/26/2024
+  course: F6R2087A
+  title: FBI Basic Negotiation Course
   status: Passed
   score: '0.0'
   hours: '36.00'

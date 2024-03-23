@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/19/2024
+  course: 26892A
+  title: Retail Theft
+  status: ''
+  score: '0.0'
+  hours: '4.00'
 - date: 12/19/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '140.00'
+- date: 2/21/2024
+  course: OCS2173A
+  title: Markmanship / MILO Decision Making, De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/16/2023
   course: OCS2690A
   title: Bias Hate Crime Training

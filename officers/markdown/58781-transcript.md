@@ -28,6 +28,10 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/1/2009 | Doctor Of Jurisprudence | Willamette University |  | 87.0 |
+| 9/15/2007 | No Degree | All Other Education Institutes |  | 5.0 |
+| 5/14/2006 | Bachelor Arts | All Other Education Institutes |  | 28.0 |
+| 6/15/2005 | No Degree | All Other Education Institutes |  | 16.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

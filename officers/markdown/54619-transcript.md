@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/19/2024 | 3/19/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2024 | HBP4257A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 3/12/2024 | HBP0655A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
 | 2/28/2024 | HBP4198A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |
 | 7/13/2023 | HDA3494A | Informant Management | Passed | 0.0 | 4.00 |

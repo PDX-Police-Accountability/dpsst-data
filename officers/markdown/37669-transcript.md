@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/29/2024 | PDP0535A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/11/2024 | PDP4316A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

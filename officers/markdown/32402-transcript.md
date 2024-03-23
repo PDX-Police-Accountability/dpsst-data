@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2024 | 26892A | Retail Theft |  | 0.0 | 4.00 |
 | 3/1/2024 | HBS0698A | 2024 February Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS0186A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 1/11/2024 | HBS4365A | EVOC - Investigations | Instructed | 0.0 | 5.00 |

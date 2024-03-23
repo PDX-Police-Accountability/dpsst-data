@@ -50,6 +50,12 @@ certification_records:
   expiration_date: 8/2/2024
   probation_date: ''
 training_records:
+- date: 3/13/2024
+  course: PDP4432A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/21/2024
   course: PDP0192A
   title: 2024 CNT Crisis Negotiation Team Annual Training

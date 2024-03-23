@@ -42,7 +42,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/27/2024 | PDS4189A | Smith  Wesson MP15 Armor's Course | Passed | 0.0 | 8.00 |
+| 2/21/2024 | OCS2173A | Markmanship / MILO Decision Making, De-escalation | Instructed | 0.0 | 2.00 |
+| 2/20/2024 | OCS0994A | Speed from Concealment, Marksmanship, Cover | Instructed | 0.0 | 3.00 |
 | 2/16/2024 | OCS1793A | Marksmanship/MILO Use of Force Decisions | Instructed | 0.0 | 3.00 |
+| 2/16/2024 | OCS4267A | Marksmanship/MILO Use of Force Decisions | Instructed | 0.0 | 3.00 |
 | 2/9/2024 | OCS0856A | February 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
 | 2/1/2024 | OCS2607A | Honor Guard Revolver Marksmanship | Instructed | 0.0 | 2.00 |
 | 12/30/2023 | OCS1389A | December firearms instruction | Instructed | 0.0 | 56.00 |

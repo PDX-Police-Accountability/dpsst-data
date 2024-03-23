@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2024
+  course: SPP2933A
+  title: Mobile Field Force
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

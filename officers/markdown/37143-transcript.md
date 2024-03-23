@@ -37,9 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 1/26/2024 | PDP1625A | FBI Regional Crisis Negotiations Course | Passed | 0.0 | 36.00 |
 | 1/26/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 36.00 |
 | 1/26/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 36.00 |
+| 1/26/2024 | F6R2087A | FBI Basic Negotiation Course | Passed | 0.0 | 36.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC1165A | Case Study on Safeway Active Shooter | Passed | 0.0 | 1.50 |
 | 1/12/2024 | PDP0229A | OACP Executive Leadership Training Seminar | Passed | 0.0 | 19.00 |

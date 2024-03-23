@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2024 | PDP1559A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 2/29/2024 | PDP0535A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/15/2024 | PDP2063A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |

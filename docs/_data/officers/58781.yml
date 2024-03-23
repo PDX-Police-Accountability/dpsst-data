@@ -2334,4 +2334,24 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/15/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/1/2009
+  degree: Doctor Of Jurisprudence
+  school: Willamette University
+  major: ''
+  hours: '87.0'
+- date: 9/15/2007
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '5.0'
+- date: 5/14/2006
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '28.0'
+- date: 6/15/2005
+  degree: No Degree
+  school: All Other Education Institutes
+  major: ''
+  hours: '16.0'

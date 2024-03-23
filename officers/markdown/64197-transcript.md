@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/25/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/6/2024 | PDP2685A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 1/31/2024 | REG3800A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/11/2024 | REG1606A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/30/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

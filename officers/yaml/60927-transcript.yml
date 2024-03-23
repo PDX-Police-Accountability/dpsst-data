@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/10/2024
+  course: PDP0938A
+  title: ICS-100 Intro to the Incident Cmmnd System
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/14/2023
   course: PDP4443A
   title: 2023-2 All Sworn In-Service ABLE Scenario

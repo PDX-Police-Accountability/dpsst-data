@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/17/2024 | PDP1351A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 2/9/2024 | VND0416A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 2/8/2024 | PDP3079A | 2024-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |

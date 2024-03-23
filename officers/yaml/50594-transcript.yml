@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2024
+  course: SPP2933A
+  title: Mobile Field Force
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 2/1/2024
   course: PDP0185A
   title: Western States Public Order Conference
