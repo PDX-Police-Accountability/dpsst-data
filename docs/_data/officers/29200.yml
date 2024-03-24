@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2024
+  course: PDA0422A
+  title: Defensive Tactics / Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/5/2024
   course: VND1009A
   title: 28 CFR 23 and WSIN Resources

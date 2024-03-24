@@ -190,6 +190,18 @@ certification_records:
   expiration_date: 8/24/2027
   probation_date: ''
 training_records:
+- date: 3/21/2024
+  course: REG1216A
+  title: Use of Force 3 (Basic Police)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/21/2024
+  course: REG4471A
+  title: Bias Crimes (Basic Police)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/12/2024
   course: BPT1620A
   title: Facilitator Development

@@ -56,6 +56,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2024 | REG1216A | Use of Force 3 (Basic Police) | Passed | 0.0 | 2.00 |
+| 3/21/2024 | REG4471A | Bias Crimes (Basic Police) | Passed | 0.0 | 2.00 |
 | 3/12/2024 | BPT1620A | Facilitator Development | Passed | 0.0 | 8.00 |
 | 3/11/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
 | 9/14/2023 | JDN1031A | Firearms Qualifications | Passed | 0.0 | 0.50 |
