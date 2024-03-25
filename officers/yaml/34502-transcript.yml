@@ -69,8 +69,8 @@ certification_records:
   probation_date: ''
 training_records:
 - date: 3/19/2024
-  course: 26892A
-  title: Retail Theft
+  course: XDELETE1
+  title: Pending for Deletion Due to Duplicate or Other Rea
   status: ''
   score: '0.0'
   hours: '4.00'

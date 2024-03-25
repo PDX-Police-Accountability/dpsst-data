@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2024 | PDA0422A | Defensive Tactics / Use of Force | Passed | 0.0 | 3.00 |
 | 3/12/2024 | SAG3322A | Safe Accessible Foensic Interviewing for Elders | Passed | 0.0 | 12.00 |
 | 3/1/2024 | PDA3432A | Use of Radio Communications | Passed | 0.0 | 1.00 |
 | 2/1/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |

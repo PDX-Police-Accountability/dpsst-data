@@ -30,54 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 3/18/2024
-  course: PLS0584A
-  title: 'PLS 2024-Lesson 13: De-Escalation'
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 2/22/2024
-  course: PLS3825A
-  title: PLS 2024 Les1-Man Shoots Six then Himself
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 2/14/2024
-  course: REG4443A
-  title: Intox 8000 (Hours included in Basic)
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
 - date: 2/14/2024
   course: REG1825A
   title: Intox 8000 (Hours included in Basic)
   status: Passed
   score: '0.0'
   hours: '0.00'
-- date: 1/3/2024
-  course: PLS0311A
-  title: 2023 Lexipol DTB's
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 12/31/2023
-  course: PLS0352A
-  title: PLS 2023 Les 11 Six Year old Taken Man Shoots
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/27/2023
-  course: PLS0605A
-  title: PLS 2029 Les 9 2 year old With Gunshot
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
-- date: 12/19/2023
-  course: PLS4385A
-  title: T911 Heroes Suicide by Cop
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 12/18/2023
   course: PDP0839A
   title: Amended DOJ Settlement Agreement
@@ -120,18 +78,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
-- date: 11/3/2023
-  course: PLS2501A
-  title: T911 Heroes Missing Person Entries
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 10/28/2023
-  course: PLS2144A
-  title: T911 Heroes Suicidal Callers
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

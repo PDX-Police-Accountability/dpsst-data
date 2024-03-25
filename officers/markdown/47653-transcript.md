@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2024 | PDP0270A | 2024 Axon Taser 7 Instructor Course | Instructed | 0.0 | 8.00 |
 | 2/1/2024 | PDP0220A | Western States Public Order Conference | Passed | 0.0 | 32.00 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 12/5/2023 | PDP0217A | Defense Technology Monadnock PR-24 Instructor | Passed | 0.0 | 16.00 |
