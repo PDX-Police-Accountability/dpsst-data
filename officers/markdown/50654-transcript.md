@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2024 | EGP4383A | Suicide Prevention, Identifiation and Intervention | Passed | 0.0 | 4.00 |
 | 12/10/2020 | PDP12780 | 2020 CHO Stops App Update | Passed | 0.0 | 0.50 |
 | 12/10/2020 | PDP12814 | 2020 City Attorney's Off Index Newspapers/SimonTRO | Passed | 0.0 | 0.25 |
 | 12/10/2020 | PDP36364 | 2020 City Attorney's Off IPO/McNally Refresh Train | Passed | 0.0 | 0.50 |

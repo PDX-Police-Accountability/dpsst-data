@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/19/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea |  | 0.0 | 4.00 |
+| 3/19/2024 | SAG1640A | Retail Theft | Passed | 0.0 | 4.00 |
 | 3/1/2024 | HBS0698A | 2024 February Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS0186A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 1/11/2024 | HBS4365A | EVOC - Investigations | Instructed | 0.0 | 5.00 |

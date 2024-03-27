@@ -32,7 +32,7 @@
 | ---- | ------ | ------ | ----- | ----- |
 | 2/11/2015 | No Degree | All Other Education Institutes |  | 48.0 |
 | 3/15/2012 | No Degree | All Other Education Institutes |  | 19.0 |
-| 12/15/2011 | Associate Science | All Other Education Institutes | Law Enforcement | 99.6 |
+| 12/11/2011 | Associate Science | All Other Education Institutes | Law Enforcement | 99.6 |
 | 1/11/2009 | No Degree | All Other Education Institutes |  | 18.0 |
 | 6/15/2006 | No Degree | All Other Education Institutes |  | 21.0 |
 | 3/15/2000 | No Degree | All Other Education Institutes |  | 22.0 |

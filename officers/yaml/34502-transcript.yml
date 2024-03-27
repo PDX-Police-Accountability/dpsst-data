@@ -74,6 +74,12 @@ training_records:
   status: ''
   score: '0.0'
   hours: '4.00'
+- date: 3/19/2024
+  course: SAG1640A
+  title: Retail Theft
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/19/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

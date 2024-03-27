@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/22/2024
+  course: VND0439A
+  title: ICS 300 Intermediate Incident Command System
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 5/3/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

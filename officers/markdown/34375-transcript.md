@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/4/2024 | STS1103A | Glock 47 RDS Transition Course  Qualification | Passed | 0.0 | 16.00 |
+| 2/21/2024 | STS0097A | Glock 47 RDS Transition Classroom training | Passed | 0.0 | 2.00 |
 | 12/31/2023 | STS3772A | Lexipol Daily Training Bulletins | Passed | 0.0 | 6.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/26/2023 | STS0288A | Ethics Bulletin 36 and 37 | Passed | 0.0 | 1.00 |

@@ -126,6 +126,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/4/2024
+  course: STS1103A
+  title: Glock 47 RDS Transition Course  Qualification
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/21/2024
+  course: STS0097A
+  title: Glock 47 RDS Transition Classroom training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/31/2023
   course: STS3772A
   title: Lexipol Daily Training Bulletins
