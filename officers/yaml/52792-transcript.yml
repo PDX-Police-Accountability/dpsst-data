@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2024
+  course: OSH1123A
+  title: Mobile Vehicle and Foot Surveillance Training
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 2/5/2024
   course: VND3218A
   title: 28 CFR 23 and WSIN Resources

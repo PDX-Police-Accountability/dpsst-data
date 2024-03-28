@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/12/2024 | OCP2163A | Hazrdous Materials / Global SDS | Passed | 0.0 | 1.00 |
 | 2/12/2024 | OCP3153A | Airborne and Bloodborne Pathogens / Narcan | Passed | 0.0 | 1.00 |
 | 1/31/2024 | VND4338A | Inspection Enforcement Annual Refresh Class | Passed | 0.0 | 4.00 |
@@ -44,6 +45,8 @@
 | 1/25/2024 | OCP0441A | Officer In Charge | Passed | 0.0 | 1.50 |
 | 1/23/2024 | OCP3916A | First Aid  Adult/Child CPR | Passed | 0.0 | 2.00 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
+| 12/31/2023 | OCP1862A | DUII Investigation Refresher | Passed | 0.0 | 0.75 |
+| 12/31/2023 | OCP1862A | DUII Investigation Refresher | Instructed | 0.0 | 2.25 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2023 | OCP3671A | Active Threat  Hostage Rescue Training | Passed | 0.0 | 4.00 |
 | 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |

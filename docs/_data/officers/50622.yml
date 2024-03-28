@@ -122,6 +122,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '17.00'
+- date: 12/31/2023
+  course: OCP1862A
+  title: DUII Investigation Refresher
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

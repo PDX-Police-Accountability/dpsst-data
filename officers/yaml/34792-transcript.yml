@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 2/22/2024
+  course: REG3588A
+  title: 2024 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/18/2024
   course: TAP0996A
   title: BloodBorne Pathogens for First Responders

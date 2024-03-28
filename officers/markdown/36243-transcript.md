@@ -52,6 +52,7 @@
 | 3/1/2024 | HBS3977A | 2024 February De-Escalation | Passed | 0.0 | 1.50 |
 | 3/1/2024 | HBS0698A | 2024 February Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
 | 2/27/2024 | HBS3463A | On Duty PIT | Passed | 0.0 | 0.50 |
+| 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/5/2024 | HBS3460A | 2024 Feb Rifle Updates | Passed | 0.0 | 9.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/31/2024 | HBS3705A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |

@@ -37,6 +37,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/11/2024 | OCS0650A | CPR First Aid | Passed | 0.0 | 6.00 |
+| 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 1/25/2024 | BPT2839A | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 12/15/2023 | VND1252A | North American Standard Truck Inspection Part B | Passed | 0.0 | 40.00 |
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |

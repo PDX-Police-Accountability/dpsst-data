@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: REG3588A
+  title: 2024 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 10/12/2023
   course: PDP3431A
   title: 2023 Supevisor In-Service Chief's Office Disc.

@@ -29,7 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 5/27/2007 | Bachelor Science | Linfield College |  | 125.0 |
+| 5/27/2007 | Bachelor Science | Linfield College | Health Professions | 73.0 |
 | 6/15/2004 | Associate Arts | All Other Education Institutes |  | 68.0 |
 ## Training
 | date | course | title | status | score | hours |

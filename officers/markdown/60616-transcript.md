@@ -31,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/1/2024 | PDP1188A | RADAR/LIDAR Operator | Instructed | 0.0 | 5.00 |
+| 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 1/25/2024 | BPT2839A | RADAR/LIDAR Instructor Development Course | Passed | 0.0 | 40.00 |
 | 1/25/2024 | PDP3467A | Radar Lidar Instructor Development Course | Passed | 0.0 | 32.00 |
 | 1/3/2024 | PDP0852A | SFST Refresher Training | Passed | 0.0 | 1.50 |

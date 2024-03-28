@@ -48,6 +48,7 @@
 | 1/10/2024 | OCP0820A | Department Planning Retreat | Passed | 0.0 | 6.50 |
 | 1/4/2024 | OCP4478A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 12/31/2023 | OCP1409A | Daily Training Bulletins | Passed | 0.0 | 17.00 |
+| 12/31/2023 | OCP1862A | DUII Investigation Refresher | Passed | 0.0 | 0.75 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/6/2023 | OCP0634A | Firearms/Use of Force | Instructed | 0.0 | 8.00 |
 | 11/27/2023 | OCP3280A | Ethics | Passed | 0.0 | 1.00 |

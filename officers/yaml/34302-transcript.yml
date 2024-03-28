@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: REG3588A
+  title: 2024 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

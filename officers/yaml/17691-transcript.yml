@@ -67,6 +67,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/22/2024
+  course: REG3588A
+  title: 2024 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/31/2024
   course: VND2911A
   title: 28 CFR 23 and WSIN Resources

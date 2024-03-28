@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/22/2024
+  course: REG3588A
+  title: 2024 Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/3/2024
   course: PDP2746A
   title: Crash Team Resiliancy with Dr. Stephanie Conn

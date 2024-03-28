@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/2/2024 | PDP2067A | Investigation of Motorcycle Crashes Level II | Passed | 0.0 | 40.00 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |
 | 1/3/2024 | PDP2305A | DOJ Updates with Deena Ryerson | Passed | 0.0 | 1.25 |

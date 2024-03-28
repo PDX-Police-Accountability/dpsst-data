@@ -81,7 +81,7 @@
 | 3/20/2023 | OCS1390A | Long Gun Retention and Strikes | Passed | 0.0 | 1.00 |
 | 3/17/2023 | OCS34493 | FBI/LEEDA SLI | Passed | 0.0 | 28.00 |
 | 3/2/2023 | OCS30261 | Sergeant Meeting | Passed | 0.0 | 2.00 |
-| 2/28/2023 | OCS4425 | 1st quarter corrections firearms | Passed | 0.0 | 2.00 |
+| 2/28/2023 | OCS4425 | 1st Quarter Corrections Firearms | Passed | 0.0 | 2.00 |
 | 2/22/2023 | OCS22377 | Employee  Labor Relations Training | Passed | 0.0 | 2.00 |
 | 2/13/2023 | OCS40237 | CCITF Feb DTs | Passed | 0.0 | 1.00 |
 | 2/13/2023 | OCS18313 | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
