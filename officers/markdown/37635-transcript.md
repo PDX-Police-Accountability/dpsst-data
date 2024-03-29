@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2024 | EGP1625A | Defensive Tactics Skills  Scenarios | Passed | 0.0 | 4.00 |
+| 3/14/2024 | EGP4380A | Firearms Marksmanship Skills | Passed | 0.0 | 4.00 |
 | 2/15/2024 | EGP1205A | Stop the Bleed/MARCH | Passed | 0.0 | 4.00 |
 | 1/11/2024 | EGP3507A | ACAP Training | Passed | 0.0 | 2.00 |
 | 1/11/2024 | EGP3418A | Bloodborne Pathogens | Passed | 0.0 | 1.50 |

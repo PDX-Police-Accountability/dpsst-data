@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/14/2024
+  course: EGP1625A
+  title: Defensive Tactics Skills  Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/14/2024
+  course: EGP4380A
+  title: Firearms Marksmanship Skills
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/15/2024
   course: EGP1205A
   title: Stop the Bleed/MARCH

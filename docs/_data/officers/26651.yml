@@ -81,6 +81,12 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 1/11/2024
+  course: PDS4396A
+  title: Use of Force for Supervisors
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 7/27/2023
   course: PDS2183A
   title: Origami/RSK Training

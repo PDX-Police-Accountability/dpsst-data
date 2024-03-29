@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/22/2024 | PDP4465A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 15.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
+| 2/22/2024 | PDP3661A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |
 | 1/3/2024 | PDP0852A | SFST Refresher Training | Passed | 0.0 | 1.50 |
 | 1/3/2024 | PDP2305A | DOJ Updates with Deena Ryerson | Passed | 0.0 | 1.25 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |

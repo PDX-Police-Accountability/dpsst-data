@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/1/2024
+  course: PDP4010A
+  title: Western States Public Order Conference
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 12/18/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

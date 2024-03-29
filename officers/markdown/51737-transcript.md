@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
+| 2/22/2024 | PDP3362A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |
 | 2/15/2024 | PDP1226A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 1/21/2024 | PDP1581A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 2.00 |

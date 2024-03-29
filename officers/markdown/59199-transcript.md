@@ -42,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2024 | EGP1625A | Defensive Tactics Skills  Scenarios | Passed | 0.0 | 4.00 |
+| 3/14/2024 | EGP4380A | Firearms Marksmanship Skills | Passed | 0.0 | 4.00 |
 | 2/15/2024 | EGP1205A | Stop the Bleed/MARCH | Passed | 0.0 | 4.00 |
 | 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 1/29/2024 | EGP1944A | Briefing:  Baltimore PD OIS Debrief | Passed | 0.0 | 0.50 |

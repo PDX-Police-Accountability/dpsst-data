@@ -37,6 +37,7 @@
 | 2/28/2024 | PDP2362A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/21/2024 | PDP0969A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/14/2024 | PDP3614A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 2/9/2024 | PDP2864A | ATAP Winter Conference | Passed | 0.0 | 21.75 |
 | 1/31/2024 | PDP0215A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 1/24/2024 | PDP0851A | 2024 Explosive Disposal Unit Weekly Training | Passed | 0.0 | 9.00 |
 | 1/18/2024 | PDP0772A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.50 |

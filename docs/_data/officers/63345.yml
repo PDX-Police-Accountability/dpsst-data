@@ -66,6 +66,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/22/2024
+  course: PDP3362A
+  title: ODOT Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
 - date: 1/3/2024
   course: PDP2746A
   title: Crash Team Resiliancy with Dr. Stephanie Conn

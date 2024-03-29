@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/9/2024
+  course: PDP2864A
+  title: ATAP Winter Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.75'
 - date: 1/31/2024
   course: PDP0215A
   title: 2024 MEDU Weekly Training

@@ -202,6 +202,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/21/2024
+  course: REG0687A
+  title: Airway and Circulatory Anatomy and Physiology
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/12/2024
   course: BPT1620A
   title: Facilitator Development

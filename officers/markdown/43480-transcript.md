@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | PDP4010A | Western States Public Order Conference | Passed | 0.0 | 24.00 |
 | 12/18/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2023 | PDP3233A | PAARI National Law Enforcement Summit | Passed | 0.0 | 12.60 |
 | 11/20/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

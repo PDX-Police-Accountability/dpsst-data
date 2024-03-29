@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/7/2024
+  course: PDS3672A
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/31/2024
   course: PDS3177A
   title: Bloodborne Pathogens

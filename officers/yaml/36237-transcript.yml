@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/9/2024
+  course: PDP2864A
+  title: ATAP Winter Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.75'
 - date: 12/6/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

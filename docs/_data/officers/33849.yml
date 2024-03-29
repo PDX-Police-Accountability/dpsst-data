@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/22/2024
+  course: PDP3362A
+  title: ODOT Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
 - date: 2/2/2024
   course: PDP2067A
   title: Investigation of Motorcycle Crashes Level II

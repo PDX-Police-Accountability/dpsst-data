@@ -81,6 +81,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 2/5/2024
+  course: PDS2649A
+  title: Range Training
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/30/2024
   course: PDS3870A
   title: Defensive Tactics IDC
@@ -111,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 1/10/2024
+  course: PDS0175A
+  title: Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

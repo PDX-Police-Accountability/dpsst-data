@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2024 | PDS3208A | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
+| 2/7/2024 | PDS3672A | Range Training | Passed | 0.0 | 2.00 |
 | 1/31/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/25/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/24/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/11/2024 | PDS4396A | Use of Force for Supervisors | Instructed | 0.0 | 4.00 |
 | 7/27/2023 | PDS2183A | Origami/RSK Training | Passed | 0.0 | 1.00 |
 | 7/27/2023 | PDS2659A | Harassment Free Workplace | Passed | 0.0 | 2.00 |
 | 6/21/2023 | PDS2414A | Report Writing | Passed | 0.0 | 8.00 |

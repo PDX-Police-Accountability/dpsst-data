@@ -46,6 +46,7 @@
 | 1/19/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/19/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/18/2024 | PDS0907A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |
+| 1/10/2024 | PDS0175A | Leadership Training | Passed | 0.0 | 4.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |
 | 12/15/2023 | PDS4082A | Benchmark Analytics Refresher | Passed | 0.0 | 0.50 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/9/2024
+  course: PDP2864A
+  title: ATAP Winter Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.75'
 - date: 11/28/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals

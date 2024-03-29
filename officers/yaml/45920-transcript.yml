@@ -5625,6 +5625,11 @@ attribute_records:
   effective_date: 3/7/2007
   expiration_date: ''
 education_records:
+- date: 8/10/2013
+  degree: Masters Science
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '31.0'
 - date: 5/12/2011
   degree: Associate Arts
   school: Portland State University

@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/29/2023
+  course: PDS0068A
+  title: Life Safety Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/16/2023
   course: PDS0694A
   title: Active Threat

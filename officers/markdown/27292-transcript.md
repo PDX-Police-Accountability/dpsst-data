@@ -51,6 +51,7 @@
 | 1/29/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/29/2024 | PDS3056A | Corrections Liability | Passed | 0.0 | 1.00 |
 | 1/29/2024 | PDS3505A | Suicide Prevention | Passed | 0.0 | 1.00 |
+| 1/8/2024 | PDS1739A | January Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2023 | PDS3838A | Anti-Bias Training | Passed | 0.0 | 2.00 |
 | 12/15/2023 | PDS2484A | Benchmark Analytics | Passed | 0.0 | 0.50 |

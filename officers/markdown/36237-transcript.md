@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/9/2024 | PDP2864A | ATAP Winter Conference | Passed | 0.0 | 21.75 |
 | 12/6/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/6/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 11/24/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

@@ -36,11 +36,21 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/21/2024
+  course: PDP4366A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.25'
 - date: 2/27/2024
   course: SMP3366A
   title: Mental Health First Aid
   status: Passed
   score: '0.0'
   hours: '8.00'
-attribute_records: []
+attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/21/2024
+  expiration_date: 3/21/2026
 education_records: []
