@@ -5630,6 +5630,11 @@ education_records:
   school: All Other Education Institutes
   major: Criminal Justice
   hours: '31.0'
+- date: 6/12/2011
+  degree: Bachelor Arts
+  school: Portland State University
+  major: Criminal Justice
+  hours: '162.0'
 - date: 5/12/2011
   degree: Associate Arts
   school: Portland State University

@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '140.00'
+- date: 3/1/2024
+  course: OCS2383A
+  title: First Aid CPR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/21/2024
   course: OCS2173A
   title: Markmanship / MILO Decision Making, De-escalation
@@ -1856,6 +1862,10 @@ training_records:
   score: '0.0'
   hours: '6.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/1/2024
+  expiration_date: 3/1/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/28/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 5/18/2020
   certificate: Police Officer
   level: Basic
@@ -2211,4 +2218,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/14/2019
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/8/2018
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '105.0'
+- date: 6/15/2015
+  degree: No Degree
+  school: Oregon State University
+  major: ''
+  hours: '49.0'

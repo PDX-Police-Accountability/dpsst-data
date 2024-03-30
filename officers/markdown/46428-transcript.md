@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | PDP1924A | WRCTC Mission Planning | Passed | 0.0 | 16.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/30/2024 | VND2789A | NW Peer Support Conference | Passed | 0.0 | 6.00 |

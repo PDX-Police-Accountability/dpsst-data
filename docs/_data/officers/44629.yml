@@ -28,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 3/28/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 4/21/2011
   certificate: Police Officer
   level: Intermediate
@@ -3919,6 +3926,11 @@ attribute_records:
   effective_date: 2/9/2006
   expiration_date: ''
 education_records:
+- date: 6/12/2004
+  degree: Bachelor Science
+  school: Portland State University
+  major: ''
+  hours: '148.0'
 - date: 12/15/2000
   degree: No Degree
   school: Clackamas Community College

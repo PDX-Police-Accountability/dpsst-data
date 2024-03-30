@@ -99,6 +99,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/8/2024
+  course: PDP0732A
+  title: OEM L0103 Planning - Emergency Operations
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 3/6/2024
+  course: PDP3719A
+  title: OEM L0102 Science for Disasters
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 2/20/2024
   course: VND4088A
   title: '0956 NIMS ICS All-Hazards Liaison Officer Course'

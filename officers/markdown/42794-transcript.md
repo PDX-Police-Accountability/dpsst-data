@@ -30,6 +30,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 3/25/2022 | 3/25/2024 |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/27/2024 | PDS4189A | Smith  Wesson MP15 Armor's Course | Passed | 0.0 | 8.00 |
 | 2/21/2024 | OCS2173A | Markmanship / MILO Decision Making, De-escalation | Instructed | 0.0 | 2.00 |
 | 2/20/2024 | OCS0994A | Speed from Concealment, Marksmanship, Cover | Instructed | 0.0 | 3.00 |

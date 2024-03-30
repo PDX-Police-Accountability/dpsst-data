@@ -34,6 +34,7 @@
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 | 8/10/2013 | Masters Science | All Other Education Institutes | Criminal Justice | 31.0 |
+| 6/12/2011 | Bachelor Arts | Portland State University | Criminal Justice | 162.0 |
 | 5/12/2011 | Associate Arts | Portland State University | Criminal Justice | 231.0 |
 | 6/15/2003 | No Degree | Mt Hood Community College |  | 18.0 |
 ## Training

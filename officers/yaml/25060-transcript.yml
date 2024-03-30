@@ -76,12 +76,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/24/2024
+  course: WBP2934A
+  title: Foot Pursuit Video Training/Debriefs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/6/2024
   course: WBP4534A
   title: 'Video Debrief: A Call Quickly Deteriorates'
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/27/2024
+  course: WBP3637A
+  title: Firearms Instructor Development Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/21/2024
   course: WBP1688A
   title: 'Briefing: Scene Control When Suspect Returns'

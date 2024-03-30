@@ -48,6 +48,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2024 | PDP0732A | OEM L0103 Planning - Emergency Operations | Passed | 0.0 | 16.00 |
+| 3/6/2024 | PDP3719A | OEM L0102 Science for Disasters | Passed | 0.0 | 24.00 |
 | 2/20/2024 | VND4088A | 0956 NIMS ICS All-Hazards Liaison Officer Course | Passed | 0.0 | 16.00 |
 | 2/9/2024 | PDP1397A | L0101 Foundations of Emergency Management | Passed | 0.0 | 40.00 |
 | 1/25/2024 | PDP3531A | L0962 NIMS Planning Section Chief - 4 day | Passed | 0.0 | 25.00 |

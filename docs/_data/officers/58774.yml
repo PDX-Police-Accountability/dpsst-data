@@ -143,12 +143,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '640.00'
-- date: 9/10/2018
-  course: F6W22482
-  title: LIDAR
-  status: Passed
-  score: '0.0'
-  hours: '2.00'
 - date: 7/12/2018
   course: PDP40479
   title: IS-00100.c Intro to Incident Command Sys (ICS 100)

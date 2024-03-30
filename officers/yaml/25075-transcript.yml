@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/27/2024
+  course: WBP3637A
+  title: Firearms Instructor Development Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/30/2024
   course: WBP0846A
   title: Defensive Tactics/OC/Baton/WRAP Restraint

@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 3/28/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 5/18/2020 | Police Officer | Basic | Granted | 5/18/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,6 +29,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/8/2018 | Bachelor Arts | All Other Education Institutes |  | 105.0 |
+| 6/15/2015 | No Degree | Oregon State University |  | 49.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
