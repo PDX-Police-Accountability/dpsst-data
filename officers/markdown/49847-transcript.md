@@ -1,7 +1,7 @@
 ## Header
 | attribute | value |
 | --------- | ----- |
-| name | Brainard, Jessica K. |
+| name | Lawhorn, Jessica B. |
 | dpsst_identifier | 49847 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
