@@ -686,6 +686,15 @@
 | Covarrubias, Ramon, Jr. | 65026 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65026-transcript.md) - [yaml](../yaml/65026-transcript.yml) |
 | Moosavi, Sayed J. | 65034 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65034-transcript.md) - [yaml](../yaml/65034-transcript.yml) |
 | Kelly, Cameron A. | 65039 | Portland Police Bureau | Active | Police Officer | Hired | 2024-02-15 | [md](../markdown/65039-transcript.md) - [yaml](../yaml/65039-transcript.yml) |
+| Ratcliffe, Tate | 65111 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65111-transcript.md) - [yaml](../yaml/65111-transcript.yml) |
+| Robles, Daniel A. | 65114 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65114-transcript.md) - [yaml](../yaml/65114-transcript.yml) |
+| Allenbaugh, Nicholas S. | 65138 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65138-transcript.md) - [yaml](../yaml/65138-transcript.yml) |
+| Fox, Tarin D. | 65139 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65139-transcript.md) - [yaml](../yaml/65139-transcript.yml) |
+| Fothergill, Michael A. | 65143 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65143-transcript.md) - [yaml](../yaml/65143-transcript.yml) |
+| Schwartz, Tiah M. | 65176 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65176-transcript.md) - [yaml](../yaml/65176-transcript.yml) |
+| Walsh, Austin J. | 65201 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65201-transcript.md) - [yaml](../yaml/65201-transcript.yml) |
+| Natividad, Daniel R. | 65202 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65202-transcript.md) - [yaml](../yaml/65202-transcript.yml) |
+| Barr, Solomon L. | 65203 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65203-transcript.md) - [yaml](../yaml/65203-transcript.yml) |
 | Ottoman, Kerri L. | 29213 | Portland Police Bureau | Active | Police Officer | LOA | 2023-02-02 | [md](../markdown/29213-transcript.md) - [yaml](../yaml/29213-transcript.yml) |
 | Wiechmann, Frederick J. | 30431 | Portland Police Bureau | Active | Police Officer | LOA | 2022-07-24 | [md](../markdown/30431-transcript.md) - [yaml](../yaml/30431-transcript.yml) |
 | Gauger, Troy M. | 33527 | Portland Police Bureau | Active | Police Officer | LOA | 2023-02-06 | [md](../markdown/33527-transcript.md) - [yaml](../yaml/33527-transcript.yml) |
