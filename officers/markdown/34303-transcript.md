@@ -27,10 +27,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 2/1/2024 | 2/1/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 3/16/2022 | 3/16/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 4/15/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/28/2024 | HBP1265A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
 | 2/7/2024 | HBP4065A | DUII Refresher Course In-service | Passed | 0.0 | 5.00 |
 | 2/7/2024 | HBP3116A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/21/2024 | PDS4304A | Corrections Liability | Passed | 0.0 | 1.00 |
 | 1/31/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/31/2024 | PDS3505A | Suicide Prevention | Passed | 0.0 | 1.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

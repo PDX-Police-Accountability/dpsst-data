@@ -33,6 +33,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2024 | PDS3328A | UNET Range | Passed | 0.0 | 4.00 |
+| 3/19/2024 | PDS1230A | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 2/1/2024 | PDS4304A | Corrections Liability | Passed | 0.0 | 1.00 |
+| 2/1/2024 | PDS2801A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/1/2024 | PDS2112A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/30/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/30/2024 | PDS3505A | Suicide Prevention | Passed | 0.0 | 1.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -28,10 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/27/2023 | 10/27/2025 |
-| Certification Cards | First Aid and CPR | 3/14/2022 | 3/10/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +43,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/15/2024 | VND1728A | Infant  Child Death Investigation | Passed | 0.0 | 8.00 |
 | 3/1/2024 | MMP2598A | Calibre Press Online Training Videos, Jan-Feb | Passed | 0.0 | 2.25 |
 | 2/12/2024 | HBS1348A | Digital Evidence for Law Enforcement | Passed | 0.0 | 7.25 |

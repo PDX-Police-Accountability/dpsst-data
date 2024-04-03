@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/19/2024 | PDS1230A | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 3/18/2024 | PDS3962A | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
 | 2/28/2024 | PDS3208A | Defensive Tactics IDC | Passed | 0.0 | 4.00 |
 | 2/27/2024 | PDS1119A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 2/26/2024 | PDS4516A | Range Training | Instructed | 0.0 | 2.00 |

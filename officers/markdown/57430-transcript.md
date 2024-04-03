@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/1/2024 | PDP0236A | Western States Public Order Conference | Passed | 0.0 | 32.00 |
 | 12/6/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2023 | PDP2477A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 11/30/2023 | PDP1676A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

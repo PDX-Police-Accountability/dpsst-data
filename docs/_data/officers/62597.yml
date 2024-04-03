@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 2/2/2024
+  course: LGP0875A
+  title: Hazmat First Reponder Awareness (FRA) Level 1
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 7/22/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update

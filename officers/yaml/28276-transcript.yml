@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2024
+  course: SVP3206A
+  title: FEMA AWR-160-WMD/Terriorism Awareness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/29/2024
   course: SVP1436A
   title: Addressing Demand, No Buyer No Victim

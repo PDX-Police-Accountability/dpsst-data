@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2024 | SVP3206A | FEMA AWR-160-WMD/Terriorism Awareness | Passed | 0.0 | 8.00 |
 | 2/29/2024 | SVP1436A | Addressing Demand, No Buyer No Victim | Passed | 0.0 | 1.00 |
 | 2/29/2024 | SVP1681A | Human Trafficking 101 | Passed | 0.0 | 1.00 |
 | 2/29/2024 | SVP2453A | Human Trafficking Indicaters  Law Enforcement | Passed | 0.0 | 1.00 |

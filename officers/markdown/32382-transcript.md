@@ -26,10 +26,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | CPR | 1/17/2023 | 1/31/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 10/11/2000 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/1/2024 | HBS0517A | 2024 February ACAP | Passed | 0.0 | 2.00 |
 | 3/1/2024 | HBS3998A | 2024 February ADA Patrol | Passed | 0.0 | 1.00 |
 | 3/1/2024 | HBS3977A | 2024 February De-Escalation | Passed | 0.0 | 1.50 |

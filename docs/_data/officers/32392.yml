@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 3/15/2024
   course: HBS2632A
   title: Criminal Investigations Using Cellular Tech
@@ -80,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/31/2023
+  course: TGP0442A
+  title: Daigle Law Path of the Guardian 2023Q3
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/18/2023
   course: BVP3773A
   title: Winter Law Enforcement SRO Training
@@ -2620,6 +2632,10 @@ training_records:
   hours: '9.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
@@ -2627,14 +2643,10 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/21/2023
   expiration_date: 2/28/2025
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/1/2022
-  expiration_date: 3/31/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 education_records:
 - date: 6/13/1998
   degree: Bachelor Science

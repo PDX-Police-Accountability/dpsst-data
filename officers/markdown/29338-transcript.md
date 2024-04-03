@@ -29,10 +29,11 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
 | Certification Cards | First Aid and CPR | 7/27/2022 | 7/23/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/7/2011 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/7/2024 | PDS3672A | Range Training | Passed | 0.0 | 2.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/15/2023 | PDS2453A | Anti-Bias Training | Passed | 0.0 | 1.00 |

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/7/2024
+  course: PDP3292A
+  title: Protecting Lives Saving Futures
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/6/2024
   course: SAG1662A
   title: Protecting Lives Saving Futures

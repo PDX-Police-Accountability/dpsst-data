@@ -80,12 +80,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2024
+  course: MISCMAIN
+  title: 2024 LE Basic 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 3/18/2024
+  course: PDS0931A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/26/2024
   course: PDS4516A
   title: Range Training
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/12/2024
+  course: PDS2801A
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/5/2024
+  course: PDS3283A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/5/2024
+  course: PDS2112A
+  title: Cultural Awareness and Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/22/2024
   course: PDS0907A
   title: Missing/Vulnerable Persons
@@ -2620,6 +2650,10 @@ training_records:
   hours: '36.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
@@ -2630,7 +2664,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/25/2000

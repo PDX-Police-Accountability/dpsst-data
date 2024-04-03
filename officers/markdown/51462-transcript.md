@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2024 | PDS2737A | EVOC | Passed | 0.0 | 4.00 |
 | 2/26/2024 | PDS4516A | Range Training | Passed | 0.0 | 2.00 |
 | 2/21/2024 | PDS0630A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |
 | 1/26/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |

@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/18/2024 | PDS2801A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/18/2024 | PDS3283A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/18/2024 | PDS4055A | Suicide Prevention | Passed | 0.0 | 1.00 |
+| 2/18/2024 | PDS2112A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
+| 2/18/2024 | PDS4304A | Corrections Liability | Passed | 0.0 | 1.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/16/2023 | PDS0694A | Active Threat | Passed | 0.0 | 8.00 |
 | 12/15/2023 | PDS3838A | Anti-Bias Training | Passed | 0.0 | 2.00 |

@@ -1317,10 +1317,6 @@ attribute_records:
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 3/22/2022
-  expiration_date: 3/31/2024
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
@@ -1333,4 +1329,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/19/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 5/1/2012
+  degree: Doctor Of Jurisprudence
+  school: Willamette University
+  major: Law
+  hours: '90.0'
+- date: 6/13/2009
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '180.0'

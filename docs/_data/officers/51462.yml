@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/3/2024
+  course: PDS2737A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/26/2024
   course: PDS4516A
   title: Range Training

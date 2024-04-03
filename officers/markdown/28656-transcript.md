@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 12/31/2023 | TGP0442A | Daigle Law Path of the Guardian 2023Q3 | Passed | 0.0 | 2.00 |
+| 12/31/2023 | TGP3940A | Daigle Law Path of the Guardian 2023Q4 | Passed | 0.0 | 2.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/19/2023 | TGP4309A | Ethics for Law Enforcement | Passed | 0.0 | 2.00 |
 | 10/23/2023 | TGP0976A | Lexipol Daily Training Bulletins (Equity) | Passed | 0.0 | 0.25 |

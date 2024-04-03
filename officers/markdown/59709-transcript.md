@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2024 | BNP0481A | EVOC / Vehicle Placement | Passed | 0.0 | 1.00 |
 | 2/26/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
 | 2/22/2024 | BNP3757A | UAS montly training | Passed | 0.0 | 8.00 |
 | 2/19/2024 | BNP0288A | Dangers of Lithium Batteries | Passed | 0.0 | 0.50 |

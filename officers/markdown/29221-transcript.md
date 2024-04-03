@@ -47,7 +47,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2024 | BNP0481A | EVOC / Vehicle Placement | Passed | 0.0 | 1.00 |
 | 2/27/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
+| 2/22/2024 | BNP0729A | Open Range Firearms training / qualifications | Passed | 0.0 | 1.00 |
 | 1/31/2024 | BNP3812A | Financial Literacy | Passed | 0.0 | 0.50 |
 | 1/31/2024 | BNP0462A | Karly's Law and Child Abuse | Passed | 0.0 | 0.50 |
 | 1/29/2024 | BNP0477A | Ethics for Law Enforcement | Passed | 0.0 | 3.00 |

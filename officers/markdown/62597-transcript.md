@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/2/2024 | LGP0875A | Hazmat First Reponder Awareness (FRA) Level 1 | Passed | 0.0 | 1.50 |
 | 7/22/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/10/2023 | PDP0931A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 7/8/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

@@ -40,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/8/2024 | PDP3079A | 2024-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 1/18/2024 | EGS2874A | Reid Interview and Interrogation | Passed | 0.0 | 18.00 |
+| 1/18/2024 | PDP1158A | Reid Technique of Interviewing and Interrogation | Passed | 0.0 | 24.00 |
 | 12/16/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/4/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 10/30/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

@@ -28,7 +28,6 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 12/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/6/2024 | REG2525A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/8/2024 | REG1539A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 11/28/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

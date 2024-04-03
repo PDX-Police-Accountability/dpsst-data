@@ -26,13 +26,14 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 2/28/2026 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Certification Cards | First Aid and CPR | 3/22/2022 | 3/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/8/2019 |  |
 | Code of Ethics | Law Enforcement Signed | 2/19/2018 |  |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/1/2012 | Doctor Of Jurisprudence | Willamette University | Law | 90.0 |
+| 6/13/2009 | Bachelor Arts | All Other Education Institutes |  | 180.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

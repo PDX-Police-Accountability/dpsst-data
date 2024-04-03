@@ -107,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2024
+  course: MISCMAIN
+  title: 2024 LE Leadership 3 Year Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/19/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits
@@ -4633,6 +4639,10 @@ training_records:
   hours: '408.00'
 attribute_records:
 - topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
+- topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
@@ -4643,7 +4653,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 7/2/2001

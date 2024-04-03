@@ -26,10 +26,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/21/2023 | 2/28/2025 |
-| Certification Cards | First Aid and CPR | 3/1/2022 | 3/31/2024 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -37,9 +37,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/15/2024 | HBS2632A | Criminal Investigations Using Cellular Tech | Passed | 0.0 | 40.00 |
 | 1/31/2024 | TMS3091A | Evidence Collection | Passed | 0.0 | 3.00 |
 | 1/30/2024 | TGP0180A | Firearms Training-Handgun | Passed | 0.0 | 1.00 |
+| 12/31/2023 | TGP0442A | Daigle Law Path of the Guardian 2023Q3 | Passed | 0.0 | 2.00 |
 | 12/18/2023 | BVP3773A | Winter Law Enforcement SRO Training | Passed | 0.0 | 8.00 |
 | 12/15/2023 | TGP2376A | Force on Force Training | Passed | 0.0 | 1.50 |
 | 12/8/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

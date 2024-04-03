@@ -119,9 +119,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2024
+  course: BNP0481A
+  title: EVOC / Vehicle Placement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/27/2024
   course: BNP2971A
   title: Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/22/2024
+  course: BNP0729A
+  title: Open Range Firearms training / qualifications
   status: Passed
   score: '0.0'
   hours: '1.00'

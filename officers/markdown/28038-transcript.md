@@ -28,9 +28,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 9/30/2023 | 9/30/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/21/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -40,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/2/2024 | PDS0330A | EVOC | Passed | 0.0 | 4.00 |
 | 2/23/2024 | PDS3191A | Range Training | Passed | 0.0 | 2.00 |
 | 1/20/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/20/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |

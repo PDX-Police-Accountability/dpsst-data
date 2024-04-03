@@ -62,6 +62,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/18/2024
+  course: PDS2801A
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/18/2024
+  course: PDS3283A
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2024
+  course: PDS4055A
+  title: Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2024
+  course: PDS2112A
+  title: Cultural Awareness and Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/18/2024
+  course: PDS4304A
+  title: Corrections Liability
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/29/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

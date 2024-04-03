@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 12/22/2024
 training_records:
-- date: 12/22/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 3/6/2024
   course: REG2525A
   title: DID-SFST (Hours included in Basic)

@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 12/31/2023
+  course: TGP0442A
+  title: Daigle Law Path of the Guardian 2023Q3
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/2023
+  course: TGP3940A
+  title: Daigle Law Path of the Guardian 2023Q4
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/29/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

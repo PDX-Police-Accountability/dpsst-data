@@ -41,8 +41,6 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
-| 1/26/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 36.00 |
-| 1/26/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 36.00 |
 | 1/26/2024 | F6R2087A | FBI Basic Negotiation Course | Passed | 0.0 | 36.00 |
 | 1/19/2024 | PDP0299A | NATIA Basic Networking  IP Cameras | Passed | 0.0 | 40.00 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |

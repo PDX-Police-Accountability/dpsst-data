@@ -24,9 +24,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 9/25/2002 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |
 | 12/7/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/7/2023 | PDP4526A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

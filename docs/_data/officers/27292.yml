@@ -106,6 +106,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2024
+  course: PDS1053A
+  title: March Crisis Negotiation Team Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 1/31/2024
   course: PDS2347A
   title: Airway and Circulatory Training

@@ -32,9 +32,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 2/27/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/1/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/31/2024 | BVP1130A | First Aid and Adult/Child CPR 013124am | Passed | 0.0 | 3.00 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC3502A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |

@@ -41,7 +41,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
 | 2/29/2024 | PDS2810A | Range Training | Passed | 0.0 | 2.00 |
+| 2/29/2024 | PDS2801A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
+| 2/29/2024 | PDS2112A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/25/2024 | PDS4279A | Flying While Armed | Passed | 0.0 | 1.00 |
 | 1/22/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 1/22/2024 | PDS0907A | Missing/Vulnerable Persons | Passed | 0.0 | 0.50 |

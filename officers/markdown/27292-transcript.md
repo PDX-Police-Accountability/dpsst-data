@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2024 | PDS1053A | March Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 1/31/2024 | PDS2347A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 1/30/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/29/2024 | PDS3177A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
