@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/1/2024
+  course: TDP3960A
+  title: Helping the helpers w/emot survival
+  status: ''
+  score: '0.0'
+  hours: '1.00'
 - date: 3/1/2024
   course: TDP1840A
   title: Tactical Disengagement and de-escalation

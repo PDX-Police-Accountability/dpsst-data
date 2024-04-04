@@ -32,6 +32,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/7/2024 | PDP4005A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 7.00 |
+| 2/14/2024 | PDP2803A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 7.00 |
+| 1/30/2024 | PDP0390A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 9.00 |
 | 12/6/2023 | PDP3510A | 2023 EAP Wellness | Passed | 0.0 | 6.00 |
 | 12/5/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 12/5/2023 | PDP4163A | 2023-3 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 2.00 |

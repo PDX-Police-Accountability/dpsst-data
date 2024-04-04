@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/14/2024 | PDP2935A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 2/29/2024 | PDP0535A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 2/5/2024 | VND3218A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

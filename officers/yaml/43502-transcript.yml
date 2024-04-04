@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 2/22/2024
+  course: PDP0551A
+  title: ODOT Police Traffic Safety Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.50'
 - date: 2/1/2024
   course: VND1796A
   title: NW Peer Support Conference

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2024 | PDP3613A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 2/28/2024 | PDP4376A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 2/9/2024 | VND0416A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/6/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |

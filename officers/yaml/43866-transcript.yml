@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/14/2024
+  course: PDP2803A
+  title: 2024 Air Support Unit (ASU) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 1/30/2024
+  course: PDP0390A
+  title: 2024 Air Support Unit (ASU) Monthly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 12/6/2023
   course: PDP3510A
   title: 2023 EAP Wellness

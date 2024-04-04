@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 2/15/2024 | PDP2063A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 12/12/2023 | PDP4526A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

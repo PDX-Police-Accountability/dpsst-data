@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2024 | PDP3801A | NW3C Basic Level Spreadsheeting Skills | Passed | 0.0 | 7.00 |
 | 2/9/2024 | PDP2864A | ATAP Winter Conference | Passed | 0.0 | 21.75 |
 | 11/28/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/21/2023 | PDP2477A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |

@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/7/2024 | PDP2761A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 2/5/2024 | VND3218A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 1/31/2024 | PDP4061A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

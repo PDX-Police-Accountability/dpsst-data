@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/20/2024 | PDP3613A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 2/28/2024 | PDP4376A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 2/21/2024 | PDP3134A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 2/14/2024 | PDP0826A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |

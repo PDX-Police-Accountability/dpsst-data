@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/23/2024
+  course: WLP1137A
+  title: Low Light Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/16/2024
   course: WLP2843A
   title: Trauma Informed Care

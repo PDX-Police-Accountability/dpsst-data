@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2024 | PDP4424A | Officer Safety and Wellness Conference | Passed | 0.0 | 12.00 |
 | 12/14/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/14/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/2/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
+| 2/22/2024 | PDP0551A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 2/1/2024 | PDP3591A | NW Peer Support Conference | Passed | 0.0 | 17.00 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
