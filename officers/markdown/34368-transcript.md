@@ -44,6 +44,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
 | 2/21/2024 | BNP1684A | DUII refresher | Passed | 0.0 | 4.00 |
+| 2/1/2024 | BNP2036A | Western States Public Order Conference 2024 | Passed | 0.0 | 31.00 |
 | 12/31/2023 | BNP2269A | Emergency Operations Plan Refresher | Passed | 0.0 | 0.50 |
 | 12/31/2023 | BNP0315A | Juvenile Detention refresher | Passed | 0.0 | 0.50 |
 | 12/31/2023 | BNP0047A | OSHA Hearing Protection Guide | Passed | 0.0 | 0.50 |

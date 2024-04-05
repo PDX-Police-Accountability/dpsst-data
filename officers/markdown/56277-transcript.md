@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/14/2024 | REG2229A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
 | 1/24/2024 | CAP2263A | Annual Handgun Qualification / Fundamentals | Instructed | 0.0 | 6.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 11/15/2023 | CAP3765A | Low Light / VCQB | Instructed | 0.0 | 4.00 |

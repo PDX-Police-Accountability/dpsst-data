@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/25/2024 | PDP0033A | Critical Infra. Resilience  Commnty Lifelines | Passed | 0.0 | 8.00 |
+| 1/24/2024 | PDP1754A | Conducting Risk Assessments for Community | Passed | 0.0 | 16.00 |
+| 1/11/2024 | PDP3037A | Threat  Hazard ID  Risk Assessment | Passed | 0.0 | 16.00 |
+| 1/9/2024 | PDP0256A | Critical Infra. Security  Resilience Awrnss | Passed | 0.0 | 8.00 |
 | 11/18/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/18/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/14/2023 | PDP1456A | 2023 PPB Honor Guard 21 Gun/Rifle IS | Passed | 0.0 | 10.00 |

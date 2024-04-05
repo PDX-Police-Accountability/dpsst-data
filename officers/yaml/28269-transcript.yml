@@ -119,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/1/2024
+  course: BNP2036A
+  title: Western States Public Order Conference 2024
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/12/2024
   course: OAC2861A
   title: The Crucial Connection - Chief/Mgr Relationships

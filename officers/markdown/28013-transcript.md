@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2024 | PSU0415A | Use of Less Lethal Force/Less Lethal Options | Passed | 0.0 | 2.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 1.25 |
 | 12/28/2023 | PSU0356A | Firearms Q4 | Passed | 0.0 | 2.00 |
 | 12/28/2023 | PSU1924A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 2.00 |

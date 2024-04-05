@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/1/2024
+  course: PDP1449A
+  title: WMD/Terrorism Awareness for Emergency Respndrs
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/6/2024
   course: REG2525A
   title: DID-SFST (Hours included in Basic)

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/8/2024
+  course: PDP2445A
+  title: Vehicle Close Quarters Battle Instructor
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

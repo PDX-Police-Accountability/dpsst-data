@@ -40,6 +40,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/19/2024 | SAG1640A | Retail Theft | Passed | 0.0 | 4.00 |
+| 3/18/2024 | HBS2867A | 2024 March DT's | Passed | 0.0 | 4.50 |
+| 3/18/2024 | HBS3534A | 2024 March IFAST | Passed | 0.0 | 4.50 |
 | 3/1/2024 | HBS0698A | 2024 February Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS0186A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 1/11/2024 | HBS4365A | EVOC - Investigations | Instructed | 0.0 | 5.00 |

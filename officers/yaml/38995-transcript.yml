@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/25/2024
+  course: PDP0033A
+  title: Critical Infra. Resilience  Commnty Lifelines
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/24/2024
+  course: PDP1754A
+  title: Conducting Risk Assessments for Community
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/11/2024
+  course: PDP3037A
+  title: Threat  Hazard ID  Risk Assessment
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 1/9/2024
+  course: PDP0256A
+  title: Critical Infra. Security  Resilience Awrnss
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/18/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

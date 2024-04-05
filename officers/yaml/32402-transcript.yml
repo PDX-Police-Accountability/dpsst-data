@@ -68,6 +68,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/18/2024
+  course: HBS2867A
+  title: 2024 March DT's
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 3/18/2024
+  course: HBS3534A
+  title: 2024 March IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 3/1/2024
   course: HBS0698A
   title: 2024 February Personnel Guidelines  SH

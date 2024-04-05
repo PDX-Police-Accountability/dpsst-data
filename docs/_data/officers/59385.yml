@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/12/2024
+  course: PSU3745A
+  title: MILO 3000 Use of Force scenarios
+  status: Instructed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/9/2024
   course: PSU3531A
   title: MCDA Legal Updates

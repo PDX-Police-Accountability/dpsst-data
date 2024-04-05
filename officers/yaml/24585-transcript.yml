@@ -82,6 +82,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/2/2024
+  course: PSU1867A
+  title: De-escalation and Reasonable Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/12/2024
+  course: PSU3745A
+  title: MILO 3000 Use of Force scenarios
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/12/2024
+  course: PSU2064A
+  title: Basic Firearm Safety/Handling
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/28/2023
   course: PSU0356A
   title: Firearms Q4
