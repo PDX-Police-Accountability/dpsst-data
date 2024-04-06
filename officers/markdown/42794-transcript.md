@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2024 | OCS2183A | July,Aug,Sept 23 and Feb, Mar, April 24 Firearms | Instructed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/27/2024 | PDS4189A | Smith  Wesson MP15 Armor's Course | Passed | 0.0 | 8.00 |
 | 2/21/2024 | OCS2173A | Markmanship / MILO Decision Making, De-escalation | Instructed | 0.0 | 2.00 |

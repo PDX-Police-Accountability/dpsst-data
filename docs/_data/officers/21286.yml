@@ -87,6 +87,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/29/2024
+  course: BBP0102A
+  title: Anti-Bias Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: BBP0305A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/29/2024
+  course: BBP3861A
+  title: Sexual Harassment Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2024
+  course: BBP2678A
+  title: Enhancing Work Relationships
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2024
+  course: BBP3788A
+  title: Responding To Challenging Situations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2024
+  course: BBP2284A
+  title: Stress and Your Health
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2023
   course: BBP2231A
   title: Daily Training Bulletins

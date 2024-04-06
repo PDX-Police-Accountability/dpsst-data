@@ -42,6 +42,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/29/2024 | BBP0102A | Anti-Bias Training | Passed | 0.0 | 1.00 |
+| 2/29/2024 | BBP0305A | Ethics | Passed | 0.0 | 1.00 |
+| 2/29/2024 | BBP3861A | Sexual Harassment Training | Passed | 0.0 | 1.00 |
+| 1/31/2024 | BBP2678A | Enhancing Work Relationships | Passed | 0.0 | 1.00 |
+| 1/31/2024 | BBP3788A | Responding To Challenging Situations | Passed | 0.0 | 1.00 |
+| 1/31/2024 | BBP2284A | Stress and Your Health | Passed | 0.0 | 1.00 |
 | 12/31/2023 | BBP2231A | Daily Training Bulletins | Passed | 0.0 | 24.00 |
 | 12/31/2023 | BBP3030A | Human Trafficking | Passed | 0.0 | 4.00 |
 | 11/30/2023 | BBP0252A | Distracted Driving | Passed | 0.0 | 4.00 |

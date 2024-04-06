@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2024 | MFN3676A | Firearms: Combative Shooting Basics | Passed | 0.0 | 2.50 |
 | 3/8/2024 | MFN4241A | Firearms: Quals | Passed | 0.0 | 0.50 |
 | 2/21/2024 | MFN3303A | Defensive Tactics: Handcuffing | Passed | 0.0 | 2.00 |
 | 2/1/2024 | BPT2921A | Oregon Case Management Network | Passed | 0.0 | 8.00 |

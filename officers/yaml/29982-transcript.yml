@@ -82,6 +82,24 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/3/2024
+  course: HBS2524A
+  title: FBINAA Spring Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/1/2024
+  course: SVP3829A
+  title: FEMA AWR-160-WMD/Terriorism Awareness
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/27/2024
+  course: SVP2435A
+  title: Legal Update Marion County D.A. Office
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/13/2024
   course: AVP2469A
   title: Monthly Leadership Meeting

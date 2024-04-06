@@ -3,12 +3,18 @@ header_record:
   name: Lorenz, Jonathan G.
   dpsst_identifier: '60153'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/1/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/3/2021
   agency: Portland Police Bureau
   action: Mil-LOA
@@ -27,7 +33,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 2/3/2021
-  expiration_date: ''
+  expiration_date: 7/1/2024
   probation_date: ''
 training_records:
 - date: 12/31/2021

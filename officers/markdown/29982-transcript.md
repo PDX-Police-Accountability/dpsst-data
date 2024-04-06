@@ -41,6 +41,9 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
+| 4/3/2024 | HBS2524A | FBINAA Spring Leadership Training | Passed | 0.0 | 8.00 |
+| 4/1/2024 | SVP3829A | FEMA AWR-160-WMD/Terriorism Awareness | Passed | 0.0 | 8.00 |
+| 3/27/2024 | SVP2435A | Legal Update Marion County D.A. Office | Passed | 0.0 | 3.00 |
 | 3/13/2024 | AVP2469A | Monthly Leadership Meeting | Passed | 0.0 | 1.75 |
 | 2/29/2024 | SVP1436A | Addressing Demand, No Buyer No Victim | Passed | 0.0 | 1.00 |
 | 2/29/2024 | SVP1681A | Human Trafficking 101 | Passed | 0.0 | 1.00 |

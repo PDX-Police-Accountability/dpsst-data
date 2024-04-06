@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2024 | HBS2524A | FBINAA Spring Leadership Training | Passed | 0.0 | 8.00 |
 | 3/20/2024 | SDP0720A | Employment Law Updates and Best Practices | Passed | 0.0 | 2.00 |
 | 2/14/2024 | SDP2330A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/14/2024 | SDP2245A | Firearms Training | Passed | 0.0 | 2.50 |

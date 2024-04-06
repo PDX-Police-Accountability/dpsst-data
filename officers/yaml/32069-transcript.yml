@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2024
+  course: HBS2524A
+  title: FBINAA Spring Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/20/2024
   course: SDP0720A
   title: Employment Law Updates and Best Practices

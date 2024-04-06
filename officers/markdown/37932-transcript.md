@@ -4,7 +4,7 @@
 | name | Steiner, Chad D. |
 | dpsst_identifier | 37932 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 3/30/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 10/18/2007 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/17/2007 | Multnomah County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 7/26/1999 | Multnomah County Sheriff's Office | Hired | Dpty Shrf |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/26/2005 | Police Officer | Advanced | Granted | 7/26/2005 |  |  |
-| 8/15/2001 | Police Officer | Intermediate | Granted | 8/15/2001 |  |  |
-| 10/3/2000 | Police Officer | Basic | Granted | 10/3/2000 |  |  |
+| 7/26/2005 | Police Officer | Advanced | Granted | 7/26/2005 | 6/30/2024 |  |
+| 8/15/2001 | Police Officer | Intermediate | Granted | 8/15/2001 | 6/30/2024 |  |
+| 10/3/2000 | Police Officer | Basic | Granted | 10/3/2000 | 6/30/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

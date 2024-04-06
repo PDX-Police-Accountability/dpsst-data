@@ -38,6 +38,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/21/2024 | OSH1123A | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 30.00 |
+| 3/21/2024 | PDP3426A | OSP Mobile Vehicle and Foot Surveillance | Passed | 0.0 | 27.00 |
 | 3/15/2024 | SPP2933A | Mobile Field Force | Instructed | 0.0 | 20.00 |
 | 2/1/2024 | PDP0185A | Western States Public Order Conference | Passed | 0.0 | 32.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
