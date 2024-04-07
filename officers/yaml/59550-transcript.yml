@@ -43,6 +43,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/4/2024
+  course: BNA0172A
+  title: DV Strangulation Training
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/26/2024
+  course: RMP4525A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/26/2024
+  course: RMP0574A
+  title: K9 Narcotic Patrol
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/22/2024
   course: RMP0426A
   title: Digital Forensics Evidence

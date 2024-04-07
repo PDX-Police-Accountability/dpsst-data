@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/4/2024
+  course: CAP2967A
+  title: Rifle Qualifications - Fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

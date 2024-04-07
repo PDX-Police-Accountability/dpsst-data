@@ -76,12 +76,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/2/2024
+  course: WBP0081A
+  title: Leadership Development Program
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/31/2024
+  course: WBP1007A
+  title: WPD Firearms Q1 Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/24/2024
   course: WBP2934A
   title: Foot Pursuit Video Training/Debriefs
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/19/2024
+  course: WBP0057A
+  title: WPD Firearms Training - Positional/Close Quarters
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/6/2024
   course: WBP4534A
   title: 'Video Debrief: A Call Quickly Deteriorates'

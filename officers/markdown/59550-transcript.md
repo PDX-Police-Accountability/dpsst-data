@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2024 | BNA0172A | DV Strangulation Training | Passed | 0.0 | 0.50 |
+| 3/26/2024 | RMP4525A | EVOC | Passed | 0.0 | 4.00 |
+| 3/26/2024 | RMP0574A | K9 Narcotic Patrol | Passed | 0.0 | 4.00 |
 | 1/22/2024 | RMP0426A | Digital Forensics Evidence | Passed | 0.0 | 2.00 |
 | 1/22/2024 | RMP3379A | Major Incident Response/Report Writing/DV | Passed | 0.0 | 2.00 |
 | 1/22/2024 | RMP3474A | Trauma Informed Care | Passed | 0.0 | 2.00 |

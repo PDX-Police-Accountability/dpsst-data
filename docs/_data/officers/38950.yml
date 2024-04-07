@@ -107,6 +107,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/1/2024
+  course: HBS4353A
+  title: 2024 February DEI
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/31/2024
   course: HBS4232A
   title: Adult/Child First Aid/CPR/AED

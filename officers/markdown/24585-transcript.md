@@ -29,7 +29,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/18/2022 | 5/18/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
@@ -39,9 +39,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/2/2024 | PSU1867A | De-escalation and Reasonable Force | Passed | 0.0 | 2.00 |
-| 3/12/2024 | PSU3745A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 1.00 |
-| 1/12/2024 | PSU2064A | Basic Firearm Safety/Handling | Passed | 0.0 | 1.00 |
+| 4/2/2024 | PSU1867A | De-escalation and Reasonable Force | Passed | 0.0 | 0.00 |
+| 3/12/2024 | PSU3745A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 0.00 |
+| 1/12/2024 | PSU2064A | Basic Firearm Safety/Handling | Passed | 0.0 | 0.00 |
+| 12/31/2023 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 4.00 |
+| 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/28/2023 | PSU0356A | Firearms Q4 | Passed | 0.0 | 1.00 |
 | 12/28/2023 | PSU1924A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 3.00 |
 | 11/9/2023 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |

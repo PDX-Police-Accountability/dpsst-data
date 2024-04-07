@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2024 | OCP1380A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 2/12/2024 | OCP3153A | Airborne and Bloodborne Pathogens / Narcan | Passed | 0.0 | 1.00 |
 | 2/12/2024 | OCP2163A | Hazrdous Materials / Global SDS | Passed | 0.0 | 1.00 |
 | 1/25/2024 | OCP2788A | Firearms - Night Range | Passed | 0.0 | 1.50 |

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/2/2024
+  course: SDP1702A
+  title: Managing Performance and Discipline
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/20/2024
   course: SDP0720A
   title: Employment Law Updates and Best Practices

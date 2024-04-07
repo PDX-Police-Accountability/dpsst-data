@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2024 | WBP1007A | WPD Firearms Q1 Qualifications | Passed | 0.0 | 0.50 |
+| 3/19/2024 | WBP0057A | WPD Firearms Training - Positional/Close Quarters | Instructed | 0.0 | 3.00 |
 | 2/27/2024 | WBP3637A | Firearms Instructor Development Training | Passed | 0.0 | 3.00 |
 | 1/30/2024 | WBP0846A | Defensive Tactics/OC/Baton/WRAP Restraint | Passed | 0.0 | 0.50 |
 | 12/31/2023 | WBP1034A | Fireams - 4th Quarter Qualification | Passed | 0.0 | 0.50 |

@@ -206,6 +206,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 4/2/2024
+  course: OSH0293A
+  title: EVO - Advanced Pursuit Haulting Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/22/2024
   course: OSH3500A
   title: DEFENSIVE TACTICS FIRST TRIMESTER

@@ -40,7 +40,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/2/2024 | WBP0081A | Leadership Development Program | Passed | 0.0 | 3.00 |
+| 3/31/2024 | WBP1007A | WPD Firearms Q1 Qualifications | Passed | 0.0 | 0.50 |
 | 3/24/2024 | WBP2934A | Foot Pursuit Video Training/Debriefs | Passed | 0.0 | 0.50 |
+| 3/19/2024 | WBP0057A | WPD Firearms Training - Positional/Close Quarters | Instructed | 0.0 | 3.00 |
 | 3/6/2024 | WBP4534A | Video Debrief: A Call Quickly Deteriorates | Passed | 0.0 | 0.50 |
 | 2/27/2024 | WBP3637A | Firearms Instructor Development Training | Passed | 0.0 | 3.00 |
 | 2/21/2024 | WBP1688A | Briefing: Scene Control When Suspect Returns | Passed | 0.0 | 0.50 |
