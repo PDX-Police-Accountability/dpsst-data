@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/22/2024 | PDP3362A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |
 | 2/15/2024 | PDP1226A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |

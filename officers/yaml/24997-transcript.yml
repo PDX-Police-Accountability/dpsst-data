@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/31/2024
+  course: PPP3048A
+  title: Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/20/2024
+  course: PPP0233A
+  title: TIP Wellness
+  status: Passed
+  score: '0.0'
+  hours: '0.30'
 - date: 1/31/2024
   course: PPP0703A
   title: Developing Leadership

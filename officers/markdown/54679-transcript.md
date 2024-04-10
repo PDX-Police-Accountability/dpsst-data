@@ -31,6 +31,7 @@
 | Code of Ethics | Law Enforcement Signed | 7/1/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
 | Code of Ethics | Signed | 5/15/2016 |  |
+| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 4/8/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2024 | WBP2170A | HANDGUN INSTRUCTOR DEVELOPMENT COURSE | Passed | 0.0 | 40.00 |
 | 3/1/2024 | MLP2702A | Emergency  Fire Preparedness | Passed | 0.0 | 1.00 |
 | 2/1/2024 | MLP3480A | OSHA Slips, Trips  Falls | Passed | 0.0 | 1.00 |
 | 11/27/2023 | MLP0397A | Night Range | Passed | 0.0 | 3.00 |

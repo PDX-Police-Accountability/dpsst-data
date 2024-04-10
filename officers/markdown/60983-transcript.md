@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/8/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 12/2/2021 | Police Officer | Basic | Granted | 12/2/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -27,6 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/9/2015 | Bachelor Science | All Other Education Institutes | Social Sciences | 125.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

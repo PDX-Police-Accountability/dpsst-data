@@ -87,6 +87,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2024
+  course: BBP2059A
+  title: Pistol Qualification and Tactical Range
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/21/2024
+  course: BBP0222A
+  title: Rifle Qualification and Tactical Range
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/29/2024
   course: BBP0102A
   title: Anti-Bias Training

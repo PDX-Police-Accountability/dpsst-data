@@ -43,7 +43,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2024 | WLP2314A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |
 | 3/15/2024 | WLP2217A | Karly's Law educational training | Passed | 0.0 | 1.00 |
+| 3/14/2024 | WLP0238A | Defensive Tactics - Wall and ground control | Passed | 0.0 | 2.00 |
 | 3/5/2024 | WLP3899A | Foundation in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 2/21/2024 | WLP0973A | Brady Training | Passed | 0.0 | 1.00 |
 | 2/16/2024 | WLP2843A | Trauma Informed Care | Passed | 0.0 | 2.00 |

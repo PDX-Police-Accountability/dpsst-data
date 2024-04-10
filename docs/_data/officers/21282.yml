@@ -100,6 +100,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2024
+  course: WLP2314A
+  title: Trauma Informed Sexual Assault Investigations
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2024
+  course: WLP4146A
+  title: 'LEADERSHIP 6 COURSE # LEAD106'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2024
+  course: WLP0424A
+  title: 'LEADERSHIP 7 COURSE # LEAD107'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/3/2024
+  course: WLP3468A
+  title: 'LEADERSHIP ESSENTIALS COURSE # LEAD200'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/15/2024
   course: WLP2217A
   title: Karly's Law educational training

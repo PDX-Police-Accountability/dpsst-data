@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2024
+  course: WBP2170A
+  title: HANDGUN INSTRUCTOR DEVELOPMENT COURSE
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/31/2024
   course: WBP1007A
   title: WPD Firearms Q1 Qualifications

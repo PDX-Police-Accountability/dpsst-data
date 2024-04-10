@@ -39,7 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
-| 4/1/2024 | TDP3960A | Helping the helpers w/emot survival |  | 0.0 | 1.00 |
+| 4/1/2024 | TDP3960A | Helping the helpers w/emot survival | Passed | 0.0 | 1.00 |
 | 3/1/2024 | TDP1840A | Tactical Disengagement and de-escalation | Passed | 0.0 | 1.50 |
 | 2/16/2024 | 24-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
 | 12/21/2023 | TDP2243A | Harassment in the work place | Passed | 0.0 | 1.00 |

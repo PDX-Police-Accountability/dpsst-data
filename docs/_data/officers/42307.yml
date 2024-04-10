@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2024
+  course: OSH0972A
+  title: 2024 DRE Confernce
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/17/2024
   course: PDP1351A
   title: 2024 Standardized Field Sobriety Test Refresher

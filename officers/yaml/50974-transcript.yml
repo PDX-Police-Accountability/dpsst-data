@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2024
+  course: OSH0972A
+  title: 2024 DRE Confernce
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/27/2024
   course: OCP1380A
   title: Firearms/Use of Force

@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/20/2024
+  course: LOP2108A
+  title: West Metro Monthly Motor Training 03/20/2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/1/2024
   course: HBS0517A
   title: 2024 February ACAP
