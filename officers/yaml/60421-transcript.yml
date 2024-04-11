@@ -73,7 +73,7 @@ training_records:
   title: Crisis intervention and Descalation
   status: Passed
   score: '0.0'
-  hours: '2.00'
+  hours: '0.50'
 - date: 3/25/2024
   course: SAG1585A
   title: Firearms/Use of Force
@@ -98,6 +98,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 12/31/2023
+  course: MAINTMUC
+  title: Maintenance Makeup CIT/MH
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/28/2023
   course: SAG3904A
   title: Preventing Discrimination and Harassment

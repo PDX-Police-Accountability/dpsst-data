@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 2/12/2024 | 2/1/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/13/2023 | 2/28/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
@@ -55,6 +56,7 @@
 | 2/15/2024 | TRN0824A | Cultural Humility Empathy v2024 | Passed | 0.0 | 2.00 |
 | 2/15/2024 | TRN2638A | Ethics v2024 | Passed | 0.0 | 1.00 |
 | 2/15/2024 | TRN1294A | Records Management v2024 | Passed | 0.0 | 1.00 |
+| 2/12/2024 | TRN1130A | Adult Child Infant CPR AED | Passed | 0.0 | 6.00 |
 | 6/30/2023 | TRN1538A | DOC - FS - Taser X26P User v22_2020c | Passed | 0.0 | 6.00 |
 | 5/28/2023 | TRN2374A | 2023 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 5/28/2023 | TRN2653A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

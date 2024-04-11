@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/14/2024
+  course: ATS1702A
+  title: Low Light Pistol Qualification 2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/29/2023
   course: PDP4150A
   title: DIR 0630.05 Chief's Message

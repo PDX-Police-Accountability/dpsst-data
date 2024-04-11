@@ -25,7 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
-| Maintenance Requirements | LE Annual | 1/1/2023 | 12/31/2023 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/19/2022 | 5/19/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 ## Education
@@ -36,8 +36,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/2/2024 | PSU0415A | Use of Less Lethal Force/Less Lethal Options | Passed | 0.0 | 0.00 |
+| 4/2/2024 | PSU1333A | Ambush Awareness/Preparation | Passed | 0.0 | 0.00 |
+| 4/2/2024 | PSU2067A | Firearms Tactics | Passed | 0.0 | 0.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 1.25 |
-| 12/31/2023 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 2.00 |
+| 12/31/2023 | MAINTMUF | Maintenance Makeup Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 12/28/2023 | PSU0356A | Firearms Q4 | Passed | 0.0 | 2.00 |
 | 12/28/2023 | PSU1924A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 2.00 |
 | 11/9/2023 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |

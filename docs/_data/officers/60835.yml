@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 2/14/2024
+  course: PDP1254A
+  title: 2024 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/12/2023
   course: PDP1135A
   title: 2023 40mm Less Lethal New Operator Training

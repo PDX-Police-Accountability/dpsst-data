@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2024
+  course: PDP2979A
+  title: Training Remedial Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '22.50'
 - date: 1/10/2024
   course: PDP0704A
   title: Red Dot Optic Transition Course

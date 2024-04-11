@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/22/2024
+  course: ADP1228A
+  title: TASER Instructor
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/8/2024
   course: ADP1864A
   title: DT/Wrap Training

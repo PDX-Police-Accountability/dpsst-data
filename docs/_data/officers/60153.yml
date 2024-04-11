@@ -28,10 +28,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 2/3/2021
+- status_date: 4/9/2024
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Granted-UR
   certificate_date: 2/3/2021
   expiration_date: 7/1/2024
   probation_date: ''

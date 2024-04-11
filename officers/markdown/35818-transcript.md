@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2024 | GLP1297A | Locked Vehicle Access Training | Passed | 0.0 | 0.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/12/2024 | GLP0106A | New Officer Taser 7 | Passed | 0.0 | 4.00 |
 | 3/11/2024 | GLP1988A | New Officer Defensive Tactics | Passed | 0.0 | 2.50 |

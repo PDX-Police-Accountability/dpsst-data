@@ -169,6 +169,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/12/2024
+  course: TRN1130A
+  title: Adult Child Infant CPR AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/30/2023
   course: TRN1538A
   title: DOC - FS - Taser X26P User v22_2020c
@@ -1058,6 +1064,10 @@ training_records:
   score: '0.0'
   hours: '1.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/12/2024
+  expiration_date: 2/1/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

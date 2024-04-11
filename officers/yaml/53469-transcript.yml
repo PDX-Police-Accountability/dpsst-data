@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/7/2024
+  course: SAP3933A
+  title: Preparing for Promotion
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/1/2024
   course: OCS2383A
   title: First Aid CPR

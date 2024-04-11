@@ -28,6 +28,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 2/14/2024 | PDP1254A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 12/12/2023 | PDP4338A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
 | 11/30/2023 | PDP2115A | 2023-3 Advanced Academy Community Eng. | Passed | 0.0 | 32.00 |
 | 11/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

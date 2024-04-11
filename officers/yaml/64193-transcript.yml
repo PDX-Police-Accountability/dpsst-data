@@ -30,6 +30,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/14/2024
+  course: PDP0644A
+  title: 2024 Training RegJIN RMS/MRE Training
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
+- date: 3/12/2024
+  course: PDP1254A
+  title: 2024 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/6/2024
   course: PDP2685A
   title: WMD/Terrorism Awareness for Emergency Respndrs

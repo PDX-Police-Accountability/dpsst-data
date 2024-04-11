@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/14/2024
+  course: PDP0644A
+  title: 2024 Training RegJIN RMS/MRE Training
+  status: Instructed
+  score: '0.0'
+  hours: '15.00'
 - date: 11/21/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals

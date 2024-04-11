@@ -41,11 +41,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 3/27/2024 | SAG4007A | Crisis intervention and Descalation | Passed | 0.0 | 2.00 |
+| 3/27/2024 | SAG4007A | Crisis intervention and Descalation | Passed | 0.0 | 0.50 |
 | 3/25/2024 | SAG1585A | Firearms/Use of Force | Instructed | 0.0 | 2.00 |
 | 2/29/2024 | SAG1801A | ICAC 101 | Instructed | 0.0 | 8.00 |
 | 1/26/2024 | MFS3807A | Online Child Exploitation Investigations | Passed | 0.0 | 32.00 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 12/31/2023 | MAINTMUC | Maintenance Makeup CIT/MH | Passed | 0.0 | 1.50 |
 | 12/28/2023 | SAG3904A | Preventing Discrimination and Harassment | Passed | 0.0 | 1.00 |
 | 12/14/2023 | SAG3247A | Firearms training | Passed | 0.0 | 2.00 |
 | 12/14/2023 | SAG3247A | Firearms training | Instructed | 0.0 | 1.00 |

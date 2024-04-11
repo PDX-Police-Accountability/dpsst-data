@@ -106,6 +106,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/4/2024
+  course: WLP2288A
+  title: 'LEADERSHIP 1 COURSE # LEAD101'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: WLP1882A
+  title: 'LEADERSHIP 2 COURSE # LEAD102'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: WLP3560A
+  title: 'LEADERSHIP 3 COURSE # LEAD103'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: WLP0702A
+  title: 'LEADERSHIP 4 COURSE # LEAD104'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: WLP3824A
+  title: 'LEADERSHIP 8 COURSE # LEAD109'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/3/2024
   course: WLP4146A
   title: 'LEADERSHIP 6 COURSE # LEAD106'

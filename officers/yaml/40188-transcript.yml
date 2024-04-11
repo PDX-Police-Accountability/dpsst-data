@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/11/2024
+  course: PDP1254A
+  title: 2024 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/10/2024
   course: PDP1426A
   title: 2024 CNT Annual Training

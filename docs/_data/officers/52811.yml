@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/26/2024
+  course: PDS1794A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/21/2024
+  course: PDS3394A
+  title: Officer Down/Citizen Rescue
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/20/2024
+  course: PDS0766A
+  title: SWAT Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/19/2024
   course: PDS1230A
   title: Defensive Tactics

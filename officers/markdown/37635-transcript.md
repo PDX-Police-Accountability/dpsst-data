@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2024 | EGP0493A | SWAT Firearms -Equipment Maintanence | Passed | 0.0 | 18.00 |
 | 3/14/2024 | EGP1625A | Defensive Tactics Skills  Scenarios | Passed | 0.0 | 4.00 |
 | 3/14/2024 | EGP4380A | Firearms Marksmanship Skills | Passed | 0.0 | 4.00 |
 | 2/15/2024 | EGP1205A | Stop the Bleed/MARCH | Passed | 0.0 | 4.00 |

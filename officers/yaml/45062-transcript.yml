@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 8/15/2008
+  agency: Portland Community College DPS
+  action: Inactive
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
 - date: 10/31/2005
   agency: Portland Community College DPS
   action: Hired

@@ -43,6 +43,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/5/2024 | WLP2314A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |
+| 4/4/2024 | WLP2288A | LEADERSHIP 1 COURSE # LEAD101 | Passed | 0.0 | 1.00 |
+| 4/4/2024 | WLP1882A | LEADERSHIP 2 COURSE # LEAD102 | Passed | 0.0 | 1.00 |
+| 4/4/2024 | WLP3560A | LEADERSHIP 3 COURSE # LEAD103 | Passed | 0.0 | 1.00 |
+| 4/4/2024 | WLP0702A | LEADERSHIP 4 COURSE # LEAD104 | Passed | 0.0 | 1.00 |
+| 4/4/2024 | WLP3824A | LEADERSHIP 8 COURSE # LEAD109 | Passed | 0.0 | 1.00 |
 | 4/3/2024 | WLP4146A | LEADERSHIP 6 COURSE # LEAD106 | Passed | 0.0 | 1.00 |
 | 4/3/2024 | WLP0424A | LEADERSHIP 7 COURSE # LEAD107 | Passed | 0.0 | 1.00 |
 | 4/3/2024 | WLP3468A | LEADERSHIP ESSENTIALS COURSE # LEAD200 | Passed | 0.0 | 2.00 |

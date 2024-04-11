@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 8/15/2008 | Portland Community College DPS | Inactive | Civln Emp |  |  |
 | 10/31/2005 | Portland Community College DPS | Hired | Civln Emp |  |  |
 | 1/11/2005 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 11/18/2004 | Portland Police Bureau | Hired | Police Off |  |  |
