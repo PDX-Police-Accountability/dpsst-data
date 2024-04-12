@@ -56,7 +56,12 @@
 | 2/15/2024 | TRN0824A | Cultural Humility Empathy v2024 | Passed | 0.0 | 2.00 |
 | 2/15/2024 | TRN2638A | Ethics v2024 | Passed | 0.0 | 1.00 |
 | 2/15/2024 | TRN1294A | Records Management v2024 | Passed | 0.0 | 1.00 |
+| 2/14/2024 | TRN1331A | DOC - Annual Firearms Training v2024 | Passed | 0.0 | 8.00 |
+| 2/13/2024 | TRN0161A | DOC - De-Escalation Cycle v2024 | Passed | 0.0 | 3.00 |
+| 2/13/2024 | TRN0183A | DOC - Drug Recognition and Interdiction v2024 | Passed | 0.0 | 3.00 |
+| 2/13/2024 | TRN4432A | DOC - FS - Krav Maga Defensive Tactics v2024 | Passed | 0.0 | 2.00 |
 | 2/12/2024 | TRN1130A | Adult Child Infant CPR AED | Passed | 0.0 | 6.00 |
+| 2/12/2024 | TRN1526A | DOC - Stop the Bleed v2024 | Passed | 0.0 | 2.00 |
 | 6/30/2023 | TRN1538A | DOC - FS - Taser X26P User v22_2020c | Passed | 0.0 | 6.00 |
 | 5/28/2023 | TRN2374A | 2023 Information Security Training Foundations | Passed | 0.0 | 0.50 |
 | 5/28/2023 | TRN2653A | Airway Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |

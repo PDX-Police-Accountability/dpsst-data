@@ -35,6 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/10/2024 | TRN0882A | Environmental Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
+| 3/10/2024 | TRN0603A | Social Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
+| 3/10/2024 | TRN3178A | Risk - Vehicle Use and Access | Passed | 0.0 | 0.50 |
+| 3/10/2024 | TRN1625A | Spiritual Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
 | 2/13/2024 | TRN4234A | DOC - 2024 Annual Training Guide | Passed | 0.0 | 0.00 |
 | 2/13/2024 | TRN2638A | Ethics v2024 | Passed | 0.0 | 1.00 |
 | 2/13/2024 | TRN1630A | Fire Extinguisher Use and Safety v2024 | Passed | 0.0 | 0.50 |

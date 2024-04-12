@@ -31,7 +31,7 @@
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 | 12/15/2003 | No Degree | Portland State University |  | 21.0 |
-| 5/9/1988 | Bachelor Science | All Other Education Institutes | Criminal Justice Administration | 189.0 |
+| 5/9/1998 | Bachelor Science | All Other Education Institutes | Criminal Justice Administration | 189.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

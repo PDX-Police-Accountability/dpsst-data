@@ -47,6 +47,7 @@
 | 3/1/2024 | HBS0369A | 2024 February PREA | Passed | 0.0 | 0.50 |
 | 3/1/2024 | HBS0698A | 2024 February Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
 | 3/1/2024 | HBS4353A | 2024 February DEI | Passed | 0.0 | 1.00 |
+| 3/1/2024 | HBS1692A | 2024 Defensive Tools  EVO | Passed | 0.0 | 1.50 |
 | 2/29/2024 | VND0719A | Basic Background Investigations | Passed | 0.0 | 16.00 |
 | 2/15/2024 | BPS2239A | MDT Procedures, Sexual Harassment Laws  Title IX | Passed | 0.0 | 2.00 |
 | 1/31/2024 | HBS4232A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |

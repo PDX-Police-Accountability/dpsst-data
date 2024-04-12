@@ -137,6 +137,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/1/2024
+  course: HBS1692A
+  title: 2024 Defensive Tools  EVO
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/27/2024
   course: HBS3463A
   title: On Duty PIT

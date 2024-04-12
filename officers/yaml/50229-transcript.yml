@@ -49,6 +49,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/10/2024
+  course: TRN0882A
+  title: Environmental Wellness Corr Professionals v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/10/2024
+  course: TRN0603A
+  title: Social Wellness Corr Professionals v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/10/2024
+  course: TRN3178A
+  title: Risk - Vehicle Use and Access
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/10/2024
+  course: TRN1625A
+  title: Spiritual Wellness Corr Professionals v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/13/2024
   course: TRN4234A
   title: DOC - 2024 Annual Training Guide

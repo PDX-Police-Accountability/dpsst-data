@@ -13,6 +13,7 @@
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 7/9/2009 | Portland Police Bureau | Hired | Police Off |  |  |
+| 8/15/2008 | University of Portland DPS | Inactive | CPS |  |  |
 | 9/6/2005 | University of Portland DPS | Hired | CPS |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |

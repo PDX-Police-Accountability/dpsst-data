@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/9/2024
+  course: SMS2919A
+  title: Defensive Tacticts
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/8/2024
   course: PDP0488A
   title: 2024 SERT Training - CLASSROOM

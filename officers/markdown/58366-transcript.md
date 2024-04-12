@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2026 | OSH1143A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
 | 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 4/1/2024 | OSH0618A | 1st Tri Firearms | Passed | 0.0 | 4.00 |
 | 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 12/11/2023 | OSH0030A | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |

@@ -15,6 +15,12 @@ employment_records:
   rank: Police Off
   classification: ''
   assignment: ''
+- date: 8/15/2008
+  agency: University of Portland DPS
+  action: Inactive
+  rank: CPS
+  classification: ''
+  assignment: ''
 - date: 9/6/2005
   agency: University of Portland DPS
   action: Hired

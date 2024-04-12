@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2024
+  course: ALS4487A
+  title: In-Service DT's
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/7/2024
   course: PDP4005A
   title: 2024 Air Support Unit (ASU) Monthly Training

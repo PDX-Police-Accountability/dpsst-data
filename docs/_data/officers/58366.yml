@@ -60,6 +60,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/1/2024
+  course: OSH0618A
+  title: 1st Tri Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/15/2024
   course: EGP0412A
   title: SFST/DUII Refresher
