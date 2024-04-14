@@ -38,9 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2024 | REG3684A | DT | Passed | 0.0 | 1.00 |
 | 4/3/2024 | HBS2524A | FBINAA Spring Leadership Training | Passed | 0.0 | 8.00 |
 | 4/2/2024 | SDP1702A | Managing Performance and Discipline | Passed | 0.0 | 2.00 |
+| 3/28/2024 | REG0549A | DT | Passed | 0.0 | 1.00 |
+| 3/25/2024 | REG0638 | DT Ground/Wall Control | Passed | 0.0 | 1.00 |
 | 3/20/2024 | SDP0720A | Employment Law Updates and Best Practices | Passed | 0.0 | 2.00 |
+| 3/18/2024 | REG4234A | DT | Passed | 0.0 | 1.00 |
+| 2/26/2024 | REG2377A | Flow Drills/Grips  Control | Passed | 0.0 | 1.00 |
 | 2/14/2024 | SDP2330A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/14/2024 | SDP2245A | Firearms Training | Passed | 0.0 | 2.50 |
 | 2/14/2024 | SDP3379A | Evidence Processing Training | Passed | 0.0 | 1.50 |

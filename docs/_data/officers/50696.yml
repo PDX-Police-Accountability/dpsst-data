@@ -93,6 +93,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/21/2024
+  course: PDP1697A
+  title: 2024-1 All Sworn In-Service PVO Box In Refresh
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/21/2024
+  course: PDP1287A
+  title: 2024-1 All Sworn In-Service PVO High Speed Lapping
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/21/2024
+  course: PDP1122A
+  title: 2024-1 All Sworn In-Service PVO PIT/Post Refresh
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/21/2024
+  course: PDP2537A
+  title: 2024-1 All Sworn In-Service PVO Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 11/14/2023
   course: PDP1456A
   title: 2023 PPB Honor Guard 21 Gun/Rifle IS

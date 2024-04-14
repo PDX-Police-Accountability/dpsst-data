@@ -62,6 +62,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.50'
+- date: 2/7/2024
+  course: PDP1697A
+  title: 2024-1 All Sworn In-Service PVO Box In Refresh
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/7/2024
+  course: PDP1287A
+  title: 2024-1 All Sworn In-Service PVO High Speed Lapping
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/7/2024
+  course: PDP1122A
+  title: 2024-1 All Sworn In-Service PVO PIT/Post Refresh
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 2/7/2024
+  course: PDP2537A
+  title: 2024-1 All Sworn In-Service PVO Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/2/2024
   course: PDP2067A
   title: Investigation of Motorcycle Crashes Level II

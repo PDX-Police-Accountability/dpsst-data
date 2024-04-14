@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/9/2024 | VND3407A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/20/2024 | OCS0994A | Speed from Concealment, Marksmanship, Cover | Passed | 0.0 | 3.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |

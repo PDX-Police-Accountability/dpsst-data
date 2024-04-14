@@ -42,6 +42,10 @@
 | 2/14/2024 | PDP0826A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 2/7/2024 | PDP1982A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 2/1/2024 | PDP3769A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 1/29/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
+| 1/29/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
+| 1/29/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
+| 1/29/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/3/2024 | PDP2352A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 1/3/2024 | PDP2352A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |
 | 12/21/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |

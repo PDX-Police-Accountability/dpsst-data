@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/3/2024
+  course: PDP0703A
+  title: Officer Safety and Wellness Conference
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 2/1/2024
   course: VND1796A
   title: NW Peer Support Conference

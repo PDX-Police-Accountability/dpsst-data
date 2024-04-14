@@ -86,6 +86,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/20/2024
+  course: MMP3485A
+  title: Range Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/15/2024
   course: VND1728A
   title: Infant  Child Death Investigation
@@ -98,6 +104,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 2/29/2024
+  course: MMP4469A
+  title: WRAP Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/12/2024
   course: HBS1348A
   title: Digital Evidence for Law Enforcement

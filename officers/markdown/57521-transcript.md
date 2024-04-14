@@ -42,6 +42,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/25/2024 | PDP3549A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
 | 2/25/2024 | PDP1260A | 2023-1 In Service MFF Formations Online Recording | Passed | 0.0 | 1.00 |
+| 2/20/2024 | PDP0301A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
+| 2/20/2024 | PDP2893A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
+| 2/20/2024 | PDP2194A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
+| 2/20/2024 | PDP2964A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 2/19/2024 | PDP1227A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
 | 2/18/2024 | PDP3331A | 2023-1 In Service MFF Arrest Procedures | Passed | 0.0 | 0.50 |
 | 2/16/2024 | PDP3900A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |

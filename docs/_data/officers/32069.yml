@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2024
+  course: REG3684A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/3/2024
   course: HBS2524A
   title: FBINAA Spring Leadership Training
@@ -74,12 +80,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/28/2024
+  course: REG0549A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/25/2024
+  course: REG0638
+  title: DT Ground/Wall Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/20/2024
   course: SDP0720A
   title: Employment Law Updates and Best Practices
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/18/2024
+  course: REG4234A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/26/2024
+  course: REG2377A
+  title: Flow Drills/Grips  Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/14/2024
   course: SDP2330A
   title: Defensive Tactics

@@ -709,6 +709,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 11/30/2017
+  course: HBS0946A
+  title: ESPD Code Enforcement Training
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 11/29/2017
   course: HBS10291
   title: Child Abuse Investigations Update

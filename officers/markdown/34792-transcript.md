@@ -25,8 +25,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 9/28/2022 | 9/28/2024 |
 | Code of Ethics | Signed | 1/10/2008 |  |
 ## Education
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/22/2024 | ADP1228A | TASER Instructor | Passed | 0.0 | 16.00 |
 | 3/8/2024 | ADP1864A | DT/Wrap Training | Passed | 0.0 | 4.00 |
 | 3/2/2024 | TAP3329A | HAZMAT First Responder Awareness Level 1 | Passed | 0.0 | 1.50 |

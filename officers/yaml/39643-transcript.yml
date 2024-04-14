@@ -44,6 +44,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2024
+  course: REG3684A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: REG2351A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/28/2024
+  course: REG0549A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/25/2024
+  course: REG0638
+  title: DT Ground/Wall Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/18/2024
+  course: REG4234A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/7/2024
+  course: REG2092A
+  title: DT Grouind Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/22/2024
+  course: REG2733A
+  title: Gun Retention/DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/12/2024
   course: REG0151A
   title: DT

@@ -33,6 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 2/27/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
+| 2/27/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
+| 2/27/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
+| 2/27/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/10/2024 | PDP0720A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
 | 1/10/2024 | PDP2485A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
 | 1/10/2024 | PDP3872A | 2023-1 In Service Crowd Mgmt Legal Updates 1 | Passed | 0.0 | 1.00 |

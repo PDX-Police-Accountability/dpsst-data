@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/3/2024 | PDP0703A | Officer Safety and Wellness Conference | Passed | 0.0 | 12.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 2/1/2024 | PDP3591A | NW Peer Support Conference | Passed | 0.0 | 19.25 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |

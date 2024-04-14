@@ -61,6 +61,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2024
+  course: REG3684A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/1/2024
+  course: REG0294A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/28/2024
+  course: REG0549A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/25/2024
+  course: REG0638
+  title: DT Ground/Wall Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/21/2024
+  course: REG0344A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/13/2024
   course: SDP3367A
   title: Briefing Training Implicit Bias Based Policing

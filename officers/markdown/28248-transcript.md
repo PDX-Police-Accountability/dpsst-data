@@ -52,6 +52,10 @@
 | 3/6/2024 | PDP3719A | OEM L0102 Science for Disasters | Passed | 0.0 | 24.00 |
 | 2/20/2024 | VND4088A | 0956 NIMS ICS All-Hazards Liaison Officer Course | Passed | 0.0 | 16.00 |
 | 2/9/2024 | PDP1397A | L0101 Foundations of Emergency Management | Passed | 0.0 | 40.00 |
+| 2/4/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
+| 2/4/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
+| 2/4/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
+| 2/4/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/30/2024 | PDP0390A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 9.00 |
 | 1/25/2024 | PDP3531A | L0962 NIMS Planning Section Chief - 4 day | Passed | 0.0 | 25.00 |
 | 12/5/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |

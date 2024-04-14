@@ -84,6 +84,12 @@ certification_records:
   expiration_date: ''
   probation_date: 2/1/2024
 training_records:
+- date: 4/10/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '50.00'
 - date: 3/20/2024
   course: PDA0422A
   title: Defensive Tactics / Use of Force
@@ -102,12 +108,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 2/1/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 1/18/2024
   course: MOS0597A
   title: Bitcoin Blockchain Analysis

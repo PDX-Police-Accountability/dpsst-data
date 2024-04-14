@@ -149,6 +149,7 @@
 | 2/1/2018 | F6B22072 | Pursuit Policy | Passed | 0.0 | 1.00 |
 | 1/29/2018 | HBS16208 | InformCOM Mobile Client Update | Passed | 0.0 | 3.00 |
 | 1/24/2018 | HBS31180 | Diversity, Equity  Inclusion | Instructed | 0.0 | 3.00 |
+| 11/30/2017 | HBS0946A | ESPD Code Enforcement Training | Passed | 0.0 | 0.75 |
 | 11/29/2017 | HBS10291 | Child Abuse Investigations Update | Passed | 0.0 | 2.50 |
 | 11/29/2017 | HBS18589 | IFAST | Passed | 0.0 | 5.50 |
 | 11/29/2017 | HBS00640 | 40MM Less Lethal | Passed | 0.0 | 2.00 |
