@@ -55,9 +55,21 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 3/1/2024
+  course: OCS2903A
+  title: First Aid CPR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/21/2024
   course: OCS2173A
   title: Markmanship / MILO Decision Making, De-escalation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/15/2024
+  course: OCS3061A
+  title: K9 DT Training
   status: Passed
   score: '0.0'
   hours: '2.00'

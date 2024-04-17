@@ -37,7 +37,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/6/2024 | OCS2179A | Basic Detection K9 Course | Passed | 0.0 | 140.00 |
 | 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
+| 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/21/2024 | OCS2173A | Markmanship / MILO Decision Making, De-escalation | Passed | 0.0 | 2.00 |
+| 2/15/2024 | OCS3061A | K9 DT Training | Passed | 0.0 | 2.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |

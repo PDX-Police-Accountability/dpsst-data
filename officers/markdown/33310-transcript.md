@@ -44,6 +44,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/28/2024 | OCS1354A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |
+| 3/28/2024 | OCS2437A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |
 | 3/20/2024 | MMP3485A | Range Training | Passed | 0.0 | 3.00 |
 | 3/15/2024 | VND1728A | Infant  Child Death Investigation | Passed | 0.0 | 8.00 |
 | 3/1/2024 | MMP2598A | Calibre Press Online Training Videos, Jan-Feb | Passed | 0.0 | 2.25 |

@@ -56,6 +56,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/6/2024 | FSS3159A | Range Qualify | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG1216A | Use of Force 3 (Basic Police) | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG4471A | Bias Crimes (Basic Police) | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG0687A | Airway and Circulatory Anatomy and Physiology | Passed | 0.0 | 1.00 |

@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 3/1/2024
+  course: OCS2903A
+  title: First Aid CPR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 2/22/2024
   course: REG3588A
   title: 2024 Police Traffic Safety Conference

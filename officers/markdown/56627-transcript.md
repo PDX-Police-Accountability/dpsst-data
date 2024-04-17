@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/4/2024 | OCS4435A | Calibre Press FTO | Passed | 0.0 | 16.00 |
 | 2/20/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |

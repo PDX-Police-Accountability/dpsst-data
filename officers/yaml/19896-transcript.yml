@@ -190,6 +190,12 @@ certification_records:
   expiration_date: 8/24/2027
   probation_date: ''
 training_records:
+- date: 4/6/2024
+  course: FSS3159A
+  title: Range Qualify
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/21/2024
   course: REG1216A
   title: Use of Force 3 (Basic Police)

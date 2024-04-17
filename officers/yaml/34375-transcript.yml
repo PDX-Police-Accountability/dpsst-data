@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2024
+  course: STS0146A
+  title: Low Light Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/4/2024
   course: STS1103A
   title: Glock 47 RDS Transition Course  Qualification

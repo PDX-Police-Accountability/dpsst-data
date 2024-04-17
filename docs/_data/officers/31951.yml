@@ -3,12 +3,18 @@ header_record:
   name: McGuire, Brendan P.
   dpsst_identifier: '31951'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/10/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 1/24/2008
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/1/2010
-  expiration_date: ''
+  expiration_date: 7/10/2024
   probation_date: ''
 - status_date: 10/1/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/1/2010
-  expiration_date: ''
+  expiration_date: 7/10/2024
   probation_date: ''
 - status_date: 1/22/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/22/1997
-  expiration_date: ''
+  expiration_date: 7/10/2024
   probation_date: ''
 training_records:
 - date: 12/19/2023

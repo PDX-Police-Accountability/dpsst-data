@@ -57,6 +57,7 @@
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/5/2024 | HBS3460A | 2024 Feb Rifle Updates | Passed | 0.0 | 9.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
+| 2/1/2024 | HBS2357A | NW Peer Support Conference 2024 | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS3705A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/30/2024 | VND2789A | NW Peer Support Conference | Passed | 0.0 | 6.00 |
