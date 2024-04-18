@@ -16,18 +16,18 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/21/2024
+- status_date: 4/16/2024
   certificate: Police Officer
   level: Advanced
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 4/16/2024
   expiration_date: ''
   probation_date: ''
-- status_date: 3/21/2024
+- status_date: 4/16/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 4/16/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 6/5/2017
@@ -2772,8 +2772,8 @@ attribute_records:
   effective_date: 11/7/2016
   expiration_date: ''
 education_records:
-- date: 2/11/2015
-  degree: No Degree
+- date: 1/15/2015
+  degree: Bachelor Arts
   school: All Other Education Institutes
   major: ''
   hours: '48.0'

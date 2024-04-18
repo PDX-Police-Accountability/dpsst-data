@@ -62,6 +62,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2024
+  course: REG2072A
+  title: Ground Escape
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/10/2024
+  course: SDP3516A
+  title: Child Abuse MDT Protocol's and Karly's Law Review
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/10/2024
+  course: SDP3194A
+  title: Defensive Tactics Physical Control Drills
+  status: ''
+  score: '0.0'
+  hours: '1.50'
+- date: 4/10/2024
+  course: SDP0257A
+  title: Pursuit Policy Review and High Risk Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/8/2024
   course: REG3684A
   title: DT
@@ -100,6 +124,12 @@ training_records:
   hours: '2.00'
 - date: 3/18/2024
   course: REG4234A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/11/2024
+  course: REG0898A
   title: DT
   status: Passed
   score: '0.0'

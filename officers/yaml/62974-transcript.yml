@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2024
+  course: OCP0856A
+  title: DUII Case Law Update
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 3/27/2024
   course: OCP1380A
   title: Firearms/Use of Force

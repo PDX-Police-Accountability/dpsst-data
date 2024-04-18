@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2024 | AVP2787A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 3/13/2024 | AVP2469A | Monthly Leadership Meeting | Passed | 0.0 | 1.75 |
 | 2/14/2024 | AVP2257A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

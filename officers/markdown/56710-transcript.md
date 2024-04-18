@@ -45,6 +45,7 @@
 | 3/25/2024 | REG0638 | DT Ground/Wall Control | Passed | 0.0 | 1.00 |
 | 3/21/2024 | REG0344A | DT | Passed | 0.0 | 1.00 |
 | 3/13/2024 | SDP3367A | Briefing Training Implicit Bias Based Policing | Passed | 0.0 | 0.50 |
+| 3/11/2024 | REG0898A | DT | Passed | 0.0 | 1.00 |
 | 2/28/2024 | SDP1846A | Defensive Tactics Striking | Instructed | 0.0 | 3.00 |
 | 2/28/2024 | SDP2578A | Firearms Training | Passed | 0.0 | 3.00 |
 | 2/9/2024 | SDP0316A | Leadership Lessons Greatest TED Talks in History | Passed | 0.0 | 16.00 |

@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2024
+  course: OSH4114A
+  title: DT 24 Defensive Tactics 1st Trimester
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/15/2024
   course: OSH1328A
   title: 1st Trimester Firearms

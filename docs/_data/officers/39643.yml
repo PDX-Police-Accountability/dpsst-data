@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/11/2024
+  course: REG0898A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/7/2024
   course: REG2092A
   title: DT Grouind Control

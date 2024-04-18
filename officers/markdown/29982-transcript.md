@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2024 | AVP2787A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 4/3/2024 | REQMGMT | REQUIRED TRAINING:  Management | Completed | 0.0 | 0.00 |
 | 4/3/2024 | HBS2524A | FBINAA Spring Leadership Training | Passed | 0.0 | 8.00 |
 | 4/1/2024 | SVP3829A | FEMA AWR-160-WMD/Terriorism Awareness | Passed | 0.0 | 8.00 |

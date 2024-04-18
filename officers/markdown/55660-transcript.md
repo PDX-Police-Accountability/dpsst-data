@@ -16,8 +16,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 3/21/2024 | Police Officer | Advanced | App Recd |  |  |  |
-| 3/21/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 4/16/2024 | Police Officer | Advanced | Granted | 4/16/2024 |  |  |
+| 4/16/2024 | Police Officer | Intermediate | Granted | 4/16/2024 |  |  |
 | 6/5/2017 | Police Officer | Basic | Granted | 6/5/2017 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -30,7 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 2/11/2015 | No Degree | All Other Education Institutes |  | 48.0 |
+| 1/15/2015 | Bachelor Arts | All Other Education Institutes |  | 48.0 |
 | 3/15/2012 | No Degree | All Other Education Institutes |  | 19.0 |
 | 12/11/2011 | Associate Science | All Other Education Institutes | Law Enforcement | 99.6 |
 | 1/11/2009 | No Degree | All Other Education Institutes |  | 18.0 |

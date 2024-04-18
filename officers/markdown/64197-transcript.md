@@ -32,11 +32,11 @@
 | 3/14/2024 | PDP0644A | 2024 Training RegJIN RMS/MRE Training | Passed | 0.0 | 15.00 |
 | 3/12/2024 | PDP1254A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 3/6/2024 | PDP2685A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
+| 3/1/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/31/2024 | REG3800A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/11/2024 | REG1606A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 10/30/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 10/30/2023 | PDP1153A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
-| 10/16/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 640.00 |
 | 10/12/2023 | PDP4398A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 10/12/2023 | PDP0230A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 10/11/2023 | PDP4052A | CPR/First Aid | Passed | 0.0 | 2.00 |

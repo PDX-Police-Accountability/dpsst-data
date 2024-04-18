@@ -40,6 +40,7 @@
 | 3/28/2024 | REG0549A | DT | Passed | 0.0 | 1.00 |
 | 3/25/2024 | REG0638 | DT Ground/Wall Control | Passed | 0.0 | 1.00 |
 | 3/18/2024 | REG4234A | DT | Passed | 0.0 | 1.00 |
+| 3/11/2024 | REG0898A | DT | Passed | 0.0 | 1.00 |
 | 3/7/2024 | REG2092A | DT Grouind Control | Passed | 0.0 | 1.00 |
 | 2/22/2024 | REG2733A | Gun Retention/DT | Passed | 0.0 | 1.00 |
 | 2/12/2024 | REG0151A | DT | Passed | 0.0 | 1.00 |

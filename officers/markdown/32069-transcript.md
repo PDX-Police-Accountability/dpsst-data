@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2024 | REG2072A | Ground Escape | Passed | 0.0 | 1.00 |
+| 4/10/2024 | SDP3516A | Child Abuse MDT Protocol's and Karly's Law Review | Passed | 0.0 | 1.50 |
+| 4/10/2024 | SDP3194A | Defensive Tactics Physical Control Drills |  | 0.0 | 1.50 |
+| 4/10/2024 | SDP0257A | Pursuit Policy Review and High Risk Stops | Passed | 0.0 | 1.50 |
 | 4/8/2024 | REG3684A | DT | Passed | 0.0 | 1.00 |
 | 4/3/2024 | HBS2524A | FBINAA Spring Leadership Training | Passed | 0.0 | 8.00 |
 | 4/2/2024 | SDP1702A | Managing Performance and Discipline | Passed | 0.0 | 2.00 |
@@ -45,6 +49,7 @@
 | 3/25/2024 | REG0638 | DT Ground/Wall Control | Passed | 0.0 | 1.00 |
 | 3/20/2024 | SDP0720A | Employment Law Updates and Best Practices | Passed | 0.0 | 2.00 |
 | 3/18/2024 | REG4234A | DT | Passed | 0.0 | 1.00 |
+| 3/11/2024 | REG0898A | DT | Passed | 0.0 | 1.00 |
 | 2/26/2024 | REG2377A | Flow Drills/Grips  Control | Passed | 0.0 | 1.00 |
 | 2/14/2024 | SDP2330A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/14/2024 | SDP2245A | Firearms Training | Passed | 0.0 | 2.50 |

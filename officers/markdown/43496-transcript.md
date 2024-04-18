@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 3/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2023 | PDP1516A | Creating Safe Scenes - SAMHSA | Passed | 0.0 | 1.50 |

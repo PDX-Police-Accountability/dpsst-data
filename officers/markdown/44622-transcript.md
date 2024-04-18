@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2024 | OSH4114A | DT 24 Defensive Tactics 1st Trimester | Passed | 0.0 | 4.00 |
 | 3/15/2024 | OSH1328A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/4/2024 | OSH3978A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
 | 3/3/2024 | OSH0843A | 1st Trimester Firearms | Instructed | 0.0 | 4.00 |
