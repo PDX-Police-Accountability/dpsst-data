@@ -35,9 +35,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
+| 3/27/2024 | OCS2743A | Take downs/Ground Offense | Passed | 0.0 | 1.00 |
 | 3/6/2024 | OCS2179A | Basic Detection K9 Course | Passed | 0.0 | 140.00 |
 | 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
+| 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/21/2024 | OCS2173A | Markmanship / MILO Decision Making, De-escalation | Passed | 0.0 | 2.00 |
 | 2/15/2024 | OCS3061A | K9 DT Training | Passed | 0.0 | 2.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |

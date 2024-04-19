@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/18/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/29/2023
   course: PDP1743A
   title: 2023 Behavioral Health Unit Referrals

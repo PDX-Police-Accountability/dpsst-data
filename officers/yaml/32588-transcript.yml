@@ -87,6 +87,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 2/14/2024
+  course: GSP2286A
+  title: Red Dot Transition
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 1/18/2024
   course: GSP2616A
   title: Qucik Reaction Team/Identifying IED's

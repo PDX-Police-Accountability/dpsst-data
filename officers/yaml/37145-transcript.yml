@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/3/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/9/2023
   course: PDP0725A
   title: 2023-2 All Sworn In-Service ABLE Scenario

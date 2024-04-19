@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/13/2024
+  course: SVP1282A
+  title: 'Implicit Bias Course #23548-2301'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/31/2024
   course: SVP3206A
   title: FEMA AWR-160-WMD/Terriorism Awareness

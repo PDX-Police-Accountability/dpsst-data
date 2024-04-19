@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/17/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Incmpl
+  certificate_date: ''
+  expiration_date: 6/17/2024
+  probation_date: ''
 - status_date: 11/5/2018
   certificate: Police Officer
   level: Basic
@@ -30,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 1/12/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

@@ -38,8 +38,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/12/2024 | OCS1094A | FTO | Passed | 0.0 | 2.00 |
+| 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
+| 2/28/2024 | OCS1992A | Striking/Take Downs | Passed | 0.0 | 1.00 |
+| 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
+| 1/15/2024 | OCS4366A | Milo De-Escalation Decision Making | Passed | 0.0 | 1.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
 | 12/12/2023 | OCS0719A | FTO | Passed | 0.0 | 2.00 |

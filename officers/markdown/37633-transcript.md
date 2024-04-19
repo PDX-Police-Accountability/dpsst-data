@@ -39,6 +39,7 @@
 | 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 2/28/2024 | PDP4376A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 2/21/2024 | PDP3134A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
+| 2/19/2024 | PDP3514A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 2/14/2024 | PDP0826A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 2/14/2024 | PDP0826A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.50 |
 | 2/7/2024 | PDP1982A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
@@ -50,6 +51,8 @@
 | 1/17/2024 | PDP3255A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 4.00 |
 | 1/3/2024 | PDP2352A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 1/3/2024 | PDP2352A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |
+| 1/1/2024 | PDP1246A | 2022 Adv. Shotgun Operator Pre-Test Study Guide | Passed | 0.0 | 0.25 |
+| 1/1/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/13/2023 | PDP1999A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |
 | 12/7/2023 | PDP0711A | 2023-2 Basic Patrol K9 Class | Instructed | 0.0 | 96.00 |
 | 12/6/2023 | PDP3219A | 2023 K-9 (K9) Weekly Training | Passed | 0.0 | 4.00 |

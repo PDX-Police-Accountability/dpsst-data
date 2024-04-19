@@ -50,7 +50,26 @@
 | 1/10/2024 | PDP3271A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
 | 1/10/2024 | PDP0474A | 2023-1 In Service MFF Formations Online Recording | Passed | 0.0 | 1.00 |
 | 1/10/2024 | PDP2576A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 1/10/2024 | PDP1776A | 2023 Karly's Law Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
 | 1/9/2024 | PDP2437A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 1/9/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 1/9/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP1011A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP2891A | 2023 Body-Worn Camera (BWC) Policy Recording | Passed | 0.0 | 1.00 |
+| 1/9/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP4208A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 1/9/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP0617A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 1/9/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
+| 1/9/2024 | PDP2916A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP0638A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP0739A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 1/9/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 1/8/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/8/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 2/8/2023 | MISCMAIN | 2022 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 1/31/2023 | PDP35372 | 2022 Naxolone Administration | Passed | 0.0 | 0.25 |
 | 1/31/2023 | PDP27304 | 2023 Naxolone Narcan Distribution | Passed | 0.0 | 0.25 |

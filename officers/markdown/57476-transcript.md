@@ -41,6 +41,7 @@
 | 1/18/2024 | PDP2389A | 2024 PVO Inservice Instructor Orientation | Passed | 0.0 | 4.00 |
 | 1/18/2024 | PDP1335A | 2024 PVO Inservice Instructor Orientation | Passed | 0.0 | 5.00 |
 | 1/12/2024 | PDP2525A | Crisis Hostage Negotiation Level I Basic | Passed | 0.0 | 40.00 |
+| 1/9/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/19/2023 | PDP4443A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 12/19/2023 | PDP2720A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/19/2023 | PDP0387A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

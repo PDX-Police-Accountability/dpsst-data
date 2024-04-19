@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 1/12/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance

@@ -46,6 +46,7 @@
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |
 | 1/11/2024 | OAC1674A | Labor Law Fundamentals  Recent Trends | Passed | 0.0 | 3.00 |
 | 1/10/2024 | OAC2420A | Drones - The Future of Public Safety | Passed | 0.0 | 4.00 |
+| 1/3/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 11/17/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
 | 11/17/2023 | PDP1423A | 2023-3 Range Qual Secondary Firearm (25 Rd) | Passed | 0.0 | 0.50 |
 | 11/17/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

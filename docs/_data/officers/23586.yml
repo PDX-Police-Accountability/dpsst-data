@@ -36,6 +36,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/29/2024
+  course: PDS3207A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/29/2024
+  course: PDS1083A
+  title: UNET Range
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/21/2024
   course: PDS4304A
   title: Corrections Liability

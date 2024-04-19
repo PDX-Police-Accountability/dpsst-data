@@ -45,6 +45,7 @@
 | 2/1/2024 | PDP3591A | NW Peer Support Conference | Passed | 0.0 | 17.00 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/30/2024 | VND2789A | NW Peer Support Conference | Passed | 0.0 | 6.00 |
+| 1/15/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/3/2024 | PDP2746A | Crash Team Resiliancy with Dr. Stephanie Conn | Passed | 0.0 | 1.50 |
 | 1/3/2024 | PDP0852A | SFST Refresher Training | Passed | 0.0 | 1.50 |
 | 1/3/2024 | PDP2305A | DOJ Updates with Deena Ryerson | Passed | 0.0 | 1.00 |

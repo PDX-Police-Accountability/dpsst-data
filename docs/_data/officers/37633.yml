@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/19/2024
+  course: PDP3514A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/14/2024
   course: PDP0826A
   title: 2024 K-9 (K9) Weekly Training
@@ -140,6 +146,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 1/1/2024
+  course: PDP1246A
+  title: 2022 Adv. Shotgun Operator Pre-Test Study Guide
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/1/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/13/2023
   course: PDP1999A
   title: 2023 K-9 (K9) Weekly Training

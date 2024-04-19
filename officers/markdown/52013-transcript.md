@@ -20,6 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/17/2024 | Police Officer | Advanced | App Recd |  |  |  |
+| 4/17/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 9/3/2019 | Police Officer | Supervisory | Granted | 9/3/2019 |  |  |
 | 3/5/2012 | Police Officer | Basic | Granted | 3/5/2012 |  |  |
 ## Attributes
@@ -37,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 1/15/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/6/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 11/30/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 11/28/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

@@ -48,6 +48,7 @@
 | 1/25/2024 | REG3910A | DT | Passed | 0.0 | 1.00 |
 | 1/22/2024 | REG4525A | DT | Passed | 0.0 | 1.00 |
 | 1/18/2024 | REG1983A | Bodylocks/Movement Drills | Passed | 0.0 | 1.00 |
+| 1/11/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/8/2024 | REG2233A | DT | Passed | 0.0 | 1.00 |
 | 1/4/2024 | REG3963A | DT | Passed | 0.0 | 1.00 |
 | 12/21/2023 | REG2668A | DT | Passed | 0.0 | 1.00 |

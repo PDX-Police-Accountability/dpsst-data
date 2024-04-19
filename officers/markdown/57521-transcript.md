@@ -42,13 +42,16 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/25/2024 | PDP3549A | 2023-1 In Service MFF OPS Planned vs Spontaneous | Passed | 0.0 | 0.50 |
 | 2/25/2024 | PDP1260A | 2023-1 In Service MFF Formations Online Recording | Passed | 0.0 | 1.00 |
+| 2/25/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 2/20/2024 | PDP0301A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP2893A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP2194A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP2964A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 2/19/2024 | PDP1227A | 2023-1 In Service Wellness Online Recording | Passed | 0.0 | 1.00 |
+| 2/19/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 2/18/2024 | PDP3331A | 2023-1 In Service MFF Arrest Procedures | Passed | 0.0 | 0.50 |
 | 2/16/2024 | PDP3900A | 2023-1 In Service Crowd Mgmt Baton | Passed | 0.0 | 0.50 |
+| 2/9/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 2/3/2024 | PDP1958A | 2023-1 In Service Crowd Mgmt Legal Updates 2 | Passed | 0.0 | 1.00 |
 | 2/1/2024 | PDP2186A | 2023-1 In Service APRGasMask Recorded Training | Passed | 0.0 | 0.50 |
 | 2/1/2024 | PDP1763A | 2023-1 In Service Crowd Mgmt Legal Updates 1 | Passed | 0.0 | 1.00 |
@@ -57,6 +60,7 @@
 | 2/1/2024 | PDP4506A | 2023-1 In Service Crowd Theory Online Recording | Passed | 0.0 | 1.00 |
 | 2/1/2024 | PDP2938A | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
 | 2/1/2024 | PDP4513A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
+| 2/1/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
 | 8/9/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 7/21/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/6/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

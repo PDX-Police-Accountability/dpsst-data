@@ -110,6 +110,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 1/7/2024
+  course: PDP3514A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 1/7/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/3/2024
   course: PDP2352A
   title: 2024 K-9 (K9) Weekly Training

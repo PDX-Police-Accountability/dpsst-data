@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/17/2024 | Police Officer | Intermediate | App Incmpl |  | 6/17/2024 |  |
 | 11/5/2018 | Police Officer | Basic | Granted | 11/5/2018 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -32,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/15/2024 | PDP2063A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
+| 1/12/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 30.00 |
 | 12/6/2023 | PDP0984A | Acting Sergeant Orientation and Training | Passed | 0.0 | 2.00 |
 | 12/1/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

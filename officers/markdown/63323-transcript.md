@@ -29,6 +29,20 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/13/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/13/2024 | PDP0617A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 3/1/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
+| 3/1/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 3/1/2024 | PDP4208A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 2/28/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 2/28/2024 | PDP1776A | 2023 Karly's Law Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 2/28/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
+| 2/19/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 2/19/2024 | PDP0638A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 2/14/2024 | PDP1011A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 2/14/2024 | PDP2916A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 2/9/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |
+| 2/9/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 11/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/7/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |

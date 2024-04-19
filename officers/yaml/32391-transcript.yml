@@ -149,6 +149,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/10/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/28/2023
   course: PDP4150A
   title: DIR 0630.05 Chief's Message

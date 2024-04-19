@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/27/2024
+  course: PDS0168A
+  title: LE Range IDC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 3/26/2024
   course: PDS1794A
   title: Defensive Tactics

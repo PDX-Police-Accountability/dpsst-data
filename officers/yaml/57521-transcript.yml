@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/25/2024
+  course: PDP2811A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/20/2024
   course: PDP0301A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh
@@ -103,6 +109,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/19/2024
+  course: PDP3566A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/18/2024
   course: PDP3331A
   title: 2023-1 In Service MFF Arrest Procedures
@@ -115,6 +127,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/9/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/3/2024
   course: PDP1958A
   title: 2023-1 In Service Crowd Mgmt Legal Updates 2
@@ -160,6 +178,12 @@ training_records:
 - date: 2/1/2024
   course: PDP4513A
   title: 2023-1 In Service Internal Affairs
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2024
+  course: PDP3527A
+  title: 2023 PCJP and Restorative Justice Referral
   status: Passed
   score: '0.0'
   hours: '0.50'

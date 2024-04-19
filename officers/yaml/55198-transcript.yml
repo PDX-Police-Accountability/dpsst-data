@@ -74,6 +74,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/26/2024
+  course: PDP3514A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

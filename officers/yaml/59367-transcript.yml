@@ -132,12 +132,126 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/10/2024
+  course: PDP1776A
+  title: 2023 Karly's Law Oregon Child Abuse Solutions
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/9/2024
   course: PDP2437A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 1/9/2024
+  course: PDP3566A
+  title: 2023 Active Stolen Vehicles Hotsheet
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP2833A
+  title: 2023 City of Portland Police SharePoint Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2024
+  course: PDP2822A
+  title: 2023 DIR 0620.00 Body-Worn Camera Use and MGMT
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP1011A
+  title: 2023 New Patrol Vehicles
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP2811A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP2891A
+  title: 2023 Body-Worn Camera (BWC) Policy Recording
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/9/2024
+  course: PDP0508A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP4208A
+  title: 2023 Lead Exposure Training
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
+- date: 1/9/2024
+  course: PDP3052A
+  title: 2023 Police SharePoint Governance
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP0617A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/9/2024
+  course: PDP3527A
+  title: 2023 PCJP and Restorative Justice Referral
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2024
+  course: PDP2916A
+  title: 2023 Terminator Tire Deflation Device
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP0638A
+  title: 2023 Directive 650.00 Consent Searches
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP0739A
+  title: 2023 Microsoft Office Teams Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/9/2024
+  course: PDP1417A
+  title: 2023 Microsoft OneDrive Usage Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/8/2024
+  course: PDP2198A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/8/2024
+  course: PDP1708A
+  title: 2023 Red Dot Sights Training
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 2/8/2023
   course: MISCMAIN
   title: 2022 LE Annual Maintenance

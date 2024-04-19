@@ -58,6 +58,7 @@
 | 2/4/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/30/2024 | PDP0390A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 9.00 |
 | 1/25/2024 | PDP3531A | L0962 NIMS Planning Section Chief - 4 day | Passed | 0.0 | 25.00 |
+| 1/14/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/5/2023 | PDP3725A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 12/5/2023 | PDP4526A | 2023-2 All Sworn In-Service ABLE Scenario | Passed | 0.0 | 1.00 |
 | 12/5/2023 | PDP2382A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

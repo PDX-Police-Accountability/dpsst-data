@@ -30,6 +30,11 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 1/31/2024 | PDP0044A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 1/8/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 1/8/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 1/8/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/8/2024 | PDP0617A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 1/8/2024 | PDP0530A | Annual CIU NTR Alarm Response - Nuclear Reactor | Passed | 0.0 | 0.25 |
 | 12/28/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/28/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/27/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

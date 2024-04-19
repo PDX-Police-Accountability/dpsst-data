@@ -40,6 +40,7 @@
 | 2/8/2024 | PDP3079A | 2024-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 1/18/2024 | PDP2389A | 2024 PVO Inservice Instructor Orientation | Passed | 0.0 | 4.00 |
 | 1/18/2024 | PDP1335A | 2024 PVO Inservice Instructor Orientation | Passed | 0.0 | 5.00 |
+| 1/8/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 11/15/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/15/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/4/2023 | PDP1135A | 2023 40mm Less Lethal New Operator Training | Passed | 0.0 | 18.00 |

@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2024
+  course: OCS1848A
+  title: Ethics- ETHOS training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/27/2024
+  course: OCS2743A
+  title: Take downs/Ground Offense
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/6/2024
   course: OCS2179A
   title: Basic Detection K9 Course
@@ -61,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 2/28/2024
+  course: OCS2413A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/21/2024
   course: OCS2173A
   title: Markmanship / MILO Decision Making, De-escalation

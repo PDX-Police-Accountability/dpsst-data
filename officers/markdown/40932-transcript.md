@@ -41,6 +41,7 @@
 | 7/20/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 3/1/2024 | PDP4303A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/4/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
 | 12/1/2023 | PDP1637A | Advancing Your Career for Female Pub Sfty Prof | Passed | 0.0 | 8.00 |

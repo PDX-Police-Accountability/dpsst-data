@@ -29,6 +29,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/10/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 3/10/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 3/10/2024 | PDP0739A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 3/10/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/29/2024 | PDP2489A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/29/2024 | PDP2019A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

@@ -32,3 +32,7 @@
 | 4/1/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 3/21/2024 | PDP4366A | CPR/First Aid | Passed | 0.0 | 3.25 |
 | 2/27/2024 | SMP3366A | Mental Health First Aid | Passed | 0.0 | 8.00 |
+| 2/20/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 2/20/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 2/20/2024 | PDP0739A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 2/20/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

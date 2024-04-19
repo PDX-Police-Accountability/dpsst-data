@@ -31,6 +31,7 @@
 | 3/23/2024 | REG3166A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/14/2024 | REG4443A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 2/14/2024 | REG1825A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 1/8/2024 | PDP1357A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 11/27/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/16/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 24.00 |
 | 11/14/2023 | PDP2139A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 7.00 |

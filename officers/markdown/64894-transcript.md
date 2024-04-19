@@ -34,3 +34,7 @@
 | 2/29/2024 | PDP2489A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/29/2024 | PDP2019A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 2/28/2024 | PDP2070A | CPR/First Aid | Passed | 0.0 | 2.00 |
+| 2/25/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 2/25/2024 | PDP0739A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 2/25/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 2/25/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |

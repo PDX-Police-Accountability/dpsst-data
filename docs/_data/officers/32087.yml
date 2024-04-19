@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2024
+  course: OCS1848A
+  title: Ethics- ETHOS training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/21/2023
   course: OCS1318A
   title: Resiliency Training by Dr. Conn

@@ -86,12 +86,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/3/2024
+  course: OCS1848A
+  title: Ethics- ETHOS training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/2/2024
   course: OCS2183A
   title: July,Aug,Sept 23 and Feb, Mar, April 24 Firearms
   status: Instructed
   score: '0.0'
   hours: '6.00'
+- date: 3/28/2024
+  course: OCS2583A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/22/2024
   course: OCS3372A
   title: Target ID/Positional Shooting/Marksmanship
@@ -116,12 +128,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 2/28/2024
+  course: OCS2413A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/27/2024
   course: PDS4189A
   title: Smith  Wesson MP15 Armor's Course
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/24/2024
+  course: OCS0898A
+  title: Fundamentals of Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '79.00'
+- date: 2/24/2024
+  course: OCS3625A
+  title: Fundamentals of Marksmanship
+  status: Instructed
+  score: '0.0'
+  hours: '75.00'
 - date: 2/21/2024
   course: OCS2173A
   title: Markmanship / MILO Decision Making, De-escalation
@@ -158,6 +188,24 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 1/23/2024
+  course: OCS4203A
+  title: Striking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/23/2024
+  course: OCS3394A
+  title: MILO Deescalation, Decision Making
+  status: Instructed
+  score: '0.0'
+  hours: '31.00'
+- date: 1/15/2024
+  course: OCS4366A
+  title: Milo De-Escalation Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/30/2023
   course: OCS1389A
   title: December firearms instruction

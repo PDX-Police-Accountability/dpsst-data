@@ -93,10 +93,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 9/14/2024
+- date: 4/16/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
-  status: Required
+  status: Completed
   score: '0.0'
   hours: '50.00'
 - date: 3/20/2024

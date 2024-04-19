@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/30/2024
+  course: PDP3514A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 1/29/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

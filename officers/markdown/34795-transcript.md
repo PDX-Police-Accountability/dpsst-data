@@ -41,11 +41,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/9/2024 | VND3407A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 4/4/2024 | OCS3160A | Counseling, Communication, and Mentorship | Passed | 0.0 | 3.00 |
+| 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
+| 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
+| 3/27/2024 | OCS2743A | Take downs/Ground Offense | Passed | 0.0 | 1.00 |
 | 3/26/2024 | OCS2678A | CCITF DTs | Passed | 0.0 | 2.00 |
 | 3/19/2024 | OCS0115A | Drawing from concealment, marksmanship | Passed | 0.0 | 4.00 |
 | 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
+| 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/20/2024 | OCS0994A | Speed from Concealment, Marksmanship, Cover | Passed | 0.0 | 3.00 |
+| 1/23/2024 | OCS4203A | Striking | Passed | 0.0 | 1.00 |
+| 1/15/2024 | OCS4366A | Milo De-Escalation Decision Making | Passed | 0.0 | 1.00 |
 | 12/16/2023 | OCS2690A | Bias Hate Crime Training | Passed | 0.0 | 0.50 |
 | 12/12/2023 | OCS3053A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |
 | 12/12/2023 | OCS1971A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |

@@ -40,6 +40,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/17/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/17/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 9/3/2019
   certificate: Police Officer
   level: Supervisory
@@ -55,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 1/15/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/6/2023
   course: MISCMAIN
   title: 2023 LE Leadership 3 Year Maintenance

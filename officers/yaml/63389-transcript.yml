@@ -54,6 +54,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/2/2024
+  course: PDP2198A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2023
   course: PDP2917A
   title: 2023 New Patrol Vehicles

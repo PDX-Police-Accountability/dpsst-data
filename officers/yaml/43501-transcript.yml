@@ -112,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 1/2/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 11/21/2023
   course: PDP0003A
   title: 2023-3 Range Qualification Primary Firearm

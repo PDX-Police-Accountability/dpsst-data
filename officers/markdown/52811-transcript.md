@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/27/2024 | PDS0168A | LE Range IDC | Passed | 0.0 | 3.00 |
 | 3/26/2024 | PDS1794A | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 3/21/2024 | PDS3394A | Officer Down/Citizen Rescue | Passed | 0.0 | 4.00 |
 | 3/20/2024 | PDS0766A | SWAT Firearms Training | Passed | 0.0 | 8.00 |

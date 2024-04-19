@@ -94,6 +94,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/28/2024
+  course: FGP0412A
+  title: ACAP - Airway, Circulatory and Anatomy
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/25/2024
+  course: FGP0876A
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/20/2024
   course: FGP1470A
   title: MDT Protocols  Child Abuse Investigations
@@ -4445,6 +4457,10 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 3/25/2024
+  expiration_date: 3/27/2025
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
@@ -4457,10 +4473,6 @@ attribute_records:
   value: Signed
   effective_date: 9/22/2008
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 4/8/2024
 education_records:
 - date: 9/15/1991
   degree: Bachelor Science

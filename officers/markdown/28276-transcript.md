@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/13/2024 | SVP1282A | Implicit Bias Course #23548-2301 | Passed | 0.0 | 1.00 |
 | 3/31/2024 | SVP3206A | FEMA AWR-160-WMD/Terriorism Awareness | Passed | 0.0 | 8.00 |
 | 2/29/2024 | SVP1436A | Addressing Demand, No Buyer No Victim | Passed | 0.0 | 1.00 |
 | 2/29/2024 | SVP1681A | Human Trafficking 101 | Passed | 0.0 | 1.00 |

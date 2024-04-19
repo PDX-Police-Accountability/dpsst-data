@@ -33,6 +33,7 @@
 | 2/12/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/12/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/12/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
+| 1/2/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/31/2023 | PDP2917A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 12/31/2023 | PDP3126A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |
 | 12/27/2023 | PDP2709A | 2023 PPB Lead Exposure Training | Passed | 0.0 | 0.25 |

@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/28/2024
+  course: OCS2583A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/1/2024
   course: OCS2383A
   title: First Aid CPR
@@ -68,6 +74,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 2/28/2024
+  course: OCS1992A
+  title: Striking/Take Downs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/28/2024
+  course: OCS2413A
+  title: Fundamentals of Marksmanship
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/15/2024
+  course: OCS4366A
+  title: Milo De-Escalation Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/16/2023
   course: OCS2690A
   title: Bias Hate Crime Training

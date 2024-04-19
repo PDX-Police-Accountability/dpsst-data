@@ -36,6 +36,8 @@
 | 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Passed | 0.0 | 23.00 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
+| 1/2/2024 | PDP0405A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
 | 12/26/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP3794A | 2022 HB 2513 Airways | Passed | 0.0 | 2.00 |
 | 12/26/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

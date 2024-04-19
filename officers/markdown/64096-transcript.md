@@ -36,6 +36,19 @@
 | 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Passed | 0.0 | 23.00 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
+| 1/2/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP0405A | 2023 Naxolone 'Narcan' Distribution | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP1776A | 2023 Karly's Law Oregon Child Abuse Solutions | Passed | 0.0 | 0.50 |
+| 1/2/2024 | PDP4208A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 1/2/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 1/2/2024 | PDP0617A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 1/2/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
+| 1/2/2024 | PDP0530A | Annual CIU NTR Alarm Response - Nuclear Reactor | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP2916A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
+| 1/2/2024 | PDP0638A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP1419A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 12/26/2023 | PDP0139A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 12/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |

@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/29/2024 | PDS3207A | Defensive Tactics | Passed | 0.0 | 4.00 |
+| 3/29/2024 | PDS1083A | UNET Range | Passed | 0.0 | 4.00 |
 | 2/21/2024 | PDS4304A | Corrections Liability | Passed | 0.0 | 1.00 |
 | 1/31/2024 | PDS1464A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 1/31/2024 | PDS3505A | Suicide Prevention | Passed | 0.0 | 1.00 |

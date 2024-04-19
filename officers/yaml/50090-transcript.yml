@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 2/2/2024
+  course: PDP3514A
+  title: Acting Sergeant Orientation and Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/1/2024
   course: PDP3769A
   title: 2024 SERT Training - SCENARIO

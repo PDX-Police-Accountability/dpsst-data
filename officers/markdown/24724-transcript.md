@@ -31,10 +31,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/25/2024 | 3/27/2025 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 9/22/2008 |  |
-| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 4/8/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/28/2024 | FGP0412A | ACAP - Airway, Circulatory and Anatomy | Passed | 0.0 | 2.00 |
+| 3/25/2024 | FGP0876A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 2/20/2024 | FGP1470A | MDT Protocols  Child Abuse Investigations | Passed | 0.0 | 1.25 |
 | 2/6/2024 | FGP2505A | Creating the Culture for Behavioral Health | Passed | 0.0 | 2.25 |
 | 1/26/2024 | FGP0368A | Human Trafficking Awareness-Roll Call Discussion | Passed | 0.0 | 0.50 |

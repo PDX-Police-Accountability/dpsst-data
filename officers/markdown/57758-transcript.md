@@ -34,10 +34,27 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/6/2024 | F6R2063A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 2/29/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
+| 2/29/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 2/29/2024 | PDP4208A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 2/29/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
 | 2/27/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/27/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/27/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/27/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
+| 2/26/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 2/26/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
+| 2/26/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |
+| 2/26/2024 | PDP1011A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 2/26/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 2/26/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
+| 2/26/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
+| 2/26/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 2/26/2024 | PDP0617A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 2/26/2024 | PDP1357A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 2/26/2024 | PDP0638A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
+| 2/26/2024 | PDP0739A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
+| 2/26/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 7/23/2022 | PDP11567 | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 7/7/2022 | PDP33630 | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 5/26/2022 | PDP11139 | 2022-2 Range Qualification 40mm Less Lethal | Passed | 0.0 | 0.50 |

@@ -36,6 +36,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 1/8/2024
+  course: PDP2811A
+  title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/8/2024
+  course: PDP0508A
+  title: 2023 Field Drug Test Kits
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/8/2024
+  course: PDP2198A
+  title: City of Portland Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/8/2024
+  course: PDP0617A
+  title: 2023 OSHA Heat Illness Prevention with CityLearner
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/8/2024
+  course: PDP0530A
+  title: Annual CIU NTR Alarm Response - Nuclear Reactor
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 12/28/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

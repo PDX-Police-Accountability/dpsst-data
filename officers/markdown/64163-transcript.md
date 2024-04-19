@@ -30,7 +30,19 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 3/14/2024 | PDP0644A | 2024 Training RegJIN RMS/MRE Training | Passed | 0.0 | 15.00 |
+| 3/13/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
 | 3/12/2024 | PDP1254A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 3/7/2024 | PDP4208A | 2023 Lead Exposure Training | Passed | 0.0 | 1.25 |
+| 3/6/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP1011A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP2811A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
+| 3/6/2024 | PDP0617A | 2023 OSHA Heat Illness Prevention with CityLearner | Passed | 0.0 | 1.00 |
+| 3/6/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
+| 3/6/2024 | PDP0638A | 2023 Directive 650.00 Consent Searches | Passed | 0.0 | 0.25 |
 | 3/1/2024 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 1/31/2024 | REG3800A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/11/2024 | REG1606A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

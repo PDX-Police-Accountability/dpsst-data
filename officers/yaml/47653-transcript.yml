@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '32.00'
+- date: 1/15/2024
+  course: PDP1518A
+  title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
 - date: 1/4/2024
   course: PDP0040A
   title: 2024 FTEP Post Basic CEW Taser
