@@ -57,6 +57,7 @@
 | 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
+| 10/12/2023 | OCS1205A | October 2023 DV Refresher Roll Call training | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 9/13/2023 | OCS3861A | Scenarios and Deescalation | Passed | 0.0 | 1.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |

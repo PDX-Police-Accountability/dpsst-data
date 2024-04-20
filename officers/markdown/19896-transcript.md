@@ -56,12 +56,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2024 | REG3318A | Active Threat  #1 (Basic Police) | Passed | 0.0 | 2.00 |
 | 4/6/2024 | FSS3159A | Range Qualify | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG1216A | Use of Force 3 (Basic Police) | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG4471A | Bias Crimes (Basic Police) | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG0687A | Airway and Circulatory Anatomy and Physiology | Passed | 0.0 | 1.00 |
 | 3/12/2024 | BPT1620A | Facilitator Development | Passed | 0.0 | 8.00 |
 | 3/11/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
+| 3/8/2024 | REG1137A | Airway and Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
+| 3/7/2024 | REG2554A | Use of Force 8 (Basic Police) | Passed | 0.0 | 2.00 |
 | 9/14/2023 | JDN1031A | Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 9/14/2023 | JDN2121A | Firearms Training | Passed | 0.0 | 2.00 |
 | 6/20/2022 | CYS36340 | Trauma Bag Training | Passed | 0.0 | 1.00 |

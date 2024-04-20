@@ -87,6 +87,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/5/2024
+  course: SAG3321A
+  title: LEDS/CJIS Certification Renewal
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/5/2024
+  course: SAG3575A
+  title: LEDS/CJIS Certification Renewal
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/31/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

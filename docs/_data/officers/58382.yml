@@ -169,6 +169,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 10/12/2023
+  course: OCS1205A
+  title: October 2023 DV Refresher Roll Call training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/4/2023
   course: OCS3719A
   title: Use of Force/De-escalation K9 unit training

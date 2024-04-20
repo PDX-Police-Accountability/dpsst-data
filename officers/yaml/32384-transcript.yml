@@ -81,6 +81,12 @@ certification_records:
   expiration_date: 9/20/2027
   probation_date: ''
 training_records:
+- date: 4/11/2024
+  course: MKL3575A
+  title: Lab Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 9/18/2022
   course: PDP28363
   title: 'SERT: Emergency Medical Training Refresher'

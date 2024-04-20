@@ -56,6 +56,7 @@
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/20/2023 | OCS1690A | Ethics | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS2343A | Force on Force | Passed | 0.0 | 1.00 |
+| 10/12/2023 | OCS1205A | October 2023 DV Refresher Roll Call training | Passed | 0.0 | 1.00 |
 | 10/4/2023 | OCS3719A | Use of Force/De-escalation K9 unit training | Passed | 0.0 | 4.00 |
 | 9/13/2023 | GSP1641A | 2023 OPCA Fall Conference - Patrol | Passed | 0.0 | 24.00 |
 | 7/30/2023 | OCS0074A | Ambush/Vehicle Extractions | Passed | 0.0 | 1.00 |

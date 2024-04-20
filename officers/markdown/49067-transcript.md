@@ -53,6 +53,7 @@
 | 10/31/2023 | OCS3683A | 2023 September and October DPSST Legal Updates | Passed | 0.0 | 0.25 |
 | 10/23/2023 | OCS1779A | 2023 Legislative Update | Passed | 0.0 | 1.00 |
 | 10/16/2023 | OCS1119A | Use of force decision making | Passed | 0.0 | 1.00 |
+| 10/12/2023 | OCS1205A | October 2023 DV Refresher Roll Call training | Passed | 0.0 | 1.00 |
 | 9/20/2023 | OCS2211A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 8/16/2023 | LOP3340A | West Metro Monthly Motor Training 08/16/2023 | Passed | 0.0 | 5.00 |
 | 8/13/2023 | OCS0541A | One Hand Shooting/Use of Cover | Passed | 0.0 | 1.00 |
