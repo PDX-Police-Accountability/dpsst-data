@@ -63,6 +63,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2024
+  course: EGP4259A
+  title: Taser Training  Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/11/2024
+  course: EGP0661A
+  title: Pistol  Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/28/2024
   course: EGP0493A
   title: SWAT Firearms -Equipment Maintanence

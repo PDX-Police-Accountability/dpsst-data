@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 5/15/2023 |  |
+| Certification Cards | First Aid and CPR | 5/10/2023 | 5/10/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -78,6 +79,7 @@
 | 9/15/2023 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 7/20/2023 | REG2860A | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
 | 5/10/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
+| 5/10/2023 | PDP0325A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 5/4/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 27.00 |
 | 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
 | 3/22/2023 | PDP30049 | 2018-3 TT Shooting Through Barriers | Passed | 0.0 | 0.25 |

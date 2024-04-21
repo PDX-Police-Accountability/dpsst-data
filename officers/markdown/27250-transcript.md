@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/11/2024 | Portland State University DPS | Promotion | Sergeant |  |  |
 | 5/10/2023 | Portland State University DPS | Hired | Police Off |  |  |
 | 10/27/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/25/2022 | Portland State University DPS | Resigned | Police Off |  |  |
@@ -33,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2025 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
 | 11/10/2023 | PSU1251A | Ethical Decision Making in the Gray Area | Passed | 0.0 | 1.25 |
 | 10/4/2023 | PSU4516A | Firearms Training / Qualification | Passed | 0.0 | 2.00 |
 | 8/11/2023 | PSU1346A | Intro to Trauma Informed Care | Passed | 0.0 | 1.25 |

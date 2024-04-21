@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/11/2024
+  agency: Portland State University DPS
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 5/10/2023
   agency: Portland State University DPS
   action: Hired
@@ -67,6 +73,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2025
+  course: REQSUPV
+  title: 'REQUIRED TRAINING:  Supervision'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 11/10/2023
   course: PSU1251A
   title: Ethical Decision Making in the Gray Area

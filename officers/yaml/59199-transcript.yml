@@ -67,6 +67,18 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 4/11/2024
+  course: EGP0661A
+  title: Pistol  Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/11/2024
+  course: EGP4259A
+  title: Taser Training  Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

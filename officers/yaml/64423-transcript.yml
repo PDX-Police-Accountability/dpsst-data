@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/16/2024
+  course: PDP0696A
+  title: RADAR/LIDAR Operator
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 4/1/2024
   course: PDP1449A
   title: WMD/Terrorism Awareness for Emergency Respndrs

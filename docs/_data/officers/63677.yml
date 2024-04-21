@@ -348,6 +348,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/10/2023
+  course: PDP0325A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/7/2023
   course: PDP2648
   title: ICS-100 Intro to the Incident Cmmnd System
@@ -431,4 +437,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 5/15/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/10/2023
+  expiration_date: 5/10/2025
 education_records: []

@@ -43,6 +43,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2024 | EGP0661A | Pistol  Rifle Qualification | Passed | 0.0 | 4.00 |
+| 4/11/2024 | EGP4259A | Taser Training  Qualification | Passed | 0.0 | 4.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/14/2024 | EGP1625A | Defensive Tactics Skills  Scenarios | Passed | 0.0 | 4.00 |
 | 3/14/2024 | EGP4380A | Firearms Marksmanship Skills | Passed | 0.0 | 4.00 |

@@ -67,6 +67,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2024
+  course: MNS0851A
+  title: Kloxxado (Narcan) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/28/2024
   course: MNS2952A
   title: Low Light Firearms Training

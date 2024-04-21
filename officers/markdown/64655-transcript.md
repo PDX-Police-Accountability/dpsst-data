@@ -20,6 +20,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/18/2024 | 4/18/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -28,6 +29,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/29/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 4/18/2024 | PDP3483A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 2/7/2024 | PDP1357A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 12/26/2023 | PDP2915A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 12/26/2023 | PDP1322A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |

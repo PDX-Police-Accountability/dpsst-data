@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2024
+  course: PDP0696A
+  title: RADAR/LIDAR Operator
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 2/9/2024
   course: VND0416A
   title: 28 CFR 23 and WSIN Resources

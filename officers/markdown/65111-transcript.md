@@ -20,6 +20,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/18/2024 | 4/18/2026 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -28,3 +29,4 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/11/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/29/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 4/18/2024 | PDP3483A | CPR/First Aid | Passed | 0.0 | 3.00 |

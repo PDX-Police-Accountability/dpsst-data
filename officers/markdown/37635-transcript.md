@@ -37,6 +37,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/11/2024 | EGP4259A | Taser Training  Qualification | Passed | 0.0 | 4.00 |
+| 4/11/2024 | EGP0661A | Pistol  Rifle Qualification | Passed | 0.0 | 4.00 |
 | 3/28/2024 | EGP0493A | SWAT Firearms -Equipment Maintanence | Passed | 0.0 | 18.00 |
 | 3/14/2024 | EGP1625A | Defensive Tactics Skills  Scenarios | Passed | 0.0 | 4.00 |
 | 3/14/2024 | EGP4380A | Firearms Marksmanship Skills | Passed | 0.0 | 4.00 |

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/24/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/16/2024 | PDP0696A | RADAR/LIDAR Operator | Passed | 0.0 | 14.00 |
 | 4/1/2024 | PDP1449A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 3/6/2024 | REG2525A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/8/2024 | REG1539A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

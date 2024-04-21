@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/16/2024
+  agency: DPSST Use Only
+  action: Resigned
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 8/17/2017
   agency: DPSST Use Only
   action: InstrApp
@@ -64,38 +70,38 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 9/25/2017
+- status_date: 4/16/2024
   certificate: Instructor
   level: ''
-  status: Granted
+  status: Expired
   certificate_date: 9/25/2017
   expiration_date: ''
   probation_date: ''
-- status_date: 1/12/2017
+- status_date: 10/12/2021
   certificate: Police Officer
   level: Advanced
-  status: Lapsed
+  status: Expired
   certificate_date: 6/16/1992
   expiration_date: ''
   probation_date: ''
-- status_date: 1/12/2017
+- status_date: 10/12/2021
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Expired
   certificate_date: 8/21/1987
   expiration_date: ''
   probation_date: ''
-- status_date: 1/12/2017
+- status_date: 10/12/2021
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Expired
   certificate_date: 6/21/1988
   expiration_date: ''
   probation_date: ''
-- status_date: 1/12/2017
+- status_date: 10/12/2021
   certificate: Police Officer
   level: Supervisory
-  status: Lapsed
+  status: Expired
   certificate_date: 12/15/2010
   expiration_date: ''
   probation_date: ''
