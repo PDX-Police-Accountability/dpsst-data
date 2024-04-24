@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Instructed | 0.0 | 4.00 |
 | 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Instructed | 0.0 | 8.00 |
 | 3/5/2024 | SAG3193A | Protecting Lives Saving Futures | Instructed | 0.0 | 8.00 |

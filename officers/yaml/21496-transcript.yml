@@ -206,6 +206,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 4/5/2024
+  course: F6R2630A
+  title: DUII Multi-Disciplinary Task Force
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 4/2/2024
   course: OSH0293A
   title: EVO - Advanced Pursuit Haulting Training

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/14/2024
+  course: HSU4490A
+  title: Spring In-Service 2024 Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/12/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

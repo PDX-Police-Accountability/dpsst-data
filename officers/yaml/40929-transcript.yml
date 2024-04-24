@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2024
+  course: HSU0104A
+  title: Spring In-Service 2024 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/14/2024
+  course: HSU0104A
+  title: Spring In-Service 2024 Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/7/2024
   course: PDP2198A
   title: City of Portland Bloodborne Pathogens

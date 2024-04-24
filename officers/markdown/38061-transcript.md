@@ -18,6 +18,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/22/2024 | Police Officer | Advanced | App InProc |  |  |  |
+| 4/22/2024 | Police Officer | Intermediate | App InProc |  |  |  |
 | 10/5/2000 | Police Officer | Basic | Granted | 10/5/2000 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -29,7 +31,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 12/20/1998 | No Degree | All Other Education Institutes |  | 183.0 |
+| 5/15/1999 | Bachelor Arts | All Other Education Institutes | Criminal Justice | 146.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

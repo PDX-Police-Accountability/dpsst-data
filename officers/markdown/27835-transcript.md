@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/15/2024 | 4/19/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/4/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -35,6 +36,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
+| 4/15/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
+| 4/15/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
+| 4/15/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
+| 4/14/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Passed | 0.0 | 3.00 |
+| 4/14/2024 | HSU4490A | Spring In-Service 2024 Defensive Tactics | Passed | 0.0 | 3.00 |
+| 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 10/16/2023 | HSU1780A | Navigating Injustice | Passed | 0.0 | 1.00 |
 | 10/16/2023 | HSU2699A | Chief's Message | Passed | 0.0 | 2.00 |
 | 10/16/2023 | HSU2707A | In- Service Operational Debriefs | Passed | 0.0 | 3.00 |

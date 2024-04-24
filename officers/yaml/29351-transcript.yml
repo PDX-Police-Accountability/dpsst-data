@@ -46,6 +46,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/22/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/22/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 5/19/2020
   certificate: Police Officer
   level: Supervisory
@@ -4930,4 +4944,14 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2025
-education_records: []
+education_records:
+- date: 3/1/1993
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: Law
+  hours: '90.0'
+- date: 9/15/1990
+  degree: Associate Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '99.0'

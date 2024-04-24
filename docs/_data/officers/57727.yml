@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2024
+  course: F6R2630A
+  title: DUII Multi-Disciplinary Task Force
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 3/17/2024
   course: PDP1351A
   title: 2024 Standardized Field Sobriety Test Refresher

@@ -42,6 +42,18 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 3/26/2024
+  course: F6R4290A
+  title: LIDAR
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/25/2024
+  course: F6R0956A
+  title: CORE/RADAR
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/14/2024
   course: REG4012A
   title: INTOX 8000 (Hours included in Basic)

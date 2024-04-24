@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/12/2023 | Police Officer | Intermediate | App Incmpl |  | 11/12/2023 |  |
+| 4/22/2024 | Police Officer | Intermediate | App InProc |  |  |  |
 | 1/28/2021 | Police Officer | Basic | Granted | 1/28/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,6 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/1/2016 | Bachelor Arts | University Of Portland | Psychology | 121.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

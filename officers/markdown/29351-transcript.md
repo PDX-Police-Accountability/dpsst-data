@@ -21,6 +21,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/22/2024 | Police Officer | Advanced | App Recd |  |  |  |
+| 4/22/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 5/19/2020 | Police Officer | Supervisory | Granted | 5/19/2020 |  |  |
 | 2/10/1995 | Police Officer | Basic | Granted | 2/10/1995 |  |  |
 ## Attributes
@@ -31,6 +33,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/1/1993 | Bachelor Arts | All Other Education Institutes | Law | 90.0 |
+| 9/15/1990 | Associate Arts | All Other Education Institutes |  | 99.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

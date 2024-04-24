@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 2/9/2024 | FGP2334A | Annual Defensive Tactics/Con Sim | Passed | 0.0 | 8.00 |
 | 2/6/2024 | FGP2505A | Creating the Culture for Behavioral Health | Passed | 0.0 | 2.25 |

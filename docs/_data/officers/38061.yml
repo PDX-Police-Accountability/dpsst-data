@@ -28,6 +28,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/22/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App InProc
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 4/22/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App InProc
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/5/2000
   certificate: Police Officer
   level: Basic
@@ -4212,8 +4226,8 @@ attribute_records:
   effective_date: 10/3/2000
   expiration_date: ''
 education_records:
-- date: 12/20/1998
-  degree: No Degree
+- date: 5/15/1999
+  degree: Bachelor Arts
   school: All Other Education Institutes
-  major: ''
-  hours: '183.0'
+  major: Criminal Justice
+  hours: '146.0'

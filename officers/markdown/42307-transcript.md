@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |
 | 3/17/2024 | PDP1351A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 2/18/2024 | PDP1226A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |

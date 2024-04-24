@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 3/17/2024 | PDP1351A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/22/2024 | PDP2218A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |

@@ -65,6 +65,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/6/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
+| 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/2/2024 | OSH0293A | EVO - Advanced Pursuit Haulting Training | Passed | 0.0 | 6.00 |
 | 3/26/2024 | OSH4321A | ARIDE | Instructed | 0.0 | 16.00 |
 | 3/22/2024 | OSH3500A | DEFENSIVE TACTICS FIRST TRIMESTER | Passed | 0.0 | 3.50 |

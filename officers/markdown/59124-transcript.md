@@ -31,6 +31,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/26/2024 | F6R4290A | LIDAR | Passed | 0.0 | 2.00 |
+| 3/25/2024 | F6R0956A | CORE/RADAR | Passed | 0.0 | 6.00 |
 | 3/14/2024 | REG4012A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 12/18/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 10/23/2023 | BVP0934A | City of Beaverton Ethics in  Policing | Passed | 0.0 | 1.00 |

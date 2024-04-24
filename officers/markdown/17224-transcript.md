@@ -32,6 +32,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/15/2024 | 4/19/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
@@ -43,6 +44,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
+| 4/15/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
+| 4/15/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
+| 4/15/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
 | 3/17/2024 | HSU3903A | March Supplemental Range | Passed | 0.0 | 2.00 |
 | 3/2/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Instructed | 0.0 | 10.00 |
 | 2/24/2024 | HSU1542A | Red Dot Sight Operator Course 5 | Instructed | 0.0 | 10.00 |

@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2024
+  course: F6R2630A
+  title: DUII Multi-Disciplinary Task Force
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 1/25/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

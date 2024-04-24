@@ -36,6 +36,48 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2024
+  course: HSU3008A
+  title: Spring In-Service 2024 Vehicle Operations
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/20/2024
+  course: HSU4490A
+  title: Spring In-Service 2024 Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/20/2024
+  course: HSU0104A
+  title: Spring In-Service 2024 Firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/19/2024
+  course: HSU2184A
+  title: Spring In-Service 2024 TASER 10
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/19/2024
+  course: HSU0688A
+  title: Spring In-Service 2024 Body Worn Camera
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/19/2024
+  course: HSU2328A
+  title: Spring In-Service 2024 CPR/ FA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/19/2024
+  course: HSU1383A
+  title: Spring In-Service 2024 TASER 10
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/17/2024
   course: HSU3903A
   title: March Supplemental Range
@@ -643,6 +685,10 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/19/2024
+  expiration_date: 4/19/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

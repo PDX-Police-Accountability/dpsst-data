@@ -40,7 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/15/2024 | REG2072A | Ground Escape | Passed | 0.0 | 1.00 |
 | 4/10/2024 | SDP3516A | Child Abuse MDT Protocol's and Karly's Law Review | Passed | 0.0 | 1.50 |
-| 4/10/2024 | SDP3194A | Defensive Tactics Physical Control Drills |  | 0.0 | 1.50 |
+| 4/10/2024 | SDP3194A | Defensive Tactics Physical Control Drills | Passed | 0.0 | 1.50 |
 | 4/10/2024 | SDP0257A | Pursuit Policy Review and High Risk Stops | Passed | 0.0 | 1.50 |
 | 4/8/2024 | REG3684A | DT | Passed | 0.0 | 1.00 |
 | 4/3/2024 | HBS2524A | FBINAA Spring Leadership Training | Passed | 0.0 | 8.00 |

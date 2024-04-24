@@ -18,6 +18,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/22/2024 | Police Officer | Intermediate | App InProc |  |  |  |
 | 3/11/2021 | Police Officer | Basic | Granted | 3/11/2021 |  |  |
 | 8/2/2020 | Emergency Medical Dispatcher | Basic | Lapsed | 6/17/2019 | 8/2/2024 |  |
 | 8/2/2020 | Telecommunicator | Basic | Lapsed | 6/17/2019 | 8/2/2024 |  |
@@ -33,6 +34,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 4/23/2016 | Bachelor Arts | All Other Education Institutes |  | 135.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
