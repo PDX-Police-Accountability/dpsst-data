@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/4/2024
+  course: PDP1930A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/28/2024
   course: PDP1314A
   title: 2024 SERT Training - FIREARMS
@@ -78,6 +84,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/14/2024
+  course: PDS0489A
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/8/2024
   course: PDP0488A
   title: 2024 SERT Training - CLASSROOM

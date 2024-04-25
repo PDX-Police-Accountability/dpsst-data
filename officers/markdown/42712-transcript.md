@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/7/2024 | HBS4122A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS4232A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 12/9/2023 | HBS3057A | 2023 November In-Service Defensive Tactics | Passed | 0.0 | 3.50 |
 | 12/9/2023 | HBS4055A | 2023 November In-Service IFAST | Passed | 0.0 | 4.50 |

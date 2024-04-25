@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/19/2024
+  course: SAG2590A
+  title: Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/19/2024
+  course: SAG2590A
+  title: Firearms Training
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/27/2024
   course: SAG4007A
   title: Crisis intervention and Descalation

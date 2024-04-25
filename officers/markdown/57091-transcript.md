@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2024 | PDP1761A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 27.00 |
 | 3/26/2024 | PDP2979A | Training Remedial Firearms | Instructed | 0.0 | 22.50 |
 | 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Instructed | 0.0 | 23.00 |
 | 1/3/2024 | MISCMAIN | 2023 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

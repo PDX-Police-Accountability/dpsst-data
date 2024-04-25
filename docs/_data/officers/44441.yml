@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2024
+  course: OCS1319A
+  title: OPCA Spring Seminar - Decoy School
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/12/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

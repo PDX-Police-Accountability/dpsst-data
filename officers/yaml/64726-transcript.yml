@@ -36,12 +36,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 4/16/2024
+  course: REG1677A
+  title: RADAR/LIDAR Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/10/2024
   course: PDP2581A
   title: CPR/First Aid
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 4/9/2024
+  course: PDP3956A
+  title: 2024 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/23/2024
   course: REG3166A
   title: DID-SFST (Hours included in Basic)

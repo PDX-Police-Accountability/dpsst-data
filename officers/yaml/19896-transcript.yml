@@ -190,6 +190,18 @@ certification_records:
   expiration_date: 8/24/2027
   probation_date: ''
 training_records:
+- date: 4/20/2024
+  course: FSS2573A
+  title: CPR, Infant/Adult, AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/20/2024
+  course: FSS2852A
+  title: First Aid
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/8/2024
   course: REG3318A
   title: 'Active Threat  #1 (Basic Police)'
@@ -1757,6 +1769,14 @@ training_records:
   score: '0.0'
   hours: '4.00'
 attribute_records:
+- topic: Certification Cards
+  value: CPR
+  effective_date: 4/20/2024
+  expiration_date: 4/20/2026
+- topic: Certification Cards
+  value: First Aid
+  effective_date: 4/20/2024
+  expiration_date: 4/20/2026
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 10/30/2017

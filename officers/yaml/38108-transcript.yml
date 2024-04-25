@@ -74,6 +74,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2024
+  course: GSP4271A
+  title: OPCA Spring Seminar - Patrol
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 4/10/2024
+  course: PDP2202A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/3/2024
+  course: PDP1299A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 3/20/2024
   course: PDP3613A
   title: 2024 K-9 (K9) Weekly Training

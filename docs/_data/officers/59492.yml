@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 4/16/2024
+  course: REG1677A
+  title: RADAR/LIDAR Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 2/9/2024
   course: VND0416A
   title: 28 CFR 23 and WSIN Resources

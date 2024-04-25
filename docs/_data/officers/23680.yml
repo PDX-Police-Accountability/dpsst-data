@@ -82,6 +82,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2024
+  course: BPT3459A
+  title: Facilitator Development
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/22/2024
+  course: M00-19A
+  title: DPSST Adult Learning Core
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/1/2022
   course: MKL12465
   title: Defensive Tactics/Use of Force

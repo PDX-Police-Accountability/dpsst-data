@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2024
+  course: GSP2725A
+  title: OPCA Spring Seminar - Decoy School
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 3/13/2024
   course: PDP3917A
   title: 2024 K-9 (K9) Weekly Training

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2024
+  course: GLP1279A
+  title: Semiannual Defensive Tactics (Spring 2024)
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/15/2024
   course: GLP3242A
   title: First Aid/ Adult and Child CPR

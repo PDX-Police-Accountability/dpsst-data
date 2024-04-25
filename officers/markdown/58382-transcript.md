@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | GSP4271A | OPCA Spring Seminar - Patrol | Passed | 0.0 | 24.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 3/27/2024 | OCS2743A | Take downs/Ground Offense | Passed | 0.0 | 1.00 |
 | 3/6/2024 | OCS2179A | Basic Detection K9 Course | Passed | 0.0 | 140.00 |

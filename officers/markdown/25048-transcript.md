@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2024 | SAG2590A | Firearms Training | Passed | 0.0 | 2.00 |
 | 4/10/2024 | AVP2787A | Monthly Leadership Meeting | Passed | 0.0 | 1.50 |
 | 3/13/2024 | AVP2469A | Monthly Leadership Meeting | Passed | 0.0 | 1.75 |
 | 2/14/2024 | AVP2257A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 2.00 |

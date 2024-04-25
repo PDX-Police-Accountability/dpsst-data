@@ -34,6 +34,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | GSP4271A | OPCA Spring Seminar - Patrol | Passed | 0.0 | 24.00 |
+| 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
+| 4/3/2024 | PDP1299A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/20/2024 | PDP3613A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/7/2024 | PDP2761A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |

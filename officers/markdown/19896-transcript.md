@@ -47,6 +47,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | CPR | 4/20/2024 | 4/20/2026 |
+| Certification Cards | First Aid | 4/20/2024 | 4/20/2026 |
 | Code of Ethics | Law Enforcement Signed | 10/30/2017 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -56,6 +58,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2024 | FSS2573A | CPR, Infant/Adult, AED | Passed | 0.0 | 4.00 |
+| 4/20/2024 | FSS2852A | First Aid | Passed | 0.0 | 2.00 |
 | 4/8/2024 | REG3318A | Active Threat  #1 (Basic Police) | Passed | 0.0 | 2.00 |
 | 4/6/2024 | FSS3159A | Range Qualify | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG1216A | Use of Force 3 (Basic Police) | Passed | 0.0 | 2.00 |

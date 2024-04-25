@@ -86,6 +86,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 2/14/2024
+  course: PDS0489A
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/7/2024
   course: PDS3672A
   title: Range Training

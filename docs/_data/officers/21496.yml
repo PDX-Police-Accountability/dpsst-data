@@ -206,6 +206,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 4/19/2024
+  course: OSH1130A
+  title: 1st Trimester firearms
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/5/2024
   course: F6R2630A
   title: DUII Multi-Disciplinary Task Force

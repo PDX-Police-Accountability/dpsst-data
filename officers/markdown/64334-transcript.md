@@ -29,7 +29,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 12/22/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/18/2024 | PDP1354A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 4/16/2024 | PDP0696A | RADAR/LIDAR Operator | Passed | 0.0 | 14.00 |
+| 4/16/2024 | REG1677A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 10.00 |
+| 4/10/2024 | PDP1761A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 27.00 |
+| 4/4/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 4/1/2024 | PDP3590A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 3/6/2024 | REG2525A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/8/2024 | REG1539A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

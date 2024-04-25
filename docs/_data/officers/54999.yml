@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 4/19/2024
+  course: HRS2034A
+  title: Defensive Tactics Inservice
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/11/2024
   course: MOS4046A
   title: NORTAC Vehicle and Barricade CQB Range

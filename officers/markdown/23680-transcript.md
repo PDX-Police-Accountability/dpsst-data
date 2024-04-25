@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/22/2024 | BPT3459A | Facilitator Development | Passed | 0.0 | 6.00 |
+| 4/22/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/1/2022 | MKL12465 | Defensive Tactics/Use of Force | Passed | 0.0 | 4.00 |
 | 5/31/2022 | MKL34858 | ACAP Training Video | Passed | 0.0 | 2.00 |
 | 4/19/2022 | MKL29255 | Metrc RFID Training | Passed | 0.0 | 8.00 |

@@ -30,6 +30,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.00'
+- date: 4/16/2024
+  course: REG1677A
+  title: RADAR/LIDAR Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/23/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

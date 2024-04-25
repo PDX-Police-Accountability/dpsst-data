@@ -388,6 +388,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/6/2023
+  course: PDP1161A
+  title: 2023 Instructor Development Course (IDC)
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 5/23/2023
   course: BPT2275A
   title: Northwest Regional CIT Conference-Day 1

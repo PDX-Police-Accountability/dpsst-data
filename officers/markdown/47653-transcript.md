@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/5/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 3/4/2024 | PDP0270A | 2024 Axon Taser 7 Instructor Course | Instructed | 0.0 | 8.00 |
 | 2/1/2024 | PDP0220A | Western States Public Order Conference | Passed | 0.0 | 32.00 |
 | 1/15/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |

@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/5/2024
+  course: PDP1566A
+  title: 2024 FTEP Post Basic CEW Taser
+  status: Instructed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/4/2024
   course: PDP0270A
   title: 2024 Axon Taser 7 Instructor Course

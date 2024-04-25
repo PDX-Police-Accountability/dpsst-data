@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2024
+  course: PDP1977A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/7/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

@@ -44,6 +44,7 @@
 | 3/6/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |
 | 3/6/2024 | PDP0508A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |
 | 3/6/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 3/5/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 3/1/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 1/31/2024 | REG3800A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 1/11/2024 | REG1606A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |

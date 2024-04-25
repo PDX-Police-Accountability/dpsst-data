@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | GLP1279A | Semiannual Defensive Tactics (Spring 2024) | Passed | 0.0 | 3.00 |
 | 4/15/2024 | GLP3242A | First Aid/ Adult and Child CPR | Passed | 0.0 | 3.00 |
 | 4/4/2024 | GLP1297A | Locked Vehicle Access Training | Passed | 0.0 | 0.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
