@@ -47,6 +47,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2024 | OAC2080A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
+| 4/18/2024 | OAC3365A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 1.50 |
+| 4/17/2024 | OAC3212A | Catching Hell | Passed | 0.0 | 6.00 |
+| 4/16/2024 | RRP2628A | OACP Annual Board Meeting | Passed | 0.0 | 2.50 |
 | 3/27/2024 | BNP0481A | EVOC / Vehicle Placement | Passed | 0.0 | 1.00 |
 | 2/27/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
 | 2/22/2024 | BNP0729A | Open Range Firearms training / qualifications | Passed | 0.0 | 1.00 |

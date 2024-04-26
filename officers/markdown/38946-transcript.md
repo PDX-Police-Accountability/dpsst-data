@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
 | 1/20/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/6/2023 | PDP0329A | 2023 CATO Training Conference | Passed | 0.0 | 20.00 |
 | 11/16/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

@@ -43,6 +43,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2024 | OAC0500A | Honoring the Badge: Understand/Avoid Ethical Pit | Passed | 0.0 | 3.00 |
+| 4/18/2024 | OAC1042A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 2.00 |
+| 4/18/2024 | OAC0321A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |
+| 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
+| 4/17/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
+| 4/16/2024 | OAC4422A | Critical Issue Briefing HB 4002 | Passed | 0.0 | 1.00 |
+| 4/16/2024 | RRP2628A | OACP Annual Board Meeting | Passed | 0.0 | 2.50 |
+| 4/16/2024 | OAC1685A | Coaching  Mentoring for Succession Planning | Passed | 0.0 | 1.00 |
+| 4/16/2024 | OAC2651A | Advice for New Chiefs | Passed | 0.0 | 1.00 |
 | 4/5/2024 | WLP2314A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |
 | 3/15/2024 | WLP2217A | Karly's Law educational training | Passed | 0.0 | 1.00 |
 | 3/14/2024 | WLP0238A | Defensive Tactics - Wall and ground control | Passed | 0.0 | 2.00 |

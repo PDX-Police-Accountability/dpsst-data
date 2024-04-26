@@ -156,6 +156,30 @@ certification_records:
   expiration_date: 3/1/2026
   probation_date: ''
 training_records:
+- date: 4/18/2024
+  course: OAC0055A
+  title: Navigating Change Amid Life, Leadership and Loss
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/17/2024
+  course: OAC1923A
+  title: Catching Hell
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/16/2024
+  course: RRP2628A
+  title: OACP Annual Board Meeting
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 4/16/2024
+  course: OAC1685A
+  title: Coaching  Mentoring for Succession Planning
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 11/8/2023
   course: PHP0376A
   title: Establishing Professionalism in a Small Agency

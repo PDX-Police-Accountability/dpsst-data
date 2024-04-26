@@ -21,6 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 4/24/2024 | Instructor |  | Granted | 4/24/2024 |  |  |
 | 10/31/2022 | Regulatory Specialist | Basic | Lapsed | 11/5/2018 | 7/31/2027 |  |
 | 5/14/2020 | Police Officer | Advanced | Expired | 12/10/1998 |  |  |
 | 5/14/2020 | Police Officer | Basic | Expired | 12/20/1990 |  |  |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2024 | BPT1019A | Facilitator Development/Classroom Management | Passed | 0.0 | 8.00 |
 | 4/22/2024 | BPT3459A | Facilitator Development | Passed | 0.0 | 6.00 |
 | 4/22/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
 | 6/1/2022 | MKL12465 | Defensive Tactics/Use of Force | Passed | 0.0 | 4.00 |

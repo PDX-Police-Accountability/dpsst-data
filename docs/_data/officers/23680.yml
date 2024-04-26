@@ -46,6 +46,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/24/2024
+  certificate: Instructor
+  level: ''
+  status: Granted
+  certificate_date: 4/24/2024
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/31/2022
   certificate: Regulatory Specialist
   level: Basic
@@ -82,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2024
+  course: BPT1019A
+  title: Facilitator Development/Classroom Management
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/22/2024
   course: BPT3459A
   title: Facilitator Development

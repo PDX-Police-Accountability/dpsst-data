@@ -39,6 +39,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/19/2024 | ADP0977A | LAP/DV | Passed | 0.0 | 1.00 |
+| 4/19/2024 | ADP3569A | Karly's Law | Passed | 0.0 | 1.00 |
+| 4/19/2024 | ADP3790A | Search Warrant and Seizure | Passed | 0.0 | 1.00 |
 | 4/12/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 3/22/2024 | ADP1228A | TASER Instructor | Passed | 0.0 | 16.00 |
 | 3/8/2024 | ADP1864A | DT/Wrap Training | Passed | 0.0 | 4.00 |

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2024 | OAC1865A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |
 | 1/26/2024 | BVP4344A | Pistol Mounted Optic Class Day 2 Jan.26 | Passed | 0.0 | 8.00 |
 | 1/19/2024 | BVP3068A | Pistol Mounted Optic Class Day 1  Jan.19 | Passed | 0.0 | 8.00 |
 | 1/18/2024 | BVP4313A | First Aid and Adult Child CPR 11824pm | Passed | 0.0 | 3.00 |

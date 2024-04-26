@@ -39,6 +39,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
+| 4/14/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 3/1/2024 | PDP4303A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
 | 4/7/2023 | OAC15420 | Harnessing Leadership Series | Passed | 0.0 | 6.00 |
 | 4/6/2023 | OAC35257 | Trauma and Post-Tramatic Stress | Passed | 0.0 | 4.00 |
 | 4/5/2023 | OAC24572 | Preventive Behavioral Threat Assessment/Management | Passed | 0.0 | 6.00 |

@@ -107,6 +107,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2024
+  course: OAC0321A
+  title: How to be an Awesome Second in Command
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/16/2024
+  course: OAC4422A
+  title: Critical Issue Briefing HB 4002
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/16/2024
+  course: OAC2651A
+  title: Advice for New Chiefs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/6/2024
   course: SPP0424A
   title: Control Tactics - Physical Apprehension Techniques

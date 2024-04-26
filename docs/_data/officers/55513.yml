@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2024
+  course: OAC1865A
+  title: How to be an Awesome Second in Command
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/26/2024
   course: BVP4344A
   title: Pistol Mounted Optic Class Day 2 Jan.26

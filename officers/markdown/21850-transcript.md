@@ -49,6 +49,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2024 | OAC2330A | Recruiting  Retention Strategies | Passed | 0.0 | 1.00 |
+| 4/18/2024 | OAC3365A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 4.00 |
+| 4/17/2024 | OAC3212A | Catching Hell | Passed | 0.0 | 6.00 |
+| 4/16/2024 | RRP2628A | OACP Annual Board Meeting | Passed | 0.0 | 2.50 |
+| 4/16/2024 | OAC3442A | Coaching  Mentoring for Succession Planning | Passed | 0.0 | 1.00 |
 | 4/2/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 0.75 |
 | 1/12/2024 | OAC2861A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |

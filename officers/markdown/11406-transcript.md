@@ -52,6 +52,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
+| 4/17/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
+| 4/16/2024 | RRP2628A | OACP Annual Board Meeting | Passed | 0.0 | 2.50 |
+| 4/16/2024 | OAC1685A | Coaching  Mentoring for Succession Planning | Passed | 0.0 | 1.00 |
 | 11/8/2023 | PHP0376A | Establishing Professionalism in a Small Agency | Passed | 0.0 | 7.00 |
 | 11/8/2023 | PHP0598A | Homelessness Response - Do's  Don'ts | Passed | 0.0 | 1.50 |
 | 11/8/2023 | PHP3216A | Leadership During Line-of-Duty Deaths | Passed | 0.0 | 3.00 |

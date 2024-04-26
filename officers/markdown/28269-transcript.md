@@ -46,6 +46,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2024 | OAC2080A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
+| 4/18/2024 | OAC2330A | Recruiting  Retention Strategies | Passed | 0.0 | 1.00 |
+| 4/17/2024 | OAC3212A | Catching Hell | Passed | 0.0 | 6.00 |
+| 4/16/2024 | RRP2628A | OACP Annual Board Meeting | Passed | 0.0 | 2.50 |
+| 4/16/2024 | OAC3442A | Coaching  Mentoring for Succession Planning | Passed | 0.0 | 1.00 |
+| 4/16/2024 | OAC2953A | Advice for New Chiefs | Passed | 0.0 | 1.00 |
+| 4/16/2024 | OAC1687A | Critical Issue Briefing HB 4002 | Passed | 0.0 | 1.00 |
 | 4/5/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/28/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
 | 2/1/2024 | BNP2036A | Western States Public Order Conference 2024 | Passed | 0.0 | 32.00 |

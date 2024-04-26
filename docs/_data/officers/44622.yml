@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/21/2024
+  course: OSH3706A
+  title: OSP Post Acedemy Building Search
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/20/2024
+  course: OSH3659A
+  title: OSP Post Acedemy Building Search
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/15/2024
   course: OSH4114A
   title: DT 24 Defensive Tactics 1st Trimester

@@ -152,18 +152,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 10/11/2024
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
+- date: 4/18/2024
+  course: OAC0055A
+  title: Navigating Change Amid Life, Leadership and Loss
+  status: Passed
   score: '0.0'
-  hours: '0.00'
-- date: 10/11/2024
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
+  hours: '3.00'
+- date: 4/17/2024
+  course: OAC1923A
+  title: Catching Hell
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '6.00'
 - date: 2/26/2024
   course: 24-0004
   title: DPSST Basic Police COD Self-Study
@@ -2703,6 +2703,14 @@ training_records:
   score: '0.0'
   hours: '8.00'
 attribute_records:
+- topic: Code of Ethics
+  value: Law Enforcement Signed
+  effective_date: 4/23/2024
+  expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 12/19/2023
+  expiration_date: 12/19/2025
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/28/2004

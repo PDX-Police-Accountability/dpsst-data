@@ -42,6 +42,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/2/2024
+  course: REG4159A
+  title: DID-SFST (Hours included in Basic)
+  status: Passed
+  score: '0.0'
+  hours: '0.00'
 - date: 3/26/2024
   course: F6R4290A
   title: LIDAR

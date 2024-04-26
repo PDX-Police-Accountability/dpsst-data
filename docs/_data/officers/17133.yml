@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2024
+  course: OAC1923A
+  title: Catching Hell
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/7/2023
   course: OAC15420
   title: Harnessing Leadership Series

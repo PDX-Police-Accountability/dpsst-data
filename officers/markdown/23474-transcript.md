@@ -40,6 +40,8 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 4/23/2024 |  |
+| Certification Cards | First Aid and CPR | 12/19/2023 | 12/19/2025 |
 | Code of Ethics | Signed | 4/28/2004 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -49,8 +51,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/11/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
-| 10/11/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
+| 4/17/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
 | 2/26/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 12/28/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/28/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |

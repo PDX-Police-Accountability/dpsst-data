@@ -27,6 +27,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
+| Certification Cards | First Aid and CPR | 2/28/2024 | 1/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 2/21/2023 | 2/28/2025 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
@@ -39,6 +40,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/15/2024 | HBS2632A | Criminal Investigations Using Cellular Tech | Passed | 0.0 | 40.00 |
+| 2/28/2024 | TGP4269A | First Aid/CPR/AED | Passed | 0.0 | 1.00 |
 | 1/31/2024 | TMS3091A | Evidence Collection | Passed | 0.0 | 3.00 |
 | 1/30/2024 | TGP0180A | Firearms Training-Handgun | Passed | 0.0 | 1.00 |
 | 12/31/2023 | TGP0442A | Daigle Law Path of the Guardian 2023Q3 | Passed | 0.0 | 2.00 |

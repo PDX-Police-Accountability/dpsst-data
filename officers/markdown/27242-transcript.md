@@ -44,6 +44,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2024 | OAC0321A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |
+| 4/16/2024 | OAC4422A | Critical Issue Briefing HB 4002 | Passed | 0.0 | 1.00 |
+| 4/16/2024 | OAC2651A | Advice for New Chiefs | Passed | 0.0 | 1.00 |
 | 3/6/2024 | SPP0424A | Control Tactics - Physical Apprehension Techniques | Passed | 0.0 | 4.00 |
 | 2/15/2024 | SPP1569A | Forensic Intensive Treatment Team (F.I.T.T.) | Passed | 0.0 | 0.50 |
 | 2/15/2024 | SPP0658A | Legal Update - Lane County DA | Passed | 0.0 | 4.00 |
