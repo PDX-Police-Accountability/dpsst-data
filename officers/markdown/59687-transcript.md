@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2024 | WLP2940A | SFST Refresher | Passed | 0.0 | 4.00 |
 | 4/5/2024 | WLP2314A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |
 | 3/15/2024 | WLP2217A | Karly's Law educational training | Passed | 0.0 | 1.00 |
 | 3/15/2024 | WLP4158A | Defensive Tactics - Wall and ground control | Passed | 0.0 | 2.00 |

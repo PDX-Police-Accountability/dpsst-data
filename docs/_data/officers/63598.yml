@@ -24,12 +24,6 @@ certification_records:
   expiration_date: ''
   probation_date: 6/15/2024
 training_records:
-- date: 6/15/2024
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 3/26/2024
   course: PDP2979A
   title: Training Remedial Firearms
@@ -371,7 +365,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 7/14/2023
   course: M10-23A
   title: DPSST Basic Police Course
@@ -389,7 +383,7 @@ training_records:
   title: DID/SFST (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 3/14/2023
   course: PDP3672A
   title: 2023 Training Introduction to Wellness

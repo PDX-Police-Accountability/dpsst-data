@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2024
+  course: WLP2940A
+  title: SFST Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/5/2024
   course: WLP2314A
   title: Trauma Informed Sexual Assault Investigations

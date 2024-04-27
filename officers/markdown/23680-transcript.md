@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2024 | BPT2659A | Coaching and Feedback | Passed | 0.0 | 8.00 |
 | 4/23/2024 | BPT1019A | Facilitator Development/Classroom Management | Passed | 0.0 | 8.00 |
 | 4/22/2024 | BPT3459A | Facilitator Development | Passed | 0.0 | 6.00 |
 | 4/22/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |

@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2024
+  course: MLP3862A
+  title: Adult/Child/Infant First AID, CPR AED
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/5/2024
   course: WBP2170A
   title: HANDGUN INSTRUCTOR DEVELOPMENT COURSE
@@ -908,6 +914,10 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/22/2024
+  expiration_date: 4/22/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024
@@ -928,10 +938,6 @@ attribute_records:
   value: Signed
   effective_date: 5/15/2016
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 4/8/2024
 education_records:
 - date: 9/7/2014
   degree: Associate Arts

@@ -89,6 +89,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2024
+  course: BPT2659A
+  title: Coaching and Feedback
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/23/2024
   course: BPT1019A
   title: Facilitator Development/Classroom Management
