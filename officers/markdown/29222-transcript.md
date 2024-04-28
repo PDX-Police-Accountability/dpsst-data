@@ -41,10 +41,21 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/4/2024 | GSP1763A | Post Academy | Instructed | 0.0 | 10.00 |
+| 3/25/2024 | GSP2723A | Firearms - Rifle | Instructed | 0.0 | 10.00 |
+| 3/19/2024 | GSP4093A | Firearms - Rifle | Instructed | 0.0 | 10.00 |
+| 3/13/2024 | GSP0031A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
+| 3/5/2024 | GSP3819A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
+| 2/29/2024 | GSP4081A | Firearms | Passed | 0.0 | 20.00 |
+| 2/21/2024 | GSP0453A | Priming: How Available Info Leads to Undesireable. | Passed | 0.0 | 1.50 |
+| 2/12/2024 | GSP3107A | Survival Skills | Passed | 0.0 | 10.00 |
+| 2/6/2024 | GSP0590A | The language of Lies | Passed | 0.0 | 3.00 |
+| 1/23/2024 | GSP1591A | The Ready Responder | Passed | 0.0 | 1.25 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/5/2023 | VND1126A | CARES Northwest Conference - Child Abuse | Passed | 0.0 | 7.00 |
 | 12/1/2023 | GSP1798A | 2023 Ethics In Service | Passed | 0.0 | 1.00 |
 | 11/29/2023 | GSP2670A | You Belong Part 1: City of Gresham: Equity | Passed | 0.0 | 3.00 |
+| 11/16/2023 | GSP1163A | From Evidence to Conviction | Passed | 0.0 | 1.00 |
+| 11/16/2023 | GSP2689A | Moral Injury, What is it  What can we do? | Passed | 0.0 | 1.50 |
 | 10/7/2023 | GSP02168 | 2022 NW Regional ICAC Conference | Passed | 0.0 | 40.00 |
 | 8/15/2023 | CVS1247A | Training with Steel Targets IDC | Passed | 0.0 | 16.00 |
 | 8/15/2023 | CVS2352A | TRAINING WITH STEEL TARGETS IDC | Passed | 0.0 | 16.00 |

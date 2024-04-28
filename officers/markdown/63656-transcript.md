@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 5/15/2023 |  |
+| Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -48,6 +49,7 @@
 | 7/3/2023 | PDP0386A | OIS Supervisor Checklist | Passed | 0.0 | 0.25 |
 | 5/11/2023 | PDP4184 | TEEX WMD/Terrorism Awareness for Emergency | Passed | 0.0 | 8.00 |
 | 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 27.00 |
+| 5/3/2023 | PDP2749A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
 | 3/16/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/16/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

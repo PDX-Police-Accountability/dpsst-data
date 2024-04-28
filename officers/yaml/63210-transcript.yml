@@ -504,6 +504,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.00'
+- date: 2/15/2023
+  course: PDP0916A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/13/2023
   course: PDP26388
   title: FTEP Policy  Procedure Training - Wellness Intro
@@ -585,6 +591,10 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 2/20/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 2/15/2023
+  expiration_date: 2/15/2025
 education_records:
 - date: 6/11/2022
   degree: Bachelor Science

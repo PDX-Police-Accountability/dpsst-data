@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2024 | HBP2218A | ODT - Taser 10 Drills | Passed | 0.0 | 0.50 |
 | 2/28/2024 | HBP1265A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
 | 2/21/2024 | HBP4408A | DUII Refresher Course In-service | Passed | 0.0 | 5.00 |
 | 2/21/2024 | HBP0763A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |

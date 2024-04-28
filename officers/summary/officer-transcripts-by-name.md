@@ -1095,7 +1095,7 @@
 | Miller, Randi K. | 46625 | Portland Police Bureau | Active | Police Officer | Return LOA | 2023-05-17 | [md](../markdown/46625-transcript.md) - [yaml](../yaml/46625-transcript.yml) |
 | Miller, Robert D. | 38512 | Portland Police Bureau | Active | Police Officer | Hired | 2000-01-06 | [md](../markdown/38512-transcript.md) - [yaml](../yaml/38512-transcript.yml) |
 | Mills, Jason E. | 47777 | Portland Police Bureau | Inactive | Criminalist | Resigned | 2023-08-17 | [md](../markdown/47777-transcript.md) - [yaml](../yaml/47777-transcript.yml) |
-| Milton, Llissel G. | 63598 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
+| Milton, Llissel G. | 63598 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-04-16 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
 | Mirau, Stephen L. | 40399 | Portland Police Bureau | Active | Sergeant | Promotion | 2015-05-28 | [md](../markdown/40399-transcript.md) - [yaml](../yaml/40399-transcript.yml) |
 | Mire, Abbas M. | 63285 | Portland Police Bureau | Active | Police Officer | Hired | 2022-09-22 | [md](../markdown/63285-transcript.md) - [yaml](../yaml/63285-transcript.yml) |
 | Miron, Elena R. | 59009 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-06-19 | [md](../markdown/59009-transcript.md) - [yaml](../yaml/59009-transcript.yml) |

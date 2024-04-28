@@ -28,7 +28,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 9/15/2007 | No Degree | Southern Oregon University |  | 132.0 |
+| 8/31/2014 | Bachelor Science | Southern Oregon University | Business Administration | 139.0 |
 | 12/15/2005 | No Degree | Oregon State University |  | 48.0 |
 ## Training
 | date | course | title | status | score | hours |

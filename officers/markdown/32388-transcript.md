@@ -36,7 +36,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2024 | GSP2530A | High-Risk Explosives Sweep | Passed | 0.0 | 1.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 3/29/2024 | GSP1105A | Stop the Bleed | Passed | 0.0 | 1.00 |
+| 3/25/2024 | GSP1960A | Addressing Female Casualty Care Disparities. | Passed | 0.0 | 1.00 |
+| 3/19/2024 | GSP4093A | Firearms - Rifle | Instructed | 0.0 | 10.00 |
+| 3/15/2024 | GSP3084A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
+| 3/4/2024 | GSP1868A | Firearms - Handgun | Instructed | 0.0 | 10.00 |
+| 2/26/2024 | GSP2859A | Indicent Debried" Multi-Jurisdictional Response. | Passed | 0.0 | 1.00 |
+| 2/14/2024 | GSP1347A | Survival Skills | Passed | 0.0 | 10.00 |
+| 1/30/2024 | GSP0444A | Emergency Trauma Response | Passed | 0.0 | 1.50 |
 | 1/18/2024 | GSP2616A | Qucik Reaction Team/Identifying IED's | Passed | 0.0 | 0.00 |
 | 12/22/2023 | GSP0985A | SWAT Sniper Firearms Range | Instructed | 0.0 | 10.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -52,7 +61,10 @@
 | 10/25/2023 | GSP4221A | Barricade Resolution,Breaching, and HRT Response | Passed | 0.0 | 8.00 |
 | 10/24/2023 | GSP4481A | Area Search and K9 Apprehension | Passed | 0.0 | 8.00 |
 | 10/23/2023 | GSP2235A | IP Decision Making, Armor, HRT Command and Control | Passed | 0.0 | 8.00 |
+| 10/6/2023 | GSP2466A | NW Regional ICAC Conference | Passed | 0.0 | 36.00 |
 | 9/5/2023 | HBS1709A | Con-Sim Building Search | Passed | 0.0 | 8.00 |
+| 8/16/2023 | GSP2702A | Interview  Investigation | Passed | 0.0 | 24.00 |
+| 7/27/2023 | GSP1861A | Lessons Learned: Highland Park Parade Shootin | Passed | 0.0 | 1.25 |
 | 6/23/2023 | GSP2608A | Firearms Instructor Day | Passed | 0.0 | 10.00 |
 | 4/19/2023 | GSP3487A | SWAT Range Training | Passed | 0.0 | 10.00 |
 | 3/9/2023 | WBP21933 | Combative Firearms: Developing Speed and Accuracy | Passed | 0.0 | 24.00 |

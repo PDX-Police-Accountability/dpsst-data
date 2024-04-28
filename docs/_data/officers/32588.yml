@@ -81,6 +81,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 3/18/2024
+  course: GSP4375A
+  title: Firearms - Handgun
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/1/2024
   course: OCS2736A
   title: FBI LEEDA Supervisor Leadership Institute
@@ -93,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 2/5/2024
+  course: GSP3702A
+  title: Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/18/2024
   course: GSP2616A
   title: Qucik Reaction Team/Identifying IED's

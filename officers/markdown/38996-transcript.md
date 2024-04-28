@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/8/2024 | VND3366A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC1165A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |
 | 1/11/2024 | OAC1938A | Dark Nights of the Soul | Passed | 0.0 | 5.00 |

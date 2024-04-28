@@ -22,6 +22,7 @@
 | ----- | ----- | -------------- | --------------- |
 | Certification Cards | First Aid and CPR | 1/31/2024 | 1/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 7/17/2023 |  |
+| Certification Cards | First Aid and CPR | 7/13/2023 | 7/13/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -53,6 +54,7 @@
 | 11/22/2023 | PDP3253A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 11/22/2023 | PDP1306A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 11/10/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
+| 7/13/2023 | PDP3915A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/6/2023 | PDP2850A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |

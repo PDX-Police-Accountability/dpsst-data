@@ -30,8 +30,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 3/1/2024 | 3/1/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Signed | 10/17/2003 |  |
 ## Education
@@ -41,6 +42,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 4/24/2024 | OCS0318A | New Rifle Carrier Course | Instructed | 0.0 | 16.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 4/2/2024 | OCS2183A | July,Aug,Sept 23 and Feb, Mar, April 24 Firearms | Instructed | 0.0 | 6.00 |
 | 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

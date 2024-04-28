@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 7/17/2023 |  |
+| Certification Cards | First Aid and CPR | 7/13/2023 | 7/13/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -75,6 +76,7 @@
 | 9/21/2023 | REG1057A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 9/8/2023 | PDP2543A | RADAR/LIDAR Operator | Passed | 0.0 | 16.00 |
 | 9/8/2023 | REG2741A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 16.00 |
+| 7/13/2023 | PDP3915A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 7/12/2023 | PDP1377A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/11/2023 | PDP1160A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |
 | 7/6/2023 | PDP2850A | 2023 FTEP New Hire Firearms | Passed | 0.0 | 9.00 |

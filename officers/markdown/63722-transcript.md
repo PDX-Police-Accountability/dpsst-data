@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 5/15/2023 |  |
+| Certification Cards | First Aid and CPR | 5/3/2023 | 5/3/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -83,6 +84,7 @@
 | 5/10/2023 | PDP0094A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 27.00 |
 | 5/4/2023 | PDP0786 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 5/4/2023 | PDP3526 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 5/3/2023 | PDP2749A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 5/1/2023 | PDP0678A | 2023 FTEP Policy  Procedure | Passed | 0.0 | 6.00 |
 | 3/22/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/22/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

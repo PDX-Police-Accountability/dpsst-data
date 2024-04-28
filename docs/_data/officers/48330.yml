@@ -56,12 +56,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/7/2024
+  course: GSP0256A
+  title: Firearms - Handgun
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 3/1/2024
   course: OCS2736A
   title: FBI LEEDA Supervisor Leadership Institute
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 2/9/2024
+  course: GSP3361A
+  title: Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -104,6 +116,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/24/2023
+  course: GSP2016A
+  title: Advanced Crime Prevention Through Environmental.
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/12/2023
   course: LOP2596A
   title: Metro Area Sergeants Academy

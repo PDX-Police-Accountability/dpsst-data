@@ -81,12 +81,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/14/2024
+  course: GSP3215A
+  title: Firearms - Handgun
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 2/22/2024
   course: REG3588A
   title: 2024 Police Traffic Safety Conference
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 1/31/2024
+  course: GSP2662A
+  title: Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

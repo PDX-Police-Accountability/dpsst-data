@@ -75,6 +75,60 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 3/25/2024
+  course: GSP2723A
+  title: Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/19/2024
+  course: GSP4093A
+  title: Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/13/2024
+  course: GSP0031A
+  title: Firearms - Handgun
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/5/2024
+  course: GSP3819A
+  title: Firearms - Handgun
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/29/2024
+  course: GSP4081A
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 2/21/2024
+  course: GSP0453A
+  title: 'Priming: How Available Info Leads to Undesireable.'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/12/2024
+  course: GSP3107A
+  title: Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/6/2024
+  course: GSP0590A
+  title: The language of Lies
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 1/23/2024
+  course: GSP1591A
+  title: The Ready Responder
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 12/21/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
@@ -99,6 +153,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 11/16/2023
+  course: GSP1163A
+  title: From Evidence to Conviction
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 11/16/2023
+  course: GSP2689A
+  title: Moral Injury, What is it  What can we do?
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 10/7/2023
   course: GSP02168
   title: 2022 NW Regional ICAC Conference

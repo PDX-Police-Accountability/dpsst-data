@@ -6696,11 +6696,11 @@ attribute_records:
   effective_date: 9/2/2008
   expiration_date: ''
 education_records:
-- date: 9/15/2007
-  degree: No Degree
+- date: 8/31/2014
+  degree: Bachelor Science
   school: Southern Oregon University
-  major: ''
-  hours: '132.0'
+  major: Business Administration
+  hours: '139.0'
 - date: 12/15/2005
   degree: No Degree
   school: Oregon State University

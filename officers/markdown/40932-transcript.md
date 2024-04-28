@@ -27,9 +27,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/18/2023 | 5/18/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 4/8/2003 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -39,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/20/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/26/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/14/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |

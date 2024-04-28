@@ -318,6 +318,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 7/13/2023
+  course: PDP3915A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 7/12/2023
   course: PDP1377A
   title: 2023 FTEP New Hire Firearms
@@ -387,4 +393,8 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/17/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/13/2023
+  expiration_date: 7/13/2025
 education_records: []

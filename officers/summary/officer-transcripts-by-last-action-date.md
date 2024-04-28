@@ -1491,7 +1491,6 @@
 | Bernard, Joseph M. | 53468 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/53468-transcript.md) - [yaml](../yaml/53468-transcript.yml) |
 | Harper, Ross C. | 55511 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/55511-transcript.md) - [yaml](../yaml/55511-transcript.yml) |
 | Purcell, Hannah Z. | 63594 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63594-transcript.md) - [yaml](../yaml/63594-transcript.yml) |
-| Milton, Llissel G. | 63598 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
 | Epton, Jason A. | 63601 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63601-transcript.md) - [yaml](../yaml/63601-transcript.yml) |
 | Vega-Garduno, Adolfo | 63655 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63655-transcript.md) - [yaml](../yaml/63655-transcript.yml) |
 | Ricks, Adam W. | 63656 | Portland Police Bureau | Active | Police Officer | Hired | 2022-12-15 | [md](../markdown/63656-transcript.md) - [yaml](../yaml/63656-transcript.yml) |
@@ -1713,3 +1712,4 @@
 | Walsh, Austin J. | 65201 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65201-transcript.md) - [yaml](../yaml/65201-transcript.yml) |
 | Natividad, Daniel R. | 65202 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65202-transcript.md) - [yaml](../yaml/65202-transcript.yml) |
 | Barr, Solomon L. | 65203 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65203-transcript.md) - [yaml](../yaml/65203-transcript.yml) |
+| Milton, Llissel G. | 63598 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-04-16 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |

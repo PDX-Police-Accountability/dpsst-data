@@ -41,7 +41,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |
+| 3/14/2024 | GSP3215A | Firearms - Handgun | Passed | 0.0 | 10.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
+| 1/31/2024 | GSP2662A | Survival Skills | Passed | 0.0 | 10.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 12/1/2023 | GSP1798A | 2023 Ethics In Service | Passed | 0.0 | 1.00 |
 | 11/29/2023 | GSP2670A | You Belong Part 1: City of Gresham: Equity | Passed | 0.0 | 3.00 |

@@ -36,9 +36,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 10/25/2023 | 10/25/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 9/21/2021 |  |
 | Code of Ethics | Signed | 4/12/2006 |  |
 ## Education
@@ -48,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/13/2024 | SVP1282A | Implicit Bias Course #23548-2301 | Passed | 0.0 | 1.00 |
 | 3/31/2024 | SVP3206A | FEMA AWR-160-WMD/Terriorism Awareness | Passed | 0.0 | 8.00 |
 | 2/29/2024 | SVP1436A | Addressing Demand, No Buyer No Victim | Passed | 0.0 | 1.00 |

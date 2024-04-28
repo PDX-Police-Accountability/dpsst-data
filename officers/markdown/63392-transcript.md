@@ -21,6 +21,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 2/20/2023 |  |
+| Certification Cards | First Aid and CPR | 2/15/2023 | 2/15/2025 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
@@ -74,6 +75,7 @@
 | 2/16/2023 | PDP1707A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |
 | 2/16/2023 | PDP1717A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 2/16/2023 | PDP0080A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
+| 2/15/2023 | PDP0916A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 2/13/2023 | PDP26388 | FTEP Policy  Procedure Training - Wellness Intro | Passed | 0.0 | 1.50 |
 | 2/13/2023 | PDP36184 | FTEP Policy  Procedure Training | Passed | 0.0 | 7.00 |
 | 2/9/2023 | PDP06735 | Pre Dpsst Academy Firearms Training | Passed | 0.0 | 7.00 |

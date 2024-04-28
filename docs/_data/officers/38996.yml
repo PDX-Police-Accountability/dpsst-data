@@ -82,6 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/8/2024
+  course: VND3366A
+  title: Northwest Leadership Seminar
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 1/12/2024
   course: OAC1817A
   title: The Crucial Connection - Chief/Mgr Relationships

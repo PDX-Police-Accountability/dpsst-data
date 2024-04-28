@@ -50,12 +50,66 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2024
+  course: GSP2530A
+  title: High-Risk Explosives Sweep
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/29/2024
+  course: GSP1105A
+  title: Stop the Bleed
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/25/2024
+  course: GSP1960A
+  title: Addressing Female Casualty Care Disparities.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/19/2024
+  course: GSP4093A
+  title: Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/15/2024
+  course: GSP3084A
+  title: Firearms - Handgun
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 3/4/2024
+  course: GSP1868A
+  title: Firearms - Handgun
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
+- date: 2/26/2024
+  course: GSP2859A
+  title: Indicent Debried" Multi-Jurisdictional Response.
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/14/2024
+  course: GSP1347A
+  title: Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 1/30/2024
+  course: GSP0444A
+  title: Emergency Trauma Response
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 1/18/2024
   course: GSP2616A
   title: Qucik Reaction Team/Identifying IED's
@@ -146,12 +200,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/6/2023
+  course: GSP2466A
+  title: NW Regional ICAC Conference
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 9/5/2023
   course: HBS1709A
   title: Con-Sim Building Search
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 8/16/2023
+  course: GSP2702A
+  title: Interview  Investigation
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/27/2023
+  course: GSP1861A
+  title: 'Lessons Learned: Highland Park Parade Shootin'
+  status: Passed
+  score: '0.0'
+  hours: '1.25'
 - date: 6/23/2023
   course: GSP2608A
   title: Firearms Instructor Day

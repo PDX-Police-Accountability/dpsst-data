@@ -24,8 +24,9 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/19/2024 | 4/19/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Certification Cards | First Aid and CPR | 4/8/2022 | 4/8/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 8/3/2021 |  |
@@ -37,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2024 | HSU3008A | Spring In-Service 2024 Vehicle Operations | Passed | 0.0 | 3.00 |
 | 4/20/2024 | HSU4490A | Spring In-Service 2024 Defensive Tactics | Passed | 0.0 | 3.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |

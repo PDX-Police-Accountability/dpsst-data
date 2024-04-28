@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2024 | OSH0070A | OSP Active Threat Response Training | Instructed | 0.0 | 8.00 |
 | 4/21/2024 | OSH3706A | OSP Post Acedemy Building Search | Instructed | 0.0 | 8.00 |
 | 4/20/2024 | OSH3659A | OSP Post Acedemy Building Search | Instructed | 0.0 | 8.00 |
 | 4/15/2024 | OSH4114A | DT 24 Defensive Tactics 1st Trimester | Passed | 0.0 | 4.00 |
