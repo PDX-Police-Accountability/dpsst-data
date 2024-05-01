@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2024 | SDP3130A | Defensive Tactics | Instructed | 0.0 | 2.00 |
 | 4/8/2024 | REG3684A | DT | Passed | 0.0 | 1.00 |
 | 4/1/2024 | REG0294A | DT | Passed | 0.0 | 1.00 |
 | 3/28/2024 | REG0549A | DT | Passed | 0.0 | 1.00 |

@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/27/2024 | OSH1601A | OSP Post Academy Active Threat Response | Instructed | 0.0 | 4.00 |
+| 4/26/2024 | OSH4157A | OSP Active Threat Response Training | Instructed | 0.0 | 8.00 |
 | 4/25/2024 | OSH0070A | OSP Active Threat Response Training | Instructed | 0.0 | 8.00 |
 | 4/21/2024 | OSH3706A | OSP Post Acedemy Building Search | Instructed | 0.0 | 8.00 |
 | 4/20/2024 | OSH3659A | OSP Post Acedemy Building Search | Instructed | 0.0 | 8.00 |

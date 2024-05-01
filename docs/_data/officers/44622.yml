@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/27/2024
+  course: OSH1601A
+  title: OSP Post Academy Active Threat Response
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/26/2024
+  course: OSH4157A
+  title: OSP Active Threat Response Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/25/2024
   course: OSH0070A
   title: OSP Active Threat Response Training

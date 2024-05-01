@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2024
+  course: SDP3130A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/8/2024
   course: REG3684A
   title: DT

@@ -4255,6 +4255,11 @@ attribute_records:
   effective_date: 3/29/2011
   expiration_date: ''
 education_records:
+- date: 3/8/2024
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '30.0'
 - date: 5/13/2005
   degree: Bachelor Science
   school: All Other Education Institutes
