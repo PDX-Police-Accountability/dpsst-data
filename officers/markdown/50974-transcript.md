@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2024 | OCP0705A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/15/2024 | OCP0856A | DUII Case Law Update | Passed | 0.0 | 0.25 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |

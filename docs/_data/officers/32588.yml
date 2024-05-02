@@ -81,6 +81,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/19/2024
+  course: GSP4349A
+  title: FBI LEEDA Command Leadership Institute
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 3/18/2024
   course: GSP4375A
   title: Firearms - Handgun

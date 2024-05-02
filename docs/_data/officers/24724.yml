@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/18/2024
+  course: FGP3418A
+  title: Annual Defensive Tactics/Con Sim - Make up day
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/28/2024
   course: FGP0412A
   title: ACAP - Airway, Circulatory and Anatomy

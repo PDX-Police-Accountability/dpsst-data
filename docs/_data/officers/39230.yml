@@ -99,6 +99,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 4/25/2024
+  course: EGP2005A
+  title: 'Leadership 4: Finding Paths Through Conflict'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/24/2024
+  course: EGP2319A
+  title: Essentials of Situational Leadership
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/18/2024
+  course: EGP1827A
+  title: 'Leadership 3: Positive Communication Team Build'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/16/2024
+  course: EGP0252A
+  title: Reasonable Suspicion in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2024
+  course: EGP3152A
+  title: 'Leadership 1: People Smart Management'
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/15/2024
   course: EGP1205A
   title: Stop the Bleed/MARCH

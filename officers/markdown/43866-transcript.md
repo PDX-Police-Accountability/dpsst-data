@@ -5,13 +5,14 @@
 | dpsst_identifier | 43866 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Sergeant |
+| rank | Lieutenant |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/25/2024 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 11/23/2020 | Portland Police Bureau | Return LOA | Sergeant |  |  |
 | 8/13/2020 | Portland Police Bureau | LOA | Sergeant |  |  |
 | 2/20/2020 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/25/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 2/14/2024 | PDP2803A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 6.00 |
 | 1/30/2024 | PDP0390A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |

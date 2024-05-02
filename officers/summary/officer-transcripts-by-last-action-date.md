@@ -1165,7 +1165,6 @@
 | Dran, Arjay H. | 34502 | Portland Police Bureau | Active | Detective | Return LOA | 2020-11-17 | [md](../markdown/34502-transcript.md) - [yaml](../yaml/34502-transcript.yml) |
 | Hutchison, Carrie L. | 42653 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-11-22 | [md](../markdown/42653-transcript.md) - [yaml](../yaml/42653-transcript.yml) |
 | Stewart, Gerald A. | 59490 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-11-22 | [md](../markdown/59490-transcript.md) - [yaml](../yaml/59490-transcript.yml) |
-| Butcher, Kristine M. | 43866 | Portland Police Bureau | Active | Sergeant | Return LOA | 2020-11-23 | [md](../markdown/43866-transcript.md) - [yaml](../yaml/43866-transcript.yml) |
 | Beedle, Dustin D. | 59709 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-11-23 | [md](../markdown/59709-transcript.md) - [yaml](../yaml/59709-transcript.yml) |
 | Lin, Meng-Tien | 45003 | Portland Police Bureau | Inactive | Detective | Resigned | 2020-11-27 | [md](../markdown/45003-transcript.md) - [yaml](../yaml/45003-transcript.yml) |
 | Moore, Derek V. | 49919 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-11-28 | [md](../markdown/49919-transcript.md) - [yaml](../yaml/49919-transcript.yml) |
@@ -1713,3 +1712,4 @@
 | Natividad, Daniel R. | 65202 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65202-transcript.md) - [yaml](../yaml/65202-transcript.yml) |
 | Barr, Solomon L. | 65203 | Portland Police Bureau | Active | Police Officer | Hired | 2024-04-11 | [md](../markdown/65203-transcript.md) - [yaml](../yaml/65203-transcript.yml) |
 | Milton, Llissel G. | 63598 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-04-16 | [md](../markdown/63598-transcript.md) - [yaml](../yaml/63598-transcript.yml) |
+| Butcher, Kristine M. | 43866 | Portland Police Bureau | Active | Lieutenant | Promotion | 2024-04-25 | [md](../markdown/43866-transcript.md) - [yaml](../yaml/43866-transcript.yml) |

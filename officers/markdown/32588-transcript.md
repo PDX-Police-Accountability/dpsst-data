@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 1/2/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/19/2024 | GSP4349A | FBI LEEDA Command Leadership Institute | Passed | 0.0 | 36.00 |
 | 3/18/2024 | GSP4375A | Firearms - Handgun | Passed | 0.0 | 10.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 2/14/2024 | GSP2286A | Red Dot Transition | Passed | 0.0 | 30.00 |

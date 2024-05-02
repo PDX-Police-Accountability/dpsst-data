@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '43866'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Sergeant
+  rank: Lieutenant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/25/2024
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 11/23/2020
   agency: Portland Police Bureau
   action: Return LOA
@@ -75,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/25/2025
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 2/14/2024
   course: PDP2803A
   title: 2024 Air Support Unit (ASU) Monthly Training

@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/27/2022 | Police Officer | Basic | Required |  |  | 4/27/2024 |
+| 4/30/2024 | Police Officer | Basic | App Recd |  |  | 4/27/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -28,7 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 4/27/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 2/8/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 2/7/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 2/7/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |

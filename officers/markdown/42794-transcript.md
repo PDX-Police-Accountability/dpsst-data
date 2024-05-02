@@ -43,6 +43,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 4/26/2024 | OCS3866A | March and April 2024 Monthly Firearms | Instructed | 0.0 | 2.00 |
+| 4/25/2024 | OCS3042A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 4/24/2024 | OCS0318A | New Rifle Carrier Course | Instructed | 0.0 | 16.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 4/2/2024 | OCS2183A | July,Aug,Sept 23 and Feb, Mar, April 24 Firearms | Instructed | 0.0 | 6.00 |

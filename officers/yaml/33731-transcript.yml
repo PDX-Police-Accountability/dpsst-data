@@ -61,6 +61,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/18/2024
+  course: PDN0154A
+  title: 'Case Management: Advanced LS/CMI Part 1'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/19/2024
   course: PDN1970A
   title: Use of Force Practical

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2024
+  course: MFS3794A
+  title: Caselaw Updates March 2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 6/21/2018
   course: PDP22051
   title: Detectives How to Spot a Skimmer

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/15/2024
+  agency: DOJ-Criminal Justice Division
+  action: Hired
+  rank: Spec Agent
+  classification: ''
+  assignment: ''
 - date: 4/10/2024
   agency: Portland Police Bureau
   action: Resigned
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/1/2010
-  expiration_date: 7/10/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 10/1/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/1/2010
-  expiration_date: 7/10/2024
+  expiration_date: ''
   probation_date: ''
 - status_date: 1/22/1997
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/22/1997
-  expiration_date: 7/10/2024
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 1/2/2024

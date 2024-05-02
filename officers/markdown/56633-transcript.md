@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2024 | MFS3794A | Caselaw Updates March 2024 | Passed | 0.0 | 0.50 |
 | 6/21/2018 | PDP22051 | Detectives How to Spot a Skimmer | Passed | 0.0 | 0.25 |
 | 6/21/2018 | PDP27736 | City Attorneys Office Legal Updates for Q4 | Passed | 0.0 | 0.50 |
 | 4/5/2018 | PDP39936 | Tips and Tech Hazard Tow vs. Private Request | Passed | 0.0 | 0.25 |

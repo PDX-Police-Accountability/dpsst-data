@@ -61,7 +61,14 @@
 | 12/12/2023 | OCS1304A | Marksmanship, Movement, problem solving | Passed | 0.0 | 1.00 |
 | 12/12/2023 | OCS1973A | Balance Speed/Marksmanship / Draw Concealment | Passed | 0.0 | 4.00 |
 | 12/11/2023 | OCS4325A | Use of Force Reporting/Case Law | Passed | 0.0 | 1.00 |
+| 11/21/2023 | OCS3624A | The Vegas Cartel Investigation | Passed | 0.0 | 4.00 |
+| 11/20/2023 | OCS3535A | Public Safety Leadership in the 21st Century | Passed | 0.0 | 4.00 |
+| 11/20/2023 | OCS3778A | Assault Upon America: Narcoterrorism | Passed | 0.0 | 4.00 |
+| 11/19/2023 | OCS1338A | San Bernardino Mass Shooting Debrief | Passed | 0.0 | 4.00 |
+| 11/19/2023 | OCS1087A | Informant Management | Passed | 0.0 | 4.00 |
+| 11/18/2023 | OCS4318A | Passion, Commitment and Service with Tim Kennedy | Passed | 0.0 | 4.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 11/17/2023 | OCS3473A | Drug Endangered Children Investigation | Passed | 0.0 | 8.00 |
 | 11/15/2023 | OCS1812A | Taser Refresher | Passed | 0.0 | 1.00 |
 | 11/14/2023 | OCS1189A | Taser | Passed | 0.0 | 1.00 |
 | 10/31/2023 | OCS3683A | 2023 September and October DPSST Legal Updates | Passed | 0.0 | 0.25 |

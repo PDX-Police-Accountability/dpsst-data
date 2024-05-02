@@ -36,6 +36,7 @@
 | 3/23/2024 | REG3166A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/14/2024 | REG4443A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |
 | 2/14/2024 | REG1825A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 12/26/2023 | PDP0471A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 11/27/2023 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 11/22/2023 | PDP3366A | 2023 FTEP Pre-DPSST Firearms | Passed | 0.0 | 24.00 |
 | 11/16/2023 | PDP1707A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

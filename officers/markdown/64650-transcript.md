@@ -31,6 +31,7 @@
 | 4/12/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/16/2024 | PDP0696A | RADAR/LIDAR Operator | Passed | 0.0 | 14.00 |
 | 4/16/2024 | REG1677A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 10.00 |
+| 4/11/2024 | PDP1242A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 4/10/2024 | PDP2581A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 4/9/2024 | PDP3956A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 3/23/2024 | REG3166A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |

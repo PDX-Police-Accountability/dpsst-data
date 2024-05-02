@@ -92,6 +92,18 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/26/2024
+  course: OCS3866A
+  title: March and April 2024 Monthly Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/25/2024
+  course: OCS3042A
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/24/2024
   course: OCS0318A
   title: New Rifle Carrier Course

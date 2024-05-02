@@ -183,12 +183,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 11/21/2023
+  course: OCS3624A
+  title: The Vegas Cartel Investigation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/20/2023
+  course: OCS3535A
+  title: Public Safety Leadership in the 21st Century
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/20/2023
+  course: OCS3778A
+  title: 'Assault Upon America: Narcoterrorism'
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/19/2023
+  course: OCS1338A
+  title: San Bernardino Mass Shooting Debrief
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/19/2023
+  course: OCS1087A
+  title: Informant Management
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 11/18/2023
+  course: OCS4318A
+  title: Passion, Commitment and Service with Tim Kennedy
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 11/17/2023
+  course: OCS3473A
+  title: Drug Endangered Children Investigation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 11/15/2023
   course: OCS1812A
   title: Taser Refresher

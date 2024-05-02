@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 4/25/2024
+  course: OCP0705A
+  title: Ethics In Law Enforcement
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/15/2024
   course: OCP0856A
   title: DUII Case Law Update

@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/18/2024 | FGP3418A | Annual Defensive Tactics/Con Sim - Make up day | Passed | 0.0 | 8.00 |
 | 3/28/2024 | FGP0412A | ACAP - Airway, Circulatory and Anatomy | Passed | 0.0 | 2.00 |
 | 3/25/2024 | FGP0876A | CPR/First Aid/AED | Passed | 0.0 | 2.00 |
 | 2/20/2024 | FGP1470A | MDT Protocols  Child Abuse Investigations | Passed | 0.0 | 1.25 |

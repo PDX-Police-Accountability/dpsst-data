@@ -16,10 +16,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 12/8/2022 | Police Officer | Basic | Required |  |  | 6/8/2024 |
+| 4/30/2024 | Police Officer | Basic | App Recd |  |  | 6/8/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 4/4/2024 |  |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
 | Code of Ethics | Law Enforcement Signed | 3/4/2023 |  |
 ## Education
@@ -28,7 +29,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/8/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/30/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 1/23/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/18/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/12/2023 | PDP4338A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |

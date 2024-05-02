@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/15/2024 | DOJ-Criminal Justice Division | Hired | Spec Agent |  |  |
 | 4/10/2024 | Portland Police Bureau | Resigned | Detective |  |  |
 | 1/24/2008 | Portland Police Bureau | Promotion | Detective |  |  |
 | 2/1/1996 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/1/2010 | Police Officer | Advanced | Granted | 10/1/2010 | 7/10/2024 |  |
-| 10/1/2010 | Police Officer | Intermediate | Granted | 10/1/2010 | 7/10/2024 |  |
-| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 | 7/10/2024 |  |
+| 10/1/2010 | Police Officer | Advanced | Granted | 10/1/2010 |  |  |
+| 10/1/2010 | Police Officer | Intermediate | Granted | 10/1/2010 |  |  |
+| 1/22/1997 | Police Officer | Basic | Granted | 1/22/1997 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

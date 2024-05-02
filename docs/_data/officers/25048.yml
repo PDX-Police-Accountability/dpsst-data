@@ -75,6 +75,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 3/28/2024
+  course: SAG0418A
+  title: National Fusion Center Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
+- date: 3/25/2024
+  course: SAG0241A
+  title: National Fusion Center Directors Meeting/Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/13/2024
   course: AVP2469A
   title: Monthly Leadership Meeting

@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/11/2024
+  course: PDP1242A
+  title: WMD/Terrorism Awareness for Emergency Respndrs
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/10/2024
   course: PDP2581A
   title: CPR/First Aid

@@ -44,6 +44,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/21/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 4/25/2024 | EGP2005A | Leadership 4: Finding Paths Through Conflict | Passed | 0.0 | 1.50 |
+| 4/24/2024 | EGP2319A | Essentials of Situational Leadership | Passed | 0.0 | 16.00 |
+| 4/18/2024 | EGP1827A | Leadership 3: Positive Communication Team Build | Passed | 0.0 | 1.50 |
+| 4/16/2024 | EGP0252A | Reasonable Suspicion in the Workplace | Passed | 0.0 | 1.00 |
+| 4/11/2024 | EGP3152A | Leadership 1: People Smart Management | Passed | 0.0 | 1.50 |
 | 2/15/2024 | EGP1205A | Stop the Bleed/MARCH | Passed | 0.0 | 4.00 |
 | 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 1/11/2024 | EGP3507A | ACAP Training | Passed | 0.0 | 2.00 |
