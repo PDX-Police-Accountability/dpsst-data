@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2024
+  course: OSH1665A
+  title: Basic Detevtive Academy
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/16/2024
   course: BNP4194A
   title: UAS Monthly Training

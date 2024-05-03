@@ -123,6 +123,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: VND1647A
+  title: Conducting Effective Public Safety Backgrounds
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/26/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance
@@ -4516,10 +4522,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 10/25/2023
   expiration_date: 10/25/2025
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 9/21/2021

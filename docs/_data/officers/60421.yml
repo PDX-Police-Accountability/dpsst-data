@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/22/2024
+  course: REG4067A
+  title: Handgun IDC
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/19/2024
   course: SAG2590A
   title: Firearms Training

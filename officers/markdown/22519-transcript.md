@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2024 | VND1647A | Conducting Effective Public Safety Backgrounds | Passed | 0.0 | 16.00 |
 | 7/1/2022 | GSP21114 | 2022 Spring Rifle In Service | Passed | 0.0 | 10.00 |
 | 5/16/2022 | GSP39308 | 2022 Spring Handgun In-Service | Passed | 0.0 | 10.00 |
 | 4/12/2022 | GSP24622 | Airway Circulatory In Service | Passed | 0.0 | 2.00 |

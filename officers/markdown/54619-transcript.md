@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2024 | OSH1665A | Basic Detevtive Academy | Passed | 0.0 | 40.00 |
 | 3/19/2024 | HBP4257A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
 | 3/12/2024 | HBP0655A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
 | 2/28/2024 | HBP4198A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |

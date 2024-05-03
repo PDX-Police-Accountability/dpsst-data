@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/26/2024 | PPP1683A | K9 Conference | Passed | 0.0 | 40.00 |
 | 3/31/2024 | PPP3048A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 2/20/2024 | PPP0233A | TIP Wellness | Passed | 0.0 | 0.30 |
 | 1/31/2024 | PPP0703A | Developing Leadership | Passed | 0.0 | 1.00 |

@@ -98,6 +98,12 @@ certification_records:
   expiration_date: 1/1/2028
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: VND1647A
+  title: Conducting Effective Public Safety Backgrounds
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 7/1/2022
   course: GSP21114
   title: 2022 Spring Rifle In Service

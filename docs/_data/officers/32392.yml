@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2024
+  course: OSH1665A
+  title: Basic Detevtive Academy
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -2659,10 +2665,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/21/2023
   expiration_date: 2/28/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 education_records:
 - date: 6/13/1998
   degree: Bachelor Science

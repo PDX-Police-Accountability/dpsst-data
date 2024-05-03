@@ -92,6 +92,12 @@ certification_records:
   expiration_date: 4/1/2026
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: VND1647A
+  title: Conducting Effective Public Safety Backgrounds
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 9/21/2023
   course: VND1687A
   title: Responder Life Peer Support Training

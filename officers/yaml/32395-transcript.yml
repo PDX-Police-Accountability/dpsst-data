@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/26/2024
+  course: PPP1683A
+  title: K9 Conference
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/31/2024
   course: PPP3048A
   title: Foundations in Ethics for LE

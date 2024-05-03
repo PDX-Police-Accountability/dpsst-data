@@ -31,8 +31,6 @@
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/19/2024 | 4/19/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
-| Certification Cards | First Aid and CPR | 4/13/2022 | 4/13/2024 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 2/24/2021 |  |
 | Code of Ethics | Signed | 4/10/2001 |  |
