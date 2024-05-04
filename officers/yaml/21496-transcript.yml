@@ -130,6 +130,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 4/23/2024
+  certificate: Parole  Probation Officer
+  level: Basic
+  status: Lapsed
+  certificate_date: 4/21/2021
+  expiration_date: 1/23/2029
+  probation_date: ''
 - status_date: 2/20/2024
   certificate: Police Officer
   level: Advanced
@@ -158,13 +165,6 @@ certification_records:
   certificate_date: ''
   expiration_date: ''
   probation_date: 7/25/2025
-- status_date: 4/21/2021
-  certificate: Parole  Probation Officer
-  level: Basic
-  status: Granted
-  certificate_date: 4/21/2021
-  expiration_date: 4/23/2024
-  probation_date: ''
 - status_date: 3/31/2020
   certificate: Police Officer
   level: Advanced
