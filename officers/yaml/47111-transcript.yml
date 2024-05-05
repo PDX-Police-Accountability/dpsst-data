@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 2/8/2024
+  course: BVP3297A
+  title: 2024 February Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/18/2024
   course: BVP4076A
   title: First Aid and Adult/Child CRP 11824 am

@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2024
+  course: HBP4538A
+  title: How to Manage During Unionization
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 2/28/2024
   course: HBP1265A
   title: PoliceOne EVOC - Professional Police Driving

@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2024
+  course: CAP0909A
+  title: Taser / 40mm Use of Force Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/4/2024
   course: CAP2967A
   title: Rifle Qualifications - Fundamentals

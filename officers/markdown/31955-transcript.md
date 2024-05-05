@@ -46,6 +46,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2024 | CAP0909A | Taser / 40mm Use of Force Training | Instructed | 0.0 | 6.00 |
 | 4/4/2024 | CAP2967A | Rifle Qualifications - Fundamentals | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 1/24/2024 | CAP2263A | Annual Handgun Qualification / Fundamentals | Passed | 0.0 | 3.00 |

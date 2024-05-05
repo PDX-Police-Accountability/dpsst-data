@@ -25,6 +25,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/1/2024 | 5/1/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 9/22/2022 | 9/22/2024 |
@@ -36,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2024 | PDN2190A | First Aid and CPR Infant to Adult | Passed | 0.0 | 5.00 |
 | 4/25/2024 | VND2346A | Board QA - updates and conversation | Passed | 0.0 | 2.00 |
 | 4/18/2024 | PDN0154A | Case Management: Advanced LS/CMI Part 1 | Passed | 0.0 | 2.00 |
 | 3/19/2024 | PDN1970A | Use of Force Practical | Passed | 0.0 | 2.00 |

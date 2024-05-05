@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '51737'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Police Officer
+  rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/25/2024
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 1/20/2011
   agency: Portland Police Bureau
   action: Hired

@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/29/2024 | Port of Portland Police Department | Hired | Police Off |  |  |
 | 8/10/2021 | Portland State University DPS | Hired | Police Off |  |  |
 | 1/31/2018 | Portland Police Bureau | Prob Dschg | Police Off |  |  |
 | 10/20/2016 | Portland Police Bureau | Hired | Police Off |  |  |

@@ -38,8 +38,23 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/2/2024 | F1514089 | Rising Antisemitism in the US | Passed | 0.0 | 0.75 |
+| 4/12/2024 | F1524959 | Workforce Equity Strategic Plan | Passed | 0.0 | 3.50 |
+| 4/8/2024 | F1533128 | How Crime Analysts Improve | Passed | 0.0 | 1.00 |
+| 4/4/2024 | F1517056 | Can We Do That? Social Media Policy | Passed | 0.0 | 1.50 |
 | 3/20/2024 | PDA0422A | Defensive Tactics / Use of Force | Passed | 0.0 | 3.00 |
+| 3/19/2024 | F1521899 | The Money Counter Netwrok | Passed | 0.0 | 1.00 |
+| 3/13/2024 | F1544595 | Accident Investigation | Passed | 0.0 | 2.00 |
+| 3/11/2024 | F1508304 | Accident and Incident Analysis | Passed | 0.0 | 0.50 |
+| 3/11/2024 | F1532569 | Hazard Identification | Passed | 0.0 | 0.50 |
+| 3/11/2024 | F1511078 | Safety Committee Roles | Passed | 0.0 | 0.50 |
 | 3/1/2024 | PDA3432A | Use of Radio Communications | Passed | 0.0 | 1.00 |
+| 2/8/2024 | F1512012 | Middle Eastern Intelligence | Passed | 0.0 | 8.00 |
+| 2/7/2024 | F1512012 | Middle Eastern Intelligence | Passed | 0.0 | 8.00 |
+| 2/6/2024 | F1512012 | Middle Eastern Intelligence | Passed | 0.0 | 8.00 |
+| 1/18/2024 | F1527089 | Tactical Disengagement/De-Escalation | Passed | 0.0 | 1.00 |
+| 1/17/2024 | F1543919 | Illegal Marijuana Trafficking | Passed | 0.0 | 1.00 |
+| 1/9/2024 | F1526520 | Saving Lives with Naloxone | Passed | 0.0 | 0.50 |
 | 12/15/2023 | PDA3294A | 2023 Annual Firearms Training  Qualification | Passed | 0.0 | 4.00 |
 | 12/12/2023 | PDA4233A | Use of Force | Passed | 0.0 | 3.00 |
 | 12/12/2023 | PDA0372A | Securus Investigation Training | Passed | 0.0 | 3.00 |

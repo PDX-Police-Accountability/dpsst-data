@@ -30,7 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 6/15/2012 | No Degree | Portland Community College |  | 27.0 |
+| 6/15/2012 | No Degree | Portland Community College |  | 92.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: BBP1189A
+  title: First Aid/CPR/AED/Chest Seal Application
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/21/2024
   course: BBP2059A
   title: Pistol Qualification and Tactical Range
@@ -2470,6 +2476,10 @@ training_records:
   score: '0.0'
   hours: '280.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/30/2024
+  expiration_date: 4/30/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

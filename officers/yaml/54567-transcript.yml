@@ -61,6 +61,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: MLP0207A
+  title: Ethics  Code of Conduct
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2024
   course: MLP3862A
   title: Adult/Child/Infant First AID, CPR AED
@@ -79,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/29/2024
+  course: MLP1263A
+  title: Why emergency Preparedness Matters
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/24/2024
   course: MLP2661A
   title: Defensive Tactics
@@ -87,6 +99,12 @@ training_records:
   hours: '2.00'
 - date: 2/1/2024
   course: MLP3480A
+  title: OSHA Slips, Trips  Falls
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/31/2024
+  course: MLP2755A
   title: OSHA Slips, Trips  Falls
   status: Passed
   score: '0.0'

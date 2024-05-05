@@ -69,18 +69,108 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2024
+  course: F1514089
+  title: Rising Antisemitism in the US
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
+- date: 4/12/2024
+  course: F1524959
+  title: Workforce Equity Strategic Plan
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 4/8/2024
+  course: F1533128
+  title: How Crime Analysts Improve
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/4/2024
+  course: F1517056
+  title: Can We Do That? Social Media Policy
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/20/2024
   course: PDA0422A
   title: Defensive Tactics / Use of Force
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/19/2024
+  course: F1521899
+  title: The Money Counter Netwrok
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2024
+  course: F1544595
+  title: Accident Investigation
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/11/2024
+  course: F1508304
+  title: Accident and Incident Analysis
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/11/2024
+  course: F1532569
+  title: Hazard Identification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/11/2024
+  course: F1511078
+  title: Safety Committee Roles
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/1/2024
   course: PDA3432A
   title: Use of Radio Communications
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 2/8/2024
+  course: F1512012
+  title: Middle Eastern Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/7/2024
+  course: F1512012
+  title: Middle Eastern Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 2/6/2024
+  course: F1512012
+  title: Middle Eastern Intelligence
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/18/2024
+  course: F1527089
+  title: Tactical Disengagement/De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/17/2024
+  course: F1543919
+  title: Illegal Marijuana Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 1/9/2024
+  course: F1526520
+  title: Saving Lives with Naloxone
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/15/2023
   course: PDA3294A
   title: 2023 Annual Firearms Training  Qualification

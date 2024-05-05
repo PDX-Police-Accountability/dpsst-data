@@ -5,13 +5,14 @@
 | dpsst_identifier | 50089 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Police Officer |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/25/2024 | Portland Police Bureau | Promotion | Detective |  |  |
 | 5/16/2019 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 12/10/2018 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/4/2016 | Portland Police Bureau | Return LOA | Police Off |  |  |

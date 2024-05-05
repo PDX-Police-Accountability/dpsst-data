@@ -38,11 +38,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2024 | MLP0207A | Ethics  Code of Conduct | Passed | 0.0 | 1.00 |
 | 4/24/2024 | MLP3862A | Adult/Child/Infant First AID, CPR AED | Passed | 0.0 | 3.00 |
 | 3/14/2024 | REG2229A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
 | 3/1/2024 | MLP2702A | Emergency  Fire Preparedness | Passed | 0.0 | 1.00 |
+| 2/29/2024 | MLP1263A | Why emergency Preparedness Matters | Passed | 0.0 | 1.00 |
 | 2/24/2024 | MLP2661A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 2/1/2024 | MLP3480A | OSHA Slips, Trips  Falls | Passed | 0.0 | 1.00 |
+| 1/31/2024 | MLP2755A | OSHA Slips, Trips  Falls | Passed | 0.0 | 1.00 |
 | 12/27/2023 | MLP0397A | Night Range | Instructed | 0.0 | 3.00 |
 | 12/7/2023 | VND0508A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 12/7/2023 | VND0894A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/29/2024
+  agency: Port of Portland Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 8/10/2021
   agency: Portland State University DPS
   action: Hired

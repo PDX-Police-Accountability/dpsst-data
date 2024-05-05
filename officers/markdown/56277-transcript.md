@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/24/2024 | CAP0909A | Taser / 40mm Use of Force Training | Passed | 0.0 | 3.00 |
 | 4/4/2024 | CAP2967A | Rifle Qualifications - Fundamentals | Passed | 0.0 | 2.00 |
 | 3/14/2024 | REG2229A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
 | 1/24/2024 | CAP2263A | Annual Handgun Qualification / Fundamentals | Instructed | 0.0 | 6.00 |
