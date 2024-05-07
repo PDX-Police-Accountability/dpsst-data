@@ -47,6 +47,7 @@
 | * MISSING | 26975 |  |  |  |  |  | [md](../markdown/26975-transcript.md) - [yaml](../yaml/26975-transcript.yml) |
 | * MISSING | 26979 |  |  |  |  |  | [md](../markdown/26979-transcript.md) - [yaml](../yaml/26979-transcript.yml) |
 | * MISSING | 27087 |  |  |  |  |  | [md](../markdown/27087-transcript.md) - [yaml](../yaml/27087-transcript.yml) |
+| * MISSING | 27242 |  |  |  |  |  | [md](../markdown/27242-transcript.md) - [yaml](../yaml/27242-transcript.yml) |
 | * MISSING | 27243 |  |  |  |  |  | [md](../markdown/27243-transcript.md) - [yaml](../yaml/27243-transcript.yml) |
 | * MISSING | 28091 |  |  |  |  |  | [md](../markdown/28091-transcript.md) - [yaml](../yaml/28091-transcript.yml) |
 | * MISSING | 28646 |  |  |  |  |  | [md](../markdown/28646-transcript.md) - [yaml](../yaml/28646-transcript.yml) |
@@ -97,7 +98,6 @@
 | Eckhart, John C. | 14495 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2010-07-29 | [md](../markdown/14495-transcript.md) - [yaml](../yaml/14495-transcript.yml) |
 | Modica, Kevin L. | 15909 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2017-06-30 | [md](../markdown/15909-transcript.md) - [yaml](../yaml/15909-transcript.yml) |
 | Wagenknecht, Mathew A. | 24983 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2018-02-02 | [md](../markdown/24983-transcript.md) - [yaml](../yaml/24983-transcript.yml) |
-| Shearer, Andrew T. | 27242 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2020-08-03 | [md](../markdown/27242-transcript.md) - [yaml](../yaml/27242-transcript.yml) |
 | Krantz, Michael J. | 28269 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2020-08-08 | [md](../markdown/28269-transcript.md) - [yaml](../yaml/28269-transcript.yml) |
 | Ossenkop, Brian D. | 28330 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2022-10-12 | [md](../markdown/28330-transcript.md) - [yaml](../yaml/28330-transcript.yml) |
 | Nakamura, Arthur J. | 36820 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2024-01-18 | [md](../markdown/36820-transcript.md) - [yaml](../yaml/36820-transcript.yml) |
