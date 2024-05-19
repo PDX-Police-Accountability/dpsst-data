@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2024 | BNP2448A | Domestic Violence Strangulation investigations | Passed | 0.0 | 1.00 |
 | 4/26/2024 | OSH1665A | Basic Detevtive Academy | Passed | 0.0 | 40.00 |
 | 4/16/2024 | BNP4194A | UAS Monthly Training | Passed | 0.0 | 8.00 |
 | 3/28/2024 | BNP0481A | EVOC / Vehicle Placement | Passed | 0.0 | 1.00 |

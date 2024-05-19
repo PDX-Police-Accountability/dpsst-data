@@ -68,12 +68,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2024
+  course: SDP2362A
+  title: Sexual Assault and MDT Protocols
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/8/2024
+  course: SDP4040A
+  title: CIT Review
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/8/2024
+  course: SDP0759A
+  title: DUII Update and Warrant Writing Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/24/2024
   course: SDP3130A
   title: Defensive Tactics
   status: Instructed
   score: '0.0'
   hours: '2.00'
+- date: 4/24/2024
+  course: SDP3588A
+  title: Child Abuse MDT Protocol's and Karly's Law
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/24/2024
+  course: SDP0578A
+  title: Pursuit Policy Review and High Risk Stops
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 4/8/2024
   course: REG3684A
   title: DT

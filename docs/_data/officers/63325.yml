@@ -19,17 +19,23 @@ certification_records:
 - status_date: 9/22/2022
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: ReqCertExt
   certificate_date: ''
   expiration_date: ''
-  probation_date: 3/22/2024
+  probation_date: 3/22/2025
 training_records:
-- date: 3/22/2024
+- date: 3/22/2025
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 2/8/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/7/2024
   course: PDP0617A
   title: 2023 OSHA Heat Illness Prevention with CityLearner

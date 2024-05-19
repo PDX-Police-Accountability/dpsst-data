@@ -16,11 +16,11 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/22/2024
+- status_date: 5/7/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 5/7/2024
   expiration_date: ''
   probation_date: ''
 - status_date: 1/29/2019
@@ -55,6 +55,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/2/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 1/20/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/20/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/12/2024
   course: PDP3566A
   title: 2023 Active Stolen Vehicles Hotsheet

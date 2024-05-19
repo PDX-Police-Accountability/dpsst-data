@@ -106,6 +106,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2024
+  course: PDS0997A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/5/2024
+  course: PDS3422A
+  title: Agency Values, Expectations, and Transgender
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/3/2024
   course: PDS1053A
   title: March Crisis Negotiation Team Training

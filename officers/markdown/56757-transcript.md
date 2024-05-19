@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/3/2024 | PPP3402A | Taser 7 New Operator Course | Passed | 0.0 | 8.00 |
 | 2/2/2024 | PSU4473A | National FOP Conference 2024 | Passed | 0.0 | 32.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/16/2024
+  course: GSP1655A
+  title: Handgun In-InService
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/4/2024
   course: GSP1763A
   title: Post Academy

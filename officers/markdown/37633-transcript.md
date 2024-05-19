@@ -35,10 +35,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
+| 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 6.00 |
+| 4/25/2024 | PDP3663A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 3.00 |
 | 4/3/2024 | PDP1299A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 4/3/2024 | PDP1299A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
+| 3/27/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
+| 3/27/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/20/2024 | PDP3613A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 2/28/2024 | PDP4376A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |

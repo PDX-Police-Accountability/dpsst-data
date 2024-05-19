@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2024
+  course: PDS4142A
+  title: LE Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

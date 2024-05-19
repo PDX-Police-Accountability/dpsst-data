@@ -48,6 +48,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/13/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/13/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/11/2024
   course: PDP2822A
   title: 2023 DIR 0620.00 Body-Worn Camera Use and MGMT

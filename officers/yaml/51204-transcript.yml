@@ -43,12 +43,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2024
+  course: PDP1247A
+  title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/25/2024
+  course: PDP3587A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/4/2024
   course: PDP1930A
   title: 2024 SERT Training - SCENARIO
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/3/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/3/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/3/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/28/2024
   course: PDP1314A
   title: 2024 SERT Training - FIREARMS
@@ -64,6 +94,12 @@ training_records:
 - date: 3/14/2024
   course: PDP1559A
   title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/1/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'

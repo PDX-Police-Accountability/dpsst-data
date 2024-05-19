@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2024 | SVP0572A | Professional Standards: Internal Investigations | Passed | 0.0 | 2.00 |
 | 4/30/2024 | VND1647A | Conducting Effective Public Safety Backgrounds | Passed | 0.0 | 16.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/13/2024 | SVP1282A | Implicit Bias Course #23548-2301 | Passed | 0.0 | 1.00 |

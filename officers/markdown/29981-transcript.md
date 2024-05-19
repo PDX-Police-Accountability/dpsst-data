@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2024 | WLP0560A | Establishing Stronger Community Relationships | Passed | 0.0 | 1.00 |
+| 4/30/2024 | HUP1887A | Sexual Assault Response Training / Investigation | Passed | 0.0 | 12.00 |
 | 4/5/2024 | WLP2314A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |
 | 3/15/2024 | WLP2217A | Karly's Law educational training | Passed | 0.0 | 1.00 |
 | 3/5/2024 | WLP3899A | Foundation in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |

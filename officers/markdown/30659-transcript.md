@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/7/2024 | PDS0426A | ConSim | Passed | 0.0 | 8.00 |
 | 2/18/2024 | PDS2801A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |
 | 2/18/2024 | PDS3283A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/18/2024 | PDS4055A | Suicide Prevention | Passed | 0.0 | 1.00 |

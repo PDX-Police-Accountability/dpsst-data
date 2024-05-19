@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2024
+  course: STP4181A
+  title: Policy Review - Employee Speech, Express, Etc.
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 4/12/2024
   course: STP0225A
   title: Legal Update

@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '38997'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Assistant Chief
+  rank: Commander
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/25/2024
+  agency: Portland Police Bureau
+  action: Demotion
+  rank: Commander
+  classification: ''
+  assignment: ''
 - date: 8/25/2020
   agency: Portland Police Bureau
   action: Promotion
@@ -101,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/25/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/2/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

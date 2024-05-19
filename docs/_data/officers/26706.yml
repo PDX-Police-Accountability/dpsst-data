@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/15/2024
+  course: PDS3197A
+  title: Defensive tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/6/2024
   course: PDS3283A
   title: Bloodborne Pathogens

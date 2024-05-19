@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/16/2024 | GSP1655A | Handgun In-InService | Instructed | 0.0 | 10.00 |
 | 4/4/2024 | GSP1763A | Post Academy | Instructed | 0.0 | 10.00 |
 | 3/25/2024 | GSP2723A | Firearms - Rifle | Instructed | 0.0 | 10.00 |
 | 3/19/2024 | GSP4093A | Firearms - Rifle | Instructed | 0.0 | 10.00 |

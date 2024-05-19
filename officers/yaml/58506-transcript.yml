@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2024
+  course: PDP1247A
+  title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/25/2024
+  course: PDP4113A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/4/2024
   course: PDP1930A
   title: 2024 SERT Training - SCENARIO
@@ -90,6 +102,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '16.00'
+- date: 2/14/2024
+  course: PDS2543A
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/8/2024
   course: PDP0488A
   title: 2024 SERT Training - CLASSROOM
@@ -102,6 +120,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 2/1/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/1/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/25/2024
   course: PDP2633A
   title: 2024 SERT Training - FIREARMS

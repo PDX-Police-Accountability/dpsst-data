@@ -54,6 +54,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/15/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/15/2024
+  course: PDP3618A
+  title: 2024-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/27/2023
   course: PDP3303A
   title: 2023 Active Stolen Vehicles Hotsheet

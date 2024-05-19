@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 4/30/2024
+- status_date: 5/7/2024
   certificate: Police Officer
   level: Basic
-  status: App Recd
-  certificate_date: ''
+  status: Granted
+  certificate_date: 5/7/2024
   expiration_date: ''
-  probation_date: 6/8/2024
+  probation_date: ''
 training_records:
 - date: 4/30/2024
   course: M11-19A
@@ -30,6 +30,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '50.00'
+- date: 4/3/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/23/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
@@ -449,6 +455,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 4/4/2024
   expiration_date: ''
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2024
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2024
+  expiration_date: 12/31/2026
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 5/2/2023

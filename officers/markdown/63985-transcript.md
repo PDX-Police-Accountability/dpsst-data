@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 1/18/2024 | PDP0772A | 2024  FTEP HAZMAT/WMD Awareness | Passed | 0.0 | 3.50 |
 | 1/15/2024 | PDP3946A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 1/11/2024 | PDP4240A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |

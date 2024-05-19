@@ -67,12 +67,24 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
-- date: 2/26/2024
+- date: 4/16/2024
   course: 24-0004
   title: DPSST Basic Police COD Self-Study
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '80.00'
+- date: 2/11/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/11/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/2/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

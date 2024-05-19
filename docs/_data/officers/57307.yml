@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 5/15/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/20/2024
   certificate: Police Officer
   level: Intermediate
@@ -34,6 +41,12 @@ training_records:
 - date: 3/21/2024
   course: PDP2707A
   title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/15/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'

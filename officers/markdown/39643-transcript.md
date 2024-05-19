@@ -42,6 +42,8 @@
 | 3/18/2024 | REG4234A | DT | Passed | 0.0 | 1.00 |
 | 3/11/2024 | REG0898A | DT | Passed | 0.0 | 1.00 |
 | 3/7/2024 | REG2092A | DT Grouind Control | Passed | 0.0 | 1.00 |
+| 3/6/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
+| 3/6/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/22/2024 | REG2733A | Gun Retention/DT | Passed | 0.0 | 1.00 |
 | 2/12/2024 | REG0151A | DT | Passed | 0.0 | 1.00 |
 | 1/29/2024 | REG3815A | DT | Passed | 0.0 | 1.00 |

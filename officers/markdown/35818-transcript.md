@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/7/2024 | PDP2738A | Intox 8000 - Regional | Passed | 0.0 | 6.00 |
 | 4/17/2024 | GLP1279A | Semiannual Defensive Tactics (Spring 2024) | Passed | 0.0 | 3.00 |
 | 4/15/2024 | GLP3242A | First Aid/ Adult and Child CPR | Passed | 0.0 | 3.00 |
 | 4/4/2024 | GLP1297A | Locked Vehicle Access Training | Passed | 0.0 | 0.50 |

@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2024
+  course: BNS2976A
+  title: Breaching, Vehicle pins, High risk veh stops
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/13/2024
+  course: BNS4075A
+  title: Narcotics recognition and Search and Seizure
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/22/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh
@@ -48,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/10/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2024
   course: BNS0679A
   title: Digital Forensics / Warrant builder

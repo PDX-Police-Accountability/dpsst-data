@@ -32,5 +32,6 @@
 | 4/29/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 4/25/2024 | PDP3953A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 4/25/2024 | PDP3110A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
+| 4/24/2024 | PDP0545A | 2024 FTEP New Hire Firearms | Passed | 0.0 | 25.00 |
 | 4/18/2024 | PDP3483A | CPR/First Aid | Passed | 0.0 | 3.00 |
 | 7/22/2019 | PDP2233A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

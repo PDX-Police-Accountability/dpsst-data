@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2024
+  course: PDP3017A
+  title: 2024 FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '6.00'
+- date: 3/13/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/8/2024
   course: PDP3079A
   title: 2024-1 Field Training Officer (FTO) Certification

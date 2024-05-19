@@ -61,9 +61,33 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/10/2024
+  course: MISCMAIN
+  title: 2024 LE Annual Maintenance
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 5/7/2024
+  course: MLP4099A
+  title: Cultural Awareness  Diversity Overview
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/30/2024
   course: MLP0207A
   title: Ethics  Code of Conduct
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2024
+  course: HUP1887A
+  title: Sexual Assault Response Training / Investigation
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+- date: 4/25/2024
+  course: MLP1462A
+  title: CIT Crisis Response
   status: Passed
   score: '0.0'
   hours: '1.00'
@@ -73,6 +97,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 4/16/2024
+  course: MLP3198A
+  title: Tension to Trust- Establishing Stronger Community
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/14/2024
   course: REG2229A
   title: Pistol Mounted Optic IDC
@@ -1310,6 +1340,14 @@ training_records:
   score: '0.0'
   hours: '0.50'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Annual
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2025
+- topic: Maintenance Requirements
+  value: LE Basic 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/24/2024
@@ -1317,11 +1355,11 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 3/18/2018

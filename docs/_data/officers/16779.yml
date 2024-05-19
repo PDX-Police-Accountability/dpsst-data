@@ -1,2 +1,327 @@
 ---
-missing_transcript: true
+header_record:
+  name: Bedell, Linda D.
+  dpsst_identifier: '16779'
+  agency: Portland Police Bureau
+  employment_status: Inactive
+  rank: Civilian Employee
+  level: ''
+  classification: ''
+  assignment: ''
+employment_records:
+- date: 9/28/2018
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 3/14/1995
+  agency: Multnomah County Sheriff's Office
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 4/22/1993
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 12/5/1990
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 7/28/1990
+  agency: King City Police Department
+  action: Discharged
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 5/1/1990
+  agency: King City Police Department
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 1/28/1990
+  agency: Salem Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/5/1989
+  agency: Salem Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
+- date: 7/3/1989
+  agency: Lake Oswego Police Department
+  action: Resigned
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 6/24/1989
+  agency: Multnomah County Sheriff's Office
+  action: Resigned
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 11/1/1988
+  agency: Lake Oswego Police Department
+  action: Reclassed
+  rank: Civln Emp
+  classification: ''
+  assignment: ''
+- date: 5/28/1987
+  agency: Multnomah County Sheriff's Office
+  action: Hired
+  rank: Reserve
+  classification: ''
+  assignment: ''
+- date: 8/12/1985
+  agency: Lake Oswego Police Department
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 5/20/1985
+  agency: Tillamook County Sheriff's Office
+  action: Resigned
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+- date: 7/25/1983
+  agency: Tillamook County Sheriff's Office
+  action: Hired
+  rank: Dispatcher
+  classification: ''
+  assignment: ''
+certification_records: []
+training_records:
+- date: 12/31/2014
+  course: 14-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 12/11/2014
+  course: 14-0924
+  title: Sexual Harassment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2009
+  course: '09-0716'
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/1/2007
+  course: 07-0716
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/5/2007
+  course: 07-0790
+  title: Forensics - Other
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/30/2007
+  course: 07-0702
+  title: Computer Software Applications
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/24/2007
+  course: 07-1178
+  title: Radar / Lidar Training - Home Agency Approved
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/1/2005
+  course: 05-0590
+  title: LEDS Recertification
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 10/12/1993
+  course: 93U001
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/16/1993
+  course: 93K048
+  title: LEDS GENERAL LEVEL
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
+- date: 5/12/1993
+  course: 93J038
+  title: SAFETY BELT TRAINING FOR POLICE
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 12/31/1991
+  course: 91K221
+  title: OSSA CIVIL PROCESS TRAINING MANUAL
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 8/20/1990
+  course: 90P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 7/16/1990
+  course: 90M001
+  title: RADAR TRAINING MANUAL
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/3/1990
+  course: 90P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '111.00'
+- date: 11/15/1989
+  course: '899032'
+  title: HAZARDOUS MATERIALS TECH I PART 1C
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 11/14/1989
+  course: '899031'
+  title: HAZARDOUS MATERIALS TECH I PART 1B
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/13/1989
+  course: '899030'
+  title: HAZARDOUS MATERIALS TECH I PART 1A
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 11/10/1989
+  course: '891152'
+  title: BASIC POLICE CLASS NO. 152
+  status: Passed
+  score: '0.0'
+  hours: '320.00'
+- date: 11/4/1989
+  course: '899279'
+  title: LAKE OSWEGO LAW ENFORCEMENT INVITATIONAL
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/24/1989
+  course: 89Z001
+  title: RADAR
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 10/18/1989
+  course: '899050'
+  title: INTOXILIZER
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/14/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '87.00'
+- date: 3/6/1989
+  course: 89P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '124.00'
+- date: 9/14/1988
+  course: '889050'
+  title: INTOXILYZER
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 6/30/1988
+  course: '889012'
+  title: STREET SURVIVAL SEMINAR
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 2/17/1988
+  course: 88P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '51.00'
+- date: 4/16/1987
+  course: '869327'
+  title: METROPOLITAN RESERVE OFFICER ACADEMY
+  status: Passed
+  score: '0.0'
+  hours: '220.00'
+- date: 2/3/1987
+  course: 87P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '57.00'
+- date: 2/4/1986
+  course: 86P099
+  title: Approved In-State Training
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 4/26/1984
+  course: '849161'
+  title: BASIC OR CRIM JUST INFO SYSTEM
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 1/10/1984
+  course: '849007'
+  title: EMERGENCY MEDICAL DISPATCH
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 10/21/1983
+  course: '835011'
+  title: MANAGEMENT OF PUBLIC RECORDS
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 9/23/1983
+  course: '835036'
+  title: BASIC COURSE FOR DISPATCHERS
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 8/17/1983
+  course: '839097'
+  title: DISPATCHER TRAINING (APCO)
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 1/1/1983
+  course: 83LM24
+  title: LEDS TRAINING GUIDE
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
+- date: 1/1/1983
+  course: '839033'
+  title: OUCR TRAINING EXERCISE
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
+attribute_records: []
+education_records: []

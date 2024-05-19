@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/8/2024 | PDS1401A | LE Range | Passed | 0.0 | 2.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
 | 2/26/2024 | PDS4516A | Range Training | Passed | 0.0 | 2.00 |
 | 2/21/2024 | PDS0630A | Reserve Deputy Unit Monthly Training | Passed | 0.0 | 2.00 |

@@ -39,7 +39,7 @@
 | 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 3/27/2024 | OCS2743A | Take downs/Ground Offense | Passed | 0.0 | 1.00 |
 | 3/7/2024 | SAP3933A | Preparing for Promotion | Passed | 0.0 | 8.00 |
-| 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
+| 3/1/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/28/2024 | OCS1992A | Striking/Take Downs | Passed | 0.0 | 1.00 |

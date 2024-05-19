@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/7/2024
+  course: PDP2738A
+  title: Intox 8000 - Regional
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/17/2024
   course: GLP1279A
   title: Semiannual Defensive Tactics (Spring 2024)

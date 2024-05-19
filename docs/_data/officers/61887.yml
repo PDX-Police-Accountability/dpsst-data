@@ -24,12 +24,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/1/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/28/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/5/2024
   course: VND3218A
   title: 28 CFR 23 and WSIN Resources
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/2/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/24/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

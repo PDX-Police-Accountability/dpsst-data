@@ -31,12 +31,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/27/2024
   course: PDP1960A
   title: Physical  Cybersecurity for Critical Infrastr.
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 2/16/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/16/2024
+  course: PDP0088A
+  title: 2024-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/7/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/7/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/2/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

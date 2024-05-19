@@ -36,6 +36,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
+| 3/13/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/13/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 2/2/2024 | PDP0069A | Crime Scene Investigations | Passed | 0.0 | 40.00 |
 | 1/15/2024 | BVP2406A | First Aid and Adult Child CPR 11524 pm | Passed | 0.0 | 3.00 |
 | 1/10/2024 | BVP3514A | Bike Theft Prevention Reserves | Passed | 0.0 | 2.00 |

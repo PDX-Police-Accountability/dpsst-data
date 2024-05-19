@@ -29,10 +29,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 9/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.50 |
 | 1/18/2024 | PDP0772A | 2024  FTEP HAZMAT/WMD Awareness | Passed | 0.0 | 3.50 |
 | 1/15/2024 | PDP2314A | 2024 FTEP Control Tactics Post Basic Academy | Passed | 0.0 | 4.00 |
 | 1/11/2024 | PDP4240A | 2024 FTEP Orientation | Passed | 0.0 | 6.50 |
 | 1/10/2024 | PDP0704A | Red Dot Optic Transition Course | Passed | 0.0 | 23.00 |
+| 1/10/2024 | PDP3990A | 2024-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 1/4/2024 | PDP0040A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
 | 1/3/2024 | PDP3102A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 1/2/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

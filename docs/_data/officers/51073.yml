@@ -80,6 +80,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/12/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/12/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

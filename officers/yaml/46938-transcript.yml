@@ -22,6 +22,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 5/15/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/26/2013
   certificate: Police Officer
   level: Intermediate
@@ -37,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/26/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh
@@ -61,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/6/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/6/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/7/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit
@@ -4111,13 +4136,18 @@ attribute_records:
   effective_date: 8/15/2006
   expiration_date: ''
 education_records:
+- date: 12/31/2023
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '54.3'
 - date: 3/15/2004
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '196.1'
+  hours: '196.0'
 - date: 6/15/2000
   degree: No Degree
   school: All Other Education Institutes
   major: ''
-  hours: '9.0'
+  hours: '6.0'

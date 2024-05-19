@@ -16,6 +16,20 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 5/15/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 5/15/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 11/9/2016
   certificate: Police Officer
   level: Basic
@@ -24,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2024
+  course: PDP3598A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/13/2024
   course: PDP4432A
   title: 2024 CNT Crisis Negotiation Team Annual Training
@@ -60,6 +80,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/26/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/26/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/21/2024
   course: PDP0192A
   title: 2024 CNT Crisis Negotiation Team Annual Training

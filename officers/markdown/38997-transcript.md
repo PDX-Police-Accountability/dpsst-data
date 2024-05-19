@@ -5,13 +5,14 @@
 | dpsst_identifier | 38997 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Assistant Chief |
+| rank | Commander |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/25/2024 | Portland Police Bureau | Demotion | Commander |  |  |
 | 8/25/2020 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 7/2/2020 | Portland Police Bureau | Promotion | Commander |  |  |
 | 4/18/2019 | Portland Police Bureau | Promotion | Captain |  |  |
@@ -43,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/25/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 11/17/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
 | 11/17/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

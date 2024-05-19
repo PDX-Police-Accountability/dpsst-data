@@ -44,6 +44,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2024
+  course: PDP3598A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/10/2024
+  course: PDP3598A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/8/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/13/2024
   course: PDP4432A
   title: 2024 CNT Crisis Negotiation Team Annual Training
@@ -56,6 +74,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '8.00'
+- date: 3/1/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/26/2024
   course: F6R2087A
   title: FBI Basic Negotiation Course
@@ -5209,6 +5233,11 @@ education_records:
   school: All Other Education Institutes
   major: ''
   hours: '54.0'
+- date: 6/5/2006
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '39.0'
 - date: 5/7/2004
   degree: Bachelor Science
   school: All Other Education Institutes

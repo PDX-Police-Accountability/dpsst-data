@@ -81,6 +81,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/5/2024
+  course: PDP0641A
+  title: DUII  DRE/DECP Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 2/8/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/8/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/25/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

@@ -48,12 +48,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '10.00'
+- date: 4/11/2024
+  course: PDP3017A
+  title: 2024 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/10/2024
   course: PDP1761A
   title: 2024 FTEP Post DPSST Firearms
   status: Passed
   score: '0.0'
   hours: '27.00'
+- date: 4/10/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/4/2024
   course: PDP1566A
   title: 2024 FTEP Post Basic CEW Taser
@@ -66,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/29/2024
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 3/6/2024
   course: REG2525A
   title: DID-SFST (Hours included in Basic)
@@ -84,12 +102,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 11/13/2023
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 11/9/2023
   course: PDP1707A
   title: ICS-100 Intro to the Incident Cmmnd System

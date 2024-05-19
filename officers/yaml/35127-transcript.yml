@@ -75,6 +75,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: SAG1622A
+  title: Preventing Active Shooters in Schools
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/25/2024
+  course: SAG1580A
+  title: Firearms training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/22/2024
+  course: SAG1736A
+  title: Extortion  Infiltration - Ransomeware
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/18/2024
+  course: SAG4151A
+  title: Digital License Plates
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2024
+  course: SAG3613A
+  title: Public Records Retention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/4/2024
   course: SAG0046A
   title: How Money Actually Moves
@@ -87,6 +117,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 2/7/2024
+  course: SAG2935A
+  title: SSA FY 2024 Info Security  Privacy Awareness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/5/2024
   course: SAG3321A
   title: LEDS/CJIS Certification Renewal

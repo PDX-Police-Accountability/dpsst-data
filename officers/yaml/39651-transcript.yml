@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/15/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/19/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh
@@ -99,6 +105,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/15/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/15/2024
+  course: PDP3990A
+  title: 2024-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/16/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

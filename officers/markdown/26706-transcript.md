@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/15/2024 | PDS3197A | Defensive tactics | Passed | 0.0 | 8.00 |
 | 2/6/2024 | PDS3283A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/6/2024 | PDS2112A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
 | 2/5/2024 | PDS2801A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |

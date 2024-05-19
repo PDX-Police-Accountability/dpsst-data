@@ -24,6 +24,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/25/2024
+  course: PDP4113A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/10/2024
+  course: PDP3598A
+  title: 2024 CNT Crisis Negotiation Team Annual Training
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/4/2024
   course: PDP1930A
   title: 2024 SERT Training - SCENARIO
@@ -36,9 +48,27 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/28/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/28/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/21/2024
   course: PDP2707A
   title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 3/15/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
   status: Passed
   score: '0.0'
   hours: '9.00'
@@ -92,6 +122,12 @@ training_records:
   hours: '8.00'
 - date: 2/14/2024
   course: PDS0489A
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/14/2024
+  course: PDS2543A
   title: Enhanced Tactical Medicine
   status: Passed
   score: '0.0'

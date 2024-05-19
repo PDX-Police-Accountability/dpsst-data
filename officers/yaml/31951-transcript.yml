@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2024
+  course: VND4524A
+  title: Oregon Cold Case Conference
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 1/2/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

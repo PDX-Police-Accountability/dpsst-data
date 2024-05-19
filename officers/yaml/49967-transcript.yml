@@ -29,6 +29,24 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/4/2024
+  course: MNP2048A
+  title: EVOC in-service
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/4/2024
+  course: MNP1289A
+  title: Building Search in-service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/4/2024
+  course: MNP2028A
+  title: Axon Body-Worn Camera training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 2/20/2024
   course: MNP3822A
   title: Taser 7 - update training

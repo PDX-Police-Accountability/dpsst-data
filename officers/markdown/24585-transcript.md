@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2024 | PSU0921A | Adult  Pediatric First Aid/CPR/AED | Passed | 0.0 | 8.00 |
 | 4/2/2024 | PSU1867A | De-escalation and Reasonable Force | Passed | 0.0 | 0.00 |
 | 3/12/2024 | PSU3745A | MILO 3000 Use of Force scenarios | Passed | 0.0 | 0.00 |
 | 1/12/2024 | PSU2064A | Basic Firearm Safety/Handling | Passed | 0.0 | 0.00 |

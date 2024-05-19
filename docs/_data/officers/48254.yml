@@ -50,6 +50,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/20/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/20/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/22/2024
   course: REG3588A
   title: 2024 Police Traffic Safety Conference

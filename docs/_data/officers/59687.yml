@@ -43,6 +43,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2024
+  course: WLP4537A
+  title: SFST Wet Lab
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/6/2024
+  course: WLP0560A
+  title: Establishing Stronger Community Relationships
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2024
   course: WLP2940A
   title: SFST Refresher

@@ -22,11 +22,12 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 5/17/2024 | Police Officer | Basic | App Recd |  |  | 6/15/2024 |
 | 3/2/2023 | Corrections Officer | Basic | Lapsed | 11/26/2019 | 12/2/2027 |  |
-| 12/15/2022 | Police Officer | Basic | Required |  |  | 6/15/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 4/3/2024 |  |
 | Certification Cards | First Aid and CPR | 9/15/2023 | 9/15/2025 |
 | Certification Cards | CPR | 5/26/2023 | 5/26/2025 |
 | Code of Ethics | Law Enforcement Signed | 3/4/2023 |  |
@@ -38,7 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/15/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/12/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 2/5/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/1/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/12/2023 | PDP4338A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
 | 11/30/2023 | PDP2115A | 2023-3 Advanced Academy Community Eng. | Passed | 0.0 | 32.00 |

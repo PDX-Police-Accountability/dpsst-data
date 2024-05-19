@@ -19,17 +19,23 @@ certification_records:
 - status_date: 8/18/2022
   certificate: Police Officer
   level: Basic
-  status: Required
+  status: ReqCertExt
   certificate_date: ''
   expiration_date: ''
-  probation_date: 2/18/2024
+  probation_date: 2/18/2025
 training_records:
-- date: 2/18/2024
+- date: 2/18/2025
   course: M11-19A
   title: DPSST Police Officer Field Training Manual
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/16/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/21/2023
   course: PDP2054A
   title: 2023 Active Stolen Vehicles Hotsheet

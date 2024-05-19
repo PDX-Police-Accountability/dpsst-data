@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2024
+  course: WLP0560A
+  title: Establishing Stronger Community Relationships
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2024
+  course: HUP1887A
+  title: Sexual Assault Response Training / Investigation
+  status: Passed
+  score: '0.0'
+  hours: '12.00'
 - date: 4/5/2024
   course: WLP2314A
   title: Trauma Informed Sexual Assault Investigations

@@ -81,6 +81,24 @@ certification_records:
   expiration_date: 8/29/2025
   probation_date: ''
 training_records:
+- date: 5/10/2024
+  course: PDS0095A
+  title: Restraints and Searches
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/10/2024
+  course: PDS1486A
+  title: Use of Force Report Writing
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/5/2024
+  course: PDS3422A
+  title: Agency Values, Expectations, and Transgender
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/11/2024
   course: PDS4396A
   title: Use of Force for Supervisors

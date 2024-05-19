@@ -69,12 +69,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2024
+  course: PDP0779A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/9/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/3/2024
   course: PDP0703A
   title: Officer Safety and Wellness Conference
   status: Passed
   score: '0.0'
   hours: '12.00'
+- date: 2/23/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/1/2024
   course: VND1796A
   title: NW Peer Support Conference

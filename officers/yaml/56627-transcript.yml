@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2024
+  course: PDP0779A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 4/4/2024
   course: OCS4435A
   title: Calibre Press FTO
@@ -68,6 +74,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/20/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/20/2024
+  course: PDP2239A
+  title: 2024-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/20/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/20/2024
+  course: PDP3990A
+  title: 2024-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/20/2024
+  course: PDP0088A
+  title: 2024-1 Range Qualification Shotgun Function Check
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 1/26/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/23/2024
   course: PDP0816A
   title: Scenarios  Tactics for the Field Training Officer

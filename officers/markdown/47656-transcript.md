@@ -31,13 +31,18 @@
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
 | 6/15/2006 | No Degree | All Other Education Institutes |  | 54.0 |
+| 6/5/2006 | Masters Arts | All Other Education Institutes |  | 39.0 |
 | 5/7/2004 | Bachelor Science | All Other Education Institutes | Criminal Justice Administration | 129.5 |
 | 12/20/2001 | Associate Science | All Other Education Institutes |  | 42.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Instructed | 0.0 | 8.00 |
+| 4/8/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Instructed | 0.0 | 8.00 |
+| 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 1/26/2024 | F6R2087A | FBI Basic Negotiation Course | Passed | 0.0 | 36.00 |
 | 1/11/2024 | PDP2038A | 2024 Instructor Development Course (IDC) | Passed | 0.0 | 15.00 |
 | 1/10/2024 | PDP1426A | 2024 CNT Annual Training | Passed | 0.0 | 10.00 |

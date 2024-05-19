@@ -61,6 +61,7 @@
 | 2/1/2024 | PDP2938A | 2023-1 In Service Force Reporting Online Recording | Passed | 0.0 | 0.50 |
 | 2/1/2024 | PDP4513A | 2023-1 In Service Internal Affairs | Passed | 0.0 | 0.50 |
 | 2/1/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
+| 2/1/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 8/9/2023 | PDP1348A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 7/21/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |
 | 7/6/2023 | PDP4002A | 2023 Field Drug Test Kits | Passed | 0.0 | 0.25 |

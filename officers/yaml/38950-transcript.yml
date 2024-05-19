@@ -101,6 +101,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/1/2024
+  course: HBS0127A
+  title: 2024 April ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/1/2024
+  course: HBS2468A
+  title: 2024 April ADA Patrol
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2024
+  course: HBS4093A
+  title: 2024 April Personnel Guidelines  SH
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2024
+  course: HBS2269A
+  title: 2024 April De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/1/2024
+  course: HBS2222A
+  title: 2024 April Defensive Tools  EVO
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/1/2024
   course: HBS0369A
   title: 2024 February PREA

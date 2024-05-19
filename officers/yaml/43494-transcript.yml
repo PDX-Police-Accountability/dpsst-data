@@ -4,11 +4,17 @@ header_record:
   dpsst_identifier: '43494'
   agency: Portland Police Bureau
   employment_status: Active
-  rank: Captain
+  rank: Commander
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 4/25/2024
+  agency: Portland Police Bureau
+  action: Promotion
+  rank: Commander
+  classification: ''
+  assignment: ''
 - date: 10/13/2022
   agency: Portland Police Bureau
   action: Promotion
@@ -82,6 +88,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/21/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/22/2024
   course: REG3588A
   title: 2024 Police Traffic Safety Conference

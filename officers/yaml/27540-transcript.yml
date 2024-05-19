@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2024
+  course: WLP0560A
+  title: Establishing Stronger Community Relationships
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/19/2024
   course: OAC0500A
   title: 'Honoring the Badge: Understand/Avoid Ethical Pit'

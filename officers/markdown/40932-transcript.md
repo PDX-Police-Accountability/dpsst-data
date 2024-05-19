@@ -44,6 +44,9 @@
 | 4/14/2024 | OAC1923A | Catching Hell | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 3/1/2024 | PDP4303A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 3/1/2024 | PDP4030A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
+| 2/1/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 2/1/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/4/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/4/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |

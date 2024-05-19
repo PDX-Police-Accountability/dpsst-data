@@ -55,6 +55,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 2/22/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 12/29/2023
   course: MISCMAIN
   title: 2023 LE Leadership 3 Year Maintenance

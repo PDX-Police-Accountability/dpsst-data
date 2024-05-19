@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/29/2024
+  course: PSU0921A
+  title: Adult  Pediatric First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/12/2024
   course: PSU3745A
   title: MILO 3000 Use of Force scenarios

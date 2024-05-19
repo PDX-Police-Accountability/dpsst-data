@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 4/11/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/18/2024
   course: PDP0772A
   title: 2024  FTEP HAZMAT/WMD Awareness
@@ -54,12 +60,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '6.50'
+- date: 1/11/2024
+  course: PDP3990A
+  title: 2024-1 Range Qual Secondary Firearm (25 Round)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/10/2024
   course: PDP0704A
   title: Red Dot Optic Transition Course
   status: Passed
   score: '0.0'
   hours: '23.00'
+- date: 1/10/2024
+  course: PDP3618A
+  title: 2024-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 1/4/2024
   course: PDP0040A
   title: 2024 FTEP Post Basic CEW Taser

@@ -45,6 +45,7 @@
 | 2/14/2024 | PDP0965A | 2023 Microsoft Cloud Storage OD and SP Recorded | Passed | 0.0 | 1.00 |
 | 2/14/2024 | PDP0447A | 2023 Microsoft Teams Recorded Training | Passed | 0.0 | 1.00 |
 | 2/14/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 2/14/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/13/2024 | PDP3566A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 2/13/2024 | PDP4341A | 2023 Microsoft PowerPoint Online Recorded Training | Passed | 0.0 | 1.00 |
 | 2/13/2024 | PDP1469A | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |

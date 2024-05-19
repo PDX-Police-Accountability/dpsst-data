@@ -3,12 +3,18 @@ header_record:
   name: Johnston, Joshua A.
   dpsst_identifier: '60291'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/1/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 12/2/2022
   agency: Portland Police Bureau
   action: LOA
@@ -27,7 +33,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 3/11/2021
-  expiration_date: ''
+  expiration_date: 8/1/2024
   probation_date: ''
 training_records:
 - date: 11/29/2022
@@ -1225,8 +1231,4 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/4/2019
   expiration_date: ''
-- topic: Maintenance Requirements
-  value: First Aid/CPR Required
-  effective_date: 1/1/1900
-  expiration_date: 1/24/2024
 education_records: []

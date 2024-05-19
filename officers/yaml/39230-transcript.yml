@@ -93,10 +93,16 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 5/21/2024
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
+- date: 5/13/2024
+  course: 24-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
+- date: 5/10/2024
+  course: MISCMAIN
+  title: 2024 LE Leadership 3 Year Maintenance
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 4/25/2024
@@ -4312,6 +4318,10 @@ training_records:
   score: '0.0'
   hours: '2.00'
 attribute_records:
+- topic: Maintenance Requirements
+  value: LE Leadership 3 Year
+  effective_date: 1/1/2025
+  expiration_date: 12/31/2027
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 1/11/2024
@@ -4323,7 +4333,7 @@ attribute_records:
 - topic: Maintenance Requirements
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
-  expiration_date: 12/31/2024
+  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/29/2003

@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2024
+  course: PDP0779A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/4/2024
   course: PDP0270A
   title: 2024 Axon Taser 7 Instructor Course
@@ -123,6 +129,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 1/9/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 1/9/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 11/14/2023
   course: PDP1456A
   title: 2023 PPB Honor Guard 21 Gun/Rifle IS

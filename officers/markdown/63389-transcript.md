@@ -16,11 +16,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/3/2024 | Police Officer | Basic | App InProc |  |  | 4/27/2024 |
+| 5/7/2024 | Police Officer | Basic | Granted | 5/7/2024 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 3/20/2024 |  |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 2/20/2023 |  |
 | Certification Cards | First Aid and CPR | 2/15/2023 | 2/15/2025 |
 ## Education
@@ -35,6 +37,8 @@
 | 2/12/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/12/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/12/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
+| 1/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 1/9/2024 | PDP3990A | 2024-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 1/2/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 12/31/2023 | PDP2917A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 12/31/2023 | PDP3126A | Annual CIU NTR Alarm Response Training - Reed | Passed | 0.0 | 0.25 |

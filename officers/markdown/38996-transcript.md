@@ -5,13 +5,14 @@
 | dpsst_identifier | 38996 |
 | agency | Portland Police Bureau |
 | employment_status | Active |
-| rank | Assistant Chief |
+| rank | Commander |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 4/25/2024 | Portland Police Bureau | Demotion | Commander |  |  |
 | 10/13/2022 | Portland Police Bureau | Promotion | Asst Chief |  |  |
 | 2/14/2019 | Portland Police Bureau | Promotion | Commander |  |  |
 | 9/1/2016 | Portland Police Bureau | Promotion | Captain |  |  |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/8/2024 | VND3366A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |
 | 1/12/2024 | OAC1165A | Case Study on Safeway Active Shooter | Passed | 0.0 | 2.50 |

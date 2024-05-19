@@ -48,7 +48,7 @@
 | 3/27/2024 | OCS2743A | Take downs/Ground Offense | Passed | 0.0 | 1.00 |
 | 3/26/2024 | OCS2678A | CCITF DTs | Passed | 0.0 | 2.00 |
 | 3/19/2024 | OCS0115A | Drawing from concealment, marksmanship | Passed | 0.0 | 4.00 |
-| 3/1/2024 | OCS2383A | First Aid CPR | Passed | 0.0 | 6.00 |
+| 3/1/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 6.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 2/20/2024 | OCS0994A | Speed from Concealment, Marksmanship, Cover | Passed | 0.0 | 3.00 |

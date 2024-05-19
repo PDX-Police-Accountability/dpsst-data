@@ -57,6 +57,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: PDS2993A
+  title: Red Dot Optic Transition Course
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
+- date: 4/16/2024
+  course: PDS0997A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/1/2024
+  course: PDS0299A
+  title: LE Range
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/27/2024
   course: PDS0168A
   title: LE Range IDC

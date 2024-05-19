@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 3/18/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/14/2024 | PDP0644A | 2024 Training RegJIN RMS/MRE Training | Passed | 0.0 | 15.00 |
 | 3/12/2024 | PDP1254A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 3/6/2024 | PDP2685A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |

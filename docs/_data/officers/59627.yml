@@ -31,12 +31,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/25/2024
+  course: PDP3663A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/10/2024
   course: PDP2202A
   title: 2024 K-9 (K9) Weekly Training
   status: Passed
   score: '0.0'
   hours: '3.00'
+- date: 3/13/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/13/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/13/2024
+  course: PDP3653A
+  title: 2024-1 Range Qual 40mm Less Lethal Qualification
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/27/2024
   course: PDP1287A
   title: 2024-1 All Sworn In-Service PVO High Speed Lapping
@@ -49,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 1/26/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/18/2024
   course: PDP1335A
   title: 2024 PVO Inservice Instructor Orientation

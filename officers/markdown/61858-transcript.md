@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/2/2024 | MFN2715A | DOC 400 OMS Tips and Tricks | Passed | 0.0 | 1.00 |
 | 3/28/2024 | MFN3676A | Firearms: Combative Shooting Basics | Passed | 0.0 | 2.50 |
 | 3/8/2024 | MFN4241A | Firearms: Quals | Passed | 0.0 | 0.50 |
 | 2/21/2024 | MFN3303A | Defensive Tactics: Handcuffing | Passed | 0.0 | 2.00 |

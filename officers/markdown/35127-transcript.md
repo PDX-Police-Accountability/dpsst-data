@@ -40,8 +40,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2024 | SAG1622A | Preventing Active Shooters in Schools | Passed | 0.0 | 1.00 |
+| 4/25/2024 | SAG1580A | Firearms training | Passed | 0.0 | 2.00 |
+| 4/22/2024 | SAG1736A | Extortion  Infiltration - Ransomeware | Passed | 0.0 | 1.00 |
+| 4/18/2024 | SAG4151A | Digital License Plates | Passed | 0.0 | 1.00 |
+| 4/17/2024 | SAG3613A | Public Records Retention | Passed | 0.0 | 1.00 |
 | 3/4/2024 | SAG0046A | How Money Actually Moves | Passed | 0.0 | 1.50 |
 | 3/4/2024 | SAG3861A | Shot in the Dark: Cold Case Homicide | Passed | 0.0 | 2.00 |
+| 2/7/2024 | SAG2935A | SSA FY 2024 Info Security  Privacy Awareness | Passed | 0.0 | 1.00 |
 | 2/5/2024 | SAG3321A | LEDS/CJIS Certification Renewal | Passed | 0.0 | 1.50 |
 | 2/5/2024 | SAG3575A | LEDS/CJIS Certification Renewal | Passed | 0.0 | 1.50 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

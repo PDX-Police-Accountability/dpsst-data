@@ -31,12 +31,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2024
+  course: PDP1247A
+  title: 2024 SERT Training - CLASSROOM
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/25/2024
+  course: PDP4113A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 4/12/2024
+  course: PDP0779A
+  title: 2023 PPB Honor Guard In Service Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 3/28/2024
   course: PDP2670A
   title: 2024 SERT Training - FIREARMS
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/28/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/28/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2024
   course: PDP2707A
   title: 2024 SERT Training - SCENARIO
@@ -76,6 +106,24 @@ training_records:
 - date: 2/15/2024
   course: PDP2811A
   title: 2023 Behavioral Health Unit Referrals
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/14/2024
+  course: PDP2239A
+  title: 2024-1 Range Qualification Shotgun
+  status: Passed
+  score: '0.0'
+  hours: '0.25'
+- date: 2/14/2024
+  course: PDP3618A
+  title: 2024-1 Range Qual Secondary Firearm (50 Rd)
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/14/2024
+  course: PDP0088A
+  title: 2024-1 Range Qualification Shotgun Function Check
   status: Passed
   score: '0.0'
   hours: '0.25'

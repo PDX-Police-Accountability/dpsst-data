@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/24/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/11/2024
   course: PDP1977A
   title: 2024 Standardized Field Sobriety Test Refresher
@@ -56,12 +62,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/5/2024
+  course: PDP0641A
+  title: DUII  DRE/DECP Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 4/3/2024
   course: OSH0972A
   title: 2024 DRE Confernce
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 3/20/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/22/2024
   course: REG3588A
   title: 2024 Police Traffic Safety Conference

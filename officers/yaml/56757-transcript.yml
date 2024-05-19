@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/3/2024
+  course: PPP3402A
+  title: Taser 7 New Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 2/2/2024
   course: PSU4473A
   title: National FOP Conference 2024

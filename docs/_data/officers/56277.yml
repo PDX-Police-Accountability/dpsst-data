@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2024
+  course: CAP3627A
+  title: Defensive Tactics/Arrest, handcuffing  search
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/24/2024
   course: CAP0909A
   title: Taser / 40mm Use of Force Training

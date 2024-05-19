@@ -46,6 +46,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/1/2024 | HBS0127A | 2024 April ACAP | Passed | 0.0 | 2.00 |
+| 5/1/2024 | HBS2468A | 2024 April ADA Patrol | Passed | 0.0 | 1.00 |
+| 5/1/2024 | HBS4093A | 2024 April Personnel Guidelines  SH | Passed | 0.0 | 1.00 |
+| 5/1/2024 | HBS2269A | 2024 April De-Escalation | Passed | 0.0 | 1.50 |
+| 5/1/2024 | HBS2222A | 2024 April Defensive Tools  EVO | Passed | 0.0 | 1.50 |
 | 3/1/2024 | HBS0369A | 2024 February PREA | Passed | 0.0 | 0.50 |
 | 3/1/2024 | HBS4353A | 2024 February DEI | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS4232A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |

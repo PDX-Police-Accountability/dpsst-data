@@ -98,6 +98,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/6/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/2/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 2/1/2024
   course: PDP0185A
   title: Western States Public Order Conference

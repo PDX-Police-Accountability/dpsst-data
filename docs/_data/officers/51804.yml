@@ -57,6 +57,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 3/10/2024
+  course: PDP1617A
+  title: 2024-1 Range Qualification AR-15 Qualification (20
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 3/10/2024
+  course: PDP3609A
+  title: 2024-1 Range Qualification Primary Firearm
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 3/7/2024
   course: PDP4005A
   title: 2024 Air Support Unit (ASU) Monthly Training
@@ -87,6 +99,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/2/2024
+  course: PDP0335A
+  title: 2024 ECIT In-Service
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 1/8/2024
   course: PDP1518A
   title: 2023 DIR 0630.05 Vehicle Interventions and Pursuit

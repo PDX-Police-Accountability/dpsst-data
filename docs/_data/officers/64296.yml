@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 3/29/2024
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Failed
+  score: '0.0'
+  hours: '0.00'
 - date: 3/6/2024
   course: REG2525A
   title: DID-SFST (Hours included in Basic)
@@ -41,12 +47,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 11/13/2023
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Withdrew
-  score: '0.0'
-  hours: '640.00'
 - date: 11/9/2023
   course: PDP1707A
   title: ICS-100 Intro to the Incident Cmmnd System

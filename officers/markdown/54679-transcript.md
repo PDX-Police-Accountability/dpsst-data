@@ -26,9 +26,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 4/22/2024 | 4/22/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
-| Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
+| Maintenance Requirements | LE Annual | 1/1/2024 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 7/1/2022 |  |
 | Code of Ethics | Law Enforcement Signed | 2/24/2020 |  |
 | Code of Ethics | Signed | 5/15/2016 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/30/2024 | MLP0207A | Ethics  Code of Conduct | Passed | 0.0 | 1.00 |
 | 4/22/2024 | MLP3862A | Adult/Child/Infant First AID, CPR AED | Passed | 0.0 | 3.00 |
 | 4/5/2024 | WBP2170A | HANDGUN INSTRUCTOR DEVELOPMENT COURSE | Passed | 0.0 | 40.00 |

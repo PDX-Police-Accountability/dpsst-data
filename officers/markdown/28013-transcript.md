@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/29/2024 | PSU0921A | Adult  Pediatric First Aid/CPR/AED | Passed | 0.0 | 8.00 |
 | 4/2/2024 | PSU0415A | Use of Less Lethal Force/Less Lethal Options | Passed | 0.0 | 0.00 |
 | 4/2/2024 | PSU1333A | Ambush Awareness/Preparation | Passed | 0.0 | 0.00 |
 | 4/2/2024 | PSU2067A | Firearms Tactics | Passed | 0.0 | 0.00 |

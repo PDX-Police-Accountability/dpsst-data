@@ -80,14 +80,32 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/8/2024
+  course: PDS1401A
+  title: LE Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 3/27/2024
+  course: PDS3063A
+  title: Missing/Vulnerable Persons
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/14/2024
   course: PDS0489A
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
+- date: 2/14/2024
+  course: PDS2543A
   title: Enhanced Tactical Medicine
   status: Passed
   score: '0.0'

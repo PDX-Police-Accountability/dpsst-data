@@ -36,6 +36,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 3/28/2024
+  course: PDP0545A
+  title: 2024 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/21/2024
   course: PDP4366A
   title: CPR/First Aid

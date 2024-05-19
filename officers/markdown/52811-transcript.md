@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/30/2024 | PDS2993A | Red Dot Optic Transition Course | Instructed | 0.0 | 16.00 |
+| 4/16/2024 | PDS0997A | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 4/1/2024 | PDS0299A | LE Range | Instructed | 0.0 | 2.00 |
 | 3/27/2024 | PDS0168A | LE Range IDC | Passed | 0.0 | 3.00 |
 | 3/26/2024 | PDS1794A | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 3/21/2024 | PDS3394A | Officer Down/Citizen Rescue | Passed | 0.0 | 4.00 |

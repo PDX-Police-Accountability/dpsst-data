@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2024 | WLP0560A | Establishing Stronger Community Relationships | Passed | 0.0 | 1.00 |
 | 4/19/2024 | OAC0500A | Honoring the Badge: Understand/Avoid Ethical Pit | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC1042A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 2.00 |
 | 4/18/2024 | OAC0321A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |
