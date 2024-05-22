@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/9/2024 | STS0146A | Low Light Firearms Training | Passed | 0.0 | 4.00 |
 | 3/4/2024 | STS1103A | Glock 47 RDS Transition Course  Qualification | Passed | 0.0 | 16.00 |
 | 2/21/2024 | STS0097A | Glock 47 RDS Transition Classroom training | Passed | 0.0 | 2.00 |

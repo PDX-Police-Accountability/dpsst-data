@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2024
+  course: PDP3669A
+  title: WSNIA Training Summit
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 4/5/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
@@ -141,6 +147,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 10/25/2023
+  course: PDP0331A
+  title: NATIA NW Chapter Training  Exhibition
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 10/18/2023
   course: PDP3873A
   title: 2023 CNT Crisis Negotiation Team Annual Training

@@ -50,6 +50,7 @@
 | 2/15/2024 | PDP3761A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 2/14/2024 | PDS0489A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 2/14/2024 | PDS2543A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
+| 2/14/2024 | PDP2922A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 2/8/2024 | PDP0488A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 2/1/2024 | PDP3769A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 1/25/2024 | PDP2633A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

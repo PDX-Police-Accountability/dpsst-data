@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/9/2024
+  course: PDP0598A
+  title: IAATI Carfax VIN  Temp Tag Fraud Trng
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 2/29/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

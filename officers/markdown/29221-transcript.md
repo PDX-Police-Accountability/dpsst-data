@@ -47,6 +47,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/18/2024 | OAC2080A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC3365A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 1.50 |
 | 4/17/2024 | OAC3212A | Catching Hell | Passed | 0.0 | 6.00 |

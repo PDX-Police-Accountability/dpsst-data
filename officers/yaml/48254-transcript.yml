@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/5/2024
+  course: PDP0274A
+  title: DUII  DRE/DECP Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 4/3/2024
   course: OSH0972A
   title: 2024 DRE Confernce

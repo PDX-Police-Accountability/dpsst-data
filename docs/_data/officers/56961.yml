@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 12/5/2023
+  course: PDP1799A
+  title: Defense Technology Monadnock PR-24 Instructor
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 11/17/2023
   course: MISCMAIN
   title: 2023 LE Basic 3 Year Maintenance

@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/9/2024
+  course: OAC4489A
+  title: 'HB 4002: Implementation  Training Symposium'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 4/9/2024
   course: STS0146A
   title: Low Light Firearms Training

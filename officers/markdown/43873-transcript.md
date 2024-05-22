@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/10/2024 | VND3020A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 4/9/2024 | PDP0598A | IAATI Carfax VIN  Temp Tag Fraud Trng | Passed | 0.0 | 1.50 |
 | 2/29/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
 | 1/26/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 1/26/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

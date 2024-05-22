@@ -44,6 +44,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '3.00'
+- date: 4/26/2024
+  course: PDP0823A
+  title: LEIU/IALEIA Annual Training Event
+  status: Passed
+  score: '0.0'
+  hours: '36.00'
 - date: 4/10/2024
   course: PDP2996A
   title: 2024 MEDU Weekly Training

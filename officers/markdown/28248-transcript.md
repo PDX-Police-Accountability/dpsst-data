@@ -49,6 +49,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/21/2024 | PDP2087A | FEMA L0105 Public Information Basics | Passed | 0.0 | 24.00 |
 | 3/8/2024 | PDP0732A | OEM L0103 Planning - Emergency Operations | Passed | 0.0 | 16.00 |
 | 3/6/2024 | PDP3719A | OEM L0102 Science for Disasters | Passed | 0.0 | 24.00 |
 | 2/20/2024 | VND4088A | 0956 NIMS ICS All-Hazards Liaison Officer Course | Passed | 0.0 | 16.00 |

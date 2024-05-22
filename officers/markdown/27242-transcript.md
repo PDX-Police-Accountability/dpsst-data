@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/18/2024 | OAC0321A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |
 | 4/16/2024 | OAC4422A | Critical Issue Briefing HB 4002 | Passed | 0.0 | 1.00 |
 | 4/16/2024 | OAC2651A | Advice for New Chiefs | Passed | 0.0 | 1.00 |

@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.00 |
+| 4/26/2024 | PDP0823A | LEIU/IALEIA Annual Training Event | Passed | 0.0 | 36.00 |
 | 4/10/2024 | PDP2996A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 4/9/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 4/9/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

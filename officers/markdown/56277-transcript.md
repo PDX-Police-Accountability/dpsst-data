@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2024 | CAP1235A | Handgun Reload / Malfunctions | Instructed | 0.0 | 8.00 |
 | 5/6/2024 | CAP3627A | Defensive Tactics/Arrest, handcuffing  search | Passed | 0.0 | 4.00 |
 | 4/24/2024 | CAP0909A | Taser / 40mm Use of Force Training | Passed | 0.0 | 3.00 |
 | 4/4/2024 | CAP2967A | Rifle Qualifications - Fundamentals | Passed | 0.0 | 2.00 |

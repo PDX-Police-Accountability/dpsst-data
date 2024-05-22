@@ -46,33 +46,33 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 2/15/2020
+  certificate: Parole  Probation Officer
+  level: Basic
+  status: Expired
+  certificate_date: 9/21/1999
+  expiration_date: ''
+  probation_date: ''
 - status_date: 10/19/2019
   certificate: Police Officer
   level: Advanced
   status: Lapsed
   certificate_date: 3/18/2010
-  expiration_date: ''
+  expiration_date: 7/19/2024
   probation_date: ''
 - status_date: 10/19/2019
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 10/11/2001
-  expiration_date: ''
+  expiration_date: 7/19/2024
   probation_date: ''
 - status_date: 10/19/2019
   certificate: Police Officer
   level: Intermediate
   status: Lapsed
   certificate_date: 3/18/2010
-  expiration_date: ''
-  probation_date: ''
-- status_date: 10/21/2000
-  certificate: Parole  Probation Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 9/21/1999
-  expiration_date: ''
+  expiration_date: 7/19/2024
   probation_date: ''
 training_records:
 - date: 6/25/2019

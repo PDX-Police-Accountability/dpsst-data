@@ -50,6 +50,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/9/2024
+  course: PDP0598A
+  title: IAATI Carfax VIN  Temp Tag Fraud Trng
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 3/7/2024
   course: PDP4005A
   title: 2024 Air Support Unit (ASU) Monthly Training

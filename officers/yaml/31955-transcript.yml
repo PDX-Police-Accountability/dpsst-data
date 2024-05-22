@@ -108,6 +108,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2024
+  course: CAP1235A
+  title: Handgun Reload / Malfunctions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/6/2024
   course: CAP3627A
   title: Defensive Tactics/Arrest, handcuffing  search

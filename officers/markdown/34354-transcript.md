@@ -50,6 +50,7 @@
 | 11/16/2023 | PDP4041A | 2023 NTOA Crisis Negotiations Conference | Passed | 0.0 | 32.00 |
 | 11/9/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 11/9/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
+| 10/25/2023 | PDP0331A | NATIA NW Chapter Training  Exhibition | Passed | 0.0 | 20.00 |
 | 10/18/2023 | PDP3873A | 2023 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 9.00 |
 | 10/14/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 10/14/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 2.50 |
