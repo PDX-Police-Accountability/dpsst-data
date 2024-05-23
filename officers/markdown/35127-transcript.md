@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | SAG3723A | New Approaches to Tech Crime Scene Analysis | Passed | 0.0 | 1.50 |
 | 4/30/2024 | SAG1622A | Preventing Active Shooters in Schools | Passed | 0.0 | 1.00 |
 | 4/25/2024 | SAG1580A | Firearms training | Passed | 0.0 | 2.00 |
 | 4/22/2024 | SAG1736A | Extortion  Infiltration - Ransomeware | Passed | 0.0 | 1.00 |

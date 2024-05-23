@@ -66,8 +66,15 @@
 | 3/21/2024 | REG1216A | Use of Force 3 (Basic Police) | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG4471A | Bias Crimes (Basic Police) | Passed | 0.0 | 2.00 |
 | 3/21/2024 | REG0687A | Airway and Circulatory Anatomy and Physiology | Passed | 0.0 | 1.00 |
+| 3/15/2024 | BPT3381A | Resiliency | Passed | 0.0 | 2.00 |
+| 3/15/2024 | BPT4167A | Stereotype Threat | Passed | 0.0 | 2.00 |
+| 3/15/2024 | BPT0491A | Coaching and Feedback | Passed | 0.0 | 2.00 |
+| 3/15/2024 | BPT1191A | Equitable Policing | Passed | 0.0 | 2.00 |
+| 3/14/2024 | BPT0828A | Outward Mindset | Passed | 0.0 | 8.00 |
+| 3/13/2024 | BPT2608A | Coaching and Feedback | Passed | 0.0 | 8.00 |
 | 3/12/2024 | BPT1620A | Facilitator Development | Passed | 0.0 | 8.00 |
 | 3/11/2024 | M00-19A | DPSST Adult Learning Core | Passed | 0.0 | 2.00 |
+| 3/11/2024 | BPT2887A | Adult Learning | Passed | 0.0 | 6.00 |
 | 3/8/2024 | REG1137A | Airway and Circulatory Anatomy and Physiology | Passed | 0.0 | 2.00 |
 | 3/7/2024 | REG2554A | Use of Force 8 (Basic Police) | Passed | 0.0 | 2.00 |
 | 9/14/2023 | JDN1031A | Firearms Qualifications | Passed | 0.0 | 0.50 |

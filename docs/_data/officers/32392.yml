@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2024
+  course: TGP3743A
+  title: Cellebrite Certified Operator  Physical Analyst
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/30/2024
   course: HUP1887A
   title: Sexual Assault Response Training / Investigation

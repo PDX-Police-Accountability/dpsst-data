@@ -123,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 10/31/2023
+  course: PDP2546A
+  title: Supreme Court Legal Update
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 10/30/2023
   course: PDP1153A
   title: 2023 Behavioral Health Unit Referrals
@@ -195,6 +201,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 9/12/2023
+  course: PDP2102A
+  title: Supervisor Program Continuing Education
+  status: Passed
+  score: '0.0'
+  hours: '8.25'
 - date: 9/4/2023
   course: PDP2242A
   title: 2023 Body-Worn Camera Axon User Training

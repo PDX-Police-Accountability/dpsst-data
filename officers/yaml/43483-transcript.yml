@@ -64,6 +64,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/25/2024
+  course: PDP2805A
+  title: First Responder Resource Group Annual Meeting
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 3/14/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20

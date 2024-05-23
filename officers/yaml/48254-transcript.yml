@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2024
+  course: BPT2845A
+  title: SFST Instructor Development Course
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
 - date: 4/5/2024
   course: F6R2630A
   title: DUII Multi-Disciplinary Task Force

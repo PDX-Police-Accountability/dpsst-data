@@ -44,8 +44,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | EGP1278A | Leadership #7: Navigating Change | Passed | 0.0 | 1.50 |
+| 5/15/2024 | EGP3120A | Eugene Airport Emergency Incident Command Tabletop | Passed | 0.0 | 2.00 |
 | 5/13/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 5/10/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/9/2024 | EGP0531A | Leadership #6: Managing Workplace Difference | Passed | 0.0 | 1.50 |
 | 4/25/2024 | EGP2005A | Leadership 4: Finding Paths Through Conflict | Passed | 0.0 | 1.50 |
 | 4/24/2024 | EGP2319A | Essentials of Situational Leadership | Passed | 0.0 | 16.00 |
 | 4/18/2024 | EGP1827A | Leadership 3: Positive Communication Team Build | Passed | 0.0 | 1.50 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/2/2024
+  course: PDP3814A
+  title: RISS Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '27.50'
 - date: 3/19/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20

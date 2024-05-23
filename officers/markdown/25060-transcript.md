@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/3/2024 | WBP2821A | EDP Video Training and Debriefs | Passed | 0.0 | 0.50 |
 | 4/2/2024 | WBP0081A | Leadership Development Program | Passed | 0.0 | 3.00 |
 | 3/31/2024 | WBP1007A | WPD Firearms Q1 Qualifications | Passed | 0.0 | 0.50 |
 | 3/24/2024 | WBP2934A | Foot Pursuit Video Training/Debriefs | Passed | 0.0 | 0.50 |

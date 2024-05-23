@@ -238,6 +238,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/15/2024
+  course: BPT3381A
+  title: Resiliency
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/15/2024
+  course: BPT4167A
+  title: Stereotype Threat
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/15/2024
+  course: BPT0491A
+  title: Coaching and Feedback
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/15/2024
+  course: BPT1191A
+  title: Equitable Policing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/14/2024
+  course: BPT0828A
+  title: Outward Mindset
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 3/13/2024
+  course: BPT2608A
+  title: Coaching and Feedback
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 3/12/2024
   course: BPT1620A
   title: Facilitator Development
@@ -250,6 +286,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/11/2024
+  course: BPT2887A
+  title: Adult Learning
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/8/2024
   course: REG1137A
   title: Airway and Circulatory Anatomy and Physiology

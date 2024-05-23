@@ -34,6 +34,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/7/2024 | PDP2738A | Intox 8000 - Regional | Instructed | 0.0 | 6.00 |
+| 4/2/2024 | PDP2716A | CDR Tool Technician Training | Passed | 0.0 | 24.00 |
 | 3/21/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 3/21/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/1/2024 | PDP1188A | RADAR/LIDAR Operator | Instructed | 0.0 | 6.00 |

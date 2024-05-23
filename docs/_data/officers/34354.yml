@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2024
+  course: PDP2865A
+  title: WSNIA Training Summit
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
+- date: 3/24/2024
+  course: PDP0287A
+  title: Concealed Pistol Applications
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/8/2024
   course: PDP2445A
   title: Vehicle Close Quarters Battle Instructor

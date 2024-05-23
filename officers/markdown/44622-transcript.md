@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2024 | OSH2348A | Firearms Inservice 2024 | Passed | 0.0 | 24.00 |
 | 4/27/2024 | OSH1601A | OSP Post Academy Active Threat Response | Instructed | 0.0 | 4.00 |
 | 4/26/2024 | OSH4157A | OSP Active Threat Response Training | Instructed | 0.0 | 8.00 |
 | 4/25/2024 | OSH0070A | OSP Active Threat Response Training | Instructed | 0.0 | 8.00 |

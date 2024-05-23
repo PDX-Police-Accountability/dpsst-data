@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/10/2024 | PDP2865A | WSNIA Training Summit | Passed | 0.0 | 26.00 |
+| 3/24/2024 | PDP0287A | Concealed Pistol Applications | Passed | 0.0 | 16.00 |
 | 3/8/2024 | PDP2445A | Vehicle Close Quarters Battle Instructor | Passed | 0.0 | 40.00 |
 | 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/18/2024 | PDP3989A | Combative Pistol Course | Passed | 0.0 | 16.00 |

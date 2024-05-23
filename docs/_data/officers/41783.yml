@@ -44,6 +44,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2024
+  course: VND2753A
+  title: Strangulation Recognition and Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/21/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
