@@ -56,6 +56,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/6/2024
+  course: PSU0447A
+  title: Officer Survival 1/2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/5/2024
+  course: PSU0525A
+  title: ALERRT Room Entry
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/29/2024
   course: PSU0921A
   title: Adult  Pediatric First Aid/CPR/AED

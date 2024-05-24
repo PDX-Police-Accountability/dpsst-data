@@ -79,6 +79,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/6/2024
+  course: PSU0447A
+  title: Officer Survival 1/2
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/29/2024
   course: PSU0921A
   title: Adult  Pediatric First Aid/CPR/AED

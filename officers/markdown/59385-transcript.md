@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2024 | PSU0447A | Officer Survival 1/2 | Passed | 0.0 | 2.00 |
+| 5/5/2024 | PSU0525A | ALERRT Room Entry | Passed | 0.0 | 1.00 |
 | 4/29/2024 | PSU0921A | Adult  Pediatric First Aid/CPR/AED | Passed | 0.0 | 8.00 |
 | 3/12/2024 | PSU3745A | MILO 3000 Use of Force scenarios | Instructed | 0.0 | 1.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |

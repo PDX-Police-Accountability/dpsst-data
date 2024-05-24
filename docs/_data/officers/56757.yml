@@ -49,12 +49,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/15/2024
+  course: PPP1761A
+  title: CPR/First Aid/AED
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/3/2024
   course: PPP3402A
   title: Taser 7 New Operator Course
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/2/2024
+  course: PPP3017A
+  title: Diversity in the Workplace
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/1/2024
+  course: PPP1624A
+  title: Airway  Circulatory Crisis Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/2/2024
   course: PSU4473A
   title: National FOP Conference 2024
@@ -698,6 +716,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/15/2024
+  expiration_date: 3/8/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

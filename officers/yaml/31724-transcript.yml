@@ -105,6 +105,240 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/10/2024
+  course: BNS2150A
+  title: Introduction to CAD
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/10/2024
+  course: BNS2141A
+  title: Active Threat
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/10/2024
+  course: BNS2471A
+  title: High Risk Vehicle Stops
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/9/2024
+  course: BNS3218A
+  title: Suicide Prevention CIT
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/6/2024
+  course: BNS2856A
+  title: EVOC
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/6/2024
+  course: BNS3057A
+  title: Armor Rescue Vehicles Operation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/3/2024
+  course: BNS1040A
+  title: Ethics
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/3/2024
+  course: BNS2265A
+  title: Intro to Civil
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/3/2024
+  course: BNS0496A
+  title: Intro to Evidence
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/3/2024
+  course: BNS0340A
+  title: Mechanical Breaching
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/29/2024
+  course: BNS0715A
+  title: Transport and Sure Lock Restraints
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/26/2024
+  course: BNS2341A
+  title: First Aid CPR AED Narcan Epi Pen
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/26/2024
+  course: BNS1665A
+  title: TCCC
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/22/2024
+  course: BNS3682A
+  title: WRAP Restraint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/22/2024
+  course: BNS3014A
+  title: Threat Assessment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/22/2024
+  course: BNS2211A
+  title: Emergency Restraint Chair
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/22/2024
+  course: BNS3537A
+  title: Hobble Restraint
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/22/2024
+  course: BNS0602A
+  title: Intro to Police K9
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 4/17/2024
+  course: BNS0834A
+  title: Active Threat ICS
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2024
+  course: BNS3565A
+  title: In Custody Deaths
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2024
+  course: BNS0802A
+  title: Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/17/2024
+  course: BNS3044A
+  title: PREA
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/15/2024
+  course: BNS3466A
+  title: 40 mm Launcher
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2024
+  course: BNS1712A
+  title: TASER 7 CQ
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 4/12/2024
+  course: BNS0888A
+  title: De escalation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/11/2024
+  course: BNS2297A
+  title: Handgun and Rifle Range
+  status: Passed
+  score: '0.0'
+  hours: '48.00'
+- date: 4/9/2024
+  course: BNS1002A
+  title: Arrest and Control
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
+- date: 4/8/2024
+  course: BNS3543A
+  title: Complaint and High Risk Handcuffing
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/8/2024
+  course: BNS1076A
+  title: Pistol and rifle familiarization and fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/8/2024
+  course: BNS3229A
+  title: Vehicle Extractions
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/8/2024
+  course: BNS2799A
+  title: Sabre OC
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/8/2024
+  course: BNS1325A
+  title: Building Search fundamentals
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/5/2024
+  course: BNS1708A
+  title: Explandable Baton
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/5/2024
+  course: BNS3798A
+  title: Off Duty Carry
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/5/2024
+  course: BNS2039A
+  title: Pepperball
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/5/2024
+  course: BNS4486A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/4/2024
+  course: BNS1656A
+  title: County Orientation
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 4/2/2024
+  course: BNS2982A
+  title: Deputy Survival
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/2/2024
+  course: BNS3679A
+  title: Health and Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/12/2023
   course: PDP3424A
   title: 2023 Traffic Monthly Training
@@ -4480,6 +4714,10 @@ training_records:
   score: '0.0'
   hours: '250.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/26/2024
+  expiration_date: 4/26/2024
 - topic: Certification Cards
   value: First Aid and CPR
   effective_date: 4/25/2023

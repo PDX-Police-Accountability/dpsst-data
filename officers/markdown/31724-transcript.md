@@ -31,6 +31,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/26/2024 | 4/26/2024 |
 | Certification Cards | First Aid and CPR | 4/25/2023 | 4/25/2025 |
 | Code of Ethics | Signed | 2/2/2009 |  |
 ## Education
@@ -43,6 +44,45 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/13/2024 | BNS4075A | Narcotics recognition and Search and Seizure | Passed | 0.0 | 2.00 |
 | 5/13/2024 | BNS2976A | Breaching, Vehicle pins, High risk veh stops | Passed | 0.0 | 2.00 |
+| 5/10/2024 | BNS2150A | Introduction to CAD | Passed | 0.0 | 4.00 |
+| 5/10/2024 | BNS2141A | Active Threat | Passed | 0.0 | 4.00 |
+| 5/10/2024 | BNS2471A | High Risk Vehicle Stops | Passed | 0.0 | 4.00 |
+| 5/9/2024 | BNS3218A | Suicide Prevention CIT | Passed | 0.0 | 8.00 |
+| 5/6/2024 | BNS2856A | EVOC | Passed | 0.0 | 8.00 |
+| 5/6/2024 | BNS3057A | Armor Rescue Vehicles Operation | Passed | 0.0 | 8.00 |
+| 5/3/2024 | BNS1040A | Ethics | Passed | 0.0 | 2.00 |
+| 5/3/2024 | BNS2265A | Intro to Civil | Passed | 0.0 | 1.00 |
+| 5/3/2024 | BNS0496A | Intro to Evidence | Passed | 0.0 | 1.00 |
+| 5/3/2024 | BNS0340A | Mechanical Breaching | Passed | 0.0 | 2.00 |
+| 4/29/2024 | BNS0715A | Transport and Sure Lock Restraints | Passed | 0.0 | 2.00 |
+| 4/26/2024 | BNS2341A | First Aid CPR AED Narcan Epi Pen | Passed | 0.0 | 4.00 |
+| 4/26/2024 | BNS1665A | TCCC | Passed | 0.0 | 4.00 |
+| 4/22/2024 | BNS3682A | WRAP Restraint | Passed | 0.0 | 1.00 |
+| 4/22/2024 | BNS3014A | Threat Assessment | Passed | 0.0 | 1.00 |
+| 4/22/2024 | BNS2211A | Emergency Restraint Chair | Passed | 0.0 | 1.00 |
+| 4/22/2024 | BNS3537A | Hobble Restraint | Passed | 0.0 | 1.00 |
+| 4/22/2024 | BNS0602A | Intro to Police K9 | Passed | 0.0 | 1.50 |
+| 4/17/2024 | BNS0834A | Active Threat ICS | Passed | 0.0 | 1.00 |
+| 4/17/2024 | BNS3565A | In Custody Deaths | Passed | 0.0 | 1.00 |
+| 4/17/2024 | BNS0802A | Officer Involved Shootings | Passed | 0.0 | 1.00 |
+| 4/17/2024 | BNS3044A | PREA | Passed | 0.0 | 1.00 |
+| 4/15/2024 | BNS3466A | 40 mm Launcher | Passed | 0.0 | 2.00 |
+| 4/15/2024 | BNS1712A | TASER 7 CQ | Passed | 0.0 | 5.00 |
+| 4/12/2024 | BNS0888A | De escalation | Passed | 0.0 | 4.00 |
+| 4/11/2024 | BNS2297A | Handgun and Rifle Range | Passed | 0.0 | 48.00 |
+| 4/9/2024 | BNS1002A | Arrest and Control | Passed | 0.0 | 32.00 |
+| 4/8/2024 | BNS3543A | Complaint and High Risk Handcuffing | Passed | 0.0 | 2.00 |
+| 4/8/2024 | BNS1076A | Pistol and rifle familiarization and fundamentals | Passed | 0.0 | 4.00 |
+| 4/8/2024 | BNS3229A | Vehicle Extractions | Passed | 0.0 | 2.00 |
+| 4/8/2024 | BNS2799A | Sabre OC | Passed | 0.0 | 3.00 |
+| 4/8/2024 | BNS1325A | Building Search fundamentals | Passed | 0.0 | 3.00 |
+| 4/5/2024 | BNS1708A | Explandable Baton | Passed | 0.0 | 2.00 |
+| 4/5/2024 | BNS3798A | Off Duty Carry | Passed | 0.0 | 1.00 |
+| 4/5/2024 | BNS2039A | Pepperball | Passed | 0.0 | 2.00 |
+| 4/5/2024 | BNS4486A | Use of Force | Passed | 0.0 | 4.00 |
+| 4/4/2024 | BNS1656A | County Orientation | Passed | 0.0 | 8.00 |
+| 4/2/2024 | BNS2982A | Deputy Survival | Passed | 0.0 | 3.00 |
+| 4/2/2024 | BNS3679A | Health and Wellness | Passed | 0.0 | 2.00 |
 | 12/12/2023 | PDP3424A | 2023 Traffic Monthly Training | Passed | 0.0 | 6.00 |
 | 11/19/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 11/19/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

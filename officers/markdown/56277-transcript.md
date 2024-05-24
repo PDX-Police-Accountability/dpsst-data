@@ -32,6 +32,7 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 3/5/2018 |  |
 | Code of Ethics | Signed | 8/14/2016 |  |
+| Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 5/22/2024 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |

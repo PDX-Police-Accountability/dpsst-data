@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/10/2024
+  course: WBP0152A
+  title: Video Debrief - Clark County Ofc Involved Shooting
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 4/10/2024
+  course: WBP4406A
+  title: Dare to Be Great  What's Important Now
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/3/2024
   course: WBP2821A
   title: EDP Video Training and Debriefs

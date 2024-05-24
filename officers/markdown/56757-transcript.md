@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/15/2024 | 3/8/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 6/24/2022 | 6/24/2024 |
@@ -36,7 +37,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2024 | PPP1761A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 5/3/2024 | PPP3402A | Taser 7 New Operator Course | Passed | 0.0 | 8.00 |
+| 5/2/2024 | PPP3017A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
+| 5/1/2024 | PPP1624A | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |
 | 2/2/2024 | PSU4473A | National FOP Conference 2024 | Passed | 0.0 | 32.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

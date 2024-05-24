@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2024
+  course: STP2531A
+  title: Firearms Training and Use of Red Dot Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/20/2024
   course: STP4181A
   title: Policy Review - Employee Speech, Express, Etc.

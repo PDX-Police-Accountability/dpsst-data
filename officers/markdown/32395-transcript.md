@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/15/2024 | 3/8/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/9/2022 | 5/9/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -38,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2024 | PPP1761A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 4/26/2024 | PPP1683A | K9 Conference | Passed | 0.0 | 40.00 |
 | 3/31/2024 | PPP3048A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 2/20/2024 | PPP0233A | TIP Wellness | Passed | 0.0 | 0.30 |
