@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/7/2024 | Police Officer | Basic | App Recd |  |  | 3/22/2024 |
+| 5/23/2024 | Police Officer | Basic | App InProc |  |  | 3/22/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -34,7 +34,7 @@
 | 2/3/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/3/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/3/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
-| 1/11/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
+| 1/11/2024 | E11PDP19 | FTM Equivalency Review (Portland Police Bureau) | Completed | 0.0 | 50.00 |
 | 1/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 11/13/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |
