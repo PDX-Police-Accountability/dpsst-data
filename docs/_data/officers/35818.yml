@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2024
+  course: EGN3769A
+  title: Change Journal Training
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 5/7/2024
   course: PDP2738A
   title: Intox 8000 - Regional

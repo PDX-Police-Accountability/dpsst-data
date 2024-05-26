@@ -24,7 +24,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/8/2024 | Police Officer | Basic | App Recd |  |  | 9/14/2024 |
+| 5/24/2024 | Police Officer | Basic | App InProc |  |  | 9/14/2024 |
 | 12/26/2019 | Police Officer | Advanced | Lapsed | 10/20/1994 |  |  |
 | 12/26/2019 | Police Officer | Basic | Lapsed | 7/30/1987 |  |  |
 | 12/26/2019 | Police Officer | Intermediate | Lapsed | 2/11/1992 |  |  |
@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2024 | VND3182A | Infant  Child Death Investigations | Passed | 0.0 | 7.00 |
 | 4/16/2024 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |
 | 3/20/2024 | PDA0422A | Defensive Tactics / Use of Force | Passed | 0.0 | 3.00 |
 | 3/1/2024 | PDA3432A | Use of Radio Communications | Passed | 0.0 | 1.00 |

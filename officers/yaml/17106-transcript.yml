@@ -64,10 +64,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 5/8/2024
+- status_date: 5/24/2024
   certificate: Police Officer
   level: Basic
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: 9/14/2024
@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2024
+  course: VND3182A
+  title: Infant  Child Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/16/2024
   course: M11-19A
   title: DPSST Police Officer Field Training Manual

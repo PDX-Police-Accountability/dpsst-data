@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/17/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/8/2024 | PDP1013A | IS-242 Effective Communication | Passed | 0.0 | 8.00 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Passed | 0.0 | 3.00 |
 | 5/1/2024 | PDP2125A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 4/29/2024 | PDP3898A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |

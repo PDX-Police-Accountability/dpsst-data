@@ -44,6 +44,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/30/2024 | BBP1189A | First Aid/CPR/AED/Chest Seal Application | Passed | 0.0 | 1.50 |
+| 4/30/2024 | BBP3608A | Diabetic Emergencies | Passed | 0.0 | 1.00 |
+| 4/30/2024 | BBP1844A | Naloxone | Passed | 0.0 | 1.00 |
+| 4/30/2024 | BBP1110A | Opioid Crisis | Passed | 0.0 | 1.00 |
+| 3/31/2024 | BBP4228A | Airborne and Bloodbourne Pathogens | Passed | 0.0 | 1.00 |
+| 3/31/2024 | BBP3221A | Cyber Security | Passed | 0.0 | 1.00 |
+| 3/31/2024 | BBP4005A | De-escalation and Minimizing Use of Force | Passed | 0.0 | 1.00 |
 | 3/21/2024 | BBP2059A | Pistol Qualification and Tactical Range | Passed | 0.0 | 0.50 |
 | 3/21/2024 | BBP0222A | Rifle Qualification and Tactical Range | Passed | 0.0 | 0.50 |
 | 2/29/2024 | BBP0102A | Anti-Bias Training | Passed | 0.0 | 1.00 |

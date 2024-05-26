@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2024
+  course: VND3182A
+  title: Infant  Child Death Investigations
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 3/1/2024
   course: PDA3432A
   title: Use of Radio Communications

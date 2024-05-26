@@ -4,7 +4,7 @@
 | name | Medina, Gabriel F. |
 | dpsst_identifier | 61098 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,12 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/15/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 5/28/2020 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/11/2021 | Police Officer | Basic | Granted | 10/11/2021 |  |  |
+| 10/11/2021 | Police Officer | Basic | Granted | 10/11/2021 | 8/15/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

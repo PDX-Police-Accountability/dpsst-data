@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/13/2024 | Oregon City Police Department | Resigned | Police Off |  |  |
 | 4/19/2022 | Oregon City Police Department | Hired | Police Off |  |  |
 | 4/6/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/26/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
@@ -20,7 +21,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/11/2022 | Police Officer | Basic | Granted | 2/11/2022 |  |  |
+| 2/11/2022 | Police Officer | Basic | Granted | 2/11/2022 | 8/13/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

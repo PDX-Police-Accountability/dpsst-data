@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2024 | PPP0777A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
+| 5/22/2024 | PPP0916A | TruNarc Analyzer Basic Operator | Passed | 0.0 | 2.00 |
+| 5/22/2024 | PPP0488A | NIK Certification | Passed | 0.0 | 0.30 |
 | 5/15/2024 | PPP1761A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 5/3/2024 | PPP3402A | Taser 7 New Operator Course | Passed | 0.0 | 8.00 |
 | 5/2/2024 | PPP3017A | Diversity in the Workplace | Passed | 0.0 | 1.00 |

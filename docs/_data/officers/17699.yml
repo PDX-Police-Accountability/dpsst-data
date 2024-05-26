@@ -81,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/3/2024
+  course: VND2123A
+  title: OSMB Marine Law Enforcement Academy
+  status: Passed
+  score: '0.0'
+  hours: '72.00'
 - date: 5/26/2023
   course: BNS3875A
   title: Tactical Combat Casualty Care

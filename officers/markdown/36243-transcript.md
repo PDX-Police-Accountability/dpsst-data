@@ -45,6 +45,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2024 | HBS2171A | STRT (Stress Trauma Resiliency Team) Training | Passed | 0.0 | 8.00 |
 | 3/20/2024 | LOP2108A | West Metro Monthly Motor Training 03/20/2024 | Passed | 0.0 | 3.00 |
 | 3/1/2024 | HBS0517A | 2024 February ACAP | Passed | 0.0 | 2.00 |
 | 3/1/2024 | HBS3998A | 2024 February ADA Patrol | Passed | 0.0 | 1.00 |

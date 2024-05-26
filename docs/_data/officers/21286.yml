@@ -93,6 +93,42 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 4/30/2024
+  course: BBP3608A
+  title: Diabetic Emergencies
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2024
+  course: BBP1844A
+  title: Naloxone
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/30/2024
+  course: BBP1110A
+  title: Opioid Crisis
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2024
+  course: BBP4228A
+  title: Airborne and Bloodbourne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2024
+  course: BBP3221A
+  title: Cyber Security
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/31/2024
+  course: BBP4005A
+  title: De-escalation and Minimizing Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/21/2024
   course: BBP2059A
   title: Pistol Qualification and Tactical Range

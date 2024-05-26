@@ -49,6 +49,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2024
+  course: PPP0777A
+  title: Foundations in Ethics for LE
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/22/2024
+  course: PPP0916A
+  title: TruNarc Analyzer Basic Operator
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/22/2024
+  course: PPP0488A
+  title: NIK Certification
+  status: Passed
+  score: '0.0'
+  hours: '0.30'
 - date: 5/15/2024
   course: PPP1761A
   title: CPR/First Aid/AED

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/13/2024
+  agency: Oregon City Police Department
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 4/19/2022
   agency: Oregon City Police Department
   action: Hired
@@ -45,7 +51,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 2/11/2022
-  expiration_date: ''
+  expiration_date: 8/13/2024
   probation_date: ''
 training_records:
 - date: 4/25/2024

@@ -30,6 +30,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/8/2024
+  course: PDP1013A
+  title: IS-242 Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/2/2024
   course: PDP2984A
   title: 2024  FTEP HAZMAT/WMD Awareness

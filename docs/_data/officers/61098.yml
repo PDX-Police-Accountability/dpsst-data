@@ -3,12 +3,18 @@ header_record:
   name: Medina, Gabriel F.
   dpsst_identifier: '61098'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 5/15/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 5/28/2020
   agency: Portland Police Bureau
   action: Hired
@@ -21,7 +27,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 10/11/2021
-  expiration_date: ''
+  expiration_date: 8/15/2024
   probation_date: ''
 training_records:
 - date: 3/8/2024

@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/7/2024 | PDP1049A | IS-241 Decision Making  Problem Solving | Passed | 0.0 | 2.00 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Passed | 0.0 | 3.00 |
 | 5/1/2024 | PDP2125A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 4/29/2024 | PDP3898A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
