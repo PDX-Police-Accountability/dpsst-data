@@ -44,6 +44,14 @@
 | 5/3/2024 | PPP3402A | Taser 7 New Operator Course | Passed | 0.0 | 8.00 |
 | 5/2/2024 | PPP3017A | Diversity in the Workplace | Passed | 0.0 | 1.00 |
 | 5/1/2024 | PPP1624A | Airway  Circulatory Crisis Training | Passed | 0.0 | 2.00 |
+| 3/9/2024 | F1505652 | Resiliency and Mental Health | Passed | 0.0 | 3.00 |
+| 3/9/2024 | F1513998 | Active Attack Event Response | Passed | 0.0 | 4.00 |
+| 3/9/2024 | F1535466 | Civilian Response Train-the-Trainer | Passed | 0.0 | 4.00 |
+| 3/9/2024 | F1512861 | Pre-Staged RTF | Passed | 0.0 | 1.00 |
+| 3/9/2024 | F1514905 | Attack Emergency Communication | Passed | 0.0 | 5.00 |
+| 3/9/2024 | F1521309 | Fire as a Weapon | Passed | 0.0 | 1.00 |
+| 3/9/2024 | F1533177 | Intro to Active Shooter | Passed | 0.0 | 3.00 |
+| 3/8/2024 | F1539864 | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/2/2024 | PSU4473A | National FOP Conference 2024 | Passed | 0.0 | 32.00 |
 | 1/9/2024 | PSU3531A | MCDA Legal Updates | Passed | 0.0 | 2.50 |
 | 12/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

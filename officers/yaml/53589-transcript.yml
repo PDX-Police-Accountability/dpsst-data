@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/30/2024
+  course: OCS4202A
+  title: Annual Handgun Qualification
+  status: ''
+  score: '0.0'
+  hours: '1.00'
 - date: 4/5/2024
   course: F6R2630A
   title: DUII Multi-Disciplinary Task Force

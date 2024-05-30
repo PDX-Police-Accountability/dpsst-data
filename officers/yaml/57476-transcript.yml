@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/21/2024
+  course: VND3885A
+  title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/9/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

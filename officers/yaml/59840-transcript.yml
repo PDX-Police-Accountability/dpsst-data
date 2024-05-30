@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/3/2024
+  agency: Clackamas County Sheriff's Office
+  action: Hired
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 5/13/2024
   agency: Oregon City Police Department
   action: Resigned
@@ -46,6 +52,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/3/2024
+  certificate: Parole  Probation Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 12/3/2025
 - status_date: 2/11/2022
   certificate: Police Officer
   level: Basic
@@ -54,6 +67,12 @@ certification_records:
   expiration_date: 8/13/2024
   probation_date: ''
 training_records:
+- date: 10/7/2024
+  course: 24-0005
+  title: DPSST Basic Parole and Probation
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
 - date: 4/25/2024
   course: OCP0705A
   title: Ethics In Law Enforcement

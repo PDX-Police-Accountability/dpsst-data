@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/3/2024 | Clackamas County Sheriff's Office | Hired | Par/prob O |  |  |
 | 5/13/2024 | Oregon City Police Department | Resigned | Police Off |  |  |
 | 4/19/2022 | Oregon City Police Department | Hired | Police Off |  |  |
 | 4/6/2022 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -21,6 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/3/2024 | Parole  Probation Officer | Basic | Required |  |  | 12/3/2025 |
 | 2/11/2022 | Police Officer | Basic | Granted | 2/11/2022 | 8/13/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -36,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Pending | 0.0 | 0.00 |
 | 4/25/2024 | OCP0705A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/15/2024 | OCP0856A | DUII Case Law Update | Passed | 0.0 | 0.25 |
 | 3/27/2024 | OCP1380A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

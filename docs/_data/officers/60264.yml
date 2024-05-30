@@ -9,14 +9,33 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/10/2024
+  agency: Clackamas County Sheriff's Office
+  action: Hired
+  rank: Par/prob O
+  classification: ''
+  assignment: ''
 - date: 10/22/2019
   agency: Portland Police Bureau
   action: Resigned
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records: []
+certification_records:
+- status_date: 6/10/2024
+  certificate: Parole  Probation Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 12/10/2025
 training_records:
+- date: 10/7/2024
+  course: 24-0005
+  title: DPSST Basic Parole and Probation
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
 - date: 12/9/2019
   course: M10-19A
   title: DPSST Basic Police Course

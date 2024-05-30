@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2024
+  course: BVP0993A
+  title: AR Cleaning and Maintenance
+  status: Passed
+  score: '0.0'
+  hours: '0.45'
 - date: 5/8/2024
   course: AVP4026A
   title: Marion County Leadership Monthly Meeting

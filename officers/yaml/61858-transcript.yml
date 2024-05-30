@@ -42,6 +42,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2024
+  course: MFN4027A
+  title: 'Real Colors: Working in Teams'
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/2/2024
   course: MFN2715A
   title: DOC 400 OMS Tips and Tricks

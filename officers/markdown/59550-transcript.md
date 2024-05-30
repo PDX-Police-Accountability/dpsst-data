@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/21/2024 | RMP3179A | Qualifications / Red Dot Proficiency | Passed | 0.0 | 8.00 |
 | 4/4/2024 | BNA0172A | DV Strangulation Training | Passed | 0.0 | 0.50 |
 | 3/26/2024 | RMP4525A | EVOC | Passed | 0.0 | 4.00 |
 | 3/26/2024 | RMP0574A | K9 Narcotic Patrol | Passed | 0.0 | 4.00 |

@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/30/2024
+  course: OCS4202A
+  title: Annual Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 3/28/2024
   course: OCS2583A
   title: Fundamentals of Marksmanship

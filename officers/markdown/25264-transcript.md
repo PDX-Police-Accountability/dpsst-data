@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2024 | VND2669A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 3/29/2024 | PDS3207A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 3/1/2024 | PDS0913A | EVOC | Passed | 0.0 | 4.00 |
 | 2/28/2024 | PDS3208A | Defensive Tactics IDC | Passed | 0.0 | 4.00 |

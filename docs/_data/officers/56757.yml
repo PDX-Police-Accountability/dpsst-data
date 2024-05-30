@@ -91,6 +91,54 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 3/9/2024
+  course: F1505652
+  title: Resiliency and Mental Health
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/9/2024
+  course: F1513998
+  title: Active Attack Event Response
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/9/2024
+  course: F1535466
+  title: Civilian Response Train-the-Trainer
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 3/9/2024
+  course: F1512861
+  title: Pre-Staged RTF
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/9/2024
+  course: F1514905
+  title: Attack Emergency Communication
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
+- date: 3/9/2024
+  course: F1521309
+  title: Fire as a Weapon
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/9/2024
+  course: F1533177
+  title: Intro to Active Shooter
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 3/8/2024
+  course: F1539864
+  title: Bloodborne Pathogens
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/2/2024
   course: PSU4473A
   title: National FOP Conference 2024
