@@ -16,13 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 5/24/2024
+- status_date: 5/29/2024
   certificate: Police Officer
   level: Basic
-  status: App InProc
-  certificate_date: ''
+  status: Granted
+  certificate_date: 5/29/2024
   expiration_date: ''
-  probation_date: 2/18/2024
+  probation_date: ''
 training_records:
 - date: 5/7/2024
   course: E11PDP19

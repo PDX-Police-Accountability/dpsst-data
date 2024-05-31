@@ -64,31 +64,24 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 5/24/2024
-  certificate: Police Officer
-  level: Basic
-  status: App InProc
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 9/14/2024
-- status_date: 12/26/2019
+- status_date: 5/29/2024
   certificate: Police Officer
   level: Advanced
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 10/20/1994
   expiration_date: ''
   probation_date: ''
-- status_date: 12/26/2019
+- status_date: 5/29/2024
   certificate: Police Officer
   level: Basic
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 7/30/1987
   expiration_date: ''
   probation_date: ''
-- status_date: 12/26/2019
+- status_date: 5/29/2024
   certificate: Police Officer
   level: Intermediate
-  status: Lapsed
+  status: Reactivatd
   certificate_date: 2/11/1992
   expiration_date: ''
   probation_date: ''
