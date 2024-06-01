@@ -36,6 +36,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/7/2024
+  course: PDP1387A
+  title: IS-5.A An Intro to Hazardous Materials
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/7/2024
+  course: PDP0577A
+  title: IS-2200 Basic Emerg Ops Ctr Functions
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/7/2024
+  course: PDP1144A
+  title: IS-242 Effective Communication
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/7/2024
+  course: PDP2180A
+  title: IS-907 Active Shooter What You Can Do
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/2/2024
   course: PDP2984A
   title: 2024  FTEP HAZMAT/WMD Awareness
@@ -96,6 +120,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/9/2024
+  course: PDP2318A
+  title: 2024 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/5/2024
   course: M10-23A
   title: DPSST Basic Police Course

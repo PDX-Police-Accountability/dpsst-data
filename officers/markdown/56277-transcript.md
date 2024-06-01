@@ -28,6 +28,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 5/27/2024 | 5/27/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Code of Ethics | Law Enforcement Signed | 3/5/2018 |  |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/27/2024 | CAP2707A | Adult Child and Baby First Aid/CPR/AED | Passed | 0.0 | 2.00 |
 | 5/15/2024 | CAP1235A | Handgun Reload / Malfunctions | Instructed | 0.0 | 8.00 |
 | 5/6/2024 | CAP3627A | Defensive Tactics/Arrest, handcuffing  search | Passed | 0.0 | 4.00 |
 | 4/24/2024 | CAP0909A | Taser / 40mm Use of Force Training | Passed | 0.0 | 3.00 |

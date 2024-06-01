@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/13/2024
+  course: REG1400A
+  title: Handgun IDC
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 1/24/2024
   course: LGS4174A
   title: Radio Communications

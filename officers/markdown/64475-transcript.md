@@ -37,6 +37,7 @@
 | 4/16/2024 | REG1677A | RADAR/LIDAR Agency Practical | Passed | 0.0 | 10.00 |
 | 4/10/2024 | PDP2581A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 4/9/2024 | PDP3956A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 4/9/2024 | PDP2318A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 4/5/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/23/2024 | REG3166A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/14/2024 | REG4443A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

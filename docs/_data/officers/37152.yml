@@ -4040,6 +4040,11 @@ attribute_records:
   effective_date: 11/22/2010
   expiration_date: ''
 education_records:
+- date: 5/16/1998
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '33.0'
 - date: 6/20/1996
   degree: Bachelor Arts
   school: All Other Education Institutes

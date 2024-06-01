@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/24/2024 | TGP2279A | Cultural Competence and Diversity | Passed | 0.0 | 1.00 |
+| 3/24/2024 | TGP3517A | Ethics For Law Enforcement: Introduction | Passed | 0.0 | 2.00 |
+| 3/24/2024 | TGP1457A | Why Words Matter | Passed | 0.0 | 1.00 |
 | 12/31/2023 | TGP0442A | Daigle Law Path of the Guardian 2023Q3 | Passed | 0.0 | 2.00 |
 | 12/31/2023 | TGP3940A | Daigle Law Path of the Guardian 2023Q4 | Passed | 0.0 | 2.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2024 | OCP3498A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/25/2024 | OCP0705A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/15/2024 | OCP0856A | DUII Case Law Update | Passed | 0.0 | 0.25 |
 | 3/27/2024 | OCP1380A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

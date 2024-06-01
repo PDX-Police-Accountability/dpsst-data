@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/11/2024
+  course: BVP0411A
+  title: Beaverton Police 2024 Reserve Academy
+  status: Instructed
+  score: '0.0'
+  hours: '3.00'
 - date: 1/30/2024
   course: BVP0092A
   title: First Aid and Adult/Child CPR 013024am

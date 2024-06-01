@@ -68,6 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 3/24/2024
+  course: TGP2279A
+  title: Cultural Competence and Diversity
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/24/2024
+  course: TGP3517A
+  title: 'Ethics For Law Enforcement: Introduction'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 3/24/2024
+  course: TGP1457A
+  title: Why Words Matter
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/31/2023
   course: TGP0442A
   title: Daigle Law Path of the Guardian 2023Q3

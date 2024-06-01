@@ -94,6 +94,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/22/2024
+  course: VND1838A
+  title: Motorcycle Safety Awareness Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/18/2024
   course: FGP3418A
   title: Annual Defensive Tactics/Con Sim - Make up day

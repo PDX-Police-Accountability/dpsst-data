@@ -123,6 +123,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 3/6/2024
+  course: PDP1788A
+  title: Science of Disaster
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 2/20/2024
   course: VND4088A
   title: '0956 NIMS ICS All-Hazards Liaison Officer Course'
@@ -132,6 +138,12 @@ training_records:
 - date: 2/9/2024
   course: PDP1397A
   title: L0101 Foundations of Emergency Management
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
+- date: 2/9/2024
+  course: PDP0952A
+  title: Foundations of Emergency Management
   status: Passed
   score: '0.0'
   hours: '40.00'

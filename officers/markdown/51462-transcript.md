@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/29/2024 | PDS1113A | Monthly Reserve Unit Training | Passed | 0.0 | 2.00 |
 | 4/1/2024 | PDS0299A | LE Range | Passed | 0.0 | 2.00 |
 | 3/3/2024 | PDS2737A | EVOC | Passed | 0.0 | 4.00 |
 | 3/1/2024 | PDS3651A | Cultural Awareness and Diversity Overview | Passed | 0.0 | 1.00 |

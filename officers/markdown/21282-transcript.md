@@ -44,6 +44,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/15/2024 | WLP4537A | SFST Wet Lab | Passed | 0.0 | 5.00 |
 | 5/6/2024 | WLP0560A | Establishing Stronger Community Relationships | Passed | 0.0 | 1.00 |
+| 4/8/2024 | WLP2017A | TRANSITION FROM PEER TO SUPERVISOR | Passed | 0.0 | 1.00 |
+| 4/7/2024 | WLP1998A | SUPERVISORY COURSE # COMPL110 | Passed | 0.0 | 1.00 |
+| 4/6/2024 | WLP2729A | LEADERSHIP 5 COURSE # LEAD105 | Passed | 0.0 | 1.00 |
+| 4/6/2024 | WLP3283A | Emotional Intelligence COURSE # 23530-2301 | Passed | 0.0 | 1.00 |
 | 4/5/2024 | WLP2314A | Trauma Informed Sexual Assault Investigations | Passed | 0.0 | 1.00 |
 | 4/4/2024 | WLP2288A | LEADERSHIP 1 COURSE # LEAD101 | Passed | 0.0 | 1.00 |
 | 4/4/2024 | WLP1882A | LEADERSHIP 2 COURSE # LEAD102 | Passed | 0.0 | 1.00 |

@@ -29,6 +29,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 5/29/2024
+  course: PDS1113A
+  title: Monthly Reserve Unit Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2024
   course: PDS0299A
   title: LE Range

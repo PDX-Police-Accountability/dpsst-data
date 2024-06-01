@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2024 | PDP0146A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
+| 5/15/2024 | PDP0146A | 2024 K-9 (K9) Weekly Training | Instructed | 0.0 | 5.00 |
 | 5/9/2024 | PDP0552A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |
 | 5/2/2024 | PDP1247A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP3663A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 4.50 |

@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/9/2024
+  course: PDP2318A
+  title: 2024 FTEP Geography
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/20/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2024 | PDP3539A | 2024 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 2/7/2024 | PDP2198A | City of Portland Bloodborne Pathogens | Passed | 0.0 | 1.00 |

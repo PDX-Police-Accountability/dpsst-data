@@ -112,6 +112,30 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/8/2024
+  course: WLP2017A
+  title: TRANSITION FROM PEER TO SUPERVISOR
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/7/2024
+  course: WLP1998A
+  title: 'SUPERVISORY COURSE # COMPL110'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/6/2024
+  course: WLP2729A
+  title: 'LEADERSHIP 5 COURSE # LEAD105'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/6/2024
+  course: WLP3283A
+  title: 'Emotional Intelligence COURSE # 23530-2301'
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/5/2024
   course: WLP2314A
   title: Trauma Informed Sexual Assault Investigations

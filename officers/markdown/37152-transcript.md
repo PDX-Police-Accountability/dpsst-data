@@ -30,6 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/16/1998 | Masters Arts | All Other Education Institutes | Criminal Justice | 33.0 |
 | 6/20/1996 | Bachelor Arts | All Other Education Institutes | Corrections  Police Studies | 182.4 |
 ## Training
 | date | course | title | status | score | hours |

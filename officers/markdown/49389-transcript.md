@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2024 | PDP1846A | 2024 FTEP Orientation | Instructed | 0.0 | 4.00 |
 | 4/11/2024 | PDP3017A | 2024 FTEP Orientation | Instructed | 0.0 | 6.00 |
 | 3/13/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/8/2024 | PDP3079A | 2024-1 Field Training Officer (FTO) Certification | Instructed | 0.0 | 5.00 |

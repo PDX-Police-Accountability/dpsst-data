@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2024
+  course: OCP3498A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/23/2024
+  course: OCP3498A
+  title: Firearms/Use of Force
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 4/25/2024
   course: OCP0705A
   title: Ethics In Law Enforcement

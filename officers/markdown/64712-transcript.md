@@ -30,6 +30,10 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/9/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 5/7/2024 | PDP1049A | IS-241 Decision Making  Problem Solving | Passed | 0.0 | 2.00 |
+| 5/7/2024 | PDP1387A | IS-5.A An Intro to Hazardous Materials | Passed | 0.0 | 10.00 |
+| 5/7/2024 | PDP0577A | IS-2200 Basic Emerg Ops Ctr Functions | Passed | 0.0 | 4.00 |
+| 5/7/2024 | PDP1144A | IS-242 Effective Communication | Passed | 0.0 | 8.00 |
+| 5/7/2024 | PDP2180A | IS-907 Active Shooter What You Can Do | Passed | 0.0 | 1.00 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Passed | 0.0 | 3.00 |
 | 5/1/2024 | PDP2125A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
 | 4/29/2024 | PDP3898A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
@@ -40,6 +44,7 @@
 | 4/11/2024 | PDP1242A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 4/10/2024 | PDP2581A | CPR/First Aid | Passed | 0.0 | 4.00 |
 | 4/9/2024 | PDP3956A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 4/9/2024 | PDP2318A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 4/5/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/23/2024 | REG3166A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 2/14/2024 | REG4443A | Intox 8000 (Hours included in Basic) | Passed | 0.0 | 6.00 |

@@ -666,6 +666,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 8/18/2021
+  course: F1520946
+  title: Advance Leaders Course (ALC)
+  status: Passed
+  score: '0.0'
+  hours: '200.00'
 attribute_records:
 - topic: Maintenance Requirements
   value: LE Annual

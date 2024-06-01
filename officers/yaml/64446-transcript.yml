@@ -78,6 +78,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/9/2024
+  course: PDP2318A
+  title: 2024 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/5/2024
   course: M10-23A
   title: DPSST Basic Police Course

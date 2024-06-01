@@ -52,8 +52,10 @@
 | 3/21/2024 | PDP2087A | FEMA L0105 Public Information Basics | Passed | 0.0 | 24.00 |
 | 3/8/2024 | PDP0732A | OEM L0103 Planning - Emergency Operations | Passed | 0.0 | 16.00 |
 | 3/6/2024 | PDP3719A | OEM L0102 Science for Disasters | Passed | 0.0 | 24.00 |
+| 3/6/2024 | PDP1788A | Science of Disaster | Passed | 0.0 | 24.00 |
 | 2/20/2024 | VND4088A | 0956 NIMS ICS All-Hazards Liaison Officer Course | Passed | 0.0 | 16.00 |
 | 2/9/2024 | PDP1397A | L0101 Foundations of Emergency Management | Passed | 0.0 | 40.00 |
+| 2/9/2024 | PDP0952A | Foundations of Emergency Management | Passed | 0.0 | 40.00 |
 | 2/4/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/4/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/4/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |

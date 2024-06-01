@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2024 | PDP3539A | 2024 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
 | 4/10/2024 | PDP1761A | 2024 FTEP Post DPSST Firearms | Instructed | 0.0 | 27.00 |
 | 3/26/2024 | PDP2979A | Training Remedial Firearms | Instructed | 0.0 | 22.50 |

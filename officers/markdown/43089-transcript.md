@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/13/2024 | REG1400A | Handgun IDC | Instructed | 0.0 | 10.00 |
 | 1/24/2024 | LGS4174A | Radio Communications | Passed | 0.0 | 1.00 |
 | 12/13/2023 | LGS3964A | Instructor Development leadership/planning | Instructed | 0.0 | 1.00 |
 | 11/17/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

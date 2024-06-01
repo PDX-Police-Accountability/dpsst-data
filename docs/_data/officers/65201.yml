@@ -36,9 +36,31 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 5/22/2024
+  course: PDP3539A
+  title: 2024 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '25.00'
+- date: 5/20/2024
+  course: PDP3578A
+  title: 2024 FTEP Policy  Procedure
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 5/14/2024
+  course: PDP3575A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 5/27/2024
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/14/2024
+  expiration_date: 5/14/2026
 education_records: []

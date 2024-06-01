@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/8/2024
+  course: PDP1846A
+  title: 2024 FTEP Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/11/2024
   course: PDP3017A
   title: 2024 FTEP Orientation

@@ -140,3 +140,4 @@
 | 12/6/2022 | PDP13951 | Firearms Training | Passed | 0.0 | 7.00 |
 | 12/5/2022 | PDP01145 | Firearms Training | Passed | 0.0 | 7.00 |
 | 10/5/2022 | PDP21221 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 8/18/2021 | F1520946 | Advance Leaders Course (ALC) | Passed | 0.0 | 200.00 |

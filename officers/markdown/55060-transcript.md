@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/8/2024 | PDP1704A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.00 |
 | 4/26/2024 | PDP0823A | LEIU/IALEIA Annual Training Event | Passed | 0.0 | 36.00 |
 | 4/10/2024 | PDP2996A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

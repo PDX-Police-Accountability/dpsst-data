@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2024
+  course: CAP2707A
+  title: Adult Child and Baby First Aid/CPR/AED
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/15/2024
   course: CAP1235A
   title: Handgun Reload / Malfunctions
@@ -1209,6 +1215,10 @@ training_records:
   score: '0.0'
   hours: '24.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/27/2024
+  expiration_date: 5/27/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2024

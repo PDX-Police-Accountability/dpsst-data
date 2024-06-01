@@ -43,8 +43,28 @@
 | 2/14/2024 | PDP2916A | 2023 Terminator Tire Deflation Device | Passed | 0.0 | 0.25 |
 | 2/9/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |
 | 2/9/2024 | PDP1708A | 2023 Red Dot Sights Training | Passed | 0.0 | 0.25 |
+| 12/13/2023 | PDP1440A | 2023-3 Advanced Academy Law | Passed | 0.0 | 30.50 |
+| 12/12/2023 | PDP4543A | 2023-3 Advanced Academy Bike School | Passed | 0.0 | 40.00 |
+| 11/29/2023 | PDP2596A | 2023-3 Advanced Academy Community Eng. | Passed | 0.0 | 32.00 |
 | 11/24/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 11/21/2023 | PDP4260A | 2023-3 Advanced Academy Patrol Procedures (Firearm | Passed | 0.0 | 96.50 |
+| 11/16/2023 | PDP1475A | 2023-3 Advanced Academy  PVO | Passed | 0.0 | 25.25 |
+| 11/16/2023 | PDP3713A | 2023-3 Advanced Academy Child Abuse | Passed | 0.0 | 1.00 |
+| 11/16/2023 | PDP2412A | 2023-3 Advanced Academy Ethics | Passed | 0.0 | 2.50 |
+| 11/16/2023 | PDP0995A | 2023-3 Advanced Academy Wellnesss | Passed | 0.0 | 14.50 |
+| 11/15/2023 | PDP1714A | 2023-3 Advanced Academy ASU | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP2508A | 2023-3 Advanced Academy Crime Scene Investigations | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP2958A | 2023-3 Advanced Academy Fitness | Passed | 0.0 | 2.50 |
+| 11/15/2023 | PDP4330A | 2023-3 Advanced Academy Human Traffick | Passed | 0.0 | 1.00 |
+| 11/15/2023 | PDP3015A | 2023-3 Advanced Academy Public Order | Passed | 0.0 | 11.25 |
+| 11/14/2023 | PDP2713A | 2023-3 Advanced Academy Control Tactics | Passed | 0.0 | 64.75 |
 | 11/7/2023 | PDP0127A | Amended DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
+| 11/6/2023 | PDP4191A | 2023-3 Advanced Academy CIT | Passed | 0.0 | 20.00 |
+| 11/1/2023 | PDP0404A | 2023-3 Advanced Academy Firearms | Passed | 0.0 | 51.75 |
+| 10/31/2023 | PDP1088A | 2023-3 Advanced Academy ABLE | Passed | 0.0 | 10.00 |
+| 10/12/2023 | PDP3026A | 2023-3 Advanced Academy Patrol Procecures (Other) | Passed | 0.0 | 16.00 |
+| 10/10/2023 | PDP3621A | 2023-3 Advanced Academy CEW | Passed | 0.0 | 2.25 |
+| 9/14/2023 | PDP3112A | 2023-3 Advanced Academy Police Legit. Proced. Just | Passed | 0.0 | 2.00 |
 | 6/1/2023 | PDP2100 | 2023 FTEP Geography | Passed | 0.0 | 2.00 |
 | 6/1/2023 | PDP1471A | 2023 FTEP HAZMAT/WMD Awareness/APR Fitting | Passed | 0.0 | 3.00 |
 | 5/31/2023 | PDP0679 | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
