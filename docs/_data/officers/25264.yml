@@ -74,6 +74,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/9/2024
+  course: PDS3390A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
+- date: 4/26/2024
+  course: PDS3994A
+  title: LE Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/29/2024
   course: PDS3207A
   title: Defensive Tactics

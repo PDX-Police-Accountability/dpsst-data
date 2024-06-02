@@ -51,7 +51,6 @@
 | Certification Cards | First Aid | 3/1/2024 | 3/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 1/25/2024 |  |
 | Code of Ethics | Telecommunication Signed | 9/11/2023 |  |
-| Certification Cards | First Aid and CPR | 5/13/2022 | 5/13/2024 |
 | Code of Ethics | Law Enforcement Signed | 4/9/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 6/21/2020 |  |
 | Code of Ethics | Signed | 10/12/2000 |  |

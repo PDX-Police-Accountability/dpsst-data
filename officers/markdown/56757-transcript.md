@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2024 | PPP4530A | Intoxilyzer 8000 | Passed | 0.0 | 7.00 |
 | 5/22/2024 | PPP0777A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 5/22/2024 | PPP0916A | TruNarc Analyzer Basic Operator | Passed | 0.0 | 2.00 |
 | 5/22/2024 | PPP0488A | NIK Certification | Passed | 0.0 | 0.30 |

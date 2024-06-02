@@ -28,8 +28,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/11/2023 | Police Officer | Basic | Required |  |  | 4/11/2025 |
-| 10/11/2023 | Police Officer | Management | Required |  |  | 10/11/2025 |
+| 5/31/2024 | Police Officer | Advanced | App Recd |  |  | 4/11/2025 |
+| 5/31/2024 | Police Officer | Basic | App Recd |  |  | 4/11/2025 |
+| 5/31/2024 | Police Officer | Intermediate | App Recd |  |  | 4/11/2025 |
+| 5/31/2024 | Police Officer | Management | App Recd |  |  | 10/11/2025 |
+| 5/31/2024 | Police Officer | Supervisory | App Recd |  |  | 4/11/2025 |
 | 1/27/2020 | Instructor |  | Granted | 1/27/2020 |  |  |
 | 8/2/2019 | Police Officer | Advanced | Lapsed | 3/15/2000 |  |  |
 | 8/2/2019 | Police Officer | Basic | Lapsed | 1/29/1991 |  |  |

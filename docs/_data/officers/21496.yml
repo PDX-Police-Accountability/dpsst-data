@@ -3613,10 +3613,6 @@ attribute_records:
   value: Telecommunication Signed
   effective_date: 9/11/2023
   expiration_date: ''
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 5/13/2022
-  expiration_date: 5/13/2024
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/9/2021

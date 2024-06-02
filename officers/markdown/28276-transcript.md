@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/17/2024 | Silverton Police Department | Promotion | Captain |  |  |
 | 9/20/2021 | Silverton Police Department | Hired | Sergeant |  |  |
 | 8/31/2021 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/30/2018 | Portland Police Bureau | Hired | Police Off |  |  |
@@ -48,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 5/6/2024 | SVP0572A | Professional Standards: Internal Investigations | Passed | 0.0 | 2.00 |
 | 4/30/2024 | VND1647A | Conducting Effective Public Safety Backgrounds | Passed | 0.0 | 16.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |

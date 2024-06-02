@@ -35,6 +35,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/5/2024
+  course: PDS0814A
+  title: Airway and Circulatory Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/1/2024
   course: PDS0299A
   title: LE Range

@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/23/2024 | PDS3603A | LE Range | Passed | 0.0 | 2.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
 | 2/29/2024 | PDS2810A | Range Training | Passed | 0.0 | 2.00 |
 | 2/29/2024 | PDS2801A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |

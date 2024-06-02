@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2024
+  course: PPP4530A
+  title: Intoxilyzer 8000
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/22/2024
   course: PPP0777A
   title: Foundations in Ethics for LE

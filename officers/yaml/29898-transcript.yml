@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/23/2024
+  course: PDS3603A
+  title: LE Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/18/2024
   course: PDS0931A
   title: EVOC
