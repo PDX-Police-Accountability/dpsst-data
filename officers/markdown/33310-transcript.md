@@ -42,6 +42,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 11/17/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
+| 4/19/2024 | MMP1794A | Calibre Press Online Training Videos, Mar-Apr |  | 0.0 | 0.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/28/2024 | OCS1354A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |
 | 3/28/2024 | OCS2437A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |
@@ -65,6 +66,9 @@
 | 7/27/2023 | BPT2237A | Intoxilyzer 8000 Certification Course | Passed | 0.0 | 6.00 |
 | 6/30/2023 | MMP0024A | Mental Health / CIT - P1A | Passed | 0.0 | 3.00 |
 | 5/23/2023 | MMP0982 | Airway Training and Patient Care | Passed | 0.0 | 1.00 |
+| 5/15/2023 | MMP0479A | Annual Firearms Qualifications | Passed | 0.0 | 4.00 |
+| 5/15/2023 | MMP1332A | Annual Taser Recert | Passed | 0.0 | 2.00 |
+| 5/15/2023 | MMP3708A | Patrol Equipment Refresher | Passed | 0.0 | 2.50 |
 | 4/24/2023 | MMP2238 | Consim Scenario Training | Passed | 0.0 | 4.00 |
 | 4/24/2023 | MMP2247 | Qualification / Training | Passed | 0.0 | 4.00 |
 | 3/22/2023 | MMP35887 | Law Updates/Dept Meeting | Passed | 0.0 | 2.00 |

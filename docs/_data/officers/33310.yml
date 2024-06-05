@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/19/2024
+  course: MMP1794A
+  title: Calibre Press Online Training Videos, Mar-Apr
+  status: ''
+  score: '0.0'
+  hours: '0.50'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance
@@ -218,6 +224,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/15/2023
+  course: MMP0479A
+  title: Annual Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/15/2023
+  course: MMP1332A
+  title: Annual Taser Recert
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/15/2023
+  course: MMP3708A
+  title: Patrol Equipment Refresher
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 4/24/2023
   course: MMP2238
   title: Consim Scenario Training

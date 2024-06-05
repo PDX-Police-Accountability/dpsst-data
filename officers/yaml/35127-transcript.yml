@@ -75,6 +75,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2024
+  course: SAG1582A
+  title: 'Hiding on the Internet: TOR, Darknet'
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/28/2024
+  course: SAG3155A
+  title: 'Internet Identifiers: Names and Numbers'
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/16/2024
   course: SAG3723A
   title: New Approaches to Tech Crime Scene Analysis

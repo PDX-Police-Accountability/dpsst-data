@@ -32,7 +32,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 8/22/2012 | No Degree | Mt Hood Community College |  | 121.0 |
+| 3/20/2021 | Associates of General Studies | Mt Hood Community College |  | 135.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

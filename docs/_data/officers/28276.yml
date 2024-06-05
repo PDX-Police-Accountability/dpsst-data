@@ -135,6 +135,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/2/2024
+  course: SVP3941A
+  title: Saftey Compass - Sex Trafficing Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 5/6/2024
   course: SVP0572A
   title: 'Professional Standards: Internal Investigations'

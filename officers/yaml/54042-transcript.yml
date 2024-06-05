@@ -2388,8 +2388,8 @@ attribute_records:
   effective_date: 4/24/2014
   expiration_date: ''
 education_records:
-- date: 8/22/2012
-  degree: No Degree
+- date: 3/20/2021
+  degree: Associates of General Studies
   school: Mt Hood Community College
   major: ''
-  hours: '121.0'
+  hours: '135.0'

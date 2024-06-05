@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2024
+  course: SVP3941A
+  title: Saftey Compass - Sex Trafficing Investigations
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 5/22/2024
+  course: SVP4540A
+  title: Defensive Tactics Refresher
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/8/2024
   course: AVP4026A
   title: Marion County Leadership Monthly Meeting
