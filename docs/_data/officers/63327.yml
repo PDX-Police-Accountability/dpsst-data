@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: OSH0911A
+  title: Public Order Basic Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 2/13/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

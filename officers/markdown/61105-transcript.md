@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/30/2024 | NGP2004A | Foundations in Ethics for Law Enforcement | Passed | 0.0 | 1.00 |
 | 1/25/2024 | NGP1256A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 12/31/2023 | NGP1320A | Roll Call Training Consolidated Roster | Passed | 0.0 | 19.25 |
 | 11/16/2023 | NGP2931A | Harassment Training | Passed | 0.0 | 2.00 |

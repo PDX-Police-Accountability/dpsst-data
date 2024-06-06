@@ -49,12 +49,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
-- date: 3/18/2024
+- date: 4/19/2024
   course: 24-0026
   title: DPSST Middle Management
-  status: Registered
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '80.00'
 - date: 2/22/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

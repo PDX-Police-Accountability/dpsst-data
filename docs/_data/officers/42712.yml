@@ -74,6 +74,54 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/1/2024
+  course: HBS4415A
+  title: 2024 MAY ADA JAIL
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/1/2024
+  course: HBS3138A
+  title: 2024 MAY ACAP
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/1/2024
+  course: HBS3435A
+  title: 2024 MAY DE-ESCALATION
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/1/2024
+  course: HBS3806A
+  title: 2024 MAY AIC SUICIDE PREVENTION
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/1/2024
+  course: HBS3155A
+  title: 2024 MAY DEFENSIVE TOOLS  EVO
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/1/2024
+  course: HBS1269A
+  title: 2024 MAY PERSONNEL GUIDELINES  SH
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2024
+  course: HBS1043A
+  title: 2024 MAY PREA
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/1/2024
+  course: HBS2070A
+  title: 2024 MAY DEI
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/7/2024
   course: HBS4122A
   title: LEDS Recertification

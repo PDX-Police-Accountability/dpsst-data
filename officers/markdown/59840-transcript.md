@@ -38,7 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Pending | 0.0 | 0.00 |
+| 12/3/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
+| 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
 | 4/25/2024 | OCP0705A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/15/2024 | OCP0856A | DUII Case Law Update | Passed | 0.0 | 0.25 |
 | 3/27/2024 | OCP1380A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

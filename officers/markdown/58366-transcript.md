@@ -40,11 +40,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 2/28/2026 | OSH1143A | Adult/Child First Aid and CPR | Passed | 0.0 | 8.00 |
-| 8/1/2024 | REQSUPV | REQUIRED TRAINING:  Supervision | Required | 0.0 | 0.00 |
+| 5/29/2024 | OSH2558A | OSP Defensive Tactics 1st Trimester 2024 | Passed | 0.0 | 4.00 |
 | 4/1/2024 | OSH0618A | 1st Tri Firearms | Passed | 0.0 | 4.00 |
 | 2/15/2024 | EGP0412A | SFST/DUII Refresher | Passed | 0.0 | 4.00 |
 | 12/11/2023 | OSH0030A | Ethics Training | Passed | 0.0 | 1.00 |
 | 12/11/2023 | OSH0243A | Eithics Training | Passed | 0.0 | 1.00 |
+| 12/7/2023 | 24-0030 | DPSST Supervision F21 Equivalency | Completed | 0.0 | 0.00 |
 | 12/1/2023 | CAP4422A | AYC- Women's Seminar | Passed | 0.0 | 8.00 |
 | 11/30/2023 | CAP3231A | Building Your Leadership Toolbox | Passed | 0.0 | 8.00 |
 | 11/9/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

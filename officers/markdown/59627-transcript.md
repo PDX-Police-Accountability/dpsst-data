@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2024 | OSH0911A | Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 4/25/2024 | PDP3663A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 3/13/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |

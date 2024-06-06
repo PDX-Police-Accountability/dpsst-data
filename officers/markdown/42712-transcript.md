@@ -40,6 +40,14 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/1/2024 | HBS4415A | 2024 MAY ADA JAIL | Passed | 0.0 | 0.50 |
+| 6/1/2024 | HBS3138A | 2024 MAY ACAP | Passed | 0.0 | 2.00 |
+| 6/1/2024 | HBS3435A | 2024 MAY DE-ESCALATION | Passed | 0.0 | 1.50 |
+| 6/1/2024 | HBS3806A | 2024 MAY AIC SUICIDE PREVENTION | Passed | 0.0 | 0.50 |
+| 6/1/2024 | HBS3155A | 2024 MAY DEFENSIVE TOOLS  EVO | Passed | 0.0 | 1.50 |
+| 6/1/2024 | HBS1269A | 2024 MAY PERSONNEL GUIDELINES  SH | Passed | 0.0 | 1.00 |
+| 6/1/2024 | HBS1043A | 2024 MAY PREA | Passed | 0.0 | 0.50 |
+| 6/1/2024 | HBS2070A | 2024 MAY DEI | Passed | 0.0 | 1.00 |
 | 4/7/2024 | HBS4122A | LEDS Recertification | Passed | 0.0 | 1.00 |
 | 1/31/2024 | HBS4232A | Adult/Child First Aid/CPR/AED | Passed | 0.0 | 3.50 |
 | 12/9/2023 | HBS3057A | 2023 November In-Service Defensive Tactics | Passed | 0.0 | 3.50 |

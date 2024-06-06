@@ -62,6 +62,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: OSH3265A
+  title: 2nd Trimester Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/20/2024
+  course: OSH4299A
+  title: 2nd Trimester Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/17/2024
+  course: OSH2604A
+  title: 2nd Trimester Firearms - Rifle
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/8/2024
   course: OSH2348A
   title: Firearms Inservice 2024

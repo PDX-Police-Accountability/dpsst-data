@@ -87,6 +87,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: OSH0911A
+  title: Public Order Basic Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 4/12/2024
   course: PDP0779A
   title: 2023 PPB Honor Guard In Service Training

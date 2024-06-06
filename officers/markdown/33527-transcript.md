@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 3/31/2024 | 3/31/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2025 |
 | Code of Ethics | Signed | 2/5/2010 |  |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/31/2024 | PDP4346A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 2/28/2024 | PDP3527A | 2023 PCJP and Restorative Justice Referral | Passed | 0.0 | 0.50 |
 | 2/14/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 2/14/2024 | PDP2822A | 2023 DIR 0620.00 Body-Worn Camera Use and MGMT | Passed | 0.0 | 0.25 |

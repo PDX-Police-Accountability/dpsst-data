@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: OSH0911A
+  title: Public Order Basic Course
+  status: Passed
+  score: '0.0'
+  hours: '30.00'
 - date: 4/25/2024
   course: PDP3663A
   title: 2024 K-9 (K9) Weekly Training

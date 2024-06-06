@@ -68,12 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
-- date: 8/1/2024
-  course: REQSUPV
-  title: 'REQUIRED TRAINING:  Supervision'
-  status: Required
+- date: 5/29/2024
+  course: OSH2558A
+  title: OSP Defensive Tactics 1st Trimester 2024
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '4.00'
 - date: 4/1/2024
   course: OSH0618A
   title: 1st Tri Firearms
@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 12/7/2023
+  course: 24-0030
+  title: DPSST Supervision F21 Equivalency
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/1/2023
   course: CAP4422A
   title: AYC- Women's Seminar

@@ -95,6 +95,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: VND1640A
+  title: ICS-300 Intermediate ICS For Expanding Incidents
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
 - date: 5/20/2024
   course: HBS2171A
   title: STRT (Stress Trauma Resiliency Team) Training

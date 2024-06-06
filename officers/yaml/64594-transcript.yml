@@ -111,9 +111,9 @@ training_records:
 - date: 4/5/2024
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Incomplete
+  status: Passed
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 3/23/2024
   course: REG3166A
   title: DID-SFST (Hours included in Basic)

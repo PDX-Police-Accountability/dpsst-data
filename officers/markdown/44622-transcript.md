@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2024 | OSH3265A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
+| 5/20/2024 | OSH4299A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
+| 5/17/2024 | OSH2604A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/8/2024 | OSH2348A | Firearms Inservice 2024 | Passed | 0.0 | 24.00 |
 | 4/27/2024 | OSH1601A | OSP Post Academy Active Threat Response | Instructed | 0.0 | 4.00 |
 | 4/26/2024 | OSH4157A | OSP Active Threat Response Training | Instructed | 0.0 | 8.00 |
