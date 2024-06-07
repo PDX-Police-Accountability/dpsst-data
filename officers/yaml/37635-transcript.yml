@@ -63,6 +63,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2024
+  course: EGP2902A
+  title: AVI Response Training
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/23/2024
+  course: EGP3131A
+  title: Patrol Breaching Tools  Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
+- date: 5/23/2024
+  course: EGP0755A
+  title: San Bernardino, CA Inland Regional Ctr AVI Debrief
+  status: Passed
+  score: '0.0'
+  hours: '3.75'
 - date: 4/11/2024
   course: EGP4259A
   title: Taser Training  Qualification

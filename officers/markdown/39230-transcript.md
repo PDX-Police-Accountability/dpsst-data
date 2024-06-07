@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2024 | EGP0755A | San Bernardino, CA Inland Regional Ctr AVI Debrief | Passed | 0.0 | 3.75 |
 | 5/16/2024 | EGP1278A | Leadership #7: Navigating Change | Passed | 0.0 | 1.50 |
 | 5/15/2024 | EGP3120A | Eugene Airport Emergency Incident Command Tabletop | Passed | 0.0 | 2.00 |
 | 5/13/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |

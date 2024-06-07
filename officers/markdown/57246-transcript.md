@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 3/12/2024 | TRN2101A | Statewide Contact Standards  Chrono (session9) | Passed | 0.0 | 1.00 |
 | 2/28/2024 | HBS1654A | Officer Safety - Weapons Familiarization | Passed | 0.0 | 2.00 |
 | 2/22/2024 | HBN2648A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 2/22/2024 | HBN3452A | DTs - OC Spray Certification | Passed | 0.0 | 4.00 |

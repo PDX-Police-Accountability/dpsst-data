@@ -40,6 +40,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/12/2024 | HBN1194A | NARCAN Training and Presentation | Passed | 0.0 | 1.00 |
+| 3/6/2024 | TRN0877A | Statewide Contact Standards  Chrono (session6) | Passed | 0.0 | 1.00 |
 | 2/28/2024 | HBS1654A | Officer Safety - Weapons Familiarization | Passed | 0.0 | 2.00 |
 | 2/22/2024 | HBN2648A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 2/22/2024 | HBN3452A | DTs - OC Spray Certification | Passed | 0.0 | 4.00 |

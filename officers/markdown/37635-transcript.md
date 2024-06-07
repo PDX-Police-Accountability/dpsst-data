@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2024 | EGP2902A | AVI Response Training | Passed | 0.0 | 2.50 |
+| 5/23/2024 | EGP3131A | Patrol Breaching Tools  Scenarios | Passed | 0.0 | 2.50 |
+| 5/23/2024 | EGP0755A | San Bernardino, CA Inland Regional Ctr AVI Debrief | Passed | 0.0 | 3.75 |
 | 4/11/2024 | EGP4259A | Taser Training  Qualification | Passed | 0.0 | 4.00 |
 | 4/11/2024 | EGP0661A | Pistol  Rifle Qualification | Passed | 0.0 | 4.00 |
 | 3/28/2024 | EGP0493A | SWAT Firearms -Equipment Maintanence | Passed | 0.0 | 18.00 |

@@ -55,6 +55,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/6/2024
+  course: TRN0877A
+  title: Statewide Contact Standards  Chrono (session6)
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 2/28/2024
   course: HBS1654A
   title: Officer Safety - Weapons Familiarization

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2024 | MLP3693A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/31/2024 | MLP2750A | OSHA Heat Illness Prevention | Passed | 0.0 | 1.00 |
 | 5/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/7/2024 | MLP4099A | Cultural Awareness  Diversity Overview | Passed | 0.0 | 1.00 |

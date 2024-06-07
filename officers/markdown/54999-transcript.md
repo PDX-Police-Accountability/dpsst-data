@@ -40,6 +40,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/6/2024 | HRS0473A | NORCOR Clearance  SB48 | Passed | 0.0 | 0.50 |
+| 5/6/2024 | HRS4534A | Air Support for Patrol | Passed | 0.0 | 0.50 |
+| 5/6/2024 | HRS3848A | Question, Persuade, Refer - Suicide Prevention | Passed | 0.0 | 1.50 |
+| 5/6/2024 | HRS4005A | TIP Update | Passed | 0.0 | 0.50 |
+| 5/6/2024 | HRS3391A | Air Support for Patrol | Passed | 0.0 | 0.50 |
+| 5/6/2024 | HRS0801A | Mandatory Reporting Refresher | Passed | 0.0 | 1.00 |
 | 4/19/2024 | HRS2034A | Defensive Tactics Inservice | Passed | 0.0 | 2.00 |
 | 4/11/2024 | MOS4046A | NORTAC Vehicle and Barricade CQB Range | Passed | 0.0 | 4.00 |
 | 3/23/2024 | TDP3529A | Tactical Training-Open environment searches | Passed | 0.0 | 3.50 |

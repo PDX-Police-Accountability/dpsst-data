@@ -76,6 +76,84 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/12/2024
+  course: OSA3505A
+  title: In-Custody Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2024
+  course: OSA1469A
+  title: De-Escalation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2024
+  course: OSA0194A
+  title: Corrections Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/11/2024
+  course: OSA2428A
+  title: Deputy Wellness - Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/11/2024
+  course: OSA3686A
+  title: Officer Involved Shootings
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/11/2024
+  course: OSA2600A
+  title: Search and Seizure Update
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/10/2024
+  course: OSA0049A
+  title: Firearms Range Training - Survival Skills
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
+- date: 4/9/2024
+  course: OSA0942A
+  title: 1st Amendment/Managing Protests
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/9/2024
+  course: OSA3988A
+  title: Incident Command  Tactical Decision Making
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/9/2024
+  course: OSA2850A
+  title: Managing 2nd Amendment Activities
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/9/2024
+  course: OSA1586A
+  title: Tactical Combat Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/8/2024
+  course: OSA2803A
+  title: Leadership
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 4/8/2024
+  course: OSA3254A
+  title: Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/3/2024
   course: OCS1848A
   title: Ethics- ETHOS training

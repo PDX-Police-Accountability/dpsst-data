@@ -41,6 +41,19 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/12/2024 | OSA3505A | In-Custody Suicide Prevention | Passed | 0.0 | 1.00 |
+| 4/11/2024 | OSA1469A | De-Escalation | Passed | 0.0 | 1.00 |
+| 4/11/2024 | OSA0194A | Corrections Legal Updates | Passed | 0.0 | 2.00 |
+| 4/11/2024 | OSA2428A | Deputy Wellness - Stress Management | Passed | 0.0 | 2.00 |
+| 4/11/2024 | OSA3686A | Officer Involved Shootings | Passed | 0.0 | 1.00 |
+| 4/11/2024 | OSA2600A | Search and Seizure Update | Passed | 0.0 | 2.00 |
+| 4/10/2024 | OSA0049A | Firearms Range Training - Survival Skills | Passed | 0.0 | 7.00 |
+| 4/9/2024 | OSA0942A | 1st Amendment/Managing Protests | Passed | 0.0 | 1.00 |
+| 4/9/2024 | OSA3988A | Incident Command  Tactical Decision Making | Passed | 0.0 | 2.00 |
+| 4/9/2024 | OSA2850A | Managing 2nd Amendment Activities | Passed | 0.0 | 1.00 |
+| 4/9/2024 | OSA1586A | Tactical Combat Casualty Care | Passed | 0.0 | 3.00 |
+| 4/8/2024 | OSA2803A | Leadership | Passed | 0.0 | 10.00 |
+| 4/8/2024 | OSA3254A | Use of Force | Passed | 0.0 | 4.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 3/28/2024 | OCS1354A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |
 | 3/28/2024 | OCS2437A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |

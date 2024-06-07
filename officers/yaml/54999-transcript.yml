@@ -67,6 +67,42 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 5/6/2024
+  course: HRS0473A
+  title: NORCOR Clearance  SB48
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/6/2024
+  course: HRS4534A
+  title: Air Support for Patrol
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/6/2024
+  course: HRS3848A
+  title: Question, Persuade, Refer - Suicide Prevention
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 5/6/2024
+  course: HRS4005A
+  title: TIP Update
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/6/2024
+  course: HRS3391A
+  title: Air Support for Patrol
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/6/2024
+  course: HRS0801A
+  title: Mandatory Reporting Refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/19/2024
   course: HRS2034A
   title: Defensive Tactics Inservice

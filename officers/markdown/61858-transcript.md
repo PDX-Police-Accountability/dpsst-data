@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/30/2024 | MFN2062A | Single Handed Manipulations | Passed | 0.0 | 2.00 |
 | 5/8/2024 | MFN4027A | Real Colors: Working in Teams | Passed | 0.0 | 6.00 |
 | 5/2/2024 | MFN2715A | DOC 400 OMS Tips and Tricks | Passed | 0.0 | 1.00 |
 | 3/28/2024 | MFN3676A | Firearms: Combative Shooting Basics | Passed | 0.0 | 2.50 |
@@ -43,6 +44,7 @@
 | 2/21/2024 | MFN3303A | Defensive Tactics: Handcuffing | Passed | 0.0 | 2.00 |
 | 2/1/2024 | BPT2921A | Oregon Case Management Network | Passed | 0.0 | 8.00 |
 | 1/31/2024 | BPT2918A | Mental Heath Supervision Network | Passed | 0.0 | 4.00 |
+| 1/31/2024 | TRN0976A | Statewide Contact Standards  Chrono (session2) | Passed | 0.0 | 1.00 |
 | 1/30/2024 | BPT1574A | Gender Cohort | Passed | 0.0 | 4.00 |
 | 1/25/2024 | MFN0394A | Firarms: Low Light | Passed | 0.0 | 4.00 |
 | 12/7/2023 | MFN0081A | The"Career Buster" Addressing Stress | Passed | 0.0 | 1.00 |
