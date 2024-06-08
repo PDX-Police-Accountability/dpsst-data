@@ -99,4 +99,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 2/28/2024
   expiration_date: 2/28/2026
-education_records: []
+education_records:
+- date: 11/30/2020
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '120.0'
+- date: 10/13/2017
+  degree: Associate Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '52.0'

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/20/2024 | HBP1238A | ODT - EVOC, PIT, Pursuit Policy | Passed | 0.0 | 0.75 |
 | 3/12/2024 | HBP0655A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
 | 2/21/2024 | HBP4408A | DUII Refresher Course In-service | Passed | 0.0 | 5.00 |
 | 2/21/2024 | HBP0763A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |

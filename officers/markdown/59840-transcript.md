@@ -35,6 +35,9 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/16/2019 | Bachelor Science | Portland State University |  | 154.0 |
+| 6/15/2013 | No Degree | Mt Hood Community College |  | 9.0 |
+| 3/15/2012 | No Degree | Clackamas Community College |  | 30.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

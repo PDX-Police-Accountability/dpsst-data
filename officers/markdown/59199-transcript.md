@@ -45,6 +45,7 @@
 | 5/23/2024 | EGP3131A | Patrol Breaching Tools  Scenarios | Passed | 0.0 | 2.50 |
 | 5/23/2024 | EGP0755A | San Bernardino, CA Inland Regional Ctr AVI Debrief | Passed | 0.0 | 3.75 |
 | 5/23/2024 | EGP2902A | AVI Response Training | Passed | 0.0 | 2.50 |
+| 5/22/2024 | EGP1665A | First Aid/AED/CPR Instructor Training | Passed | 0.0 | 7.00 |
 | 4/11/2024 | EGP0661A | Pistol  Rifle Qualification | Passed | 0.0 | 4.00 |
 | 4/11/2024 | EGP4259A | Taser Training  Qualification | Passed | 0.0 | 4.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

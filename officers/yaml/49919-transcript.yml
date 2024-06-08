@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/20/2024
+  course: HBP1238A
+  title: ODT - EVOC, PIT, Pursuit Policy
+  status: Passed
+  score: '0.0'
+  hours: '0.75'
 - date: 3/12/2024
   course: HBP0655A
   title: PoliceOne EVOC - Professional Police Driving

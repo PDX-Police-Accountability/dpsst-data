@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/28/2024 | HBP0613A | ODT - EVOC, PIT, Pursuit Policy | Passed | 0.0 | 0.75 |
 | 4/17/2024 | GSP4271A | OPCA Spring Seminar - Patrol | Passed | 0.0 | 24.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/28/2024 | HBP1265A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |

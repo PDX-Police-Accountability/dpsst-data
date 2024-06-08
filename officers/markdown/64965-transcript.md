@@ -25,6 +25,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 11/30/2020 | Bachelor Science | All Other Education Institutes |  | 120.0 |
+| 10/13/2017 | Associate Science | All Other Education Institutes |  | 52.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

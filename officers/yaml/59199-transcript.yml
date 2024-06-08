@@ -85,6 +85,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.50'
+- date: 5/22/2024
+  course: EGP1665A
+  title: First Aid/AED/CPR Instructor Training
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 4/11/2024
   course: EGP0661A
   title: Pistol  Rifle Qualification
