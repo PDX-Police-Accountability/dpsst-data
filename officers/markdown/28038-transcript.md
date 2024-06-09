@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2024 | VND0961A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 4/17/2024 | PDS4142A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/2/2024 | PDS0330A | EVOC | Passed | 0.0 | 4.00 |

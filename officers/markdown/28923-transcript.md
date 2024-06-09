@@ -44,6 +44,7 @@
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
 | 4/19/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 4/19/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
+| 4/19/2024 | HSU2593A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 3/17/2024 | HSU3903A | March Supplemental Range | Passed | 0.0 | 2.00 |
 | 10/21/2023 | HSU2948A | EVOC | Passed | 0.0 | 3.00 |
 | 10/21/2023 | HSU0850A | Post OIS Procedures | Passed | 0.0 | 3.00 |

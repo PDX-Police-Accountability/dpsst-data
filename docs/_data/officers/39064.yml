@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 2/5/2024
+  course: TDP3632A
+  title: Bloodborne Pathogens 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 12/21/2023
   course: TDP2243A
   title: Harassment in the work place

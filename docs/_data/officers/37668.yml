@@ -107,6 +107,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/25/2024
+  course: BPT0510A
+  title: IPSLEI Leadership Development Course
+  status: Instructed
+  score: '0.0'
+  hours: '16.00'
 - date: 4/1/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

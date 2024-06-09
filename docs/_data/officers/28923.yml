@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/19/2024
+  course: HSU2593A
+  title: Spring In-Service 2024 CPR/ FA
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/17/2024
   course: HSU3903A
   title: March Supplemental Range

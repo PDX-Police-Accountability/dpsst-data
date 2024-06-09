@@ -43,6 +43,7 @@
 | 4/1/2024 | TDP3960A | Helping the helpers w/emot survival | Passed | 0.0 | 1.00 |
 | 3/1/2024 | TDP1840A | Tactical Disengagement and de-escalation | Passed | 0.0 | 1.50 |
 | 2/16/2024 | 24-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
+| 2/5/2024 | TDP3632A | Bloodborne Pathogens 2024 | Passed | 0.0 | 1.00 |
 | 12/21/2023 | TDP2243A | Harassment in the work place | Passed | 0.0 | 1.00 |
 | 12/5/2023 | TDP3311A | Supervisor liability for Law Enforcement | Passed | 0.0 | 8.00 |
 | 12/1/2023 | TDP1153A | Tactical Medic practical application | Passed | 0.0 | 4.00 |

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/15/2024
+  agency: West Linn Police Department
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/3/1996
   agency: Portland Police Bureau
   action: Hired

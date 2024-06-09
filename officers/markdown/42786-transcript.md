@@ -52,6 +52,7 @@
 | 4/19/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
 | 4/19/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 4/19/2024 | HSU1383A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 8.00 |
+| 4/19/2024 | HSU2593A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Instructed | 0.0 | 1.00 |
 | 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Passed | 0.0 | 4.00 |
 | 10/20/2023 | HSU2699A | Chief's Message | Instructed | 0.0 | 2.00 |

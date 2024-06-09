@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2024 | REG2806A | Ethics | Passed | 0.0 | 2.00 |
 | 5/30/2024 | MFN2062A | Single Handed Manipulations | Passed | 0.0 | 2.00 |
 | 5/8/2024 | MFN4027A | Real Colors: Working in Teams | Passed | 0.0 | 6.00 |
 | 5/2/2024 | MFN2715A | DOC 400 OMS Tips and Tricks | Passed | 0.0 | 1.00 |
