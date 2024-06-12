@@ -62,6 +62,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/9/2024
+  course: TDP2098A
+  title: Firearms/Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 4/14/2024
   course: TDP2900A
   title: Defensive Tactics

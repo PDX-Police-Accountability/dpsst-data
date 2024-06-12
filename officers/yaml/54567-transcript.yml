@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 9/1/2023
+  agency: Molalla Police Department
+  action: Reclassed
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 1/20/2021
   agency: Molalla Police Department
   action: Hired

@@ -785,7 +785,6 @@
 | Hopper, Meredith L. | 36239 | Portland Police Bureau | Active | Detective | Promotion | 2009-03-05 | [md](../markdown/36239-transcript.md) - [yaml](../yaml/36239-transcript.yml) |
 | Traynor, Christopher M. | 36266 | Portland Police Bureau | Active | Detective | Promotion | 2006-09-21 | [md](../markdown/36266-transcript.md) - [yaml](../yaml/36266-transcript.yml) |
 | Goss, Ryan W. | 36267 | Portland Police Bureau | Active | Detective | Promotion | 2009-10-15 | [md](../markdown/36267-transcript.md) - [yaml](../yaml/36267-transcript.yml) |
-| Brown, Robert E. | 36496 | Portland Police Bureau | Active | Sergeant | Promotion | 2014-09-25 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Schleich, Alison L. | 36817 | Portland Police Bureau | Active | Criminalist | Promotion | 2005-10-20 | [md](../markdown/36817-transcript.md) - [yaml](../yaml/36817-transcript.yml) |
 | Tobey, Nathan A. | 36819 | Portland Police Bureau | Active | Detective | Promotion | 2012-07-05 | [md](../markdown/36819-transcript.md) - [yaml](../yaml/36819-transcript.yml) |
 | Beniga, Rico T. | 36906 | Portland Police Bureau | Active | Detective | Promotion | 2004-03-25 | [md](../markdown/36906-transcript.md) - [yaml](../yaml/36906-transcript.yml) |
@@ -1628,6 +1627,7 @@
 | Balcomb, Gene L. | 36042 | Portland Police Bureau | Inactive | Civilian Employee | Retired | 2019-12-02 | [md](../markdown/36042-transcript.md) - [yaml](../yaml/36042-transcript.yml) |
 | Maul, Lara M. | 36069 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-02-07 | [md](../markdown/36069-transcript.md) - [yaml](../yaml/36069-transcript.yml) |
 | Sandvik, James E. | 36242 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-07 | [md](../markdown/36242-transcript.md) - [yaml](../yaml/36242-transcript.yml) |
+| Brown, Robert E. | 36496 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-06-06 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Hughes, Michele M. | 36818 | Portland Police Bureau | Inactive | Sergeant | Retired | 2023-12-21 | [md](../markdown/36818-transcript.md) - [yaml](../yaml/36818-transcript.yml) |
 | Nakamura, Arthur J. | 36820 | Portland Police Bureau | Inactive | Assistant Chief | Retired | 2024-01-18 | [md](../markdown/36820-transcript.md) - [yaml](../yaml/36820-transcript.yml) |
 | Kenagy, Christopher J. | 36821 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-01-09 | [md](../markdown/36821-transcript.md) - [yaml](../yaml/36821-transcript.yml) |

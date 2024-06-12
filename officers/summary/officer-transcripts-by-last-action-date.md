@@ -572,7 +572,6 @@
 | Mudrick, Maury J. | 18761 | Portland Police Bureau | Inactive | Detective | Retired | 2014-09-05 | [md](../markdown/18761-transcript.md) - [yaml](../yaml/18761-transcript.yml) |
 | Wolz, Deborah I. | 54680 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2014-09-22 | [md](../markdown/54680-transcript.md) - [yaml](../yaml/54680-transcript.yml) |
 | Harris, Jason A. | 34584 | Portland Police Bureau | Active | Detective | Promotion | 2014-09-25 | [md](../markdown/34584-transcript.md) - [yaml](../yaml/34584-transcript.yml) |
-| Brown, Robert E. | 36496 | Portland Police Bureau | Active | Sergeant | Promotion | 2014-09-25 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Teats, Todd M. | 29579 | Portland Police Bureau | Active | Police Officer | Return LOA | 2014-10-28 | [md](../markdown/29579-transcript.md) - [yaml](../yaml/29579-transcript.yml) |
 | Schmidt, Eric J. | 52804 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2014-11-06 | [md](../markdown/52804-transcript.md) - [yaml](../yaml/52804-transcript.yml) |
 | Oleary, Chester J. | 24991 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2014-11-07 | [md](../markdown/24991-transcript.md) - [yaml](../yaml/24991-transcript.yml) |
@@ -1716,6 +1715,7 @@
 | Johnston, Joshua A. | 60291 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-05-01 | [md](../markdown/60291-transcript.md) - [yaml](../yaml/60291-transcript.yml) |
 | Medina, Gabriel F. | 61098 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-05-15 | [md](../markdown/61098-transcript.md) - [yaml](../yaml/61098-transcript.yml) |
 | Ollenbrook, Alexis S. | 58940 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2024-05-30 | [md](../markdown/58940-transcript.md) - [yaml](../yaml/58940-transcript.yml) |
+| Brown, Robert E. | 36496 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-06-06 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Vasend, Henry M. | 65297 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-06 | [md](../markdown/65297-transcript.md) - [yaml](../yaml/65297-transcript.yml) |
 | Cotterell, Mark A. | 65319 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-06 | [md](../markdown/65319-transcript.md) - [yaml](../yaml/65319-transcript.yml) |
 | Thompson, Brandon A. | 65324 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-06 | [md](../markdown/65324-transcript.md) - [yaml](../yaml/65324-transcript.yml) |

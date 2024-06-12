@@ -4,7 +4,7 @@
 | name | Brown, Robert E. |
 | dpsst_identifier | 36496 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/6/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 9/25/2014 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 1/7/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 | 1/2/1999 | Lincoln County Sheriff's Office | Resigned | Dpty Shrf |  |  |
@@ -19,8 +20,10 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 8/5/2019 | Police Officer | Supervisory | Granted | 8/5/2019 |  |  |
-| 3/14/2000 | Police Officer | Basic | Granted | 3/14/2000 |  |  |
+| 6/10/2024 | Police Officer | Advanced | App Recd |  |  |  |
+| 6/10/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 8/5/2019 | Police Officer | Supervisory | Granted | 8/5/2019 | 9/6/2024 |  |
+| 3/14/2000 | Police Officer | Basic | Granted | 3/14/2000 | 9/6/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
@@ -30,6 +33,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 12/22/1995 | Bachelor of General Studies | All Other Education Institutes |  | 128.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

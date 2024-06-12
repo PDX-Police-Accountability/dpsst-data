@@ -602,7 +602,7 @@
 | Olmos, Miguel J. | 36271 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-04-30 | [md](../markdown/36271-transcript.md) - [yaml](../yaml/36271-transcript.yml) |
 | Barber, Kristopher P. | 36272 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-12-25 | [md](../markdown/36272-transcript.md) - [yaml](../yaml/36272-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
-| Brown, Robert E. | 36496 | Portland Police Bureau | Active | Sergeant | Promotion | 2014-09-25 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
+| Brown, Robert E. | 36496 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-06-06 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Penner, Robert | 36533 | Portland Police Bureau | Active | Civilian Employee | Hired | 1991-10-01 | [md](../markdown/36533-transcript.md) - [yaml](../yaml/36533-transcript.yml) |
 | Venable, Rebecca I. | 36545 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2001-05-30 | [md](../markdown/36545-transcript.md) - [yaml](../yaml/36545-transcript.yml) |
 | Amend, Michelle R. | 36546 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-11-12 | [md](../markdown/36546-transcript.md) - [yaml](../yaml/36546-transcript.yml) |

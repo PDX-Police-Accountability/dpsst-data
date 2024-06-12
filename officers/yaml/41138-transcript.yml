@@ -38,6 +38,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2024
+  course: OCS1184A
+  title: Glock Armorer
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/23/2024
   course: PDP4413A
   title: 2024 SERT Training - SCENARIO

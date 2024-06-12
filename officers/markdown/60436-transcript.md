@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/10/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 2/25/2021 | Police Officer | Basic | Granted | 2/25/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,6 +29,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 9/6/2019 | Bachelor Arts | Oregon State University | Sociology | 90.0 |
+| 3/15/2018 | No Degree | Linn-Benton Community College |  | 91.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

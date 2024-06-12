@@ -16,6 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/10/2024 | Police Officer | Intermediate | App Recd |  |  |  |
 | 3/11/2021 | Police Officer | Basic | Granted | 3/11/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -28,6 +29,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/17/2018 | Associate Science | Portland Community College |  | 86.0 |
+| 6/15/2016 | No Degree | Portland State University |  | 26.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

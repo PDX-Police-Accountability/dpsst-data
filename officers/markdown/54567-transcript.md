@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 9/1/2023 | Molalla Police Department | Reclassed | Detective |  |  |
 | 1/20/2021 | Molalla Police Department | Hired | Police Off |  |  |
 | 1/15/2021 | Mt. Angel Police Department | Resigned | Police Off |  |  |
 | 3/5/2018 | Mt. Angel Police Department | Hired | Police Off |  |  |

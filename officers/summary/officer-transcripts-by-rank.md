@@ -1615,7 +1615,7 @@
 | McDaniel, Jeffrey J. | 35716 | Portland Police Bureau | Active | Sergeant | Promotion | 2011-07-21 | [md](../markdown/35716-transcript.md) - [yaml](../yaml/35716-transcript.yml) |
 | Myers, Michael J. | 36155 | Portland Police Bureau | Active | Sergeant | Promotion | 2019-07-11 | [md](../markdown/36155-transcript.md) - [yaml](../yaml/36155-transcript.yml) |
 | Friedman, Mark D. | 36237 | Portland Police Bureau | Active | Sergeant | Promotion | 2010-12-09 | [md](../markdown/36237-transcript.md) - [yaml](../yaml/36237-transcript.yml) |
-| Brown, Robert E. | 36496 | Portland Police Bureau | Active | Sergeant | Promotion | 2014-09-25 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
+| Brown, Robert E. | 36496 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-06-06 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Hughes, Michele M. | 36818 | Portland Police Bureau | Inactive | Sergeant | Retired | 2023-12-21 | [md](../markdown/36818-transcript.md) - [yaml](../yaml/36818-transcript.yml) |
 | Kenagy, Christopher J. | 36821 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-01-09 | [md](../markdown/36821-transcript.md) - [yaml](../yaml/36821-transcript.yml) |
 | Shadron, John P. | 37126 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/37126-transcript.md) - [yaml](../yaml/37126-transcript.yml) |

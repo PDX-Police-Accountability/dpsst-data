@@ -3,12 +3,18 @@ header_record:
   name: Brown, Robert E.
   dpsst_identifier: '36496'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Sergeant
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/6/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Sergeant
+  classification: ''
+  assignment: ''
 - date: 9/25/2014
   agency: Portland Police Bureau
   action: Promotion
@@ -34,19 +40,33 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/10/2024
+  certificate: Police Officer
+  level: Advanced
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
+- status_date: 6/10/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 8/5/2019
   certificate: Police Officer
   level: Supervisory
   status: Granted
   certificate_date: 8/5/2019
-  expiration_date: ''
+  expiration_date: 9/6/2024
   probation_date: ''
 - status_date: 3/14/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 3/14/2000
-  expiration_date: ''
+  expiration_date: 9/6/2024
   probation_date: ''
 training_records:
 - date: 2/19/2024
@@ -4076,4 +4096,9 @@ attribute_records:
   value: LE Leadership 3 Year
   effective_date: 1/1/2022
   expiration_date: 12/31/2024
-education_records: []
+education_records:
+- date: 12/22/1995
+  degree: Bachelor of General Studies
+  school: All Other Education Institutes
+  major: ''
+  hours: '128.0'

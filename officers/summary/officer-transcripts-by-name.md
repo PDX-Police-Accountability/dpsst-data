@@ -273,7 +273,7 @@
 | Brown, Matthew W. | 52831 | Portland Police Bureau | Active | Detective | Promotion | 2021-02-04 | [md](../markdown/52831-transcript.md) - [yaml](../yaml/52831-transcript.yml) |
 | Brown, Michael R. | 63531 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-03-03 | [md](../markdown/63531-transcript.md) - [yaml](../yaml/63531-transcript.yml) |
 | Brown, Robert C. | 42549 | Portland Police Bureau | Active | Police Officer | Hired | 2002-09-12 | [md](../markdown/42549-transcript.md) - [yaml](../yaml/42549-transcript.yml) |
-| Brown, Robert E. | 36496 | Portland Police Bureau | Active | Sergeant | Promotion | 2014-09-25 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
+| Brown, Robert E. | 36496 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-06-06 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Brown, Ryan M. | 52668 | Portland Police Bureau | Active | Police Officer | Hired | 2014-04-03 | [md](../markdown/52668-transcript.md) - [yaml](../yaml/52668-transcript.yml) |
 | Brown, Thomas M. | 32382 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-06-30 | [md](../markdown/32382-transcript.md) - [yaml](../yaml/32382-transcript.yml) |
 | Browning, Bradley W. | 51793 | Portland Police Bureau | Active | Sergeant | Promotion | 2022-10-27 | [md](../markdown/51793-transcript.md) - [yaml](../yaml/51793-transcript.yml) |

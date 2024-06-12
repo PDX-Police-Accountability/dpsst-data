@@ -232,7 +232,6 @@
 | Goss, Ryan W. | 36267 | Portland Police Bureau | Active | Detective | Promotion | 2009-10-15 | [md](../markdown/36267-transcript.md) - [yaml](../yaml/36267-transcript.yml) |
 | Olmos, Miguel J. | 36271 | Portland Police Bureau | Active | Police Officer | Return LOA | 2020-04-30 | [md](../markdown/36271-transcript.md) - [yaml](../yaml/36271-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
-| Brown, Robert E. | 36496 | Portland Police Bureau | Active | Sergeant | Promotion | 2014-09-25 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Penner, Robert | 36533 | Portland Police Bureau | Active | Civilian Employee | Hired | 1991-10-01 | [md](../markdown/36533-transcript.md) - [yaml](../yaml/36533-transcript.yml) |
 | Amend, Michelle R. | 36546 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-11-12 | [md](../markdown/36546-transcript.md) - [yaml](../yaml/36546-transcript.yml) |
 | Eisner, Melody R. | 36591 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-11-19 | [md](../markdown/36591-transcript.md) - [yaml](../yaml/36591-transcript.yml) |
@@ -1409,6 +1408,7 @@
 | Sandvik, James E. | 36242 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-07 | [md](../markdown/36242-transcript.md) - [yaml](../yaml/36242-transcript.yml) |
 | Wellhouser, Craig C. | 36243 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2000-02-26 | [md](../markdown/36243-transcript.md) - [yaml](../yaml/36243-transcript.yml) |
 | Barber, Kristopher P. | 36272 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-12-25 | [md](../markdown/36272-transcript.md) - [yaml](../yaml/36272-transcript.yml) |
+| Brown, Robert E. | 36496 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-06-06 | [md](../markdown/36496-transcript.md) - [yaml](../yaml/36496-transcript.yml) |
 | Venable, Rebecca I. | 36545 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2001-05-30 | [md](../markdown/36545-transcript.md) - [yaml](../yaml/36545-transcript.yml) |
 | Davis, Christopher A. | 36611 | Portland Police Bureau | Inactive | Deputy Chief | Resigned | 2021-09-02 | [md](../markdown/36611-transcript.md) - [yaml](../yaml/36611-transcript.yml) |
 | Sheridan, Timothy M. | 36713 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 2003-01-09 | [md](../markdown/36713-transcript.md) - [yaml](../yaml/36713-transcript.yml) |

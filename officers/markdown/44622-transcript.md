@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2024 | OSH0080A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/31/2024 | OSH3265A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/20/2024 | OSH4299A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
 | 5/17/2024 | OSH2604A | 2nd Trimester Firearms - Rifle | Instructed | 0.0 | 8.00 |
