@@ -164,6 +164,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '6.50'
+- date: 3/7/2024
+  course: OCS2111A
+  title: New Hire Shotgun Orientation
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/5/2024
   course: OCS3704A
   title: March,June,July,August,December Monthly Firearms

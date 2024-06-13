@@ -43,4 +43,14 @@ training_records:
   score: '0.0'
   hours: '0.00'
 attribute_records: []
-education_records: []
+education_records:
+- date: 3/23/2018
+  degree: Bachelor Science
+  school: Oregon State University
+  major: Psychology
+  hours: '77.0'
+- date: 8/27/2015
+  degree: Associate Science
+  school: Linn-Benton Community College
+  major: Psychology
+  hours: '118.0'

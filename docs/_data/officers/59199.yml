@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 4/22/2025
   probation_date: ''
 training_records:
+- date: 6/5/2024
+  course: EGP4531A
+  title: Firearms Training/Rifle Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/23/2024
   course: EGP3131A
   title: Patrol Breaching Tools  Scenarios

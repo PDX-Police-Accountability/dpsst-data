@@ -54,6 +54,7 @@
 | 4/2/2024 | OCS2183A | July,Aug,Sept 23 and Feb, Mar, April 24 Firearms | Instructed | 0.0 | 6.00 |
 | 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 3/22/2024 | OCS3372A | Target ID/Positional Shooting/Marksmanship | Instructed | 0.0 | 6.50 |
+| 3/7/2024 | OCS2111A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
 | 3/5/2024 | OCS3704A | March,June,July,August,December Monthly Firearms | Instructed | 0.0 | 5.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |
 | 2/28/2024 | OCS2413A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 5/28/2024 | OCP3553A | Critical Incident Response Roll Call Training |  | 0.0 | 0.25 |
 | 5/23/2024 | OCP3498A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/25/2024 | OCP0705A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |
 | 4/15/2024 | OCP0856A | DUII Case Law Update | Passed | 0.0 | 0.25 |

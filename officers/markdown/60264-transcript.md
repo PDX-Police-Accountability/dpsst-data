@@ -24,6 +24,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/23/2018 | Bachelor Science | Oregon State University | Psychology | 77.0 |
+| 8/27/2015 | Associate Science | Linn-Benton Community College | Psychology | 118.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

@@ -80,6 +80,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/28/2024
+  course: OCP3553A
+  title: Critical Incident Response Roll Call Training
+  status: ''
+  score: '0.0'
+  hours: '0.25'
 - date: 5/23/2024
   course: OCP3498A
   title: Firearms/Use of Force

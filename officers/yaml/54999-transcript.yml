@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 5/23/2024
+  course: HRS1520A
+  title: Spring Firearms Range
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/6/2024
   course: HRS0473A
   title: NORCOR Clearance  SB48
