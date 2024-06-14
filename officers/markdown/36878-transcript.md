@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2024 | BVP1290A | Detective Academy | Instructed | 0.0 | 2.00 |
 | 4/11/2024 | BVP0411A | Beaverton Police 2024 Reserve Academy | Instructed | 0.0 | 3.00 |
 | 1/30/2024 | BVP0092A | First Aid and Adult/Child CPR 013024am | Passed | 0.0 | 3.00 |
 | 1/26/2024 | BVP4344A | Pistol Mounted Optic Class Day 2 Jan.26 | Passed | 0.0 | 8.00 |

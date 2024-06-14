@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | TRN0292A | TruNarc External Training | Passed | 0.0 | 2.00 |
 | 4/12/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 2/17/2024 | TRN3684A | Fire Alarm Panel Monitoring v2024 | Passed | 0.0 | 1.00 |
 | 2/16/2024 | TRN4522A | AICs with Dis-Access Provisions v2024 | Passed | 0.0 | 1.00 |

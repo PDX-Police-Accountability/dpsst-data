@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/17/2024 | SMS2001A | Pedestrian Collision Investigations | Passed | 0.0 | 40.00 |
 | 3/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 14.00 |
 | 2/22/2024 | PDP3362A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |

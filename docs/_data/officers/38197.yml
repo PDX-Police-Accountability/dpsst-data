@@ -75,12 +75,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/4/2024
+  course: PDP0794A
+  title: GLOCK Armorer Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/15/2024
   course: PDP2949A
   title: 2024 CNT Crisis Negotiation Team Annual Training
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/1/2024
+  course: PDP0452A
+  title: WSHNA Training Seminar  HNT Competition
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/28/2024
   course: PDP2818A
   title: 2024 DIR 0640.80, Bias Event Response

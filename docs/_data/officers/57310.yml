@@ -37,6 +37,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/1/2024
+  course: PDP0452A
+  title: WSHNA Training Seminar  HNT Competition
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 4/12/2024
   course: PDP0779A
   title: 2023 PPB Honor Guard In Service Training

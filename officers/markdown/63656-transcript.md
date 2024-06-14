@@ -29,7 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
-| 4/29/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
+| 5/27/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 9/26/2023 | PDP1833A | 2023 FTEP Geography | Passed | 0.0 | 3.00 |
 | 9/15/2023 | M10-23A | DPSST Basic Police Course | Incomplete | 0.0 | 0.00 |
 | 7/20/2023 | REG2860A | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |

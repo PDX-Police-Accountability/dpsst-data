@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 5/2/2024
+  course: PDP2698A
+  title: RISS Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '27.50'
 - date: 4/10/2024
   course: PDP3669A
   title: WSNIA Training Summit

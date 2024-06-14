@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | PDP0403A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 2/22/2024 | PDP4465A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 15.00 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/22/2024 | PDP3661A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |

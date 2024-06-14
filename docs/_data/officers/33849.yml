@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2024
+  course: SMS2001A
+  title: Pedestrian Collision Investigations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/20/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

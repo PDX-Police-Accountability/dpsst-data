@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/5/2024
+  course: BVP3055A
+  title: 2024 BPD Bike Certification
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/13/2024
   course: BVP1475A
   title: 2024 February Range

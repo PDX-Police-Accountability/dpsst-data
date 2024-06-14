@@ -101,6 +101,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2024
+  course: HBS3545A
+  title: 2024 March IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 5/31/2024
   course: MISCMAIN
   title: 2024 LE Leadership 3 Year Maintenance

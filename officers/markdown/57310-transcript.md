@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/15/2024 | PDP2949A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 5/1/2024 | PDP0452A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 28.00 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/13/2024 | PDP4432A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |

@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | PDP0403A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Passed | 0.0 | 4.00 |
 | 3/7/2024 | PDP3292A | Protecting Lives Saving Futures | Passed | 0.0 | 32.00 |
 | 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Passed | 0.0 | 8.00 |

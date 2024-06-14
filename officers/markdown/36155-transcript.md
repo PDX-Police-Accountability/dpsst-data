@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | PDP0403A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 4/4/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 4/4/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/4/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

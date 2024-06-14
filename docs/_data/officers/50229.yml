@@ -49,6 +49,102 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/27/2024
+  course: TRN2539A
+  title: CCCF Fire Suppression Training v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2024
+  course: TRN2580A
+  title: Cultural Humility Empathy v2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/27/2024
+  course: TRN4268A
+  title: AICs with Dis-Access Provisions v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2024
+  course: TRN1979A
+  title: Bloodborne Pathogens in the Workplace v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2024
+  course: TRN3270A
+  title: DOC - Crisis Intervention v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/27/2024
+  course: TRN3395A
+  title: DOC - ICS for Corrections v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2024
+  course: TRN2523A
+  title: Duty to Intervene v2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/27/2024
+  course: TRN3559A
+  title: Physical Wellness Corr Professionals v2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/27/2024
+  course: TRN2454A
+  title: Suicide Detection and Prevention v2023
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/27/2024
+  course: TRN1086A
+  title: Threat and Risk Assessment v2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/27/2024
+  course: TRN2386A
+  title: Utilizing WEX Fuel Card for State Vehicle v2024_2
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/16/2024
+  course: TRN2023A
+  title: DOC - De-Escalation Cycle v2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/16/2024
+  course: TRN0684A
+  title: DOC - Drug Recognition and Interdiction v2024
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 4/16/2024
+  course: TRN3544A
+  title: DOC - FS - Krav Maga Defensive Tactics v2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/15/2024
+  course: TRN1521A
+  title: Adult Child Infant CPR AED
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 4/15/2024
+  course: TRN4533A
+  title: DOC - Stop the Bleed v2024
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/10/2024
   course: TRN0882A
   title: Environmental Wellness Corr Professionals v2024
@@ -1208,6 +1304,10 @@ training_records:
   score: '0.0'
   hours: '3.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 4/15/2024
+  expiration_date: 4/1/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

@@ -70,6 +70,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/24/2024
+  course: BVP1290A
+  title: Detective Academy
+  status: Instructed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/11/2024
   course: BVP0411A
   title: Beaverton Police 2024 Reserve Academy

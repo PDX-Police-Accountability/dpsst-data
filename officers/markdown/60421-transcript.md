@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2024 | BVP1290A | Detective Academy | Instructed | 0.0 | 1.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Instructed | 0.0 | 3.00 |
 | 4/22/2024 | REG4067A | Handgun IDC | Passed | 0.0 | 40.00 |
 | 4/19/2024 | SAG2590A | Firearms Training | Passed | 0.0 | 1.00 |

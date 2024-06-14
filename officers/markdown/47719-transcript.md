@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/5/2024 | BVP3055A | 2024 BPD Bike Certification | Instructed | 0.0 | 40.00 |
 | 2/13/2024 | BVP1475A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 2/2/2024 | BVP3645A | Bike Mechanic Class 2024 | Passed | 0.0 | 35.00 |
 | 1/19/2024 | BVP2358A | First Aid and Adult/Child CPR 11924am | Passed | 0.0 | 3.00 |

@@ -24,6 +24,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 4/15/2024 | 4/1/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Certification Cards | First Aid and CPR | 10/31/2022 | 10/31/2024 |
@@ -35,6 +36,22 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/27/2024 | TRN2539A | CCCF Fire Suppression Training v2024 | Passed | 0.0 | 1.00 |
+| 5/27/2024 | TRN2580A | Cultural Humility Empathy v2024 | Passed | 0.0 | 2.00 |
+| 5/27/2024 | TRN4268A | AICs with Dis-Access Provisions v2024 | Passed | 0.0 | 1.00 |
+| 5/27/2024 | TRN1979A | Bloodborne Pathogens in the Workplace v2024 | Passed | 0.0 | 1.00 |
+| 5/27/2024 | TRN3270A | DOC - Crisis Intervention v2023 | Passed | 0.0 | 2.00 |
+| 5/27/2024 | TRN3395A | DOC - ICS for Corrections v2024 | Passed | 0.0 | 1.00 |
+| 5/27/2024 | TRN2523A | Duty to Intervene v2024 | Passed | 0.0 | 2.00 |
+| 5/27/2024 | TRN3559A | Physical Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
+| 5/27/2024 | TRN2454A | Suicide Detection and Prevention v2023 | Passed | 0.0 | 2.00 |
+| 5/27/2024 | TRN1086A | Threat and Risk Assessment v2024 | Passed | 0.0 | 2.00 |
+| 5/27/2024 | TRN2386A | Utilizing WEX Fuel Card for State Vehicle v2024_2 | Passed | 0.0 | 1.00 |
+| 4/16/2024 | TRN2023A | DOC - De-Escalation Cycle v2024 | Passed | 0.0 | 3.00 |
+| 4/16/2024 | TRN0684A | DOC - Drug Recognition and Interdiction v2024 | Passed | 0.0 | 3.00 |
+| 4/16/2024 | TRN3544A | DOC - FS - Krav Maga Defensive Tactics v2024 | Passed | 0.0 | 2.00 |
+| 4/15/2024 | TRN1521A | Adult Child Infant CPR AED | Passed | 0.0 | 6.00 |
+| 4/15/2024 | TRN4533A | DOC - Stop the Bleed v2024 | Passed | 0.0 | 2.00 |
 | 3/10/2024 | TRN0882A | Environmental Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
 | 3/10/2024 | TRN0603A | Social Wellness Corr Professionals v2024 | Passed | 0.0 | 1.00 |
 | 3/10/2024 | TRN3178A | Risk - Vehicle Use and Access | Passed | 0.0 | 0.50 |

@@ -29,5 +29,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Pending | 0.0 | 0.00 |
+| 12/10/2025 | M31-21A | DPSST Parole and Probation Field Training Manual | Required | 0.0 | 50.00 |
+| 12/10/2025 | REQAPP | REQUIRED TRAINING: Armed Parole and Probation | Required | 0.0 | 0.00 |
+| 10/7/2024 | 24-0005 | DPSST Basic Parole and Probation | Registered | 0.0 | 0.00 |
+| 7/8/2024 | M32-20A | Armed Parole and Probation Course | Registered | 0.0 | 0.00 |
 | 12/9/2019 | M10-19A | DPSST Basic Police Course | Cancelled | 0.0 | 0.00 |
