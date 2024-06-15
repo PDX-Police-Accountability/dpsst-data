@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | PDP3174A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 3/7/2024 | SAG1393A | Protecting Lives Saving Futures | Instructed | 0.0 | 4.00 |
 | 3/6/2024 | SAG1662A | Protecting Lives Saving Futures | Instructed | 0.0 | 8.00 |

@@ -124,6 +124,7 @@
 | 5/22/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/18/2023 | PDP0829 | 2023 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/17/2023 | PDP3627A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 5/12/2023 | PDP1264A | NW Gang Investigation Assoc. Training Symposium | Passed | 0.0 | 36.00 |
 | 5/4/2023 | PDP2652 | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 4/27/2023 | PDP2387A | 2023-1 All Sworn In-Service Field Arrest | Passed | 0.0 | 0.50 |
 | 4/27/2023 | PDP1421A | 2023-1 All Sworn In-Service Internal Affairs | Passed | 0.0 | 1.00 |

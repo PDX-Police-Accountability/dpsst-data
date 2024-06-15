@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | PDP3174A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 4/10/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 4/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |

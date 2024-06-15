@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 4/27/2024
+  course: OCS2185A
+  title: Peer training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/3/2024
   course: OCS1848A
   title: Ethics- ETHOS training

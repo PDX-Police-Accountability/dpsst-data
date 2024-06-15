@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/16/2024
+  course: PDP3174A
+  title: NAMOA Conference
+  status: Passed
+  score: '0.0'
+  hours: '23.00'
 - date: 4/5/2024
   course: F6R2630A
   title: DUII Multi-Disciplinary Task Force

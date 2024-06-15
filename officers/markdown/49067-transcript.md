@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/15/2024 | VND3612A | Responder Life Peer Support Quarterly Training | Passed | 0.0 | 1.50 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/27/2024 | OCS2185A | Peer training | Passed | 0.0 | 4.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/3/2024 | OSH0972A | 2024 DRE Confernce | Passed | 0.0 | 8.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |

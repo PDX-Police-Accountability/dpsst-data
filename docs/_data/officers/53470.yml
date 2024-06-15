@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/6/2024
+  course: PDP3315A
+  title: Domestic Violence Law Enforcement Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 1/4/2024
   course: PVS0854A
   title: Good Leaders Ask Great Questions
