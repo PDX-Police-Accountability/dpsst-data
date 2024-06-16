@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/17/2024
+  course: PDS0654A
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 5/17/2024
+  course: PDS0811A
+  title: Post-Deadly Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/7/2024
   course: PDS0426A
   title: ConSim

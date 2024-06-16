@@ -68,12 +68,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/28/2024
+  course: PDS1007A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/22/2024
   course: VND2669A
   title: 28 CFR 23 and WSIN Resources
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/10/2024
+  course: PDS1357A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/9/2024
   course: PDS3390A
   title: Defensive Tactics
@@ -86,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 4/9/2024
+  course: PDS3473A
+  title: TASER
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 3/29/2024
   course: PDS3207A
   title: Defensive Tactics

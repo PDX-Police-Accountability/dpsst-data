@@ -44,7 +44,7 @@
 | 11/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
 | 10/13/2024 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 4/3/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
-| 3/18/2024 | 24-0026 | DPSST Middle Management | Registered | 0.0 | 0.00 |
+| 3/18/2024 | 24-0026 | DPSST Middle Management | No Show | 0.0 | 0.00 |
 | 1/16/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 12/29/2023 | MISCMAIN | 2023 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 12/22/2023 | PDP1516A | Creating Safe Scenes - SAMHSA | Passed | 0.0 | 1.50 |

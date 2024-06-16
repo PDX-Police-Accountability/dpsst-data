@@ -29,6 +29,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/29/2024 | PDS1113A | Monthly Reserve Unit Training | Passed | 0.0 | 2.00 |
+| 5/15/2024 | PDS4373A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/8/2024 | PDS1401A | LE Range | Passed | 0.0 | 2.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |
 | 2/26/2024 | PDS4516A | Range Training | Passed | 0.0 | 2.00 |

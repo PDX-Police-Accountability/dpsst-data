@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/14/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 12/2/2021
   certificate: Police Officer
   level: Basic
@@ -1819,4 +1826,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 9/27/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 12/12/2009
+  degree: Bachelor Arts
+  school: Western Oregon University
+  major: ''
+  hours: '161.0'
+- date: 6/15/2005
+  degree: No Degree
+  school: Linn-Benton Community College
+  major: ''
+  hours: '45.0'

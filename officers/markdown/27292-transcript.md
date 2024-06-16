@@ -46,6 +46,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/22/2024 | PDS3143A | Corrections Overview | Passed | 0.0 | 6.00 |
+| 5/20/2024 | PDS3034A | May Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |
 | 4/16/2024 | PDS0997A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/5/2024 | PDS3422A | Agency Values, Expectations, and Transgender | Passed | 0.0 | 4.00 |
 | 3/3/2024 | PDS1053A | March Crisis Negotiation Team Training | Passed | 0.0 | 16.00 |

@@ -16,6 +16,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/14/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Recd
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: ''
 - status_date: 2/2/2021
   certificate: Police Officer
   level: Basic
@@ -1941,4 +1948,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 1/22/2020
   expiration_date: ''
-education_records: []
+education_records:
+- date: 8/18/2017
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '121.0'

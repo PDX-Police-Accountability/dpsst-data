@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/26/2024 | PDS2146A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/22/2024 | VND2669A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 4/8/2024 | PDS1401A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

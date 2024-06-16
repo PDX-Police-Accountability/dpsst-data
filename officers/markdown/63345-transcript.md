@@ -209,5 +209,6 @@
 | 9/30/2022 | PDP37875 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 9/29/2022 | PDP14717 | Firearms Training - New Hire | Passed | 0.0 | 8.00 |
 | 9/27/2022 | PDP12607 | FTEP Policy  Procedure | Passed | 0.0 | 7.00 |
+| 5/20/2022 | MISCOOS | Approved Out of State Training | Passed | 0.0 | 1184.50 |
 | 6/8/2018 | PDP11528 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 6/7/2018 | PDP00791 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

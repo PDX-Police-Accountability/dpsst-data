@@ -35,6 +35,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/24/2024
+  course: PDS2109A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/5/2024
   course: PDS0814A
   title: Airway and Circulatory Training

@@ -1093,6 +1093,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '7.00'
+- date: 5/20/2022
+  course: MISCOOS
+  title: Approved Out of State Training
+  status: Passed
+  score: '0.0'
+  hours: '1184.50'
 - date: 6/8/2018
   course: PDP11528
   title: ICS-100 Intro to the Incident Cmmnd System

@@ -93,6 +93,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '28.00'
+- date: 4/11/2024
+  course: PDP3848A
+  title: Oregon Law Enforcement  Fire PIO Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/28/2024
   course: PDP2818A
   title: 2024 DIR 0640.80, Bias Event Response

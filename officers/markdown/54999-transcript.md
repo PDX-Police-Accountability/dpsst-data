@@ -42,7 +42,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/23/2024 | HRS1520A | Spring Firearms Range | Passed | 0.0 | 3.00 |
 | 5/6/2024 | HRS0473A | NORCOR Clearance  SB48 | Passed | 0.0 | 0.50 |
-| 5/6/2024 | HRS4534A | Air Support for Patrol | Passed | 0.0 | 0.50 |
+| 5/6/2024 | HRS4534A | LEMHWA Update | Passed | 0.0 | 0.50 |
 | 5/6/2024 | HRS3848A | Question, Persuade, Refer - Suicide Prevention | Passed | 0.0 | 1.50 |
 | 5/6/2024 | HRS4005A | TIP Update | Passed | 0.0 | 0.50 |
 | 5/6/2024 | HRS3391A | Air Support for Patrol | Passed | 0.0 | 0.50 |

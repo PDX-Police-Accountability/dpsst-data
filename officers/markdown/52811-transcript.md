@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/15/2024 | PDS4373A | Defensive Tactics | Instructed | 0.0 | 4.00 |
+| 5/11/2024 | PDS3148A | Range Instructor | Passed | 0.0 | 16.00 |
 | 5/9/2024 | PDS3390A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 4/30/2024 | PDS2993A | Red Dot Optic Transition Course | Instructed | 0.0 | 16.00 |
 | 4/22/2024 | PDS3960A | LE Range | Instructed | 0.0 | 2.00 |
@@ -46,6 +48,7 @@
 | 3/27/2024 | PDS0168A | LE Range IDC | Passed | 0.0 | 3.00 |
 | 3/26/2024 | PDS1794A | Defensive Tactics | Instructed | 0.0 | 8.00 |
 | 3/21/2024 | PDS3394A | Officer Down/Citizen Rescue | Passed | 0.0 | 4.00 |
+| 3/21/2024 | PDS2383A | SWAT Training | Passed | 0.0 | 12.00 |
 | 3/20/2024 | PDS0766A | SWAT Firearms Training | Passed | 0.0 | 8.00 |
 | 3/19/2024 | PDS1230A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 3/18/2024 | PDS3962A | Defensive Tactics | Instructed | 0.0 | 4.00 |
