@@ -200,6 +200,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 6/14/2024
+  course: OSH0111A
+  title: 0166 2nd Trimester Firearms
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/31/2024
   course: OSH3274A
   title: TruNarc Drug Identifier

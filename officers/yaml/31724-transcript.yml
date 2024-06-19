@@ -327,6 +327,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/3/2024
+  course: BNS2650A
+  title: IS-200 Basic Incident Command
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/2/2024
   course: BNS2982A
   title: Deputy Survival
@@ -4557,6 +4563,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/7/2006
+  course: BNS0776A
+  title: IS-100 Intro to Incident Command
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/31/2005
   course: 05-2977
   title: PPB - Other LE Classes
@@ -4569,6 +4581,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '44.00'
+- date: 12/7/2005
+  course: BNS3399A
+  title: IS-700 Intro to NIMS
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 7/1/2005
   course: 05-0590
   title: LEDS Recertification

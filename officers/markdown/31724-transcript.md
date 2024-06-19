@@ -80,6 +80,7 @@
 | 4/5/2024 | BNS2039A | Pepperball | Passed | 0.0 | 2.00 |
 | 4/5/2024 | BNS4486A | Use of Force | Passed | 0.0 | 4.00 |
 | 4/4/2024 | BNS1656A | County Orientation | Passed | 0.0 | 8.00 |
+| 4/3/2024 | BNS2650A | IS-200 Basic Incident Command | Passed | 0.0 | 4.00 |
 | 4/2/2024 | BNS2982A | Deputy Survival | Passed | 0.0 | 3.00 |
 | 4/2/2024 | BNS3679A | Health and Wellness | Passed | 0.0 | 2.00 |
 | 12/12/2023 | PDP3424A | 2023 Traffic Monthly Training | Passed | 0.0 | 6.00 |
@@ -785,8 +786,10 @@
 | 12/31/2006 | 06-1348 | PPB - Firearms/Use of Force | Passed | 0.0 | 13.00 |
 | 12/31/2006 | 06-1347 | PPB - Other LE Classes | Passed | 0.0 | 19.10 |
 | 8/24/2006 | 06-0032 | Intoxilyzer 8000 | Passed | 0.0 | 4.00 |
+| 6/7/2006 | BNS0776A | IS-100 Intro to Incident Command | Passed | 0.0 | 2.00 |
 | 12/31/2005 | 05-2977 | PPB - Other LE Classes | Passed | 0.0 | 37.80 |
 | 12/31/2005 | 05-2978 | PPB - Firearms/Use of Force | Passed | 0.0 | 44.00 |
+| 12/7/2005 | BNS3399A | IS-700 Intro to NIMS | Passed | 0.0 | 3.50 |
 | 7/1/2005 | 05-0590 | LEDS Recertification | Passed | 0.0 | 2.00 |
 | 12/31/2004 | 04-3581 | PPB - Firearms/Use of Force | Passed | 0.0 | 11.00 |
 | 12/31/2004 | 04-3579 | PPB - Other LE Classes | Passed | 0.0 | 76.50 |
