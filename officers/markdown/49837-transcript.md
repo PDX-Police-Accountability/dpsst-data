@@ -49,6 +49,13 @@
 | 2/22/2024 | PDP2495A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 2/15/2024 | PDP3761A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 2/8/2024 | PDP0488A | 2024 SERT Training - CLASSROOM | Passed | 0.0 | 9.00 |
+| 2/7/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
+| 2/7/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 2.00 |
+| 2/7/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP3259A | 2024 Wellness In-Service Self Assessment | Passed | 0.0 | 1.00 |
 | 2/4/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/4/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/4/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |

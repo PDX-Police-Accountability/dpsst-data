@@ -56,6 +56,48 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/7/2024
+  course: PDP3870A
+  title: 2024 Wellness In-Service Breathwork
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2024
+  course: PDP2348A
+  title: 2024 Wellness In-Service LI Workout
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2024
+  course: PDP2918A
+  title: 2024 Wellness In-Service Build Mental Resilience
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/7/2024
+  course: PDP1248A
+  title: 2024 Wellness In-Service Financial Wellness
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/7/2024
+  course: PDP4003A
+  title: 2024 Wellness In-Service Movement Screening
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2024
+  course: PDP3452A
+  title: 2024 Wellness In-Service Stress Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/7/2024
+  course: PDP3259A
+  title: 2024 Wellness In-Service Self Assessment
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/30/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

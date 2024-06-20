@@ -43,6 +43,13 @@
 | 4/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/3/2024 | PDP0703A | Officer Safety and Wellness Conference | Passed | 0.0 | 12.00 |
 | 2/23/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
+| 2/7/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 2.00 |
+| 2/7/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
+| 2/7/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP3259A | 2024 Wellness In-Service Self Assessment | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 2/1/2024 | PDP3591A | NW Peer Support Conference | Passed | 0.0 | 19.25 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |

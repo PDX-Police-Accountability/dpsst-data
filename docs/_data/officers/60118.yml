@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2024
+  course: HRS2718A
+  title: Defensive Tactics Inservice
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/16/2024
   course: HRS3296A
   title: Spring Firearms Range

@@ -47,6 +47,13 @@
 | 2/19/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 2/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/15/2024 | PDP3990A | 2024-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 2/13/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/13/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
+| 2/13/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 2.00 |
+| 2/13/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
+| 2/13/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
+| 2/13/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
+| 2/13/2024 | PDP3259A | 2024 Wellness In-Service Self Assessment | Passed | 0.0 | 1.00 |
 | 12/16/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/16/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 10/28/2023 | PDP4251A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |

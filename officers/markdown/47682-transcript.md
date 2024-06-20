@@ -42,6 +42,13 @@
 | 2/22/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/22/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/22/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
+| 2/9/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
+| 2/9/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 2.00 |
+| 2/9/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP3259A | 2024 Wellness In-Service Self Assessment | Passed | 0.0 | 1.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/31/2024 | VND0187A | NW Peer Support Conference | Passed | 0.0 | 8.00 |
 | 1/30/2024 | VND2789A | NW Peer Support Conference | Passed | 0.0 | 6.00 |

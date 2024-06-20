@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/8/2024
+  course: TDP4161A
+  title: DUTY TO INTERVENE 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/1/2024
+  course: TDP2983A
+  title: Implicit Bias 2024
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/9/2024
   course: TDP2098A
   title: Firearms/Use of Force
@@ -98,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/26/2024
+  course: TDP0689A
+  title: HB 4301 Yearly Review--2024
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 2/16/2024
   course: 24-0029
   title: DPSST Supervision

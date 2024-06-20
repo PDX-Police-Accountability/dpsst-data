@@ -30,6 +30,13 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 10/13/2024 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
+| 2/7/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 2.00 |
+| 2/7/2024 | PDP3259A | 2024 Wellness In-Service Self Assessment | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
+| 2/7/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
 | 1/18/2024 | PDP0772A | 2024  FTEP HAZMAT/WMD Awareness | Passed | 0.0 | 3.50 |
 | 1/15/2024 | PDP3946A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
 | 1/15/2024 | PDP2314A | 2024 FTEP Control Tactics Post Basic Academy | Passed | 0.0 | 4.00 |

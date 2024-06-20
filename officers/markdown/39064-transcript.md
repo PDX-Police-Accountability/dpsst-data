@@ -37,12 +37,15 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/8/2024 | TDP4161A | DUTY TO INTERVENE 2024 | Passed | 0.0 | 1.00 |
+| 6/1/2024 | TDP2983A | Implicit Bias 2024 | Passed | 0.0 | 1.00 |
 | 5/9/2024 | TDP2098A | Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 4/14/2024 | TDP2900A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 4/6/2024 | TDP0940A | Responding to People with Mental Illness--2024 | Passed | 0.0 | 1.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/1/2024 | TDP3960A | Helping the helpers w/emot survival | Passed | 0.0 | 1.00 |
 | 3/1/2024 | TDP1840A | Tactical Disengagement and de-escalation | Passed | 0.0 | 1.50 |
+| 2/26/2024 | TDP0689A | HB 4301 Yearly Review--2024 | Passed | 0.0 | 0.50 |
 | 2/16/2024 | 24-0029 | DPSST Supervision | Passed | 0.0 | 80.00 |
 | 2/5/2024 | TDP3632A | Bloodborne Pathogens 2024 | Passed | 0.0 | 1.00 |
 | 12/21/2023 | TDP2243A | Harassment in the work place | Passed | 0.0 | 1.00 |

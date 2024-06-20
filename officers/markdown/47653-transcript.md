@@ -37,6 +37,13 @@
 | 3/5/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 3/4/2024 | PDP0270A | 2024 Axon Taser 7 Instructor Course | Instructed | 0.0 | 8.00 |
 | 2/23/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
+| 2/9/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
+| 2/9/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 2.00 |
+| 2/9/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP3259A | 2024 Wellness In-Service Self Assessment | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
+| 2/9/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
 | 2/1/2024 | PDP0220A | Western States Public Order Conference | Passed | 0.0 | 32.00 |
 | 1/15/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 1/11/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

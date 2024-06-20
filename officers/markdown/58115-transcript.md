@@ -29,7 +29,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
-| 5/15/2017 | No Degree | Willamette University |  | 29.0 |
+| 8/31/2017 | Bachelor Arts | Willamette University |  | 31.0 |
 | 9/15/2016 | No Degree | Chemeketa Community College |  | 11.0 |
 ## Training
 | date | course | title | status | score | hours |

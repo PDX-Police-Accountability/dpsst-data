@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2024 | TGP0037A | Human Intelligence: AKA Informants | Passed | 0.0 | 8.00 |
 | 5/17/2024 | TGP3743A | Cellebrite Certified Operator  Physical Analyst | Passed | 0.0 | 40.00 |
 | 5/8/2024 | TGP2279A | Cultural Competence and Diversity | Passed | 0.0 | 1.00 |
 | 5/8/2024 | TGP3517A | Ethics For Law Enforcement: Introduction | Passed | 0.0 | 2.00 |

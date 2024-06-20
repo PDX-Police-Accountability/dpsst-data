@@ -2399,11 +2399,11 @@ attribute_records:
   effective_date: 1/22/2018
   expiration_date: ''
 education_records:
-- date: 5/15/2017
-  degree: No Degree
+- date: 8/31/2017
+  degree: Bachelor Arts
   school: Willamette University
   major: ''
-  hours: '29.0'
+  hours: '31.0'
 - date: 9/15/2016
   degree: No Degree
   school: Chemeketa Community College

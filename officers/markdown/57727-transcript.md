@@ -40,6 +40,13 @@
 | 2/29/2024 | PDP0088A | 2024-1 Range Qualification Shotgun Function Check | Passed | 0.0 | 0.25 |
 | 2/22/2024 | REG3588A | 2024 Police Traffic Safety Conference | Passed | 0.0 | 16.00 |
 | 2/22/2024 | PDP2218A | ODOT Police Traffic Safety Conference | Passed | 0.0 | 14.50 |
+| 2/14/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
+| 2/14/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |
+| 2/14/2024 | PDP1248A | 2024 Wellness In-Service Financial Wellness | Passed | 0.0 | 1.50 |
+| 2/14/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
+| 2/14/2024 | PDP3259A | 2024 Wellness In-Service Self Assessment | Passed | 0.0 | 1.00 |
+| 2/14/2024 | PDP4003A | 2024 Wellness In-Service Movement Screening | Passed | 0.0 | 1.00 |
+| 2/14/2024 | PDP3452A | 2024 Wellness In-Service Stress Management | Passed | 0.0 | 1.00 |
 | 2/9/2024 | VND0416A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 2/8/2024 | PDP3079A | 2024-1 Field Training Officer (FTO) Certification | Passed | 0.0 | 36.00 |
 | 2/1/2024 | VND1796A | NW Peer Support Conference | Passed | 0.0 | 8.00 |

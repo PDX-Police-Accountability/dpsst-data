@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2024
+  course: PDN3949A
+  title: Working with Gang Affected Clients
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/1/2024
   course: PDN2190A
   title: First Aid and CPR Infant to Adult

@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2024 | HRS2718A | Defensive Tactics Inservice | Passed | 0.0 | 2.00 |
 | 5/16/2024 | HRS3296A | Spring Firearms Range | Passed | 0.0 | 3.00 |
 | 4/12/2024 | OSA3505A | In-Custody Suicide Prevention | Passed | 0.0 | 1.00 |
 | 4/11/2024 | OSA0194A | Corrections Legal Updates | Passed | 0.0 | 2.00 |
