@@ -62,6 +62,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/11/2024
+  course: HBP3017A
+  title: Concepts of Force Science
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 6/11/2024
+  course: HBP4217A
+  title: Major Crimes Team Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/28/2024
   course: HBP1265A
   title: PoliceOne EVOC - Professional Police Driving

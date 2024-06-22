@@ -38,6 +38,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2024 | OCP1159A | Defensive Tactics | Passed | 0.0 | 1.00 |
+| 6/6/2024 | OCP1159A | Defensive Tactics | Instructed | 0.0 | 17.00 |
+| 6/6/2024 | OCP4516A | Taser Certification | Passed | 0.0 | 1.00 |
 | 5/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/28/2024 | OCP3553A | Critical Incident Response Roll Call Training | Passed | 0.0 | 0.25 |
 | 5/23/2024 | OCP3498A | Firearms/Use of Force | Passed | 0.0 | 4.00 |

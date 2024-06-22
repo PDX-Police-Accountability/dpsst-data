@@ -55,6 +55,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2024
+  course: PDN1412A
+  title: Defensive Tactics-Control Techniques
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 6/13/2024
   course: PDN3949A
   title: Working with Gang Affected Clients

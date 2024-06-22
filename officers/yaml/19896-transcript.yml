@@ -190,6 +190,12 @@ certification_records:
   expiration_date: 8/24/2027
   probation_date: ''
 training_records:
+- date: 5/16/2024
+  course: REG0923A
+  title: Use of Force 10 (Basic Police)
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/24/2024
   course: REG3981A
   title: Use of Force 5  (Basic Police)

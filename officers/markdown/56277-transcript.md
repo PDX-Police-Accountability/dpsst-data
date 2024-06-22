@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2024 | CAP3673A | Patrol Rifle Reload - Transition- Malfunctions | Passed | 0.0 | 2.00 |
 | 5/27/2024 | CAP2707A | Adult Child and Baby First Aid/CPR/AED | Passed | 0.0 | 2.00 |
 | 5/15/2024 | CAP1235A | Handgun Reload / Malfunctions | Instructed | 0.0 | 8.00 |
 | 5/6/2024 | CAP3627A | Defensive Tactics/Arrest, handcuffing  search | Passed | 0.0 | 4.00 |

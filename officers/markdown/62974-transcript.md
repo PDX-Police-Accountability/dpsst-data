@@ -33,6 +33,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2024 | OCP1306A | Virtra Use Of Force Scenarios | Passed | 0.0 | 0.50 |
+| 6/6/2024 | OCP0778A | 40MM Less Lethal Certification | Passed | 0.0 | 1.00 |
+| 6/6/2024 | OCP4516A | Taser Certification | Passed | 0.0 | 1.00 |
+| 6/6/2024 | OCP1159A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 5/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/23/2024 | OCP3498A | Firearms/Use of Force | Passed | 0.0 | 4.00 |
 | 4/25/2024 | OCP0705A | Ethics In Law Enforcement | Passed | 0.0 | 1.00 |

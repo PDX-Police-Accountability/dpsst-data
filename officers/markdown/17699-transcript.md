@@ -38,6 +38,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | BNS3524A | TCCC | Passed | 0.0 | 2.00 |
+| 6/18/2024 | BNS2164A | Use of Force, OC, Firearms | Passed | 0.0 | 7.00 |
 | 5/3/2024 | VND2123A | OSMB Marine Law Enforcement Academy | Passed | 0.0 | 72.00 |
 | 5/26/2023 | BNS3875A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 8/5/2019 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 50.00 |

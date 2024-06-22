@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 5/24/2024 | BVP1290A | Detective Academy | Instructed | 0.0 | 2.00 |
 | 4/11/2024 | BVP0411A | Beaverton Police 2024 Reserve Academy | Instructed | 0.0 | 3.00 |
 | 1/30/2024 | BVP0092A | First Aid and Adult/Child CPR 013024am | Passed | 0.0 | 3.00 |

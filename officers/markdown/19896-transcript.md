@@ -58,6 +58,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | REG0923A | Use of Force 10 (Basic Police) | Passed | 0.0 | 2.00 |
 | 4/24/2024 | REG3981A | Use of Force 5  (Basic Police) | Passed | 0.0 | 2.00 |
 | 4/20/2024 | FSS2573A | CPR, Infant/Adult, AED | Passed | 0.0 | 4.00 |
 | 4/20/2024 | FSS2852A | First Aid | Passed | 0.0 | 2.00 |

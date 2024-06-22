@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | BNS3524A | TCCC | Passed | 0.0 | 2.00 |
+| 6/18/2024 | BNS2164A | Use of Force, OC, Firearms | Passed | 0.0 | 7.00 |
 | 5/26/2023 | BNS3875A | Tactical Combat Casualty Care | Passed | 0.0 | 4.00 |
 | 5/5/2023 | BNS1394A | Chainsaw Orientation and Safety Training | Passed | 0.0 | 4.00 |
 | 10/27/2021 | BNS13970 | Legal Update, section number 001 | Passed | 0.0 | 0.50 |

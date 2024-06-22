@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: BVP3356A
+  title: Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/5/2024
   course: BVP3055A
   title: 2024 BPD Bike Certification

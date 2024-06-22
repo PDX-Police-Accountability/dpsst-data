@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/30/2024
+  course: LOP2897A
+  title: Handgun Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/9/2024
   course: OAC4489A
   title: 'HB 4002: Implementation  Training Symposium'

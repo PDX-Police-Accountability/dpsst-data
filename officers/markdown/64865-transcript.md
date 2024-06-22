@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/28/2024 | REG0895A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 5/9/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 3/10/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/10/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/10/2024 | PDP0739A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |

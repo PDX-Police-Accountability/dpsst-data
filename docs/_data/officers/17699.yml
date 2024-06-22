@@ -81,6 +81,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2024
+  course: BNS3524A
+  title: TCCC
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/18/2024
+  course: BNS2164A
+  title: Use of Force, OC, Firearms
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 5/3/2024
   course: VND2123A
   title: OSMB Marine Law Enforcement Academy

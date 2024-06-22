@@ -23,6 +23,12 @@ employment_records:
   assignment: ''
 certification_records: []
 training_records:
+- date: 6/12/2024
+  course: SDP3963A
+  title: Handgun Qualification
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
 - date: 12/12/2022
   course: PDP17554
   title: Firearms Training

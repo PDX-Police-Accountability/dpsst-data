@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/13/2024
+  agency: DPSST Use Only
+  action: Resigned
+  rank: ''
+  classification: ''
+  assignment: AcadTrng
 - date: 10/11/2023
   agency: DPSST Use Only
   action: InstrApp
@@ -28,10 +34,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 3/18/2024
+- status_date: 6/13/2024
   certificate: Instructor
   level: ''
-  status: Granted
+  status: Expired
   certificate_date: 3/18/2024
   expiration_date: ''
   probation_date: ''

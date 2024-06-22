@@ -57,6 +57,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/14/2024
+  course: MFP1824A
+  title: CSM-Crisis/Hostage Negotiation Level I
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/15/2024
   course: PDP2949A
   title: 2024 CNT Crisis Negotiation Team Annual Training

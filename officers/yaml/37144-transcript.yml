@@ -3,12 +3,18 @@ header_record:
   name: Nebling, Vance A.
   dpsst_identifier: '37144'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Criminalist
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/14/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Criminalst
+  classification: ''
+  assignment: ''
 - date: 7/8/2004
   agency: Portland Police Bureau
   action: Promotion
@@ -27,21 +33,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 2/13/2012
-  expiration_date: ''
+  expiration_date: 9/14/2024
   probation_date: ''
 - status_date: 2/13/2012
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 2/13/2012
-  expiration_date: ''
+  expiration_date: 9/14/2024
   probation_date: ''
 - status_date: 1/27/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 1/27/2000
-  expiration_date: ''
+  expiration_date: 9/14/2024
   probation_date: ''
 training_records:
 - date: 4/1/2024

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 5/13/2024 | BVP0993A | AR Cleaning and Maintenance | Passed | 0.0 | 0.45 |
 | 5/8/2024 | AVP4026A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 4/16/2024 | OAC1865A | How to be an Awesome Second in Command | Passed | 0.0 | 1.00 |

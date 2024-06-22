@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2024 | OCP1306A | Virtra Use Of Force Scenarios | Passed | 0.0 | 0.50 |
+| 6/6/2024 | OCP1306A | Virtra Use Of Force Scenarios | Instructed | 0.0 | 9.00 |
+| 6/6/2024 | OCP0778A | 40MM Less Lethal Certification | Instructed | 0.0 | 3.00 |
 | 5/31/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 5/31/2024 | OSH0911A | Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 5/28/2024 | OCP3553A | Critical Incident Response Roll Call Training | Passed | 0.0 | 0.25 |

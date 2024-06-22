@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2024 | BVP3356A | Taser Recertification | Passed | 0.0 | 3.00 |
 | 2/8/2024 | BVP2564A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 2/8/2024 | BVP3297A | 2024 February Range | Passed | 0.0 | 3.00 |
 | 1/18/2024 | BVP4076A | First Aid and Adult/Child CRP 11824 am | Passed | 0.0 | 3.00 |

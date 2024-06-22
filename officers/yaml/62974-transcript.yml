@@ -36,6 +36,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/6/2024
+  course: OCP1306A
+  title: Virtra Use Of Force Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 6/6/2024
+  course: OCP0778A
+  title: 40MM Less Lethal Certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/6/2024
+  course: OCP4516A
+  title: Taser Certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/6/2024
+  course: OCP1159A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/31/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

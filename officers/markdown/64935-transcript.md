@@ -29,6 +29,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/28/2024 | REG0895A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
+| 5/9/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/29/2024 | PDP2489A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/28/2024 | PDP2070A | CPR/First Aid | Passed | 0.0 | 2.00 |

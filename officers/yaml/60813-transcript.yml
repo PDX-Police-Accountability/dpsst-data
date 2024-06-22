@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/20/2024
+  course: OSH3457A
+  title: 1st Trimester Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/16/2024
   course: OSH1068A
   title: 1st Trimester Firearms
