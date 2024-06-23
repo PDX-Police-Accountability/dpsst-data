@@ -372,6 +372,7 @@
 | Lawrence, James E. | 30434 | Portland Police Bureau | Inactive | Detective | Retired | 2021-01-28 | [md](../markdown/30434-transcript.md) - [yaml](../yaml/30434-transcript.yml) |
 | Prosser, Todd A. | 30501 | Portland Police Bureau | Active | Detective | Promotion | 2004-07-08 | [md](../markdown/30501-transcript.md) - [yaml](../yaml/30501-transcript.yml) |
 | Housley, Hiedi J. | 31291 | Portland Police Bureau | Inactive | Detective | Resigned | 2020-02-27 | [md](../markdown/31291-transcript.md) - [yaml](../yaml/31291-transcript.yml) |
+| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Inactive | Detective | Retired | 2024-06-19 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
 | McGuire, Brendan P. | 31951 | Portland Police Bureau | Inactive | Detective | Resigned | 2024-04-10 | [md](../markdown/31951-transcript.md) - [yaml](../yaml/31951-transcript.yml) |
 | Hubbard, Brian D. | 32024 | Portland Police Bureau | Active | Detective | Promotion | 2021-07-29 | [md](../markdown/32024-transcript.md) - [yaml](../yaml/32024-transcript.yml) |
 | Christensen, Jason S. | 32069 | Portland Police Bureau | Inactive | Detective | Retired | 2021-06-30 | [md](../markdown/32069-transcript.md) - [yaml](../yaml/32069-transcript.yml) |
@@ -646,7 +647,6 @@
 | Singh, Parik G. | 31724 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-13 | [md](../markdown/31724-transcript.md) - [yaml](../yaml/31724-transcript.yml) |
 | Ladd, Joshua D. | 31811 | Portland Police Bureau | Active | Police Officer | Hired | 1996-04-25 | [md](../markdown/31811-transcript.md) - [yaml](../yaml/31811-transcript.yml) |
 | Miller, Matthew C. | 31884 | Portland Police Bureau | Active | Police Officer | Hired | 2002-07-18 | [md](../markdown/31884-transcript.md) - [yaml](../yaml/31884-transcript.yml) |
-| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
 | Gillock, Curtis E. | 32016 | Portland Police Bureau | Inactive | Police Officer | Retired | 2017-09-30 | [md](../markdown/32016-transcript.md) - [yaml](../yaml/32016-transcript.yml) |
 | MacNabb, Larry B. | 32023 | Portland Police Bureau | Inactive | Police Officer | Retired | 2018-01-09 | [md](../markdown/32023-transcript.md) - [yaml](../yaml/32023-transcript.yml) |
 | Weber, Eric S. | 32070 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-28 | [md](../markdown/32070-transcript.md) - [yaml](../yaml/32070-transcript.yml) |

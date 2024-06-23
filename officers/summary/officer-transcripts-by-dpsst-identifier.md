@@ -454,7 +454,7 @@
 | Gates, Kimberly J. | 31892 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-12-12 | [md](../markdown/31892-transcript.md) - [yaml](../yaml/31892-transcript.yml) |
 | Jamison, Matthew F. | 31898 | Portland Police Bureau | Inactive | Sergeant | Retired | 2021-09-29 | [md](../markdown/31898-transcript.md) - [yaml](../yaml/31898-transcript.yml) |
 | Raabe, Anthony J. | 31942 | Portland Police Bureau | Active | Civilian Employee | Hired | 1996-01-25 | [md](../markdown/31942-transcript.md) - [yaml](../yaml/31942-transcript.yml) |
-| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
+| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Inactive | Detective | Retired | 2024-06-19 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
 | McGuire, Brendan P. | 31951 | Portland Police Bureau | Inactive | Detective | Resigned | 2024-04-10 | [md](../markdown/31951-transcript.md) - [yaml](../yaml/31951-transcript.yml) |
 | Gonzalez, Jose E. | 31955 | Portland Police Bureau | Inactive | Sergeant | Retired | 2019-02-01 | [md](../markdown/31955-transcript.md) - [yaml](../yaml/31955-transcript.yml) |
 | Taylor, Deanna L. | 31960 | Portland Police Bureau | Active | Civilian Employee | Hired | 1996-01-25 | [md](../markdown/31960-transcript.md) - [yaml](../yaml/31960-transcript.yml) |

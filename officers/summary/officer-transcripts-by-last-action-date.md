@@ -204,7 +204,6 @@
 | Carnighan, Lencin F. | 34792 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-07-07 | [md](../markdown/34792-transcript.md) - [yaml](../yaml/34792-transcript.yml) |
 | Quist, Amy S. | 35808 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/35808-transcript.md) - [yaml](../yaml/35808-transcript.yml) |
 | Mack, Jennifer D. | 37600 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-07-09 | [md](../markdown/37600-transcript.md) - [yaml](../yaml/37600-transcript.yml) |
-| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
 | Hill, Anthony R. | 36236 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/36236-transcript.md) - [yaml](../yaml/36236-transcript.yml) |
 | Mathews, Stephanie D. | 36263 | Portland Police Bureau | Active | Civilian Employee | Hired | 1998-09-10 | [md](../markdown/36263-transcript.md) - [yaml](../yaml/36263-transcript.yml) |
 | Wallace, Roger P. | 32387 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 1998-09-14 | [md](../markdown/32387-transcript.md) - [yaml](../yaml/32387-transcript.yml) |
@@ -1724,3 +1723,4 @@
 | Severe Louis, Stanley | 65344 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-06 | [md](../markdown/65344-transcript.md) - [yaml](../yaml/65344-transcript.yml) |
 | DuBois, Timothy J. | 65351 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-06 | [md](../markdown/65351-transcript.md) - [yaml](../yaml/65351-transcript.yml) |
 | Nebling, Vance A. | 37144 | Portland Police Bureau | Inactive | Criminalist | Retired | 2024-06-14 | [md](../markdown/37144-transcript.md) - [yaml](../yaml/37144-transcript.yml) |
+| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Inactive | Detective | Retired | 2024-06-19 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |

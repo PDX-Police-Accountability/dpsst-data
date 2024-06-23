@@ -4,23 +4,24 @@
 | name | Abrahamson, Susan D. |
 | dpsst_identifier | 31943 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
-| rank | Police Officer |
+| employment_status | Inactive |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/19/2024 | Portland Police Bureau | Retired | Detective |  |  |
 | 9/10/1998 | Portland Police Bureau | Hired | Police Off |  |  |
 | 9/9/1998 | Portland Police Bureau | Resigned | Civln Emp |  |  |
 | 1/11/1996 | Portland Police Bureau | Hired | Civln Emp |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/24/2011 | Police Officer | Advanced | Granted | 6/24/2011 |  |  |
-| 6/24/2011 | Police Officer | Intermediate | Granted | 6/24/2011 |  |  |
-| 6/29/1999 | Police Officer | Basic | Granted | 6/29/1999 |  |  |
+| 6/24/2011 | Police Officer | Advanced | Granted | 6/24/2011 | 9/19/2024 |  |
+| 6/24/2011 | Police Officer | Intermediate | Granted | 6/24/2011 | 9/19/2024 |  |
+| 6/29/1999 | Police Officer | Basic | Granted | 6/29/1999 | 9/19/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

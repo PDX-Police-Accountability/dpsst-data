@@ -3,12 +3,18 @@ header_record:
   name: Abrahamson, Susan D.
   dpsst_identifier: '31943'
   agency: Portland Police Bureau
-  employment_status: Active
-  rank: Police Officer
+  employment_status: Inactive
+  rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/19/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 9/10/1998
   agency: Portland Police Bureau
   action: Hired
@@ -33,21 +39,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 6/24/2011
-  expiration_date: ''
+  expiration_date: 9/19/2024
   probation_date: ''
 - status_date: 6/24/2011
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 6/24/2011
-  expiration_date: ''
+  expiration_date: 9/19/2024
   probation_date: ''
 - status_date: 6/29/1999
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/29/1999
-  expiration_date: ''
+  expiration_date: 9/19/2024
   probation_date: ''
 training_records:
 - date: 3/14/2024

@@ -150,7 +150,6 @@
 | Miller, Matthew C. | 31884 | Portland Police Bureau | Active | Police Officer | Hired | 2002-07-18 | [md](../markdown/31884-transcript.md) - [yaml](../yaml/31884-transcript.yml) |
 | Gates, Kimberly J. | 31892 | Portland Police Bureau | Active | Civilian Employee | Hired | 1995-12-12 | [md](../markdown/31892-transcript.md) - [yaml](../yaml/31892-transcript.yml) |
 | Raabe, Anthony J. | 31942 | Portland Police Bureau | Active | Civilian Employee | Hired | 1996-01-25 | [md](../markdown/31942-transcript.md) - [yaml](../yaml/31942-transcript.yml) |
-| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Active | Police Officer | Hired | 1998-09-10 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
 | Taylor, Deanna L. | 31960 | Portland Police Bureau | Active | Civilian Employee | Hired | 1996-01-25 | [md](../markdown/31960-transcript.md) - [yaml](../yaml/31960-transcript.yml) |
 | Hughes, Heather R. | 32358 | Portland Police Bureau | Active | Police Officer | Hired | 1997-10-24 | [md](../markdown/32358-transcript.md) - [yaml](../yaml/32358-transcript.yml) |
 | Derry, Ryan W. | 32366 | Portland Police Bureau | Active | Police Officer | Hired | 1997-03-14 | [md](../markdown/32366-transcript.md) - [yaml](../yaml/32366-transcript.yml) |
@@ -1585,6 +1584,7 @@
 | Maul, John J. | 31386 | Portland Police Bureau | Inactive | Police Officer | Retired | 2022-07-25 | [md](../markdown/31386-transcript.md) - [yaml](../yaml/31386-transcript.yml) |
 | Singh, Parik G. | 31724 | Portland Police Bureau | Inactive | Police Officer | Retired | 2023-12-13 | [md](../markdown/31724-transcript.md) - [yaml](../yaml/31724-transcript.yml) |
 | Jamison, Matthew F. | 31898 | Portland Police Bureau | Inactive | Sergeant | Retired | 2021-09-29 | [md](../markdown/31898-transcript.md) - [yaml](../yaml/31898-transcript.yml) |
+| Abrahamson, Susan D. | 31943 | Portland Police Bureau | Inactive | Detective | Retired | 2024-06-19 | [md](../markdown/31943-transcript.md) - [yaml](../yaml/31943-transcript.yml) |
 | Gonzalez, Jose E. | 31955 | Portland Police Bureau | Inactive | Sergeant | Retired | 2019-02-01 | [md](../markdown/31955-transcript.md) - [yaml](../yaml/31955-transcript.yml) |
 | Gillock, Curtis E. | 32016 | Portland Police Bureau | Inactive | Police Officer | Retired | 2017-09-30 | [md](../markdown/32016-transcript.md) - [yaml](../yaml/32016-transcript.yml) |
 | MacNabb, Larry B. | 32023 | Portland Police Bureau | Inactive | Police Officer | Retired | 2018-01-09 | [md](../markdown/32023-transcript.md) - [yaml](../yaml/32023-transcript.yml) |
