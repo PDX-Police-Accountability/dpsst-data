@@ -112,6 +112,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: HBP0527A
+  title: PoliceOne HPD Pursuit Intervention Tactics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 5/2/2024
   course: HBP4538A
   title: How to Manage During The Status Quo

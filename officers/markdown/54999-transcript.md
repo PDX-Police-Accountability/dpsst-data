@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2024 | TDP1566A | NORTAC-Range, Carbine qual, HRT | Passed | 0.0 | 4.00 |
 | 5/23/2024 | HRS1520A | Spring Firearms Range | Passed | 0.0 | 3.00 |
 | 5/6/2024 | HRS0473A | NORCOR Clearance  SB48 | Passed | 0.0 | 0.50 |
 | 5/6/2024 | HRS4534A | LEMHWA Update | Passed | 0.0 | 0.50 |

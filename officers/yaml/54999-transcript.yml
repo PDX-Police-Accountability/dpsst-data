@@ -67,6 +67,12 @@ certification_records:
   expiration_date: 11/9/2024
   probation_date: ''
 training_records:
+- date: 6/20/2024
+  course: TDP1566A
+  title: NORTAC-Range, Carbine qual, HRT
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/23/2024
   course: HRS1520A
   title: Spring Firearms Range

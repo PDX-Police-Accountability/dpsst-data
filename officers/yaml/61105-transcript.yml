@@ -49,6 +49,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/22/2024
+  course: NGP3855A
+  title: LOW LIGHT FIREARMS TRAINING
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 1/25/2024
   course: NGP1256A
   title: Defensive Tactics

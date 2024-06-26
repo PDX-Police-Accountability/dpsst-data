@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
 | 4/20/2024 | HBP1238A | ODT - EVOC, PIT, Pursuit Policy | Passed | 0.0 | 0.75 |
 | 4/10/2024 | HBP2218A | ODT - Taser 10 Drills | Passed | 0.0 | 0.50 |
 | 2/28/2024 | HBP1265A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |

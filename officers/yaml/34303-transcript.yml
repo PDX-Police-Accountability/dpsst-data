@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/31/2024
+  course: HBP0527A
+  title: PoliceOne HPD Pursuit Intervention Tactics
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/28/2024
   course: HBP0613A
   title: ODT - EVOC, PIT, Pursuit Policy

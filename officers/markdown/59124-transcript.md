@@ -31,6 +31,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 3/25/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 5/2/2024 | BVP0429A | AR Rifle Class | Passed | 0.0 | 8.00 |
+| 5/1/2024 | BVP3739A | AR Rifle Class | Passed | 0.0 | 8.00 |
+| 4/30/2024 | BVP4312A | AR Rifle Class | Passed | 0.0 | 8.00 |
+| 4/29/2024 | BVP0537A | AR Rifle Class | Passed | 0.0 | 8.00 |
 | 4/26/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 4/2/2024 | REG4159A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/26/2024 | F6R4290A | LIDAR | Passed | 0.0 | 2.00 |

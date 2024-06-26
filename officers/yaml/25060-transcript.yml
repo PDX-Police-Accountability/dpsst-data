@@ -76,6 +76,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/29/2024
+  course: WBP3536A
+  title: Officer Survival - Never Give Up the Fight
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 5/15/2024
+  course: WBP2773A
+  title: 'Briefing Training: Active Shooter'
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/10/2024
   course: WBP0152A
   title: Video Debrief - Clark County Ofc Involved Shooting

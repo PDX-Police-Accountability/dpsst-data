@@ -39,6 +39,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/11/2024 | HBP3017A | Concepts of Force Science | Passed | 0.0 | 3.50 |
 | 6/11/2024 | HBP4217A | Major Crimes Team Training | Passed | 0.0 | 4.00 |
+| 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
 | 2/28/2024 | HBP1265A | PoliceOne EVOC - Professional Police Driving | Passed | 0.0 | 1.00 |
 | 2/28/2024 | HBP4198A | TASER 10 Familiarization In-service | Passed | 0.0 | 5.00 |
 | 2/1/2024 | HBP3139A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |
