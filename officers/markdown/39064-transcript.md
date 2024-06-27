@@ -37,7 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/8/2024 | TDP4161A | DUTY TO INTERVENE 2024 | Passed | 0.0 | 1.00 |
+| 6/8/2024 | TDP4161A | Duty to Intervene 2024 | Passed | 0.0 | 1.00 |
 | 6/1/2024 | TDP2983A | Implicit Bias 2024 | Passed | 0.0 | 1.00 |
 | 5/9/2024 | TDP2098A | Firearms/Use of Force | Passed | 0.0 | 2.50 |
 | 4/14/2024 | TDP2900A | Defensive Tactics | Passed | 0.0 | 2.00 |

@@ -472,7 +472,7 @@
 | Draper, Rylee A. | 61148 | Portland Police Bureau | Active | Police Officer | Hired | 2020-05-21 | [md](../markdown/61148-transcript.md) - [yaml](../yaml/61148-transcript.yml) |
 | Drury, Julian M. | 61889 | Portland Police Bureau | Active | Police Officer | Hired | 2021-05-27 | [md](../markdown/61889-transcript.md) - [yaml](../yaml/61889-transcript.yml) |
 | DuBois, Timothy J. | 65351 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-06 | [md](../markdown/65351-transcript.md) - [yaml](../yaml/65351-transcript.yml) |
-| Duarte, Mark Y. | 54091 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2021-10-01 | [md](../markdown/54091-transcript.md) - [yaml](../yaml/54091-transcript.yml) |
+| Duarte, Mark Y. | 54091 | Portland Police Bureau | Active | Police Officer | Hired | 2024-06-20 | [md](../markdown/54091-transcript.md) - [yaml](../yaml/54091-transcript.yml) |
 | Duddington, Walter L. | 40787 | Portland Police Bureau | Inactive | Reserve Officer | Retired | 2012-01-05 | [md](../markdown/40787-transcript.md) - [yaml](../yaml/40787-transcript.yml) |
 | Duilio, Kenneth | 34491 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/34491-transcript.md) - [yaml](../yaml/34491-transcript.yml) |
 | Dunbar, Robin L. | 47968 | Portland Police Bureau | Active | Lieutenant | Promotion | 2024-06-06 | [md](../markdown/47968-transcript.md) - [yaml](../yaml/47968-transcript.yml) |

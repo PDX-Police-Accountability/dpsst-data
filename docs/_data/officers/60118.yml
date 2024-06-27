@@ -42,6 +42,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 6/5/2024
+  course: REG1495A
+  title: Intoxilyzer 8000 Certification Course
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 5/16/2024
   course: HRS3296A
   title: Spring Firearms Range

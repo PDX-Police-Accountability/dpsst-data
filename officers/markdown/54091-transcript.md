@@ -4,7 +4,7 @@
 | name | Duarte, Mark Y. |
 | dpsst_identifier | 54091 |
 | agency | Portland Police Bureau |
-| employment_status | Inactive |
+| employment_status | Active |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,11 +12,13 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/20/2024 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/1/2021 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 4/3/2014 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/20/2024 | Police Officer | Basic | Required |  |  | 12/20/2025 |
 | 1/1/2022 | Police Officer | Basic | Lapsed | 11/17/2015 | 10/1/2026 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -29,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Pending | 0.0 | 0.00 |
 | 9/10/2021 | PDP12662 | 2021-9 Tips  Tech Dangers of High/Extreme Heat | Passed | 0.0 | 0.25 |
 | 9/10/2021 | PDP04285 | 2021 OSHA Heat Illness Prevention Video | Passed | 0.0 | 0.25 |
 | 8/20/2021 | PDP23514 | 2021 Training Response to Calls Involving Youth | Passed | 0.0 | 0.75 |

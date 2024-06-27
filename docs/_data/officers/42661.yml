@@ -82,6 +82,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2024
+  course: LGS3807A
+  title: Patrol Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/16/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

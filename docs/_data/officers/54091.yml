@@ -3,12 +3,18 @@ header_record:
   name: Duarte, Mark Y.
   dpsst_identifier: '54091'
   agency: Portland Police Bureau
-  employment_status: Inactive
+  employment_status: Active
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/20/2024
+  agency: Portland Police Bureau
+  action: Hired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 10/1/2021
   agency: Portland Police Bureau
   action: Resigned
@@ -22,6 +28,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/20/2024
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 12/20/2025
 - status_date: 1/1/2022
   certificate: Police Officer
   level: Basic
@@ -30,6 +43,12 @@ certification_records:
   expiration_date: 10/1/2026
   probation_date: ''
 training_records:
+- date: 9/16/2024
+  course: 24-0004
+  title: DPSST Basic Police COD Self-Study
+  status: Pending
+  score: '0.0'
+  hours: '0.00'
 - date: 9/10/2021
   course: PDP12662
   title: 2021-9 Tips  Tech Dangers of High/Extreme Heat

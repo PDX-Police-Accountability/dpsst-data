@@ -130,6 +130,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2024
+  course: LGS3807A
+  title: Patrol Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/13/2024
   course: REG1400A
   title: Handgun IDC
