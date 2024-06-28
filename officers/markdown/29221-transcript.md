@@ -47,6 +47,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2024 | BNP3723A | 40 MM refresher | Passed | 0.0 | 1.00 |
+| 6/18/2024 | BNP0511A | Emergency Vehicle Operation | Passed | 0.0 | 1.00 |
+| 6/18/2024 | BNP0091A | Active Threat Response | Passed | 0.0 | 2.50 |
+| 6/18/2024 | BNP0498A | Rescue Task Force | Passed | 0.0 | 1.50 |
+| 6/18/2024 | BNP1481A | Mental Health / Wellness | Passed | 0.0 | 1.00 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/18/2024 | OAC2080A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC3365A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 1.50 |

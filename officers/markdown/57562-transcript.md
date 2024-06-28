@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2024 | OCP0462A | 40 MM Certification | Passed | 0.0 | 1.00 |
 | 6/6/2024 | OCP1159A | Defensive Tactics | Passed | 0.0 | 1.00 |
 | 6/6/2024 | OCP1159A | Defensive Tactics | Instructed | 0.0 | 17.00 |
 | 6/6/2024 | OCP4516A | Taser Certification | Passed | 0.0 | 1.00 |

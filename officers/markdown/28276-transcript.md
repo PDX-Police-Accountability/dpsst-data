@@ -50,6 +50,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/17/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
+| 6/18/2024 | HUP2618A | Wrap Restraint Instructor Course | Passed | 0.0 | 1.50 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/2/2024 | SVP3941A | Saftey Compass - Sex Trafficing Investigations | Passed | 0.0 | 4.50 |
 | 5/6/2024 | SVP0572A | Professional Standards: Internal Investigations | Passed | 0.0 | 2.00 |

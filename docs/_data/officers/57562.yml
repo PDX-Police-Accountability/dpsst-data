@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 6/24/2024
+  course: OCP0462A
+  title: 40 MM Certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2024
   course: OCP1159A
   title: Defensive Tactics

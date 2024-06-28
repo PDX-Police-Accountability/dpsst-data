@@ -40,6 +40,13 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 6/26/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: App Incmpl
+  certificate_date: ''
+  expiration_date: 8/26/2024
+  probation_date: ''
 - status_date: 6/20/2024
   certificate: Police Officer
   level: Basic
@@ -47,13 +54,6 @@ certification_records:
   certificate_date: 9/29/2015
   expiration_date: ''
   probation_date: ''
-- status_date: 6/20/2024
-  certificate: Police Officer
-  level: Intermediate
-  status: App Incmpl
-  certificate_date: ''
-  expiration_date: 8/20/2024
-  probation_date: 11/25/2024
 training_records:
 - date: 2/20/2024
   course: PDP3609A

@@ -28,6 +28,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/3/2024 | PDS4272A | Range | Passed | 0.0 | 2.00 |
 | 5/29/2024 | PDS1113A | Monthly Reserve Unit Training | Passed | 0.0 | 2.00 |
 | 5/24/2024 | PDS2109A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/5/2024 | PDS0814A | Airway and Circulatory Training | Passed | 0.0 | 2.00 |

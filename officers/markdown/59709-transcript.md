@@ -38,6 +38,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | BNP3723A | 40 MM refresher | Passed | 0.0 | 1.00 |
+| 6/19/2024 | BNP0511A | Emergency Vehicle Operation | Passed | 0.0 | 1.00 |
+| 6/19/2024 | BNP0498A | Rescue Task Force | Passed | 0.0 | 1.50 |
+| 6/19/2024 | BNP1481A | Mental Health / Wellness | Passed | 0.0 | 1.00 |
+| 6/19/2024 | BNP0091A | Active Threat Response | Passed | 0.0 | 2.50 |
 | 5/9/2024 | BNP2448A | Domestic Violence Strangulation investigations | Passed | 0.0 | 1.00 |
 | 4/26/2024 | OSH1665A | Basic Detevtive Academy | Passed | 0.0 | 40.00 |
 | 4/16/2024 | BNP4194A | UAS Monthly Training | Passed | 0.0 | 8.00 |

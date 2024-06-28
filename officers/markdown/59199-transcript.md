@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2024 | EGP2969A | Firearms Training | Passed | 0.0 | 4.00 |
 | 6/5/2024 | EGP4531A | Firearms Training/Rifle Qualification | Passed | 0.0 | 4.00 |
 | 5/23/2024 | EGP3131A | Patrol Breaching Tools  Scenarios | Passed | 0.0 | 2.50 |
 | 5/23/2024 | EGP0755A | San Bernardino, CA Inland Regional Ctr AVI Debrief | Passed | 0.0 | 3.75 |

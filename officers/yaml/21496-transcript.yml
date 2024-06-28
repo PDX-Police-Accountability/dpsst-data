@@ -194,12 +194,6 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/25/2025
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 6/14/2024
   course: OSH0111A
   title: 0166 2nd Trimester Firearms
@@ -290,6 +284,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 1/25/2024
+  course: M11-19A
+  title: DPSST Police Officer Field Training Manual
+  status: Completed
+  score: '0.0'
+  hours: '0.00'
 - date: 12/29/2023
   course: MISCMAIN
   title: 2023 LE Annual Maintenance

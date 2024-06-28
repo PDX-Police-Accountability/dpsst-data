@@ -43,6 +43,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2024
+  course: BNP3723A
+  title: 40 MM refresher
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2024
+  course: BNP0511A
+  title: Emergency Vehicle Operation
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2024
+  course: BNP0498A
+  title: Rescue Task Force
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 6/19/2024
+  course: BNP1481A
+  title: Mental Health / Wellness
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/19/2024
+  course: BNP0091A
+  title: Active Threat Response
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 5/9/2024
   course: BNP2448A
   title: Domestic Violence Strangulation investigations

@@ -20,8 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
+| 6/26/2024 | Police Officer | Intermediate | App Incmpl |  | 8/26/2024 |  |
 | 6/20/2024 | Police Officer | Basic | Reactivatd | 9/29/2015 |  |  |
-| 6/20/2024 | Police Officer | Intermediate | App Incmpl |  | 8/20/2024 | 11/25/2024 |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
