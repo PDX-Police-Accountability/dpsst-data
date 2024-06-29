@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2024 | BNS0790A | EVOC - Patrol Vehicle and Armored Rescue Vehicle | Passed | 0.0 | 2.00 |
+| 6/24/2024 | BNS4491A | PIT | Passed | 0.0 | 1.00 |
+| 6/24/2024 | BNS1423A | Pursuit Management | Passed | 0.0 | 1.00 |
 | 5/13/2024 | BNS4075A | Narcotics recognition and Search and Seizure | Passed | 0.0 | 2.00 |
 | 5/13/2024 | BNS2976A | Breaching, Vehicle pins, High risk veh stops | Passed | 0.0 | 2.00 |
 | 5/10/2024 | BNS2150A | Introduction to CAD | Passed | 0.0 | 4.00 |

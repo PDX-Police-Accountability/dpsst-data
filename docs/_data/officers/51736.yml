@@ -362,6 +362,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '44.00'
+- date: 10/6/2023
+  course: PDP2307A
+  title: Complete Tactical Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '42.50'
 - date: 9/28/2023
   course: PDP4431A
   title: 2023-3 Range Qual AR-15 Qualification (20 Yard)

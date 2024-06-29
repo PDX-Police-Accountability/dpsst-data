@@ -93,6 +93,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/24/2024
+  course: BNS0790A
+  title: EVOC - Patrol Vehicle and Armored Rescue Vehicle
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/24/2024
+  course: BNS4491A
+  title: PIT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/24/2024
+  course: BNS1423A
+  title: Pursuit Management
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/13/2024
   course: BNS4075A
   title: Narcotics recognition and Search and Seizure

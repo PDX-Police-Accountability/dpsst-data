@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/16/2024 | HBS2263A | 33rd Annual INIA Drug/Terrorist Conf | Passed | 0.0 | 28.00 |
 | 4/28/2024 | HBP0613A | ODT - EVOC, PIT, Pursuit Policy | Instructed | 0.0 | 12.00 |
 | 4/26/2024 | OSH1665A | Basic Detevtive Academy | Passed | 0.0 | 40.00 |
 | 3/19/2024 | HBP4257A | CPR/First Aid/AED | Passed | 0.0 | 1.00 |

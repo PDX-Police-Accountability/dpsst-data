@@ -52,8 +52,8 @@
 | 4/30/2018 | TUP06302 | Civil Commitments | Passed | 0.0 | 0.50 |
 | 4/14/2018 | TUP41778 | OIC Responsibilities and Expectations | Passed | 0.0 | 1.50 |
 | 4/2/2018 | TUP32272 | DUII/ SFST Refresher Course | Passed | 0.0 | 4.00 |
-| 3/22/2018 | TUP10293 | .223 Rifle Training | Instructed | 0.0 | 5.00 |
-| 3/19/2018 | TUP10293 | .223 Rifle Training | Passed | 0.0 | 5.00 |
+| 3/22/2018 | TUP10293 | Rifle Training .233 | Instructed | 0.0 | 5.00 |
+| 3/19/2018 | TUP10293 | Rifle Training .233 | Passed | 0.0 | 5.00 |
 | 3/5/2018 | TUP26376 | Amber Alerts Policy | Passed | 0.0 | 0.50 |
 | 3/5/2018 | TUP00012 | Search  Seizure Policy | Passed | 0.0 | 0.50 |
 | 2/22/2018 | TUP05210 | Glock 9mm Training | Instructed | 0.0 | 9.00 |

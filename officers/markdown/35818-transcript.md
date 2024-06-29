@@ -37,7 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2024 | GLP2899A | Summer 2024 Handgun/Rifle Qualifications | Passed | 0.0 | 3.00 |
 | 5/16/2024 | EGN3769A | Change Journal Training | Passed | 0.0 | 1.50 |
+| 5/11/2024 | PDP3119A | 2024 Standardized Field Sobriety Test Refresher | Passed | 0.0 | 4.00 |
 | 5/7/2024 | PDP2738A | Intox 8000 - Regional | Passed | 0.0 | 6.00 |
 | 4/17/2024 | GLP1279A | Semiannual Defensive Tactics (Spring 2024) | Passed | 0.0 | 3.00 |
 | 4/15/2024 | GLP3242A | First Aid/ Adult and Child CPR | Passed | 0.0 | 3.00 |

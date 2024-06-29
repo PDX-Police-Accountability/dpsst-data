@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '30.00'
+- date: 5/11/2024
+  course: PDP3119A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/13/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

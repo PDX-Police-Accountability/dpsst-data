@@ -50,12 +50,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2024
+  course: GLP2899A
+  title: Summer 2024 Handgun/Rifle Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/16/2024
   course: EGN3769A
   title: Change Journal Training
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 5/11/2024
+  course: PDP3119A
+  title: 2024 Standardized Field Sobriety Test Refresher
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/7/2024
   course: PDP2738A
   title: Intox 8000 - Regional

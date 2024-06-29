@@ -396,6 +396,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '44.00'
+- date: 10/6/2023
+  course: PDP2307A
+  title: Complete Tactical Casualty Care
+  status: Passed
+  score: '0.0'
+  hours: '42.50'
 - date: 9/12/2023
   course: PDP2438A
   title: 2022-11 CAO Legal Updates for 11/2022

@@ -88,6 +88,7 @@
 | 10/11/2023 | PDP2117A | 2022-11 CAO Legal Updates | Passed | 0.0 | 0.25 |
 | 10/11/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
 | 10/6/2023 | BVP1875A | Complete Tactical Casualty Care | Passed | 0.0 | 44.00 |
+| 10/6/2023 | PDP2307A | Complete Tactical Casualty Care | Passed | 0.0 | 42.50 |
 | 9/29/2023 | PDP0874A | OTOA Basic Sniper School | Passed | 0.0 | 40.00 |
 | 9/28/2023 | PDP4431A | 2023-3 Range Qual AR-15 Qualification (20 Yard) | Passed | 0.0 | 0.50 |
 | 9/28/2023 | PDP1371A | 2023-3 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

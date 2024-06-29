@@ -196,7 +196,7 @@ certification_records:
 training_records:
 - date: 6/14/2024
   course: OSH0111A
-  title: 0166 2nd Trimester Firearms
+  title: 2nd Trimester Firearms
   status: Passed
   score: '0.0'
   hours: '8.00'
@@ -214,7 +214,7 @@ training_records:
   hours: '0.00'
 - date: 4/19/2024
   course: OSH1130A
-  title: 1st Trimester firearms
+  title: 1st Trimester Firearms
   status: Passed
   score: '0.0'
   hours: '4.00'

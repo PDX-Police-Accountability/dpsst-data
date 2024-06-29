@@ -73,6 +73,7 @@
 | 10/11/2023 | PDP2665A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 30.00 |
 | 10/10/2023 | PDP2137A | 2023 DIR 0620.00 BWC Use and Management | Passed | 0.0 | 0.25 |
 | 10/10/2023 | PDP3941A | 2023 PCJP and Restorative Justice Referrals | Passed | 0.0 | 0.50 |
+| 9/29/2023 | PDP0043A | Force Science Certification Course | Passed | 0.0 | 38.50 |
 | 9/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2023 | PDP2438A | 2022-11 CAO Legal Updates for 11/2022 | Passed | 0.0 | 0.25 |
 | 9/28/2023 | PDP1263A | 2022-12 CAO Legal Updates for 12/2022 | Passed | 0.0 | 0.25 |

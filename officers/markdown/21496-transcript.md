@@ -62,10 +62,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/14/2024 | OSH0111A | 0166 2nd Trimester Firearms | Passed | 0.0 | 8.00 |
+| 6/14/2024 | OSH0111A | 2nd Trimester Firearms | Passed | 0.0 | 8.00 |
 | 5/31/2024 | OSH3274A | TruNarc Drug Identifier | Passed | 0.0 | 2.00 |
 | 5/6/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
-| 4/19/2024 | OSH1130A | 1st Trimester firearms | Passed | 0.0 | 4.00 |
+| 4/19/2024 | OSH1130A | 1st Trimester Firearms | Passed | 0.0 | 4.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/2/2024 | OSH0293A | EVO - Advanced Pursuit Haulting Training | Passed | 0.0 | 6.00 |
 | 3/26/2024 | OSH4321A | ARIDE | Instructed | 0.0 | 16.00 |

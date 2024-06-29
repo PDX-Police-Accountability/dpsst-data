@@ -32,9 +32,10 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |
+| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 6/25/2009 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -48,12 +49,13 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/21/2024 | PDP2087A | FEMA L0105 Public Information Basics | Passed | 0.0 | 24.00 |
 | 3/8/2024 | PDP0732A | OEM L0103 Planning - Emergency Operations | Passed | 0.0 | 16.00 |
 | 3/6/2024 | PDP3719A | OEM L0102 Science for Disasters | Passed | 0.0 | 24.00 |
 | 3/6/2024 | PDP1788A | Science of Disaster | Passed | 0.0 | 24.00 |
-| 2/20/2024 | VND4088A | 0956 NIMS ICS All-Hazards Liaison Officer Course | Passed | 0.0 | 16.00 |
+| 2/20/2024 | VND4088A | NIMS ICS All-Hazards Liaison Officer Course | Passed | 0.0 | 16.00 |
 | 2/9/2024 | PDP1397A | L0101 Foundations of Emergency Management | Passed | 0.0 | 40.00 |
 | 2/9/2024 | PDP0952A | Foundations of Emergency Management | Passed | 0.0 | 40.00 |
 | 2/4/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
