@@ -28,7 +28,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/24/2023 | 5/24/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 8/17/2018 |  |
 | Code of Ethics | Signed | 7/16/2015 |  |
 | Code of Ethics | Signed | 2/13/2015 |  |
@@ -40,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |
 | 2/20/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |

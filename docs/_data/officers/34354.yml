@@ -50,6 +50,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/2/2024
+  course: PDP1358A
+  title: 2024-2 Patrol Rifle Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '50.00'
+- date: 5/19/2024
+  course: PDP2721A
+  title: 2024-1 Patrol Rifle Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/10/2024
   course: PDP2865A
   title: WSNIA Training Summit
@@ -6219,10 +6231,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/8/2023
   expiration_date: 5/8/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 12/21/2010

@@ -25,7 +25,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/8/2023 | 5/8/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/21/2010 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -36,6 +35,8 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
+| 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 50.00 |
+| 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 40.00 |
 | 4/10/2024 | PDP2865A | WSNIA Training Summit | Passed | 0.0 | 26.00 |
 | 3/24/2024 | PDP0287A | Concealed Pistol Applications | Passed | 0.0 | 16.00 |
 | 3/8/2024 | PDP2445A | Vehicle Close Quarters Battle Instructor | Passed | 0.0 | 40.00 |

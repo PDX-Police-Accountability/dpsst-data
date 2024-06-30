@@ -126,6 +126,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/16/2024
+  course: PDP2730A
+  title: Enhanced Tactical Medicine
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 2/15/2024
   course: PDP3761A
   title: 2024 SERT Training - SCENARIO

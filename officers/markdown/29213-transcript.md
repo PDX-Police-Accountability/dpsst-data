@@ -4,7 +4,7 @@
 | name | Ottoman, Kerri L. |
 | dpsst_identifier | 29213 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/27/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 2/2/2023 | Portland Police Bureau | LOA | Police Off |  |  |
 | 10/6/1994 | Portland Police Bureau | Hired | Police Off |  |  |
 | 10/4/1994 | Portland Police Bureau | Resigned | Reserve |  |  |
@@ -19,9 +20,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/16/2014 | Police Officer | Advanced | Granted | 6/16/2014 |  |  |
-| 6/16/2014 | Police Officer | Intermediate | Granted | 6/16/2014 |  |  |
-| 7/21/1995 | Police Officer | Basic | Granted | 7/21/1995 |  |  |
+| 6/16/2014 | Police Officer | Advanced | Granted | 6/16/2014 | 9/27/2024 |  |
+| 6/16/2014 | Police Officer | Intermediate | Granted | 6/16/2014 | 9/27/2024 |  |
+| 7/21/1995 | Police Officer | Basic | Granted | 7/21/1995 | 9/27/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

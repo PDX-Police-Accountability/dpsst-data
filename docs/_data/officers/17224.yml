@@ -100,6 +100,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2024
+  course: PDP1358A
+  title: 2024-2 Patrol Rifle Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '20.00'
 - date: 4/26/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

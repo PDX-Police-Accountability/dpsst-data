@@ -4,7 +4,7 @@
 | name | Searle, Robert A., Jr. |
 | dpsst_identifier | 40949 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,22 +12,22 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/20/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 6/14/2018 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 6/14/2001 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 |  |  |
-| 3/17/2011 | Police Officer | Advanced | Granted | 3/17/2011 |  |  |
-| 3/17/2011 | Police Officer | Intermediate | Granted | 3/17/2011 |  |  |
-| 7/5/2002 | Police Officer | Basic | Granted | 7/5/2002 |  |  |
+| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 | 9/20/2024 |  |
+| 3/17/2011 | Police Officer | Advanced | Granted | 3/17/2011 | 9/20/2024 |  |
+| 3/17/2011 | Police Officer | Intermediate | Granted | 3/17/2011 | 9/20/2024 |  |
+| 7/5/2002 | Police Officer | Basic | Granted | 7/5/2002 | 9/20/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/18/2023 | 4/18/2025 |
-| Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 12/11/2001 |  |
 ## Education
 | date | degree | school | major | hours |

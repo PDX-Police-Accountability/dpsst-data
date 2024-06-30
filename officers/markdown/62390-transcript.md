@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 50.00 |
 | 3/20/2024 | EGP4383A | Suicide Prevention, Identifiation and Intervention | Passed | 0.0 | 4.00 |
 | 2/6/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 2/6/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

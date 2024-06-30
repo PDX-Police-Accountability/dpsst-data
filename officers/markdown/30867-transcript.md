@@ -4,7 +4,7 @@
 | name | Letter, Joshua M. |
 | dpsst_identifier | 30867 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/25/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 11/1/2001 | Portland Police Bureau | Transfered | Police Off |  |  |
 | 10/31/2001 | Portland Public Schools Police | Resigned | Police Off |  |  |
 | 12/5/1997 | Portland Public Schools Police | Hired | Police Off |  |  |
@@ -20,9 +21,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/8/2010 | Police Officer | Advanced | Granted | 6/8/2010 |  |  |
-| 6/8/2010 | Police Officer | Intermediate | Granted | 6/8/2010 |  |  |
-| 12/23/1998 | Police Officer | Basic | Granted | 12/23/1998 |  |  |
+| 6/8/2010 | Police Officer | Advanced | Granted | 6/8/2010 | 9/25/2024 |  |
+| 6/8/2010 | Police Officer | Intermediate | Granted | 6/8/2010 | 9/25/2024 |  |
+| 12/23/1998 | Police Officer | Basic | Granted | 12/23/1998 | 9/25/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 10.00 |
 | 2/28/2024 | PDP1730A | 2022 DIR 835.20 Managing Public Spaces | Passed | 0.0 | 0.25 |
 | 2/28/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 2/24/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 1.00 |

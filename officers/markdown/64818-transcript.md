@@ -31,7 +31,6 @@
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 5/28/2024 | REG0895A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
-| 5/9/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 0.00 |
 | 5/9/2024 | REG2564A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/29/2024 | PDP2290A | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 2.00 |

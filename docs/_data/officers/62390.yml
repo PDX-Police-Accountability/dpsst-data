@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2024
+  course: PDP1358A
+  title: 2024-2 Patrol Rifle Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '50.00'
 - date: 3/20/2024
   course: EGP4383A
   title: Suicide Prevention, Identifiation and Intervention

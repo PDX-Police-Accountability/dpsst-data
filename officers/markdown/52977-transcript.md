@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 10.00 |
+| 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 10.00 |
 | 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/14/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 2/14/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

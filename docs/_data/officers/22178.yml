@@ -4521,10 +4521,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/8/2023
   expiration_date: 5/8/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 education_records:
 - date: 5/1/2004
   degree: Master Business Administration

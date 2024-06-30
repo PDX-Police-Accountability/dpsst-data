@@ -314,6 +314,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/18/2023
+  course: PDP0924A
+  title: ATAP Threat Management Conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 8/10/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update

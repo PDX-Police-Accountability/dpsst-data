@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/2/2024
+  course: PDP1358A
+  title: 2024-2 Patrol Rifle Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 5/23/2024
   course: PDP4413A
   title: 2024 SERT Training - SCENARIO
@@ -6285,10 +6291,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/2/2023
   expiration_date: 5/2/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/8/2005

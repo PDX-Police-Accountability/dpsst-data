@@ -3,12 +3,18 @@ header_record:
   name: Teats, Todd M.
   dpsst_identifier: '29579'
   agency: Portland Police Bureau
-  employment_status: Active
-  rank: Police Officer
+  employment_status: Inactive
+  rank: Detective
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/20/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Detective
+  classification: ''
+  assignment: ''
 - date: 10/28/2014
   agency: Portland Police Bureau
   action: Return LOA
@@ -51,21 +57,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 7/21/2000
-  expiration_date: ''
+  expiration_date: 9/20/2024
   probation_date: ''
 - status_date: 7/18/1996
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 7/18/1996
-  expiration_date: ''
+  expiration_date: 9/20/2024
   probation_date: ''
 - status_date: 9/25/1995
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 9/25/1995
-  expiration_date: ''
+  expiration_date: 9/20/2024
   probation_date: ''
 training_records:
 - date: 6/27/2024
@@ -3819,10 +3825,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/13/2023
   expiration_date: 4/13/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 education_records:
 - date: 12/17/1993
   degree: Bachelor Science

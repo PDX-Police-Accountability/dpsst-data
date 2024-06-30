@@ -3,12 +3,18 @@ header_record:
   name: Whitcanack, Ryan J.
   dpsst_identifier: '36879'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 6/20/2024
+  agency: Portland Police Bureau
+  action: Retired
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 1/21/1999
   agency: Portland Police Bureau
   action: Hired
@@ -21,21 +27,21 @@ certification_records:
   level: Advanced
   status: Granted
   certificate_date: 10/18/2010
-  expiration_date: ''
+  expiration_date: 9/20/2024
   probation_date: ''
 - status_date: 10/18/2010
   certificate: Police Officer
   level: Intermediate
   status: Granted
   certificate_date: 10/18/2010
-  expiration_date: ''
+  expiration_date: 9/20/2024
   probation_date: ''
 - status_date: 6/12/2000
   certificate: Police Officer
   level: Basic
   status: Granted
   certificate_date: 6/12/2000
-  expiration_date: ''
+  expiration_date: 9/20/2024
   probation_date: ''
 training_records:
 - date: 6/27/2024
@@ -4065,10 +4071,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 4/20/2023
   expiration_date: 4/20/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 10/18/2010

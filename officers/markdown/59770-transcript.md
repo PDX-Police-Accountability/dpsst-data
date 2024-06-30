@@ -47,6 +47,7 @@
 | 2/20/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/20/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
+| 2/16/2024 | PDP2730A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 2/15/2024 | PDP3761A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 8.00 |
 | 2/14/2024 | PDS0489A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |
 | 2/14/2024 | PDS2543A | Enhanced Tactical Medicine | Passed | 0.0 | 16.00 |

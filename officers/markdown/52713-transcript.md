@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2024 | OCS1184A | Glock Armorer | Passed | 0.0 | 8.00 |
+| 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 20.00 |
+| 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 10.00 |
 | 3/4/2024 | PDP0270A | 2024 Axon Taser 7 Instructor Course | Passed | 0.0 | 8.00 |
 | 2/26/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 2/26/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

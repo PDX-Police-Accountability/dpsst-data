@@ -24,7 +24,6 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/16/2023 | 4/16/2025 |
 | Certification Cards | First Aid and CPR | 4/7/2023 | 4/7/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 9/3/2021 |  |
 | Code of Ethics | Law Enforcement Signed | 8/31/2020 |  |
 ## Education
@@ -34,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |
 | 4/17/2024 | GSP2725A | OPCA Spring Seminar - Decoy School | Passed | 0.0 | 32.00 |
 | 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/7/2024 | PDP2761A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |

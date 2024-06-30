@@ -56,6 +56,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/16/2024
+  course: PDP3387A
+  title: INIA 33rd Annual Interdiction Conference
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 4/4/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
@@ -4197,10 +4203,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/12/2023
   expiration_date: 5/12/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 9/18/2003

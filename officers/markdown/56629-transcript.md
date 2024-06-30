@@ -34,6 +34,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/22/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/15/2024 | PDP0760A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/8/2024 | PDP1704A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/1/2024 | PDP1742A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

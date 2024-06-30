@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 30.00 |
 | 10/11/2023 | PDP2665A | 2023 FTEP Pre-DPSST Firearms | Instructed | 0.0 | 30.00 |
 | 1/28/2022 | BPT07910 | Handgun IDC | Passed | 0.0 | 8.00 |
 | 9/24/2020 | PDP28320 | 2020 SERT Training - Firearms | Passed | 0.0 | 9.00 |

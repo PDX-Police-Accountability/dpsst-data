@@ -23,7 +23,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/4/2023 | 5/4/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Law Enforcement Signed | 2/17/2020 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -32,6 +31,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |
 | 5/16/2024 | PDP3174A | NAMOA Conference | Passed | 0.0 | 23.00 |
 | 3/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/1/2024 | PDP1188A | RADAR/LIDAR Operator | Instructed | 0.0 | 5.00 |

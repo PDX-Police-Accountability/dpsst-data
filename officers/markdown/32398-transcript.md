@@ -26,7 +26,6 @@
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/2/2023 | 5/2/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 9/27/2005 |  |
 ## Education
 | date | degree | school | major | hours |
@@ -37,6 +36,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 16.00 |
+| 6/11/2024 | PDP1665A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 9.00 |
 | 5/20/2024 | PDP3578A | 2024 FTEP Policy  Procedure | Instructed | 0.0 | 7.00 |
 | 4/10/2024 | PDP3598A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 3/26/2024 | PDP2818A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |

@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Passed | 0.0 | 50.00 |
 | 3/28/2024 | PDP2818A | 2024 DIR 0640.80, Bias Event Response | Passed | 0.0 | 0.25 |
 | 3/1/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/19/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

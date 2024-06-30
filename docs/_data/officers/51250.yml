@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2024
+  course: PDP1358A
+  title: 2024-2 Patrol Rifle Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '10.00'
 - date: 2/28/2024
   course: PDP1730A
   title: 2022 DIR 835.20 Managing Public Spaces

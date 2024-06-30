@@ -73,6 +73,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/20/2024
+  course: EGP1132A
+  title: Post-Traumatic Purpose
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 6/5/2024
   course: EGP4531A
   title: Firearms Training/Rifle Qualification

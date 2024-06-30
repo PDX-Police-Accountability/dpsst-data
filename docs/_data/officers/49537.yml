@@ -806,6 +806,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 8/31/2022
+  course: PDP2109A
+  title: 2022 CIT International Conference
+  status: Passed
+  score: '0.0'
+  hours: '20.00'
 - date: 8/17/2022
   course: PDP02516
   title: Crisis Negotiation Team Training

@@ -38,6 +38,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2024
+  course: PDP1358A
+  title: 2024-2 Patrol Rifle Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '40.00'
+- date: 5/19/2024
+  course: PDP2721A
+  title: 2024-1 Patrol Rifle Operator Course
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 4/10/2024
   course: VND3020A
   title: 28 CFR 23 and WSIN Resources

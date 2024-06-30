@@ -4,7 +4,7 @@
 | name | Hughes, Heather R. |
 | dpsst_identifier | 32358 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,22 +12,22 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/28/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 10/24/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 | 7/1/1997 | McMinnville Police Department | Resigned | Reserve |  |  |
 | 8/30/1995 | McMinnville Police Department | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/19/2006 | Police Officer | Advanced | Granted | 7/19/2006 |  |  |
-| 10/24/2001 | Police Officer | Intermediate | Granted | 10/24/2001 |  |  |
-| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 |  |  |
+| 7/19/2006 | Police Officer | Advanced | Granted | 7/19/2006 | 9/28/2024 |  |
+| 10/24/2001 | Police Officer | Intermediate | Granted | 10/24/2001 | 9/28/2024 |  |
+| 7/27/1998 | Police Officer | Basic | Granted | 7/27/1998 | 9/28/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/21/2023 | 4/21/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 6/6/2001 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -4,7 +4,7 @@
 | name | Whitcanack, Ryan J. |
 | dpsst_identifier | 36879 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,20 +12,20 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/20/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 1/21/1999 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/18/2010 | Police Officer | Advanced | Granted | 10/18/2010 |  |  |
-| 10/18/2010 | Police Officer | Intermediate | Granted | 10/18/2010 |  |  |
-| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 |  |  |
+| 10/18/2010 | Police Officer | Advanced | Granted | 10/18/2010 | 9/20/2024 |  |
+| 10/18/2010 | Police Officer | Intermediate | Granted | 10/18/2010 | 9/20/2024 |  |
+| 6/12/2000 | Police Officer | Basic | Granted | 6/12/2000 | 9/20/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/20/2023 | 4/20/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 | Code of Ethics | Signed | 10/18/2010 |  |
 ## Education
 | date | degree | school | major | hours |

@@ -35,6 +35,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
+| 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/29/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/22/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 5/22/2024 | PDP1874A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 5/15/2024 | PDP0146A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 5/15/2024 | PDP0760A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/8/2024 | PDP1704A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

@@ -3148,10 +3148,6 @@ attribute_records:
   value: CPR
   effective_date: 1/31/2023
   expiration_date: 1/31/2025
-- topic: Maintenance Requirements
-  value: LE Leadership 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 4/15/2002

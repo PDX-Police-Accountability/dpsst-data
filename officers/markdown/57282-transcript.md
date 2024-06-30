@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | PDP1702A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 4/17/2024 | GSP2725A | OPCA Spring Seminar - Decoy School | Passed | 0.0 | 32.00 |
 | 4/5/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 4/3/2024 | PDP1299A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |

@@ -24,6 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/2/2024
+  course: PDP1358A
+  title: 2024-2 Patrol Rifle Operator Course
+  status: Passed
+  score: '0.0'
+  hours: '60.00'
 - date: 3/15/2024
   course: PDP0335A
   title: 2024 ECIT In-Service

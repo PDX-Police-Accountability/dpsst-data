@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/16/2024
+  course: PDP3387A
+  title: INIA 33rd Annual Interdiction Conference
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 4/17/2024
   course: OCS1319A
   title: OPCA Spring Seminar - Decoy School
@@ -4209,10 +4215,6 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 5/26/2023
   expiration_date: 5/26/2025
-- topic: Maintenance Requirements
-  value: LE Basic 3 Year
-  effective_date: 1/1/2022
-  expiration_date: 1/1/1950
 - topic: Code of Ethics
   value: Signed
   effective_date: 1/31/2001

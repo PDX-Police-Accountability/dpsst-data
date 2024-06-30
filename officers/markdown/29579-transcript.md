@@ -4,14 +4,15 @@
 | name | Teats, Todd M. |
 | dpsst_identifier | 29579 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
-| rank | Police Officer |
+| employment_status | Inactive |
+| rank | Detective |
 | level |  |
 | classification |  |
 | assignment |  |
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/20/2024 | Portland Police Bureau | Retired | Detective |  |  |
 | 10/28/2014 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 5/27/2014 | Portland Police Bureau | LOA | Police Off |  |  |
 | 1/24/2008 | Portland Police Bureau | Promotion | Detective |  |  |
@@ -21,16 +22,15 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 7/21/2000 | Police Officer | Advanced | Granted | 7/21/2000 |  |  |
-| 7/18/1996 | Police Officer | Intermediate | Granted | 7/18/1996 |  |  |
-| 9/25/1995 | Police Officer | Basic | Granted | 9/25/1995 |  |  |
+| 7/21/2000 | Police Officer | Advanced | Granted | 7/21/2000 | 9/20/2024 |  |
+| 7/18/1996 | Police Officer | Intermediate | Granted | 7/18/1996 | 9/20/2024 |  |
+| 9/25/1995 | Police Officer | Basic | Granted | 9/25/1995 | 9/20/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2025 | 12/31/2027 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 4/13/2023 | 4/13/2025 |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 1/1/1950 |
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
