@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/24/2024 | Hillsboro Police Department | Promotion | Lieutenant |  |  |
 | 5/9/2022 | Hillsboro Police Department | Promotion | Sergeant |  |  |
 | 11/30/2020 | Hillsboro Police Department | Hired | Police Off |  |  |
 | 11/27/2020 | Portland Police Bureau | Resigned | Detective |  |  |
@@ -42,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/24/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 5/31/2024 | HBP0527A | PoliceOne HPD Pursuit Intervention Tactics | Passed | 0.0 | 0.50 |
 | 4/20/2024 | HBP1238A | ODT - EVOC, PIT, Pursuit Policy | Passed | 0.0 | 0.75 |
 | 4/10/2024 | HBP2218A | ODT - Taser 10 Drills | Passed | 0.0 | 0.50 |

@@ -68,6 +68,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 7/1/2025
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 5/29/2024
   course: OSH2558A
   title: OSP Defensive Tactics 1st Trimester 2024

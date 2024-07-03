@@ -88,6 +88,7 @@
 | * MISSING | 56256 |  |  |  |  |  | [md](../markdown/56256-transcript.md) - [yaml](../yaml/56256-transcript.yml) |
 | * MISSING | 56551 |  |  |  |  |  | [md](../markdown/56551-transcript.md) - [yaml](../yaml/56551-transcript.yml) |
 | * MISSING | 56693 |  |  |  |  |  | [md](../markdown/56693-transcript.md) - [yaml](../yaml/56693-transcript.yml) |
+| * MISSING | 56909 |  |  |  |  |  | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | * MISSING | 56976 |  |  |  |  |  | [md](../markdown/56976-transcript.md) - [yaml](../yaml/56976-transcript.yml) |
 | * MISSING | 57120 |  |  |  |  |  | [md](../markdown/57120-transcript.md) - [yaml](../yaml/57120-transcript.yml) |
 | * MISSING | 57833 |  |  |  |  |  | [md](../markdown/57833-transcript.md) - [yaml](../yaml/57833-transcript.yml) |
@@ -1304,7 +1305,6 @@
 | Ramsey, Jake M. | 56803 | Portland Police Bureau | Active | Police Officer | Hired | 2016-11-01 | [md](../markdown/56803-transcript.md) - [yaml](../yaml/56803-transcript.yml) |
 | Masunari, Matthew K. | 56874 | Portland Police Bureau | Active | Police Officer | Hired | 2019-06-27 | [md](../markdown/56874-transcript.md) - [yaml](../yaml/56874-transcript.yml) |
 | Perez, Rafael A., III | 56907 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2019-12-02 | [md](../markdown/56907-transcript.md) - [yaml](../yaml/56907-transcript.yml) |
-| Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2020-09-28 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Scott, Sean D. | 56911 | Portland Police Bureau | Active | Police Officer | Hired | 2017-01-26 | [md](../markdown/56911-transcript.md) - [yaml](../yaml/56911-transcript.yml) |
 | Hemmerlein, Garrett J. | 56923 | Portland Police Bureau | Active | Police Officer | Hired | 2017-01-01 | [md](../markdown/56923-transcript.md) - [yaml](../yaml/56923-transcript.yml) |
 | Guild, Yirgalem S. | 56956 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2018-09-17 | [md](../markdown/56956-transcript.md) - [yaml](../yaml/56956-transcript.yml) |

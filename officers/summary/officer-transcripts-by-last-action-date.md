@@ -88,6 +88,7 @@
 | * MISSING | 56256 |  |  |  |  |  | [md](../markdown/56256-transcript.md) - [yaml](../yaml/56256-transcript.yml) |
 | * MISSING | 56551 |  |  |  |  |  | [md](../markdown/56551-transcript.md) - [yaml](../yaml/56551-transcript.yml) |
 | * MISSING | 56693 |  |  |  |  |  | [md](../markdown/56693-transcript.md) - [yaml](../yaml/56693-transcript.yml) |
+| * MISSING | 56909 |  |  |  |  |  | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | * MISSING | 56976 |  |  |  |  |  | [md](../markdown/56976-transcript.md) - [yaml](../yaml/56976-transcript.yml) |
 | * MISSING | 57120 |  |  |  |  |  | [md](../markdown/57120-transcript.md) - [yaml](../yaml/57120-transcript.yml) |
 | * MISSING | 57833 |  |  |  |  |  | [md](../markdown/57833-transcript.md) - [yaml](../yaml/57833-transcript.yml) |
@@ -1129,7 +1130,6 @@
 | Jakubauskas, Gedemynas J. | 46056 | Portland Police Bureau | Active | Criminalist | Promotion | 2020-09-15 | [md](../markdown/46056-transcript.md) - [yaml](../yaml/46056-transcript.yml) |
 | Stoffel, Thomas B., Jr. | 51020 | Portland Police Bureau | Active | Criminalist | Promotion | 2020-09-15 | [md](../markdown/51020-transcript.md) - [yaml](../yaml/51020-transcript.yml) |
 | Babusis, Vytas P. | 58979 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-17 | [md](../markdown/58979-transcript.md) - [yaml](../yaml/58979-transcript.yml) |
-| Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2020-09-28 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Smith, Michael A. | 54999 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-29 | [md](../markdown/54999-transcript.md) - [yaml](../yaml/54999-transcript.yml) |
 | Parker, Jared A. | 61008 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-09-30 | [md](../markdown/61008-transcript.md) - [yaml](../yaml/61008-transcript.yml) |
 | Cook, Joseph R. | 48042 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-10-01 | [md](../markdown/48042-transcript.md) - [yaml](../yaml/48042-transcript.yml) |

@@ -88,6 +88,7 @@
 | * MISSING | 56256 |  |  |  |  |  | [md](../markdown/56256-transcript.md) - [yaml](../yaml/56256-transcript.yml) |
 | * MISSING | 56551 |  |  |  |  |  | [md](../markdown/56551-transcript.md) - [yaml](../yaml/56551-transcript.yml) |
 | * MISSING | 56693 |  |  |  |  |  | [md](../markdown/56693-transcript.md) - [yaml](../yaml/56693-transcript.yml) |
+| * MISSING | 56909 |  |  |  |  |  | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | * MISSING | 56976 |  |  |  |  |  | [md](../markdown/56976-transcript.md) - [yaml](../yaml/56976-transcript.yml) |
 | * MISSING | 57120 |  |  |  |  |  | [md](../markdown/57120-transcript.md) - [yaml](../yaml/57120-transcript.yml) |
 | * MISSING | 57833 |  |  |  |  |  | [md](../markdown/57833-transcript.md) - [yaml](../yaml/57833-transcript.yml) |
@@ -1664,7 +1665,6 @@
 | Young, John S. | 44217 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2008-10-22 | [md](../markdown/44217-transcript.md) - [yaml](../yaml/44217-transcript.yml) |
 | Bruner-Dehnert, Amy L. | 44735 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2010-03-01 | [md](../markdown/44735-transcript.md) - [yaml](../yaml/44735-transcript.yml) |
 | Giles, Timothy R. | 56758 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2020-02-19 | [md](../markdown/56758-transcript.md) - [yaml](../yaml/56758-transcript.yml) |
-| Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2020-09-28 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Bledsoe, Joshua M. | 59515 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2021-11-18 | [md](../markdown/59515-transcript.md) - [yaml](../yaml/59515-transcript.yml) |
 | Anderson, Erin K. | 22178 | Portland Police Bureau | Active | Police Officer | Return LOA | 2010-04-12 | [md](../markdown/22178-transcript.md) - [yaml](../yaml/22178-transcript.yml) |
 | Mason, Ronald L. | 25247 | Portland Police Bureau | Active | Lieutenant | Return LOA | 2023-09-27 | [md](../markdown/25247-transcript.md) - [yaml](../yaml/25247-transcript.yml) |
