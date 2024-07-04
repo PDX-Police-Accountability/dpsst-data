@@ -105,6 +105,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 2/1/2024
+  course: PDP3408A
+  title: Western States Public Order Conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/15/2024
   course: PDP3653A
   title: 2024-1 Range Qual 40mm Less Lethal Qualification

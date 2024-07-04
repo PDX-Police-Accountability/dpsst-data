@@ -227,6 +227,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.75'
+- date: 11/29/2023
+  course: PDP2367A
+  title: G0402 NIMS Overview for Senior Officials
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 11/1/2023
   course: PDP0350A
   title: 2023 Command Staff In-Service Training Equity

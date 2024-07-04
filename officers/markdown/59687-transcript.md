@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/12/2024 | WLP0035A | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 5/15/2024 | WLP4537A | SFST Wet Lab | Passed | 0.0 | 2.50 |
 | 5/6/2024 | WLP0560A | Establishing Stronger Community Relationships | Passed | 0.0 | 1.00 |
 | 4/24/2024 | WLP2940A | SFST Refresher | Passed | 0.0 | 4.00 |

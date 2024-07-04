@@ -18,12 +18,11 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/9/2024 | Police Officer | Basic | Granted-UR | 2/3/2021 | 7/1/2024 |  |
+| 7/1/2024 | Police Officer | Basic | Lapsed-UR | 2/3/2021 | 4/1/2029 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Code of Ethics | Law Enforcement Signed | 1/17/2021 |  |
-| Maintenance Requirements | LE Basic 3 Year | 1/1/2021 | 12/31/2023 |
 | Code of Ethics | Law Enforcement Signed | 10/7/2019 |  |
 ## Education
 | date | degree | school | major | hours |

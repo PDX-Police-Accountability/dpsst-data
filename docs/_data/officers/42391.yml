@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 5/2/2024
+  course: VND3509A
+  title: 2024 RISS Western Region Human Trafficking Summit
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 3/15/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

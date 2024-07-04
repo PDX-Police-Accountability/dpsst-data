@@ -24,6 +24,7 @@
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
 | Maintenance Requirements | LE Annual | 1/1/2025 | 12/31/2025 |
+| Certification Cards | First Aid and CPR | 6/5/2024 | 6/1/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2023 | 12/31/2025 |
 | Code of Ethics | Law Enforcement Signed | 9/26/2022 |  |
 | Certification Cards | First Aid and CPR | 8/12/2022 | 8/12/2024 |
@@ -38,7 +39,9 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | BPT1291A | Oregon Case Management Network - Summer 24 | Passed | 0.0 | 8.00 |
 | 6/26/2024 | BPT2107A | Oregon Case Management Network - Summer 24 | Passed | 0.0 | 4.00 |
+| 6/25/2024 | TRN0865A | Oregon Case Management Network - Summer 24 | Passed | 0.0 | 4.00 |
 | 6/13/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
+| 6/5/2024 | MFN4343A | Pediatric CPR/First Aid | Passed | 0.0 | 5.00 |
 | 6/4/2024 | REG2806A | Ethics | Passed | 0.0 | 2.00 |
 | 5/30/2024 | MFN2062A | Single Handed Manipulations | Passed | 0.0 | 2.00 |
 | 5/8/2024 | MFN4027A | Real Colors: Working in Teams | Passed | 0.0 | 6.00 |

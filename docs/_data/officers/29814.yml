@@ -119,6 +119,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 11/29/2023
+  course: PDP2367A
+  title: G0402 NIMS Overview for Senior Officials
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 11/20/2023
   course: PDP1899A
   title: FIN-6.14 Non-travel Meals, Light Refreshments

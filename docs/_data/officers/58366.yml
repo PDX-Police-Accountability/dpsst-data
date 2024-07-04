@@ -74,6 +74,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/3/2024
+  course: OSH0055A
+  title: Sworn Leadership Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/29/2024
   course: OSH2558A
   title: OSP Defensive Tactics 1st Trimester 2024

@@ -16,7 +16,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/10/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 7/2/2024 | Police Officer | Intermediate | App InProc |  |  |  |
 | 2/25/2021 | Police Officer | Basic | Granted | 2/25/2021 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2024 | PDP3960A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP0020A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/8/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 1/23/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |

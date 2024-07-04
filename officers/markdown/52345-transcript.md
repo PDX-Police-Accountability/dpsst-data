@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/27/2024 | PDP1257A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
@@ -57,6 +59,7 @@
 | 2/3/2024 | PDP1122A | 2024-1 All Sworn In-Service PVO PIT/Post Refresh | Passed | 0.0 | 2.50 |
 | 2/3/2024 | PDP2537A | 2024-1 All Sworn In-Service PVO Pursuit Policy | Passed | 0.0 | 1.50 |
 | 1/31/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
+| 1/12/2024 | PDP2298A | Crisis Hostage Negotiation Level I Basic | Passed | 0.0 | 40.00 |
 | 12/18/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/6/2023 | PDP3510A | 2023 EAP Wellness | Passed | 0.0 | 6.00 |
 | 12/5/2023 | PDP4146A | 2023 ECIT In-Service | Passed | 0.0 | 3.50 |

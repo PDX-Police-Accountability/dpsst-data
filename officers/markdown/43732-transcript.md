@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | PDP2262A | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 8.00 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
 | 3/15/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 2/1/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

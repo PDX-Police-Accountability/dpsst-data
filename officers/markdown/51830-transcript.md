@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/2/2024 | VND3509A | 2024 RISS Western Region Human Trafficking Summit | Passed | 0.0 | 28.00 |
 | 4/12/2024 | PDP0779A | 2023 PPB Honor Guard In Service Training | Passed | 0.0 | 9.00 |
 | 3/13/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 0.50 |
 | 3/13/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

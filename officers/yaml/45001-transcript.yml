@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/11/2024
+  course: PDP3416A
+  title: Oregon Law Enforcement  Fire PIO Conference
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 12/16/2023
   course: PDP3700A
   title: 2023 DIR 0630.05 Vehicle Interventions  Pursuits

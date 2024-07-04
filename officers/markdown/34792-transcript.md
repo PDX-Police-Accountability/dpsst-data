@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2024 | ADP1060A | Firearms Training | Passed | 0.0 | 4.00 |
 | 4/19/2024 | ADP0977A | LAP/DV | Passed | 0.0 | 1.00 |
 | 4/19/2024 | ADP3569A | Karly's Law | Passed | 0.0 | 1.00 |
 | 4/19/2024 | ADP3790A | Search Warrant and Seizure | Passed | 0.0 | 1.00 |

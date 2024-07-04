@@ -260,6 +260,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 8/16/2023
+  course: PDP0388A
+  title: 2023 CIT International Conference
+  status: Passed
+  score: '0.0'
+  hours: '18.75'
 - date: 7/24/2023
   course: PDP0196A
   title: 2023 Axon CEW Annual Update

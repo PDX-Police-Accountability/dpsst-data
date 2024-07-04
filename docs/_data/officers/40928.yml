@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 2/1/2024
+  course: PDP3408A
+  title: Western States Public Order Conference
+  status: Passed
+  score: '0.0'
+  hours: '32.00'
 - date: 1/11/2024
   course: PDP2038A
   title: 2024 Instructor Development Course (IDC)

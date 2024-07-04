@@ -4,7 +4,7 @@
 | name | Derry, Ryan W. |
 | dpsst_identifier | 32366 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,15 +12,16 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/28/2024 | Portland Police Bureau | Retired | Police Off |  |  |
 | 3/14/1997 | Portland Police Bureau | Hired | Police Off |  |  |
 | 5/1/1996 | McMinnville Police Department | Resigned | Reserve |  |  |
 | 8/30/1995 | McMinnville Police Department | Hired | Reserve |  |  |
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 2/11/2010 | Police Officer | Advanced | Granted | 2/11/2010 |  |  |
-| 2/11/2010 | Police Officer | Intermediate | Granted | 2/11/2010 |  |  |
-| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 |  |  |
+| 2/11/2010 | Police Officer | Advanced | Granted | 2/11/2010 | 9/28/2024 |  |
+| 2/11/2010 | Police Officer | Intermediate | Granted | 2/11/2010 | 9/28/2024 |  |
+| 1/13/1998 | Police Officer | Basic | Granted | 1/13/1998 | 9/28/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

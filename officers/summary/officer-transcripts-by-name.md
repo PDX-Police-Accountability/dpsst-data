@@ -88,12 +88,12 @@
 | * MISSING | 56256 |  |  |  |  |  | [md](../markdown/56256-transcript.md) - [yaml](../yaml/56256-transcript.yml) |
 | * MISSING | 56551 |  |  |  |  |  | [md](../markdown/56551-transcript.md) - [yaml](../yaml/56551-transcript.yml) |
 | * MISSING | 56693 |  |  |  |  |  | [md](../markdown/56693-transcript.md) - [yaml](../yaml/56693-transcript.yml) |
-| * MISSING | 56909 |  |  |  |  |  | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | * MISSING | 56976 |  |  |  |  |  | [md](../markdown/56976-transcript.md) - [yaml](../yaml/56976-transcript.yml) |
 | * MISSING | 57120 |  |  |  |  |  | [md](../markdown/57120-transcript.md) - [yaml](../yaml/57120-transcript.yml) |
 | * MISSING | 57833 |  |  |  |  |  | [md](../markdown/57833-transcript.md) - [yaml](../yaml/57833-transcript.yml) |
 | * MISSING | 58134 |  |  |  |  |  | [md](../markdown/58134-transcript.md) - [yaml](../yaml/58134-transcript.yml) |
 | * MISSING | 58140 |  |  |  |  |  | [md](../markdown/58140-transcript.md) - [yaml](../yaml/58140-transcript.yml) |
+| Abby, Jared R. | 56909 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2020-09-28 | [md](../markdown/56909-transcript.md) - [yaml](../yaml/56909-transcript.yml) |
 | Ables, Jerry D. | 36303 | Portland Police Bureau | Active | Police Officer | Hired | 2005-07-28 | [md](../markdown/36303-transcript.md) - [yaml](../yaml/36303-transcript.yml) |
 | Abrahamson, Andrew D. | 63736 | Portland Police Bureau | Active | Police Officer | Hired | 2023-01-19 | [md](../markdown/63736-transcript.md) - [yaml](../yaml/63736-transcript.yml) |
 | Abrahamson, David A. | 39564 | Portland Police Bureau | Active | Captain | Promotion | 2020-08-27 | [md](../markdown/39564-transcript.md) - [yaml](../yaml/39564-transcript.yml) |
@@ -443,7 +443,7 @@
 | DelGizzi, Robert M. | 44567 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-12-01 | [md](../markdown/44567-transcript.md) - [yaml](../yaml/44567-transcript.yml) |
 | Deland, Richard C. | 24581 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2019-03-06 | [md](../markdown/24581-transcript.md) - [yaml](../yaml/24581-transcript.yml) |
 | Delong, Zachary S. | 52979 | Portland Police Bureau | Active | Detective | Promotion | 2022-03-17 | [md](../markdown/52979-transcript.md) - [yaml](../yaml/52979-transcript.yml) |
-| Derry, Ryan W. | 32366 | Portland Police Bureau | Active | Police Officer | Hired | 1997-03-14 | [md](../markdown/32366-transcript.md) - [yaml](../yaml/32366-transcript.yml) |
+| Derry, Ryan W. | 32366 | Portland Police Bureau | Inactive | Police Officer | Retired | 2024-06-28 | [md](../markdown/32366-transcript.md) - [yaml](../yaml/32366-transcript.yml) |
 | Dery, Joshua O. | 53614 | Portland Police Bureau | Active | Police Officer | Return LOA | 2021-08-02 | [md](../markdown/53614-transcript.md) - [yaml](../yaml/53614-transcript.yml) |
 | Desanno, Dennis L. | 29227 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2020-07-01 | [md](../markdown/29227-transcript.md) - [yaml](../yaml/29227-transcript.yml) |
 | Devlin, Chris L. | 39644 | Portland Police Bureau | Active | Police Officer | Hired | 2000-11-30 | [md](../markdown/39644-transcript.md) - [yaml](../yaml/39644-transcript.yml) |
@@ -529,7 +529,7 @@
 | Farrell, Bryan M. | 39235 | Portland Police Bureau | Inactive | Reserve Officer | Resigned | 2013-01-31 | [md](../markdown/39235-transcript.md) - [yaml](../yaml/39235-transcript.yml) |
 | Faust, Robert | 59979 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2022-11-23 | [md](../markdown/59979-transcript.md) - [yaml](../yaml/59979-transcript.yml) |
 | Feist, Andrew D. | 38844 | Portland Police Bureau | Active | Police Officer | Hired | 2000-02-03 | [md](../markdown/38844-transcript.md) - [yaml](../yaml/38844-transcript.yml) |
-| Felts, Kevin C. | 29650 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-11-16 | [md](../markdown/29650-transcript.md) - [yaml](../yaml/29650-transcript.yml) |
+| Felts, Kevin C. | 29650 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-06-27 | [md](../markdown/29650-transcript.md) - [yaml](../yaml/29650-transcript.yml) |
 | Fender, Celeste R. | 28921 | Portland Police Bureau | Inactive | Detective | Retired | 2018-06-30 | [md](../markdown/28921-transcript.md) - [yaml](../yaml/28921-transcript.yml) |
 | Fender, Charles A. | 24190 | Portland Police Bureau | Inactive | Lieutenant | Retired | 2019-10-30 | [md](../markdown/24190-transcript.md) - [yaml](../yaml/24190-transcript.yml) |
 | Fender, Kameron J. | 50793 | Portland Police Bureau | Active | Police Officer | Hired | 2009-07-09 | [md](../markdown/50793-transcript.md) - [yaml](../yaml/50793-transcript.yml) |

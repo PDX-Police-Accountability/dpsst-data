@@ -62,6 +62,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2024 | OSH0023A | Defensive Tactics - Taser Recertification | Passed | 0.0 | 4.00 |
 | 6/14/2024 | OSH0111A | 2nd Trimester Firearms | Passed | 0.0 | 8.00 |
 | 5/31/2024 | OSH3274A | TruNarc Drug Identifier | Passed | 0.0 | 2.00 |
 | 5/6/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |

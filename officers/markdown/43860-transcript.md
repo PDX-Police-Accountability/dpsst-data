@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | PDP2262A | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 8.00 |
 | 3/27/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 1/2/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
 | 11/8/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |

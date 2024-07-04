@@ -44,6 +44,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 20.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 20.00 |

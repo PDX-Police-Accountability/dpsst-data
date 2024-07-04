@@ -78,6 +78,7 @@
 | 12/4/2023 | PDP3394A | 2023-2 All Sworn In-Service TII Equity 2 | Passed | 0.0 | 1.50 |
 | 12/1/2023 | PDP0582A | 2023 Emotional Survival | Passed | 0.0 | 4.00 |
 | 12/1/2023 | PDP2924A | Emotional Survival Leadership | Passed | 0.0 | 2.00 |
+| 11/29/2023 | PDP2367A | G0402 NIMS Overview for Senior Officials | Passed | 0.0 | 3.50 |
 | 11/16/2023 | PDP1268A | 2023 ASU Fall Safety Stand Down | Passed | 0.0 | 8.00 |
 | 11/8/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/8/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

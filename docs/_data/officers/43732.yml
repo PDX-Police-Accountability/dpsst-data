@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 4/17/2024
+  course: PDP2262A
+  title: G0191 Emergency Operations Center/ICS Interface
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/12/2024
   course: PDP0779A
   title: 2023 PPB Honor Guard In Service Training

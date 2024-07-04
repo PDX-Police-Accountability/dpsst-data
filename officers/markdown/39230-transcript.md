@@ -43,6 +43,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2024 | EGP1887A | Command Leadership Training 2024 | Passed | 0.0 | 8.50 |
 | 6/20/2024 | EGP2969A | Firearms Training | Passed | 0.0 | 4.00 |
 | 5/23/2024 | EGP0755A | San Bernardino, CA Inland Regional Ctr AVI Debrief | Passed | 0.0 | 3.75 |
 | 5/16/2024 | EGP1278A | Leadership #7: Navigating Change | Passed | 0.0 | 1.50 |

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | PDP2262A | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 8.00 |
 | 3/27/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/27/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 1/30/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |

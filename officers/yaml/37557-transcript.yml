@@ -75,6 +75,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/30/2024
+  course: LOP1938A
+  title: Handgun Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 4/4/2024
   course: LOP2975A
   title: Trauma Informed Care

@@ -36,6 +36,10 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/20/2024 | PDP3960A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
+| 6/6/2024 | PDP3295A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP2185A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP3587A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |

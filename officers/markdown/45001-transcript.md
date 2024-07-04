@@ -37,6 +37,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/18/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/18/2024 | PDP3990A | 2024-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
+| 4/11/2024 | PDP3416A | Oregon Law Enforcement  Fire PIO Conference | Passed | 0.0 | 16.00 |
 | 12/16/2023 | PDP3700A | 2023 DIR 0630.05 Vehicle Interventions  Pursuits | Passed | 0.0 | 0.25 |
 | 12/15/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 11/17/2023 | PDP3224A | 2023-3 Range Qualification CEW | Passed | 0.0 | 0.50 |

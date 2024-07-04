@@ -32,6 +32,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/6/2024 | PDP4321A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/16/2024 | PDP2185A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/1/2024 | PDP0452A | WSHNA Training Seminar  HNT Competition | Passed | 0.0 | 28.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

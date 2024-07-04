@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 3/7/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |
 | 1/26/2024 | LOP4530A | Firearms Training | Passed | 0.0 | 4.00 |

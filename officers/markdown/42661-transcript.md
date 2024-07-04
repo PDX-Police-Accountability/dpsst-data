@@ -41,6 +41,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/19/2024 | LGS3807A | Patrol Firearms Training | Passed | 0.0 | 4.00 |
+| 4/17/2024 | PDP2262A | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 8.00 |
 | 4/16/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/30/2023 | PDP3507A | 2023-2 All Sworn In-Service BWC Policy | Passed | 0.0 | 2.00 |
 | 11/30/2023 | PDP1676A | 2023-2 All Sworn In-Service BWC Test | Passed | 0.0 | 0.50 |

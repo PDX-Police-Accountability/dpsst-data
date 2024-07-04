@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 4/17/2024 | PDP2262A | G0191 Emergency Operations Center/ICS Interface | Passed | 0.0 | 8.00 |
 | 3/14/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 3/1/2024 | PDP4303A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |

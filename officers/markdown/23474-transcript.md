@@ -63,6 +63,7 @@
 | 12/20/2023 | M11-19A | DPSST Police Officer Field Training Manual | Completed | 0.0 | 0.00 |
 | 12/19/2023 | PDP0675A | FIN-6.14 Non-travel Meals, Light Refreshments | Passed | 0.0 | 0.25 |
 | 12/19/2023 | PDP3869A | CPR/First Aid | Passed | 0.0 | 1.75 |
+| 11/29/2023 | PDP2367A | G0402 NIMS Overview for Senior Officials | Passed | 0.0 | 3.50 |
 | 11/1/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |
 | 11/1/2023 | PDP1952A | 2023 Command Staff In-Service Training Leadership | Passed | 0.0 | 4.00 |
 | 10/31/2023 | PDP1020A | 2023 Supevisor In-Service Elation | Passed | 0.0 | 4.00 |

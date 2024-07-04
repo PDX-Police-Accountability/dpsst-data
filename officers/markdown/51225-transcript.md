@@ -34,6 +34,11 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2024 | PDP1257A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/20/2024 | PDP4460A | 2024 SERT Training - FIREARMS | Passed | 0.0 | 9.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/6/2024 | PDP4321A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 5/30/2024 | PDP2184A | 2024 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Instructed | 0.0 | 9.00 |
@@ -102,6 +107,7 @@
 | 8/28/2023 | PDP2150A | 2023 Restorative Justice Referrals and Reporting | Passed | 0.0 | 0.25 |
 | 8/28/2023 | PDP3557A | 2023-2 TT BWC Pilot Policy and Procedure FAQ | Passed | 0.0 | 0.25 |
 | 8/25/2023 | PDP2598A | 2023 Force Science Methods of Instruction | Passed | 0.0 | 40.00 |
+| 8/16/2023 | PDP0388A | 2023 CIT International Conference | Passed | 0.0 | 18.75 |
 | 8/10/2023 | PDP3599A | 2023 SERT Training ITERATION | Passed | 0.0 | 9.00 |
 | 8/3/2023 | PDP2129A | 2023 SERT Training - ITERATION | Passed | 0.0 | 9.00 |
 | 8/1/2023 | PDP0196A | 2023 Axon CEW Annual Update | Passed | 0.0 | 0.50 |

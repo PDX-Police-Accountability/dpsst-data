@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2024 | WBP3035A | WPD Quarter 2 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 5/29/2024 | WBP3536A | Officer Survival - Never Give Up the Fight | Passed | 0.0 | 0.50 |
 | 5/15/2024 | WBP2773A | Briefing Training: Active Shooter | Passed | 0.0 | 0.50 |
 | 4/10/2024 | WBP0152A | Video Debrief - Clark County Ofc Involved Shooting | Passed | 0.0 | 0.50 |

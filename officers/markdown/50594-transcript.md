@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2024 | NBP0885A | Taser Re-Certification | Passed | 0.0 | 2.00 |
 | 3/21/2024 | OSH1123A | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 30.00 |
 | 3/21/2024 | PDP3426A | OSP Mobile Vehicle and Foot Surveillance | Passed | 0.0 | 27.00 |
 | 3/15/2024 | SPP2933A | Mobile Field Force | Instructed | 0.0 | 20.00 |

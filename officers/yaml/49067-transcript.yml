@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2024
+  course: 10306A
+  title: LiDAR/Radar course
+  status: Instructed
+  score: '0.0'
+  hours: '11.00'
 - date: 5/15/2024
   course: VND3612A
   title: Responder Life Peer Support Quarterly Training

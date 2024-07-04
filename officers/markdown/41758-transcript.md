@@ -49,6 +49,7 @@
 | 2/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 2/15/2024 | PDP3990A | 2024-1 Range Qual Secondary Firearm (25 Round) | Passed | 0.0 | 0.50 |
 | 1/5/2024 | PDP1518A | 2023 DIR 0630.05 Vehicle Interventions and Pursuit | Passed | 0.0 | 0.25 |
+| 11/29/2023 | PDP2367A | G0402 NIMS Overview for Senior Officials | Passed | 0.0 | 3.50 |
 | 11/3/2023 | PDP4427A | PERF Innovations in Recruitment | Passed | 0.0 | 7.50 |
 | 11/1/2023 | PDP3303A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 11/1/2023 | PDP1743A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |

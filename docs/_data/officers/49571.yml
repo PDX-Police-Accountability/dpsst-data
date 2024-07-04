@@ -37,6 +37,30 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/27/2024
+  course: PDP1257A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/20/2024
+  course: PDP4460A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/13/2024
+  course: PDP3208A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/30/2024
+  course: PDP2184A
+  title: 2024 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/23/2024
   course: PDP4413A
   title: 2024 SERT Training - SCENARIO

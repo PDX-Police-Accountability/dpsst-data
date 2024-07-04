@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/19/2024 | WLP0035A | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 5/15/2024 | WLP4537A | SFST Wet Lab | Passed | 0.0 | 5.00 |
 | 5/6/2024 | WLP0560A | Establishing Stronger Community Relationships | Passed | 0.0 | 1.00 |
 | 4/8/2024 | WLP2017A | TRANSITION FROM PEER TO SUPERVISOR | Passed | 0.0 | 1.00 |

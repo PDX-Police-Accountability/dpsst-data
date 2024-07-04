@@ -16,10 +16,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 6/10/2024
+- status_date: 7/2/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: ''
@@ -31,6 +31,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/20/2024
+  course: PDP3960A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/16/2024
   course: PDP0020A
   title: 2024 SERT Training - SCENARIO

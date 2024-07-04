@@ -93,6 +93,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2024
+  course: EGP1887A
+  title: Command Leadership Training 2024
+  status: Passed
+  score: '0.0'
+  hours: '8.50'
 - date: 6/20/2024
   course: EGP2969A
   title: Firearms Training

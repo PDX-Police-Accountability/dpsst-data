@@ -38,6 +38,36 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/27/2024
+  course: PDP1257A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/20/2024
+  course: PDP4460A
+  title: 2024 SERT Training - FIREARMS
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/13/2024
+  course: PDP3208A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 6/6/2024
+  course: PDP4321A
+  title: 2024 SERT Training - SCENARIO
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
+- date: 5/30/2024
+  course: PDP2184A
+  title: 2024 SERT Training - ITERATION
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 5/23/2024
   course: PDP4413A
   title: 2024 SERT Training - SCENARIO
@@ -446,6 +476,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 8/16/2023
+  course: PDP0388A
+  title: 2023 CIT International Conference
+  status: Passed
+  score: '0.0'
+  hours: '18.75'
 - date: 8/10/2023
   course: PDP3599A
   title: 2023 SERT Training ITERATION

@@ -69,6 +69,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/30/2024
+  course: WBP3035A
+  title: WPD Quarter 2 Firearms Qualifications
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/10/2024
   course: WBP4406A
   title: Dare to Be Great  What's Important Now

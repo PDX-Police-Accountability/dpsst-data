@@ -36,6 +36,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
+| 6/6/2024 | PDP4321A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/21/2024 | PDP2707A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 3/7/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

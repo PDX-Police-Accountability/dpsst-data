@@ -44,6 +44,7 @@
 | 12/15/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/1/2023 | PDP2054A | 2023 Active Stolen Vehicles Hotsheet | Passed | 0.0 | 0.25 |
 | 12/1/2023 | PDP1310A | 2023 Behavioral Health Unit Referrals | Passed | 0.0 | 0.25 |
+| 11/29/2023 | PDP2367A | G0402 NIMS Overview for Senior Officials | Passed | 0.0 | 3.50 |
 | 11/15/2023 | PDP0350A | 2023 Command Staff In-Service Training Equity | Passed | 0.0 | 4.00 |
 | 11/15/2023 | PDP1952A | 2023 Command Staff In-Service Training Leadership | Passed | 0.0 | 4.00 |
 | 11/7/2023 | PDP0003A | 2023-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |

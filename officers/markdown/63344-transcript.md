@@ -30,6 +30,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/27/2024 | VRP3908A | Rifle Qualification and Policy Review | Passed | 0.0 | 4.00 |
 | 6/6/2024 | BPT3631A | RADAR/LIDAR Operator Course | Passed | 0.0 | 8.00 |
 | 5/30/2024 | VRP0750A | Review of Code of Conduct and Ethics Bulletins | Passed | 0.0 | 1.00 |
 | 9/28/2023 | PDP2384A | 2022-10 CAO Legal Updates for 10/2022 | Passed | 0.0 | 0.25 |

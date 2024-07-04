@@ -4,7 +4,7 @@
 | name | Felts, Kevin C. |
 | dpsst_identifier | 29650 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Sergeant |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 6/27/2024 | Portland Police Bureau | Retired | Sergeant |  |  |
 | 11/16/2017 | Portland Police Bureau | Promotion | Sergeant |  |  |
 | 2/2/1995 | Portland Police Bureau | Hired | Police Off |  |  |
 | 2/1/1995 | Troutdale Police Department | Resigned | Police Off |  |  |
@@ -19,8 +20,8 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 |  |  |
-| 11/24/1995 | Police Officer | Basic | Granted | 11/24/1995 |  |  |
+| 9/25/2020 | Police Officer | Supervisory | Granted | 9/25/2020 | 9/27/2024 |  |
+| 11/24/1995 | Police Officer | Basic | Granted | 11/24/1995 | 9/27/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

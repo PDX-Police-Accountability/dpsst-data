@@ -194,6 +194,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/26/2024
+  course: OSH0023A
+  title: Defensive Tactics - Taser Recertification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/14/2024
   course: OSH0111A
   title: 2nd Trimester Firearms

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/19/2024
+  course: WLP0035A
+  title: Quarterly Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 5/6/2024
   course: WLP0560A
   title: Establishing Stronger Community Relationships

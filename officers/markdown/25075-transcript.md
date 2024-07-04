@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/30/2024 | WBP3035A | WPD Quarter 2 Firearms Qualifications | Passed | 0.0 | 0.50 |
 | 4/10/2024 | WBP4406A | Dare to Be Great  What's Important Now | Passed | 0.0 | 0.50 |
 | 4/5/2024 | WBP2170A | HANDGUN INSTRUCTOR DEVELOPMENT COURSE | Passed | 0.0 | 40.00 |
 | 3/31/2024 | WBP1007A | WPD Firearms Q1 Qualifications | Passed | 0.0 | 0.50 |
