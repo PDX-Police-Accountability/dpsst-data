@@ -12,7 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
-| 10/20/2023 | Columbia River Inter-Tribal Police Dept. | Resigned | Police Off |  |  |
+| 10/20/2023 | Columbia River Inter-Tribal Police Dept. | Discharged | Police Off |  |  |
 | 3/9/2022 | Columbia River Inter-Tribal Police Dept. | Hired | Police Off |  |  |
 | 1/21/2022 | Port of Portland Police Department | Resigned | Police Off |  |  |
 | 10/25/2021 | Port of Portland Police Department | Hired | Police Off |  |  |

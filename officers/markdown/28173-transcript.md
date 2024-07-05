@@ -35,6 +35,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 5/29/2024 | MKL1824A | Batch Tagging Training | Passed | 0.0 | 1.50 |
+| 4/27/2024 | MKL1007A | Bi-Annual Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/26/2023 | MKL0299A | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/12/2023 | MKL3646A | Hemp/Lab Training | Passed | 0.0 | 2.00 |
 | 8/31/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

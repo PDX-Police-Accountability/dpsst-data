@@ -21,7 +21,7 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 6/28/2024 | Police Officer | Advanced | Reactivatd | 11/19/2020 |  |  |
-| 6/28/2024 | Police Officer | Basic | Granted | 4/5/2012 |  |  |
+| 6/28/2024 | Police Officer | Basic | Reactivatd | 4/5/2012 |  |  |
 | 6/28/2024 | Police Officer | Intermediate | Reactivatd | 11/19/2020 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |

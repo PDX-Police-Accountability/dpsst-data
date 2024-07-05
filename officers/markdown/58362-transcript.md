@@ -35,7 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/26/2024 | 10306A | LiDAR/Radar course | Instructed | 0.0 | 11.00 |
+| 6/26/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 11.00 |
+| 6/26/2024 | OCS3171A | LiDAR/Radar course | Instructed | 0.0 | 11.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
