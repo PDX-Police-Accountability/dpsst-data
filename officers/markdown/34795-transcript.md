@@ -40,7 +40,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2024 | OCS1788A | June DTs | Passed | 0.0 | 1.00 |
+| 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
+| 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/30/2024 | OCS1169A | Annual Handgun Qual | Passed | 0.0 | 1.00 |
+| 4/30/2024 | OCS2132A | Ground Offense Against Punches | Passed | 0.0 | 1.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/9/2024 | VND3407A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 4/4/2024 | OCS3160A | Counseling, Communication, and Mentorship | Passed | 0.0 | 3.00 |

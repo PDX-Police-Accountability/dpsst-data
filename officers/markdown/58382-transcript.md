@@ -35,7 +35,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/30/2024 | OCS1169A | Annual Handgun Qual | Passed | 0.0 | 1.00 |
+| 4/30/2024 | OCS2132A | Ground Offense Against Punches | Passed | 0.0 | 1.00 |
 | 4/17/2024 | GSP4271A | OPCA Spring Seminar - Patrol | Passed | 0.0 | 24.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 3/27/2024 | OCS2743A | Take downs/Ground Offense | Passed | 0.0 | 1.00 |

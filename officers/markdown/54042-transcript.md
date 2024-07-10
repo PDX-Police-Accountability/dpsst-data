@@ -37,6 +37,8 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
+| 4/30/2024 | OCS2132A | Ground Offense Against Punches | Passed | 0.0 | 1.00 |
+| 4/30/2024 | OCS1169A | Annual Handgun Qual | Passed | 0.0 | 1.00 |
 | 4/3/2024 | OCS1848A | Ethics- ETHOS training | Passed | 0.0 | 3.00 |
 | 3/28/2024 | OCS2583A | Fundamentals of Marksmanship | Passed | 0.0 | 1.00 |
 | 3/1/2024 | OCS2903A | First Aid CPR | Passed | 0.0 | 6.00 |

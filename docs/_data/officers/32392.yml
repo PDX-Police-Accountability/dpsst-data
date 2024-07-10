@@ -92,6 +92,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/7/2024
+  course: LOP1625A
+  title: Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/30/2024
   course: HUP1887A
   title: Sexual Assault Response Training / Investigation

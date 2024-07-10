@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2024
+  course: SVP2042A
+  title: Defensive Driving Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/12/2024
   course: AVP2518A
   title: Marion County Leadership Monthly Meeting

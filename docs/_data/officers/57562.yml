@@ -55,6 +55,12 @@ certification_records:
   expiration_date: 5/20/2025
   probation_date: ''
 training_records:
+- date: 7/3/2024
+  course: OCP3287A
+  title: Taser Certification
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/24/2024
   course: OCP0462A
   title: 40 MM Certification

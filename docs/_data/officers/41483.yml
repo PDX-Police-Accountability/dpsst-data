@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2024
+  course: PDP2458A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 11/18/2022
   course: NPS10285
   title: Crisis Intervention
@@ -3327,6 +3333,10 @@ training_records:
   score: '0.0'
   hours: '242.50'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 6/4/2024
+  expiration_date: 6/4/2026
 - topic: Maintenance Requirements
   value: LE Basic 3 Year
   effective_date: 1/1/2022

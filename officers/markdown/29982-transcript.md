@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2024 | SVP2042A | Defensive Driving Principles | Passed | 0.0 | 1.00 |
 | 6/12/2024 | AVP2518A | Marion County Leadership Monthly Meeting | Passed | 0.0 | 1.50 |
 | 6/2/2024 | SVP3941A | Saftey Compass - Sex Trafficing Investigations | Passed | 0.0 | 4.50 |
 | 5/22/2024 | SVP4540A | Defensive Tactics Refresher | Instructed | 0.0 | 4.00 |

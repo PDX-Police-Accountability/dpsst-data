@@ -42,6 +42,7 @@
 | 5/8/2024 | TGP2279A | Cultural Competence and Diversity | Passed | 0.0 | 1.00 |
 | 5/8/2024 | TGP3517A | Ethics For Law Enforcement: Introduction | Passed | 0.0 | 2.00 |
 | 5/8/2024 | TGP1457A | Why Words Matter | Passed | 0.0 | 1.00 |
+| 5/7/2024 | LOP1625A | Incident Management | Passed | 0.0 | 4.00 |
 | 4/30/2024 | HUP1887A | Sexual Assault Response Training / Investigation | Passed | 0.0 | 12.00 |
 | 4/26/2024 | OSH1665A | Basic Detevtive Academy | Passed | 0.0 | 40.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

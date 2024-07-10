@@ -41,11 +41,16 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/20/2024 | OCS1788A | June DTs | Passed | 0.0 | 1.00 |
+| 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 5/31/2024 | OCS0728A | May 27 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
 | 5/21/2024 | OCS3059A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |
+| 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 5/10/2024 | OCS4026A | May 6th 2024 New Hire Firearms | Instructed | 0.0 | 32.00 |
 | 4/30/2024 | OCS4202A | Annual Handgun Qualification | Passed | 0.0 | 1.00 |
 | 4/30/2024 | OCS2807A | Annual Handgun Qualification | Instructed | 0.0 | 118.00 |
+| 4/30/2024 | OCS1169A | Annual Handgun Qual | Passed | 0.0 | 1.00 |
+| 4/30/2024 | OCS2132A | Ground Offense Against Punches | Passed | 0.0 | 1.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/26/2024 | OCS3866A | March and April 2024 Monthly Firearms | Instructed | 0.0 | 2.00 |
 | 4/25/2024 | OCS3042A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |

@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/1/2024
+  course: HBP2826A
+  title: Search/Siezure, WIN, HB 4002
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 2/28/2024
   course: HBP1265A
   title: PoliceOne EVOC - Professional Police Driving

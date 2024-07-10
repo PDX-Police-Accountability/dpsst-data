@@ -76,6 +76,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2024
+  course: OCS0040A
+  title: Return to Work DT / Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/20/2024
+  course: OCS1788A
+  title: June DTs
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/20/2024
+  course: OCS2497A
+  title: Vehicle Extractions and Ambushes
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2024
   course: MISCMAIN
   title: 2024 LE Annual Maintenance

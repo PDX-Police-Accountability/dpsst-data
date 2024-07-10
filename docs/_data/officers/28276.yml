@@ -135,6 +135,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 6/28/2024
+  course: SVP2042A
+  title: Defensive Driving Principles
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/18/2024
   course: HUP2618A
   title: Wrap Restraint Instructor Course

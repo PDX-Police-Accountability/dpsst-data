@@ -27,6 +27,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 6/4/2024 | 6/4/2026 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
 | Code of Ethics | Signed | 12/20/2002 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 1/24/2024 |
@@ -40,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2024 | PDP2458A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 11/18/2022 | NPS10285 | Crisis Intervention | Passed | 0.0 | 5.00 |
 | 11/18/2022 | NPS35781 | Scenario Skills | Passed | 0.0 | 3.00 |
 | 11/17/2022 | NPS05741 | NAMI | Passed | 0.0 | 2.00 |

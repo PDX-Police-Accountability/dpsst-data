@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2024 | LOP0556A | Metro Area Sergeants Academy | Passed | 0.0 | 80.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 3/1/2024 | OCS2736A | FBI LEEDA Supervisor Leadership Institute | Passed | 0.0 | 28.00 |
 | 2/9/2024 | FGP2334A | Annual Defensive Tactics/Con Sim | Passed | 0.0 | 8.00 |

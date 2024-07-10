@@ -61,6 +61,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 5/1/2024
+  course: HBP2826A
+  title: Search/Siezure, WIN, HB 4002
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/1/2024
+  course: HBP4235A
+  title: Range In-service
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 4/20/2024
   course: HBP1238A
   title: ODT - EVOC, PIT, Pursuit Policy

@@ -95,6 +95,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/29/2024
+  course: HBS3634A
+  title: 2024 March DT's
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 6/29/2024
+  course: HBS3585A
+  title: 2024 March IFAST
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
 - date: 5/31/2024
   course: VND1640A
   title: ICS-300 Intermediate ICS For Expanding Incidents

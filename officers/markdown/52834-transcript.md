@@ -41,6 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2024 | OCS0040A | Return to Work DT / Firearms Training | Passed | 0.0 | 6.00 |
+| 6/20/2024 | OCS1788A | June DTs | Passed | 0.0 | 1.00 |
+| 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 6/6/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/12/2024 | OSA3505A | In-Custody Suicide Prevention | Passed | 0.0 | 1.00 |
 | 4/11/2024 | OSA1469A | De-Escalation | Passed | 0.0 | 1.00 |
