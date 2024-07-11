@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
 | 5/8/2024 | SDP2362A | Sexual Assault and MDT Protocols | Passed | 0.0 | 1.50 |
 | 5/8/2024 | SDP4040A | CIT Review | Passed | 0.0 | 1.00 |
 | 5/8/2024 | SDP0759A | DUII Update and Warrant Writing Refresher | Passed | 0.0 | 1.50 |

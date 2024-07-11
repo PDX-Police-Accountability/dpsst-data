@@ -300,6 +300,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 5/1/2023
+  course: PDP0559A
+  title: CPR/First Aid
+  status: Passed
+  score: '0.0'
+  hours: '1.75'
 - date: 4/7/2023
   course: PDP0062A
   title: 2023 Microsoft_Cloud Storage with OD and SP
@@ -1135,6 +1141,10 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/31/2023
   expiration_date: ''
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 5/1/2023
+  expiration_date: 5/1/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 4/18/2022

@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/1/2024
+  agency: Lake Oswego Police Department
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 7/7/2017
   agency: Lake Oswego Police Department
   action: Promotion
@@ -75,6 +81,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/1/2025
+  course: REQMGMT
+  title: 'REQUIRED TRAINING:  Management'
+  status: Required
+  score: '0.0'
+  hours: '0.00'
 - date: 5/30/2024
   course: LOP1938A
   title: Handgun Optic Transition Course

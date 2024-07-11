@@ -56,6 +56,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/16/2024
+  course: GSP0081A
+  title: Basic UAS Ground School
+  status: Instructed
+  score: '0.0'
+  hours: '30.00'
 - date: 3/7/2024
   course: GSP0256A
   title: Firearms - Handgun

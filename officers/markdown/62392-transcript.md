@@ -23,6 +23,7 @@
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2024 | 12/31/2026 |
 | Code of Ethics | Law Enforcement Signed | 7/31/2023 |  |
+| Certification Cards | First Aid and CPR | 5/1/2023 | 5/1/2025 |
 | Code of Ethics | Law Enforcement Signed | 4/18/2022 |  |
 | Maintenance Requirements | First Aid/CPR Required | 1/1/1900 | 5/22/2024 |
 ## Education
@@ -77,6 +78,7 @@
 | 5/31/2023 | PDP0519A | 2023-2 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 5/12/2023 | PDP2465A | 2022-7 CAO Legal Updates for 07/2022 | Passed | 0.0 | 0.25 |
 | 5/11/2023 | PDP2848A | 2022-6 CAO Legal Updates for 06/2022 | Passed | 0.0 | 0.25 |
+| 5/1/2023 | PDP0559A | CPR/First Aid | Passed | 0.0 | 1.75 |
 | 4/7/2023 | PDP0062A | 2023 Microsoft_Cloud Storage with OD and SP | Passed | 0.0 | 1.00 |
 | 4/7/2023 | PDP1487A | 2023 New Patrol Vehicles | Passed | 0.0 | 0.25 |
 | 4/3/2023 | PDP1023A | 2023 Microsoft_Teams Recorded Training | Passed | 0.0 | 1.00 |

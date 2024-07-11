@@ -69,10 +69,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 7/20/2024
-  course: REQMGMT
-  title: 'REQUIRED TRAINING:  Management'
-  status: Required
+- date: 6/26/2024
+  course: 24-0028
+  title: DPSST Middle Management F22 Equivalency
+  status: Completed
   score: '0.0'
   hours: '0.00'
 - date: 4/26/2024

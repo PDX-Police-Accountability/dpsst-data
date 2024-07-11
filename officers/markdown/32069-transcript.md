@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
 | 4/15/2024 | REG2072A | Ground Escape | Passed | 0.0 | 1.00 |
 | 4/10/2024 | SDP3516A | Child Abuse MDT Protocol's and Karly's Law Review | Passed | 0.0 | 1.50 |
 | 4/10/2024 | SDP3194A | Defensive Tactics Physical Control Drills | Passed | 0.0 | 1.50 |

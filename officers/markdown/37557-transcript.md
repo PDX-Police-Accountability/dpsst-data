@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/1/2024 | Lake Oswego Police Department | Promotion | Lieutenant |  |  |
 | 7/7/2017 | Lake Oswego Police Department | Promotion | Sergeant |  |  |
 | 1/11/2016 | Lake Oswego Police Department | Hired | Police Off |  |  |
 | 1/8/2016 | Portland Police Bureau | Resigned | Police Off |  |  |
@@ -41,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/1/2025 | REQMGMT | REQUIRED TRAINING:  Management | Required | 0.0 | 0.00 |
 | 5/30/2024 | LOP1938A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 4/4/2024 | LOP2975A | Trauma Informed Care | Passed | 0.0 | 2.00 |
 | 2/14/2024 | LOP0053A | 40mm Less Lethal Training | Passed | 0.0 | 4.00 |
