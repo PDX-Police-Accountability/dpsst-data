@@ -81,6 +81,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '80.00'
+- date: 5/1/2024
+  course: FGP2190A
+  title: Vehicle Noise Laws  Wildlife Impacts
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
 - date: 4/5/2024
   course: F6R2630A
   title: DUII Multi-Disciplinary Task Force

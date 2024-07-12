@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/11/2024 | SAG3574A | Firearms training | Passed | 0.0 | 2.00 |
 | 5/22/2024 | SAG3927A | Firearms training | Passed | 0.0 | 2.00 |
 | 3/25/2024 | SAG1585A | Firearms/Use of Force | Passed | 0.0 | 2.00 |
 | 12/21/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2024 | BNP4092A | Control Tactics / ground control | Passed | 0.0 | 1.00 |
 | 3/8/2024 | VND3366A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 2/28/2024 | BNP2971A | Control Tactics | Passed | 0.0 | 1.00 |
 | 2/21/2024 | BNP1684A | DUII refresher | Passed | 0.0 | 4.00 |

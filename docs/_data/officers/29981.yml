@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/10/2024
+  course: WLP4198A
+  title: Adult First Aid/CPR/AED-BL-r.21
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/19/2024
   course: WLP0035A
   title: Quarterly Firearms Training
@@ -5757,6 +5763,10 @@ training_records:
   score: '0.0'
   hours: '12.00'
 attribute_records:
+- topic: Certification Cards
+  value: First Aid and CPR
+  effective_date: 7/10/2024
+  expiration_date: 7/10/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024

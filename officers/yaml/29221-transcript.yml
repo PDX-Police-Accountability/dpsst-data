@@ -149,6 +149,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 5/21/2024
+  course: BNP4092A
+  title: Control Tactics / ground control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/9/2024
   course: OAC4489A
   title: 'HB 4002: Implementation  Training Symposium'

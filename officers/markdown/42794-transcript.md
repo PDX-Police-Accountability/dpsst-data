@@ -41,7 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/20/2024 | OCS1788A | June DTs | Passed | 0.0 | 1.00 |
+| 6/20/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 5/31/2024 | OCS0728A | May 27 2024 New Hire Firearms | Instructed | 0.0 | 16.00 |
 | 5/21/2024 | OCS3059A | New Hire Shotgun Orientation | Instructed | 0.0 | 4.00 |

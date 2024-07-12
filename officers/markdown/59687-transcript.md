@@ -23,6 +23,7 @@
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Certification Cards | First Aid and CPR | 7/10/2024 | 7/10/2026 |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 7/15/2022 | 7/15/2024 |
 | Maintenance Requirements | LE Basic 3 Year | 1/1/2022 | 12/31/2024 |
@@ -39,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2024 | WLP4198A | Adult First Aid/CPR/AED-BL-r.21 | Passed | 0.0 | 4.00 |
 | 6/12/2024 | WLP0035A | Quarterly Firearms Training | Passed | 0.0 | 3.00 |
 | 5/15/2024 | WLP4537A | SFST Wet Lab | Passed | 0.0 | 2.50 |
 | 5/6/2024 | WLP0560A | Establishing Stronger Community Relationships | Passed | 0.0 | 1.00 |

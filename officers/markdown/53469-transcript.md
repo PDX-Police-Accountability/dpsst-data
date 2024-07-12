@@ -35,7 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 6/20/2024 | OCS1788A | June DTs | Passed | 0.0 | 1.00 |
+| 6/20/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
 | 6/20/2024 | OCS2497A | Vehicle Extractions and Ambushes | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0967A | Milo | Passed | 0.0 | 1.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |
