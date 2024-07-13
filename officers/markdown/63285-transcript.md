@@ -28,6 +28,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 5/11/2024 | Masters Arts | All Other Education Institutes | Criminal Justice | 33.0 |
+| 5/15/2021 | Bachelor Science | All Other Education Institutes |  | 124.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

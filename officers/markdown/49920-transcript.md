@@ -4,7 +4,7 @@
 | name | Vergara, Michele R. |
 | dpsst_identifier | 49920 |
 | agency | Portland Police Bureau |
-| employment_status | Active |
+| employment_status | Inactive |
 | rank | Police Officer |
 | level |  |
 | classification |  |
@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/8/2024 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 9/30/2022 | Portland Police Bureau | LOA | Police Off |  |  |
 | 3/26/2021 | Portland Police Bureau | Return LOA | Police Off |  |  |
 | 3/19/2020 | Portland Police Bureau | LOA | Police Off |  |  |
@@ -21,7 +22,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 10/22/2009 | Police Officer | Basic | Granted | 10/22/2009 |  |  |
+| 10/22/2009 | Police Officer | Basic | Granted | 10/22/2009 | 10/8/2024 |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

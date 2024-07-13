@@ -615,4 +615,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 1/18/2023
   expiration_date: 1/18/2025
-education_records: []
+education_records:
+- date: 5/11/2024
+  degree: Masters Arts
+  school: All Other Education Institutes
+  major: Criminal Justice
+  hours: '33.0'
+- date: 5/15/2021
+  degree: Bachelor Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '124.0'

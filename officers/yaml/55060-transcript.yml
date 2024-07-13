@@ -110,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/22/2024
+  course: PDP3526A
+  title: ATF Homemade Explosives Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/6/2024
   course: PDP2565A
   title: 2024 MEDU Weekly Training

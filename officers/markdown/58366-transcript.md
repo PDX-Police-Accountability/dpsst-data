@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/1/2024 | Oregon State Police | Promotion | Lieutenant |  |  |
 | 11/21/2023 | DPSST Use Only | InstrApp |  |  | AcadTrng |
 | 8/1/2023 | Oregon State Police | Promotion | Sergeant |  |  |
 | 2/21/2020 | Oregon State Police | Hired | Trooper |  |  |

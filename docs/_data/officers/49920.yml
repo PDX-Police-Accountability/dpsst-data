@@ -3,12 +3,18 @@ header_record:
   name: Vergara, Michele R.
   dpsst_identifier: '49920'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/8/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 9/30/2022
   agency: Portland Police Bureau
   action: LOA
@@ -51,7 +57,7 @@ certification_records:
   level: Basic
   status: Granted
   certificate_date: 10/22/2009
-  expiration_date: ''
+  expiration_date: 10/8/2024
   probation_date: ''
 training_records:
 - date: 9/22/2022

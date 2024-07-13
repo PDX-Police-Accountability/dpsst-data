@@ -40,7 +40,7 @@ certification_records:
   level: Basic
   status: Lapsed
   certificate_date: 11/17/2015
-  expiration_date: 10/1/2026
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 12/20/2025

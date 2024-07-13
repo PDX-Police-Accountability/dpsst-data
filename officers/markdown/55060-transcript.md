@@ -45,6 +45,7 @@
 | 4/5/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 4/3/2024 | PDP2204A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/27/2024 | PDP1568A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 3/22/2024 | PDP3526A | ATF Homemade Explosives Course | Passed | 0.0 | 40.00 |
 | 3/6/2024 | PDP2565A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/28/2024 | PDP2362A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/21/2024 | PDP0969A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

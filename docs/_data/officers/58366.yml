@@ -9,6 +9,12 @@ header_record:
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/1/2024
+  agency: Oregon State Police
+  action: Promotion
+  rank: Lieutenant
+  classification: ''
+  assignment: ''
 - date: 11/21/2023
   agency: DPSST Use Only
   action: InstrApp
