@@ -50,6 +50,7 @@
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/11/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 4/4/2024 | PDP2478A | Homeland Security Exercise  Evaluation | Passed | 0.0 | 16.00 |
 | 3/21/2024 | PDP2087A | FEMA L0105 Public Information Basics | Passed | 0.0 | 24.00 |
 | 3/8/2024 | PDP0732A | OEM L0103 Planning - Emergency Operations | Passed | 0.0 | 16.00 |
 | 3/6/2024 | PDP3719A | OEM L0102 Science for Disasters | Passed | 0.0 | 24.00 |

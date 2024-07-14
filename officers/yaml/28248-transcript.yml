@@ -111,6 +111,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 4/4/2024
+  course: PDP2478A
+  title: Homeland Security Exercise  Evaluation
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 3/21/2024
   course: PDP2087A
   title: FEMA L0105 Public Information Basics

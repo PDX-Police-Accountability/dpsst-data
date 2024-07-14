@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/6/2024 | VND0420A | DAS-OSHA-Wildfire Smoke | Passed | 0.0 | 1.00 |
 | 4/27/2024 | MKL1007A | Bi-Annual Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/26/2023 | MKL0299A | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 9/28/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

@@ -14,7 +14,7 @@
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
 | 1/27/2021 | Washington County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 10/5/2020 | Washington County Sheriff's Office | Hired | Dpty Shrf |  |  |
-| 12/4/2019 | Portland Police Bureau | Prob Dschg | Police Off |  |  |
+| 12/4/2019 | Portland Police Bureau | Resigned | Police Off |  |  |
 | 10/8/2018 | Washington County Sheriff's Office | Resigned | Dpty Shrf |  |  |
 | 9/12/2018 | Portland Police Bureau | Hired | Police Off |  |  |
 ## Certification

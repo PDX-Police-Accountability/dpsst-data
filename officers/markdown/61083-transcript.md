@@ -35,6 +35,7 @@
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Passed | 0.0 | 60.00 |
 | 4/17/2024 | GSP2725A | OPCA Spring Seminar - Decoy School | Passed | 0.0 | 32.00 |
+| 4/17/2024 | PDP3633A | OPCA Spring Conference | Passed | 0.0 | 28.00 |
 | 3/13/2024 | PDP3917A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 5.00 |
 | 3/7/2024 | PDP2761A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |
 | 2/27/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |

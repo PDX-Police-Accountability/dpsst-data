@@ -112,6 +112,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '14.50'
+- date: 2/16/2024
+  course: PDP2691A
+  title: Type 3 All-Hazards Incident Management
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/1/2024
   course: PDP0185A
   title: Western States Public Order Conference

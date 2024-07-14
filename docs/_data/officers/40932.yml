@@ -81,6 +81,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 4/19/2024
+  course: PDP3572A
+  title: OACP Annual Conference
+  status: Passed
+  score: '0.0'
+  hours: '26.00'
 - date: 4/18/2024
   course: OAC0055A
   title: Navigating Change Amid Life, Leadership and Loss

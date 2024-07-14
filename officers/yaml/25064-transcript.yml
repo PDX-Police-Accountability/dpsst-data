@@ -63,6 +63,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/6/2024
+  course: VND0420A
+  title: DAS-OSHA-Wildfire Smoke
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/27/2024
   course: MKL1007A
   title: Bi-Annual Defensive Tactics

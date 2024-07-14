@@ -98,6 +98,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '24.00'
+- date: 4/17/2024
+  course: PDP3633A
+  title: OPCA Spring Conference
+  status: Passed
+  score: '0.0'
+  hours: '28.00'
 - date: 4/10/2024
   course: PDP2202A
   title: 2024 K-9 (K9) Weekly Training

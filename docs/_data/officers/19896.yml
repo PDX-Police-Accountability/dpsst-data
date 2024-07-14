@@ -15,6 +15,12 @@ employment_records:
   rank: ''
   classification: ''
   assignment: AcadTrng
+- date: 2/20/2024
+  agency: Wheeler County Sheriff's Office
+  action: Hired
+  rank: Dpty Shrf
+  classification: ''
+  assignment: ''
 - date: 8/24/2022
   agency: Grant County Sheriff's Office
   action: Resigned
@@ -168,26 +174,33 @@ certification_records:
   certificate_date: 3/18/2024
   expiration_date: ''
   probation_date: ''
+- status_date: 2/20/2024
+  certificate: Police Officer
+  level: Basic
+  status: Required
+  certificate_date: ''
+  expiration_date: ''
+  probation_date: 8/20/2025
 - status_date: 11/24/2022
   certificate: Police Officer
   level: Advanced
   status: Lapsed
   certificate_date: 11/16/1995
-  expiration_date: 8/24/2027
+  expiration_date: ''
   probation_date: ''
 - status_date: 11/24/2022
   certificate: Police Officer
   level: Basic
   status: Lapsed
   certificate_date: 8/2/1988
-  expiration_date: 8/24/2027
+  expiration_date: ''
   probation_date: ''
 - status_date: 11/24/2022
   certificate: Police Officer
   level: Intermediate
   status: Lapsed
   certificate_date: 10/24/1990
-  expiration_date: 8/24/2027
+  expiration_date: ''
   probation_date: ''
 training_records:
 - date: 5/16/2024
