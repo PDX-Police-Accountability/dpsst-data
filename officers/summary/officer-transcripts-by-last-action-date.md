@@ -71,6 +71,7 @@
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
 | * MISSING | 44163 |  |  |  |  |  | [md](../markdown/44163-transcript.md) - [yaml](../yaml/44163-transcript.yml) |
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
+| * MISSING | 44369 |  |  |  |  |  | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | * MISSING | 45977 |  |  |  |  |  | [md](../markdown/45977-transcript.md) - [yaml](../yaml/45977-transcript.yml) |
 | * MISSING | 46083 |  |  |  |  |  | [md](../markdown/46083-transcript.md) - [yaml](../yaml/46083-transcript.yml) |
 | * MISSING | 46337 |  |  |  |  |  | [md](../markdown/46337-transcript.md) - [yaml](../yaml/46337-transcript.yml) |
@@ -368,7 +369,6 @@
 | Clark, Bradley N. | 46430 | Portland Police Bureau | Active | Police Officer | Hired | 2006-01-26 | [md](../markdown/46430-transcript.md) - [yaml](../yaml/46430-transcript.yml) |
 | Piombo, Mark M. | 46529 | Portland Police Bureau | Active | Police Officer | Hired | 2006-01-26 | [md](../markdown/46529-transcript.md) - [yaml](../yaml/46529-transcript.yml) |
 | Persons, Micah D. | 35127 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-05 | [md](../markdown/35127-transcript.md) - [yaml](../yaml/35127-transcript.yml) |
-| Eustice, Evin V. | 44369 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-17 | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | Williams, DeShawn D. | 46620 | Portland Police Bureau | Active | Police Officer | Hired | 2006-03-17 | [md](../markdown/46620-transcript.md) - [yaml](../yaml/46620-transcript.yml) |
 | Barnett, Leann L. | 46727 | Portland Police Bureau | Active | Civilian Employee | Hired | 2006-03-23 | [md](../markdown/46727-transcript.md) - [yaml](../yaml/46727-transcript.yml) |
 | Bradshaw, Tessra L. | 47028 | Portland Police Bureau | Active | Civilian Employee | Hired | 2006-04-10 | [md](../markdown/47028-transcript.md) - [yaml](../yaml/47028-transcript.yml) |

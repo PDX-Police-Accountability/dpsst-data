@@ -71,6 +71,7 @@
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
 | * MISSING | 44163 |  |  |  |  |  | [md](../markdown/44163-transcript.md) - [yaml](../yaml/44163-transcript.yml) |
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
+| * MISSING | 44369 |  |  |  |  |  | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | * MISSING | 45977 |  |  |  |  |  | [md](../markdown/45977-transcript.md) - [yaml](../yaml/45977-transcript.yml) |
 | * MISSING | 46083 |  |  |  |  |  | [md](../markdown/46083-transcript.md) - [yaml](../yaml/46083-transcript.yml) |
 | * MISSING | 46337 |  |  |  |  |  | [md](../markdown/46337-transcript.md) - [yaml](../yaml/46337-transcript.yml) |
@@ -800,7 +801,6 @@
 | Miller, Huntley J. | 43999 | Portland Police Bureau | Active | Police Officer | LOA | 2022-02-03 | [md](../markdown/43999-transcript.md) - [yaml](../yaml/43999-transcript.yml) |
 | Murphy, Patrick M. | 44162 | Portland Police Bureau | Active | Police Officer | Hired | 2004-04-15 | [md](../markdown/44162-transcript.md) - [yaml](../yaml/44162-transcript.yml) |
 | Young, John S. | 44217 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2008-10-22 | [md](../markdown/44217-transcript.md) - [yaml](../yaml/44217-transcript.yml) |
-| Eustice, Evin V. | 44369 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-17 | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | Fleming, James D. | 44437 | Portland Police Bureau | Active | Police Officer | Hired | 2004-07-08 | [md](../markdown/44437-transcript.md) - [yaml](../yaml/44437-transcript.yml) |
 | Verbout, Christopher L. | 44441 | Portland Police Bureau | Active | Police Officer | Hired | 2004-07-08 | [md](../markdown/44441-transcript.md) - [yaml](../yaml/44441-transcript.yml) |
 | Barr, Adam N. | 44622 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2017-07-06 | [md](../markdown/44622-transcript.md) - [yaml](../yaml/44622-transcript.yml) |

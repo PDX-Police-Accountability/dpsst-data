@@ -71,6 +71,7 @@
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
 | * MISSING | 44163 |  |  |  |  |  | [md](../markdown/44163-transcript.md) - [yaml](../yaml/44163-transcript.yml) |
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
+| * MISSING | 44369 |  |  |  |  |  | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | * MISSING | 45977 |  |  |  |  |  | [md](../markdown/45977-transcript.md) - [yaml](../yaml/45977-transcript.yml) |
 | * MISSING | 46083 |  |  |  |  |  | [md](../markdown/46083-transcript.md) - [yaml](../yaml/46083-transcript.yml) |
 | * MISSING | 46337 |  |  |  |  |  | [md](../markdown/46337-transcript.md) - [yaml](../yaml/46337-transcript.yml) |
@@ -520,7 +521,6 @@
 | Estes, Matthew J. | 17106 | Portland Police Bureau | Inactive | Detective | Resigned | 2019-09-26 | [md](../markdown/17106-transcript.md) - [yaml](../yaml/17106-transcript.yml) |
 | Estes, Tyson M. | 47060 | Portland Police Bureau | Active | Civilian Employee | Hired | 2006-06-05 | [md](../markdown/47060-transcript.md) - [yaml](../yaml/47060-transcript.yml) |
 | Eugenio, Anthony M. | 39877 | Portland Police Bureau | Active | Police Officer | Hired | 2000-09-21 | [md](../markdown/39877-transcript.md) - [yaml](../yaml/39877-transcript.yml) |
-| Eustice, Evin V. | 44369 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-17 | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | Evans, Charles H. | 59385 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2020-03-31 | [md](../markdown/59385-transcript.md) - [yaml](../yaml/59385-transcript.yml) |
 | Evans, Timmy | 29606 | Portland Police Bureau | Inactive | Police Officer | Discharged | 2018-05-10 | [md](../markdown/29606-transcript.md) - [yaml](../yaml/29606-transcript.yml) |
 | Ezell, Christopher D. | 62597 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2023-08-08 | [md](../markdown/62597-transcript.md) - [yaml](../yaml/62597-transcript.yml) |

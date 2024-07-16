@@ -71,6 +71,7 @@
 | * MISSING | 43488 |  |  |  |  |  | [md](../markdown/43488-transcript.md) - [yaml](../yaml/43488-transcript.yml) |
 | * MISSING | 44163 |  |  |  |  |  | [md](../markdown/44163-transcript.md) - [yaml](../yaml/44163-transcript.yml) |
 | * MISSING | 44299 |  |  |  |  |  | [md](../markdown/44299-transcript.md) - [yaml](../yaml/44299-transcript.yml) |
+| * MISSING | 44369 |  |  |  |  |  | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | * MISSING | 45977 |  |  |  |  |  | [md](../markdown/45977-transcript.md) - [yaml](../yaml/45977-transcript.yml) |
 | * MISSING | 46083 |  |  |  |  |  | [md](../markdown/46083-transcript.md) - [yaml](../yaml/46083-transcript.yml) |
 | * MISSING | 46337 |  |  |  |  |  | [md](../markdown/46337-transcript.md) - [yaml](../yaml/46337-transcript.yml) |
@@ -902,7 +903,6 @@
 | Marti, Christopher M. | 44195 | Portland Police Bureau | Active | Civilian Employee | Hired | 2004-04-21 | [md](../markdown/44195-transcript.md) - [yaml](../yaml/44195-transcript.yml) |
 | Young, John S. | 44217 | Portland Police Bureau | Active | Police Officer | Retrn MLOA | 2008-10-22 | [md](../markdown/44217-transcript.md) - [yaml](../yaml/44217-transcript.yml) |
 | Ruby, Jason M. | 44279 | Portland Police Bureau | Active | Civilian Employee | Hired | 2003-01-30 | [md](../markdown/44279-transcript.md) - [yaml](../yaml/44279-transcript.yml) |
-| Eustice, Evin V. | 44369 | Portland Police Bureau | Inactive | Police Officer | Resigned | 2006-03-17 | [md](../markdown/44369-transcript.md) - [yaml](../yaml/44369-transcript.yml) |
 | DeFrain, James P. | 44436 | Portland Police Bureau | Active | Sergeant | Promotion | 2017-05-04 | [md](../markdown/44436-transcript.md) - [yaml](../yaml/44436-transcript.yml) |
 | Fleming, James D. | 44437 | Portland Police Bureau | Active | Police Officer | Hired | 2004-07-08 | [md](../markdown/44437-transcript.md) - [yaml](../yaml/44437-transcript.yml) |
 | Harris, Charles R. | 44438 | Portland Police Bureau | Inactive | Sergeant | Resigned | 2019-09-03 | [md](../markdown/44438-transcript.md) - [yaml](../yaml/44438-transcript.yml) |
