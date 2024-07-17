@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2024 | PPP3021A | Low Light Firearms Training | Passed | 0.0 | 4.00 |
 | 5/15/2024 | PPP1761A | CPR/First Aid/AED | Passed | 0.0 | 4.00 |
 | 4/26/2024 | PPP1683A | K9 Conference | Passed | 0.0 | 40.00 |
 | 3/31/2024 | PPP3048A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |

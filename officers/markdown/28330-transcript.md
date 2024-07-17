@@ -44,6 +44,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/24/2024 | PPP0250A | RDS Firearm Training | Passed | 0.0 | 16.00 |
 | 5/8/2024 | PPP1446A | ALEAN Spring Conference | Passed | 0.0 | 16.00 |
 | 3/31/2024 | PPP3048A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 1/31/2024 | PPP0703A | Developing Leadership | Passed | 0.0 | 1.00 |

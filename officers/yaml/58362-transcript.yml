@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2024
+  course: PPP0760A
+  title: Patrol E-Bike Skills Course
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
 - date: 6/26/2024
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

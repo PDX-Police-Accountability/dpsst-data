@@ -17,7 +17,7 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/28/2024 | Police Officer | Intermediate | App Recd |  |  |  |
+| 7/15/2024 | Police Officer | Intermediate | App InProc |  |  |  |
 | 8/8/2019 | Police Officer | Basic | Granted | 8/8/2019 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
@@ -30,6 +30,7 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 3/24/2018 | Bachelor Science | Portland State University | Criminal Justice | 184.0 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

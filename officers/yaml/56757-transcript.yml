@@ -49,6 +49,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/6/2024
+  course: PPP3021A
+  title: Low Light Firearms Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/23/2024
   course: PPP4530A
   title: Intoxilyzer 8000
@@ -73,6 +79,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.30'
+- date: 5/17/2024
+  course: PPP1062A
+  title: RDS Firearm Training and Qual
+  status: Passed
+  score: '0.0'
+  hours: '24.00'
 - date: 5/15/2024
   course: PPP1761A
   title: CPR/First Aid/AED

@@ -22,10 +22,10 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
-- status_date: 5/28/2024
+- status_date: 7/15/2024
   certificate: Police Officer
   level: Intermediate
-  status: App Recd
+  status: App InProc
   certificate_date: ''
   expiration_date: ''
   probation_date: ''
@@ -2476,4 +2476,9 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 7/15/2018
   expiration_date: ''
-education_records: []
+education_records:
+- date: 3/24/2018
+  degree: Bachelor Science
+  school: Portland State University
+  major: Criminal Justice
+  hours: '184.0'

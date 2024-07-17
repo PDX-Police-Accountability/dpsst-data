@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2024 | PPP0760A | Patrol E-Bike Skills Course | Passed | 0.0 | 3.00 |
 | 6/26/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Instructed | 0.0 | 11.00 |
 | 6/26/2024 | OCS3171A | LiDAR/Radar course | Instructed | 0.0 | 11.00 |
 | 5/20/2024 | OCS0671A | Takedowns and Ground defense | Passed | 0.0 | 1.00 |

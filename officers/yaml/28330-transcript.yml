@@ -113,6 +113,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/24/2024
+  course: PPP0250A
+  title: RDS Firearm Training
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/8/2024
   course: PPP1446A
   title: ALEAN Spring Conference

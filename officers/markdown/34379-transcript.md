@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2024 | PPP3021A | Low Light Firearms Training | Passed | 0.0 | 4.00 |
 | 3/31/2024 | PPP3048A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 1/31/2024 | PPP0703A | Developing Leadership | Passed | 0.0 | 1.00 |
 | 1/23/2024 | PPP2822A | Firearms Handgun/Rifle Qualification | Passed | 0.0 | 4.00 |
