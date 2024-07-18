@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '15.00'
+- date: 4/5/2024
+  course: PDP4173A
+  title: DUII DRE DECP Training Conference
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
 - date: 3/20/2024
   course: PDP1617A
   title: 2024-1 Range Qualification AR-15 Qualification (20

@@ -62,6 +62,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/4/2024
+  course: PDP2492A
+  title: GLOCK Armorer Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/2/2024
   course: PDP1358A
   title: 2024-2 Patrol Rifle Operator Course

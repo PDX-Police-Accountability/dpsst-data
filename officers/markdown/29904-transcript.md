@@ -35,6 +35,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2024 | PDS4523A | Range | Passed | 0.0 | 2.00 |
+| 6/13/2024 | PDS0131A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/15/2024 | PDS3016A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/18/2024 | PDS0931A | EVOC | Passed | 0.0 | 4.00 |

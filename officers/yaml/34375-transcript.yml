@@ -126,6 +126,42 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/23/2024
+  course: OSA2591A
+  title: Legal Updates Use of Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/23/2024
+  course: OSA3299A
+  title: Legal Updates
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 5/23/2024
+  course: OSA0842A
+  title: Wellness/Resilience Support
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 5/22/2024
+  course: OSA0187A
+  title: OSSA Spring Board of Directors Meeting
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
+- date: 5/22/2024
+  course: OSA1297A
+  title: What's Important Now?
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 5/21/2024
+  course: OSA0127A
+  title: OSSA Spring Board of Directors Meeting
+  status: Passed
+  score: '0.0'
+  hours: '7.50'
 - date: 5/9/2024
   course: OAC4489A
   title: 'HB 4002: Implementation  Training Symposium'

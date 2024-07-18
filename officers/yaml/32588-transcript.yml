@@ -87,6 +87,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/4/2024
+  course: PDS1043A
+  title: Domestic Terrorism Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/19/2024
   course: GSP4349A
   title: FBI LEEDA Command Leadership Institute

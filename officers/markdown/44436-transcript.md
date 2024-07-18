@@ -54,6 +54,7 @@
 | 3/20/2024 | PDP1369A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 3/13/2024 | PDP1062A | 2024 MEDU Weekly Training | Instructed | 0.0 | 9.00 |
 | 3/6/2024 | PDP2565A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
+| 3/6/2024 | PDP3215A | NY State Bomb Squad Symposium | Passed | 0.0 | 17.25 |
 | 2/28/2024 | PDP2362A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/21/2024 | PDP0969A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 2/14/2024 | PDP3614A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |

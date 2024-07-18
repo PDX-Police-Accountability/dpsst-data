@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/5/2024 | PDS4284A | Range | Passed | 0.0 | 2.00 |
 | 5/13/2024 | PDS2282A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/10/2024 | PDS1137A | LE Range | Passed | 0.0 | 2.00 |
 | 4/5/2024 | VND2119A | ICS 400 - Advanced Incident Command System | Passed | 0.0 | 15.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2024 | PDA4179A | Basic Handgun Skills  Qualification | Passed | 0.0 | 4.00 |
 | 5/2/2024 | F1514089 | Rising Antisemitism in the US | Passed | 0.0 | 0.75 |
 | 4/12/2024 | F1524959 | Workforce Equity Strategic Plan | Passed | 0.0 | 3.50 |
 | 4/8/2024 | F1533128 | How Crime Analysts Improve | Passed | 0.0 | 1.00 |

@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/6/2024 | PDS2695A | Use of Force Report Writing | Instructed | 0.0 | 8.00 |
 | 5/10/2024 | PDS0095A | Restraints and Searches | Passed | 0.0 | 4.00 |
 | 5/10/2024 | PDS1486A | Use of Force Report Writing | Passed | 0.0 | 8.00 |
 | 4/5/2024 | PDS3422A | Agency Values, Expectations, and Transgender | Instructed | 0.0 | 4.00 |

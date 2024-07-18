@@ -41,13 +41,18 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
+| 6/3/2024 | REG4072A | DT | Passed | 0.0 | 1.00 |
+| 5/30/2024 | REG3321A | DT | Passed | 0.0 | 1.00 |
+| 5/16/2024 | REG1095A | DT | Passed | 0.0 | 1.00 |
 | 5/8/2024 | SDP2362A | Sexual Assault and MDT Protocols | Passed | 0.0 | 1.50 |
 | 5/8/2024 | SDP4040A | CIT Review | Passed | 0.0 | 1.00 |
 | 5/8/2024 | SDP0759A | DUII Update and Warrant Writing Refresher | Passed | 0.0 | 1.50 |
+| 5/6/2024 | REG2883A | DT | Passed | 0.0 | 1.00 |
 | 4/24/2024 | SDP3130A | Defensive Tactics | Instructed | 0.0 | 2.00 |
 | 4/24/2024 | SDP3588A | Child Abuse MDT Protocol's and Karly's Law | Passed | 0.0 | 1.50 |
 | 4/24/2024 | SDP0578A | Pursuit Policy Review and High Risk Stops | Passed | 0.0 | 1.50 |
 | 4/8/2024 | REG3684A | DT | Passed | 0.0 | 1.00 |
+| 4/6/2024 | REG4241A | DT | Passed | 0.0 | 1.00 |
 | 4/1/2024 | REG0294A | DT | Passed | 0.0 | 1.00 |
 | 3/28/2024 | REG0549A | DT | Passed | 0.0 | 1.00 |
 | 3/25/2024 | REG0638 | DT Ground/Wall Control | Passed | 0.0 | 1.00 |

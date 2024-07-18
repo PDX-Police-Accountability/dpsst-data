@@ -48,6 +48,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/17/2024
+  course: PDS4523A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/13/2024
+  course: PDS0131A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 4/15/2024
   course: PDS3016A
   title: LE Range

@@ -40,6 +40,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2024 | PDS3908A | Range | Passed | 0.0 | 2.00 |
 | 5/28/2024 | PDS1007A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/23/2024 | PDS3603A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

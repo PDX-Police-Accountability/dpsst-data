@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/22/2024
+  course: PDS1760A
+  title: Public Order In-Service
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
 - date: 6/6/2024
   course: PPP3021A
   title: Low Light Firearms Training

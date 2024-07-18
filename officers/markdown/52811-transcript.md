@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2024 | PDS0199A | Range | Instructed | 0.0 | 2.00 |
 | 5/15/2024 | PDS4373A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/11/2024 | PDS3148A | Range Instructor | Passed | 0.0 | 16.00 |
 | 5/9/2024 | PDS3390A | Defensive Tactics | Instructed | 0.0 | 4.00 |

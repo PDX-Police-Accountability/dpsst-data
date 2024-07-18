@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/22/2024 | PDS1760A | Public Order In-Service | Passed | 0.0 | 10.00 |
 | 6/6/2024 | PPP3021A | Low Light Firearms Training | Passed | 0.0 | 4.00 |
 | 3/31/2024 | PPP3048A | Foundations in Ethics for LE | Passed | 0.0 | 1.00 |
 | 2/20/2024 | PPP0233A | TIP Wellness | Passed | 0.0 | 0.30 |

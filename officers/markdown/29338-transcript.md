@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/25/2024 | PDS3908A | Range | Passed | 0.0 | 2.00 |
 | 5/26/2024 | PDS2146A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/22/2024 | VND2669A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 4/8/2024 | PDS1401A | LE Range | Passed | 0.0 | 2.00 |

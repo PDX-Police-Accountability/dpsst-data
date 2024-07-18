@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/17/2024 | PDS4523A | Range | Passed | 0.0 | 2.00 |
 | 5/15/2024 | PDS4373A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 5/1/2024 | LOP1817A | High Impact Leadership | Passed | 0.0 | 16.00 |
 | 4/23/2024 | PDS3603A | LE Range | Passed | 0.0 | 2.00 |

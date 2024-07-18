@@ -165,6 +165,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 3/6/2024
+  course: PDP3215A
+  title: NY State Bomb Squad Symposium
+  status: Passed
+  score: '0.0'
+  hours: '17.25'
 - date: 2/28/2024
   course: PDP2362A
   title: 2024 MEDU Weekly Training

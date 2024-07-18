@@ -30,12 +30,150 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 5/15/2024
+  course: PDP2714A
+  title: 2024-1 Advanced Academy Law
+  status: Passed
+  score: '0.0'
+  hours: '31.00'
+- date: 5/15/2024
+  course: PDP0442A
+  title: 2024-1 Advanced Academy SVO
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 5/14/2024
+  course: PDP2374A
+  title: 2024-1 Advanced Academy Ethics
+  status: Passed
+  score: '0.0'
+  hours: '41.50'
+- date: 5/9/2024
+  course: PDP0275A
+  title: 2024-1 Advanced Academy ABLE
+  status: Passed
+  score: '0.0'
+  hours: '10.00'
+- date: 5/5/2024
+  course: PDP4032A
+  title: 2024-1 Advanced Academy PVO
+  status: Passed
+  score: '0.0'
+  hours: '48.00'
+- date: 5/2/2024
+  course: PDP1893A
+  title: 2024-1 Advanced Academy Bike School
+  status: Passed
+  score: '0.0'
+  hours: '37.00'
+- date: 5/1/2024
+  course: PDP2047A
+  title: 2024-1 Advanced Academy Patrol Proc. (FA)
+  status: Passed
+  score: '0.0'
+  hours: '120.25'
+- date: 4/25/2024
+  course: PDP3440A
+  title: 2024-1 Advanced Academy Public Order
+  status: Passed
+  score: '0.0'
+  hours: '13.50'
+- date: 4/24/2024
+  course: PDP1807A
+  title: 2024-1 Advanced Academy Control Tactics
+  status: Passed
+  score: '0.0'
+  hours: '63.00'
+- date: 4/22/2024
+  course: PDP1936A
+  title: 2024-1 Advanced Academy Wellnesss
+  status: Passed
+  score: '0.0'
+  hours: '10.50'
+- date: 4/18/2024
+  course: PDP2042A
+  title: 2024-1 Advanced Academy Firearms
+  status: Passed
+  score: '0.0'
+  hours: '51.75'
 - date: 4/11/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 3/25/2024
+  course: PDP3218A
+  title: 2024-1 Advanced Academy Crisis Int. Training
+  status: Passed
+  score: '0.0'
+  hours: '21.00'
+- date: 3/21/2024
+  course: PDP3407A
+  title: 2024-1 Advanced Academy Human Traffic
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/20/2024
+  course: PDP4477A
+  title: 2024-1 Advanced Academy CEW
+  status: Passed
+  score: '0.0'
+  hours: '2.25'
+- date: 3/13/2024
+  course: PDP1917A
+  title: 2024-1 Advanced Academy ASU
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2024
+  course: PDP1760A
+  title: 2024-1 Advanced Academy Cares
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 3/13/2024
+  course: PDP3774A
+  title: 2024-1 Advanced Academy CSI
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 2/29/2024
+  course: PDP0161A
+  title: 2024-1 Advanced Academy Trauma Inf. Int.
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 2/27/2024
+  course: PDP0434A
+  title: 2024-1 Advanced Academy Comm. Eng.
+  status: Passed
+  score: '0.0'
+  hours: '4.50'
+- date: 2/22/2024
+  course: PDP3082A
+  title: 2024-1 Advanced Academy Legit/Proc. Just
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 2/19/2024
+  course: PDP4429A
+  title: 2024-1 Advanced Academy Fitness
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 2/19/2024
+  course: PDP1895A
+  title: 2024-1 Advanced Academy SERT Info
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2024
+  course: PDP2770A
+  title: 2024-1 Advanced Academy Patrol Proc. (Other)
+  status: Passed
+  score: '0.0'
+  hours: '5.00'
 - date: 2/7/2024
   course: PDP3870A
   title: 2024 Wellness In-Service Breathwork

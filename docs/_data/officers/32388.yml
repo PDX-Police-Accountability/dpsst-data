@@ -50,6 +50,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2024
+  course: PDS1043A
+  title: Domestic Terrorism Investigations
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/16/2024
   course: GSP2530A
   title: High-Risk Explosives Sweep

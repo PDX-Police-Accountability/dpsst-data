@@ -50,6 +50,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/4/2024
+  course: PDS1917A
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/4/2024
+  course: PDS2734A
+  title: Post-Deadly Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 4/15/2024
   course: PDS3197A
   title: Defensive tactics

@@ -40,7 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/7/2024 | PDS0199A | Range | Passed | 0.0 | 2.00 |
 | 6/6/2024 | VND0961A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
+| 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |
 | 5/10/2024 | PDS1357A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 4/17/2024 | PDS4142A | LE Range | Passed | 0.0 | 2.00 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |

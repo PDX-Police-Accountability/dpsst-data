@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/13/2024 | PDS0131A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/28/2024 | PDS1007A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/22/2024 | VND2669A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |
 | 5/10/2024 | PDS1357A | Defensive Tactics | Instructed | 0.0 | 4.00 |

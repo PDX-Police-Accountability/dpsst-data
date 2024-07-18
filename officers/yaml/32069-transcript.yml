@@ -68,6 +68,36 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/6/2024
+  course: REG3689A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 6/3/2024
+  course: REG4072A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2024
+  course: REG2508A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2024
+  course: REG2883A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/29/2024
+  course: REG4369A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/15/2024
   course: REG2072A
   title: Ground Escape
@@ -143,6 +173,12 @@ training_records:
 - date: 2/26/2024
   course: REG2377A
   title: Flow Drills/Grips  Control
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 2/19/2024
+  course: REG3040A
+  title: DT
   status: Passed
   score: '0.0'
   hours: '1.00'

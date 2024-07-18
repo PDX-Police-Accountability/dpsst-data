@@ -39,6 +39,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/26/2024 | SDP4192A | In-Service Taser 7 Refresher | Passed | 0.0 | 4.00 |
+| 6/6/2024 | REG3689A | DT | Passed | 0.0 | 1.00 |
+| 6/3/2024 | REG4072A | DT | Passed | 0.0 | 1.00 |
+| 5/13/2024 | REG2508A | DT | Passed | 0.0 | 1.00 |
+| 5/6/2024 | REG2883A | DT | Passed | 0.0 | 1.00 |
+| 4/29/2024 | REG4369A | DT | Passed | 0.0 | 1.00 |
 | 4/15/2024 | REG2072A | Ground Escape | Passed | 0.0 | 1.00 |
 | 4/10/2024 | SDP3516A | Child Abuse MDT Protocol's and Karly's Law Review | Passed | 0.0 | 1.50 |
 | 4/10/2024 | SDP3194A | Defensive Tactics Physical Control Drills | Passed | 0.0 | 1.50 |
@@ -52,6 +57,7 @@
 | 3/18/2024 | REG4234A | DT | Passed | 0.0 | 1.00 |
 | 3/11/2024 | REG0898A | DT | Passed | 0.0 | 1.00 |
 | 2/26/2024 | REG2377A | Flow Drills/Grips  Control | Passed | 0.0 | 1.00 |
+| 2/19/2024 | REG3040A | DT | Passed | 0.0 | 1.00 |
 | 2/14/2024 | SDP2330A | Defensive Tactics | Passed | 0.0 | 3.00 |
 | 2/14/2024 | SDP2245A | Firearms Training | Passed | 0.0 | 2.50 |
 | 2/14/2024 | SDP3379A | Evidence Processing Training | Passed | 0.0 | 1.50 |

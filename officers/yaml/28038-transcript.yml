@@ -74,9 +74,21 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/7/2024
+  course: PDS0199A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/6/2024
   course: VND0961A
   title: 28 CFR 23 and WSIN Resources
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/4/2024
+  course: PDS1043A
+  title: Domestic Terrorism Investigations
   status: Passed
   score: '0.0'
   hours: '2.00'

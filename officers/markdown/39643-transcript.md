@@ -36,6 +36,12 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 5/30/2024 | REG3321A | DT | Passed | 0.0 | 1.00 |
+| 5/23/2024 | REG2866A | DT | Passed | 0.0 | 1.00 |
+| 5/16/2024 | REG1095A | DT | Passed | 0.0 | 1.00 |
+| 5/13/2024 | REG2508A | DT | Passed | 0.0 | 1.00 |
+| 5/6/2024 | REG2883A | DT | Passed | 0.0 | 1.00 |
+| 4/25/2024 | REG1736A | DT | Passed | 0.0 | 1.00 |
 | 4/8/2024 | REG3684A | DT | Passed | 0.0 | 1.00 |
 | 4/4/2024 | REG2351A | DT | Passed | 0.0 | 1.00 |
 | 3/28/2024 | REG0549A | DT | Passed | 0.0 | 1.00 |

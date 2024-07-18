@@ -70,6 +70,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 4/19/2024
+  course: PDP3075A
+  title: 40 hour Dialogue Team Training
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 4/10/2024
   course: PDP3598A
   title: 2024 CNT Crisis Negotiation Team Annual Training

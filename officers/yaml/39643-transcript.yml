@@ -50,6 +50,42 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/30/2024
+  course: REG3321A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/23/2024
+  course: REG2866A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/16/2024
+  course: REG1095A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/13/2024
+  course: REG2508A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/6/2024
+  course: REG2883A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/25/2024
+  course: REG1736A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/8/2024
   course: REG3684A
   title: DT

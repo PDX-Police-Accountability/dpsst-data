@@ -48,6 +48,12 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/23/2024 | OSA2591A | Legal Updates Use of Force | Passed | 0.0 | 2.00 |
+| 5/23/2024 | OSA3299A | Legal Updates | Passed | 0.0 | 2.00 |
+| 5/23/2024 | OSA0842A | Wellness/Resilience Support | Passed | 0.0 | 3.50 |
+| 5/22/2024 | OSA0187A | OSSA Spring Board of Directors Meeting | Passed | 0.0 | 3.50 |
+| 5/22/2024 | OSA1297A | What's Important Now? | Passed | 0.0 | 4.00 |
+| 5/21/2024 | OSA0127A | OSSA Spring Board of Directors Meeting | Passed | 0.0 | 7.50 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/9/2024 | STS0146A | Low Light Firearms Training | Passed | 0.0 | 4.00 |
 | 3/4/2024 | STS1103A | Glock 47 RDS Transition Course  Qualification | Passed | 0.0 | 16.00 |

@@ -74,6 +74,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/3/2024
+  course: REG4072A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/30/2024
+  course: REG3321A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 5/16/2024
+  course: REG1095A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/8/2024
   course: SDP2362A
   title: Sexual Assault and MDT Protocols
@@ -92,6 +110,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.50'
+- date: 5/6/2024
+  course: REG2883A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/24/2024
   course: SDP3130A
   title: Defensive Tactics
@@ -112,6 +136,12 @@ training_records:
   hours: '1.50'
 - date: 4/8/2024
   course: REG3684A
+  title: DT
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 4/6/2024
+  course: REG4241A
   title: DT
   status: Passed
   score: '0.0'

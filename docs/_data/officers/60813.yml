@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/15/2024
+  course: OSH2368A
+  title: 2nd Trimester Firearms
+  status: Instructed
+  score: '0.0'
+  hours: '8.00'
 - date: 5/20/2024
   course: OSH3457A
   title: 1st Trimester Defensive Tactics

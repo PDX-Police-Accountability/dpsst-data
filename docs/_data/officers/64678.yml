@@ -165,4 +165,14 @@ attribute_records:
   value: Law Enforcement Signed
   effective_date: 11/27/2023
   expiration_date: ''
-education_records: []
+education_records:
+- date: 6/9/2023
+  degree: Masters Science
+  school: All Other Education Institutes
+  major: ''
+  hours: '60.0'
+- date: 12/10/2021
+  degree: Bachelor Arts
+  school: All Other Education Institutes
+  major: ''
+  hours: '180.0'

@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/5/2024
+  course: PDS4284A
+  title: Range
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/13/2024
   course: PDS2282A
   title: Defensive Tactics

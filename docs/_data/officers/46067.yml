@@ -140,6 +140,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 3/15/2024
+  course: PDP0504A
+  title: Criminal Investigations Using Cellular Tech
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/29/2024
   course: PDP0535A
   title: 2024 SERT Training - ITERATION

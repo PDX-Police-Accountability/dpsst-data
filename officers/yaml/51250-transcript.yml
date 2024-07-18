@@ -56,6 +56,12 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '10.00'
+- date: 5/23/2024
+  course: OSA0842A
+  title: Wellness/Resilience Support
+  status: Passed
+  score: '0.0'
+  hours: '3.50'
 - date: 2/28/2024
   course: PDP1730A
   title: 2022 DIR 835.20 Managing Public Spaces

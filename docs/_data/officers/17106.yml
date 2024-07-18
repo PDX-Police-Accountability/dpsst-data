@@ -86,6 +86,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/12/2024
+  course: PDA4179A
+  title: Basic Handgun Skills  Qualification
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/20/2024
   course: VND3182A
   title: Infant  Child Death Investigations

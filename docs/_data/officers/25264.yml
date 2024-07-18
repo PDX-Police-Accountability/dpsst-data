@@ -68,6 +68,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/13/2024
+  course: PDS0131A
+  title: Defensive Tactics
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/28/2024
   course: PDS1007A
   title: Defensive Tactics

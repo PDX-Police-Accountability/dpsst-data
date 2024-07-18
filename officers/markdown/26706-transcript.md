@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/4/2024 | PDS1917A | Corrections Overview | Passed | 0.0 | 6.00 |
+| 6/4/2024 | PDS2734A | Post-Deadly Force | Passed | 0.0 | 2.00 |
 | 4/15/2024 | PDS3197A | Defensive tactics | Passed | 0.0 | 8.00 |
 | 2/6/2024 | PDS3283A | Bloodborne Pathogens | Passed | 0.0 | 1.00 |
 | 2/6/2024 | PDS2112A | Cultural Awareness and Diversity | Passed | 0.0 | 1.00 |
