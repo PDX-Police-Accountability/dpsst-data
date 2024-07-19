@@ -86,6 +86,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 5/28/2024
+  course: PDP4332A
+  title: OSP DNA Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 5/23/2024
   course: PDP4413A
   title: 2024 SERT Training - SCENARIO

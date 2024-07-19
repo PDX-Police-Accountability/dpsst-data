@@ -36,6 +36,8 @@
 | 4/10/2024 | PDP1761A | 2024 FTEP Post DPSST Firearms | Passed | 0.0 | 27.00 |
 | 4/10/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/4/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Passed | 0.0 | 9.00 |
+| 4/2/2024 | PDP4486A | 2024 FTEP Geography | Passed | 0.0 | 2.00 |
+| 4/2/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 4/1/2024 | PDP3590A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
 | 3/29/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/6/2024 | REG2525A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |

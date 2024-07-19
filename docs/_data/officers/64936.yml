@@ -30,12 +30,36 @@ training_records:
   status: Required
   score: '0.0'
   hours: '50.00'
+- date: 7/15/2024
+  course: PDP4395A
+  title: WMD/Terrorism Awareness for Emergency Respndrs
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 7/11/2024
+  course: PDP1033A
+  title: 2024 Training RegJIN RMS/MRE
+  status: Passed
+  score: '0.0'
+  hours: '14.00'
+- date: 7/2/2024
+  course: PDP3185A
+  title: 2024 FTEP Orientation
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 6/25/2024
   course: PDP2433A
   title: 2024 FTEP Geography
   status: Passed
   score: '0.0'
   hours: '2.25'
+- date: 6/25/2024
+  course: PDP3768A
+  title: 2024 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 5/28/2024
   course: REG0895A
   title: DID-SFST (Hours included in Basic)

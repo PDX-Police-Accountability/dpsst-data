@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/28/2024
+  course: PDP4332A
+  title: OSP DNA Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/21/2024
   course: OSH1123A
   title: Mobile Vehicle and Foot Surveillance Training

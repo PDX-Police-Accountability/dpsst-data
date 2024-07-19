@@ -38,6 +38,7 @@
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Instructed | 0.0 | 2.25 |
 | 4/9/2024 | PDP2318A | 2024 FTEP Geography | Instructed | 0.0 | 2.00 |
+| 4/2/2024 | PDP4486A | 2024 FTEP Geography | Instructed | 0.0 | 2.00 |
 | 2/20/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/21/2023 | PDP4150A | DIR 0630.05 Chief's Message | Passed | 0.0 | 0.25 |
 | 12/11/2023 | PDP0228A | 2023-2 All Sworn In-Service Crime Scene Mgmt | Passed | 0.0 | 1.50 |

@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 5/28/2024
+  course: PDP4332A
+  title: OSP DNA Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 3/19/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

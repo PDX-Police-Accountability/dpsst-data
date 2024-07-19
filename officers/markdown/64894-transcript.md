@@ -29,7 +29,11 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 8/15/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 7/14/2024 | PDP4395A | WMD/Terrorism Awareness for Emergency Respndrs | Passed | 0.0 | 8.00 |
+| 7/11/2024 | PDP1033A | 2024 Training RegJIN RMS/MRE | Passed | 0.0 | 14.00 |
+| 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
+| 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
 | 5/28/2024 | REG0895A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/9/2024 | REG2564A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |

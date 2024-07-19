@@ -78,6 +78,18 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '9.00'
+- date: 4/2/2024
+  course: PDP4486A
+  title: 2024 FTEP Geography
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 4/2/2024
+  course: PDP3768A
+  title: 2024 Mobile Identification Device (MIDD) Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 4/1/2024
   course: PDP3590A
   title: WMD/Terrorism Awareness for Emergency Respndrs

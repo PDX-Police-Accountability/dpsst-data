@@ -1632,17 +1632,13 @@ attribute_records:
   effective_date: 1/1/2025
   expiration_date: 12/31/2027
 - topic: Certification Cards
-  value: CPR
+  value: First Aid and CPR
   effective_date: 1/24/2024
   expiration_date: 1/24/2026
 - topic: Maintenance Requirements
   value: LE Annual
   effective_date: 1/1/2024
   expiration_date: 12/31/2024
-- topic: Certification Cards
-  value: First Aid and CPR
-  effective_date: 4/7/2023
-  expiration_date: 4/7/2025
 - topic: Code of Ethics
   value: Law Enforcement Signed
   effective_date: 7/14/2021

@@ -37,6 +37,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/28/2024
+  course: PDP4332A
+  title: OSP DNA Training
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 2/22/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh
