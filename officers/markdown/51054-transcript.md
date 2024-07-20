@@ -35,6 +35,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/3/2024 | PDP1223A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/25/2024 | PDP4113A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 4/5/2024 | PDP0335A | 2024 ECIT In-Service | Passed | 0.0 | 9.00 |
 | 4/4/2024 | PDP1930A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

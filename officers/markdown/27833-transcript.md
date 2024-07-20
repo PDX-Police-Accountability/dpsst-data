@@ -31,6 +31,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2024 | PDP2460A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 4/10/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/10/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |
 | 2/1/2024 | PDP0185A | Western States Public Order Conference | Passed | 0.0 | 32.00 |

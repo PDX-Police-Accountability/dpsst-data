@@ -42,6 +42,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/18/2024
+  course: PDS1234A
+  title: Basic Corrections
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
+- date: 6/18/2024
+  course: PDS0110A
+  title: Post Deadly Force
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
+- date: 6/11/2024
+  course: PDS4028A
+  title: Mental Health Conference
+  status: Passed
+  score: '0.0'
+  hours: '12.50'
 - date: 3/19/2024
   course: PDS3328A
   title: UNET Range

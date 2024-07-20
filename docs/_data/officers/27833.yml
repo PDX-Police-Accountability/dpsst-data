@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/11/2024
+  course: PDP2460A
+  title: 2024 Patrol Procedures Mental Health Encounters
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 4/10/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

@@ -33,6 +33,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 7/12/2024 | XDELETE1 | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 40.00 |
+| 7/12/2024 | F6R2408A | FBI Regional Crisis Negotiation Course | Passed | 0.0 | 40.00 |
 | 6/13/2024 | PDP3208A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/6/2024 | PDP4321A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 5/23/2024 | PDP4413A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

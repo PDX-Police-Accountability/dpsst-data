@@ -38,6 +38,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2024 | PDP2460A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 6/26/2024 | 24-0028 | DPSST Middle Management F22 Equivalency | Completed | 0.0 | 0.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Leadership 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/19/2024 | PDP3572A | OACP Annual Conference | Passed | 0.0 | 26.00 |

@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/4/2024 | PDP1403A | 2024 Standardized Field Sobriety Test Refresher | Instructed | 0.0 | 4.00 |
 | 5/17/2024 | BPT2845A | SFST Instructor Development Course | Passed | 0.0 | 50.00 |
 | 4/5/2024 | F6R2630A | DUII Multi-Disciplinary Task Force | Passed | 0.0 | 15.00 |
 | 4/5/2024 | PDP0274A | DUII  DRE/DECP Training Conference | Passed | 0.0 | 21.00 |

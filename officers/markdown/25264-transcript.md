@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/16/2024 | PDS3943A | MIDD Mobile Fingerprint Device Training | Passed | 0.0 | 1.00 |
+| 7/9/2024 | PDS2214A | Taser | Passed | 0.0 | 8.00 |
 | 6/13/2024 | PDS0131A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/28/2024 | PDS1007A | Defensive Tactics | Instructed | 0.0 | 4.00 |
 | 5/22/2024 | VND2669A | 28 CFR 23 and WSIN Resources | Passed | 0.0 | 2.00 |

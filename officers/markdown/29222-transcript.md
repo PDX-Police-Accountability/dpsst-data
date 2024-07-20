@@ -40,6 +40,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 5/10/2024 | GSP1531A | Washington Homicide Investigators Association 2024 | Passed | 0.0 | 20.00 |
+| 5/2/2024 | GSP0672A | Finding the Leader in You | Passed | 0.0 | 5.00 |
 | 4/16/2024 | GSP1655A | Handgun In-InService | Instructed | 0.0 | 10.00 |
 | 4/4/2024 | GSP1763A | Post Academy | Instructed | 0.0 | 10.00 |
 | 3/25/2024 | GSP2723A | Firearms - Rifle | Instructed | 0.0 | 10.00 |

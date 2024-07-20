@@ -68,6 +68,18 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/16/2024
+  course: PDS3943A
+  title: MIDD Mobile Fingerprint Device Training
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/9/2024
+  course: PDS2214A
+  title: Taser
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 6/13/2024
   course: PDS0131A
   title: Defensive Tactics

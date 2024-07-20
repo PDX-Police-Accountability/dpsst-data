@@ -126,6 +126,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/28/2024
+  course: STS1556A
+  title: Legal Update(s)
+  status: Passed
+  score: '0.0'
+  hours: '2.50'
 - date: 5/23/2024
   course: OSA2591A
   title: Legal Updates Use of Force

@@ -48,6 +48,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/28/2024 | STS1556A | Legal Update(s) | Passed | 0.0 | 2.50 |
 | 5/23/2024 | OSA2591A | Legal Updates Use of Force | Passed | 0.0 | 2.00 |
 | 5/23/2024 | OSA3299A | Legal Updates | Passed | 0.0 | 2.00 |
 | 5/23/2024 | OSA0842A | Wellness/Resilience Support | Passed | 0.0 | 3.50 |

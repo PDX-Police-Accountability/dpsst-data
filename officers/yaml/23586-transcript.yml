@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 6/8/2024
+  course: PDS0389A
+  title: Corrections Overview
+  status: Passed
+  score: '0.0'
+  hours: '6.00'
 - date: 3/29/2024
   course: PDS3207A
   title: Defensive Tactics

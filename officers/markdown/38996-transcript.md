@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2024 | PDP2460A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 3/15/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 3/8/2024 | VND3366A | Northwest Leadership Seminar | Passed | 0.0 | 20.00 |
 | 1/12/2024 | OAC1817A | The Crucial Connection - Chief/Mgr Relationships | Passed | 0.0 | 1.50 |

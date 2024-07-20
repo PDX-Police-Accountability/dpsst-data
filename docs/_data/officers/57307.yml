@@ -44,6 +44,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '40.00'
+- date: 7/12/2024
+  course: F6R2408A
+  title: FBI Regional Crisis Negotiation Course
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 6/13/2024
   course: PDP3208A
   title: 2024 SERT Training - SCENARIO

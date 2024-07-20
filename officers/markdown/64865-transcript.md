@@ -34,13 +34,13 @@
 | 7/2/2024 | PDP3185A | 2024 FTEP Orientation | Passed | 0.0 | 6.00 |
 | 6/25/2024 | PDP2433A | 2024 FTEP Geography | Passed | 0.0 | 2.25 |
 | 6/25/2024 | PDP3768A | 2024 Mobile Identification Device (MIDD) Training | Passed | 0.0 | 1.00 |
+| 6/21/2024 | M10-23A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 5/28/2024 | REG0895A | DID-SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 5/9/2024 | REG2564A | INTOX 8000 (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/10/2024 | PDP2833A | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/10/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 3/10/2024 | PDP0739A | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/10/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
-| 3/4/2024 | M10-23A | DPSST Basic Police Course | Registered | 0.0 | 0.00 |
 | 2/29/2024 | PDP2489A | ICS-200 Basic Incident Cmnd System for Intl Resp | Passed | 0.0 | 4.00 |
 | 2/29/2024 | PDP2019A | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |
 | 2/28/2024 | PDP2070A | CPR/First Aid | Passed | 0.0 | 2.00 |

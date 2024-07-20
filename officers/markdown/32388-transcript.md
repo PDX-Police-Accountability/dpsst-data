@@ -36,6 +36,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/4/2024 | PDS1043A | Domestic Terrorism Investigations | Passed | 0.0 | 2.00 |
+| 5/21/2024 | GSP1545A | Glock Armorer's Course | Passed | 0.0 | 8.00 |
 | 4/16/2024 | GSP2530A | High-Risk Explosives Sweep | Passed | 0.0 | 1.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/29/2024 | GSP1105A | Stop the Bleed | Passed | 0.0 | 1.00 |

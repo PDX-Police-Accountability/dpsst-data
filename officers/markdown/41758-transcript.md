@@ -42,6 +42,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2024 | PDP2460A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 4/19/2024 | OAC0500A | Honoring the Badge: Understand/Avoid Ethical Pit | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC0055A | Navigating Change Amid Life, Leadership and Loss | Passed | 0.0 | 3.00 |
 | 4/18/2024 | OAC1042A | Building Culture  Teamwork - Era of Engagement | Passed | 0.0 | 4.00 |

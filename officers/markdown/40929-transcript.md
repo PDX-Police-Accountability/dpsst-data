@@ -36,6 +36,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/11/2024 | PDP2460A | 2024 Patrol Procedures Mental Health Encounters | Passed | 0.0 | 2.50 |
 | 5/22/2024 | PDP3539A | 2024 FTEP New Hire Firearms | Instructed | 0.0 | 25.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/14/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |

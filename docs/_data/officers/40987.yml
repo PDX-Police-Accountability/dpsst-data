@@ -68,6 +68,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 6/26/2024
+  course: PDP2057A
+  title: 2024 MEDU Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '9.00'
 - date: 6/19/2024
   course: PDP1874A
   title: 2024 MEDU Weekly Training

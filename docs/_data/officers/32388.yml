@@ -56,6 +56,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '2.00'
+- date: 5/21/2024
+  course: GSP1545A
+  title: Glock Armorer's Course
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/16/2024
   course: GSP2530A
   title: High-Risk Explosives Sweep

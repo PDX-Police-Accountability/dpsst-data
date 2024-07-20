@@ -33,6 +33,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/18/2024 | PDS1234A | Basic Corrections | Passed | 0.0 | 6.00 |
+| 6/18/2024 | PDS0110A | Post Deadly Force | Passed | 0.0 | 2.00 |
+| 6/11/2024 | PDS4028A | Mental Health Conference | Passed | 0.0 | 12.50 |
 | 3/19/2024 | PDS3328A | UNET Range | Passed | 0.0 | 4.00 |
 | 3/19/2024 | PDS1230A | Defensive Tactics | Passed | 0.0 | 4.00 |
 | 2/1/2024 | PDS4304A | Corrections Liability | Passed | 0.0 | 1.00 |

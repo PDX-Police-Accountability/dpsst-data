@@ -60,6 +60,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 6/21/2024
+  course: M10-23A
+  title: DPSST Basic Police Course
+  status: Passed
+  score: '0.0'
+  hours: '640.00'
 - date: 5/28/2024
   course: REG0895A
   title: DID-SFST (Hours included in Basic)
@@ -96,12 +102,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
-- date: 3/4/2024
-  course: M10-23A
-  title: DPSST Basic Police Course
-  status: Registered
-  score: '0.0'
-  hours: '0.00'
 - date: 2/29/2024
   course: PDP2489A
   title: ICS-200 Basic Incident Cmnd System for Intl Resp

@@ -39,6 +39,7 @@
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
+| 6/26/2024 | PDP2057A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 6/19/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/29/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
 | 5/22/2024 | PDP1874A | 2024 MEDU Weekly Training | Passed | 0.0 | 9.00 |
