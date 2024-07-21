@@ -34,6 +34,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/31/2024 | OSH0911A | Public Order Basic Course | Passed | 0.0 | 30.00 |
 | 4/25/2024 | PDP3663A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 6.00 |
 | 4/10/2024 | PDP2202A | 2024 K-9 (K9) Weekly Training | Passed | 0.0 | 3.00 |

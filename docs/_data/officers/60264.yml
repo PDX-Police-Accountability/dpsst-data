@@ -54,6 +54,24 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 6/27/2024
+  course: OCS3568A
+  title: Firearms
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/25/2024
+  course: OCS2177A
+  title: Consim
+  status: Passed
+  score: '0.0'
+  hours: '3.00'
+- date: 6/20/2024
+  course: OCS1388A
+  title: Device Searches
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 12/9/2019
   course: M10-19A
   title: DPSST Basic Police Course

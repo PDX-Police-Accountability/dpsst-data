@@ -33,9 +33,9 @@ training_records:
 - date: 4/1/2024
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Withdrew
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 3/28/2024
   course: PDP0545A
   title: 2024 FTEP New Hire Firearms

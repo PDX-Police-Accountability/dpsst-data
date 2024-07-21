@@ -50,6 +50,7 @@
 | 3/7/2024 | TRN0527A | Statewide Contact Standards  Chrono (session7) | Passed | 0.0 | 1.00 |
 | 2/22/2024 | PDN4480A | Defensive Tactics-Basic Handcuffing | Passed | 0.0 | 1.50 |
 | 2/22/2024 | PDN2425A | Defensive Tactics-Stand Up Defense | Passed | 0.0 | 1.50 |
+| 2/22/2024 | PDN1200A | Defensive Tactics-Stand Up Defense | Passed | 0.0 | 1.50 |
 | 2/20/2024 | PDN0363A | Working with Interpreter Services | Passed | 0.0 | 1.00 |
 | 2/14/2024 | PDN1662A | Field Applications-The 9th Circuit  U of F | Passed | 0.0 | 1.00 |
 | 12/14/2023 | PDN2803A | Case Management: Case Plan Overview | Passed | 0.0 | 1.00 |

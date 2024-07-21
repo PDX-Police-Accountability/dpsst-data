@@ -33,6 +33,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 5/2/2024 | PDP2984A | 2024  FTEP HAZMAT/WMD Awareness | Instructed | 0.0 | 3.00 |
 | 3/5/2024 | PDP1566A | 2024 FTEP Post Basic CEW Taser | Instructed | 0.0 | 9.00 |
 | 3/4/2024 | PDP0270A | 2024 Axon Taser 7 Instructor Course | Instructed | 0.0 | 8.00 |

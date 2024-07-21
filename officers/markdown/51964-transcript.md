@@ -40,6 +40,7 @@
 | 3/12/2024 | PDP3653A | 2024-1 Range Qual 40mm Less Lethal Qualification | Passed | 0.0 | 0.50 |
 | 3/12/2024 | PDP1617A | 2024-1 Range Qualification AR-15 Qualification (20 | Passed | 0.0 | 1.00 |
 | 3/12/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
+| 3/11/2024 | PDP3584A | 5 Day Commercial Pilot License Training | Passed | 0.0 | 42.00 |
 | 3/7/2024 | PDP4005A | 2024 Air Support Unit (ASU) Monthly Training | Passed | 0.0 | 2.00 |
 | 1/22/2024 | PDP1697A | 2024-1 All Sworn In-Service PVO Box In Refresh | Passed | 0.0 | 2.50 |
 | 1/22/2024 | PDP1287A | 2024-1 All Sworn In-Service PVO High Speed Lapping | Passed | 0.0 | 2.50 |

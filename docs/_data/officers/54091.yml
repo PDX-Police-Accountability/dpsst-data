@@ -55,6 +55,12 @@ training_records:
   status: Registered
   score: '0.0'
   hours: '0.00'
+- date: 7/10/2024
+  course: PDP3934A
+  title: Red Dot Optic Transition Course
+  status: Passed
+  score: '0.0'
+  hours: '15.00'
 - date: 9/10/2021
   course: PDP12662
   title: 2021-9 Tips  Tech Dangers of High/Extreme Heat

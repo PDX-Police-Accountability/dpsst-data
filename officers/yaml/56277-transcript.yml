@@ -74,6 +74,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/17/2024
+  course: CAP2414A
+  title: Positional Shooting/Movement/Shoot_No Shoot
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 6/13/2024
   course: CAP3673A
   title: Patrol Rifle Reload - Transition- Malfunctions

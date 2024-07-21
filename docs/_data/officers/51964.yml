@@ -69,6 +69,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.50'
+- date: 3/11/2024
+  course: PDP3584A
+  title: 5 Day Commercial Pilot License Training
+  status: Passed
+  score: '0.0'
+  hours: '42.00'
 - date: 3/7/2024
   course: PDP4005A
   title: 2024 Air Support Unit (ASU) Monthly Training

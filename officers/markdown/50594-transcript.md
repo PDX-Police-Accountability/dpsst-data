@@ -38,7 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/15/2024 | PDP4494A | 2024 Rapid Response Team (RRT) Cadre Training | Passed | 0.0 | 9.00 |
+| 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 6/26/2024 | NBP0885A | Taser Re-Certification | Passed | 0.0 | 2.00 |
+| 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 3/21/2024 | OSH1123A | Mobile Vehicle and Foot Surveillance Training | Passed | 0.0 | 30.00 |
 | 3/21/2024 | PDP3426A | OSP Mobile Vehicle and Foot Surveillance | Passed | 0.0 | 27.00 |
 | 3/15/2024 | SPP2933A | Mobile Field Force | Instructed | 0.0 | 20.00 |

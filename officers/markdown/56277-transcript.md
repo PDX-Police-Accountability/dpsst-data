@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/17/2024 | CAP2414A | Positional Shooting/Movement/Shoot_No Shoot | Passed | 0.0 | 2.00 |
 | 6/13/2024 | CAP3673A | Patrol Rifle Reload - Transition- Malfunctions | Passed | 0.0 | 2.00 |
 | 5/27/2024 | CAP2707A | Adult Child and Baby First Aid/CPR/AED | Passed | 0.0 | 2.00 |
 | 5/15/2024 | CAP1235A | Handgun Reload / Malfunctions | Instructed | 0.0 | 8.00 |

@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/12/2024 | PDP2620A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
+| 6/14/2024 | PDP0886A | 2024 Rapid Response Team (RRT) Monthly Training | Passed | 0.0 | 9.00 |
 | 2/12/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
 | 2/12/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |
 | 2/12/2024 | PDP2918A | 2024 Wellness In-Service Build Mental Resilience | Passed | 0.0 | 2.00 |

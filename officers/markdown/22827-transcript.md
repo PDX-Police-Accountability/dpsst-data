@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 7/15/2024 | OHSU University Police | Hired | Police Off |  |  |
 | 6/20/2024 | Portland Police Bureau | Retired | Dpty Chief |  |  |
 | 9/2/2021 | Portland Police Bureau | Promotion | Dpty Chief |  |  |
 | 1/9/2020 | Portland Police Bureau | Promotion | Asst Chief |  |  |
@@ -24,15 +25,16 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 4/21/2020 | Police Officer | Executive | Granted | 4/21/2020 | 9/20/2024 |  |
-| 4/18/2017 | Police Officer | Management | Granted | 4/18/2017 | 9/20/2024 |  |
-| 5/1/2013 | Police Officer | Supervisory | Granted | 5/1/2013 | 9/20/2024 |  |
-| 8/1/2003 | Police Officer | Advanced | Granted | 8/1/2003 | 9/20/2024 |  |
-| 3/2/2001 | Police Officer | Intermediate | Granted | 3/2/2001 | 9/20/2024 |  |
-| 1/27/2000 | Police Officer | Basic | Granted | 1/27/2000 | 9/20/2024 |  |
+| 4/21/2020 | Police Officer | Executive | Granted | 4/21/2020 |  |  |
+| 4/18/2017 | Police Officer | Management | Granted | 4/18/2017 |  |  |
+| 5/1/2013 | Police Officer | Supervisory | Granted | 5/1/2013 |  |  |
+| 8/1/2003 | Police Officer | Advanced | Granted | 8/1/2003 |  |  |
+| 3/2/2001 | Police Officer | Intermediate | Granted | 3/2/2001 |  |  |
+| 1/27/2000 | Police Officer | Basic | Granted | 1/27/2000 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |
+| Code of Ethics | Law Enforcement Signed | 7/17/2024 |  |
 | Maintenance Requirements | LE Annual | 1/1/2024 | 12/31/2024 |
 | Certification Cards | First Aid and CPR | 5/11/2023 | 5/11/2025 |
 | Maintenance Requirements | LE Leadership 3 Year | 1/1/2022 | 12/31/2024 |

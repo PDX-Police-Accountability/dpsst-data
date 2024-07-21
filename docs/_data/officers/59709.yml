@@ -43,6 +43,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/18/2024
+  course: BNP3831A
+  title: UAS Training - Thermal Searching, PIX4D, Mapping
+  status: Passed
+  score: '0.0'
+  hours: '7.00'
 - date: 7/2/2024
   course: BNP1189A
   title: Building Clearing
