@@ -30,16 +30,17 @@ $(document).ready(function () {
     .clone(true)
     .addClass('filters')
     .appendTo('{{ page.column-filtering-table }} thead');
- 
+
   var table = $('{{ page.column-filtering-table }}').DataTable({
     ajax: '{{ site.baseurl }}/api-data/officer-transcripts.json',
+    order: [],
     orderCellsTop: true,
     fixedHeader: true,
     pagingType: "full_numbers",
     lengthMenu: [ [10, 20, 50, 100, 500, -1], [10, 20, 50, 100, 500, "All"] ],
     initComplete: function () {
       var api = this.api();
- 
+
       // For each column
       api
         .columns()
@@ -51,7 +52,7 @@ $(document).ready(function () {
           );
           var title = $(cell).text();
           $(cell).html('<input type="text" placeholder="' + title + '" />');
- 
+
           // On every keypress in this input
           $(
             'input',
@@ -60,11 +61,11 @@ $(document).ready(function () {
             .off('keyup change')
             .on('keyup change', function (e) {
               e.stopPropagation();
- 
+
               // Get the search value
               $(this).attr('title', $(this).val());
               var regexr = '({search})'; //$(this).parents('th').find('select').val();
- 
+
               var cursorPosition = this.selectionStart;
 
               // Add beginning string anchor to the regex for employment_status column
@@ -82,7 +83,7 @@ $(document).ready(function () {
                   this.value == ''
                 )
                 .draw();
- 
+
               $(this)
                 .focus()[0]
                 .setSelectionRange(cursorPosition, cursorPosition);
