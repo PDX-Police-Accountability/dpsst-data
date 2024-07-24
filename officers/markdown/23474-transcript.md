@@ -28,18 +28,13 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 5/31/2024 | Police Officer | Advanced | App Recd |  |  | 4/11/2025 |
-| 5/31/2024 | Police Officer | Basic | App Recd |  |  | 4/11/2025 |
-| 5/31/2024 | Police Officer | Intermediate | App Recd |  |  | 4/11/2025 |
-| 5/31/2024 | Police Officer | Management | App Recd |  |  | 10/11/2025 |
-| 5/31/2024 | Police Officer | Supervisory | App Recd |  |  | 4/11/2025 |
+| 7/22/2024 | Police Officer | Advanced | Reactivatd | 3/15/2000 |  |  |
+| 7/22/2024 | Police Officer | Basic | Reactivatd | 1/29/1991 |  |  |
+| 7/22/2024 | Police Officer | Executive | Reactivatd | 8/11/2015 |  |  |
+| 7/22/2024 | Police Officer | Intermediate | Reactivatd | 3/15/2000 |  |  |
+| 7/22/2024 | Police Officer | Management | Reactivatd | 10/18/2010 |  |  |
+| 7/22/2024 | Police Officer | Supervisory | Reactivatd | 4/28/2004 |  |  |
 | 1/27/2020 | Instructor |  | Granted | 1/27/2020 |  |  |
-| 8/2/2019 | Police Officer | Advanced | Lapsed | 3/15/2000 |  |  |
-| 8/2/2019 | Police Officer | Basic | Lapsed | 1/29/1991 |  |  |
-| 8/2/2019 | Police Officer | Executive | Lapsed | 8/11/2015 |  |  |
-| 8/2/2019 | Police Officer | Intermediate | Lapsed | 3/15/2000 |  |  |
-| 8/2/2019 | Police Officer | Management | Lapsed | 10/18/2010 |  |  |
-| 8/2/2019 | Police Officer | Supervisory | Lapsed | 4/28/2004 |  |  |
 ## Attributes
 | topic | value | effective_date | expiration_date |
 | ----- | ----- | -------------- | --------------- |

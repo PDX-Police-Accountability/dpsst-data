@@ -33,6 +33,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/19/2024 | EGP0622A | FETT - MMBTH Breching Course | Passed | 0.0 | 40.00 |
 | 7/3/2024 | PDP1223A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 6/27/2024 | PDP1257A | 2024 SERT Training - SCENARIO | Passed | 0.0 | 9.00 |

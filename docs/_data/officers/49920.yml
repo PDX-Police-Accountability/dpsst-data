@@ -55,7 +55,7 @@ certification_records:
 - status_date: 10/22/2009
   certificate: Police Officer
   level: Basic
-  status: Granted
+  status: Granted-UR
   certificate_date: 10/22/2009
   expiration_date: 10/8/2024
   probation_date: ''
