@@ -32,6 +32,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/19/2024 | OCP1024A | LEDS Re-Certification | Passed | 0.0 | 1.00 |
 | 6/6/2024 | OCP1306A | Virtra Use Of Force Scenarios | Passed | 0.0 | 0.50 |
 | 6/6/2024 | OCP0778A | 40MM Less Lethal Certification | Passed | 0.0 | 1.00 |
 | 6/6/2024 | OCP4516A | Taser Certification | Passed | 0.0 | 1.00 |

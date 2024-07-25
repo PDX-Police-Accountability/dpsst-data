@@ -1074,13 +1074,13 @@ training_records:
   title: SFST/DID (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 10/7/2019
   course: F6D42696
   title: Intox 8000
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 10/7/2019
   course: PDP03199
   title: Intoxilyzer 8000 Operator Course

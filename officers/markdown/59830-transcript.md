@@ -359,8 +359,8 @@
 | 11/7/2019 | PDP26329 | 2019-2 Traffic Radar/LIDAR Training | Passed | 0.0 | 18.00 |
 | 11/5/2019 | PDP08945 | 2019-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 11/1/2019 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
-| 10/8/2019 | F6D43081 | SFST/DID (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 10/7/2019 | F6D42696 | Intox 8000 | Passed | 0.0 | 6.00 |
+| 10/8/2019 | F6D43081 | SFST/DID (Hours Included in Basic) | Passed | 0.0 | 0.00 |
+| 10/7/2019 | F6D42696 | Intox 8000 | Passed | 0.0 | 0.00 |
 | 10/7/2019 | PDP03199 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 8/6/2019 | F6D28279 | In Our Own Voice | Passed | 0.0 | 2.00 |
 | 7/11/2019 | PDP04489 | CPR/First Aid | Passed | 0.0 | 2.00 |

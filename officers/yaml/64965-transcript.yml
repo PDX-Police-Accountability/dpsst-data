@@ -138,6 +138,24 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '0.25'
+- date: 3/9/2018
+  course: F1514980
+  title: Security Forces Craftsman
+  status: Passed
+  score: '0.0'
+  hours: '192.00'
+- date: 2/15/2018
+  course: F1500654
+  title: Airman Leadership School
+  status: Passed
+  score: '0.0'
+  hours: '88.00'
+- date: 1/16/2014
+  course: F1531465
+  title: Security Forces Apprenticeship
+  status: Passed
+  score: '0.0'
+  hours: '559.00'
 attribute_records:
 - topic: Code of Ethics
   value: Law Enforcement Signed

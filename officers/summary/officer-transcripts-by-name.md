@@ -1507,7 +1507,7 @@
 | Staples, Norman A. | 43528 | Portland Police Bureau | Active | Lieutenant | Promotion | 2022-02-03 | [md](../markdown/43528-transcript.md) - [yaml](../yaml/43528-transcript.yml) |
 | Steed, Bryan L. | 19008 | Portland Police Bureau | Inactive | Detective | Retired | 2017-09-14 | [md](../markdown/19008-transcript.md) - [yaml](../yaml/19008-transcript.yml) |
 | Stegemeyer, James A. | 29357 | Portland Police Bureau | Inactive | Police Officer | Retired | 2020-08-20 | [md](../markdown/29357-transcript.md) - [yaml](../yaml/29357-transcript.yml) |
-| Steinbronn, Richard E. | 32940 | Portland Police Bureau | Active | Sergeant | Hired | 2022-07-21 | [md](../markdown/32940-transcript.md) - [yaml](../yaml/32940-transcript.yml) |
+| Steinbronn, Richard E. | 32940 | Portland Police Bureau | Inactive | Sergeant | Retired | 2024-07-19 | [md](../markdown/32940-transcript.md) - [yaml](../yaml/32940-transcript.yml) |
 | Steinbronn, Wendi S. | 28922 | Portland Police Bureau | Inactive | Commander | Retired | 2019-11-27 | [md](../markdown/28922-transcript.md) - [yaml](../yaml/28922-transcript.yml) |
 | Steiner, Chad D. | 37932 | Portland Police Bureau | Active | Police Officer | Hired | 2007-10-18 | [md](../markdown/37932-transcript.md) - [yaml](../yaml/37932-transcript.yml) |
 | Stellingwerf, Neil D. | 34256 | Portland Police Bureau | Inactive | Civilian Employee | Resigned | 1997-08-13 | [md](../markdown/34256-transcript.md) - [yaml](../yaml/34256-transcript.yml) |

@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/19/2024
+  course: OCP1024A
+  title: LEDS Re-Certification
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
 - date: 6/6/2024
   course: OCP1306A
   title: Virtra Use Of Force Scenarios

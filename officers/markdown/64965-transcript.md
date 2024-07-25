@@ -49,3 +49,6 @@
 | 2/26/2024 | PDP3052A | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
 | 2/26/2024 | PDP2426A | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |
 | 2/26/2024 | PDP1417A | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
+| 3/9/2018 | F1514980 | Security Forces Craftsman | Passed | 0.0 | 192.00 |
+| 2/15/2018 | F1500654 | Airman Leadership School | Passed | 0.0 | 88.00 |
+| 1/16/2014 | F1531465 | Security Forces Apprenticeship | Passed | 0.0 | 559.00 |

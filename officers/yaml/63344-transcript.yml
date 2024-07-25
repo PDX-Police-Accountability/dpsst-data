@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '8.00'
+- date: 6/6/2024
+  course: REG0703A
+  title: Radar-Lidar Agency Practical
+  status: Passed
+  score: '0.0'
+  hours: '16.00'
 - date: 5/30/2024
   course: VRP0750A
   title: Review of Code of Conduct and Ethics Bulletins
