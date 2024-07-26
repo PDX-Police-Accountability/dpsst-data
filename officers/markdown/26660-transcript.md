@@ -41,6 +41,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/20/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
+| 6/23/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
 | 4/26/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
 | 4/20/2024 | HSU0104A | Spring In-Service 2024 Firearms | Instructed | 0.0 | 4.00 |
 | 4/19/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |

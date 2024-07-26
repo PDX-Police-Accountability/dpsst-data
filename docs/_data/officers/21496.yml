@@ -130,61 +130,33 @@ employment_records:
   classification: ''
   assignment: ''
 certification_records:
+- status_date: 7/24/2024
+  certificate: Police Officer
+  level: Advanced
+  status: Reactivatd
+  certificate_date: 2/1/2004
+  expiration_date: ''
+  probation_date: ''
+- status_date: 7/24/2024
+  certificate: Police Officer
+  level: Basic
+  status: Reactivatd
+  certificate_date: 10/12/2000
+  expiration_date: ''
+  probation_date: ''
+- status_date: 7/24/2024
+  certificate: Police Officer
+  level: Intermediate
+  status: Reactivatd
+  certificate_date: 5/7/2001
+  expiration_date: ''
+  probation_date: ''
 - status_date: 4/23/2024
   certificate: Parole  Probation Officer
   level: Basic
   status: Lapsed
   certificate_date: 4/21/2021
   expiration_date: 1/23/2029
-  probation_date: ''
-- status_date: 2/20/2024
-  certificate: Police Officer
-  level: Advanced
-  status: App InProc
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: ''
-- status_date: 2/20/2024
-  certificate: Police Officer
-  level: Basic
-  status: App InProc
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: ''
-- status_date: 2/20/2024
-  certificate: Police Officer
-  level: Intermediate
-  status: App InProc
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: ''
-- status_date: 1/25/2024
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 7/25/2025
-- status_date: 3/31/2020
-  certificate: Police Officer
-  level: Advanced
-  status: Lapsed
-  certificate_date: 2/1/2004
-  expiration_date: ''
-  probation_date: ''
-- status_date: 3/31/2020
-  certificate: Police Officer
-  level: Basic
-  status: Lapsed
-  certificate_date: 10/12/2000
-  expiration_date: ''
-  probation_date: ''
-- status_date: 3/31/2020
-  certificate: Police Officer
-  level: Intermediate
-  status: Lapsed
-  certificate_date: 5/7/2001
-  expiration_date: ''
   probation_date: ''
 - status_date: 2/15/2020
   certificate: Corrections Officer

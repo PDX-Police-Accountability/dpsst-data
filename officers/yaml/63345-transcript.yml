@@ -762,7 +762,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 11/29/2022
   course: PDP15523
   title: 2022-5 CAO Legal Updates for 05/2022

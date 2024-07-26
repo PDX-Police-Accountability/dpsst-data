@@ -18,9 +18,9 @@
 ## Certification
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
-| 6/6/2024 | Police Officer | Advanced | App Recd |  |  | 7/1/2025 |
-| 6/6/2024 | Police Officer | Basic | App Recd |  |  | 7/1/2025 |
-| 6/6/2024 | Police Officer | Intermediate | App Recd |  |  | 7/1/2025 |
+| 7/24/2024 | Police Officer | Advanced | App Incmpl |  | 9/24/2024 | 7/1/2025 |
+| 7/24/2024 | Police Officer | Basic | App Incmpl |  | 9/24/2024 | 7/1/2025 |
+| 7/24/2024 | Police Officer | Intermediate | App Incmpl |  | 9/24/2024 | 7/1/2025 |
 | 9/21/2023 | Police Officer | Advanced | Lapsed | 11/23/2010 |  |  |
 | 9/21/2023 | Police Officer | Basic | Lapsed | 1/13/1998 |  |  |
 | 9/21/2023 | Police Officer | Intermediate | Lapsed | 11/23/2010 |  |  |
@@ -39,6 +39,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 6/23/2024 | HSU2040A | Supplemental Range | Passed | 0.0 | 2.00 |
 | 4/15/2024 | HSU2184A | Spring In-Service 2024 TASER 10 | Passed | 0.0 | 1.00 |
 | 4/15/2024 | HSU2328A | Spring In-Service 2024 CPR/ FA | Passed | 0.0 | 4.00 |
 | 4/15/2024 | HSU0688A | Spring In-Service 2024 Body Worn Camera | Passed | 0.0 | 3.00 |
