@@ -77,7 +77,7 @@ training_records:
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 9/1/2021
   course: F6F35734
   title: Justice for Control Tactics / Use of Force

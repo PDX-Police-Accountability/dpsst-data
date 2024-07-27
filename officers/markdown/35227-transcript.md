@@ -36,6 +36,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2024 | F1520194 | Crisis Intervention: Focused Response | Passed | 0.0 | 1.00 |
+| 7/16/2024 | F1520194 | Crisis Intervention: Focused Response | Passed | 0.0 | 1.00 |
 | 5/20/2024 | VND3182A | Infant  Child Death Investigations | Passed | 0.0 | 7.00 |
 | 3/1/2024 | PDA3432A | Use of Radio Communications | Passed | 0.0 | 1.00 |
 | 12/29/2023 | MISCMAIN | 2023 LE Annual Maintenance | Completed | 0.0 | 0.00 |

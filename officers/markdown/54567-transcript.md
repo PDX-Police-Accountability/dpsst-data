@@ -39,6 +39,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2024 | MLP1721A | Red Dot Qualification | Passed | 0.0 | 1.00 |
+| 7/22/2024 | MLP1721A | Red Dot Qualification | Instructed | 0.0 | 6.50 |
+| 7/15/2024 | MLP0896A | Red Dot Qualification Course | Instructed | 0.0 | 4.00 |
+| 7/15/2024 | MLP0896A | Red Dot Qualification Course | Passed | 0.0 | 1.00 |
 | 6/3/2024 | MLP3693A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/31/2024 | MLP2750A | OSHA Heat Illness Prevention | Passed | 0.0 | 1.00 |
 | 5/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |
@@ -48,7 +52,6 @@
 | 4/25/2024 | MLP1462A | CIT Crisis Response | Passed | 0.0 | 1.00 |
 | 4/24/2024 | MLP3862A | Adult/Child/Infant First AID, CPR AED | Passed | 0.0 | 3.00 |
 | 4/16/2024 | MLP3198A | Tension to Trust- Establishing Stronger Community | Passed | 0.0 | 1.00 |
-| 3/14/2024 | REG2229A | Pistol Mounted Optic IDC | Passed | 0.0 | 16.00 |
 | 3/1/2024 | MLP2702A | Emergency  Fire Preparedness | Passed | 0.0 | 1.00 |
 | 2/29/2024 | MLP1263A | Why emergency Preparedness Matters | Passed | 0.0 | 1.00 |
 | 2/24/2024 | MLP2661A | Defensive Tactics | Passed | 0.0 | 2.00 |

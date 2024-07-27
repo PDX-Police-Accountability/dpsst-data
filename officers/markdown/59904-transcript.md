@@ -141,8 +141,8 @@
 | 1/6/2020 | PDP39013 | 2019-4 City Attorney's Office Legal Updates 4/2019 | Passed | 0.0 | 0.25 |
 | 1/6/2020 | PDP25379 | 2019-5 Tips  Tech Enforce of Protection Orders | Passed | 0.0 | 0.25 |
 | 11/1/2019 | M10-19A | DPSST Basic Police Course | Incomplete | 0.0 | 640.00 |
-| 10/11/2019 | F6D27311 | SFST/DID (Hours Included in Basic) | Passed | 0.0 | 24.00 |
-| 10/7/2019 | F6D42696 | Intox 8000 | Passed | 0.0 | 6.00 |
+| 10/11/2019 | F6D27311 | SFST/DID (Hours Included in Basic) | Passed | 0.0 | 0.00 |
+| 10/7/2019 | F6D42696 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 10/7/2019 | PDP03199 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 7/11/2019 | PDP04489 | CPR/First Aid | Passed | 0.0 | 2.00 |
 | 7/11/2019 | PDP06312 | DOJ Settlement Agreement | Passed | 0.0 | 1.00 |

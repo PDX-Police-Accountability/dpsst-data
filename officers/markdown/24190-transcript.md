@@ -12,6 +12,7 @@
 ## Employment
 | date | agency | action | rank | classification | assignment |
 | ---- | ------ | ------ | ---- | -------------- | ---------- |
+| 5/1/2023 | Burlington Northern Railroad Police | Hired | Spec Agent |  |  |
 | 10/30/2019 | Portland Police Bureau | Retired | Lieutenant |  |  |
 | 7/5/2012 | Portland Police Bureau | Promotion | Lieutenant |  |  |
 | 4/24/2003 | Portland Police Bureau | Promotion | Sergeant |  |  |
@@ -20,6 +21,7 @@
 | status_date | certificate | level | status | certificate_date | expiration_date | probation_date |
 | ----------- | ----------- | ----- | ------ | ---------------- | --------------- | -------------- |
 | 7/22/2024 | Police Officer | Basic | App Recd |  | 10/30/2024 |  |
+| 5/1/2024 | Police Officer | Basic | Required |  |  | 11/1/2025 |
 | 1/30/2020 | Police Officer | Advanced | Lapsed | 10/28/1999 | 10/30/2024 |  |
 | 1/30/2020 | Police Officer | Basic | Lapsed | 5/21/1991 | 10/30/2024 |  |
 | 1/30/2020 | Police Officer | Intermediate | Lapsed | 10/28/1999 | 10/30/2024 |  |
@@ -37,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 11/1/2025 | M11-19A | DPSST Police Officer Field Training Manual | Required | 0.0 | 50.00 |
+| 9/16/2024 | 24-0004 | DPSST Basic Police COD Self-Study | Registered | 0.0 | 0.00 |
 | 10/9/2019 | PDP03093 | 2019 Chief's Office SPLC Antigovernment Extremists | Passed | 0.0 | 0.25 |
 | 10/9/2019 | PDP08055 | 2019 Chiefs Office SPLC Sovereign Citizen Movement | Passed | 0.0 | 0.25 |
 | 10/9/2019 | PDP14274 | 2019 City of Portland PBEM NET Roll Call Video | Passed | 0.0 | 0.25 |

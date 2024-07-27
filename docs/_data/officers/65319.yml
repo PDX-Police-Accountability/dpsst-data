@@ -24,18 +24,12 @@ certification_records:
   expiration_date: ''
   probation_date: 12/6/2025
 training_records:
-- date: 12/6/2025
-  course: M11-19A
-  title: DPSST Police Officer Field Training Manual
-  status: Required
-  score: '0.0'
-  hours: '50.00'
 - date: 6/24/2024
   course: M10-23A
   title: DPSST Basic Police Course
-  status: Registered
+  status: Withdrew
   score: '0.0'
-  hours: '0.00'
+  hours: '640.00'
 - date: 6/20/2024
   course: PDP3931A
   title: ICS-100 Intro to the Incident Cmnd System

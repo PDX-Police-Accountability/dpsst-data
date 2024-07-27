@@ -109,12 +109,6 @@ training_records:
   score: '0.0'
   hours: '0.00'
 - date: 2/14/2024
-  course: REG4443A
-  title: Intox 8000 (Hours included in Basic)
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 2/14/2024
   course: REG1825A
   title: Intox 8000 (Hours included in Basic)
   status: Passed

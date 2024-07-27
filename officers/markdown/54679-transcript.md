@@ -39,6 +39,8 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/22/2024 | MLP1721A | Red Dot Qualification | Passed | 0.0 | 4.00 |
+| 7/15/2024 | MLP0896A | Red Dot Qualification Course | Passed | 0.0 | 4.00 |
 | 6/2/2024 | MLP3693A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/31/2024 | MLP2750A | OSHA Heat Illness Prevention | Passed | 0.0 | 1.00 |
 | 5/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

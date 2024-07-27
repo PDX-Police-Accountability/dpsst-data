@@ -821,7 +821,7 @@ training_records:
   title: SFST/DID (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 1/23/2023
   course: BPT08559
   title: Statistical Transparency of Policing Training
@@ -833,7 +833,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 10/5/2022
   course: PDP11528
   title: ICS-100 Intro to the Incident Cmmnd System

@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/23/2024
+  course: VND0224A
+  title: The Importance of Intersectionality
+  status: Passed
+  score: '0.0'
+  hours: '0.50'
+- date: 7/23/2024
+  course: VND0194A
+  title: Results from the Diversity Retention Project
+  status: Passed
+  score: '0.0'
+  hours: '1.00'
+- date: 7/23/2024
+  course: VND1092A
+  title: Diversity return on investment
+  status: Passed
+  score: '0.0'
+  hours: '1.50'
+- date: 7/17/2024
+  course: MKL0534A
+  title: Defensive Tactics
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 7/6/2024
   course: VND0420A
   title: DAS-OSHA-Wildfire Smoke

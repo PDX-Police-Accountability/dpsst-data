@@ -37,7 +37,7 @@
 | 12/29/2021 | F6E17802 | Lexipol Daily Training Bulletins | Passed | 0.0 | 22.00 |
 | 11/10/2021 | F6E26456 | 2021 Legislative Updates | Passed | 0.0 | 1.00 |
 | 10/20/2021 | F6E08441 | Taser 7 Certification | Passed | 0.0 | 6.00 |
-| 9/20/2021 | F6F15776 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 6.00 |
+| 9/20/2021 | F6F15776 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 9/1/2021 | F6F35734 | Justice for Control Tactics / Use of Force | Passed | 0.0 | 2.00 |
 | 8/31/2021 | F6F33239 | Justice for Control Tactics | Passed | 0.0 | 2.00 |
 | 8/11/2021 | F6F02779 | Advanced Roadside Imapairment Driving Enforcement | Passed | 0.0 | 16.00 |

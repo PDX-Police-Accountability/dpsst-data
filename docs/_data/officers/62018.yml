@@ -1352,7 +1352,7 @@ training_records:
   hours: '8.00'
 - date: 11/17/2021
   course: BPT21848
-  title: SFST/DID BP410
+  title: SFST/DID (Hours Included in Basic)
   status: Passed
   score: '0.0'
   hours: '0.00'

@@ -201,7 +201,7 @@
 | 1/4/2022 | PDP28703 | 2022 FTEP Post-DPSST Firearms | Passed | 0.0 | 8.00 |
 | 12/22/2021 | M10-21A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/26/2021 | PDP14553 | WMD/Terrorism Awareness for Emergency Responders | Passed | 0.0 | 8.00 |
-| 11/17/2021 | BPT21848 | SFST/DID BP410 | Passed | 0.0 | 24.00 |
+| 11/17/2021 | BPT21848 | SFST/DID (Hours Included in Basic) | Passed | 0.0 | 24.00 |
 | 11/2/2021 | F6F22952 | Intox 8000 - Hours Included in Basic | Passed | 0.0 | 0.00 |
 | 7/29/2021 | PDP32847 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 7/29/2021 | PDP21108 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 3.00 |

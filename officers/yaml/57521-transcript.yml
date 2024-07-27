@@ -1686,7 +1686,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 11/4/2019
   course: PDP24769
   title: Intoxilyzer 8000 Operator Course

@@ -2238,7 +2238,7 @@ training_records:
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 8/21/2018
   course: F6W18238
   title: In Our Own voice

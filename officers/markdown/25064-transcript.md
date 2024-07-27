@@ -38,6 +38,10 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/23/2024 | VND0224A | The Importance of Intersectionality | Passed | 0.0 | 0.50 |
+| 7/23/2024 | VND0194A | Results from the Diversity Retention Project | Passed | 0.0 | 1.00 |
+| 7/23/2024 | VND1092A | Diversity return on investment | Passed | 0.0 | 1.50 |
+| 7/17/2024 | MKL0534A | Defensive Tactics | Passed | 0.0 | 8.00 |
 | 7/6/2024 | VND0420A | DAS-OSHA-Wildfire Smoke | Passed | 0.0 | 1.00 |
 | 4/27/2024 | MKL1007A | Bi-Annual Defensive Tactics | Passed | 0.0 | 8.00 |
 | 10/26/2023 | MKL0299A | Defensive Tactics | Passed | 0.0 | 8.00 |
