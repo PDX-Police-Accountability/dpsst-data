@@ -309,7 +309,7 @@
 | 12/10/2019 | PDP08945 | 2019-3 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 12/6/2019 | M10-19A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 11/29/2019 | PDP05742 | IS-241 Decision Making  Problem Solving IS-241b | Passed | 0.0 | 2.00 |
-| 11/6/2019 | F6D18430 | SFST/ DID | Passed | 0.0 | 24.00 |
+| 11/6/2019 | F6D18430 | SFST/DID (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 11/4/2019 | F6D33721 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 11/4/2019 | PDP24769 | Intoxilyzer 8000 Operator Course | Passed | 0.0 | 8.00 |
 | 10/1/2019 | BPT34192 | RADAR/LIDAR - Practical | Passed | 0.0 | 16.00 |

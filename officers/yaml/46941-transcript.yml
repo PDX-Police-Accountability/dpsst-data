@@ -51,6 +51,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2024
+  course: PDP3818A
+  title: 2024 K-9 (K9) Weekly Training
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/13/2024
   course: PDP3208A
   title: 2024 SERT Training - SCENARIO

@@ -1718,10 +1718,10 @@ training_records:
   hours: '2.00'
 - date: 11/8/2019
   course: F6D38416
-  title: SFST/ DID
+  title: SFST/DID (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 11/4/2019
   course: F6D33721
   title: Intox 8000 (Hours Included in Basic)

@@ -1205,7 +1205,7 @@ training_records:
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 2/3/2022
   course: PDP44055
   title: IS-800 National Response Framework

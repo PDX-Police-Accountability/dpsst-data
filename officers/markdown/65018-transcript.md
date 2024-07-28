@@ -25,6 +25,8 @@
 ## Education
 | date | degree | school | major | hours |
 | ---- | ------ | ------ | ----- | ----- |
+| 6/12/2022 | Bachelor Science | Portland State University | Criminal Justice | 106.0 |
+| 6/15/2019 | No Degree | Warner Pacific College |  | 55.5 |
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |

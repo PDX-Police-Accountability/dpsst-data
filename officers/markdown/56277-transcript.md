@@ -41,6 +41,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/25/2024 | CAP3900A | Active Threat Training | Passed | 0.0 | 4.00 |
 | 7/17/2024 | CAP2414A | Positional Shooting/Movement/Shoot_No Shoot | Passed | 0.0 | 2.00 |
 | 6/13/2024 | CAP3673A | Patrol Rifle Reload - Transition- Malfunctions | Passed | 0.0 | 2.00 |
 | 5/27/2024 | CAP2707A | Adult Child and Baby First Aid/CPR/AED | Passed | 0.0 | 2.00 |

@@ -49,6 +49,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/19/2024 | LOP0730A | National Command Course Session 7 | Passed | 0.0 | 40.00 |
 | 5/30/2024 | LOP2897A | Handgun Optic Transition Course | Passed | 0.0 | 24.00 |
 | 5/9/2024 | OAC4489A | HB 4002: Implementation  Training Symposium | Passed | 0.0 | 6.00 |
 | 4/18/2024 | OAC2330A | Recruiting  Retention Strategies | Passed | 0.0 | 1.00 |

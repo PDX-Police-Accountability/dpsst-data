@@ -3,26 +3,25 @@ header_record:
   name: Hamm, Timothy M.
   dpsst_identifier: '65019'
   agency: Portland Police Bureau
-  employment_status: Active
+  employment_status: Inactive
   rank: Police Officer
   level: ''
   classification: ''
   assignment: ''
 employment_records:
+- date: 7/23/2024
+  agency: Portland Police Bureau
+  action: Resigned
+  rank: Police Off
+  classification: ''
+  assignment: ''
 - date: 11/9/2023
   agency: Portland Police Bureau
   action: Hired
   rank: Police Off
   classification: ''
   assignment: ''
-certification_records:
-- status_date: 11/9/2023
-  certificate: Police Officer
-  level: Basic
-  status: Required
-  certificate_date: ''
-  expiration_date: ''
-  probation_date: 5/9/2025
+certification_records: []
 training_records:
 - date: 4/1/2024
   course: M10-23A

@@ -131,6 +131,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/19/2024
+  course: LOP0730A
+  title: National Command Course Session 7
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 5/30/2024
   course: LOP2897A
   title: Handgun Optic Transition Course

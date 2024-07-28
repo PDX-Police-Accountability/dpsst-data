@@ -803,13 +803,13 @@ training_records:
   title: SFST/DUII (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 9/20/2021
   course: F6F15776
   title: Intox 8000 - Hours Included in Basic
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 7/4/2021
   course: PDP10830
   title: WMD/Terrorism Awareness for Emergency Responders

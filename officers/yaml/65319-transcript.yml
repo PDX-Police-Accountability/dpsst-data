@@ -48,6 +48,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '4.00'
+- date: 6/19/2024
+  course: PDP0579A
+  title: 2024 FTEP New Hire Firearms
+  status: Passed
+  score: '0.0'
+  hours: '27.00'
 - date: 6/17/2024
   course: PDP1659A
   title: CPR/First Aid

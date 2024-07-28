@@ -81,4 +81,14 @@ attribute_records:
   value: First Aid and CPR
   effective_date: 3/21/2024
   expiration_date: 3/21/2026
-education_records: []
+education_records:
+- date: 6/12/2022
+  degree: Bachelor Science
+  school: Portland State University
+  major: Criminal Justice
+  hours: '106.0'
+- date: 6/15/2019
+  degree: No Degree
+  school: Warner Pacific College
+  major: ''
+  hours: '55.5'
