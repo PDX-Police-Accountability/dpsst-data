@@ -141,7 +141,7 @@
 | 4/25/2022 | TUP09796 | EVOC | Passed | 0.0 | 7.00 |
 | 4/25/2022 | TUP26964 | High Risk Traffic Stops | Passed | 0.0 | 1.00 |
 | 4/13/2022 | TUP29326 | Duty to Intercede | Passed | 0.0 | 1.00 |
-| 3/25/2022 | TUP41794 | HB 2513 AIRWAY  CIRCULATORY CRISIS | Passed | 0.0 | 2.00 |
+| 3/25/2022 | TUP41794 | HB 2513 Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 12/13/2021 | TUP29199 | CPR First Aid Re-Cert  Policy Review | Passed | 0.0 | 1.00 |
 | 8/2/2021 | TUP03928 | Traffic Stops / Pursuit Training | Passed | 0.0 | 3.00 |
 | 6/14/2021 | TUP24477 | Firearms In-service / Handgun | Passed | 0.0 | 3.00 |

@@ -91,6 +91,12 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
+- date: 7/9/2024
+  course: HDA1491A
+  title: ONEA Training Institute - General Session
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/3/2024
   course: MLP3693A
   title: Defensive Tactics

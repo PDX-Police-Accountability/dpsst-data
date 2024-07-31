@@ -63,6 +63,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/11/2024
+  course: HDA2041A
+  title: ONEA Training Institute - Pistols  Crystals Case
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/10/2024
+  course: HDA3626A
+  title: ONEA Training Institute - Dirty MSB Case Study
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/9/2024
+  course: HDA1491A
+  title: ONEA Training Institute - General Session
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/9/2024
+  course: HDA2853A
+  title: ONEA Getting the Sinaloa Cartel with host nation
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/20/2024
   course: XDELETE
   title: Pending for Deletion Due to Duplicate or Other Rea

@@ -37,6 +37,7 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/24/2024 | WLP0024A | Defensive Tactics - Handcuffing/Hobbles/Scenarios | Passed | 0.0 | 2.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 2/13/2024 | PDP3870A | 2024 Wellness In-Service Breathwork | Passed | 0.0 | 1.00 |
 | 2/13/2024 | PDP2348A | 2024 Wellness In-Service LI Workout | Passed | 0.0 | 1.00 |

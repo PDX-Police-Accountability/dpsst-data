@@ -55,6 +55,24 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/10/2024
+  course: HDA3019A
+  title: ONEA Training Institute - Arrest of Chapo
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/10/2024
+  course: HDA3017A
+  title: ONEA Training Institute - Human Trafficking
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/9/2024
+  course: HDA1491A
+  title: ONEA Training Institute - General Session
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 5/29/2024
   course: HBP1971A
   title: Search/Siezure, WIN, HB 4002

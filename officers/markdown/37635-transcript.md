@@ -85,7 +85,7 @@
 | 12/5/2022 | EGP31133 | Taser Recertification Course | Passed | 0.0 | 3.00 |
 | 10/27/2022 | EGP31826 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 7.00 |
 | 10/27/2022 | EGP26840 | HRT Crisis Search Skills-Explosive Breaching | Passed | 0.0 | 8.00 |
-| 10/26/2022 | EGP21546 | ETHOS:  Ethics | Passed | 0.0 | 3.00 |
+| 10/26/2022 | EGP21546 | Ethos - Ethics | Passed | 0.0 | 3.00 |
 | 10/26/2022 | EGP19375 | ETHOS:  Leadership | Passed | 0.0 | 3.00 |
 | 10/19/2022 | EGP13229 | Vehicle Use of Force - Decision Making | Passed | 0.0 | 3.50 |
 | 10/19/2022 | EGP21433 | Firearms Qualification | Passed | 0.0 | 3.50 |

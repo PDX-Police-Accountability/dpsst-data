@@ -37,6 +37,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2024 | HDA3550A | ONEA Training Institute - Vegas Cartel | Passed | 0.0 | 4.00 |
+| 7/10/2024 | HDA3893A | ONEA Training Institute - Pistols  Crystals Case | Passed | 0.0 | 4.00 |
+| 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |
 | 6/27/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 4/9/2024 | PDP3609A | 2024-1 Range Qualification Primary Firearm | Passed | 0.0 | 0.50 |
 | 4/9/2024 | PDP3618A | 2024-1 Range Qual Secondary Firearm (50 Rd) | Passed | 0.0 | 0.50 |

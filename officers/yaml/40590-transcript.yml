@@ -44,6 +44,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 5/10/2024
+  course: PDP3851A
+  title: Human Factors in Traffic Crash Reconstruction
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 3/20/2024
   course: PDP3609A
   title: 2024-1 Range Qualification Primary Firearm

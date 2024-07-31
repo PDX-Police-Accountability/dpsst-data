@@ -74,6 +74,12 @@ training_records:
   status: Completed
   score: '0.0'
   hours: '0.00'
+- date: 7/24/2024
+  course: WLP0024A
+  title: Defensive Tactics - Handcuffing/Hobbles/Scenarios
+  status: Passed
+  score: '0.0'
+  hours: '2.00'
 - date: 7/10/2024
   course: WLP4198A
   title: Adult First Aid/CPR/AED-BL-r.21

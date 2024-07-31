@@ -38,6 +38,8 @@
 | 6/13/2024 | PDP2536A | 2024 CNT Crisis Negotiation Team Annual Training | Passed | 0.0 | 8.00 |
 | 6/2/2024 | PDP1358A | 2024-2 Patrol Rifle Operator Course | Instructed | 0.0 | 50.00 |
 | 5/19/2024 | PDP2721A | 2024-1 Patrol Rifle Operator Course | Instructed | 0.0 | 40.00 |
+| 5/12/2024 | PDP4222A | Micro Carry | Passed | 0.0 | 8.00 |
+| 5/11/2024 | PDP0904A | Performance Carry | Passed | 0.0 | 8.00 |
 | 4/10/2024 | PDP2865A | WSNIA Training Summit | Passed | 0.0 | 26.00 |
 | 3/24/2024 | PDP0287A | Concealed Pistol Applications | Passed | 0.0 | 16.00 |
 | 3/8/2024 | PDP2445A | Vehicle Close Quarters Battle Instructor | Passed | 0.0 | 40.00 |

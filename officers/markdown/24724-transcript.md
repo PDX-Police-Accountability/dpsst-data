@@ -77,7 +77,7 @@
 | 12/22/2022 | HBS39606 | Active Threat | Passed | 0.0 | 9.00 |
 | 12/15/2022 | FGP37287 | Domestic Violence / Strangulation Law Review | Passed | 0.0 | 1.50 |
 | 12/12/2022 | FGP22435 | Firearms Training | Passed | 0.0 | 1.00 |
-| 11/2/2022 | FGP19875 | How to Help a Cop in IMMEDIATE Crisis | Passed | 0.0 | 1.75 |
+| 11/2/2022 | FGP19875 | How to Help a Cop in Immediate Crisis | Passed | 0.0 | 1.75 |
 | 9/29/2022 | F6R19836 | Cultivating an Inclusive, Ethical Culture | Passed | 0.0 | 3.50 |
 | 9/29/2022 | F6R36766 | DPSST's Use of Force Program | Passed | 0.0 | 1.00 |
 | 9/29/2022 | F6R05708 | New Laws and Reporting Requirements | Passed | 0.0 | 1.25 |

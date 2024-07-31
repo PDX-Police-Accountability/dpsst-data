@@ -74,16 +74,10 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
-- date: 11/17/2024
-  course: XDELETE
-  title: Pending for Deletion Due to Duplicate or Other Rea
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 4/19/2024
   course: MMP1794A
   title: Calibre Press Online Training Videos, Mar-Apr
-  status: ''
+  status: Passed
   score: '0.0'
   hours: '0.50'
 - date: 4/1/2024
@@ -94,12 +88,6 @@ training_records:
   hours: '0.00'
 - date: 3/28/2024
   course: OCS1354A
-  title: Behavioral Threat Assessment
-  status: Passed
-  score: '0.0'
-  hours: '4.00'
-- date: 3/28/2024
-  course: OCS2437A
   title: Behavioral Threat Assessment
   status: Passed
   score: '0.0'
@@ -578,12 +566,6 @@ training_records:
   status: Passed
   score: '0.0'
   hours: '1.00'
-- date: 6/4/2020
-  course: F6D23203
-  title: Firearms Training  Qualification
-  status: Passed
-  score: '0.0'
-  hours: '1.00'
 - date: 4/22/2020
   course: MMP19922
   title: Patrol Rifle Range
@@ -767,12 +749,6 @@ training_records:
 - date: 9/13/2017
   course: F6A09420
   title: SFST Refresher w/ Wet Lab
-  status: Passed
-  score: '0.0'
-  hours: '6.00'
-- date: 9/13/2017
-  course: F6A09826
-  title: SFST Refresher W/ Wet Lab
   status: Passed
   score: '0.0'
   hours: '6.00'

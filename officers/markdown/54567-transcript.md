@@ -43,6 +43,7 @@
 | 7/22/2024 | MLP1721A | Red Dot Qualification | Instructed | 0.0 | 6.50 |
 | 7/15/2024 | MLP0896A | Red Dot Qualification Course | Instructed | 0.0 | 4.00 |
 | 7/15/2024 | MLP0896A | Red Dot Qualification Course | Passed | 0.0 | 1.00 |
+| 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |
 | 6/3/2024 | MLP3693A | Defensive Tactics | Passed | 0.0 | 2.00 |
 | 5/31/2024 | MLP2750A | OSHA Heat Illness Prevention | Passed | 0.0 | 1.00 |
 | 5/10/2024 | MISCMAIN | 2024 LE Annual Maintenance | Completed | 0.0 | 0.00 |

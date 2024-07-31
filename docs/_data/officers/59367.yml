@@ -36,6 +36,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/26/2024
+  course: HDA0190A
+  title: Basic Narcotics Investigations
+  status: Passed
+  score: '0.0'
+  hours: '40.00'
 - date: 2/27/2024
   course: PDP1697A
   title: 2024-1 All Sworn In-Service PVO Box In Refresh

@@ -40,6 +40,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
+| 7/10/2024 | HDA3019A | ONEA Training Institute - Arrest of Chapo | Passed | 0.0 | 4.00 |
+| 7/10/2024 | HDA3017A | ONEA Training Institute - Human Trafficking | Passed | 0.0 | 4.00 |
+| 7/9/2024 | HDA1491A | ONEA Training Institute - General Session | Passed | 0.0 | 4.00 |
 | 5/29/2024 | HBP1971A | Search/Siezure, WIN, HB 4002 | Instructed | 0.0 | 8.00 |
 | 5/22/2024 | HBP0354A | Search/Siezure, WIN, HB 4002 | Instructed | 0.0 | 8.00 |
 | 5/16/2024 | HBS2263A | 33rd Annual INIA Drug/Terrorist Conf | Passed | 0.0 | 28.00 |

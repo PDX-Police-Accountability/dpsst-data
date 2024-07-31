@@ -76,6 +76,12 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/24/2024
+  course: SVP3272A
+  title: EVO In-Service
+  status: Instructed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/28/2024
   course: SVP2042A
   title: Defensive Driving Principles

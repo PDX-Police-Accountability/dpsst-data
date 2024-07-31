@@ -68,6 +68,18 @@ training_records:
   status: Instructed
   score: '0.0'
   hours: '40.00'
+- date: 5/12/2024
+  course: PDP4222A
+  title: Micro Carry
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
+- date: 5/11/2024
+  course: PDP0904A
+  title: Performance Carry
+  status: Passed
+  score: '0.0'
+  hours: '8.00'
 - date: 4/10/2024
   course: PDP2865A
   title: WSNIA Training Summit

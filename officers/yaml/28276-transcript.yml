@@ -135,6 +135,12 @@ training_records:
   status: Required
   score: '0.0'
   hours: '0.00'
+- date: 7/24/2024
+  course: SVP3272A
+  title: EVO In-Service
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/28/2024
   course: SVP2042A
   title: Defensive Driving Principles

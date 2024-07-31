@@ -41,11 +41,9 @@
 ## Training
 | date | course | title | status | score | hours |
 | ---- | ------ | ----- | ------ | ----- | ----- |
-| 11/17/2024 | XDELETE | Pending for Deletion Due to Duplicate or Other Rea | Passed | 0.0 | 1.00 |
-| 4/19/2024 | MMP1794A | Calibre Press Online Training Videos, Mar-Apr |  | 0.0 | 0.50 |
+| 4/19/2024 | MMP1794A | Calibre Press Online Training Videos, Mar-Apr | Passed | 0.0 | 0.50 |
 | 4/1/2024 | MISCMAIN | 2024 LE Basic 3 Year Maintenance | Completed | 0.0 | 0.00 |
 | 3/28/2024 | OCS1354A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |
-| 3/28/2024 | OCS2437A | Behavioral Threat Assessment | Passed | 0.0 | 4.00 |
 | 3/20/2024 | MMP3485A | Range Training | Passed | 0.0 | 3.00 |
 | 3/15/2024 | VND1728A | Infant  Child Death Investigation | Passed | 0.0 | 8.00 |
 | 3/1/2024 | MMP2598A | Calibre Press Online Training Videos, Jan-Feb | Passed | 0.0 | 2.25 |
@@ -125,7 +123,6 @@
 | 6/10/2020 | MMP14134 | First-Aid / CPR | Passed | 0.0 | 5.00 |
 | 6/4/2020 | MMP32999 | Pressurized People | Passed | 0.0 | 3.00 |
 | 6/4/2020 | F6D43125 | Firearms Training  Qualification | Passed | 0.0 | 1.00 |
-| 6/4/2020 | F6D23203 | Firearms Training  Qualification | Passed | 0.0 | 1.00 |
 | 4/22/2020 | MMP19922 | Patrol Rifle Range | Passed | 0.0 | 4.00 |
 | 3/6/2020 | F6D32246 | Northwest Leadership Seminar 2020 | Passed | 0.0 | 20.00 |
 | 2/27/2020 | MMP02792 | Bloodborne Pathogens Course 2020 | Passed | 0.0 | 1.00 |
@@ -157,7 +154,6 @@
 | 4/10/2018 | F6B38676 | Courageous Leadership for Law Enforcement | Passed | 0.0 | 8.00 |
 | 1/1/2018 | F6B13381 | Legislative Updates for 2018 | Passed | 0.0 | 1.00 |
 | 9/13/2017 | F6A09420 | SFST Refresher w/ Wet Lab | Passed | 0.0 | 6.00 |
-| 9/13/2017 | F6A09826 | SFST Refresher W/ Wet Lab | Passed | 0.0 | 6.00 |
 | 6/28/2017 | F6C36186 | Taser Recertification | Passed | 0.0 | 2.00 |
 | 6/1/2017 | F6C31108 | SB 302  303 Legal Update | Passed | 0.0 | 1.00 |
 | 4/21/2017 | F6A08006 | Stress First Aid | Passed | 0.0 | 6.00 |

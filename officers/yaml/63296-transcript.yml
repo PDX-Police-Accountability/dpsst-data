@@ -563,7 +563,7 @@ training_records:
   title: DID/SFST (Hours included in Basic)
   status: Passed
   score: '0.0'
-  hours: '24.00'
+  hours: '0.00'
 - date: 3/21/2023
   course: PDP43677
   title: 2023 City of Portland Police SharePoint Policy
@@ -593,7 +593,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 12/8/2022
   course: PDP34098
   title: ICS-100 Intro to the Incident Cmmnd System

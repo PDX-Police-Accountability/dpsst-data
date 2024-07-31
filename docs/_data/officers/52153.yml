@@ -38,6 +38,30 @@ certification_records:
   expiration_date: ''
   probation_date: ''
 training_records:
+- date: 7/11/2024
+  course: HDA2590A
+  title: ONEA Training Institute - Cryptocurrency Invest
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/11/2024
+  course: HDA1120A
+  title: ONEA Training Institute - Cryptocurrency Invest
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/10/2024
+  course: HDA3626A
+  title: ONEA Training Institute - Dirty MSB Case Study
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
+- date: 7/9/2024
+  course: HDA1491A
+  title: ONEA Training Institute - General Session
+  status: Passed
+  score: '0.0'
+  hours: '4.00'
 - date: 6/27/2024
   course: MISCMAIN
   title: 2024 LE Basic 3 Year Maintenance

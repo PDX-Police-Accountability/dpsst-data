@@ -539,7 +539,7 @@ training_records:
   title: Intox 8000 (Hours Included in Basic)
   status: Passed
   score: '0.0'
-  hours: '6.00'
+  hours: '0.00'
 - date: 5/11/2023
   course: PDP0627
   title: TEEX WMD/Terrorism Awareness for Emergency

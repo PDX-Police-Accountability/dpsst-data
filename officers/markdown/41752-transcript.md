@@ -54,7 +54,7 @@
 | 12/24/2021 | GPP24739 | Accountability and Ethics (on-line) July-Dec 2021 | Passed | 0.0 | 1.00 |
 | 10/28/2021 | GPP33484 | DT/OC/Baton Training | Instructed | 0.0 | 3.00 |
 | 10/21/2021 | GPP40652 | Inside the Numbers (on-line) July-Dec 2021 | Passed | 0.0 | 1.00 |
-| 10/21/2021 | GPP04712 | Truth of ETHOS (on-line) July-Dec 2021 | Passed | 0.0 | 1.00 |
+| 10/21/2021 | GPP04712 | Truth of Ethos (on-line) July-Dec 2021 | Passed | 0.0 | 1.00 |
 | 10/21/2021 | GPP20634 | Who's Under the Suit July-Dec 2021 | Passed | 0.0 | 1.00 |
 | 10/20/2021 | GPP00652 | Take the Controls On-line July-Dec 2021 | Passed | 0.0 | 1.00 |
 | 10/20/2021 | GPP10984 | Leadership DNA On-line July-Dec 2021 | Passed | 0.0 | 1.00 |

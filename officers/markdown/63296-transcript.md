@@ -120,12 +120,12 @@
 | 4/17/2023 | PDP0224A | 2023 FTEP Orientation | Passed | 0.0 | 7.00 |
 | 4/14/2023 | M10-22A | DPSST Basic Police Course | Passed | 0.0 | 640.00 |
 | 3/26/2023 | PDP14165 | 2023 Microsoft Excel Online Recording | Passed | 0.0 | 1.00 |
-| 3/24/2023 | REG0348A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 24.00 |
+| 3/24/2023 | REG0348A | DID/SFST (Hours included in Basic) | Passed | 0.0 | 0.00 |
 | 3/21/2023 | PDP43677 | 2023 City of Portland Police SharePoint Policy | Passed | 0.0 | 0.50 |
 | 3/21/2023 | PDP23023 | 2023 Microsoft Office Teams Usage Policy | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP29122 | 2023 Microsoft OneDrive Usage Policy | Passed | 0.0 | 0.25 |
 | 3/21/2023 | PDP12472 | 2023 Police SharePoint Governance | Passed | 0.0 | 0.25 |
-| 2/23/2023 | REG09627 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 6.00 |
+| 2/23/2023 | REG09627 | Intox 8000 (Hours Included in Basic) | Passed | 0.0 | 0.00 |
 | 12/8/2022 | PDP34098 | ICS-100 Intro to the Incident Cmmnd System | Passed | 0.0 | 3.00 |
 | 12/8/2022 | PDP16418 | ICS-200 Basic Incident Cmmnd Systm for Intl Resp | Passed | 0.0 | 4.00 |
 | 12/8/2022 | PDP35120 | IS-700 National Incident Management System | Passed | 0.0 | 4.00 |

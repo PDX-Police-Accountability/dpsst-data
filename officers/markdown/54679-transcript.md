@@ -90,7 +90,7 @@
 | 7/6/2022 | MLP40241 | Rifle Qualifications and Training | Passed | 0.0 | 4.00 |
 | 6/29/2022 | MAP35999 | BUILDING SEARCH TACTICS I | Passed | 0.0 | 3.00 |
 | 5/15/2022 | MAP34059 | CONSENT TO SEARCH/ EQUIPMENT VEHICLE STOPS | Passed | 0.0 | 0.50 |
-| 5/4/2022 | MAP31626 | HB 2513 AIRWAY  CIRCULATORY CRISIS | Passed | 0.0 | 2.00 |
+| 5/4/2022 | MAP31626 | HB 2513 Airway  Circulatory Crisis | Passed | 0.0 | 2.00 |
 | 4/27/2022 | MAP43730 | LE Prevention and Deterrence of Terrorist Acts | Passed | 0.0 | 14.00 |
 | 4/20/2022 | MAP04225 | Handgun Shooting While Moving | Passed | 0.0 | 4.00 |
 | 3/16/2022 | BPT34763 | Advanced De-Escalation and Escalation Prevention | Passed | 0.0 | 20.00 |
